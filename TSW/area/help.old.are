@@ -1,0 +1,2797 @@
+#HELPS
+-1 DIKU~
+.                    Original game idea, concept, and design:
+
+          Katja Nyboe               [Superwoman] (katz@freja.diku.dk)
+          Tom Madsen              [Stormbringer] (noop@freja.diku.dk)
+          Hans Henrik Staerfeldt           [God] (bombman@freja.diku.dk)
+          Michael Seifert                 [Papi] (seifert@freja.diku.dk)
+          Sebastian Hammer               [Quinn] (quinn@freja.diku.dk)
+
+
+Developed at: DIKU -- The Department of Computer Science
+                      at the University of Copenhagen.
+
+
+~
+
+-1 WEEKLY~
+{D================={x
+{C Weekly Changes{W:{x
+{D================={x
+{Bo{x Assist added.
+{Bo{x Subguilds added.
+{Bo{x Score updated (subguild info).
+{Bo{x Finger updated.
+{Bo{x Note system updated (subguild info).
+{Bo{x AC fixed for equip types that lored AC but didn't add affect.
+{Bo{x Daze updated.
+{Bo{x New weaves added.
+{Bo{x Intro room updated.
+{Bo{x New weave added.
+{Bo{x MOBs have found out they also can use critical strike.
+{Bo{x Worth updated.
+{Bo{x Score updated (Sguild rank fixed).
+{Bo{x Hidden items fixed (Hidden flag removed if object is taken).
+{Bo{x Feature added to skilled dreamers
+{Bo{x T'A'R updated.
+{Bo{x Say and Sayto updated ('?' = asks, '!' = exclaims).
+{Bo{x Voice added (See 'help pc_voice').
+{Bo{x Weapon/shield updated (possible to break from usage).
+{Bo{x Autoparry, autododge and autoshieldblock default on for new characters.
+{Bo{x Blademaster updated.
+{Bo{x Intro updated (intro room bugfix, new feature see 'help intro').
+{Bo{x Lore updated (all extra flags now visible).
+{Bo{x Echo updated (separate between worlds).
+{bo{x glt and glth put in (GuildLeader Talk and history)
+~
+
+-1 GOLD SILVER MONEY~
+The Wheel of Time's economy is based on gold and silver coinage (and the
+lowly copper, which you as an adventurer are far too proud to carry).  Gold
+coins are worth 100 silver coins, but are also four times as heavy (25 to
+the pound, as opposed to 100 to the pound for silver).  Gems can be bought
+to alleviate weight problems from the jeweller, he charges a mere 10% more
+than they are worth.  10 gems weigh one pound, and they can be worth more
+than 100 gold pieces for the highest quality stones.  
+~
+
+0 BRIEF COMPACT~
+Brief and compact help set your display options for the game.  Typing
+brief toggles on and off the showing of room descriptions when you move
+around (considerably reducing the text to be processed), and typing compact
+removes the extra blank line before your prompt.  
+
+Compact mode will toggle the appearance you see on other character {WIF{x they
+have introduced them self to you.  
+~
+
+-1 DEAF~
+The deaf toggle turns off incoming tells, helpfull if you are being bombarded
+by messages from other players.  You can still use reply (see 'help reply') to
+reply to people who were telling you before you went deaf, although you
+cannot reply to a deaf person unless you or they are a diety (it's mostly 
+useful for sending a quick "I'm being spammed so I went deaf" message to
+a person).
+~
+
+-1 AFK~
+Typing AFK puts your character in a tell-saving mode as follows: any tell
+to you is stored in a special buffer, and can be seen later by typing
+recall.  This is useful when you need to leave the mud for 5 or 10 minutes,
+but don't want to miss tells.  AFK shows up in your prompt until it is
+turned off.
+
+Tells to link-dead players are stored in a similar fashion, and can also be
+seen by typing replay (unless, of course, the character logs off before
+reading them).
+~
+
+-1 PROMPT~
+Syntax: prompt
+Syntax: prompt all
+Syntax: prompt <%*>
+ 
+PROMPT with out an argument will turn your prompt on or off.
+ 
+PROMPT ALL will give you the standard "[hp/max_hp end/max_end]" prompt.
+ 
+PROMPT <%*> where the %* are the various variables you may set yourself.
+ 
+        %h :  Display your current hits
+        %H :  Display your maximum hits
+        %m :  Display your current endurance
+        %M :  Display your maximum endurance
+        %x :  Display your current experience
+{         %p :  Display your current OP
+{         %P :  Display your maximum OP
+	%X :  Display experience to level
+        %g :  Display your gold held
+	%s :  Display silver carried
+        %a :  Display your alignment
+        %r :  Display the room name you are in
+	%e :  Display the exits from the room in NESWDU style
+	%c :  Display a carriage return (useful for multi-line prompts)
+        %R :  Display the vnum you are in (IMMORTAL ONLY)
+        %z :  Display the area name you are in (IMMORTAL ONLY)
+ 
+Example:  PROMPT <%hhp %mend>
+
+Will set your prompt to "<10hp 100end>"
+ 
+~
+
+-1 SUMMARY~
+{WMOVEMENT                            GROUP{x
+north south east west up down       follow group gtell split
+exits recall
+sleep wake rest stand
+
+{WOBJECTS                             INFORMATION / COMMUNICATION{x
+get put drop give sacrifice         help credits commands areas
+wear wield hold                     report score time weather where who
+quaff                               description password title
+lock unlock open close pick         bug idea typo
+inventory equipment look compare    gossip cgossip say shout tell yell
+eat drink fill                      emote pose
+list buy sell value                 note
+
+{WCOMBAT                              OTHER{x
+kill flee kick rescue disarm        ! save quit
+backstab cast wimpy                 practice train
+
+
+For more help, type 'help <topic>' for any command, skill, or spell.
+Also help on: DAMAGE DEATH EXPERIENCE NEWS STORY TICK WIZLIST
+~
+
+0 DEATH~
+DEATH When your character takes enough damage that you can no longer
+fight, you are not killed outright, only subdued.  This means you can no
+longer interact with anyone until such time as you either recieve proper
+healing, or you heal on your won by means of rest.  Subdual has various
+negative affects on experience etc, but it is still much better than dying. 
+It is however possible for your character to be killed outright, in this
+case you lose all RP you have up to this point.  In essence you are not the
+same character, You must begin all guild affiliations anew, and make all
+friends once again.  
+~
+
+0 EXPERIENCE LEVEL XP EXP~
+Your character advances in power by gaining experience.  You need a set 
+amount of experience points for each level based on your creation points.
+
+You gain experience by:
+
+    being part of a group that kills a monster
+
+You lose experience by:
+
+    fleeing from combat
+    recalling out of combat
+    being the target of certain spells
+    dying
+
+The experience you get from a kill depends on several things: how many players
+are in your group; your level versus the level of the monster; your alignment
+versus the monster's alignment; how many of this monster have been killed
+lately; and some random variation.
+~
+
+0 PET PETS~
+You can buy pets in the pet shop.  You may own only one pet at a time, after 
+the old one dies you may purchase a replacement.
+~
+
+0 TICK~
+Many of the game actions are based upon interval timers, including
+combat, most autonomous monster actions, hp/end regeneration, spell
+duration, weather, and area resetting.  
+
+Of these timers, the hp/end regeneration timer is popularly called the
+'tick'.  Ticks on this mud average 30 seconds of real time, but the actual
+amount varies randomly from 15 seconds to 45 seconds.  
+
+Area resetting happens roughly every 3 minutes if no one is in the area;
+less often (15 minutes) if some one is.  Also note that objects lying on the
+ground will not be regenerated if anyone is in the area when it resets.  
+~
+
+0 !~
+Syntax: !
+
+! repeats the last command you typed.
+~
+
+0 NORTH SOUTH EAST WEST UP DOWN~
+Syntax: north
+Syntax: south
+Syntax: east
+Syntax: west
+Syntax: up
+Syntax: down
+
+Use these commands to walk in a particular direction.
+~
+
+0 CAST~
+Syntax: cast <weave> [target]
+
+Before you can cast a weave, you have to practice it.  The more you practice,
+the higher chance you have of success when casting.  Casting weaves costs endurance.
+The endurance cost decreases as your level increases.
+
+The <target> is optional.  Many weaves which need targets will use an
+appropriate default target, especially during combat.
+
+If the weave name is more than one word, then you must quote the weave name.
+{DExample{x: {Wcast 'cure critic' frag{x.  Quoting is optional for single-word weaves.
+You can abbreviate the weave name.
+
+When you cast an offensive weave, the victim usually gets a saving throw.
+The effect of the spell is reduced or eliminated if the victim makes the
+saving throw successfully.
+
+See also the help sections for individual weaves.
+~
+
+0 EXITS~
+Syntax: exits
+
+Tells you the visible exits of the room you are in.  Not all exits are visible.
+You can use the 'bump' technique to find hidden exits.  (Try to walk in a
+certain direction and see what you bump into).
+~
+
+0 DROP GET GIVE PUT TAKE~
+Syntax: drop <object>
+Syntax: drop <amount> coins
+Syntax: get  <object>
+Syntax: get  <object> <container>
+Syntax: give <object> <character>
+Syntax: give <amount> coins <character>
+Syntax: put  <object> <container>
+
+DROP drops an object, or some coins, on the ground.
+
+GET gets an object, either lying on the ground, or from a container, or even
+from a corpse.  TAKE is a synonym for get.
+
+GIVE gives an object, or some coins, to another character.
+
+PUT puts an object into a container.
+
+DROP, GET and PUT understand the object names 'ALL' for all objects and
+'ALL.object' for all objects with the same name.
+~
+
+0 EQUIPMENT INVENTORY~
+Syntax: equipment
+Syntax: inventory
+
+EQUIPMENT lists your equipment (armor, weapons, and held items).
+INVENTORY lists your inventory.
+~
+
+0 COMPARE~
+Syntax: compare <object-1> <object-2>
+Syntax: compare <object>
+ 
+COMPARE compares two objects in your inventory.  If both objects are weapons,
+it will report the one with the better average damage.  If both objects are
+armor, it will report the one with the better armor class.
+ 
+COMPARE with one argument compares an object in your inventory to the object
+you are currently wearing or wielding of the same type.
+ 
+COMPARE doesn't consider any special modifiers of the objects.
+~
+
+0 FLEE~
+Syntax: flee
+Syntax: rescue   <character>
+
+Once you start a fight, you can't just walk away from it.  If the fight
+is not going well, you can attempt to FLEE, or another character can
+RESCUE you.  (You can also RECALL, but this is less likely to work,
+and costs more experience points, then fleeing).
+
+If you lose your link during a fight, then your character will keep
+fighting, and will attempt to RECALL from time to time.  Your chances
+of making the recall are reduced, and you will lose much more experience.
+~
+
+0 EXAMINE LOOK~
+Syntax: look
+Syntax: look    <object>
+Syntax: look    <character>
+Syntax: look    <direction>
+Syntax: look    <keyword>
+Syntax: look in <container>
+Syntax: look in <corpse>
+Syntax: examine <container>
+Syntax: examine <corpse>
+
+LOOK looks at something and sees what you can see.
+
+EXAMINE is short for 'LOOK container' followed by 'LOOK IN container'.
+~
+
+0 ORDER~
+Syntax: order <character> command
+Syntax: order all command
+
+ORDER orders one or all of your charmed followers (including pets) to
+perform any command.  The command may have arguments.  You are responsible
+for the actions of your followers, and others who attack your followers
+will incur the same penalty as if they attacked you directly.
+
+Most charmed creatures lose their aggresive nature (while charmed).
+
+If your charmed creature engages in combat, that will break the charm.
+~
+
+0 REST STAND WAKE SLEEP~
+Syntax: rest
+Syntax: sleep
+Syntax: stand
+Syntax: wake
+
+These commands change your position.  When you REST or SLEEP, you 
+regenerate hit points, mana points, and movement points faster.
+However, you are more vulnerable to attack, and if you SLEEP,
+you won't hear many things happen.
+
+Use STAND or WAKE to come back to a standing position.  You can
+also WAKE other sleeping characters.
+~
+
+0 GTELL ; REPLY SAY TELL~
+Syntax: gtell <message>
+Syntax: say   <message>
+Syntax: tell  <character> <message>
+
+All of these commands send messages to other players.  GTELL sends a message to
+all of the characters in your group, wherever they are, even if they are
+sleeping or stunned or dying.  ';' is a synonym for GTELL.
+
+SAY sends a message to all awake players in your room.  The single quote '''
+is a synonym for SAY.
+
+TELL sends a message to one awake player anywhere in the world.
+
+REPLY sends a message to the last player who sent you a TELL.  REPLY will work
+even if you can't see the player, and without revealing their identity.  This
+is handy for talking to invisible or switched immortal players.
+~
+
+-1 CHANGES CHANGE~
+We have stopped keeping track of all the changes spawn over a few years of
+coding. The most resent will be listed in 'help weekly'.
+~
+
+0 GOSSIP CGOSSIP SHOUT YELL~
+Syntax: gossip  <message>
+Syntax: cgossip <message>
+Syntax: shout   <message>
+Syntax: yell    <message>
+
+SHOUT sends a message to all awake players in the world.  To curb excessive
+shouting, SHOUT imposes a three-second delay on the shouter.
+
+GOSSIP and CGOSSIP are variants of SHOUT (without the delay).  '.' is a 
+synonym for GOSSIP.
+
+YELL sends a message to all awake players within your area.
+
+Type a channel name by itself to turn it off.
+~
+
+0 EMOTE PMOTE POSE SOCIAL~
+Syntax: emote <action>
+Syntax: pose
+
+EMOTE is used to express emotions or actions.  Besides EMOTE, there are
+several dozen built-in social commands, such as CACKLE, HUG, and THANK
+(type socials or help socials for a listing).
+
+PMOTE is similar to emote, but will substitute you and your for a target's
+name (i.e. pmote bonks Alander will be read as bonks you by Alander, and
+as bonks Alander by everyone else).
+
+POSE produces a random message depending on your class and level.
+~
+
+52 SMOTE~
+Syntax: smote <action>
+
+Smote works exactly like pmote, except you must place your name somewhere in
+the string, and it will show that string to everyone in the room.
+~
+
+0 HOLD REMOVE WEAR WIELD~
+Syntax: hold <object> Syntax: remove <object> Syntax: wear <object>
+Syntax: wear all Syntax: wield <object>
+
+Three of these commands will take an object from your inventory and start
+using it as equipment.  HOLD is for light sources.  And WEAR is for armor. 
+WIELD is for weapons.  
+
+WEAR ALL will attempt to HOLD, WEAR, or WIELD each suitable item in your
+inventory.  
+
+You may not be able to HOLD, WEAR, or WIELD an item if it is too heavy for
+you, or if you are not experienced enough to use it properly.  
+
+REMOVE will take any object from your equipment and put it back into your
+inventory.  
+~
+
+0 BUG TYPO~
+Syntax: bug <message>
+Syntax: typo <message>
+
+These commands will take your message and record it into a file as feedback
+to the mud implementors.
+~
+
+0 CREDITS~
+Syntax: credits
+
+This command shows the list of the original Diku Mud implementors.
+~
+
+0 AREAS COMMANDS SCORE TIME~
+Syntax: areas
+Syntax: commands
+Syntax: score
+Syntax: time
+Syntax: weather
+
+AREAS shows you a list of areas in the game.
+
+COMMANDS shows you all the commands in the game.
+
+SCORE shows much more detailed statistics to you only. Your ability scores
+are shown as true value(current value), so for example Str: 15(23) means
+you have a 15 strength from training, but a 23 strength from other factors
+(spells or items).
+
+TIME shows the game time, as well as the time the mud was last started,
+and the current local time for the host computer.
+
+WEATHER shows the current game weather.
+~
+
+-1 WHO~
+Syntax: who
+Syntax: who i
+Syntax: who n
+Syntax: who l
+ 
+WHO shows the people currently in the game that you can see.
+ 
+WHO I shows immortals that are currently in the game that you can see.
+
+WHO N shows all newbies currently in the game that you can see.
+
+WHO L shows normal who but with long format for Mortals (IMM only).
+
+Flags in front of Character names:
+ 
+'A' means the Character have toggled the AFK (Away From Keyboard) command.
+'C' means the Character have toggled the Chat Channel OFF.
+'D' means the Character have entered the dream world.
+'E' means the Character is using an Editor.
+'F' means the Character is Fighting.
+'G' means the Character have toggled the Game Channel OFF.
+'H' means the Character is a Newbie Helper.
+'L' means the Character have gone Link Dead.
+'I' means the Character have gone Idle
+'N' means the Character have started to write a NOTE.
+'Q' means the Character have toggled the Quiet command.
+'S' means the Character is on a search Quest.
+'U' means the Character have not been validated by TSW yet.
+'W' means the Character have toggled the Wizi command (IMM only).
+ 
+The counters at the end of the who list show the amount of players found
+visible to you of the total amount of players online.
+ 
+Best count provide the highest amount of players online -this- startup.
+~
+
+-1 WHOIS~
+Syntax: whois <name>
+
+The whois command identifies any user who matches the name given. For
+example, 'whois a' shows all characters whose name begins with A.
+~
+
+0 WHERE~
+Syntax: where
+Syntax: where <character>
+
+WHERE without an argument tells you the location of visible players in the same
+area as you are.
+
+WHERE with an argument tells you the location of one character with that name
+within your area, including monsters.
+~
+
+0 HELP~
+Syntax: help
+Syntax: help <keyword>
+
+HELP without any arguments shows a one-page command summary.
+
+HELP <keyword> shows a page of help on that keyword.  The keywords include
+all the commands, spells, and skills listed in the game.
+~
+
+0 DESCRIPTION DESC~
+Syntax: description write
+Syntax: description <string>
+Syntax: description + <string>
+Syntax: description - 
+
+Sets your long description to the given string.  If the description string
+starts with a '+', the part after the '+' is appended to your current
+description, so that you can make multi-line descriptions. You can delete
+lines by uses description -.
+ 
+'description write' will start the online editor with your current
+description.
+~
+
+0 PASSWORD~
+Syntax: password <old-password> <new-password>
+
+PASSWORD changes your character's password.  The first argument must be
+your old password.  The second argument is your new password.
+
+The PASSWORD command is protected against being snooped or logged.
+~
+
+0 TITLE~
+Syntax: title <string>
+
+Title set your who title to a given string.
+ 
+New players automatic get a title assigned after validation. Players
+can freely choose any title as long as it's within a decent 'language'.
+ 
+(See also: ICTITLE)
+~
+
+0 WIMPY~
+Syntax: wimpy
+Syntax: wimpy <number>
+
+WIMPY sets your wimpy value.  When your character takes damage that reduces
+your hit points below your wimpy value, you will automatically attempt to flee.
+You will only flee if your character is not in a wait state -- i.e. has not
+been using combat commands like cast, trip and bash, and has not been
+tripped or bash by an enemy.
+
+WIMPY with no argument sets your wimpy value to 20% of your maximum hit points.
+
+Some monsters are wimpy.
+~
+
+0 OPEN CLOSE LOCK UNLOCK PICK~
+Syntax: open   <object|direction>
+Syntax: close  <object|direction>
+Syntax: lock   <object|direction>
+Syntax: unlock <object|direction>
+Syntax: pick   <object|direction>
+
+OPEN and CLOSE open and close an object or a door.
+
+LOCK and UNLOCK lock and unlock a closed object or door.  You must have
+the requisite key to LOCK or UNLOCK.
+
+PICK can open a lock without having the key.  In order to PICK successfully,
+you must practice the appropriate skill.
+~
+
+0 DRINK EAT FILL POUR~
+Syntax: drink <object>
+Syntax: eat   <object>
+Syntax: fill  <object>
+Syntax: pour  <object> out
+Syntax: pour  <object> <object>
+Syntax: pour  <object> <character>
+
+When you are thirsty, DRINK something.
+
+When you are hungry, EAT something.
+
+FILL fills a drink container with water.
+
+POUR transfers a liquid to a container, or empties one.
+You can also pour from an object into something a character is holding.
+~
+
+0 BUY LIST SELL VALUE~
+Syntax: buy   <object>
+Syntax: list
+Syntax: sell  <object>
+Syntax: value <object>
+
+BUY buys an object from a shop keeper.
+When multiple items of the same name are listed, type 'buy n.item', where n
+is the position of the item in a list of that name.  So if there are two
+swords, buy 2.sword will buy the second. If you want to buy multiples of
+an item, use an * (buy 5*pie will buy 5 pies).  These can be combined into
+(for example) buy 2*2.shield, as long as the * is first.  
+
+LIST lists the objects the shop keeper will sell you.
+List <name> shows you only objects of that name.
+
+SELL sells an object to a shop keeper.
+
+VALUE asks the shop keeper how much he, she, or it will buy the item for.
+~
+
+0 SACRIFICE~
+Syntax: sacrifice <object>
+
+SACRIFICE offers an object to Mota, who may reward you.  The nature of the
+reward depends upon the type of object.  
+~
+
+0 SCROLL~
+Syntax: scroll
+Syntax: scroll <number>
+
+This command changes the number of lines the mud sends you in a page (the 
+default is 24 lines).  Change this to a higher number for larger screen
+sizes, or to 0 to disabling paging.
+~
+
+0 QUAFF~
+Syntax: quaff <potion>
+ 
+QUAFF quaffs a herbal potion (as opposed to DRINK, which drinks mundane liquids).
+ 
+This command uses up the object. When a herbal potion is depleted, it will be consumed.
+~
+
+0 CONSIDER~
+Syntax: consider <character>
+
+CONSIDER tells you what your chances are of killing a character.
+Of course, it's only a rough estimate.
+~
+
+0 FOLLOW GROUP~
+Syntax: follow <character>
+Syntax: group
+Syntax: group <character>
+
+FOLLOW starts you following another character.  To stop following anyone else,
+just FOLLOW <yourself>.
+
+GROUP <character> makes someone who is following you a member of your group.
+Group members share experience points from kills and may use the GTELL and
+SPLIT commands.  If anyone in your group is attacked, you will automatically
+join the fight.
+
+If the <character> is already a member of your group, then GROUP will
+kick out the <character> from your group.  Characters can also leave your
+group by using a FOLLOW command to stop following you.
+
+GROUP with no argument shows statistics for each character in your group.
+
+You may FOLLOW and GROUP only with characters who are within five levels of
+your own.
+~
+
+0 VISIBLE~
+VISIBLE cancels your hiding and sneaking, as well as any invisibility,
+making you visible again.
+~
+
+0 QUIT RENT SAVE~
+Syntax: QUIT
+Syntax: RENT ... not!
+Syntax: SAVE
+
+SAVE saves your character and object.  The game saves your character every
+15 minutes regardless, and is the preferred method of saving.  Typing save
+will block all other command for about 20 seconds, so use it sparingly.
+(90+ players all typing save every 30 seconds just generated too much lag)
+
+Some objects, such as keys and potions, may not be saved.
+
+QUIT leaves the game.  You may QUIT anywhere.  When you re-enter the game 
+you will be back in the same room.
+
+QUIT automatically does a SAVE, so you can safely leave the game with just one
+command.  Nevertheless it's a good idea to SAVE before QUIT.  If you get into
+the habit of using QUIT without SAVE, and then you play some other mud that
+doesn't save before quitting, you're going to regret it.
+
+There is no RENT in this mud.  Just SAVE and QUIT whenever you want to leave.
+~
+
+0 RECALL /~
+Syntax: RECALL
+
+RECALL prays to Creator for miraculous transportation from where you are
+back to your recall room. '/' is a synonym for RECALL.
+
+If you RECALL during combat, you will lose experience (more than for fleeing),
+and you will have a chance of failing (again, more than for fleeing).  This
+chance is based on your recall skill, although a 100% recall does not 
+insure success.
+
+RECALL costs endurance points.
+
+RECALL doesn't work in certain god-forsaken rooms.  Characters afflicted by a
+curse may not recall at all.
+~
+
+-1 SPLIT~
+Syntax: SPLIT <silver> <gold>
+
+SPLIT splits some coins  between you and all the members of your
+group who are in the same room as you.  It's customary to SPLIT
+the loot after a kill.  The first argument is the amount of silver
+the split (0 is acceptable), and the second gold (optional).
+Examples:
+split 30 	--> split 30 silver
+split 20 50	--> split 20 silver, 50 gold
+split  0 10	--> split 10 gold
+~
+
+0 STEAL~
+Syntax: STEAL coins <character>
+Syntax: STEAL <object> <character>
+
+STEAL attempts to steal coins, or an object, from a character.
+
+There are penalties for using STEAL on other players.
+
+In order to STEAL successfully, you must practice the appropriate skill.
+~
+
+0 PRACTICE~
+Syntax: PRACTICE
+Syntax: PRACTICE <skill|spell>
+
+PRACTICE without an argument tells you your current ability level in all
+the skills and spells available to you.  You can check this anywhere.
+
+PRACTICE with an argument practice that skill or spell.  Your learning
+percentage varies from 0% (unlearned) to a some maximum between 80% and 100%,
+depending on your class.  You must be at a guild master to practice.
+
+The higher your intelligence, the more you will learn at each practice
+session.  The higher your wisdom, the more practice sessions you will
+have each time you gain a level.  Unused sessions are saved until you
+do use them.
+~
+
+0 TRAIN TRAINING GAIN GAINING~
+Syntax: gain list
+Syntax: gain <skill/weave>
+Syntax: train
+Syntax: train list
+Syntax: train [amount] <skill/weave>
+Syntax: train [amount] hp
+Syntax: train [amount] endurance
+
+The '{Wgain{x' and '{Wtrain{x' command is used to learn and develop certain skills
+or weaves that you have the ability to adapt.  
+
+The '{Wgain list{x' command will alow you to see what skills or weaves a gainer
+mobile can teach you.
+ 
+The '{Wtrain list{x' command will alow you to see that skills or weaves a trainer
+mobile can train you in.
+
+There is also the ability to gain knowledge in a skill or weave from other players.
+Refer to the '{Whelp teach{x' section for help on how to teach.
+~
+
+60 ADVANCE~
+Syntax: advance <character> <level>
+
+ADVANCE sets a character's level to the specified value.  It is the
+only way to create new immortal characters within the game.  ADVANCE
+may also be used to demote characters.
+~
+
+60 TRUST 'TRUSTED MORTALS'~
+Syntax: trust <character> <level>
+
+TRUST sets a character's trust to the specified level.  This is similar to
+advancing the character for accessing immortal commands, but has no effect
+on combat strength, et cetera.  You can give more trust to mortal (or
+immortal) characters to give them access to more power without messing up
+the character.  You can also restrict a player's trust to less than their
+natural level.
+
+A trust of 0 means to use the character's natural level again.
+~
+
+58 ALLOW BAN PERMBAN~
+Syntax: allow   <site>
+	ban     <site> <newbies|all|permit>
+	ban
+
+BAN <site> prohibits players from that site from logging in.  BAN with
+no arguments lists the banned sites.  ALLOW <site> removes a site from
+the ban list, if the remover is of equal or higher level than the banner.
+
+A site may have all players, new players, or non-permitted players (set
+by editing the player file) banned, by changing the argument after the site.
+*s may be used to ban either by suffix (*.edu), prefix (labmac*), or 
+content (*andrews*), but be careful not to accidently lock out too many
+sites with a wildcard.  Bans do not save unless the permban command is used.
+~
+
+59 REBOOT SHUTDOWN~
+Syntax: reboot
+	shutdown
+
+Reboot shuts down the server.  When the normal 'startup' script is used
+to control the server, a delay of fifteen seconds will ensue (to allow
+old connections to die), followed by a reboot.
+
+Shutdown shuts down the server and prevents the normal 'startup' script
+from restarting it.
+~
+
+56 WIZLOCK NEWLOCK~
+Syntax: wizlock
+	newlock
+
+Wizlock and newlock both block login attempts to ROM. Wizlock locks
+out all non-gods (i.e. level less than 51), except for link-dead players who
+are returning.  Newlock only locks out new character generation, typically
+used for preventing a spammer from returning.  Wizlocking should be avoided,
+and newlocking should be accompanied by mail or a note to the imps.
+
+A god must be at least Supreme level to wizlock the game.
+~
+
+59 DENY~
+Syntax: deny <name>
+
+Deny locks a character out of a game permanently, rendering their character
+name unusable.  It may only be removed by editing the file, for this reason
+freeze is usually preferred.
+~
+
+57 DISCONNECT~
+Syntax: disconnect <name>
+
+Disconnect breaks a player's link to the game, dumping them back to the telnet
+prompt.  This is a non-lethal way of getting rid of spammers and annoying
+players.
+~
+
+57 FREEZE~
+Syntax: freeze <name>
+
+FREEZE <character> is a toggle which prevents a character from issuing any
+commands at all. It can be removed from within the game, so freezing a 
+troublemaker is usually a better option than they deny command.
+~
+
+53 FORCE~
+Syntax: force <character> <command>
+Syntax: force all <command>
+
+FORCE forces one character to execute a command, except of course delete.
+
+Below level 57 (Deity) force can only be used on mobiles, and force all is
+unavailable.  You also cannot 'force orc murder hugo', for example. 
+
+FORCE 'all' forces all player characters to execute a command.
+This is typically used for 'force all save'.
+~
+
+56 SOCKETS~
+Syntax: sockets
+	sockets <name> 
+
+SOCKETS reports all of the visible users connected to the server, including 
+users in the process of logging in.  The two numbers inside brackets are the 
+channel number and the 'connected' state.  The 'connected' states are listed in 
+merc.h: 0 is CON_PLAYING; non-zero values are various states of logging in.
+
+The optional name argument shows the site of a player, or optional can be used
+to identify switched gods (i.e. socket orc shows the name of anyone switched
+into an orc).
+~
+
+56 LOAD~
+Syntax: load mob <vnum>
+	load obj <vnum> <level>
+
+The load command is used to load new objects or mobiles (use clone to 
+duplicate strung items and mobs).  The vnums can be found with the vnum
+command, or by stat'ing an existing mob or object.
+
+Load puts objects in inventory if they can be carried, otherwise they are
+put in the room.  Mobiles are always put into the same room as the god. Old
+format objects must be given a level argument to determine their power, new
+format objects have a preset level that cannot be changed without set.
+(see also clone, vnum, stat)
+~
+
+58 SET~
+Syntax: set mob   <mobile> <field> <value>
+	set obj   <object> <field> <value>
+	set room  <number> <field> <value>
+	set skill <char>   <name>  <rating>
+	set skill <char>   all     <rating>
+
+The set command is used to change the numerical values of the various data
+structures. Type set <class> without an argument to see a listing of options.
+Set skill all (pc's only) will set all the character's skills to the value
+given.  Use string to change the strings on an object or mobile.
+(see also string, stat)
+~
+
+55 STRING~
+Syntax: string obj <field> <string>
+	string mob <field> <string>
+
+The string command changes the various strings associated with an object or
+mobile.  A full list of fields can be viewed by typing string obj or string
+mob.  Sorry, multi-line strings are not yet supported.
+~
+
+55 NOCHANNEL NOEMOTE NOSHOUT NOTELL~
+Syntax: nochannel <character>
+	noemote   <character>
+	noshout   <character>
+	notell    <character>
+
+Noemote, noshout, and notell are used to muffle other characters, by
+preventing them from emoting, shouting, and telling, respectively.
+Characters who are noshout'ed or no'telled will also not receive those
+forms of communication.
+
+The nochannel command is similar, but more drastic. It prevents the victim
+from using any of the channels (gossip, cgossip, Q/A, music) on the game.
+Nochannels usually result from swearing or spamming on public channels.
+~
+
+57 PARDON~
+Syntax: pardon <character> killer
+	pardon <character> thief
+
+Pardon pardons a player for their crimes.  Don't pardon a player unless you
+are sure they deserve it.  Being killed by Hassan acts as an automatic
+pardon.
+~
+
+56 PURGE~
+Syntax: purge
+	purge <character>
+
+Purge is used to clean up the world.  Purge with no arguments removes all the
+NPC's and objects in the current room.  Purge with an argument purges one
+character from anywhere in the world.
+
+Purge will not get rid of PC's, or objects or mobiles with a NOPURGE flag
+set (i.e. the pit, the fountain, shopkeepers, Hassan).  Mobiles may be
+purged if they are called directly by name.
+~
+
+90 RESTORE~
+Syntax: restore <character>
+	restore room
+	restore all
+
+Restore restores full hit points, mana points, and movement points to the
+target character.  It also heals poison, plague, and blindness.
+
+Restore room (or restore with no argument) performs a restore on every player
+in the room, restore all does the same for all connected players. Restore all
+is only usable by creators and implementors.  Restore should be used sparingly
+or not at all.
+~
+
+57 SLAY~
+Syntax: slay <character>
+
+Slay kills a character in cold blood, no saving throw.  Best not to use this
+command on players if you enjoy being a god.
+~
+
+55 TRANSFER TELEPORT~
+Syntax: transfer <character>
+	transfer all
+	transfer <character> <location>
+	transfer all         <location>
+
+Transfer transfers the target character, or ALL player characters,
+to your current location (default) or to a specified location. Trans all 
+should almost never be used, as 100 players popping into one room can have
+horrible effects on slow links. Teleport is a synonym for transfer. 
+~
+
+54 AT~
+Syntax: at <location> <command>
+
+At executes the given command (which may have arguments) at the given
+location.  The location may be specified as a vnum, as the name of
+a mobile, or as the name of an object.
+
+At works by temporarily moving you to that location, executing the
+command, and then moving you back (if the command didn't change your
+location).
+~
+
+54 ECHO GECHO PECHO~
+Syntax: echo  <message>
+	gecho <message>
+	pecho <character> <message>
+
+These commands all perform similar functions.  Echo sends the message to
+all characters in the same room as the user, with no indication of who sent
+it.  Gecho does the same for all players connected to the game, and pecho
+sends the message to the player specified as the target.  Any higher-level
+god will see a prompt in front of your message, informing him or her that it
+is an echo.
+~
+
+52 GOTO~
+Syntax: goto <location>
+
+Goto takes you to a location.  The location may be specified as a vnum,
+as the name of a mobile, or as the name of an object.
+
+You may not Goto a room if it is PRIVATE and has two (or more) characters
+already present, or if it is SOLITARY and has one (or more) characters
+already present. Some other rooms are barred to players below a certain
+god level.
+
+Implementors can use the violate command to get into private rooms.
+~
+
+52 HOLYLIGHT WIZINVIS~
+Syntax: holylight
+	wiznvis <level>
+
+Holylight is a toggle that allows you to see (almost) every character and
+mobile in the game.  With holy light, you can see what's in the game more
+easily.  Without holy light, you can see what mortal players see.
+
+Wizinvis takes a level argument, and will mke you invisible to all players of
+a lower level than your invisibility level.  It defaults to the maximum
+(your level) if no argument is given.  Wizi 60 characters are totally 
+invisible.
+~
+
+52 INCOGNITO~
+Toggling your incognito status will hide your presence from people outside the
+room you are in, but leave you visible to those who are with you.  It takes
+a level argument similar to wizinvis, people at that level or higher can see
+you regarless of location.
+~
+
+52 MEMORY~
+Syntax: memory
+
+Memory reports the size of your mud.
+
+The 'Mobs' and 'Objs' lines report the number of types of mobiles and objects,
+not the number of instances currently in the game.
+
+The 'Strings' line shows memory used by area-file strings.  These strings have
+a maximum limit, which is also shown.
+
+The 'Perms' line shows permanently allocated memory blocks.  There is no limit
+on the number and size of these blocks.
+~
+
+56 VNUM~
+Syntax: vnum <name>
+	vnum <obj or mob> <name>
+	vnum skill <name>
+
+Vnum finds all objects and mobiles with a particular name, and prints out
+the results.  Use vnum obj or vnum mob to limit the search.  This vnum is
+very useful for loading. Vnum skill returns the skill number (for set) and
+the slot number (for making new zones) of a skill name.
+(see also load)
+~
+
+53 STAT~
+Syntax: stat <name>
+	stat mob  <name>
+	stat obj  <name>
+	stat room <number>
+
+The stat command gives you detailed information on an object, mobile, or room
+within the game.  Without a class argument, the command will return a object
+(if found), a mobile (if no object exists, but a mobile does), or a room 
+(if a number is  given).  Stat room with no argument stats the room you are
+standing in.  Stat can be used to find room vnums for goto.
+(see also goto, transfer)
+~
+
+53 MWHERE~
+Syntax: mwhere <name>
+
+Mwhere shows you the locations of all mobiles with a particular name.
+~
+
+55 PEACE~
+Syntax: peace
+
+Peace causes all characters in a room to stop fighting. It also strips the
+AGGRESSIVE bit from mobiles.
+~
+
+52 POOFIN POOFOUT~
+Syntax: poofin  <message>
+Syntax: pooffout <message>
+
+The standard messages for goto are 'arrives in a swirling mist' and
+'leaves in a swirling mist'.  You can replace these messages with messages of
+your own choosing using the poofin and poofout commands.  These messages
+must include your name somewhere in the string.
+
+Poofin and poofout only show to characters who can see you.
+(see also goto)
+~
+
+59 PROTECT~
+Syntax: protect <character>
+
+Protect is used to protect a character from unwanted snooping.  Removing 
+protected status from a character WILL be seen by that character.
+~
+
+55 LOG SNOOP~
+Syntax: log   <character>
+	log   all
+	snoop <character>
+
+Log <character> causes all of a character's commands to be logged into
+the server's log file.  Like Freeze, it is a permanent character toggle.
+Logs may only be used by creators and implementors, and should be accompanied
+by mail to the implementors.
+
+Certain commands (Password) are protected against log.  Conversely, certain
+commands (especially immortal commands) are always logged.
+
+Log all logs all character commands.  It is a server-wide toggle; it does not
+persist across reboots. Please do not use this unless you tell the imps.
+
+Snoop shows you a copy of all the input and output going to a character.
+The character must have an open channel.  You may snoop more than one
+character at a time. Try to respect privacy.
+
+Snoop yourself to cancel all outstanding snoops.
+~
+
+54 SWITCH RETURN~
+Syntax: switch <character>
+	return
+
+Switch switches you into the body of another character (who must not
+already have a descriptor, e.g. you can't switch into a PC). You also cannot
+switch into link-dead PCs.
+
+Return returns you to your original body.
+~
+
+51 IMMTALK :~
+Syntax: immtalk <message>
+	immtalk
+
+Immtalk sends a message to all immortals.  : is a synonym for immtalk.
+Using this command with no argument turns off the immortal channel (or
+turns it back on).
+~
+
+52 WIZNET~
+Syntax: wiznet 
+	wiznet show
+	wiznet status
+	wiznet <field>
+
+Wiznet is sort of an immortal news service, to show important events to
+the wiznetted immoral.  Wiznet by itself turns wiznet on and off, 
+wiznet show lists all settable flags (they are not detailed here), 
+wiznet status shows your current wiznet settings, and wiznet <field> toggles
+a field on and off.  The events should be self-explanatory, if they are not,
+fiddle with them a while.  More events are available at higher levels.
+~
+
+90 WIZHELP~
+Syntax: wizhelp
+
+Wizhelp provides a list of all the immortal commands.
+~
+
+0 BLINDNESS~
+Level: 15
+
+Syntax: cast blindness <victim>
+
+A weaving of {yEarth{x and {BWater{x which renders the victim blind for a period of
+time.  
+~
+
+0 'CALL LIGHTNING'~
+Syntax: cast 'call lightning'
+
+A weave of {WAir{w, {RFire{w, and {YSpirit{w which calls down lightning bolts from the
+sky.  This weaving works only out of doors, and only when the weather is
+bad.  
+~
+
+0 HARM~
+Syntax: cast harm <victim>
+
+This weave uses flows of {YSpirit{w to inflict damage on the victim.  
+~
+
+53 'CHANGE SEX'~
+Syntax: cast 'change sex' <victim>
+
+This spell changes the sex of the victim (temporarily).
+~
+
+0 'CHARM PERSON'~
+Syntax: cast 'charm person' <victim>
+
+This weaving of {YSpirit{w, if successful, causes the victim to follow you and
+to take orders from you.  Use ORDER to order your charmed followers.  
+
+You are responsible for the actions of your followers.  Conversely, other
+people who attack your followers will be penalized as if they attacked you. 
+~
+
+0 FLAME 'CREATE FLAME'~
+Level: 1
+
+Syntax: cast 'create flame'
+
+This weave of {WAir{x and {RFire{x creates a ball of light, which you can hold as a
+light source.  
+~
+
+0 'CONTROL WEATHER'~
+Level: 35
+
+Syntax: cast 'control weather' better OR cast 'control weather' worse
+
+By weaving flows of {WAir{x, {RFire{x, {YSpirit{x, and {BWater{x in a complex pattern
+towards the sky, a channeler can either improve the weather conditions, or
+make them worse.  
+~
+
+0 GROW BERRY BERRIES 'GROW BERRIES'~
+Level 1
+
+Syntax: cast grow
+
+This weave of {yEarth{x, {RFire{x, and {YSpirit{x creates a shrub from which a single
+berry falls, which you, or anyone else can eat.  These berries may, however,
+be poisoned.  
+~
+
+0 'CREATE SPRING'~
+Level: 1
+
+Syntax: cast 'create spring'
+
+This weave of {yEarth{x and {BWater{x brings forth a magical spring from the ground,
+which has the same properties as a fountain.  
+~
+
+0 'DETECT HIDDEN'~
+Syntax: cast 'detect hidden'
+
+This weaving of {WAir{w and {YSpirit{w enables the caster to detect hidden
+creatures.  This weaving of {WAir{w, {RFire{w, and {YSpirit{w enables the caster to
+detect hidden persons and 
+~
+
+0 'DETECT INVIS'~
+Syntax: cast 'detect invis'
+
+This weaving of {WAir{w, {RFire{w, and {YSpirit{w enables the caster to detect invisible
+people, objects and 
+~
+
+0 EARTHQUAKE~
+Syntax: cast 'earthquake'
+
+This weave of {yEarth{w sets the ground trembling in the room, inflicting damage
+on every enemy character in the room.  Beware that other characters who are
+not yet fighting may attack you as a result!  
+~
+
+0 'ENCHANT WEAPON'~
+Level: 38
+
+Syntax: cast 'enchant weapon' <weapon>
+
+If you are fortunate enough to have discovered a Talent for the lost art of
+Aligning Matrixes, you will find weaves of {yEarth{x and {RFire{x will form into an
+enchant weapon weave which increases the weapon's to-hit and to-dam bonuses
+by one or two points.  Multiple enchants may be cast, but as the weapon
+grows more and more powerful, it is more likely to be drained or destroyed
+by the magic.  Also, every successful enchant increases the level of the
+weapon by one...  And there is no turning back.  
+~
+
+-1 'ENCHANT ARMOR'~
+Level: 34
+
+Syntax: cast 'enchant armor' <armor>
+
+If you are fortunate enough to have discovered a Talent for the lost art of
+Aligning Matrixes, you will find weaves of {yEarth{x and {RFire{x will form into an
+enchant armor weave which imbues armor with powerful protective properties. 
+It is not nearly as reliable as enchant weapon, being far more prone to
+desctructive effects.  Each succesful enchant increases the plus of the
+armor by 1 or two points, and raises its level by one.  
+~
+
+0 'FAERIE FOG'~
+Syntax: cast 'faerie fog'
+
+This weaving of {WAir{w and {RFire{w creates a thick damp fog which reveals all
+invisible, hidden, and sneaking creatures and characters in the same room as
+you.  
+~
+
+0 LEVITATE~
+Level: 24
+
+Syntax: cast levitate <character>
+
+This weave enables the target character to levitate.  Using flows of {WAir{x the
+character is able to float above the ground.  This weave cannot be cast upon
+oneself, however.  
+~
+
+0 IDENTIFY~
+Level: 15
+
+Syntax: cast identify <object>
+
+By using flows of {yEarth{x and {YSpirit{x, a channeler is able to discover
+information about an object and it's properties.  
+~
+
+0 INFRAVISION~
+Syntax: cast infravision <character>
+
+Flows of {WAir{w and {RFire{w form into a weave which enables the target character
+to see warm-blooded creatures even while in the dark, and exits of a room as
+well.  You can not weave this on yourself.  
+~
+
+0 INVIS INVISIBILITY~
+Level: 30
+
+Syntax: cast invisibility <character> OR cast invis <character> ------- cast
+invisibility <object> OR cast invis <object>
+
+This weave uses flows of {WAir{x and {RFire{x to make the target character
+invisible.  Invisible characters will become visible when they attack.  This
+weave may also be cast upon objects to render them invisible.  To become
+visible again, simply type: vis 
+~
+
+0 POISON~
+Syntax: cast poison <victim>
+Syntax: cast poison <object>
+
+This spell reduces the strength of the victim by two, as well as reducing the
+victim's regeneration rate. It may also be used to poison food, drink, or
+a weapon in a fashion similar to envenom ('help envenom'), but with 
+drastically reduced effectiveness.
+~
+
+0 REFRESH~
+Level: 10
+
+Syntax: cast refresh <character>
+
+This weaving of {WAir{x and {YSpirit{x refreshes the endurance points of a character
+who is out of movement points.  The channeler cannot, however, weave this
+upon his or herself.  
+~
+
+0 SLEEP~
+Syntax: cast sleep <victim>
+
+This weaving of {YSpirit{w puts its victim to sleep.  
+~
+
+0 SUMMON~
+Syntax: cast summon <character>
+
+This spell summons a character from anywhere else in the world into your room.
+Characters who are fighting may not be summoned.
+~
+
+0 TELEPORT~
+Syntax: cast <teleport>
+
+This spell takes you from your current location to a random location somewhere
+in the world.
+~
+
+0 COLOUR COLOR ANSI~
+Syntax: colour    Toggles colour mode on/off
+
+        You may also talk in colour; the format is like this:
+	the 'escape character' to specify a colour is the left
+	handed brace '{{', following 
+	that you should use one of the following letters,
+		{r{{r     red     {c{{c     cyan
+		{g{{g     green   {y{{y     yellow
+		{b{{b     blue    {w{{w     white
+		{m{{m     magenta {x{{x     clear(reset colour)
+		{{{{      {{ char {{*       beep
+
+	when using colour, it looks better if you finish the line
+	with whatever colour it would normally be in, such as a
+	gossip, the colour is magenta, so:
+		{mLope gossips '{ghello,{r world{m'{x
+	looks better than:
+		{mLope gossips '{ghello,{r world'{x
+
+	ColoUr is written by Lope (ant@solace.mh.se)
+~
+
+0 COLORS COLOUR2 COLOR2 ANSI2~
+Syntax: color <field> <colour>
+
+        You may configure your colour setting for personal preference.
+        current setting are indicated by colour.
+
+        fields are:
+        {aauction      {dgossip       {emusic        {fchat         {hminion
+	{iimmtalk      {jgame         {ktell         {lreply        {ngtell
+	{oroom_exits   {Oroom_things  {pprompt       {Proom_people  {qroom
+	{sbondtalk     {tchannel_name {uwiznet       {ifight_death  {7say
+	{2fight_yhit   {3fight_ohit   {4fight_thit   {5fight_skill  {9osay
+	{8guild_talk   {6wolfkin_talk {vrace_talk    {Xdf_talk      {znewbie{x
+
+        colours are: ( Hi- )
+        {rred          {ggreen        {bblue         {yyellow       {mmagenta
+        {ccyan         {wwhite{x
+
+Eg. to make the gossip channel red type 'color gossip red'
+    to make your hits in fights magenta type 'colour fight_yhit magenta'
+~
+
+0 'Spinweb'~
+[=2;7h[0;37;40m[2J[11;22H*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [2D[1A*[1D [3D*[1D [4;29H*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D *[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D [1D[A*[1D_[1D[A*[1D [1D[A*[1D [2D[A*[1D [2D[A*[1D [2D[A*[1D [2D[A*[1D [2D[5;43H*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[1B[1D[19;29H*[1D/[1A*[1D/[1A[1D*[1D\[2D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[1A[1D*[1D/[1A*[1D/[1A*[1D/[1A*[1D/[1A*[1D/[1A*[1D/[1A*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D/[1D[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B[1D*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D\[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D/[1D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[1A[1D*[1D/[1A*[1D/[1A*[1D/[1A*[1D/[1A*[1D/[1A*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D/[1D[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B[1D*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D\[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D/[1D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[1A[1D*[1D/[1A*[1D/[1A*[1D/[1A*[1D/[1A*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D/[1D[1B*[1D\[1B*[1D\[1B*[1D\[1B*[1D\[1B[1D*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D\[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D/[1D[1A*[1D\[2D[1A*[1D\[2D[1A*[1D\[1A[1D*[1D/[1A*[1D/[1A*[1D/[1A*[1D_*[1D_*[1D_*[1D_*[1D_*[1D_*[1D/[1D[1B*[1D\[1B*[1D\[1B*[1D\[1B[1D*[1D/[2D[1B*[1D/[2D[1B*[1D/[2D\[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D_[2D*[1D/[1D[1A*[1D\[2D[1A*[1D\[1A[1D*[1D/[1A*[1D/[1A*[1D_*[1D_*[1D_*[1D_*[1D/[1D[1B*[1D\[1B*[1D\[1B[1D*[1D/[2D[1B*[1D/[2D\[2D*[1D_[2D*[1D_[2D*[1D/[1D[1A*[1D *[1D/[1A*[1D/*[1D_*[1D_*[1D\*[1D_*[1D\*[1D_*[1D\*[1D_*[1D\*[1D_*[1D\*[1D_*[1D_[1B*[1D|[1D[1B*[1D|[1D[1B*[1D|[1D[1B*[1D|[1D[1B*[1D|[1D[1B* whew !!![8D[3C[3BSPINWEB.VT[10D[1Bby R L Samuell[14D[1Bsamuell@cis.uab.edu[19D[1BApril 6, 1994[23;1H
+
+~
+
+0 NOTE 'NOTE WRITE' 'NOTE READ' BOARD 'NOTE SYSTEM' BOARDS~
+Syntax:
+
+note                                    Reads next note.
+note scan                               View all note areas.
+note area [number|name]                 Shows or changes area.
+note read [number]                      Reads a certain note.
+note remove <number>                    Removes a note written by you.
+note list [number]                      Shows up to number notes.
+note list from <sender>                 List notes from <sender> only.
+note list to <to list>                  List notes to <to list> only.
+note list new                           List new/unread notes only.
+note write                              Uses online editor to create note.
+note catchup [all]                      Marks all notes in this area as read.
+note clear                              Clear a working note.
+note format                             Format a note in progress.
+note adjust <number>                    Edit a note already posted.
+note forward <number> <to list>         Forward a note.
+note to                                 Sets who the note goes to.
+note subject                            Sets the subject of the note.
+note post [quiet]                       Post the note.
+note post dfpost                        Post the note with your dfname.
+note post wkpost                        Post the note with your wkname.
+note post leaderpost                    Post the note as guild leader.
+note post facelesspost                  Post the note as faceless (Logged).
+
+These commands are used for the new note system. Instead of just one area,
+there are several, each with its special purpose. 
+
+Changing between the areas is accomplished using the 'note area' command.
+By using the 'note scan' command gives you a list of all areas together with number of
+unread message. To change, type 'note area <number>' or 'note area <name of the board>'.
+
+To read next unread note, type NOTE. To read a note with a specified number,
+type NOTE READ <number>. Typing NOTE while in a board with no unread notes
+shifts you to the next board. Note that unlike the standard note system, a 
+note has the same number in NOTE LIST and NOTE READ.
+
+Posting a message is as simple as writing NOTE WRITE. You will be moved 
+into interactive mode, where all you see are prompts for the fields like 
+To:, From: etc. You will be automatically put AFK while writing a note.
+
+To see the list of the notes in the current board, type NOTE LIST. Typing
+NOTE LIST <number> will list only <number> of the last notes in the area.
+
+You can remove your own note by using NOTE REMOVE <number>. Implementors may
+remove other people's notes. Implementors can also select how many days
+their note is kept before being purged. Purging happens automatically at
+bootup. Purged notes are not deleted, but saved into a file.
+
+To let only immortals see your note, address it to "imm". To let players of
+a specific level and above, address it to that level (no other recipients may
+appear in that case).
+
+Make sure you type {WNOTE POST{x once you have finished typing the note in
+to submit it to the note area.
+~
+
+0 WIZLIST~
+{                             .  '  .
+{       __                 _   . ' .   _                 __
+{       )_\j -._   _ _._._=_='. .'. .'=_=_._._ _   _.-'t/_(
+{<-.   )_\F|  F "_ ====  '   '  ==== _" 7  |7/_(   .->
+{   \___)_\F  )\/"      ' '  .'...'.  ' '      "\/(  7/_(___/
+{   ()( _)   F_)             . ' . ' .             (_7   (_ )()
+{  _F_\F,_)/F_\_,              .' '.              ,_/_7\(_,7/_7_
+
+               --=  Staff of The {DShadow {rWars{x  =--
+ 
+                     <{RZandor{x>   {WHead Coder{x
+                     {rK{Di{wt{Wi{wa{Dr{ra{x    {WHead Area Builder{x
+                     {DSword{Bfish{x  {BCoder{x
+                     {DD{go{Gn{gn{Da{x      {GGuild Immortal{x
+ 
+                       --= {cB{Cui{cld{Ce{crs{x =--
+ 
+                       {bAn{Bgen{bue{x     {mD{go{mv{ge{x  
+                 {rFa{Rer{Ys{Rto{rrm{x    {rI{yn{Yd{ry{x     {YRa{yec{Yha{x
+                  {Dr{ma{Wi{mn{De{x      {cS{Ca{Yr{Wi{Ya{Cl{ca{x   {YY{yas{mmi{Wne{x
+ 
+                     --= Special Credits =--
+ 
+        {gA{Gs{Yh{Wla{Ye{Gr{gn{x    Ared    {DCi{rraw{Den{x     Matthew     Ricanin
+~
+
+91 ACT_NPC~
+Mobile is an NPC(non-player character).  This is automatically set for
+every created mob by the mud.  
+~
+
+91 ACT_SCAVENGER~
+Is a scavenger.  The mob will pick up anything not nailed down.  
+~
+
+91 ACT_SENTINEL~
+Mob never leaves the room it's reset into.  
+~
+
+91 ACT_AGGRESSIVE~
+Will attack all mortal PCs.  (player characters) 
+~
+
+91 ACT_STAY_AREA~
+The Mob will never leave the area it was reset in.  
+~
+
+91 ACT_WIMPY~
+The mob will flee from combat if badly hurt.  
+~
+
+91 ACT_PET~
+The mob is a pet.  To who it is not specified, the flag is used for
+selling the mob in a pet shop.  
+~
+
+91 ACT_TRAIN~
+The mob is a trainer and is able to train PCs.  
+~
+
+91 ACT_PRACTICE~
+The mob is a practicer and PCs can practice when in the same room as the
+mob.  
+~
+
+91 ACT_UNDEAD~
+The mob is one of the undead.  It will have all of the clerical talents.  
+~
+
+91 ACT_CLERIC~
+The mob is a cleric, and has all cleric skills, up to the mob's level
+level.  
+~
+
+91 ACT_MAGE~
+The mob is a channeler.  
+~
+
+91 ACT_THIEF~
+The mob is a thief and will steal from PCs and has thief skills such as
+sneak/pick lock...  Etc.  
+~
+
+91 ACT_WARRIOR~
+The mob is a warrior and will fight like a warrior.  
+~
+
+91 ACT_NOALIGN~
+The mob will have no alignment.  (0 which is default) 
+~
+
+91 ACT_NOPURGE~
+The mob can not be purged using the purge command.  
+~
+
+91 ACT_OUTDOORS~
+The mob will not go indoors.  
+~
+
+91 ACT_INDOORS~
+The mob will not go outdoors.  
+~
+
+91 ACT_HEALER~
+The mob is a healer and will be able to heal characters for a price set
+by the mud.  
+~
+
+91 ACT_GAIN~
+The mob is a gainer and PCs will be able to gain
+skills/spells/trains/practices at it.  
+~
+
+91 ACT_UPDATE_ALWAYS~
+The mob is always updated by mob update, even if it never moved.  
+~
+
+91 ACT_CHANGER~
+The mob is able to change silver to gold or gold to silver.  
+~
+
+91 BUILD_AFF~
+AFF_BLIND           affected by the blind spell
+AFF_INVISIBLE       affected by the invis spell 
+AFF_DETECT_EVIL     can detect evil
+AFF_DETECT_INVIS    affected by the 'detect invis' spell 
+AFF_DETECT_MAGIC    affected by the 'detect magic' spell
+AFF_DETECT_HIDDEN   affected by the 'detect hidden' spell
+AFF_DETECT_GOOD     can detect good
+AFF_SANCTUARY       affected by the sanctuary spell
+AFF_FAERIE_FIRE     affected by the 'faerie fire' spell
+AFF_INFRARED        affected by the infrared spell
+AFF_CURSE           affected by the curse spell
+AFF_UNUSED_FLAG     not used
+AFF_POISON          affected by the poison spell/skill
+AFF_PROTECT_EVIL    protected from evil 
+AFF_PROTECT_GOOD    protected from good
+AFF_SNEAK           affected by the sneak skill
+AFF_HIDE            affected by the hide skill
+AFF_SLEEP           affected by the sleep spell
+AFF_CHARM           affected by the compulsion spell
+AFF_FLYING          affected by the fly spell
+AFF_PASS_DOOR       affected by the phase spell 
+AFF_HASTE           affected by the haste spell 
+AFF_CALM            affected by the calm spell 
+AFF_PLAGUE          affected by the plague spell
+AFF_WEAKEN          affected by the weaken spell 
+AFF_DARK_VISION     affected by the 'dark vision' spell
+AFF_BERSERK         affected by the berserk skill
+AFF_SWIM            has the swim skill
+AFF_REGENERATION    will regenerate 
+AFF_SLOW            affected by the slow spell
+AFF_EMBRACED        has embraced, or seized The One Power
+~
+
+91 BUILD_ACT~
+ACT_IS_NPC         Mob is an NPC (default set by mud) 
+ACT_SENTINEL       Mob never leaves the room it's reset in
+ACT_SCAVENGER      Is a scavenger. (Picks up anything not nailed down)
+ACT_AGGRESSIVE     Will attack all mortals who walk into a room it is in
+ACT_STAY_AREA      Never leaves the area it is reset in
+ACT_WIMPY          Will flee from combat if badly hurt
+ACT_PET            Is a pet, for when making a pet/mount shop
+ACT_TRAIN          Can train PCs attributes and stats
+ACT_PRACTICE       Can practice PCs skills and spells
+ACT_UNDEAD         Is one of the Undead, and has all the evil clerical talents
+ACT_CLERIC         Is a cleric, and has all cleric skills (up to it's level)
+ACT_MAGE           Can channel. ie: Is an Channeler
+ACT_THIEF          Is a thief, will steal from PCs and has thief skills
+ACT_WARRIOR        Is a warrior, and fights like one
+ACT_NOALIGN        Has no alignment (default is 0 but can change, this won't)
+ACT_NOPURGE        Cannot be purge when using the purge command
+ACT_OUTDOORS       Will not go inside
+ACT_INDOORS        Will not go outside
+ACT_IS_HEALER      Is a healer, will heal players for a fee set by the mud
+ACT_GAIN           PCs can gain skills/spells from this type of mob
+ACT_UPDATE_ALWAYS  Is always updated(by mobile update) even if it never moves
+ACT_IS_CHANGER     Can change gold to silver and silver to gold
+ACT_BANKER         Is a banker, will deposit/withdraw(not implemented yet)
+~
+
+0 restring~
+Syntax: restring <name> <field> <string>
+        fields: name short long
+
+Certain mobiles have the ability to restring your items, for a certain
+amount of silver.  Since they are members of a very rare profession, these
+mobiles may charge a great deal for their services.
+
+Each object has three fields that can be restrung.  
+
+The 'name' field in the keyword of the object.  
+The 'short' field is the string you will see when using, ie: in your
+inventory, or on your person.
+The 'long' field is the string you will see when the object is on the
+ground, or examined.
+ 
+{RRULES FOR RESTRING:{x
+o Offensive strings will qualify you for deletion.
+o Strings including 'heron-marked' or other unique qualifiers are not allowed.
+o Extremely long strings are not allowed.
+ 
+Should any of the above rules be broken, be prepared to take the consequences.
+~
+
+0 multiplay multiplaying alts alt characters~
+Multiplaying is allowed in a very restricted way on The Shadow Wars. 
+Breaking of the rules involving Multiplaying will be punished with deletion
+of any of the affected characters.  Multiplaying includes but is not limited
+to the following:
+
+* Your characters may NOT be in the same room at the same time.  If at all
+possible, keeping them in totally separate areas is preferred.  
+
+* You may have up to two characters online at the same time
+
+* You may NOT have them interact in any way.  This includes knowing each
+other, having a common friend that relays information between the
+characters, or anything of the sort.  If you have one character that has a
+particular interest, your other characters should be thoroughly uninterested
+in that matter, or obtain information regarding that interest in totally
+separate ways.  
+
+* Using one character to get anything (eq, gold, etc.)  For another
+character is NOT allowed - such as dropping it or giving it t another person
+to hold, logging off, logging on another character, and picking it
+up/getting it from someone.  Rule of thumb: If one of your characters has
+touched the item(s) or gold, then your other characters aren't allowed to. 
+This also includes going linkdead with one char, logging on another to give
+items/gold, or weave on the linkdead character.  
+
+* Your characters should be completely separate entities.  They should have
+no knowledge of another through your doing.  Sometimes you may hear of
+yourother characters activities through RP, but overall you should stay out
+of RP your alts are involved in.  This includes RP-ing your alt's family or
+friends - this is not allowed.  Do not allow any interacting RP between
+characters if possible, if it becomes too entangled, it will be up to the
+Admin to determine if any wrongdoing has been committed.  Any judgement
+handed down will lean strongly toward multiplaying for the good of the
+entire mud, so it is wise if you use extreme caution as well.  
+
+* No one ese may play, or be in control of your character.  You are
+responsible for any action your character engages in, and no excuse of lost
+passwords or roomates logging into your character will suffice.  If you do
+not want to lose your character, then ensure that no one has access to it. 
+
+
+* Just to make it clear: Using one character to assist another IN ANY WAY,
+is punishable by deletion of any and all of your characters.  
+
+See also help rules.  
+
+~
+
+0 RECREATION RECREATE RECREATING~
+Characters on The Shadow Wars are meant to be one of a kind individuals
+that grow and adapt as your levels and RP dictate.  To this end, deleting
+and recreating the same character is not allowed.  Once a character is
+deleted, that person is considered "dead", and the new character can not
+simply step into his or her place.  In short, if "Joe Shmoe" deletes and
+recreates, "Joe" cannot be reguilded into the same positions/status or
+continue to RP the dead character.  
+~
+
+0 HOOD HOODAPP HOODAPPEARANCE CLOAK~
+Syntax: cloak
+Syntax: hood
+Syntax: hoodappearance [<appearance>]
+
+Cloaks have the ability to be wrapped around your body and thus hide your
+equipment with the exception of those that are held or wielded.  To be able
+to cloak yourself, you will need a cloak that is worn -about- body.  The
+cloak should also have the keyword "cloak" in its short description or it
+will not work.  
+
+Cloaks also have the ability to fully conceal your appearance, using the
+command known as hood.  The hood command will conceal you behind a cloak as
+long as it has a hood.  
+
+Before you can raise your hood, you need to set a hood appearance for your
+self.  The hood appearance needs to have the following keywords in it: 
+
+{yKeyword{x 1.) {WHooded{x or {Whood{x.
+{yKeyword{x 2.) {WFigure{x or {Wcreature{x.
+
+Example: hoodapp A hooded figure
+
+Using the '{Whoodappearance{x' command without an argument will simply display the
+short string of the hooded cloak that you are wearing about your body.  
+ 
+To uncloak and unhood, retype the commands again. They will toggle the option.
+ 
+{RRULES FOR HOOD APPEARANCES:{x
+o Offensive strings will quality you for deletion.
+o Strings including reserved words such as Creator etc. are not allowed.
+o Extremely long strings are not allowed.
+ 
+Should any of the above rules be broken, be prepared to suffer the consequences.
+~
+
+0 LOST_TALENT~
+By the first century AB, letters reliably attributed to Aes Sedai
+spoke of forgotten Talents and lost abilities, and bemoaned the vast
+knowledge of the Power that is gone and may be centuries in the rediscovery.
+
+Choosing the 'lost talent' talent does not guarantee that your character
+spark any talent, nor give the player a carte blanche to RP having any lost
+talent they wish.  
+
+However, you have a small chance to spark a talent the letters to the Aes
+Sedai speak of.  Which talents are lost is unknown until such a day where
+one with the ability spark a lost talent.  
+~
+
+0 IGNORE~
+Syntax: ignore <player>
+Syntax: ignore list
+
+The ignore command let you remove the ability for a player to send you tells
+as long as you have the player on your ignore list.  
+
+To remove a player from the ignore list repeat the command for adding a
+player to your ignore list.  
+
+To list all the players you are ignoring, use the command
+'ignore list'
+
+The ignore list is flushed each time you log out of the game.  
+~
+
+0 BOND_RULES BOND_GRANT~
+Regardless of how things work in the books, bonding on TSW comes with
+restrictions.  Some restrictions are put in place to keep WoT bookish
+realism.  Other restrictions are put in place to keep abuse and misuse of
+bond in check.  
+
+{W-{x There will be {Rno guild or PC oversight{x of bonding except by the Admin, on
+an OOC basis.  This means that an Aes Sedai does not need to ask IC
+permission of any PC character, be it ajah head or Amyrlin, to bond a
+Warder.  The Aes Sedai-Warder relationship was not something to be
+interfered with by anyone else, and Aes Sedai were often touchy when another
+steps between them and their warders.  
+
+{W-{x Bond will only be awarded on a {Rone-time basis{x.  If a Green Sister wishes
+to bond again, she must petition for bond again.  
+
+{W-{x There will be {Rno passing of the bond{x to someone else.  This was not common
+in the books, and it will not be common on TSW.  Since bonding will only
+happen after admin review, no one will be bonding who shouldn't (Accepted,
+Male Channelers, Wilders), or those who shouldn't be bonded
+(non-Warder-types).  And since the AS-Warder bond was between those two
+people, no other PC, regardless of guild rank, can order the AS to pass her
+bond to another.  
+
+{W-{x There will be {Rno unbonding{x.  This is not something to take lightly, either
+ICly or OOCly.  Once bonded, both parties are tied to each other forever,
+until one of them dies.  
+
+{R*{x The only except to this rule is if one of the bonded pair does not log on
+for a period of three REAL LIFE months, for more than 5 hours.  Then the
+bonded PC who is left may petition to have the bond released.  The only way
+the bond will be released and work in our RP environment, is for the missing
+bonded person to die.  {W Thus, if you agree to be bonded, and then do not log
+in your bonded character for three months, you also agree to have your
+character's death written by your bonded partner, and your character will be
+deleted.  {x Bonding isn't to be taken lightly.  Choose wisely.  
+
+{W-{x Bond will be granted by the admin after reviewing each individual
+situation.  
+
+{R*{x Must be Aes Sedai with at least 1 year to the shawl.  
+{R*{x May not be of the Red Ajah.  
+{R*{x There will be no back-pedaling bonding awarded.  Meaning, the PC has
+already RP-ed out the bonding, and now desparately needs it granted to back
+up their RP.  
+{R*{x Accepted and non-WT need not apply at this time.  
+{R*{x The PC who is to be bonded may not be a MC or WK (at this time), and must
+also agree to being bonded.  
+
+To petition the admin for bond, note to {WGUILD ADMIN IMMORTAL{x in the {Wguild{x
+area, with {Wbond request{x in the subject line.  Both characters, the bonder,
+and the bondee must note the background of your character, as well as the
+current RP threads you are in, and outline each of the required criteria to
+insure they are met.  {WAt the end of the note, both parties must signify that
+they agree to have their character die, and character file deleted if they
+fail to log in for three real life months for more than 5 hours.  {x 
+~
+
+0 SHEATH DRAW~
+Syntax: sheath
+Syntax: draw
+Syntax: draw <weapon>
+ 
+The 'sheath' command will try to sheath the weapon you are wielding.
+If you have the dual wield skill and have a weapon in your off-hand, when sheathing
+the one in you good hand, the weapon in your off-hand will be switched to your
+good hand.
+ 
+The 'draw' command will draw a sheathed weapon into your good hand, or your
+off-hand if you know the dual wield skill.
+ 
+The 'draw' command with a weapon name as argument will try to draw that weapon
+into either your good hand or your off-hand.
+~
+
+0 AUTOCHANNEL~
+Syntax: Autochannel <0-100%>
+ 
+The 'Autochannel' command let a channeler set the amount of OP to seize or
+embrace in percentage of their max OP.
+ 
+The auto channeling amount will only be used when the seize/embrace command, or
+the channeling command is used without an argument. The auto channeling amount will also
+be used if you are not holding OP and try to combine flows into a weave.
+
+The auto channeling amount set will be used each time you type seize/embrace/channel
+without an argument. E.g. Setting it to 10% will each time seize/embrace
+10% of your max OP.
+ 
+{RWarning:{x
+Setting the Autochannel amount to 100% and type seize/embrace/channel twice will
+result in you trying to channel 2 x your max OP!
+~
+
+0 GUILD_POLICY~
+1) Four players are required to start a new guild, and must stay active
+for a guild to continue to stay open.  To petition for a new guild, the four
+players need to note to guild admin, in the guild note area.  This does not
+guarantee that the guild will be opened, and will be at the discretion of
+the admin.  Subguilds will subsequently be opened on an as needed basis.  
+
+2) Guild leaders rank 1-3 must log on for a minimum of five hours per week,
+being visible to the guild and the mud for guild matters and RP.  If the
+guild leader is going to be away from the mud, a note to the guild and guild
+admin explaining the absense is expected.  While this is the minimum time,
+attention will be paid to the following rule as well.  
+
+3) Guild leaders rank 1-2 must play their leader character as their primary
+character, or risk losing not only the position, but that character.  This
+does not mean that guildleaders may not play alts, but if the admin notices
+that the guild leader is neglecting their guild leader alt for another alt,
+then the admin may choose for something untoward to happen to the guild
+leader to allow others more willing to put time and RP into the position to
+have a chance at it.  
+
+* Guilds thrive when their leaders are logging on and taking an active role
+in the guild.  Guild leaders have a responsibility toward this end, and
+shirking it may cause the player to lose the guild leader position, as well
+as their character.  
+
+4) A person with a guild leader character (guild level 1-3) may not have his
+or her alt(s) raise any higher than guild level 4.  
+~
+
+0 WOLFAPPEARANCE~
+Syntax: wolfappearance <appearance>
+
+The wolfappearance command allow those who have developed the wolfkin talent
+and the wolfdream skill to set an appearance for how they will be seen by
+others once entering the wolf dream.  
+
+The wolfappearance will replace your normal appearance while inside a wolf
+dream.  
+ 
+The wolf appearance needs to have the following keywords in it:
+ 
+{yKeyword{x: {Wwolf{x
+
+Example: A grey wolf
+ 
+{RRULES FOR WOLF APPEARANCES{x:
+o Offensive strings will quality you for deletion.
+o Strings including reserved words such as Creator etc. are not allowed.
+o Your appearance must be less than 35 characters long.
+o Your appearance must be at least 5 characters long.
+o Colors will be stripped from the appearance.
+o Please do NOT use a period at the end of your appearance.
+ 
+Should any of the above rules be broken, be prepared to suffer the consequences.
+~
+
+0 WOLFDREAM~
+The few human that have developed the wolfkin talent and have learned to
+master their dreams may enter what is known among wolves as a wolfdream.
+ 
+Known among wolves as the wolfdream is also known as Tel'aran'rhiod.
+ 
+Once inside a wolf dream, the wolfkin will have wolf shape.
+~
+
+0 HOOD_DESCRIPTION~
+Syntax: hooddescription write
+Syntax: hooddescription <string>
+Syntax: hooddescription + <string>
+Syntax: hooddescription - 
+
+The hood description will only be show when hooded.
+
+Sets your hood description to the given string. If the hooddescription string
+starts with a '+', the part after the '+' is appended to your current hood
+description, so that you can make multi-line descriptions. You can delete
+lines by uses hooddescription -.
+ 
+'hooddescription write' will start the online editor with your current
+hood description.
+~
+
+0 WOLF_DESCRIPTION~
+Syntax: wolfdescription write
+Syntax: wolfdescription <string>
+Syntax: wolfdescription + <string>
+Syntax: wolfdescription - 
+
+The wolf description will only be show when in wolf shape (wolfdream).
+
+Sets your wolf description to the given string. If the wolfdescription string
+starts with a '+', the part after the '+' is appended to your current wolf
+description, so that you can make multi-line descriptions. You can delete
+lines by uses wolfdescription -.
+ 
+'wolfdescription write' will start the online editor with your current
+wolf description.
+~
+
+0 HEALTH~
+Syntax: health
+ 
+The Health command show you the current wound status of each of your
+body parts.
+ 
+Each players have the following body parts:
+Left arm, Left leg, Head, Body, Right arm, Right leg.
+~
+
+0 COMBAT_PROMPT~
+The combat prompt is what you see each round when fighting a mobile or
+another player.  Besides the combat messages the prompt shows you a status
+of your body parts and a health status of your hit points.  
+ 
+The combat prompt shows: [ Body parts status ] <Health status>
+ 
+[ {gLA LL HE BD RA RL {x] You are in perfect condition.
+ 
+LA = Left Arm
+LL = Left Leg
+HE = Head
+BD = Body
+RA = Right Arm
+RL = Right Leg
+ 
+The body parts will get different color codes depending on it's health.
+ 
+{gLA{x -> Left arm is fully healed.
+{GLA{x -> Left arm is slightly wounded.
+{YLA{x -> Left arm is wounded.
+{rLA{x -> Left arm is badly wounded.
+{RLA{x -> Left arm is extremely wounded.
+ 
+ Taking a blow at a body part that is extremely wounded could possibly
+be a final blow that will make you drop.
+~
+
+0 ~
+~
+
+0 WRAP~
+Level: 30
+ 
+Syntax: cast wrap <victim>
+ 
+This weave of {WAir{x is used to confine the channelers victim to 
+one place.
+ 
+~
+
+0 GAG~
+Level: 35
+ 
+Syntax: cast gag <character>
+ 
+Using flows of {WAir{x, a channeler can gag their victim so they 
+cannot speak or call for help.
+ 
+{RNOTE:{W This weave is IC ONLY and is NOT to be used irresponsibly.
+{WIf you are caught being wreckless with this weave then there WILL be
+Immortal intervention and possible loss of character.  Ignorance is NO excuse.
+You have been warned.
+~
+
+0 COMPULSION~
+Level: 40
+
+Syntax: cast compulsion <victim>
+
+Lost during the Breaking, this powerful weave utilizes flows of {YSpirit{x to
+bend the victim's mind to the casters will.  It will cause whoever falls
+victim to it to dote and pine over the caster and do anything to please
+them.  
+~
+
+0 CURE POISON~
+Level: 50
+
+Syntax: c 'cure poison' <target>
+
+This strong weaving of {YSpirit{x will cure a character who is suffering poison.
+~
+
+0 CAST HEAL WEAVE~
+Level: 50
+
+Syntax: cast heal <character>
+
+This healing weave uses all five flows: {WAir{x, {yEarth{, {BWater{x, {RFire{x, and {YSpirit{x
+to fully restore all health points to a character.  A common side effect
+with any sort of healing is exhaustion and hunger.  The patient should rest
+after a healing and should have plenty to eat.  
+
+As with any healing weave, the channeler cannot cast this upon his or
+herself.  
+~
+
+0 INFERNO~
+Level: 75
+
+Syntax: cast inferno <target>
+
+This powerful weave of {RFire{x allows the caster to envelope their opponent in
+flames.  
+~
+
+0 BLIZZARD~
+Level: 75
+
+Syntax: cast blizzard <target>
+
+This powerful weave uses flows of {WAir{x and {BWater{x to create clouds that rain
+deadly icebolts down on your opponent.  This weave will only work outdoors. 
+~
+
+0 MAJOR HEAL~
+Level: 75
+
+Syntax: cast 'major heal' <target>
+
+This weave combines all five flows: {WAir{x, {yEarth{x, {BWater{x, {RFire{x, and {YSpirit{x that
+will fully heal any major wound.  As with all healing weaves, the caster
+cannot use this weave upon themself.  
+~
+
+0 DELVE~
+Level: 90 
+
+Syntax: cast delve <target>
+
+Related to Healing, this weave uses flows of {YSpirit{x to examine a person for
+illness or injury.  As with all healing weaves, the channeler cannot cast
+this upon themself.  
+~
+
+0 DREAMGATE~
+Level:90
+
+Syntax: cast dreamgate
+
+The dreamgate weave opens a gateway into the World of Dreams,
+Tel'aran'rhiod, by using flows of {WAir{x, {yEarth{x, and {YSpirit{x.  Those that enter
+the gateway enter Tel'aran'rhiod physically.  
+
+It is rumored that entering the World of Dreams physically, will cause you
+to lose part of what makes you human.  
+ 
+({x{BThis help is brought to you by the player Basdinn.{x)
+~
+
+0 CHANNELING ONEPOWER 'ONE POWER'~
+Since this mud is based on Robert Jordan's series Wheel of Time, there
+is no 'magic' system. The system that we use here is the 'channeling' system
+which was incorporated into the series. The people who wielded the ability
+to channel were known as channelers (aka channies in mud slang). By 'weaving'
+5 'spheres', known as Air, Earth, Fire, Water and Spirit, they are able to
+manipulate and control their environment in numerous ways.
+ 
+First we will go over the basics of the ability to channel. The Power which is
+used is known as the One Power, or True Source. This Power is divided into
+two halves, Saidin and Saidar. Saidin is the male half of the one power, and
+is known to be corrupt. For more help on this corruption, see 'help taint'. The
+other half, Saidar, is the female half of the one power, which is not tainted
+or corrupted. Great things were done in the Age of Legends, which is when both
+halves of the One Power could be safely used. At this time, the last male
+Aes Sedai has been dead several thousand years. It is said that the One Power,
+or True Power (which very little at all is known of), is what turns the
+Wheel of Time itself.
+ 
+Weaving the one power is a complex thing to learn, requiring years of training
+for most young women to master. By combining the five spheres, a channeler can
+cause a great many things to occur. Each sphere has its strengths and
+weaknesses, yet when brought together they can have surprising results.
+ 
+(See also: TAINT, SPHERES, WHITETOWER, AESSEDAI) 
+~
+
+0 TAINT SAIDIN~
+Saidin, the Male half of the True Source, was tainted when the Dark One
+was sealed in the bore.  The Dark One's counterstroke is what caused this
+taint.  Men who wield the One Power are destined to go mad, and are said to
+die while their body literally rots around them.  It is not known at this
+time if it is possible to cleanse Saidin.  
+ 
+(See also: CHANNELING)
+~
+
+0 SPHERES SPHERE AIR EARTH FIRE WATER SPIRIT~
+The five spheres, {W{WAir{x{x, {yEarth{x, {RFire{x, {BWater{x, and {YSpirit{x, are the separate
+pieces of both {WSaidar{x and {DSaidin{x.  When woven together in various amounts
+and in certain ways, they are what combines to do the work of the channeler.
+
+All channelers are stronger in some areas than others.  A channeler who is
+very powerful in Air, even to the point of creating spectacular weaves that
+can change the weather itself, may be so weak in Fire that a small spark to
+ignite a campfire is difficult.  While the first four spheres are rather
+obvious in the things they manipulate, Spirit could be considered the sphere
+of the body.  While all healing requires all five spheres to some extent,
+Spirit is used to delve and explore.  It is also thought to be the sphere
+used in Bonding.  
+~
+
+-1 AIEL SAVAGE WASTE~
+In the area which is east of the Dragonwall, or the Spine of the World as
+some call it, there is a vast desert land inhabitied by a people known as
+the Aiel.  The Aiel call their land the Three-Fold Land, however those who
+live east of the Dragonwall, called wetlanders by the Aiel, refer to this
+land as the Aiel Waste.  The harshness of the desert, and the fact that they
+allow only merchants, gleemen, and Tinkers into their lands has lent a
+certain mystery to this people.  All others that are caught are stripped of
+their clothing and equipment, given one waterskin, and sent back towards the
+Dragonwall.  
+
+The Aiel people themselves are known to be warriors, but according those
+those few who are allowed to view their life, they are not only warriors,
+but also have farmers, craftsmen, and all other skilled crafts people which
+are needed to carry out their daily lives.  Those Aiel who are warriors are
+members of what are called Societies.  Each warrior is training in the use
+of the bow, spear, and hand to hand fighting, however none will pick up a
+sword as they consider it forbidden.  
+
+The Aiel people are divided into 12 distinct clans, each with their own
+unique characteristics and traits.  All members however follow a moral code
+which is known as ji'e'toh.  
+ 
+(See also: 'AIEL CLANS', SOCIETY, JI'E'TOH)
+~
+
+-1 ALTARA ALTARAN~
+***WARNING*** NOT AN IMPLEMENTED RACE!!!
+~
+
+0 AMADICIA AMADICIAN~
+***WARNING*** NOT AN IMPLEMENTED RACE!!!
+The nation of Amadicia is well known for its primary controlling army, the 
+Children of the Light. Led by their Lord Captain Commander, the Children 
+essentially rule Amadicia from the Fortress of Light. Channeling is forbidden
+within the borders of Amadicians, and the penalty is death. Death however comes
+only after a long process of questioning.
+~
+
+0 SCHOOL~
+Syntax: school
+
+School is the command that is used to get you back into the newbie school. 
+This will be used by newbie helpers, and, until areas are developed further,
+all mortals that need to get to the trainers in newbie school.  
+
+~
+
+0 CHANGE CHANGER~
+The syntax for using the changer is as follows:
+
+give <amount> <gold/silver> changer
+
+For example, "give 200 silver changer."  
+
+The value of silver to gold is 100 to 1.  Therefore, you need 100 silver
+coins to have the changer work - giving you back one gold coin.  
+
+However, the changer also charges a small fee.  You in fact need 105 silver
+coins to receive one gold coin in return.  
+~
+
+0 REPORT 'REPORT HEALTH' 'REPORT SPHERES' 'REPORT STATS'~
+Syntax: report health
+Syntax: report spheres
+Syntax: report stats
+ 
+ 
+REPORT HEALTH shows your current hitpoints, maximum hitpoints, current endurance 
+and maximum endurance.
+ 
+REPORT SPHERES shows your strength in Air, Earth, Fire, Spirit, and Water.
+ 
+REPORT STATS shows your current statistics. (Str, Int, Wis, Dex, Con)
+ 
+All of the above display to you and to the other players in the room with you.
+~
+
+0 AESSEDAI 'AES SEDAI'~
+Aes Sedai are the primary known wielders of the One Power.  Since the
+Breaking of the World, all known Aes Sedai are women.  Aes Sedai live longer
+than non channelers, and are known to develop an ageless face.  Those who
+are the age of many grandmothers are said to have only one or two white
+hairs in their heads and no lines or visible wrinkles.  They are bound by
+the Three Oaths they swear upon being raised to Aes Sedai, but other than
+that are only limited by their strength and ability in the One Power.  The
+Ajah they are a part of is marked by the color of the fringe on the shawls
+they wear.  
+ 
+(See also: AJAH, OATHS)
+~
+
+0 WHITETOWER 'WHITE TOWER'~
+The White Tower is the central structure on the island city of Tar Valon.
+Designed by Aes Sedai, it was created by Ogier aided by Aes Sedai wielding
+the One Power.  The main building is three hundred feet across at its base,
+and rises five hundred feet above the ground.  The structure is composed of
+white stone, slightly wider at the base than the top.  
+
+Aes Sedai are housed in the top portion of the White Tower.  Each Ajah has
+their own pie shaped section of the Aes Sedai levels.  The bottom half of
+the Tower is reserved for general purposes.  A smaller structure is attached
+to the back of the main building and houses Novices and Accepted.  The front
+of the White Tower faces a large public square, which is bordered by various
+public buildings which were both ogier built and designed.  The entire White
+Tower complex is enclosed by a stone wall.  This perimeter is broken
+occasionally by columns and rails.  
+
+The largest building on the Tower complex is located behind the Novice and
+Accepted Quarters.  This is the Great Library which contains offices,
+workrooms, and one of the largest collections of knowledge in the world.  
+ 
+(See also: AESSEDAI AJAH NOVICE ACCEPTED TARVALON)
+~
+
+0 AJAH~
+An Ajah is "a sisterhood of Aes Sedai".  In current times there are seven
+known ajahs, each associated with a color.  There are Red, Yellow, Green,
+Blue, Brown, Grey, and White Ajahs.  Each Ajah has their own set of three
+Sitters in the Hall of the Tower to represent them.  As well, each Ajah has
+their own ruler or ruling council, but the head of the Ajah is not
+necessarily a Sitter for the Ajah.  The actual identity of these Ajah
+leaders is often not shared amoung the Aes Sedai of different Ajahs.  There
+is rumored to be an eighth Ajah, the Black Ajah, but no Aes Sedai seems
+willing to speak of it.  
+
+(See also: REDAJAH, YELLOWAJAH, GREENAJAH, BLUEAJAH, BROWNAJAH, GREYAJAH,
+WHITEAJAH, BLACKAJAH) 
+~
+
+0 REDAJAH 'RED AJAH'~
+The primary goal of the Aes Sedai of this Ajah is to protect the lands
+from all men who wield the One Power.  Men who can channel are hunted down
+by these Aes Sedai and brought to the Tower to be gentled.  Because of their
+purpose, or perhaps their distrust of men, they do not bond Warders.  This
+Ajah is the largest and is led by a single woman.  
+ 
+(See also: AJAH, AESSEDAI)
+~
+
+0 BLUEAJAH 'BLUE AJAH'~
+The focus of the Blue Ajah is on worthy causes and justice.  The Aes
+Sedai of this Ajah are skilled at politics and administration.  This Ajah is
+run by a single very powerful woman, and is one of the most influential of
+the Ajahs.  More Amrylins have been raised from this ajah than any others
+since Artur Hawkwing's time.  
+ 
+(See also: AJAH, AESSEDAI)
+~
+
+0 BROWNAJAH 'BROWN AJAH'~
+The members of this Ajah are dedicated to seeking and preserving
+knowledge.  The Brown Ajah is responsible for the preservation and
+collection of books, scrolls, and other works for the Great Library.  They
+also work towards the discovery of artifacts and both lost and new Talents. 
+This Ajah is run by a ruling council of Aes Sedai.  
+ 
+(See also: AJAH, AESSEDAI)
+~
+
+0 GREENAJAH 'GREEN AJAH'~
+This Ajah is known as the Battle Ajah.  The primary goal is to prepare
+for Tarmon Gai'don, The Last Battle with the Dark One.  They are both fierce
+fighters of Shadowspawn, and are known to be involved in many of history's
+great battles.  The unique aspect of this Ajah's members is an appreciation
+of men, which is reflected in their bonding of multiple men.  
+ 
+(See also: AJAH, AESSEDAI)
+ 
+~
+
+0 YELLOWAJAH 'YELLOW AJAH'~
+This Ajah's members are talented in Healing with the One Power.  Devoted
+to healing sickness, these Aes Sedai also actively seek out new cures and
+new methods of using the One Power to restore health.  
+ 
+(See also: AJAH, AESSEDAI)
+~
+
+0 GREYAJAH 'GREY AJAH' GRAYAJAH 'GRAY AJAH'~
+Members of this Ajah are skilled in the art of mediation, and are known
+to seek consensus and harmony.  These Aes Sedai are often called in to
+assist in negotiating treaties, as well, they can be both advisors to
+nobility and royalty.  The Ajah is lead by a woman known as the Head Clerk. 
+ 
+(See also: AJAH, AESSEDAI)
+~
+
+0 WHITEAJAH 'WHITE AJAH'~
+The Aes Sedai of the White Ajah are known to avoid the world and intead
+involve themselves in more philisophical pursuits.  They are said to avoid
+worldly knowledge and instead focus primarily on the persuit of truth.  
+ 
+(See also: AJAH, AESSEDAI)
+~
+
+0 BLACKAJAH 'BLACK AJAH'~
+Aes Sedai of the White Tower deny there is any Ajah other than the seven
+offically recoginzed who send members to the Hall.  However, there is
+persistent rumor of the eighth ajah, the Black Ajah, whose members are said
+to walk the Halls of the Tower disguised as members of the other Ajahs. 
+These woman are said to have forsworn their Oaths and serve only the Shadow.
+ 
+(See also: AJAH, AESSEDAI, OATHS)
+~
+
+0 OATHS 'THREE OATHS'~
+Each Accepted is required to swear the following on the Oath Rod upon
+being raised to Aes Sedai.  The Oath Rod is a rod with the number three on
+it.  This rod is a ter'angreal which makes these oaths binding.  
+
+- To speak no word that is not true.  
+
+- To make no weapon with which one man may kill another.  
+
+- Never to use the One Power as a weapons, except against Shadowspawn, or in
+the last extreme defense of her own life or that of her Warder or another
+Aes Sedai.  
+ 
+(See also: AESSEDAI)
+~
+
+0 SHOCKING GRASP 'SHOCKING GRASP'~
+Syntax: cast 'shocking grasp' <victim>
+
+Using flows of {WAir{w and {BWater{w the caster sends a powerful jolt into the
+victim.  
+~
+
+0 'LIGHTNING BOLT'~
+Level: 25
+
+Syntax: cast 'lightning bolt' <victim>
+
+Using flows of {WAir{x and {RFire{x, the caster sends a single bolt of lightning
+into the victim.  
+~
+
+0 SPRAY 'COLOUR SPRAY'~
+Syntax: cast 'colour spray' <victim>
+
+{RFire{w and {BWater{w are woven together to create a rainbow spray which blasts the
+victim and may blind them.  
+~
+
+0 'HIGH EXPLOSIVE'~
+Syntax: cast 'high explosive' <victim/item>
+ 
+(Explaination coming soon...)
+~
+
+0 BALEFIRE~
+Syntax: cast balefire <victim>
+
+A very powerful weave which uses all five flows in an intrivate weave to
+detroy the vistim and burn their thread from the pattern.  
+~
+
+0 STILL~
+Syntax: cast 'still' <victim>
+
+Severs the ability of a channeler to be able to use the One Power or even to
+touch the True Source.  This weave requires very large flows of all five of
+the spheres in a complex weave.  Often it is necessary for a group to
+perform this weave.  
+ 
+(See also: STILLING)
+~
+
+0 'HEAL STILL'~
+Syntax: cast 'heal still' <character>
+
+A recent discovery, this weave requires great strength to cast and uses all
+five flows to heal the severing which has occured to a channeler.  Very few
+know how to use this weave, or even know it exists.  
+ 
+(See also: STILLING, STILL)
+~
+
+0 'BLADE OF FLAME'~
+Syntax: cast 'blade of flame'
+
+By weaving together {yEarth{w and {RFire{w, a channeler is able to create a sword or
+dagger type blade out of what appear to be flames.  
+~
+
+0 SHIMMER~
+Syntax: cast shimmer
+ 
+(More details to come...)
+~
+
+0 AIEL CLANS 'AIEL CLANS'~
+There are 12 different Aiel clans.
+ 
+Chareen
+Codara
+Daryne
+Goshien
+Miagoma
+Nakai
+Reyn
+Shaarad
+Shaido
+Shiande
+Taardad
+Tomanelle 
+ 
+~
+
+0 SOCIETY SOCIETIES 'AIEL SOCIETY'~
+Amoung each Aiel clan there are different Societies.
+ 
+Black Eyes
+Brothers of the Eagle
+Dawn Runners
+Knife Hands
+Maidens of the Spear
+Mountain Dancers
+Night Spears
+Red Shields
+Stone Dogs
+Thunder Walkers
+True Bloods
+Water Seekers
+~
+
+0 ANDOR ANDORAN~
+~
+
+0 ARAD DOMAN DOMANI~
+~
+
+0 TARABON TARABONER~
+~
+
+0 ILLIAN ILLIANER~
+~
+
+0 TEAR TAIREN~
+~
+
+0 MAYENE MAYENER~
+~
+
+0 MURANDY MURANDIAN~
+~
+
+0 GHEALDAN~
+~
+
+0 CAIRHIEN~
+~
+
+0 SALDAEA SALDAEAN~
+~
+
+0 KANDOR KANDORI~
+~
+
+0 ARAFEL ARAFELIAN~
+~
+
+0 SHIENAR SHINARAN~
+~
+
+0 'BAR OF FIRE'~
+Level: 5
+
+Syntax: cast 'bar of fire' OR cast bar
+
+This weave of {RFire{x and {WAir{x causes the channeler to shoot forth a large beam
+of fire from their hands, damaging their opponent.  
+~
+
+0 'FLYING ROCKS'~
+Level: 5
+
+Syntax: cast 'flying rocks' OR cast flying
+
+This weave of {yEarth{x and {WAir{x allows the channeler to pummel their opponent
+with large rocks.  
+~
+
+0 'BLAST OF AIR'~
+Level: 5
+
+Syntax: cast 'blast of air' OR cast blast
+
+This weave of {WAir{x and {BWater{x allows the channeler to bring forth a column of
+freezing air that can be devastating to their opponent.  
+~
+
+0 'STREAM OF WATER'~
+Level: 5
+
+Syntax: cast 'stream of water' OR cast stream
+
+This weave of {BWater{x and {yEarth{x draws forth an eruption of water from the
+ground, damaging the channeler's opponent.  
+~
+
+0 PINCH~
+Level: 15
+
+Syntax: cast pinch <target>
+
+This tiny flow of {WAir{x can cause quite a disturbance!  It simply gives the
+victim an irritating little pinch that incites them to attack.  
+~
+
+0 'ROLLING RING'~
+Level: 25
+
+Syntax: cast 'rolling ring' <victim> OR cast rolling <victim>
+
+Using flows of {RFire{x and {yEarth{x, the channeler can summon forth a huge ring of
+fire and debris that rolls over the victim causing massive damage.  
+~
+
+0 WATERBALL~
+Level: 25
+
+Syntax: cast waterball <target>
+
+Using flows of {BWater{x and {WAir{x, the channeler calls forth several large balls
+of water to pummel their opponent.  
+~
+
+0 'MINOR HEAL'~
+Level: 25
+
+Syntax: cast 'minor heal' <character>
+
+Using weaves of {WAir{x, {BWater{x, {yEarth{x, {RFire{x, and {YSpirit{x, the channeler may heal
+the minor wounds of another character.  The channeler may not weave this
+upon him or herself.  
+~
+
+0 MINION~
+Minions can be used in various ways.  A Noble or an Aes Sedai might use a
+minion IC'ly as their eyes and ears, for example.  Some people may just want
+to create a minion just for the sake of having a private place to talk with
+those they choose to join to the minion.  
+ 
+Starting a minion is simple.
+ 
+Syntax:
+ 
+To create a minion, type: minion <your name>
+So if I wanted to minion myself I would type: 
+minion {YY{yas{mmi{Wne{x
+ 
+Now that I've started my minion. I may want to join
+someone to it. To join someone, you use the same syntax:
+minion {RZ{ra{Dnd{ro{Rr{x
+And now, Zandor is in my minion.
+ 
+Alright, say I want to promote {RZ{x to level 2, because he's been
+such a good little coder and he's such a nice guy.  To do this, all I would
+type is:
+mpromote {RZ{ra{Dnd{ro{Rr{x 2
+ 
+Now, let's say that I want to give myself a cool minion
+title. The syntax is as follows:
+mtitle <character> <title>
+ 
+mtitle {YY{yas{mmi{Wne{x {YB{yui{mld{Wer{x
+And it would appear as: ({YB{yui{mld{Wer{x) {YY{yas{mmi{Wne{x
+ 
+Now, to talk on the minion is easy. Just type:
+mt <string>
+ 
+mt {x{YEveryone thank Remy for this help file!{x
+and it would appear as: 
+[Yasmine's minion] ({YB{yui{mld{Wer{x) Yasmine '{YEveryone thank Remy for this help file!{x'
+~
+
+0 BACKUP CHECKBACKUP~
+Syntax: backup
+Syntax: checkbackup
+ 
+The 'backup' command will create a restore point for your character.
+If your player file at some point should be corrupt or damaged in
+some way, the immortals can restore your character to your last
+created restore point.
+ 
+The 'checkbackup' command will print out the last restore point that
+you have created for your character.
+~
+
+0 PC_VOICE~
+Syntax: voice say <voice string> / [reset]
+Syntax: voice ask <voice string> / [reset]
+Syntax: voice exclaim <voice string> / [reset]
+Syntax: voice show
+ 
+As an extension of making your character unique and more
+personal, you now can set your voice string.
+ 
+The voice string will be shown when say and sayto is used.
+ 
+The ask voice is used when a question mark is the last character
+in the say/sayto statement.
+ 
+The exclamation voice is used when a exclamation point is the last
+character in the say/sayto statement.
+ 
+The say voice is used if none of the above is present.
+ 
+Expansions for voice strings:
+"$n" = Your appearance (and name if introduced).
+"$e" = he/she depending on your sex.
+"$m" = him/her depending on your sex.
+"$s" = his/her depending on your sex.
+ 
+{RRules for voice strings{x:
+o Voice string must include "$n" in the string someplace.
+o Voice string must include "says"/"asks"/"exclaims" in the strings.
+o Colors are allowed in the voice string.
+o Offensive voices are not allowed.
+o Voices needs to be between 5-40 characters long.
+ 
+{BExample{x:
+voice say $n makes a grin as $e says
+voice ask $n quirk $s lip as $e says
+~
+
+-1 $~
+
+#$

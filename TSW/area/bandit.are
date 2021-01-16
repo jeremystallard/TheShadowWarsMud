@@ -1,0 +1,225 @@
+#AREADATA
+Name Bandit Camp~
+Builders Kralk~
+VNUMs 9500 9599
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#9500
+A sneering Bandit~
+A snearing bandit~
+A bandit struts along glaring at you as he fingers his weapon
+~
+This man is wearing a studded leather vest and leather pants with steel
+discs sewn into them.  His face is a mess of scars and he carries a rusted
+weapon with him.  But he looks every inch the fighter.  
+~
+ghealdanin~
+A 0 -10 0
+30 29 10d61+416 0d0+0 5d6+15 none
+0 0 0 0 0
+-1 -2 -3 0
+BCDEFHIJKNUV 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#9500
+A Narrow Dirt Path~
+You walk along a narrow {ydirt path{x, the path winds through {Dthick{x
+{gbr{Gu{gsh{x.  The sounds of chirping {Cb{ci{br{Yd{Ms{x and other {ywildlife{x is loud and clear,
+creating a {Ypeaceful{x feeling to the whole area.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 9501
+S
+#9501
+A Curve in the Path~
+The {ydirt path{x starts a {Cgentle{x curve to the south, the {gbr{Gu{gsh{x seeming to
+curve with it.  The {Wwind{x floats the sounds of {Drough{x laughter to your ears,
+coming from somewhere to the south east.  The way the {ypath{x seems to be
+heading..  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 9502
+D3
+~
+~
+0 0
+0 0 9500
+S
+#9502
+A Eastward Bend in the Path~
+The {ydirt{x path finishes it's southward curve and bends towards the east. 
+Now, the sound of {Drough{x laughter is heard clearly.  What would people be
+doing way out here in the {gfo{Gre{gst{x?  Maybe it isn't such a great idea to try
+it out.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 9503
+D3
+~
+~
+0 0
+0 0 9501
+S
+#9503
+The Edge of a Camp~
+The path ends here, at the edge of what appears to be a {Dpoorly{x setup
+camp.  As you peer intently about the camp you notice {Ra{rrme{Rd{x men moving about
+everywhere.  All of them dressed in {yrough{x {Wclothing{x and appearing to be
+{Rfighters{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 9504
+D3
+~
+~
+0 0
+0 0 9502
+S
+#9504
+The Western Edge of the Camp~
+The ground here is trampled, trampled by the boots of who look to be
+bandits.  As you walk further towards the center of the camp, you notice all
+the small buildings, tents and various other shelters.  A dirty and unshaven
+man watches you go buy, a rusty polearm in is grizzled yet muscular hands.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9505
+D3
+~
+~
+0 0
+0 0 9503
+S
+#9505
+Nearing the Center of the Camp~
+The ground is apparently bare, very little {ggrass{x growing anywhere. 
+Poorly built {Dshacks{x are scattered about in no obvious pattern.  Sneering men
+walk by, waving {Rwe{rap{Rons{x as they do.  You carefully step by a {Rfire{x {Dpit{x,
+and find yourself staring at something hanging from a pole.  After looking
+closer and more intently, your stomach curls in disgust.  Hanging from the
+pole is a variety of human {Rea{Drs{x.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9506
+D3
+~
+~
+0 0
+0 0 9504
+S
+#9506
+The Center of the Bandit Camp~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9507
+D3
+~
+~
+0 0
+0 0 9505
+S
+#9507
+South of the Camp Center~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9506
+D2
+~
+~
+0 0
+0 0 9508
+S
+#9508
+Near a small Stone Hut~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9507
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 9500 15 9503 5
+M 0 9500 15 9504 5
+M 0 9500 15 9505 5
+M 0 9500 15 9506 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

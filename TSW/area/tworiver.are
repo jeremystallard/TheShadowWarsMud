@@ -1,0 +1,734 @@
+#AREADATA
+Name Two Rivers~
+Builders Scarawl~
+VNUMs 7401 7599
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 1
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#7401
+A Small Home~
+This home is fairly small, but extremely comfortable with a nice warmth
+provided by the fireplace nestled in the corner.  A pair of windows provide
+the light, and a table and chairs make up the dining set.  A thick oak door
+leads back out to the streets of Emond's Field.  
+~
+0
+0 0
+S
+#7402
+A Small Home~
+This home is fairly small, but extremely comfortable with a nice warmth
+provided by the fireplace nestled in the corner.  A pair of windows provide
+the light, and a table and chairs make up the dining set.  A thick oak door
+leads back out to the streets of Emond's Field.  
+~
+0
+0 0
+S
+#7403
+A Cobble-Stone Street~
+This cobble-stone street is fairly short, ending at the front door to the
+Winespring Inn.  To the north is the town hall, where the council and
+woman's circle meet regularily.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 7404
+D1
+~
+~
+0 0
+0 0 7379
+D3
+~
+~
+3 3
+1 0 7405
+S
+#7404
+The Town Hall~
+The building is large, and very nicely crafted.  Expensive tapestries and
+paintings cover all the walls, and many windows near the ceiling provide a
+great deal of light during the day.  A very large, and long table stretches
+down the center of the hall with dozens of chairs tucked into it.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 7403
+S
+#7405
+Common Room of the Winespring Inn~
+The common room is large, and well-lit.  There are tables and chairs
+everywhere, accompanied by a long bar of stools.  A stairway leads up to the
+rooms, and a door to the north brings in wafts of delicious baking.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 7409
+D1
+~
+~
+3 3
+1 0 7403
+D4
+~
+~
+0 0
+0 0 7406
+S
+#7406
+~
+The stairway ends at a short, but well-lit hallway.  On either side is a
+door, leading to the rooms of the Winespring Inn.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 7407
+D2
+~
+~
+3 3
+1 0 7408
+D5
+~
+~
+0 0
+0 0 7405
+S
+#7407
+A Guest Room~
+The guest room is very comfortable, complete with a large bed draped in
+silk sheets.  A large oval windows allows the light to pour in, and right
+below the window is a small night-stand with a cushioned chair.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 7406
+S
+#7408
+A Guest Room~
+The guest room is very comfortable, complete with a large bed draped in
+silk sheets.  A large oval windows allows the light to pour in, and right
+below the window is a small night-stand with a cushioned chair.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 7406
+S
+#7409
+The Kitchen~
+This room is neat, and well-kept with several counters running along each
+wall.  A pair of windows provide fresh air, and release some of the
+delicious aroma's.  There is a large oven, as well as stacks of utensils and
+cookpots set upon one of the two tables in the center of the room.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 7405
+S
+#7410
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 7415
+D3
+~
+~
+0 0
+0 0 7381
+S
+#7411
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 7381
+D2
+~
+~
+0 0
+0 0 7412
+S
+#7412
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7411
+D1
+~
+~
+0 0
+0 0 7382
+D2
+~
+~
+0 0
+0 0 7414
+S
+#7413
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7415
+D3
+~
+~
+0 0
+0 0 7383
+S
+#7414
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7412
+D1
+~
+~
+0 0
+0 0 7383
+S
+#7415
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7410
+D2
+~
+~
+0 0
+0 0 7413
+D3
+~
+~
+0 0
+0 0 7382
+S
+#7416
+The North Road~
+The North road stretches through the thick woods of the two rivers, north
+towards Taren Ferry and south towards Watch Hill.  The road is very wide,
+used to handling wagons and their teams.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7417
+D1
+~
+~
+0 0
+0 0 7420
+D2
+~
+~
+0 0
+0 0 7326
+D3
+~
+~
+0 0
+0 0 7421
+S
+#7417
+The North Road~
+The North road stretches through the thick woods of the two rivers, north
+towards Taren Ferry and south towards Watch Hill.  The road is very wide,
+used to handling wagons and their teams.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7418
+D1
+~
+~
+0 0
+0 0 7423
+D2
+~
+~
+0 0
+0 0 7416
+D3
+~
+~
+0 0
+0 0 7422
+S
+#7418
+The North Road~
+The North road stretches through the thick woods of the two rivers, north
+towards Taren Ferry and south towards Watch Hill.  The road is very wide,
+used to handling wagons and their teams.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7419
+D1
+~
+~
+0 0
+0 0 7424
+D2
+~
+~
+0 0
+0 0 7417
+D3
+~
+~
+0 0
+0 0 7425
+S
+#7419
+North Road, Nearing Taren Ferry~
+The north road narrows as it comes up to the small village of Taren
+Ferry, the only exit from the Two Rivers.  The village is small, with only a
+few scattered dwellings.  The main feature is the small dock, with a
+floating craft tied to it.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7426
+D2
+~
+~
+0 0
+0 0 7418
+S
+#7420
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7423
+D3
+~
+~
+0 0
+0 0 7416
+S
+#7421
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7422
+D1
+~
+~
+0 0
+0 0 7416
+S
+#7422
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7425
+D1
+~
+~
+0 0
+0 0 7417
+D2
+~
+~
+0 0
+0 0 7421
+S
+#7423
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7424
+D2
+~
+~
+0 0
+0 0 7420
+D3
+~
+~
+0 0
+0 0 7417
+S
+#7424
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 7423
+D3
+~
+~
+0 0
+0 0 7418
+S
+#7425
+In the Woods~
+The woods here are thick, following the line of the North Road.  All
+around can be heard the sounds of the wild, the birds chirping loudly. 
+Directly to the west is the North Road, as if it were cut right out of the
+woods.  The tree's here are old, and wide providing good opportunities to
+hide.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 7418
+D2
+~
+~
+0 0
+0 0 7422
+S
+#7426
+The Center of Taren Ferry~
+The road meets an intersection here, with a road crossing east-west and
+another heading north onto the dock of the ferry.  To the south lies the
+north road and the rest of the two rivers area.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7427
+D1
+~
+~
+0 0
+0 0 7430
+D2
+~
+~
+0 0
+0 0 7419
+D3
+~
+~
+0 0
+0 0 7432
+S
+#7427
+On the Dock~
+This dock is made of solid wood, and juts out into the deep water of the
+white river.  There is a large barge, or ferry, tied to a post at the edge. 
+The ferryman is leaning on a paddle, chatting with his laborers.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7428
+D2
+~
+~
+0 0
+0 0 7426
+S
+#7428
+On The Ferry~
+The ferry sways and buckles as it fights the flow of the river, cutting
+straight across towards another dock on the far end.  Just south of you, is
+the village of Taren Ferry, and south of that the two rivers.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 7429
+D2
+~
+~
+0 0
+0 0 7427
+S
+#7429
+On the Dock~
+The well-made, wooden dock stretches out into the waters of the white
+river.  There is a ferry tied to the posts on the dock, and across the river
+to the south is a small village.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 7428
+S
+#7430
+A Cobble-Stone Street~
+This street is fairly narrow, but wide enough for a single wagon and cuts
+across the north road.  The street is lined with the homes of the villagers
+of Taren Ferry.  Back near the center of the village can be heard the sounds
+of a man yelling orders to paddle harder.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 7431
+D3
+~
+~
+0 0
+0 0 7426
+S
+#7431
+A Cobble-Stone Street~
+This street is fairly narrow, but wide enough for a single wagon and cuts
+across the north road.  The street is lined with the homes of the villagers
+of Taren Ferry.  Back near the center of the village can be heard the sounds
+of a man yelling orders to paddle harder.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 7430
+S
+#7432
+A Cobble-Stone Street~
+This street is fairly narrow, but wide enough for a single wagon and cuts
+across the north road.  The street is lined with the homes of the villagers
+of Taren Ferry.  Back near the center of the village can be heard the sounds
+of a man yelling orders to paddle harder.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 7426
+D3
+~
+~
+0 0
+0 0 7433
+S
+#7433
+A Cobble-Stone Street~
+This street is fairly narrow, but wide enough for a single wagon and cuts
+across the north road.  The street is lined with the homes of the villagers
+of Taren Ferry.  Back near the center of the village can be heard the sounds
+of a man yelling orders to paddle harder.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 7432
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 7401 0 1
+D 0 7402 2 1
+D 0 7403 0 1
+D 0 7403 3 1
+D 0 7404 2 1
+D 0 7405 1 1
+D 0 7406 0 1
+D 0 7406 2 1
+D 0 7407 2 1
+D 0 7408 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

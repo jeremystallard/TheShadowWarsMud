@@ -1,0 +1,8819 @@
+#AREADATA
+Name Lugard~
+Builders Oniren~
+VNUMs 3000 3399
+Credits { All } Diku    Midgaard~
+Security 1
+Low 0
+High 0
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#3000
+wizard~
+the wizard~
+A wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard. He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+unique~
+ABV D 900 0
+23 0 1d1+999 1d1+999 1d8+32 magic
+0 0 0 0 0
+A
+-15 -15 -15 -15
+AF ABCD 0 0
+stand stand male 15000
+0 0 medium '0'
+#3001
+baker~
+the {Wbaker{x~
+The {Wbaker{x looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+murandian~
+AB HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 beating
+0 0 0 0 0
+A
+7 7 7 7
+CDF ABCD 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#3002
+young shopkeep man~
+the grocer~
+A rather {ry{Rou{rng{x man stands behind the counter, waiting to help his customers.
+~
+A young man with an impish grin looks rather bored as he stands here.
+~
+murandian~
+AB HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 beating
+0 0 0 0 0
+A
+7 7 7 7
+EFJ ABCD 0 0
+stand stand male 50000
+0 0 medium 'flesh'
+#3003
+roughened old warrior~
+a {Dro{rug{Dh{ren{Ded{x old warrior~
+A {Dro{rug{Dh{ren{Ded{x old warrior is standing behind the counter.
+~
+A roughened old warrior who appears to have seen many days of fighting in
+his past.  
+~
+murandian~
+ABT 0 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CEIK ABCD 0 0
+stand stand male 25000
+0 0 medium 'flesh'
+#3004
+armorer portly man~
+a {mp{ro{mrtly{x armorer~
+A {mp{ro{mrtly{x man stands here polishing a breastplate.
+~
+An old but very strong armourer, he has made more armours in his
+lifetime than you have ever seen.
+~
+murandian~
+AB HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CEFJKN ABCD 0 0
+stand stand male 25000
+0 0 medium 'flesh'
+#3005
+thief~
+a {Dth{wie{Df{x~
+A rather plainly dressed {bm{Ba{bn{x blends into the crowd.
+~
+A rather plainly dressed {bm{Ba{bn{x blends into the crowd.
+~
+murandian~
+ACS P -100 0
+33 23 17d17+1089 33d10+100 4d7+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+JN 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#3006
+captain~
+a retired {Dc{Cap{Wt{Cai{cn{x~
+A retired {Dc{Cap{Wt{Cai{cn{x stands on the levee, gazing out to sea.
+~
+This captain has killed more sharks than you have eaten peas.
+~
+murandian~
+AB HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CEFIJK ABCD 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#3007
+sailor~
+a {ys{Dc{wruf{Df{yy{x sailor~
+A {ys{Dc{wruf{Df{yy{x sailor is sitting upon an empty crate, smoking a pipe.
+~
+He looks like a strong, fit sailor.
+~
+murandian~
+ABJT 0 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FHJN ABCD 0 0
+stand stand male 58
+0 0 medium 'flesh'
+F gain A
+F train A
+V tlevel 50
+#3008
+elderly woman~
+an {We{Dld{We{Drly{x woman~
+An {We{Dld{We{Drly{x woman sits here cuddling a large {Dgr{wa{Dy{x and {Wwhite{x cat.
+~
+L An {We{Dld{We{Drly{x woman sits here cuddling a large {Dgr{wa{Dy{x and {Wwhite{x cat.
+~
+murandian~
+AB HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FIKMN ABCD 0 0
+stand stand male 4000
+0 0 medium 'flesh'
+#3009
+jeweller~
+the {cj{Cew{We{Cle{cr{x ~
+The {cj{Cew{We{Cle{cr{x is standing behind the desk.
+~
+A rather fat, jolly appearing man with a watchful gleem in his eyes.
+~
+andoran~
+AB Vc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 slap
+0 0 0 0 0
+A
+7 7 7 7
+AF ABCD 0 0
+stand stand male 58000
+0 0 medium 'flesh'
+#3010
+leather worker~
+the {Dl{yea{Dth{ye{Dr{x worker~
+The {Dl{yea{Dth{ye{Dr{x worker is sitting by the table, sewing a leather cap.
+~
+She looks as an honest, hard-working artisan who only just earns enough to
+keep herself going.
+~
+murandian~
+AB HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+AFN ABCD 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#3011
+Hassan~
+Hassan~
+Hassan is here, waiting to dispense some justice.
+~
+Big. Very big.
+Stupid. Very stupid.
+
+Hassan, the local brute squad of the Tower Guard, towers over you.  He's 7 
+feet tall, every inch of it muscle. It would be a Bad Thing to commit a crime
+in his presence.
+~
+unique~
+ABTV DFJV 1000 3000
+45 30 1d1+3999 1d1+499 5d4+40 crush
+0 0 0 0 0
+A
+-25 -25 -25 -15
+ACDEFHIKLNOT ABP CD 0
+stand stand male 0
+0 0 huge '0'
+#3012
+healer~
+the healer~
+A healer is here, doing what healers do.
+~
+Although retired from the white tower, the healer still lends a hand.
+Type 'heal' to see a listing of weaves.
+~
+unique~
+ABQVa DFH 1000 0
+40 0 1d1+999 1d1+999 2d4+30 divine
+0 0 0 0 0
+A
+-15 -15 -15 -15
+FHIK ABCD 0 0
+stand stand male 5000
+0 0 medium '0'
+#3013
+serving girl~
+a {Wserving{x girl~
+A {Wserving{x girl makes her way through the tables.
+~
+~
+murandian~
+ABT 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 Q
+stand stand female 25
+0 0 medium 'flesh'
+#3014
+minstrel~
+a {rm{Ri{Wnstr{Re{rl{x~
+A wandering {rm{Ri{Wnstr{Re{rl{x plays his lute for the singer.
+~
+~
+murandian~
+ABT 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 Q
+stand stand male 35
+0 0 medium 'flesh'
+#3015
+singer busty~
+a {rs{Ri{rng{Re{rr{x~
+A rather busty {rr{Re{rd{D-{rh{Rea{rd{x stands near the minstrel singing her heart out.
+~
+~
+murandian~
+ABT 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 Q
+stand stand female 25
+0 0 medium 'flesh'
+#3016
+andy~
+{bA{Bndy{x~
+Wearing a long blue apron, {bA{Bndy{x moves around the pub.
+~
+~
+murandian~
+AGTY 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+BFK 0 0 R
+stand stand male 300
+0 0 medium 'flesh'
+#3017
+bartender~
+the {rb{Ra{rrt{Re{rnd{Re{rr{x~
+A friendly appearing {rb{Ra{rrt{Re{rnd{Re{rr{x stands behind the bar, polishing glasses with a rag.
+~
+~
+murandian~
+AB HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CFIKN 0 0 Q
+stand stand male 5000
+0 0 medium 'flesh'
+#3018
+dancer girl~
+a {rd{Ra{rncer{x~
+A young {rd{Ra{rncing{x girl kicks her legs high in the air.
+~
+~
+murandian~
+ABS 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#3019
+bookkeeper~
+the {yb{woo{ykk{wee{yp{we{yr{x~
+A {yscr{wa{ywny{x man wearing wire-framed glasses sits behind a desk.
+~
+~
+murandian~
+ABS 0 0 0
+36 26 19d20+1296 36d10+100 4d10+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 Q
+stand stand male 300
+0 0 medium 'flesh'
+#3020
+aes sedai aessedai~
+an {YA{We{Ys S{Weda{Yi{x~
+A graying {Yw{Woma{Yn{x with an ageless face.
+~
+Even though this Aes Sedai looks old and tired, you can clearly see the
+vast amount of knowledge she possesses. She is wearing fine silk clothing,
+and if you had to guess, you'd bet she could turn you inside out if she 
+felt her life was threatened.
+~
+arafellin~
+ABa DEFJ 1000 0
+77 67 39d39+5929 77d10+100 8d15+38 magic
+300 300 300 300 300
+A
+4 4 4 4
+FG AB 0 R
+stand stand female 1000
+0 0 medium 'flesh'
+#3021
+guildmaster master~
+the {gGu{Gildmast{ger{x~
+The {gGu{Gildmast{ger{x is standing here.
+~
+~
+murandian~
+ABJb DEFHJ 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+EFHIK ABCD 0 0
+stand stand male 0
+0 0 medium '0'
+F gain A
+F train A
+V tlevel 25
+#3022
+guildmaster master~
+the guildmaster~
+Your guildmaster is standing here.
+~
+You realize that whenever your guildmaster moves, you fail to notice it:
+the way of the true thief.  She is dressed in poor clothing, having
+the appearance of a beggar.
+human~
+unique~
+ABKSV DFJ 1000 0
+36 0 1d1+1999 1d1+199 3d8+24 punch
+0 0 0 0 0
+A
+-15 -15 -15 -15
+BEFHJN ABCD 0 0
+stand stand female 0
+0 0 medium '0'
+#3023
+guildmaster master~
+the guildmaster~
+A GuildMaster is standing here.
+~
+This is your master. A short, strong man with bulging muscles.  Several scars
+across his body prove that he was using arms before you were born.  He
+has a calm look on his face.
+~
+unique~
+ABKTV DF 1000 0
+36 0 1d1+1999 1d1+199 3d8+24 beating
+0 0 0 0 0
+A
+-20 -20 -20 -20
+ACDEIK ABCD 0 0
+stand stand male 0
+0 0 medium '0'
+#3024
+warder~
+a {Dw{ga{Drd{ge{Dr{x~
+This man is aging, but still appears as though he could break you in two.
+~
+He is an experienced warrior who has specialized in the field of Combat.
+He is here to guard the woman who lives here.
+~
+andoran~
+ABT BD 800 0
+100 90 51d52+10000 100d10+100 11d11+50 magic
+0 0 0 0 0
+A
+7 7 7 7
+AEG AB CD 0
+stand stand male 2000
+0 0 medium 'flesh'
+#3025
+bouncer~
+a {gbo{Gunc{ger{x~
+A {gbo{Gunc{ger{x is guarding the entrance.
+~
+~
+murandian~
+ABT DJ 800 0
+30 20 16d17+900 30d10+100 4d4+15 punch
+0 0 0 0 0
+A
+1 1 1 1
+DEIK AB CD 0
+stand stand male 25
+0 0 medium '0'
+#3026
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as possible,
+using all sorts of weapons.  His superior knowledge of how and where to use
+them combined with his extraordinary stealth makes him a deadly opponent.
+~
+unique~
+ABSTV DFPQ 800 0
+30 8 1d1+999 1d1+99 4d10+12 pierce
+0 0 0 0 0
+A
+-12 -12 -12 -6
+BEFJN AB CD 0
+stand stand male 2000
+0 0 medium '0'
+#3027
+guard~
+the guard~
+A guard is guarding the entrance.
+~
+He is an expert guardsman who has attained prestige through countless
+chivalrous deeds.  His duty is to protect the weaponsmith and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+unique~
+ABTV DF 800 0
+30 10 1d1+999 1d1+199 11d4+10 punch
+0 0 0 0 0
+A
+-10 -10 -10 -4
+ACDEHIK AB CD 0
+stand stand male 2000
+0 0 medium '0'
+#3028
+little girl~
+a little {Mg{Wi{Mrl{x~
+A tiny little {Mg{Wi{Mrl{x in a pink dress runs along the street.
+~
+~
+murandian~
+AGSW 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 small 'flesh'
+#3029
+thieftaker~
+a {gTh{Gieftak{ger{x~
+A {gTh{Gieftak{ger{x sits at the bar conversing with his companion.
+~
+~
+murandian~
+ABS 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#3030
+sneaky boy~
+a sneaky little {cb{Wo{cy{x~
+A sneaky little {cb{Wo{cy{x makes his way along the streets.
+~
+~
+murandian~
+AGSW 0 0 0
+18 8 10d11+324 18d10+100 2d10+9 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 small 'flesh'
+#3031
+crooked old man~
+a {Dcr{Woo{Dked{x old man~
+A {Dcr{Woo{Dked{x old man slowly makes his way through the city.
+~
+~
+murandian~
+AGW Y 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#3032
+local~
+a {Glo{Wc{Gal{x~
+A {Glo{Wc{Gal{x sits at a table, tapping their foot to the beat.
+~
+~
+murandian~
+ABS 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 25
+0 0 medium 'flesh'
+#3033
+friendly drunk~
+a friendly {ydr{Yu{ynk{x~
+A friendly {ydr{Yu{ynk{x sits at the bar drinking yet another ale.
+~
+~
+murandian~
+AB d 0 0
+48 38 25d26+2304 48d10+100 5d13+24 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+sit sit either 20
+0 0 medium 'flesh'
+#3034
+spider~
+a large {Dsp{ri{Dder{x~
+A rather large {Dsp{ri{Dder{x has built her web here.
+~
+~
+unique~
+ABF J 0 0
+25 15 13d13+625 25d10+100 3d8+12 bite
+0 0 0 0 0
+A
+0 0 0 0
+A 0 0 0
+stand stand female 0
+BOP ACDEFHKV medium 'unknown'
+#3035
+rough young man~
+a {yr{Wou{ygh{x young man~
+A {yr{Wou{ygh{x looking young man strides purposefully along the street.
+~
+~
+murandian~
+AGTW 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#3036
+drunk sailor~
+a {ydr{Wu{ynk {Ws{Cai{Wl{Co{Wr{x~
+A {ydr{Wu{ynk {Ws{Cai{Wl{Co{Wr{x sits at a table that's been knocked over.
+~
+~
+murandian~
+ABT 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+sit sit either 25
+0 0 medium 'flesh'
+#3037
+beautiful cat~
+a {Db{Weau{Dt{Wi{Df{Wu{Dl{x cat~
+A beautiful {Dblack{x and {Wwhite{x cat slinks along the edge of the road.
+~
+~
+cat~
+AGW JP 0 0
+20 10 11d12+400 20d10+100 3d3+10 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 small 'fur'
+F aff Z
+F off FH
+#3038
+shriveled old woman~
+a {Dsh{cri{Cv{cel{Ded{x old woman~
+A {Dsh{cri{Cv{cel{Ded{x old woman leans heavily against her cane as she walks slowly along the road.
+~
+~
+murandian~
+AGSW Y 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#3039
+badger~
+a black-eyed {Db{Wa{Ddg{We{Dr{x~
+A black-eyed {Db{Wa{Ddg{We{Dr{x is busy digging through the trash, searching for its next meal.
+~
+~
+unique~
+AB 0 0 0
+24 14 13d14+576 24d10+100 3d7+12 none
+0 0 0 0 0
+A
+0 0 0 0
+A 0 0 0
+stand stand either 0
+AGV ABCDEFGHJKQU medium 'furr'
+#3040
+cook woman~
+the {Wcook{x~
+A rather {rl{Rar{rge{x woman wearing a {Wwhite{x apron.
+~
+A rather {rl{Rar{rge{x woman wearing a {Wwhite{x apron.
+~
+murandian~
+ABT 0 900 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+O 0 0 0
+stand stand female 150
+0 0 medium 'flesh'
+#3041
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+unique~
+ABV 0 900 0
+23 0 1d1+499 1d1+99 1d8+18 beating
+0 0 0 0 0
+0
+-6 -6 -6 0
+FHJN AB CD 0
+stand stand male 150
+0 0 medium '0'
+#3042
+waiter~
+the waiter~
+A man who in his young days was a famous traveler but now leads a quiet,
+peaceful life as a waiter.
+~
+~
+unique~
+ABRV D 600 0
+23 0 1d1+499 1d1+99 1d8+18 beating
+0 0 0 0 0
+A
+-6 -6 -6 0
+FJN AB CD 0
+stand stand male 150
+0 0 medium '0'
+#3043
+waiter~
+the waiter~
+A waiter who seems to be a little addle brained.
+~
+~
+murandian~
+ABQV 0 600 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FHJN AB CD 0
+stand stand male 5000
+0 0 medium '0'
+#3044
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money.
+~
+~
+unique~
+ABSV 0 600 0
+23 0 1d1+499 1d1+99 1d8+18 beating
+0 0 0 0 0
+A
+-6 -6 -6 0
+FHJN AB CD 0
+stand stand male 150
+0 0 medium '0'
+#3045
+waiter~
+the waiter~
+A waiter who easily could kill you, and still carry quite a few firebreathers.
+~
+~
+unique~
+ABTV 0 600 0
+23 0 1d1+499 1d1+99 1d8+18 beating
+0 0 0 0 0
+A
+-6 -6 -6 0
+BFHJN AB CD 0
+stand stand male 150
+0 0 medium '0'
+#3046
+potbellied man innkeeper~
+the {cI{Cnn{yk{Ye{Wep{Ye{yr{x~
+A {cp{Co{ct{yb{Ye{Wll{Yie{yd{x man wearing a blue apron stands behind the bar.
+~
+The Innkeep scratches at his backside as he stands here waiting for his
+next customer.  
+~
+murandian~
+AB HVc 600 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+BEFJN AB CD 0
+stand stand male 50000
+0 0 medium 'flesh'
+#3047
+customer~
+a {mc{Mus{Wto{Mme{mr{x~
+A {mc{Mus{Wto{Mme{mr{x sits here, enjoying their meal.
+~
+~
+murandian~
+ABT 0 0 0
+26 16 14d15+676 26d10+100 3d9+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 15
+0 0 medium 'flesh'
+#3048
+lithe woman~
+a {Dl{ri{Rt{rh{De{x woman~
+A {Dl{ri{Rt{rh{De{x woman makes her way through the city.
+~
+~
+murandian~
+AGSW 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#3049
+dragkhar~
+a {DDr{ra{Dghk{ra{Dr{x~
+Hiding in the shadows, the {DDr{ra{Dghk{ra{Dr{x coos softly to those who approach.
+~
+~
+unique~
+ABF JQ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+HV 0 0 0
+stand stand none 0
+DE ABCDEFGHIJKPUV medium 'unknown'
+#3050
+young man hopeful recruit murandian~
+a hopeful {bM{Bur{Wand{Ria{rn{x {Dre{wcrui{Wt{x~
+A young {Bman{x stands here, hopeful of becoming a {Dre{wcrui{Wt{x.
+~
+~
+murandian~
+ABT 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#3051
+wish woman~
+a wishful {mw{Mo{Wm{Ma{mn{x~
+A young {mw{Mo{Wm{Ma{mn{x stands before the fountain, tossing a coin into its depths and making a {Cw{Wi{Csh{x.
+~
+~
+murandian~
+ABS 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#3052
+madame~
+the {rM{Ra{rda{Rm{re{x of the House~
+The {rM{Ra{rda{Rm{re{x of the House gives you a warm greeting.
+~
+~
+murandian~
+ABT HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 250
+0 0 medium 'flesh'
+#3053
+dicing man~
+a {Dd{wi{Wci{wn{Dg{x man~
+A {Dd{wi{Wci{wn{Dg{x man sits in a corner, taking his chance at luck.
+~
+~
+murandian~
+ABS 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#3054
+naked woman~
+a {yn{Wa{yk{We{yd{x woman~
+A {yn{Wa{yk{We{yd{x woman covered with mud is here, wresting with another naked woman.
+~
+~
+murandian~
+ABS 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh mud'
+#3055
+young woman~
+a young {cw{Co{Wm{Ca{cn{x~
+Wearing a tiny bathing suit, this young {cw{Co{Wm{Ca{cn{x swims lazily upon the waters.
+~
+~
+murandian~
+ABS 0 0 0
+39 29 20d20+1521 39d10+100 4d13+19 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#3056
+jeweler~
+a {cj{Cew{We{Cle{cr{x~
+A {cj{Cew{We{Cle{cr{x stands behind his counter, smiling at his customers.
+~
+~
+murandian~
+AB DFHJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#3057
+tattoo artist man~
+a tattoo {ra{Drt{Ri{Dst{x~
+A darkly {Dcl{ra{Dd{x man sits by the table.
+~
+~
+murandian~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 c 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#3058
+plainly dressed man shopkeeper~
+the {gsh{Gopkeep{ger{x~
+A rather plainly dressed {gm{Ga{gn{x is standing behind the {yc{Do{yunt{De{yr{x.
+~
+~
+murandian~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#3059
+tailor restring~
+the {mtailor{x~
+The {mtailor{x stops working to point to the {ysign{x hung upon the wall.
+~
+~
+murandian~
+ABK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#3060
+cityguard guard murdanian soldier~
+a {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x~
+A {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x patrols the streets of Lugard.
+~
+~
+murandian~
+AGT 0 1000 3000
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+K 0 C Q
+stand stand male 150
+0 0 medium 'flesh'
+#3061
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+~
+unique~
+AGH 0 900 0
+1 0 2d6+10 1d1+99 1d5+0 pound
+0 0 0 0 0
+A
+10 10 10 10
+NU 0 0 C
+stand stand either 10
+0 0 medium '0'
+#3062
+mangy dog~
+a {Dm{rang{Dy{x dog~
+A {Dm{rang{Dy{x dog wanders the city in search of food.
+~
+A {Dm{rang{Dy{x dog wanders the city in search of food.
+~
+fido~
+AGHUW 0 -200 0
+13 3 7d7+169 13d10+100 2d5+6 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 small 'matted fur'
+F off FR
+#3063
+vagabond~
+a {Dv{yag{wab{yon{Dd{x~
+A {Dv{yag{wab{yon{Dd{x is here, looking for victims.
+~
+~
+murandian~
+ACS 0 -200 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+JN 0 0 C
+stand stand male 18
+0 0 medium '0'
+#3064
+patron~
+a {Rp{ra{Dtr{ro{Rn{x~
+A {Rp{ra{Dtr{ro{Rn{x sits at the table, drinking his ale.
+~
+A {Rp{ra{Dtr{ro{Rn{x sits at the table, drinking his ale.
+~
+murandian~
+ABT 0 400 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 R
+stand stand male 25
+0 0 medium 'flesh'
+#3065
+jolly man~
+a {mj{Mo{mlly{x man~
+A {mj{Mo{mlly{x man taps his foot to the music.
+~
+~
+murandian~
+ABT 0 400 0
+33 23 17d17+1089 33d10+100 4d7+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 R
+stand stand male 25
+0 0 medium 'flesh'
+#3066
+cat~
+an alley cat~
+An alley cat hisses at you.
+~
+The alley cat is half starved and more than a little feral.
+~
+cat~
+AFGHUW J -200 0
+20 10 11d12+400 20d10+100 3d3+10 scratch
+0 0 0 0 0
+A
+0 0 0 0
+DR 0 0 C
+stand stand either 0
+0 0 small '0'
+F aff Z
+F off FH
+#3067
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+unique~
+ABT 0 1000 3000
+15 3 15d15+160 1d1+149 2d4+4 punch
+0 0 0 0 0
+A
+0 0 0 8
+CDEKLTU 0 C 0
+stand stand either 150
+0 0 medium '0'
+#3068
+guard gateguard murandian soldier man~
+a {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x~
+Standing at attention, this {Ds{woldi{Wer{x guards the gates to the city.
+~
+Wearing the uniform of the guard, this man stands at attention beside the
+gate.  
+~
+andoran~
+ABT 0 1000 3000
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IK 0 0 0
+stand stand either 150
+0 0 medium 'flesh'
+#3069
+murandian soldier cityguard guard~
+a {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x~
+A {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x stands at attention.
+~
+A big, strong, helpful, trustworthy guard.
+~
+murandian~
+ABT 0 1000 3000
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+K 0 0 0
+stand stand either 30
+0 0 medium 'flesh'
+#3070
+shopkeeper old man~
+the ancient tea-brewer~
+An old man eyes you greedily.
+The old man says, 'Would you like to buy a nice sleeping tea?'
+~
+He looks very dangerous.  I wouldn't try to rob him.
+~
+unique~
+ABQRV DEF 1000 0
+32 0 1d1+999 1d1+999 10d10+10 magic
+0 0 0 0 0
+A
+-15 -15 -15 -15
+FGH ABCD 0 0
+stand stand male 5000
+0 0 medium '0'
+#3071
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate alertly.
+~
+A big, strong, helpful, trustworthy guard.
+~
+unique~
+ABT 0 1000 3000
+15 3 15d15+160 1d1+149 2d4+4 punch
+0 0 0 0 0
+A
+0 0 0 8
+CDEKLTU 0 C 0
+stand stand either 150
+0 0 medium '0'
+#3072
+cityguard guard~
+the cityguard~
+A cityguard is here, guarding the gate.  He is half asleep.
+~
+A big, strong, helpful, trustworthy guard.
+~
+unique~
+ABT 0 1000 3000
+15 3 15d15+160 1d1+149 2d4+4 punch
+0 0 0 0 0
+A
+0 0 0 8
+CDEKLTU 0 C 0
+stand stand either 150
+0 0 medium '0'
+#3073
+young murandian officer~
+a {bM{Bur{Wand{Ria{rn{x {yo{Yf{Wfic{Ye{yr{x~
+A young {yo{Yf{Wfic{Ye{yr{x stands here, casting a {Dd{war{Dk g{waz{De{x over the area.
+~
+~
+murandian~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#3074
+locksmith~
+a {Wlocksmith{x~
+The {Wlocksmith{x is standing behind the counter, serving his customers.
+~
+~
+murandian~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#3075
+exotic beauty~
+an exotic beauty~
+An exotic beauty walks with a seductive sway to her hips.
+~
+Tall, curvy and buxom all describe this woman well, her features striking
+and exotic looking.  Her long {Dblack{x hair falls freely about her shoulders,
+an odd lock of grey hair standing out on the left side of her face.  Dark
+{ybrown{x eyes sparkle with mischief while her full {rred{x lips remain in a pouty
+smile.  Her {bblue{x and {yg{Yol{yd{x ensemble both hugs and flows about her.  A dipping
+neckline shows ample cleavage, the tight {bbo{Bdi{bce{x showing an hour glass figure
+and a slender waist while the flared skirt swirls and clings against her
+legs.  A sash of {yg{Yol{yd{x silk hangs off her hips and down the middle of the
+skirt, intricate embrodiery bringing out details on the sash.  
+~
+domani~
+AGSW 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#3076
+referee~
+the {Wre{wf{De{wr{Wee{x~
+The {Wre{wf{De{wr{Wee{x is a very curvaceous woman, wonder how long she'll last without being sloshed in the mud.  
+~
+~
+murandian~
+ABT 0 0 0
+42 32 22d23+1764 42d10+100 5d7+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+F ABb C 0
+stand stand female 50
+0 0 medium 'unknown'
+#3077
+spindly old man market stall trader~
+a market trader~
+A spindly old man is hawking goods at one of the {rm{Ra{rrk{Re{rt s{Rt{ral{Rl{rs{x.
+~
+~
+murandian~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#3078
+market stalls trader weapons~
+a market trader~
+One of the {bm{Ba{crk{Be{bt s{Bt{cal{Bl{bs{x is being used to sell {Dw{we{Wapo{wn{Ds{x.
+~
+~
+murandian~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#3079
+market stall trader rotund woman~
+a market trader~
+A rotund woman is standing by one of the {gm{Ga{Crk{Ge{gt s{Gt{Cal{Gl{gs{x.
+~
+~
+murandian~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#3080
+market stall trader~
+a market trader~
+A colorful {ym{Ya{Wrk{Ye{yt s{Yt{Wa{Yl{yl{x has been set up here.
+~
+~
+murandian~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#3090
+kitten cat pet~
+an orange tabby {yk{ri{Rtt{re{yn{x~
+An adorable orange tabby {yk{ri{Rtt{re{yn{x is curled up here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+cat~
+AI JP 400 0
+8 0 5d6+64 8d10+100 1d9+4 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 BC R
+stand stand either 0
+0 0 tiny 'fur'
+F aff Z
+F off H
+#3091
+puppy dog pet~
+a {yt{Ya{yn{x and {ybr{wo{ywn{x puppy~
+A small {yt{Ya{yn{x and {ybr{wo{ywn{x puppy is sitting here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+dog~
+AI F 400 0
+6 0 4d5+36 6d10+100 1d7+3 bite
+0 0 0 0 0
+A
+0 0 0 0
+N 0 C 0
+stand stand either 0
+0 Q small 'flesh'
+#3092
+parrot pet~
+a {ggr{Gee{gn{x and {Yye{Wll{Yow{x parrot~
+A {ggr{Gee{gn{x and {Yye{Wll{Yow{x parrot resting upon a branch is here.
+~
+A {ggr{Gee{gn{x and {Yye{Wll{Yow{x parrot resting upon a branch is here.
+~
+song bird~
+AI 0 400 0
+4 0 3d4+16 4d10+100 1d5+2 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 CER 0
+stand stand either 0
+V JQU small 'feathers'
+#3093
+rottweiler dog pet~
+a {Drot{ytwei{Dler{x~
+A large, loyal {Drot{ytwei{Dler{x is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+dog~
+AI F 400 0
+10 0 6d7+100 10d10+100 2d2+5 bite
+0 0 0 0 0
+A
+0 0 0 0
+CDL 0 C 0
+stand stand either 0
+0 0 medium '0'
+#3094
+wolf pet~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+wolf~
+ABU FJ 0 0
+9 3 6d10+80 1d1+99 2d5+1 bite
+0 0 0 0 0
+A
+4 4 4 8
+C 0 C 0
+stand stand either 0
+0 0 medium '0'
+F aff Z
+#3095
+eagle bird pet~
+the eagle~
+A loyal eagle circles overhead.
+~
+The eagle looks like a strong fierce fighter.
+~
+song bird~
+ABIU FJ 0 0
+12 3 6d10+130 1d1+99 2d5+3 claw
+0 0 0 0 0
+A
+0 0 0 8
+N 0 C 0
+stand stand either 0
+0 U small '0'
+#3096
+lion pet~
+the lion~
+A large, faithful lion is here.
+~
+The great lion looks very fierce.
+~
+cat~
+ABIU FJ 0 0
+15 2 4d9+205 1d1+99 2d8+3 chomp
+0 0 0 0 0
+0
+-2 -2 -2 7
+C 0 C 0
+stand stand either 0
+0 0 medium '0'
+F aff Z
+#3097
+tiger pet~
+the tiger~
+A great, loyal tiger is here.
+~
+The large, striped tiger looks like a savage fighter.
+~
+cat~
+ABIU FJ 0 0
+20 3 4d9+325 1d1+99 4d4+5 claw
+0 0 0 0 0
+0
+-4 -4 -4 6
+CMN 0 C 0
+stand stand either 0
+0 0 medium '0'
+F aff Z
+#3100
+maid~
+the {cm{Wai{cd{x~
+The {cm{Wai{cd{x is waiting for your order.
+~
+She is very beautiful with golden hair, and deep blue eyes. A good reason
+for coming here more often.
+~
+murandian~
+AB 0 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FG AB CD 0
+stand stand female 5000
+0 0 medium 'flesh'
+#3120
+sexton~
+a {Ds{re{Dxt{ro{Dn{x~
+A {Ds{re{Dxt{ro{Dn{x looks like he is relaxing after another grave-digging job.
+~
+The sexton looks like he is relaxing after another grave-digging job.
+~
+murandian~
+ABH 0 800 0
+34 24 18d19+1156 34d10+100 4d8+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 C
+sit sit male 75
+0 0 medium 'flesh'
+#3121
+swan~
+{Wswan{x~
+A {Wswan{x is lazily swimming in the {Cp{Wo{Cnd{x.
+~
+A long-necked {Wswan{x seems elegant as it swims about the pond.
+~
+water fowl~
+AB 0 1000 0
+17 7 9d9+289 17d10+100 2d9+8 peck
+0 0 0 0 0
+A
+0 0 0 0
+F 0 0 C
+stand stand either 0
+0 0 small 'feathers'
+F aff Tb
+#3122
+duckling~
+a {yd{Yuc{Wkl{Yin{yg{x~
+A {yd{Yuc{Wkl{Yin{yg{x is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+water fowl~
+AB 0 1000 0
+9 0 5d5+81 9d10+100 1d10+4 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 C
+stand stand either 0
+0 0 tiny 'feathers'
+F aff Tb
+#3123
+sparrow~
+a {ysp{ra{Rrr{ro{yw{x~
+A {ysp{ra{Rrr{ro{yw{x is bathing in a pool of water.
+~
+A {ysp{ra{Rrr{ro{yw{x seems to be enjoying life as it bathes in the water, throwing
+some over its back with its beak.  
+~
+song bird~
+AGW 0 1000 0
+15 5 8d8+225 15d10+100 2d7+7 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 C
+stand stand either 0
+0 0 tiny 'feathers'
+F off F
+#3124
+duck~
+a {yd{Yu{yck{x~
+A {yd{Yu{yck{x is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+water fowl~
+AGW 0 1000 0
+16 6 9d10+256 16d10+100 2d8+8 peckb
+0 0 0 0 0
+A
+0 0 0 0
+F 0 0 C
+stand stand either 0
+0 0 small 'feathers'
+F aff b
+#3140
+captain guard~
+the {DC{wapta{Win{x of the {bG{Bu{Wa{Rr{rd{x~
+Sitting behind the desk is a {Dgr{we{Dy{W-{Dh{Wai{Dr{We{Dd{x man.
+~
+Sitting behind the desk is a {Dgr{we{Dy{W-{Dh{Wai{Dr{We{Dd{x man.
+~
+murandian~
+ABT D 1000 3000
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CK 0 C Q
+sit sit male 250
+0 0 medium 'flesh'
+#3141
+guard cityguard murandian soldier man~
+a {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x~
+A {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x stands here, getting his orders.
+~
+A {bM{Bur{Wand{Ria{rn{w {Ds{woldi{Wer{x stands here, getting his orders.  
+~
+murandian~
+ABT 0 1000 3000
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+EF 0 0 R
+stand stand male 25
+0 0 medium 'flesh'
+#3142
+secretary~
+the {ms{Mec{Wret{Mar{my{x~
+A trim, petite {Mwoman{x sits behind the desk.
+~
+~
+murandian~
+ABS 0 900 0
+37 27 19d19+1369 37d10+100 4d11+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+W 0 0 0
+sit sit female 50
+0 0 medium 'flesh'
+#3143
+recruitment officer murandian~
+a {bM{Bur{Wand{Ria{rn{x {yo{Yf{Wfic{Ye{yr{x~
+A recruitment {yo{Yf{Wfic{Ye{yr{x stands here, giving orders to his men.
+~
+He is a stocky, middle-aged man with thin, grey hair.
+~
+murandian~
+AB 0 900 3000
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+EF AB 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#3144
+town crier~
+the {rt{Ro{rwn {Dcr{Wie{Dr{x~
+The {rt{Ro{rwn {Dcr{Wie{Dr{x stands upon a box, shouting out city announcements at the top of his lungs.
+~
+The {rt{Ro{rwn {Dcr{Wie{Dr{x stands upon a box, shouting out city announcements at the top of his lungs.
+~
+murandian~
+ABHT 0 900 0
+31 21 16d16+961 31d10+100 4d5+15 punch
+0 0 0 0 0
+A
+1 1 1 1
+J 0 0 C
+stand stand male 25
+0 0 medium 'flesh'
+#3150
+aitress~
+a waitress~
+The waitress hums to herself as she takes her customers' orders.
+~
+~
+murandian~
+AB 0 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FG ABCD 0 0
+stand stand male 5000
+0 0 medium '0'
+#3160
+wisdom helper~
+a wisdom's {ch{Ce{clp{Ce{cr{x~
+A pretty young {cw{Co{cm{Ca{cn{x is busy crushing dried herbs.
+~
+A pretty young {cw{Co{cm{Ca{cn{x is busy crushing dried herbs.
+~
+murandian~
+ABJa HVc 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+100 100 100 100 100
+A
+7 7 7 7
+FG ABCD 0 0
+stand stand female 1000
+0 0 medium 'flesh'
+F gain B
+F train B
+V tlevel 50
+#3161
+cat kitten calico~
+a {rc{ya{Wli{yc{ro{x cat~
+A {rc{ya{Wli{yc{ro{x cat rubs against customers ankles, purring before dashing off after a fly.
+~
+This is a nice looking calico cat.  She appears to have a talent for
+catching rat's as she is quite round.  
+~
+cat~
+AB DJ 200 0
+27 17 14d14+729 27d10+100 3d10+13 bite
+0 0 0 0 0
+A
+0 0 0 0
+NR 0 FL I
+stand stand female 0
+XYc LX small 'fur'
+F aff Z
+F off H
+#3162
+otho money changer moneychanger~
+Otho the Changer~
+Otho the Money Changer sits behind his desk, waiting for your coins.
+~
+Otho is grotesquely fat man dressed in rich clothes.  Apparently the money
+changing business pays quite well in this busy city, or possibly the rumors
+of his fencing services are true...
+~
+murandian~
+ABDd DF 900 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FG ABCD 0 0
+stand stand male 5000
+0 0 medium '0'
+#3163
+sultry serving wench~
+a {rs{Ru{rltry{x serving wench~
+A {rs{Ru{rltry{x serving wench carrying a loaded tray.
+~
+~
+murandian~
+AHS 0 -100 0
+38 28 20d21+1444 38d10+100 4d12+19 punch
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand female 100
+0 0 medium 'flesh'
+#3180
+young woman~
+{x{DCl{wot{Dho{x~
+{x{YQUEST{x A beautiful young woman stands here, holding a spindle.
+~
+KILL THE BIZNITCH!
+~
+unique~
+AGT JT -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 knee
+0 0 0 0 0
+0
+7 7 7 7
+FGIJKNe 0 0 0
+stand stand female 4000
+0 0 medium 'flesh'
+#3181
+middle aged woman~
+{x{YL{yac{Whie{ysi{Ys{x~
+{x{YQUEST{x A middle aged woman stands here, measuring threads.
+~
+KILL THE BIZNITCH!!
+~
+unique~
+AGT JT -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 shoulderbash
+0 0 0 0 0
+0
+7 7 7 7
+FHIJKe 0 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#3182
+old woman~
+{x{BAt{wrop{Bos{x~
+{x{YQUEST{x An old woman stands here, cutting threads.
+~
+KILL THE BIZNITCH!!!
+~
+unique~
+AGT JT -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 crush
+0 0 0 0 0
+0
+7 7 7 7
+EFHIJKNe 0 0 0
+stand stand female 6000
+0 0 medium 'flesh'
+#3183
+twisted man~
+{x{GM{gu{Drp{gh{Gy{x~
+{x{YQUEST{x A man stands here wearing a twisted grin and holding a big, thick lawbook and a bloody quill.
+~
+KILL THE BASTAGE!!!
+~
+unique~
+AGT JV -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 shoulderbash
+0 0 0 0 0
+0
+7 7 7 7
+DEFIJKe 0 0 0
+stand stand male 7000
+0 0 medium 'flesh'
+#3184
+connection~
+{x{YY{yas{mmi{Wne's{x {BConnection{X~
+{x{YQUEST{x An evil little creature named 'Connection', sits here.
+~
+KILL THE BASTAGE!!!
+~
+unique~
+AGT J -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 crush
+0 0 0 0 0
+0
+7 7 7 7
+DEFIJKe 0 0 0
+stand stand male 8000
+0 0 medium 'unknown'
+#3185
+ex boss~
+{x{BD{Wa{Bv{We{x~
+{x{YQUEST{x The man that fired you for no good reason, your evil ex boss, stands here.
+~
+KILL THE BASTAGE!!!
+ 
+~
+unique~
+AGT JV -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 punch
+0 0 0 0 0
+0
+7 7 7 7
+EFIJKe 0 0 0
+stand stand male 10000
+0 0 medium 'unknown'
+#3186
+stupid woman~
+{x{MK{mell{Mi{x~
+{x{YQUEST{x The stupid woman who didn't hire you stands here.
+~
+KILL THE BIZNITCH!!!
+~
+unique~
+AGT JV -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 slap
+0 0 0 0 0
+0
+7 7 7 7
+EFIJKe 0 0 0
+stand stand female 10000
+0 0 medium 'flesh'
+#3187
+pretty boy~
+{x{BLe{wonar{Bdo {WDi'{bcaprio{X~
+{x{YQUEST{x A pretty boy stands here, preening at himself.
+~
+KILL THE BASTAGE!!!
+~
+unique~
+AGT J -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 slap
+0 0 0 0 0
+0
+7 7 7 7
+DEFHIKe 0 0 0
+stand stand female 10000
+0 0 medium 'unknown'
+#3188
+idiot girl~
+{x{MBr{Wit{Ca{Wn{My Sp{Wea{Cr{Ms{x~
+{x{YQUEST{x An idiot girl with a bad boob job stands here, singing into a microphone.
+~
+KILL THE BIZNITCH!!!
+~
+unique~
+AGT J -1000 0
+150 95 53d53+11025 105d10+100 11d16+52 slap
+0 0 0 0 0
+0
+7 7 7 7
+EFHIJKe 0 0 0
+stand stand female 10000
+0 0 medium 'unknown'
+#3399
+Queen's Guard Queens'guard queensguard~
+a strong-armed {RQ{Wu{Re{We{Rn's G{Wu{Ra{Wr{Rd{x~
+A {RQ{Wu{Re{We{Rn's G{Wu{Ra{Wr{Rd{Ws{Rm{Wa{Rn{x keeps the streets of {RCa{re{Wm{rl{Ryn{x safe.
+~
+This is a soldier of {RA{rn{Wd{ro{Rr{x.  He is steady-looking, with focused brown
+eyes and a little brown hair sticks out of his helmet.  
+~
+andoran~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slice
+0 0 0 0 0
+A
+6 6 6 6
+CEFKNRU 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+G LionThrone~
+F guard_flag B
+#0
+
+
+
+#OBJECTS
+#3000
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+wood~
+fountain 0 P
+300 300 'beer' 0 0
+0 160 75 100
+#3001
+bottle beer~
+a bottle of beer~
+A beer bottle has been left here.~
+glass~
+drink 0 A
+16 16 'beer' 0 0
+0 1 5 100
+#3002
+bottle ale~
+a bottle of ale~
+A dark bottle of ale has been left here.~
+glass~
+drink 0 A
+16 16 'ale' 0 0
+0 1 6 100
+#3003
+bottle firebreather~
+a bottle of firebreather~
+A bottle of firebreather has been left here.~
+glass~
+drink 0 A
+12 12 'firebreather' 0 0
+0 1 25 100
+#3004
+bottle local~
+a bottle of local specialty~
+A dark bottle has been left here.~
+glass~
+drink 0 A
+12 12 'local specialty' 0 0
+0 1 11 100
+#3005
+scimitar blade~
+Hassan's scimitar~
+Hassan's scimitar lies upon the ground, waiting for its owner.~
+adamantite~
+weapon BI AN
+sword 4 10 'cleave' F
+42 450 5600 100
+E
+scimitar blade~
+It is quite heavy.  The blade is made of some metal that you can't even
+spell.  The edge of the blade looks as if it could cut through anything
+or anyone.
+~
+#3006
+stone~
+A Clan Stone~
+Somebody left their Clan Stone here.~
+adamite~
+food 0 A
+45 45 0 0 0
+0 20 0 100
+#3007
+oaken bar~
+a long {yo{Ya{Wken{x bar~
+A long {yo{Ya{Wken{x bar has been set in the back of the pub.~
+mahogany~
+furniture 0 P
+4 4000 D 100 100
+0 19999 0 100
+#3008
+table chair~
+a wooden {ych{Yai{yr{x~
+Large round {yt{Ya{Wbl{Ye{ys{x are spread throughout the room, each with chairs pushed beneath.~
+wood~
+furniture 0 P
+10 99999 EH 105 105
+0 0 0 100
+#3009
+steak pie~
+a {rsteak{x pie~
+A large steak pie has been left here.~
+food~
+food 0 A
+14 14 0 0 0
+0 1 40 100
+#3010
+pit~
+the donation pit~
+A pit for sacrifices is in front of the fireplace.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 100
+E
+pit~
+This is where you put money and items to help expand this shrine and
+help the poor.
+~
+#3011
+bread~
+a loaf of stale {ybr{wea{yd{x~
+A loaf of stale {ybr{wea{yd{x is here.~
+food~
+food 0 A
+5 5 0 0 0
+0 1 10 100
+#3012
+cinnamon roll~
+a hot {rc{Rin{Wna{Rmo{rn{x {yr{Wo{yll{x~
+A pipping hot {rc{Rin{Wna{Rmo{rn{x {yr{Wo{yll{x is here.~
+food~
+food 0 A
+3 3 0 0 0
+1 1 14 100
+#3013
+cookies~
+chocolate chip {yc{Yoo{yk{Yie{ys{x~
+A plate of chocolate chip {yc{Yoo{yk{Yie{ys{x is here.~
+food~
+food 0 A
+2 2 0 0 0
+5 2 12 100
+#3014
+danish blueberry~
+a blueberry {bda{Bni{bsh{x~
+A scrumptious blueberry {bda{Bni{bsh{x is here.~
+food~
+food 0 A
+4 4 0 0 0
+10 1 15 100
+#3015
+bed~
+a comfortable {ybed{x~
+An old, yet comfortable {ybed{x covered with a {bw{Boo{bl{Be{bn{x blanket.~
+cloth~
+furniture 0 P
+2 50000 EHK 150 150
+0 0 0 100
+#3016
+wooden bow~
+a {yw{woo{yd{we{yn{x bow~
+A small, {yw{woo{yd{we{yn{x bow has been left here.~
+wood~
+weapon S AN
+bow 5 8 'thwack' 0
+20 2 150 100
+A
+19 1
+#3017
+wooden arrow~
+a plain {yw{woo{yd{we{yn{x arrow~
+A plain {yw{woo{yd{we{yn{x arrow with a steel tip is stuck in the ground.~
+wood~
+weapon S AO
+arrow 5 8 'pierce' 0
+20 1 15 100
+#3018
+polearm~
+a stout wooden {Dp{yol{Ye{yar{Dm{x~
+A stout wooden {Dp{yol{Ye{yar{Dm{x has been left here.~
+steel~
+weapon 0 AN
+polearm 5 8 'slash' F
+20 3 150 100
+A
+19 1
+#3019
+lance~
+a stout wooden {yl{ra{ynce{x~
+A stout wooden {yl{ra{ynce{x has been left here.~
+wood~
+weapon S AN
+lance 5 8 'thrust' 0
+20 3 150 100
+A
+19 1
+#3020
+dagger~
+a {Dd{wa{Wgg{we{Dr{x~
+A {Dd{wa{Wgg{we{Dr{x with a long thin blade is here.~
+steel~
+weapon 0 AN
+dagger 5 8 'stab' 0
+20 1 150 100
+A
+19 1
+#3021
+sword small~
+a small {Ds{ww{Wo{wr{Dd{x~
+A small {Ds{ww{Wo{wr{Dd{x lies here.~
+steel~
+weapon 0 AN
+sword 5 8 'slash' 0
+20 3 150 100
+A
+18 1
+#3022
+sword long~
+a long {Ds{ww{Wo{wr{Dd{x~
+A long {Ds{ww{Wo{wr{Dd{x has been left here.~
+steel~
+weapon 0 AN
+sword 5 8 'slash' F
+20 5 150 100
+A
+19 1
+#3023
+stout club~
+a {Ds{wt{Wou{Dt{x wooden club~
+A {Ds{wt{Wou{Dt{x wooden club is here.~
+wood~
+weapon S AN
+mace 5 8 'smash' 0
+20 3 150 100
+A
+18 1
+#3024
+mace heavy~
+a heavy {Wi{Dro{Wn{x mace~
+A heavy {Wi{Dro{Wn{x mace is here.~
+iron~
+weapon 0 AN
+mace 5 8 'pound' 0
+20 8 150 100
+A
+19 1
+#3025
+axe hand~
+a small hand {ra{Dx{re{x~
+A small hand {ra{Dx{re{x lies forgotten on the floor.~
+iron~
+weapon 0 AN
+axe 2 7 'cleave' 0
+15 5 150 100
+A
+18 1
+#3026
+axe battle~
+a {Db{wa{Wtt{wl{De {ra{Dx{re{x~
+A large {Dst{Wee{Dl {ra{Dx{re{x rests on the ground.~
+steel~
+weapon 0 AN
+axe 5 8 'chop' F
+20 9 150 100
+A
+19 1
+#3027
+spear~
+a long {Dsp{yea{Dr{x~
+A long {Dsp{yea{Dr{x leans against the wall.~
+steel~
+weapon 0 AN
+spear 5 8 'pierce' 0
+20 7 150 100
+A
+19 1
+#3028
+staff~
+a stout wooden {yst{Ya{yff{x~
+A stout wooden {yst{Ya{yff{x lies on the floor.~
+wood~
+weapon 0 AN
+staff 5 8 'smash' F
+20 5 150 100
+A
+19 1
+#3029
+flail~
+a small iron {Df{wl{Wa{wi{Dl{x~
+A small iron {Df{wl{Wa{wi{Dl{x is here.~
+iron~
+weapon 0 AN
+flail 5 8 'pound' 0
+20 5 150 100
+A
+19 1
+#3030
+torch~
+a large {yt{ro{Rr{rc{yh{x~
+A large {yt{ro{Rr{rc{yh{x gives off light and smoke.~
+wood~
+light 0 AQ
+0 0 50 0 0
+1 1 10 100
+A
+13 20
+#3031
+lantern~
+a hooded {Db{yr{Ya{ys{Ds{x lantern~
+A hooded {Db{yr{Ya{ys{Ds{x lantern has been left here.~
+brass~
+light 0 A
+0 0 250 0 0
+20 1 50 100
+A
+5 1
+#3032
+bag~
+a small {yb{ra{yg{x~
+A small {yb{ra{yg{x has been left here.~
+leather~
+container 0 A
+100 0 0 50 100
+20 2 25 100
+#3033
+woolen blanket bedroll~
+a rough, {Wwoolen{x blanket~
+A rough, {Wwoolen{x blanket has been discarded here.~
+wool~
+furniture S A
+1 4000 EHK 110 110
+20 2 30 100
+#3034
+flatwort andilay root tea~
+dried {rfl{Da{rtw{Do{rrt{x and {Ma{mnd{Mi{ml{Ma{my{x root~
+Dried {rfl{Da{rtw{Do{rrt{x and {Ma{mnd{Mi{ml{Ma{my{x root has been left here.~
+cloth~
+potion 0 AO
+90 'refresh' 'refresh' '' ''
+10 1 50 100
+#3035
+willowbark tea~
+{WW{Di{Wll{Do{Ww{yb{ra{yrk{x powder~
+{WW{Di{Wll{Do{Ww{yb{ra{yrk{x powder has been left here.~
+willowbark~
+pill 0 A
+90 'heal' '' '' ''
+1 1 50 100
+#3036
+foxtail and marisin tea~
+dried {rf{Ro{rx{yt{Yai{yl{x and {bm{Bar{Wi{Bsi{bn{x~
+Some dried {rf{Ro{rx{yt{Yai{yl{x and {bm{Bar{Wi{Bsi{bn{x has been left here.~
+flatwort and andilay root tea~
+pill 0 AO
+90 'sleep' '' '' ''
+1 1 50 100
+#3037
+corenroot~
+dried {rc{Wo{rren{yr{Yoo{yt{x~
+Some dried {rc{Wo{rren{yr{Yoo{yt{x is here.~
+corenroot~
+pill 0 AO
+90 'cure poison' '' '' ''
+1 1 50 100
+#3038
+storage bin bins stores shelves~
+the {ysh{De{ylv{De{ys{x and {rb{Di{rns{x~
+{ySh{De{ylv{De{ys{x and {rb{Di{rns{x line the walls here, full of supplies for the Wisdom.~
+wood~
+container 0 P
+1000 AC 0 200 100
+10 10 100 100
+#3039
+scroll cancellation~
+a scroll of cancellation~
+A rolled vellum scroll is here.~
+vellum~
+scroll G AO
+15 'cancellation' '' '' ''
+9 10 1190 100
+E
+scroll~
+Use this scroll to remove magical curses.
+~
+#3040
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '' '' ''
+7 10 890 100
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#3041
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 '' '' '' ''
+0 10 220 100
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#3042
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+20 'word of recall' '' '' ''
+17 20 2900 100
+E
+scroll~
+The scroll has written a formula of 'Word of Recall' upon it.
+~
+#3043
+ring protection~
+a ring of protection~
+an enchanted ring of protection sits on the floor.~
+silver~
+treasure G AB
+0 0 0 0 0
+8 10 640 100
+A
+17 -2
+A
+20 -1
+E
+ring~
+It's a silver ring set with a gleaming moonstone.
+~
+#3044
+wand magic missile missiles~
+a wand of magic missiles~
+a wooden stick lies on the ground.~
+wood~
+wand G AO
+4 10 10 '' 0
+2 10 320 100
+E
+wand~
+It has a little note that says 'point this end at target'.
+~
+#3045
+jacket scale mail~
+a scale mail jacket~
+A scale mail jacket is lying on the ground.~
+steel~
+armor 0 AD
+3 4 4 0 2
+5 160 850 90
+#3046
+bronze breast plate~
+a bronze breast plate~
+A bronze breast plate is lying on the ground.~
+bronze~
+armor 0 AD
+6 5 7 0 5
+15 200 2100 90
+#3047
+bronze breast plate~
+a special bronze breast plate~
+A special bronze breast plate is lying on the ground.~
+bronze~
+armor 0 AD
+6 5 7 0 5
+15 200 2100 90
+#3048
+reinforced faceguard~
+a reinforced {Df{ra{Dceg{rua{Drd{x~
+A reinforced {Df{ra{Dceg{rua{Drd{x has been left here.~
+steel~
+armor 0 AV
+5 5 5 5 0
+20 2 300 100
+A
+3 1
+#3049
+garnet earring~
+a dangling {rg{Ra{rrn{Re{rt{x earring~
+A dangling {rg{Ra{rrn{Re{rt{x earring has been left here.~
+garnet~
+armor 0 AU
+5 5 5 5 0
+20 1 100 100
+A
+18 1
+#3050
+raft~
+a {yr{Ya{yft{x~
+A pile of {yl{Yo{ygs{x strapped together with rope has been left here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 8 400 100
+#3051
+canoe~
+a {yc{Da{Wn{Do{ye{x~
+A {yh{Do{Wll{Dow{yed{x out tree trunk lies here.~
+wood~
+boat 0 A
+0 0 0 0 0
+0 5 750 90
+#3052
+bracer leather~
+a {Dl{yea{Dth{ye{Dr{x bracer~
+A {Dl{yea{Dth{ye{Dr{x bracer is lying on the ground.~
+leather~
+armor 0 AM
+5 5 5 5 0
+20 2 50 100
+A
+17 -10
+#3053
+belt leather~
+a {Dl{yea{Dth{ye{Dr{x belt~
+A {Dl{yea{Dth{ye{Dr{x belt is lying on the ground.~
+leather~
+armor 0 AL
+5 5 5 5 0
+20 1 50 100
+A
+5 1
+#3054
+girdle leather~
+a leather girdle~
+A wide leather girdle is here.~
+leather~
+armor 0 AL
+1 3 3 0 1
+0 20 220 90
+#3055
+garnet gold chain~
+a {rg{Ra{rrn{Re{rt{x dangles from a narrow {yg{Yo{yld{x chain~
+A long {rg{Ra{rrn{Re{rt{x dangles from a narrow {yg{Yo{yld{x chain.~
+garnet gold~
+armor 0 AC
+5 5 5 5 0
+20 1 100 100
+A
+13 20
+#3056
+gold garnet ring~
+a {rg{Ra{rrn{Re{rt{x ring on a {yg{Yo{yld{x band~
+A simple {rg{Ra{rrn{Re{rt{x ring on a {yg{Yo{yld{x band is here.~
+gold~
+armor 0 AB
+5 5 5 5 0
+20 1 100 100
+A
+4 1
+#3057
+thick fur coat~
+a thick {Wf{Du{Wr{x coat~
+A thick {Wf{Du{Wr{x coat is hanging here.~
+fur~
+armor S AK
+5 5 5 5 0
+20 2 100 100
+A
+18 1
+#3058
+silvery haze aura~
+a {Ds{wil{Wvery a{wur{Da{x~
+There is a {Ds{wil{Wvery{x {Wh{waz{De{x in the air.~
+cloth~
+armor 0 AQ
+5 5 5 5 0
+20 1 50 100
+A
+4 1
+#3059
+tattoo mom stain~
+a {W'{RM{rO{RM{W'{x tattoo~
+A dark {rst{Rai{rn{x on the floor is here.~
+ink~
+armor S AR
+5 5 5 5 0
+20 1 50 100
+A
+1 1
+#3060
+jerkin leather~
+a {Dl{yea{Dth{ye{Dr{x jerkin~
+A {Dl{yea{Dth{ye{Dr{x jerkin is lying on the ground.~
+leather~
+armor S AD
+5 5 5 5 0
+20 5 100 100
+A
+19 1
+#3061
+cap leather~
+a {Dl{yea{Dth{ye{Dr{x cap~
+A {Dl{yea{Dth{ye{Dr{x cap is lying on the ground.~
+leather~
+armor S AE
+5 5 5 5 0
+20 2 100 100
+A
+19 1
+#3062
+pants leather~
+a pair of {Dl{yea{Dth{ye{Dr{x pants~
+A pair of {Dl{yea{Dth{ye{Dr{x pants is lying on the ground.~
+leather~
+armor S AF
+5 5 5 5 0
+20 5 100 100
+A
+12 20
+#3063
+boots leather~
+a pair of {Dl{yea{Dth{ye{Dr{x boots~
+A pair of {Dl{yea{Dth{ye{Dr{x boots lies here.~
+leather~
+armor S AG
+5 5 5 5 0
+20 4 100 100
+A
+12 20
+#3064
+gloves leather~
+a pair of {Dl{yea{Dth{ye{Dr{x gloves~
+A pair of {Dl{yea{Dth{ye{Dr{x gloves is lying on the ground.~
+leather~
+armor S AH
+5 5 5 5 0
+20 1 100 100
+A
+2 1
+#3065
+sleeves leather~
+a pair of {Dl{yea{Dth{ye{Dr{x sleeves~
+A pair of {Dl{yea{Dth{ye{Dr{x sleeves is lying on the ground.~
+leather~
+armor S AI
+5 5 5 5 0
+20 3 100 100
+A
+19 1
+#3066
+jerkin hard leather~
+a hard leather jerkin~
+A hard leather jerkin is lying on the ground.~
+leather~
+armor S AD
+5 5 5 5 1
+20 6 100 100
+A
+17 -5
+#3067
+cap hard leather~
+a hard leather cap~
+A hard leather cap is lying on the ground.~
+leather~
+armor 0 AE
+1 3 3 0 0
+0 20 220 90
+#3068
+pants hard leather~
+a pair of hard leather pants~
+A pair of hard leather pants is lying on the ground.~
+leather~
+armor 0 AF
+1 3 3 0 1
+0 70 220 90
+#3069
+boots hard leather~
+a pair of hard leather boots~
+A pair of hard leather boots lies here.~
+leather~
+armor 0 AG
+1 3 3 0 1
+0 40 220 90
+#3070
+gloves hard leather~
+a pair of hard leather gloves~
+A pair of hard leather gloves is lying on the ground.~
+leather~
+armor 0 AH
+1 3 3 0 1
+0 10 220 90
+#3071
+sleeves hard leather~
+a pair of hard leather sleeves~
+A pair of hard leather sleeves is lying on the ground.~
+leather~
+armor 0 AI
+1 3 3 0 1
+0 40 220 90
+#3072
+copper backplate back plate~
+a {yc{Yo{ypp{Ye{yr{x back-plate~
+A {yc{Yo{ypp{Ye{yr{x back-plate has been left here.~
+copper~
+armor 0 AS
+5 5 5 5 2
+20 15 300 100
+A
+19 1
+#3073
+coif scale mail~
+a scale mail {rc{Doi{rf{x~
+A scale mail {rc{Doi{rf{x is lying on the ground.~
+steel~
+armor 0 AE
+5 5 5 5 1
+20 4 50 100
+A
+19 1
+#3074
+skirt scale mail~
+a long scale mail {ys{rk{Di{rr{yt{x~
+A long scale mail {ys{rk{Di{rr{yt{x is lying on the ground.~
+steel~
+armor 0 AF
+5 5 5 5 2
+20 8 50 100
+A
+12 20
+#3075
+boots reinforced~
+a pair of reinforced {yb{Yoo{yts{x~
+A pair of reinforced {yb{Yoo{yts{x lies here.~
+leather~
+armor S AG
+5 5 5 5 2
+20 4 85 100
+A
+12 20
+#3076
+gloves reinforced~
+a pair of reinforced {Dgl{ro{Dves{x~
+A pair of reinforced {Dgl{ro{Dves{x is lying on the ground.~
+leather~
+armor 0 AH
+5 5 5 5 2
+20 2 50 100
+A
+2 1
+#3077
+sleeves scale mail~
+a pair of scale mail {ys{rl{Dee{rv{yes{x~
+A pair of scale mail {ys{rl{Dee{rv{yes{x is lying on the ground.~
+steel~
+armor 0 AI
+5 5 5 5 2
+20 6 50 100
+A
+19 1
+#3078
+tattoo inks~
+a {Dt{ra{Dtt{roo{x of a naked {cl{Ca{cdy{x~
+A {Dp{yu{Ddd{yl{De{x of colorful {Wi{Dnks{x is here.~
+ink~
+armor S AR
+12 12 12 9 0
+45 2 90 100
+A
+3 1
+#3079
+main gauche dagger~
+a {Dm{wai{Wn-ga{wuch{De{x~
+A main-gauche has been left here.~
+steel~
+weapon 0 AN
+dagger 5 9 'stab' 0
+33 1 150 100
+#3080
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '' '' ''
+11 10 800 100
+#3081
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 '' '' '' ''
+11 10 800 100
+#3082
+potion divine~
+a potion of divine protection~
+A potion of divine protection is here.~
+crystal~
+potion ABGI AO
+35 '' '' '' ''
+16 10 1800 100
+#3083
+potion cure light~
+a potion of cure light wounds~
+A potion of cure light wounds is here.~
+glass~
+potion G AO
+5 'cure light' '' '' ''
+0 10 150 100
+#3084
+potion cure serious~
+a potion of cure serious wounds~
+A potion of cure serious wounds is here.~
+glass~
+potion G AO
+10 '' '' '' ''
+1 10 220 100
+#3085
+potion cure critical critic~
+a potion of cure critical wounds~
+A potion of cure critical wounds is here.~
+glass~
+potion G AO
+15 'cure critical' '' '' ''
+5 10 390 100
+#3086
+potion antidote bottle~
+a bottle of antidote~
+A bottle of antidote is here.~
+clay~
+potion G AO
+14 'cure poison' 'cure light' '' ''
+8 10 550 100
+#3087
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 '' '' '' ''
+0 10 230 100
+#3088
+vial holy water~
+a vial of holy water~
+A vial of holy water is here.~
+crystal~
+potion AGI AO
+20 '' '' '' ''
+10 10 720 100
+#3089
+potion armor~
+a potion of armor~
+A potion of armor is here.~
+glass~
+potion G AO
+10 '' '' '' ''
+0 10 200 100
+#3090
+potion negation~
+a potion of negation~
+A potion of negation is here.~
+glass~
+potion BG AO
+35 '' '' '' ''
+9 10 830 100
+#3091
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 '' '' '' ''
+3 10 250 100
+#3092
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+glass~
+potion G AO
+10 '' '' '' ''
+4 10 290 100
+#3093
+blue bandana cloth~
+a {bblue bandana{x~
+A piece of blue cloth has been left here.~
+cloth~
+armor KS AE
+9 9 9 6 0
+33 1 45 100
+#3094
+blue eyepatch~
+a {bblue eyepatch{x~
+A blue eyepatch has been left here.~
+cloth~
+armor KS AV
+9 9 9 6 0
+33 1 45 100
+#3095
+blue kerchief cloth~
+a {bblue kerchief{x~
+A piece of blue cloth has been left here.~
+cloth~
+armor KS AC
+9 9 9 6 0
+33 1 45 100
+#3096
+bright pink ribbons~
+{Mbright pink ribbons{x~
+Some bright pink ribbons have been left here.~
+cloth~
+armor KS AE
+4 4 4 3 0
+15 1 45 100
+A
+4 1
+#3097
+shield small metal~
+a small metal {Ds{wh{Wie{wl{Dd{x~
+A small metal {Ds{wh{Wie{wl{Dd{x is lying on the ground.~
+steel~
+armor 0 AJ
+5 5 5 5 2
+20 5 300 100
+A
+17 -5
+#3098
+ale bottle mindean~
+a bottle of {bM{Bi{Wn{wd{We{Ba{bn{x ale~
+A dark-tinted bottle of ale is here.~
+glass~
+drink S A
+12 12 'ale' 0 0
+0 2 20 100
+#3099
+bottle cider inishlinni~
+a bottle of {gI{Gn{gi{ys{Yhl{yi{gn{Gn{gi{x cider~
+A dark-tinted bottle of cider is here.~
+glass~
+drink S A
+12 12 'apple cider' 0 0
+0 2 20 100
+#3100
+tea cup~
+a cup of tea~
+A cup has been set here.~
+china~
+drink 0 A
+6 6 'tea' 0 0
+0 1 8 100
+#3101
+coffee cup~
+a cup of coffee~
+A cup has been set here.~
+china~
+drink 0 A
+6 6 'coffee' 0 0
+0 10 6 100
+#3102
+water cup~
+a cup of water~
+A cup has been set here.~
+clay~
+drink 0 A
+10 10 'water' 0 0
+0 10 1 100
+#3103
+feather bed~
+a {Wf{Cea{Wth{Ce{Wr{x-bed~
+A four-poster {Wf{Cea{Wth{Ce{Wr{x-bed is pushed into the corner of the room.~
+feathers~
+furniture S P
+2 30000 EHK 125 125
+0 1000 100 100
+#3104
+tattered woolen scarf~
+a {mt{wa{Wtter{we{md w{wo{Wol{we{mn s{wc{Wa{wr{mf{x~
+A tattered woolen scarf has been left here.~
+wool~
+armor KS AC
+9 9 9 8 0
+35 1 60 100
+#3105
+bracer bronze~
+a bronze bracer~
+A bronze bracer is lying on the ground.~
+bronze~
+armor 0 AM
+3 6 6 0 3
+10 30 760 90
+#3106
+bracer iron~
+an iron bracer~
+An iron bracer is lying on the ground.~
+iron~
+armor 0 AM
+3 7 7 0 3
+15 40 1020 90
+#3107
+white oak short staff~
+a {yw{wh{Wite o{wa{yk s{wh{Wort sta{wf{yf{x~
+A white oak short staff has been left here.~
+wood~
+weapon S AN
+staff 5 9 'smash' F
+30 3 150 100
+#3108
+sign~
+the {ysign{x~
+There is a wooden {ysign{x hung upon one of the walls.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+There is a wooden {ysign{x hung upon one of the walls.  The {ysign{x reads:
+{W"Custom clothing made while you wait.  See {CHELP RESTRING{W for more details." 
+~
+#3109
+noticeboard board~
+a {Dn{yo{wt{Wicebo{wa{yr{Dd{x~
+A large {Dn{yo{wt{Wicebo{wa{yr{Dd{x has been hung upon the back wall of the foyer.~
+cloth~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+noticeboard notice~
+A large {Dn{yo{wt{Wicebo{wa{yr{Dd{x has been hung upon the back wall of the foyer.  The
+{Dn{yo{wt{Wicebo{wa{yr{Dd{x reads:
+{W"Do your bit for the Crown of Murandy.  See {CHELP QUEST{W for more details."  {x 
+~
+#3110
+shirt chain mail~
+a chain mail shirt~
+A chain mail shirt is lying on the ground.~
+steel~
+armor 0 AD
+5 4 5 0 3
+10 180 1320 100
+#3111
+coif chain mail~
+a chain mail coif~
+A chain mail coif is lying on the ground.~
+steel~
+armor 0 AE
+5 4 5 0 2
+10 50 660 100
+#3112
+skirt chain mail~
+a long chain mail skirt~
+A long chain mail skirt is lying on the ground.~
+steel~
+armor 0 AF
+5 4 5 0 3
+10 100 660 100
+#3113
+boots ironbound~
+a pair of iron-bound boots~
+A pair of iron-bound boots lies here.~
+iron~
+armor 0 AG
+5 4 5 0 3
+10 60 660 100
+#3114
+gauntlets chain mail~
+a pair of chain mail gauntlets~
+A pair of chain mail gauntlets is lying on the ground.~
+steel~
+armor 0 AH
+5 4 5 0 3
+10 40 660 100
+#3115
+sleeves chain mail~
+a pair of chain mail sleeves~
+A pair of chain mail sleeves is lying on the ground.~
+steel~
+armor 0 AI
+5 4 5 0 3
+10 80 660 100
+#3116
+shield large metal~
+a large metal shield~
+A large metal shield is lying on the ground.~
+steel~
+armor 0 AJ
+5 5 5 2 4
+10 100 1190 100
+#3117
+shield small wooden~
+a small wooden shield~
+A small wooden shield is lying on the ground.~
+wood~
+armor 0 AJ
+4 3 2 1 1
+3 20 510 100
+#3118
+red cloth cap~
+a {rred cloth cap{x~
+A {rred cloth cap{x has been left here.~
+cloth~
+armor KS AE
+7 7 7 4 0
+25 1 45 100
+#3119
+blue cloth tunic~
+a {cblue cloth tunic{x ~
+A {cblue cloth tunic{x has been left here.~
+cloth~
+armor KS AD
+7 7 7 4 0
+25 1 45 100
+#3120
+key iron~
+an {Wi{Dron{x key~
+An {Wi{Dron{x key has been left here.~
+iron~
+key K A
+0 0 0 0 0
+0 1 0 100
+#3121
+key rusty~
+a key~
+A rusty key has been left here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#3122
+key wooden~
+a {yw{Woo{yd{We{yn{x key~
+A {yw{Woo{yd{We{yn{x key has been set aside here.~
+wood~
+key 0 A
+0 0 0 0 0
+0 10 0 90
+#3123
+key brass~
+a {ybr{ra{yss{x key~
+A {ybr{ra{yss{x key has been left here.~
+brass~
+key 0 A
+0 0 0 0 0
+0 1 0 90
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3124
+sword long~
+a long {csw{Co{crd{x~
+A long {csw{Co{crd{x has been carelessly left here.~
+steel~
+weapon 0 AN
+sword 6 11 'slash' 0
+56 5 300 100
+A
+19 2
+E
+sword long~
+This is the ceremonial sword of the Captain of the Guard.
+A
+13 20
+A
+12 20
+~
+#3125
+wooden drawer~
+a {yw{Woo{yd{We{yn{x drawer~
+A simple {yw{Woo{yd{We{yn{x drawer has been left here.~
+cloth~
+container a 0
+2 ACD 3122 5 100
+0 0 0 100
+#3126
+long scarf purple wool~
+a {mlong scarf{x made of {mpurple wool{x~
+A long scarf has been left here.~
+wool~
+armor KS AC
+7 7 7 4 0
+25 1 60 100
+#3127
+baggy breeches brown wool~
+{ybaggy breeches{x made of {ybrown wool{x~
+A pair of baggy breeches has been left here.~
+wool~
+armor KS AF
+7 7 7 4 0
+25 3 60 100
+#3128
+wooden trunk~
+a {yw{Do{yod{De{yn t{Dr{yu{Dn{yk{x~
+A {yw{Do{yod{De{yn t{Dr{yu{Dn{yk{x has been left here.~
+wood~
+container S A
+500 ABC 3141 500 100
+0 25 500 100
+#3129
+hand cuffs~
+a pair of hand cuffs~
+A pair of hand cuffs has been left here.~
+iron~
+trash 0 AO
+0 0 0 0 0
+0 40 0 75
+#3130
+desk wooden~
+a large {yw{Woo{yd{We{yn{x desk~
+A large {yw{Woo{yd{We{yn{x desk rests agains the western wall.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 90
+#3131
+safe~
+a small {Dblack{x safe~
+A small {Dblack{x safe is placed in a dark corner of the room.~
+iron~
+container a 0
+34 ABCD 3123 20 100
+0 0 0 90
+E
+safe~
+The safe is very heavy.
+~
+#3132
+silver coins~
+some {Ds{wi{Wlv{we{Dr{x {Dc{wo{Wi{wn{Ds{x~
+A large pile of {Ds{wi{Wlv{we{Dr{x {Dc{wo{Wi{wn{Ds{x lies here.~
+silver~
+money 0 A
+500 0 0 0 0
+0 0 0 100
+#3133
+city key~
+the City Key~
+The very big City Key is lying here.~
+gold~
+key 0 A
+0 0 0 0 0
+0 250 100 90
+E
+city key~
+It is probably the biggest key you have seen in your life. It is made from
+polished gold and has various patterns on it along with the Lion Throne Coat of
+Arms.
+~
+#3134
+white bench~
+a {Wwhite bench{x~
+A {Wwhite{x-{Wpainted{x wooden bench has been placed here, facing out over the {cr{Ci{Wv{Ce{cr{x.~
+wood~
+furniture 0 P
+10 99999 EHK 105 105
+0 0 0 90
+#3135
+fountain water~
+a small {Wwhite{x fountain~
+A small {Wwhite{x fountain gushes water into its basin.~
+stone~
+fountain 0 P
+10000 10000 'water' 0 0
+0 0 0 100
+#3136
+coins~
+a small pile of {Dc{wo{Wi{wn{Ds{x~
+A small pile of {Dc{wo{Wi{wn{Ds{x lies here.~
+silver~
+money a A
+25 0 0 0 0
+0 0 0 100
+#3137
+key steel~
+a large {Dstee{Dl{x key~
+A large {Dstee{Dl{x key has been left here.~
+steel~
+key 0 A
+0 0 0 0 0
+0 10 0 90
+#3138
+skin water buffalo~
+a {Db{ru{Rffa{rl{Do{x water skin~
+A bloated dead {Db{ru{Rffa{rl{Do{x is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+20 1 25 100
+#3139
+letter resignation~
+the receptionist's letter of resignation~
+The receptionist's letter of resignation is taped to the wall.~
+paper~
+furniture 0 0
+0 0 0 0 0
+0 0 0 100
+E
+letter resignation~
+The letter is written in a bold and feminine Carolinian hand.
+
+    To whom it may concern,
+
+        Merc Industries has installed a new no-rent save and quit
+        system.  Apparently one can now save and quit at any time
+        from anywhere inside a town or out.  My services here are
+        no longer required.
+
+    Diana the Receptionist
+~
+#3140
+notice liquidation bank~
+the bank's notice of liquidation~
+The bank's notice of liquidation is taped to the wall.~
+paper~
+furniture 0 0
+0 0 0 0 0
+0 0 0 100
+E
+notice liquidation bank~
+The letter is written in a reserved and dignified Spencer hand.
+
+    To whom it may concern,
+
+        Merc Industries has charmed your money.  Apparently one's
+        gold will remain close, even beyond death. We are closing
+        down our offices and ATM machines.  Our services here are
+        no longer required.
+
+    Caemlyn City Bank
+~
+#3141
+iron key~
+an {Di{wro{Dn {yt{Dr{yu{Dn{yk{D k{we{Dy{x~
+An {Di{wro{Dn {yt{Dr{yu{Dn{yk{D k{we{Dy{x has been left here.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 50 100
+#3142
+tables chairs~
+one of the {yt{wa{Wbl{we{ys{x~
+There are numerous {yt{wa{Wbl{we{ys{x and {yc{wh{Wai{wr{ys{x neatly laid out in this room.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+#3143
+sharp dagger leather hilt~
+a {Ds{wh{Wa{wr{Dp d{wa{Wgg{we{Dr{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A sharp dagger with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+dagger 6 11 'stab' 0
+50 2 150 100
+A
+2 1
+#3144
+wooden truncheon~
+a {yw{Do{yod{De{yn t{Dr{yunche{Do{yn{x~
+A wooden truncheon has been left here.~
+wood~
+weapon S AN
+mace 6 11 'smash' 0
+50 2 150 100
+A
+2 1
+#3145
+iron tipped spear~
+an {Di{wro{Dn{x-{Dt{wippe{Dd{x spear~
+An iron-tipped spear has been left here.~
+iron~
+weapon 0 AN
+spear 6 11 'stab' 0
+50 5 150 100
+A
+2 1
+#3146
+rapier sword~
+a {Dr{wa{Wpi{we{Dr{x~
+A rapier has been left here.~
+steel~
+weapon 0 AN
+sword 6 11 'stab' 0
+50 3 150 100
+A
+2 1
+#3147
+bullwhip whip~
+a {ybullwhip{x~
+A bullwhip has been left here.~
+leather~
+weapon S AN
+whip 8 13 'beating' 0
+75 1 150 100
+A
+2 3
+#3148
+battle axe ash haft~
+a {Db{wa{Wtt{wl{De{x {Wa{wx{De{x with an {ya{Ys{Wh ha{Yf{yt{x~
+A battle axe with an ash haft has been left here.~
+steel~
+weapon 0 AN
+axe 8 13 'cleave' F
+75 5 150 100
+A
+2 3
+#3149
+military flail~
+a {Dmi{wl{Wit{wa{Dry{x {Df{wl{Wa{wi{Dl{x~
+A military flail has been left here.~
+steel~
+weapon 0 AN
+flail 8 13 'smash' 0
+75 6 150 100
+A
+2 3
+#3150
+coffee cup cinnamon~
+a cup of cinnamon coffee~
+A piping hot cup of cinnamon coffee is here.~
+china~
+drink 0 A
+6 6 'coffee' 0 0
+0 1 12 100
+#3151
+soup bowl~
+a bowl of {ychicken noodle soup{x~
+A nice hot bowl of chicken noodle soup is here.~
+wood~
+food 0 A
+4 4 0 0 0
+0 1 10 100
+#3152
+bowl beef stew~
+a bowl of {rbeef stew{x~
+A bowl of nice thick beef stew has been left here.~
+food~
+food 0 A
+4 4 0 0 0
+0 1 14 100
+#3153
+biscuit~
+a biscuit~
+A yummy biscuit, covered with butter, is here.~
+food~
+food 0 A
+2 2 0 0 0
+0 1 5 100
+#3154
+beer bottle lugarder~
+a bottle of {bL{Bug{War{Rde{rr {xbeer~
+A dark-tinted bottle of beer is here.~
+glass~
+drink 0 A
+12 12 'beer' 0 0
+0 2 20 100
+#3155
+long lance green streamers~
+a {Dl{won{Wg la{wnc{De{x bearing {gg{Gree{gn s{Gtre{ga{Gmer{gs{x~
+A long lance bearing green streamers.~
+steel~
+weapon 0 AN
+lance 8 13 'thrust' 0
+75 10 150 100
+A
+2 3
+#3156
+goat hide pants~
+{yg{woa{yt h{wid{ye p{wa{yn{wt{ys{x~
+A pair of goat hide pants has been left here.~
+hide~
+armor S AF
+31 31 31 7 0
+100 3 100 100
+A
+19 3
+A
+18 3
+#3157
+goat hide boots~
+{yg{woa{yt h{wid{ye b{wo{yo{wt{ys{x~
+A pair of goat hide boots has been left here.~
+hide~
+armor S AG
+31 31 31 7 0
+100 2 100 100
+A
+18 3
+A
+17 -15
+#3158
+goat hide tunic~
+a {yg{woa{yt h{wid{ye t{wuni{yc{x~
+A goat hide tunic has been left here.~
+hide~
+armor S AD
+31 31 31 7 0
+100 4 100 100
+A
+18 2
+A
+19 2
+A
+17 -10
+#3159
+goat hide bracer~
+a {yg{woa{yt h{wid{ye b{wr{yac{we{yr{x~
+A goat hide bracer has been left here.~
+hide~
+armor S AM
+31 31 31 7 0
+100 1 100 100
+A
+19 5
+A
+18 5
+#3160
+goat hide buckler~
+a {yg{woa{yt h{wid{ye{x {yb{wu{yckl{we{yr{x~
+A goat hide buckler has been left here.~
+cloth~
+armor S AJ
+31 31 31 7 0
+100 4 100 100
+A
+13 60
+A
+17 -15
+#3161
+key white~
+a white key~
+A white key has been left here.~
+ivory~
+key 0 AO
+0 0 0 0 0
+0 10 0 90
+#3162
+map caemlyn~
+a map of the city of Caemlyn~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 500 100
+E
+map caemlyn~
+.
+                        * * * CAEMLYN * * *
+                         = = ========== = =
+ 
+                                     Rainbow Bridge (Asgard and Valhalla)
+                                    /
+          North            Inn Commons  Mud School <--- ** NEWBIES **
+            |   /Up        (Healer, Pit)      |           ** GO HERE **
+            | /                  |       /Entrance to
+     West---+---East             |     /  Mud School
+          / |                 Temple of       |
+    Down/   |                   Mota        Arena
+          South               (Recall)
+                                 |
+                                 |   /In the Air   /Defunct Reception
+                  Dreamer         | /             /
+       Northern   Guild----Temple Square---Grunting---Bar    Northern
+       Caemlyn               (Fountain)    Boar Inn          Caemlyn 
+     (Clan Road) Magic           |                          (Clan Road)
+           |     Shop   Bakery   |    Grocer    Weaponsmith     |
+           |       |      |      |       |           |          |
+To    <---West---Main-Street---Market----Main-Street-+--------East--->Cross
+Shire,    Gate     |      |    Square    |           |        Gate    Roads
+Forest of  |     Beggar  Armoury   |     Jeweler    Warrior       |
+Haon-Dor   |     Guild           |                 Guild     Wall Road
+          Wall                   |                              |
+          Road  Leather  Map     |    Grebe's  Pet   Apothecary |
+           |     Shop    Shop    |    Tavern   Shop  (Potions)  |
+           |      |       |    Common   |       |       |       |
+          Wall---Poor-Alley----Square---Dark-Alley------+----Wall Road
+          Road    |       |      |      |       |       |       |
+           |   Temple   Grubby   |   Thieves  Levee   Warehouse |
+           |  Of Stupid  Inn     |    Guild   (Boats) (Sailor)  |
+           |                    Dump            |               |
+          Wall           Sewers/ |              |             Wall
+          Road                   |              |             Road
+           |                   South         Caemlyn            |         To the
+         Bridge                Bridge         River---------> Bridge <--> Sands
+           |                     |                              |           of
+        Southern              Southern                       Southern     Sorrow
+        Caemlyn               Caemlyn                        Caemlyn 
+~
+#3163
+map thera~
+a map of Thera~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 1500 100
+E
+map thera~
+.
+                         * * * Northern Thera  * * *
+                          = = ================== = =
+ 
+                                                   Moria
+                             Olympus          New    |    Dwarven--Mines
+Beggar            Elven Valley    |     Ofcol--Ofcol   +----Kingdom
+Tower                       \   |       |            |       |    \Catacombs
+  |    Dragon Tower          Plains-----+            |   Day-Care
+  |   /                         |       |            |             Void---Old
+Shadow                      Northern  Stones of      |   Nirvana\    |   Thalos
+Grove---Galaxy              Caemlyn    G'harne       |            \Holy
+  |                             |                    |     Smurf   Grove
+   \  Arachnos    Shire  Asgard | In the Air         |    Village    |
+     \   |          |         \ | /                  |       |       |    Check
+      Forest Of-----+-------Caemlyn ---------------Cross---Eastern Road---Point
+      Haon Dor              / | | | \              Roads             |
+     /     |     Mob Factory  | | |  Machine            \        Gnome Village
+  Old    Troll               /  | |  Dreams               \
+ Marsh    Den           Sewer   |  \            Ruins of---Dwarf---Frigid Waste
+                                |    \Caemlyn    Thalos    Forest         |
+       Redferne's---Chain---Southern    River                |  \      Keep of
+       Residence            Caemlyn          \       Wyvern--+  Drow   Mahn-tor
+           |                  / | \          Sands of Tower  |  City
+         Clouds      Gang Land  | Graveyard  Sorrow          |
+        (Harpies)               |      \           \       Elemental
+                            Miden'nir   Church   Mega-City  Canyon
+                            (Goblins)  Catacombs    One
+ 
+This map shows just about all the major areas on ROM.  This map is NOT drawn
+to scale, some of the directions were changed to make everything fit.  This
+map shows the GENERAL location of an area with respect to the other areas.
+Type "areas" for a complete list with suggested levels and the authors.
+~
+#3164
+map southern caemlyn~
+a map of southern Caemlyn ~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 1000 100
+E
+map southern caemlyn~
+.
+                         * * * SOUTHERN MIDGAARD * * *
+                          = = =================== = =
+ 
+ West                          South             Kate's                   East
+Bridge                         Bridge            Diner                   Bridge
+  |                              |                 |                       |
+Northwest                        |              Austral                Northeast
+Concourse---Promenade--------Promenade----------Square-----------------Concourse
+    |           |                |                 |                       |
+    |           |                |                 |          Fountain     |
+    |           |                |              Emerald           |        |
+Concourse     Park              Park-----Park     Ave----Penny--Penny--Concourse
+    |         Road            Entrance   Cafe      |     Lane   Lane       |
+    |           |                |              Emerald                    |
+    |           |                |                Ave                      |
+    |           |                |                 |                       |
+    |  Guard  Park     Park     The      Park   Emerald   Town             |
+    |   HQ----Road---Entrance---Park---Entrance---Ave-----Hall             |
+    |           |                                  |                       |
+    |         Park              Emerald---------Emerald--------------Gang  |
+    |         Road                Ave             Ave                |  |  |
+    |           |                  |                                 |  |  |
+    |         Park----------------Road----------Park            Elm--Land  |
+    |         Road             /Crossing        Road           Street      |
+    |                     Chain    |              |              |         |
+Concourse                /         |            Park----Elm-----Elm----Concourse
+    |       (Redferne's, Harpies)  |            Road   Street  Street      |
+    |                              |              |              |         |
+    |                Emerald--Emerald            Park        Graveyard     |
+    |                  Ave      Ave             Road    (Church Catacombs) |
+    |                   |                         |                        |
+    |                Emerald                    Park                       |
+    |                  Ave                      Road                       |
+    |                   |                         |                        |
+Concourse-----------Concourse------Inside-----Concourse----------------Concourse
+                                 South Gate
+                                     |
+                                 Miden'Nir
+                                 (Goblins)
+
+~
+#3165
+map dwarven kingdom dwarf~
+a map of the Dwarven Kingdom~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 750 100
+E
+map dwarven kingdom dwarf~
+.
+                         * * * The Dwarven Kingdom * * *
+                          = = ===================== = =
+ 
+                    Dwarven
+                    Hospital
+                       |                                              *Path to
+         North of---Path by---Path by---Barracks     Guard--Door to----Castle
+          Shops     Hospital  Barracks  Entrance     House  Kingdom  Strangelove
+Granite     |                              |                   |
+Head's---Path North                      First               Narrow
+Bakery    of Shop                       Barracks              Path
+            |                              |                   |
+         Hide and    Turn               Back of     Bend in--Narrow
+        Tooth Shop--in Road             Barracks     Path     Path
+                       |                    \         |
+                    Path to               Dwarven   Narrow
+                    Village              Catacombs   Path
+                       |                              |
+             Store  *Inside    Entrance     Top of   Dark   *Mine
+             Room---Entrance--To Mountain--Mountain--Path--Entrance
+                \                             |                 \
+               Wine                        Middle of          Dwarven
+              Cellar                       Mountain            Mines
+                  \                            |
+                Dwarven                    Base of
+               Catacombs    Moria          Mountain           North
+                              |               |           Up\   |
+                              |            Path to            \ |
+                            Plains--Hills--Dwarven      West----+----East
+                              |            Kingdom              | \
+                              |               |                 |   \Down
+              Caemlyn  <----Cross          Dwarven            South
+                            Roads          Drop-off
+                                          (Day-Care)
+ 
+*key required
+~
+#3166
+map moria first~
+a map of the first level of Moria~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 1500 100
+E
+map moria first~
+* * * MORIA - Map 1 * * *                                           To Mahn-Tor
+ = = =============== = =                                                 |
+Talk about a mess!                                                   Foothills
+                                                                         |
+This is as far as our courageous, noble, brave           Light Cave    Valley
+and apparently quite deceased cartographers                   |           |
+could get.  Perhaps more maps could be found             Smelly Tunnel  Cave
+in the depths of Moria itself.                                |           |
+                                                  Cave---Many Tunnels---Tunnel
+                                                    |         |           |
+         West End--Large Cave--East End           Cave      Tunnel      *Hole
+            |          |                            |         |        (Map 2)
+            |        Tunnel---------Tunnel--------Tunnel----Tunnel
+            |                                       |
+ *Hole----Damp----Damp  Tunnel--Tunnel--Tunnel    Tunnel
+(Map 3)  Tunnel  Tunnel   |               |         |
+                   |      |            (*Map 3)  The Cave
+                   |      |                         |
+                   |    Tunnel--Light--Maze      End of
+                   |            Cave    |        The Path
+                   |                  Light         |
+                   |                  Cave      The Hills--> Dwarven Kingdom
+                   |                    |           |
+                 Tunnel----Tunnel-----Light     The Plains
+                                      Cave          |
+                                                 The Lane
+                                                    |
+                                      Caemlyn  <--Cross--> Eastern Road
+                                                  Roads
+                                                    |
+                                               Dwarf Forest
+~
+#3167
+map new thalos~
+a map of New Thalos ~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 2500 100
+E
+map new thalos~
+.
+           * * * **************** New Thalos ***************** * * *
+                   "Not Thalos or Old Thalos but New Thalos"
+            = = =============================================== = =
+
+                                   Plains
+                                     |
+Northwest--West Casbah-------------North-----------------Casbah--------Northeast
+  Tower     |                       Gate                    |            Tower
+          Alley                      |                      |              |
+            |    Guard            Sultan's                  |  Library----Kali
+          Alley  House              Walk                    |             Row
+                   |                 |      Dancing         |              |
+     Sultan's----Grand----Palace--Sultan's--Daemon          |   Dance-----Kali
+      Palace    Entrance   Gate     Walk      Inn           |   Hall      Row
+                   |                 |                      |
+                 Guard               |         Bowyer--Guildsman's--Mason's
+                 House               |         Guild       Row      Guild
+ High                                |                      |
+Priest                               |         Weaver--Guildsman's--Craftsman
+Chamber  Altar                    Sultan's     Guild       Row        Guild
+  |        |                        Walk                    |
+Inside--Inside--Donation             |         Tanner--Guildsman's--Museum
+Temple  Temple    Room               |         Guild       Row      of the
+  |        |                         |                      |       Greater
+Dreamer     |                         |                 Guildsman's---Gods
+Guild     /                          |                     Row
+        /                            |                      |
+     Temple             Ahkeem's  Sultan's  Vera's     Guildsman's         Beggar
+     Gates                Stuff     Walk   Veggies         Row             Tower
+       |     Alley--Alley    |       |       |              |                |
+     Temple    |           Market--Market--Market           | Witch's  Magic |
+     Square  Alley   Bank--Square  Square  Square--Butchery |  Brew    Shop  |
+       |       |             |       |       |              |    |      |    |
+West--West---West---West---Market--Center--Market---East--East--East--East--East
+Gate  Main   Main   Main   Square  Square  Square   Main  Main  Main  Main  Gate
+  |    |       |             |       |       |              |    |
+  |  Repair  Alley  Store--Market--Market--Market--Abdul's  | Mercenary--Thieves
+  |   Shop     |           Square  Square  Sqaure   Armor   |   Guild     Guild
+  |          Alley--Alley    |       |       |             Alley
+Warrior's                  Bread   Medina  Igor's  Leather  |           Smuggler
+  Guild                    Stand     |    Weapons   Shop---Alley--Alley---Inn
+                                   Medina                        /
+      Warehouse    Shipwright        |     Forge  Stables      /    Cass's  Dump
+       |     |          |          Common    |       |        |       |      |
+       +-----West Ishtar Drive-----Square----+---East Ishtar Drive----+------+
+                        |            |
+                    Boat Ramp        |
+                        |          South
+===================Ishtar River====Bridge======================> To Dragon Sea
+                                     |
+                                   South
+                                   Gate
+~
+#3168
+map olympus~
+a map of Olympus~
+A rolled up map is here.~
+paper~
+map 0 A
+A 0 0 0 0
+0 10 2000 100
+E
+map olympus~
+.
+                               *****OLYMPUS*****
+                               =================
+ 
+                                   Bedroom
+                                      |
+                                   Northern
+                                     Hall
+                        Western       |         Eastern
+              Bedroom----Hall----Second Floor----Hall----Bedroom
+                                /     |
+                         Stairway  Southern
+                             |       Hall                    North
+                        Throne Room   |                        |  /Up
+                             |      Bedroom                    |/
+                             |                          West---+---East
+                  Kitchen    |     Stable                     /|
+                     |       |       |                  Down/  |
+        Guest     Western  Castle  Eastern   Guest           South
+       Quarters----Wing----Entry----Wing----Quarters
+                     |       |       |
+                  Storage   Z|    Storage
+                   Room     e|S    Room   Smithy
+                            u|t             |
+                            s+--Ares Street-+--Weapon
+                    Mystery  |              |   Shop
+                    Shop-----+           Armoury
+                             |
+                   Residence-+-Residence
+                             |
+                     Bakery--+
+                             |
+                       **Entrance**
+                            /
+                      Mountain
+~
+#3169
+hooded cloak brown wool~
+a {yhooded cloak{x made of {ybrown wool{x~
+A hooded cloak has been left here.~
+wool~
+armor S AK
+26 26 26 7 0
+85 4 60 100
+A
+17 -25
+#3170
+long scarf brown wool~
+a {ylong scarf{x made of {ybrown wool{x~
+A brown scarf has been left here.~
+wool~
+armor S AC
+26 26 26 7 0
+85 1 60 100
+A
+2 2
+A
+1 3
+#3171
+floppy cap brown wool~
+a {yfloppy cap{x made of {ybrown wool{x~
+A brown cap has been left here.~
+wool~
+armor S AE
+26 26 26 7 0
+85 1 60 100
+A
+3 2
+A
+4 3
+#3197
+blank~
+blank~
+none~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#3200
+music musician gleeman~
+a gleeman~
+A multi-color cloaked gleeman stands here waiting to regal you with songs and stories from the ancient, ancient past.~
+glass~
+jukebox 0 0
+0 0 0 0 0
+0 0 0 100
+#3201
+bed large back linen sheets~
+some {Wlinen sheets{x spread upon the large bed~
+A large bed with massive, square {Dposts{w takes up much of the room.~
+cloth~
+furniture 0 P
+4 50000 EHK 200 200
+0 0 0 100
+#3237
+pit~
+the donation pit~
+A pit for sacrifices is in front of the fireplace.~
+~
+container O 0
+10000 0 0 1000 100
+0 0 0 100
+#3238
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink 0 A
+64 64 'water' 0 0
+0 40 3 90
+#3240
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+12 'identify' '' '' ''
+7 10 890 100
+E
+scroll identify~
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+~
+#3241
+potion yellow~
+a yellow potion of see invisible~
+A small yellow potion has carelessly been left here.~
+glass~
+potion G AO
+12 'detect invis' '' '' ''
+0 10 220 100
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#3242
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+vellum~
+scroll G AO
+20 'word of recall' '' '' ''
+17 20 2900 100
+E
+scroll~
+The scroll has written a formula of 'Word of Recall' upon it.
+~
+#3269
+small silver house key~
+a small {Ws{wi{Dlv{we{Wr{x house key~
+A small {Ws{wi{Dlv{we{Wr{x house key has been left here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 1 100
+#3270
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#3280
+potion heal healing~
+a potion of healing~
+A potion of healing is here.~
+glass~
+potion G AO
+20 'heal' '' '' ''
+11 10 800 100
+#3281
+potion sanct sanctuary~
+a potion of sanctuary~
+A potion of sanctuary is here.~
+glass~
+potion G AO
+20 'sanctuary' '' '' ''
+11 10 800 100
+#3282
+potion divine~
+a potion of divine protection~
+A potion of divine protection is here.~
+crystal~
+potion ABGI AO
+35 'sanctuary' 'stone skin' 'armor' ''
+16 10 1800 100
+#3283
+potion cure light~
+a potion of cure light wounds~
+A potion of cure light wounds is here.~
+glass~
+potion G AO
+5 'cure light' '' '' ''
+0 10 150 100
+#3284
+potion cure serious~
+a potion of cure serious wounds~
+A potion of cure serious wounds is here.~
+glass~
+potion G AO
+10 'cure serious' '' '' ''
+1 10 220 100
+#3285
+potion cure critical critic~
+a potion of cure critical wounds~
+A potion of cure critical wounds is here.~
+glass~
+potion G AO
+15 'cure critical' '' '' ''
+5 10 390 100
+#3286
+potion antidote bottle~
+a bottle of antidote~
+A bottle of antidote is here.~
+clay~
+potion G AO
+14 'cure poison' 'cure light' '' ''
+8 10 550 100
+#3287
+potion cure blindness~
+a potion of cure blindness~
+A potion of cure blindness is here.~
+glass~
+potion G AO
+13 'cure blindness' '' '' ''
+0 10 230 100
+#3288
+vial holy water~
+a vial of holy water~
+A vial of holy water is here.~
+crystal~
+potion AGI AO
+20 'bless' 'protection evil' 'remove curse' ''
+10 10 720 100
+#3289
+potion armor~
+a potion of armor~
+A potion of armor is here.~
+glass~
+potion G AO
+10 'armor' '' '' ''
+0 10 200 100
+#3290
+potion negation~
+a potion of negation~
+A potion of negation is here.~
+glass~
+potion BG AO
+35 'cancellation' '' '' ''
+9 10 830 100
+#3291
+potion fly flying~
+a potion of flying~
+A potion of flying is here.~
+glass~
+potion G AO
+9 'flying rocks' '' '' ''
+3 10 250 100
+#3292
+potion true sight~
+a potion of true sight~
+A potion of true sight is here.~
+glass~
+potion G AO
+10 'detect invis' 'detect magic' 'detect hidden' ''
+4 10 290 100
+#3349
+long sword~
+a glowing long sword~
+A glowing long sword is here.~
+steel~
+weapon 0 AN
+sword 4 6 'slash' 0
+29 50 3100 90
+A
+18 2
+A
+19 2
+E
+long sword~
+It looks exceptionally sharp and well-balanced. Maybe you should keep it.
+~
+#3350
+sword standard~
+a standard issue {Ds{ww{Wo{wr{Dd{x~
+You see a standard issue {Ds{ww{Wo{wr{Dd{x here.~
+steel~
+weapon 0 AN
+sword 6 11 'slash' 0
+50 4 150 100
+A
+18 1
+#3351
+standard dagger~
+a standard issue {Dd{wa{Wgg{we{Dr{x~
+A standard issue {Dd{wa{Wgg{we{Dr{x has been left here.~
+steel~
+weapon K AN
+dagger 6 11 'pierce' 0
+50 2 200 100
+A
+18 1
+#3352
+standard mace~
+a standard issue {Dm{wa{Wc{De{x~
+You see a standard issue {Dm{wa{Wc{De{x here.~
+iron~
+weapon 0 AN
+mace 6 11 'pound' 0
+50 4 150 100
+A
+19 1
+#3353
+standard vest~
+a standard issue {Dv{We{Dst{x~
+A standard issue {Dv{We{Dst{x has been left here.~
+leather~
+armor KS AD
+13 13 13 11 1
+50 4 100 100
+A
+17 -5
+#3354
+standard shield~
+a standard issue {Ds{rh{Rie{rl{Dd{x~
+A battered piece of {Dm{re{Rt{ra{Dl{x rests here.~
+steel~
+armor K AJ
+13 13 13 11 2
+50 5 300 100
+A
+17 -5
+#3355
+standard cloak~
+a standard issue {bc{Bloa{bk{x~
+A standard issue {bc{Bloa{bk{x has been left here~
+wool~
+armor S AK
+13 13 13 11 1
+50 5 60 100
+A
+12 20
+#3356
+standard helmet leather~
+a standard issue {yh{De{ylm{De{yt{x~
+A slightly worn piece of {yl{Dea{yth{De{yr{x lays here.~
+leather~
+armor KS AE
+13 13 13 11 1
+50 3 100 100
+A
+3 1
+#3357
+standard leggings~
+a pair of standard issue {yl{De{ygg{Di{yngs{x~
+A pile of slightly worn {yl{Dea{yth{De{yr{x lays here.~
+leather~
+armor KS AF
+13 13 13 11 1
+50 4 85 100
+A
+2 1
+#3358
+standard boots~
+a pair of standard issue {Db{wo{Wo{wt{Ds{x~
+You see a pair of standard issue {Db{wo{Wo{wt{Ds{x here.~
+leather~
+armor S AG
+13 13 13 11 1
+50 2 85 100
+A
+1 1
+#3359
+standard gloves~
+a pair of standard issue {Dg{ylove{Ds{x~
+You see a pair of standard issue {Dg{ylove{Ds{x here.~
+leather~
+armor 0 AH
+13 13 13 11 1
+50 1 85 100
+A
+18 1
+#3360
+standard sleeves leather~
+a pair of standard issue {ysl{Deev{yes{x~
+A small pile of {yl{Dea{yth{De{yr{x lays here.~
+leather~
+armor KS AI
+13 13 13 11 1
+50 2 100 100
+A
+1 1
+#3361
+visor standard~
+a standard issue {Dv{wi{Ws{wo{Dr{x~
+A standard issue {Dv{wi{Ws{wo{Dr{x has been left here.~
+steel~
+armor K AV
+13 13 13 11 1
+50 2 300 100
+A
+5 1
+#3362
+standard belt~
+a standard issue {yb{De{ylt{x~
+A narrow piece of {yl{Dea{yth{De{yr{x has been left here.~
+leather~
+armor KS AL
+13 13 13 11 1
+50 2 85 100
+A
+5 1
+#3363
+bracer standard~
+a standard issue {Dbr{Wac{Der{x~
+A standard issue {Dbr{Wac{Der{x has been left here.~
+bronze~
+armor K AM
+13 13 13 11 0
+50 1 250 100
+A
+17 -5
+#3364
+ring signet~
+a city guard {ys{Yign{Wet r{Yin{yg{x~
+A {ys{Yign{Wet r{Yin{yg{x of the city guard has been left here.~
+copper~
+armor K AB
+13 13 13 11 0
+50 1 300 100
+A
+17 -5
+#3365
+banner war murandy murundian~
+a {bM{Bur{Wand{Ria{rn{x war banner~
+A war banner of {bM{Bu{Wran{Rd{ry{x has been carefully folded.~
+cloth~
+light AK AQ
+0 0 1000 0 0
+45 1 640 100
+A
+4 1
+#3371
+ring diamond wedding~
+a diamond wedding ring~
+Vanya's diamond wedding ring has been left here.~
+diamond~
+treasure I AB
+0 0 0 0 0
+20 10 860 100
+A
+20 -2
+E
+ring diamond wedding~
+A slender gold band set with a marquise-cut four carat blue-white solitaire.
+Inscribed on the inside of the band is: 'Your loving husband, House'.
+~
+#3372
+band gold wedding~
+a gold wedding band~
+House's gold wedding band has been left here.~
+gold~
+treasure I AB
+0 0 0 0 0
+20 10 860 100
+A
+20 -2
+E
+band gold wedding~
+A wide, plain circle of gold inscribed: 'Your loving wife, Vanya'.
+~
+#3373
+pearl~
+a small {Wpearl{x~
+A small but well-formed {Wpearl{x lies here.~
+pearl~
+gem 0 AO
+0 0 0 0 0
+15 1 500 100
+#3374
+garnet gem~
+a shiny {rg{Ra{rrn{Re{rt{x~
+A shiny {rg{Ra{rrn{Re{rt{x catches your eye.~
+gem~
+gem 0 AO
+0 0 0 0 0
+15 1 500 100
+#3375
+emerald gem~
+an {Ge{gm{Gera{gl{Gd{x~
+A deep green {Ge{gm{Gera{gl{Gd{x winks at you.~
+emerald~
+armor 0 AU
+5 5 5 0 0
+15 1 250 100
+#3376
+ruby gem~
+a {Rr{ru{Rby{x~
+A beutiful, if small, {Rr{ru{Rby{x, is here.~
+gem~
+gem 0 AO
+0 0 0 0 0
+15 1 300 100
+#3377
+diamond gem~
+a {cd{Cia{Wm{Con{cd{x~
+A {cd{Cia{Wm{Con{cd{x catches and reflects the light.~
+diamond~
+armor 0 AB
+5 5 5 0 0
+15 1 250 100
+#3378
+opal~
+a lustrous {Wopal{x bracelet~
+A lustrous {Wopal{x bracelet has been left here.~
+opal~
+armor 0 AO
+5 5 5 0 0
+15 1 250 100
+#3390
+Bill guisarme~
+a {Rb{ri{Dl{wl{W-guis{wa{Dr{rm{Re{x polearm with {rr{Re{rd{x and {ww{Whit{we s{Wt{rre{Ram{re{Wr{ws{x below the blade~
+A long-handled weapon with a nasty blade on top lies here.~
+wood and steel~
+weapon 0 AN
+polearm 12 15 'wrath' F
+90 20 200 100
+A
+19 4
+A
+18 4
+#3391
+conical helmet~
+a conical steel {Dh{we{Wlm{we{Dt{x, {Wp{wo{Dlish{we{Wd{x to perfection~
+A polished helmet has been carelessly dropped here.~
+steel~
+armor 0 AE
+30 5 30 25 0
+90 5 100 100
+#3392
+Breast plate breastplate~
+a {Wp{wo{Dlish{we{Wd{x breastplate with a {rr{Re{rd{x {Rs{ru{Wrco{ra{Rt{x over~
+A breastplate lies here.~
+cloth~
+armor 0 AD
+30 5 30 25 0
+90 6 150 100
+#0
+
+
+
+#ROOMS
+#3100
+{yWest Wall Road{x~
+West Wall Road is a wide and unpaved road that follows along the inside
+of the western wall of Lugard.  At this point within the city a second
+thoroughfare leads eastwards, following the course of the River Reisendrelle
+as the waterway bisects the city.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3051
+D1
+~
+~
+0 0
+0 0 3101
+D2
+~
+~
+0 0
+0 0 3270
+S
+#3101
+{yThe Promenade{x~
+This is the western end of the promenade; an unpaved yet well traversed
+road that follows the course of the River Reisendrelle as it passes through
+Lugard.  The promenade is connected to two wide roads at this point; to the
+west is Wall Road and to the south is Park Road which eventually leads to
+its namesake, City Park.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3135
+D2
+~
+~
+0 0
+0 0 3131
+D3
+~
+~
+0 0
+0 0 3100
+S
+#3102
+{yThe Promenade{x~
+The promenade is an unpaved yet well used road that follows the southern
+bank of the River Reisendrelle as it passes through the city.  At this point
+the promenade is intersected by an even wider thoroughfare to the north that
+eventually leads to a stone bridge which spans the river.  Another unpaved
+street leads off to the south towards the City Park.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3358
+D1
+~
+~
+0 0
+0 0 3139
+D2
+~
+~
+0 0
+0 0 3105
+D3
+~
+~
+0 0
+0 0 3132
+S
+#3103
+{yReisendrelle Square{x~
+The Promenade opens out onto Reisendrelle Square that lies just south of
+the River Reisendrelle.  Unlike Lugard's streets, this area has been paved
+with slabs of gray stone.  Around the square are several buildings that have
+also been constructed from gray stone including the Riverside Diner which
+lies to the north.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3150
+D1
+~
+~
+0 0
+0 0 3140
+D3
+~
+~
+0 0
+0 0 3139
+S
+#3104
+{yEast Wall Road{x~
+Here lies East Wall Road, a wide street that follows along the inside of
+Lugard's eastern wall.  At this point within the city two broad streets
+intersect each other perpendicularly, forming a t-junction.  Numerous gray
+stone buildings flank the streets although the majority of the structures in
+this district are houses.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3253
+D2
+~
+~
+0 0
+0 0 3124
+D3
+~
+~
+0 0
+0 0 3140
+S
+#3105
+{gCity Park{x - The North Gate~
+The street ends here, at a small cul-de-sac formed by a low iron railing.
+The street is quiet compared to the bustle of the streets to the north. 
+Through a tall gateway in the fence almost due south is a large park and to
+the east is a small cafe.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3102
+D1
+~
+~
+3 3
+1 0 3106
+D2
+~
+gate~
+3 3
+1 0 3108
+S
+#3106
+{gCity Park{x - A Small Cafe~
+The Park Cafe is very cozy, well lit place.  The building has been
+fashioned from large, roughly hewn logs.  Through the windows in the
+northern wall the River Reisendrelle can be seen whilst the southern window
+looks out over numerous colorful plants growing inside the City Park.  
+~
+0
+DS 0
+D3
+~
+~
+3 3
+1 0 3105
+S
+#3107
+{gCity Park{x~
+The City Park is one of only a few areas of greenery in the city of
+Lugard.  It is a grassy area filled with tall trees, neatly trimmed shrubs
+and neatly arranged flowerbeds.  A gravel path winds its way around the
+park.  To the west is one of the park's entrances.  
+~
+0
+S 2
+D1
+~
+~
+0 0
+0 0 3108
+D2
+~
+~
+0 0
+0 0 3113
+D3
+~
+gate~
+3 3
+1 0 3112
+S
+#3108
+{gCity Park{x~
+The City Park is one of only a few areas of grassland within Lugard.  It
+is a large expanse of lawns with tall trees, carefully trimmed shrubs and
+neatly laid out flowerbeds.  A gravel path winds its way around the park. 
+The park entrance is just north of here and Park Cafe is just east of the
+entrance.  
+~
+0
+S 2
+D0
+~
+gate~
+3 3
+1 0 3105
+D1
+~
+~
+0 0
+0 0 3109
+D2
+~
+~
+0 0
+0 0 3114
+D3
+~
+~
+0 0
+0 0 3107
+S
+#3109
+{gCity Park{x~
+The City Park is one of only a few areas of greenery in the city of
+Lugard.  It is a grassy area filled with tall trees, neatly trimmed shrubs
+and neatly arranged flowerbeds.  A gravel path winds its way around the
+park.  To the north is the southern wall of the Park Cafe but there is no
+direct route into the building from this point and to the east is one of the
+park's entrances.  
+~
+0
+S 2
+D1
+~
+gate~
+3 3
+1 0 3116
+D2
+~
+~
+0 0
+0 0 3115
+D3
+~
+~
+0 0
+0 0 3108
+S
+#3110
+{BThe Cityguard Headquarters{x - The Foyer~
+This dark gray stone chamber functions as a foyer for the Cityguard
+Headquarters.  Decorative iron lanterns inside this chamber reveal long war
+banners hung upon the walls including the Charging Red Bull of Murandy. 
+There are three doorways leading from this room but the largest one is the
+iron-braced doorway on the east side that leads outside.  
+~
+0
+DKS 0
+D0
+~
+~
+3 3
+1 0 3137
+D1
+~
+~
+3 3
+1 0 3276
+D3
+~
+~
+3 3
+1 3120 3142
+S
+#3111
+{yPark Road{x~
+Park Road is a broad unpaved road that leads north/south past the City
+Park.  Tall houses line the road opposite the park whose boundary is armed
+with tall iron railings.  A second road leads eastwards from this point
+towards one of the park's entrances.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3131
+D1
+~
+~
+0 0
+0 0 3112
+D2
+~
+~
+0 0
+0 0 3118
+S
+#3112
+{gCity Park{x - The West Gate~
+A large set of iron gates marks the western entrance of the City Park,
+one of only a few areas of greenery within Lugard.  Beyond the twisted iron
+railings is a large expanse of lawns, trees and colorful flowers.  A narrow,
+unpaved road leads westwards from the park's entrance to Park Road.  
+~
+0
+S 1
+D1
+~
+gate~
+3 3
+1 0 3107
+D3
+~
+~
+0 0
+0 0 3111
+S
+#3113
+{gCity Park{x~
+The City Park is one of only a few areas of grassland inside the city of
+Lugard.  It is a large expanse of lawns with tall trees, carefully trimmed
+shrubs and neatly laid out flowerbeds.  A gravel path winds its way around
+the park.  Nearby to the east is a duck pond.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 3107
+D1
+~
+~
+0 0
+0 0 3114
+S
+#3114
+{gCity Park{x - The Pond~
+This is a small pond at the south end of the City Park and is barely big
+enough for the few waterfowl that live here.  The pond is surrounded by tall
+reeds and beyond that is a large expanse of grassy land that has gravel
+paths crossing it.  
+~
+0
+S 6
+D0
+~
+~
+0 0
+0 0 3108
+D1
+~
+~
+0 0
+0 0 3115
+D3
+~
+~
+0 0
+0 0 3113
+S
+#3115
+{gCity Park{x~
+The City Park is one of only a few areas of greenery within the city of
+Lugard.  It is a grassy area filled with tall trees, carefully trimmed
+shrubs and neatly laid flowerbeds.  A gravel path winds its way around the
+park.  Nearby to the west is a duck pond.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 3109
+D3
+~
+~
+0 0
+0 0 3114
+D4
+~
+~
+4096 4096
+0 0 3001
+S
+#3116
+{gCity Park{x - The East Gate~
+A large set of iron gates marks the eastern entrance of the City Park,
+one of only a few areas of greenery within Lugard.  Beyond the twisted iron
+railings is a large expanse of lawns, trees and colorful flowers.  A narrow,
+unpaved road leads eastwards from the park's entrance to Elm Street.  
+~
+0
+S 2
+D1
+~
+~
+0 0
+0 0 3144
+D3
+~
+gate~
+3 3
+1 0 3109
+S
+#3117
+{WLugarder Locks{x~
+This odd little workshop apparently belongs to a locksmith.  One of the
+walls has been used to display some of the locksmith's work ranging from
+robust iron padlocks to more intricate designs worked in brass.  A workbench
+and stool has been placed against the opposite wall; fixed to the wall above
+the workbench are a couple of cabinets and racks containing various tools. 
+A doorway on the north side of the room leads out onto one of Lugard's dusty
+streets.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3029
+S
+#3118
+{yPark Road{x~
+Park Road is a broad unpaved road that leads past the City Park.  Tall
+houses line the road opposite the park whose boundary is armed with tall
+iron railings.  The road bends sharply at this point and joins with a much
+wider thoroughfare to the west.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3111
+D3
+~
+~
+0 0
+0 0 3276
+S
+#3119
+{mA Tailor's Shop{x~
+A few scraps of colored cloth litter the floor of this tailor's shop. 
+Brightly dyed bolts of fabric have been stored at one end of the room while
+a large workbench littered with more pieces of cloth, needles and threads
+has been placed at the opposite side.  A tailor's dummy has been stashed in
+one corner of the room but it looks like it has seen better days.  A door on
+the south side of the shop leads out onto one of Lugard's dusty streets.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3013
+S
+#3120
+{cOn The River Reisendrelle{x~
+The city of Lugard was originally built upon the banks of the River
+Reisendrelle.  The muddy gray waters of this wide waterway slowly flow
+westwards, splitting the city into two.  At this point along the river the
+riverbanks are far too steep to climb.  
+~
+0
+S 7
+D1
+~
+~
+0 0
+0 0 3136
+D3
+~
+~
+0 0
+0 0 3200
+S
+#3121
+{ySouth Wall Road{x~
+Here lies the South Wall Road, a broad and unpaved thoroughfare that runs
+parallel to the inside of the northern wall of Lugard.  The majority of the
+buildings within this district are tall townhouses that probably belong to
+merchants or other wealthy citizens.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3134
+D2
+~
+~
+3 3
+1 0 3149
+D3
+~
+~
+0 0
+0 0 3129
+S
+#3122
+{RThe Lugard Road Weapons Store{x~
+A wide and varied selection of weapons has been placed on display on
+racks and shelves within this little shop.  There is very little else of
+interest inside this room apart from a low wooden counter placed by the
+north wall and a doorway on the opposite side.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3012
+S
+#3123
+{yEmerald Avenue{x~
+This is the northern end of Emerald Avenue.  Despite being unpaved, this
+road is lined with tall evergreen trees.  Past the trees are the remnants of
+an old city wall that now barely stands more than three feet tall.  Beyond
+the crumbling wall are numerous buildings, mostly houses but there are also
+shops and taverns too.  To the north is the Central Plaza.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3014
+D2
+~
+~
+0 0
+0 0 3133
+S
+#3124
+{yEast Wall Road{x~
+This East Wall Road, a broad yet unpaved and dusty road that follows
+alongside the eastern wall of Lugard.  Even from this point the wall appears
+to be totally useless in the means of defense; it looks vaguely more like a
+loosely held pile of rubble than an actual wall.  It seems that the people
+of Lugard have simply continued to build their city around the old defensive
+walls rather than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3104
+D2
+~
+~
+0 0
+0 0 3272
+S
+#3125
+{ySouth Wall Road{x~
+This is South Wall Road, a broad and unpaved street that extends around
+the inside of the southern wall of Lugard.  The city has expanded around its
+previous defensive structures; the remnants of those buildings can still be
+seen dotted around the newer houses.  The southwestern corner of the city
+wall lies ahead to the west.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3126
+D3
+~
+~
+0 0
+0 0 3127
+S
+#3126
+{ySouth Wall Road{x~
+This is South Wall Road, a wide and unpaved thoroughfare that follows
+along the inside of the northern wall of Lugard.  The majority of the
+buildings within this district are tall townhouses that probably belong to
+merchants or other wealthy citizens.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3128
+D3
+~
+~
+0 0
+0 0 3125
+S
+#3127
+{yThe Southwest Corner Of Lugard{x~
+The southwestern corner of Lugard is marked by a tall stone tower built
+into the city wall.  A broad thoroughfare follows around the inside of the
+city wall, curving sharply where it meets the foot of the tower.  In the
+distance to the north is the Inishlinn Gate and to the east is the Cumbar
+Gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3276
+D1
+~
+~
+0 0
+0 0 3125
+S
+#3128
+{ySouth Wall Road{x~
+Here lies the South Wall Road, a wide street that follows along the
+inside of the southern wall of Lugard.  The city has expanded around its
+previous defensive structures; the remnants of those buildings can still be
+seen dotted around the newer houses.  Just east of here is the Cumbar Gate,
+the southernmost city gate.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3255
+D3
+~
+~
+0 0
+0 0 3126
+S
+#3129
+{ySouth Wall Road{x~
+This is South Wall Road, a broad and unpaved street that follows along
+the inside of the southern wall of Lugard.  The city has expanded around its
+previous defensive structures; the remnants of those buildings can still be
+seen dotted around the newer houses.  Just west of here is the Cumbar Gate,
+the southernmost city gate.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3121
+D3
+~
+~
+0 0
+0 0 3255
+S
+#3130
+{yThe Southeast Corner Of Lugard{x~
+The southeastern corner of Lugard is marked by a tall stone tower built
+into the city wall.  A broad thoroughfare follows around the inside of the
+city wall, curving sharply where it meets the foot of the tower.  In the
+distance to the north is the Shilene Gate and to the west is the Cumbar
+Gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3273
+D3
+~
+~
+0 0
+0 0 3134
+S
+#3131
+{yPark Road{x~
+Park Road is a broad unpaved road that leads north/south past the City
+Park.  Tall houses line the road opposite the park whose boundary is armed
+with tall iron railings.  The Promenade can be seen close by to the north as
+well as the river which the road runs parallel to.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3101
+D2
+~
+~
+0 0
+0 0 3111
+S
+#3132
+{yThe Promenade{x~
+The promenade is an unpaved yet well traversed road that leads east/west,
+following the course of the River Reisendrelle as it passes through Lugard. 
+On this side of the river are houses and a large park while tall warehouses,
+inns and shops lie on the far side.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3102
+D3
+~
+~
+0 0
+0 0 3135
+S
+#3133
+{yEmerald Avenue{x~
+This is the southern end of Emerald Avenue.  Despite being unpaved, this
+road is lined with tall evergreen trees.  Beyond the trees are the ruins of
+an old city wall that now barely stands more than three feet tall.  Past the
+crumbling wall are numerous buildings, mostly houses but there are also
+shops and taverns too.  To the south is a huge crossroad.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3123
+D2
+~
+~
+0 0
+0 0 3025
+S
+#3134
+{ySouth Wall Road{x~
+This is South Wall Road, an unpaved street that extends around the inside
+of the Lugard's southern wall.  The city has expanded around its previous
+defensive structures; the remnants of those buildings can still be seen
+dotted around the newer houses.  The southeastern corner of the city wall
+lies ahead to the east.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3130
+D2
+~
+~
+3 3
+1 0 3145
+D3
+~
+~
+0 0
+0 0 3121
+S
+#3135
+{yThe Promenade{x~
+The promenade is an unpaved yet well used road that leads east/west,
+following the southern bank of the River Reisendrelle as it passes through
+the city.  On this side of the river are houses and a large park while gray
+stone warehouses, inns and shops lie on the far side.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3132
+D3
+~
+~
+0 0
+0 0 3101
+S
+#3136
+{cOn The River Reisendrelle{x~
+The city of Lugard was originally built upon the banks of the River
+Reisendrelle.  The muddy gray waters of this wide waterway slowly flow
+westwards, splitting the city into two.  At this point along the river the
+riverbanks are too steep to climb.  To the east is an arched bridge made of
+dull gray stone.  
+~
+0
+S 7
+D1
+~
+~
+0 0
+0 0 3201
+D3
+~
+~
+0 0
+0 0 3120
+S
+#3137
+{BThe Cityguard Headquarters{x - The Waiting Room~
+This is the waiting room at the recruiting station within the Cityguard
+Headquarters.  Wooden chairs stand along the walls and a long desk is placed
+in the middle of the room.  There are narrow slit-like windows on the east
+side look out over one of the dusty streets.  To the south is the main foyer
+and to the west is an office.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3110
+D3
+~
+~
+3 3
+1 0 3138
+S
+#3138
+{BThe Cityguard Headquarters{x - The Recruiter's Office~
+This is a rather tidy office belonging to one of the recruitment
+officers.  Numerous charts and maps hang upon the walls but the main focal
+point of the room is a big desk made from dark wood is standing in the
+center.  The only exit from this room is a door on the east side.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 0 3137
+S
+#3139
+{yThe Promenade{x~
+This is the eastern end of the promenade; an unpaved yet well used road
+that follows the course of the River Reisendrelle as it passes through
+Lugard.  On this side of the river are houses and a large park while tall
+warehouses, inns and shops lie on the far side.  To the east lies
+Reisendrelle Square.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3103
+D3
+~
+~
+0 0
+0 0 3102
+S
+#3140
+{yPenny Lane{x~
+Penny Lane is a fairly broad road that winds its way through Lugard,
+following the crumbling remnants of one of the old walls that used to
+protect the city.  The lane is overshadowed by tall gray stone buildings
+that mostly appear to be houses.  To the east are the city's main defensive
+walls and a second road leads westwards from this point towards the City
+Park.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3104
+D2
+~
+~
+0 0
+0 0 3141
+D3
+~
+~
+0 0
+0 0 3103
+S
+#3141
+{yPenny Lane{x~
+The end of Penny Lane is marked by the crumbling remnants of one of the
+old walls that used to protect the city.  It looks more like a pile of
+rubble now but is more than enough to bar the way southwards.  Structures
+have been built around the ruins although the majority of these are houses. 
+~
+0
+CS 1
+D0
+~
+~
+0 0
+0 0 3140
+S
+#3142
+{BThe Cityguard Headquarters{x - The Captain's Office~
+This fairly somber room serves as the office for the Captain of the
+Guard.  The only splash of color in this grays tone room is a large banner
+hung upon the north side of the room depicting the Charging Red Bull of
+Murandy.  There are two exits from this room, a heavy door on the east side
+and a much heavier steel door on the south side.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 3120 3110
+D2
+~
+~
+7 7
+2 3137 3143
+S
+#3143
+{BThe Cityguard Headquarters{x - The Jail~
+This is a dark and humid jail cell within the Cityguard Headquarters. 
+The dark stone walls are hard and cold to the touch.  There is not much to
+see inside of this room apart from a wooden bucket placed in one corner of
+the room and a straw-stuffed mattress.  The only exit from this room is a
+heavy steel door is to the north.  
+~
+0
+ABDS 0
+D0
+~
+~
+7 7
+2 3137 3142
+S
+#3144
+{yElm Street{x~
+This is a narrow east/west street lined with tall gray houses.  Like the
+rest of Lugard's thoroughfares, Elm Street is unpaved and very dusty.  To
+the west is the city park while to the east is the eastern city wall and a
+road running parallel to it.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3272
+D3
+~
+~
+0 0
+0 0 3116
+S
+#3145
+A Large House~
+Made entirely of stone, this house is rather large.  The door to the
+north leads outside to the street, while the one to the south opens into the
+kitchen.  A number of small windows line the walls, letting in a fair amount
+of light.  On the southern end of this room is a large fireplace, and some
+sturdy, wooden chairs have been placed near it.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3134
+D2
+~
+~
+3 3
+1 0 3146
+S
+#3146
+The Kitchen~
+A long counter stretches across the eastern wall, and there is a large,
+open window above it.  The wall to the west is mostly occupied by an oven
+and a shelf holding various cooking utensils.  In the middle of the room
+sits a table surrounded by four chairs.  The door to the north leads back
+out into the living room, while a small set of stairs leads to the upper
+level of the house.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3145
+D4
+~
+~
+0 0
+0 0 3147
+S
+#3147
+The Landing At The Top Of The Stairs~
+This landing at the top of the stone stairs is somewhat small.  The
+staircase leads down to the kitchen, while the door to the north opens into
+a large bedroom.  On the south wall is a big, open window which looks down
+over the back of the house.  Next to the window is a small stand, holding an
+old quilt.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3148
+D5
+~
+~
+0 0
+0 0 3146
+S
+#3148
+A Modest Bedroom~
+A soft green carpet covers the stone floor in this bedroom.  Windows are
+on all but the southern wall, which instead holds a door and a number of
+pegs for hanging clothes.  There is a bed against the back wall, and a
+window just above it looks down over the front of the house.  There is also
+a large chest of drawers in this room, and atop it sits a small vase holding
+tiny, yellow flowers.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3147
+S
+#3149
+A Large House~
+Made entirely of stone, this house is rather large.  The door to the
+north leads outside to the street, while the one to the south opens into the
+kitchen.  A number of small windows line the walls, and there is a set of
+stairs along the eastern side of this room, leading up to the top level of
+the house.  On the southern end of this room is a large fireplace, and some
+sturdy, wooden chairs have been placed near it.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3121
+D2
+~
+~
+3 3
+1 0 3151
+D3
+~
+~
+3 3
+1 0 3155
+S
+#3150
+{CThe Riverside Diner{x~
+The Riverside Diner is a quaint little establishment built on the
+southern bank of the River Reisendrelle.  Tables and chairs have been placed
+neatly around the room, all of which take advantage of the views provided by
+the large glazed windows that overlook both the river and the city that has
+been built around it.  There are two exits from here, a doorway on the north
+side of the room that leads onto a dock and to the south is the main
+entrance that leads out to Reisendrelle Square.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3203
+D2
+~
+~
+3 3
+1 0 3103
+S
+#3151
+The Kitchen~
+A long counter stretches across the western wall, and there is a large,
+open window above it.  The wall to the south is mostly occupied by an oven
+and a shelf holding various cooking utensils.  In the middle of the room
+sits a table surrounded by four chairs.  The door to the north leads back
+out into the living room.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3149
+D4
+~
+~
+0 0
+0 0 3152
+S
+#3152
+The Landing At The Top Of The Stairs~
+This landing at the top of the stone stairs is somewhat small.  The
+staircase leads down to the main level of the house and there are several
+doorways that lead into the bedrooms.  On the west wall near one of the
+doorways is a big, open window which looks down over the garden.  Placed
+next to the window is a small vase sitting on a table that is holding an
+arrangement of white flowers.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3154
+D3
+~
+~
+3 3
+1 0 3153
+D5
+~
+~
+0 0
+0 0 3151
+S
+#3153
+A Large Bedroom~
+This bedroom is rather large.  A plush grey carpet stretches out across
+the floor, from wall to wall.  There are windows on all the walls but the
+eastern one, which instead holds a door leading out to the landing.  A large
+bed is pushed against the back wall with small tables on both sides of it. 
+A dresser sits just below one of the windows, and there are a few pegs on
+the wall near the door.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 0 3152
+S
+#3154
+A Modest Bedroom~
+A soft green carpet covers the stone floor in this bedroom.  Windows are
+on all but the southern wall, which instead holds a door and a number of
+pegs for hanging clothes.  There is a bed against the back wall, and a
+window just above it looks down over the front of the house.  There is also
+a large chest of drawers in this room, and atop it sits a small vase holding
+tiny, yellow flowers.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3152
+S
+#3155
+The Gardens~
+This garden is rather large and filled mostly with flowers.  They have
+been arranged by color and size, and brick walls run between the flower beds
+creating a strict grid.  In the very center of the garden there is a walled
+enclosure.  It is perfectly square, but the walls are too high for anyone to
+see over them.  The wooden door to the east leads back into the lower level
+of the manor.  
+~
+0
+S 2
+D1
+~
+~
+3 3
+1 0 3149
+S
+#3160
+{GThe Wisdom's Apothecary{x~
+A small bell attached to the door is used to alert the shopkeeper of
+customers entering this establishment.  The room has a clean, freshly
+scrubbed look to it and smells of soil.  No wonder, because there are all
+types of plants growing in every available place.  Pots line the window
+sills, dangle from the ceiling on hooks and line the counters.  Each pot has
+a small sign on it, informing the customers what plant grows in it and what
+its uses are.  
+~
+0
+BS 0
+D2
+~
+~
+3 3
+1 0 3024
+D4
+~
+~
+3 3
+1 3161 3161
+S
+#3161
+{GThe Wisdom's Living Quarters{x~
+This room has several rows of shelving on three of the walls.  Various
+jars, wooden boxes and drying herbs line those shelves, probably the
+shopkeeper's excess wares.  A clean, neatly made bed big enough for two
+people rests along the fourth wall.  There are no other furnishings in the
+room aside from a small table and dresser at the foot of the bed, since this
+room is mainly used for storage.  
+~
+0
+BDJS 0
+D5
+~
+~
+3 3
+1 3161 3160
+S
+#3170
+{DA Big Empty Warehouse{x~
+This huge gray stone building used to serve as a warehouse.  The place is
+very dusty and appears to have been unused for many years.  A skylight in
+the roof above spills violet-tinged light across the empty storage space. 
+The only exit from this abandoned building appears to be the set of double
+doors on the north side.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3044
+S
+#3200
+{cOn The River Reisendrelle{x~
+The arch under the bridge is covered by weeds for one foot above the
+surface of the river.  The water gently flows through an opening in the
+lower part of the city wall that is large enough for barges and other river
+craft to pass through.  There are numerous buildings along the northern bank
+including some warehouses.  
+~
+0
+S 7
+D1
+~
+~
+0 0
+0 0 3120
+S
+#3201
+{cUnder A Bridge{x~
+The city of Lugard was originally built upon the banks of the River
+Reisendrelle.  The muddy gray waters of this wide waterway slowly flow
+westwards, splitting the city into two.  At this point along the river the
+riverbanks are too steep to climb.  A bridge passes overhead, connecting the
+halves of the city together but there is no direct route onto the crossing
+from this point.  
+~
+0
+S 7
+D1
+~
+~
+0 0
+0 0 3202
+D3
+~
+~
+0 0
+0 0 3136
+S
+#3202
+{cOn The River Reisendrelle{x~
+The city of Lugard was originally built upon the banks of the River
+Reisendrelle.  The muddy gray waters of this wide waterway slowly flow
+westwards, splitting the city into two.  At this point along the river the
+riverbanks are too steep to climb but a levee can be seen close by to the
+east.  To the west is a large stone bridge but there is no direct route onto
+it from here.  
+~
+0
+S 7
+D1
+~
+~
+0 0
+0 0 3203
+D3
+~
+~
+0 0
+0 0 3201
+S
+#3203
+{cOn The River Reisendrelle{x~
+The city of Lugard was originally built upon the banks of the River
+Reisendrelle.  The muddy gray waters of this wide waterway slowly flow
+westwards, splitting the city into two.  The levee is directly north of
+here, and a small boat landing for the Riverside Diner is to the south.  The
+river flows in an east west direction.  
+~
+0
+CS 7
+D0
+~
+~
+0 0
+0 0 3049
+D1
+~
+~
+0 0
+0 0 3204
+D2
+~
+~
+3 3
+1 0 3150
+D3
+~
+~
+0 0
+0 0 3202
+S
+#3204
+{cOn The River Reisendrelle{x~
+The River Reisendrelle bends sharply at this point as it slowly flows
+through the city of Lugard.  There are numerous buildings overlooking the
+river including some warehouses along the northern bank.  The river banks
+are too steep to climb at this point but there is a level nearby to the
+west.  South of here the river passes under a bridge and through an opening
+in the city wall.  
+~
+0
+S 7
+D2
+~
+~
+0 0
+0 0 3205
+D3
+~
+~
+0 0
+0 0 3203
+S
+#3205
+{cOn The River Reisendrelle{x~
+The river enters from an opening in the eastern city wall that is large
+enough for barges and other river craft to pass through.  Overhead are the
+stone buttresses of one of Lugard's stone bridges but there is no direct
+route onto that crossing from this point.  
+~
+0
+S 7
+D0
+~
+~
+0 0
+0 0 3204
+S
+#3250
+{yEast Wall Road{x~
+Here lies East Wall Road, a broad and unpaved road that follows along the
+inside of Lugard's eastern wall.  Even from this point the wall appears to
+be totally useless in the means of defense; it appears vaguely more like a
+loosely held pile of rubble than an actual wall.  It seems that the people
+of Lugard have simply continued to build their city around the old defensive
+walls rather than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3054
+D2
+~
+~
+0 0
+0 0 3251
+S
+#3251
+{yEast Wall Road{x~
+This is East Wall Road, an unpaved road that follows along the inside of
+the eastern wall of Lugard.  At this point within the city this road is
+intersected with a second one that leads westwards, forming a t-junction. 
+Both streets are overlooked by a variety of stark gray buildings although
+most of the structures in this district are shops and warehouses.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3250
+D2
+~
+~
+0 0
+0 0 3275
+D3
+~
+~
+0 0
+0 0 3046
+S
+#3252
+{yEast Wall Road{x~
+This is a broad, unpaved thoroughfare that runs parallel to the inside of
+the Lugard's eastern wall.  Pedestrians and wagons alike kick up clouds of
+dust as they move around this gray and grimy city.  To the west the River
+Reisendrelle can be seen bisecting Lugard although there is no direct route
+to the waterway from this point.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3275
+D2
+~
+~
+0 0
+0 0 3253
+S
+#3253
+{yEast Wall Road{x~
+This is a wide and unpaved street that follows along the inside of the
+eastern wall of Lugard.  The road is split by the River Reisendrelle that
+flows west through an opening in the wall approximately ten feet down.  At
+this point a bridge built out from the city wall spans the waterway, linking
+the sections of road together.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3252
+D2
+~
+~
+0 0
+0 0 3104
+S
+#3254
+{yLugard Bridge{x~
+This is the northern end of the Lugard Bridge which joins on to its
+namesake, Bridge Street.  The bridge is a wide gray stone arch spans the
+River Reisendrelle, joining the two halves of the city together and is quite
+a sturdy structure in comparison with the other buildings within the area.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 3269
+D5
+~
+~
+0 0
+0 0 3030
+S
+#3255
+{DInside The Cumbar Gate{x~
+Two tall stone towers flank a heavy wooden gate set into the city wall
+beneath which lies a broad stone bridge connecting the roads of the inner
+city to the roads outside.  The towers appear to be among the strongest
+parts of Lugard's defenses; the city wall has been left in a state of
+disrepair and would not be able to withstand a direct attack.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3129
+D2
+~
+gate~
+3 3
+1 3133 3256
+D3
+~
+~
+0 0
+0 0 3128
+S
+#3256
+{DOutside The Cumbar Gate{x~
+The Cumbar Gate is southernmost entrance into Lugard and is marked by two
+small towers flanking a heavy timber gate.  The gate bars the way across a
+wide bridge crossing a dry moat built around the city.  On this side of the
+gate the bridge connects to a broad dirt road that winds its way southwards
+through the grassy plains that surround Lugard towards Illian.  
+~
+0
+S 2
+D0
+~
+gate~
+3 3
+1 3133 3255
+S
+#3257
+{yWest Wall Road{x~
+Here lies West Wall Road, a wide and unpaved road that follows along the
+inside of the western wall of Lugard.  Far from being an effective bastion,
+the city walls have been left in an awful condition and have more in common
+with a pile of rocks.  Remnants of older walls can be seen within the city
+as the locals have built around the ruins rather than dismantle them
+completely.  Just south of here is the Inishlinn Gate, the westernmost city
+gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3027
+D2
+~
+~
+0 0
+0 0 3040
+S
+#3258
+{yWest Wall Road{x~
+This is West Wall Road, a broad and unpaved street that follows along the
+inside of the western wall of Lugard.  At this point within the city two
+broad streets intersect each other perpendicularly, forming a t-junction. 
+Both streets are overlooked by a variety of stark gray buildings although
+the majority of the structures in this region are shops and taverns.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3259
+D1
+~
+~
+0 0
+0 0 3301
+D2
+~
+~
+0 0
+0 0 3027
+S
+#3259
+{yWest Wall Road{x~
+West Wall Road is a broad and unpaved street that follows along the
+inside of the western wall of Lugard.  Remnants of older walls can be seen
+inside the city as the locals have built around the ruins rather than
+completely remove them.  A variety of buildings can be seen lining the
+streets including warehouses, shops and taverns dotted amongst the citizens'
+abodes.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3021
+D2
+~
+~
+0 0
+0 0 3258
+S
+#3260
+{yThe Northwest Corner Of Lugard{x~
+The northwestern corner of Lugard is marked by a tall stone tower built
+into the city wall.  A broad thoroughfare follows around the inside of the
+city wall, curving sharply where it meets the foot of the tower.  In the
+distance to the south is the Inishlinn Gate and to the east is the Mindea
+Gate.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3008
+D2
+~
+~
+0 0
+0 0 3021
+S
+#3261
+{yNorth Wall Road{x~
+Here lies the North Wall Road, a wide street that follows along the
+inside of the northern wall of Lugard.  The city has expanded around its
+previous defensive structures; the remnants of those buildings can still be
+seen dotted around the newer houses, taverns and shops.  Just east of here
+is the Mindea Gate, the northernmost city gate.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3262
+D3
+~
+~
+0 0
+0 0 3017
+S
+#3262
+{DInside The Mindea Gate{x~
+A pair of tall stone towers surrounds a heavy timber gate set into the
+city wall beneath which lies a broad stone bridge connecting the roads of
+the inner city to the roads outside.  The towers appear to be among the
+sturdiest parts of the city's defenses; the city wall has been left in a
+state of disrepair and would not be able to fare well against an attack. 
+There is not much else of interest here apart from a road leading southwards
+from the gate towards a busy marketplace.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 3133 3268
+D1
+~
+~
+0 0
+0 0 3263
+D2
+~
+~
+0 0
+0 0 3000
+D3
+~
+~
+0 0
+0 0 3261
+S
+#3263
+{yNorth Wall Road{x~
+This is North Wall Road, a broad and unpaved street that follows along
+the inside of the northern wall of Lugard.  The city has expanded around its
+previous defensive structures; the remnants of those buildings can still be
+seen dotted around the newer houses, shops and taverns.  Just west of here
+is the Mindea Gate, the northernmost city gate.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3018
+D3
+~
+~
+0 0
+0 0 3262
+S
+#3264
+{yThe Northeast Corner Of Lugard{x~
+The northeastern corner of Lugard is marked by a tall stone tower built
+into the city wall.  A broad thoroughfare follows around the inside of the
+city wall, curving sharply where it meets the foot of the tower.  In the
+distance to the south is the Shilene Gate and to the west is the Mindea
+Gate.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 3022
+D3
+~
+~
+0 0
+0 0 3019
+S
+#3265
+{yEast Wall Road{x~
+This is a wide, unpaved street that follows along the inside Lugard's
+eastern wall.  Even from this point the wall appears to be totally useless
+in the means of defense; it looks more like a loosely held pile of rubble
+than an actual sturdy structure.  It seems that the people of Lugard have
+simply continued to build their city around the old defensive walls rather
+than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3022
+D2
+~
+~
+0 0
+0 0 3266
+S
+#3266
+{yEast Wall Road{x~
+This is East Wall Road, a broad and unpaved street that follows along the
+inside of the eastern wall of Lugard.  At this point within the city two
+broad streets intersect each other perpendicularly, forming a t-junction. 
+Several tall gray stone buildings overlook both of the streets; the majority
+of these structures in this area are shops and taverns.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3265
+D2
+~
+~
+0 0
+0 0 3023
+D3
+~
+~
+0 0
+0 0 3316
+S
+#3267
+{yEast Wall Road{x~
+This is East Wall Road, a broad and unpaved road that follows along the
+inside of the eastern wall of Lugard.  Far from being an effective bastion,
+the city walls have been left in an awful state and have more in common with
+a pile of rocks.  Remnants of older walls can be seen inside the city as the
+locals have built around the ruins rather than demolish them completely. 
+Just south of here is the Shilene Gate, the easternmost city gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3023
+D2
+~
+~
+0 0
+0 0 3041
+S
+#3268
+{DOutside The Mindea Gate{x~
+The Mindea Gate is northernmost entrance into the walled city of Lugard
+and is marked by two small towers flanking a heavy timber gate.  The gate
+bars the way across a wide bridge crossing a dry moat built around the city.
+On this side of the gate the bridge links to a broad dirt road that twists
+its way northwards through the grassy plains that surround Lugard towards
+Mindea.  
+~
+0
+S 2
+D2
+~
+~
+3 3
+1 3133 3262
+S
+#3269
+{yLugard Bridge{x~
+This is Lugard Bridge, a large arched bridge made of dull gray stone that
+crosses the River Reisendrelle.  The bridge does not just provide a great
+view of the river; it also offers a great spot to compare the two
+contrasting halves of the city.  The buildings along on the north side of
+the river are mainly shops and taverns whilst there are more houses further
+away from the waterway.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3254
+D2
+~
+~
+0 0
+0 0 3310
+S
+#3270
+{yWest Wall Road{x~
+This is West Wall Road, a broad and unpaved street that follows along the
+inside of the western wall of Lugard.  Even from this point the wall appears
+to be totally useless in the means of defense, it looks vaguely more like a
+loosely held pile of rubble than an actual wall.  It seems that the people
+of Lugard have simply continued to build their city around the old defensive
+walls rather than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3100
+D2
+~
+~
+0 0
+0 0 3271
+S
+#3271
+{yWest Wall Road{x~
+West Wall Road is an unpaved street that follows along the inside of the
+western wall of Lugard.  Even from this point the wall appears to be totally
+useless in the means of defense, it looks vaguely more like a loosely held
+pile of rubble than an actual wall.  It seems that the people of Lugard have
+simply continued to build their city around the old defensive walls rather
+than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3270
+D2
+~
+~
+0 0
+0 0 3276
+S
+#3272
+{yEast Wall Road{x~
+This is East Wall Road, an unpaved street that follows along the inside
+of the eastern wall of Lugard.  At this point within the city two broad
+streets intersect each other perpendicularly, forming a t-junction.  There
+are many gray stone buildings flanking the streets although the majority of
+the structures in this district are houses.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3124
+D2
+~
+~
+0 0
+0 0 3273
+D3
+~
+~
+0 0
+0 0 3144
+S
+#3273
+{yEast Wall Road{x~
+This is a long, unpaved road that follows along the inside of the eastern
+wall of Lugard.  The wall appears to be totally useless in the means of
+defense; it looks vaguely more like a loosely held pile of rubble.  The
+remnants of older walls can be seen, it seems that the people of Lugard have
+built around the city's old defenses rather than demolish them.  Just a
+short distance away to the south is the southeastern corner of the city.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3272
+D2
+~
+~
+0 0
+0 0 3130
+S
+#3274
+{yWest Street{x~
+This is a wide yet unpaved street that leads east/west through the city. 
+Pedestrians, horses and vehicles alike kick up clouds of dust as they
+traverse this road.  Overlooking the street are numerous tall buildings made
+of gray stone and topped with steeply sloping roofs.  Just a short distance
+away to the east is a large crossroad.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3025
+D3
+~
+~
+0 0
+0 0 3024
+S
+#3275
+{yEast Wall Road{x~
+This East Wall Road, a broad yet unpaved and dusty road that follows
+alongside the eastern wall of Lugard.  The wall appears to be totally
+useless in the means of defense; it looks vaguely more like a loosely held
+pile of rubble than an actual wall.  It seems that the people of Lugard have
+simply continued to build their city around the old defensive walls rather
+than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3251
+D2
+~
+~
+0 0
+0 0 3252
+S
+#3276
+{yWest Wall Road{x~
+This is West Wall Road, an unpaved street that follows along the inside
+of Lugard's western wall.  A second road leading eastwards links with West
+Wall Road at this point, forming a t-junction.  Overlooking the t-junction
+on the west side is a grand building made of gray stone that is used as the
+Cityguard Headquarters.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3271
+D1
+~
+~
+0 0
+0 0 3118
+D2
+~
+~
+0 0
+0 0 3127
+D3
+~
+~
+3 3
+1 0 3110
+S
+#3301
+{yMindea Road{x~
+This is the western end of Mindea Road, a long road that leads east/west
+through one of the northern districts of Lugard.  This road intersects a
+second similar thoroughfare to the west that follows the city's wall.  Both
+of the streets are unpaved and produce large clouds of dirt as carts and
+wagons use them.  Numerous tall buildings line the streets although most of
+them are houses in this area.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3302
+D3
+~
+~
+0 0
+0 0 3258
+S
+#3302
+{yMindea Road{x~
+This is Mindea Road, a long thoroughfare that leads east/west through one
+of the northern districts of Lugard.  The street is unpaved and produces
+large clouds of road dust as wagons and carts travel along it.  Numerous
+tall buildings line the street although most of them are houses in this
+area.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3303
+D2
+~
+~
+3 3
+1 0 3334
+D3
+~
+~
+0 0
+0 0 3301
+S
+#3303
+{yMindea Road{x~
+This is Mindea Road, a long thoroughfare that leads east/west through one
+of the northern districts of Lugard.  The street is unpaved and produces
+large clouds of road dust as wagons and carts travel along it.  Numerous
+tall buildings line the street although most of them are houses in this
+area.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3314
+D3
+~
+~
+0 0
+0 0 3302
+S
+#3304
+{mK{Di{wt{Wi{wa{Dr{ma{x's House of {cD{Cel{Wig{Cht{cs{x - The Entrance~
+The large wooden doors open up to a wide open room with long silken
+draperies covering the windows, letting in only the softest of lights.  The
+carpet is a thick, soft white, a red divan rests beneath a window, across
+from it a matching red lounge chair.  In another corner of the room is a
+small orchestra playing soft music in the background while patrons of this
+House move around and become more acquainted with each other.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3305
+D2
+~
+~
+3 3
+1 0 3017
+S
+#3305
+{mK{Di{wt{Wi{wa{Dr{ma{x's House of {cD{Cel{Wig{Cht{cs{x - A Hallway~
+Rich cherry wood covers the floors of this hallway, smooth and shiny in
+the light of the ornamental standing lamps that stand twenty feet apart on
+each side of the hall.  Hanging upon the walls are pictures of famous people
+and places within the known world.  The door to the west leads to the Gaming
+Room, and to the east is the Mud Wrestling Room.  Back to the south is the
+entrance to the House.  
+~
+0
+DS 0
+D0
+~
+~
+0 0
+0 0 3308
+D1
+~
+~
+3 3
+1 0 3307
+D2
+~
+~
+3 3
+1 0 3304
+D3
+~
+~
+3 3
+1 0 3306
+S
+#3306
+{mK{Di{wt{Wi{wa{Dr{ma{x's House of {cD{Cel{Wig{Cht{cs{x - The Gambling Room~
+The sound of laughter and coins clinking together echo in this room as
+men and women dressed in fancy clothes gamble away their earnings in hopes
+of winning a big prize.  Several card tables are spread out, surrounded by
+eager players and the dealer who controls the game.  Other games are going
+on around the room, dicing games, games of luck, and maybe even a game where
+one could lose their soul.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 0 3305
+S
+#3307
+{mK{Di{wt{Wi{wa{Dr{ma{x's House of {cD{Cel{Wig{Cht{cs{x - The Mud Wrestling Room~
+The room is crowded with men who sit in a small arena around a large mud
+pile.  Naked women covered in mud are busy wrestling each other, throwing
+each other's naked forms into the mud, throwing mud at each other, pulling
+hair, scratching, slapping, and biting.  Fighting the way only women know
+how and men absolutely love.  
+~
+0
+DS 0
+D3
+~
+~
+3 3
+1 0 3305
+S
+#3308
+{mK{Di{wt{Wi{wa{Dr{ma{x's House of {cD{Cel{Wig{Cht{cs{x - A Hallway~
+Rich cherry wood covers the floors of the hallway here, smooth and shiny
+in the light of the decorative standing lamps that stand twenty feet apart
+on each side of the hall.  Hanging upon the walls are pictures of famous
+people and places within the known world.  The door to the west leads to the
+Water Room, the hallway leads back to the south to the entrance of the
+House.  
+~
+0
+DS 0
+D2
+~
+~
+0 0
+0 0 3305
+D3
+~
+~
+3 3
+1 0 3309
+S
+#3309
+{mK{Di{wt{Wi{wa{Dr{ma{x's House of {cD{Cel{Wig{Cht{cs{x - The Water Room~
+Water trickling from fountains in the walls way up at the ceilings then
+moving down into the pools below can be heard as soon as one enters this
+room.  Large, odd shaped pools of water take up most of the floor space,
+with islands in the center where visitors can get drinks and snacks before
+diving back into the deep waters.  In the northeast of the room steam can be
+seen rising where the waters are kept hot and hidden behind large growths of
+tropical bushes brought in from Mayene and the Sea Folk Isles.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 0 3308
+S
+#3310
+{yLugard Bridge{x~
+This is the southern end of the Lugard Bridge which joins on to its
+namesake, Bridge Street.  The bridge is a wide gray stone arch spans the
+River Reisendrelle, joining the two halves of the city together and is quite
+a sturdy structure in comparison with the other buildings within the area.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3269
+D5
+~
+~
+0 0
+0 0 3358
+S
+#3314
+{yMindea Road{x~
+This is Mindea Road, a long street that leads east/west through one of
+the northern districts of Lugard.  The road is unpaved and creates large
+clouds of road dust as wagons and carts travel along it.  Many tall
+buildings line the street although most of them are houses in this area. 
+There is not much else of interest here apart from a road leading northwards
+from this point towards a busy marketplace.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3037
+D1
+~
+~
+0 0
+0 0 3028
+D3
+~
+~
+0 0
+0 0 3303
+S
+#3315
+{yMindea Road{x~
+This is Mindea Road, a long thoroughfare that leads east/west through one
+of the northern districts of Lugard.  The street is unpaved and produces
+large clouds of road dust as wagons and carts travel along it.  Numerous
+tall buildings line the street including one of Lugard's inns along the
+south side, The Silver Pig.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3316
+D2
+~
+~
+3 3
+1 0 3356
+D3
+~
+~
+0 0
+0 0 3028
+S
+#3316
+{yMindea Road{x~
+This is the eastern end of Mindea Road, a long road that leads east/west
+through the city.  This road intersects a second similar thoroughfare to the
+east that follows the city's wall.  Both of the streets are unpaved and
+produce large clouds of dirt as carts and wagons use them.  Many tall
+buildings line the streets, most of them are houses but there are some shops
+including a tattoo shop on the north side.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3317
+D1
+~
+~
+0 0
+0 0 3266
+D3
+~
+~
+0 0
+0 0 3315
+S
+#3317
+{DAn Illy Lighted Room{x~
+The room is rather dark and imposing around many people who enter.  The
+room is almost bare apart from a couple of items of furniture and some
+sketches that have been stuck upon the cold gray stone walls.  At the back
+of the room is a long table and chair resting in the light of a candle.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3316
+S
+#3334
+{YA Money Changer's Room{x~
+A few strategically placed lanterns keep this place well-lit in the
+absence of any windows.  The room is surprisingly well decorated with
+tapestries hanging on the walls although there are probably guards hiding
+behind them.  There are no items of furniture within this room apart from a
+large oaken desk that sits at the center of the room with a matching chair. 
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3302
+S
+#3352
+{mThe Domani Wench's Kiss{x - The Common Room~
+The common room of the Domani Wench's Kiss looks more or less like any
+other tavern.  The room is bathed in a dull golden glow emanating from
+lanterns hung from the wooden rafters.  At one end of the room is a broad
+stone fireplace whilst facing it at the opposite side is the bar.  Tables
+and chairs have been neatly arranged around the room with enough space
+between them to allow the serving maids to move around them.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3026
+S
+#3355
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - The Common Room~
+The common room of the Silver Pig looks more or less like any other
+tavern.  The room is lit up by oil lanterns suspended from the timber
+rafters.  There is a wide stone fireplace built into the west wall of the
+room that blazes away and provides the area with adequate warmth.  Sturdy
+oaken tables and benches have been arranged neatly around the room with
+plenty of space left to move between them.  
+~
+0
+DS 0
+D1
+~
+~
+0 0
+0 0 3356
+S
+#3356
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - The Common Room~
+The common room of the Silver Pig seems more or less like any other
+tavern.  The room is illuminated by oil lamps hung from the wooden rafters. 
+There is a set of stairs in one corner of the room that lead upwards to the
+first floor of the building.  Sturdy oaken tables and benches have been
+arranged tidily around the room with plenty of space left to move between
+them.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3315
+D1
+~
+~
+0 0
+0 0 3357
+D3
+~
+~
+0 0
+0 0 3355
+D4
+~
+~
+0 0
+0 0 3359
+S
+#3357
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - The Bar~
+A long oaken bar has been set in the back of the pub with a collection of
+battered mugs and tankards lining a shelf behind it.  There are lots of
+bottles of strong, nasty looking liquids decorating one of the lower
+shelves.  A large cask rests on a table behind the bar.  Some tall barstools
+have been placed in a neat row in front of the bar for this tavern's
+patrons.  
+~
+0
+DS 0
+D3
+~
+~
+0 0
+0 0 3356
+S
+#3358
+{yBridge Street{x~
+This is one of the many unpaved roads that wind their way through Lugard.
+Pedestrians, horses and carts alike kick up clouds of dust as they travel
+along this road.  At the northern end of the street is Lugard Bridge, the
+main crossing point over the River Reisendrelle while to the south is the
+promenade.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 3102
+D4
+~
+~
+0 0
+0 0 3310
+S
+#3359
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Reception Room~
+A few chairs and a couple of end tables give the reception room a 'homey'
+atmosphere.  At the southern end of the room is a large stone fireplace that
+burns brightly and warms the room.  Nestled in one corner of the room is a
+large oak desk.  Two corridors lead off from this room and there is a set of
+steps in a corner that lead down to the ground floor of the building.  
+~
+0
+DS 0
+D1
+~
+~
+0 0
+0 0 3364
+D3
+~
+~
+0 0
+0 0 3360
+D5
+~
+~
+0 0
+0 0 3356
+S
+#3360
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Hallway~
+This is the western end of a dark and gloomy hallway with wood floors. 
+Three doorways open off of the hall.  There are multiple scratches on the
+floor and a few stray marks on the wall indicating the slightly run down
+nature of the Silver Pig Inn.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3361
+D1
+~
+~
+0 0
+0 0 3359
+D2
+~
+~
+3 3
+1 0 3363
+D3
+~
+~
+3 3
+1 0 3362
+S
+#3361
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Bedroom~
+This simple bedroom has all a tired traveler could desire.  There is a
+small wash basin in the corner to refresh and clean of the dust from the
+road.  Opposite the door is a bed which looks like it is well used, but
+still comfy.  A small fireplace has a pile of firewood next to it and offers
+both light and heat to keep the room comfortable.  
+~
+0
+DJS 0
+D2
+~
+~
+3 3
+1 0 3360
+S
+#3362
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Bedroom~
+This simple bedroom has all an exhausted traveler could wish for.  There
+is a small wash basin in the corner to refresh and clean of the dust from
+the road.  Opposite the door is a bed which looks like it is well used, but
+still comfortable.  A small fireplace has a pile of firewood next to it and
+offers both light and warmth to keep the room comfy.  
+~
+0
+DJS 0
+D1
+~
+~
+3 3
+1 0 3360
+S
+#3363
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Bedroom~
+This simple bedroom has everything a weary traveler could desire.  There
+is a small wash basin in the corner to refresh and clean of the dust from
+the road.  Opposite the door is a bed which looks like it is well used, but
+still comfy.  A small fireplace has a stack of firewood next to it and
+offers both illumination and warmth to keep the room comfortable.  
+~
+0
+DJS 0
+D0
+~
+~
+3 3
+1 0 3360
+S
+#3364
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Hallway~
+This is the eastern end of a dark and gloomy hallway with wood floors. 
+Three doorways open off of the hall.  There are multiple scratches on the
+floor and a few stray marks on the wall indicating the slightly run down
+nature of the Silver Pig Inn.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3365
+D1
+~
+~
+3 3
+1 0 3366
+D2
+~
+~
+3 3
+1 0 3367
+D3
+~
+~
+0 0
+0 0 3359
+D4
+~
+~
+4099 4099
+1 0 3368
+S
+#3365
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Bedroom~
+This simple bedroom has everything a weary traveler could desire.  A
+small wash basin in the corner to refresh and clean of the dust from the
+road is in the corner.  Opposite the door is a bed which looks like it is
+well used, but still comfortable.  A small fireplace has a stack of firewood
+next to it and offers both light and heat to keep the room comfortable. 
+This plain bedroom has all a weary traveler could wish for.  There is a
+small wash basin in the corner to refresh and clean of the dust from the
+road.  Opposite the door is a bed which looks like it is well used, but
+still comfy.  A small fireplace has a stack of firewood next to it and
+offers both light and heat to keep the room comfortable.  
+~
+0
+DJS 0
+D2
+~
+~
+3 3
+1 0 3364
+S
+#3366
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Bedroom~
+This plain bedroom has everything an exhausted traveler could want. 
+There is a small wash basin in the corner to refresh and clean of the dust
+from the road.  Opposite the door is a bed which looks like it is well used,
+but still comfortable.  A small fireplace has a stack of firewood next to it
+and offers both illumination and heat to keep the room comfy.  
+~
+0
+DJS 0
+D3
+~
+~
+3 3
+1 0 3364
+S
+#3367
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Bedroom~
+This plain bedroom has everything a tired traveler could want.  There is
+a small wash basin in the corner to refresh and clean of the dust from the
+road.  Opposite the door is a bed which looks like it is well used, but
+still comfortable.  A small fireplace has a pile of firewood next to it and
+offers both light and warmth to keep the room comfy.  
+~
+0
+DJS 0
+D0
+~
+~
+3 3
+1 0 3364
+S
+#3368
+{DT{wh{We{D S{wilve{Wr{D P{wi{Wg{x - A Small Attic~
+The attic is filled with the usual odd collection of boxes and furniture
+but with the amount stacked up around the trap door it is hard to tell just
+how large the room really is.  The only space in the boxes is to the left of
+the ladder and it is just large enough for a mid-sized person to fit
+through.  Oddly beige carpeting covers the floors, muffling sound and with
+the color it is difficult to tell just how dusty the floor really is,
+although a good coating of dust seems to have settled on the boxes.  
+~
+0
+BDJS 0
+D5
+~
+~
+4099 4099
+1 0 3364
+S
+#3000
+{DThe Marketplace{x~
+The marketplace occupies a large plaza paved with gray stone, surrounded
+by tall gray buildings.  The buildings starkly contrast with the market
+stalls in this area with their brightly colored awnings and equally vivid
+goods that has been put out on display.  A broad road leads northwards from
+the plaza to the Mindea Gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3262
+D1
+~
+~
+0 0
+0 0 3058
+D2
+~
+~
+0 0
+0 0 3037
+D3
+~
+~
+0 0
+0 0 3039
+S
+#3001
+{gAt The Top Of A Tall Tree{x~
+This is the top of a very large oak tree somewhere within City Park. 
+From the tree's lofty boughs a good view of the surrounding park land can be
+seen.  Close by to the west is a pond whilst in the distance to the north is
+a cafe built near the edge of the park.  
+~
+0
+CS 3
+D5
+~
+~
+4096 4096
+0 0 3115
+S
+#3002
+{gThe Thieftakers' Guild{x - The Inner Sanctum~
+This gray stone chamber is the inner sanctum of the Thieftakers' Guild. 
+The room is dimly illuminated with a series of blackened iron lanterns that
+are attached to the almost bare walls.  A picture depicting an artist's
+interpretation of Gaidal Cain and Birgette Silverbow is hanging on the wall
+just above the fireplace in the eastern wall.  The only exit from this room
+is a door on the west side.  
+~
+0
+DS 0
+D3
+~
+~
+3 3
+1 0 3003
+S
+#3003
+{gThe Thieftakers' Guild{x - The Bar~
+Despite the dull gray stone walls and flagstone floor of this room there
+is a warm, welcoming feel to it.  A framed map of Lugard hangs above a cozy
+fireplace that has been built into the north wall.  In the northwest corner
+of the room is a long bar that has been fashioned from oak with several
+barrels and casks being stored behind it.  There are two exits from this
+room, one on the east side of the room and one on the south side.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 0 3002
+D2
+~
+~
+3 3
+1 0 3004
+S
+#3004
+{gThe Thieftakers' Guild{x - The Entrance~
+The entrance hall is a small yet modest room made of dull gray stone. 
+Blackened iron lamps attached to the walls of the chamber have made sooty
+marks.  A small entrance to the bar is in the northern wall whilst a larger
+arched doorway in the east wall leads out onto the Central Plaza.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3003
+D1
+~
+~
+3 3
+1 0 3005
+S
+#3005
+{yThe Central Plaza{z~
+This is the northern end of the Central Plaza, a huge paved square close
+to the heart of the city.  The plaza is surrounded by gray stone buildings
+including the Thieftakers' Guild Hall on the west side of the plaza and an
+inn called the Farrier's Hammer on the east side.  
+~
+0
+S 1
+D1
+~
+~
+3 3
+1 0 3006
+D2
+~
+~
+0 0
+0 0 3014
+D3
+~
+~
+3 3
+1 0 3004
+S
+#3006
+{bThe Farrier's Hammer{x - The Common Room~
+The common room of the Farrier's Hammer appears more or less like any
+other inn.  The room is bathed in a dim golden glow emanating from lanterns
+hung from the timber rafters.  At one end of the room is a wide stone
+fireplace whilst facing it at the opposite side is the bar.  Long tables and
+matching benches have been tidily arranged around the room with enough space
+between them to allow the serving maids to move around them.  
+~
+0
+DS 0
+D1
+~
+~
+3 3
+1 0 3007
+D3
+~
+~
+3 3
+1 0 3005
+S
+#3007
+{bThe Farrier's Hammer{x - The Kitchen~
+The aroma of fresh baked pie fills the kitchen.  It is a neat and tidy
+area that has been fitted with lots of cabinets and plenty of workspace. 
+Large iron ovens line one wall, while a stone fireplace is built into the
+other, several cauldrons set above the flames.  
+~
+0
+DS 0
+D3
+~
+~
+3 3
+1 0 3006
+S
+#3008
+{yNorth Wall Road{x~
+This is North Wall Road, a broad and unpaved street that extends around
+the inside of the northern wall of Lugard.  The city has expanded around its
+previous defensive structures; the remnants of those buildings can still be
+seen dotted around the newer houses, shops and inns.  The northwestern
+corner of the city wall lies ahead to the west.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3017
+D3
+~
+~
+0 0
+0 0 3260
+S
+#3009
+{YThe Bakery{x~
+The scent of freshly baked bread and pastries fills the air within this
+quaint bakery.  There is a multitude of produce placed on display on shelves
+behind the shop counter on the south side of the room.  Across the room next
+to the exit is a large window that looks out onto a busy street.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3012
+S
+#3010
+{CThe General Store{x~
+A rather small, yet useful shop filled with various items to help a weary
+traveler continue on their way.  Everything from water skins, lanterns and
+bedrolls can be found on the shelves that line the room.  A wide counter has
+been placed at the south end of the room opposite the shop's main exit.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3015
+S
+#3011
+{WThe Weapon Shop{x~
+This is a small shop that is dimly illuminated by candles placed around
+the area.  Various weapons hang upon the walls or are lined upon counters,
+the metal shines from the light of lamps on the walls.  At the north end of
+the room is a tall wooden counter where the shopkeeper does their
+transactions.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3016
+S
+#3012
+{yLugard Road{x~
+This is the western end of Lugard Road, one of Lugard's major
+thoroughfares.  Despite its importance the road remains unpaved and dusty. 
+There are numerous shops, inns and taverns overlooking this road including a
+weapons shop to the north and a bakery to the south.  To the west is the
+Inishlinn Gate and the street continues east towards the Central Plaza.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3122
+D1
+~
+~
+0 0
+0 0 3013
+D2
+~
+~
+3 3
+1 0 3009
+D3
+~
+~
+0 0
+0 0 3040
+S
+#3013
+{yLugard Road{x~
+Lugard Road is one of the main thoroughfares of this city.  It is a wide
+yet unpaved road that leads east/west past tall buildings built using gray
+stone.  The majority of these structures are shops, inns and taverns
+including an armory on the south side of the road and a tailor's shop to the
+north.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3119
+D1
+~
+~
+0 0
+0 0 3033
+D2
+~
+~
+3 3
+1 0 3020
+D3
+~
+~
+0 0
+0 0 3012
+S
+#3014
+{yThe Central Plaza{z~
+This is the southern end of the Central Plaza, a huge paved square near
+the heart of the Lugard.  The plaza is surrounded by gray stone buildings. 
+Three broad roads lead off from this plaza, unpaved roads.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3005
+D1
+~
+~
+0 0
+0 0 3029
+D2
+~
+~
+0 0
+0 0 3123
+D3
+~
+~
+0 0
+0 0 3033
+S
+#3015
+{yLugard Road{x~
+Lugard Road is one of the main thoroughfares of this city.  It is a wide
+yet unpaved road that leads east/west past tall buildings built using gray
+stone.  The majority of these structures are shops, inns and taverns
+including a particularly popular general store that lies to the south.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3016
+D2
+~
+~
+3 3
+1 0 3010
+D3
+~
+~
+0 0
+0 0 3029
+S
+#3016
+{yLugard Road{x~
+This is the eastern end of Lugard Road, one of Lugard's major
+thoroughfares.  Despite its importance the road remains unpaved and dusty. 
+There are numerous shops, inns and taverns overlooking this road including a
+weapons shop to the north and a jeweler to the south.  To the east is the
+Shilene Gate and the street continues west towards the Central Plaza.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3011
+D1
+~
+~
+0 0
+0 0 3041
+D2
+~
+~
+3 3
+1 0 3036
+D3
+~
+~
+0 0
+0 0 3015
+S
+#3017
+{yNorth Wall Road{x~
+Here lies the North Wall Road, a broad and unpaved thoroughfare that runs
+parallel to the inside of the northern wall of Lugard.  This particular
+district is a slum-like area filled with old and decrepit buildings, rough
+taverns and other dubious-looking establishments.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3304
+D1
+~
+~
+0 0
+0 0 3261
+D3
+~
+~
+0 0
+0 0 3008
+S
+#3018
+{yNorth Wall Road{x~
+This is North Wall Road, a wide and unpaved thoroughfare that follows
+along the inside of the northern wall of Lugard.  This particular district
+is a slum-like area filled with decrepit buildings, rough taverns and other
+dubious-looking establishments.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3019
+D3
+~
+~
+0 0
+0 0 3263
+S
+#3019
+{yNorth Wall Road{x~
+This is North Wall Road, an unpaved street that extends around the inside
+of the Lugard's northern wall.  The city has expanded around its previous
+defensive structures; the remnants of those buildings can still be seen
+dotted around the newer houses, shops and inns.  The northeastern corner of
+the city wall lies ahead to the east.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3264
+D3
+~
+~
+0 0
+0 0 3018
+S
+#3020
+{WThe Armoury{x~
+Inside the armory the lighting is somewhat dim, lanterns upon the walls
+giving off what little light there is.  Various pieces of armor rest upon
+shelves lining the walls, or are standing up in the corners of the room.  A
+tall counter has been set up on the south side of the room opposite the
+shop's main exit.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3013
+S
+#3021
+{yWest Wall Road{x~
+This is a long, unpaved road that follows along the inside of Lugard's
+western wall.  The wall looks totally useless in the means of defense; it
+seems more like a loosely held pile of rubble.  The remnants of older walls
+can be seen, it appears that the people of Lugard have built around the
+city's old defenses rather than demolish them.  Just a short distance away
+to the north is the northwestern corner of the city.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3260
+D2
+~
+~
+0 0
+0 0 3259
+S
+#3022
+{yEast Wall Road{x~
+This is a long, unpaved road that follows along the inside of Lugard's
+eastern wall.  The wall looks totally useless in the means of defense; it
+seems more like a loosely held pile of rubble.  The remnants of older walls
+can be seen, it appears that the people of Lugard have built around the
+city's old defenses rather than demolish them.  Just a short distance away
+to the north is the northeastern corner of the city.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3264
+D2
+~
+~
+0 0
+0 0 3265
+S
+#3023
+{yEast Wall Road{x~
+This is a wide, unpaved street that follows along the inside of the
+eastern wall of Lugard.  The wall appears to be totally useless in the means
+of defense; it looks more like a loosely held pile of rubble than an actual
+sturdy structure.  It seems that the people of Lugard have simply continued
+to build their city around the old defensive walls rather than demolish
+them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3266
+D2
+~
+~
+0 0
+0 0 3267
+S
+#3024
+{yWest Street{x~
+West Street is one of the many unpaved thoroughfares that wind their way
+through Lugard.  Pedestrians, horses and vehicles alike kick up great clouds
+of dust as they traverse this road.  To the north is an apothecary and to
+the south is one of Lugard's rough yet colorful taverns, the Dancing Bear.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3160
+D1
+~
+~
+0 0
+0 0 3274
+D2
+~
+~
+3 3
+1 0 3048
+D3
+~
+~
+0 0
+0 0 3044
+S
+#3025
+{yThe Center Of Lugard{x~
+The heart of Lugard appears no different to the rest of the sprawling
+city, a mess of broad unpaved roads and streets that cross each other in a
+haphazard manner, weaving their way around the decrepit old city walls.  The
+movement of traffic, even the gentlest of breezes is enough to throw up
+thick clouds of dust in the air, the noise within these busy streets is
+almost deafening, both by day and by night.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3133
+D1
+~
+~
+0 0
+0 0 3026
+D2
+~
+~
+0 0
+0 0 3030
+D3
+~
+~
+0 0
+0 0 3274
+S
+#3026
+{yEast Street{x~
+East Street is one of the many unpaved thoroughfares that wind their way
+through Lugard.  Pedestrians, horses and vehicles alike kick up clouds of
+dust as they traverse this road.  To the west is a large crossroad whilst to
+the north is one of Lugard's colorful inns, the Domani Wench's Kiss.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3352
+D1
+~
+~
+0 0
+0 0 3045
+D3
+~
+~
+0 0
+0 0 3025
+S
+#3027
+{yWest Wall Road{x~
+This is West Wall Road, a broad and unpaved street that follows along the
+inside of the western wall of Lugard.  Remnants of older walls can be seen
+inside the city as the locals have built around the ruins rather than
+demolish them completely.  An assortment of buildings can be seen lining the
+streets including warehouses, shops and taverns dotted amongst the citizens'
+abodes.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3258
+D2
+~
+~
+0 0
+0 0 3257
+S
+#3028
+{yMindea Road{x~
+This is Mindea Road, a long street that leads east/west through one of
+the northern districts of Lugard.  The street is unpaved and produces large
+clouds of road dust as wagons and carts travel along it.  Numerous tall
+buildings line the street although most of them are houses in this area.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3315
+D3
+~
+~
+0 0
+0 0 3314
+S
+#3029
+{yLugard Road{x~
+This is a wide unpaved road that leads east/west through the city of
+Lugard.  The road is flanked on both sides by loft gray stone buildings
+although the majority of these structures are shops including a locksmith's
+shop to the south.  Just a short distance away to the west is the Central
+Plaza.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3015
+D2
+~
+~
+3 3
+1 0 3117
+D3
+~
+~
+0 0
+0 0 3014
+S
+#3030
+{yBridge Street{x~
+Here is one of the many unpaved thoroughfares that wind their way through
+the city.  Pedestrians, horses and wagons alike churn up clouds of dust as
+they traverse this road.  At the southern end of the street is Lugard
+Bridge, the main crossing point over the River Reisendrelle whilst to the
+north is a large crossroad.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3025
+D4
+~
+~
+0 0
+0 0 3254
+S
+#3031
+{YThe Pet Shop{x~
+On the face of it this establishment is a tidily kept area with lots of
+pet foods and equipment placed on display on wooden shelves or in crates. 
+There is a counter at the back of the store where the shopkeeper makes her
+transactions.  A cacophony of sound fills this shop; the origin of the
+racket is a door behind the counter.  
+~
+0
+DMS 0
+D2
+~
+~
+3 3
+1 0 3045
+S
+#3032
+Pet Shop Store~
+This room does not require a description.  
+~
+0
+BCDKSV 0
+S
+#3033
+{yLugard Road{x~
+This is a wide unpaved road that leads east/west through the city of
+Lugard.  The road is flanked on both sides by loft gray stone buildings
+although a particularly colorful building on the south side of the road
+appears to stand out from all of the rest.  Just a short distance away to
+the east is the Central Plaza.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3014
+D2
+~
+~
+3 3
+1 0 3057
+D3
+~
+~
+0 0
+0 0 3013
+S
+#3034
+{yWest Wall Road{x~
+This is West Wall Road, a wide street that follows along the inside of
+the western wall of Lugard.  Far from being an effective bastion, the city
+walls have been left in a bad state and have more in common with a pile of
+rocks.  Remnants of older walls can be seen within the city as the locals
+have built around the ruins rather than dismantle them completely.  Just
+north of here is the Inishlinn Gate, the westernmost city gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3040
+D2
+~
+~
+0 0
+0 0 3042
+S
+#3035
+{DThe Leather Shop{x~
+A sharp, acrid smell fills the entire area of this large room.  There are
+numerous timber shelves along the walls containing all sorts of animal
+hides.  Occupying one of the walls is a crackling fireplace upon which hangs
+a big iron pot with boiling water.  In the middle of the room is a large oak
+table where the shopkeeper conducts most of his business.  
+~
+0
+DS 0
+D2
+~
+~
+3 3
+1 0 3044
+S
+#3036
+{YThe Jeweler{x~
+This shop is rather on the small side, the window on the front of the
+shop letting in just enough light for one to see the display cases of
+various pieces of gold or silver jewelry.  Hanging on small cloth busts are
+a few different furs and cloaks that can also be purchased in the shop.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3016
+S
+#3037
+{DThe Marketplace{x~
+The marketplace occupies a large plaza paved with gray stone, bordered by
+tall gray buildings.  The buildings starkly contrast with the market stalls
+in this area with their brightly colored awnings and equally vivid
+merchandise that has been placed out on display.  A broad road leads
+southwards from the plaza.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3000
+D1
+~
+~
+0 0
+0 0 3059
+D2
+~
+~
+0 0
+0 0 3314
+D3
+~
+~
+0 0
+0 0 3038
+S
+#3038
+{DThe Marketplace{x~
+This is the southwestern corner of the marketplace located in a large
+plaza paved with gray stone and bordered by tall gray buildings.  The
+buildings starkly contrast with the market stalls in this area with their
+brightly colored awnings and equally vivid merchandise that has been put out
+on display.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3039
+D1
+~
+~
+0 0
+0 0 3037
+S
+#3039
+{DThe Marketplace{x~
+This is the northwestern corner of the marketplace that occupies a large
+plaza paved with gray stone and is encircled by tall gray buildings.  The
+buildings starkly contrast with the market stalls in this vicinity with
+their brightly colored awnings and equally vivid goods that has been placed
+out on display.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3000
+D2
+~
+~
+0 0
+0 0 3038
+S
+#3040
+{DInside The Inishlinn Gate{x~
+A pair of tall stone towers surrounds a heavy timber gate built into the
+city wall beneath which lies a broad stone bridge joining the roads of the
+inner city to the roads outside.  The towers seem to be among the strongest
+parts of the city's defenses; the city wall has been left in a state of
+disrepair and would not be able to fare well against a direct attack.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3257
+D1
+~
+~
+0 0
+0 0 3012
+D2
+~
+~
+0 0
+0 0 3034
+D3
+~
+gate~
+3 3
+1 3133 3052
+S
+#3041
+{DInside The Shilene Gate{x~
+Two tall stone towers flank a heavy wooden gate built into the city wall
+beneath which lies a broad stone bridge linking the roads of the inner city
+to the roads outside.  The towers seem to be among the sturdiest parts of
+Lugard's defenses; the city wall has been left in a state of disrepair and
+would not be able to withstand an attack.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3267
+D1
+~
+gate~
+3 3
+1 3133 3053
+D2
+~
+~
+0 0
+0 0 3054
+D3
+~
+~
+0 0
+0 0 3016
+S
+#3042
+{yWest Wall Road{x~
+This is a broad, unpaved street that runs parallel to the inside of the
+eastern wall of Lugard.  Pedestrians and wagons alike kick up clouds of dust
+as they move around this gray and grimy city.  Various buildings can be seen
+to the east including many shops but there is no direct route of access to
+them from this point.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3034
+D2
+~
+~
+0 0
+0 0 3043
+S
+#3043
+{yWest Wall Road{x~
+This is West Wall Road, a wide and unpaved thoroughfare that follows
+along the inside of the western wall of Lugard.  At this point within the
+city two broad streets intersect each other perpendicularly, forming a
+t-junction.  Both streets are overlooked by a variety of stark gray
+buildings although the majority of the structures in this region are shops
+and warehouses.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3042
+D1
+~
+~
+0 0
+0 0 3044
+D2
+~
+~
+0 0
+0 0 3056
+S
+#3044
+{yWest Street{x~
+This is a wide yet unpaved street that leads east/west through the city. 
+Most of the buildings within this district are constructed from dull gray
+stone and have sloped roofs.  To the north is a leather shop, to the south
+is a large warehouse and this street joins a second thoroughfare just a
+short distance away to the west.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3035
+D1
+~
+~
+0 0
+0 0 3024
+D2
+~
+~
+3 3
+1 0 3170
+D3
+~
+~
+0 0
+0 0 3043
+S
+#3045
+{yEast Street{x~
+This street is part of the network of streets that cross the city of
+Lugard.  Pedestrians, horses and vehicles alike kick up large amounts of
+dust as they travel along this unpaved road.  On the north side of the
+street is a pet shop whilst to the south is a levee.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 3031
+D1
+~
+~
+0 0
+0 0 3046
+D2
+~
+~
+0 0
+0 0 3049
+D3
+~
+~
+0 0
+0 0 3026
+S
+#3046
+{yEast Street{x~
+This is a broad yet unpaved street that leads east/west through the city.
+Numerous structures have been built along this road including a large
+warehouse on the south side.  To the east this street intersects a second
+thoroughfare that follows one of the many stone walls that once were a major
+part of the city's defenses.  Even from this point the wall appears to be
+totally useless in the means of defense, it looks vaguely more like a
+loosely held pile of rubble than an actual wall.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 3251
+D2
+~
+~
+3 3
+1 0 3050
+D3
+~
+~
+0 0
+0 0 3045
+S
+#3047
+{yWest Wall Road{x~
+This is a wide and unpaved road that follows along the inside of the
+western wall of Lugard.  The road is split by the River Reisendrelle that
+flows west through an opening in the wall approximately ten feet down.  At
+this point a bridge built out from the city wall spans the waterway, linking
+the sections of road together.  
+~
+0
+S 1
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+D0
+~
+~
+0 0
+0 0 3056
+D2
+~
+~
+0 0
+0 0 3051
+S
+#3048
+{rThe Dancing Bear{x - The Common Room~
+The common room of the Dancing Bear looks like any other common room. 
+The room is bathed in a dull golden glow coming from lanterns hung from the
+timber rafters.  At one end of the room is a blazing fireplace whilst facing
+it at the opposite side is the bar.  Tables and benches have been neatly
+arranged around the room with enough space between them to allow the serving
+maids to move around them.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3024
+D4
+~
+~
+4099 4099
+1 0 3055
+S
+#3049
+{yA Levee{x~
+This is a man-made levee built along the northern bank of the River
+Reisendrelle.  From here the river can be seen gently flowing westwards,
+diving Lugard into two.  Directly across the river is a small boat landing
+built off of the Riverside Diner.  
+~
+0
+CS 1
+D0
+~
+~
+0 0
+0 0 3045
+D2
+~
+~
+0 0
+0 0 3203
+S
+#3050
+{DAn Abandoned Warehouse{x~
+This enormous gray stone building was once used as a warehouse.  The
+place is very filthy and appears to have been unused for many years.  A
+skylight in the roof above spills violet-tinged light across the empty
+storage space.  The only exit from this deserted building appears to be the
+set of double doors on the north side.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3046
+S
+#3051
+{yWest Wall Road{x~
+This is West Wall Road, a wide and unpaved street that follows along the
+inside of the western wall of Lugard.  Even from this point the wall appears
+to be totally useless in the means of defense, it looks vaguely more like a
+loosely held pile of rubble than an actual wall.  It seems that the people
+of Lugard have simply continued to build their city around the old defensive
+walls rather than demolish them.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3047
+D2
+~
+~
+0 0
+0 0 3100
+S
+#3052
+{DOutside The Inishlinn Gate{x~
+The Inishlinn Gate is westernmost entrance into Lugard and is marked by
+two small towers flanking a heavy wooden gate.  The gate bars the way across
+a broad bridge spanning a dry moat built around the city.  On this side of
+the gate the bridge links to a broad dirt road that snakes its way westwards
+through the grassy plains that surround Lugard towards Jehannah.  
+~
+0
+S 2
+D1
+~
+gate~
+3 3
+1 3133 3040
+S
+#3053
+{DOutside The Shilene Gate{x~
+The Shilene Gate is easternmost entrance into the walled city of Lugard
+and is marked by two small towers flanking a heavy wooden gate.  The gate
+bars the way across a broad bridge spanning a dry moat built around the
+city.  On this side of the gate the bridge connects to a broad dirt road
+that meanders its way eastwards through the grassy plains that surround
+Lugard towards other Murandian settlements.  
+~
+0
+S 1
+D3
+~
+gate~
+3 3
+1 3133 3041
+S
+#3054
+{yEast Wall Road{x~
+This is East Wall Road, a broad and unpaved street that follows along the
+inside of Lugard's eastern wall.  Far from being an effective bastion, the
+city walls have been left in a bad condition and have more in common with a
+pile of rocks.  Remnants of older walls can be seen inside the city as the
+locals have built around the ruins rather than demolish them completely. 
+Just north of here is the Shilene Gate, the easternmost city gate.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3041
+D2
+~
+~
+0 0
+0 0 3250
+S
+#3055
+{rThe Dancing Bear{x - A Small Apartment~
+This is a small apartment that appears to have been cleaned up recently. 
+Heavy curtains on the windows keep prying eyes out.  A small bed is in one
+corner of the room, and a wood burning stove, wash basin, and other things
+that make a place livable are kept clean and in their places.  
+~
+0
+BJS 0
+D5
+~
+~
+4099 4099
+1 0 3048
+S
+#3056
+{yWest Wall Road{x~
+This is West Wall Road, a broad and unpaved road that follows along the
+inside of the western wall of Lugard.  Tall gray stone buildings have been
+built around the remnants of older city walls as Lugard expanded over the
+years but its residents failed to demolish the ruins.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3043
+D2
+~
+~
+0 0
+0 0 3047
+S
+#3057
+{rThe Wagon Seat{x - The Common Room~
+There is nothing out of the ordinary about the common room of the Wagon
+Seat.  The room is illuminated by oil lamps hung from the wooden rafters. 
+At one end of the room is a wide stone fireplace whilst facing it at the
+opposite side is the bar.  Long tables and matching benches have been tidily
+arranged around the room with enough space between them to allow the serving
+maids to move around them.  
+~
+0
+DS 0
+D0
+~
+~
+3 3
+1 0 3033
+S
+#3058
+{DThe Marketplace{x~
+This is the northeastern corner of the marketplace located in a large
+plaza paved with gray stone and surrounded by tall gray buildings.  The
+buildings starkly contrast with the market stalls in this area with their
+brightly colored awnings and equally vivid merchandise that has been put out
+on display.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 3059
+D3
+~
+~
+0 0
+0 0 3000
+S
+#3059
+{DThe Marketplace{x~
+This is the southeastern corner of the marketplace that occupies a large
+plaza paved with gray stone and is encircled by tall gray buildings.  The
+buildings starkly contrast with the market stalls in this vicinity with
+their brightly colored awnings and equally vivid merchandise that has been
+placed out on display.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 3058
+D3
+~
+~
+0 0
+0 0 3037
+S
+#0
+
+
+
+#SPECIALS
+M 3073 spec_questmaster
+M 3063 spec_thief
+S
+
+
+
+#RESETS
+D 0 3103 0 1
+D 0 3105 1 1
+D 0 3105 2 1
+D 0 3106 3 1
+D 0 3107 3 1
+D 0 3108 0 1
+D 0 3109 1 1
+D 0 3110 0 1
+D 0 3110 1 1
+D 0 3110 3 1
+D 0 3112 1 1
+D 0 3116 3 1
+D 0 3117 0 1
+D 0 3119 2 1
+D 0 3121 2 1
+D 0 3122 2 1
+D 0 3134 2 1
+D 0 3137 2 1
+D 0 3137 3 1
+D 0 3138 1 1
+D 0 3142 1 1
+D 0 3142 2 2
+D 0 3143 0 2
+D 0 3145 0 1
+D 0 3145 2 1
+D 0 3146 0 1
+D 0 3147 0 1
+D 0 3148 2 1
+D 0 3149 0 1
+D 0 3149 2 1
+D 0 3149 3 1
+D 0 3150 0 1
+D 0 3150 2 1
+D 0 3151 0 1
+D 0 3152 0 1
+D 0 3152 3 1
+D 0 3153 1 1
+D 0 3154 2 1
+D 0 3155 1 1
+D 0 3160 2 1
+D 0 3160 4 1
+D 0 3161 5 1
+D 0 3170 0 1
+D 0 3203 2 1
+D 0 3255 2 1
+D 0 3256 0 1
+D 0 3262 0 1
+D 0 3268 2 1
+D 0 3276 3 1
+D 0 3302 2 1
+D 0 3304 0 1
+D 0 3304 2 1
+D 0 3305 1 1
+D 0 3305 2 1
+D 0 3305 3 1
+D 0 3306 1 1
+D 0 3307 3 1
+D 0 3308 3 1
+D 0 3309 1 1
+D 0 3315 2 1
+D 0 3316 0 1
+D 0 3317 2 1
+D 0 3334 0 1
+D 0 3352 2 1
+D 0 3356 0 1
+D 0 3360 0 1
+D 0 3360 2 1
+D 0 3360 3 1
+D 0 3361 2 1
+D 0 3362 1 1
+D 0 3363 0 1
+D 0 3364 0 1
+D 0 3364 1 1
+D 0 3364 2 1
+D 0 3364 4 1
+D 0 3365 2 1
+D 0 3366 3 1
+D 0 3367 0 1
+D 0 3368 5 1
+D 0 3002 3 1
+D 0 3003 1 1
+D 0 3003 2 1
+D 0 3004 0 1
+D 0 3004 1 1
+D 0 3005 1 1
+D 0 3005 3 1
+D 0 3006 1 1
+D 0 3006 3 1
+D 0 3007 3 1
+D 0 3009 0 1
+D 0 3010 0 1
+D 0 3011 2 1
+D 0 3012 0 1
+D 0 3012 2 1
+D 0 3013 0 1
+D 0 3013 2 1
+D 0 3015 2 1
+D 0 3016 0 1
+D 0 3016 2 1
+D 0 3017 0 1
+D 0 3020 0 1
+D 0 3024 0 1
+D 0 3024 2 1
+D 0 3026 0 1
+D 0 3029 2 1
+D 0 3031 2 1
+D 0 3033 2 1
+D 0 3035 2 1
+D 0 3036 0 1
+D 0 3040 3 1
+D 0 3041 1 1
+D 0 3044 0 1
+D 0 3044 2 1
+D 0 3045 0 1
+D 0 3046 2 1
+D 0 3048 0 1
+D 0 3048 4 1
+D 0 3050 0 1
+D 0 3052 1 1
+D 0 3053 3 1
+D 0 3055 5 1
+D 0 3057 0 1
+M 0 3075 20 3100 2
+M 0 3038 20 3100 2
+M 0 3038 20 3100 2
+O 0 3134 0 3101
+O 0 3134 0 3102
+M 0 3037 30 3104 3
+M 0 3047 6 3106 6
+M 0 3047 6 3106 6
+M 0 3047 6 3106 6
+M 0 3100 1 3106 1
+G 0 3100 0
+G 0 3101 0
+G 0 3102 0
+M 0 3120 1 3106 1
+G 0 3121 0
+M 0 3123 5 3107 1
+M 0 3123 5 3109 1
+M 0 3060 18 3109 1
+E 0 3363 0 17
+E 0 3363 0 18
+E 0 3362 0 16
+E 0 3360 0 12
+E 0 3354 0 13
+E 0 3359 0 11
+E 0 3350 0 20
+O 0 3109 0 3110
+M 0 3073 1 3110 1
+M 0 3060 18 3111 2
+G 0 3120 0
+E 0 3350 0 20
+E 0 3353 0 7
+E 0 3351 0 21
+E 0 3356 0 8
+E 0 3357 0 9
+M 0 3124 5 3113 1
+M 0 3121 3 3114 3
+M 0 3121 3 3114 3
+M 0 3121 3 3114 3
+M 0 3122 3 3114 3
+M 0 3122 3 3114 3
+M 0 3122 3 3114 3
+M 0 3124 5 3115 1
+M 0 3074 1 3117 1
+G 0 3128 0
+G 0 3141 0
+O 0 3108 0 3119
+M 0 3059 1 3119 1
+M 0 3030 50 3121 2
+M 0 3028 50 3121 2
+M 0 3058 1 3122 1
+G 0 3017 0
+G 0 3025 0
+G 0 3023 0
+G 0 3026 0
+G 0 3021 0
+G 0 3016 0
+G 0 3019 0
+M 0 3035 20 3123 2
+M 0 3075 20 3124 2
+M 0 3060 18 3124 1
+E 0 3350 0 20
+E 0 3354 0 13
+E 0 3358 0 10
+E 0 3357 0 9
+M 0 3060 18 3125 1
+E 0 3360 0 12
+E 0 3354 0 13
+E 0 3350 0 20
+E 0 3353 0 7
+M 0 3063 20 3125 2
+E 0 3021 0 20
+E 0 3066 0 7
+E 0 3052 0 17
+E 0 3052 0 18
+M 0 3037 30 3127 1
+M 0 3030 50 3127 1
+M 0 3028 50 3127 1
+M 0 3075 20 3128 2
+M 0 3005 4 3128 2
+E 0 3079 0 20
+E 0 3093 0 8
+E 0 3094 0 25
+E 0 3095 0 5
+M 0 3030 50 3131 2
+M 0 3028 50 3131 2
+O 0 3134 0 3132
+O 0 3134 0 3135
+M 0 3050 5 3137 5
+M 0 3050 5 3137 5
+M 0 3050 5 3137 5
+M 0 3050 5 3137 5
+M 0 3050 5 3137 5
+M 0 3142 1 3137 1
+M 0 3143 1 3138 1
+E 0 3124 0 16
+M 0 3069 4 3138 4
+E 0 3364 0 3
+E 0 3365 0 1
+E 0 3350 0 20
+E 0 3351 0 21
+O 0 3134 0 3139
+M 0 3060 18 3140 1
+E 0 3350 0 20
+E 0 3353 0 7
+E 0 3355 0 15
+E 0 3354 0 13
+E 0 3356 0 8
+E 0 3361 0 25
+M 0 3144 1 3140 1
+M 0 3051 6 3141 6
+M 0 3051 6 3141 6
+O 0 3135 0 3141
+O 0 3136 0 3141
+M 0 3140 1 3142 1
+G 0 3122 0
+G 0 3137 0
+E 0 3354 0 13
+E 0 3355 0 15
+E 0 3363 0 18
+E 0 3363 0 17
+E 0 3350 0 20
+M 0 3141 4 3142 4
+O 0 3130 0 3142
+O 0 3125 0 3142
+P 0 3123 1 3125 1
+O 0 3131 0 3142
+P 0 3132 1 3131 1
+M 0 3150 1 3150 1
+G 0 3154 0
+G 0 3098 0
+G 0 3099 0
+G 0 3152 0
+G 0 3153 0
+G 0 3151 0
+G 0 3150 0
+G 0 3100 0
+O 0 3201 0 3153
+O 0 3201 0 3154
+M 0 3160 1 3160 1
+M 0 3161 1 3160 1
+O 0 3103 0 3161
+O 0 3038 0 3161
+P 0 3037 3 3038 3
+P 0 3036 3 3038 3
+P 0 3035 3 3038 3
+P 0 3034 3 3038 3
+M 0 3038 20 3252 2
+M 0 3068 10 3255 2
+E 0 3350 0 20
+E 0 3354 0 13
+E 0 3358 0 10
+E 0 3359 0 11
+M 0 3037 30 3257 1
+M 0 3035 20 3260 1
+M 0 3030 50 3261 2
+M 0 3037 30 3261 1
+M 0 3068 10 3262 2
+E 0 3352 0 20
+E 0 3354 0 13
+E 0 3357 0 9
+E 0 3361 0 25
+E 0 3363 0 17
+E 0 3363 0 18
+M 0 3035 20 3263 1
+M 0 3031 20 3264 2
+M 0 3037 30 3264 1
+M 0 3062 16 3266 2
+M 0 3031 20 3267 2
+M 0 3038 20 3270 2
+M 0 3063 20 3272 2
+E 0 3021 0 20
+E 0 3066 0 7
+E 0 3052 0 17
+E 0 3052 0 18
+M 0 3035 20 3273 1
+M 0 3048 20 3276 2
+M 0 3031 20 3302 2
+E 0 3104 0 5
+M 0 3052 1 3304 1
+M 0 3053 5 3306 5
+M 0 3053 5 3306 5
+M 0 3053 5 3306 5
+M 0 3053 5 3306 5
+M 0 3053 5 3306 5
+M 0 3076 1 3307 1
+M 0 3054 5 3307 5
+M 0 3054 5 3307 5
+M 0 3054 5 3307 5
+M 0 3054 5 3307 5
+M 0 3054 5 3307 5
+M 0 3055 5 3309 5
+M 0 3055 5 3309 5
+M 0 3055 5 3309 5
+M 0 3055 5 3309 5
+M 0 3055 5 3309 5
+M 0 3035 20 3314 3
+M 0 3057 1 3317 1
+G 0 3078 0
+G 0 3059 0
+M 0 3162 1 3334 1
+M 0 3036 5 3352 5
+M 0 3036 5 3352 5
+M 0 3036 5 3352 5
+M 0 3036 5 3352 5
+M 0 3036 5 3352 5
+M 0 3016 1 3355 1
+M 0 3018 5 3355 5
+M 0 3014 1 3356 1
+M 0 3015 1 3356 1
+M 0 3032 5 3356 5
+M 0 3032 5 3356 5
+M 0 3032 5 3356 5
+M 0 3032 5 3356 5
+M 0 3032 5 3356 5
+O 0 3008 0 3357
+O 0 3000 0 3357
+O 0 3007 0 3357
+M 0 3017 1 3357 1
+G 0 3154 0
+G 0 3099 0
+G 0 3098 0
+M 0 3033 5 3357 5
+M 0 3033 5 3357 5
+M 0 3033 5 3357 5
+M 0 3033 5 3357 5
+M 0 3033 5 3357 5
+M 0 3019 1 3359 1
+O 0 3015 0 3361
+O 0 3015 0 3362
+O 0 3015 0 3363
+O 0 3015 0 3365
+O 0 3015 0 3366
+O 0 3015 0 3367
+M 0 3034 1 3368 1
+M 0 3021 1 3002 1
+O 0 3142 0 3003
+M 0 3029 5 3003 5
+M 0 3029 5 3003 5
+M 0 3029 5 3003 5
+M 0 3029 5 3003 5
+M 0 3029 5 3003 5
+M 0 3043 1 3003 1
+G 0 3002 0
+G 0 3004 0
+M 0 3025 2 3004 2
+E 0 3107 0 20
+M 0 3028 50 3005 2
+O 0 3135 0 3005
+M 0 3060 18 3005 2
+E 0 3350 0 20
+E 0 3353 0 7
+E 0 3355 0 15
+E 0 3364 0 3
+M 0 3064 12 3006 6
+E 0 3126 0 5
+M 0 3064 12 3006 6
+E 0 3127 0 9
+M 0 3013 10 3006 5
+M 0 3040 1 3007 1
+M 0 3001 1 3009 1
+G 0 3009 0
+G 0 3011 0
+G 0 3012 0
+G 0 3013 0
+G 0 3014 0
+M 0 3002 1 3010 1
+G 0 3058 0
+G 0 3030 0
+G 0 3031 0
+G 0 3138 0
+G 0 3032 0
+G 0 3033 0
+M 0 3003 1 3011 1
+G 0 3018 0
+G 0 3020 0
+G 0 3024 0
+G 0 3026 0
+G 0 3027 0
+G 0 3028 0
+G 0 3029 0
+E 0 3022 0 16
+M 0 3062 16 3012 4
+M 0 3048 20 3012 2
+M 0 3030 50 3013 2
+M 0 3060 18 3014 2
+E 0 3356 0 8
+E 0 3353 0 7
+M 0 3028 50 3015 2
+E 0 3096 0 8
+M 0 3062 16 3016 2
+M 0 3028 50 3018 2
+E 0 3096 0 8
+M 0 3030 50 3018 2
+M 0 3004 1 3020 1
+G 0 3048 0
+G 0 3097 0
+G 0 3072 0
+G 0 3075 0
+M 0 3028 50 3021 1
+M 0 3030 50 3021 1
+M 0 3037 30 3023 1
+M 0 3037 30 3024 3
+M 0 3037 30 3024 3
+M 0 3037 30 3024 3
+M 0 3062 16 3024 4
+M 0 3075 20 3025 1
+M 0 3062 16 3025 1
+M 0 3063 20 3026 5
+E 0 3021 0 20
+E 0 3066 0 7
+E 0 3052 0 18
+E 0 3052 0 17
+M 0 3066 1 3026 1
+M 0 3008 1 3031 1
+M 0 3093 1 3032 1
+M 0 3090 1 3032 1
+M 0 3091 1 3032 1
+M 0 3092 1 3032 1
+M 0 3010 1 3035 1
+G 0 3060 0
+G 0 3061 0
+G 0 3062 0
+G 0 3064 0
+G 0 3065 0
+G 0 3052 0
+G 0 3053 0
+M 0 3056 1 3036 1
+G 0 3057 0
+G 0 3056 0
+G 0 3055 0
+G 0 3049 0
+M 0 3078 1 3038 1
+G 0 3143 0
+G 0 3144 0
+G 0 3145 0
+G 0 3146 0
+M 0 3077 1 3039 1
+G 0 3169 0
+G 0 3170 0
+G 0 3171 0
+M 0 3068 10 3040 2
+E 0 3350 0 20
+E 0 3351 0 21
+E 0 3353 0 7
+E 0 3355 0 15
+M 0 3068 10 3041 2
+E 0 3352 0 20
+E 0 3353 0 7
+E 0 3354 0 13
+E 0 3358 0 10
+M 0 3075 20 3042 2
+M 0 3075 20 3046 2
+M 0 3063 20 3047 2
+E 0 3021 0 20
+E 0 3066 0 7
+E 0 3052 0 17
+E 0 3052 0 18
+M 0 3046 1 3048 1
+G 0 3003 0
+G 0 3004 0
+M 0 3163 5 3048 5
+M 0 3065 5 3048 5
+M 0 3006 1 3049 1
+G 0 3050 0
+G 0 3051 0
+M 0 3007 1 3050 1
+M 0 3037 30 3051 1
+M 0 3035 20 3054 1
+O 0 3103 0 3055
+M 0 3064 12 3057 6
+E 0 3119 0 7
+M 0 3064 12 3057 6
+E 0 3118 0 8
+M 0 3013 10 3057 5
+M 0 3079 1 3058 1
+G 0 3156 0
+G 0 3157 0
+G 0 3158 0
+G 0 3159 0
+G 0 3160 0
+M 0 3080 1 3059 1
+G 0 3147 0
+G 0 3148 0
+G 0 3149 0
+G 0 3155 0
+S
+
+
+
+#SHOPS
+3074 18 15 0 0 0 150 50 0 23
+3077 9 0 0 0 0 500 50 0 23
+3078 5 0 0 0 0 500 50 0 23
+3079 9 0 0 0 0 10000 50 0 23
+3080 5 0 0 0 0 750 50 0 23
+3100 17 0 0 0 0 110 90 6 23
+3150 19 17 0 0 0 100 100 0 23
+3000 2 3 4 10 0 105 15 0 23
+3001 19 0 0 0 0 110 100 0 23
+3002 1 8 13 15 19 125 50 0 23
+3003 5 0 0 0 0 120 40 0 23
+3004 9 0 0 0 0 100 50 0 23
+3006 22 0 0 0 0 120 90 6 22
+3008 0 0 0 0 0 100 100 0 23
+3009 8 30 32 33 0 110 100 0 23
+3010 9 0 0 0 0 100 75 0 23
+3017 17 0 0 0 0 100 100 0 23
+3042 0 0 0 0 0 100 100 0 23
+3043 17 0 0 0 0 110 100 0 23
+3044 0 0 0 0 0 170 100 0 23
+3045 0 0 0 0 0 150 100 0 23
+3046 17 0 0 0 0 100 90 0 23
+3056 9 33 32 8 0 100 100 0 23
+3057 0 0 0 0 0 100 100 0 23
+3058 5 0 0 0 0 120 40 0 23
+3070 10 0 0 0 0 1000 100 0 23
+0
+
+
+
+#HELPS
+0 oguild~
+~
+
+-1 $~
+
+#$

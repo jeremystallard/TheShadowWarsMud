@@ -1,0 +1,1793 @@
+#AREADATA
+Name Players Houses~
+Builders All~
+VNUMs 37000 37999
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#37000
+elizabeth maid~
+{rEl{Ri{rza{Rbe{rth{x, the {Dm{Wa{Di{Wd{x~
+A {rs{Rtra{rw{Rberr{ry{x-{yb{Ylo{yn{Yd{ye{x woman, wearing a {Dm{Wa{Di{Wd{D'{Ws{x uniform is here, ready to serve.
+~
+This tall woman stands by the entrance door, waiting for her Lord to
+arrive.  She is wearing the livery of the House she works for, with her
+strawberry-blonde hair in a bun against the back of her neck, tied by a red
+band.  She looks like a pleasant company, with her brown eyes showing
+humility and respect for those of higher stations than herself.  
+~
+andoran~
+ABDKd 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKNW Ac 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#37050
+vault clerk~
+a {Dv{wa{Wu{wl{Dt {yclerk{x~
+A middle-aged man sits at a desk, reviewing a {Wl{De{Wdger{x.
+~
+A man with patchy {ybrown{x hair and {Dspectacles{x sits here accounting for his
+daily numbers.  
+~
+andoran~
+ABDd 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CFIKN ABCD 0 0
+stand stand male 1000
+0 0 medium 'flesh'
+#37502
+mukluk bear muk luk~
+a small {Dbe{ya{Dr{x cub~
+A small {Dbe{ya{Dr{x cub with a bitten ear.
+~
+~
+bear~
+AIZ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 0
+0 0 medium 'skin flesh bones'
+#0
+
+
+
+#OBJECTS
+#37000
+stand drawer~
+a long and shallow {rdr{ya{rwe{yr{x~
+A {rma{yh{rog{ya{rny{x stand is here against the wall, a vase of fresh {rr{Re{rd {Rt{rul{Ri{rps{x on it~
+mahogany~
+container 0 P
+0 ACI 0 5 5
+0 100 75000 100
+#37001
+bench~
+a beautifully {ycarved {rmah{yo{rga{yn{ry{x bench with a {gv{Ge{glvet {gg{Gr{geen {gcu{Gsh{gi{Gon{x~
+Two {rmah{yo{rga{yn{ry{x {ybenches{x, their legs {yfinely carved{x with {yv{Yi{ynes{x is here, against across the floor from the piano.~
+mahogany~
+furniture 0 P
+4 0 EH 120 120
+0 1000 750000 100
+#37002
+cottage key~
+a small {gc{Go{wt{Dt{wa{Gg{ge{x key~
+A small {gc{Go{wt{Dt{wa{Gg{ge{x key is very important to someone.~
+metal~
+key 0 A
+0 0 0 0 0
+10 0 1 100
+#37003
+bench~
+a comfortable and shady {Dwr{wo{Wu{wg{Dht iron b{we{Wn{wc{Dh{x~
+A {Dwr{wo{Wu{wg{Dht iron b{we{Wn{wc{Dh{x, standing in a shady spot and looking awfully comfortable.~
+iron~
+furniture 0 P
+4 0 EH 150 150
+0 10000 750000 100
+#37004
+table~
+a {Dwr{wo{Wu{wg{Dht iron {Dt{wa{Wb{wl{De{x with a {Wg{wl{Wass{x top~
+A {Dwr{wo{Wu{wg{Dht iron {Dt{wa{Wb{wl{De{x with a {Wg{wl{Wass{x top is here, standing by the bench.~
+iron~
+container 0 P
+1000 EI 0 100 100
+0 1000 750000 100
+#37005
+peach cobbler food~
+peach {yc{Wo{Ybbl{We{yr{x~
+A slice of peach {yc{Wo{Ybbl{We{yr{x looks delicious.~
+peaches~
+food S A
+40 40 0 0 0
+1 0 10 100
+#37006
+fruits~
+a variety of fresh {Rfr{Yu{Gi{Rts{x~
+A variety of fresh {Rfr{Yu{Gi{Rts{x inside a {Wg{wl{Wass bowl{x~
+organic~
+food 0 A
+40 40 0 0 0
+0 1 1 100
+#37007
+ice box~
+a large, {Di{wr{Don {Db{wo{Dx{x filled with {ci{Cc{ce{x ~
+A large, {Di{wr{Don {ci{Cc{ce {Db{wo{Dx{x is here, standing on the counter by a corner.~
+iron~
+container 0 P
+0 ACI 0 5 5
+0 0 0 100
+#37008
+counter~
+{Dc{yeda{Dr{x {yco{Yu{ynter{x~
+The in-built counter around the walls.~
+cedar~
+furniture a P
+10 0 E 100 100
+0 0 0 100
+#37009
+meat~
+an assortment of sliced {Rm{re{Ra{rt{Rs{x~
+An assortment of sliced {Rm{re{Ra{rt{Rs{x lay here, waiting to be eaten.~
+chicken beef~
+food S A
+50 50 0 0 0
+1 1 20 100
+#37010
+chair dining table~
+a tall, {rma{yh{roga{yn{ry{x chair with {yl{Yi{yons{x carved on the back~
+A long, {rma{yh{roga{yn{ry{x table, surrounded by eight {yt{Ya{yll{x-{yb{Ya{ycked{x chairs is here, in the center of the room.~
+mahogany~
+furniture 0 P
+8 0 EH 120 120
+0 10000 750000 100
+#37011
+stand~
+a {yf{Yi{ynely{x made {rma{yh{roga{yn{ry{x stand~
+A {yf{Yi{ynely{x made {rma{yh{roga{yn{ry{x stand is here, with a {Wporce{wl{Wain {yp{Yi{Wtc{Yhe{yr{x and {yb{Yo{Ww{yl{x for washing hands on top of it.~
+mahogany~
+container 0 P
+0 EI 0 5 5
+0 0 0 100
+#37012
+tub bathtub~
+a large bathtub filled with hot {cw{Cate{cr{x and {csc{Ce{Wn{Ct{ced {cb{Ca{cth {Wsoap{x~
+A large {Wst{wo{Dn{We{x {Wbathtub{x with its legs beautifully carved is here, sitting by a column {Ww{wi{Wndow{x.~
+stone~
+furniture 0 P
+3 0 FI 100 160
+0 10000 750000 100
+#37013
+rack~
+a finely made {yg{Yolde{yn{x rack~
+A tall and finely made {yg{Yolde{yn{x rack is here, standing against the wall by the {Wbathtub{x.~
+cloth~
+container 0 P
+0 AI 0 5 5
+0 100 750000 100
+#37014
+wagon~
+a large {mmerchant{x {ywagon{x~
+A large {mmerchant{x {ywagon{x is here.~
+wood~
+vehicle Y P
+-1 ABCFN A 37014 37998
+90 2000 50000 100
+#37015
+royal litter~
+a royal litter~
+A royal litter with {Dd{war{Dk{w {Dg{wr{De{wy{x curtains is here.~
+wood~
+vehicle Y P
+-1 ABCFN A 37015 37998
+50 1000 70000 100
+#37016
+master key~
+an exquisite {Dm{we{Wt{wa{Dl key{x~
+An exquisite {Dm{we{Wt{wa{Dl key{x has been dropped here.~
+metal~
+key Yb A
+0 0 0 0 0
+0 4 0 100
+#37017
+bed~
+an {yo{Yak {Wbed{x, covered in a simple {rr{Re{rd{x {rqu{Ri{rlt{x~
+A full-sized {yo{Yak {Wbed{x, covered in a simple {rr{Re{rd{x {rqu{Ri{rlt{x is here, {Dbo{wl{Dted{x to the wall.~
+wood~
+furniture 0 P
+2 0 EHK 100 100
+0 100 750000 100
+#37018
+trunk~
+a heavy {ywood {yt{wr{Wu{wn{yk{x~
+A heavy {ywood {yt{wr{Wu{wn{yk{x is here, by the foot of the bed.~
+wood~
+container 0 P
+1000 ACI 0 100 100
+0 1000 750000 100
+#37019
+wagon~
+a simple, traveling {ywagon{x~
+A simple, traveling {ywa{Yg{yon{x made of good-quality {ywood{x.~
+wood~
+vehicle 0 P
+0 ABCFG A 37011 37016
+0 1000 3500000 100
+#37020
+queen bed~
+a {yy{Yello{yw{x and {Wwh{wi{Wte{x {yc{Yov{ye{Yrl{yet{x spread on the queen-sized bed~
+A queen-sized bed is here, standing against the wall.~
+cloth~
+furniture 0 P
+3 0 EHK 135 135
+0 1000 750000 100
+#37021
+desk chair~
+a tall-backed {yo{Yak{x chair, with a {Wwh{wi{Wte{x cushion~
+A finely made {yo{Yak{x writting {yd{Ye{ysk{x is here, by a large {Ww{wi{Wndow{x on the west wall.~
+oak~
+furniture 0 P
+1 0 EH 100 100
+0 1000 750000 100
+#37022
+wardrobe~
+a tall, {yo{Yak{x wardrobe with {Wm{wi{Wrrors{x on the doors~
+A tall, {yo{Yak{x wadrobe with {Wm{wi{Wrrors{x on the doors is here, a few feet away from the writting desk.~
+oak~
+container 0 P
+1000 AI 0 100 100
+0 1000 750000 100
+#37023
+stool~
+a {ywooden{x stool~
+A {ywooden{x stool is here, with towels piled up on it.~
+wood~
+furniture 0 P
+1 0 E 100 100
+0 10 750000 100
+#37024
+towel~
+a {Wwh{wi{Wte towel{x with an {RM e{rm{Rbr{roide{Rr{red{x on it~
+A {Wwh{wi{Wte towel{x with an {RM e{rm{Rbr{roide{Rr{red{x on it is here, piled up on the wooden tool.~
+cloth~
+armor 0 AD
+0 0 0 0 0
+0 10 0 100
+#37025
+tub~
+a modest-sized {yb{Yr{yass {Wbat{wh{Wtub{x filled with hot {cw{Cate{cr{x and {Wb{wu{Wbbles{x~
+A modest-sized {yb{Yr{yass {Wbat{wh{Wtub{x is here, behind a privacy {ys{Ycr{yeen{x~
+brass~
+furniture 0 P
+1 0 FI 120 120
+0 0 0 100
+#37026
+circular bed~
+a circular {Wfeat{wh{Wer{x bed with {Gs{Gi{glk {gf{Go{yre{Gs{gt {gg{Gr{geen{x {gs{Gh{Ge{gets{x on top of it~
+A {Wk{wi{Wng{w-{Ws{wi{Wzed{x circular bed is centered in the room, with {Gsi{glk{x {gf{Go{yre{Gs{gt {gg{Gr{geen{x {gs{Ghe{gets{x covering it and many {Wwh{wi{Wte{x and {gg{Gr{geen{x pillows.~
+mahogany~
+furniture 0 P
+4 0 EHK 175 175
+0 1000 750000 100
+#37027
+chair~
+a {rma{yh{roga{yn{ry{x chair with {gf{Go{yre{Gs{gt {gg{Gr{geen {gcush{Gi{gon{x~
+Two chairs by the breakfast table.~
+mahogany~
+furniture a P
+2 0 EH 100 100
+0 1000 750000 100
+#37028
+drapes~
+{gs{Gh{geer {gg{Gr{geen {gd{Gr{ga{Gp{ges{x around the circular bed~
+Sheer green drapes around the circular bed for more privacy.~
+cloth~
+container a P
+0 A 0 0 0
+0 0 0 100
+#37029
+dresser~
+a large {rma{yh{roga{yn{ry{x dresser with {Wm{wi{Wrrors{x on the doors~
+A large {rma{yh{roga{yn{ry{x dresser with {Wm{wi{Wrrors{x on the doors is here, standing against the wall.~
+mahogany~
+container 0 P
+1000 ACI 0 100 100
+0 0 0 100
+#37030
+cushion~
+a large, {Drec{wt{Dangular {Wc{wu{Dshi{wo{Wn{x~
+A large, {Drec{wt{Dangular {Wc{wu{Dshi{wo{Wn{x is here, with velvet {Dhan{wd{Wc{wu{Dffs{x attached to the sides.~
+silk~
+furniture 0 P
+1 0 EH 100 100
+0 0 750000 100
+#37031
+pillow~
+a {Wf{wl{Duf{wf{Wy{x and {Ds{wi{Dlky {Dp{wi{Wll{wo{Dw{x~
+A bunch of {Wf{wl{Duf{wf{Wy{x and {Ds{wi{Dlky {Dp{wi{Wll{wo{Dws{x are here, in the center of the room.~
+silk~
+furniture a P
+8 0 EH 175 175
+0 0 750000 100
+#37032
+sex swing~
+a {Dsex {Dsw{wi{Dng{x~
+A {Dsex {Dsw{wi{Dng{x is here, hanging from the ceiling, ready to be used.~
+velvet~
+furniture 0 P
+2 0 EH 100 100
+0 0 750000 100
+#37033
+chamber~
+a secret passage behind the {rbo{yo{rkc{ya{rse{x~
+A secret entrance.~
+cloth~
+portal a P
+0 0 0 37012 0
+0 0 0 100
+#37034
+wooden trunk~
+a large {yw{wo{Wod{we{yn {yt{Yr{yunk{x~
+A large {yw{wo{Wod{we{yn {yt{Yr{yunk{x is here, with nice looking outfits inside.~
+wood~
+container 0 P
+1000 ACI 0 100 100
+0 0 750000 100
+#37035
+shelf~
+a {yw{wo{Wod{we{yn{x shelf~
+A {yw{wo{Wod{we{yn{x shelf is here.~
+cloth~
+container a P
+1000 I 0 100 100
+0 0 750000 100
+#37036
+fishnet top~
+a snug {Df{wi{Dshnet{x {Dt{wo{Dp{x~
+A snug {Df{wi{Dshnet{x {Dt{wo{Dp{x has been dropped here.~
+cloth~
+armor 0 AD
+0 0 0 0 0
+0 0 0 100
+E
+top~
+This {Df{wi{Dshnet{x {Dt{wo{Dp{x is made of a stretching see-through material that fits
+the body tightly.  It has high-collar and no sleeves, the end is two inches
+before the belly button.  
+~
+#37037
+fishnet panties~
+a pair of small {Df{wi{Dshnet{x {Dpa{wn{Wt{wi{Des{x~
+A pair of small {Df{wi{Dshnet{x {Dpa{wn{Wt{wi{Des{x has been dropped here.~
+cloth~
+armor 0 AF
+0 0 0 0 0
+0 0 0 100
+E
+panties~
+This pair of {Df{wi{Dshnet{x {Dpa{wn{Wt{wi{Des{x are made of a stretching see-through
+material that enhances the curves of the hips and butt cheeks with a single
+string going in the middle of them.  
+~
+#37038
+translucent red dress~
+a {rtr{Ran{w{Wslu{w{Rce{rnt{x {rs{Rex{ry {rd{Rr{ress{x~
+A {rtr{Ran{w{Wslu{w{Rce{rnt{x sexy {rd{Rr{ress{x has been dropped here.~
+cloth~
+armor 0 AD
+0 0 0 0 0
+0 0 0 100
+E
+dress~
+This dress is made of a {rtr{Ran{w{Wslu{w{Rce{rnt{x material, snug to the body and
+enhancing the curves of the breasts and hips.  It has a {rs{Rwee{rth{Rear{rt{x neckline
+with three thin {rs{Rt{rraps{x on each shoulder made in {rs{Ri{rlk{x.  The skirt {rf{Rlare{rs{x
+slightly with each movement, reaching barely in the middle of the thighs.  
+~
+#37039
+riding crop~
+{Dblack {Dri{wd{Wi{wn{Dg{x {Dc{wr{Dop{x~
+A {Dblack {Dri{wd{Wi{wn{Dg{x {Dc{wr{Dop{x has been left here.~
+cloth~
+weapon 0 AN
+exotic 0 0 'slash' 0
+0 0 0 100
+#37040
+midsize vessel boat ship~
+A mid-sized trading vessel~
+A mid-sized trading vessel floats on the water~
+cloth~
+vehicle 0 0
+-1 ABC A 37018 37041
+0 0 0 100
+#37041
+wagon key~
+A large steel skeleton key for a wagon~
+A large steel skeleton key for a wagon~
+steel~
+key b AO
+0 0 0 0 0
+1 1 1000 100
+#37042
+velvet seat~
+an elegant {rv{De{Wlv{De{rt{x love seat~
+An elegantly styled {rl{Ro{rve s{Wea{rt{x, covered in soft {rv{De{Wlv{De{rt{x and matching throw {rp{Ril{Wl{Row{rs{x.~
+velvet~
+furniture 0 0
+2 8000 EH 150 150
+0 0 0 100
+#37043
+bay~
+a set of billowing {cc{Cur{Wta{Cin{cs{x~
+A set of billowing {cc{Cur{Wta{Cin{cs{x.~
+cloth~
+portal a 0
+0 0 0 37022 0
+0 0 0 100
+E
+curtains~
+These {cc{Cur{Wta{Cin{cs{x billow out from the windows, covering near from the
+ceiling to just above the floor.  The edges are embroidered in {Ds{wi{Wlv{we{Dr{x thread
+in decorative swirls.  
+~
+#37044
+table chair~
+a cherry-wood {ych{rai{yr{x with a plush {cc{Cus{Wh{Cio{cn{x~
+A small, round {rch{De{rrry{D-{rw{Doo{rd{x table and two matching {ych{rai{yrs{x.~
+cherry wood~
+furniture 0 0
+2 5000 EH 150 150
+0 0 0 100
+#37045
+vase~
+a round {rv{Ra{rse{x with a narrow top~
+A round {rv{Ra{rse{x with a narrow top rests atop the {yt{ra{yble{x.~
+ceramic~
+container a 0
+1 0 0 10 89
+0 0 0 100
+#37046
+columbine flower~
+a gorgeous {mc{Mo{Wlu{Ym{Wbi{Mn{me{x flower~
+A gorgeous {mc{Mo{Wlu{Ym{Wbi{Mn{me{x flower rests in the {rv{Ra{rse{x.~
+flower~
+treasure 0 AU
+0 0 0 0 0
+0 1 600 100
+#37047
+bed~
+an {Wover{D-{Wsi{wz{Wed{x four-poster bed covered with a {ml{Mav{Wen{Mda{mr{x bedspread~
+An {Wover{D-{Wsi{wz{Wed{x four-poster bed rests in the center of the room, a thick {ml{Mav{Wen{Mde{mr{x bedspread covering matching silken sheets.  Sheer {mdr{Map{mes{x have been tied back to the {yp{rost{ys{x.~
+feathers~
+furniture 0 0
+3 6000 BEHK 200 200
+0 0 0 100
+#37048
+banner hawk~
+two fluttering banners~
+Resting to each side of the gate is a tall banner, the {Ygolden hawks{x waxing and waning in the wind.~
+cloth~
+furniture 0 0
+0 0 0 0 0
+0 0 0 100
+E
+banner~
+Two banners stand on either side of the gate.  The one to the left,
+standing taller, depicts a {Ygolden hawk{x in flight over a field of {bblue{x.  The
+slightly shorter one depicts the same {Ygolden hawk{x, except with a single
+{Wwhite{x rose behind it.  
+~
+#37049
+tree~
+a fruit bearing tree~
+A fruit bearing tree, surrounded by a bed of {mviolet{x roses.~
+wood~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+E
+tree~
+Surrounded by the bed of flowers, the tree seems to affect a sense of
+unconcern, disdain, and almost contempt for the bed of {mviolet{x roses resting
+at its feet.  
+~
+#37050
+small silver house key~
+a small {Ws{wi{Dlv{we{Wr{x house key~
+A small {Ws{wi{Dlv{we{Wr{x house key has been left here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 1 100
+#37051
+thick iron vault~
+a thick {Di{wr{Wo{Dn vault{x~
+A thick {Di{wr{Wo{Dn vault{x has been built into one of the walls.~
+metal~
+container Dacd P
+50000 ACDI 37050 10000 100
+0 1000 750000 100
+#37500
+rock key~
+a key the color of {yr{Do{yck{x~
+A key the color of {yr{Do{yck{x blends in with its surroundings if put down.~
+iron~
+key 0 A
+0 0 0 0 0
+1 2 0 100
+#37666
+house keys~
+a set of house {Dk{We{wy{Ws{x~
+A set of house {Dk{We{wy{Ws{x hang from a metal loop.~
+cloth~
+key 0 A
+0 0 0 0 0
+90 4 1000 100
+#37667
+storage area~
+a {Dbri{Wck{Ded{x in storage area~
+A {Dbri{Wck{Ded{x in storage area sits in the corner of the attic.~
+brick~
+container Oad A
+1000000 ABCD 37666 1000000 1
+90 1000 0 100
+#37777
+Jyaids house key jade~
+A {GJ{gad{Ge{x key with {Ws{Dilve{Wr{x etching~
+A {GJ{gad{Ge{x key with {Ws{Dilve{Wr{x etching~
+iron~
+key Ybc AO
+0 0 0 0 0
+0 0 0 100
+#37778
+oversized cushioned sungwood chair~
+An oversized sugnwood chair~
+An oversized {gsu{yngwo{god{x chair with {yleather{x cushions looks inviting~
+Sungwood leather~
+furniture 0 AP
+3 10000 EHK 100 100
+0 100 1000 100
+#37779
+sungwood desk~
+A large sungwood desk~
+A large {gsu{yngwo{god{x desk~
+Sungwood~
+furniture 0 AP
+3 10000 BDGK 100 100
+0 100 1000 100
+#37780
+sungwood bed frame~
+A {gsu{yngwo{god{x bed~
+A {gsu{yngwo{god{x bed with a {Df{Wluff{Dy{x matress atop it~
+sungwood~
+furniture 0 AP
+6 10000 BEHK 100 100
+0 100 1000 100
+#37781
+coach~
+A large {Gc{go{Da{gc{Gh{x drawn with twin {Dho{Wrs{Des{x~
+A large {Gc{go{Da{gc{Gh{x drawn with twin {Dho{Wrs{Des{x~
+wood iron~
+vehicle Yb 0
+-1 ABCFN A 37782 37777
+1 100 3000 100
+E
+horses~
+The two horses look identical in every way.  Covered in sleek black hair,
+with green and silvery harnesses between them.  
+~
+E
+plaque~
+This coach is owned by the the Master of House {GS{gp{Dyd{ga{Gr{x 
+~
+#37782
+jade chest~
+An iron chest with {Gj{gad{Ge{x and {Ds{Wilve{Dr{x etchings~
+An iron chest with {Gj{gad{Ge{x and {Ds{Wilve{Dr{x etchings~
+iron~
+container Yabd 0
+100000000 ABCD 37777 100000000 50
+1 10000 3000 100
+#37996
+chest keeper iron bound~
+a heavy {Dc{yeda{Dr{x chest~
+A heavy {Dc{yeda{Dr{x chest sits against the north wall.~
+iron~
+container d 0
+20000 AC 0 50000 1
+1 50 1500 100
+#37997
+chest keeper iron bound~
+an iron-bound chest~
+an iron-bound chest sits here in the corner~
+iron~
+container ad 0
+20000 ACD 37998 500 1
+1 50 1500 100
+#37998
+key for wagon~
+A small {ybrass{x key~
+A small {ybrass{x key~
+cloth~
+key Ob AO
+0 0 0 0 0
+0 0 0 100
+#37999
+large wagon~
+A large teamster's wagon~
+A large teamster's wagon is here~
+wood~
+vehicle OYb 0
+-1 ABCF A 37999 37998
+1 100 4500 100
+#0
+
+
+
+#ROOMS
+#37997
+The {BAl{Gmen{Bta{x Estate~
+There is a wide clearing before the actual manor filled the trees and
+walking paths leading the way to a Gazeboo, and a multitude of beautiful
+gardens.  There is also a barn off to the side of the house and a carriage
+waiting, the coachman looking asleep in the front seat.  Another building
+sits off to the other side of the house that looks to be a small house for
+visitors or family.  
+
+Once you have entered the house the foyer is covered in beautiful pictures
+and tapestries along with little statues of different people and animals. 
+The sitting roon its just the left filled with plush couches and tables
+scattered around.  A guard of sorts stands at the top of the stairs to keep
+anyone from entering the Masters rooms and keeping watch from his perch at
+the front door.  To the right of the stairs you can see a hallway with
+livery walking about from the kitchens and the other rooms of the house.  
+~
+0
+DNV 0
+D1
+~
+~
+4096 4096
+0 0 55982
+D7
+~
+~
+0 0
+0 0 55982
+O Wren~
+S
+#37998
+Mistress of Novices bedroom~
+The room isnt very large and the lack of windows gives it a cramped feel.
+A bed, a writing desk and a couple of comfortable chairs take up most of the
+space.  Built into the south wall is a small wardrobe.  A heavy door keeps
+all noise from the neighboring room out.  
+~
+0
+0 0
+D0
+~
+~
+8231 8231
+2 14377 14322
+S
+#37999
+Inside of the Teamster's Wagon~
+The interior of this newly made wagon smells of {yc{re{ydar{x.  It is large
+enough for a family to live comfortably and to walk around in, if the taller
+members stoop.  There are two narrow {yb{Wed{ys{x along the sides that are secured
+to the floor so they will not shift during travel and another bed across the
+top of the wagon, toward the front.  Each is covered in new {Wfe{wa{Wther {wp{Wil{wl{Wows{x
+and {wco{Wmf{wor{Wte{wrs{x.  Beneath each of the beds on the walls, {yca{rb{yin{re{yts{x have been
+built, not only to support the sleeping frames, but also to provide storage.
+Several {yce{rd{yar{x {ycu{rp{yboards{x have been bolted along one wall.  {DWr{wou{Wght {wir{Don{x
+latches secure them closed during travel to ensure that their contents do
+not spill.  
+~
+0
+CD 0
+M 200 H 200
+O Olhado Alyvia~
+S
+#37000
+Foyer~
+Off-wh{Wi{wte stone slabs cover the floor of this large foyer, the walls
+painted {Wwh{wi{Wte{x with {yg{Yolde{yn{x {yst{Yre{yaks{x in the corners.  Suspended from the 20
+feet tall ceiling is a small {yg{Yolde{yn {ych{Ya{Wnd{Yel{yier{x and looking up at it, is the
+second story of the house where a {Wst{wo{Wne{x rail runs down from the hallway that
+divides the bedrooms to the large stairwell with a {rr{Re{rd {rc{Ra{rrpet{x centered on
+it.  
+
+Bright {ys{Yun{Wli{Ygh{yt{x comes from the archway entrance to west, where the
+{Wcon{ws{Werv{wa{Wtory{x is.  In the opposite direction, and through a thick {rma{yh{roga{yn{ry{x
+door, lies the garden.  Continuing south is the entrance to the dining
+room.  
+~
+0
+CDKV 0
+D1
+~
+"thick {rma{yh{roga{yn{ry{x door"~
+3 3
+1 0 37001
+D2
+~
+~
+0 0
+0 0 37003
+D3
+~
+~
+0 0
+0 0 37004
+D4
+~
+~
+0 0
+0 0 37005
+O Legolas~
+S
+#37001
+Garden~
+Well designed and taken care of, this garden brings a calm and {cp{Cea{Wce{Cfu{cl{x
+atmosphere to those who wish to spend a relaxing time.  Washed out {Dgrey
+{Ws{wt{Do{wn{We{x steps divide the garden in two, leading from the {rmah{yo{rga{yn{ry{x door to the
+{ystable{x where the horses are kept.  {rR{Re{rd{x and {Wwh{wi{Wte{x flowers are nicely arranged
+around the different varieties of {gt{Gr{gees and {gb{Gu{gshes{x.  A {Dwr{wo{Wu{wg{Dht{x {Diron b{we{Wn{wc{Dh{x
+and matching table stands by the shade of two tall {gw{Gi{yll{Go{gw tr{Ge{ges{x.  
+~
+0
+0 0
+D3
+~
+'thick {rma{yh{roga{yn{ry{x door'~
+3 3
+1 0 37000
+S
+#37002
+Lindae Family Cottage~
+The small quiet cottage seen here belongs to none other than {DQ{wu{We{we{Dn{x of
+{BA{rl{bt{Ra{br{Ra{x, {gA{Gr{wi{Da{wn{Ga{gh{x {DL{wi{gn{Gd{wa{De{x There is one room in the back of the cottage for the
+Queen.  Two separate couches line the walls, one for each {DG{ga{Did{gi{Dn{x.  Roses
+frame the mantel of the brick fireplace.  There are {gg{Gr{geen{x satin curtains
+with silver and white roses framing the one window in the room.  The floors
+are made of cherry {Rr{re{Rd{x wood and covered with strategically placed, plush
+{gg{Gr{geen{x rugs.  
+~
+0
+CDV 0
+D1
+~
+~
+8231 8231
+2 37002 5122
+O Arianah~
+S
+#37003
+Dining Room~
+This dining room has a {rr{Re{rdd{Ri{rsh{x look to it, the lower half of the walls
+paneled with {rma{yh{roga{yn{ry{x wood and the rest painted in {Wwh{wi{Wte{x.  The beautiful and
+long table that is centered in the room is of {rma{yt{rch{yi{rng{x wood, with {yl{Yi{yons{x
+carved in its thick legs, the tall chairs that surround it following the
+same design.  The ceiling is made of the same type of wood, with a beautiful
+view of a typical {rA{Rnd{Wo{Rra{rn{x field carved on it, which the sparkling clean
+{Wwh{wi{Wte{x floor reflects.  
+~
+0
+CDKV 0
+D0
+~
+~
+0 0
+0 0 37000
+D1
+~
+'{Wsw{wi{Dng{wi{Wng {Wg{wl{Wass {Wdoor{x'~
+3 3
+1 0 37010
+O Legolas~
+S
+#37004
+Conservatory~
+This modest-sized room is of a semi-circular shape, with {Wglass w{wi{Wndows{x
+held up by {Dm{we{Wt{wa{Dl{x {Dfra{wm{Des{x on the west part instead of walls and ceiling.  A
+large {Dblack{x and {yg{Yo{yld{x {Dp{wi{Dano{x contrasts with the {Wwh{wi{Wte {Wstone{x floor, facing the
+windows and the beautiful {gy{Ga{grd{x beyond.  The wall between this room and the
+foyer is painted in a very {Wpale {gg{Gr{We{Ge{gn{x with {Gt{ge{Gxture{x.  Two {rmah{yo{rga{yn{ry{x benches
+sit on the opposite wall to the {Dp{wi{Dano{x, with over-stuffed {gv{Ge{glvet {gg{Gre{gen{x
+{gcu{Gsh{gi{Gons{x.  
+~
+0
+CDKV 0
+D1
+~
+~
+0 0
+0 0 37000
+O Legolas~
+S
+#37005
+Upstairs Hallway~
+This large hallway isn't ordinary.  With an open space where a {Wbea{wu{Dt{Wif{Wully
+{Wcarved {Ws{wt{Do{wn{We{x rail begins and runs down staircase, it also has the role of a
+{Wbalcony{x, allowing those who are looking down from there to see the {WFo{wy{Wer{x and
+vice-versa.  Both doors present in this hallway are made of {rma{yh{roga{yn{ry{x and
+finely {ycarved{x.  The one north leads to the guest bedroom, while the more
+elaborate, {yd{Yo{yuble{x doors south leads to the Master bedroom.  
+~
+0
+CDKV 0
+D0
+~
+~
+3 3
+1 0 37006
+D1
+~
+~
+3 3
+1 0 37007
+D2
+~
+'double {rma{yh{roga{yn{ry{x doors'~
+3 3
+1 0 37008
+D3
+~
+~
+3 3
+1 0 37019
+D5
+~
+~
+0 0
+0 0 37000
+O Legolas~
+S
+#37006
+Guest Bedroom~
+This modest-sized bedroom is painted in a {Wpale {yy{Ye{Wll{Yo{yw{x color, with
+sceneries made in a {yd{Yar{yk {yy{Yello{yw{x {Yt{yextur{Ye{x on the two walls perpendicular to
+the entrance.  A queen-sized bed is sitting against the wall opposite to the
+door, with a bed stand on each side.  The {ywood{x of choice for this room is
+{yo{Yak{x, but the frames of the windows are painted {yd{Yar{yk {yy{Yello{yw{x to match the
+texture.  Beautiful {yg{Yolde{yn {yl{Ya{ymps{x are suspended on the wall, offering a good
+amount of light during the {Ddark nights{x.  
+~
+0
+CDKV 0
+D2
+~
+~
+3 3
+1 0 37005
+O Legolas~
+S
+#37007
+Guest Bathroom~
+This bathroom is very spacious for one to be used by guests.  {wT{Wile{Ws{x that
+compose the {Wl{wi{Wght {Wg{wr{De{Wy{x floor and {Wwh{wi{Wte{x walls are kept sparkling clean.  A
+{yb{Yr{yass{x {Wbat{wh{Wtub{x stand on the wall across the entrance, with a {yg{Yolde{yn{x colored
+{ys{Yc{yreen{x before it to keep the privacy.  Close to the tub is a {ywooden{x stool
+with a pile of clean {Wtowels{x and closer to the entrance of the room is a
+small sink with a {Wm{wi{Wrror{x suspended on the wall above it.  
+
+~
+0
+CDKV 0
+D3
+~
+~
+3 3
+1 0 37005
+O Legolas~
+S
+#37008
+Master Bedroom~
+This bedroom is very large and sophisticated, with {Wco{wl{Wumn {Ww{wi{Wndows{x on the
+wall across the entrance, going from corner to corner and {yp{Ya{ynels{x of {rma{yh{roga{yn{ry{x
+wood on the lower half of the three other walls.  The ceiling has a large
+circular recession with a {Wm{wi{Wrror{x directly above the circular {Wk{wi{Wng{w-{Ws{wi{Wzed{x
+bed.  It has four {rth{yi{rck {yp{ros{yt{rer{ys{x carved with vines where {gd{Gr{gapes{x are suspended
+if more privacy is desired.  Two {rbo{yo{rkca{ys{res{x of matching wood with a wide
+assortment of topics stands against the west wall.  
+
+A small breakfast {ytable{x with a {Wgla{ws{Wstop{x is sitting against one corner, with
+two {gc{Gus{gh{Gi{goned{x chairs around it and a vase of {Wf{wr{Wesh {gf{Gl{Wowe{Gr{gs{x on top.  
+ 
+~
+0
+CDKV 0
+D0
+~
+'double {rma{yh{roga{yn{ry{x doors'~
+3 3
+1 0 37005
+D2
+~
+'a {rma{yh{rog{ya{rny{x framed {Wg{wl{Wass{x door'~
+3 3
+1 0 37009
+O Legolas~
+S
+#37009
+Master's bathing room~
+{WWh{wi{Wte stone{x slabs with gold streaks cover the floor, decorated only by a
+thick {rr{Re{rd {rr{Ru{rg{x before the large {Wba{wt{Whtub{x with carved legs.  Suspended on the
+wall by the tub is a beautiful {yg{Yolde{yn{x rack with {Wf{wl{Wuffy wh{wi{Wte{x towels where
+the name of the House is {rem{Rbr{roid{Re{rred{x.  A large {Wst{wo{Dn{We{x counter is on the wall
+across the rack, with two in-built sinks and a {Wm{wi{Wrror{x with {yg{Yo{yld{x frame that
+goes from end of the counter to the other.  
+~
+0
+CDKV 0
+D0
+~
+'a {rma{yh{rog{ya{rny{x framed {Wg{wl{Wass{x door'~
+3 3
+1 0 37008
+O Legolas~
+S
+#37010
+Kitchen~
+{yB{Yrigh{yt {yg{Yo{ylden l{Ya{ymps{x light the whole kitchen, day or night, ignoring the
+clarity offered by the {ys{Yun{Wli{Ygh{yt{x.  All around the {Woff{w-{Wwh{wi{Wte{x walls is an
+in-built {Dc{yeda{Dr{x {yco{Yu{ynter{x.  On the wall across the entrance, the counter gives
+space for two {Dm{we{Wt{wa{Dl {Ds{wi{Dnks{x where the dishes are {cw{Ca{Wsh{Ce{cd{x.  A large, {Di{wr{Don {ci{Cc{ce
+{Db{wo{Dx{x rests against the far corner and cupboards of matching {Dw{yoo{Dd{x line up
+suspended on the wall perpendicular to the door.  
+~
+0
+CDKV 0
+D3
+~
+'{Wsw{wi{Dng{wi{Wng {Wg{wl{Wass {Wdoor{x'~
+3 3
+1 0 37003
+O Legolas~
+S
+#37011
+Inside the wagon~
+This wagon looks quite {Wcom{wf{Wort{wa{Wble{x and well designed for such a small
+place.  It has a full-sized {Wb{we{Wd{x {Db{wo{Dlted{x to the wall, with an built-in {yt{wr{Wu{wn{yk{x
+by its foot.  The floor is covered by a thin, {Wpale {Dg{wr{We{Dy{x carpet that has a
+clean look to it.  A large cupboard made with {Dm{we{Wt{wa{Dl l{wo{Dcks{x is suspended
+against the wall, where a single {Ww{wi{Wndow{x is, opposite to the entrance.  
+~
+0
+CDV 0
+O Jedrifor~
+S
+#37012
+Play House~
+The lights of this modest-sized room are {Dd{ri{Dm{x and {rr{Red{Ddi{Rs{rh{x instead of the
+normal yellow found in the rest of the house, coming from the recessed
+{rma{yh{roga{yn{ry{x {rf{Rram{re{x of the {Wm{wi{Wrrored{x ceiling.  Large, rectangular-shaped {Wm{wi{Wrrors{x
+cover the walls, but the one where with the entrance to the bedroom.  {DBlack
+v{we{Dlvet{x {Dhan{wd{Wc{wu{Dffs{x are attached to the wall, specially designed not to hurt
+the wrists.  The same style of cuffs are also found on the sides of a large,
+rectangular {Wc{wu{Dshi{wo{Wn{x sitting close to a corner.  Centered in the room, there
+are many {Dpi{wl{Wl{wo{Dws{x of different sizes but all with the same {Ds{wi{Dlky{x texture,
+looking rather inviting.  
+
+A soft, {Wrelax{wi{Wng{x {Wm{wu{Ds{wi{Wc{x plays in the room, coming from nowhere to be seen.  
+~
+0
+CDKV 0
+D1
+~
+~
+1 1
+1 0 37008
+D3
+~
+~
+4099 4099
+1 0 37013
+O Legolas~
+S
+#37013
+Toys Vault~
+This room is small, looking more like a walk-in {yc{Yl{yoset{x with its drawers
+and divisions and hangers.  It holds a wide variety of adult toys suspended
+as a display on the wall or neatly arranged on {ys{Yh{yelv{Ye{ys{x.  Opposite to the
+entrance is a large {yw{wo{Wod{we{yn{x {yt{Yr{yunk{x with nice looking {Do{wut{Wfi{wt{Ds{x.  It can also be
+used as a fitting room, with a six feet tall {Wm{wi{Wrror {ys{Yt{yand{x perpendicular to
+the door.  
+~
+0
+CDKV 0
+D1
+~
+~
+4099 4099
+1 0 37012
+O Legolas~
+S
+#37014
+Inside Gantret's Wagon~
+You enter a surprisingly spacious wagon.  On the far end against the wall
+is a small {yb{Ye{yd{x.  There's two small bookshelves in the wagon filled with
+books of different kinds.  A round {ytable{x and three chairs surrounding it are
+positioned in the middle of the wagon.  Two low {Yca{ybine{Yts{x are set against one
+of the free walls.  There's a few oil {Ylamps{x fixed to different places on the
+walls of the wagon.  There's a surprising amount of things in here, chests,
+books, a hoard of different figurines and other items spread out in
+different places.  A lot of the things in this wagon, a lot of the items,
+are {rex{Rot{ric{x and rare.  A big chest is set by the bed, a big, heavy lock
+making sure no one can open it but the owner.  
+~
+0
+CKV 0
+O Gantret~
+S
+#37015
+Shistas Royal Litter~
+Inside the litter it is like a large bed.  The curtains draped overhead
+are of a {Gd{ga{Dr{Gk{x {Ggr{ge{Ge{gn{x, and the satin sheets are a {Cs{wo{Bf{Ct{x {Cb{bl{Cu{be{x.  There are
+cushions all around embroidered with a sword that rests atop a harp.  To one
+side of the litter is a container meant for cool drinks.  Atop the container
+are indentations that appear to hold glasses without them spilling.  
+~
+0
+CDV 0
+O shista~
+S
+#37016
+The Elbryn Family Vault~
+~
+0
+CDKV 0
+O atreana~
+S
+#37017
+PK Recovery Room~
+You are standing in a large white platform suspended in the middle of the
+air.  Fluffy clouds go past you with the sun gently shinning on your face. 
+It feels like nothing could possibly reach here or cause you any harm.  This
+is the perfect place to rest before you go hunt down your equipment and seek
+revenge.  
+~
+0
+CDKNTV 0
+D2
+~
+~
+0 0
+0 0 4531
+O Lilith~
+S
+#37018
+Inside of the Traders Cabin~
+The interior of this newly made boat smells of {yc{re{ydar{x.  The interior,
+however, shows that it was built with practicality in mind.  A single double
+sized bed is nailed to the floor against the wall, and there is a small
+kitchen area with the appropriate cabinets for storing goods during travel. 
+
+The door opens out onto deck, and there is an access panel in the floor to
+get down to where the trade goods are stored in the hull.  
+~
+0
+CD 0
+M 200 H 200
+O myron saera~
+S
+#37019
+An Elegant Sitting Room~
+This room is mid-sized and has a very comfortable feel to it.  Everything
+inside has a very elegant arrangement to it, from the {rv{De{Wlv{De{rt{x-covered love
+seat to the soft billowing {cc{Cur{Wta{Cin{cs{x that cover the bay window.  A thick,
+plush {Wcarpet{x covers the floor from wall to wall.  The lower third of the
+walls are covered with panels of {rch{De{Rrry{D-{rw{Doo{rd{x, the upper half is painted a
+pale {Mp{Wi{Mnk{x color.  Resting in front of the love seat is a low {rt{Da{rble{x, made of
+dark cherry-wood, the center of the top is made of clear {cg{Cl{Wa{Cs{cs{x, etched with
+figures of hawks in flight.  
+~
+0
+CD 0
+D1
+~
+~
+3 3
+1 0 37005
+D2
+~
+~
+3 3
+1 0 37020
+S
+#37020
+Grande Bedroom~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 37019
+S
+#37021
+un-used~
+~
+0
+C 0
+S
+#37022
+Inside the Bay Window~
+The billowing {cc{Cur{Wta{Cin{cs{x serve to make this area a small, private one.  The
+floor is made of hard {rch{De{rrry{D-{rw{Doo{rd{x, resting atop it is a small, round {yt{ra{yble{x
+with two matching {ych{rai{yrs{x with soft {cc{Cus{Whi{Con{cs{x.  Covering the tabletop is a
+soft {Wli{Cn{Wen{x tablecloth with a floral design.  Centered on top of that is a
+{rr{Re{rd v{Ras{re{x containing a beautiful arrangement of fresh-cut flowers.  The
+windows reach from the ceiling to about three feet above the floor, they are
+clear and give a nice view of the city of Maradon.  Little candleabra hang
+upon the walls, one on each side of the window, giving off a soft {ygl{Yo{yw{x in
+the evening hours.  
+~
+0
+CDJ 0
+D1
+~
+~
+0 0
+0 0 37019
+O legolas~
+S
+#37023
+Before the Mansion~
+Elegant looking stark {Wwhite{x walls, about fifteen feet tall in height and
+topped by {bdark blue{x porcelain shillings, surrounds the estate, a pair of
+{Ygolden hawks{x in flight visible as one approaches the mansion, even as the
+soft, sweet fragrance of roses assaults one's senses.  Two banners, one
+standing slightly taller than the other, rests on either side of the large
+metal gate that appears to be the only entrance into the mansion.  
+ 
+A well-kept path, lined with {rroses{x of every hue save white, splits into a
+fork for three as it approaches the gate, a sun-dial sitting softly at the
+centre of the diverging paths.  The roses around the path to the west
+becoming {Wlighter{x in hue until they become {Mpink{x to the point of white while
+the ones following the eastern trail grow {bdarker{x, until almost pitch black
+in hue.  
+ 
+Beyond the roses, one can see a field of lush {ggreen grass{x, mostly uniform in
+height and apparently well maintained.  A single tree, apparently fruit
+bearing from the {Rred{x fruits hanging off of it, rests inside the garden,
+surrounded by a field of {mviolet{x flowers.  
+~
+0
+0 1
+D8
+~
+~
+0 0
+0 0 57122
+S
+#37500
+A home built into the rock of the Mountain.~
+As you slip into the large {ys{wt{Do{wn{ye{x door you have found near the back of the
+small {Dca{yv{De{x you are struck at the sprawling home built under the small
+{gm{yo{wu{Dn{wt{ya{Gi{gn{x.  The clean well cared for {yw{Yo{yod {Yf{yloo{Yr{ys{x gleaming softly from the
+oils to care for it, the {rw{ya{rr{ym{x decor inviting and comforting.  This is
+obviously someone's home.  
+
+The large living area may seem strange for this part of the world, the open
+consept {rs{yt{Dy{yl{re{x making it look much larger than it really is.  The sitting
+room is made up of all {Dd{yar{Dk{x wood furninture, the walls lined with {rb{yo{go{rk{x cases
+not used solely for books.  The furniture oddly {ro{Dve{rr{x-{rs{Dtu{rf{Dfe{rd{x and inviting. 
+Across from the sitting room is small {ydi{Dni{yng{x area, the centre piece a large
+{Drod{x-{Di{wr{Don{x candlere hanging from the natural {Dr{woc{Dk{x ceiling.  The {rc{yh{rerri{ye{rd{x wood
+table and chairs are of simple design, but as the rest of this home well
+cared for.  Along the natural {Ds{wton{De{x walls hangs a few old {Wt{Ya{Gp{ge{Dst{gr{Gi{Ye{Ws{x from
+different countries dipicting heritage and culture.  
+
+As you move deeper into the house you come across a short wall with three
+{yw{Do{yod{De{yn{x doors in it, across from that is the pristine kitchen, a huge
+{rf{Ri{Dr{Yepl{Da{Rc{re{x standing on the far west wall, beside it a {ywood {Dstove{x and another
+{ywo{Do{yd{x door.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 37501
+D1
+~
+~
+12327 12327
+2 37500 12131
+D3
+~
+~
+3 3
+1 0 37502
+O Dileta Yarii~
+S
+#37501
+A hallway carved into the natural stone.~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 37503
+D1
+~
+~
+3 3
+1 0 37504
+D2
+~
+~
+0 0
+0 0 37500
+D3
+~
+~
+3 3
+1 0 37505
+O Yarii Dileta~
+S
+#37502
+A hidden valley between the hills.~
+~
+0
+0 4
+D1
+~
+~
+3 3
+1 0 37500
+O Dileta Yarii~
+S
+#37503
+A well used training room.~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 37501
+S
+#37504
+A simple guest room and study.~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 37501
+S
+#37505
+A lavender and cedar smelling bedroom.~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 37501
+S
+#37666
+A Large Manor by the Ocean~
+The wide {rcob{Dble{Wsto{wne{x road nears its end infront of a large manor.  The
+{rst{Don{Wes{x spread out in a circle, providing space for {ycarr{Wi{yages{x to be parked
+when there are visitors.  A large {yba{rr{yn{x sits at the south west side of the
+circle while the mansion takes up the northern side.  The {Dman{Wsi{won{x itself is
+large, its three stories plus what looks like a large attic space is topped
+with {rred{x slate on the roof.  Looking away from the house one can see the
+{Coc{cean{x to the south, warehouses, {ydocks{x, what looks like a blacksmith and a
+few other buildings and even some houses spread outwards east and west not
+far from the sand.  Towards the eastern side of the land is a large {gor{Gcha{grd{x
+and farmland, huge fruit trees spread outwards from the large slow moving
+{bri{Bve{br{x that runs along the most northern edge of the land to the sand far to
+the east.  Many servants and workers move about the lands and smaller houses
+can be seen all along the road on the way to the manor.  
+~
+0
+0 2
+E
+orchard~
+Along the eastern portion of the large landscape is a massive {gor{Gcha{grd{x
+with a wide variety of fruit trees.  There is also a field with {gcrops{x
+nearest to the slow moving {bri{Bve{br{x to the north.  
+~
+E
+docks~
+The set of sturdy {ydocks{x stretch out from the soft {ysa{Wn{yd{x into the {Bsha{Wll{Bows{x
+and out into the deep {bwa{Dt{ber{x.  A larger ship is often seen at the end of the
+docks while smaller ships and boats are tied up almost right to the {ysa{Wn{yd{x.  
+~
+D0
+~
+~
+8711 8711
+2 37666 37667
+D8
+~
+~
+0 0
+0 0 44908
+O Cirawen Meriven~
+S
+#37667
+Inside a Large Mansion~
+No expense has been spared in decorating this massive {Dman{Wsi{won{x, the floor
+varies from {Dti{Wles{x to {bca{Brpe{bt{x to rich {yma{rhoga{yny{x floors, the walls are a mix of
+{Dst{Won{we{x and {ywo{ro{yd{x.  Painted {Wpor{yt{Wraits{x, {Wsta{Dtu{Wes{x, displays of valuable {yart{Dif{yacts{x,
+{cpo{btt{mery{x and a wide assortment of other decorations fill the house from top
+to bottom.  The main floor consists of normal living areas a large {Wbal{blr{Bo{Wom{x
+and {ydin{rin{yg{x area, a large {yli{Dbra{yry{x, a {msit{Mti{mng{x area and a large {Dkit{Wch{Den{x.  
+~
+0
+0 0
+E
+kitchen~
+The large {Dkit{Wch{Den{x has all the modern convienences one can have, from a
+large {Wcooler{x room to giant {Dov{re{Dns{x and stoves.  The entire room has {Dsto{Wn{De{x
+walls, floors and ceilings and the shelves and storage chests are far from
+the hot appliances while {Dgr{Wanit{De{x counter tops line the walls and make an
+island in the middle of the room.  Wide double doors to the west lead into
+the {Wbal{blr{Bo{Wom{x and dining area, a set to the south lead into the {ylib{Drar{yy{x and a
+wide door to the east leads outside, its often propped open to allow more
+cool air in along with wide open windows.  
+~
+E
+sitting~
+Two portraits hang on either side of a large {rfi{Rre{Ypl{Rac{re{x at the east side
+of the room.  One portrait is of Deidre {bMi{Bd{Dal{Wro{x, the previous lady of the
+house, the other is of Marcus {bMi{Bd{Dal{Wro{x, the previous lord of the house. 
+Other smaller portraits line the walls featuring other family members. 
+Large comfortable {mcou{Mc{Dh{mes{x and {mch{Ma{Di{mrs{x all focus towards the middle of the
+room with its low {Wgl{Cas{Ws{x topped coffee table.  {bCu{Brta{Wi{bned{x windows allow light
+or night in, facing south towards the yards and east towards the orchards. 
+A wide doorway to the west leads back into the foyer while a set of thick
+{yoa{rke{yn{x doors to the north lead into the kitchen area.  
+~
+E
+library~
+{YWall{x to {ywall{x and {Dcei{Wli{Dng{x to {bfl{Boo{br{x shelves fill this room and each shelf
+is filled with books of varying size, color and age.  Some of the older
+books have {Wgl{Cas{Ws{x doors protecting them and are actually locked.  The shelves
+are all labelled with small {ypl{Yaqu{yes{x with letters of the alphabet.  Large
+comfortable {mcha{Mi{mrs{x are placed throughout the room with small {yta{rbl{yes{x and
+hanging hooded {Wlan{Yt{Re{rr{Wns{x provide a soft light.  With no windows this large
+room is fairly dark but with the age of some of these books its
+understandable as to why.  With one door going to the large {Wbal{blr{Bo{Wom{x another
+heads back into the main foyer.  
+~
+E
+ballroom~
+The large {Wbal{blr{Bo{Wom{x is kept cleared except for a {ydin{rin{yg{x area set up near
+the set of wide {yo{ra{yk{x doors that lead into the {Dkit{Wch{Den{x.  During celebrations
+and gatherings this room transforms into a large eating and dancing area.  A
+northern door leads out into the back {gya{Gr{yd{x while another door leads into the
+{ylib{Drar{yy{x.  
+~
+E
+upstairs~
+Wide {bsta{Birc{Dase{Ws{x connect the four levels of the mansion, its long wide
+{bha{Bll{Dwa{Wys{x lined with doors and wide doorways.  The servants easily come to
+and fro in the hallways and through the doors but none go up to the top
+floor which has one door and appears to lead up into the attic.  The rooms
+all seem to be {mgu{Mes{mt{x rooms, {bfa{Bmi{bly{x rooms, {csit{Cti{cng{x rooms, smaller {ylib{Drar{yies{x,
+indoor {ggar{Gde{gns{x, {Dser{wva{Dnt{x areas and some are just storage rooms.  
+~
+D0
+~
+~
+3 3
+1 0 37670
+D1
+~
+~
+4099 4099
+1 0 37669
+D2
+~
+~
+8711 8711
+2 37666 37666
+D4
+~
+~
+8711 8711
+2 37666 37668
+O Cirawen Meriven~
+S
+#37668
+A Large Furnished Attic~
+The attic has been completely renovated into a massive living and storage
+area.  Elegantly {bde{gcor{cat{Wed{x wall dividers featuring {re{Dx{co{Wt{mic{x animals and
+{Bsc{Cen{Wery{x separate each section of the giant room except for the north western
+most corner where it has been {Dbri{Wcked{x off.  The sleeping area has a large
+{Diron{x king sized gothic style bed with dark {bblue{x sheets, the {yo{ra{yk{x furniture placed
+strategically to work with the dividers.  The bed is near large {Wwi{Cndo{Wws{x
+facing the {Coc{cean{x and the large yard between.  A sitting area has been set up
+in the north east corner facing the {bri{Bver{x and a large back {gy{Ga{grd{x.  A small
+eating area has been placed in the south east corner, a small dining {yta{rbl{ye{x
+with comfortable chairs faces out towards the yard, the dividers depicting a
+beautiful {gfor{Ge{yst{x scene.  The north west corner consists of the bricked off
+section along with an office set up with a large {yd{re{ysk{x, {ycha{ri{yrs{x and {yshe{rlv{yes{x. 
+~
+0
+0 0
+D5
+~
+~
+8711 8711
+2 37666 37667
+O Cirawen Meriven~
+S
+#37669
+The Staff Area~
+{yDoors{x line the wide long hallway, leading into the shared rooms of the
+men and women that live and work here in the manor.  Each room contains a
+set of separate beds, {Dfoo{Wtl{Dockers{x and {yni{rgh{ytstand{x, each staff member free to
+decorate it however they wish as long as their roommate is ok with it.  A
+large eating area is set up for everyone that works on the manor, a banquet
+style setup along the wall closest to the kitchen allows the people to eat
+in rotation so that there is room for everyone while the rest of the room is
+taken up with {ybe{rn{yches{x and long {ytab{rl{yes{x.  
+~
+0
+0 0
+D3
+~
+~
+4099 4099
+1 0 37667
+O Cirawen Meriven~
+S
+#37670
+A Large Yard~
+The large {gya{Gr{gd{x between the back of the {Dman{Wsi{won{x and the wide {bri{Bver{x
+stretches out to the east and west well beyond the house but there are
+beautiful {ggar{Gd{gen{x beds with a wide variety of {rf{bl{mo{Cw{We{grs{x and {gpl{Gan{gts{x sitting just
+infront of five foot {ghed{Gg{ges{x that frame off the yard some to provide
+something resembling privacy. {DDark{x patio stones create a sitting area just
+outside the door, {ywooden{x framework rises up and over the space is completely
+filled with {bflo{Bwer{bing{x {gv{Gi{gnes{x that let in small rays of {Ys{Ru{Yn{x but not much. 
+{DIron{x worked chairs and a table take up part of the patio, comfortable
+{bcush{Bi{bons{x covering their hard {Dm{We{Dtal{x frames.  A {Dst{Wo{Dned{x path leads over to a
+small {ywo{ro{yden{x gazebo, its benches lined with {bcus{Bh{bions{x, that's not far from
+the {bri{Bver{x.  The only odd looking part is a large cleared circular area of
+packed {ydirt{x with a set of long {ywo{ro{yden{x trunks to just one side of it.  
+~
+0
+0 2
+D2
+~
+~
+3 3
+1 0 37667
+O Cirawen Meriven~
+S
+#37776
+Falling out of a tree~
+You slips from the ledge of the tree house and begin to fall through the
+air.  Hitting the branches on the way down as it spins you one way and then
+the other.  Then with a thud you hid the ground.  The rocks near your head
+causes a sickening thump against your skull, as a loud crack from one of
+your bones echoes in the air.  
+~
+0
+CNVX 3
+E
+dt~
+{RBl{ro{Rod{x suddenly {rspur{Rts{x from your broken limb as the {Rpa{ri{Rn{x continues to grow.  
+~
+D2
+~
+{yThick{x {gbu{Gsh{ges{x~
+4099 4099
+1 0 14516
+S
+#37777
+Up in the tree~
+Making your way up the {ytre{Ge{x you reach the center where the largest
+branches split off.  A makeshift {yroof{x has been made to keep the center area
+a bit out of the weather.  Wooden {yrails{x have been placed along some of the other
+branches help to make sure people dont fall out.  Shelves have been built up
+here to hold {Db{yo{co{mk{gs{x on different subjects, and little things the owner has
+collected.  A small rod hung between two branches holds a few articles of
+{Wclothing{x, while another holds different looking {Bbl{Canke{Bts{x.  A few small {Yb{Doxe{Ys{x
+sit on another shelf, while {yl{Yan{Wte{Yrn{ys{x hang in places for just enough lighting
+to read by, but not to be seen from below.  
+~
+0
+V 0
+E
+lantern~
+The lanters are specialy build with plates on the bottom and top to keep
+the light from showing above or below them.  
+~
+E
+books~
+Books on a wide variety of subjects sit on the shelves in no particular
+order.  Most of them are pretty thick, and look to have been maked up with
+the ears of the pages turned down.  The book on the very top reads, "Ages of
+the Pattern".  While the other spine you can see read, "Weather of the
+world".  
+~
+E
+east~
+Looking east you can see the Library building and the rest of the Elder
+Grove.  
+~
+E
+down~
+Looking down you can see branches directly below you.  
+~
+E
+south~
+Looking to the south you can see the huge buildings of the WhiteTower,
+and you can see right into the second floor windows where the novice
+quarters are.  
+~
+E
+blanket~
+There are a few blankets hanging there waiting to be used, each made from
+the finest materials and look to be straight from a palace.  On each blanket
+you can see the forked lightning crest of house Tre'dyent woven into it.  
+~
+D3
+~
+~
+4096 4096
+0 0 37776
+O Jessica~
+S
+#37778
+An Ogier sized master bedroom~
+Dug out from the earth this large room as one window overlooking the
+river to the south of the mound.  Huge sungwood beams act as support and
+places to hang different things.  Paintings of things the owner had learned
+about hung along the walls, ancient battles, and noble beings making of the
+majority of them.  The door to the east also made of sungwood had been made
+extra thick to make sure things in this room stayed safe.  A large silver
+lantern hangs from the center of the room, oversized, and able to light up
+the room.  A light musty smell of earth fills the air as there is little
+ventilation at this point.  
+~
+0
+DUV 0
+D1
+A large, thick sungwood door hangs from its massive hinges with a smaller
+door inside it to see who is on the other side before leaving.  
+~
+'thick {Gs{yungwoo{Gd{x door'~
+8295 8295
+2 37777 37779
+O loogul~
+S
+#37779
+Inside the Ogier mound~
+Entering into the ogier mound the earthy smell intensifies.  There is one
+window on the north wall, along with one on the south, but neither large
+enough to fit through.  Sungwood beams support the walls and ceiling of the
+mound with large woven rug covering most of the main floor.  The edges still
+showing the earth below.  Sungwood furniture fills the room, the technique
+flawless in each piece.  A large glass front cabinate sits on the south
+wall, showing off little objects made of sungwood set out for display.  A
+large sungwood table sits in front of the door to the west with a ledger and
+quill sitting atop it.  
+~
+0
+DU 0
+E
+ledger~
+Taking a peak at the ledger you see there are names, some of them
+recognizable, with the names of items ordered to the side.  
+~
+E
+cabinate~
+Through the cabinate windows you can see smaller objects, like sungwood
+boxes, along with sungwood figurines.  Horses, bears, and even some stranger
+creatures like the lopar can be found with little nametags at the base of
+each.  
+~
+E
+furniture~
+Many different pieces can be seen along the walls.  A bed sits up on its
+end leaning against the wall.  Different styles of chairs sit next to each,
+along with cribs, and tables.  Each piece looks amazing and may be for sale
+for the right price.  
+~
+D1
+~
+~
+1 1
+1 0 37780
+D3
+A huge sungwood door blocks the way west, protecting whatever is kept
+behind it.  
+~
+'thick {Gs{yungwoo{Gd{x door'~
+8295 8295
+2 37777 37778
+O loogul~
+S
+#37780
+Entering Stedding Shajin~
+The towering mountains of the black hills surround the Shajin stedding
+and the Luan river here.  Entering the stedding you can see many mounds, and
+thick forest section with many ancient, and huge trees.  Directly to the
+west is a mound with its door open.  
+~
+0
+AU 3
+E
+exit~
+The exits should be from this room 37780 to the black hills 45503 
+~
+D3
+~
+~
+1 1
+1 0 37779
+D4
+~
+~
+4099 4099
+1 0 45503
+D7
+~
+~
+0 0
+0 0 45503
+S
+#37781
+The house stables~
+After a long hallway filled with pictures of people, both normal and
+strange looking, you walk out into the stables of the estate.  Hay covers
+most of the floor and stalls for animals are lined up one after another. 
+Then right to south is a coach with two black horses hooked up to it.  
+~
+0
+CD 0
+S
+#37782
+Inside the large coach~
+Plush benches sit across from each other, windows on both sides covered
+in elaborate window covering so that people can not see in, but you can
+still see out when needed.  A stand across the far side contains a bucket of
+ice and a tray with little boxes sitting on it.  
+~
+0
+CDV 0
+O jyaid~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 37998 0 2
+D 0 37000 1 1
+D 0 37001 3 1
+D 0 37002 1 2
+D 0 37003 1 1
+D 0 37005 0 1
+D 0 37005 1 1
+D 0 37005 2 1
+D 0 37005 3 1
+D 0 37006 2 1
+D 0 37007 3 1
+D 0 37008 0 1
+D 0 37008 2 1
+D 0 37009 0 1
+D 0 37010 3 1
+D 0 37012 3 1
+D 0 37013 1 1
+D 0 37019 1 1
+D 0 37019 2 1
+D 0 37020 0 1
+D 0 37500 1 2
+D 0 37500 3 1
+D 0 37501 0 1
+D 0 37501 1 1
+D 0 37501 3 1
+D 0 37502 1 1
+D 0 37503 2 1
+D 0 37504 3 1
+D 0 37505 1 1
+D 0 37666 0 2
+D 0 37667 0 1
+D 0 37667 1 1
+D 0 37667 2 2
+D 0 37667 4 2
+D 0 37668 5 2
+D 0 37669 3 1
+D 0 37670 2 1
+D 0 37776 2 1
+D 0 37778 1 2
+D 0 37779 3 2
+D 0 37780 4 1
+O 0 37000 0 37000
+M 0 37000 1 37000 1
+O 0 37003 0 37001
+O 0 37004 0 37001
+P 0 37006 1 37004 1
+P 0 37005 1 37004 1
+O 0 37010 0 37003
+O 0 37011 0 37003
+O 0 37020 0 37006
+O 0 37021 0 37006
+O 0 37022 0 37006
+O 0 37025 0 37007
+O 0 37023 0 37007
+O 0 37024 0 37007
+O 0 37012 0 37009
+O 0 37007 0 37010
+O 0 37008 0 37010
+P 0 37009 2 37007 2
+O 0 37017 0 37011
+O 0 37031 0 37012
+O 0 37030 0 37012
+O 0 37032 0 37012
+O 0 37034 0 37013
+O 0 37035 0 37013
+P 0 37036 1 37034 1
+P 0 37037 1 37034 1
+P 0 37038 1 37034 1
+P 0 37039 1 37035 1
+M 0 37050 1 37016 1
+O 0 37017 0 37018
+O 0 37043 0 37019
+O 0 37042 0 37019
+O 0 37047 0 37020
+O 0 37044 0 37022
+O 0 37045 0 37022
+P 0 37046 1 37045 1
+O 0 37048 0 37023
+O 0 37049 0 37023
+M 0 37502 1 37502 1
+O 0 12695 0 37502
+O 0 14427 0 37779
+O 0 24162 0 37779
+O 0 24178 0 37779
+O 0 37781 0 37781
+O 0 31017 0 37782
+O 0 31018 0 37782
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

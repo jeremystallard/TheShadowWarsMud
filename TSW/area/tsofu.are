@@ -1,0 +1,2341 @@
+#AREADATA
+Name Stedding Tsofu~
+Builders Eldoran~
+VNUMs 100 149
+Credits None~
+Security 2
+Low 5
+High 25
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#100
+doe deer gentle~
+a gentle doe~
+A gentle doe is here, grazing peacefully.
+~
+A gentle doe grazes on the plentiful greenery on the forest floor.  As
+you approach, it eyes you calmly, and then resumes eating.  It seems totally
+relaxed in your presence, as if it thought you meant it no harm.  
+~
+unique~
+AGW Wd 0 0
+8 0 5d6+64 8d10+100 1d9+4 beating
+0 0 0 0 0
+A
+0 0 0 0
+I N IP FHR
+stand stand either 0
+AGV ACDEFHJKQ medium 'flesh'
+M 'RANDOM' 103 4~
+#101
+fluffy hare rabbit~
+a small, fluffy hare~
+A small, fluffy hare hops across your path.
+~
+Totally unconcerned about your presence, this small, extremely cute
+rabbit hops around looking for something to eat.  Its brown coat
+camouflages it fairly well in the undergrowth of the forest, but it makes no
+attempts to hide.  It's almost begging to be made into rabbit soup!  
+~
+unique~
+A JWY 0 0
+5 0 3d3+25 5d10+100 1d6+2 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 N IP BFHR
+stand stand either 0
+AV ACDEFHJK small 'flesh'
+#102
+ogier elder~
+an elder Ogier~
+An elder Ogier walks past.
+~
+This Ogier man is obviously an elder, as he wears a moustache as long as
+his dangling eyebrows and a narrow beard under his chin.  All of the hair on
+his head, tufts around his ears and all, are pure white, and his face looks
+somewhat wrinkled.  Despite being old, he is still quite imposing, and he
+seems entirely at peace with his surroundings.  
+~
+ogier~
+ACH N 1000 0
+24 14 13d14+576 24d10+100 3d7+12 smash
+0 0 0 0 0
+A
+0 0 0 0
+FKN 0 ENX CHR
+stand stand male 25
+0 0 large 'flesh'
+#103
+young ogier man~
+a young Ogier man~
+A young Ogier man walks by casually, nodding to you in acknowledgement.
+~
+This young man, walking purposely by, appears to be intent on whatever he
+is doing, and only nods to you in acknowledgement.  He is wearing a linen
+shirt and trousers, and stands a good eight feet tall.  His arms, thick as
+tree trunks, look strong enough to smash stone, but the serene manner in
+which he carries himself suggests he is not a man of violence.  
+~
+ogier~
+ACc N 1000 0
+25 15 13d13+625 25d10+100 3d8+12 smash
+0 0 0 0 0
+A
+0 0 0 0
+CFK 0 0 0
+stand stand male 25
+0 0 large 'flesh'
+M 'RANDOM' 100 1~
+#104
+woman ogier~
+an Ogier woman~
+An Ogier woman smiles warmly at you as she walks by.
+~
+Wearing an embroidered dress, this Ogier woman smiles warmly at you as
+she passes.  With eyebrows not as long as the men's, and delicate features,
+she is easily distinguishable from the opposite sex.  She is shorter than
+the average Ogier man, but she still stands head and shoulders taller than
+the average human.  
+~
+ogier~
+ACH NW 1000 0
+23 13 12d12+529 23d10+100 3d6+11 slap
+0 0 0 0 0
+A
+0 0 0 0
+F 0 0 0
+stand stand female 20
+0 0 large 'flesh'
+#105
+ogier girl~
+a young Ogier girl~
+A young Ogier girl is here, eyeing you curiously.
+~
+Looking at you curiously, she smiles warmly at you.  Wearing a long green
+dress and a green cloak embroidered with flowers, she is shorter than the
+adults, but still stands nearly as tall as an average human.  She carries a
+bunch of silverbell blossoms as if she had been gathering them recently.  
+~
+ogier~
+AC N 1000 0
+22 12 12d13+484 22d10+100 3d5+11 slap
+0 0 0 0 0
+A
+0 0 0 0
+F 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#106
+ogier matron~
+an Ogier matron~
+An Ogier matron is here, baking a pie.
+~
+An Ogier matron, wearing a large white apron, smiles warmly at you as she
+works, baking sweetberry pies.  A little rotund around the middle, she looks
+like the typical perfect mother.  Tiny wrinkles around her eyes and some
+white roots in her hair and in the tufts of her ears show that she isn't
+young, but she appears to have aged well, and still has the vigour and step
+of youth still in her.  
+~
+ogier~
+ABCG N 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+FK 0 0 0
+stand stand female 5000
+0 0 large 'flesh'
+#107
+Ogier elder~
+an Ogier Elder~
+An Ogier Elder is sitting here, looking at you with immense dignity.
+~
+With an immense wisdom and dignity attained only through centuries of
+life, this Ogier Elder looks at you with an aged face.  With hair and the
+tufts on their ears as white as snow, he calmly asks you to state your
+business here.  
+~
+ogier~
+AB FN 1000 0
+30 20 16d17+900 30d10+100 4d4+15 smash
+0 0 0 0 0
+A
+1 1 1 1
+CFN 0 0 0
+stand stand male 45
+0 0 large 'flesh'
+#108
+aiel trader~
+an Aiel trader~
+An Aiel trader is here, eyeing you warily.
+~
+Dressed in grey cadin'sor, this fierce-looking Aiel appears to be here
+to trade for sungwood.  Grey eyes regard you warily, and he appears ready to
+don his shoufa and fight at any moment.  He carries three short spears with
+long blades, a long dagger at his belt, a leather buckler and a short bow
+across his back, and he seems to handle them like he has been using them
+since childhood.  
+~
+aiel~
+ACT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+FIKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+M 'KILL' 102 100~
+#109
+Cairhienan trader~
+a Cairhienan trader~
+A Cairhienan trader is here, looking for sungwood.
+~
+Looking somewhat grizzled and travel stained, this Cairheinan trader is
+looking for sungwood.  Cloaked in a travelling coat, you can see little of
+what he is wearing, but the hilt of a sword peeks out from underneath.  He
+appears confident and ready to defend himself against bandits and thieves,
+if necessary.  
+~
+unique~
+ACT 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+IK 0 0 0
+stand stand male 45
+0 0 medium 'flesh'
+#110
+squirrel~
+a {ysq{wu{Dir{wr{yel{x~
+A chittering {ysq{wu{Dir{wr{yel{x scrambles up a tree.
+~
+~
+unique~
+AC 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+AGV ACDEFHJKQ small 'flesh'
+#111
+woodpecker bird~
+a {yw{Yoo{yd{rpe{Dck{rer{x~
+A {rb{Dir{rd{x clings to the tree here, chipping away at the bark.
+~
+~
+unique~
+A 0 0 0
+12 2 7d8+144 12d10+100 2d4+6 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+AGW ACDEFHJKQ small 'flesh'
+#112
+male quail~
+a {cq{Cu{Wa{Ci{cl{x~
+A male {cq{Cu{Wa{Ci{cl{x perches here, guarding his young.
+~
+~
+unique~
+A 0 0 0
+14 4 8d9+196 14d10+100 2d6+7 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AGW ACDEFHJKQ medium 'flesh'
+#113
+female quail~
+a female {cq{Cu{Wa{Ci{cl{x~
+A female {cq{Cu{Wa{Ci{cl{x is here, pecking at seeds on the ground.
+~
+~
+unique~
+A 0 0 0
+13 3 7d7+169 13d10+100 2d5+6 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+AGW ACDEFHJKQ medium 'flesh'
+#114
+quail baby~
+a baby {cq{Cu{Wa{Ci{cl{x~
+A baby {cq{Cu{Wa{Ci{cl{x stays close to its mother here.
+~
+~
+unique~
+A 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+AGW ACDEFHJKQ medium 'flesh'
+#115
+groundhog~
+a {ygr{Wou{yndh{Wo{yg{x~
+A small {ygr{Wou{yndh{Wo{yg{x sticks his head out of a hole in the ground.
+~
+~
+unique~
+AC 0 0 0
+16 6 9d10+256 16d10+100 2d8+8 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+AGV ACDEFHJKQU medium 'flesh'
+#116
+raccoon~
+a {Dra{wc{Wc{wo{Don{x~
+A furred {Dcr{we{Wat{wu{Dre{x with large black eyes peeks through the bushes here.
+~
+~
+unique~
+AC 0 0 0
+18 8 10d11+324 18d10+100 2d10+9 scratch
+0 0 0 0 0
+A
+0 0 0 0
+U 0 0 0
+stand stand either 0
+AGV ACDEFHJKQU medium 'flesh'
+#117
+ogier boy~
+an Ogier {Bb{Wo{By{x~
+An Ogier {Bb{Wo{By{x runs through the Stedding.
+~
+~
+ogier~
+A 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 elbow
+0 0 0 0 0
+A
+0 0 0 0
+F 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#118
+ogier child~
+an Ogier {cc{Ch{Wi{Cl{cd{x~
+An Ogier {cc{Ch{Wi{Cl{cd{x sits on the ground, stacking rocks atop each other.
+~
+~
+ogier~
+A 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 5
+0 0 medium 'flesh'
+#119
+finch bird~
+a {mf{Minc{mh{x~
+A tiny {mf{Minc{mh{x flits from tree limb to tree limb.
+~
+~
+unique~
+A 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+AGW ACDEFHKPQ tiny 'flesh'
+#120
+ogier woman~
+an Ogier {mw{Mo{Wm{Ma{mn{x~
+An Ogier {mw{Mo{Wm{Ma{mn{x walks along the pathway, humming a soft tune.
+~
+~
+ogier~
+A 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 30
+0 0 large 'flesh'
+#121
+aiel maiden~
+an Aiel {yM{rai{yd{re{yn{x~
+An Aiel {yM{rai{yd{re{yn{x is here, crouching on her heels.
+~
+~
+aiel~
+AT 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 thrust
+0 0 0 0 0
+A
+1 1 1 1
+R 0 0 RY
+stand stand female 40
+0 0 medium 'flesh'
+#122
+aiel wiseone~
+an Aiel {yW{Wi{ys{WeO{yne{x~
+A woman wearing {yb{Wu{ylky{w-{ysk{Wi{yrts{x is sitting on a pile of cushions.
+~
+~
+aiel~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 500
+0 0 medium 'flesh'
+#123
+aes sedai woman~
+an {YA{We{Ys S{We{Yd{Wa{Yi{x~
+A slim-waisted {cw{Co{Wm{Ca{cn{x stands here, wearing fine silks.
+~
+~
+domani~
+AJab 0 85 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+100 35 45 88 90
+A
+6 6 6 6
+0 B 0 0
+stand stand female 600
+0 0 medium 'flesh'
+F gain B
+F train B
+V tlevel 50
+#124
+warder man~
+a {gG{wa{Did{wi{gn{x~
+A broad-shouldered {gm{Da{gn{x stands protectively near the woman.
+~
+~
+shienaran~
+ABT 0 85 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+Q 0 0 0
+stand stand male 400
+0 0 medium 'flesh'
+F gain A
+F train A
+V tlevel 50
+#125
+ogier mother~
+an Ogier {gM{Go{Wth{Ge{gr{x~
+An Ogier {gM{Go{Wth{Ge{gr{x busies herself with preparing the evening meal.
+~
+~
+ogier~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 40
+0 0 large 'flesh'
+#126
+ogier father~
+an Ogier {bF{Ba{Wth{Be{br{x~
+An Ogier {bF{Ba{Wth{Be{br{x sits in his favorite chair, smoking a pipe.
+~
+~
+ogier~
+AB 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 35
+0 0 large 'flesh'
+#127
+ogier child~
+an Ogier {WC{Ch{Wi{Cl{Wd{x~
+An Ogier {WC{Ch{Wi{Cl{Wd{x plays on the floor.
+~
+~
+ogier~
+AB 0 0 0
+23 13 12d12+529 23d10+100 3d6+11 shoulderbash
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 10
+0 0 medium 'flesh'
+#128
+ogier treesinger~
+an Ogier {gTr{Gee{Wsi{Gng{ger{x~
+An Ogier {gTr{Gee{Wsi{Gng{ger{x walks along the pathways, lifting his voice in song.
+~
+~
+ogier~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 40
+0 0 large 'flesh'
+#129
+ogier stonemason~
+an Ogier {DSt{won{Wem{was{Don{x~
+An Ogier {DSt{won{Wem{was{Don{x sits on a bench, relaxing.
+~
+~
+ogier~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 35
+0 0 large 'flesh'
+#130
+ogier builder~
+an Ogier {yB{Yui{yld{Ye{yr{x~
+An Ogier {yB{Yui{yld{Ye{yr{x strides along the pathway.
+~
+~
+ogier~
+A 0 0 0
+29 19 15d15+841 29d10+100 3d12+14 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 35
+0 0 large 'flesh'
+#131
+ogier elder~
+an Ogier {WE{wld{Wer{x~
+An Ogier {WE{wld{Wer{x walks along the path, nodding to those she passes.
+~
+~
+ogier~
+A 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 45
+0 0 large 'flesh'
+#132
+wander wanderer man distraught~
+a {mwa{Dn{wd{Der{mer{x~
+{mWa{Dnd{we{Dri{mng{x aimlessly through the forests, this man appears rather distraught.
+~
+~
+ghealdanin~
+AJb 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+J 0 0 Q
+stand stand male 5000
+0 0 medium 'flesh'
+F gain A
+F train A
+V tlevel 50
+#140
+hulking ogier~
+a hulking Ogier~
+A hulking Ogier stands brooding here.
+~
+Thick-set even for an Ogier, there is no evidence of fat on this males
+body.  Dressed in dyed woolen pants, a flowing embroidered shirt, and a
+heavy overcoat, he leans heavily on a thick sungwood staff.  
+~
+ogier~
+A 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 none
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand male 30
+0 0 large 'flesh'
+#0
+
+
+
+#OBJECTS
+#100
+Laz-E-Boy chair regeneration red cross~
+the Laz-E-Boy chair of Regeneration~
+A Laz-E-Boy chair with a large {Rred cross{x painted on the back is here.~
+cloth~
+furniture AGIY AB
+1 1000 FIL 100 100
+10 1 10000 100
+#101
+brook~
+a small {Bb{cu{Bbb{cl{Bi{cn{Bg{x brook~
+A small {Bb{cu{Bbb{cl{Bi{cn{Bg{x brook gurgles happily by.~
+water~
+fountain OSY P
+-1 -1 'water' 0 0
+0 0 0 100
+#102
+blossom white~
+a {Wwhite{w blossom~
+A single {Wwhite{w blossom grows on the path here.~
+organic~
+pill IS AO
+10 'heal' 'refresh' '' ''
+1 1 500 100
+#103
+chair~
+a large sungwood chair~
+A large sungwood chair is here, sitting near the table.~
+wood~
+furniture OS P
+1 1000 EH 125 100
+10 50 0 100
+#104
+waygate~
+the Waygate~
+A Waygate stands here, carved intricately with vines and leaves.~
+stone~
+portal CGOSY P
+-1 ABCFG ABCFG 100 141
+1 10000 0 100
+#105
+chair~
+a heavy, vine-carved chair~
+A heavy, vine-carved chair of the Elders sits here on the dais.~
+wood~
+furniture S A
+2 2000 BEH 125 125
+25 50 0 100
+#106
+table sungwood~
+a huge sungwood table~
+A huge sungwood table is here.~
+wood~
+furniture OS P
+10 20000 ADG 100 100
+10 0 0 100
+#107
+table sungwood~
+a sungwood table~
+A sungwood table is here.~
+wood~
+furniture OS AP
+6 6000 ADG 100 100
+10 100 0 100
+#108
+chair~
+a sungwood chair~
+A sungwood chair is here, sitting near the table.~
+wood~
+furniture S A
+1 1000 EH 115 115
+10 20 0 100
+#109
+chest wooden~
+a wooden chest~
+A wooden chest is here, resting near the door.~
+wood~
+container Sa P
+1000 AC 0 20 1
+10 50 0 100
+#110
+bed sungwood~
+a sungwood bed~
+A large sungwood bed rests in the corner.~
+wood~
+furniture S P
+3 3000 EHK 175 175
+10 10 0 100
+#111
+shovel~
+a shovel~
+A shovel lies here leaning against the wall.~
+wood~
+weapon 0 AN
+exotic 3 8 'pound' F
+25 8 25 100
+A
+19 9
+#112
+saw~
+a saw~
+A saw lies on the ground here.~
+iron~
+weapon 0 AN
+sword 3 8 'slice' D
+25 5 50 100
+A
+19 9
+#113
+quarterstaff staff sungwood~
+a {ysungwood{x quarterstaff~
+A {ysungwood{x quarterstaff is here, leaning against the wall.~
+wood~
+weapon IS AN
+exotic 3 8 'smash' F
+25 30 400 100
+A
+18 3
+A
+19 9
+#114
+knothole knot hole~
+a knothole in the Great Tree~
+There appears to be a knothole in the Great Tree.~
+empty~
+container OSa P
+20000 0 0 1 1
+0 0 0 100
+#115
+sungwood ring~
+a {ysungwood{x ring~
+A small {ywooden{x ring lies abandoned here.~
+wood~
+armor IS AB
+5 10 5 5 0
+25 1 25 100
+A
+4 3
+A
+17 -5
+#116
+white linen shirt~
+a {Wwhite{x linen shirt~
+A {Wwhite{x linen shirt lies here in a pile.~
+cloth~
+armor S AD
+4 6 5 3 0
+25 1 25 100
+#117
+rolling pin~
+a huge rolling pin~
+A huge rolling pin is here, dusted with flour.~
+wood~
+weapon S AN
+exotic 3 9 'pound' 0
+15 15 25 100
+#118
+sweetberry pie~
+a {rsweetberry{x pie~
+A steaming {rsweetberry{x pie is here, tantalizing your taste buds.~
+food~
+food S AO
+3 3 0 0 0
+1 0 15 100
+#119
+wedge white cheese~
+a wedge of {Wwhite{x cheese~
+A wedge of {Wwhite{x cheese has been left here.~
+fod~
+food S AO
+5 5 0 0 0
+1 0 20 100
+#120
+loaf brown bread~
+a loaf of {ybrown{x bread~
+A loaf of {ybrown{x bread is here, tantalizing your tastebuds.~
+food~
+food S AO
+4 4 0 0 0
+1 0 10 100
+#121
+dress embroidered~
+a dress embroidered with flowers~
+A dress with flowers embroidered on it lies here in the dirt.~
+cloth~
+armor S AD
+3 4 4 3 0
+14 1 50 100
+#122
+forest green dress~
+a {gforest green{x dress~
+A {gforest green{x dress lies here in a pile.~
+cloth~
+armor S AD
+3 3 2 2 0
+10 1 45 100
+#123
+cloak forest green pile cloth~
+a {gforest green{x cloak~
+A large pile of {gforest green{x cloth lies here.~
+cloth~
+armor S AK
+10 5 5 5 0
+25 1 50 100
+#124
+bench wooden~
+a wooden bench~
+A long wooden bench is here.~
+wood~
+furniture S P
+8 8000 EH 110 110
+0 0 0 100
+#125
+young sapling~
+a young {gs{Gap{yl{Gin{gg{x~
+A young {gs{Gap{yl{Gin{gg{x is growing here.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#126
+massive fully grown fully-grown tree~
+a massive, fully grown {gt{Gr{ye{ge{x~
+A massive, fully grown {gt{Gr{ye{ge{x is here.~
+wood~
+trash S P
+0 0 0 0 0
+10 0 0 100
+#127
+bed~
+a large, human-sized bed~
+A large, human-sized bed is here in the corner.~
+wood~
+furniture OSa P
+4 4000 EHK 200 200
+10 0 0 100
+#128
+long flaring green coat cloth heap~
+a long, flaring {ggreen{x coat~
+A pile of {ggreen{x cloth lies here in a heap.~
+cloth~
+armor S AD
+7 5 7 5 0
+24 3 50 100
+#129
+shelf~
+a shelf~
+A shelf is here on the wall.~
+wood~
+container OSa P
+500 E 0 500 1
+10 0 0 100
+#130
+sungwood rose~
+a {ysungwood{x rose~
+A {ywooden{x rose lies here, as if having naturally grown into its shape.~
+wood~
+treasure ISY AO
+0 0 0 0 0
+15 1 1000 100
+A
+12 30
+A
+3 2
+E
+rose~
+This is the most amazing piece of sungwood you have ever seen.  It looks
+as if the wood has naturally grown into the shape of a rose, and still feels
+as if it is pulsing with life.  You can almost see beads of moisture on each
+petal, and imagine the scent it would give off.  It must have taken an
+extremely talented Treesinger to create this!  
+~
+#131
+cadin'sor cloth grey~
+a grey cadin'sor~
+A pile of dusty grey cloth lies here on the ground.~
+cloth~
+armor S AD
+7 6 6 6 0
+25 2 25 100
+#132
+short spear~
+a short, long-bladed spear~
+A short spear with a long blade lies here.~
+steel~
+weapon 0 AN
+spear 5 8 'pierce' 0
+25 5 50 100
+#133
+leather buckler small~
+a small {yleather{x buckler~
+A small {yleather{x buckler lies here.~
+leather~
+armor S AJ
+8 4 8 5 0
+25 5 50 100
+#134
+large dagger leather~
+a large dagger with a {yleather{x handle~
+A large dagger with a {yleather{x handle lies here.~
+steel~
+weapon Y AN
+dagger 3 8 'stab' 0
+25 1 35 100
+A
+19 9
+#135
+shoufa~
+a shoufa~
+A shoufa lies here abandoned in the dirt.~
+cloth~
+armor S AE
+10 10 5 0 0
+25 1 5 100
+#136
+short bow~
+a short bow~
+A short bow is here, leaning against the wall.~
+wood~
+weapon S AN
+bow 3 8 'pound' 0
+25 1 50 100
+A
+19 9
+#137
+pair forest green boots~
+a pair of {gforest green{x boots~
+A pair of {gforest green{x boots are here.~
+leather~
+armor S AG
+5 5 10 5 0
+25 1 25 100
+#138
+plain longsword sword~
+a plain longsword~
+A plain-looking longsword lies here against the wall.~
+steel~
+weapon 0 AN
+sword 2 9 'slash' 0
+10 4 20 100
+#139
+grey woolen cloak cloth bundle~
+a grey woolen cloak~
+A pile of grey cloth lies here in a bundle.~
+cloth~
+armor S AK
+5 4 5 4 0
+18 2 20 100
+#140
+black leather gloves~
+a pair of {Dblack{x leather gloves~
+A pair of {Dblack{x leather gloves lie here.~
+leather~
+armor S AH
+5 5 5 10 0
+25 1 10 100
+#141
+amber necklace~
+an {ya{Ym{Wb{Ye{yr{x necklace~
+A long chain with shiny {ya{Ym{Wb{Ye{yr{x stones rests here.~
+amber~
+armor Y AC
+6 7 6 6 0
+25 2 50 100
+#142
+clay jar~
+a c{cl{Ca{wy{x jar~
+A c{cl{Ca{wy{x jar sits atop a {yshelf{x.~
+clay~
+container S 0
+100 AI 0 2 0
+0 0 0 100
+#143
+dried apricot~
+a handful of dried {Rap{Yri{Wc{Yots{x~
+A handful of dried {Rap{Yri{Wc{Yots{x has been dropped on the ground.~
+organic~
+food S AO
+3 1 0 0 0
+0 1 2 100
+#144
+avendesora leaf key~
+an {gAv{Gen{gde{Gso{gra {gl{Gea{gf {Dk{we{Dy{x~
+An {gAv{Gen{gde{Gso{gra {gl{Gea{gf {Dk{we{Dy{x blends into the wall.~
+stone~
+key S A
+0 0 0 0 0
+0 1 10 100
+#145
+emerald ring~
+an {Ge{gm{Ge{gr{Ga{gld{x ring~
+A {Yg{Wo{Yld{We{Yn{x band with many small {Ge{gm{Ge{gr{Ga{glds{x embedded within rests here.~
+emerald~
+armor 0 AB
+6 7 6 6 0
+25 1 50 100
+#146
+amber bracelet~
+an {ya{Ym{Wb{Ye{yr{x bracelet~
+A shiny bracelet with {ya{Ym{Wb{Ye{yr{x stones rests here.~
+amber~
+armor 0 AM
+6 7 6 6 0
+25 1 50 100
+#147
+shawl~
+a {rs{Rh{Ya{Rw{rl{x~
+A large piece of {rs{Ri{Yl{Rk{ry{x material with beads and long tassels rests here.~
+cloth~
+armor S AC
+6 7 6 6 0
+25 4 50 100
+#0
+
+
+
+#ROOMS
+#100
+A Hidden Meadow~
+After pushing through the tangle of bushes to the south, the area opens
+onto a wide, luscious green meadow.  The sound of birds chirping in the
+trees fills the air, and little creatures can be seen moving around in the
+grassy area.  Two horses can be seen grazing on the grass, and a small camp
+seems to have been made near a stream.  
+~
+0
+K 4
+D2
+~
+~
+4096 4096
+0 0 105
+S
+#101
+A Forest Path~
+Shimmering light, streaming between the swaying branches above, blankets
+the path you follow as a light breeze whispers through the trees. 
+Chittering squirrels and chirping birds fill the air with your passage,
+seemingly unworried by your presence.  The path you follow disappears
+through the trees towards the east.   
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 102
+D9
+~
+~
+0 0
+0 0 47815
+S
+#102
+A Forest Path~
+A small brook to the east forces the path to make a southerly turn from
+here.  The humid scent of the mountain water from the Dragonwall to the east
+is very refreshing, mixed with the heady perfume of small white flowers
+growing from the forest floor.  Towards the west, the path winds into the
+trees.  
+~
+0
+0 3
+D2
+~
+~
+0 0
+0 0 103
+D3
+~
+~
+0 0
+0 0 101
+S
+#103
+A Sudden Chill~
+As you continue down the path, suddenly you feel a sudden chill, as if
+you had been doused with cold water.  After it passes, you feel oddly
+refreshed.  Everything about you looks the same however.  The trees still
+sway in the breeze, the squirrels still chitter, the birds still chirp, as
+they always have.  The path continues towards the north and east from here. 
+~
+0
+U 3
+D0
+~
+~
+0 0
+0 0 102
+D1
+~
+~
+0 0
+0 0 104
+S
+#104
+A Forest Path~
+The forest begins to subtly change as the path continues towards the
+east.  The undergrowth begins to thin out somewhat under the canopy of oak
+and hickory, blackgum and beech, and the occasional tall pine or leatherleaf
+trees.  The forest itself seems healthier here, as if the very trees and
+earth were suffused with life.  
+~
+0
+U 3
+D1
+~
+~
+0 0
+0 0 105
+D3
+~
+~
+0 0
+0 0 103
+S
+#105
+A Forest Path~
+The path is forced to wind in between the trees now as the forest begins
+to thicken.  A Great Tree, its base spanning nearly two dozen paces and its
+roots as thick as horses, towers to the east, forcing the trail in a
+southerly direction.  The forest whispers to you as a stiff breeze gives it
+breath, its branches and leaves swaying to a silent rhythm.  A thick set of
+bushes covers the area towards the north, but sounds of animals behind them
+can be heard, rustling in the leaves.  
+~
+0
+U 3
+E
+tree~
+There appears to be a small bronze plaque on this Great Tree.
+It reads:
+
+-----------------------------------------------
+|                                             |
+|Stedding Tsofu is brought to you by {b|{DE{wl{Wdor{wa{Dn{b|{x|
+|                                             |
+|If you have any questions or comments,       |      
+|please don't hesitate to send me a tell or   |
+|note!  I hope you enjoy it.  =)              |
+|                                             |
+-----------------------------------------------
+~
+D0
+~
+~
+4096 4096
+0 0 100
+D2
+~
+~
+0 0
+0 0 106
+D3
+~
+~
+0 0
+0 0 104
+S
+#106
+A Shaded Forest Path~
+As the forest canopy above becomes more thickly intertwined with the
+branches and leaves of the trees about you, less sunlight is able to filter
+through and the path becomes shaded.  The undergrowth nearly disappears
+here, having been choked out by the great trees, allowing the path to become
+much wider as it continues southwards.  
+~
+0
+U 3
+D0
+~
+~
+0 0
+0 0 105
+D2
+~
+~
+0 0
+0 0 107
+S
+#107
+A Shaded Forest Path~
+Following the shaded trail in between the trees, you notice a faint
+pathway leading eastwards into the forest.  Branches of trees and shrubs
+around the pathway look to have been grazed by some kind of animal, likely
+deer or elk.  The shaded trail you've been following continues from north to
+south from here.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 106
+D1
+~
+~
+0 0
+0 0 108
+D2
+~
+~
+0 0
+0 0 113
+S
+#108
+A Faint Trail Through the Trees~
+As you follow the faint trail leading through the trees, you realize that
+it was not man-made.  The winding nature of the path, the signs of grazing
+on the surrounding trees and bushes, and the tracks of various animals mark
+this to be a game trail.  From here, it winds off in the general direction
+towards the east, and meets up with a larger, man-made path through the
+trees to the west.  
+~
+0
+U 2
+D1
+~
+~
+0 0
+0 0 109
+D3
+~
+~
+0 0
+0 0 107
+S
+#109
+A Small Clearing~
+The trees disappear here opening to a small forest-enclosed meadow.  A
+faint trail leads into the trees towards the west, and the meadow continues
+to the north and east from here.  The faint sound of gurgling water can be
+heard from the northeast end of the clearing.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 112
+D1
+~
+~
+0 0
+0 0 110
+D3
+~
+~
+0 0
+0 0 108
+S
+#110
+A Small Clearing~
+The small clearing continues here, bordered by the dense forest to the
+south and east.  The vibrant green grass adds a spring to your step, and you
+feel revitalized by the fresh air filling your lungs.  The sun shines warmly
+on you, uninterrupted by branch or leaf, and a faint breeze stirs the grass
+into an undulating ocean of green.  The clearing continues towards the north
+and west, and from the north the sound of gurgling water can be heard.
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 111
+D3
+~
+~
+0 0
+0 0 109
+S
+#111
+A Small Bubbling Brook~
+The clearing comes to an end here at the banks of a small {Bb{cu{Bbb{cl{Bi{cn{Bg{x brook.
+Slicing a meandering path through the trees to the north, the brook cuts a
+path through the grassy clearing in a southeasterly direction and re-enters
+the trees to the east.  The moist smell of the gurgling water is refreshing,
+and the white frothy surface spilling over the rocks in its path looks pure
+enough to drink.  The grassy clearing continues back towards the west and
+south from here.  
+~
+0
+U 2
+D2
+~
+~
+0 0
+0 0 110
+D3
+~
+~
+0 0
+0 0 112
+S
+#112
+A Small Clearing~
+The small clearing continues here, bordered by the dense forest to the
+south and east.  The vibrant green grass adds a spring to your step, and you
+feel revitalized by the fresh air filling your lungs.  The sun shines warmly
+on you, uninterrupted by branch or leaf, and a faint breeze stirs the grass
+into an undulating ocean of green.  The clearing continues towards the south
+and east, and from the east the sound of gurgling water can be heard.
+~
+0
+U 2
+D1
+~
+~
+0 0
+0 0 111
+D2
+~
+~
+0 0
+0 0 109
+S
+#113
+A Shaded Forest Path~
+The forest path continues in a southerly direction from here.  Off in the
+trees, you catch the faint notes of a song.  The deep bass voice sounds
+distant and is coming from the south.  Its melody seems somehow familiar,
+and the very forest seems to be responding to every note.  The trail
+continues to the north and south from here.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 107
+D2
+~
+~
+0 0
+0 0 114
+S
+#114
+A Shaded Forest Path~
+A white cloud briefly covers the sun and the shaded path you follow
+becomes dim.  A light breeze arises, stirring the leaves about you into
+life.  Among their gentle whisper, the sound of a singing voice arises again
+from somewhere in the trees to the south.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 113
+D2
+~
+~
+0 0
+0 0 115
+S
+#115
+A Shaded Forest Path~
+The path is interrupted by a massive Great Tree to the south and is
+forced eastwards from here.  Its roots span out for hundreds of spans in
+every direction and cut across the path, creating small hills with their
+gigantic size.  Dirt ramps, appearing to have been deposited naturally by
+the wind, carry the path over the obstructions, and allow it to continue to
+the north and east from here.  
+~
+0
+U 2
+E
+tree~
+Looking closer at the tree, you can see that some of the branches have
+been carefully pruned.  It appears to be the only real sign of civilization
+on this forest path.  
+~
+E
+great~
+Yet another of the spectacular Great Trees stands here to the south.  You
+marvel at the incalculable hight that the tree has grown, standing higher
+than the rest of the forest canopy by at least twenty-five paces.  The trunk
+itself is so thick, fifty houses could probably be built with its wood.  
+~
+E
+tree~
+Yet another of the spectacular Great Trees stands here to the south.  You
+marvel at the incalculable hight that the tree has grown, standing higher
+than the rest of the forest canopy by at least twenty-five paces.  The trunk
+itself is so thick, fifty houses could probably be built with its wood.
+~
+D0
+~
+~
+0 0
+0 0 114
+D1
+~
+~
+0 0
+0 0 116
+S
+#116
+The Outskirts of an Ogier Town~
+The forest thins out slightly here, allowing more sunlight to flood
+through the canopy of leaves overhead.  The ground appears worn, the only
+obvious sign of civilization.  A deep, powerful voice rises up in a
+beautiful song somewhere in the east, its notes seeming to resonate with the
+sway of the trees in the light breeze.  A path leading into the forest
+begins just west of here, and the forest thins out even further towards the
+east.
+~
+0
+CU 2
+D1
+~
+~
+0 0
+0 0 117
+D3
+~
+~
+0 0
+0 0 115
+S
+#117
+A Dirt Path~
+As if having grown naturally out of the forest, you suddenly find
+yourself in the middle of a large Ogier village.  Large, grassy mounds lay
+scattered all among the trees here; the homes of the Ogier.  The only means
+of differentiating the town from the forest is a great clearing in the
+center of town to the south of here around what appears to be the stump of a
+one of the Great Trees.  The dirt path continues to the east and south into
+the town, and to the west it winds back into the forest.  
+~
+0
+U 2
+D1
+~
+~
+0 0
+0 0 118
+D2
+~
+~
+0 0
+0 0 136
+D3
+~
+~
+0 0
+0 0 116
+S
+#118
+A Dirt Path~
+More ogier appear as you make your way through the town of Stedding
+Tsofu.  Male and female ogier pass by, acknowledging your presence with a
+casual nod and a smile.  The massive root of a Great Tree crosses the path
+here, and a dirt ramp provides the only means of crossing over it.  The town
+continues to the east and west from here.  
+~
+0
+U 2
+D1
+~
+~
+0 0
+0 0 119
+D3
+~
+~
+0 0
+0 0 117
+S
+#119
+A Dirt Path~
+A grass-covered mound, the home of an Ogier family, looms to the south of
+the path from here.  A rock window-frame, seemingly shaped by wind and rain,
+faces outwards, and a matronly ogier wearing a massive apron smiles warmly
+at you.  A Great Tree spears the heavens to the north, its canopy casting a
+cooling shade over the entire area.  The town continues to the east and west
+from here.  
+~
+0
+U 2
+E
+tree~
+This Great Tree must be at least twenty spans thick and one hundred spans
+high.  It's branches reach towards the heavens, and its massive roots, like
+a giant hand, grip the earth from which it sustains itself.  There appears
+to be a fairly large knothole in the tree, and you think you see something
+hidden inside it...  
+~
+D1
+~
+~
+0 0
+0 0 121
+D2
+~
+~
+1 1
+1 0 120
+D3
+~
+~
+0 0
+0 0 118
+S
+#120
+An Ogier House~
+This home is somewhat larger than the others you've seen, probably
+because it houses an entire Ogier family.  A large stone oven in the kitchen
+area radiates pleasant warmth, and mouth-watering smells eminate from it. 
+Warm sunlight filters in from the window, filling the house with a bright
+ambiance.  A doorway to the north leads back out into town.  
+~
+0
+DU 0
+D0
+~
+~
+1 1
+1 0 119
+S
+#121
+A Dirt Path~
+The path continues to the east and west from here, and to the north rises
+from the earth another Ogier home.  Passing Ogier, intent on whatever they
+are doing, nod to you in acknowledgement and continue on their way, and
+young Ogier children can be seen laughing and giggling as they play amongst
+the trees.  The sun, momentarily filtering through the tree canopy above,
+warms your face pleasantly.  
+~
+0
+U 2
+D0
+~
+~
+1 1
+1 0 149
+D1
+~
+~
+0 0
+0 0 122
+D3
+~
+~
+0 0
+0 0 119
+S
+#122
+A Dirt Path~
+The dirt path turns southwards here, as yet another Great Tree blocks
+its path to the east.  Its massive trunks reach majestically towards the
+heavens, and its roots strain outwards like fingers gripping the earth. 
+Dirt ramps carry the path over the roots, as they are nearly as thick as a
+horse.  The path heads west and south from here.  
+~
+0
+CU 0
+D2
+~
+~
+0 0
+0 0 123
+D3
+~
+~
+0 0
+0 0 121
+S
+#123
+A Dirt Path~
+The dirt path continues north and south from here through the Ogier town.
+Another Ogier home is to the east, and to the southeast you can see a mound
+much larger than the rest you've seen, resting in front of a Great Tree. 
+Passing Ogier glance your way and nod in acknowledgement, but continue on,
+intent on whatever they are doing.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 122
+D1
+~
+~
+0 0
+0 0 124
+D2
+~
+~
+0 0
+0 0 125
+S
+#124
+An Ogier House~
+This appears to be the home of one of the Ogier Elders.  An ogier-sized
+set of table and chairs rests by the window, and on a wall are shelves
+stocked with foodstuffs and other miscellaneous items.  In the back corner
+of the home is a large sungwood bed, accompanied by a wooden endtable.  The
+house is very neat, and surprisingly bright for being underground.  A door to
+the west leads back into the town.  
+~
+0
+DU 0
+D3
+~
+~
+0 0
+0 0 123
+S
+#125
+A Dirt Path~
+The dirt path continues north and south from here through the Ogier town.
+Another Ogier home is to the west, and to the southeast you can see a mound
+much larger than the rest you've seen, resting in front of a Great Tree. 
+Passing Ogier glance your way and nod in acknowledgement, but continue on,
+intent on whatever they are doing.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 123
+D2
+~
+~
+0 0
+0 0 127
+D3
+~
+~
+3 3
+1 0 126
+S
+#126
+An Ogier House~
+This appears to be the home of one of the Ogier Elders.  An ogier-sized
+set of table and chairs rests by the window, and on a wall is a shelf
+stocked with foodstuffs and other miscellaneous things.  In the back corner
+of the home is a large sungwood bed, accompanied by a wooden endtable.  The
+house is very neat, and surpisingly bright for being underground.  A door to
+the east leads back into the town.  
+~
+0
+DU 0
+D1
+~
+~
+3 3
+1 0 125
+S
+#127
+Near a Large Grassy Mound~
+The grassy mound to the east captures your attention when you notice that
+it is much larger than any of the others.  It looks like a hill for all
+practical purposes, and rests at the base of a Great Tree.  Wide steps
+leading down into the mount lead east inside, and the dirt trail continues
+north and west from here.  To the south, a faint trail, nearly
+indistinguishable from the rest of the forest, leads into the trees.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 125
+D1
+~
+~
+0 0
+0 0 147
+D2
+~
+~
+0 0
+0 0 128
+D3
+~
+~
+0 0
+0 0 140
+S
+#128
+Along a Faded Forest Path~
+Trees enclose around as you traverse the faded path.  It appears that
+this trail is rarely used, as the forest has nearly grown over it.  The
+sounds of chittering squirrels and chirping birds fill your ears, and a soft
+breeze gives breath to the whispering trees.  The path returns to the Ogier
+town to the north, and continues southward from here.  
+~
+0
+CU 2
+D0
+~
+~
+0 0
+0 0 127
+D2
+~
+~
+0 0
+0 0 129
+S
+#129
+Along a Faded Forest Path~
+The trail curves eastward here, winding through the thickening forest. 
+The undergrowth intrudes upon the path, making it somewhat difficult to
+follow.  It is obvious that this path has not been used for a long time.  It
+disappears into the trees to the east, and continues back northward from
+here.  
+~
+0
+U 3
+D0
+~
+~
+0 0
+0 0 128
+D1
+~
+~
+0 0
+0 0 130
+S
+#130
+Along a Faded Forest Path~
+The path continues on its easterly trek, winding around the trees and up
+and down gentle slopes.  Roots grow directly onto the path, and undergrowth
+reach in to snag your legs.  It is unusual that the Ogier should let this
+path become so poor, evidence that they do not seem to use it at all
+anymore.  The trail leads back to the Ogier town to the west.  
+~
+0
+U 3
+D1
+~
+~
+0 0
+0 0 131
+D3
+~
+~
+0 0
+0 0 129
+S
+#131
+Among the Trees~
+The condition of the path becomes even poorer here as the forest
+continues to thicken.  The trail is nearly indistinguishable now, making it
+difficult to follow.  It is almost like the Ogier are purposely letting this
+path fade.  The path seems to continue to the east, and leads back to the
+west.  
+~
+0
+U 4
+D1
+~
+~
+0 0
+0 0 132
+D3
+~
+~
+0 0
+0 0 130
+S
+#132
+Among the Trees~
+The path is forced south here as a Great Tree rises majestically to the
+east.  Massive roots feel outwards in all directions, forcing you to climb
+over the chest-high obstructions as you follow the path.  Towards the west,
+the faint trail winds its way back through the thick undergrowth of the
+forest.  
+~
+0
+U 4
+D2
+~
+~
+0 0
+0 0 133
+D3
+~
+~
+0 0
+0 0 131
+S
+#133
+Among the Trees~
+The faint trail resumes its easterly path as it circumvents the Great
+Tree to the northeast.  Apart from the path, there appear to be no signs of
+civilization anywhere, as if this part of the forest had never been touched
+by man nor Ogier.  Low-hanging branches crowd into your path, making it
+difficult to continue.  The trail leads back the way you came to the north. 
+~
+0
+U 4
+D0
+~
+~
+0 0
+0 0 132
+D1
+~
+~
+0 0
+0 0 134
+S
+#134
+Among the Trees~
+The faint path continues to the east and west from here, winding through
+the thick foliage of the forest.  The impenetrable canopy above filters out
+all direct sunlight, dimming the path considerably.  The air lies entirely
+still, carrying the sound of chirping birds and rustling in the undergrowth.
+~
+0
+U 4
+D1
+~
+~
+0 0
+0 0 135
+D3
+~
+~
+0 0
+0 0 133
+S
+#135
+The Waygate~
+You have walked into an area just outside of the Ogier Stedding, on the
+very verge of it, in fact.  The forest abruptly opens up into a small
+clearing, in the center of which lies a Waygate.  Around the edge of the
+clearing the Ogier have built a low stone coping that seems as if it had
+grown there, suggesting a circle of roots of bramble and briar, burning leaf
+and itch oak - not the sort of plants into which anyone would want to
+stumble.  A faint trail can be seen leading westward back into the trees.  
+~
+0
+U 4
+D0
+~
+~
+4615 4615
+2 144 58400
+D3
+~
+'forest'~
+0 0
+0 0 134
+S
+#136
+A Dirt Path~
+More Ogier appear as you make your way through the town of Stedding
+Tsofu.  Male and female Ogier pass by, acknowledging your presence with a
+casual nod and a smile.  A booming, baritone voice rises high in song to the
+south of here, and it seems that the very trees sway to each vaguely
+familiar note.  The dirt path continues north and south from here.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 117
+D2
+~
+~
+0 0
+0 0 137
+S
+#137
+A Dirt Path~
+A large, grassy mound rises out of the earth to the west of the dirt
+path.  A weathered, stone window frame and door set into it give it
+away as a home of the Ogier.  Off to the southeast you can see a large
+clearing around what appears to be the stump of a Great Tree.  The town
+continues to the north and south from here.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 136
+D2
+~
+~
+0 0
+0 0 139
+D3
+~
+~
+3 3
+1 0 138
+S
+#138
+An Ogier House~
+Entering the room, you notice that there is human-sized furniture and
+utensils.  This must be a place for visitors to rest in.  Four large beds
+rest in the far corner, and a large table with chairs sits in the middle of
+the room.  A wooden chest is seated against the wall by the entrance.  To
+the east is the doorway leading back out into the Ogier town.  
+~
+0
+DU 0
+D1
+~
+~
+3 3
+1 0 137
+S
+#139
+A Dirt Path~
+The dirt path turns eastward here towards the clearing and the Great Tree
+stump, and continues northward through the Ogier town.  The forest borders
+the path to the south, and it is here that the Ogier town seems to end. 
+Passing Ogier, intent on whatever they are doing, nod to you in
+acknowledgement, but continue on their way.  
+~
+0
+U 2
+D0
+~
+~
+0 0
+0 0 137
+D1
+~
+~
+0 0
+0 0 141
+S
+#140
+In a Clearing~
+The forest opens up into a grassy clearing dominated by the stump of a
+Great Tree to the west.  This clearing is the only real difference you can
+see between the Ogier town and the forest itself.  The Ogier appear to
+be in complete harmony with their surroundings, taking nothing from the
+forest that they do not give back.  A dirt path leads into the trees to the
+east.  
+~
+0
+U 2
+D1
+~
+~
+0 0
+0 0 127
+D3
+~
+~
+0 0
+0 0 142
+S
+#141
+In a Clearing~
+The forest opens up into a grassy clearing dominated by the stump of a
+Great Tree to the east.  This clearing is the only real difference you can
+see between the Ogier town and the forest itself.  The Ogier appear to be in
+complete harmony with their surroundings, taking nothing from the forest
+that they do not give back.  A dirt path leads into the trees to the west.  
+~
+0
+U 2
+D1
+~
+~
+0 0
+0 0 142
+D3
+~
+~
+0 0
+0 0 139
+S
+#142
+At the Base of a Great Tree Stump~
+At the base of the Great Tree stump, you can see just how large the tree
+must have been when it was alive.  The stump itself is ten paces high and
+nearly one hundred paces wide, and sends out a fairly substantial shadow.  A
+set of wide steps, looking as if they had grown naturally from the wood,
+lead onto the surface of the stump.  The clearing around the stump continues
+to the east and west from here.  
+~
+0
+CU 2
+D1
+~
+~
+0 0
+0 0 140
+D3
+~
+~
+0 0
+0 0 141
+D4
+~
+~
+0 0
+0 0 143
+S
+#143
+The Great Tree Stump~
+The surface of this Great Tree stump has been polished to a shine not
+unlike a palace floor.  This is obviously a common meeting place for the
+Ogier, where they socialize and hold town meetings.  The stump is nearly one
+hundred paces wide, and continues to the north and east from here.  Broad
+stairs lead downward off the stump from here.  
+~
+0
+U 1
+D0
+~
+~
+0 0
+0 0 146
+D1
+~
+~
+0 0
+0 0 144
+D5
+~
+~
+0 0
+0 0 142
+S
+#144
+The Great Tree Stump~
+The view from on the Great Tree stump reveals the entire Ogier town. 
+From here, you can see the effect of the Ogier on the surrounding trees, as
+most of the low-hanging branches have been carefully pruned, and the trees
+themselves appear to be pulsing with life.  Great Trees, rising high above
+the forest canopy, can be seen scattered throughout the Stedding, their
+massive roots grasping the earth in all directions.  The stump continues to
+the north and west from here.  
+~
+0
+U 1
+D0
+~
+~
+0 0
+0 0 145
+D3
+~
+~
+0 0
+0 0 143
+S
+#145
+The Great Tree Stump~
+The view from on the Great Tree stump reveals the entire Ogier town. 
+From here, you can see the effect of the Ogier on the surrounding trees, as
+most of the low-hanging branches have been carefully pruned, and the trees
+themselves appear to be pulsing with life.  Great Trees, rising high above
+the forest canopy, can be seen scattered throughout the Stedding, their
+massive roots grasping the earth in all directions.  The stump continues to
+the north and west from here.  
+~
+0
+U 1
+D2
+~
+~
+0 0
+0 0 144
+D3
+~
+~
+0 0
+0 0 146
+S
+#146
+The Great Tree Stump~
+The view from on the Great Tree stump reveals the entire Ogier town. 
+From here, you can see the effect of the Ogier on the surrounding trees, as
+most of the low-hanging branches have been carefully pruned, and the trees
+themselves appear to be pulsing with life.  Great Trees, rising high above
+the forest canopy, can be seen scattered throughout the Stedding, their
+massive roots grasping the earth in all directions.  The stump continues to
+the north and west from here.  
+~
+0
+U 1
+D1
+~
+~
+0 0
+0 0 145
+D2
+~
+~
+0 0
+0 0 143
+S
+#147
+Inside a Great Chamber~
+Entering the mound, you find yourself in a huge, windowless chamber
+obviously scaled for Ogier, with a thick beamed ceiling more than four spans
+high.  The somber floorstones are smooth, if large and irregular, but the
+grey walls could be the rough side of a cliff.  The ceiling beams,
+rough-hewn as they are, look like great roots.  The room continues to the
+east, and west leads out of the mound.  
+~
+0
+CDU 0
+D1
+~
+~
+0 0
+0 0 148
+D3
+~
+~
+0 0
+0 0 127
+S
+#148
+Before the Ogier Elders~
+You are left gaping in awe as you find yourself before the dais of the
+Ogier Elders.  Sitting proudly with immense wisdom in their eyes, the
+Elders, their hair white and faces aged, look at you with an air of massive
+dignity.  Sitting in the middle on a chair slightly raised higher than the
+others, the Eldest of the Elders fixes you with her piercing eyes and waits
+patiently for you to state your purpose here.  
+~
+0
+DU 0
+D3
+~
+~
+0 0
+0 0 147
+S
+#149
+An Ogier House~
+This is yet another Ogier home, complete with a set of sungwood table and
+chairs, and a massive bed in the back corner.  A large throw rug covers the
+floor, probably bought in trade from Aiel or Tinkers, and the wall is
+adorned with pleasant scenes of nature, and one portrait of what appears to
+be the city of Cairhien.  This must be the home of one of the Ogier
+builders.  A door to the south leads back into town.  
+~
+0
+DU 0
+E
+portrait~
+This is a professionally painted portrait of the city of Cairhien. 
+Written below it, in flowing script, is the name Al'cair'rahienallen, Old
+Tongue for Cairhien.  Tall, graceful spires peek out above the white stone
+walls of the city, and the city itself appears to be one from legend,
+graceful and beautiful.  The portrait must be quite old, before the Aiel
+war, for the Foregate is intact in the portrait.  
+~
+D2
+~
+~
+1 1
+1 0 121
+S
+#0
+
+
+
+#SPECIALS
+M 123 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 125 3 1
+D 0 126 1 1
+D 0 135 0 2
+D 0 137 3 1
+D 0 138 1 1
+M 0 123 1 100 1
+M 0 124 1 100 1
+M 0 110 10 101 3
+M 0 111 10 101 3
+O 0 101 0 102
+M 0 100 10 102 1
+M 0 100 10 102 1
+M 0 101 10 102 1
+O 0 102 0 102
+M 0 101 10 103 1
+M 0 112 10 103 3
+M 0 113 10 103 3
+M 0 114 20 103 5
+M 0 101 10 105 1
+M 0 100 10 105 1
+M 0 101 10 107 1
+M 0 100 1 108 1
+M 0 101 1 109 1
+M 0 101 1 109 1
+M 0 100 10 110 1
+M 0 132 1 110 1
+O 0 101 0 111
+M 0 101 1 111 1
+M 0 100 10 112 1
+M 0 100 10 114 1
+M 0 101 10 115 1
+M 0 115 10 115 3
+M 0 116 10 115 3
+M 0 102 5 117 1
+E 0 123 0 15
+O 0 125 0 117
+M 0 103 5 118 1
+E 0 111 0 20
+E 0 116 0 7
+O 0 125 0 118
+M 0 117 10 118 2
+M 0 102 5 119 1
+E 0 123 0 15
+O 0 114 0 119
+P 0 115 1 114 1
+M 0 105 5 120 1
+E 0 122 0 7
+M 0 104 5 120 1
+E 0 121 0 7
+O 0 103 0 120
+O 0 103 0 120
+O 0 103 0 120
+O 0 106 0 120
+M 0 106 1 120 1
+E 0 117 0 20
+G 0 118 0
+G 0 119 0
+G 0 120 0
+O 0 125 0 121
+M 0 118 10 121 2
+M 0 119 10 121 3
+M 0 103 5 122 1
+E 0 116 0 7
+E 0 112 0 20
+M 0 105 5 123 1
+E 0 122 0 7
+O 0 125 0 123
+M 0 120 10 123 1
+M 0 102 5 124 1
+E 0 123 0 15
+O 0 106 0 124
+O 0 103 0 124
+O 0 142 0 124
+P 0 143 1 142 1
+O 0 125 0 125
+M 0 130 5 125 1
+M 0 131 5 125 1
+O 0 129 0 126
+P 0 130 1 129 1
+M 0 102 5 126 1
+E 0 123 0 15
+O 0 103 0 126
+O 0 110 0 126
+M 0 125 5 126 1
+M 0 126 5 126 1
+M 0 127 10 126 3
+M 0 140 10 128 2
+M 0 140 10 130 2
+M 0 140 10 131 2
+M 0 140 10 131 2
+M 0 140 10 133 2
+M 0 140 10 133 2
+O 0 144 0 135
+O 0 104 0 135
+O 0 125 0 136
+M 0 104 5 137 1
+E 0 121 0 7
+M 0 105 5 138 1
+E 0 122 0 7
+O 0 108 0 138
+O 0 108 0 138
+O 0 108 0 138
+O 0 127 0 138
+O 0 107 0 138
+O 0 109 0 138
+P 0 137 1 109 1
+M 0 108 3 138 3
+E 0 135 0 5
+E 0 131 0 7
+E 0 132 0 20
+E 0 133 0 13
+E 0 134 0 16
+E 0 136 0 14
+M 0 121 5 138 5
+M 0 122 1 138 1
+G 0 141 0
+G 0 145 0
+G 0 146 0
+G 0 147 0
+M 0 102 5 139 1
+E 0 123 0 15
+O 0 125 0 139
+M 0 103 5 141 1
+E 0 116 0 7
+E 0 112 0 20
+M 0 105 5 143 1
+E 0 122 0 7
+M 0 102 5 144 1
+E 0 123 0 15
+M 0 130 5 144 1
+M 0 104 5 145 1
+E 0 121 0 7
+M 0 105 5 145 1
+E 0 122 0 7
+M 0 129 5 145 1
+M 0 109 1 146 1
+E 0 138 0 20
+E 0 139 0 15
+E 0 140 0 11
+M 0 103 5 146 1
+E 0 116 0 7
+E 0 111 0 20
+M 0 128 5 146 1
+O 0 124 0 147
+M 0 107 5 148 5
+E 0 128 0 7
+M 0 104 5 149 1
+E 0 121 0 7
+O 0 103 0 149
+O 0 106 0 149
+S
+
+
+
+#SHOPS
+106 19 0 0 0 0 100 100 0 24
+122 9 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2335 @@
+#AREADATA
+Name Solanje~
+Builders Ravenna~
+VNUMs 58201 58299
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#58201
+large muscular man blacksmith smith~
+a {DB{wla{Wcksm{wit{Dh{x~
+A rather large, {Dm{wus{Wcu{wla{Dr{x man wearing a dingy apron, stands beside the forge, pounding a piece of metal.
+~
+~
+domani~
+ABE 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 500
+0 0 large 'flesh'
+#58202
+apprentice~
+a blacksmith's {Da{wpp{Wrent{wic{De{x~
+A young man wearing a dingy {Wa{Dpro{Wn{x is here, working the forge.
+~
+~
+domani~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+I 0 0 R
+stand stand male 20
+0 0 medium 'flesh'
+#58203
+brown stallion~
+a brown {yst{wa{Wll{wi{yon{x~
+A brown {yst{wa{Wll{wi{yon{x with a white blaze on his nose stands here calmly surveying his surroundings.
+~
+~
+unique~
+AZ 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+IM 0 0 0
+stand stand male 0
+AGV ACDEFJKQ medium 'flesh'
+#58204
+Morwin blacksmith~
+Morwin the blacksmith~
+A stocky man with muscular arms
+~
+~
+domani~
+AEY 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 pound
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand male 0
+0 0 medium '?'
+#58205
+serving girl waitress~
+a serving girl~
+A serving girl sees to the patrons
+~
+~
+unique~
+AG 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'unknown'
+#58206
+Horace innkeeper owner~
+Horace, the Innkeeper~
+Horace, the Innkeeper, stands behind the bar
+~
+This man is the innkeeper of the Inn of the Wild Rose.  He is of average
+height and weight.  He wears a white apron around his waist.  He has intense
+blue eyes and black hair peppered with grey.  He has a warm smile for all
+who enter his inn.  
+~
+domani~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#58207
+cook inn~
+Gretchin, the cook~
+Gretchin, the cook, oversees the kitchens
+~
+This woman is pleasantly plump.  Her light brown hair is pulled back from
+her merry green eyes and the rest of her face.  She wears a long white apron
+to keep her dress clean.  With a knife in one flour covered hand, she
+directs the daily operation of the kitchens.  She is the wife of the
+innkeep, Horace.  
+~
+domani~
+AY 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand female 5
+0 0 medium 'unknown'
+#58212
+mayor solanje~
+Mayor of Solanje~
+The Mayor of Solanje
+~
+~
+domani~
+AG 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+sit sit male 100
+0 0 medium 'unknown'
+F for M
+#58214
+wisewoman solanje~
+The Wise Woman~
+The Wise Woman of Solanje
+~
+~
+domani~
+AGa 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+F for AHMV
+#0
+
+
+
+#OBJECTS
+#58201
+fountain~
+a {cf{Cou{Wnt{Cai{cn{x in the form of a shapely {mw{Mo{Wm{Ma{mn{x~
+A {cf{Cou{Wnt{Cai{cn{x in the form of a shapely {mw{Mo{Wm{Ma{mn{x, water pouring from a jug into the basin, is in the center of the street.~
+stone~
+fountain 0 0
+10000 10000 'water' 0 0
+0 0 0 100
+#58202
+none~
+none~
+none~
+cloth~
+weapon 0 0
+exotic 0 0 'none' 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#58201
+The Center of Town~
+This is the center of the small, yet bustling town of Solanje.  A large
+fountain, in the form of a shapely woman holding a jug of water dominates
+the area.  Crystal clear water pours from the mouth of the jug and into the
+fountain's basin.  Rising up behind the fountain is a two story building of
+brick and wood bearing a sign with a large wild rose.  A well built house,
+probably that of a town official or mayor, rests off to the left side of the
+fountain.  A small house with herbs hanging from the front window, probably
+the home of the town Wise Woman, rests off to the right side of the
+fountain.  A stone path leading to some houses meanders to the south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58202
+D1
+~
+~
+0 0
+0 0 58213
+D2
+~
+~
+0 0
+0 0 58217
+D3
+~
+~
+0 0
+0 0 58211
+S
+#58202
+Outside the Inn of the Wild Rose~
+A large wooden sign, bearing a large wild rose, hangs from the front of
+this building, proclaiming it to be the Inn of the Wild Rose.  The inn is a
+two story building made of wood and stone.  Dark green shutters frame the
+windows, ready to be drawn closed at a moments notice, if needed.  Lovingly
+tended wild roses grow in front of the inn and along the sides.  It appears
+to be a cheery and welcoming place.  A tidy stone path leads off to the
+right and behind the inn, leading to the inn's small stables.  A path to the
+south leads back to the center of town.  
+~
+0
+0 14
+D0
+~
+~
+3 3
+1 0 58206
+D1
+~
+~
+0 0
+0 0 58203
+D2
+~
+~
+0 0
+0 0 58201
+S
+#58203
+A Path Leading to the Stables~
+A tidy path of stone leads from the front of the inn to the stables. 
+Well tended grass grows to either side of the path.  A stone bench and a
+small bird bath can be seen a short distance off of the path to the left. 
+And to the right, the local blacksmith can be found.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58205
+D1
+~
+~
+1 1
+1 0 58204
+D3
+~
+~
+0 0
+0 0 58202
+S
+#58204
+The Local Blacksmith~
+This large room is hot, noisy and cramped.  The heat comes from the large
+fire on the left side of the room in the forge.  To one side of the forge is
+a large vat of water.  A large accordion shaped device, the bellows, can be
+found to the other side of the forge.  The noise comes from the pounding of
+heated metal by the blacksmith or one of his apprentices with a large
+hammer.  Projects in various stages of completion can be found around the
+room, lending to the air of the room's crampedness.  The door to the west
+leads back toward the stables and the inn.  
+~
+0
+D 0
+D3
+~
+~
+1 1
+1 0 58203
+S
+#58205
+Wild Rose Inn Stables~
+The scents of hay, oats, oil and horses fill the air.  To either side of
+an aisle large enough for a horse to pass are four stalls.  Each stall is
+lined with fresh straw and has a trough for feed and water.  In the rear of
+the stable is a room set aside for tack, food and other equipment.  
+~
+0
+D 2
+D0
+~
+~
+3 3
+1 0 58298
+D1
+~
+~
+3 3
+1 0 58299
+D2
+~
+~
+1 1
+1 0 58203
+S
+#58206
+The Common Room of the Wild Rose~
+The ceiling of this room stretches high above the rest of the common
+room, giving it an air of roominess.  A large chandelier of rosewood hangs
+from the high ceiling, dispatching even the most hardy of shadows.  The
+lower parts of the room are lit by lanterns that are placed strategically
+along the paneled walls.  A number of circular tables are scattered across
+the room.  A huge, stone fireplace is situated on the back wall of the room,
+providing warmth when necessary.  Near the fireplace is a large, polished
+bar of rosewood.  Where most nights, the Inn's owner, Horace, can be found
+behind it.  On the wall opposite is a set of stairs that leads to the rooms
+upstairs.  A doorway near the stairs leads to the kitchens.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58207
+D2
+~
+~
+3 3
+1 0 58202
+D4
+~
+~
+1 1
+1 0 58208
+S
+#58207
+Kitchens of the Inn of the Wild Rose~
+This is easily the busiest room in the entire inn.  Pleasant smells waft
+through the air.  A large oven sits to one side, along with the fireplace. 
+In the center of the room is a large table with a cutting board.  This is
+where many of the meals for the inn are prepared.  Above the table hang
+various pots, pans and other cooking implements.  Off to one side, there are
+shelves full of ingredients for meals such as flour, sugar, salt and
+vegetables.  Back to the south is the common room and the rest of the inn.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58270
+D2
+~
+~
+1 1
+1 0 58206
+D3
+~
+~
+1 1
+1 0 58288
+S
+#58208
+Top of the stairs~
+Finely crafted wooden stairs lead to the top of the stairs and a
+hallway.  On either side of the hallway there are doors that lead to rooms. 
+At the end of the hall is a window that allows in some light.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 58289
+D1
+~
+~
+1 1
+1 0 58210
+D2
+~
+~
+0 0
+0 0 58291
+D3
+~
+~
+1 1
+1 0 58209
+D4
+~
+~
+1 1
+1 0 58292
+D5
+~
+~
+1 1
+1 0 58206
+S
+#58209
+A cozy room in the Inn~
+This room is small and cozy.  A small bed sits under a window with bright
+curtains.  The bed is covered with a brightly colored bedspread.  A bowl of
+water rests on a stand with a pitcher.  A small wardrobe rests beside the
+washstand, ready to hold clothing and other goods.  Several hooks can be
+found on the wall beside the door for cloaks and coats.  The room is lit by
+several lamps.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58208
+S
+#58210
+A cozy room in the Inn~
+This room is small and cozy.  A small bed sits under a window with bright
+curtains.  The bed is covered with a brightly colored bedspread.  A bowl of
+water rests on a stand with a pitcher.  A small wardrobe rests beside the
+washstand, ready to hold clothing and other goods.  Several hooks can be
+found on the wall beside the door for cloaks and coats.  The room is lit by
+several lamps.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58208
+S
+#58211
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the north is one of
+the largest houses within the town of Solanje, as well as one of the best
+made.  It is a wood home that stands two stories.  Two windows rest on
+either side of the door, allowing for daylight to enter the home or the warm
+of light to be seen from the outside.  Beautiful rose bushes flank the door.
+A small plaque near the door reads "Mayor".  And to the south is the
+library.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58212
+D1
+~
+~
+0 0
+0 0 58201
+D2
+~
+~
+1 1
+1 0 58222
+D3
+~
+~
+0 0
+0 0 58218
+S
+#58212
+Inside the Mayor's house~
+This home is brightly light by lamps that hang in various parts of the
+room.  A warm and cheery light comes from the fireplace on a cold evening. 
+Brightly colored curtains hang from the windows that can be found to either
+side of the door.  Two comfortable, stuffed chairs sit in front of the
+fireplace with a small wooden table between them.  Across from the two
+chairs is a small couch.  This house looks well lived in.  A small hallway
+at the back of the room leads to the rest of the house.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 58211
+S
+#58213
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  A small tidy house rests
+along the north side of the road.  The whitewashed walls are clean and in
+good repair.  Warm light can be seen coming from the front window at almost
+any hour of the day.  Herbs hang from the front window, marking this as the
+house of the town Wise Woman.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58214
+D1
+~
+~
+0 0
+0 0 58220
+D3
+~
+~
+0 0
+0 0 58201
+S
+#58214
+The home of the Wise Woman~
+This room appears to take up a good deal of the front of the house.  On
+one side of the room rests a large fireplace with a pot hanging over the
+fire.  On the opposite side of the room there is a small bed, where patients
+can sit or lay.  Near the cot is a large set of shelves, covered in a
+variety of things - bottles of liquids, jars of salves, boxes of powders. 
+Each one is marked in a precise hand, telling what is inside the container. 
+Rolls of bandages and other healing tools share the shelves with the
+medicines.  Herbs in various states of drying can be seen hanging from the
+walls and ceiling.  A door at the back of the room leads to the rest of the
+house.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58215
+D2
+~
+~
+1 1
+1 0 58213
+S
+#58215
+A small, tidy room~
+This small but tidy room would appear to be the sleeping area of the Wise
+Woman.  A small bed rests beneath a curtained window on the west wall of the
+room.  A small dresser and a wash basin rest on the north wall of the room. 
+A large, round rug covers most of the floor.  A door on the east wall leads
+out into a small herb garden.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58216
+D2
+~
+~
+1 1
+1 0 58214
+S
+#58216
+A beautiful herb garden~
+A small white fence surrounds the herb garden on three sides.  The herb
+garden is blanketed in a sense of serenity.  Many fragrances reach the nose
+- fresh dirt, mud, and many herbs.  Herbs of many types are planted
+throughout the garden and are lovingly tended.  Tiny wooden signs, marked in
+a precise hand, tell what each herb is.  To the west is a door that leads to
+the inside of the Wise Woman's house.  
+~
+0
+0 2
+D3
+~
+~
+1 1
+1 0 58215
+S
+#58217
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  Small, well-kept houses
+can be found to either side of the path.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58201
+D1
+~
+~
+1 1
+1 0 58227
+D2
+~
+~
+0 0
+0 0 58226
+D3
+~
+~
+1 1
+1 0 58225
+S
+#58218
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the south of the
+path, a small whitewashed building can be found.  A small plaque on the door
+reads "bank".  
+~
+0
+0 0
+D0
+~
+~
+2055 2055
+2 0 58286
+D1
+~
+~
+0 0
+0 0 58211
+D2
+~
+~
+1 1
+1 0 58219
+D3
+~
+~
+0 0
+0 0 58223
+S
+#58219
+The bank of Solanje~
+There is not much in the way of furnishings in this room.  A large wooden
+desk sits at the back of the room.  Behind the desk there is a large
+comfortable chair, in which, a pretty young woman sits.  Behind the desk and
+chair a safe can be found in the wall.  In front of the desk, there are two
+comfortable seats for those who have come to visit the Bank of Solanje.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58218
+S
+#58220
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the north lies the
+butcher shop.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58221
+D1
+~
+~
+0 0
+0 0 58256
+D2
+~
+~
+1 1
+1 0 58252
+D3
+~
+~
+0 0
+0 0 58213
+S
+#58221
+A busy butcher shop~
+This is said to be one of the busiest shops in the small town of Solanje.
+The only furniture in this shop are several large counters with glass
+fronts.  Behind the glass lay various fresh cuts of meat.  A portly man and
+a young man, most likely his son, work busily to fill the orders of the men
+and women who come into their shop.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 58220
+S
+#58222
+A small library~
+Books line the walls of this small library, from floor to ceiling.  In
+the center of the room there are six small bookshelves stuffed with books. 
+Lanterns filled with oil hang from the ends of the bookshelves, providing a
+warm light to read with.  Comfortable chairs dot the room, as do small
+tables for study.  A rolling ladder is connected to the bookshelves along
+the walls, to help people reach the highest shelves.  Alone the back wall of
+the room is the check out desk.  Behind it, a little old woman waits to help
+those in need.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58211
+S
+#58223
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the north a building
+with a sign showing a spool of thread and a needle can be seen.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58224
+D1
+~
+~
+0 0
+0 0 58218
+D2
+~
+~
+0 0
+0 0 58261
+D3
+~
+~
+0 0
+0 0 58296
+S
+#58224
+A tailor's shop~
+Bolts of fabric in a variety of colors and textures cover at least half
+of this room.  Domani silks rest beside stout Andoran wool and even the
+thick brocaded materials of Shienar.  On the other side of the room,
+seamstress dummies stand, clothed in creations that are in various stages of
+creation.  Two small dressing rooms are off to the north.  A full sized
+mirror sits between the two rooms.  To the right of the dressing rooms is a
+bench for people to sit on.  In front of the dressing room is a small round
+platform, designed for a person to stand on during a fitting.  A large
+basket, full to the brim with sewing equipment rests on the floor near the
+platform.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 58223
+S
+#58225
+A small house~
+This house is small, but lovingly kept by those who live within its
+walls.  A worn love seat rests against one wall with a small wooden table in
+front of it.  Toward the back of the house is the kitchen and a staircase
+leads up to the rest of the house.  A large window is open to allow the
+sunlight in the house, as well as to show the view of the tidy front lawn.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58217
+S
+#58226
+A crossroads~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  Here the path moving
+from the center of town meets a another stone path that runs east and west. 
+Small, well-kept houses can be found to either side of the crossroads.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58217
+D1
+~
+~
+0 0
+0 0 58230
+D2
+~
+~
+0 0
+0 0 58228
+D3
+~
+~
+0 0
+0 0 58229
+S
+#58227
+A small house~
+This house is small, but lovingly kept by those who live within its
+walls.  A worn love seat rests against one wall with a small wooden table in
+front of it.  Toward the back of the house is the kitchen and a staircase
+leads up to the rest of the house.  A large window is open to allow the
+sunlight in the house, as well as to show the view of the tidy front lawn.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58217
+S
+#58228
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  Small, well-kept houses
+can be found to either side of the path and a crossroads can be found back
+to the north.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58226
+D1
+~
+~
+1 1
+1 0 58267
+D2
+~
+~
+0 0
+0 0 58273
+D3
+~
+~
+1 1
+1 0 58266
+S
+#58229
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58231
+D1
+~
+~
+0 0
+0 0 58226
+D3
+~
+~
+0 0
+0 0 58235
+S
+#58230
+A stone path leading from the crossroads~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58234
+D2
+~
+~
+1 1
+1 0 58232
+D3
+~
+~
+0 0
+0 0 58226
+S
+#58231
+a small, noisy pub~
+Although there are a number of strategically placed lamps around the
+room, the lighting of the room is dim due to the fact that a number of the
+lamps are dark.  Several round tables, covered in scratches and worn smooth
+from use, are scattered throughout the room.  At the back of the room there
+is a small, but well stocked bar, which from behind the bartender keeps an
+eye on his place.  A door to the left of the bar leads to the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58295
+D2
+~
+~
+1 1
+1 0 58229
+S
+#58232
+Public Gardens~
+A high hedge surrounds the entirety of the public gardens, broken only
+by a wrought tiny iron gate to the north.  Flowers and plants of every
+imaginable size, shape, color and scent can be found lining the stone paths
+that twine through the gardens.  In the near center of the gardens is a
+small fountain in the shape of a cherub.  Strategically placed along the
+path are stone benches.  Near each bench is a wrought iron lamp, providing
+light for those who wish to visit the gardens at any times.  
+~
+0
+0 2
+D0
+~
+~
+1 1
+1 0 58230
+D1
+~
+~
+4097 4097
+1 0 58233
+S
+#58233
+A hidden nook~
+This little hidden nook is quiet and peaceful.  The hedges seem to block
+out everything.  There is just enough space in the nook for a small stone
+bench, built just for two.  It is the perfect spot to read quietly or sneak
+a kiss or two!  
+~
+0
+0 2
+D3
+~
+~
+4097 4097
+1 0 58232
+S
+#58234
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  To the south is a two story
+shop.  The sign hanging from the front of the building is a shoe, marking
+this as a cobbler's shop.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58240
+D1
+~
+~
+0 0
+0 0 58243
+D2
+~
+~
+1 1
+1 0 58242
+D3
+~
+~
+0 0
+0 0 58230
+S
+#58235
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58236
+D1
+~
+~
+0 0
+0 0 58229
+D2
+~
+~
+1 1
+1 0 58237
+D3
+~
+~
+0 0
+0 0 58248
+S
+#58236
+An armor shop~
+Armor of various shapes and sizes hang on the walls of this shop.  Off
+to one side, on a counter, lay the necessary tools for working with armor. 
+Behind the counter often stands a very large man, with very large arms who
+works on the armor.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 58235
+D5
+~
+~
+4103 4103
+2 0 58239
+S
+#58237
+A weapon shop~
+A variety of weapons line the walls - swords, pole arms, spear, axes and
+bows.  Not all of them are from Arad Doman.  A variety of knives and daggers
+can be seen resting within a display case.  The storekeeper stands waiting
+behind the display case.  A curtain behind the display case leads into a
+storage area.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58235
+D1
+~
+~
+1 1
+1 0 58238
+S
+#58238
+A storage room~
+This room is filled with boxes.  Upon closer inspection, it can be seen
+that some of the boxes hold a variety of weapons from swords to pole arms
+and daggers to axes.  Other boxes are empty or half packed, as if an order
+is getting ready to be shipped out.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58237
+S
+#58239
+A small cramped place~
+This room is tiny, no more than a crawl space.  It is dirty, dusty and
+cramped.  It looks like it has been home to more than one mouse.  
+~
+0
+0 0
+D4
+~
+~
+4103 4103
+2 0 58236
+S
+#58240
+A cobbler's shop~
+This small building is full of shoes, boots, and slippers of all shapes,
+sizes and colors, arranged on low shelves along the three outer walls. 
+Several small shelves are also in the center of the room.  Along the back of
+the building is a counter when an elderly couple sits, either making or
+repairing footwear.  The counter is covered with the various tools of the
+cobbling trade.  A staircase upward to where the cobblers live, is hidden
+behind a curtain that is behind the counter.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 58234
+D4
+~
+~
+1 1
+1 0 58241
+S
+#58241
+The cobblers living quarters~
+Unlike the store below, the living quarters of the cobblers is very neat,
+and open.  A large rug covers the floor.  A couch, a small wooden table and
+two comfortable chairs can be found beneath a window.  On the far side of
+the room is what looks to be a small, but serviceable kitchen.  A large
+wooden divider separates the living room/kitchen area from the bedroom.  
+~
+0
+0 0
+D5
+~
+~
+1 1
+1 0 58240
+S
+#58242
+The Cooper's Shop~
+There are barrels of all shapes and sizes spread out along three walls of
+this shop, as well as the floor.  One can also find buckets, butter churns,
+hogsheads, pins, puncheons and many other items that were made by the Cooper
+and his sons.  In the middle of the room and the back of the room, the
+various tools of the Cooper can be found.  Some of these items are for
+holding dry goods, others are made for holding wet goods.  In the middle of
+the room and the back of the room, the various tools of the Cooper can be
+found.  A door along the back wall leads to a supply room.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58234
+S
+#58243
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from a crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58244
+D2
+~
+~
+0 0
+0 0 58245
+D3
+~
+~
+0 0
+0 0 58234
+S
+#58244
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from a crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  To the east, the
+glassblowers shop can be found.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58253
+D1
+~
+~
+1 1
+1 0 58246
+D2
+~
+~
+0 0
+0 0 58243
+S
+#58245
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from a crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  To the east, the weaver can
+be found 
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58243
+D1
+~
+~
+1 1
+1 0 58247
+D2
+~
+~
+0 0
+0 0 58258
+S
+#58246
+The shop of a Glassblower~
+The front of the building is open to the stone covered path.  This
+building is large and the ceiling rises high above the floor.  In the center
+of the room is the dome-shaped furnace.  A fire burns hot inside the
+furnace.  A variety of tools lay on a table near the furnace - a
+glassblowing rod, shears, tongs and an iron plate.  A bucket of water sits
+on the floor near the table.  Beautifully done pieces, glasses to
+knickknacks can be seen resting on shelves to one side of the building, far
+from the heat of the fire.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58244
+S
+#58247
+The Weaver~
+Several looms of various sizes take up the space along one of the walls
+of this shop.  Projects in various stages of completion are hung on the
+looms.  Finished works are scattered around the room.  Some lay flat on
+tables or over chairs and others are rolled up, ready for transport from
+Solanje to another city in Arad Doman or the rest of the world.  On the
+floor beside the looms are large baskets of many colored yarn, used to make
+the weaver's products.  The clack-clack of the looms can be heard even from
+outside of the shop.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58245
+S
+#58248
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  Things get quieter the
+further north traveled along this road, which ends in a cemetary.  
+~
+0
+0 14
+D0
+~
+~
+1 1
+1 0 58249
+D1
+~
+~
+0 0
+0 0 58235
+D2
+~
+~
+0 0
+0 0 58250
+S
+#58249
+Cemetery of Solanje~
+This is perhaps one of the quietest and loneliest places in Solanje, the
+town cemetery.  It is surrounded on all sides by a tall wrought iron fence. 
+Neatly arranged rows of headstones can be seen from the cemetery's entrance.
+Some of the headstones appear to be very old, possibly dating back to the
+city's birth.  Other headstones are much newer.  White ribbons and flowers
+decorate some of the graves.  Large trees dot the landscape, adding a sense
+of peace to this place.  
+~
+0
+0 2
+D2
+~
+~
+1 1
+1 0 58248
+S
+#58250
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads south from the crossroads.  It winds lazily in between the
+shops that can be found on either side of the path.  Every so often, a large
+tree can be found, providing some shade along the path.  A flower shop can
+be found to the west side of the path.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58248
+D1
+~
+~
+0 0
+0 0 58265
+D2
+~
+~
+0 0
+0 0 58263
+D3
+~
+~
+1 1
+1 0 58251
+S
+#58251
+A Flower shop~
+This store is a riot of color and scent.  Fresh flowers of all shapes,
+sizes, colors and scents can be found sitting in vases and other containers
+all over the room.  A check out area sits at the front of the store.  There
+are supplies for wrapping up flowers and creating arrangements on a table
+beside the check out area.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58250
+S
+#58252
+The bakery~
+Delicious scents waft through the air.  Fresh baked breads, pastries and
+other goods sit on small tables at the front of this business.  At the back
+of the store, three ovens - one large oven and two smaller ovens - can be
+seen.  A flour covered table sits in front of the three ovens.  All the
+implements of baking that a person could need sit on the table, ready to be
+used.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58220
+S
+#58253
+A stone path between shops~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads south from the crossroads.  It winds lazily in between the
+shops that can be found on either side of the path.  Every so often, a large
+tree can be found, providing some shade along the path.  A perfume shop can
+be found to the west.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58260
+D2
+~
+~
+0 0
+0 0 58244
+D3
+~
+~
+1 1
+1 0 58254
+S
+#58254
+A Perfume Parlor~
+A cloud of assorted fragrances hangs in the air of this shop.  Shelves
+have been built directly into two of the walls.  Each of those shelves holds
+many tiny bottles, marked in a neat hand, each filled with a unique scent. 
+Bars of soap and scented satchels sit in baskets on tables that are found at
+the center of the shop.  Small signs rest on the table, telling the customer
+the name of the scent.  A connecting room in the back of the parlor leads to
+where some of the fragrances are made, and all are stored.  A small set of
+stairs between the rooms leads to living quarters above.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58253
+D4
+~
+~
+1 1
+1 0 58255
+S
+#58255
+Living quarters above the perfume parlor~
+Down the steps just outside the door, the perfume parlor can be found. 
+Hints of different fragrances waft up the stairs and into the parlor owner's
+living quarters.  A large bed, covered in a handmade quilt, sits on the far
+wall.  A large wooden trunk rests at the foot of the bed.  A wardrobe and a
+wash basin sit on the wall nearest the bed.  A small kitchen area is on the
+other side of the room.  A couch and a couple of comfortable chairs can be
+found near the middle of the room.  A small table sits between the couch and
+chairs.  
+~
+0
+0 0
+D5
+~
+~
+1 1
+1 0 58254
+S
+#58256
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the south lies the
+candy shop.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58268
+D2
+~
+~
+1 1
+1 0 58257
+D3
+~
+~
+0 0
+0 0 58220
+S
+#58257
+A Sweets Shop~
+This shop is the favorite among the children of Solanje.  An "L" shaped
+counter sits along the south and west walls.  Candies of all shapes, sizes,
+colors and tastes can be found on the shelves of the counters.  Another
+small counter sits on the west wall.  It too is full of many different
+candies, some of these from outside of Arad Doman.  A door to the east leads
+to a small kitchen and storage area where much of the candy is made and
+stored.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58256
+S
+#58258
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from a crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  To the west the pottery shop
+can be found.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58245
+D3
+~
+~
+1 1
+1 0 58259
+S
+#58259
+A Pottery Shop~
+The most prominent features of this building are the potter's wheel that
+is set up in one corner and the kiln that is set up in the opposite corner. 
+Between the two is a high bench covered with paint and paint brushes.  A
+couple of unfinished pieces sit on the bench alongside a few commissioned
+pieces that are awaiting pick up.  Other pieces for general purchase are
+arranged on shelves and tables at the front of the store.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58258
+S
+#58260
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from a crossroads.  It winds lazily in between the shops that
+can be found on either side of the path.  Every so often, a large tree can
+be found, providing some shade along the path.  To the east, a beauty
+product shop can be found.  
+~
+0
+0 14
+D1
+~
+~
+1 1
+1 0 58262
+D2
+~
+~
+0 0
+0 0 58253
+S
+#58261
+A Domani Dress Shop~
+This shop caters exclusively to women.  Bolts of every imaginable color
+of Domani silk are spread out over long, low tables.  Several sewing dummies
+are lined up in the back third of the shop.  The clothing on them are in the
+different stages of completion.  Three small areas are curtained off,
+forming a place where women can try on the clothing in the shop.  The latest
+fashions of Arad Doman sit on the racks that line the middle of the store.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 58223
+S
+#58262
+A Beauty Product Shop~
+The shelves in this store are covered with every imaginable beauty
+product that a woman, and in some cases a man, could need.  There are
+shelves for lotions.  There are shelves for eye makeup and lip makeup. 
+There is even a shelf dedicated to beauty marks of all shapes and sizes.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58260
+S
+#58263
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads south from the crossroads.  It winds lazily in between the
+shops that can be found on either side of the path.  Every so often, a large
+tree can be found, providing some shade along the path.  A wine shop can be
+found on the east side of the road.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58250
+D1
+~
+~
+1 1
+1 0 58264
+S
+#58264
+A spirits shop~
+Wine and other spirits from all over the world is stored in racks that
+have been strategically placed around the room.  Off to one side, a table
+has been set up.  A young woman stands behind the table, offering samples of
+wines and other spirits to the customers.  A small room off of the main room
+holds the extra spirits.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58263
+S
+#58265
+A shop of oddities~
+This strange shop is ran by an eccentric old man.  It seems almost out of
+place compared to the rest of Solanje.  Strange and unusual objects can be
+found on the walls and on the tables, supposedly from all over the world,
+even Shara.  The shop is so small that the way the tables are placed, give
+it a cramped appearance.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 58250
+S
+#58266
+A small house~
+This house is small, but lovingly kept by those who live within its
+walls.  A worn love seat rests against one wall with a small wooden table in
+front of it.  Toward the back of the house is the kitchen and a staircase
+leads up to the rest of the house.  A large window is open to allow the
+sunlight in the house, as well as to show the view of the tidy front lawn.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58228
+S
+#58267
+A small house~
+This house is small, but lovingly kept by those who live within its
+walls.  A worn love seat rests against one wall with a small wooden table in
+front of it.  Toward the back of the house is the kitchen and a staircase
+leads up to the rest of the house.  A large window is open to allow the
+sunlight in the house, as well as to show the view of the tidy front lawn.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58228
+S
+#58268
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the south lies the
+toy shop.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58276
+D2
+~
+~
+1 1
+1 0 58269
+D3
+~
+~
+0 0
+0 0 58256
+S
+#58269
+A toy shop~
+Toys of every imaginable size, shape and color can be found in this
+store.  One shelved wall is filled with dolls, from rag dolls to porcelain,
+and a variety of stuffed animals.  Lions, tigers and bears, oh my!  Another
+wall's shelves are covered with an assortment of wooden jigsaw puzzles and
+little wood and metal brain teasers.  Wooden weapons and shields sit in
+racks in the middle of the store.  One corner of the room has been set aside
+for the creation of the many different toys in the room.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58268
+S
+#58270
+Behind the Inn of the Wild Rose~
+This small open area, behind the Inn of the Wild Rose, is ringed by a
+small woods.  In the center is a white, wooden gazebo where patrons can sit
+and enjoy the breeze.  Of to one side is a small well.  A small stone path
+leads through the woods to a small section of beach.  
+~
+0
+C 2
+D0
+~
+~
+0 0
+0 0 58271
+D2
+~
+~
+1 1
+1 0 58207
+S
+#58271
+A small wooded area~
+It is peaceful here in this small woods.  Bird song can be heard from all
+around, as well as familiar animal sounds.  The sun dapples the ground. 
+Through the relative quiet, the sound of waves lapping the shore can be
+heard.  A small stone path leads further into the small wooded area.  
+~
+0
+C 3
+D0
+~
+~
+0 0
+0 0 58272
+D2
+~
+~
+0 0
+0 0 58270
+S
+#58272
+A tiny stretch of beach~
+The lapping of the waves along the beach is louder here.  White sand
+covers the ground, starting where the woods dwindle away and stretch out as
+far as the eye can see in either direction.  A cool breeze blows off the
+water.  Back to the south, the Inn of the Wild Rose can be seen above the
+trees.  
+~
+0
+C 21
+D2
+~
+~
+0 0
+0 0 58271
+S
+#58273
+A stone path between houses~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the south the gates
+of the town of Solanje can be seen.  
+~
+0
+C 14
+D0
+~
+~
+0 0
+0 0 58228
+D2
+~
+~
+0 0
+0 0 58274
+S
+#58274
+The gates of Solanje~
+A stone path of multi-colored stones and perhaps a few seashells here and
+there leads from the center of town.  This is the point where most people
+enter and leave Solanje.  A small guard station rests to one side of the
+path.  The stone path leads past the guard station and the gates of Solanje
+and out into the countryside.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 58273
+D2
+~
+~
+1 1
+1 0 58275
+D3
+~
+~
+0 0
+0 0 58293
+S
+#58275
+Outside of Solanje~
+Not much to see out in the countryside of Arad Doman, but grass.  A glint
+of light to the west is the only indication of the nearby ocean.  A stone
+path leads north into the town of Solanje and south into the countryside. 
+Several farms can be seen off of the road in the grass.  
+~
+0
+C 14
+D0
+~
+~
+1 1
+1 0 58274
+D2
+~
+~
+0 0
+0 0 58279
+S
+#58276
+A stone path between buildings~
+A path of multi-colored stones and perhaps a few seashells here and
+there, leads from the center of town.  It winds lazily in between the houses
+that can be found on either side of the path.  Every so often, a large tree
+can be found, providing some shade along the path.  To the east, the gates
+of Solanje can be found.  
+~
+0
+C 14
+D1
+~
+~
+0 0
+0 0 58277
+D3
+~
+~
+0 0
+0 0 58268
+S
+#58277
+The Gates of Solanje~
+A stone path of multi-colored stones and perhaps a few seashells here and
+there leads from the center of town.  This is the point where most people
+enter and leave Solanje.  A small guard station rests to one side of the
+path.  The stone path leads past the guard station and the gates of Solanje
+and out into the countryside of Arad Doman.  
+~
+0
+C 14
+D1
+~
+~
+0 0
+0 0 58278
+D2
+~
+~
+1 1
+1 0 58294
+D3
+~
+~
+0 0
+0 0 58276
+S
+#58278
+Outside of Solanje~
+There isn't much to see in the countryside of Arad Doman, but grass.  The
+stone path turns into a road.  If the road is followed northwest, it leads
+to the capital of Arad Doman, Bandar Eban.  If the road is followed
+southwest, it will eventually lead to Tarabon.  
+~
+0
+C 14
+D3
+~
+~
+0 0
+0 0 58277
+S
+#58279
+The road outside of Solanje~
+The road here suddenly switches from a dirt road into a stone path.  The
+small town of Solanje is just becoming visible from here.  
+~
+0
+C 14
+D0
+~
+~
+0 0
+0 0 58275
+D1
+~
+~
+0 0
+0 0 58281
+D3
+~
+~
+0 0
+0 0 58280
+S
+#58280
+A dirt farm road~
+This road isn't much more than a dirt path with ruts from wagons that
+leads from the main road out of Solanje to a small farm house.  
+~
+0
+C 14
+D1
+~
+~
+0 0
+0 0 58279
+D3
+~
+~
+0 0
+0 0 58284
+S
+#58281
+A dirt farm road~
+This road isn't much more than a dirt path with ruts from wagons that
+leads from the main road out of Solanje to a small farm house.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58282
+D3
+~
+~
+0 0
+0 0 58279
+S
+#58282
+Outside a small farmhouse~
+In this small clearing rests a small farmhouse of stone.  Smoke puffs
+lazily from the chimney.  Chickens roam the yard in from of the small
+farmhouse.  A dog rests on the porch of the farmhouse, keeping an eye on
+those approaching his family's farm.  Behind the farmhouse the farmer's
+fields stretch out.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 58283
+D3
+~
+~
+0 0
+0 0 58281
+S
+#58283
+A small farmhouse~
+Two windows, dressed in curtains of yellow, frame the two windows on
+either side of the wooden, farmhouse door.  A fireplace rests along the back
+wall of the farmhouse, a large pot hanging over the fire.  A sturdy
+rectangle of a table rests in the center of the room.  This is where the
+farmer and his family take their meals.  Along two of the wall rest the
+large bed of the farmer and his wife, and the two smaller beds belonging to
+the farmer's children.  Brightly colored quilts decorate both of the beds.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 58282
+S
+#58284
+Outside a small farmhouse~
+In this small clearing rests a small farmhouse of stone.  Smoke puffs
+lazily from the chimney.  Chickens roam the yard in from of the small
+farmhouse.  A dog rests on the porch of the farmhouse, keeping an eye on
+those approaching his family's farm.  Behind the farmhouse the farmer's
+fields stretch out.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58280
+D3
+~
+~
+0 0
+0 0 58285
+S
+#58285
+A small farmhouse~
+Two windows, dressed in curtains of blue, frame the two windows on either
+side of the wooden, farmhouse door.  A fireplace rests along the back wall
+of the farmhouse, a large pot hanging over the fire.  A sturdy rectangle of
+a table rests in the center of the room.  This is where the farmer and his
+family take their meals.  Along two of the wall rest the large bed of the
+farmer and his wife, and the two smaller beds belonging to the farmer's
+children.  Brightly colored quilts decorate both of the beds.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 58284
+S
+#58286
+A tiny jailhouse~
+This building is the small jail house of Solanje.  By the look of things,
+it probably doesn't see much business.  With the exception of the occasional
+stay by someone who has had a little to much to drink at the Inn or the pub.
+It has only one holding cell.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 0 58287
+D2
+~
+~
+2055 2055
+2 0 58218
+S
+#58287
+A tiny jail cell~
+This tiny room is the one holding cell in Solanje.  Mainly it is reserved
+for the occasional person who ties on one to many in the inn or at the pub.
+It has a cot in one corner and a chamber pot under the cot.  
+~
+0
+0 0
+D2
+~
+~
+7 7
+2 0 58286
+S
+#58288
+Pantry of the Inn of the Wild Rose~
+This small room is filled with the goods necessary for the cook to make
+the fine meals served at the Inn of the Wild Rose.  Large bags of sugar and
+flower rest on the floor.  Herbs hang from the ceiling in various stages of
+dryness.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58207
+S
+#58289
+A hallway in the Inn~
+On either side of the hallway there are doors that lead to the rooms for
+patrons.  A couple of lovely pictures are placed strategically along the
+walls.  At the end of the hall is a window that allows in some light.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 58290
+D2
+~
+~
+0 0
+0 0 58208
+S
+#58290
+A storage closet~
+This tiny room is a storage closet.  It is filled to the brim with sheets
+for the beds and cleaning supplies.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 58289
+S
+#58291
+A small sitting room~
+This room is brightly lit and very inviting.  Several small bookshelves
+rest along the walls, full of books.  A small table rests in the middle of
+the room.  A large vase of wild roses sits on the table, at its center. 
+Several chairs and a small sofa are placed around the small table, allowing
+patrons in the Inn to visit with each other, should they desire it.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 58208
+S
+#58292
+The roof of the Inn~
+A trap door in the ceiling of the floor below leads to the roof of the
+Inn of the Wild Rose.  From this point, the whole of the town can be seen
+spread out below.  To the west, a hint of the ocean can be seen from here. 
+Gentle grasslands dotted with farms can be seen tot he east.  
+~
+0
+0 0
+D5
+~
+~
+1 1
+1 0 58208
+S
+#58293
+A small guardhouse~
+This small building is a guardhouse for the town of Solanje.  At any time
+of the day or night, two men can be found here, keeping an eye on the road
+that leads in and out of Solanje.  A small table and two wooden chairs rest
+off to one side of the room.  A deck of cards rests in the center of the
+table.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 58274
+S
+#58294
+A small guardhouse~
+This small building is a guardhouse for the town of Solanje.  At any time
+of the day or night, two men can be found here, keeping an eye on the road
+that leads in and out of Solanje.  A small table and two wooden chairs rest
+off to one side of the room.  A deck of cards rests in the center of the
+table.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 58277
+S
+#58295
+Game Room~
+Pipe smoke lays thick on the air in this room.  A large circular table,
+surrounded by chairs, dominates the room.  A small tray in the center of the
+table holds ash trays, dice and a worn deck of cards.  A smaller table in
+the room has been set aside for board and tile games like dominoes.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 58231
+S
+#58296
+A small park~
+The stone path leads to a small park.  Lush green grass carpets the
+ground, just perfect for a picnic.  Trees dot the park, providing shade
+beneath their leaves.  People of all ages can be seen in the park.  The
+sounds of conversation and children's laughter can be heard from all sides. 
+The stone path continues to the north, to stop at the edge of a duck filled
+pond.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 58297
+D1
+~
+~
+0 0
+0 0 58223
+S
+#58297
+A duck filled pond~
+Lush green grass surrounds a good sized pond.  Ducks and ducklings float
+and swim on the tranquil waters, softly quacking to one another.  There are
+benches scattered along the edges of the pond where people can watch the
+ducks swim on the pond.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 58296
+S
+#58298
+Tack Room~
+The scents of horses, leather oil, oats and manure fill the air.  Bags of
+oats are stacked up against a wall.  Saddles and other bits of tack can be
+found through out the room.  A shovel rests along the wall near the door, a
+pitchfork right beside it.  
+~
+0
+D 2
+D2
+~
+~
+3 3
+1 0 58205
+S
+#58299
+Horse Stall~
+Fresh hay lines the floor of this stall.  A trough, for food and water,
+can be found along the back wall of the stall, full for the inhabitant of
+the stall.  
+~
+0
+D 2
+D3
+~
+~
+3 3
+1 0 58205
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 58202 0 1
+D 0 58205 0 1
+D 0 58205 1 1
+D 0 58206 2 1
+D 0 58218 0 2
+D 0 58236 5 2
+D 0 58239 4 2
+D 0 58286 0 2
+D 0 58286 2 2
+D 0 58287 2 2
+D 0 58298 2 1
+D 0 58299 3 1
+O 0 58201 0 58201
+M 0 58202 5 58204 5
+M 0 58202 5 58204 5
+M 0 58202 5 58204 5
+M 0 58202 5 58204 5
+M 0 58202 5 58204 5
+M 0 58201 1 58204 1
+M 0 58203 1 58299 1
+S
+
+
+
+#SHOPS
+58201 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,2353 @@
+#AREADATA
+Name Altaran Village~
+Builders Lise~
+VNUMs 5100 5199
+Credits Altaran Village~
+Security 7
+Low 30
+High 50
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#5101
+villager young child boy~
+{wa {by{Boun{bg b{Bo{by{x~
+A {by{Boun{bg b{Bo{by{x runs across the street, chasing after his friends.
+~
+This small boy is one of several young children that can be seen darting
+about the streets of the village, playing with their friends.  Like many of
+the other boys of his age in the local area, this boy wears a short coat and
+breeches made of colorfully dyed wool and plain yet robust leather shoes.  
+~
+altaran~
+AG 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 5
+0 0 small 'flesh'
+#5102
+villager young child girl~
+{wa {my{Moun{mg g{Mir{ml{x~
+A {my{Moun{mg g{Mir{ml{x dashes though the street, chasing after her friends.
+~
+This small girl is one of several young children that can be seen rushing
+around the village streets, playing with their friends.  Like many of the
+other girls of her age in the local area, this girl wears a simple dress
+made of colorfully dyed wool and plain yet sturdy leather shoes.  
+~
+altaran~
+AG 0 0 0
+31 21 16d16+961 31d10+100 4d5+15 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 4
+0 0 small 'flesh'
+#5103
+villager elderly man~
+{wan {ce{Clderl{cy m{Ca{cn{x~
+An {ce{Clderl{cy v{Cillage{cr{x totters slowly down the street.
+~
+This elderly man is one of the many people that dwell within this small
+village.  His roughly woven garb is very typical of this region; he wears a
+long vest made of colorful wool over a plain tunic.  His baggy breeches are
+held up by a thin leather belt upon which hangs a sheathed knife, the type
+often used by Altarans for dueling.  
+~
+altaran~
+AGH 0 0 0
+36 26 19d20+1296 36d10+100 4d10+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 14
+0 0 medium 'flesh'
+#5104
+villager elderly woman~
+{wan {ce{Clderl{cy w{Coma{cn{x~
+An {ce{Clderl{cy v{Cillage{cr{x totters slowly down the street.
+~
+This elderly woman seems to be one of the villagers.  Her roughly woven
+garb is very typical of this region; she wears a pale colored dress with a
+very deep and narrow neckline.  Her skirt has been gathered up over one knee
+to expose the brightly colored petticoat beneath it.  Worn around her neck
+is a marriage dagger which lacks the fine materials and craftsmanship of the
+more expensive ones worn by richer folks.  
+~
+altaran~
+AGH 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 14
+0 0 medium 'flesh'
+#5105
+villager man~
+{wa {gv{Gillage{gr{x~
+One of the {gv{Gillager{gs{x whistles merrily to himself as he strolls down the street.
+~
+This man is one of the many people that reside in the village.  His
+coarsely woven attire is typical of this area; he wears a long vest made of
+colorfully dyed wool.  His baggy trousers are held up by a thin leather belt
+upon which hangs a sheathed knife, the type often used by Altarans for
+dueling.  
+~
+altaran~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#5106
+villager woman~
+{wa {yv{Yillage{yr{x~
+A {yv{Yillage{yr{x scuttles down the street, clutching a wicker basket in her hands.
+~
+This woman is one of the many people that inhabit the village.  Her
+coarsely woven apparel is typical of this area; she wears a pale colored
+dress with a deep and narrow neckline.  Her skirt has been gathered up to
+one knee exposing the brightly colored petticoat beneath it.  Worn around
+her neck is a marriage dagger which lacks the fine materials and
+craftsmanship of the more expensive ones worn by richer folks.  
+~
+altaran~
+AG 0 0 0
+39 29 20d20+1521 39d10+100 4d13+19 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 2
+0 0 medium 'flesh'
+#5107
+serving maid woman~
+{wa {Wse{Mrvi{Wng m{Mai{Wd{x~
+{wThis {Ww{Moma{Wn{w seems busy serving drinks to the inn's customers.{x
+~
+This serving maid is one of several people employed at the Three Bells
+Inn.  She wears a pale blue dress with a very deep and narrow neckline that
+leaves very little to the imagination.  Her skirt is gathered up to one knee
+exposing her white petticoat.  The serving maid wears a small white apron
+around her waist but it appears that is has been the target of a few
+patrons' drinks.  
+~
+altaran~
+AB 0 0 0
+41 31 21d21+1681 41d10+100 5d6+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 6
+0 0 medium 'flesh'
+#5108
+woman cook~
+{wa {cc{Coo{ck{x~
+This {cc{Coo{ck{x is preoccupied with her work as she darts feverishly around the kitchen.
+~
+This cook is one of several people employed at the Three Bells Inn.  The
+woman's long hair has been carefully tied back away from her face using a
+white headscarf.  She wears a pale blue-gray dress with a deep yet narrow
+neckline with her skirt gathered over one knee to expose her bright blue
+petticoat.  Worn over her clothing is a long white apron that is grimy from
+use.  
+~
+altaran~
+AB 0 0 0
+42 32 22d23+1764 42d10+100 5d7+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 2
+0 0 medium 'flesh'
+#5109
+tavern patron man~
+{wa {Dta{wve{Drn pa{wtr{Don{x~
+{wThis {Dm{wa{Dn{w sits alone at a table, drinking a tankard of ale.{x
+~
+This villager appears to be quite content to spend his time supping ale. The 
+man's clothing is typical of the attire worn by most of the men that live in 
+this village. He wears a long coat made of brightly dyed wool over his wide 
+sleeved shirt. His saggy trousers are held up by a thick leather belt in 
+which is sheathed a curved knife, the sort that Altarans often use for 
+dueling.
+~
+altaran~
+AB 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 6
+0 0 medium 'flesh'
+#5110
+farmer man~
+{wa {rf{Rarme{rr{x~
+A {rf{Rarme{rr{x carefully guides his {yhorse{x-{ydrawn cart{x down the street.
+~
+The style of garb this farmer wears is very typical of this region; he
+wears a long vest made of brightly colored wool over a wide sleeved shirt. 
+His loose-fitting trousers are held up by a wide cloth sash in which is
+sheathed a curved dagger.  Upon his head he wears a wide brimmed hat made of
+straw which is probably useful for keeping the sun out of his eyes.  
+~
+altaran~
+AG 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#5111
+peddler man~
+{wa {cp{we{Dd{cd{Dl{we{cr{x~
+{wA {cm{wa{Dn{w slinks down the street as if he is trying to avoid someone.{x
+~
+This peddler is probably comes from one of the nearby towns for he is
+dressed in a similar style of clothing worn by many of the men of this area.
+He wears a long vest made of brightly colored wool over a pale colored wide
+sleeved shirt.  His trousers are held up by a colorful sash in which a
+curved knife is sheathed.  Slung over the peddler's shoulder is a small
+leather satchel that jingles with coins as he moves.  
+~
+altaran~
+AG 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 16
+0 0 medium 'flesh'
+#5112
+man groom~
+{wa {ygroom{x~
+{wA {yman{w diligently sweeps the floor of the stable.{x
+~
+This groom is one of several people that work at the Three Bells Inn. 
+The man wears a wide sleeved shirt that is light gray in color and a pair of
+dark gray trousers.  Unlike the rest of the villagers, the long vest that
+this groom wears is made of leather rather than wool.  The old cloth cap
+that this man wears upon his head looks tattered and in need of either being
+repaired or replaced.  
+~
+altaran~
+AB 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 2
+0 0 medium 'flesh'
+#5113
+man bouncer~
+{wa{m b{Do{wun{Dc{mer{x~
+A {mb{Dou{wn{Dce{mr{x scans around the area as he looks for any troublemakers.
+~
+This large and intimidating man is a bouncer that works at the Three
+Bells Inn.  This man appears to be one of the villagers; his attire lacks
+the flamboyancy displayed by merchants that often frequent the inn.  The
+bouncer wears a long coat made of brightly colored wool over a wide sleeved
+shirt.  He wears a pair of baggy breeches that are held up by a thick
+leather belt.  Tucked into his belt is a curved knife housed in a leather
+sheath and a hefty wooden cudgel.  
+~
+altaran~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+EK 0 0 0
+stand stand male 3
+0 0 large 'flesh'
+#5114
+cook head woman~
+{wthe {ch{Cea{cd c{Coo{ck{x~
+The {ch{Cea{cd c{Coo{ck{x paces up and down the room, barking out orders to the other inn staff.
+~
+This intimidating woman is the head cook employed at the Three Bells Inn.
+The woman's long graying hair has been carefully tied back away from her
+face using a white headscarf.  She wears a pale blue-gray dress with a deep
+yet narrow neckline with her skirt gathered over one knee to expose the
+bright blue petticoat that she wears underneath.  Worn over her clothing is
+a long white apron that is grubby from use.  
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 2500
+0 0 medium 'flesh'
+#5115
+mayor man~
+{wthe {ym{Ya{Wy{Yo{yr{x~
+The {ym{Ya{Wy{Yo{yr{x sits at his desk, reading through some papers.
+~
+The mayor of this village is an old man with dark eyes and short brown
+hair that is graying at the temples.  He wears a long coat made of wool that
+has been dyed red over a white wide sleeved shirt.  He wears a pair of black
+loose-fitting trousers that are held up by a thin belt.  Tucked into his
+belt is a curved knife housed in a leather sheath.  
+~
+altaran~
+AG 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 115
+0 0 medium 'flesh'
+#5116
+merchant man~
+{wa {bm{Be{wr{Wch{wa{Bn{bt{x~
+{wA {bw{Be{wl{Wl{w-{bd{Br{we{Ws{ws{Be{bd m{Ba{Wn{w stands here, counting the money in his purse.{x
+~
+This flamboyantly attired gentleman is probably a merchant that is
+visiting the village.  He wears a pair of stylish breeches and a colorful
+long vest made of brocaded silk over a shirt made of fine white linen. 
+Slung over his shoulder is a silk coat upon a silver chain that looks to
+small for the man to wear properly; the coat is worn purely for decoration. 
+The merchant's boots look plain yet sturdy; they look like they are the work
+of a good craftsman.  Worn around this man's waist is a thick leather belt
+upon which a curved dagger is sheathed and a coin purse is hung.  
+~
+altaran~
+AG 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#5117
+woman baker~
+{wa{y b{Yake{yr{x~
+{wA {yw{Yoma{yn{w stands behind the shop counter.{x
+~
+The style of dress this baker wears is typical of the attire worn by most
+women of this village; the woman wears a dark green dress made of woven wool
+with a deep and revealing neckline that emphasizes the marriage dagger that
+she wears.  The baker's skirt has been gathered up to one knee to reveal a
+pale green petticoat that she is wearing underneath it.  The baker also
+wears a long white apron over her dress that appears to be dusty with flour.
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 2500
+0 0 medium 'flesh'
+#5118
+dapple gray horse mare~
+a {Dd{wa{Wpp{wl{De g{wr{Wa{wy {Dh{wo{Wr{ws{De{x~
+{wA {Dd{wa{Wpp{wl{De g{wr{Wa{wy {Dh{wo{Wr{ws{De{w occupies one of the stalls.{x
+~
+This dozy mare's coat is a like a mess of different patches of white and
+gray in varying shades.  In spite of the apparent laziness of this horse,
+she looks like sturdy and well-tempered individual.  
+~
+unique~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+AGV ACDEFJKQ large 'flesh'
+#5119
+scruffy brown donkey~
+a {ydonkey{x~
+{wA {yscruffy donkey{w stands here, idly chewing hay.{x
+~
+There is nothing out of the ordinary about this brown donkey.  The
+scruffy old animal appears to be content to spend his time idly chewing hay.
+~
+unique~
+AG 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AGV ACDEFJKQ large 'flesh'
+#5120
+tiny mouse~
+{wa {ym{Do{wu{Ds{ye{x~
+{wA {yt{Di{wn{yy m{Do{wu{Ds{ye{w scuttles along the floor.{x
+~
+At first this rodent appears to be just an average mouse with scruffy
+brown fur, but underneath the cute front created by this nimble little
+animal is crazy critter with a sharp set of teeth.  
+~
+unique~
+AG 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 pound
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+AHMV ABCDEF tiny 'flesh'
+#5121
+villager wise woman~
+{wa {rw{Ri{Ys{Re{r w{Ro{Ym{Ra{rn{x~
+{wA {rw{Ro{Ym{Ra{rn{w is sitting in an armchair, reading a book.{x
+~
+Although this woman's style of clothing is typical of the attire worn by
+most of the other women that live in this village, her pale hair and eyes
+suggest she does not originate from this area.  The woman wears a pale pink
+woolen dress that has a deep neckline.  The revealing cut of the dress
+emphasizes the marriage dagger that the woman wears.  Her dress has been
+gathered up over one knee to reveal a pink petticoat that she wears
+underneath.  The woman wears a thin belt made of red leather around her
+waist in which is tucked a dagger with a curved blade.  
+~
+andoran~
+ABab 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 28
+0 0 medium 'flesh'
+F gain B
+#5122
+weasel grubby man little~
+{wa {cw{Dease{cl{w-{cl{Dik{ce m{Da{cn{x~
+{wA {cg{Drubb{cy l{Dittl{ce m{Da{cn{w rummages around the cottage.{x
+~
+This man's appearance is reminiscent of a weasel or a stoat. His neatly 
+cropped brown hair and pale skin hint that he is not a local; both his 
+general appearance and his style of clothing are more typical of an Illianer 
+than an Altaran. He wears a plain shirt and breeches over which he wears a 
+long coat that reaches his knees. Upon his head this man wears a cloth cap 
+that has probably seen better days in the past.
+~
+illianer~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 4999
+0 0 medium 'flesh'
+#5123
+baker apprentice man young~
+{wa {yb{Yake{yr's a{Ypprentic{ye{x~
+{wA {yy{Youn{yg m{Ya{yn{w is busy sweeping the floor with a broom.{x
+~
+There does not seem to be anything unusual about this young man. His style 
+of clothing is typical of this village; he wears a long vest made of 
+brightly colored wool over a wide sleeved shirt. His voluminous trousers are 
+held up by long sash that is also made of colorfully dyed cloth. Over his 
+everyday clothing the young man wears a long white apron that is dusty with 
+flour.
+~
+altaran~
+AB 0 0 0
+49 39 25d25+2401 49d10+100 5d14+24 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 3
+0 0 medium 'flesh'
+#5124
+owner shopkeeper man~
+{wa {ms{Mhopkeepe{mr{x~
+{wThe {mo{Mwne{mr {wof the {mj{Mun{mk s{Mho{mp{w stands behind the counter, looking bored.{x
+~
+The shopkeeper stands behind the counter, looking bored out of his skull.  
+The man's neatly cropped blonde hair and pale skin tone hint that he is 
+probably not a local man; his style of garments is more typical of an 
+Andoran. He wears a plain gray shirt, a pair of blue-gray breeches and a 
+long blue-gray coat that is fitted with a high collar.
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 2500
+0 0 medium 'flesh'
+#5125
+beady eyed black raven~
+{wa {rb{Read{ry{w-{re{Rye{rd{w {Draven{x~
+{wA {rb{Read{ry{w-{re{Rye{rd{w {Draven{w hops along the ground.{x
+~
+This is a large raven with beady black eyes and scruffy black feathers. 
+Ravens are generally thought of as spies for the Dark One and are considered
+to be evil.  
+~
+unique~
+AG 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+AGW ACDEFHKPQ small 'flesh'
+#5126
+silver tabby cat~
+{wa{D s{wi{Wlv{we{Dr t{wa{Wb{wb{Dy c{wa{Wt{x~
+{wA{D l{wa{Wr{wg{De s{wi{Wlv{we{Dr t{wa{Wb{wb{Dy c{wa{Wt{w is prowling around the area.{x
+~
+Perhaps this was once a sweet little kitten but this overfed feline has
+grown up and lost any cuteness it once had.  The cat looks like a big
+overweight ball of fur and claws and the strange glint in the animal's eyes
+suggest that it also has a psychotic streak.  The cat's stomach wobbles as
+he attempts to slink around his territory, searching for invaders or prey to
+attack.  Despite this cat's feral appearance the collar around this
+monster's neck indicate that it is a loved family pet.  
+~
+cat~
+AG J 0 0
+33 23 17d17+1089 33d10+100 4d7+16 claw
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+HM B small 'flesh'
+F aff Z
+#0
+
+
+
+#OBJECTS
+#5100
+bulky wooden table~
+{wa {ybulky wooden table{x~
+{wA {ybulky wooden table{w stands at the center of the kitchen.{x~
+wood~
+furniture S P
+4 800 DG 100 100
+0 5 0 100
+#5101
+pair woolen breeches~
+a pair of {ywoolen breeches{x~
+A pair of breeches made from woven wool.~
+wool~
+armor S AF
+10 10 10 5 0
+35 2 60 100
+A
+12 -20
+A
+13 20
+#5102
+long red ribbon~
+a {rr{Re{rd r{Ri{rb{Rb{ro{Rn{x~
+A long red ribbon rests here.~
+cloth~
+armor S AE
+10 10 10 5 0
+31 1 45 100
+#5103
+long vest blue~
+a {bl{Bon{bg {bb{Blu{be v{Bes{bt{x~
+A long blue vest rests here.~
+wool~
+armor S AK
+10 10 10 5 0
+36 2 60 100
+#5104
+stout leather shoes pair~
+a pair of {yleather shoes{x~
+A pair of stout leather shoes rests here.~
+leather~
+armor S AG
+10 10 10 5 0
+37 2 85 100
+#5105
+thin leather belt brown~
+a {ythin leather belt{x~
+A thin belt made of brown leather rests here.~
+leather~
+armor S AL
+11 11 11 7 0
+40 1 85 100
+A
+12 15
+A
+13 -15
+A
+1 1
+#5106
+brass ring~
+a {yb{Yras{ys r{Yin{yg{x~
+A ring made of polished brass rests here.~
+brass~
+armor 0 AB
+10 10 10 10 0
+39 1 33 100
+A
+4 1
+A
+1 -1
+#5107
+white apron~
+a {Wwhite apron{x~
+A white apron rests here.~
+cloth~
+armor S AL
+11 11 11 7 0
+41 2 45 100
+#5108
+large meat cleaver~
+a {rm{Rea{rt {Dc{wl{Weav{we{Dr{x~
+A large meat cleaver rests here.~
+steel~
+weapon 0 AN
+axe 5 10 'chop' 0
+42 6 150 100
+A
+19 4
+A
+19 8
+A
+19 6
+#5109
+wide brimmed hat straw~
+a {ywide brimmed hat{x~
+A wide brimmed hat made of straw rests here.~
+straw~
+armor S AE
+12 12 12 9 0
+44 2 30 100
+A
+5 -1
+A
+2 1
+#5110
+broom~
+a {ybroom{x~
+A broom rests here.~
+wood~
+weapon S AN
+staff 5 10 'beating' F
+46 12 50 100
+A
+19 9
+A
+19 10
+#5111
+green cloth kerchief~
+a {gg{Gree{gn k{Gerchie{gf{x~
+A kerchief made of green cloth rests here.~
+cloth~
+armor S AC
+14 14 14 8 0
+50 1 45 100
+A
+5 1
+#5112
+apple pie small~
+a {ysmall {ga{Gppl{ge {ypie{x~
+A small apple pie rests here.~
+~
+food S A
+3 4 0 0 0
+0 1 13 100
+#5113
+apple pie large~
+a {ylarge {ga{Gppl{ge{y pie{x~
+A large apple pie rests here.~
+~
+food S A
+4 5 0 0 0
+0 2 15 100
+#5114
+loaf bread~
+a {yloaf{x of {ybread{x~
+A loaf of bread rests here.~
+~
+food S A
+2 3 0 0 0
+0 1 10 100
+#5115
+spicy fruit cake~
+a {Ds{yp{mi{yc{Dy f{yr{mu{yi{Dt c{ya{mk{De{x~
+A spicy cake containing lots of dried fruit rests here.~
+~
+food S A
+2 3 0 0 0
+0 2 12 100
+#5116
+wedge cheese large~
+a {yw{Yedg{ye{x of {yc{Yhees{ye{x~
+A large wedge of cheese rests here.~
+~
+food S A
+4 5 0 0 0
+0 1 15 100
+#5117
+roasted pheasant~
+a {rr{Ro{yast{Re{rd {gp{rh{ye{Das{ya{rn{gt{x~
+A roasted pheasant rests here.~
+~
+food S A
+5 6 0 0 0
+0 2 20 100
+#5118
+pitcher milk~
+a {bp{Bi{Wtch{Be{br {xof {Wmilk{x~
+A pitcher of milk rests here.~
+stoneware~
+drink S A
+10 10 'milk' 0 0
+0 2 10 100
+#5119
+wooden cudgel~
+a {ywooden cudgel{x~
+A wooden cudgel rests here.~
+wood~
+weapon S AN
+mace 6 11 'smash' 0
+50 3 150 100
+A
+19 4
+#5120
+long vest red~
+a {rl{Ron{rg r{Re{rd v{Res{rt{x~
+A long red vest rests here.~
+wool~
+armor S AK
+14 14 14 8 0
+50 2 60 100
+#5121
+white linen shirt~
+a {Wwhite linen shirt{x~
+A white linen shirt rests here.~
+cloth~
+armor S AD
+14 14 14 8 0
+46 4 45 100
+A
+4 -1
+A
+5 1
+#5122
+curved dagger~
+a {Dc{wu{Wrv{we{Dd d{wa{Wgg{we{Dr{x~
+A dagger with a long curved blade rests here.~
+steel~
+weapon 0 AN
+dagger 5 10 'slash' 0
+46 2 150 100
+A
+19 4
+A
+19 10
+#5123
+wide sleeved shirt~
+a {cwide sleeved shirt{x~
+A wide sleeved shirt rests here.~
+cloth~
+armor S AD
+12 12 12 9 0
+45 2 45 100
+#5124
+blue ball~
+a {Bb{Clu{Be b{Cal{Bl{x~
+A blue ball rests here.~
+leather~
+trash S AO
+0 0 0 0 0
+31 1 10 100
+A
+3 -1
+A
+2 1
+#5125
+wooden barrel~
+a {yw{Do{yod{De{yn b{Da{yrr{De{yl{x~
+Rainwater is being stored in a {yb{Da{yrr{De{yl{x placed next to the back door.~
+wood~
+fountain OS P
+-1 -1 'water' 0 0
+0 10 0 100
+#5126
+tin canteen~
+a {Dt{wi{Wn {Dc{wa{Wn{Dt{we{We{Dn{x~
+A tin canteen rests here.~
+tin~
+drink 0 A
+5 5 'water' 0 0
+0 2 60 100
+#5127
+large wax candle~
+a {Wlarge candle{x~
+A large wax candle rests here.~
+wax~
+light S AO
+0 0 2 0 0
+0 2 40 100
+#5128
+canvas bedroll~
+a {Dc{ya{wnv{ya{Ds b{yed{wr{yol{Dl{x~
+A canvas bedroll rests here.~
+canvas~
+furniture S A
+1 200 EHK 125 125
+0 25 250 100
+#5129
+wooden barrels~
+a {yw{Do{yod{De{yn b{Da{yrr{De{yl{x~
+Several {yb{Da{yrre{Dl{ys{x have been stacked in one corner of the cellar.~
+wood~
+fountain OS P
+-1 -1 'beer' 0 0
+0 5 0 100
+#5130
+wooden bench~
+a {yw{Do{yod{De{yn b{De{yn{Dc{yh{x~
+A {yw{Do{yod{De{yn b{De{yn{Dc{yh{x stands here beneath the shade of a gnarled old {ga{Gppl{ge t{Gre{ge{x.~
+wood~
+furniture S P
+2 400 EHK 100 100
+0 5 0 100
+#5131
+large black feather~
+a {Dblack feather{x~
+A large black feather rests here.~
+feathers~
+trash S AO
+0 0 0 0 0
+33 1 0 100
+A
+13 20
+A
+4 -2
+#5132
+small birds nest~
+a {ybird's nest{x~
+A bird has built a small nest in the tree.~
+wood~
+container S P
+20 0 0 5 1
+0 1 0 100
+#5133
+pair black trousers~
+a pair of {Dblack trousers{x~
+A pair of black loose-fitting trousers rests here.~
+wool~
+armor S AF
+14 14 14 8 0
+50 3 60 100
+#5134
+pair sturdy leather boots~
+a pair of {yleather boots{x~
+A sturdy pair of boots made from leather rests here.~
+leather~
+armor S AG
+11 11 11 7 0
+43 8 85 100
+A
+2 -1
+A
+1 1
+#5135
+ornate garden pond~
+an {co{Crnat{ce g{Carde{cn p{Con{cd{x~
+{yT{Yin{yy g{Yolde{yn f{Yis{yh{x swim aimlessly around the {co{Crnat{ce g{Carde{cn p{Con{cd{x.~
+water~
+fountain OS P
+-1 -1 'water' 0 0
+0 5 0 100
+E
+tiny golden fish~
+Five tiny fishes swimming around the pond,
+Until the neighbor's cat visits...
+And then there'll be four!
+Four tiny fishes...~
+#5136
+small copper bracelet~
+a {ycopper bracelet{x~
+A small bracelet made of copper rests here.~
+copper~
+armor 0 AM
+14 14 14 8 0
+50 1 100 100
+A
+3 2
+#5137
+white headscarf cloth~
+a {Wwhite headscarf{x~
+A {Wwhite headscarf{x is here.~
+cloth~
+armor S AE
+11 11 11 9 0
+42 1 45 100
+#5138
+large bed~
+{wa {ylarge bed{x~
+{wPlaced against one wall is a {ylarge bed{w covered with a {x{yy{Yello{yw{w and w{Whit{we {yp{Ya{Wt{Yc{yh{Yw{Wo{Yr{yk q{Yuil{yt{w.{x~
+wood~
+furniture S P
+2 400 EHL 150 150
+0 50 0 100
+E
+patchwork quilt yellow white~
+A large quilt covers the bed.  It has been constructed from patches of
+yellow and white cloth arranged in a seemingly random pattern.  
+~
+#5139
+large bed~
+{wa {ylarge bed{x~
+Placed against one wall is a {ylarge bed{x covered with a {yy{Yello{yw{x and {gg{Gree{gn p{Ga{Yt{yc{Yh{yw{Yo{Gr{gk q{Gu{Yi{Gl{gt{x.~
+wood~
+furniture S P
+2 400 EHL 145 155
+0 0 0 100
+E
+patchwork quilt yellow green~
+A large quilt has been used to cover the bed.  It has been made from
+patches of green and yellow cloth arranged in a seemingly random pattern.  
+~
+#5140
+large bed~
+{wa {ylarge bed{x~
+{wPlaced against one wall is a {ylarge bed{w covered with a {x{bb{Blu{be p{Batc{bh{Bwor{bk q{Buil{bt{w.{x~
+wood~
+furniture S P
+2 400 EHL 155 145
+0 50 0 100
+E
+patchwork quilt blue~
+A large quilt covers the bed.  It has been constructed from patches of
+blue cloth arranged in a seemingly random pattern.  
+~
+#5141
+large bed~
+{wa {ylarge bed{x~
+{wPlaced against one wall is a {ylarge bed{w covered with a {mp{Min{mk p{Matc{mh{Mwor{mk q{Muil{mt{w.{x~
+wood~
+furniture S P
+2 400 EHL 140 160
+0 50 0 100
+E
+patchwork quilt pink~
+A large quilt covers the bed.  It has been constructed from patches of
+pink cloth arranged in a seemingly random pattern.  
+~
+#5142
+large bed~
+{wa {ylarge bed{x~
+{wPlaced against one wall is a {ylarge bed{x covered with a {bb{Blu{be{w and w{Whit{we {bp{Bat{Wc{wh{Ww{Bor{bk q{Bu{Wi{Bl{bt{w.{x~
+wood~
+furniture S P
+2 400 EHL 160 140
+0 50 0 100
+E
+patchwork quilt blue white~
+A thick quilt has been used to cover the bed.  It has been constructed
+from patches of blue and white cloth arranged in an apparently random
+pattern.  
+~
+#5143
+small bed~
+{wa {ysmall bed{x~
+{wA {ysmall bed {whas been placed against one wall.{x~
+wood~
+furniture S P
+1 200 EHL 150 150
+0 50 0 100
+E
+small tasseled pillows yellow~
+A few yellow tasseled pillows have been strewn across the bed for
+decoration.  
+~
+E
+red patchwork quilt~
+A thick quilt has been used to cover the bed.  It has been made from
+patches of red cloth arranged in an apparently random pattern.  
+~
+#5144
+small brass key~
+{wa {ys{Ym{Wa{Yl{yl b{Yr{Wa{Ys{ys k{Ye{Wy{x~
+A small key made of brass rests here.~
+brass~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#5145
+small wooden chest~
+{wa {ysmall wooden chest{x~
+{wHidden beneath the bed is a {ysmall wooden chest{w.{x~
+wood~
+container Sa P
+20 ABCD 5144 10 1
+0 10 0 100
+#5146
+brass hoop earring~
+{wa {yb{Yr{Wa{Ys{ys {Yh{Wo{Yo{yp {Ye{Wa{Yr{yr{Yi{Wn{Yg{x~
+A brass hoop earring rests here.~
+brass~
+armor 0 AU
+15 10 15 10 0
+50 1 25 100
+A
+5 1
+#5147
+pile silver gold coins~
+{wa {yp{Yil{ye {wof {yc{Yoin{ys{x~
+{wA pile of {Ds{wi{Wlv{we{Dr{w and {yg{Yol{yd c{Yoin{ys {wrests here.{x~
+gold silver~
+money 0 A
+50 10 0 0 0
+0 5 50 100
+#0
+
+
+
+#ROOMS
+#5120
+{yAn O{Dl{yd R{Doa{yd{x~
+This appears to be an old and well used road that runs through the center of 
+a small yet picturesque village. The deep ruts and potholes scored into the 
+surface of the road by years of heavy usage now make traversing this 
+thoroughfare a challenge for anyone using a wagon or a cart. Flanking the 
+muddy road on both sides are some old cottages; each building has been built 
+far back enough from the roadside to allow for a small plot of land enclosed 
+by wooden fences as gardens at their fronts.  Some of the locals have taken 
+the opportunity to express their artistic talents with profusions of colors 
+within each little flower garden but others have allowed their plots to 
+become overgrown with weeds.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 5119
+D2
+~
+~
+0 0
+0 -1 5121
+S
+#5121
+{yAn O{Dl{yd R{Doa{yd{x~
+A second much narrower street joins this muddy old road that appears to
+be the main thoroughfare through a small village.  Both of the roads were
+probably paved long ago but now the roads' surfaces are bare earth and
+scarred by deep potholes and ruts created by heavy carts and wagons.  Each
+road is flanked by cottages and shops constructed from slightly rounded gray
+stones.  Most of the buildings have low sloping roofs that have been tiled
+with slate but some of the older buildings have thatched roofs.  These
+humble dwellings may appear to be dull to some people but attempts have been
+made by the villagers to bring color to their homes by painting the exterior
+woodwork of the buildings in bright colors.  The village shops along this
+road are even more colorful than the neighboring cottages with their
+brightly painted signs that hang above their entrances and their vivid
+window displays.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 5120
+D1
+~
+~
+0 0
+0 -1 5125
+D2
+Beautifully scripted upon a colorfully painted sign above this shop's
+door are the words "{YThe Village Bakery{x".  
+~
+door~
+3 3
+1 -1 5128
+D3
+~
+~
+0 0
+0 -1 5115
+S
+#5122
+{DA N{yarro{Dw S{ytree{Dt{x~
+This street is no more than a narrow muddy track that runs through a tiny
+village.  The street joins a much wider thoroughfare to the east that
+appears to twist its way through the center of the village.  A few stone
+slabs that lie abandoned at the roadside are perhaps an indication that this
+street was paved in the past.  Flanking the street on both sides are some
+old cottages; the cottages have been constructed from pale gray stone that
+is almost white in color.  The older buildings have thatched roofs whilst
+the newer ones have been roofed with gray slate tiles.  Each building has
+been built far back enough from the roadside to allow for a small flower
+garden although some residents have allowed their gardens to become overrun
+with weeds.  
+~
+0
+0 1
+D0
+This hefty wooden door provides an entrance into one of the cottages.  
+~
+hefty door~
+3 3
+1 -1 5123
+D1
+~
+~
+0 0
+0 -1 5116
+D3
+~
+~
+8231 8231
+2 37002 37002
+S
+#5123
+A Small Cottage~
+This is a very cozy cottage that has been furnished plainly, yet with a
+touch of elegance.  Hung upon the walls of the lounge is a few small
+watercolor landscapes although the scenes that they depict are not of the
+local area.  A high-backed armchair stands nearby the fireplace at the
+western end of the room.  Placed within arm's reach beside the chair is a
+bookcase whose shelves are full of old leather bound books and tomes.  There
+is a soft ticking sound coming from an old clock that has been placed upon
+the fire's gray stone mantle piece.  A faint aroma of dried herbs lingers in
+the air; the smell seems to originate from some small stoneware jars that
+have been neatly arranged on shelves fixed upon the wall.  A steep wooden
+staircase built along the eastern wall of this room provides access to the
+upper level of the cottage.  There are several doors leading into other
+parts of the cottage from this point but the two most notable exits are the
+hefty wooden doors on the northern and southern side of the room.  
+~
+0
+DJ 0
+D0
+This hefty wooden door provides an exit out of this room.  
+~
+hefty door~
+3 3
+1 -1 5124
+D2
+This hefty wooden door provides an exit out of this room.  
+~
+hefty door~
+3 3
+1 -1 5122
+S
+#5124
+{gA H{Ger{gb G{Garde{gn{x~
+This garden mainly consists of leafy green herbs of varying hues with a
+few patches of colorful blossoms.  There is something unusual about this
+garden because a lot of the plants grown in this garden are not native to
+the local area.  Some of the herbs have been planted in raised flower beds
+whilst others have been planted in old wooden buckets and large stoneware
+pots arranged neatly around the garden.  The perimeter of the garden has
+been clearly marked out by short wooden fence that no more than two feet in
+height.  A narrow path paved with pale gray stone slabs snakes its way
+around the garden towards the back door of a small gray stone cottage.  
+~
+0
+0 2
+D2
+This hefty wooden door provides an entrance into the cottage.~
+hefty door~
+3 3
+1 -1 5123
+S
+#5125
+{DA N{yarro{Dw S{ytree{Dt{x~
+This street is no more than a long yet narrow muddy track.  The street
+joins a much wider road to the west that appears to wind its way through the
+middle of the village.  A few stone slabs that lie abandoned at the roadside
+are perhaps an indication that this street was paved in the past.  A couple
+of small cottages overlook the street at this point but the main
+concentration of housing appears to be west towards the center of the
+village.  Each cottage has been constructed from the same dull gray stone
+and roofed with bluish-gray slate tiles The buildings have been built far
+back enough from the roadside to allow for a small flower garden although
+some residents have allowed their gardens to become overgrown.  One house
+built on the southern side of the street stands out for it is much grander
+and ornately decorated than the rest.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 5126
+D2
+This tall arched door is the entrance into a large gray stone building.  
+~
+door~
+3 3
+1 -1 5129
+D3
+~
+~
+0 0
+0 -1 5121
+S
+#5126
+{DAn A{wl{wl{Wey{wwa{Dy{x~
+This is a very long yet narrow alleyway that cuts between two rows of
+gray stone buildings.  The alley joins onto a street to the west but to the
+east the alley ends in a dead end.  The ground is just bare earth however
+the footprints embedded in the ground suggest that this path is well used. 
+The cottages that overlook the alley block out the majority of the sunlight
+during the day making this area dark and dismal at any time.  Several
+doorways leading into various buildings can be seen here amongst the shadows
+but they all lack any marks to indicate what may lie behind each door.  
+~
+0
+0 1
+D1
+This rickety wooden door is the entrance into one of the cottages.  
+~
+rickety door~
+3 3
+1 -1 5127
+D2
+This small arched door is an entrance into one of the cottages.  
+~
+door~
+3 3
+1 -1 5130
+D3
+~
+~
+0 0
+0 -1 5125
+S
+#5127
+{bA D{Bing{by C{Bottag{be{x~
+This is a particularly dark and dingy house located somewhere within the
+village.  There is very little of value or of importance within this
+disheveled dwelling.  Wooden doors and window shutters creak and groan under
+their own weight, their rusty hinges barely look like they can support their
+loads.  Litter and debris clutter the floor of this shabby little cottage
+with cobwebs hanging from the woodworm riddled furniture and shelves like
+silvery drapes.  The walls of this building are grimy especially near the
+fireplace where thick soot tarnishes the nearby wall and ceiling.  Large
+chunks of plaster have fallen away from the walls, revealing the gray
+masonry beneath.  
+~
+0
+AD 0
+D3
+This rickety wooden door is the exit out of this cottage.  
+~
+rickety door~
+3 3
+1 -1 5126
+S
+#5128
+{YA Bakery{x~
+A tiny brass bell fixed above the main entrance signals the arrival and
+departure of customers in this charming village bakery.  Within the shop are
+a mixture of delicious aromas, of baking bread, cakes, pies and pastries. 
+The room itself would be plain and dull if it were not for the eye catching
+goods that are on display.  Arranged neatly in trays upon the shop counter
+and in the shop window on the northern side of the shop are selections of
+the baker's wares.  There is second door on the eastern side of the room
+behind the shop counter that probably leads into the kitchen or perhaps the
+baker's living quarters.  
+~
+0
+D 0
+D0
+This iron-braced door is the exit out of the bakery.  
+~
+door~
+3 3
+1 -1 5121
+D1
+This small arched door is an exit out of the bakery.  
+~
+door~
+3 3
+1 -1 5129
+S
+#5129
+{YA Hallway{x~
+A strong aroma of freshly baked bread drifts through this corridor whose
+white plaster walls and wooden floors are almost lacking any decoration. 
+There are a few polished brass hooks fixed to the walls of this room that
+seem strong enough to hold small oil lanterns to illuminate the passageway. 
+The tall arched door at the northern end of the hallway appears to be the
+most likely the exit out of this abode.  There are further exits including
+several other doorways along this hallway and a narrow wooden staircase that
+leads to the upper level of this building.  
+~
+0
+D 0
+D0
+This tall arched door is the exit out of this building.  
+~
+door~
+3 3
+1 -1 5125
+D1
+This small arched door is one of several exits out of the hallway.  
+~
+door~
+3 3
+1 -1 5130
+D2
+This small arched door is one of several exits out of the hallway.  
+~
+arched door~
+3 3
+1 -1 5131
+D3
+This small arched door is one of several exits out of the hallway.  
+~
+door~
+3 3
+1 -1 5128
+D4
+~
+~
+0 0
+0 -1 5132
+S
+#5130
+{YA Kitchen{x~
+This large room appears to be part of a bakery rather than a normal
+kitchen.  The area looks quite tidy and well kept with many of the cooking
+utensils housed in racks fixed upon the wall.  There are also numerous pots
+and pans hanging on a rack attached to the ceiling above a large table set
+in the center of the room.  Much of the woodwork within the kitchen
+including the cupboards, drawers and shelves has been painted blue and
+white.  A small iron stove has been built onto the east wall of the kitchen
+but the majority of the heat within this room comes from the ovens built
+into the wall.  On the southern side of the kitchen are two small windows
+that overlook a large garden.  There appear to be two exits out of this
+room, an arched door on the northern side of the room and a second doorway
+on the western side.  
+~
+0
+D 0
+D0
+This small arched door is an exit out of the kitchen.  
+~
+door~
+3 3
+1 -1 5126
+D2
+There are two small windows overlooking a large garden to the south.  
+~
+window~
+4099 4099
+1 -1 5137
+D3
+This small arched door is an exit out of the kitchen.  
+~
+door~
+3 3
+1 -1 5129
+S
+#5131
+{YA Study{x~
+On the southern side of this small study is an arched window that
+overlooks a large garden.  The window is adorned with a pair of faded blue
+curtains that have been heavily embroidered with flowers and vines along
+their bases.  Apart from the window, the only visible exit from the study is
+the doorway at the opposite side of the room.  There is a dark gray stone
+fireplace built into the west wall of the study; hung upon the wall above
+the mantle piece is an ornate silver medallion that appears to be a mayor's
+chain of office.  A long desk accompanied a high backed chair has been
+placed in the room.  Positioned against the wall behind the desk are a pair
+of tall bookcases with numerous leather bound tomes and volumes arranged
+neatly upon their shelves.  
+~
+0
+D 0
+D0
+This small arched door marks the exit out of the study.  
+~
+door~
+3 3
+1 -1 5129
+D2
+There is a window overlooking a large garden to the south.  
+~
+window~
+4099 4099
+1 -1 5136
+S
+#5132
+{YA Hallway{x~
+This long yet narrow windowless corridor appears to be part of a large 
+house.  The floorboards have been left bare but dirt accumulated over the 
+years has turned the wooden boards a grayish brown color. There is an 
+equally grubby staircase leading downwards to the lower level of the house. 
+The white plaster that covers the walls of this corridor is now a subtle 
+shade of gray from grime; fixed to the walls are some brass hooks that 
+appear strong enough to hold small oil lanterns. There are several doorways 
+along the corridor leading to other parts of the building but what lies 
+beyond them remains to be seen.
+~
+0
+D 0
+D1
+This small arched door is one of several exits out of the hallway.  
+~
+door~
+3 3
+1 -1 5135
+D3
+This small arched door is one of several exits out of the hallway.  
+~
+door~
+3 3
+1 -1 5133
+D5
+~
+~
+0 0
+0 -1 5129
+S
+#5133
+{YA Small Bedroom{x~
+Although this small bedroom appears to be comfortable it also quite plain
+and dowdy; there is no carpet on the floor and the white plaster walls of
+the room have been left bare.  An arched window overlooking the outskirts of
+the village dominates the west wall of the bedroom; the long blue curtains
+used to decorate the window are now faded with age.  There is a tall
+wardrobe and a dressing table positioned against the north wall.  At the
+opposite side of the room is a large bed covered with a blue and white
+patchwork quilt and festooned with small tasseled cushions.  At the foot of
+the bed is a long footlocker that has been painted white and a battered old
+washstand has been placed out of the way in the corner of the room.  Apart
+from the window there appears to be only one exit from this bedroom; a
+doorway to the east.  
+~
+0
+D 0
+D1
+This small arched door is the exit out of the bedroom.  
+~
+door~
+3 3
+1 -1 5132
+S
+#5134
+{mA J{Mun{mk S{Mho{mp{x~
+This building was once a small cottage but now it has been turned into a
+junk shop.  The shop sells all manner of items, merchandise rests upon
+wooden shelves and racks fixed around the room and most of the items on
+display come with free dust, cobwebs or rust.  The only method of
+arrangement that the shopkeeper has done with the shop's stock is to display
+the least damaged merchandise in the shop window.  Unless there are any
+other exits hidden beneath the trash sold in the shop, the only visible exit
+appears to be the door at the east side of the shop.  
+~
+0
+D 0
+D1
+This iron-braced door is the exit out of the junk shop.  
+~
+door~
+3 3
+1 -1 5119
+S
+#5135
+{YA Small Bedroom{x~
+This is a small bedroom that appears to be comfy yet it also looks fairly
+old-fashioned.  There is no carpeting on the floor and the white plaster
+walls of the room have been left totally bare.  An arched window that
+overlooks a dark alleyway below has been built into the north wall of the
+bedroom; the long crimson curtains used to decorate the window are faded
+with age.  There is a tall wardrobe and a table situated against one wall
+and a small bed placed against another.  The bed has been covered with a red
+patchwork quilt and decorated with a few small pillows.  Placed at the foot
+of the bed there is a small wooden trunk.  Apart from the window there
+appears to be only one exit from this bedroom; a doorway at the west side of
+the room.  
+~
+0
+D 0
+D3
+This small arched door is the exit out of the bedroom.  
+~
+door~
+3 3
+1 -1 5132
+S
+#5136
+{gA L{Garg{ge G{Garde{gn{x~
+Here lies a long gravel path that winds its way through a large, well
+maintained garden.  The majority of the garden is covered by a lush green
+lawn with the perimeter of the area marked out by a tall wooden fence.  A
+large cottage constructed out of gray stone overlooks the garden from the
+north.  Part of the garden to the south has been terraced with each level is
+quite narrow and no more than half of a foot in height.  The side of each
+terrace has been reinforced with low gray stone wall and each level is the
+home of a beautiful display of fragrant herbs, both green and flowering.  
+~
+0
+0 2
+D0
+One of the cottage's windows looks into a study.  
+~
+window~
+4099 4099
+1 -1 5131
+D1
+~
+~
+0 0
+0 -1 5138
+S
+#5137
+{gA L{Garg{ge G{Garde{gn{x~
+Here lies a long gravel path that twists its way through a large garden. 
+Most of the garden is covered by a lush green lawn except here where a small
+pond surrounded by large yet smooth gray pebbles in a decorative pattern has
+been made.  The perimeter of the area has been clearly marked out by a tall
+wooden fence; climbing plants have been allowed to grow up the fence to add
+color to the otherwise bland wooden partition.  To the north is a large
+cottage built from pale gray stone that overlooks the garden.  
+~
+0
+0 2
+D0
+Two of the cottage's windows looks into a large kitchen.  
+~
+window~
+4099 4099
+1 -1 5130
+D2
+~
+~
+0 0
+0 -1 5138
+S
+#5138
+{gA L{Garg{ge G{Garde{gn{x~
+Here lies a long gravel path that winds its way through a large garden
+that has been well maintained.  Most of the garden is covered by a lush
+green lawn with the perimeter of the area marked out by a tall wooden fence.
+The edge of the garden has been clearly marked out by a tall wooden fence;
+climbing plants have been permitted to grow up the fence to add some color
+to the garden.  Some fruit trees have been planted at the southern edge of
+the garden including a couple of plum trees and an apple tree.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 -1 5137
+D3
+~
+~
+0 0
+0 -1 5136
+D4
+~
+~
+4096 4096
+0 0 5139
+S
+#5139
+{gAt T{Gh{ge T{Go{gp Of T{Gh{ge T{Gre{ge{x~
+This is the top of a twisted apple tree whose gnarled old branched have
+developed a claw-like appearance.  The tree provides a good view of the
+garden, including a small pond to the north and a terraced herb garden to
+the west.  In the distance to the north a large gray stone cottage can also
+be seen.  
+~
+0
+C 2
+D5
+~
+~
+4096 4096
+0 0 5138
+S
+#5101
+{mA Cellar{x~
+Numerous wooden barrels, casks and crates have been stacked neatly in
+this dark and gloomy cellar.  The damp air within this room smells musty and
+a thick layer of dust covers most of the room's contents like a veil.  The
+gray stone walls of the cellar are icy to the touch; the water condensing
+upon them appears to be the source of dampness within this room.  The stone
+tiled floor of the cellar feels as cold as the walls.  There are dark scuff
+marks tarnishing the surface of some of the floor tiles, the marks probably
+originate from heavy objects being dragged across the floor.  The only
+visible exit from this cellar is a wooden trapdoor built into the ceiling;
+the trapdoor can be accessed by a narrow flight of wooden stairs that has
+been built against the eastern wall.  
+~
+0
+AD 0
+D4
+A wooden trapdoor can be seen set in the ceiling.  
+~
+trapdoor~
+3 3
+1 -1 5102
+S
+#5102
+{yA Kitchen{x~
+This is a plain kitchen whose walls have been left bare, gray stone and
+blank wood.  The furniture within the room is as equally featureless as the
+walls with no paintwork or carvings to adorn them.  The kitchen floor has
+been covered with dull gray stone tiles arranged in a rather uninspiring
+square grid pattern.  A bulky wooden table surrounded by matching stools
+stands at the center of the kitchen; a wooden trapdoor can be seen set in
+the floor underneath the table.  The southern end of the kitchen is
+dominated by a large stone fireplace with an expensive looking black iron
+stove which is a drastic contrast to the rest of the room.  An arched window
+set in the eastern wall overlooks a small vegetable patch outside.  Built
+along the wall below the window along is a long counter with several
+cupboards and drawers built underneath it.  Fixed upon the wall above the
+counter are a couple of wooden racks used to house sharp knives and other
+cooking utensils.  Also stored above the counter are a cluster of pots and
+pans which hang from a rack fixed on one of the beams that support the
+kitchen ceiling.  Two almost identical doors provide convenient exits out of
+the kitchen, one to the north and the second to the west.  
+~
+0
+D 0
+D0
+This wooden door provides an exit out of the kitchen.  
+~
+door~
+3 3
+1 -1 5103
+D3
+This wooden door provides an exit out of the kitchen.  
+~
+door~
+3 3
+1 -1 5110
+D5
+A wooden trapdoor can be seen set in the floor underneath the table.  
+~
+trapdoor~
+3 3
+1 -1 5101
+S
+#5103
+{cA Hallway{x~
+This is a windowless hallway whose stone walls and wooden floors are
+lacking almost any decoration.  There are a couple of dirty metal hooks
+fixed into the walls that appear strong enough to hold small oil lanterns to
+illuminate the passageway.  The air within this tight corridor smells
+strongly of tabac smoke and stale ale, the smell may be coming from a
+neighboring room since there does not appear to be a source here.  Apart
+from a narrow flight of stairs leading to the upper level of the building
+there are only two visible exits, a door at the western end of the hallway
+and another door to the south.  
+~
+0
+D 0
+D2
+This wooden door provides an exit out of the hallway.  
+~
+door~
+3 3
+1 -1 5102
+D3
+This wooden door provides an exit out of the hallway.  
+~
+door~
+3 3
+1 -1 5104
+D4
+~
+~
+0 0
+0 -1 5105
+S
+#5104
+{cT{Ch{we {cT{Chre{we {cB{Cell{ws {cI{Cn{wn{x~
+The Three Bells Inn has an unusually large and spacious common room for a
+village inn.  The air within the room smells very strongly of old tabac
+smoke, stale beer and soured wine.  An old and graying coat of whitewash
+covers the walls whilst a thin layer of fresh wood shavings has been strewn
+across the floorboards that are sticky from spilt drinks.  The common room
+is plainly decorated despite its grand size; adorning the walls is a couple
+of small tapestries depicting various specimens of the local flora and
+fauna, adding color to this somewhat gray interior.  There is a large gray
+stone fireplace built into the northern wall, above the mantle piece hangs a
+decorative shield bearing a coat of arms that probably belongs to the local
+lord or lady.  Built halfway across the eastern side of the common room is a
+tall wooden counter.  There are several wooden shelves fixed upon the wall
+behind the counter; each shelf holds an orderly display of small glass
+bottles, as well as pewter tankards and goblets.  Just visible behind the
+counter are several wooden barrels, each one probably contains some form of
+alcoholic brew.  Arranged around the common room in a seemingly haphazard
+manner are numerous tables and benches.  The common room has several exits;
+a large arched wooden door to the west and two smaller rectangular doors at
+the eastern and southern sides of the room.  
+~
+0
+D 0
+D1
+This wooden door provides an exit out of the common room.  
+~
+door~
+3 3
+1 -1 5103
+D2
+This wooden door provides an exit out of the common room.  
+~
+door~
+3 3
+1 -1 5110
+D3
+This wooden door provides an exit out of the common room.  
+~
+door~
+3 3
+1 -1 5117
+S
+#5105
+{cA Hallway{x~
+This is a long and windowless hallway with bare gray stone walls and
+equally bare wooden floorboards.  Fixed into the walls at set intervals are
+dull metal hooks that appear strong enough to hold small oil lanterns to
+light up the area.  The air within this tight hallway smells faintly of
+stale ale and tabac smoke but it is difficult to pinpoint the exact location
+of the scent's source.  As well as a narrow staircase that leads down to the
+lower level of the inn there are several doors along the hallway providing
+entrances into other rooms; each door is marked by a small number in paint. 
+~
+0
+D 0
+D0
+This wooden door has been numbered as "{c1{x".  
+~
+door~
+3 3
+1 -1 5106
+D1
+This wooden door has been numbered as "{c2{x".  
+~
+door~
+3 3
+1 -1 5107
+D2
+This wooden door has been numbered as "{c3{x".  
+~
+door~
+3 3
+1 -1 5108
+D3
+This wooden door has been numbered as "{c4{x".  
+~
+door~
+3 3
+1 -1 5109
+D5
+~
+~
+0 0
+0 -1 5103
+S
+#5106
+{cA Guest Room{x~
+This is one of the Three Bells Inn's small yet comfortable guest rooms. 
+The walls of the room have been painted with a thin layer of whitewash
+whilst the wooden floorboards of the room have been left completely bare. 
+There is an arched window adorned with golden yellow curtains at the north
+side of the room; the window provides an excellent view of the outskirts of
+the village.  The furniture within this room looks plain yet sturdy.  At the
+western end of the room is a large bed with a yellow and white patchwork
+quilt.  Placed next to the bed are two identical bedside cabinets that are
+relatively small in size.  Facing the bed at the opposite side of the room
+is a hefty wooden trunk, a chair and an old washstand.  Apart from the
+window, the only viable exit from this guest room appears to be a door to
+the south.  
+~
+0
+D 0
+D2
+This wooden door provides an exit out of the guest room.  
+~
+door~
+3 3
+1 -1 5105
+S
+#5107
+{cA Guest Room{x~
+This small yet cozy room serves as a guest room in the Three Bells Inn. 
+The walls of the room have been left bare apart from a very thin covering of
+whitewash.  The furniture within this room looks plain yet well made.  A
+large neatly made bed with two matching bedside cabinets has been placed
+against the north wall.  Facing the bed at the opposite side of the room is
+a tall wardrobe, an armchair and a washstand.  At the eastern side of the
+room is an arched window decked out with thick green curtains whilst at the
+opposite side of the room is a door.  
+~
+0
+DJ 0
+D3
+This wooden door provides an exit out of the guest room.  
+~
+door~
+3 3
+1 -1 5105
+S
+#5108
+{cA Guest Room{x~
+This is one of the small yet pleasant guest rooms located within the
+Three Bells Inn.  The walls have been painted with a thin layer of whitewash
+whilst the floorboards have been left bare.  The furniture within this room
+looks simple yet strong.  There is a large bed covered with a blue patchwork
+quilt; placed next to the bed are two small bedside cabinets.  Facing the
+bed at the opposite side of the room is a hefty wooden trunk, a chair and a
+washstand.  There is an arched window decked out with dark blue curtains at
+the south side of the room whilst at the opposite side of the room is a
+door.  
+~
+0
+D 0
+D0
+This wooden door provides an exit out of the guest room.  
+~
+door~
+3 3
+1 -1 5105
+S
+#5109
+{cA Guest Room{x~
+This small yet snug room serves as a guest room in the Three Bells Inn. 
+The walls of the room have been left bare apart from a thin covering of
+whitewash.  There is a window adorned with thick grayish-mauve curtains in
+the west wall; the window overlooks the main road that runs through the
+center of the village.  The furniture used inside this room looks basic yet
+strong.  At the north side of the room is a large bed that has been neatly
+made; placed next to the bed is a small bedside cabinet.  Facing the bed at
+the opposite side of the room is a large wooden chest, a padded armchair and
+a washstand.  There appears to be only one exit, a doorway at the eastern
+side of the room.  
+~
+0
+DJ 0
+D1
+This wooden door provides an exit out of the guest room.  
+~
+door~
+3 3
+1 -1 5105
+S
+#5110
+{yA Stable Yard{x~
+This is a large square area of muddy land that is being used as a stable
+yard.  The area is enclosed by a large "l" shaped inn that has been built
+along the north and east sides of the grounds, a stable to the south and a
+tall gray stone wall built along the western perimeter of the yard.  The
+wall's masonry looks pitted and old with much of its surface covered in
+twisting vines of dark green ivy.  A decorative archway has been built into
+the wall; the arch is large enough to allow small wagons to pass through it
+with ease.  A wide road can be seen through the arch which is probably the
+main road that runs through the center of the village.  The two buildings
+that overlook the yard appear to be just as old and as heavily weathered as
+the perimeter wall.  Both buildings are built from the same gray stone as
+the wall and have been roofed with blue-gray slate tiles although the
+stable's roof tiles look loose and in need of repairing.  A wide wooden door
+marks the entrance into stable whereas two much smaller doors mark entrances
+into the inn.  
+~
+0
+0 1
+D0
+An old and weather-beaten blue door marks an entrance into the inn.  
+~
+door~
+3 3
+1 -1 5104
+D1
+An old and weather-beaten blue door marks an entrance into the inn.  
+~
+door~
+3 3
+1 -1 5102
+D2
+This wide wooden door is the entrance into the stable.  
+~
+door~
+3 3
+1 -1 5111
+D3
+~
+~
+0 0
+0 -1 5118
+S
+#5111
+{yA Stable{x~
+The stable is a particularly old and run down building constructed from
+gray stone and rough wooden timbers.  It is probably of no surprise that a
+strong smell of horses lingers in the air.  Although the hard packed mud
+floor is damp as if someone has recently attempted to clean the stable, the
+floor is strewn with tufts of straw and hay making the air dusty.  There are
+several stalls built along the southern side of the long building used to
+accommodate horses; outside each occupied stall hangs each respective
+resident's equipment upon wooden pegs.  High above the stalls is a hayloft,
+a wide yet rickety looking platform used to store bales of hay and straw. 
+Unless a ladder can found there is no visible way of reaching the loft from
+this point.  The only other visible exit from the stable is a wide door to
+the north.  
+~
+0
+D 0
+D0
+This wide wooden door is the exit from the stable.  
+~
+door~
+3 3
+1 -1 5110
+S
+#5112
+{gO{Gutsid{ge The V{Gillag{ge{x~
+This is a very old and heavily weathered trade road that snakes its way
+through a patchwork landscape of fields, pastures and woodland.  The road is
+no more than a wide muddy track although imbedded into the edges of the road
+is a few of the original gray paving slabs.  To the south the fields and
+pastures make way for a small village comprised mainly of small cottages
+built out of dull gray stone, most of the buildings have slate tiled roofs
+but some of the older structures within the village have thatched roofs.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 -1 5114
+D6
+~
+~
+0 0
+0 0 56163
+S
+#5113
+{gO{Gutsid{ge The V{Gillag{ge{x~
+This is a wide mud track that meanders its way through a hodgepodge of
+woods, fields and pastures.  A few pale gray stone slabs scattered at the
+roadside suggest that this highway used to be paved.  Deep groove marks have
+been carved into the roads surface by heavily laden carts and wagons that
+have used this thoroughfare.  To the north the fields and pastures make way
+for a small village comprised mainly of small cottages constructed out of
+dull gray stone, the majority of the buildings have tiled roofs but some of
+the older structures within the village have thatched roofs.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 -1 5115
+D8
+~
+~
+0 0
+0 0 56163
+S
+#5114
+{yAn O{Dl{yd R{Doa{yd{x~
+This is an old and heavily worn road that winds its way through a tiny
+village.  The road bends sharply round to the north where in the distance
+the outskirts of the village and beyond that fields and woodland are
+visible.  A couple of small cottages overlook the thoroughfare at this point
+but the main concentration of housing appears to be westwards towards the
+center of the village.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 5112
+D3
+~
+~
+0 0
+0 -1 5116
+S
+#5115
+{yAn O{Dl{yd R{Doa{yd{x~
+This is a wide and deeply worn road that twists its way through a tiny
+village.  A few pale gray paving slabs scattered by the roadside hint that
+this road may have been paved in the past.  The road is now just a mud track
+with furrow marks scaring the surface; the marks were probably made by
+heavily laden carts and wagons that have used the thoroughfare.  The road
+bends sharply around to the south where in the distance the outskirts of the
+village and beyond that a vast area of grassland and woods can be seen. 
+Several small gray stone cottages overlook the thoroughfare at this point;
+most of them have been roofed with gray slate tiles but a couple of the
+older buildings have thatched roofs.  More buildings can be seen eastwards
+along the road; those buildings generally appear to be much larger than the
+ones built here.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 5121
+D2
+~
+~
+0 0
+0 -1 5113
+S
+#5116
+{yAn O{Dl{yd R{Doa{yd{x~
+This is an old and worn thoroughfare that meanders its way through a
+small village.  The road is now no more than a wide bare mud track whose
+surface is marred by deep ruts caused by heavy carts and wagons.  The
+thoroughfare may have been paved in the past; scattered by the roadside
+amongst clumps of tall grass are a few old paving slabs that are pale gray,
+almost white in color.  At this point the road joins a much narrower street
+that leads away to the west.  Both roads are overlooked by a small cottages
+constructed from rounded gray stones.  Each cottage has a similar low
+sloping roof that has been tiled in slate.  The whole village would be a
+gray and dismal sight if it were not for the brightly painted doors, window
+frames and shutters that transform each dwelling into something more
+colorful.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 5114
+D2
+~
+~
+0 0
+0 -1 5117
+D3
+~
+~
+0 0
+0 -1 5122
+S
+#5117
+{yAn O{Dl{yd R{Doa{yd{x~
+This appears to be a very old road that has been heavily worn down over
+the years by carts and wagons that have traveled along it.  The road
+meanders through a small village that consists of several buildings
+constructed from gray stone.  Most of the buildings have been roofed with
+slate tiles but a couple of the older structures have thatched roofs. 
+Brightly painted doors, window frames and shutters transform the gray and
+dreary abodes into something much more vibrant.  On the eastern side of the
+road there is a tall building with arched windows that dwarves the other
+buildings around it; a colorfully painted sign hangs above its door naming
+the building as the Three Bells Inn.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 5116
+D1
+An old and weather-beaten blue door marks an entrance into the inn.  
+~
+door~
+3 3
+1 -1 5104
+D2
+~
+~
+0 0
+0 -1 5118
+S
+#5118
+{yAn O{Dl{yd R{Doa{yd{x~
+The old road that meanders through the center of the small village bends
+sharply at this point.  The deep ruts and potholes that scar the surface of
+the muddy thoroughfare show that it has been worn down over many years by
+the carts and wagons use it.  Built along the eastern side of the road
+between two buildings is a very long and tall wall made of pale gray stone. 
+The wall's masonry looks pitted and worn with the majority of its surface
+covered with vines of dark green ivy.  An ornamental stone archway has been
+built into the wall; the arch is large enough to allow small wagons and
+carts to pass through it with ease.  The two buildings are made of the same
+type of stone as the wall; the northern most building is the larger of the
+two and appears to be an inn or a tavern.  The building to the south is much
+smaller than its neighbor; it is impossible to see what the second building
+is from here for it is almost entirely hidden from view by the stone wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 5117
+D1
+~
+~
+0 0
+0 -1 5110
+D3
+~
+~
+0 0
+0 -1 5119
+S
+#5119
+{yAn O{Dl{yd R{Doa{yd{x~
+This is an old road that snakes its way through the center of a small,
+yet quaint village.  Only a few remnants of the road's original paving can
+be seen embedded into the roadside, the majority of the stone slabs were
+probably taken by the villagers to build their homes.  What remains of the
+grand old thoroughfare is a wide muddy track, heavily worn down by years of
+use by heavy carts and wagons with the potential to become a mud bath in
+heavy rain.  The road is flanked on both sides by small buildings made of
+pale gray stone, most of these structures are cottages but a couple of shops
+can also be seen.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 5118
+D2
+~
+~
+0 0
+0 -1 5120
+D3
+Written on the sign above the door in a child-like scribble are the words
+"{mJ{Mun{mk S{Mho{mp{x".  
+~
+door~
+3 3
+1 -1 5134
+S
+#0
+
+
+
+#SPECIALS
+M 5121 spec_channeler_defensive
+S
+
+
+
+#RESETS
+D 0 5121 2 1
+D 0 5122 0 1
+D 0 5122 3 2
+D 0 5123 0 1
+D 0 5123 2 1
+D 0 5124 2 1
+D 0 5125 2 1
+D 0 5126 1 1
+D 0 5126 2 1
+D 0 5127 3 1
+D 0 5128 0 1
+D 0 5128 1 1
+D 0 5129 0 1
+D 0 5129 1 1
+D 0 5129 2 1
+D 0 5129 3 1
+D 0 5130 0 1
+D 0 5130 2 1
+D 0 5130 3 1
+D 0 5131 0 1
+D 0 5131 2 1
+D 0 5132 1 1
+D 0 5132 3 1
+D 0 5133 1 1
+D 0 5134 1 1
+D 0 5135 3 1
+D 0 5136 0 1
+D 0 5137 0 1
+D 0 5101 4 1
+D 0 5102 0 1
+D 0 5102 3 1
+D 0 5102 5 1
+D 0 5103 2 1
+D 0 5103 3 1
+D 0 5104 1 1
+D 0 5104 2 1
+D 0 5104 3 1
+D 0 5105 0 1
+D 0 5105 1 1
+D 0 5105 2 1
+D 0 5105 3 1
+D 0 5106 2 1
+D 0 5107 3 1
+D 0 5108 0 1
+D 0 5109 1 1
+D 0 5110 0 1
+D 0 5110 1 1
+D 0 5110 2 1
+D 0 5111 0 1
+D 0 5117 1 1
+D 0 5119 3 1
+M 0 5104 2 5120 1
+E 0 5104 0 10
+M 0 5111 2 5120 1
+E 0 5123 0 7
+M 0 5103 2 5121 1
+E 0 5103 0 15
+M 0 5106 3 5121 1
+E 0 5106 0 4
+M 0 5101 3 5122 1
+E 0 5101 0 7
+M 0 5106 3 5122 1
+E 0 5106 0 1
+M 0 5121 1 5123 1
+O 0 5125 0 5124
+M 0 5126 1 5124 1
+M 0 5102 3 5125 1
+E 0 5102 0 8
+M 0 5105 3 5125 1
+E 0 5105 0 16
+M 0 5122 1 5127 1
+M 0 5117 1 5128 1
+G 0 5112 0
+G 0 5113 0
+G 0 5114 0
+G 0 5115 0
+M 0 5123 1 5130 1
+E 0 5110 0 20
+M 0 5115 1 5131 1
+E 0 5133 0 9
+E 0 5120 0 15
+O 0 5142 0 5133
+O 0 5145 0 5133
+P 0 5146 1 5145 1
+P 0 5147 1 5145 1
+M 0 5124 1 5134 1
+G 0 5126 0
+G 0 5127 0
+G 0 5128 0
+G 0 5136 0
+O 0 5143 0 5135
+M 0 5125 3 5136 1
+G 0 5131 0
+M 0 5125 3 5137 1
+G 0 5131 0
+O 0 5135 0 5137
+O 0 5130 0 5138
+M 0 5125 3 5138 1
+G 0 5131 0
+O 0 5132 0 5139
+P 0 5144 1 5132 1
+M 0 5120 3 5101 3
+O 0 5129 0 5101
+M 0 5108 2 5102 2
+E 0 5108 0 20
+E 0 5137 0 8
+M 0 5114 1 5102 1
+G 0 5118 0
+G 0 5116 0
+G 0 5114 0
+G 0 5117 0
+O 0 5100 0 5102
+M 0 5107 1 5104 1
+E 0 5107 0 16
+M 0 5109 2 5104 2
+E 0 5134 0 10
+M 0 5113 1 5104 1
+E 0 5119 0 20
+E 0 5111 0 5
+M 0 5116 2 5106 1
+E 0 5121 0 7
+E 0 5122 0 20
+O 0 5138 0 5106
+O 0 5139 0 5107
+M 0 5116 2 5108 1
+E 0 5122 0 20
+E 0 5121 0 7
+O 0 5140 0 5108
+O 0 5141 0 5109
+M 0 5112 1 5111 1
+E 0 5110 0 20
+M 0 5118 1 5111 1
+M 0 5119 1 5111 1
+M 0 5104 2 5114 1
+E 0 5104 0 10
+M 0 5106 3 5114 1
+E 0 5106 0 4
+M 0 5105 3 5115 1
+E 0 5105 0 16
+M 0 5110 2 5115 1
+E 0 5109 0 8
+M 0 5101 3 5116 1
+E 0 5101 0 9
+M 0 5105 3 5116 1
+E 0 5105 0 16
+M 0 5102 3 5117 1
+E 0 5124 0 19
+E 0 5102 0 8
+M 0 5111 2 5117 1
+M 0 5101 3 5118 1
+E 0 5124 0 19
+E 0 5101 0 9
+M 0 5102 3 5118 1
+E 0 5102 0 8
+M 0 5103 2 5119 1
+E 0 5103 0 15
+M 0 5110 2 5119 1
+E 0 5109 0 8
+S
+
+
+
+#SHOPS
+5122 5 9 13 8 32 180 90 0 23
+5124 1 17 5 9 12 125 75 0 23
+5114 0 0 0 0 0 125 75 0 23
+5117 0 0 0 0 0 125 75 0 23
+0
+
+
+
+#$

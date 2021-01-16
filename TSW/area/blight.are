@@ -1,0 +1,958 @@
+#AREADATA
+Name The Great Blight~
+Builders None~
+VNUMs 7000 7199
+Credits kieron~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#7014
+hideous beast smelly ugly~
+{wa {Rh{Di{Rd{De{Ro{Du{Rs{D blight{w beast~
+{wa {Rh{Di{Rd{De{Ro{Du{Rs{w and smelly {Dblight{w beast snarls loudly
+~
+This beast is large, ugly, and smelly.  Attacking everything in sight
+from the wall to intruders to itself sometimes.  A rather stupid beast, it
+will take on anyone and anything that invades its territory.  
+~
+trolloc~
+ABFGS CFGJNPQV -1000 0
+97 30 10d169+920 0d0+0 5d10+25 pound
+0 0 0 0 0
+A
+30 30 30 30
+ACDEFGHIJKOQRU ABC 0 EF
+stand stand none 20
+c VW large 'unknown'
+#0
+
+
+
+#OBJECTS
+#7003
+limb arm torn~
+the torn off limb a brave hearted man~
+the torn off limb a brave hearted man is laying here~
+flesh~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#7007
+rocks stone~
+a large blood splattered rock~
+a large blood splattered rock rests on a ledge~
+stone~
+furniture O P
+2 1000 EH 50 20
+1 0 0 100
+#7014
+claws sharp~
+{wa pair of {rr{Da{wz{Do{rr{w {Ws{wh{Da{wr{Wp {yclaws{w~
+{wa pair of {rr{Da{wz{Do{rr{w {Ws{wh{Da{wr{Wp {yclaws{w lie here attracting bugs~
+skin~
+armor H AH
+18 18 18 16 0
+94 3 0 100
+A
+2 -1
+A
+3 -1
+A
+1 1
+A
+13 20
+A
+18 2
+#0
+
+
+
+#ROOMS
+#7000
+Entrance to the Blight~
+Past the door to the north are vicious monsters, who's only wish is to
+tear you limb from limb.  It is not recommended to proceed north without
+being very skilled in fighting, and fleeing.  Back to the south is a safe
+pathway to the city, only those who know what they are doing should go
+further north.  The greatest of men have fled the Blight in fear for their
+lives, entering the Blight in perfect health, and if they are lucky enough,
+coming out bloody and exhausted.  There is a large sign here.  (Type {WLOOK
+WARNING{w) 
+~
+0
+CK 3
+E
+warning~
+Warning: The Great Blight is no place for newbies, it is a place for
+experienced mudders of high level only.  It is recommended anyone who does
+not know what they are doing does not proceed north.  There are aggressive
+mobs and non-aggressive mobs, any character is at danger of subdual upon the
+entrance of any room in The Great Blight.  This is your last chance to head
+back south or recall to so-called safety.  If you proceed north and lose
+gold, weapons, or experience points, DO NOT complain to the Immortal staff
+of such occurences in The Great Blight or any other area with warnings for
+that matter.  You have been warned, enter at your own risk.  
+~
+D0
+~
+~
+3 3
+1 0 7001
+S
+#7001
+An Intersection Into the Blight~
+These rough dirt paths could lead anywhere, maybe even straight into a
+trolloc camp. Or perhaps they lead to safety. A foul stench seems to rise
+from the ground with every step taken.  Snarling noises and snorts of wild
+bests can be heard from every direction, the frightening shriek of a
+Myrddraal just killed comes from way off in the distance.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7002
+D1
+~
+~
+0 0
+0 0 7023
+D2
+~
+~
+3 3
+1 0 7000
+D3
+~
+~
+0 0
+0 0 7026
+S
+#7002
+A Continuing Path~
+This path continues on deeper into the dark Blight.  Reaching ever closer
+to the dangers held within the area.  The snarling grows louder and louder. 
+The crackling of foots steps can be heard from somewhere close by.  The
+smell seems to worsen with every step closer to the north.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7003
+D2
+~
+~
+0 0
+0 0 7001
+S
+#7003
+An Ever-Darkening Path~
+This path continues deeper into the dark Blight.  Reaching ever closer to
+the dangers held within the area.  The snarling grows louder and louder. 
+The crackling of footsteps can be heard from somewhere close by.  The smell
+seems to worsen with every step closer to the north.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7006
+D1
+~
+~
+0 0
+0 0 7005
+D2
+~
+~
+0 0
+0 0 7002
+D3
+~
+~
+0 0
+0 0 7004
+S
+#7004
+A Rocky Path~
+This is the path just below the Mountains of Dhoom.  There appears to be
+no danger here, but one will never know with the wandering beasts hiding
+within the mountains.  The terrain here is rough and rocky.  Growling noises
+seem to echoe from within the valleys of the mountains.  Back to the east
+the path appears to be smoother, off to the west it only gets rockier, to
+the north it is too dark to tell what dangers could be ahead.  
+~
+0
+AN 4
+D1
+~
+~
+0 0
+0 0 7003
+D2
+~
+~
+0 0
+0 0 7007
+D3
+~
+~
+0 0
+0 0 7009
+S
+#7005
+A Path Through the Blight~
+The trees are just thin enough to still see the peaks of the mountains
+which seem to surround the area and cast the darkest of shadows.  Shrieks
+and shrills can be heard in the faint distance.  The air is still and humid
+and a light layer of fog gently makes its way through the trees.  
+~
+0
+AN 3
+D1
+~
+~
+0 0
+0 0 7019
+D2
+~
+~
+0 0
+0 0 7024
+D3
+~
+~
+0 0
+0 0 7003
+S
+#7006
+A Darkened Path~
+The path has suddenly become darker.  All is silent here, it is an eerie
+silence at that.  Not a noise can be heard except the noises of imagination.
+Hullucinations seem to get the best of every man who travels this tretorous
+path.  The pure silence will drive anyone insane in just a few minutes.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7015
+D2
+~
+~
+0 0
+0 0 7003
+S
+#7007
+The Mountains of Dhoom~
+The rocks slip and tumble down the side of the mountain with every step
+taken.  The danger becomes ever so present now.  The rocks appear to be
+plattered with blood, could this be of a beast or of a human.  Perhaps a
+brave fighter was slaughtered for a meal by a beast of the Blight.  Perhaps
+a beast of the Blight was slaughtered by a brave fighter for a trophy of
+some kind.  
+~
+0
+AN 5
+D0
+~
+~
+0 0
+0 0 7004
+D3
+~
+~
+0 0
+0 0 7008
+S
+#7008
+The Mountains of Dhoom~
+~
+0
+AN 5
+D0
+~
+~
+0 0
+0 0 7009
+D1
+~
+~
+0 0
+0 0 7007
+D3
+~
+~
+0 0
+0 0 7013
+S
+#7009
+A Dusty and Rocky Path~
+The rocks seem to be getting bigger as the path goes on towards the edge
+of the Blight.  The Mountains of Dhoom tower above everything on the ground,
+casting great shadows over the whole Blight.  The darkness and the little
+noises create great fear within every soul.  The possibility of being
+attacked at any second lingers in the back of your mind.  
+~
+0
+AN 4
+D1
+~
+~
+0 0
+0 0 7004
+D2
+~
+~
+0 0
+0 0 7008
+D3
+~
+~
+0 0
+0 0 7010
+S
+#7010
+A Trecherous Path~
+The path has become almost impossible to walk on.  Rocks lie scattered
+over everything, looking as if an avalanche had occured.  The path appears
+to stop just west of here.  Rather far off to the east is the more safer
+parts of the path.  The Mountains of Dhoom still tower above, never ceasing
+to block the much needed light.  
+~
+0
+AN 4
+D1
+~
+~
+0 0
+0 0 7009
+D2
+~
+~
+0 0
+0 0 7013
+D3
+~
+~
+0 0
+0 0 7011
+S
+#7011
+The Path Ends~
+The Path comes to an end at the base of a cliff grown over with vines and
+weeds.  There seems to be nowhere to turn except to head for the mountains
+or back track on the path.  The mounatins look very dangerous to climb, and
+the cliff is straight up, the vines might be able to hold the weight of a
+small child.  It appears to be pitch black behind the vines, seeming as if
+there was nothing behind them, perhaps a drop off to a lower cliff.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 7010
+D2
+~
+~
+0 0
+0 0 7012
+D3
+~
+~
+0 0
+0 0 7014
+S
+#7012
+The Mountains of Dhoom~
+There is no path high along the mountains.  There could be no beasts up
+here, they would not survive, or could they.  The Blight creatures have
+adapted to just about every harsh condition imagineable.  Having to live in
+the dark without ever seeing light, except the burning torch of a poor lost
+soul.  At seeing that, they think of food an attack, not caring if they are
+harmed.  
+~
+0
+AN 5
+D0
+~
+~
+0 0
+0 0 7011
+D1
+~
+~
+0 0
+0 0 7013
+S
+#7013
+Mountains of Dhoom~
+~
+0
+AN 5
+D0
+~
+~
+0 0
+0 0 7010
+D1
+~
+~
+0 0
+0 0 7008
+D3
+~
+~
+0 0
+0 0 7012
+S
+#7014
+A Hidden Cave~
+Inside this dark desolate cave all is silent except for the heavy
+breathing of something echoeing against the walls.  A large beast jumps from
+within the shadows to attack anything that moves to protect its home from
+preying humans.  There is not even a moment to flee.  Yet another soul it
+has claimed.  
+~
+0
+AN 0
+D1
+~
+~
+0 0
+0 0 7011
+S
+#7015
+A Dark Path~
+The path is very dark and it is hard to see.  There is a rustling and
+growling noise just to the north, but there is not enough light to see what
+it may be.  The path is slightly lightened to the south where it is still
+not completely safe, but at least there are no strange noises coming from that direction.
+~
+0
+N 3
+D0
+~
+~
+0 0
+0 0 7016
+D2
+~
+~
+0 0
+0 0 7006
+S
+#7016
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter. Beasts find it hard to live out here, but seem to manage
+all the same.  Only the brave continue their journey from this point on, or
+the stupid.  No man has ever survived out here more than a few days.  The
+wind blows sand up into your face as you trudge along diligently.  
+~
+0
+N 10
+D0
+~
+~
+0 0
+0 0 7034
+D1
+~
+~
+0 0
+0 0 7028
+D2
+~
+~
+0 0
+0 0 7015
+D3
+~
+~
+0 0
+0 0 7032
+M 50 H 50
+S
+#7019
+Bog of the Great Blight~
+It is foggier here.  The trees have forced the mountains to long
+disappear from view.  Cries of death and despair echo throughout the
+nothingness you tread through.  It is more humid, but little sunlight ever
+penetrates the thickness of the trees.  Something is moving back in the
+darkness.  
+~
+0
+AN 3
+D2
+~
+~
+0 0
+0 0 7020
+D3
+~
+~
+0 0
+0 0 7005
+S
+#7020
+Bog of the Great Blight~
+It is foggier here.  The trees have forced the mountains to long
+disappear from view.  Cries of death and despair echo throughout the
+nothingness you tread through It is more humid here, but little sunlight
+ever penetrates the thickness of the trees.  Something is moving back in the
+darkness.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7019
+D2
+~
+~
+0 0
+0 0 7021
+S
+#7021
+Bog of the Great Blight~
+It is foggier here.  The trees have forced the mountains to long
+disappear from view.  Cries of death and despair echo throughout the
+nothingness you tread through.  It is more humid here, but little sunlight
+ever penetrates the thickness of the trees.  Something is moving back in the
+darkness.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7020
+D2
+~
+~
+0 0
+0 0 7022
+S
+#7022
+Bog of the Great Blight~
+It is foggier here.  The trees have forced the mountains to long
+disappear from view.  Cries of death and despair echo throughout the
+nothingness you tread through.  It is more humid here, but little sunlight
+ever penetrates the thickness of the trees.  Something is moving back in the
+darkness.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7021
+D3
+~
+~
+0 0
+0 0 7023
+S
+#7023
+A Path Through the Blight~
+The trees are just thin enough to still see the peaks of the mountains
+which seem to surround the area and cast the darkest of shadows.  Shrieks
+and shrills can be heard in the faint distance The air is still and humid
+and a light layer of fog gently makes it way through the trees.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7025
+D1
+~
+~
+0 0
+0 0 7022
+D3
+~
+~
+0 0
+0 0 7001
+S
+#7024
+A Path Through the Blight~
+The trees are just thin enough to still see the peaks of the mountains
+which seem to surround the area and cast the darkest of shadows.  Shrieks
+and shrills can be heard in the faint distance.  The air is still and humid
+and a light layer of fog gently makes its way through the trees.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 7005
+D2
+~
+~
+0 0
+0 0 7025
+S
+#7025
+A Path Through the Blight~
+The trees are just thin enough to still see the peaks of the mountains
+which seem to surround the area and cast the darkest of shadows.  Shrieks
+and shrills can be heard in the faint distance.  The air is still and humid
+and a light layer of fog gently makes it way through the trees.  
+~
+0
+AN 10
+D0
+~
+~
+0 0
+0 0 7024
+D2
+~
+~
+0 0
+0 0 7023
+M 0 H 0
+S
+#7026
+A Rocky Path~
+This is a path just below the Mountains of Dhoom.  There appears to be no
+danger here, but on will never know with the wandering beasts hiding within
+the mountains.  The terrain here is rough and rocky.  Growling noises seem
+to echo from within the valleys of the mountains.  Back to the east the path
+appears to be smoother, off the the west it only gets rockier.  
+~
+0
+AN 4
+D1
+~
+~
+0 0
+0 0 7001
+D3
+~
+~
+0 0
+0 0 7027
+S
+#7027
+A Dusty and Rocky Path~
+The rocks seem to be getting bigger as the path goes on towards the edge
+of the Blight.  The Mountains of Dhoom tower above everythin on the ground,
+casting great shadows over the whole Blight.  Many people have lost their
+lives by proceeding at this point.  Cries of pain and agony seem to come
+from every direction.  
+~
+0
+AN 4
+D1
+~
+~
+0 0
+0 0 7026
+S
+#7028
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+AN 10
+D0
+~
+~
+0 0
+0 0 7042
+D1
+~
+~
+0 0
+0 0 7030
+D3
+~
+~
+0 0
+0 0 7016
+M 50 H 50
+S
+#7030
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+N 10
+D0
+~
+~
+0 0
+0 0 7043
+D1
+~
+~
+0 0
+0 0 7031
+D3
+~
+~
+0 0
+0 0 7028
+M 50 H 50
+S
+#7031
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+AN 10
+D1
+~
+~
+0 0
+0 0 7033
+D3
+~
+~
+0 0
+0 0 7030
+M 50 H 50
+S
+#7032
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.
+~
+0
+AN 10
+D1
+~
+~
+0 0
+0 0 7016
+D3
+~
+~
+0 0
+0 0 7035
+M 50 H 50
+S
+#7033
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but it seem to manage all
+the same.  Only the brave continue their journey from thie point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+AN 10
+D3
+~
+~
+0 0
+0 0 7031
+M 50 H 50
+S
+#7034
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The winds
+blows sand up into your face as you trudge along diligently.  
+~
+0
+AN 10
+D1
+~
+~
+0 0
+0 0 7042
+D2
+~
+~
+0 0
+0 0 7016
+M 50 H 50
+S
+#7035
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+AN 10
+D1
+~
+~
+0 0
+0 0 7032
+D3
+~
+~
+0 0
+0 0 7036
+M 50 H 50
+S
+#7036
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+AN 10
+D1
+~
+~
+0 0
+0 0 7035
+D3
+~
+~
+0 0
+0 0 7037
+M 50 H 50
+S
+#7037
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet a night, is is colder than almost any
+winter.  Beasts find it hard to live out here, but seem to manage all the
+same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here more than a few days.  The wind
+blows sand up into your face as you trudge along diligently.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 7036
+M 50 H 50
+S
+#7042
+The Unknown Blight~
+The sun cast a heat like no other when shining even a little, making the
+desert sand burn under bare feet.  Yet at night, it is colder than almost
+any winter.  Beasts find it hard to live out here, but seem to manage all
+the same.  Only the brave continue their journey from this point on, or the
+stupid.  No man has ever survived out here for more than a few days.  The
+wind blows sand up into your face as you trudge along diligently.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 7043
+D2
+~
+~
+0 0
+0 0 7028
+D3
+~
+~
+0 0
+0 0 7034
+M 50 H 50
+S
+#7043
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 7030
+D3
+~
+~
+0 0
+0 0 7042
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 7000 0 1
+D 0 7001 2 1
+O 0 7007 0 7007
+M 0 7014 1 7014 1
+E 0 7014 0 9
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

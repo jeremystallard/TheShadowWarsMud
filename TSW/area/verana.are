@@ -1,0 +1,7065 @@
+#AREADATA
+Name Tanchico - Verana District~
+Builders Oniren~
+VNUMs 10800 10999
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#10800
+smartly dressed guard~
+a smartly-dressed guard~
+A smartly-dressed guard watches over the entrance into the Panarch's Circle.
+~
+~
+taraboner~
+ABT 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10801
+Civil Watch~
+a member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x~
+A member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x vigilantly patrols the area.
+~
+~
+taraboner~
+AGTW 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+CE AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10802
+scruffy horse~
+a scruffy-looking horse~
+One of the stable's stalls is occupied by a scruffy-looking horse.
+~
+~
+rabbit~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand either 0
+0 0 large 'unknown'
+#10803
+serving maid~
+a {gs{Ge{gr{Gv{gi{Gn{gg{G m{ga{Gi{gd{x~
+A {gs{Ge{gr{Gv{gi{Gn{gg{G m{ga{Gi{gd{x hisses a curse at one of the patrons who tries to grab her bottom.
+~
+~
+taraboner~
+ABS 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#10804
+young child~
+a young child~
+A young child dashes through the crowds and generally getting in the way.
+~
+~
+taraboner~
+AGSW 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand either 5
+0 0 medium 'unknown'
+#10805
+local person~
+a local person~
+A one of the locals hurries along the road.
+~
+~
+taraboner~
+AGSW 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+N AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#10806
+young spectator child~
+a {gy{Go{gu{Gn{gg{x {gs{Gp{ge{Gc{gt{Ga{gt{Go{gr{x~
+A {gy{Go{gu{Gn{gg c{Gh{gi{Gl{gd{x stares in awe at the colorful display hosted by the Illuminators at the center of the Panarch's Circle.
+~
+~
+taraboner~
+ABT 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand either 5
+0 0 small 'unknown'
+#10807
+stressed cook~
+a stressed-out cook~
+A few foul-mouthed curses can be heard from this stressed-out cook.
+~
+~
+taraboner~
+ABS 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand either 20
+0 0 medium 'unknown'
+#10808
+ostler~
+an {yo{Ys{ytl{Ye{yr{x~
+An {yo{Ys{ytl{Ye{yr{x lounges around the stable as they shirk their duties.
+~
+~
+taraboner~
+ABT 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10809
+scrawny youth pickpocket~
+a {gp{Gi{gc{Gk{gpo{Gc{gk{Ge{gt{x~
+A {gs{Gc{gr{Ga{gw{Gn{gy y{Go{gu{Gt{gh{x appears to be paying far too much attention to other peoples' coin purses.
+~
+~
+taraboner~
+AGS 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+IN AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#10810
+male spectator man~
+a {cm{Ca{cl{Ce{c s{Cp{ce{Cc{ct{Ca{ct{Co{cr{x~
+A {cm{Ca{cn{x is sat on one of the benches watching the firework display.
+~
+~
+taraboner~
+ABT 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10811
+female spectator woman~
+a {cf{Ce{cm{Ca{cl{Ce{c s{Cp{ce{Cc{ct{Ca{ct{Co{cr{x~
+A {cw{Co{cm{Ca{cn{x is sat on one of the benches, staring up at the fireworks that light up the sky.
+~
+~
+taraboner~
+ABS 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#10812
+young laborer~
+a {cyoung laborer{x~
+A {cyoung laborer{x pushes a wheelbarrow down the muddy thoroughfare.
+~
+~
+taraboner~
+AGTW 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+CJ AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10813
+carpenter~
+a {ycarpenter{x~
+A {ycarpenter{x is busy helping to assemble one of the buildings.
+~
+~
+taraboner~
+AGSW 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+JN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10814
+bricklayer~
+a {rbricklayer{x~
+A tall building takes form as one of the {rbricklayers{x aids in its construction.
+~
+~
+taraboner~
+AGTW 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+CJ AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10815
+roofer~
+a {Dr{wo{Dof{we{Dr{x~
+A {Dr{wo{Dof{we{Dr{x balances precariously high up on one of the many scaffolds.
+~
+~
+taraboner~
+AGSW 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+JN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10816
+young tourist~
+a {by{Boun{bg t{Bouris{bt{x~
+A {by{Boun{bg t{Bouris{bt{x stops to stare in awe at the carvings along the walls of the gallery.
+~
+~
+taraboner~
+AGTY 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+I AB 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#10817
+innkeeper~
+the {ginnkeeper{x~
+Standing in the corner of the common room watching over the patrons is the {ginnkeeper{x.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#10818
+drunken patron~
+a drunken patron~
+One of the common room's {yt{Ya{Wbles{x is occupied by a drunken patron.
+~
+~
+taraboner~
+ABT 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10819
+busy servant~
+a busy {gs{Ge{gr{Gv{ga{Gn{gt{x~
+One of the inn's {gs{Ge{gr{Gva{gn{Gt{gs{x hurries to and from the wagon as they help to unload the {yw{wa{yg{wo{yn{x.
+~
+~
+taraboner~
+ABT 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+I ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10820
+female servant~
+a {cf{Cema{Wle ser{Cvan{ct{x~
+A {cf{Cema{Wle ser{Cvan{ct{x hurries along the corridor.
+~
+~
+taraboner~
+AGSY 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+IN AB 0 0
+stand stand female 20
+0 0 medium 'unknown'
+M 'GREET' 10800 5~
+#10821
+male servant~
+a {cm{Cal{We ser{Cvan{ct{x~
+One of the {cm{Cal{We ser{Cvant{cs{x looks particularly busy with his chores.
+~
+~
+taraboner~
+AGSY 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+IN AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+M 'GREET' 10800 5~
+#10822
+palace servants~
+a {cp{Cala{Wce{x {Wser{Cvan{ct{x~
+One of the {cp{Cala{Wce{x {Wser{Cvant{cs{x scurries through the kitchen with a {Ds{wi{Wlver tr{wa{Dy{x in their arms.
+~
+~
+taraboner~
+ABS 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+IN ABb 0 0
+stand stand either 20
+0 0 medium 'unknown'
+#10823
+stable attendant~
+a {cs{Ctab{Wle atte{Cndan{ct{x~
+A {cs{Ctab{Wle atte{Cndan{ct{x is leaning against one of the walls, chewing on a piece of straw.
+~
+~
+taraboner~
+ABT 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+CI ABb 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#10824
+magnificent stallion~
+a magnificent stallion~
+A magnificent stallion occupies one of the stalls inside the stable.
+~
+~
+rabbit~
+AB 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand male 0
+0 0 large 'unknown'
+F off FH
+#10825
+panarch legion soldier~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+A member of the {gP{Ganarc{gh's L{Gegio{gn{x stands guard over the gate.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10826
+panarch legion soldier~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+A member of the {gP{Ganarc{gh's L{Gegio{gn{x stands beside the entrance, watching over the exhibition hall.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10827
+panarch legion soldier~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+The entrance into the palace is being watched over by a member of the {gP{Ganarc{gh's L{Gegio{gn{x.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10828
+panarch legion soldier~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+The servants' entrance into the palace is being guarded by a member of the {gP{Ganarc{gh's L{Gegio{gn{x.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10829
+panarch legion soldier~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+The area is being patrolled by one of the members of the {gP{Ganarc{gh's L{Gegio{gn{x.
+~
+~
+taraboner~
+AGT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10830
+local craftsman~
+a {Dl{go{Gcal crafts{gma{Dn{x~
+A {Dl{go{Gcal crafts{gma{Dn{x is toiling away inside the workshop.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#10831
+panarch legion soldier dicing~
+a {Dd{wi{Wci{wn{Dg{x {gs{Goldie{gr{x~
+A {gs{Goldie{gr{x is sat at the small table playing a game of dice with his colleague.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+sit sit male 25
+0 0 medium 'unknown'
+#10832
+panarch legion off duty soldier~
+an off-duty member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+An off-duty {gs{Goldie{gr{x is sat at one of the tables, eating a bowl of beef stew.
+~
+~
+taraboner~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10833
+panarch legion off duty soldier~
+an off-duty member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+An off-duty {gs{Goldie{gr{x is lounging around on his bunk.
+~
+~
+taraboner~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10834
+blacksmith~
+the {Db{gla{Gcksm{git{Dh{x~
+A heavily-muscled {Db{gla{Gcksm{git{Dh{x is working at the forge.
+~
+~
+taraboner~
+ABE 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#10835
+young recruit~
+a {gr{Gecrui{gt{x~
+A young {gr{Gecrui{gt{x is helping out at the stable.
+~
+~
+taraboner~
+ABS 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10836
+elegant horse~
+a {Dh{yors{De{x~
+An elegant-looking {Dh{yors{De{x occupies one of the stalls inside the stable.
+~
+~
+rabbit~
+AB 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 charge
+0 0 0 0 0
+A
+2 2 2 2
+0 ABb 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off FH
+#10837
+craftsmans apprentice~
+the {Dc{gra{Gfts{gma{Dn's a{gpp{Grent{gic{De{x~
+The {Dc{gra{Gfts{gma{Dn's a{gpp{Grent{gic{De{x appears to be in a hurry to complete his chores.
+~
+~
+taraboner~
+ABS 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+N ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10838
+panarch legion archer~
+an archer of the {gP{Ganarc{gh's L{Gegio{gn{x~
+An {ga{Grche{gr{x is nocking his bow and readying himself for his next shot at the targets.
+~
+~
+taraboner~
+ABS 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+EIN ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10839
+scholarly man~
+a {cs{Ccholarly ma{cn{x~
+A {cs{Ccholarly ma{cn{x dressed in fine garments peruses around the exhibition hall.
+~
+~
+taraboner~
+AGTY 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#10840
+scholarly woman~
+a {ms{Mcholarly woma{mn{x~
+A {ms{Mcholarly woma{mn{x garbed in fine clothing gazes around the exhibition hall.
+~
+~
+taraboner~
+AGSY 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#10841
+noble lady elegantly~
+a {mn{Mobl{me l{Mad{my{x~
+An elegantly dressed {ml{Mad{my{x peers over the balcony's balustrade, appearing to be in deep thought.
+~
+~
+taraboner~
+AGSY 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+N ABb 0 0
+stand stand female 150
+0 0 medium 'unknown'
+#10842
+palace cook~
+a {cp{Cala{Wce c{Coo{ck{x~
+A {cp{Cala{Wce c{Coo{ck{x hurries around the kitchen as they attempt to complete their given tasks.
+~
+~
+taraboner~
+ABS 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+N ABb 0 0
+stand stand either 20
+0 0 medium 'unknown'
+#10843
+palace footmen footmen~
+a {cp{Cala{Wce foo{Ctma{cn{x~
+One of the {cp{Cala{Wce foo{Ctme{cn{x is helping to unload the {yw{wa{Dgo{wn{ys{x and {yc{wa{Wr{wt{ys{x.
+~
+~
+taraboner~
+ABT 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+CJ ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10844
+fluffy white cat~
+a {Wf{wl{Wuf{wf{Wy w{wh{Wi{wt{We c{wa{Wt{x~
+A {Wf{wl{Wuf{wf{Wy w{wh{Wi{wt{We c{wa{Wt{x encircles the {Df{wo{Wuntai{wn{Ds{x as it watches the {yf{Yi{Wsh{Re{rs{x swimming inside them. 
+~
+~
+cat~
+AB J 0 0
+27 17 14d14+729 27d10+100 3d10+13 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+#10845
+noble flamboyantly dressed lord~
+a {bn{Bobl{be l{Bor{bd{x~
+A flamboyantly dressed {bl{Bor{bd{x strides down the hallway.
+~
+~
+taraboner~
+AGT 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+C AB 0 0
+stand stand male 150
+0 0 medium 'unknown'
+#10846
+panarch legion young cadet~
+a cadet of the {gP{Ganarc{gh's L{Gegio{gn{x~
+A {gy{Goun{gg c{Gade{gt{x passes by at a hurried pace.
+~
+~
+taraboner~
+AGTW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+I AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10847
+panarch legion low ranking officer~
+a {gl{Go{gw-r{Gankin{gg o{Gffice{gr{x~
+A {gl{Go{gw-r{Gankin{gg o{Gffice{gr{x is rummaging through one of the lockers as he searches for something.
+~
+~
+taraboner~
+ABS 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+IKN ABb 0 0
+stand stand male 150
+0 0 medium 'unknown'
+#10848
+young recruit~
+a {gy{Goun{gg r{Gecrui{gt{x~
+A {gy{Goun{gg r{Gecrui{gt{x deftly duels with one of the {ys{Ytra{yw d{Yummie{ys{x.
+~
+~
+taraboner~
+ABS 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+JN ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10849
+young recruits~
+a {gy{Goun{gg r{Gecrui{gt{x~
+This is one of several {gy{Goun{gg r{Gecruit{gs{x practicing sword forms in a group.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CJ ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10850
+stern instructor~
+a {gs{Gter{gn i{Gnstructo{gr{x~
+A {gs{Gter{gn i{Gnstructo{gr{x paces up and down the field as he supervises over the recruits.
+~
+~
+taraboner~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CFJ ABb 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#10851
+cavalryman panarch legion soldier~
+a cavalryman of the {gP{Ganarc{gh's L{Gegio{gn{x~
+This is one of several {gs{Gol{Wdi{Ger{gs{x on horseback that is training in this area.
+~
+~
+taraboner~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 charge
+0 0 0 0 0
+A
+2 2 2 2
+CIK ABb 0 0
+stand stand male 100
+0 0 large 'unknown'
+#10852
+hawk eyed instructor~
+a {gh{Gaw{gk-e{Gye{gd i{Gnstructo{gr{x~
+A {gh{Gaw{gk-e{Gye{gd i{Gnstructo{gr{x paces up and down the field as he supervises over the archers.
+~
+~
+taraboner~
+ABS 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FJN ABb 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#10853
+panarch legion soldier heavily armored guard~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+A {gh{Geavil{gy-a{Grmore{gd g{Guar{gd{x stands watch over the throne room's entrance.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEIK ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10854
+colorfully attired merchant~
+a colorfully attired {rm{Rerchan{rt{x~
+A colorfully attired {rm{Rerchan{rt{x is being escorted through the palace by a member of the {gP{Ganarc{gh's {x{gL{Gegio{gn{x.
+~
+~
+taraboner~
+AGSY 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand either 150
+0 0 medium 'unknown'
+#10855
+outlander lord~
+an {bo{Butlande{br l{Bor{bd{x~
+An {bo{Butlande{br l{Bor{bd{x looks lost as he wanders around the palace.
+~
+~
+domani~
+AGSY 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+KN AB 0 0
+stand stand male 150
+0 0 medium 'unknown'
+#10856
+outlander lady~
+an {mo{Mutlande{mr l{Mad{my{x~
+An {mo{Mutlande{mr l{Mad{my{x looks lost as she strolls around the palace.
+~
+~
+domani~
+AGTY 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+CK AB 0 0
+stand stand female 150
+0 0 medium 'unknown'
+#10857
+tairen lord odd noble~
+a {yT{Ya{Dir{Ye{yn{x lord~
+An {ro{Rd{rd-l{Rookin{rg n{Robl{re{x stands in one corner of the chamber, warily eying the room's other occupants.
+~
+~
+tairen~
+ABT 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+CI ABb 0 0
+stand stand male 250
+0 0 medium 'unknown'
+#10858
+domani lady willowy woman~
+a {gD{Go{Cma{Gn{gi{x lady~
+A {gw{Gillow{gy w{Goma{gn{x impatiently paces up and down the corridor.
+~
+~
+domani~
+ABS 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+IN ABb 0 0
+stand stand female 250
+0 0 medium 'unknown'
+#10859
+cairhienin lord smartly dressed noble~
+a {bC{Bai{yr{Yhi{ye{Bni{bn{x lord~
+A {bs{Bmartl{by-d{Bresse{bd n{Bobl{be{x lounges on one of the {rc{Rou{rc{Rhe{rs{x.
+~
+~
+cairhienin~
+ABT 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+CI ABb 0 0
+stand stand male 250
+0 0 medium 'unknown'
+#10860
+palace servant~
+a {cp{Cala{Wce{w {Wser{Cvan{ct{x~
+A {cp{Cala{Wce{w {Wser{Cvan{ct{x smiles nervously as she attends to the guests within the audience chamber.
+~
+~
+taraboner~
+ABS 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 punch
+0 0 0 0 0
+A
+0 0 0 0
+N ABb 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#10861
+merchants guard~
+a {Dm{yer{wcha{yn{Dt's g{yu{wa{yr{Dd{x~
+There is a {Dm{yer{wcha{yn{Dt's g{yu{wa{yr{Dd{x overseeing the parking of his master's wagon.
+~
+~
+taraboner~
+ABT 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+CI ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10862
+local merchant~
+a {rl{Ro{rc{Ra{rl m{Re{rr{Rch{ra{Rn{rt{x~
+A {rg{Rr{ra{Rn{rd{Rl{ry-d{Rr{re{Rs{rs{Re{rd i{Rn{rd{Ri{rvi{Rd{ru{Ra{rl{x makes their way up the {Ws{wt{Wo{wn{We s{wt{We{wp{Ws{x towards the spectators' gallery.
+~
+~
+taraboner~
+ABS 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+N ABb 0 0
+stand stand either 75
+0 0 medium 'unknown'
+#10863
+heavily muscled worker~
+a heavily-muscled worker~
+A heavily-muscled worker swaggers down the muddy track on his way to his next assignment.
+~
+~
+taraboner~
+AGTW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+CJ AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10864
+panarch legion soldier tall guardsman~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+A {gt{Gal{gl g{Guardsma{gn{x watches over the Grand Hall's entrance.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10865
+panarch legion soldier gray guardsman~
+a member of the {gP{Ganarc{gh's L{Gegio{gn{x~
+A gray-haired {gg{Guardsma{gn{x is patrolling the top of the tower.
+~
+~
+taraboner~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#10866
+pickpocket shifty looking man~
+a {Dpickpocket{x~
+A shifty-looking man scuttles down the street.
+~
+~
+taraboner~
+AGSW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+JN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10867
+hawker~
+a {mhawker{x~
+A {mhawker{x tries to sell their wares on the edge of the street.
+~
+~
+taraboner~
+AGSW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+N AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#10868
+wagon driver plainly garbed man~
+a {ywagon driver{x~
+A {yplainly-garbed man{x guides his horse-drawn wagon down the road.
+~
+~
+taraboner~
+AGTW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10869
+gleeman~
+a {bg{Bl{ge{Ge{ym{Ya{Wn{x~
+A crowd of people has formed around this {bg{Bl{ge{Ge{ym{Ya{Wn{x who entertains the folk with acrobatics and songs.
+~
+~
+taraboner~
+AGSW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+IJ AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10870
+dyer young woman~
+a {md{Mye{mr{x~
+Hurrying down the road is a {my{Mo{mu{Mn{mg w{Mo{mm{Ma{mn{x garbed in a grubby apron.
+~
+~
+taraboner~
+AGTW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+I AB 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#10871
+wisdom gray haired woman~
+a {gW{Gisdo{gm{x~
+The crowds appear to give way for this gray-haired woman. 
+~
+~
+taraboner~
+AGQW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+55 5 5 55 5
+A
+0 0 0 0
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#10872
+elderly man~
+an {De{wl{Wderly m{wa{Dn{x~
+An {De{wl{Wderly m{wa{Dn{x looks intrigued as he watches the Illuminators' firework display.
+~
+~
+taraboner~
+ABS 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+sit sit male 10
+0 0 medium 'unknown'
+#10873
+elderly woman~
+an {De{wl{Wderly wom{wa{Dn{x~
+An {De{wl{Wderly wom{wa{Dn{x appears to be more occupied with her knitting than watching the Illuminators' show.
+~
+~
+taraboner~
+ABT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 ABb 0 0
+sit sit female 10
+0 0 medium 'unknown'
+#10874
+apprentice illuminator~
+an apprentice {rI{Rll{Yumina{Rto{rr{x~
+A young apprentice assists the {rM{Ra{Yst{Re{rr{x {rI{Rll{Yuminat{Ror{rs{x with their work.
+~
+~
+taraboner~
+ABS 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+N ABb 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#10875
+master illuminator~
+a {rM{Ra{Yst{Re{rr I{Rll{Yumina{Rto{rr{x~
+A {rM{Ra{Yst{Re{rr I{Rll{Yumina{Rto{rr{x lights up the sky with a dazzling display of fireworks.
+~
+~
+taraboner~
+ABT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+C ABb 0 0
+stand stand either 50
+0 0 medium 'unknown'
+#10876
+apprentice blacksmith~
+an {Da{gpp{Grent{gic{De{x {Db{gla{Gcksm{git{Dh{x~
+An {Da{gpp{Grent{gic{De{x {Db{gla{Gcksm{git{Dh{x assists his master with his work.
+~
+~
+taraboner~
+ABT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+C ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#10877
+men man wealthy gambler~
+a {cw{ge{Galt{gh{cy g{ga{Gmbl{ge{cr{x~
+This is one of several {gm{Ge{cn{x sat around the {yg{Yr{Wand{y t{Ya{Wble{x, dicing for money.
+~
+~
+taraboner~
+ABS 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+N AB 0 0
+stand stand male 150
+0 0 medium 'unknown'
+#10878
+palace footman~
+a {cp{Cala{Wce foo{Ctma{cn{x~
+A {cf{Co{Wotm{Ca{cn{x wanders the grand hallways of the Panarch's Palace.
+~
+~
+taraboner~
+AGSY 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+IN AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#10800
+small gray stone marker~
+a {Dg{wra{Dy s{wton{De m{warke{Dr{x~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+writing~
+The {gw{Gritin{gg{x engraved upon the {Dg{wra{Dy s{wton{De m{warke{Dr{x reads:
+{gN{Gort{gh >>---> T{Ganchic{go M{Gai{gn C{Git{gy{x
+~
+E
+small gray stone marker~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside with some
+{gw{Gritin{gg{x engraved upon it.  
+~
+#10801
+small gray stone marker~
+a {Dg{wra{Dy s{wton{De m{warke{Dr{x~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+writing~
+The {gw{Gritin{gg{x engraved upon the {Dg{wra{Dy s{wton{De m{warke{Dr{x reads:
+{gE{Gas{gt >>---> T{Ganchic{go M{Gai{gn C{Git{gy{x
+~
+E
+small gray stone marker~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside with some
+{gw{Gritin{gg{x engraved upon it.  
+~
+#10802
+green surcoat~
+a {gg{Gree{gn s{Gurcoa{gt{x~
+A green surcoat has been left here.~
+cloth~
+armor S AD
+5 5 5 5 0
+20 3 45 100
+A
+5 1
+#10803
+chainmail veil~
+a {Dc{wh{Wa{Di{wn{Wm{Da{wi{Wl{D v{we{Wi{Dl{x~
+A chainmail veil has been left here.~
+steel~
+armor 0 AV
+5 5 5 5 0
+20 1 250 100
+A
+17 -5
+#10804
+rounded steel cap~
+a {Dr{wo{Wund{we{Dd s{wt{Weel c{wa{Dp{x~
+A rounded steel cap has been left here.~
+steel~
+armor 0 AE
+5 5 5 5 0
+20 2 300 100
+A
+17 -5
+#10805
+green kite shield~
+a {gg{Gree{gn k{Git{ge s{Ghiel{gd{x~
+A green kite shield has been left here.~
+steel~
+armor 0 AJ
+5 5 5 5 0
+20 4 300 100
+A
+17 -5
+#10806
+green tasseled spear~
+a {gg{Gr{ge{Ge{gn{x-{gt{Ga{gs{Gse{gl{Ge{gd{x {Ds{wp{We{wa{Dr{x~
+A green-tasseled spear has been left here.~
+steel~
+weapon 0 AN
+spear 5 8 'stab' 0
+20 3 250 100
+A
+19 1
+#10807
+large green painted key~
+a {gl{Garg{ge g{Gree{gn-p{Gainte{gd k{Ge{gy{x~
+A large green-painted key has been left here.~
+iron~
+key Kb A
+0 0 0 0 0
+0 0 0 100
+#10808
+short coat gray wool~
+a {Ds{whor{Dt c{woa{Dt{x made of {Dg{wra{Dy w{woo{Dl{x~
+A short coat made of gray wool has been left here.~
+wool~
+armor 0 AD
+5 5 5 5 0
+20 4 60 100
+A
+18 1
+#10809
+rounded steel cap~
+a {Dr{wo{Wund{we{Dd s{wt{Weel c{wa{Dp{x~
+A rounded steel cap has been left here.~
+steel~
+armor 0 AE
+5 5 5 5 0
+20 2 300 100
+A
+5 1
+#10810
+oaken staff~
+an {yo{wa{Wk{we{yn s{wt{Wa{wf{yf{x~
+An oaken staff has been left here.~
+wood~
+weapon S AN
+staff 5 8 'smash' F
+20 2 150 100
+A
+19 1
+#10811
+oaken cudgel~
+an {yo{wa{Wk{we{yn c{wu{Wdg{we{yl{x~
+An oaken cudgel has been left here.~
+wood~
+weapon S AN
+mace 5 8 'smash' 0
+20 4 150 100
+A
+19 1
+#10812
+stone steps~
+a broad set of {Ws{wt{Wo{wn{We s{wt{We{wp{Ws{x~
+A broad set of {Ws{wt{Wo{wn{We s{wt{We{wp{Ws{x follows the curvature of the outer wall and leads up to the spectators' gallery.~
+stone~
+furniture S P
+10 10000 BEH 100 100
+0 0 0 100
+#10813
+stone steps~
+a broad set of {Ws{wt{Wo{wn{We s{wt{We{wp{Ws{x~
+A broad set of {Ws{wt{Wo{wn{We s{wt{We{wp{Ws{x follows the curvature of the outer wall and leads down to the ground floor.~
+stone~
+furniture S P
+10 10000 BEH 100 100
+0 0 0 100
+#10814
+pitchfork~
+a {Dpi{wtc{Wh{wfo{Drk{x~
+A pitchfork has been left here.~
+iron~
+weapon K AN
+polearm 5 8 'stab' F
+20 4 0 100
+A
+18 1
+#10815
+wide leather tool belt~
+a {Dw{yid{De l{yeathe{Dr t{yoo{Dl b{yel{Dt{x~
+A wide leather tool belt has been left here.~
+leather~
+armor KS AL
+5 5 5 5 0
+20 2 85 100
+A
+5 1
+#10816
+short leather vest~
+a {Ds{yhor{Dt l{yeathe{Dr v{yes{Dt{x~
+A short leather vest has been left here.~
+leather~
+armor KS AD
+5 5 5 5 0
+20 4 85 100
+A
+1 1
+#10817
+silk coin purse blue~
+a {bs{Bil{bk c{Boi{bn p{Burs{be{x~
+This is a coin purse that has been made out of blue silk.~
+silk~
+money Kb A
+0 10 0 0 0
+22 1 0 100
+#10818
+small iron key blue tree~
+a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {bb{Blu{be t{Bre{be{x painted upon it~
+This is a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {bb{Blu{be t{Bre{be{x painted upon it.~
+iron~
+key b A
+0 0 0 0 0
+0 0 10 100
+#10819
+small iron key gray tree~
+a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {Dg{wra{Dy t{wre{De{x painted upon it~
+This is a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {Dg{wra{Dy t{wre{De{x painted upon it.~
+iron~
+key b A
+0 0 0 0 0
+0 0 10 100
+#10820
+small iron key green tree~
+a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {gg{Gr{ge{Ge{gn t{Gre{ge{x painted upon it~
+This is a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {gg{Gr{ge{Ge{gn t{Gre{ge{x painted upon it.~
+iron~
+key b A
+0 0 0 0 0
+0 0 10 100
+#10821
+small iron key purple tree~
+a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {mp{Mu{mrp{Ml{me t{Mre{me{x painted upon it~
+This is a {Ds{wma{Wll{D i{wro{Wn{D k{we{Wy{x with a {mp{Mu{mrp{Ml{me t{Mre{me{x painted upon it.~
+iron~
+key b A
+0 0 0 0 0
+0 0 10 100
+#10822
+oaken four poster bed large~
+an {yo{Ya{Wken{x {yf{Yo{Wur-{yp{Yo{Wster {yb{Ye{Wd{x~
+A large {yf{Yo{Wur-{yp{Yo{Wster {yb{Ye{Wd{x made of oak stands at the center of the room.~
+wood~
+furniture S P
+2 2000 EHL 200 200
+0 0 0 100
+#10823
+ladder backed chairs grand table oak~
+one of the {yl{Ya{Wdder-{yb{Ya{Wcked {yc{Yh{Wairs{x that surround the {yg{Yr{Wand{y t{Ya{Wble{x~
+At the center of the room is a {yg{Yr{Wand{y t{Ya{Wble{x made of oak surrounded by {yl{Ya{Wdder-{yb{Ya{Wcked {yc{Yh{Wairs{x.~
+wood~
+furniture S P
+10 10000 EH 100 100
+0 0 0 100
+#10824
+tables benches oak~
+one of the many {yt{Ya{Wbles{x~
+The common room has been furnished with numerous {yb{Ye{Wnches{x and {yt{Ya{Wbles{x made of oak.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+#10825
+lightweight dagger~
+a {Dl{wig{Whtwei{wgh{Dt d{wa{Wgg{we{Dr{x~
+A lightweight dagger has been left here.~
+steel~
+weapon K AN
+exotic 5 8 'none' 0
+22 1 150 100
+#10826
+heavily embroidered jacket sleeves~
+{ch{Ce{Wavi{Cl{cy{x {ce{Cmb{Wroide{Cre{cd{x {bj{Backe{bt s{Bleeve{bs{x~
+A set of heavily embroidered jacket sleeves has been left here.~
+wool~
+armor KS AI
+5 5 5 7 0
+22 2 60 100
+#10827
+concial hat~
+a {bc{Boncia{bl h{Ba{bt{x~
+A concial hat has been left here.~
+wool~
+armor KS AE
+5 5 5 7 0
+22 1 60 100
+#10828
+short jacket~
+a {bs{Bhor{bt{x {bj{Backe{bt{x~
+A short jacket has been left here.~
+wool~
+armor KS AD
+5 5 5 7 0
+22 3 60 100
+#10829
+thin cloth veil~
+a {Ct{Whi{Cn c{Wlot{Ch v{Wei{Cl{x~
+A thin cloth veil has been left here.~
+cloth~
+armor KS AV
+5 5 5 7 0
+22 1 45 100
+#10830
+heavily embroidered breeches~
+{ch{Ce{Wavi{Cl{cy{x {ce{Cmb{Wroide{Cre{cd{x {bb{Breeche{bs{x~
+A set of heavily embroidered breeches has been left here.~
+wool~
+armor KS AF
+5 5 5 7 0
+22 4 60 100
+#10831
+canvas covered wagon~
+a {wc{Wanva{ws-c{Wovere{wd {yw{wa{yg{wo{yn{x~
+A {wc{Wanva{ws-c{Wovere{wd {yw{wa{yg{wo{yn{x has been parked in one corner of the yard.~
+wood~
+container S P
+500 AC 0 500 100
+0 0 0 100
+#10832
+wooden cask~
+a {yw{Do{yod{De{yn ca{Ds{yk{x~
+A {yw{Do{yod{De{yn ca{Ds{yk{x has been left here.~
+wood~
+drink S A
+25 25 'rum' 0 0
+0 10 250 100
+#10833
+large fountains~
+one of the {Dl{wa{Wr{wg{De f{wo{Wuntai{wn{Ds{x~
+A series of {Dl{wa{Wr{wg{De f{wo{Wuntai{wn{Ds{x have been built at the center of the courtyard.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+large fountains~
+A series of {Dl{wa{Wr{wg{De f{wo{Wuntai{wn{Ds{x have been built at the center of the
+courtyard.  Contained with the bowls of the {Df{wo{Wuntai{wn{Ds{x are numerous {rr{Re{rd{x, {yg{Yol{yd{x
+and {ww{Whit{we{x {yf{Yi{Wsh{Re{rs{x that swim beneath {gl{Gil{gy p{Gad{gs{x with {Whuge white flowers{x which
+rest upon the surface of the water.  
+~
+#10834
+crested helmet~
+a {Dc{wr{West{we{Dd h{we{Wlm{we{Dt{x~
+A crested helmet has been left here.~
+steel~
+armor 0 AE
+13 13 13 13 0
+52 2 300 100
+A
+17 -5
+#10835
+chainmail veil dull iron~
+a {Dc{wh{Da{wi{Dn{wm{Da{wi{Dl {wv{De{wi{Dl{x made of {Dd{wul{Dl i{wro{Dn{x~
+A chainmail veil made of dull iron has been left here.~
+iron~
+armor K AV
+13 13 13 13 0
+52 1 250 100
+A
+17 -5
+#10836
+plain breastplate green coat~
+a {Dp{wl{Wa{wi{Dn b{wrea{Wstp{wlat{De{x worn over a {gg{Gree{gn c{Goa{gt{x~
+A plain breastplate worn over a green coat has been left here.~
+steel~
+armor 0 AD
+13 13 13 13 0
+52 5 300 100
+A
+17 -5
+#10837
+plain backplate green coat~
+a {Dp{wl{Wa{wi{Dn{x {Db{wac{Wkpl{wat{De{x worn over a {gg{Gree{gn c{Goa{gt{x~
+A plain backplate worn over a green coat has been left here.~
+steel~
+armor K AS
+13 13 13 13 0
+52 5 300 100
+A
+17 -5
+#10838
+long cloak green wool~
+a {gl{Gon{gg c{Gloa{gk{x made of {gg{Gree{gn{x {gw{Goo{gl{x~
+A long cloak made of green wool has been left here.~
+wool~
+armor KS AK
+13 13 13 13 0
+52 3 60 100
+A
+17 -5
+#10839
+hooked spear green tassels~
+a {yh{Do{wok{Wed s{wpe{Da{yr{x adorned with {Gg{gr{Ge{ge{Gn {Gt{ga{Gs{gs{Ge{gl{Gs{x~
+A hooked spear adorned with green tassels has been left here.~
+steel~
+weapon 0 AN
+spear 6 11 'stab' 0
+52 4 250 100
+A
+19 1
+#10840
+rounded green shield~
+a {gr{Gounde{gd g{Gree{gn s{Ghiel{gd{x~
+A rounded green shield has been left here.~
+steel~
+armor K AJ
+13 13 13 13 0
+52 5 300 100
+A
+17 -5
+#10841
+long sword green leather hilt~
+a {Dl{won{Wg s{wwor{Dd{x with a {Dg{gree{Dn le{gathe{Dr-w{grappe{Dd h{gil{Dt{x~
+A long sword with a green leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+sword 6 11 'slash' 0
+52 4 250 100
+A
+19 1
+#10842
+broad axe green leather hilt~
+a {Db{wro{Wad a{wx{De{x with a {Dg{gree{Dn le{gathe{Dr-w{grappe{Dd h{gil{Dt{x~
+A broad axe with a green leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+axe 6 11 'cleave' 0
+52 4 250 100
+A
+19 1
+#10843
+hooked spear blue tassels~
+a {yh{Do{wok{Wed s{wpe{Da{yr{x adorned with {cb{Clu{ce t{Cas{cs{Cel{cs{x~
+This is a hooked spear adorned with blue tassels.~
+steel~
+weapon 0 AN
+spear 8 13 'stab' 0
+70 6 250 100
+A
+18 2
+A
+19 1
+#10844
+half pike blue tassels~
+a {yh{wal{Df p{wik{ye{x adorned with {cb{Clu{ce t{Cas{cs{Cel{cs{x~
+This is a half pike adorned with blue tassels.~
+steel~
+weapon 0 AN
+polearm 8 13 'stab' F
+70 6 250 100
+A
+18 2
+A
+19 1
+#10845
+shining lance blue tassels~
+a {Ds{Wh{wi{Wn{wi{Wn{wg l{Wa{wn{Wc{De{x adorned with {cb{Clu{ce t{Cas{cs{Cel{cs{x~
+This is a shining lance adorned with blue tassels.~
+steel~
+weapon 0 AN
+lance 8 13 'thrust' 0
+70 6 250 100
+A
+18 2
+A
+19 1
+#10846
+broad axe brown leather~
+a {Db{wro{Wad a{wx{De{x with a {Db{yrow{Dn l{yeathe{Dr-w{yrappe{Dd h{yil{Dt{x~
+This is a broad axe with a brown leather-wrapped hilt.~
+steel~
+weapon 0 AN
+axe 8 13 'cleave' 0
+70 5 250 100
+A
+18 2
+A
+19 1
+#10847
+long sword brown leather~
+a {Dl{won{Wg s{wwor{Dd{x with a {Db{yrow{Dn l{yeathe{Dr-w{yrappe{Dd h{yil{Dt{x~
+This is a long sword with a brown leather-wrapped hilt.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' 0
+70 5 250 100
+A
+18 2
+A
+19 1
+#10848
+curved dagger brown leather~
+a {Wc{wu{Dr{wved dag{Dg{we{Wr{x with a {Db{yrow{Dn l{yeathe{Dr-w{yrappe{Dd h{yil{Dt{x~
+This is a curved dagger with a brown leather-wrapped hilt.~
+steel~
+weapon 0 AN
+dagger 8 13 'stab' 0
+70 1 250 100
+A
+18 2
+A
+19 1
+#10849
+spiked mace brown leather~
+a {Ds{wp{Dik{we{Dd m{wac{De{x with a {Db{yrow{Dn l{yeathe{Dr-w{yrappe{Dd h{yil{Dt{x~
+This is a spiked mace with a brown leather-wrapped hilt.~
+steel~
+weapon 0 AN
+mace 8 13 'smash' 0
+70 5 250 100
+A
+18 2
+A
+19 1
+#10850
+barbed flail brown leather~
+a {Db{wa{Wrb{we{Dd f{wl{Wa{wi{Dl{x with a {Db{yrow{Dn l{yeathe{Dr-w{yrappe{Dd h{yil{Dt{x~
+This is a barbed flail with a brown leather-wrapped hilt.~
+steel~
+weapon 0 AN
+flail 8 13 'smash' 0
+70 5 250 100
+A
+18 2
+A
+19 1
+#10851
+oaken staff tapered~
+an {yo{Ya{Wken sta{Yf{yf{x tapered at both ends~
+This is an oaken staff tapered at both ends.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+70 5 250 100
+A
+18 2
+A
+19 1
+#10852
+brown leather whip~
+a {Db{yrow{Dn l{yeathe{Dr{D w{yhi{Dp{x~
+This is a brown leather whip.~
+leather~
+weapon S AN
+whip 8 13 'beating' 0
+70 1 250 100
+A
+18 2
+A
+19 1
+#10853
+gilded gauntlets~
+a set of{y g{Yi{Wld{Ye{yd{x {yg{Yau{Wntl{Yet{ys{x~
+A set of gilded gauntlets has been left here.~
+steel~
+armor 0 AH
+21 21 21 22 0
+85 2 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+#10854
+gilded armplates~
+a set of {yg{Yi{Wld{Ye{yd{x {ya{Yrm{Wpla{Yte{ys{x~
+A set of gilded armplates has been left here.~
+steel~
+armor 0 AI
+21 21 21 22 0
+85 4 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+#10855
+gilded backplate green coat~
+a {yg{Yi{Wld{Ye{yd{x {yb{Yac{Wkpl{Yat{ye{x worn over a {gg{Gree{gn c{Goa{gt{x~
+A gilded backplate worn over a green coat has been left here.~
+steel~
+armor 0 AS
+21 21 21 22 0
+85 6 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+#10856
+gilded legplates~
+a set of {yg{Yi{Wld{Ye{yd{x {yl{Yeg{Wpla{Yte{ys{x~
+A set of gilded legplates has been left here.~
+steel~
+armor 0 AF
+21 21 21 22 0
+85 4 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+#10857
+gilded breastplate green coat~
+a {yg{Yi{Wld{Ye{yd b{Yre{Wastpl{Yat{ye{x worn over a {gg{Gree{gn c{Goa{gt{x~
+A gilded breastplate worn over a green coat has been left here.~
+steel~
+armor 0 AD
+21 21 21 22 0
+85 6 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+#10858
+crested helmet green plumes~
+a {yc{Yr{West{Ye{yd h{Ye{Wlm{Ye{yt{x decorated with {gg{Gree{gn p{Glume{gs{x~
+A crested helmet decorated with green plumes has been left here.~
+steel~
+armor 0 AE
+21 21 21 22 0
+85 3 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+#10859
+leather coin purse~
+a {yleather coin purse{x~
+A leather coin purse has been left here.~
+leather~
+money Kb A
+100 25 0 0 0
+52 1 0 100
+#10860
+grand writing desk~
+a {rg{yran{rd w{yritin{rg d{yes{rk{x~
+At the center of the office is a {rg{yran{rd w{yritin{rg d{yes{rk{x that is strewn with {Wl{we{Wtte{wr{Ws{x and {Wd{wo{Wc{wu{Wm{we{Wn{wt{Ws{x.~
+wood~
+furniture S P
+1000 1000 DG 100 100
+0 0 0 100
+#10861
+grand four poster bed blue silk sheets~
+a {rg{yran{rd f{you{rr{x-{rp{yoste{rr b{ye{rd{x fitted with {bb{Bl{bu{Be {bs{Bi{bl{Bk s{bh{Be{be{Bt{bs{x~
+The bedchamber is dominated by a {rg{yran{rd f{you{rr{x-{rp{yoste{rr b{ye{rd{x made of cherry wood.~
+wood~
+furniture S P
+2 2000 EHL 250 250
+0 0 0 100
+#10862
+large writing desk leather armchairs~
+a {rl{yarg{re{x {rw{yritin{rg d{yes{rk{x~
+At the center of the office is a {rl{yarg{re{x {rw{yritin{rg d{yes{rk{x flanked by two {Dl{ye{Dath{ye{Dr {x{Da{yr{Dmchai{yr{Ds{x.~
+wood~
+furniture S P
+2 2000 DG 100 100
+0 0 0 100
+#10863
+huge canopied bed red silk sheets~
+a {rh{yug{re c{yanopie{rd b{ye{rd{x fitted with {rr{Re{rd s{Ri{rl{Rk{r s{Rh{ree{Rt{rs{x~
+At the center of the bedchamber is a {rh{yug{re c{yanopie{rd b{ye{rd{x made of cherry wood.~
+wood~
+furniture S P
+2 2000 EHL 250 250
+0 0 0 100
+#10864
+large writing desk~
+a {rl{yarg{re{x {rw{yritin{rg d{yes{rk{x~
+{yB{Do{wo{Dk{ys{x and {Wp{wa{Wpe{wr{Ws{x have been neatly arranged on top of this {rl{yarg{re{x {rw{yritin{rg {x{rd{yes{rk{x.~
+wood~
+furniture S P
+1 1000 DG 100 100
+0 0 0 100
+#10865
+large four poster bed green silk sheets~
+a {rl{yarg{re{x {rf{you{rr{x-{rp{yoste{rr b{ye{rd{x fitted with {gg{Gr{ge{Ge{gn {Gs{gi{Gl{gk{G s{gh{Ge{ge{Gt{gs{x~
+{gBr{Go{wca{Gd{ged s{wil{gk cu{Gs{whi{Go{gns{x have been piled upon this {rl{yarg{re{x {rf{you{rr{x-{rp{yoste{rr b{ye{rd{x.~
+wood~
+furniture S P
+2 2000 EHL 250 250
+0 0 0 100
+#10866
+racks shelves~
+one of the {ysh{Yel{wve{Ws{x~
+The walls of the armory have been fitted with numerous {yr{Ya{wck{Ws{x and {ysh{Yel{wve{Ws{w.{x~
+wood~
+container S P
+100 0 0 100 100
+0 0 0 100
+#10867
+archery targets~
+one of the {ba{Br{Wc{rh{We{Br{by t{Ba{Wr{rg{We{Bt{bs{x~
+A series of {ba{Br{Wc{rh{We{Br{by t{Ba{Wr{rg{We{Bt{bs{x have been set up along the east side of the grassy field.~
+straw~
+container S P
+20 0 0 20 100
+0 0 0 100
+#10868
+short bow green wrappings~
+a {Ds{yhort bo{Dw{x decorated with {gg{Gree{gn w{Grapping{gs{x~
+A short bow has been left here.~
+wood~
+weapon S AN
+bow 6 11 'thwack' F
+57 2 250 100
+A
+18 2
+#10869
+sharp arrow green fletchings~
+a {Ds{wh{ya{wr{Dp a{wr{yr{wo{Dw{x with {gg{Gree{gn f{Glet{gch{Ging{gs{x~
+A sharp arrow with green fletchings has been left here.~
+wood~
+weapon S AO
+arrow 6 11 'pierce' 0
+57 0 0 100
+#10870
+green cloth bandana~
+a {ggreen cloth bandana{x~
+A green cloth bandana has been left here.~
+cloth~
+armor KS AE
+14 14 14 15 0
+57 1 45 100
+A
+3 2
+#10871
+green leather bracer~
+a {Dg{gree{Dn l{geathe{Dr b{grace{Dr{x~
+A green leather bracer has been left here.~
+leather~
+armor S AM
+14 14 14 15 0
+57 1 100 100
+A
+2 1
+A
+1 1
+#10872
+grand bed cherry wood~
+a {rgrand bed{x adorned with {yg{Yo{Wld{Ye{yn s{Ya{Wt{Yi{yn s{Yh{Wee{Yt{ys{x~
+At the center of the room is a {rgrand bed{x made of {rcherry wood{x.~
+wood~
+furniture S P
+2 2000 EHL 250 250
+0 0 0 100
+#10873
+padded armchairs~
+one of the many {yp{Ya{Wdd{Ye{yd a{Yrm{Wcha{Yir{ys{x~
+There is a series of {yp{Ya{Wdd{Ye{yd a{Yrm{Wcha{Yir{ys{x arranged in neat rows around the {Ds{yemi{Dc{yir{Dc{yula{Dr s{ytag{De{x.~
+wood~
+furniture S P
+10 10000 EH 100 100
+0 0 0 100
+#10874
+semicircular stage~
+the {Ds{yemi{Dc{yir{Dc{yula{Dr s{ytag{De{x~
+A grand {Ds{yemi{Dc{yir{Dc{yula{Dr s{ytag{De{x adorned with ornately carved walnut paneling has been constructed at the northern end of the chamber.~
+wood~
+furniture S P
+10 10000 BEH 100 100
+0 0 0 100
+#10875
+tall podium white stone~
+the {Wtall podium{x~
+At the eastern end of the room is a {Wtall podium{x made of white stone.~
+stone~
+furniture S P
+1 1000 B 100 100
+0 0 0 100
+#10876
+razor sharp meat cleaver~
+a {cr{Caz{Wor-sh{Car{cp{x {Dm{wea{Wt cle{wave{Dr{x~
+A razor-sharp meat cleaver has been left here.~
+steel~
+weapon K AN
+axe 5 8 'cleave' 0
+27 1 150 100
+#10877
+wagons carts~
+one of the {yw{wa{Dgo{wn{ys{x and {yc{wa{Wr{wt{ys{x~
+There are several large {yw{wa{Dgo{wn{ys{x and {yc{wa{Wr{wt{ys{x parked inside the delivery yard.~
+wood~
+container S P
+1000 AC 0 1000 100
+0 0 0 100
+#10878
+rounded cap green wool~
+a {gr{Gounde{gd c{Ga{gp{x made of {gg{Gree{gn w{Goo{gl{x~
+A rounded cap made of green wool has been left here.~
+wool~
+armor KS AE
+7 7 7 6 0
+27 1 60 100
+#10879
+long vest green wool~
+a {gl{Gon{gg v{Ges{gt{x made of {gg{Gree{gn w{Goo{gl{x~
+A long vest made of green wool has been left here.~
+wool~
+armor KS AD
+7 7 7 6 0
+27 3 60 100
+#10880
+baggy breeches green wool~
+{gb{Gagg{gy b{Greeche{gs{x made of {gg{Gree{gn w{Goo{gl{x~
+A pair of baggy breeches made of green wool has been left here.~
+wool~
+armor KS AF
+7 7 7 6 0
+27 4 60 100
+#10881
+diamond studded collar~
+a {Dd{wi{Wamond-studd{we{Dd{x {mc{Molla{mr{x~
+A diamond-studded collar has been left here.~
+leather~
+armor K AC
+7 7 7 6 0
+27 1 300 100
+#10882
+grand white marble staircase~
+a {Dg{wr{Wa{wn{Dd w{wh{Wi{wt{De m{wa{Wrb{wl{De{x {Ds{wt{Wairca{ws{De{x~
+There is a grand white marble staircase leading to the ground level of the palace and is the only area of the floor that remains uncarpeted.~
+stone~
+furniture S P
+10 10000 EH 100 100
+0 0 0 100
+#10883
+knotted sash green cloth~
+a {Dk{gnotted sas{Dh{x made of {Dg{green clot{Dh{x~
+This is a knotted sash made of green cloth.~
+cloth~
+armor KS AL
+7 7 7 6 0
+27 1 45 100
+#10884
+rounded cap green cloth~
+a {Dr{gounded ca{Dp{x made of {Dg{green clot{Dh{x~
+This is a rounded cap made of green cloth.~
+cloth~
+armor KS AE
+7 7 7 6 0
+27 1 45 100
+#10885
+belt knife wooden handle~
+a {Db{we{Wl{wt{D k{wn{Wif{we{x with a {yw{Do{yod{De{yn h{Da{ynd{Dl{ye{x~
+This is a belt knife with a wooden handle.~
+steel~
+weapon K AN
+dagger 5 8 'stab' 0
+27 1 150 100
+A
+19 -1
+A
+18 1
+#10886
+golden capped baton~
+a {yg{Yo{Wld{Ye{yn-c{Ya{Wpp{Ye{yd{x {yb{Da{yt{Do{yn{x~
+This is a golden-capped baton.~
+wood~
+weapon K AN
+mace 6 11 'smash' 0
+57 1 300 100
+A
+19 -2
+A
+18 4
+#10887
+green surcoat golden buttons~
+a {gg{Gree{gn s{Gurcoa{gt{x adorned with {yg{Yo{Wld{Ye{yn{x {yb{Yu{Wtto{Yn{ys{x~
+This is a green surcoat adorned with golden buttons.~
+wool~
+armor K AD
+15 15 15 12 0
+57 4 60 100
+A
+5 2
+#10888
+wide white breeches~
+a pair of {ww{Wid{we w{Whit{we b{Wreeche{ws{x~
+This is a pair of wide white breeches.~
+wool~
+armor KS AF
+15 15 15 12 0
+57 4 60 100
+A
+2 1
+A
+1 1
+#10889
+knee high boots black leather~
+a pair of {Dknee-high boots{x made of {Dblack leather{x~
+This is a pair of knee-high boots made of black leather.~
+leather~
+armor KS AG
+15 15 15 12 0
+57 3 85 100
+A
+5 2
+#10890
+plain iron key~
+a {Dp{wlai{Dn i{wro{Dn k{we{Dy{x~
+A plain iron key has been left here.~
+iron~
+key Kb A
+0 0 0 0 0
+0 0 0 100
+#10891
+long lance dulled steel~
+a {yl{wo{Wng lan{wc{ye{x tipped with {Dd{wu{Wll{we{Dd s{wt{We{we{Dl{x~
+This is a long lance tipped with dulled steel.~
+steel~
+weapon 0 AN
+lance 5 10 'thrust' 0
+40 8 150 100
+#10892
+dull iron chain whip~
+a {Dd{wul{Dl i{wro{Dn c{whai{Dn w{whi{Dp{x~
+A dull iron chain whip has been left here.~
+iron~
+weapon 0 AN
+whip 5 10 'beating' 0
+45 2 150 100
+A
+19 1
+#10893
+dull iron spiked flail~
+a {Dd{wul{Dl i{wro{Dn{x {Ds{wpike{Dd f{wlai{Dl{x~
+A dull iron spiked flail has been left here.~
+iron~
+weapon 0 AN
+flail 5 10 'smash' 0
+45 6 150 100
+A
+19 1
+#10894
+targets~
+one of the {bt{Ba{Wr{rg{We{Bt{bs{x~
+A selection of {bt{Ba{Wr{rg{We{Bt{bs{x for the {gc{Ga{Wval{Gr{gy{x has been set up around the training field.~
+wood~
+container S P
+10 0 0 10 100
+0 0 0 100
+#10895
+tall wooden frames straw dummies dummy~
+one of the {ys{Ytra{yw d{Yummie{ys{x~
+Four {yt{Da{yll w{Do{yod{De{yn fra{Dm{yes{x have been constructed along each side of the field complete with several {ys{Ytra{yw d{Yummie{ys{x hanging from each one.~
+wood~
+container S P
+10 0 0 10 100
+0 0 0 100
+#10896
+green surcoat steel breastplate~
+a {gg{Gree{gn s{Gurcoa{gt{x worn under a {Ds{wt{We{we{Dl b{wr{We{wa{Ds{wt{Dp{wl{Wa{wt{De{x~
+A green surcoat and a steel breastplate has been left here.~
+steel~
+armor K AD
+15 15 15 12 0
+57 7 300 100
+A
+17 -10
+#10897
+tall glass fronted cabinet~
+a {rt{yal{rl{x {cg{Cl{Wa{Cs{cs-f{Cr{Wont{Ce{cd{x {rc{yabine{rt{x~
+A {rt{yal{rl{x {cg{Cl{Wa{Cs{cs-f{Cr{Wont{Ce{cd{x {rc{yabine{rt{x has been placed in one corner of the room.~
+wood~
+container S P
+500 AC 0 500 100
+0 0 0 100
+#10898
+jade turtle small ornament~
+a {gj{Ga{gde t{Gu{grt{Gl{ge{x~
+A {gs{Gm{gall o{Gr{gn{Ga{gme{Gn{gt{x has been left here.~
+jade~
+treasure S P
+0 0 0 0 0
+90 1 1000 100
+#10899
+miniature roses wide white stone urn~
+a display of {rm{Ri{rn{Ri{ra{Rt{ru{Rr{re r{Ro{rs{Re{rs{x planted in a {Dw{wi{Wde {ww{Wh{Wit{we s{Wton{we{W u{wr{Dn{x~
+A display of {rm{Ri{rn{Ri{ra{Rt{ru{Rr{re r{Ro{rs{Re{rs{x planted in a {Dw{wi{Wde {ww{Wh{Wit{we s{Wton{we{W u{wr{Dn{x has been positioned flanking the arched doorway.~
+stone~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#10900
+tall bookcase~
+a {rt{yal{rl b{yookcas{re{x~
+A {rt{yal{rl b{yookcas{re{x has been positioned in one corner of the office.~
+wood~
+container S P
+500 0 0 500 100
+0 0 0 100
+#10901
+leather bound book~
+a {Dl{yeathe{Dr-b{youn{Dd b{yoo{Dk{x~
+A {Dl{yeathe{Dr-b{youn{Dd b{yoo{Dk{x entitled {W"{YYou Are Looking For Gold In The Wrong Place.{W"{x~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#10902
+over stuffed couches~
+one of the {ro{Rve{rr-s{Rtu{rf{Rfe{rd c{Rou{rc{Rhe{rs{x~
+Two {ro{Rve{rr-s{Rtu{rf{Rfe{rd c{Rou{rc{Rhe{rs{x have been placed inside the chamber.~
+wood~
+furniture S P
+10 10000 EH 100 100
+0 0 0 100
+#10903
+gilded throne~
+a {yg{Yild{Wed th{Yron{ye{x~
+A {yg{Yild{Wed th{Yron{ye{x sits on top of the {Wwhite stone dais{x on the west side of the room.~
+wood~
+furniture 0 P
+1 1000 EH 100 100
+0 0 0 100
+#10904
+rolled piece paper~
+a {Wrolled-up piece of paper{x~
+A rolled-up piece of paper has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+E
+rolled piece paper~
+A rolled-up piece of paper has been left here.  Written upon the piece of
+paper in black ink is a {Dmessage{x.  
+~
+E
+message~
+The {Dmessage{x written upon the rolled-up piece of paper reads as follows:
+{D"There are several {x{Dinteresting items located around Tanchico...  Just like
+Caemlyn.  Did anyone find the weapon {x{Dthat I made in Caemlyn?"  {x 
+~
+#10905
+standing mirror~
+a {Ds{wtan{Wding mir{wro{Dr{x~
+An oval-shaped {Ds{wtan{Wding mir{wro{Dr{x framed with {rcherry wood{x has been placed in one corner of the room.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#10906
+leather armchairs~
+one of the {Dl{ye{Dath{ye{Dr a{yr{Dmchai{yr{Ds{x~
+A pair of {Dl{ye{Dath{ye{Dr a{yr{Dmchai{yr{Ds{x has been positioned near the {Wf{wi{Wrepla{wc{We{x.~
+wood~
+furniture S P
+2 2000 EH 100 100
+0 0 0 100
+#10907
+leather couch~
+a {Dl{ye{Dath{ye{Dr{x {Dc{yo{Du{yc{Dh{x~
+Two small {rside tables{x flank a {Dl{ye{Dath{ye{Dr{x {Dc{yo{Du{yc{Dh{x positioned near the {Wf{wi{Wrepla{wc{We{x.~
+wood~
+furniture S P
+4 4000 EHK 100 100
+0 0 0 100
+E
+side tables~
+Two small {rside tables{x flank a {Dl{ye{Dath{ye{Dr{x {Dc{yo{Du{yc{Dh{x positioned near the {Wf{wi{Wrepla{wc{We{x.  
+~
+#10908
+hidden compartment small switch~
+a {Dhidden compartment{x behind one of the {mp{Mortrait{ms{x~
+A series of large {mp{Mortrait{ms{x housed in {yg{Yil{Wd{Ye{yd f{Yr{Wa{Yme{ys{x have been hung upon the walls of this corridor.~
+wood~
+container Sa P
+10 AC 0 1 100
+0 0 0 100
+E
+large portraits gilded frames~
+A series of large {mp{Mortrait{ms{x housed in {yg{Yil{Wd{Ye{yd f{Yr{Wa{Yme{ys{x have been hung upon
+the walls of this corridor.  The {mp{Mortrait{ms{x seem rather peculiar as their
+{Weyes{x appear to follow you.  
+~
+E
+eyes~
+An {Weye{x on one of the {mp{Mortrait{ms{x appears to be a {cs{Cmal{cl sw{Citc{ch{x.  
+~
+#10909
+wire rimmed spectacles~
+a pair of {Dw{wir{We-rim{wme{Dd{x {cs{Cp{Wectacl{Ce{cs{x~
+A pair of wire-rimmed spectacles has been left here.~
+steel~
+armor 0 AV
+21 21 21 17 0
+80 1 500 100
+A
+4 2
+A
+18 2
+#10910
+black leather coin purse~
+a {Dblack leather{x {yc{Yo{Win pu{Yrs{ye{x~
+A black leather coin purse has been left here.~
+leather~
+money a A
+100 25 0 0 0
+0 1 0 100
+#10911
+ruby encrusted dagger~
+a {rr{Rub{ry-e{Rnc{rrus{Rte{rd{x {Dd{wa{Wgg{we{Dr{x~
+A ruby-encrusted dagger has been left here.~
+steel~
+weapon K AN
+dagger 5 8 'stab' 0
+27 1 300 100
+A
+18 -1
+A
+19 1
+#10912
+sapphire encrusted dagger~
+a {bs{Bap{bph{Bir{be-e{Bnc{brus{Bte{bd{x {Dd{wa{Wgg{we{Dr{x~
+A sapphire-encrusted dagger has been left here.~
+steel~
+weapon K AN
+dagger 5 8 'stab' 0
+27 1 300 100
+A
+19 -1
+A
+18 1
+#10913
+red silk coin purse~
+a {rr{Re{rd s{Ril{rk{x {yc{Yo{Win pu{Yrs{ye{x~
+A red silk coin purse has been left here.~
+silk~
+money KSb A
+100 10 0 0 0
+27 1 0 100
+#10914
+blue silk coin purse~
+a {bb{Blu{be s{Bil{bk{x {yc{Yo{Win pu{Yrs{ye{x~
+A blue silk coin purse has been left here.~
+silk~
+money KSb A
+200 9 0 0 0
+27 1 0 100
+#10915
+red silk cape~
+a {rr{Re{rd s{Ril{rk{x {rc{Rap{re{x~
+A red silk cape has been left here.~
+silk~
+armor KS AK
+7 7 7 6 0
+27 2 300 100
+A
+18 1
+A
+19 -1
+#10916
+blue silk cape~
+a {bb{Blu{be s{Bil{bk{x {bc{Bap{be{x~
+A blue silk cape has been left here.~
+silk~
+armor KS AK
+7 7 7 6 0
+27 2 300 100
+A
+18 -1
+A
+19 1
+#10917
+brass hoop earring~
+a {Db{yra{ws{ys h{wo{yop ea{wr{yrin{Dg{x~
+A brass hoop earring has been left here.~
+brass~
+armor K AU
+7 7 7 6 0
+27 1 45 100
+#10918
+brass ring~
+a {Db{yra{ws{ys r{wi{yn{Dg{x~
+A brass ring has been left here.~
+brass~
+armor K AB
+7 7 7 6 0
+27 1 45 100
+#10919
+sturdy black leather boots~
+a sturdy pair of {Dblack leather boots{x~
+A sturdy pair of black leather boots has been left here.~
+leather~
+armor KS AG
+7 7 7 6 0
+27 3 85 100
+#10920
+sturdy black leather bracer~
+a sturdy {Dblack leather bracer{x~
+A sturdy black leather bracer has been left here.~
+leather~
+armor S AM
+7 7 7 6 0
+27 1 100 100
+#10921
+bushy moustache~
+a {ybushy moustache{x~
+A bushy moustache has been left here.~
+hair~
+armor KS AV
+7 7 7 6 0
+27 1 0 100
+#10922
+iron wrapped cudgel~
+an {Di{wro{Dn-w{wra{Dp{wpe{Dd{x {yc{wu{Wdg{we{yl{x~
+An iron-wrapped cudgel has been left here.~
+iron~
+weapon K AN
+mace 5 8 'smash' 0
+27 3 200 100
+#10923
+wooden hitching posts~
+a set of {yw{wo{Wod{we{yn h{wit{Wch{win{yg p{wo{Ws{wt{ys{x~
+Two sets of {yw{wo{Wod{we{yn h{wit{Wch{win{yg p{wo{Ws{wt{ys{x have been positioned near the entrances of the two white buildings.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#10924
+wooden cudgel~
+a {yw{wo{Wode{yn c{wu{Wdg{we{yl{x~
+A wooden cudgel has been left here.~
+wood~
+weapon KS AN
+mace 5 8 'smash' 0
+25 2 165 100
+#10925
+sharp dagger~
+a {Ds{wha{Wrp dag{wge{Dr{x~
+A sharp dagger has been left here.~
+steel~
+weapon K AN
+dagger 5 8 'stab' 0
+25 1 165 100
+#10926
+coin purse brown leather belt~
+a {yc{Yoi{Wn pu{Yrs{ye{x hung upon a {Db{yrow{Dn l{yeathe{Dr b{yel{Dt{x~
+A coin purse has been left here.~
+leather~
+money KSYb A
+50 5 0 0 0
+25 1 0 100
+#10927
+sack potatoes~
+a {ysack{x of {yp{wo{yt{wat{yo{we{ys{x~
+A sack filled with potatoes has been left here.~
+hessian~
+trash S AO
+0 0 0 0 0
+15 20 0 100
+A
+1 2
+A
+2 -1
+#10928
+green cloth cap~
+a {ggreen cloth cap{x~
+A green cloth cap has been left here.~
+cloth~
+armor KS AE
+6 6 6 4 0
+22 1 45 100
+A
+3 1
+A
+4 -1
+#10929
+rusty belt knife~
+a {rr{yu{ws{yt{ry{x {Db{wel{Wt k{wnif{De{x~
+A rusty belt knife has been left here.~
+steel~
+weapon K AN
+dagger 5 8 'stab' 0
+22 1 150 100
+#0
+
+
+
+#ROOMS
+#10800
+{gP{Ganarch's Roa{gd{x~
+Panarch's Road is a wide thoroughfare paved with dull gray stone that
+leads through the center of the Verana Peninsula.  Tall white buildings
+flank the road; the smaller ones have white plaster covering their exterior
+walls while the much grander buildings have been constructed from
+snowy-white stone.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11206
+D2
+~
+~
+0 0
+0 0 10801
+S
+#10801
+{gP{Ganarch's Roa{gd{x~
+Panarch's Road is a broad thoroughfare paved with slabs of dull gray
+stone.  Tall white buildings flank the road; the smaller ones have white
+plaster covering their exterior walls while the much grander buildings have
+been constructed from snowy-white stone.  One particularly large building
+stands out from the rest along the east side of the road; the colorfully
+painted sign outside its front names it as The Great Tree Inn.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10800
+D1
+~
+gate~
+3 3
+1 0 10824
+D2
+~
+~
+0 0
+0 0 10802
+S
+#10802
+{gP{Ganarch's Roa{gd{x~
+Panarch's Road is Verana Peninsula's main thoroughfare.  It is a broad
+road paved with gray stone and overlooked by snowy white buildings.  Most of
+these buildings are white plaster covered structures whose pale brown
+brickwork is revealed in the odd crack or chip.  In the distance to the
+southwest is the Panarch's Palace, a huge gilded domed palace whose majestic
+walls are made from solid stone.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10801
+D2
+~
+~
+0 0
+0 0 10803
+S
+#10803
+Intersection of {yA{Yndahar Roa{yd{x and {gP{Ganarch's Roa{gd{x~
+At this point the north/south thoroughfare known as Panarch's Road
+intersects a road leading east called Andahar Road.  Most of the buildings
+within this area are white plaster covered structures whose pale brown
+masonry is revealed in the odd crack or chip.  In the distance to the
+southwest is the Panarch's Palace and to the east are the river docks.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10802
+D1
+~
+~
+0 0
+0 0 11239
+D2
+~
+~
+0 0
+0 0 10804
+S
+#10804
+Intersection of {bV{Berana Stree{bt{x and {gP{Ganarch's Roa{gd{x~
+At this point the north/south thoroughfare known as Panarch's Road
+intersects a road leading west called Verana Street.  Most of the buildings
+within this area have white plaster covering their exterior walls but the
+grander and more ornate structures have been built from white stone.  In the
+distance to the southwest is a grand white stone building with golden domes
+that is known as the Panarch's Palace.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10803
+D2
+~
+~
+0 0
+0 0 10805
+D3
+~
+~
+0 0
+0 0 10808
+S
+#10805
+{gP{Ganarch's Roa{gd{x~
+The city of Tanchico is full of famous landmarks and one such sight is on
+the west side of Panarch's Road.  On the west side of the road is a grand
+white stone building with golden domes that known as the Panarch's Palace. 
+On the opposite side of the road is a grand complex of white stone buildings
+that belongs to the Panarch's Legion.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10804
+D1
+~
+gate~
+3 3
+1 0 10916
+D2
+~
+~
+0 0
+0 0 10806
+D3
+~
+gate~
+3 3
+1 0 10852
+S
+#10806
+{gP{Ganarch's Roa{gd{x~
+Panarch's Road is the main thoroughfare that leads through the Verana
+Peninsula.  It is a relatively wide road paved with gray stone and
+overlooked by lots of white buildings.  Most of these buildings are white
+plaster covered structures whose pale brown brickwork is revealed in the odd
+crack or chip.  The style of the small buildings is rather peculiar for they
+are built with flat roofs and no windows looking out over the streets.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10805
+D2
+~
+~
+0 0
+0 0 10807
+S
+#10807
+{gP{Ganarch's Roa{gd{x~
+Panarch's Road is Verana Peninsula's main road.  It is a broad road paved
+with dull gray stone and lined with white buildings.  Nearly all of these
+buildings have white plaster covering their outer walls but the grander and
+more elaborate structures have been built from white stone.  Two of
+Tanchico's most famous landmarks are situated near this point, to the
+northwest is the Panarch's Palace and to the south is the Panarch's Circle. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10806
+D2
+~
+gateway~
+3 3
+1 0 10812
+S
+#10808
+{bV{Berana Stree{bt{x~
+Verana Street is a particularly wide thoroughfare named after the
+peninsula that is it built upon.  Like the rest of the roads within
+Tanchico, this one has been paved with dull gray slabs of stone that look
+weathered and worn from age and use.  Along the north side of the road are
+tall grandly constructed houses whose snowy white plaster exteriors attempt
+to mimic the white stone structure known as Panarch's Palace which lies to
+the south.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10804
+D3
+~
+~
+0 0
+0 0 10809
+S
+#10809
+{bV{Berana Stree{bt{x~
+This is a broad road paved with dull gray stones, much like the rest of
+the city of Tanchico.  What makes this particular street stand out is the
+huge white stone palace that lies along the south side, the tall towers and
+gilded domes make it easily recognizable as the Panarch's Palace.  Along the
+opposite side of the road are less flamboyant constructions that consist
+mainly of the abodes of the city's wealthy traders and merchants.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10808
+D3
+~
+~
+0 0
+0 0 10810
+S
+#10810
+{bV{Berana Stree{bt{x~
+Verana Street is a rather broad thoroughfare named after the peninsula
+that is it built upon.  Like the rest of the roads within Tanchico, this one
+has been paved with dull gray slabs of stone that look weathered and worn
+from age and use.  Along the north side of the road are tall grandly
+constructed houses whose gleaming white plaster exteriors attempt to copy
+the white stone structure known as Panarch's Palace which lies to the south.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10809
+D3
+~
+~
+0 0
+0 0 10811
+S
+#10811
+{bV{Berana Stree{bt{x~
+This is the west end of Verana Street, a particularly broad thoroughfare
+that follows the northern edge of the grounds of the Panarch's Palace. 
+There are grandly built merchants' houses along the north side of the road
+but they pale into comparison with the huge white stone palace and its tall
+towers and gilded domes.  To the south is one of the side entrances into the
+Palace's grounds.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10810
+D2
+~
+gate~
+3 3
+1 0 10850
+S
+#10812
+{DT{wh{We{x {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{x {WNor{wt{Dh{W Lob{wb{Dy{x~
+This is the north lobby located in the Panarch's Circle, the second
+largest of Tanchico's three huge stadiums.  Although the majestic white
+stone structure is huge, it is not as tall as the Panarch's Palace that is
+situated elsewhere on the Verana Peninsula.  A wide gallery follows the
+entire inner circumference of the building with tall yet narrow arched
+windows looking out over the arena floor.  There are detailed reliefs of
+great trees with spreading leafy boughs carved into the outer wall of the
+gallery.  Finally there is an iron gateway built into the inner wall which
+is all that stands in the way of accessing the arena floor.  
+~
+0
+D 0
+D0
+~
+gateway~
+3 3
+1 0 10807
+D1
+~
+~
+0 0
+0 0 10832
+D2
+~
+gateway~
+519 519
+2 10807 10813
+D3
+~
+~
+0 0
+0 0 10827
+S
+#10813
+{DT{wh{We{x {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De {WAre{wn{Da {WFlo{wo{Dr{x~
+The arena floor is a huge circular field of hard-packed dirt that is
+enclosed inside the white stone structure of the Panarch's Circle.  The
+inner wall is roughly fifteen feet in height and has elaborate friezes of
+horse races and other grand events that are held inside the enormous
+building.  Behind the inner wall are the spectators' seats that form
+concentric circles around the arena, rising like steep steps of white stone.
+There are four arched gateways built into the inner wall that appear to be
+the only routes in or out of the arena floor.  
+~
+0
+B 0
+D0
+~
+gateway~
+519 519
+2 10807 10812
+D1
+~
+gateway~
+519 519
+2 10807 10831
+D2
+~
+gateway~
+519 519
+2 10807 10814
+D3
+~
+gateway~
+519 519
+2 10807 10828
+S
+#10814
+{DT{wh{We{x {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{x {WSou{wt{Dh{W Lob{wb{Dy{x~
+This is the south lobby located in the Panarch's Circle, the second
+largest of Tanchico's three huge stadiums.  Although the impressive white
+stone structure is enormous, it is not as tall as the Panarch's Palace that
+is located elsewhere on the Verana Peninsula.  A spacious gallery follows
+the entire inner circumference of the building with tall yet slim arched
+windows looking out over the arena floor.  Complex reliefs of great trees
+with spreading leafy boughs have been carved into the outer wall of the
+gallery.  Lastly there is an iron gateway built into the inner wall which is
+all that stands in the way of accessing the arena floor.  
+~
+0
+D 0
+D0
+~
+gateway~
+519 519
+2 10807 10813
+D1
+~
+~
+0 0
+0 0 10830
+D2
+~
+gateway~
+519 519
+2 10807 10815
+D3
+~
+~
+0 0
+0 0 10829
+S
+#10815
+{yA Large Construction Site{x~
+This is a wide muddy thoroughfare leading through a vast construction
+site.  On either side of the track are the wooden skeletons of buildings,
+their brick and stone exterior walls are still being built and to what
+purposes that these buildings have remains to be seen.  The muddy track
+connects to a street paved with gray stone that leads northwards towards the
+Panarch's Circle.  
+~
+0
+0 1
+D0
+~
+gateway~
+519 519
+2 10807 10814
+D2
+~
+~
+0 0
+0 0 10816
+S
+#10816
+{yA Large Construction Site{x~
+This is a broad muddy road twisting its way through a large construction
+site.  During the daylight hours this track is a hive of activity as wagons
+carrying building materials traverse this area along with large numbers of
+laborers.  On both sides of the track are the timber skeletons of buildings
+although their brick and stone exterior walls are still being built.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10815
+D2
+~
+~
+0 0
+0 0 10817
+S
+#10817
+{yThe Center of the Construction Site{x~
+This is the center of a large construction site on the southern part of
+the Verana Peninsula.  Two wide muddy tracks intersect at this point, one
+leading east/west and the other one leads north/south.  On either side of
+the tracks are the wooden skeletons of buildings, their brick and stone
+outer walls are still being built and to what purposes that these buildings
+have remains to be seen.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10816
+D1
+~
+~
+0 0
+0 0 10822
+D2
+~
+~
+0 0
+0 0 10818
+D3
+~
+~
+0 0
+0 0 10820
+S
+#10818
+{yA Large Construction Site{x~
+This is a broad muddy track leading through a big construction site. 
+During the daylight hours this road is a hive of activity as wagons carrying
+building materials traverse this area along with large numbers of laborers. 
+On both sides of the track are the wooden skeletons of buildings, their
+brick and stone exterior walls are still being built and to what purposes
+that these buildings have remains to be seen.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10817
+D2
+~
+~
+0 0
+0 0 10819
+S
+#10819
+{yA Large Construction Site{x~
+This is the southernmost end of a broad muddy track leading through a big
+construction site on the Verana Peninsula.  On either side of the track are
+the wooden skeletons of buildings, their brick and stone outer walls are
+still being built and to what purposes that these buildings have remains to
+be seen.  As well as cargo boats, a few small fishing boats can be seen to
+the south as they traverse the waters of Tanchico Bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 10818
+S
+#10820
+{yA Large Construction Site{x~
+This is a wide dirt road leading through a huge construction site. 
+During the daylight hours this track is a hive of activity as wagons
+carrying building materials traverse this area along with large numbers of
+laborers.  On either side of the track are the timber skeletons of buildings
+whose brick and stone exterior walls are still being constructed.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10817
+D3
+~
+~
+0 0
+0 0 10821
+S
+#10821
+{yA Large Construction Site{x~
+This is the westernmost end of a broad muddy road leading through a huge
+construction site on the Verana Peninsula.  On either side of the track are
+the wooden skeletons of buildings, their stone and brick exterior walls are
+still being built and to what uses that these buildings have remains to be
+seen.  From this point the urban sprawl of Maseta can be seen across the
+water without the impedance of Verana's larger structures like its palaces
+and halls.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10820
+S
+#10822
+{yA Large Construction Site{x~
+This is a wide dirt track snaking its way through a big construction
+site.  During the daylight hours this road is a hive of activity as wagons
+carrying building materials traverse this area along with large numbers of
+laborers.  On either side of the track are the wooden skeletons of
+buildings, their brick and stone outer walls are still being built and to
+what purposes that these buildings is still unclear.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 10823
+D3
+~
+~
+0 0
+0 0 10817
+S
+#10823
+{yA Large Construction Site{x~
+This is the easternmost end of a wide dirt track leading through a large
+construction site on the Verana Peninsula.  On both sides of the track are
+the timber skeletons of buildings, their stone and brick exterior walls are
+still being built and what function these buildings have remains unclear. 
+Across the water to the east the Tanchico's river docks and the clusters of
+boats and barges moored there can clearly be seen from this point.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 10822
+S
+#10824
+{gThe Great Tree Inn{x - A Courtyard~
+This is a large rectangular cobblestone courtyard enclosed by a large
+inn, a stable and a tall wall.  Both the inn and the stable have flat tiled
+roofs and exterior walls that have been covered in white plaster, mimicking
+the grander white stone buildings of the city.  Apart from the two buildings
+bordering the yard the only exit from this area is a wide wooden gate on the
+west side that lead out onto Panarch's Road.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 10826
+D2
+~
+~
+3 3
+1 0 10825
+D3
+~
+gate~
+3 3
+1 0 10801
+S
+#10825
+{gThe Great Tree Inn{x - A Stable~
+Although the exterior of the stable has been covered with white plaster,
+the interior of this building has been left as bare brown brickwork.  There
+are numerous stalls built along the east side that accommodate horses that
+belong to the patrons of the Great Tree Inn.  The west side of the building
+has been reserved for the storage of bales of hay, straw, animal feed and
+various tools used to clean and maintain this building and its guests.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10824
+S
+#10826
+{gThe Great Tree Inn{x - A Large Common Room~
+The common room is a large windowless chamber lit up by carefully placed
+oil lanterns.  The plaster walls of the room have been adorned with painted
+pictures of oak trees covering all of the four seasons.  There is a white
+stone fireplace has been built into the east wall of the room that decorated
+with beautiful carvings of acorns and oak leaves.  There are only two exits
+from this chamber, a doorway on the north side of the common room and a much
+sturdier-looking one on the west side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10841
+D3
+~
+~
+3 3
+1 0 10824
+S
+#10827
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Galle{wr{Dy{x~
+This broad gallery follows the entire inner circumference of the
+Panarch's Circle.  The light cast from the bronzed oil lanterns hung from
+the ceiling reveals iridescent swirling patterns in the white marble tiles
+that cover the floor.  Tall yet slim arched windows looking out over the
+arena floor have been built into the inner white stone wall and carved along
+the whole outer wall of the gallery are decorative reliefs of great trees
+with spreading leafy boughs.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 10812
+D2
+~
+~
+0 0
+0 0 10828
+S
+#10828
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Galle{wr{Dy{x~
+This is a wide gallery that follows the whole inner circumference of the
+Panarch's Circle.  The light cast from the bronzed oil lanterns suspended
+from the ceiling reveals iridescent swirling patterns in the white marble
+tiles that clad the floor.  There are with tall yet narrow arched windows
+along the inner white stone wall that look out over the arena floor.  Carved
+along the outer wall of the gallery are detailed reliefs of great trees with
+spreading leafy boughs.  Finally there is an iron gateway built into the
+inner wall which is all that stands in the way of entering the arena floor. 
+~
+0
+CD 0
+D0
+~
+~
+0 0
+0 0 10827
+D1
+~
+gateway~
+519 519
+2 10807 10813
+D2
+~
+~
+0 0
+0 0 10829
+D4
+~
+~
+0 0
+0 0 10837
+S
+#10829
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Galle{wr{Dy{x~
+This is a wide gallery that follows the whole inner circumference of the
+Panarch's Circle.  The light cast from the bronzed oil lamps suspended from
+the ceiling reveals iridescent swirling patterns in the white marble floor
+tiles.  There are tall yet slender arched windows looking out over the arena
+floor built into the inner stone wall of the gallery and elaborate reliefs
+of great trees with spreading leafy boughs carved into the outer wall.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10828
+D1
+~
+~
+0 0
+0 0 10814
+S
+#10830
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Galle{wr{Dy{x~
+This is a broad gallery that follows the whole inner circumference of the
+Panarch's Circle.  The light cast from the bronzed oil lanterns hung from
+the ceiling reveals glistening swirling patterns in the white marble floor
+tiles.  There are tall yet slim arched windows looking out over the arena
+floor built into the inner stone wall of the gallery and elaborate reliefs
+of great trees with spreading leafy boughs carved into the outer wall.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10831
+D3
+~
+~
+0 0
+0 0 10814
+S
+#10831
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Galle{wr{Dy{x~
+This wide gallery follows the whole inner circumference of the Panarch's
+Circle.  The light cast from the bronzed oil lamps suspended from the
+ceiling reveals iridescent swirling patterns in the white marble tiles that
+clad the floor.  There are with tall yet narrow arched windows along the
+inner white stone wall that look out over the arena floor.  Carved along the
+outer wall of the gallery are decorative reliefs of great trees with
+spreading leafy boughs.  Finally there is an iron gateway built into the
+inner wall which is all that stands in the way of entering the arena floor. 
+~
+0
+CD 0
+D0
+~
+~
+0 0
+0 0 10832
+D2
+~
+~
+0 0
+0 0 10830
+D3
+~
+gateway~
+519 519
+2 10807 10813
+D4
+~
+~
+0 0
+0 0 10833
+S
+#10832
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Galle{wr{Dy{x~
+This broad gallery follows the whole inner circumference of the Panarch's
+Circle.  The light cast from the bronzed oil lamps hung from the ceiling
+reveals shimmering swirling patterns in the white marble floor tiles.  Tall
+yet narrow arched windows looking out over the arena floor have been built
+into the inner white stone wall and carved along the entire outer wall of
+the gallery are ornate reliefs of great trees with spreading leafy boughs.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 10831
+D3
+~
+~
+0 0
+0 0 10812
+S
+#10833
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The view of the spectators' gallery of the Panarch's Circle is almost as
+stirring as the view of the arena floor below.  The whole building has been
+constructed from white marble-like stone that shimmers in the sunshine or
+the torches that light up the area at night.  There are many rows of benches
+elaborately carved from white stone that encircle nearly the entire arena;
+the tiers of benches are divided by sloping walkways that are at right
+angles to them.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10834
+D2
+~
+~
+0 0
+0 0 10840
+D5
+~
+~
+0 0
+0 0 10831
+S
+#10834
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The Panarch's Circle's spectators' gallery is almost as incredible as the
+view of the arena floor below it.  The whole structure has been built from
+white marble-like stone that glistens in the sunlight or the torches that
+light up the area at night.  There are numerous tiers of benches ornately
+carved from white stone that circle nearly the entire arena; the rows of
+benches are broken up by sloping walkways that are perpendicular to them.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 10833
+D3
+~
+~
+0 0
+0 0 10835
+S
+#10835
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The view of the spectators' gallery of the Panarch's Circle is nearly as
+imposing as the view of the arena floor below.  The entire structure has
+been built from white marble-like stone that sparkles in the sunlight or the
+torches that illuminate the area at night.  There are many tiers of benches
+decoratively carved from white stone that surround almost the whole arena;
+the rows of benches are divided up by sloping walkways that are
+perpendicular to them.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10834
+D3
+~
+~
+0 0
+0 0 10836
+S
+#10836
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The Panarch's Circle's spectators' gallery is nearly as inspirational as
+the view of the arena floor below.  The whole building has been constructed
+from white marble-like stone that glitters in the sunlight or the torches
+that illuminate the area at night.  There are numerous tiers of benches
+decoratively carved from white stone that encircle almost the entire arena;
+the rows of benches are broken up by slanting walkways that are
+perpendicular to them.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10835
+D2
+~
+~
+0 0
+0 0 10837
+S
+#10837
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The view of the spectators' gallery of the Panarch's Circle is almost as
+remarkable as the view of the arena floor below.  The whole structure has
+been built from white marble-like stone that glistens in the daylight or the
+torches that light up the area at night.  There are numerous tiers of
+benches lavishly carved from white stone that circle nearly the entire
+arena; the rows of benches are broken up by sloping walkways that are at
+right angles to them.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10836
+D2
+~
+~
+0 0
+0 0 10838
+D5
+~
+~
+0 0
+0 0 10828
+S
+#10838
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The Panarch's Circle's spectators' gallery is almost as remarkable as the
+view of the arena floor below it.  The entire building has been constructed
+from white marble-like stone that sparkles in the sunlight or the torches
+that light the area at night.  There are many tiers of benches ornately
+carved from white stone that encircle nearly the whole arena; the rows of
+benches are split up by sloping walkways that are at right angles to them.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10837
+D1
+~
+~
+0 0
+0 0 10839
+S
+#10839
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The view of the spectators' gallery of the Panarch's Circle is nearly as
+outstanding as the view of the arena floor below.  The entire building has
+been constructed from white marble-like stone that glitters in the sunshine
+or the torches that illuminate the area at night.  There are numerous tiers
+of benches decoratively carved from white stone that surround almost the
+whole arena; the rows of benches are broken up by sloping walkways that are
+perpendicular to them.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10840
+D3
+~
+~
+0 0
+0 0 10838
+S
+#10840
+{DT{wh{We{w {DP{wa{Wnarch's {DC{Wircle{x - {WT{wh{De{W Spectato{wr{Ds'{W Galle{wr{Dy{x~
+The Panarch's Circle's spectators' gallery is nearly as inspirational as
+the view of the arena floor below.  The entire structure has been made from
+white marble-like stone that sparkles in the sunlight or the torches that
+light up the area at night.  There are many tiers of benches decoratively
+carved from white stone that surround almost the whole arena; the rows of
+benches are divided up by slanting walkways that are perpendicular to them. 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10833
+D3
+~
+~
+0 0
+0 0 10839
+S
+#10841
+{gThe Great Tree Inn{x - A Short Corridor~
+There is not much to see inside of this short corridor.  The walls of the
+room have been left as bare white plaster while the floor looks equally as
+barren without any carpets or rugs upon it.  There are several doorways
+along this corridor as well as a spiraling wooden stairway at the northern
+end that leads to the first floor of the building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10842
+D2
+~
+~
+3 3
+1 0 10826
+D3
+~
+~
+3 3
+1 0 10844
+D4
+~
+~
+0 0
+0 0 10845
+S
+#10842
+{gThe Great Tree Inn{x - A Large Kitchen~
+The kitchen is a plain room with white plaster walls and brownish-gray
+stone tiles covering the floor.  The room has been furnished with a
+multitude of cupboards, draws and shelves housing all manner of cooking
+utensils.  At one end of the room are a pair of white stone fireplaces and a
+black iron stove where the majority of the cooking is done while the food
+preparation is one on speckled white stone counters fitted around the
+kitchen.  There are a few doors leading off from this kitchen but the main
+exit is a pair of doors on the south side of the room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10843
+D3
+~
+~
+3 3
+1 0 10841
+S
+#10843
+{gThe Great Tree Inn{x - A Large Yard~
+This is a large square yard located at the back of the Great Tree Inn,
+the largest inn on the Verana Peninsula.  This area appears to be reserved
+for deliveries being made to the inn for there are deep grove marks from
+heavy carts and wagons.  The yard has been enclosed by a tall wooden fence;
+the only way through the fence is a pair of wide gates on the east side.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 10842
+D1
+~
+gate~
+3 3
+1 0 11231
+S
+#10844
+{gThe Great Tree Inn{x - Chamber of the Golden Leaves~
+A lot of the inns in Tanchico are built with private dining rooms that
+are given very poetic names and this one is of no exception.  The Chamber of
+the Golden leaves is a small windowless chamber used as a private dining
+room.  The plastered brick walls have been painted with a beautiful woodland
+scene of autumn leaves falling from the boughs of great trees.  There is a
+door on the east side of the chamber that leads into one of the inn's
+corridors.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10841
+S
+#10845
+{gThe Great Tree Inn{x - A Short Corridor~
+The walls of this short corridor have been left as bare white plaster
+while the floor appears as barren without any carpets or mats upon it. 
+There are several doors along this corridor as well as a spiraling wooden
+stairway that leads down to the ground floor of the building.  
+~
+0
+D 0
+D0
+~
+~
+8231 8231
+2 10819 10848
+D1
+~
+~
+8231 8231
+2 10820 10847
+D2
+~
+~
+8231 8231
+2 10818 10849
+D3
+~
+~
+8231 8231
+2 10821 10846
+D5
+~
+~
+0 0
+0 0 10841
+S
+#10846
+{gThe Great Tree Inn{x - A Large Guest Room~
+This is a guest room with plain white plaster walls and a dull mauve
+carpet covering the floor.  Among the items of furniture inside of this room
+are a set of drawers, a dresser, a writing desk and a padded stool.  There
+is a window decoratively worked with iron on the west side of the room which
+has been fitted with purple drapes and a door on the opposite side of the
+room that leads out into a corridor.  
+~
+0
+BD 0
+D1
+~
+~
+8231 8231
+2 10821 10845
+S
+#10847
+{gThe Great Tree Inn{x - A Large Guest Room~
+This is a spacious guest room with plain white plaster walls and a dull
+green carpet covering the floor.  Among the items used to furnish this room
+are a wardrobe, a dresser, a writing desk and a chair.  There is a window
+ornately worked with iron on the east side of the room that has been fitted
+with grayish-green curtains and a door on the opposite side of the room
+which leads out into a corridor.  
+~
+0
+BD 0
+D3
+~
+~
+8231 8231
+2 10820 10845
+S
+#10848
+{gThe Great Tree Inn{x - A Large Guest Room~
+This is a plain yet spacious room with white plaster walls and a brown
+carpet covering its floor.  Among the objects used to furnish this room are
+a wardrobe, a dresser, a writing desk and a chair.  There is a window
+decoratively worked with iron on the north side of the room which has been
+fitted with dark gray drapes and a door on the opposite side of the room
+that leads out of the room.  
+~
+0
+BD 0
+D2
+~
+~
+8231 8231
+2 10819 10845
+S
+#10849
+{gThe Great Tree Inn{x - A Large Guest Room~
+This is a large room with plain white plaster walls and a bluish-gray
+carpet covering the floor.  Among the items used to furnish this room are a
+wardrobe, a dresser, a writing desk and a high-backed chair.  There is a
+window ornately worked with iron on the south side of the room that has
+fitted with dusky blue curtains and a door on the opposite side of the room
+which leads out into a corridor.  
+~
+0
+BD 0
+D0
+~
+~
+8231 8231
+2 10818 10845
+S
+#10850
+{cThe Panarch's Palace{x - A Side Entrance~
+A broad road paved with slabs of white stone leads up the side of a steep
+grassy hill.  At the top of the hill is a vast palace built from white stone
+with tapering towers and huge golden domes.  At the bottom of the road is a
+tall black iron gateway that seems to be the only way beyond a tall white
+stone wall that has been built around the bottom of the hill.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 10811
+D4
+~
+~
+0 0
+0 0 10851
+S
+#10851
+{cThe Panarch's Palace{x - The Delivery Yard~
+In some respects this yard is quite large but when compared to other
+palaces it is relatively small.  The white stone paved courtyard lies
+somewhere at the rear of a tall palace that belongs to the Panarch of
+Tarabon.  The majority of the activity in this area is limited to deliveries
+to the palace made by carts and wagons that traverse a steeply sloping road
+leading from the yard to one of the side gates.  On the east side of the
+yard is a wide set of reinforced dark wood doors that lead into the main
+building itself.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 10858
+D5
+~
+~
+0 0
+0 0 10850
+S
+#10852
+{cThe Panarch's Palace{x - The Main Gate~
+A broad road paved with slabs of pure white stone leads up the side of a
+steep grassy hill.  At the top of the hill is a vast palace constructed from
+white stone with tapering towers and golden domes.  At the bottom of the
+road is a tall gilded gateway that seems to be the only way beyond a tall
+white stone wall that has been built around the base of the hill.  
+~
+0
+0 1
+D1
+~
+gate~
+3 3
+1 0 10805
+D4
+~
+~
+0 0
+0 0 10853
+S
+#10853
+{cThe Panarch's Palace{x - The Front Courtyard~
+This is a large square courtyard that sprawls out before the Panarch's
+Palace, a grand construction of white stone topped with tapering towers and
+golden domes.  Tall fluted columns made of white marble border the
+courtyard, and in turn the columns are bordered by ornamental topiaries. 
+Two roads lead off from the courtyard but the one of most interest is the
+wide one that leads down the side of the hill towards the main gateway.  
+~
+0
+0 1
+D2
+~
+~
+3 3
+1 0 10867
+D3
+~
+~
+3 3
+1 0 10868
+D5
+~
+~
+0 0
+0 0 10852
+S
+#10854
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the northern end of a narrow hallway that is used by the servants
+that work in the Panarch's Palace.  The area is bathed in a subtle golden
+light emanating from the lamps that have been hung along the ceiling,
+revealing numerous storerooms along the west side of the corridor.  The
+hallway's walls have been built from brick covered under a smooth layer of
+white plaster unlike the rest of the palace that has been constructed from
+white stone.  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 10872
+D2
+~
+~
+0 0
+0 0 10855
+S
+#10855
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This narrow hallway is part of a network of passageways utilized by the
+servants that work in the Panarch's Palace.  The area is bathed in a subtle
+golden light emanating from the lanterns that have been suspended along the
+ceiling, revealing many storerooms along the west side of the hallway.  The
+hallway's walls have been built from brick hidden under a smooth layer of
+white plaster unlike the other parts of the palace that has been constructed
+from white stone.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10854
+D2
+~
+~
+0 0
+0 0 10856
+S
+#10856
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This narrow corridor is part of a system of passageways used by the
+servants that work in the Panarch's Palace.  The area is bathed in a subtle
+golden light emanating from the lanterns that have been hung along the
+ceiling, revealing numerous storerooms along the west side of the corridor. 
+Finally there is a steep flight of stone steps built along the east wall
+that leads to the first floor of the palace.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10855
+D2
+~
+~
+0 0
+0 0 10857
+D4
+~
+~
+0 0
+0 0 10865
+S
+#10857
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the southern end of a narrow passageway that is used by the
+servants that work in the Panarch's Palace.  The area is bathed in a subtle
+golden light emanating from the lanterns that have been hung along the
+ceiling, revealing numerous storerooms along the west side of the corridor. 
+The hallway's walls have been built from brick concealed under a smooth
+layer of white plaster unlike the other parts of the palace that have been
+constructed from white stone.  Lastly at the southern end of the corridor is
+a set of doors that lead into the palace kitchen.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10856
+D2
+~
+~
+3 3
+1 0 10858
+S
+#10858
+{cThe Panarch's Palace{x - The Palace Kitchen~
+This is a large chamber constructed from snowy white stone with a set of
+broad fireplaces built into its east wall.  There are several racks holding
+pots and pans that hang from the ceiling between the lanterns which light up
+the area.  The kitchen floor has been covered with white marble-like tiles
+that match the stone used in the construction of the worktops; built below
+the worktops are numerous cupboards and drawers whilst above the worktops
+are dozens of racks and shelves.  There are a couple of doors leading off
+from the kitchen but the main entrance appears to be a wide pair of doors on
+the west side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10857
+D2
+~
+~
+3 3
+1 0 10859
+D3
+~
+~
+3 3
+1 0 10851
+S
+#10859
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the northern end of a narrow hallway that is used by the servants
+that work in the Panarch's Palace.  The area is bathed in a subtle golden
+light emanating from the lanterns that have been hung along the ceiling,
+revealing numerous storerooms along the west side of the corridor.  The
+hallway's walls have been built from brick hidden under a smooth layer of
+white plaster unlike the rest of the palace that has been constructed from
+white stone.  Lastly at the northern end of the corridor is a set of doors
+that lead into the palace kitchen.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10858
+D1
+~
+~
+4099 4099
+1 0 10873
+D2
+~
+~
+0 0
+0 0 10860
+S
+#10860
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This narrow corridor is part of a network of passageways used by the
+servants that work in the Panarch's Palace.  The area is bathed in a subtle
+golden light emanating from the lamps that have been suspended along the
+ceiling, revealing numerous storerooms along the west side of the corridor. 
+The hallway's walls have been built from brick hidden under a smooth layer
+of white plaster unlike the other parts of the palace that has been
+constructed from white stone.  Lastly there is a steep flight of stone steps
+built along the east wall that leads to the first floor of the palace.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10859
+D2
+~
+~
+0 0
+0 0 10861
+D4
+~
+~
+0 0
+0 0 10863
+S
+#10861
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This narrow passageway is part of a system of corridors used by the
+servants that work in the Panarch's Palace.  The area is bathed in a subtle
+golden light emanating from the lanterns that have been hung along the
+ceiling, revealing numerous storerooms along the west side of the
+passageway.  The hallway's walls have been built from brick hidden under a
+smooth layer of white plaster unlike the rest of the palace that has been
+constructed from white stone.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10860
+D2
+~
+~
+0 0
+0 0 10862
+S
+#10862
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the southern end of a narrow passageway that is used by the
+servants that work in the Panarch's Palace.  The area is bathed in a subtle
+golden light emanating from the lamps that have been hung along the ceiling,
+revealing several storerooms along the west side of the corridor.  The
+hallway's walls have been built from brick concealed under a smooth layer of
+white plaster unlike the other parts of the palace that have been built from
+white stone.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10861
+D1
+~
+~
+4099 4099
+1 0 10876
+S
+#10863
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the southern end of a long hallway used by the servants of the
+Panarch's Palace to navigate their way around the enormous white stone
+building.  The area is bathed in a subtle golden light emanating from the
+lanterns that have been suspended from the ceiling.  At the west side of the
+hallway is a steep stone stairway that leads to the ground floor of the
+palace while at the south side of the room is hidden door that leads into
+one of the palace's main corridors.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10864
+D5
+~
+~
+0 0
+0 0 10860
+S
+#10864
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the northern end of a long passageway utilized by the servants of
+the Panarch's Palace to navigate their way around the huge white stone
+building.  The area is bathed in a dim golden light emanating from the lamps
+that have been hung from the ceiling.  At the north side of the hallway is a
+concealed door that leads into the Royal Apartments.  
+~
+0
+D 0
+D0
+~
+~
+4099 4099
+1 0 10887
+D2
+~
+~
+0 0
+0 0 10863
+S
+#10865
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the northern end of a long corridor utilized by the servants of
+the Panarch's Palace to navigate their way around the vast white stone
+building.  The area is bathed in a subtle golden light emanating from the
+lanterns that have been suspended from the ceiling.  At the west side of the
+corridor is a steep stone staircase that leads to the ground floor of the
+palace while at the north side of the room is concealed door that leads into
+one of the palace's main corridors.  
+~
+0
+D 0
+D0
+~
+~
+4099 4099
+1 0 10880
+D2
+~
+~
+0 0
+0 0 10866
+D5
+~
+~
+0 0
+0 0 10856
+S
+#10866
+{cThe Panarch's Palace{x - A Servants' Hallway~
+This is the southern end of a corridor used by the servants of the
+Panarch's Palace to navigate their way around the huge white stone building.
+The area is bathed in a soft golden light emanating from the lanterns that
+have been hung from the ceiling.  At the south side of the corridor is a
+hidden door that leads into the Royal Apartments.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10865
+D2
+~
+~
+4099 4099
+1 0 10887
+S
+#10867
+{cThe Panarch's Palace{x - The Palace Stable~
+The palace stable occupies a white stone building that is larger than
+many of the inns within the city.  The flamboyantly carved stonework on its
+facade depicts racing horses whilst inside the building is a more austere
+and functional.  There are dozens of stalls lining the west and east sides
+of the stable, with at the south end is a large space reserved for the
+storage of carriages and other equipment.  There is only one exit from this
+building, a wide set of doors on the north side that lead out into a grand
+courtyard.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10853
+S
+#10868
+{cThe Panarch's Palace{x - A Grand Foyer~
+This large chamber marks the main entrance into the Panarch's Palace. 
+The white stone walls have been carved with friezes and the high ceilings
+have been set with shimmering arabesques of gold.  Almost the entire floor
+of the foyer has been covered with bright blue carpet; only the grand white
+marble staircase leading to the first floor of the building remains
+uncarpeted.  There are several arched doorways leading off from the foyer
+but the largest and most impressive is the pair of dark wood doors on the
+east side that have been carved with the Tree and Staff of the Panarch of
+Tarabon.  
+~
+0
+CD 0
+D0
+~
+~
+3 3
+1 0 10869
+D1
+~
+~
+3 3
+1 0 10853
+D2
+~
+~
+3 3
+1 0 10873
+D4
+~
+~
+0 0
+0 0 10886
+S
+#10869
+{cThe Panarch's Palace{x - A Courtyard~
+This is one of the large courtyards inside the Panarch's Palace.  The
+courtyard is bordered with a broad paved walkway with slim, fluted columns
+and overlooked by white stone balconies screened by filigreed stonework. 
+There are two arched doorways behind the columns on the north and south
+sides of the quad that lead back inside the main building.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10870
+D2
+~
+~
+3 3
+1 0 10868
+S
+#10870
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is a broad hallway within the Panarch's Palace.  The white stone
+walls have been carved with friezes and the high ceilings have been set with
+shimmering arabesques of gold.  A long strip of bright blue carpet has been
+placed along white-tiled floor down the entire length of the hallway,
+flanked by decorative golden lanterns on gilded stands that burn with
+flowery scented oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10871
+D1
+~
+~
+3 3
+1 0 10877
+D2
+~
+~
+3 3
+1 0 10869
+S
+#10871
+{cThe Panarch's Palace{x - A Courtyard~
+This is a large courtyard within the Panarch's Palace.  The courtyard is
+encircled with a broad paved walkway with slender, fluted columns and
+overlooked by balconies screened by filigreed stonework.  There are two
+arched doorways behind the columns on the north and south sides of the quad
+that lead back inside the palace.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10872
+D2
+~
+~
+3 3
+1 0 10870
+S
+#10872
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is the northern end of a wide hallway inside the Panarch's Palace. 
+The white stone walls have been carved with complex friezes and the high
+ceilings have been set with shiny arabesques of gold.  A long strip of
+bright blue carpet has been placed along white-tiled floor down the whole
+length of the hallway, flanked by ornate golden lanterns on gilded stands
+that burn with perfumed oil.  At the end of the corridor is a broad white
+marble staircase that winds its way upwards to the first floor of the
+palace.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10879
+D2
+~
+~
+3 3
+1 0 10871
+D3
+~
+~
+4099 4099
+1 0 10854
+D4
+~
+~
+0 0
+0 0 10883
+S
+#10873
+{cThe Panarch's Palace{x - A Courtyard~
+This is a big courtyard in the Panarch's Palace.  The courtyard is
+rounded with a broad paved walkway with slim, fluted columns and overlooked
+by balconies screened by filigreed stonework.  There are two arched doorways
+behind the columns on the north and south sides of the courtyard that lead
+back inside the palace.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10868
+D2
+~
+~
+3 3
+1 0 10874
+D3
+~
+~
+4099 4099
+1 0 10859
+S
+#10874
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is a wide hallway within the Panarch's Palace.  The white stone
+walls have been carved with friezes and the high ceilings have been set with
+gleaming arabesques of gold.  A long strip of bright blue carpet has been
+placed along white-tiled floor down the entire length of the hallway,
+flanked by ornate golden lanterns on gilded stands that burn with perfumed
+oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10873
+D2
+~
+~
+3 3
+1 0 10875
+S
+#10875
+{cThe Panarch's Palace{x - A Courtyard~
+This is a large courtyard within the Panarch's Palace.  The courtyard is
+encompassed with a broad paved walkway with slender, fluted columns and
+overlooked by balconies screened by filigreed stonework.  There are two
+arched doorways behind the columns on the north and south sides of the
+courtyard that lead back inside the main building.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10874
+D2
+~
+~
+3 3
+1 0 10876
+S
+#10876
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is the southern end of a wide hallway inside the Panarch's Palace. 
+The white stone walls have been carved with elaborate friezes and the high
+ceilings have been set with shiny arabesques of gold.  A long strip of
+bright blue carpet has been placed along white-tiled floor down the whole
+length of the hallway, flanked by ornate golden lanterns on gilded stands
+that burn with perfumed oil.  At the end of the corridor is a wide white
+marble staircase that twists its way upwards to the first floor of the
+palace.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10875
+D3
+~
+~
+4099 4099
+1 0 10862
+D4
+~
+~
+0 0
+0 0 10904
+S
+#10877
+{cThe Panarch's Palace{x - The Exhibition Hall~
+There are rows of the thin white columns running the length and width
+this massive chamber that nearly as wide as it is long, with smooth polished
+white floor stones below and gilded bosses on the ceiling high above.  A
+thick rope of white silk runs the entire way around the room on waist-high
+posts of dark polished wood, except where it would have blocked the doorways
+with double-pointed arches on the west side of the chamber.  Stands and open
+cabinets line the walls while the skeletons of odd beasts with further
+display cases are out in the floor and are also roped off.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10878
+D3
+~
+~
+3 3
+1 0 10870
+S
+#10878
+{cThe Panarch's Palace{x - The Exhibition Hall~
+There are rows of the slender white columns running the length and width
+this huge chamber that nearly as wide as it is long, with smooth polished
+white floor stones below and gilded bosses on the ceiling.  A thick rope of
+white silk runs all of the way around the room on waist-high posts of dark
+polished wood.  Stands and open cabinets line the walls while the bones of
+strange beasts with more display cases are out in the floor and are also
+roped off.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 10879
+D2
+~
+~
+0 0
+0 0 10877
+S
+#10879
+{cThe Panarch's Palace{x - The Exhibition Hall~
+There are rows of the slender white columns running the length and
+breadth this enormous chamber that nearly as wide as it is long, with smooth
+polished white floor stones below and gilded bosses on the ceiling high
+above.  A thick rope of white silk runs the whole way around the room on
+waist-high posts of dark polished wood, except where it would have blocked
+the doorways with double-pointed arches on the west side of the chamber. 
+Open cabinets and stands line the walls while the bones of peculiar beasts
+with additional display cases are out in the floor and are also roped off.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 10878
+D3
+~
+~
+3 3
+1 0 10872
+S
+#10880
+{cThe Panarch's Palace{x - A Wide Corridor~
+This is a wide hallway inside the Panarch's Palace.  The white stone
+walls have been carved with friezes of trefoil leaves and the high ceilings
+have been set with gleaming arabesques of gold.  A long strip of bright
+green carpet has been placed along white-tiled floor down the entire length
+of the hall, flanked by decorative golden lamps on gilded stands that burn
+with delicately perfumed oil.  There are several doorways along this
+corridor but the largest and most impressive is the one at the west end.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10938
+D1
+~
+~
+3 3
+1 0 10881
+D2
+~
+~
+4099 4099
+1 0 10865
+D3
+~
+~
+3 3
+1 0 10940
+S
+#10881
+{cThe Panarch's Palace{x - A Wide Balcony~
+This is a wide balcony screened by filigreed stonework, looking over into
+a beautiful colonnaded quadrangle below it.  The balcony follows the edge of
+the quad to form a perfect white stone square.  There are arched doorways on
+each of the four sides of the walkway which lead back inside the Panarch's
+Palace.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10883
+D1
+~
+~
+3 3
+1 0 10882
+D2
+~
+~
+3 3
+1 0 10884
+D3
+~
+~
+3 3
+1 0 10880
+S
+#10882
+{cThe Panarch's Palace{x - A Wide Corridor~
+This is a wide corridor within the Panarch's Palace.  The white stone
+walls have been carved with friezes of trefoil leaves and the high ceilings
+have been set with shining arabesques of gold.  A long strip of bright green
+carpet has been placed along white-tiled floor down the entire length of the
+hall, flanked by decorative golden lanterns on gilded stands that burn with
+scented oil.  There are several doorways along this corridor but there are
+no signs upon them to suggest what lies beyond each of the doors.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10939
+D1
+~
+~
+3 3
+1 0 10941
+D3
+~
+~
+3 3
+1 0 10881
+S
+#10883
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is the northern end of a wide hallway in the Panarch's Palace.  The
+white stone walls have been carved with complex friezes and the high
+ceilings have been set with shiny arabesques of gold.  A long strip of
+bright red carpet has been placed along white-tiled floor down the whole
+length of the hallway, flanked by ornate golden lanterns on gilded stands
+that burn with perfumed oil.  At the end of the corridor is a broad white
+marble staircase that winds its way downwards to the ground floor of the
+palace.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10881
+D5
+~
+~
+0 0
+0 0 10872
+S
+#10884
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is a wide hallway inside the Panarch's Palace.  The white stone
+walls have been carved with friezes and the high ceilings have been set with
+gleaming arabesques of gold.  A long strip of bright red carpet has been
+placed along white-tiled floor down the entire length of the hall, flanked
+by decorative golden lamps on gilded stands that burn with delicately
+perfumed oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10881
+D2
+~
+~
+3 3
+1 0 10885
+S
+#10885
+{cThe Panarch's Palace{x - A Wide Balcony~
+This is a wide balcony screened by filigreed stonework, looking over into
+an attractive colonnaded quadrangle below.  The white stone balcony follows
+the perimeter of the quad to form a perfect square.  There are two arched
+doorways on the north and south sides of the walkway that lead back inside
+the palace.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10884
+D2
+~
+~
+3 3
+1 0 10886
+S
+#10886
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is a broad hallway within the Panarch's Palace.  The white stone
+walls have been carved with friezes and the high ceilings have been set with
+shimmering arabesques of gold.  A long strip of bright blue carpet has been
+positioned along white-tiled floor down the whole length of the hallway,
+flanked by pretty golden lanterns on gilded stands that burn with floral
+scented oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10885
+D1
+~
+~
+0 0
+0 0 10888
+D2
+~
+~
+3 3
+1 0 10889
+D3
+~
+~
+0 0
+0 0 10887
+D5
+~
+~
+0 0
+0 0 10868
+S
+#10887
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is the western end of a wide hallway within the Panarch's Palace. 
+The white stone walls have been carved with friezes and the high ceilings
+have been set with gleaming arabesques of gold.  A long strip of bright blue
+carpet has been placed along white-tiled floor down the whole length of the
+hallway, flanked by attractive golden lamps on gilded stands that burn with
+flowery scented oil.  
+~
+0
+D 0
+D0
+~
+~
+4099 4099
+1 0 10866
+D1
+~
+~
+0 0
+0 0 10886
+D2
+~
+~
+4099 4099
+1 0 10864
+D3
+~
+~
+3 3
+1 0 10912
+S
+#10888
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is eastern end of a wide hallway within the Panarch's Palace.  The
+white stone walls have been carved with friezes and the high ceilings have
+been set with shining arabesques of gold.  A long strip of bright blue
+carpet has been positioned along white-tiled floor down the entire length of
+the hallway, flanked by ornamental golden lamps on gilded stands that burn
+with floral scented oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10898
+D1
+~
+~
+3 3
+1 0 10895
+D2
+~
+~
+3 3
+1 0 10901
+D3
+~
+~
+0 0
+0 0 10886
+S
+#10889
+{cThe Panarch's Palace{x - A Wide Balcony~
+This is a broad balcony screened by filigreed stonework, overlooking a
+beautiful colonnaded quadrangle below.  The balcony follows the edge of the
+quad to form a white stone square.  There are two arched doorways on the
+north and south sides of the walkway that lead back inside the palace.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10886
+D2
+~
+~
+3 3
+1 0 10890
+S
+#10890
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is a broad hallway inside the Panarch's Palace.  The white stone
+walls have been carved with friezes and the high ceilings have been set with
+sparkling arabesques of gold.  A long strip of bright red carpet has been
+placed along white-tiled floor down the entire length of the hallway,
+flanked by decorative golden lanterns on gilded stands that burn with
+flowery scented oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10889
+D2
+~
+~
+3 3
+1 0 10891
+S
+#10891
+{cThe Panarch's Palace{x - A Wide Balcony~
+This is a broad balcony screened by filigreed stonework, overlooking an
+attractive colonnaded quad below it.  The white stone balcony follows the
+perimeter of the quadrangle to form a square.  There are three arched
+doorways on the west, north and south sides of the walkway that lead back
+inside the palace.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10890
+D2
+~
+~
+3 3
+1 0 10904
+D3
+~
+~
+3 3
+1 0 10892
+S
+#10892
+{cThe Panarch's Palace{x - A Wide Corridor~
+This is the eastern end of a wide white stone hallway in the Panarch's
+Palace.  A long strip of violet carpet has been placed down the center of
+the white-tiled hallway, flanked by ornate golden lamps on gilded stands
+that burn with flowery scented oil.  There are several doors to the guests'
+apartments along this hallway as well as a much larger doorway at the end
+that leads onto one of the palace's many balconies.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10891
+D2
+~
+~
+3 3
+1 0 10905
+D3
+~
+~
+0 0
+0 0 10893
+S
+#10893
+{cThe Panarch's Palace{x - A Wide Corridor~
+This is a wide white stone hallway in the Panarch's Palace.  A long strip
+of violet carpet has been laid down the center of the white-tiled hallway,
+flanked by ornate golden lanterns on gilded stands that burn with flowery
+scented oil.  There are numerous doors along this hallway that lead into the
+guests' apartments.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10906
+D1
+~
+~
+0 0
+0 0 10892
+D2
+~
+~
+3 3
+1 0 10907
+D3
+~
+~
+0 0
+0 0 10894
+S
+#10894
+{cThe Panarch's Palace{x - A Wide Corridor~
+This is the western end of a broad white stone hallway in the Panarch's
+Palace.  A long strip of violet carpet has been placed down the middle of
+the white-tiled hallway, flanked by ornate golden lamps on gilded stands
+that burn with scented oil.  There are several doors along this hallway that
+lead into the guests' apartments.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10909
+D1
+~
+~
+0 0
+0 0 10893
+D2
+~
+~
+3 3
+1 0 10942
+D3
+~
+~
+3 3
+1 0 10908
+S
+#10895
+{cThe Panarch's Palace{x - An Advisor's Office~
+There are brightly colored tapestries and small silver lanterns adorning
+the white stone walls of this large office.  A large bright green carpet
+fringed with silver has been placed in the middle of the office's
+white-tiled floor.  There is a tall white marble fireplace built into the
+north wall of the room that has been ornately carved with a wave-like
+pattern.  Two elaborately carved doors mirroring each other on the east and
+west sides of the room appear to be the only exits from this office.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10896
+D3
+~
+~
+3 3
+1 0 10888
+S
+#10896
+{cThe Panarch's Palace{x - An Advisor's Quarters~
+This is a cozy apartment belonging to one of the Panarch's advisors. 
+There are silver lamps adorning the walls of this room which brightly light
+up the area.  The walls have been covered almost completely with polished
+cherry wood paneling that has elaborate scrollwork along the skirting boards
+and the doorframe.  The floor of the chamber has been carpeted with a green
+rug that has a golden trefoil leaf pattern and borders.  Finally there is a
+tall white marble fireplace built into the north wall that is flanked by a
+pair of long tapestries.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10897
+D3
+~
+~
+3 3
+1 0 10895
+S
+#10897
+{cThe Panarch's Palace{x - A Balcony~
+This is a large balcony located somewhere in the Panarch's Palace that
+overlooks the eastern districts of Tanchico, the grand white stone buildings
+and the river docks found nearby them.  The balcony has been screened with
+delicate filigreed stonework carved out of white marble and tiles also made
+of snowy white marble cover the floor.  To the west is an arched doorway
+bordered with elaborate carvings that leads into one of the palace's many
+apartments.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10896
+S
+#10898
+{cThe Panarch's Palace{x - An Advisor's Office~
+There are vibrant tapestries and small silver lamps adorning the white
+stone walls of this large office.  A large bright red carpet fringed with
+silver has been placed at the center of the room over the white-tiled floor.
+There is a tall white marble fireplace built into the west wall of the room
+that has been ornately carved with a wave-like pattern.  Finally there are
+elaborately yet identically carved doors on the north, south and east sides
+of the room that lead out of the office.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10899
+D1
+~
+~
+3 3
+1 0 10900
+D2
+~
+~
+3 3
+1 0 10888
+S
+#10899
+{cThe Panarch's Palace{x - An Advisor's Quarters~
+This is a luxurious apartment belonging to one of the Panarch's advisors.
+There are ornamental silver lanterns adorning the walls of this room which
+illuminate the area.  The walls have been covered almost completely with
+polished cherry wood paneling that has decorative scrollwork carved along
+the skirting boards and the doorframe.  The floor of the chamber has been
+carpeted with a red rug that has a golden trefoil leaf pattern and edging. 
+Lastly there is a tall white marble fireplace built into the north wall that
+is flanked by two long tapestries.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10898
+S
+#10900
+{cThe Panarch's Palace{x - A Balcony~
+This is a large balcony located somewhere in the Panarch's Palace that
+overlooks the eastern districts of the city of Tanchico, the magnificent
+white stone buildings and the river docks found near them.  The balcony has
+been screened with fine filigreed stonework carved out of white marble and
+tiles also made of white marble cover the floor.  To the west is an arched
+doorway bordered with elaborate carvings that leads into one of the palace's
+many apartments.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10898
+S
+#10901
+{cThe Panarch's Palace{x - An Advisor's Office~
+There are vibrant tapestries and small silver lanterns adorning the white
+stone walls of this large office.  A large bright blue carpet fringed with
+silver has been placed at the center of the office's white-tiled floor. 
+There is a tall white marble fireplace built into the west wall of the room
+that has been ornately carved with a wave-like pattern.  Finally there are
+ornately yet identically carved doors on the north, south and east sides of
+the room that lead out of the office.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10888
+D1
+~
+~
+3 3
+1 0 10902
+D2
+~
+~
+3 3
+1 0 10903
+S
+#10902
+{cThe Panarch's Palace{x - A Balcony~
+This is a large balcony located somewhere within the Panarch's Palace
+that overlooks the eastern districts of the city of Tanchico, the grand
+white stone buildings and the river docks found near them.  The balcony has
+been screened with filigreed stonework carved out of snowy white marble and
+tiles also made of white marble cover the floor.  To the west is an arched
+doorway bordered with elaborate carvings that leads into one of the palace's
+many apartments.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10901
+S
+#10903
+{cThe Panarch's Palace{x - An Advisor's Quarters~
+This is a comfy apartment belonging to one of the Panarch's advisors. 
+There are ornate silver lamps fixed to the walls of this room which brightly
+light up the area.  The walls have been covered almost completely with
+polished cherry wood paneling that has elaborately carved scrollwork along
+the skirting boards and the doorframe.  The floor of the chamber has been
+carpeted with a blue rug that has a golden trefoil leaf pattern and edging. 
+Lastly there is a tall white marble fireplace built into the south wall that
+is flanked by two long tapestries.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10901
+S
+#10904
+{cThe Panarch's Palace{x - A Grand Hallway~
+This is the southern end of a wide hallway in the Panarch's Palace.  The
+white stone walls have been carved with intricately patterned friezes and
+the high ceilings have been set with shiny arabesques of gold.  A long strip
+of bright red carpet has been placed along white-tiled floor down the hall,
+flanked by ornate golden lamps on gilded stands that burn with scented oil. 
+At the end of the corridor is a wide white marble staircase that twists its
+way to the upper and lower floors of the palace.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10891
+D4
+~
+~
+0 0
+0 0 10910
+D5
+~
+~
+0 0
+0 0 10876
+S
+#10905
+{cThe Panarch's Palace{x - A Guest Apartment~
+This is one of the many lavish guest apartments inside the Panarch's
+Palace.  There are decorative lanterns adorning the walls of this bedchamber
+which brightly light up the area.  The walls have been covered almost
+completely with glossy cherry wood paneling that has elaborately carved
+scrollwork along the skirting boards and the doorframe.  The floor of the
+chamber has been carpeted with a violet rug that has a golden trefoil leaf
+pattern and edging.  Lastly there is a wide white marble fireplace built
+into the south wall that is flanked by two long tapestries.  
+~
+0
+D 0
+E
+tapestries~
+Both of the tapestries depict busy harbor scenes along the Calapene Docks.  
+~
+D0
+~
+~
+3 3
+1 0 10892
+S
+#10906
+{cThe Panarch's Palace{x - A Guest Apartment~
+This is one of the lavish guest apartments in the Panarch's Palace. 
+There are decorative lanterns adorning the walls of this bedchamber which
+brightly light up the area.  The walls have been covered almost entirely
+with glossy cherry wood paneling that has elaborately carved scrollwork
+along the skirting boards and the doorframe.  The floor of the chamber has
+been carpeted with a violet rug that has a golden trefoil leaf pattern and
+edging.  Lastly there is a wide white marble fireplace built into the north
+wall that is flanked by a pair of colorful tapestries.  
+~
+0
+D 0
+E
+tapestries~
+The tapestries illustrate beautiful butterflies amid an ornamental flower
+garden.  
+~
+D2
+~
+~
+3 3
+1 0 10893
+S
+#10907
+{cThe Panarch's Palace{x - A Guest Apartment~
+This is one of the many luxurious guest apartments within the Panarch's
+Palace.  There are ornamental lanterns adorning the walls of this bedchamber
+which brightly illuminate the area.  The walls have been covered almost
+entirely with polished cherry wood paneling that has elaborately carved
+scrollwork along the skirting boards and the doorframe.  The floor of the
+chamber has been carpeted with a dark green rug that has a golden trefoil
+leaf pattern and edging.  Lastly there is a wide white marble fireplace
+built into the south wall that is flanked by two colorful tapestries.  
+~
+0
+D 0
+E
+tapestries~
+The tapestries illustrate hunting scenes within a densely populated wood.  
+~
+D0
+~
+~
+3 3
+1 0 10893
+S
+#10908
+{cThe Panarch's Palace{x - A Guest Apartment~
+This is one of the many luxurious guest apartments inside the Panarch's
+Palace.  There are mirrored lanterns adorning the walls of this bedchamber
+which brightly illuminate the area.  The walls have been covered almost
+entirely with polished cherry wood paneling that has elaborately carved
+scrollwork along the skirting boards and the doorframe.  The floor of the
+chamber has been carpeted with a deep red rug that has a golden trefoil leaf
+pattern and edging.  Lastly there is a wide white marble fireplace built
+into the west wall that is flanked by a pair of long tapestries.  
+~
+0
+D 0
+E
+tapestries~
+The tapestries illustrate hunting scenes within a densely populated wood.  
+~
+D1
+~
+~
+3 3
+1 0 10894
+S
+#10909
+{cThe Panarch's Palace{x - A Guest Apartment~
+This is one of the many comfortable guest apartments within the Panarch's
+Palace.  There are ornamental mirrored lanterns adorning the walls of this
+bedchamber which brightly illuminate the area.  The walls have been covered
+almost completely with polished cherry wood paneling that has elaborately
+carved scrollwork along the skirting boards and the doorframe.  The floor of
+the chamber has been carpeted with a dark green rug that has a golden
+trefoil leaf pattern and edging.  Lastly there is a wide white marble
+fireplace built into the north wall that is flanked by two long tapestries. 
+~
+0
+D 0
+E
+tapestries~
+Both of the tapestries depict busy harbor scenes along the Calapene Docks.  
+~
+D2
+~
+~
+3 3
+1 0 10894
+S
+#10910
+{cThe Panarch's Palace{x - A Spiraling Staircase~
+At first this appears to be a rather bland chamber within the Panarch's
+Palace.  Nothing adorns the white stone walls of the rounded room apart from
+ornate gilded lamps attached to gilded hooks.  A spiraling staircase made of
+white stone winds is way around the inner wall of the chamber that narrows
+gradually the further up it goes.  
+~
+0
+D 0
+D4
+~
+~
+0 0
+0 0 10911
+D5
+~
+~
+0 0
+0 0 10904
+S
+#10911
+{cThe Panarch's Palace{x - The Tower of the Morning~
+The Tower of the Morning is the highest point in Tanchico.  It is a tall
+yet tapering tower constructed from white stone which forms part of the
+impressive palace belonging to the Panarch of Tanchico.  This section of the
+tower is open to the elements and the only thing that stops anyone from
+falling to their inevitable doom is a white marble balustrade that is
+approximately at waist height.  The entire city can be seen from this point
+including the Calapene Docks to the west, the King's Circle that lies to the
+northwest and the Illuminator's Complex that lies to the northeast.  
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 10910
+S
+#10912
+{cThe Panarch's Palace{x - A Grand Sitting Room~
+This is a grand sitting room that belongs to the Panarch of Tarabon. 
+Several golden lamps hung from the ceiling by gilded chains reveal the white
+plaster walls of the room that have been adorned with colorful tapestries
+depicting scenes of exotic gardens.  The floor is covered with dark green
+carpet patterned with golden thread.  On the south side of the room is a
+tall fireplace constructed from white marble and carved with an intricate
+trefoil leaf design.  There are two exits from this room on the west and
+east sides whose doors are marked with the Panarch's sigil, the Tree and
+Staff.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10914
+D1
+~
+~
+3 3
+1 0 10887
+D3
+~
+~
+3 3
+1 0 10913
+S
+#10913
+{cThe Panarch's Palace{x - A Grand Balcony~
+This is a grand balcony situated somewhere in the Panarch's Palace that
+looks out over the western districts of Tanchico, the white stone buildings
+and sea docks found beyond them.  The balcony has been screened with
+delicate filigreed stonework carved out of white marble and tiles also made
+of snowy white marble cover the floor.  To the east is an arched doorway
+bordered with elaborate carvings that leads into one of the Panarch's
+apartment.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 10912
+S
+#10914
+{cThe Panarch's Palace{x - The Panarch's Study~
+This is a private study that is owned by the Panarch of Tarabon.  A
+series of golden lanterns suspended from the ceiling by gilded chains reveal
+dark walnut paneling upon the walls.  The floor is covered with dark green
+carpet accented with golden thread.  On the west and east side of the room
+are tall fireplaces crafted from white marble and decorated with an
+intricate trefoil leaf design.  There is a pair of exits from this room on
+the north and south sides whose doors are marked with the Panarch's sigil,
+the Tree and Staff.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10915
+D2
+~
+~
+3 3
+1 0 10912
+S
+#10915
+{cThe Panarch's Palace{x - The Panarch's Bedchamber~
+This is a huge bedchamber that belongs to the Panarch of Tarabon.  A
+series of golden lamps hung from the ceiling by gilded chains reveal the
+white plaster walls of the room worked in painted friezes.  The floor is
+covered with dark green carpet accented with golden thread.  On the west and
+east side of the room are tall fireplaces made of white marble and carved
+with an intricate trefoil leaf design.  The only exit from this room is a
+tall set of doors on the south side marked with the Panarch's sigil, the
+Tree and Staff.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10914
+S
+#10916
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - The Main Gate~
+A wide road paved with slabs of dull gray stone leads up the side of a
+steep grassy hill.  At the top of the hill is a group of white buildings and
+gray courtyards that look like training grounds.  At the bottom of the road
+is a pair of sturdy yet elaborate iron gates that seem to be the only route
+beyond a tall white stone wall that has been built around the base of the
+hill.  
+~
+0
+C 1
+D3
+~
+gate~
+3 3
+1 0 10805
+D4
+~
+~
+0 0
+0 0 10917
+S
+#10917
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Grand Parade Ground~
+This enormous paved courtyard built at the top of a high hill serves as a
+parade ground for the Panarch's Legion.  Both the courtyard and the white
+stone buildings that make up the complex are encircled by a tall white stone
+wall.  Fluttering in the wind are huge colorful banners depicting the
+Panarch's personal sigil, the banners hang proudly from lofty wooden posts
+set along the perimeter of the yard.  There is a broad paved road that leads
+down the hill towards the entrance into the headquarters.  
+~
+0
+C 1
+D0
+~
+~
+3 3
+1 0 10919
+D1
+~
+~
+0 0
+0 0 10921
+D2
+~
+~
+3 3
+1 0 10918
+D5
+~
+~
+0 0
+0 0 10916
+S
+#10918
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Guard House~
+The Guard House is a building with white stone walls and light gray
+flagstones covering the floor.  There is a slender window constructed in the
+north wall of the room which has been reinforced with robust iron bars and
+looks out over the grounds of the Panarch's Legion headquarters.  A small
+wood-burning stove has been placed inside the guard house along with a small
+stack of wood, a small table and two stools.  There is only one exit from
+this room, an iron-braced door located next to the barred window on the
+north side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10917
+S
+#10919
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - The Barracks~
+This huge hall serves as the barracks for the soldiers of the Panarch's
+Legion.  The area is brightly illuminated by small oil lamps that hang from
+ceiling.  The walls of the room have been left bare white stone and white
+tiles cover the floor.  Four grand fireplaces, two on either side of the
+hall provide enough heat for the entire area.  There are dozens of bunk beds
+and lockers arranged neatly along both sides of the hall.  At the far end of
+the hall are two doorways, one leading into the communal baths and the other
+one leading into the armory.  
+~
+0
+D 0
+D0
+~
+~
+8231 8231
+2 10890 10920
+D2
+~
+~
+3 3
+1 0 10917
+S
+#10920
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - An Armory~
+This is a large storage room with white stone walls and light gray
+flagstones covering the floor.  There is a narrow window constructed in the
+north wall of the room which has been reinforced with tough iron bars.  The
+only exit from this room is an iron-braced door situated on the south side
+of the storage room.  
+~
+0
+BD 0
+D2
+~
+~
+8231 8231
+2 10890 10919
+S
+#10921
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Wide Road~
+This is the western end of a wide road that forms part of the complex
+that makes up the headquarters of the Panarch's Legion, connecting two large
+courtyards.  The area has been paved with slabs of dull gray stone and
+flanked by tall trees and hedging.  There are several white stone buildings
+constructed along the north and south sides of this road, including
+barracks, stables and various workshops.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 10922
+D1
+~
+~
+0 0
+0 0 10925
+D2
+~
+~
+3 3
+1 0 10923
+D3
+~
+~
+0 0
+0 0 10917
+S
+#10922
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - The Mess Hall~
+This large building serves as the mess hall for the soldiers of the
+Panarch's Legion.  The area is brightly lit up by oil lanterns that hang
+from the ceiling.  The walls of the room have been left bare white stone and
+white tiles cover the floor.  Four grand fireplaces, two on either side of
+the hall provide enough heat for the whole area.  Arranged in neat rows down
+the entire length of the mess hall are long tables and benches.  At the far
+end of the hall is a doorway leading into the kitchens.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10921
+S
+#10923
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - The Officers Barracks~
+This large hall serves as the barracks for the junior officers of the
+Panarch's Legion.  The area is illuminated by small oil lanterns that hang
+from ceiling.  The walls of the room have been left bare white stone and
+white tiles cover the floor.  Two grand fireplaces, one on either side of
+the hall provide enough warmth for the whole area.  There are several bunk
+beds and lockers arranged in an organized manner along both sides of the
+hall.  At the far end of the hall is a door leading into the communal baths.
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10921
+D2
+~
+~
+8231 8231
+2 10890 10924
+S
+#10924
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - An Armory~
+This is a large storage room with white stone walls and pale gray
+flagstones covering the floor.  There is a slender window built in the south
+wall of the room which has been reinforced with robust iron bars.  There is
+only one exit from this room, an iron-braced door situated on the north side
+of the storage room.  
+~
+0
+BD 0
+D0
+~
+~
+8231 8231
+2 10890 10923
+S
+#10925
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Wide Road~
+This is a wide east/west road forms part of the complex that makes up the
+headquarters of the Panarch's Legion, joining two large courtyards.  The
+area has been paved with slabs of dull gray stone and bordered by tall trees
+and hedging.  There are numerous white stone buildings constructed along the
+north and south sides of this road, including barracks, stables and various
+workshops.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 10926
+D1
+~
+~
+0 0
+0 0 10928
+D2
+~
+~
+3 3
+1 0 10927
+D3
+~
+~
+0 0
+0 0 10921
+S
+#10926
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Stable~
+This stable is an enormous white stone building capped with a flat
+gray-tiled roof.  Inside the building are lots of stalls for horses and
+placed on pegs and hooks outside each stall are various items of riding and
+grooming equipment.  A hayloft has been built above the stalls with an iron
+rung ladder fixed to one of the walls serving as the only way up to it. 
+There appears to be only one exit out of this building, a wide set of doors
+to the south.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10925
+S
+#10927
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Blacksmith's Forge~
+The blacksmith's workshop is a small building built using large blocks of
+white stone.  The area has been kept neat and tidy with the blacksmith's
+equipment arranged on racks on the walls or in cupboards and drawers.  At
+the south end of the workshop is the forge with a collection of anvils have
+been placed close by it.  Several large wooden barrels have been placed
+against the workshop's north wall next to the workshop's exit.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10925
+S
+#10928
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Wide Road~
+This is the eastern end of a wide road that forms part of the complex
+that makes up the headquarters of the Panarch's Legion, linking two large
+courtyards.  The area has been built with slabs of gray stone and bordered
+by tall trees and hedging.  There are many white stone buildings constructed
+along the north and south sides of this road, including stables, barracks
+and various workshops.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 10929
+D1
+~
+~
+0 0
+0 0 10931
+D2
+~
+~
+3 3
+1 0 10930
+D3
+~
+~
+0 0
+0 0 10925
+S
+#10929
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Workshop~
+This workshop occupies a small building built from large blocks of white
+stone.  The area is well organized with the workmen's tools arranged on
+racks or in cupboards and drawers.  At the north end of the workshop is the
+forge, a collection of anvils have been positioned close by it.  Several
+large wooden barrels have been placed against the workshop's south wall next
+to the exit.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10928
+S
+#10930
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Workshop~
+This workshop is housed within a small building constructed from large
+blocks of white stone.  The area has been kept relatively neat and tidy with
+the workmen's tools arranged on racks or in cupboards and drawers.  At the
+south end of the workshop is the forge, a collection of anvils have been
+placed close by it.  There are several large wooden barrels placed against
+the workshop's north wall next to the exit.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 10928
+S
+#10931
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - A Large Courtyard~
+This large square courtyard forms part of the complex that makes up the
+headquarters of the Panarch's Legion.  The area has been built with square
+slabs of dull gray stone with hedging covering much of its perimeter. 
+Beyond the hedging along three of the sides of the yard are tall white stone
+walls which surround large grassy training areas, each area can be accessed
+via a wide gateway through the wall.  The west side of the courtyard is
+joined by a wide gray road that leads through the complex past a collection
+of white stone buildings.  
+~
+0
+C 1
+D0
+~
+gate~
+3 3
+1 0 10932
+D1
+~
+gate~
+3 3
+1 0 10936
+D2
+~
+gate~
+3 3
+1 0 10934
+D3
+~
+~
+0 0
+0 0 10928
+S
+#10932
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Infantry Training Grounds~
+This is the southern end of a large grassy field that is being used as
+training grounds by the Panarch's Legion.  The perimeter of the field has
+been marked out by a high wall that has been constructed from large blocks
+of white stone.  A wide gateway built into the north wall leads out onto a
+large gray stone courtyard.  Long colorful banners have been suspended upon
+wooden posts near the edges of the field creating an alternating pattern of
+the sigils of the Panarch's Legion and of the Panarch herself.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 10933
+D2
+~
+gate~
+3 3
+1 0 10931
+S
+#10933
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Infantry Training Grounds~
+This is the northern end of a big grassy field that is being used as
+training grounds by the Panarch's Legion.  The perimeter of the field has
+been marked out by a tall wall that has been made from large white stone
+blocks.  Long colorful banners have been hung upon wooden posts near the
+edges of the field creating an alternating pattern of the sigils of the
+Panarch's Legion and of the Panarch herself.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 10932
+S
+#10934
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Archery Training Grounds~
+This is the northern end of a big grassy field that is being used as
+training grounds by the Panarch's Legion.  The edge of the field has been
+marked out by a tall wall that has been constructed from large white stone
+blocks.  A wide gateway built into the north wall leads out onto a large
+gray stone courtyard.  Long colorful banners have been hung upon wooden
+posts near the perimeter of the field creating an alternating pattern of the
+sigils of the Panarch's Legion and of the Panarch herself.  
+~
+0
+0 2
+D0
+~
+gate~
+3 3
+1 0 10931
+D2
+~
+~
+0 0
+0 0 10935
+S
+#10935
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Archery Training Grounds~
+This is the southern end of a large grassy field that is being used as
+training grounds by the Panarch's Legion.  The perimeter of the field has
+been marked out by a tall wall that has been built from large blocks of
+white stone.  Bright colorful banners have been hung upon wooden posts near
+the edges of the field creating an alternating pattern of the sigils of the
+Panarch's Legion and of the Panarch herself.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 10934
+S
+#10936
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Cavalry Training Grounds~
+This is the western end of a big grassy field that is being used as
+training grounds by the Panarch's Legion.  The perimeter of the field has
+been marked out by a tall wall that has been constructed from large blocks
+of white stone.  A broad gateway built into the west wall leads out onto a
+gray stone courtyard.  Bright colorful banners have been suspended upon
+wooden posts near the edges of the field creating an alternating pattern of
+the sigils of the Panarch's Legion and of the Panarch herself.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 10937
+D3
+~
+gate~
+3 3
+1 0 10931
+S
+#10937
+{gT{Gh{ge P{Ganarc{gh's L{Gegio{gn H{Geadquarter{gs{x - Cavalry Training Grounds~
+This is the eastern end of a large grassy field that is being used as
+training grounds by the Panarch's Legion.  The perimeter of the field has
+been marked out by a high wall that has been built from large blocks of
+white stone.  Long colorful banners have been hung upon wooden posts near
+the edges of the field creating an alternating pattern of the sigils of the
+Panarch's Legion and of the Panarch herself.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 10936
+S
+#10938
+{cThe Panarch's Palace{x - An Audience Chamber~
+This audience chamber is a plain and somber affair when compared with
+many of the other rooms inside the Panarch's Palace.  Numerous gilded
+lanterns hung from the white plaster ceiling reveal the wood grain of the
+dark walnut paneling adorning the walls.  The floor of the chamber has been
+clad with black marble tiles that shimmer in the light.  The only exit from
+this audience chamber is a door on the south side that is flanked by a pair
+of banners depicting the sigil of the Panarch of Tarabon.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10880
+S
+#10939
+{cThe Panarch's Palace{x - The Music Room~
+The music room is a plain and somber affair when compared with many of
+the other rooms within the Panarch's Palace.  A set of golden lamps
+suspended from the white plaster ceiling reveal the wood grain of the dark
+walnut paneling adorning the walls.  The floor of the chamber has been
+covered with black marble tiles that glisten in the light.  The only exit
+from this room is a door on the south side that is flanked by a pair of
+banners depicting the sigil of the Panarch of Tarabon.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 10882
+S
+#10940
+{cThe Panarch's Palace{x - The Throne Room~
+This is a huge rectangular chamber that is brightly lit up by many golden
+lamps that are hung from the vaulted ceiling by gilded chains.  The light
+from the lamps reveal numerous friezes carved into the white stone walls of
+the throne room.  A long strip of dark green carpet runs along the entire
+length of the room and up the steps of a white stone dais built at the west
+end.  There is only one exit from the throne room a pair of doors on the
+east side of the chamber that are marked with the Panarch's sigil.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 10880
+S
+#10941
+{cThe Panarch's Palace{x - The Grand Hall~
+This is a large rectangular chamber that is brightly illuminated by many
+golden lanterns that are hung from the vaulted ceiling by gilded chains. 
+The light from the lanterns reveal a series of friezes carved into the white
+stone walls of the hall.  The floor of the chamber is a colorful mosaic
+depicting the Great Tree and Staff, the Panarch of Tarabon's personal sigil.
+There is only one exit from the great hall, a pair of doors on the west side
+of the chamber that are also marked with the Panarch's sigil.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 10882
+S
+#10942
+{cThe Panarch's Palace{x - A Guest Apartment~
+This is one of the comfy guest apartments in the Panarch's Palace.  There
+are mirrored lanterns adorning the walls of this bedchamber which brightly
+light up the area.  The walls have been covered almost completely with
+glossy cherry wood paneling that has elaborately carved scrollwork along the
+skirting boards and the doorframe.  The floor of the chamber has been
+carpeted with a dark blue rug that has a golden trefoil leaf pattern and
+edging.  Lastly there is a wide white marble fireplace built into the south
+wall that is flanked by a pair of elaborate tapestries.  
+~
+0
+D 0
+E
+tapestries~
+The tapestries illustrate beautiful butterflies amid an ornamental flower
+garden.  
+~
+D0
+~
+~
+3 3
+1 0 10894
+S
+#0
+
+
+
+#SPECIALS
+M 10803 spec_thief
+M 10809 spec_thief
+M 10838 spec_archer
+M 10866 spec_thief
+M 10871 spec_channeler_defensive
+S
+
+
+
+#RESETS
+D 0 10801 1 1
+D 0 10805 1 1
+D 0 10805 3 1
+D 0 10807 2 1
+D 0 10811 2 1
+D 0 10812 0 1
+D 0 10812 2 2
+D 0 10813 0 2
+D 0 10813 1 2
+D 0 10813 2 2
+D 0 10813 3 2
+D 0 10814 0 2
+D 0 10814 2 2
+D 0 10815 0 2
+D 0 10824 1 1
+D 0 10824 2 1
+D 0 10824 3 1
+D 0 10825 0 1
+D 0 10826 0 1
+D 0 10826 3 1
+D 0 10828 1 2
+D 0 10831 3 2
+D 0 10841 1 1
+D 0 10841 2 1
+D 0 10841 3 1
+D 0 10842 2 1
+D 0 10842 3 1
+D 0 10843 0 1
+D 0 10843 1 1
+D 0 10844 1 1
+D 0 10845 0 2
+D 0 10845 1 2
+D 0 10845 2 2
+D 0 10845 3 2
+D 0 10846 1 2
+D 0 10847 3 2
+D 0 10848 2 2
+D 0 10849 0 2
+D 0 10850 0 1
+D 0 10851 1 1
+D 0 10852 1 1
+D 0 10853 2 1
+D 0 10853 3 1
+D 0 10854 1 1
+D 0 10857 2 1
+D 0 10858 0 1
+D 0 10858 2 1
+D 0 10858 3 1
+D 0 10859 0 1
+D 0 10859 1 1
+D 0 10862 1 1
+D 0 10864 0 1
+D 0 10865 0 1
+D 0 10866 2 1
+D 0 10867 0 1
+D 0 10868 0 1
+D 0 10868 1 1
+D 0 10868 2 1
+D 0 10869 0 1
+D 0 10869 2 1
+D 0 10870 0 1
+D 0 10870 1 1
+D 0 10870 2 1
+D 0 10871 0 1
+D 0 10871 2 1
+D 0 10872 1 1
+D 0 10872 2 1
+D 0 10872 3 1
+D 0 10873 0 1
+D 0 10873 2 1
+D 0 10873 3 1
+D 0 10874 0 1
+D 0 10874 2 1
+D 0 10875 0 1
+D 0 10875 2 1
+D 0 10876 0 1
+D 0 10876 3 1
+D 0 10877 3 1
+D 0 10879 3 1
+D 0 10880 0 1
+D 0 10880 1 1
+D 0 10880 2 1
+D 0 10880 3 1
+D 0 10881 0 1
+D 0 10881 1 1
+D 0 10881 2 1
+D 0 10881 3 1
+D 0 10882 0 1
+D 0 10882 1 1
+D 0 10882 3 1
+D 0 10883 2 1
+D 0 10884 0 1
+D 0 10884 2 1
+D 0 10885 0 1
+D 0 10885 2 1
+D 0 10886 0 1
+D 0 10886 2 1
+D 0 10887 0 1
+D 0 10887 2 1
+D 0 10887 3 1
+D 0 10888 0 1
+D 0 10888 1 1
+D 0 10888 2 1
+D 0 10889 0 1
+D 0 10889 2 1
+D 0 10890 0 1
+D 0 10890 2 1
+D 0 10891 0 1
+D 0 10891 2 1
+D 0 10891 3 1
+D 0 10892 1 1
+D 0 10892 2 1
+D 0 10893 0 1
+D 0 10893 2 1
+D 0 10894 0 1
+D 0 10894 2 1
+D 0 10894 3 1
+D 0 10895 1 1
+D 0 10895 3 1
+D 0 10896 1 1
+D 0 10896 3 1
+D 0 10897 3 1
+D 0 10898 0 1
+D 0 10898 1 1
+D 0 10898 2 1
+D 0 10899 2 1
+D 0 10900 3 1
+D 0 10901 0 1
+D 0 10901 1 1
+D 0 10901 2 1
+D 0 10902 3 1
+D 0 10903 0 1
+D 0 10904 0 1
+D 0 10905 0 1
+D 0 10906 2 1
+D 0 10907 0 1
+D 0 10908 1 1
+D 0 10909 2 1
+D 0 10912 0 1
+D 0 10912 1 1
+D 0 10912 3 1
+D 0 10913 1 1
+D 0 10914 0 1
+D 0 10914 2 1
+D 0 10915 2 1
+D 0 10916 3 1
+D 0 10917 0 1
+D 0 10917 2 1
+D 0 10918 0 1
+D 0 10919 0 2
+D 0 10919 2 1
+D 0 10920 2 2
+D 0 10921 0 1
+D 0 10921 2 1
+D 0 10922 2 1
+D 0 10923 0 1
+D 0 10923 2 2
+D 0 10924 0 2
+D 0 10925 0 1
+D 0 10925 2 1
+D 0 10926 2 1
+D 0 10927 0 1
+D 0 10928 0 1
+D 0 10928 2 1
+D 0 10929 2 1
+D 0 10930 0 1
+D 0 10931 0 1
+D 0 10931 1 1
+D 0 10931 2 1
+D 0 10932 2 1
+D 0 10934 0 1
+D 0 10936 3 1
+D 0 10938 2 1
+D 0 10939 2 1
+D 0 10940 1 1
+D 0 10941 3 1
+D 0 10942 0 1
+O 0 10800 0 10800
+M 0 10804 4 10800 1
+M 0 10866 4 10800 1
+M 0 10868 4 10800 1
+M 0 10805 4 10801 1
+M 0 10869 4 10801 1
+M 0 10870 4 10801 1
+M 0 10867 4 10802 1
+M 0 10868 4 10802 1
+M 0 10871 2 10802 1
+O 0 10801 0 10803
+M 0 10801 4 10803 2
+E 0 10808 0 7
+E 0 10809 0 8
+E 0 10810 0 20
+M 0 10801 4 10803 2
+E 0 10808 0 7
+E 0 10809 0 8
+E 0 10811 0 20
+M 0 10801 4 10804 2
+E 0 10808 0 7
+E 0 10809 0 8
+E 0 10810 0 20
+M 0 10801 4 10804 2
+E 0 10808 0 7
+E 0 10809 0 8
+E 0 10811 0 20
+M 0 10866 4 10805 1
+M 0 10867 4 10805 1
+M 0 10870 4 10805 1
+M 0 10804 4 10806 1
+M 0 10805 4 10806 1
+M 0 10866 4 10806 1
+M 0 10868 4 10807 1
+M 0 10869 4 10807 1
+M 0 10870 4 10807 1
+M 0 10804 4 10808 1
+M 0 10805 4 10808 1
+M 0 10871 2 10808 1
+M 0 10866 4 10809 1
+M 0 10867 4 10809 1
+M 0 10869 4 10809 1
+M 0 10805 4 10810 1
+M 0 10867 4 10810 1
+M 0 10868 4 10810 1
+M 0 10804 4 10811 1
+M 0 10869 4 10811 1
+M 0 10870 4 10811 1
+M 0 10800 4 10812 2
+E 0 10802 0 7
+E 0 10803 0 25
+E 0 10804 0 8
+E 0 10805 0 13
+E 0 10806 0 20
+G 0 10807 0
+M 0 10800 4 10812 2
+E 0 10802 0 7
+E 0 10803 0 25
+E 0 10804 0 8
+E 0 10805 0 13
+E 0 10806 0 20
+G 0 10807 0
+M 0 10874 4 10813 4
+M 0 10874 4 10813 4
+M 0 10874 4 10813 4
+M 0 10874 4 10813 4
+M 0 10875 2 10813 2
+M 0 10875 2 10813 2
+M 0 10800 4 10814 2
+E 0 10802 0 7
+E 0 10803 0 25
+E 0 10804 0 8
+E 0 10805 0 13
+E 0 10806 0 20
+G 0 10807 0
+M 0 10800 4 10814 2
+E 0 10802 0 7
+E 0 10803 0 25
+E 0 10804 0 8
+E 0 10805 0 13
+E 0 10806 0 20
+G 0 10807 0
+M 0 10812 8 10815 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10813 4 10815 1
+M 0 10863 5 10815 1
+M 0 10812 8 10816 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10814 4 10816 1
+M 0 10815 2 10817 2
+M 0 10815 2 10817 2
+M 0 10863 5 10817 1
+M 0 10812 8 10818 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10814 4 10818 1
+M 0 10812 8 10819 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10813 4 10819 1
+M 0 10863 5 10819 1
+M 0 10812 8 10820 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10814 4 10820 1
+M 0 10812 8 10821 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10813 4 10821 1
+M 0 10863 5 10821 1
+M 0 10812 8 10822 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10814 4 10822 1
+M 0 10812 8 10823 1
+E 0 10815 0 16
+E 0 10816 0 7
+M 0 10813 4 10823 1
+M 0 10863 5 10823 1
+O 0 10923 0 10824
+M 0 10861 1 10824 1
+E 0 10917 0 24
+E 0 10917 0 23
+E 0 10918 0 3
+E 0 10918 0 4
+E 0 10919 0 10
+E 0 10920 0 18
+E 0 10920 0 17
+E 0 10921 0 25
+E 0 10922 0 20
+M 0 10802 4 10825 4
+M 0 10802 4 10825 4
+M 0 10802 4 10825 4
+M 0 10802 4 10825 4
+M 0 10808 2 10825 2
+E 0 10814 0 20
+M 0 10808 2 10825 2
+E 0 10814 0 20
+M 0 10803 2 10826 2
+M 0 10803 2 10826 2
+M 0 10817 1 10826 1
+G 0 10818 0
+G 0 10819 0
+G 0 10820 0
+G 0 10821 0
+O 0 10824 0 10826
+M 0 10818 5 10826 5
+E 0 10825 0 20
+E 0 10826 0 12
+E 0 10827 0 8
+E 0 10828 0 7
+E 0 10829 0 25
+E 0 10830 0 9
+M 0 10818 5 10826 5
+E 0 10825 0 20
+E 0 10826 0 12
+E 0 10827 0 8
+E 0 10828 0 7
+E 0 10829 0 25
+E 0 10830 0 9
+M 0 10818 5 10826 5
+E 0 10825 0 20
+E 0 10826 0 12
+E 0 10827 0 8
+E 0 10828 0 7
+E 0 10829 0 25
+E 0 10830 0 9
+M 0 10818 5 10826 5
+E 0 10825 0 20
+E 0 10826 0 12
+E 0 10827 0 8
+E 0 10828 0 7
+E 0 10829 0 25
+E 0 10830 0 9
+M 0 10818 5 10826 5
+E 0 10825 0 20
+E 0 10826 0 12
+E 0 10827 0 8
+E 0 10828 0 7
+E 0 10829 0 25
+E 0 10830 0 9
+M 0 10809 8 10827 1
+M 0 10816 4 10827 1
+G 0 10817 0
+O 0 10812 0 10828
+M 0 10862 4 10828 2
+M 0 10862 4 10828 2
+M 0 10809 8 10829 1
+M 0 10816 4 10829 1
+G 0 10817 0
+M 0 10809 8 10830 1
+M 0 10816 4 10830 1
+G 0 10817 0
+O 0 10812 0 10831
+M 0 10862 4 10831 2
+M 0 10862 4 10831 2
+M 0 10809 8 10832 1
+M 0 10816 4 10832 1
+G 0 10817 0
+O 0 10813 0 10833
+M 0 10809 8 10833 1
+M 0 10810 4 10833 1
+M 0 10872 4 10833 1
+M 0 10806 4 10834 1
+M 0 10811 4 10834 1
+M 0 10872 4 10834 1
+M 0 10809 8 10835 1
+M 0 10810 4 10835 1
+M 0 10872 4 10835 1
+M 0 10806 4 10836 1
+M 0 10811 4 10836 1
+M 0 10872 4 10836 1
+O 0 10813 0 10837
+M 0 10809 8 10837 1
+M 0 10810 4 10837 1
+M 0 10873 4 10837 1
+M 0 10806 4 10838 1
+M 0 10811 4 10838 1
+M 0 10873 4 10838 1
+M 0 10809 8 10839 1
+M 0 10810 4 10839 1
+M 0 10873 4 10839 1
+M 0 10806 4 10840 1
+M 0 10811 4 10840 1
+M 0 10873 4 10840 1
+M 0 10807 4 10842 4
+M 0 10807 4 10842 4
+M 0 10807 4 10842 4
+M 0 10807 4 10842 4
+O 0 10831 0 10843
+P 0 10832 5 10831 5
+P 0 10927 5 10831 5
+M 0 10819 5 10843 5
+E 0 10928 0 8
+E 0 10929 0 20
+M 0 10819 5 10843 5
+E 0 10928 0 8
+E 0 10929 0 20
+M 0 10819 5 10843 5
+E 0 10928 0 8
+E 0 10929 0 20
+M 0 10819 5 10843 5
+E 0 10928 0 8
+E 0 10929 0 20
+M 0 10819 5 10843 5
+E 0 10928 0 8
+E 0 10929 0 20
+O 0 10823 0 10844
+M 0 10877 6 10844 6
+G 0 10926 0
+E 0 10924 0 20
+M 0 10877 6 10844 6
+G 0 10926 0
+E 0 10925 0 20
+M 0 10877 6 10844 6
+G 0 10926 0
+E 0 10924 0 20
+M 0 10877 6 10844 6
+G 0 10926 0
+E 0 10925 0 20
+M 0 10877 6 10844 6
+G 0 10926 0
+E 0 10924 0 20
+M 0 10877 6 10844 6
+G 0 10926 0
+E 0 10925 0 20
+O 0 10822 0 10846
+O 0 10822 0 10847
+O 0 10822 0 10848
+O 0 10822 0 10849
+M 0 10825 12 10850 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10850 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10850 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10850 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10843 4 10851 4
+E 0 10878 0 8
+E 0 10879 0 7
+E 0 10880 0 9
+M 0 10843 4 10851 4
+E 0 10878 0 8
+E 0 10879 0 7
+E 0 10880 0 9
+M 0 10843 4 10851 4
+E 0 10878 0 8
+E 0 10879 0 7
+E 0 10880 0 9
+M 0 10843 4 10851 4
+E 0 10878 0 8
+E 0 10879 0 7
+E 0 10880 0 9
+M 0 10828 2 10851 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10828 2 10851 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+O 0 10877 0 10851
+M 0 10825 12 10852 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10852 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10852 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10852 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10820 10 10854 1
+M 0 10821 10 10854 1
+M 0 10820 10 10855 1
+M 0 10821 10 10855 1
+M 0 10820 10 10856 1
+M 0 10821 10 10856 1
+M 0 10820 10 10857 1
+M 0 10821 10 10857 1
+M 0 10822 2 10858 2
+M 0 10822 2 10858 2
+M 0 10842 4 10858 4
+E 0 10876 0 20
+M 0 10842 4 10858 4
+E 0 10876 0 20
+M 0 10842 4 10858 4
+E 0 10876 0 20
+M 0 10842 4 10858 4
+E 0 10876 0 20
+M 0 10820 10 10859 1
+M 0 10821 10 10859 1
+M 0 10820 10 10860 1
+M 0 10821 10 10860 1
+M 0 10820 10 10861 1
+M 0 10821 10 10861 1
+M 0 10820 10 10862 1
+M 0 10821 10 10862 1
+M 0 10820 10 10863 1
+M 0 10821 10 10863 1
+M 0 10820 10 10864 1
+M 0 10821 10 10864 1
+M 0 10820 10 10865 1
+M 0 10821 10 10865 1
+M 0 10820 10 10866 1
+M 0 10821 10 10866 1
+M 0 10823 3 10867 3
+M 0 10823 3 10867 3
+M 0 10823 3 10867 3
+M 0 10824 3 10867 3
+M 0 10824 3 10867 3
+M 0 10824 3 10867 3
+M 0 10827 4 10868 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10827 4 10868 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10827 4 10868 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10827 4 10868 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+O 0 10833 0 10869
+M 0 10844 4 10869 4
+E 0 10881 0 5
+M 0 10856 4 10869 1
+E 0 10912 0 20
+G 0 10914 0
+E 0 10916 0 15
+M 0 10878 6 10870 2
+M 0 10878 6 10870 2
+O 0 10833 0 10871
+M 0 10844 4 10871 4
+E 0 10881 0 5
+M 0 10855 4 10871 1
+E 0 10911 0 20
+G 0 10913 0
+E 0 10915 0 15
+M 0 10878 6 10872 2
+M 0 10878 6 10872 2
+O 0 10833 0 10873
+M 0 10844 4 10873 4
+E 0 10881 0 5
+M 0 10855 4 10873 1
+E 0 10912 0 20
+G 0 10914 0
+E 0 10916 0 15
+M 0 10878 6 10874 2
+M 0 10878 6 10874 2
+O 0 10833 0 10875
+M 0 10844 4 10875 4
+E 0 10881 0 5
+M 0 10856 4 10875 1
+E 0 10911 0 20
+G 0 10913 0
+E 0 10915 0 15
+M 0 10829 10 10876 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10829 10 10876 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10826 4 10877 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10826 4 10877 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10839 4 10877 1
+M 0 10840 4 10877 1
+M 0 10839 4 10878 2
+M 0 10839 4 10878 2
+M 0 10840 4 10878 2
+M 0 10840 4 10878 2
+M 0 10826 4 10879 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10826 4 10879 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10839 4 10879 1
+M 0 10840 4 10879 1
+M 0 10853 4 10880 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+G 0 10859 0
+M 0 10853 4 10880 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+G 0 10859 0
+M 0 10841 4 10881 1
+M 0 10854 6 10881 1
+M 0 10864 4 10882 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10864 4 10882 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10829 10 10883 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10829 10 10883 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10845 6 10883 1
+M 0 10845 6 10884 1
+M 0 10856 4 10884 1
+E 0 10912 0 20
+G 0 10914 0
+E 0 10916 0 15
+M 0 10841 4 10885 1
+M 0 10855 4 10885 1
+E 0 10912 0 20
+G 0 10914 0
+E 0 10916 0 15
+M 0 10829 10 10886 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10829 10 10886 2
+O 0 10882 0 10886
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10845 6 10886 1
+M 0 10854 6 10887 1
+M 0 10854 6 10888 1
+M 0 10841 4 10889 1
+M 0 10855 4 10889 1
+E 0 10911 0 20
+G 0 10913 0
+E 0 10915 0 15
+M 0 10845 6 10890 1
+M 0 10856 4 10890 1
+E 0 10911 0 20
+G 0 10913 0
+E 0 10915 0 15
+M 0 10841 4 10891 1
+M 0 10854 6 10891 1
+O 0 10908 0 10892
+P 0 10909 1 10908 1
+M 0 10854 6 10892 1
+O 0 10908 0 10893
+M 0 10829 10 10893 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10829 10 10893 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10845 6 10893 1
+O 0 10908 0 10894
+P 0 10910 1 10908 1
+M 0 10854 6 10894 1
+O 0 10897 0 10895
+P 0 10898 1 10897 1
+O 0 10864 0 10895
+O 0 10865 0 10896
+O 0 10899 0 10897
+O 0 10900 0 10898
+P 0 10901 1 10900 1
+O 0 10862 0 10898
+O 0 10863 0 10899
+O 0 10899 0 10900
+O 0 10900 0 10901
+P 0 10904 1 10900 1
+O 0 10860 0 10901
+O 0 10899 0 10902
+O 0 10861 0 10903
+O 0 10907 0 10905
+O 0 10872 0 10905
+O 0 10905 0 10906
+O 0 10872 0 10906
+O 0 10906 0 10907
+O 0 10872 0 10907
+O 0 10905 0 10908
+O 0 10872 0 10908
+O 0 10906 0 10909
+O 0 10872 0 10909
+M 0 10865 1 10911 1
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10825 12 10916 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10916 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10916 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10825 12 10916 4
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10839 0 20
+E 0 10840 0 13
+M 0 10846 4 10917 1
+E 0 10883 0 16
+E 0 10884 0 8
+E 0 10885 0 20
+M 0 10831 2 10918 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+G 0 10859 0
+M 0 10831 2 10918 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+G 0 10859 0
+M 0 10833 5 10919 5
+M 0 10833 5 10919 5
+M 0 10833 5 10919 5
+M 0 10833 5 10919 5
+M 0 10833 5 10919 5
+O 0 10866 0 10920
+P 0 10891 10 10866 10
+M 0 10846 4 10921 1
+E 0 10883 0 16
+E 0 10884 0 8
+E 0 10885 0 20
+M 0 10832 5 10922 5
+M 0 10832 5 10922 5
+M 0 10832 5 10922 5
+M 0 10832 5 10922 5
+M 0 10832 5 10922 5
+M 0 10847 4 10923 4
+E 0 10886 0 20
+E 0 10887 0 7
+E 0 10888 0 9
+E 0 10889 0 10
+M 0 10847 4 10923 4
+E 0 10886 0 20
+E 0 10887 0 7
+E 0 10888 0 9
+E 0 10889 0 10
+M 0 10847 4 10923 4
+E 0 10886 0 20
+E 0 10887 0 7
+E 0 10888 0 9
+E 0 10889 0 10
+M 0 10847 4 10923 4
+E 0 10886 0 20
+E 0 10887 0 7
+E 0 10888 0 9
+E 0 10889 0 10
+G 0 10890 0
+O 0 10866 0 10924
+P 0 10892 5 10866 5
+P 0 10893 5 10866 5
+M 0 10829 10 10925 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10829 10 10925 2
+E 0 10834 0 8
+E 0 10835 0 25
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10842 0 20
+E 0 10840 0 13
+M 0 10835 3 10926 3
+M 0 10835 3 10926 3
+M 0 10835 3 10926 3
+M 0 10836 3 10926 3
+M 0 10836 3 10926 3
+M 0 10836 3 10926 3
+M 0 10834 1 10927 1
+M 0 10876 3 10927 3
+M 0 10876 3 10927 3
+M 0 10876 3 10927 3
+M 0 10846 4 10928 1
+E 0 10883 0 16
+E 0 10884 0 8
+E 0 10885 0 20
+M 0 10830 2 10929 1
+G 0 10843 0
+G 0 10844 0
+G 0 10845 0
+G 0 10846 0
+G 0 10847 0
+G 0 10848 0
+G 0 10849 0
+G 0 10850 0
+G 0 10851 0
+G 0 10852 0
+M 0 10837 2 10929 1
+M 0 10830 2 10930 1
+G 0 10853 0
+G 0 10854 0
+G 0 10856 0
+G 0 10855 0
+G 0 10857 0
+G 0 10858 0
+M 0 10837 2 10930 1
+M 0 10846 4 10931 1
+E 0 10883 0 16
+E 0 10884 0 8
+E 0 10885 0 20
+O 0 10895 0 10932
+M 0 10848 4 10932 4
+M 0 10848 4 10932 4
+M 0 10848 4 10932 4
+M 0 10848 4 10932 4
+M 0 10850 4 10932 2
+M 0 10850 4 10932 2
+M 0 10849 4 10933 4
+M 0 10849 4 10933 4
+M 0 10849 4 10933 4
+M 0 10849 4 10933 4
+M 0 10850 4 10933 2
+M 0 10850 4 10933 2
+O 0 10867 0 10934
+P 0 10869 6 10867 3
+M 0 10838 6 10934 3
+E 0 10868 0 20
+E 0 10869 0 19
+E 0 10870 0 8
+E 0 10871 0 18
+E 0 10871 0 17
+M 0 10838 6 10934 3
+E 0 10868 0 20
+E 0 10869 0 19
+E 0 10870 0 8
+E 0 10871 0 18
+E 0 10871 0 17
+M 0 10838 6 10934 3
+E 0 10868 0 20
+E 0 10869 0 19
+E 0 10870 0 8
+E 0 10871 0 18
+E 0 10871 0 17
+M 0 10852 4 10934 2
+M 0 10852 4 10934 2
+O 0 10867 0 10935
+P 0 10869 6 10867 3
+M 0 10838 6 10935 3
+E 0 10868 0 20
+E 0 10869 0 19
+E 0 10870 0 8
+E 0 10871 0 18
+E 0 10871 0 17
+M 0 10838 6 10935 3
+E 0 10868 0 20
+E 0 10869 0 19
+E 0 10870 0 8
+E 0 10871 0 18
+E 0 10871 0 17
+M 0 10838 6 10935 3
+E 0 10868 0 20
+E 0 10869 0 19
+E 0 10870 0 8
+E 0 10871 0 18
+E 0 10871 0 17
+M 0 10852 4 10935 2
+M 0 10852 4 10935 2
+O 0 10894 0 10936
+M 0 10851 10 10936 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10936 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10936 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10936 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10936 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+O 0 10894 0 10937
+M 0 10851 10 10937 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10937 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10937 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10937 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+M 0 10851 10 10937 5
+E 0 10888 0 9
+E 0 10889 0 10
+E 0 10896 0 7
+O 0 10902 0 10938
+M 0 10857 1 10938 1
+M 0 10858 1 10938 1
+M 0 10859 1 10938 1
+M 0 10860 1 10938 1
+O 0 10873 0 10939
+O 0 10874 0 10939
+O 0 10903 0 10940
+M 0 10853 4 10940 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+G 0 10859 0
+M 0 10853 4 10940 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+G 0 10859 0
+O 0 10875 0 10941
+M 0 10864 4 10941 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+M 0 10864 4 10941 2
+E 0 10834 0 8
+E 0 10836 0 7
+E 0 10837 0 14
+E 0 10838 0 15
+E 0 10841 0 20
+E 0 10840 0 13
+O 0 10907 0 10942
+O 0 10872 0 10942
+S
+
+
+
+#SHOPS
+10817 18 0 0 0 0 1000 1 0 23
+10830 5 9 0 0 0 250 50 0 23
+0
+
+
+
+#$

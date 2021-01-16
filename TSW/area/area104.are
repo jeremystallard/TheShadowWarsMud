@@ -1,0 +1,414 @@
+#AREADATA
+Name New Tar Valon~
+Builders Dash~
+VNUMs 61400 62199
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#61400
+table oak bench~
+a heavily scarred {yo{Ya{yk{x table~
+Tables scarred by years of use are set haphazardly about the room.  Some of them seem a bit more wobbily than others.~
+wood~
+furniture 0 0
+16 2500 DGK 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#61400
+A Broad Boulevard~
+This broad boulevard stretches from Southharbor to the south towards the
+White Tower to the north.  The street itself is smoothly cobbled with stones
+that were once white but time and use have darkened to a dull grey color. 
+Shops line either side of the street and the cries of the hawkers battle
+with the wagoneers carting shipments too and from the harbor.  
+
+A sign hangs from the buildings to the east and west.  To the west, it
+depicts the silhouette of a woman while to the east, the sign depicts a
+stack of golden Tar Valoner marks.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 61402
+D1
+~
+~
+0 0
+0 0 61405
+D2
+~
+~
+0 0
+0 0 61401
+D3
+The inn to the west is raucous and rowdy, at least if the number of sailors who walk in and stagger out are any indication.  
+~
+~
+2051 2051
+1 0 61406
+S
+#61401
+Entrance to Southharbor~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61400
+S
+#61402
+A Broad Boulevard~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61403
+D2
+~
+~
+0 0
+0 0 61400
+S
+#61403
+A Broad Boulevard~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61404
+D2
+~
+~
+0 0
+0 0 61402
+S
+#61404
+A Broad Boulevard~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61407
+D2
+~
+~
+0 0
+0 0 61403
+S
+#61405
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 61400
+S
+#61406
+The Common Room of The Woman of Tanchico~
+The interior of the inn is far shabbier than the palatial exterior.  The
+main room is large and somewhat dingy with tables and chairs in various
+states of repair strewn about.  The air is redolent with the smell of stale
+ale, which is a probable cause of the sticky floor.  Serving girls with
+weary expressions work their way through the room, one hand always at the
+ready to bat away a hand that tries to become a mite too friendly.  
+~
+0
+0 0
+D1
+~
+~
+2051 2051
+1 0 61400
+S
+#61407
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61408
+D2
+~
+~
+0 0
+0 0 61404
+S
+#61408
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61413
+D2
+~
+~
+0 0
+0 0 61407
+S
+#61409
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61410
+D2
+~
+~
+0 0
+0 0 61421
+S
+#61410
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61411
+D2
+~
+~
+0 0
+0 0 61409
+S
+#61411
+Before Tarloman's Gate~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 61410
+D3
+~
+~
+0 0
+0 0 61412
+S
+#61412
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 61411
+S
+#61413
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61414
+D2
+~
+~
+0 0
+0 0 61408
+S
+#61414
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61415
+D2
+~
+~
+0 0
+0 0 61413
+S
+#61415
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61416
+D2
+~
+~
+0 0
+0 0 61414
+S
+#61416
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61417
+D2
+~
+~
+0 0
+0 0 61415
+S
+#61417
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61418
+D2
+~
+~
+0 0
+0 0 61416
+S
+#61418
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61419
+D2
+~
+~
+0 0
+0 0 61417
+S
+#61419
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61420
+D2
+~
+~
+0 0
+0 0 61418
+S
+#61420
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61421
+D2
+~
+~
+0 0
+0 0 61419
+S
+#61421
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 61409
+D2
+~
+~
+0 0
+0 0 61420
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 61400 3 1
+D 0 61406 1 1
+O 0 61400 0 61406
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

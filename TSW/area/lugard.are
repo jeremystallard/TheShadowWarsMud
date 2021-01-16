@@ -1,0 +1,1751 @@
+#AREADATA
+Name Lugard~
+Builders None~
+VNUMs 13600 13800
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#13600
+fountain stone water~
+a large {Dst{won{De{w fountain~
+A large {Dst{won{De{w fountain sits in the center of the city.~
+cloth~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 100
+#13601
+bed small quilt~
+a small bed with a {Bbl{bu{Be{w quilt~
+A small bed with a {Bbl{bu{Be{w quilt sits against the wall.~
+cloth~
+furniture 0 0
+2 0 EHK 0 0
+0 0 0 100
+#13602
+bed large quilt soft~
+a large, four-{yposter{w bed with a soft {Gg{gree{Gn{w quilt~
+A large, four-{yposter{w bed with a soft {Gg{gree{Gn{w quilt sits in the middle of the room.~
+cloth~
+furniture 0 0
+4 0 EHK 0 0
+0 0 0 100
+#13603
+bed quilt brown~
+a bed with a {ybrown{w quilt~
+A bed with a {ybrown{w quilt sits in the middle of the room.~
+cloth~
+furniture 0 0
+3 0 EHK 50 50
+0 0 0 100
+#13604
+bed quilt red~
+a bed with a {Rr{re{Rd{w quilt~
+A bed with a {Rr{re{Rd{w quilt is pushed against the far wall.~
+cloth~
+furniture 0 0
+3 0 EHK 50 50
+0 0 0 100
+#13605
+bed yellow quilt~
+a bed with a {yy{Yello{yw{w quilt~
+A bed with a {yy{Yello{yw{w quilt sits in the middle of the room.~
+cloth~
+furniture 0 0
+2 0 EHK 50 50
+0 0 0 100
+#13606
+bed purple quilt~
+a bed with a {Mp{murpl{Me{w quilt~
+A bed with a {Mp{murpl{Me{w quilt sits in the middle of the room.~
+cloth~
+furniture 0 0
+3 0 EHK 50 50
+0 0 0 100
+#13607
+table tables chair chairs~
+a {ychair{w at one of the tables~
+A number of tables and {ychairs{w are scattered throughout the room.~
+cloth~
+furniture 0 0
+20 0 E 10 10
+0 0 0 100
+#13608
+bench benches long~
+a long {ybench{w~
+A number of long {ybenches{w line the wall.~
+cloth~
+furniture 0 0
+10 0 E 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#13600
+West Gate~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13663
+D1
+~
+~
+0 0
+0 0 13601
+S
+#13601
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13602
+D2
+~
+~
+0 0
+0 0 13617
+D3
+~
+~
+0 0
+0 0 13600
+S
+#13602
+~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 13603
+D2
+~
+~
+3 3
+1 0 13660
+D3
+~
+~
+0 0
+0 0 13601
+S
+#13603
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13604
+D3
+~
+~
+0 0
+0 0 13602
+S
+#13604
+Center Square of Lugard~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 13613
+D1
+~
+~
+0 0
+0 0 13605
+D2
+~
+~
+0 0
+0 0 13609
+D3
+~
+~
+0 0
+0 0 13603
+S
+#13605
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13606
+D3
+~
+~
+0 0
+0 0 13604
+S
+#13606
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13607
+D2
+~
+~
+0 0
+0 0 13624
+D3
+~
+~
+0 0
+0 0 13605
+S
+#13607
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13628
+D1
+~
+~
+0 0
+0 0 13608
+D3
+~
+~
+0 0
+0 0 13606
+S
+#13608
+Shilene Gate~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13644
+D3
+~
+~
+0 0
+0 0 13607
+S
+#13609
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13604
+D2
+~
+~
+0 0
+0 0 13610
+S
+#13610
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13609
+D2
+~
+~
+0 0
+0 0 13611
+S
+#13611
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13610
+D1
+~
+~
+0 0
+0 0 13652
+D2
+~
+~
+0 0
+0 0 13612
+D3
+~
+~
+3 3
+1 0 13659
+S
+#13612
+South Gate~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13611
+S
+#13613
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13614
+D1
+~
+~
+3 3
+1 0 13661
+D2
+~
+~
+0 0
+0 0 13604
+S
+#13614
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13615
+D2
+~
+~
+0 0
+0 0 13613
+D3
+~
+~
+0 0
+0 0 13634
+S
+#13615
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13616
+D1
+~
+~
+0 0
+0 0 13639
+D2
+~
+~
+0 0
+0 0 13614
+S
+#13616
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 13662
+D2
+~
+~
+0 0
+0 0 13615
+S
+#13617
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13601
+D2
+~
+~
+0 0
+0 0 13618
+S
+#13618
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13617
+D2
+~
+~
+0 0
+0 0 13619
+S
+#13619
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13618
+D3
+~
+~
+0 0
+0 0 13620
+S
+#13620
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13619
+D3
+~
+~
+0 0
+0 0 13621
+S
+#13621
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13620
+D2
+~
+~
+0 0
+0 0 13622
+S
+#13622
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13621
+D2
+~
+~
+0 0
+0 0 13623
+S
+#13623
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13622
+S
+#13624
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13606
+D2
+~
+~
+0 0
+0 0 13625
+S
+#13625
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13624
+D3
+~
+~
+0 0
+0 0 13626
+S
+#13626
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13625
+D2
+~
+~
+0 0
+0 0 13627
+S
+#13627
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13626
+S
+#13628
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13629
+D2
+~
+~
+0 0
+0 0 13607
+S
+#13629
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13630
+D2
+~
+~
+0 0
+0 0 13628
+S
+#13630
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13631
+D3
+~
+~
+0 0
+0 0 13629
+S
+#13631
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13632
+D3
+~
+~
+0 0
+0 0 13630
+S
+#13632
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13633
+D2
+~
+~
+0 0
+0 0 13631
+S
+#13633
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13632
+S
+#13634
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13614
+D3
+~
+~
+0 0
+0 0 13635
+S
+#13635
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13636
+D1
+~
+~
+0 0
+0 0 13634
+S
+#13636
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13637
+D2
+~
+~
+0 0
+0 0 13635
+S
+#13637
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13636
+D3
+~
+~
+0 0
+0 0 13638
+S
+#13638
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13637
+S
+#13639
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13640
+D3
+~
+~
+0 0
+0 0 13615
+S
+#13640
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13641
+D3
+~
+~
+0 0
+0 0 13639
+S
+#13641
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13642
+D3
+~
+~
+0 0
+0 0 13640
+S
+#13642
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13643
+D2
+~
+~
+0 0
+0 0 13641
+S
+#13643
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13642
+S
+#13644
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13608
+D2
+~
+~
+0 0
+0 0 13645
+S
+#13645
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13644
+D1
+~
+~
+0 0
+0 0 13646
+S
+#13646
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13647
+D3
+~
+~
+0 0
+0 0 13645
+S
+#13647
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13646
+D2
+~
+~
+0 0
+0 0 13648
+S
+#13648
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13647
+D2
+~
+~
+0 0
+0 0 13649
+S
+#13649
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13648
+D3
+~
+~
+0 0
+0 0 13650
+S
+#13650
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13649
+D3
+~
+~
+0 0
+0 0 13651
+S
+#13651
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13650
+S
+#13652
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13653
+D3
+~
+~
+0 0
+0 0 13611
+S
+#13653
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13654
+D3
+~
+~
+0 0
+0 0 13652
+S
+#13654
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13653
+D1
+~
+~
+0 0
+0 0 13655
+S
+#13655
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13656
+D3
+~
+~
+0 0
+0 0 13654
+S
+#13656
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13657
+D3
+~
+~
+0 0
+0 0 13655
+S
+#13657
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13656
+D2
+~
+~
+0 0
+0 0 13658
+S
+#13658
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13657
+S
+#13659
+A Tavern~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 13611
+S
+#13660
+The Nine Horse Hitch~
+The common room to The Nine Horse Hitch is very large and normally very
+crowded.  The air is thick with pipesmoke and filled with the sounds of many
+different conversations.  There are two stone fireplaces along the walls,
+and the tables and chairs sit between them.  A number of long benches line
+the walls, and serving girls move back and forth between the tables, serving
+drinks.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13602
+D1
+~
+~
+3 3
+1 0 13669
+D2
+~
+~
+0 0
+0 0 13668
+D3
+~
+~
+0 0
+0 0 13672
+S
+#13661
+The Domani Wench's Kiss~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13684
+D1
+~
+~
+0 0
+0 0 13686
+D2
+~
+~
+1 1
+1 0 13685
+D3
+~
+~
+3 3
+1 0 13613
+S
+#13662
+~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 13616
+S
+#13663
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13664
+D2
+~
+~
+0 0
+0 0 13600
+S
+#13664
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13665
+D2
+~
+~
+0 0
+0 0 13663
+S
+#13665
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13666
+D3
+~
+~
+0 0
+0 0 13664
+S
+#13666
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13667
+D2
+~
+~
+0 0
+0 0 13665
+S
+#13667
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13666
+S
+#13668
+Dicing Room~
+The air here is quite thick with pipesmoke, even moreso than the common
+room to the north.  Conversations here are usually a little quieter, though,
+as people crowd around the tables, intent on their games.  Serving girls
+move in and out of the room, bringing drinks to the gamblers.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13660
+S
+#13669
+The Stables~
+The door to the west leads from the common room into the stables.  The
+doors to the east and south lead into the actual stalls of the stables. 
+Here, the smell of horses is strong, but not over-powering.  The soft
+nickering of the horses is all around, and the walls are lined with various
+tools and tack.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 13670
+D2
+~
+~
+1 1
+1 0 13671
+D3
+~
+~
+3 3
+1 0 13660
+S
+#13670
+A Stall~
+This stall is kept fairly clean, and the hay and water looks fresh.  The
+smell of horses is very strong here, and it is apparent this stall is
+constantly in use.  A number of knotted ropes hang from the rafters
+overhead.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 13669
+S
+#13671
+A Stall~
+This stall is kept fairly clean, and the hay and water looks fresh.  The
+smell of horses is very strong here, and it is apparent this stall is
+constantly in use.  A number of knotted ropes hang from the rafters
+overhead.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 13669
+S
+#13672
+A Hallway~
+This small hallway comes to a corner here, leading to the east and south.
+Off to the south, it ends at a set of stairs, which lead up to the rooms in
+the inn.  To the east, it leads to the common room of the inn, and even from
+here, the sounds coming from the room are very loud.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13660
+D2
+~
+~
+0 0
+0 0 13673
+S
+#13673
+A Set of Stairs~
+This small stairwell leads up to a hallway of the upper level of the inn.
+Upstairs are the rooms in the inn.  To the north is a small hallway which
+leads back to the common room.  Large lanterns are mounted to the wall on
+either side of the stairs, casting their light about the area.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13672
+D4
+~
+~
+0 0
+0 0 13674
+S
+#13674
+A Set of Stairs~
+This small stairwell leads down to a hallway of the lower level of the
+inn.  Just to the east is another hallway, which is lined with the doors to
+the rooms of the inn.  Large lanterns are mounted to the wall on either side
+of the stairs, casting their light about the area.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13675
+D5
+~
+~
+0 0
+0 0 13673
+S
+#13675
+A Hallway~
+The hallway continues to the east and west here.  Doors to some of the
+rooms in the inn lie to the north and south.  Torches line the walls,
+lighting the way.  Just a little to the west, the hallway ends at a set of
+stairs, leading down to the main level of the inn.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13678
+D1
+~
+~
+0 0
+0 0 13676
+D2
+~
+~
+3 3
+1 0 13681
+D3
+~
+~
+0 0
+0 0 13674
+S
+#13676
+A Hallway~
+The hallway continues to the east and west here.  Doors to some of the
+rooms in the inn lie to the north and south.  Torches hang from the walls,
+lighting the way down the hallway.  Just to the east, the corridor ends,
+while to the west, it continues on until it comes to a stop at a set of
+stairs, leading down.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13679
+D1
+~
+~
+0 0
+0 0 13677
+D2
+~
+~
+3 3
+1 0 13682
+D3
+~
+~
+0 0
+0 0 13675
+S
+#13677
+A Hallway~
+The narrow hallway comes to an end here, with doors to the north and
+south.  Back to the west, it continues on, passing a number of rooms before
+ending at the stairs which lead down to the main level of the inn.  Small
+torches line the walls.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13680
+D2
+~
+~
+3 3
+1 0 13683
+D3
+~
+~
+0 0
+0 0 13676
+S
+#13678
+A Small Room~
+This is one of the smaller rooms in the inn.  A small bed, just barely
+big enough for two people, takes up most of the room.  It sits atop a thick
+yellow carpet, and a small, iron-bound chest is pushed against the foot of
+the bed.  A small table sits next to the bed and holds a pitcher and a small
+wash basin.  
+~
+0
+J 0
+D2
+~
+~
+3 3
+1 0 13675
+S
+#13679
+A Modest-Sized Room~
+A large brown carpet covers most of the wooden floor, with the planks
+only visible around the edges of the room.  A good-sized bed sits in the
+very center of the room, and small tables sit to either side of it.  A
+large, iron-bound chest sits at the foot of the bed, and a small dresser has
+been pushed against the wall.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13676
+S
+#13680
+A Large Room~
+This is one of the largest rooms in the inn.  A huge four-poster bed sits
+in the very middle of the room, and there are two small bedside tables on
+both sides.  Beneath the bed is a soft green carpet.  A fireplace sits along
+a side wall, keeping the room very warm.  On the opposite wall, there is a
+large dresser with a mirror on top.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13677
+S
+#13681
+A Small Room~
+This is one of the smaller rooms in the inn.  A small bed, just barely
+big enough for two people, takes up most of the room.  It sits atop a thick
+purple carpet, and sitting at the foot of the bed is a small, iron-bound
+chest.  Next to the bed is a small table which holds a pitcher and a wash
+basin.  
+~
+0
+J 0
+D0
+~
+~
+3 3
+1 0 13675
+S
+#13682
+A Room~
+The wooden floor of this room is mostly covered by a dark red carpet.  A
+bed, which is big enough for two people, is pushed against the back wall and
+is covered with a quilt that matches the carpet.  A large, iron-bound chest
+sits on the floor at the foot of the bed, and a large dresser rests against
+one of the side walls.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13676
+S
+#13683
+A Room~
+This small bedroom has been tucked back into a corner of the inn.  It has
+been modestly decorated, holding only a bed, a small nightstand with a wash
+basin on top, and an iron-banded chest, which sits on the floor at the foot
+of the bed.  The floor is wooden, mostly covered by a soft, blue carpet. 
+The small, wooden door to the north leads back out into the hallway.  
+~
+0
+J 0
+D0
+~
+~
+3 3
+1 0 13677
+S
+#13684
+A Private Dining Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13661
+S
+#13685
+The Kitchens~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 13661
+S
+#13686
+A Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13689
+D1
+~
+~
+0 0
+0 0 13687
+D2
+~
+~
+3 3
+1 0 13692
+D3
+~
+~
+0 0
+0 0 13661
+S
+#13687
+A Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13690
+D1
+~
+~
+0 0
+0 0 13688
+D2
+~
+~
+3 3
+1 0 13693
+D3
+~
+~
+0 0
+0 0 13686
+S
+#13688
+A Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13691
+D2
+~
+~
+3 3
+1 0 13694
+D3
+~
+~
+0 0
+0 0 13687
+S
+#13689
+~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13686
+S
+#13690
+~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13687
+S
+#13691
+~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13688
+S
+#13692
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13686
+S
+#13693
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13687
+S
+#13694
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13688
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13602 2 1
+D 0 13611 3 1
+D 0 13613 1 1
+D 0 13616 1 1
+D 0 13659 1 1
+D 0 13660 0 1
+D 0 13660 1 1
+D 0 13661 0 1
+D 0 13661 3 1
+D 0 13662 3 1
+D 0 13669 3 1
+D 0 13675 0 1
+D 0 13675 2 1
+D 0 13676 0 1
+D 0 13676 2 1
+D 0 13677 0 1
+D 0 13677 2 1
+D 0 13678 2 1
+D 0 13679 2 1
+D 0 13680 2 1
+D 0 13681 0 1
+D 0 13682 0 1
+D 0 13683 0 1
+D 0 13684 2 1
+D 0 13686 0 1
+D 0 13686 2 1
+D 0 13687 0 1
+D 0 13687 2 1
+D 0 13688 0 1
+D 0 13688 2 1
+D 0 13689 2 1
+D 0 13690 2 1
+D 0 13691 2 1
+D 0 13692 0 1
+D 0 13693 0 1
+D 0 13694 0 1
+O 0 13600 0 13604
+O 0 13608 0 13660
+O 0 13607 0 13660
+O 0 13607 0 13668
+O 0 13605 0 13678
+O 0 13603 0 13679
+O 0 13602 0 13680
+O 0 13606 0 13681
+O 0 13604 0 13682
+O 0 13601 0 13683
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

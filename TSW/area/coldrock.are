@@ -1,0 +1,5916 @@
+#AREADATA
+Name Cold Rocks Hold~
+Builders Ashlaern Raine~
+VNUMs 26000 26199
+Credits all} Ashlaern    Cold Rocks Hold~
+Security 5
+Low 30
+High 75
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#26000
+hawk~
+a large {yh{Ya{ywk{x~
+A lone {yh{Ya{ywk{x soars gracefully through the {cs{Ck{cy{x.
+~
+This desert raptor is a bird of prey. It has a strong, hooked beak,
+Its claws have three toes pointed forward and one turned back; and
+its talons are long, curved, and very sharp. It flies in slow, 
+measured wing beats, and turns while soaring overhead. The broad
+rounded tail shows a rich {rr{Ru{rss{Re{rt{R-{rr{Re{rd{w. The wing span is just over five feet long.
+~
+unique~
+ACGH T 0 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+0 0 0 0
+FH 0 BE F
+stand stand female 0
+AGW ADEPU small 'unknown'
+#26001
+mother gara~
+an {Rangry{x mother {Gg{gara {Gl{gizard{x~
+A mother {Gg{gara {Gl{gizard{x ruthlessly protects her nest.
+~
+This particular {Gg{gara{G l{gizard{w is slightly larger than average,
+with a large round body of about 4 feet long, and a tail equally long.
+It is colored {ybrown{w around the head which diffuses into a {rre{yd{rdi{ys{rh{w
+{ybr{row{yn{w netlike pattern. It has {Ytan{w and g{Wra{wy spots on the neck and
+trunk. It has a slightly {Mpinkish{x hue on it's belly, evidence of recently
+mating. The diurnal lizard will normally climb into bushes and rocks
+seeking cooler areas in extreme heat, but it can remain active in even the
+hottest sunlight.
+~
+lizard~
+ABFYc J 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+CDFMN 0 0 0
+stand stand none 0
+0 LX medium 'unknown'
+#26002
+maiden far dareis mai~
+a {DM{wa{Wid{we{Dn{x of the {DS{wp{We{wa{Dr{x~
+A {DM{wa{Wid{we{Dn{x of the {DS{wp{We{wa{Dr{x sits here, balanced on her feet.
+~
+She is tall for a woman, standing roughly 5 foot 10 inches, with
+short {Rred{w hair and {Gg{green{w eyes. This guard is a {DS{wc{Wo{wu{Dt{w
+of {DS{wp{Wea{wr{Ds{w, being charged with the rather high-honor task
+of being the first line of defense for Cold Rocks Hold. From the way
+she carries her two short-spears, you have a feeling she not only
+knows how to use them, but does so quite often.
+ 
+~
+aiel~
+ABTc DFPV 750 0
+75 65 38d38+5625 75d10+100 8d13+37 uppercut
+0 0 0 0 0
+A
+4 4 4 4
+CDEFHIJKNU KZ 0 0
+sit sit female 20
+0 0 medium 'flesh'
+M 'RANDOM' 26000 2~
+M 'GREET' 26002 50~
+#26003
+butcher~
+an {yA{Yi{We{yl{w b{Wut{wc{Wh{wer~
+An {yA{Yi{We{yl{x b{Wut{xc{Wh{xer prepares {yhides{x and {rmeats{x.
+~
+Not every Aiel is a member of a Warrior Society. There are those 
+whose lives are dedicated to the feeding, care, and preservation
+of the people as well. These are the oft-sung heroes of the Aiel.
+ 
+The butcher is slim, and looks like he may have been a fighter at
+one time, but has grown older in the years and has settled down
+to a life of preparing meats and hides for the Tardaad Clan.
+ 
+~
+aiel~
+ABTVYcd JP 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 ABCDEFG 0 0
+stand stand male 50
+0 0 medium 'flesh'
+M 'GREET' 26003 100~
+#26004
+herd goats~
+a herd of g{Woa{wts~
+A herd of g{Woa{xts g{Gr{xa{Gze{xs here peacefully.
+~
+The goats are a thin shaggy variety, bred from the mountain goats
+indigenous to this area. They appear to be fairly harmless if left
+alone to their own devices.
+~
+pig~
+ABc 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+CI 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'RANDOM' 26004 5~
+#26005
+herd cattle~
+a herd of c{yat{wt{yl{we~
+A herd of c{yat{wt{yl{we grazes quietly in the shade.
+~
+These are short, squat, hairy beasts bred for their quality and 
+abundance of meat, rather than their aesthetic pleasure. They
+look something like cows, though shorter by a good two feet. 
+The males in the bunch have large ram-shaped horns. They are
+also a good deal shaggier. Come to think of it, they don't much
+look like cows at all. But it's a good comparison.
+ 
+~
+pig~
+ABc 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 charge
+0 0 0 0 0
+A
+1 1 1 1
+CI 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+M 'RANDOM' 26001 5~
+#26006
+blood snake bloodsnake~
+a {rb{Rlo{rod{Rs{rna{Rk{re{w~
+A long {Rr{re{Rd{x snake slithers through the {gg{Gra{gss{Ge{gs{x.
+~
+The bloodsnake is typically 2 to 4 feet long and very poisonous.
+Its scales are a diamond-pattern of {rc{Rr{Ri{rm{Rso{rn{x and {Dblack{x. Known
+for being one of the primary predators in the desert, the bloodsnake is
+so called not for its colour, but the properties of its {mp{Moi{ms{Mo{mn{x.
+After a successful bite, the venom prevents the blood from clotting.
+While the venom itself does no actual poison damage, many targets end
+up bleeding to death along their escape, leaving an easy trail
+for both the snake and anything else to follow.
+~
+snake~
+AFGWc GP 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+BFHM 0 F G
+stand stand none 0
+0 0 small 'unknown'
+#26007
+gara lizard~
+a {Gg{gara{G l{gizard{w~
+A {Gg{gara{x {Gl{gizard{x suns itself sleepily on a {Dr{wo{Wc{Dk{x.
+~
+This gara lizard has a large round body about 3 feet long and a tail
+equally long.  It is coloured {ybrown{x around the head which diffuses into a
+{rre{ydd{ris{yh{x-{ybrown{x netlike pattern.  It has {ytan{x and {Dgray{x spots on the neck and
+trunk.  
+
+This particular lizard is minding it's own business, sunning 
+itself peacefully on a rock.
+~
+lizard~
+AGWc 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 flbite
+0 0 0 0 0
+A
+0 0 0 0
+FHM 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+#26008
+aiel hunter~
+a young {yA{Yie{yl{x hunter~
+A young {yA{Yie{yl{x hunter lays hidden in the {ggr{Gas{gs{Ge{gs{x.
+~
+This young aiel is seeking to make a name for himself by honing his
+skills, hunting the various predators in this area. He looks up
+at you, nods, and goes back to laying in wait for his prey.
+~
+aiel~
+AGTc GJP 750 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+FHIKN 0 0 C
+stand stand male 45
+0 0 medium 'flesh'
+#26009
+desert coyote~
+a {yd{Ye{ys{Yer{yt{w c{yo{wyo{yt{we~
+A {yd{Ye{ys{Yer{yt{x c{Yo{xyo{yt{xe stands in the distance, watching curiously.
+~
+The desert coyote is thin and looks like it hasn't eaten in a while.
+Gentle eyes regard you curiously and it yawns, exposing sharp teeth
+to belie its harmless appearance. This is no common housedog. This
+here be a genuine hungry predator that might eat you as soon as
+look at you.
+ 
+~
+wolf~
+AWZ J 0 0
+37 27 19d19+1369 37d10+100 4d11+18 chomp
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+F aff Z
+#26010
+surac stone dog~
+Shae'en M'taal Surac of the Nine Valleys Sept~
+A {DS{wt{Wo{wn{De D{wo{Dg{x guards the entrance to the {Cw{cell{x.
+~
+This Aiel guard is easily one of the largest you've ever seen. His {Yhair{w
+is closely cropped, outlining a scar-covered face that does not look 
+particularly bright. Nor does it have to be. He stands easily  seven
+feet tall, with {cd{Bee{cp b{Clu{ce{x eyes that show determination and pride
+in his duty to guard the well. It's  obvious that if you want to get
+to the well, you will have to pass him first.
+
+In his hands rests a massive double-bladed spear, and on his belt, the
+key to the door.
+ 
+~
+aiel~
+ABTc DFPV 750 0
+80 70 41d42+6400 80d10+100 9d9+40 headbutt
+0 0 0 0 0
+A
+5 5 5 5
+CDEFHIJKN B CQ 0
+stand stand male 55
+0 0 large 'flesh'
+M 'GREET' 26008 100~
+M 'SPEECH' 26010 yes~
+M 'ACT' 26010 nod~
+M 'SPEECH' 26010 Yes~
+M 'SPEECH' 26010 aye~
+M 'SPEECH' 26010 Aye~
+M 'ACT' 26009 shake~
+M 'SPEECH' 26009 no~
+M 'SPEECH' 26009 No~
+M 'SPEECH' 26009 Nay~
+M 'SPEECH' 26009 nay~
+#26011
+warrior dawn runner~
+a {YD{yawn{Y R{yunner{w warrior~
+A {YD{yawn{x {YR{yunner{x warrior speeds past you.
+~
+The Dawn Runners are known for their speed as well as their stealth.
+This particular Rahien Sori looks to be in a hurry. Perhaps it's 
+best not to get in his way.
+~
+aiel~
+AGTc JPV 750 0
+45 35 23d23+2025 45d10+100 5d10+22 knee
+0 0 0 0 0
+A
+1 1 1 1
+FHIKNU 0 0 C
+stand stand male 35
+0 0 medium 'flesh'
+#26012
+warrior black eyes~
+a B{Dlack {wE{Dyes{w warrior~
+A B{Dlack{x E{Dyes{x warrior watches you carefully as you wander past.
+~
+This tall man is uncommon among the Aiel.  He has {Ddark{x hair that hangs
+down his forehead, almost into his eyes.  His pale {Cblue{x eyes seem to peer
+past strands of hair at you, making sure that you do not pose a threat.  If
+you get too close, he holds a {ytan{x hand out, ordering you to stop.  
+~
+aiel~
+AGTc JP 750 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+FIKNU 0 0 C
+stand stand male 35
+0 0 medium 'flesh'
+#26013
+warrior water seeker~
+a {CW{cater {CS{ceeker{w warrior~
+A {CW{cater {CS{ceeker{x heads on his way somewhere.
+~
+This tall, muscular man is clearly an Aiel warrior.  It is obvious in how
+he holds his {ys{Dp{we{Da{yr{x, how he proudly wears his discretely marked {yca{rdi{yn{x'{ys{ro{yr{x. 
+As he marches through the hold on patrol, the sun beats down on his pale,
+{Ybl{Won{Yd{We{x hair, almost making it lighter.  
+~
+aiel~
+AGTc JP 750 0
+45 35 23d23+2025 45d10+100 5d10+22 uppercut
+0 0 0 0 0
+A
+1 1 1 1
+FIKNU 0 0 C
+stand stand male 35
+0 0 medium 'flesh'
+#26014
+warrior mountain dancer~
+a {MM{mountain{M D{mancer{w warrior~
+A {MM{mountain {MD{mancer{x warrior moves gracefully through the crowds.
+~
+This warrior is trained to move like a graceful cat, or maybe even a
+quick snake slithering through the {yd{Yes{ye{Yr{yt{x.  It is clear that he has
+practiced his movements for years and years, perhaps even since he was a boy
+when he would go to the practice yards after schooling.  He politely nods at
+all he passes and winks a light {gg{Gre{We{gn{x eye at all the pretty girls.  
+~
+aiel~
+AGTc JPV 750 0
+45 35 23d23+2025 45d10+100 5d10+22 elbow
+0 0 0 0 0
+A
+1 1 1 1
+FHIKNU 0 0 C
+stand stand male 35
+0 0 medium 'flesh'
+#26015
+warrior thunder walker~
+a {WT{Bhunder {WW{Balker{w warrior~
+A {WT{Bhun{bder {WW{Bal{bker{x warrior bangs his spear against his shield.
+~
+This warrior is calling attention to himself.  All other {WT{Bhun{bder {WW{Bal{bkers{x
+would recognize the call.  It is a practice drill for an invasion, or even a
+raid on the hold's {yc{Dat{yt{Dle{x.  All Aiel warrior's realize that they must be
+ready for such events.  This man must be one of the society leaders to hold
+this drill.  His {ytan{x, stern face shows that he has the age to have earned
+this position.  
+~
+aiel~
+AGTc JPa 750 0
+45 35 23d23+2025 45d10+100 5d10+22 shoulderbash
+0 0 0 0 0
+A
+1 1 1 1
+CFIKU 0 C 0
+stand stand male 35
+0 0 medium 'flesh'
+#26016
+true blood warrior~
+a {RT{Yrue {RB{Ylood{w warrior~
+A {RT{Yrue{x {RB{Ylood{x warrior sharpens his knife, watching you.
+~
+A {RT{Yrue{x {RB{Ylood{x warrior watches you with {Rblood{x lust in his eyes, almost as
+if he is daring you to pose a threat to himself or his society.  His hands
+hold a small {Dk{wn{Wi{wf{De{x that he is sharpening so tightly that his knuckles are
+{Wwhite{x.  Perhaps it is best to avoid him.  
+~
+aiel~
+AGTc JPa 750 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+CFIKU 0 C 0
+stand stand male 35
+0 0 medium 'flesh'
+#26017
+night spear warrior~
+a {BN{Dight {BS{Dpear{x warrior~
+A {BN{Dight {BS{Dpear{x warrior takes a break from the latest raid.
+~
+This warrior sits on the ground with his long, lean {ylegs{x pulled up to his
+chest.  His {be{Bye{bs{x are closed, almost as if he is sleeping.  Any trained
+warrior would know, however, that this is not the case.  He is merely
+resting, but still very alert should he be needed.  
+~
+aiel~
+AGTc JPa 750 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+CFIKU 0 C 0
+stand stand male 35
+0 0 medium 'flesh'
+#26018
+brother eagle warrior~
+a {WB{xrother {Wo{xf {Wt{xhe {WE{xagle~
+A {WB{xrother {Wo{xf {Wt{xhe {WE{xagle Aiel warrior strides past you.
+~
+This tall, very strong man walks through the hold with a determined look
+on his face, as if he knows right where he is going.  This {yhands{x swing
+gracefully at his sides and his sandy {Rr{ye{Rd{x hair blows back from his forehead
+from the speed of his gate.  
+~
+aiel~
+AGTc HJPV 750 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+EFHIKNU 0 C 0
+stand stand male 35
+0 0 medium 'flesh'
+#26019
+knife hand warrior man aiel~
+a {DK{xnife {DH{xand warrior~
+A {DK{xnife {DH{xand warrior is here, playing a game of {Df{xlip.
+~
+This Aiel man is slightly shorter than the others, but only by an inch or
+two.  He stands outside with his comrades playing a game of {Df{xlip with his
+{Dk{wn{Wi{wf{De{x.  Just before it is his turn, the group explodes with laughter and he
+has to clear his throat to regain his composure to continue playing.  
+~
+aiel~
+AGTc HJPV 750 0
+45 35 23d23+2025 45d10+100 5d10+22 knee
+0 0 0 0 0
+A
+1 1 1 1
+EFHIKNU 0 C 0
+stand stand male 35
+0 0 medium 'flesh'
+#26020
+stone dog warrior~
+a S{Dtone {wD{Dog{w warrior~
+A S{Dtone{x D{Dog{x warrior grunts and nods as you pass by.
+~
+This warrior is one of the most treasured in the hold.  He is a S{Dtone{x D{Dog{x
+and is known for his strength and discipline.  Today, he is guarding his
+society roof from unwanted visitors.  Consider yourself lucky that you
+received a kind greeting.  
+~
+aiel~
+AGTc JPa 750 0
+45 35 23d23+2025 45d10+100 5d10+22 headbutt
+0 0 0 0 0
+A
+1 1 1 1
+CDFIKNOU 0 EQ BC
+stand stand male 35
+0 0 medium 'flesh'
+#26021
+maiden spear warrior~
+a {WM{Daiden {wof the {WS{Dpear{w~
+A {WM{Daiden{x of the {WS{Dpear{x glances your way and grins wryly.
+~
+This tall, thin woman has pale, {yb{Ylo{Wn{Yde{x hair that is very short on top,
+with a tail that hangs down her neck.  She wears a specially marked
+{yca{rd{yin{x'{rs{yo{rr{x, designating her as a Maiden of the Spear.  She is known to look
+wryly at those that she considers ignorant, or maybe curious, because she is
+eager to play a game of Maiden's Kiss.  
+~
+aiel~
+AGTc JPUV 750 0
+45 35 23d23+2025 45d10+100 5d10+22 beating
+0 0 0 0 0
+A
+1 1 1 1
+EFHIKNU 0 CF E
+stand stand female 35
+0 0 medium 'flesh'
+#26022
+red shield warrior~
+a {WR{Red {WS{Rhield {wwarrior~
+A {WR{Red {WS{Rhield{x warrior keeps careful watch while on patrol.
+~
+This warrior is called to be a lawman of sorts within the hold.  All
+those who disturb the peace or break the rules have to face this tall,
+strong warrior, with a set face.  His pale {yau{Yb{gu{yrn{x eyes look soft and caring,
+like he might make a good father.  However, if you make him angry, watch
+out!  
+~
+aiel~
+AGTc HJPUV 750 0
+45 35 23d23+2025 45d10+100 5d10+22 thwack
+0 0 0 0 0
+A
+1 1 1 1
+CEFHKNRU 0 CF E
+stand stand male 35
+0 0 medium 'flesh'
+#26023
+bathing male aiel~
+a bathing male Aiel~
+A nude male Aiel sits here, listening intently.
+~
+This aiel is cleaning himself with {ystaera{w --pieces of
+curved bronze used to scrape ths skin clean in a sweat room--
+and listening intently as his friend speaks. He does so 
+casually, and does not seem to mind your entrance. Nudity is
+not a taboo amongst the Aiel.
+~
+aiel~
+ABYc JP 750 0
+38 28 20d21+1444 38d10+100 4d12+19 punch
+0 0 0 0 0
+A
+1 1 1 1
+FN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'RANDOM' 26024 2~
+M 'RANDOM' 26023 2~
+#26024
+bathing female aiel~
+a bathing female Aiel~
+A female Aiel sits here in the nude, cleaning herself and chatting.
+~
+The female does not give pause at your stare other than to look
+up at you and nod. She doesn't seem bothered by her nudity in 
+the least, even in front of men. She chats idly away as she
+cleans herself, glad for the break in the daily routine.
+ 
+~
+aiel~
+ABYc JP 750 0
+38 28 20d21+1444 38d10+100 4d12+19 knee
+0 0 0 0 0
+A
+1 1 1 1
+FN 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+M 'RANDOM' 26024 2~
+#26025
+gai'shain white robed aiel~
+a {Wwhite{w-{Wrobed{w gai'shain~
+A {Wwhite{x-{Wrobed{x gai'shain tries to be inobtrusive unless needed.
+~
+This young lady was obviously taken as gai'shain some time ago.  Most
+likely she was a Far Dareis Mai, though it is considered rude to speak about
+a gai'shains life before they donned the {Wwhite{w-{Wrobe{w, so you might never
+know.  This particular one waits patiently in the shadows in the corner,
+making an art of not being seen or heard unless she is needed.  In one hand
+she carries a small bucket of water, and in the other she holds a ladel.  
+
+~
+aiel~
+ABYc JPQd 750 0
+30 20 16d17+900 30d10+100 4d4+15 slap
+0 0 0 0 0
+0
+0 0 0 0
+F 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+M 'SPEECH' 26025 water~
+M 'SPEECH' 26025 steam~
+#26026
+aiel tanner~
+an aiel {yt{ra{ynn{re{yr{w~
+An Aiel {yt{ra{ynn{re{yr{x stands here, cutting up some leather strips.
+~
+She appears to be about middle aged, and quite pleased with her
+work. Not everyone can be a warrior, though you have little 
+doubt from looking at her that she could put up a good fight if
+need be. Still, her calling has been in the crafting of leather
+goods for the Taardad Aiel.
+~
+aiel~
+ABVYcd DFHJPVWc 750 0
+90 80 46d47+8100 90d10+100 10d10+45 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CDEFHIJKNO ABCDEFGLNXZ 0 0
+stand stand none 100
+0 0 medium 'unknown'
+M 'RANDOM' 26026 2~
+#26027
+apprentice wise one girl aiel~
+a {yW{wise {yO{wne's apprentice~
+A young {yAiel{x girl is watering the {gp{Gla{gn{Gt{gs{x cheerfully.
+~
+This young girl has been chosen to learn the ways of the Wise One's.  Her
+attitude towards it seems cheerful enough, and she seems very proud of her
+knowledge in the herbs.  Her hair is long and {yb{Ylond{x, tied back in a single
+braid.  She wears simple {Wwhite{x blouse and soft {ybrown{x cotton breeches.  
+~
+aiel~
+ABVYcd DFHJPVWc 750 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+CDEFHIJKNO ABCDEFGLNXZ 0 0
+stand stand none 100
+0 0 medium 'flesh'
+M 'SPEECH' 26021 energy~
+M 'SPEECH' 26021 sleep~
+M 'SPEECH' 26021 fatigue~
+M 'SPEECH' 26021 tired~
+M 'SPEECH' 26020 sick~
+M 'SPEECH' 26020 plague~
+M 'SPEECH' 26020 disease~
+M 'SPEECH' 26017 help~
+M 'SPEECH' 26019 bleed~
+M 'SPEECH' 26019 hurt~
+M 'SPEECH' 26019 wound~
+M 'SPEECH' 26019 wounds~
+M 'SPEECH' 26019 wounded~
+M 'SPEECH' 26019 injury~
+M 'SPEECH' 26018 poison~
+M 'ACT' 26017 nod~
+M 'SPEECH' 26017 yes~
+M 'SPEECH' 26016 wise~
+M 'ACT' 26016 shake~
+M 'SPEECH' 26016 no~
+M 'ENTRY' 26015 100~
+M 'GREET' 26015 100~
+M 'SPEECH' 26019 injure~
+#26028
+aiel merchant~
+an Aiel m{Yer{xch{Yan{xt~
+An Aiel m{Yer{xch{Yan{xt rests upon bright c{Mus{xhi{Mon{xs, looking bored.
+~
+He is dressed in fine {Ygolden{w silks and looks to be a young
+adult. Shrewd eyes regard you curiously and constantly shift, as
+if expecting at any moment to have to defend his wares from
+intruders.
+~
+aiel~
+ABVYcd DFHJPVWc 750 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+CDEFHIJKNO ABCDEFGLNXZ 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#26029
+gai'shain white robed aiel~
+a {Wwhite{w-{Wrobed{w gai'shain~
+A {Wwhite{x-{Wrobed{x gai'shain works quietly nearby.
+~
+This Aiel was apparently taken as a gai'shain recently. He moves
+with a rather deadly grace combined with humility as he goes about
+his task.
+ 
+~
+aiel~
+ABYc JPQd 750 0
+30 20 16d17+900 30d10+100 4d4+15 slap
+0 0 0 0 0
+A
+0 0 0 0
+F 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#26030
+gaggle chickens~
+a flock of {rch{Ri{rck{Re{rns{x~
+A flock of {rch{Ri{rck{Re{rns{x struts underfoot.
+~
+These chickens are some of the reddest you have ever seen. They 
+otherwise appear quite normal, squawking and making noise as the
+chickens run about, mostly underfoot.
+ 
+~
+song bird~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 peck
+0 0 0 0 0
+A
+0 0 0 0
+N 0 0 0
+stand stand none 0
+0 0 small 'flesh'
+#26031
+shearrim roof mistress aiel woman~
+Shearrim, the {yR{Yoo{yfm{Yi{ystr{Ye{yss{x~
+A rather dignified woman wearing {ge{Gme{gra{Gld{gs{x looks at you severely.
+~
+This Aiel woman looks rather dignified and proud. Perhaps middle aged,
+she has the look of one who has seen enough in her years to be rather
+unimpressed by you. She wears a {Wcr{wea{Wm{w-coloured blouse and sensible
+{ybrown{w skirts down past her knees. On her hands are rings of deep
+{gg{Gree{gn e{Gme{gr{Gal{gds{w, as well as her neck. Both match her intense
+eyes perfectly. Her {Ygolden{w hair, held back with an {Wivory{w comb, is
+just beginning to show the occasional streak of silver that comes
+with age.
+ 
+~
+aiel~
+ABbcd DFPV 750 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+CFHIKNR B CQ 0
+stand stand female 35
+0 0 medium 'flesh'
+F gain B
+#26032
+aiel child boy~
+a little {yA{Yi{We{yl{x boy~
+A young {yA{Yi{We{yl{x boy plays happily nearby.
+~
+This young Aiel boy of the Taardad Clan has yet to need to worry
+about the ways of the world, or the hardships of life. He seems
+relatively content to play with the small knife, tossing it into
+the air and catching it.
+ 
+~
+aiel~
+AGc P 0 0
+25 15 13d13+625 25d10+100 3d8+12 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 small 'flesh'
+#26033
+aiel child girl~
+a young {yA{Yi{We{yl{x girl~
+A little {yA{Yi{We{yl{x girl in pigtails plays with a doll nearby.
+~
+In the traditional style of the Aiel, this little girl has her 
+red hair tied back in pigtails. She plays with a little doll 
+happily, not worrying about much at all. Apparently in her game
+however, the doll is a Maiden of the Spear and is killing off
+Shadowspawn.
+ 
+~
+aiel~
+AGc P 0 0
+25 15 13d13+625 25d10+100 3d8+12 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 2
+0 0 small 'flesh'
+#26034
+aiel man adult~
+an {yA{Yi{We{yl{x man~
+A hardworking {yA{Yi{We{yl{x man goes about his business.
+~
+This Aiel man is neither warrior nor merchant, but it does not make him
+any less important to the hold.  Each adult has a specific job they do, and
+this one looks like he knows what he is doing, and proud to be doing it.  
+
+~
+aiel~
+AGc P 500 0
+35 25 18d18+1225 35d10+100 4d9+17 beating
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#26035
+aiel woman adult~
+an {yA{Yi{We{yl{x woman~
+A proud, lean {yA{Yi{We{yl{x woman wanders past you, unconcernedly.
+~
+This particular Aiel woman looks like she is not a warrior or
+merchant or a Wise One, but she still carries herself with 
+the same pride and confidence any adult Aiel would feel at having
+contributed to the welfare of their Sept.
+ 
+~
+aiel~
+AGc P 500 0
+35 25 18d18+1225 35d10+100 4d9+17 knee
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#26036
+charinda wise one wiseone aiel woman~
+Charinda, the {YW{wise {YO{wne~
+A {YW{wise {YO{wne strides through the crowds, scowling.
+~
+This Aiel woman appears to be of some great degree of import.
+The other Aiel give her a wide berth, and despite the fact she
+carries no spear, you get the impression that the warriors would
+rather not tangle with her. 
+ 
+Despite her scowl, however, there is a gentle kindness in her
+{Cpale blue{w eyes that is hard to cover up. On one hand she wears
+a glove that appears to be made of rings made from some {Rred crystal{w
+substance, linked together by one chain.
+ 
+~
+aiel~
+AGKQYabc P 999 0
+80 70 41d42+6400 80d10+100 9d9+40 divine
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+F gain B
+#26037
+statue gnome garden~
+a {Ccute{w little {gg{Garde{gn{w gnome~
+A statue of a man with a pointy {Rred{x hat leers at you.
+~
+This statue is about a foot tall, and resembles a short chubby
+little man with a beard, a {Ggreen{w coat, and a pointy {Rred{w hat.
+It is otherwise unspectacular, and looks to be made of glazed
+porcelain.
+ 
+~
+doll~
+ABc J 0 0
+55 45 28d28+3025 55d10+100 6d11+27 smash
+0 0 0 0 0
+A
+2 2 2 2
+QR BF GHIK E
+stand stand none 0
+H J medium 'porcelain'
+F res E
+#26038
+gai'shain white robed aiel~
+a {Wwhite{w-{Wclad{w gai'shain~
+A gai'shain clad in {Wwhite{w goes about her duties.
+~
+This Aiel woman has been taken as gai'shain, apparently some time
+ago. Perhaps she is nearing the end of her year. The time as
+a gai'shain has not made her soft, however. She moves with the
+deadly grace of a woman used to killing daily. Unlike many of the
+gai'shain, she does not wear robes, but her coat and breeches are
+all {Wwhite{w, as per the custom.
+ 
+~
+aiel~
+AGc JPQd 750 0
+45 35 23d23+2025 45d10+100 5d10+22 slap
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#26039
+red tailed hawk~
+a {rr{ye{Rd{x-tailed {yhawk{x~
+A {rr{ye{Rd{x-tailed {yhawk{x circles above the ground, looking for dinner.
+~
+The adult {rr{ye{Rd{x-tailed {yhawk{x is dark {ybrown{x on the back and top of their
+wings.  The underside is usually light with a dark belly band, and a
+{rci{Rnn{ram{Ron{x wash on the neck and chest.  Immature birds resemble adults except
+their tail is {ybrown{x with {Ddark{x bars; the {rr{Re{rd{x-tail molts in during its second
+year.  
+~
+unique~
+ACI FJTV 0 0
+40 30 21d22+1600 40d10+100 5d5+20 peck
+0 0 0 0 0
+A
+1 1 1 1
+CFHM 0 IJX GT
+stand stand none 0
+AGW ACDEFHKPQ medium 'flesh'
+#26040
+shopkeeper man aiel Karnac~
+Karnac, the {Da{yn{wi{Dm{ya{wl{x trainer~
+An {Da{yn{wi{Dm{ya{wl{x trainer moves around his shop, working with his pets.
+~
+This tall, thin {yA{Yi{ye{xl{x man obviously has a way with animals.  He moves
+swiftly around his shop, using strings, harmless whips and other tools to
+help him train.  Thigh-high {yle{ra{yth{re{yr{x boots cover his legs to protect him from
+the poisonous animals that are in his care.  
+~
+aiel~
+AB P 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+CEFHIJKNO ABCDZ 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#26041
+ring necked pheasant~
+a {yr{Win{Dg{x-necked {yph{De{Wa{gs{Da{yn{xt~
+A {yr{Win{Dg{x-necked {yph{De{Wa{gs{Da{yn{xt flies slowly through the air.
+~
+The ring-necked pheasant has a stout {Yye{yll{Yowish{x, chicken-like bill, short
+legs, short, rounded wings; and long tail feathers.  Their heads and necks
+are strikingly iridescent {gg{Green{x-{bb{Blue{x or {Mp{murple{x with a {Wwhite{x collar that
+separates the head and neck region from the rest of the body.  The overall
+color is an irridescent {ybr{Yo{ynze{x, mottled with {ybrown{x, {Dblack{x, {Wwhite{x and {gg{Gre{gen{x
+markings.  
+~
+song bird~
+ACI Ja 0 0
+35 25 18d18+1225 35d10+100 4d9+17 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 Z 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#26042
+turkey vulture~
+a {ytu{Drk{yey{x {yv{Dul{Wt{Yu{yre{x~
+A {ytu{Drk{yey{x {yv{Dul{Wt{Yu{yre{x flies through the air, rocking from side to side.
+~
+A {ytu{Drk{yey{x {yv{Dul{Wt{Yu{yre{x soars through the air, extending its thirty-two inch
+wings, as it rocks from side to side, rarely flapping them.  Its overall
+color is {ybrown{x-{Dblack{x with a featherless, {Rred{x head, {Wwhite{x bill and {Yyellow{x
+feet.  Although these birds are usually silent, sometimes they will emit a
+soft hiss or groan.  
+~
+unique~
+ACI FJTV 0 0
+45 35 23d23+2025 45d10+100 5d10+22 peck
+0 0 0 0 0
+A
+1 1 1 1
+FHM 0 HJ LQ
+stand stand none 0
+AGW ACDEFHKPQ medium 'flesh'
+M 'RANDOM' 26042 2~
+#26043
+desert iguana~
+a {yde{rs{Der{wt {yig{ru{Dan{xa~
+A {yde{rs{Der{wt {yig{ru{Dan{xa crawls along, leaving a trail in the {yd{Yi{yrt{x with its tail.
+~
+The {yde{rs{Der{wt {yig{ru{Dan{xa is ten to sixteen inches long with a large, round body
+and a long tail.  It is colored {ybrown{x around the head which diffuses into a
+{rre{yd{rdi{ys{rh {yb{rr{yown{x netlike pattern.  It has {ytan{x or {Dgray{x spots on the neck and
+trunk.  The tail is gray or {Wwhite{x encircled with rows of {Ddark{x spots.  
+~
+lizard~
+AI JV 0 0
+35 25 18d18+1225 35d10+100 4d9+17 claw
+0 0 0 0 0
+A
+1 1 1 1
+FJMN 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#26044
+bullfrog~
+a {gb{Gul{yl{Df{Gro{gg{x~
+A {gb{Gul{yl{Df{Gro{gg{x jumps from spot to spot in the {yd{Yi{yrt{x.
+~
+This {gb{Gul{yl{Df{Gro{gg{x looks to be an adult, measuring eight inches in length. 
+His overall coloration is {gg{Gre{gen{x, with {Dgray{x and {ybrown{x spots.  Its hind legs
+are large and powerful and may be banded or blotched with {ybrown{x.  The
+muscles in these legs help propel it through the air as it jumps from
+location to location.  
+ 
+~
+unique~
+AI GJW 0 0
+30 20 16d17+900 30d10+100 4d4+15 slime
+0 0 0 0 0
+A
+0 0 0 0
+FHN 0 IR JL
+stand stand none 0
+AGa ABCDEFHKL medium 'flesh'
+#26045
+gila monster~
+a {Dg{Yi{Dla {Dm{Yon{Dst{Ye{Dr{x~
+A {Dg{Yi{Dla {Dm{Yon{Dst{Ye{Dr{x disguises itself behind a rock.
+~
+The {Dg{Yi{Dla {Dm{Yon{Dst{Ye{Dr{x is a stout-bodied lizard that grows eighteen to
+twenty-four inches in length.  It has {Dblack{x, orange, {Mpink{x or {Yyellow{x broken
+blotches, bars and spots, with bands extending onto its blunt tail.  Its
+face is {Dblack{x, and it has small, bead-like scales across its back.  It is a
+venomous lizard, so beware.  
+~
+lizard~
+AI FGJM 0 0
+45 35 23d23+2025 45d10+100 5d10+22 flbite
+0 0 0 0 0
+A
+1 1 1 1
+DFHM 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#26046
+rattlesnake~
+a {yra{Dtt{wl{yes{wna{Dke{x~
+A {yra{Dtt{wl{yes{wna{Dke{x coils across the sand to a small pit.
+~
+This snake is clearly an adult because of its five foot length and
+jointed rattles on its tail.  Its scales are {ybrown{x, {Dblack{x and light gray,
+forming a diamond pattern across its back.  If you dare to cross it, it
+looks up at you with piercing {Yy{ye{Yllow{x eyes and bares its fangs in warning.  
+~
+snake~
+AFIZ FGJM 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+DHMNb 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#26047
+seia doon warrior aiel man~
+a {DSe{wi{Da D{wo{Don{x warrior~
+A {DSe{wi{Da D{wo{Don{x warrior stands at attention, guarding his society's door.
+~
+This warrior is tall and lean.  His wiry muscles are especially noticable
+as he stands at attention before his society roof.  His light {ybrown{x hair
+blows across his forehead in the hot, dry {yd{Yes{ye{Yrt{x breeze, but he does not
+lift a hand to brush it aside.  Make no mistake.  He might be thin, but he
+is a fierce warrior and it would take much for a wetlander to win a fight
+against him.  
+~
+aiel~
+ABT P 0 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+CFIJN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#26048
+far aldazar din warrior aiel man~
+a {mFa{Dr A{wld{ma{wza{Dr D{min{x warrior~
+A {mFa{Dr A{wld{ma{wza{Dr D{min{x warrior paces back and forth in front of his society roof.
+~
+This Aiel warrior seems to have nervous energy as he paces back and
+forth in front of his society roof.  He has been changed with its protection
+and seems certain that something will happen on his patrol.  As a result, he
+keeps one strong, {ytan{x hand on his {Ds{wp{We{wa{Dr{x at all times.  
+~
+aiel~
+ABT P 0 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+CFIJN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#26049
+rahien sorei aiel man warrior~
+a {gRa{Gh{Die{wn {DSo{Gr{gei{x warrior~
+A {gRa{Gh{Die{wn {DSo{Gr{gei{x warrior stands at attention, his spear clinched at his side.
+~
+This warrior is very tall and strong, more so than the other warriors you
+have seen.  He holds his head proud and high and refuses so much as a nod to
+those who pass by.  Instead, he holds his {ys{Dp{we{Da{yr{x tighter, prepared to block
+the door of his society roof against anyone that might enter uninvited.  
+~
+aiel~
+ABT P 0 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+CFIJN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#26050
+sovin nai warrior aiel man~
+a {yS{Yov{Din {YNa{yi{x warrior~
+A {yS{Yov{Din {YNa{yi{x warrior sits cross-legged before his society roof door.
+~
+This warrior sits cross-legged on the ground with a long {ybranch{x in his
+hands.  He seems intent on whittling it with a small belt {Dk{wn{Wi{wf{De{x.  What you
+might not realize, perhaps, is that his piercing {gg{Gre{gen{x eyes watch you as
+well, discretely.  He has sworn to protect his society at all costs.  
+~
+aiel~
+ABT P 0 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+CFIJN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#26051
+fearsome warrior~
+a fearsome {Dw{wa{yrri{wo{Dr{x~
+A fearsome {Dw{wa{yrri{wo{Dr{x patrols the hold, watching everything very cautiously.
+~
+A tall, thin man, looking very Aiel-like patrols his hold.  He wears the
+{yea{Dr{wt{Dh{yen{x color clothing and the markings of his clan.  Deep {Bblue{x eyes peer
+out from beneath dusty {ybl{Yon{yde{x hair, very alert and taking in everything in
+his range.  
+~
+aiel~
+A 0 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 headbutt
+0 0 0 0 0
+A
+7 7 7 7
+GHJLNQ ABb 0 PT
+stand stand male 0
+0 0 large 'flesh'
+#26052
+sovin nai warrior~
+a Sovin Nai warrior~
+A tall bare-chested Sovin Nai is training unarmed combat.
+~
+This tall bare-chested aielman is training hand to hand combat with
+another member of his sept.  His movements almost blurred with the speed he
+use as he alternates between kicking and punching, as well as blocking and
+attempting to grapple his opponent into submission.  
+~
+aiel~
+AB 0 0 0
+92 82 47d48+8464 92d10+100 10d12+46 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#26000
+stream water~
+a tiny {cstream {wof {cw{Ca{Wt{Ce{cr{w~
+A tiny {cstream{x of {cw{Ca{Wt{Ce{cr{x trickles down the rocks.~
+water~
+fountain O P
+100000 100000 'water' 0 0
+10 10000 0 100
+#26001
+skeleton~
+a bl{Wea{wc{Wh{wed s{Wk{wel{Wet{won~
+A bl{Wea{xc{Wh{xed s{Wk{xel{Wet{xon lies here, half-buried in the {ys{Ya{ynd{x.~
+bone~
+container OS P
+5 HIJM 0 1000 1000
+95 10001 0 100
+E
+skull~
+Yes...yes, you can just make it out... it appears to say something
+in the Old Tongue...
+ 
+"{CC{Bol{Cd R{Bock{Cs H{Bol{Cd{w, {DTa{Br{Cd{Ba{Dad C{Bla{Dn{w
+ -----------------------------
+ created by {gA{Gs{Yh{Wla{Ye{Gr{gn{w aka {rJ{Ru{Wb{Ra{rl{w
+ This area is level 30-75, but
+ should be enjoyable by all.  "
+~
+E
+skeleton~
+This poor traveller appears to have died quite some time ago,
+yet the position of the arms is such that it almost looks like 
+it is continuing to crawl forward, grasping ahead for water...
+ 
+There appears to be something etched carefully into the s{Wku{wl{Wl{w...
+~
+#26002
+egg~
+a {Gg{gar{Ga{w egg~
+A {Gg{gar{Ga{x egg lays here, nestled in the {ccool s{Ca{cnd{x.~
+egg~
+food SU AO
+4 2 0 0 0
+1 1 50 100
+E
+egg~
+The {Gg{gar{Ga {wegg is considered to be one of the Aiel Waste's
+most wonderful delicacies. From {CG{courmet {CG{cara-{Ce{cgg {CG{coulashe{w to
+even the mundane {Wscr{Ya{Wmbl{Ye{Wd e{Yg{Wg{w, chefs of all persuasions agree
+that {GG{gar{Ga{w is {GGr{grrrrrrrrrrrr{Geat!{w
+ 
+The egg is slightly heavy, about as big as a man's hand, and chocked
+full of 12 essential vitamens and nutrients, and...if kept in a safe
+place for long enough...perhaps a baby gara!
+~
+#26003
+sage grass~
+a small bundle of s{Yag{we~
+A patch of s{Yag{we grows out of the ground.~
+plant~
+pill 0 AO
+75 'heal' 'refresh' '' ''
+75 0 10 100
+E
+sage~
+Sage generally grows about a foot or more high, with wiry stems.  The
+leaves are set in pairs on the stem and are 1 1/2 to 2 inches long, stalked,
+oblong, rounded at the ends, finely wrinkled by a strongly-marked network of
+veins on both sides, {ggr{weyi{gs{wh-{gg{Gr{geen{w in colour, softly hairy, and beneath
+glandular.  The flowers are in whorls, {Mpu{mr{Mpli{ms{Mh{w and the corollas lipped. 
+They blossom in the late summer.  Those with skill in herbalism might be
+interested in the properties of her{Wba{Yls{Wag{we for it's various uses.  
+~
+E
+herbalsage~
+The various herbal uses of sage are many.
+It is reputed to mitigate grief in the mind and body, cure certain types of 
+snakebite, increases the inebriating quality of liquor, helps sore gums, and
+makes a good snuff. Sage is also quite nutricious as well.
+ 
+"Sage helps the nerves and by it's powerful might
+Palsy is cured and fever put to flight"
+(from the diary of Pepys)
+~
+#26004
+table~
+the b{Wut{wc{Wh{we{Wr{w's {ytable{w~
+A {ytable{x covered in {ys{rcr{ya{rp{ys{x takes up the center of the room.~
+(null)~
+container O PT
+10 HIJOQRST 0 11 0
+96 1 2500 100
+#26005
+entrails intestines~
+some unprepared {gen{yt{gra{yil{gs{w~
+A s{gli{xm{gy{x length of {ccold{x {gin{ytes{gti{yne{gs{x lays on the ground.~
+meat~
+food 0 AO
+-10 -10 0 DEFGKLNOPQRSTUVWXYZabcdef 0
+1 1 1 100
+#26006
+sausage~
+a {rb{Rlo{rod{w s{yau{wsa{yg{we~
+A tender c{Ghe{xstn{Gu{xt and l{Wa{xrd-filled {rb{Rlo{rod{x sausage waits patiently.~
+meat~
+food S AO
+7 4 0 0 0
+1 0 5 100
+E
+sausage~
+MMMmmmmmMMMmm!!! You can almost taste it just by looking at it. 
+Blood sausages are made standard with 3 1/2 quarts of blood,
+3 1/2 lbs leaf lard, 2 lbs chestnuts, 3 1/2 cups cream, 2 lbs
+of onions, 2 tblspn salt, ground black pepper to taste and the
+large intestine of a pig.
+ 
+Have ready a large pot of simmering water and a basket or strainer
+to pull out the sausages when they are boiled. Prepare chestnuts;
+they should be boiled until tender (about 20 minutes) and skinned,
+then roughly chopped. Gently fry the onions in some of the lard
+until very tender and creamy. Add the lard, and remove from the heat.
+To the melted lard and onions, add the cream, spices, and chestnuts.
+Mix the salt in with the blood, then beat it into the cooling mix.
+ 
+Tie a knot in one end of a length of intestine, and use a funnel to
+pour the thick liquid in. Make coils of sausage on the table, and
+twist the coils to make individual sausages. Do not overfill or 
+they will burst in cooking and become inedible.
+ 
+Lower the coils of sausages gently into the barely simmering water,
+and allow to heat for about 15 to 20 minutes or until just firm. Do
+not allow to boil. If they float to the surfave, prick them with a
+needle. Keep testing for doneness by pricking with a needle. When 
+they no longer "bleed" liquid and are barely firm, they are done and
+should be carefully removed from the pot and placed into cold water
+for a few minutes to cool. To preserve them, brush them with melted
+lard to form a glaze.
+~
+E
+blood~
+These creamy, delicate tasting sausages are excellent when lightly
+fried and served with stewed apples.
+ 
+For the recipe on how to make them "look sausage"
+~
+#26007
+goat hide~
+a soft {Dle{ya{Dth{ye{Dr {wg{Woa{wt-{yhide{w~
+A soft {Dleather{x g{Woa{xt-{yhide{x is laid out, all ready to be used.~
+leather~
+furniture S AS
+2 2000 EHK 50 50
+1 3 50 100
+E
+hide~
+It's a fairly nice goat hide, very soft, probably kidd leather. 
+It could be put to any number of uses, but since it's waterproof
+and soft, probably sleeping on it would get you the best results.
+~
+#26008
+bloodsnake~
+{rb{Rlo{rods{Rna{rke {wfillets~
+A package of {rb{Rlo{rods{Rna{rke{x fillets lays here on the ground.~
+meat~
+food S AO
+7 4 0 0 0
+1 1 15 100
+E
+bloodsnake~
+A tasty dish despite the name, there are various ways to prepare it...
+Get a bloodsnake large enough to make 6 fillets, taking care to remove
+the bone. Winter bamboo as well as Gan bamboo will be needed as well.
+ 
+Cut the snake into fillets, and the winter bamboo into slices. Cut the
+Gan bamboo into flower shapes. Steep the snake fillets in salt and
+soy sauce and flour for about 20 minutes, then stir fry in four-fold
+hot oil. Stir-fry finely chopped garlic, drop in the Gan bamboo shoots,
+then snake slices, bamboo slices, and a cooking sherry. Add salt, soy,
+sesame oil, and pepper to taste, and stir-fry until finished.
+~
+#26009
+goat meat~
+a pound of g{Woa{wt meat~
+A ball of g{Woa{xt meat wrapped in wax paper rests on the ground.~
+meat~
+food S AO
+8 4 0 0 0
+1 1 20 100
+E
+meat~
+Goat meat is used in a variety of recipes including the famous
+Goat Meatball Curry! You will need a pound of goat meat, 1 tsp
+haldi (turmeric), 2 tsp mirchi powder (red chili pepper), 1 tsp
+ginger paste, 1 tsp garlic past, 1 large diced onion, oil, and 
+salt to taste.
+ 
+Let's not forget the ingredients for the Masala! 2 tblsp Dry
+Coconut, 1 tsp poppy seeds, 1 tsp sesame seeds, 1/2 tsp cumin seed
+8-10 lavang clove, 4-5 Elaichi (Cardamom), and 2 tblsp of cashew
+nuts.
+ 
+Wash minced meat and keep aside till water is drained out. Take
+a pan and fry all the Masala ingredients seperately and then 
+grind them. Take 1/3rd each of the masala, haldi, mirchi powder 
+and the ginger and garlic pastes. Mix well with the minced meat
+and add salt to taste. Form small firm balls from the goat meat.
+In a vessel, heat oil. Add diced onion and fry till brown. Add the
+remaining 2/3rds of the ginger and garlic pastes, haldi, mirchi 
+powder, and the masala and fry till oil oozes out. Add a little
+water, when it starts to simmer add meatballs and cook for 5-10
+minutes on a high fire. Then resume cooking on a low fire for
+5 more minutes. Garnish with coriander leaves.
+~
+E
+goat~
+Goat meat is healthy and tasty! Yum yum! For a recipe on what
+to do with this pound of goatmeat, try "look meat".
+~
+#26010
+skin waterskin~
+a {Dle{ya{Dth{ye{Dr {Cw{cater{Cs{ckin{w~
+A {Dleather{x {Cw{cater{Cs{ckin{x with a belt-loop attachment rests on the ground.~
+leather~
+drink S AL
+10 0 'water' 0 0
+1 4 25 100
+E
+waterskin~
+The waterskin is not particularly remarkable. It's useful for 
+holding liquids and keeps the liquid from evaporating at the
+same time. This particular waterskin is made of tanned yellow
+leather stitched tightly together and sealed with baked tar.
+~
+#26011
+portal~
+a {Dp{wo{Wrt{wa{Dl s{wt{Wo{wn{De{w~
+Some sort of {Dr{wo{Wc{Dk{x lays half-buried in the {ys{Ya{ynd{x.~
+stone~
+portal OSY P
+5 AB AB 26058 0
+30 10000 0 100
+E
+portal~
+The runes covering the stone give no clue as to where it leads,
+they are so old and worn, that even if you knew what they meant
+it would be impossible to tell. The only way to find out is to
+actually open the {Dp{wo{Wrt{wa{Dl{w and see where it takes you.
+The only question remaining is... do you have the strength to do so?
+~
+E
+stone~
+The runes covering the stone give no clue as to where it leads,
+they are so old and worn, that even if you knew what they meant
+it would be impossible to tell. The only way to find out is to
+actually open the {Dp{wo{Wrt{wa{Dl{w and see where it takes you.
+The only question is... do you have the strength to do so?
+~
+E
+runes~
+As you examine the runes, the realization that you have found a 
+{Dp{wo{Wrt{wa{Dl s{wt{Wo{wn{De{w dawns upon you. The Old Ages past
+used to use these to travel all around the world. Do you examine
+the {Dp{wo{Wrt{wa{Dl s{wt{Wo{wn{De{w further, or do you turn and run?
+~
+E
+column~
+As you examine the column further, brushing the sand away, you 
+discover it to be covered in strange {cr{Cu{Wn{Ce{cs{w. Do you dare
+examine them further? Some things are better off not being known...
+~
+E
+sand~
+As you dig away the sand, you discover it to look something like the
+bottom of a {Dc{wo{Wlu{wm{Dn{w of some sort.  That seems rather odd that part of a
+column would be buried this far out in the middle of the desert.  
+~
+E
+rock~
+It's hard to tell. As it stands, it really just looks like a randomly
+buried chunk of granite. Perhaps if you were to dig some of the {ys{Ya{ynd{w
+away from it you could get a better look...
+~
+#26012
+nest~
+a {yn{Ye{yst{w in the {cs{Ca{cnd{w~
+A {yn{Yes{yt{x in the {cco{Co{cl s{Ca{cnd{x shelters the delicate {ce{Cgg{cs{x.~
+sand~
+container OS P
+10 HI 0 10 0
+1 0 0 100
+#26013
+gara lizard hide~
+a {Gg{gar{Ga{w-{Gl{gizar{Gd{w hide~
+A hide of {rre{yd{rdi{ysh{x-{ybr{row{yn{x scales lays here, neatly folded.~
+scales~
+armor C AK
+10 15 20 5 0
+50 5 2000 100
+#26014
+gara scales hide~
+a hide of {Gg{gara {Gs{gcales{w~
+Several {Gg{gara {Gs{gcales{x have been woven into a shirt, folded neatly.~
+scale~
+armor S AD
+10 10 10 5 0
+30 4 500 100
+#26015
+cadin'sor sor cadin~
+a {yca{Yd{yi{Yn{x'{ys{Yo{yr{x~
+A set of {yca{Yd{yi{Yn{x'{ys{Yo{yr{x lays on the ground, forgotten.~
+leather~
+armor SY AK
+23 23 23 6 0
+75 5 4000 100
+E
+cadin'sor~
+Contrary to popular belief, only certain Aiel, distinguished in battle
+are allowed to don the cadin'sor.  Wearing it is as much a sign of status as
+it is assured protection.  Made tough, like those who wear it the cadin'sor
+is capable of withstanding a brutal amount of damage, yet provide the
+ultimate in flexability for ease of killing.  
+~
+#26016
+large round shield~
+a large {Dr{wo{Wu{wn{Dd m{we{Wt{wa{Dl{w shield~
+A large {Dr{wo{Wu{wn{Dd m{we{Wt{wa{Dl{x shield rests here on the ground.~
+steel~
+armor 0 AJ
+23 23 23 6 0
+75 5 150 100
+E
+shield~
+This shield is fairly large, about 2 feet in diameter, and round
+shaped. Though it appears to be extremely sturdy and well made,
+it is surprisingly light. Another testament to the craftsmanship
+of the Aiel.
+ 
+~
+#26017
+short spear lethal~
+a short {Ds{wp{We{wa{Dr{w with a {Dse{wr{Dra{wte{Dd b{wl{Wa{wd{De{w~
+A really {Dlethal{x-{Dlooking s{wp{We{wa{Dr{x has been stuck in the ground.~
+steel~
+weapon MY AN
+spear 8 13 'thrust' D
+75 0 150 100
+A
+19 9
+A
+19 15
+A
+17 15
+#26018
+simple spear~
+a s{Wi{wmp{Wl{we, well-made spear~
+a s{Wi{wmp{Wl{we, but well-made spear has been left on the ground here~
+wood~
+weapon 0 AN
+spear 5 10 'stab' 0
+45 6 22500 100
+A
+19 9
+A
+19 8
+E
+spear~
+Not every spear looks like something out of a bad fantasy movie.
+Some of the most effective weapons are the ones free of extra
+ornamentation and just get the job done. The simplicity of this
+spear is a good testament to the amount of time that was put into
+making sure it actually worked.
+~
+#26019
+simple leather shield~
+a simple {rpa{yin{rt{ye{rd {yle{ra{yth{re{yr{w shield~
+Someone left a {rpa{yin{rt{ye{rd {yle{ra{yth{re{yr{x shield laying around.~
+leather~
+armor S AJ
+10 20 15 10 0
+45 10 100 100
+E
+shield~
+This is a rather well made leather shield. Fairly simplistic in 
+it's design, it looks to be rather effective nonetheless. The
+previous owner apparently painted the leather portion with various
+symbols.
+~
+#26020
+steel key wellkey~
+a large {Ds{wt{We{we{Dl{w key~
+A large {Ds{wt{We{we{Dl{x key hangs on a {ypeg{x in the wall.~
+steel~
+key Y AO
+0 0 0 0 0
+1 1 500 100
+E
+key~
+This key is finely forged from steel. It is fairly large, about
+a pound in weight, with a large ring at one end. Engraved into
+it are various water and good luck symbols.
+~
+#26021
+well~
+a natural well formed from the {Dgr{wa{Dni{wt{De{w~
+Trickling {Bw{ca{Ct{ce{Br{x has formed a natural well in the {Dgr{wa{Dn{wi{Dte{x floor.~
+stone~
+fountain AOY P
+99999 99999 'water' 0 0
+90 9999 0 100
+E
+well~
+Over the course of hundreds of years this well has been formed
+out of the granite floor by the water. Perhaps three feet deep
+and five feet wide, it is still the most water you are ever likely
+to see in one place anywhere except a hold.
+~
+#26022
+massive double-bladed spear~
+a {Dm{wa{Wssi{wv{De{w double-{Db{wl{Wad{we{Dd{w spear~
+A {Dm{wa{Wssi{wv{De{x double-{Db{wl{Wad{we{Dd{x spear is stuck in the ground.~
+steel~
+weapon 0 AN
+spear 9 14 'stab' 0
+80 20 45000 100
+E
+massive~
+This has got to be one of the biggest, baddest, meanest spears
+you've ever seen, or are likely to see, in your entire life. It
+just oozes hard-core from the three-foot serrated edge blades
+on each end, to the black leather grip in the middle with the
+words "Bad Muthaf....." sewn into the grip in cursive script.
+~
+E
+spear~
+(see massive)
+~
+#26023
+staera bronze bits~
+a set of {ystaera{w~
+Some curved bits of {ybronze{x lay on the ground.~
+bronze~
+trash 0 AO
+0 0 0 0 0
+1 1 0 100
+#26024
+bucket~
+a {ybronze {wbucket~
+A small {ybronze{x bucket sits on the ground, full of {Dmurky {cwa{Ct{cer{x.~
+bronze~
+drink 0 AO
+20 20 'water' 1 0
+1 2 5 100
+E
+bucket~
+It's a imply bronze bucket made to hold water. The water inside
+does not look very clean though. Apparently it's for bathing use
+only.
+ 
+~
+E
+water~
+I don't know about this water... it doesn't look too clean.
+ 
+~
+#26025
+white robes~
+thin {Wwhite{w robes~
+Some thin {Wwhite{x robes rest here, neatly folded.~
+cotton~
+armor 0 AK
+5 10 10 10 0
+30 2 50 100
+E
+robes~
+These thin {Wwhite{w robes are the trademark of the Gai'shain.
+They are light, comfortable, and do not provide much in the way
+of protection, though the clothing itself is functional, modest,
+and cool in the hot desert sun.
+ 
+~
+#26026
+bed coals fire~
+a bed of {rh{Ro{rt {Dc{Ro{Da{Rl{Ds{w~
+A bed of {rh{Ro{rt{x {Dc{Ro{Da{Rl{Ds{x sits in the center of the room.~
+fire~
+container A 0
+5 HI 0 15 1
+1 500 1 100
+E
+coals~
+The coals glow with a soft {Rreddish-{Yyellow{w glow that keeps the
+room dimly lit, and adds something of a relaxed atmosphere.
+~
+E
+bed~
+It is a small bed of coals, set in a brazier in the middle of the room.
+When water is added to it, it provides the steam neccesary to make
+oneself clean.
+~
+#26027
+hot coal~
+a {rre{Rd-h{rot{D c{Ro{Dal{w~
+A {rh{Ro{rt{x {Dc{Ro{Dal{x sits sizzling on the floor.~
+dung~
+light A AQ
+0 0 100 0 0
+1 1 0 100
+E
+coal~
+It's a bit of coal, most likely from dung, as there isn't wood to
+waste by burning it. It is still hot and hasn't burned out yet.
+~
+#26028
+leather gauntlets~
+a pair of soft {yle{ra{yth{re{yr{w gauntlets~
+A pair of soft {yle{ra{yth{re{yr{x gauntlets has been left on the floor.~
+leather~
+armor S AH
+8 12 8 7 0
+35 1 3500 100
+E
+gauntlets~
+The gauntlets are a dark soft leather, providing holes strategically
+placed for the hands to breath, and it feels like they are made of
+goat-hide.
+~
+E
+leather~
+It is good fine leather. Not bad at all. Soft and well cut, so
+as not to impede movement, but thick enough to provide decent
+protection.
+~
+#26029
+leather boots~
+a pair of soft {yle{ra{yth{re{yr{w boots~
+Someone left a pair of soft {yle{ra{yth{re{yr{x boots in the corner.~
+leather~
+armor S AG
+8 12 10 5 0
+80 2 3500 100
+E
+boots~
+These boots are soft and supple and look like like they would
+be quite comfortable while still providing a decent level of
+protection.
+~
+#26030
+leather armor~
+a set of soft {yle{ra{yth{re{yr{w armor~
+A pile of soft {yle{ra{yth{re{yr{x rests on the ground.~
+leather~
+armor S AK
+9 11 8 7 0
+35 5 4500 100
+E
+armor~
+This armor consists of padded overlapping flaps of armor designed
+for comfort, ease of use, and flexibility. It has been well oiled
+as well, to ensure that it allows for silence.
+~
+#26031
+leather whip~
+a long soft {yle{ra{yth{re{yr{w whip~
+A long coil of {yle{ra{yth{re{yr{x lays on the ground.~
+leather~
+weapon S AN
+whip 5 11 'flbite' 0
+40 2 4000 100
+E
+whip~
+This whip is made of soft leather and appears to be quite well 
+made. At the tips are sharp little needles sewn into the leather
+thongs to to ensure for better obediance towards the whip 
+wielder.
+~
+#26032
+leather belt~
+a soft {yle{ra{yth{re{yr{w belt~
+A discarded {yle{ra{yth{re{yr{x belt has been left on the ground.~
+leather~
+armor S AL
+8 12 10 5 0
+35 1 3500 100
+E
+belt~
+This belt looks to be made from goathide leather. It's soft, supple,
+and comfortable to wear, but functional, providing protection 
+below the rib cage.
+~
+#26033
+leather scraps~
+some soft {yle{ra{yth{re{yr {wscraps~
+Some scraps of {yle{ra{yth{re{yr{x have been left on the ground.~
+leather~
+trash S AO
+0 0 0 0 0
+1 1 1 70
+E
+scraps~
+They do not have any apparent use yet, but these scraps are not 
+going to go to waste. They will be used in some form or another
+when the time is right.
+~
+#26034
+clay pot~
+a {Rcl{ya{Ry p{yo{Rt{w~
+A {Rcl{ya{Ry p{yo{Rt{x rests on the ground, out of the way.~
+clay~
+container S AE
+10 ACHI 0 20 1
+5 10 5 100
+E
+pot~
+A clay pot, suited for holding things. It has a lid to keep
+the contents safe inside, and the bottom is curve slightly in an
+an oblong fashion, so that the user may carry it on the head.
+ 
+~
+#26035
+stone shelf~
+a {Dstone{w shelf~
+A shelf is carved into the {Dstone{x wall.~
+stone~
+container SY A
+50 EHI 0 200 1
+5 50 5 100
+#26036
+herbs jar~
+a clay jar of {gh{Ger{gbs{w~
+A discarded jar sits off to the side.~
+clay~
+pill SU AO
+90 'cure poison' 'refresh' '' ''
+5 0 500 100
+#26037
+willow bark~
+some rare {Dwillow{w bark~
+Some {Dblack{x wood bark has been left here.~
+wood~
+pill S AO
+90 'heal' 'heal' 'heal' 'refresh'
+5 0 5000 100
+#26038
+quinine bark~
+some rare {Dq{Bui{Dni{Bn{De {wbark~
+Some {Bblu{Dei{Bsh {Dblack{x bark has been dropped here.~
+wood~
+pill S AO
+90 'cure disease' '' 'cure poison' 'heal'
+5 0 3500 100
+#26039
+sarsparilla root~
+a {ysa{Yrs{ypari{Yll{ya{w root~
+A {Yyel{ylo{Ywish {ybrown{x root has been left here on the ground.~
+plant~
+pill S AO
+50 '' 'refresh' 'refresh' ''
+5 0 1500 100
+#26040
+herbalists belt pouches~
+a {ybelt{w with pouches for various {gh{Ger{gbs{w~
+A {ybelt{x with many pouches attached to it lies on the ground.~
+leather~
+container SY AL
+1 ACHI 0 50 1
+30 3 400 100
+E
+belt~
+This plain brown leather belt has many seperated pouches
+attached to it.
+~
+E
+pouches~
+The pouches have the faint smell of old herbs inside them. They
+are waterproofed to keep them dry, though in the desert air 
+that shouldn't be a problem. Apparently the leather has been 
+specially treated to make it flame resistant as well.
+~
+#26041
+grappling hook~
+a {Ds{wt{We{we{Dl{w g{Dr{wa{Dpp{wli{Dn{wg hook and {yrope{w~
+A long {yrope{x is coiled on the ground with a {Dhook{x attached.~
+steel~
+weapon 0 AN
+exotic 5 13 'thwack' F
+50 5 575 100
+#26042
+heavy knife~
+a {Dh{we{Wa{wv{Dy{w-{Db{wl{Wad{we{Dd{w knife~
+A knife with a large heavy {Db{wl{Wa{wd{De{x is stuck in the ground.~
+steel~
+weapon 0 AN
+dagger 3 24 'cleave' 0
+55 7 400 100
+#26043
+set throwing knives~
+a {Wset{w of {Dth{wr{Wow{wi{Dng{w-{Dk{wn{Wiv{we{Ds{w~
+Several long slender {Dk{wn{Wiv{we{Ds{x have been rolled into a bundle.~
+steel~
+weapon 0 AN
+dagger 4 15 'thwack' 0
+45 5 350 100
+#26044
+hard leather vest~
+a {yh{Ya{yrd l{Yea{yth{Ye{yr{w vest~
+Laying on the floor is a {yh{Ya{yrd l{Yea{yth{Ye{yr{x vest.~
+leather~
+armor S AD
+15 20 15 10 0
+60 4 620 100
+#26045
+red shield~
+a {Rr{We{Rd{w and {Wwhite{w {Ds{wt{We{we{Dl{w shield~
+The {Rs{Wh{Di{Re{Wl{Dd{x of an Aethan Dor rests on the ground, forgotten.~
+steel~
+armor Y AJ
+18 15 15 12 0
+65 6 700 100
+A
+8 6
+A
+19 40
+A
+18 40
+#26046
+soft leather pants~
+a pair of soft {yle{ra{yth{re{yr{w pants~
+A pair of soft {yle{ra{yth{re{yr{x pants is on the ground, folded.~
+leather~
+armor 0 AF
+12 12 12 9 0
+45 4 450 100
+#26047
+bracers leather hard~
+a pair of {yh{Ya{yrd l{Yea{yth{Ye{yr{w bracers~
+two wide {yh{Ya{yrd l{Yea{yth{Ye{yr{w bracers have been left here~
+leather~
+armor S AI
+14 14 15 8 0
+40 2 400 100
+#26048
+hard leather boots~
+a pair of {yh{Ya{yrd l{Yea{yth{Ye{yr{w boots~
+A nice pair of {ys{Ytu{yrdy b{Yoo{yts{x has been left here.~
+leather~
+armor S AG
+14 14 12 5 0
+45 7 440 100
+#26049
+shoufa black veil~
+a raised {Dblack {wshoufa~
+A long roll of {Dblack{x cloth has been tossed in the corner.~
+cloth~
+armor S ACV
+13 13 13 11 0
+50 1 5100 100
+#26050
+bullhide buckler~
+a {rb{Ru{rllh{Ri{rde {wbuckler~
+A small buckler made of {rb{Ru{rllh{Ri{rde{x rests on the ground.~
+leather~
+armor S AJ
+9 10 10 6 0
+45 3 350 100
+#26051
+bottle oosquai~
+an {yoosquai{w bottle~
+A {Ddark{x glass bottle has been left laying on the ground.~
+glass~
+drink S AO
+5 5 'rum' 0 0
+5 0 150 100
+#26052
+belt pack~
+a {yh{Ya{yrd l{Yea{yth{Ye{yr{w beltpack~
+A beltpack made of specially treated {yh{Ya{yrd{x {yl{Yea{yth{Ye{yr{x was left here.~
+leather~
+container SY AL
+2 ACHI 0 30 1
+5 2 75 100
+#26053
+grass sagegrass mat~
+a short s{Yag{wegr{Yas{ws mat~
+A short mat made of s{Yag{xegr{Yas{xs has been neatly rolled up.~
+plant~
+furniture S A
+1 1000 EHKN 175 175
+5 1 90 100
+#26054
+dung fire~
+some dried {Dd{yun{Dg{w for burning~
+A {rc{Ram{Yp{Wf{Yi{Rr{re{x of dried {Dd{yun{Dg{x burns merrily.~
+dung~
+light AS AO
+0 0 500 0 0
+5 1 50 100
+E
+dung~
+Since wood is too precious to burn in the wastes, dried dung
+is generally used. In this case, the dried dung of a bull. If
+you set it on the ground and light it, you will have a campfire.
+ 
+In a pinch, starved for food, you could probably eat it.
+~
+E
+fire~
+The flames dance and spark before your eyes, the patterns are
+almost hypnotic. It is a good fire, suitable for keeping warm
+or cooking.
+~
+#26055
+sageoil lantern hooded~
+a {ybronze{w hooded-s{Ya{wg{Yeoi{wl lantern~
+A {ybronze{x lantern of s{Ya{xg{Yeoi{xl hangs nearby on a hook.~
+bronze~
+light A AQ
+0 0 500 0 0
+5 2 75 100
+E
+lantern~
+This lantern is hooded to provide protection from the elements
+and winds. The sageoil within provides a good clean source of
+fuel that puts out very little smoke.
+~
+#26056
+bed simple~
+a large, simple {ywooden{w bed~
+A large but relatively simple {ywooden{x bed sits in the corner.~
+wood~
+furniture OX P
+3 3000 BEHK 200 200
+1 500 10000 100
+#26057
+cushions cushion yellow~
+a comfortable {Yyellow{w cushion~
+An array of comfortable looking {Yyellow{x cushions rests on the floor.~
+cotton~
+furniture 0 AP
+5 10000 EH 110 110
+1 15 1 100
+#26058
+squash~
+a large {Yyellow{w squash~
+A {gv{Gin{ge{x of {Yyellow{x squash grows within one terrace.~
+plant~
+food 0 AO
+5 5 0 0 0
+1 1 1 100
+#26059
+blue beans~
+a handful of ripe {Bb{Clue{Bb{Ceans{w~
+A patch of {Bb{Clue{Bb{Ceans{x grows along the {gg{Gar{gd{Ge{gn{x.~
+plant~
+food 0 AO
+6 6 0 0 0
+1 0 1 100
+#26060
+peppers red~
+a string of {rd{Rar{rk {rr{Re{rd{w peppers~
+Long strings of {rd{Rar{rk r{Re{rd{x peppers hang over the edge.~
+plant~
+food 0 AO
+10 10 0 A 0
+1 1 1 100
+#26061
+ivory comb~
+an {Wivory{w hair comb~
+A short, wide comb made of {Wivory{x looks perfect to hold your hair back.~
+ivory~
+jewelry 0 AE
+0 0 0 0 0
+80 0 1000 100
+#26062
+cream blouse~
+a {Wcr{wea{Wm{w-coloured blouse~
+A silky {Wcr{wea{Wm{x-coloured blouse lays crumpled on the ground.~
+silk~
+armor 0 AD
+20 20 20 20 0
+80 0 8000 100
+#26063
+sensible brown skirts~
+sensible {ybrown{w skirts~
+A long {ybrown{x skirt has been left on the floor.~
+wool~
+armor 0 AF
+20 20 20 25 0
+80 3 8500 100
+#26064
+krys knife krysknife~
+a {Dh{we{Wa{wv{Dy{w-{Db{wl{Wad{we{Dd{w krysknife~
+A {Ds{wt{We{we{Dl{x knife with a heavy, wavy {Db{wl{Wa{wd{De{x has been left here.~
+steel~
+weapon MY AN
+dagger 7 19 'slice' E
+80 10 0 100
+#26065
+glove rings~
+a glove made of {rr{Re{rd cr{Ry{rst{Ra{rl{w rings~
+Several {rr{Re{rd cr{Ry{rst{Ra{rl{x rings chained together lay on the ground.~
+crystal~
+armor ABY AH
+40 20 10 10 0
+80 1 85000 100
+#26066
+pitcher water~
+a small {Wporcelain{x pitcher of {cw{Cate{cr{x~
+A small {Wporcelain{x pitcher of {cw{Cate{cr{x sits on a {Dstone{x table.~
+porcelain~
+fountain OS P
+20 20 'water' 0 0
+80 750 1 100
+E
+pitcher~
+This is a simple white {Wporcelain{w pitcher used for holding 
+water. Be careful how much you take, for there is not exactly
+a lot of {cw{Cate{cr{w in here.
+ 
+~
+#26067
+cushion cushions~
+a comfortable {Rred{w cushion~
+Some comfortable {Rcushions{x are strewn about the floor.~
+cloth~
+furniture O P
+20 20000 EH 150 150
+80 705 1 100
+#26068
+mat mats~
+a comfortable {Ys{wag{Yegr{was{Ys{w mat~
+Some {Ys{xag{Yegr{xas{Ys{x mats sit rolled up in the corner.~
+plant~
+furniture a P
+20 20000 EHK 125 125
+80 750 1 100
+#26069
+tomato tomatoes~
+a {Rbright red{w tomato~
+{gV{Gine{gs{x containing {Rbright red{x tomatoes grow up a trellis.~
+plant~
+food S AO
+10 5 0 0 0
+5 0 5 100
+#26070
+lettuce head~
+a head of {Wwhite{w lettuce~
+Some brilliant {Wwhite{x heads of lettuce grow here.~
+plant~
+food 0 AO
+10 4 0 0 0
+1 1 5 100
+#26071
+sprouts~
+some s{Gpr{wou{Gt{ws~
+Healthy looking s{Gpr{xou{Gt{xs grow in neat little rows here.~
+plant~
+food S A
+8 3 0 0 0
+1 0 5 100
+#26072
+carrots carrot~
+a {gg{Gree{gn{w-{gl{Gea{gf{Ge{gd{w carrot~
+The {gg{Gree{gn l{Gea{gv{Ge{gs{x of carrots poke through the {Dsoil{x.~
+plant~
+pill S AO
+50 'infravision' 'change sex' '' ''
+1 0 5 100
+#26073
+onion onions~
+a large o{Wn{Yi{Wo{wn~
+The top of an o{Wn{Yi{Wo{xn pokes out of the {Dsoil{x.~
+plant~
+food S AO
+5 4 0 0 0
+0 0 5 100
+#26074
+white breeches~
+a pair of {Wwhite{w breeches~
+A folded pair of plain {Wwhite{x breeches has been left here.~
+cloth~
+armor S AF
+12 11 11 11 0
+45 2 0 100
+#26075
+white coat~
+a {Wwhite{w coat~
+A plain {Wwhite{x coat has been left here.~
+cloth~
+armor S AD
+12 11 11 11 0
+45 2 1 100
+#26076
+white sleeves~
+sleeves to a {Wwhite{w coat~
+The sleeves of a {Wwhite{x coat are laying on the ground.~
+cloth~
+armor S AI
+12 11 11 11 0
+45 2 1 100
+#26077
+soft cushion~
+a soft c{Mus{xh{Mio{xn~
+Several soft c{Mus{xh{Mio{xns are scattered about the room.~
+cotton~
+furniture a 0
+6 6000 EHK 0 0
+0 0 0 100
+#26078
+bracers leather hard~
+a pair of {yh{Ya{yrd l{Yea{yth{Ye{yr{w bracers~
+two wide {yh{Ya{yrd l{Yea{yth{Ye{yr{w bracers have been left here~
+leather~
+armor S AI
+14 14 15 8 0
+80 2 400 100
+#26079
+soft leather pants~
+a pair of soft {yle{ra{yth{re{yr{w pants~
+A pair of soft {yle{ra{yth{re{yr{x pants is on the ground, folded.~
+leather~
+armor 0 AF
+12 12 12 9 0
+80 4 450 100
+#26080
+hard leather boots~
+a pair of {yh{Ya{yrd l{Yea{yth{Ye{yr{w boots~
+A nice pair of {ys{Ytu{yrdy b{Yoo{yts{x has been left here.~
+leather~
+armor S AG
+14 14 12 5 0
+80 7 440 100
+#26081
+bleached skull~
+a {Wbleached{x animal skull~
+A {Wbleached{x animal skull lies here.~
+cloth~
+container 0 0
+2 0 0 3 10
+0 0 0 100
+#26190
+sword ashlaern's wrath~
+{gA{Gs{Yh{Wla{Ye{Gr{gn{w's {Ds{ww{Wo{wr{Dd{w of {Dw{wr{Wa{wt{Dh{w~
+a {gg{Gl{Yo{Ww{Yi{Gn{gg {Db{wl{Wa{wd{De{w of pure {me{Mn{Wer{Mg{my{w floats in the air~
+energy~
+weapon ABHM AN
+sword 99 99 'wrath' E
+1 0 10000 100
+#26191
+chest rock stone donation~
+a large chest made of {Ddark stone{x~
+A large chest made of {Ddark stone{x is placed against the wall.~
+stone~
+container 0 0
+900 A 0 900 0
+0 0 0 100
+#26192
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#26193
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#26194
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#26195
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#26000
+A Glint of Light in the Distance~
+The {ys{Yu{yn{w beats down upon you mercilessly.  The oppressive heat rolls off
+the sand in relentless waves.  The parched ground, strewn with cracks for
+miles in every direction ripples on the horizon, a trick of the light and
+heat.  The slightest glint of light in the distance catches your eye to the
+southeast.  
+~
+0
+C 15
+E
+~
+Aha! There it is again... perhaps if you were to get a bit closer you
+could see it better. The ripples of heat are distorting the light rather
+severely, but you're fairly certain it's to the southwest.
+~
+E
+glint~
+Yes, you definitly saw a glint of l{Wi{Yg{Wh{wt in the distance.  Perhaps if you
+travelled closer to the southeast you could make more out, but the boiling
+{Rh{Ye{Rat{w has distorted and spread out the light too much to discern any
+noticeable details about it.  
+~
+E
+heat~
+The heat is incredible...  Rolling off the ground in waves, it bends
+light, warps the vision and the mind, and come to think of it, pretty much
+anything you left out here for too long...  Including yourself.  
+~
+E
+light~
+The light appears to be w{Whi{wte, though it is difficult to tell because
+of the washed-out colors that distance and heat causes. As you stare in
+the direction where you last saw it, you see the g{Wl{Yi{Wn{wt once more...
+~
+D1
+~
+~
+0 0
+0 0 26001
+D7
+~
+~
+0 0
+0 0 46111
+S
+#26001
+Trudging Through the Waste~
+The cracks in the parched landscape gradually grow smaller. The occasional 
+{yrock{w dots the otherwise monotonous landscape. Again, you see the l{Wi{Yg{Wh{wt
+flickering in the distance to the southeast. Perhaps it is water, or another
+mirage. To the northwest, the {rA{Rie{Wl Wa{Rst{re{w stretches onwards... 
+~
+0
+0 10
+E
+rock~
+What's this? One of the rocks nearby has some large {yt{Yra{ycks{w near it...
+~
+E
+tracks~
+The tracks appear to be from a female {GG{gar{Ga L{gizar{Gd{w. Apparently
+they lead underneath a small {ybo{Yu{yl{Yd{yer{w... mayhaps it is a lair?
+~
+E
+gara~
+Well you don't actually SEE any Gara Lizard as such... just it's {ytr{Yac{yks{w.
+~
+E
+light~
+The light is a bit more pronounced than before. Fairly regularly, as if
+it were a signal of some sort. Whatever it is, it is definitly reflecting
+off something high up...er... you think. It's still kind of hard to tell.
+~
+E
+waste~
+{DTh{re {RAi{We{Rl W{ras{Dte{x
+
+{W=============={x
+
+The Aiel Waste is not known for its hospitality.  Long ago the 13 tribes
+fled east of the Dragonwall and made their homes in this desolate wasteland.
+As unforgiving as a blacksmith's forge, they were hardened into a culture of
+honor and survival.  Water, so rare, so precious, is the main unifying force
+between many of the Septs, Tribes, and Warrior Societies.  Water...  The
+cause and solution to most of life's problems in the Wastes is extremely
+hard to find and thusly, when a steady stream is found, a hold will spring
+up around it, viciously guarded from any intruders.  If you can only find a
+Hold...  Perhaps there you may find shade and water.  
+~
+E
+boulder~
+The boulder rolls away revealing a hole leading down into a small cave.
+~
+D2
+~
+~
+0 0
+0 0 26004
+D3
+~
+~
+0 0
+0 0 26000
+D5
+~
+~
+4099 4099
+1 0 26002
+S
+#26002
+In a Hidden Cave~
+The {ybo{Yu{yld{Ye{yr{w gives way to reveal a small underground cave.
+The air is cool and slightly damp. Extending to the north, the rest
+of the cave is shrouded in {Ddarkness{w, and you hear movement from
+within. Perhaps it would be a good idea not to proceed further into
+the cave.
+~
+0
+CD 0
+E
+darkness~
+Two beady {RRed Eyes{w stare back at you from the darkness, hissing.
+~
+D0
+~
+~
+0 0
+0 0 26003
+D4
+~
+~
+4099 4099
+1 0 26001
+S
+#26003
+Inside a Gara Lizard's Lair~
+Within the darkness you see what appears to be the lair of the elusive 
+gara lizard. This one has mated recently, and the {cp{Cale {cb{Clue{w eggs of her
+offspring are nestled within the cool {ys{Ya{ynd{w. It is then you remember
+an old saying about a cornered {Gg{gar{Ga l{gizar{Gd{w defending her young...
+~
+0
+AD 0
+E
+sand~
+The sand is cool to the touch. Shade and water have made this place 
+an ideal resting spot and nesting lair for anything seeking shelter
+from the harsh Waste.
+~
+D2
+~
+~
+0 0
+0 0 26002
+S
+#26004
+Hills on the Horizon~
+On the southeast horizon you begin to see the dark outline of a
+c{Dli{wf{Df{w-e{Ddg{we, its ridge {Drip{Wpl{Wi{wn{Dg{w through the waves of heat.  Once more you
+catch the g{Wl{Yi{Wn{wt of l{Yi{wg{Yh{wt near the top of it.  Small {gs{yc{Yru{yb{gs{w dot the landscape
+as far as the eye can see.  A cry overhead is heard from a passing {yh{Ya{ywk{w on
+the hunt.  
+~
+0
+0 10
+E
+scrubs~
+Small {yde{Ys{we{Yr{yt{w bushes, such as the Yucca and Staghorn  dot
+the landscape, evidence of possible water nearby. Of course, if there
+is water nearby, you can bet that it's probably already been claimed by
+someone... or something.
+~
+E
+light~
+The light appears to be reflecting off of something.
+Perhaps it is a shiny bit of metal, or perhaps some exposed
+quartz. From here, though, it is impossible to tell from just
+the g{Wl{Yi{Wn{wt.
+~
+E
+glint~
+The l{Wi{Yg{Wh{wt appears to be moving with some sort of pattern.
+Most likely it is some sort of s{Yi{wgn{Ya{wl beacon, though it
+is still difficult to tell from this far away. Somehow, though,
+you have the feeling that any inhabitants in the area already
+know that you are here.
+~
+E
+cliff-edge~
+It's difficult to tell much about the cliff from here, other than the
+fact that it looks large and purplish through the distance and rippling heat
+waves.  
+~
+D0
+~
+~
+0 0
+0 0 26001
+D2
+~
+~
+0 0
+0 0 26005
+S
+#26005
+At the Borders of an Aiel Hold~
+On a flat-surfaced rock appears to be a marker of sorts; a red {rs{Rh{Wie{Rl{rd{w
+with two {ys{Yp{Wea{Yr{ys{w crossed behind it. This is definitly a border marker of
+some sort. It would be a really good idea to walk out in open now and
+announce your presence in a very loud manner, lest they think you are
+attempting a sneak attack.
+ 
+Other than the obvious, of course, it appears that the desert is finally
+giving way to hills made of {Dbl{wa{Dck gr{wa{Dn{wi{Dte{w and beyond them, the cliffs.
+~
+0
+0 10
+E
+spears~
+Two short spears, about four feet long are crossed in an X shape behind the
+{rs{Rh{Wie{Rl{rd{w.  Their sharp {Ds{wt{We{we{Dl b{wl{Wad{we{Ds{x roughly one foot long and three inches
+wide with serated edges.  They look quite lethal.  
+~
+E
+granite~
+The black granite is one of those amazing little things nature throws
+out of the woodwork every so often. Smooth and cool to the touch, granite
+is known for it's ability to withstand the hottest heat, and the toughest
+picks and chisels. It takes an expert craftsman to be able to make anything
+more serviceable than a doorstop out of the stuff, but it is quite 
+beautiful and thus highly sought after by many west of the Dragonwall.
+ 
+In this particular circumstance, another thought comes to mind... a natural
+fortress made of granite would be extremely difficult to penetrate.
+~
+D0
+~
+~
+0 0
+0 0 26004
+D1
+~
+~
+0 0
+0 0 26063
+S
+#26006
+Outside Cold-Rocks Hold~
+From where you could have sworn was nothing but {yr{Yo{yck{w rise two Far Dareis
+Mai, blocking your path with their spears.  You are apparently standing
+outside {CC{col{Cd {CR{cock{Cs H{col{Cd{w.  Here, if you are polite you may find shade and
+water.  If you offend, then you will find death.  The choice is yours.  
+ 
+To the north appears to be a small {Gg{gra{Gz{gin{Gg{w area. From there you can hear
+the taletell sounds of goats and cattle. To the south appears to be
+a trail towards an area with slightly more vegetation. To the west
+is the loneliness of the Waste.
+~
+0
+0 4
+E
+rock~
+As you look around you realize that there are several other 'rocks' that seem
+to have a spear-shaped rise in the sand. Hidden warriors. It would be 
+a really good idea to tread lightly and not upset them.
+~
+E
+grazing~
+It's actually fairly cleverly hidden from view. Had you not made it to
+this point, you'd probably never have noticed it. From the sound of it,
+it's probably goat and cattle.
+~
+D0
+~
+~
+0 0
+0 0 26007
+D1
+~
+~
+3 3
+1 0 26030
+D2
+~
+~
+0 0
+0 0 26010
+D3
+~
+~
+0 0
+0 0 26068
+S
+#26007
+A Secluded Grazing Area~
+This is a simple grazing area used to feed the g{Woa{wts and {Dc{ya{Dtt{yl{De{w of the
+hold.  A valley, it stands between the high natural wall of granite to the
+left and the walls of the hold to the east.  S{Yag{weg{Yra{wss grows here in healthy
+abundance, along with some various edible scrubs.  You are watched carefully
+as you move about the cattle.  Aiel do not appreciate thieves, and deal with
+them harshly.  
+~
+0
+0 4
+E
+goats~
+A herd of goats grazes here peacefully oblivious to pretty much 
+everything. They appear to be a domesticated form of mountain goat,
+native to this area.
+~
+E
+cattle~
+The cattle are shaggy squat hairy beasts with wide hooves and 
+thick coats. They have the look of being hearty and stable in
+the desert climate, while providing the most meat, bone, leather
+and fur, while only needing a minimal amount of food and water.
+These beasts are obviously bred well to the task.
+~
+E
+sagegrass~
+A good herb, sage. It feeds cattle, and when burned provides a 
+pleasant aroma that repels evil spirits. The medicinal properties
+of sagegrass are many. Hmmm... perhaps maybe if you took some,
+no one would notice?
+~
+D0
+~
+~
+0 0
+0 0 26008
+D2
+~
+~
+0 0
+0 0 26006
+S
+#26008
+A Secluded Grazing Area~
+The field of s{Yag{we and scrub continues till you come to another natural
+wall to the north, closing the area off from outsiders.  All around you,
+g{Woa{wts and s{Whe{wep mill about, occasionally bleating.  To the east you can make
+out a cave in the granite, which appears to be frequented quite often.  
+ 
+A ladder, carved into the west side of the {Dblack cliff{w leads upwards
+towards a ledge.
+ 
+~
+0
+0 4
+E
+goats~
+Domesticated mountain goats, bred for their milk, meat, hide, horn, and bone. 
+The Aiel leave nothing to waste. They are a bit thinner and heartier than 
+mainland goats, but still manage to lead a pleasant enough existance until
+they are needed to help support the Hold.
+~
+D1
+~
+~
+3 3
+1 0 26009
+D2
+~
+~
+0 0
+0 0 26007
+D4
+~
+~
+0 0
+0 0 26088
+S
+#26009
+A Butchery~
+The flap moves away to reveal a butchery. An older Aiel stands here,
+carving up various meats from the slaughterhouse for trade and sale.
+The scent of {rb{Rlo{rod {wmixed with sweat is strong in this room. From
+the walls hang links of sausages and dried meats, slabs of beef, and 
+hides for tanning. Behind the butchers table you see a leather {yhide{w
+covering a spot on the floor.
+~
+0
+D 0
+E
+blood~
+You notice, however, the place is actually quite clean. The blood 
+appears to be carefully drained into runnels alongside the table
+and collected in a bucket at the end. Every so often a younger Aiel
+collects the bucket and leaves. Presumably even the blood has a use.
+~
+E
+hide~
+The hide appears to be covering a hole on the floor leading downwards.
+ 
+The butcher shakes his head and says "{GI wouldn't do that, if I were you.{w"
+ 
+~
+D3
+~
+~
+3 3
+1 0 26008
+S
+#26010
+A Small Well-Used Trail~
+A small hunting trail leads along the side of the Hold into the hills. 
+All around you grow various scrub and ca{gct{wi, each competing for the spare
+amounts of water in the area.  The granite rocks that tower around you
+provide a small amount of shade from the {ys{Yu{yn{w in this blasted land.  The
+trail continues southward into a hunting grounds, or north back to {CC{cold
+{CR{cocks {CH{cold{w.  
+~
+0
+C 4
+E
+sun~
+There is finally a bit of shelter against the sun when you stand
+beneath the rocks. So hot is the direct light though that when
+you reach forward, out of the shade into sunlight, it is almost
+tangible, like pressing against a searing film.
+~
+E
+scrub~
+Sage, yucca, and various desert grasses provide homes for all
+sorts of desert creatures like mice and snakes. 
+ 
+ \|/             \|/            _
+ ( )  |   |      ( )     |      #    \|/
+_( )_\|/_\|/_____( )____\|/_____#____( )____\|/__
+~
+E
+cacti~
+The cacti are able to survive the merciless desert climate because of
+their unique features for storing water and collecting it.  The most common
+features are a waxy coating that prevents water from escaping through the
+trunk, and needles to collect water from the air and protect the cactus from
+animals that might nibble on it and break the waxy coating.  Those who know
+their way around a desert will never be short on water or food when cactus
+is near.  
+~
+D0
+~
+~
+0 0
+0 0 26006
+D2
+~
+~
+0 0
+0 0 26011
+S
+#26011
+Along a Hunting Trail~
+The trail is lined with vegetation along both sides.  This land is not
+quite so dead as most people would believe.  Quite the contrary, in fact the
+desert is full of {gl{Gi{gfe{w if only you look for it and listen.  
+~
+0
+0 4
+E
+life~
+There are many indigenous life forms in the desert that actually manage
+to thrive and flourish in the area.  It is a common fallacy that nothing can
+live in the desert.  Even in the harshest desert, brine shrimp still live
+and thrive in the baking sand.  
+~
+D0
+~
+~
+0 0
+0 0 26010
+D1
+~
+~
+0 0
+0 0 26013
+D2
+~
+~
+0 0
+0 0 26015
+D3
+~
+~
+0 0
+0 0 26012
+S
+#26012
+Off the Beaten Path~
+Heading west of the trail, the game appears to be a bit better here.  The
+lush desert vegetation provides a good environment to find edible plants and
+animals.  Though it is also a good place to be considered edible by certain
+plants and animals as well.  To the southwest you can see what looks to be a
+small cluster of granite slabs.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26011
+D2
+~
+~
+0 0
+0 0 26014
+S
+#26013
+Off the Side of the Trail~
+You wander off the trail a bit to see if the hunting is any better.
+To the south and east the scrub and cacti spread further out away
+from the trail. Game appears to be more plentiful here than other
+areas of the desert. Just be sure you don't become prey instead of
+predator.
+~
+0
+0 4
+D2
+~
+~
+0 0
+0 0 26016
+D3
+~
+~
+0 0
+0 0 26011
+S
+#26014
+Further Out in The Wilderness~
+You're a bit further out in the wilderness now, the {Dc{wl{Dif{wfs are beginning
+to appear to be more {mpu{Mr{mpl{Mis{mh{w than black.  Lush desert vegetation grows
+about you, creating a rather peaceful and serene setting.  To the southwest
+you can see a cluster of {Dgr{wa{Dni{wt{De{w slabs providing what might be a good
+camping area.  
+~
+0
+0 4
+E
+granite~
+Those granite slabs you see to the southwest appear to be two large slabs
+about twenty feet tall leaning against each other in a natural formation. 
+Beneath which you may find shade from the elements.  Especially the sun.  
+~
+E
+cliffs~
+The cliffs on the horizon are made of the same black granite that the
+rest of the rock in this area is made of.  With that large of an area of
+shade --and possibly water-- there is little doubt of civilization being in
+that area.  
+~
+D0
+~
+~
+0 0
+0 0 26012
+D1
+~
+~
+0 0
+0 0 26015
+D2
+~
+~
+0 0
+0 0 26017
+S
+#26015
+A Thinned-Out Hunting Trail~
+The hunting trail is thinned out, and disappears in spots.  It is getting
+harder to follow it accurately, though the cliffs in the distance are a
+pretty good indication of where you are.  Around you, desert life flourishes
+in the shade of the hills, a tantalizing promise of water in the area.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26011
+D1
+~
+~
+0 0
+0 0 26016
+D2
+~
+~
+0 0
+0 0 26018
+D3
+~
+~
+0 0
+0 0 26014
+S
+#26016
+Further Out In the Wilderness~
+The lush desert vegetation provides food and shelter for all manner of
+desert creatures around you.  Hardened by the sun and rigorous struggle for
+daily survival, it is likely these plants and animals will likely be here
+till the end of time.  To the west is evidence of a hunting trail, to the
+north, east, and south the wilderness continues outwards.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26013
+D2
+~
+~
+0 0
+0 0 26019
+D3
+~
+~
+0 0
+0 0 26015
+S
+#26017
+Near a Natural Shelter~
+There is just a hint of cliffs to the north.  Only the ridge pokes out in
+hazy {mpu{Mr{mp{Ml{me{w far above the horizon, distorted by the rippling heat waves. 
+Around you are the natural s{Wc{wr{Wub{ws of the {yd{Yes{ye{Yr{yt{w that provide food and
+shelter for the various animals.  Immediately to your west is a natural
+shelter made of g{Dra{wn{Di{wt{De{w, providing shade from the blasting heat of the
+{ys{Yu{yn{w.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26014
+D1
+~
+~
+0 0
+0 0 26018
+D3
+~
+~
+0 0
+0 0 26020
+S
+#26018
+Faint Signs of a Hunting Trail~
+There are faint s{Wi{wg{Wn{ws of a hunting trail in this area.  You get the
+feeling that these parts are not travelled frequently by any but the animals
+that live in the area.  The {ys{Yu{yn {wbeats down upon you mercilessly, trying to
+claim every drop of water you have in your meager little body.  In a contest
+of wills, Mother Nature would win in this area.  
+~
+0
+0 4
+E
+signs~
+A footprint halfway under a rock here... a chip of wood there...
+the signs are few and far between, but they appears to lead north.
+~
+D0
+~
+~
+0 0
+0 0 26015
+D1
+~
+~
+0 0
+0 0 26019
+D3
+~
+~
+0 0
+0 0 26017
+S
+#26019
+Out in the Desert Wilderness~
+You are far into the {yd{Yes{ye{Yr{yt{w wilds. Venture further east and you
+will be out amongst the desert plains again. To the west and north
+appear to be some signs of vegetation. Far off to the north you can
+see the {mp{Mur{mpl{Mi{msh {wcrest of a cliff face over the horizon.
+~
+0
+C 4
+D0
+~
+~
+0 0
+0 0 26016
+D1
+~
+~
+0 0
+0 0 26021
+D2
+~
+~
+0 0
+0 0 26022
+D3
+~
+~
+0 0
+0 0 26018
+S
+#26020
+Inside a Natural Granite Shelter~
+Within the confines of this natural cave you find it to be surprisingly
+{ccool{x.  The temperature must be at least twenty degrees lower in here than
+outside in the {ys{Yu{yn{w, giving you a chance to actually relax a bit and think. 
+This would be an excellent place for a {gca{ym{Yp{ysi{gte{w, and in fact, a few
+scattered ashes are evidence that such has been the use for this place many
+times in the past.  
+~
+0
+CD 0
+D1
+~
+~
+0 0
+0 0 26017
+S
+#26021
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 26027
+D1
+~
+~
+0 0
+0 0 26024
+D2
+~
+~
+0 0
+0 0 26023
+D3
+~
+~
+0 0
+0 0 26019
+S
+#26022
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 26019
+D1
+~
+~
+0 0
+0 0 26023
+D2
+~
+~
+0 0
+0 0 26026
+D3
+~
+~
+0 0
+0 0 26025
+S
+#26023
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 26021
+D1
+~
+~
+0 0
+0 0 26025
+D2
+~
+~
+0 0
+0 0 26027
+D3
+~
+~
+0 0
+0 0 26022
+S
+#26024
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 26025
+D3
+~
+~
+0 0
+0 0 26021
+S
+#26025
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 26024
+D1
+~
+~
+0 0
+0 0 26022
+D2
+~
+~
+0 0
+0 0 26028
+D3
+~
+~
+0 0
+0 0 26023
+S
+#26026
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 26029
+D1
+~
+~
+0 0
+0 0 26027
+D3
+~
+~
+0 0
+0 0 26028
+D0
+~
+~
+0 0
+0 0 26022
+S
+#26027
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn{w is
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 26023
+D3
+~
+~
+0 0
+0 0 26026
+D2
+~
+~
+0 0
+0 0 26021
+D1
+~
+~
+0 0
+0 0 26028
+S
+#26028
+Out in the Desert Wilderness~
+You stand within the hot desert plains. The glare of the {ys{Yu{yn {wis
+blinding, making it difficult to find your way about.
+~
+0
+0 10
+D3
+~
+~
+0 0
+0 0 26027
+D1
+~
+~
+0 0
+0 0 26026
+D0
+~
+~
+0 0
+0 0 26025
+S
+#26029
+Out in the Desert Wilderness~
+You are standing within a {Rhot{w sweltering desert plain. The {RA{Wie{Rl{w
+{rW{Ra{Ws{Rt{re{w stretches before you in every direction. No sign of water, shade, or
+life can be seen amongst the {ys{Ya{yn{Yd{ys{w of the harsh wasteland.  Your only hope
+for survival is to find some {cw{Cater{x before you die from heat stroke.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 26026
+S
+#26030
+Within the Entrance to Cold Rocks Hold~
+{D __________________________{x
+  {D/| {Y______________________{x {D|\{x
+{D / | {Y|                    |{x {D| \{x
+{D|  | {Y|                    |{x {D|  |{x
+{D|  | {Y|                    |{x {D|  |{x
+{D|  | {Y|                    |{x {D|  |{x
+{D|  | {Y|                    |{x {D|  |{x
+{D|  | {Y|                    |{x {D|  |{x
+ {D\ | {Y|                    |{x {D| /{x
+  {D\|_{Y|____________________|{x{D_|/{x
+ 
+The massive {Dgr{xa{Dni{xt{De{x archway seems to stretch on forever...The sheer
+simplicity mixed with the thirty foot height, and smooth grandeur of the
+g{Wo{Yld{We{xn-veined black rock is enough to take your breath away, especially as
+the sun hits the rock, making it glow in bright veins, while the black rock
+itself absorbs the light, creating a surreal duality about you.
+~
+0
+CD 0
+E
+granite~
+The {Dblack granite{w is speckled with golden v{We{Yi{Wn{ws.
+~
+E
+veins~
+It appears that there are gold intrusions in the granite. 
+Such things generally occur when the granite is already formed,
+and molten rock or metal seeps upwards into the cracks... as
+it cools it expands, forcing much back out of the rock. What
+remains inside is what adds to part of the beauty of granite.
+~
+E
+archway~
+It is easy to see why kings and queens pay a hefty ransom for
+this sort of stone. Surely the smoothly polished slabs of
+{Dgr{wa{Dni{wt{We{w were not intended to be anything but functional,
+but you have the distinct impression that they are not 
+displeased with the results. The arch extends for perhaps
+thirty feet upwards, and fifty feet inward. The top is square
+and, if you are any judge, perfectly level as well.
+~
+D1
+~
+~
+0 0
+0 0 26031
+D3
+~
+~
+3 3
+1 0 26006
+S
+#26031
+The Main Hall of Cold Rocks Hold~
+This {yh{Yal{Wl{Ywa{yy{w stretches east and west throughout {CC{cold {CR{cocks {CH{cold{w,
+serving as the main thoroughfare. There is movement all around
+you and the place bustles with a{Wct{wi{Wv{wi{Wt{wy. Everyone seems quite
+busy, and idle chatter is rare. Along the sides of the hall you
+can see various {Dw{war{Wr{wen{Ds{x running off to other places in the hold.
+ 
+~
+0
+D 0
+E
+activity~
+Everything from traders bargaining to Warrior Societies arguing,
+it seems as if everyone is very intent on their tasks, yet you
+still get the impression that you are being watched carefully.
+~
+E
+warrens~
+The warrens look large enough to travel through with comfort,
+but there are so many of them, it seems like it may be easy to
+get lost within them.
+~
+D1
+~
+~
+0 0
+0 0 26032
+D3
+~
+~
+0 0
+0 0 26030
+S
+#26032
+The Main Hall of Cold Rocks Hold~
+This {yh{Yal{Wl{Ywa{yy{w stretches east and west throughout {CC{cold {CR{cocks {CH{cold{w,
+serving as the main thoroughfare. There is movement all around
+you and the place bustles with a{Wct{wi{Wv{wi{Wt{wy. Everyone seems quite
+busy, and idle chatter is rare. Along the sides of the hall you
+can see various {Dw{war{Wr{wen{Ds{x running off to other places in the hold.
+ 
+~
+0
+D 0
+E
+activity~
+Everything from traders bargaining to Warrior Societies arguing, it seems
+as if everyone is very intent on their tasks, yet you still get the
+impression that you are being watched carefully.  
+~
+E
+warrens~
+The warrens look large enough to travel through with comfort, but there
+are so many of them, it seems like it may be easy to get lost within them.  
+~
+D0
+~
+~
+0 0
+0 0 26033
+D1
+~
+~
+0 0
+0 0 26054
+D3
+~
+~
+0 0
+0 0 26031
+S
+#26033
+Wandering Through the Warrens~
+The {Dw{war{Wr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd{w
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26034
+D1
+~
+~
+0 0
+0 0 26047
+D2
+~
+~
+0 0
+0 0 26032
+D3
+~
+~
+0 0
+0 0 26045
+S
+#26034
+Wandering Through the Warrens~
+The {Dw{war{Wr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd{w
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26035
+D1
+~
+~
+3 3
+1 0 26127
+D2
+~
+~
+0 0
+0 0 26033
+D3
+~
+~
+3 3
+1 0 26038
+S
+#26035
+Wandering Through the Warrens~
+The {Dw{war{Wr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd{w
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26041
+D1
+~
+~
+3 3
+1 0 26036
+D2
+~
+~
+0 0
+0 0 26034
+D3
+~
+~
+3 3
+1 0 26040
+S
+#26036
+The Shop of an Animal Trainer~
+This shop is filled with various cages and baskets filled with all manner
+of {Gr{gept{Gi{gl{Ge{gs{x and {Yb{yir{Yd{ys{x of prey.  You would think it would be quite noisy,
+but not as such. After all, the trainer definitely looks like he knows what
+he's doing.  
+~
+0
+DM 0
+D3
+~
+~
+3 3
+1 0 26035
+S
+#26037
+A Pet Storage Room~
+~
+0
+BCD 1
+S
+#26038
+A Medium-Sized Dwelling~
+You have entered the dwelling of a {rT{Raa{Wr{Rda{rd A{Ri{We{rl{w, average size for a
+married couple.  The furniture is fairly spartan, as {ywood{w is so rare, and
+few Aiel use chairs anyway.  The walls are decorated with simple leather
+w{Wal{wlsc{Wro{wlls, painted with curious designs.  The floor is littered with
+several c{Mus{wh{Mi{wo{Mn{ws.
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 26034
+D2
+~
+~
+0 0
+0 0 26039
+S
+#26039
+A Small Kitchen~
+This is a small cooking area.  In one corner a {rf{Rir{Yepl{Rac{re{w burns slowly
+with a {Dcauldron{w suspended over it.  A high {Dgr{wa{Dn{wi{Dte{w counter provides a
+convenient surface for food preparation, and a {yshelf{w of {Gh{gerbs{w and {Ys{ypices{w
+adorns the wall over it.  Stacked carefully along one wall are several
+{rclay{w jugs and jars.  
+~
+0
+D 0
+E
+clay~
+~
+E
+fireplace~
+This is a small functional fireplace used for cooking and baking.
+It has been engineered in such a way that the heat does not 
+escape outside of the fireplace, but rather channels it upwards
+through vents above.
+~
+D0
+~
+~
+0 0
+0 0 26038
+S
+#26040
+A Steam Bath~
+The inside of this place is quite literally a {csa{Cun{ca{x.  Men and women sit
+within the room naked as they unabashedly talk idly and scrape themselves
+with {ystaera{x.  Aiel do not quite follow the same concept of bathing as
+wetlanders.  Dirtying so much water is a blasphemous to them.  Instead they
+make the maximum use of {cw{Ca{Wt{Ce{cr{x they do have in steam baths like this.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 26035
+S
+#26041
+Wandering Through the Warrens~
+The {Dw{war{Wr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd{w
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 26043
+D1
+~
+~
+0 0
+0 0 26042
+D2
+~
+~
+0 0
+0 0 26035
+D3
+~
+~
+3 3
+1 0 26044
+S
+#26042
+Wandering Through the Warrens~
+The {Dw{war{Wr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd{w
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 26046
+D1
+~
+~
+0 0
+0 0 26045
+D2
+~
+~
+3 3
+1 0 26056
+D3
+~
+~
+0 0
+0 0 26041
+S
+#26043
+A Small Taardad Dwelling~
+This is an average sized dwelling for an unmarried Aiel.  Often times
+places like this are shared by bachelors.  The decor is sparse, and there
+are very few personal affects about the room.  A few soft c{Mus{wh{Mio{wns lay about
+the room, offering comfort, and some m{Yat{ws made out of s{Yag{weg{Yras{ws are neatly
+rolled up in the corner.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 26041
+S
+#26044
+A Small Taardad Dwelling~
+This is an average sized dwelling for an unmarried Aiel.  Often times
+places like this are shared by bachelors.  The decor is sparse, and there
+are very few personal affects about the room.  A few soft c{Mus{wh{Mio{wns lay about
+the room, offering comfort, and some m{Yat{ws made out of s{Yag{weg{Yras{ws are neatly
+rolled up in the corner.  
+~
+0
+D 0
+E
+mats~
+The mats are made from stalks of sagegrass neatly woven together,
+and when laid out provide a modicum of comfort.
+~
+E
+cushions~
+The cushions are the primary form of Aiel furniture. They are not
+often in use however, usually only when eating diner at home, which
+does not occur very often.
+~
+D1
+~
+~
+3 3
+1 0 26041
+S
+#26045
+Wandering Through the Warrens~
+The {Dw{war{Wr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd{w
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26050
+D1
+~
+~
+0 0
+0 0 26033
+D2
+~
+~
+0 0
+0 0 26047
+D3
+~
+~
+0 0
+0 0 26042
+S
+#26046
+A Small Taardad Dwelling~
+This is an average sized dwelling for an unmarried Aiel.  Often times
+places like this are shared by bachelors.  The decor is sparse, and there
+are very few personal affects about the room.  A few soft c{Mus{wh{Mio{wns lay about
+the room, offering comfort, and some m{Yat{ws made out of s{Yag{weg{Yras{ws are neatly
+rolled up in the corner.  
+ 
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 26042
+S
+#26047
+Wandering Through the Warrens~
+The {Dw{war{Wrr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wrr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26045
+D1
+~
+~
+0 0
+0 0 26061
+D2
+~
+~
+0 0
+0 0 26048
+D3
+~
+~
+0 0
+0 0 26033
+S
+#26048
+Wandering Through the Warrens~
+The {Dw{war{Wrr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wrr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26047
+D2
+~
+~
+0 0
+0 0 26049
+S
+#26049
+Wandering Through the Warrens~
+The {Dw{war{Wrr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wrr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26048
+D2
+~
+~
+0 0
+0 0 26055
+S
+#26050
+Wandering Through the Warrens~
+The {Dw{war{Wrr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wrr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26052
+D1
+~
+~
+3 3
+1 0 26056
+D2
+~
+~
+0 0
+0 0 26045
+D3
+~
+~
+3 3
+1 0 26051
+S
+#26051
+A Medium-Sized Dwelling~
+You have entered the dwelling of a {rT{Raa{Wr{Rda{rd A{Ri{We{rl{w, average size for a
+married couple.  The furniture is fairly spartan, as {ywood{w is so rare, and
+few Aiel use chairs anyway.  The walls are decorated with simple leather
+w{Wal{wlsc{Wro{wlls, painted with curious designs.  The floor is littered with
+several c{Mus{wh{Mi{wo{Mn{ws.
+ 
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 26050
+D3
+~
+~
+0 0
+0 0 26060
+S
+#26052
+Wandering Through the Warrens~
+The {Dw{war{Wrr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wrr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26053
+D2
+~
+~
+0 0
+0 0 26050
+D3
+~
+~
+3 3
+1 0 26057
+S
+#26053
+Wandering Through the Warrens~
+The {Dw{war{Wrr{wen{Ds{w twist and turn in various tunnels.  No one else appears
+lost, but it is a bit confusing, since there is very little decoration, and
+the s{Yag{we{Wo{Yi{wl l{Yam{wps really only provide enough light to avoid breaking your
+neck.  Where there are not more {Dw{war{Wrr{wen{Ds{w, there are flaps of {rpa{yi{rnt{ye{rd
+{yle{ra{yth{re{yr{w closing off rooms from public view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26054
+D1
+~
+~
+0 0
+0 0 26058
+D2
+~
+~
+0 0
+0 0 26052
+S
+#26054
+The Main Hall of Cold Rocks Hold~
+This {yh{Yal{Wl{Ywa{yy{w stretches east and west throughout {CC{cold {CR{cocks {CH{cold{w,
+serving as the main thoroughfare. There is movement all around
+you and the place bustles with a{Wct{wi{Wv{wi{Wt{wy. Everyone seems quite
+busy, and idle chatter is rare. Along the sides of the hall you
+can see various {Dw{war{Wr{wen{Ds{x running off to other places in the hold.
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 26055
+D2
+~
+~
+0 0
+0 0 26053
+D3
+~
+~
+0 0
+0 0 26032
+S
+#26055
+The Main Hall of Cold Rocks Hold~
+This {yh{Yal{Wl{Ywa{yy{w stretches east and west throughout {CC{cold {CR{cocks {CH{cold{w,
+serving as the main thoroughfare. There is movement all around
+you and the place bustles with a{Wct{wi{Wv{wi{Wt{wy. Everyone seems quite
+busy, and idle chatter is rare. Along the sides of the hall you
+can see various {Dw{war{Wr{wen{Ds{x running off to other places in the hold.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26049
+D1
+~
+~
+0 0
+0 0 26073
+D3
+~
+~
+0 0
+0 0 26054
+S
+#26056
+The Shop of a Trade Merchant~
+In the wetlands, a place like this might be called a general store.
+However, in a realm where getting the basic every day neccessities
+of life is a {Ddeadly{w struggle, these goods are anything but general.
+Each of them has been highly specialized to fit the {yd{Ye{ys{Yer{yt{w terrain
+and wear and tear that such demands would place them.
+ 
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 26042
+D3
+~
+~
+3 3
+1 0 26050
+S
+#26057
+A Private Steam Bath~
+This is a smaller {csteam bath{w just large enough for two people to fit in
+comfortably.  Even the rather utilitarian standards of the {rT{Raa{Wr{Rda{rd{x recognize
+that there are times when husband and wife would like to have a private
+moment alone in the baths.  The air is sweet smelling from an i{Dnc{wen{Ds{we
+brazier, and the peace and quiet of the room is augmented by the fact that
+there is actually no one else using it right now.  There is a small pit of
+{Dco{Ra{Dls{w in the center of the room, and clean {ystaera{w waiting to be used.  
+~
+0
+CDJ 0
+D1
+~
+~
+3 3
+1 0 26052
+S
+#26058
+Outside the Well~
+Before you is the entrance to the {Cw{cell{w, probably the most closely guarded
+room in the entire hold of the {rT{Raa{Wr{Rda{rd{x.  A reinforced {ydoor{x, massive in size,
+not only blocks your way, but there is also one of the largest Aiel you have
+ever seen standing in front of it.  Unless you have reason to be here, it
+would probably be a good idea to leave and get your water elsewhere.  
+ 
+~
+0
+D 0
+D1
+~
+~
+519 519
+2 26020 26059
+D3
+~
+~
+0 0
+0 0 26053
+S
+#26059
+A Natural Granite Well~
+"{D...and the water which thou takest out of the river shall become
+blood upon the dry land...{w" (Gurney Halleck)
+                {W____{w______{D____
+               {W/####{w####{D######\
+              {W/#/{C  ---{c- -{B--  {D\#\
+             {W|#| {C--- {C-{c--{B- ---{D |#
+             {W|##\ {C---{c--{B ---{D  /##
+             {W|###|#{w######{D###|###
+             {W|###|{w########{D##|###
+              {W\##|#{w#####{D####|##/
+ 
+{w You have made it to the greatest treasure of the Cold Rocks Hold. A
+natural well carved from {Dgr{wa{Dni{wt{De{w has formed in this room, quite
+possibly centuries old, as the {Bw{ca{Ct{ce{Br{w trickled through the area
+from an underground stream.
+~
+0
+BD 0
+E
+water~
+It can't be more than three feet deep, and maybe five feet wide,
+but this natural bowl in the granite, fed by the trickle of an
+underground stream is more water than you will see in one place
+anywhere else in the Wastes, excepting possibly another Hold.
+ 
+It is a wonderous site to behold...
+~
+D3
+~
+~
+519 519
+2 0 26058
+S
+#26060
+A Small Kitchen~
+This is a small cooking area.  In one corner a {rf{Rir{Yepl{Rac{re{w burns slowly
+with a {Dcauldron{w suspended over it.  A high {Dgr{wa{Dn{wi{Dte{w counter provides a
+convenient surface for food preparation, and a {yshelf{w of {Gh{gerbs{w and {Ys{ypices{w
+adorns the wall over it.  Stacked carefully along one wall are several
+{rclay{w jugs and jars.  
+ 
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 26051
+S
+#26061
+The Dwelling of a Wise One~
+This dwelling obviously belongs to the Wise One. It is kept neat,
+and clean and smells strongly of burning {yincense{w. There are all
+manner of {gh{Ger{gb{Ga{gl{w plants growing about the room, along
+the {cwindows{w and hanging from the ceiling. There is a sort of
+peaceful serenity here, as if nothing could ever truly penetrate
+the aura of peace and self-assurance.
+ 
+To the east you can see a flap around a hole which doubtless leads
+towards the Wise One's bedroom.
+ 
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 26062
+D3
+~
+~
+0 0
+0 0 26047
+S
+#26062
+A Small Bedroom~
+This small and simple bedroom gives a aura of coziness despite
+the rather utilitarian nature of it. A {cwindow{w in the north
+wall is covered by some simple, pristine {Wwhite{w curtains. In
+the corner is an actual bed! This must be a fairly important 
+person indeed.
+ 
+~
+0
+CD 0
+E
+window~
+Outside of the window you can see the Canyon and the bustle
+of activity about. It is a fairly nice view, providing not only
+beauty but a practical tactical advantage as well, to give warning
+of any strangers headed towards the Hold.
+ 
+~
+D3
+~
+~
+3 3
+1 0 26061
+S
+#26063
+At the Edge of a Canyon~
+The ground starts sloping downward, into a canyon between the 
+towering cliff walls. The ground has become {Dro{wck{Dy{w rather than
+sandy now, and a lonely {cwind{w howls in the distance through
+the fissures in the dark soil. It is very quiet, aside from the
+wind, and oddly peaceful.
+ 
+From here you can head west over the desert, or try your chances
+downwards, in the canyon.
+ 
+~
+0
+0 4
+D3
+~
+~
+0 0
+0 0 26005
+D5
+~
+~
+0 0
+0 0 26064
+S
+#26064
+Within a Narrow Canyon~
+You stand within a fissure that is perhaps ten or twelve paces across
+at its broadest point. It weaves deeper and deeper into the canyon,
+and above you the {Cbright blue{w sky is a ribbon of light, cut
+ragged by the steep slopes of the {Dblack granite{w walls. It feels
+odd to finally be in so much shade after the harsh desert {ys{Yu{ynl{Yi{yght{w.
+ 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26065
+D4
+~
+~
+0 0
+0 0 26063
+S
+#26065
+Within a Silent Canyon~
+You stand within a fissure that is perhaps ten or twelve paces across
+at its broadest point. It weaves deeper and deeper into the canyon,
+and above you the {Cbright blue{w sky is a ribbon of light, cut
+ragged by the steep slopes of the {Dblack granite{w walls. It feels
+odd to finally be in so much shade after the harsh desert {ys{Yu{ynl{Yi{yght{w.
+ 
+There is an odd silence about the canyon you can't quite put your finger
+on. Sounds echo about you, but do not seem to carry farther than your
+immediate vicinity.
+ 
+~
+0
+C 4
+D0
+~
+~
+0 0
+0 0 26066
+D3
+~
+~
+0 0
+0 0 26064
+S
+#26066
+Rounding a Bend in the Canyon~
+Rounding another curve, the fissure opens abrubtly into a wide canyon,
+long and almost straight.  The {Dblack{w walls are startlingly {Ggreen{w in some
+places with narrow terraces climbing halfway up both sides.  A few small
+flat-roofed houses of g{Dra{wy s{Dt{wo{Dn{we and {yy{Yel{yl{Yo{yw c{Yla{yy{w seem to be stacked
+practically on top of one another.  Ahead of you, the {Ggreen{w and frequency of
+houses increases to the east.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26067
+D2
+~
+~
+0 0
+0 0 26065
+S
+#26067
+The Outer-Edges of Cold Rocks Hold~
+Mazes of paths wind inbetween these houses, and every roof is a veritable
+{gg{Ga{Yrd{Ge{gn{w of {ybeans{w, {Ysquashes{w, {rp{Re{rpp{Re{rrs{w, and {gm{Ge{gl{Go{gns{w.  What was previously
+a dead desert wasteland seems utterly packed with life!  Chickens are
+running loose, {Rredder{w than any you've ever seen, and some strange sort of
+fowl, larger and s{Dpe{wck{Dle{wd g{Dra{wy is running loose with the hens.  Children,
+most garbed like their elders, and tall {Wwhite-robed{w Aiel move along the
+paths with big {rclay{w pitchers, apparently watering the individual plants,
+careful to make sure no {cwater{w is wasted.  
+ 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26068
+D3
+~
+~
+0 0
+0 0 26066
+S
+#26068
+Outside the Roofmistress's House~
+To the east is the entrance to the {Dgranite{w warrens that compose the
+interior of {CC{Dold {CR{Docks {CH{Dold{x.  The chaos of the canyon lays about you,
+beckoning with a myriad of bright colours and noise to the west.  Near the
+entrance to the hold proper is a {Dstone house{x, two modest stone rectangles of
+large bricks and glassless windows covered by plain {Wwhite{w curtains.  Like
+the others, there is a vegetable garden on each of the flat rooves and
+another in front of the small terrace which seperates the houses under them
+by a narrow path paved with flat gray stones.  It is perhaps big enough for
+two houses, and looks much like the others except for the large {ybronze{w gong
+hanging beside each of the doors.  
+ 
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 26069
+D1
+~
+~
+0 0
+0 0 26006
+D3
+~
+~
+0 0
+0 0 26067
+D4
+~
+~
+0 0
+0 0 26129
+S
+#26069
+In the Roofmistress's House~
+This is the house of an obviously important person.  While luxurious
+would not be the right word, it is certainly larger and more heavily
+decorated than the rest of the hold.  A {Ds{wt{Wo{wn{De{x ladder leads up the north wall
+towards the roof.  To the west you can smell the pleasant scent of baking
+gara {ymeatpies{w.  The east is closed off by a {wc{ro{Bl{Yo{wr{yf{gu{Wl{w array of beads strung
+down over the archway.  Large comfortable looking cushions are placed in a
+semi-circle around the room, with a very short round table in the middle,
+made of {Ds{wt{Wo{wn{De{w.  The entire place gives off an aura of dignity and
+simplicity.  
+ 
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 26070
+D2
+~
+~
+3 3
+1 0 26068
+D3
+~
+~
+0 0
+0 0 26071
+D4
+~
+~
+0 0
+0 0 26072
+S
+#26070
+A Small Bedroom~
+This small and simple bedroom gives a aura of coziness despite
+the rather utilitarian nature of it. A {cwindow{w in the south
+wall is covered by some simple, pristine {Wwhite{w curtains. In
+the corner is an actual bed! This must be a fairly important 
+person indeed.
+~
+0
+CD 0
+D3
+~
+~
+3 3
+1 0 26069
+S
+#26071
+A Small Kitchen~
+This is a small cooking area.  In one corner a {rf{Rir{Yepl{Rac{re{w burns slowly
+with a {Dcauldron{w suspended over it.  A high {Dgr{wa{Dn{wi{Dte{w counter provides a
+convenient surface for food preparation, and a {yshelf{w of {Gh{gerbs{w and {Ys{ypices{w
+adorns the wall over it.  Stacked carefully along one wall are several
+{rclay{w jugs and jars.  
+ 
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 26069
+S
+#26072
+A Terraced Vegetable Garden~
+This small {gg{Gar{gd{Ge{gn{w is divided into three seperate stone terraces
+containing the soil neccesary to grow a rather startling array of
+vegetables.  Flourishing in the garden are all sorts of plants, some of
+which have never been seen outside the hold.  Walking amongst the plants,
+watering them, is a {Wwhite-robed{w gai'shain.  He doesn't seem concerned by
+your presence in the least.  
+~
+0
+0 2
+D5
+~
+~
+0 0
+0 0 26069
+S
+#26073
+A Staircase Carved From Stone~
+A natural staircase carved from the {Ds{wt{Wo{wn{De{w winds upwards towards the next
+level of terraces.  Despite the rather utilitarian method of its carving,
+it is an impressive structure nonetheless.  Highly p{Wol{Yis{Whe{wd dark {ywood{w
+banisters are a testiment to the wealth of this particular hold.  The
+smooth {Dblack marble{w steps lead upwards, or you can head westward into the
+sprawl of the lower Hold.  
+~
+0
+CD 0
+D3
+~
+~
+0 0
+0 0 26055
+D4
+~
+~
+0 0
+0 0 26074
+S
+#26074
+A Staircase Carved From Stone~
+A natural staircase carved from the {Ds{wt{Wo{wn{De{w winds upwards towards the next
+level of terraces.  Despite the rather utilitarian method of its carving,
+it is an impressive structure nonetheless.  Highly p{Wol{Yis{Whe{wd dark {ywood{w
+banisters are a testiment to the wealth of this particular hold.  The
+smooth {Dblack marble{w steps lead upwards, or you can head westward into the
+sprawl of the lower Hold.  
+~
+0
+CD 0
+D3
+~
+~
+0 0
+0 0 26075
+D5
+~
+~
+0 0
+0 0 26073
+S
+#26075
+A Narrow Path Between the Gardens and the Houses~
+This is a narrow path formed from {rd{Rar{rk r{Re{rd{w flagstones. To your
+south is one of the many {gg{Ga{Yr{W{Ye{Gn{gs{x that line the terraces in
+Cold Rocks Hold. Beyond them you can see the sprawl of the lower hold
+below. North of the path are various structures and dwellings carved
+from {Dstone{w and {yd{Yar{yk y{Ye{yll{Yo{yw {wclay.
+ 
+To your east you can see a {Ds{wt{Wo{wn{De{w staircase built into the side
+of the cliff.
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26094
+D1
+~
+~
+0 0
+0 0 26074
+D2
+~
+~
+0 0
+0 0 26081
+D3
+~
+~
+0 0
+0 0 26076
+S
+#26076
+A Narrow Path Between the Gardens and the Houses~
+This is a narrow path formed from {rd{Rar{rk r{Re{rd{w flagstones. To your
+south is one of the many {gg{Ga{Yr{W{Ye{Gn{gs{x that line the terraces in
+Cold Rocks Hold. Beyond them you can see the sprawl of the lower hold
+below. North of the path are various structures and dwellings carved
+from {Dstone{w and {yd{Yar{yk y{Ye{yll{Yo{yw {wclay.
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26097
+D1
+~
+~
+0 0
+0 0 26075
+D2
+~
+~
+0 0
+0 0 26082
+D3
+~
+~
+0 0
+0 0 26077
+S
+#26077
+A Narrow Path Between the Gardens and the Houses~
+This is a narrow path formed from {rd{Rar{rk r{Re{rd{w flagstones. To your
+south is one of the many {gg{Ga{Yr{W{Ye{Gn{gs{x that line the terraces in
+Cold Rocks Hold. Beyond them you can see the sprawl of the lower hold
+below. North of the path are various structures and dwellings carved
+from {Dstone{w and {yd{Yar{yk y{Ye{yll{Yo{yw {wclay.
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26100
+D1
+~
+~
+0 0
+0 0 26076
+D2
+~
+~
+0 0
+0 0 26083
+D3
+~
+~
+0 0
+0 0 26078
+S
+#26078
+A Narrow Path Between the Gardens and the Houses~
+This is a narrow path formed from {rd{Rar{rk r{Re{rd{w flagstones. To your
+south is one of the many {gg{Ga{Yr{W{Ye{Gn{gs{x that line the terraces in
+Cold Rocks Hold. Beyond them you can see the sprawl of the lower hold
+below. North of the path are various structures and dwellings carved
+from {Dstone{w and {yd{Yar{yk y{Ye{yll{Yo{yw {wclay.
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26103
+D1
+~
+~
+0 0
+0 0 26077
+D2
+~
+~
+0 0
+0 0 26084
+D3
+~
+~
+0 0
+0 0 26079
+S
+#26079
+A Narrow Path Between the Gardens and the Houses~
+This is a narrow path formed from {rd{Rar{rk r{Re{rd{w flagstones. To your
+south is one of the many {gg{Ga{Yr{W{Ye{Gn{gs{x that line the terraces in
+Cold Rocks Hold. Beyond them you can see the sprawl of the lower hold
+below. North of the path are various structures and dwellings carved
+from {Dstone{w and {yd{Yar{yk y{Ye{yll{Yo{yw {wclay.
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26106
+D1
+~
+~
+0 0
+0 0 26078
+D2
+~
+~
+0 0
+0 0 26085
+D3
+~
+~
+0 0
+0 0 26080
+S
+#26080
+A Ledge Overlooking the Canyon~
+The path thins out to a ledge roughly ten feet wide, the smooth {Ddark
+stone{w glistening in the light.  Over the edge of the ledge you can see the
+bustle of activity below, and above it, the {gg{Gree{gns{w and {Yy{yel{Yl{yow{Ys{w of thousands
+of gardens and houses stacked one atop the other.  The {cp{Cal{ce b{Clu{ce{x sky
+stretches out above it all, framing the area in quite a majestic fashion.  
+
+The ledge continues north and south along the sides of the {Dblack{w g{Dra{wn{Dit{we
+cliff.  
+
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26087
+D1
+~
+~
+0 0
+0 0 26079
+D2
+~
+~
+0 0
+0 0 26086
+S
+#26081
+A Garden Overlooking the Lower Hold~
+This {gg{Ga{Yrd{Ge{gn{w is built atop the roof of a dwelling below.  Stone carved
+into a shallow box holds all manner of {gp{Gla{gn{Gt{gs{w and is filled with {Ddark{w
+and {Drich{w soil, though where it came from is anyone's guess.  A good portion
+of it, however, appears to be compost.  There is a sort of peaceful serenity
+you find in this garden.  As if to stand in defiance of the harsh deadly
+life of the {yd{Yes{ye{Yr{yt{w and provide life despite any and all hardships.  
+ 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 26075
+S
+#26082
+A Terraced Vegetable Garden~
+This small {gg{Gar{gd{Ge{gn{w is divided into three seperate stone
+terraces containing the soil neccesary to grow a rather startling
+array of vegetables. Flourishing in the garden are all sorts of 
+plants, some of which have never been seen outside the hold.
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 26076
+S
+#26083
+A Cheerful Little Garden~
+A sort of peaceful serenity envelopes you as you walk within this little
+terraced {gg{Gar{gd{Ge{gn{w.  The {Drich soil{w, made from some sort of compost has allowed
+the owner to grow all sorts of interesting vegetables and {Rf{Gru{Ri{Gt{Rs{w within the
+harsh {yd{Ye{ys{Ye{yrt{w climate.  The confines of this garden are carved from the same
+stone that the rest of the cliff seems to be made of.  
+ 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 26077
+S
+#26084
+A Garden Overlooking the Lower Hold~
+This {gg{Ga{Yrd{Ge{gn{w is built atop the roof of a dwelling below.  Stone carved
+into a shallow box holds all manner of {gp{Gla{gn{Gt{gs{w and is filled with {Ddark{w
+and {Drich{w soil, though where it came from is anyone's guess.  A good portion
+of it, however, appears to be compost.  There is a sort of peaceful serenity
+you find in this garden.  As if to stand in defiance of the harsh deadly
+life of the {yd{Yes{ye{Yr{yt{w and provide life despite any and all hardships.  
+ 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 26078
+S
+#26085
+A Terraced Vegetable Garden~
+This small {gg{Gar{gd{Ge{gn{w is divided into three seperate stone
+terraces containing the soil neccesary to grow a rather startling
+array of vegetables. Flourishing in the garden are all sorts of 
+plants, some of which have never been seen outside the hold.
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 26079
+S
+#26086
+Along Ledge Overlooking the Canyon~
+The ledge is roughly ten feet wide, the smooth {Ddark stone{w glistens in
+the light.  Over the edge of the ledge you can see the bustle of activity
+below, and above it, the {gg{Gree{gns{w and {Yy{yel{Yl{yow{Ys{w of thousands of gardens and
+houses stacked one atop the other.  The {cp{Cal{ce b{Clu{ce{x sky stretches out above
+it, framing the area in quite a majestic fashion.  
+ 
+To the south you can see the ledge narrow considerably. To the north, the
+ledge appears to intersect a narrow path of {rr{Re{rd s{Rton{re{w.
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26080
+D2
+~
+~
+0 0
+0 0 26109
+S
+#26087
+Along Ledge Overlooking the Canyon~
+The ledge is roughly ten feet wide, the smooth {Ddark stone{w glistens in
+the light.  Over the edge of the ledge you can see the bustle of activity
+below, and above it, the {gg{Gree{gns{w and {Yy{yel{Yl{yow{Ys{w of thousands of gardens and
+houses stacked one atop the other.  The {cp{Cal{ce b{Clu{ce{x sky stretches out above
+it, framing the area in quite a majestic fashion.  
+ 
+To the north you can see the ledge narrow considerably. To the south, the
+ledge appears to intersect a narrow path of {rr{Re{rd s{Rton{re{w.
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26089
+D2
+~
+~
+0 0
+0 0 26080
+S
+#26088
+A Narrow Ledge with Two Ladders~
+The ledge narrows out to a ledge roughly five feet wide, the smooth {Ddark
+stone{w glistening in the light.  Over the edge of the ledge you can see the
+bustle of activity below, and above it, the {gg{Gree{gns{w and {Yy{yel{Yl{yow{Ys{w of
+thousands of gardens and houses stacked one atop the other.  The {cp{Cal{ce
+b{Clu{ce{x sky stretches out above it, framing the area in quite a majestic
+fashion.
+
+Two ladders carved into the {Dstone{w adorn the walls above and below you. From
+here you could either climb downward into the base of the canyon, or you
+could climb upwards towards the next level.
+ 
+~
+0
+0 4
+D2
+~
+~
+0 0
+0 0 26089
+D4
+~
+~
+0 0
+0 0 26090
+D5
+~
+~
+0 0
+0 0 26008
+S
+#26089
+A Narrow Ledge with Two Ladders~
+The ledge narrows out to a ledge roughly seven feet wide, the smooth {Ddark
+stone{w glistening in the light.  Over the edge of the ledge you can see the
+bustle of activity below, and above it, the {gg{Gree{gns{w and {Yy{yel{Yl{yow{Ys{w of
+thousands of gardens and houses stacked one atop the other.  The {cp{Cal{ce
+b{Clu{ce{x sky stretches out above it, framing the area in quite a majestic
+fashion.
+
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26088
+D2
+~
+~
+0 0
+0 0 26087
+S
+#26090
+Climbing a Ladder~
+This {Dstone{w ladder extends for well over fifty feet.  Around you the
+cliffs offer little sympathy for your plight.  The sprawl of the lower hold
+is further away than before, though the echos of their sounds rebound about
+you in a curious fashion, almost as if they were right here.  
+~
+0
+CJ 5
+D4
+~
+~
+0 0
+0 0 26091
+D5
+~
+~
+0 0
+0 0 26088
+S
+#26091
+Climbing a Ladder~
+This {Dstone{w ladder extends for well over fifty feet.  Around you the
+towering cliffs offer little sympathy for your plight.  The sprawl of the
+lower hold is even further away than before, the echos of their sounds
+rebound about you in an eerily distant fashion, almost as if they were in
+the next room.  
+ 
+~
+0
+CJ 5
+D4
+~
+~
+0 0
+0 0 26092
+D5
+~
+~
+0 0
+0 0 26090
+S
+#26092
+Climbing a Ladder~
+This {Dstone{w ladder extends for well over fifty feet.  Around you the
+towering cliffs offer little sympathy for your plight.  The sprawl of the
+lower hold is even further away than before, the echos of their sounds
+rebound about you in an eerily distant fashion, almost as if they were in
+the next room.  
+ 
+~
+0
+CJ 5
+D4
+~
+~
+0 0
+0 0 26093
+D5
+~
+~
+0 0
+0 0 26091
+S
+#26093
+Nearing the Top of the Ladder~
+This {Dstone{w ladder extends for well over fifty feet.  Around you the tops
+of the cliffs have become level with you.  To fall now would be certain
+death.  Below you the busy {yA{Yi{We{yl{x of the hold look like little more than ants,
+swarming within their colony.  Occasionally you can hear the distant
+laughter of a child echo up to you.  The change in acoustics makes it a
+ghostly sound, and other than that you have little but the {cmoan{w of the wind
+whipping through the canyon to keep you company.  
+ 
+~
+0
+CJ 5
+D5
+~
+~
+0 0
+0 0 26092
+S
+#26094
+Entrance to the Seia Doon Society House~
+This is the entrance to the Seia Doon Warrior Society Building.
+It is a fairly humble looking structure, made of the same {Dblack{x
+stone and {Yyellow{w brick that the rest of the houses are made
+from. Standing by the door are two Seia Doon guards, watching you
+carefully.
+ 
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 26095
+D2
+~
+~
+0 0
+0 0 26075
+S
+#26095
+Within the Seia Doon Headquarters~
+The interior of this structure is decorated with a variety of 
+wall hangings depicting the glorious feats of the {DBlack Eyes{w
+throughout history. Various members of the Society lounge about 
+the area, drinking or playing a game of toss. Beyond them is a
+room for resting in, away from the noise and turmoil of the hold.
+ 
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26096
+D2
+~
+~
+3 3
+1 0 26094
+S
+#26096
+A Quiet Place to Rest~
+This is a quiet place to rest away from the noise in the society
+hall. A small bed of {Dc{ro{Ra{rl{Ds{x in the corner contains some roasting
+{ymeat{w, and a small pitcher of {cw{Cate{cr{w in the corner is attended by
+a gai'shain. There are spare cushions and mats placed about the
+room as well.
+ 
+~
+0
+CD 0
+D2
+~
+~
+0 0
+0 0 26095
+S
+#26097
+Entrance to the Far Aldazar Din Society House~
+This is the entrance to the Far Aldazar Din Warrior Society Building.  A
+fairly humble looking structure, made of the same {Dblack{w stone and {Yyellow{w
+brick that the rest of the houses are made from.  Standing by the door are
+two Far Aldazar Din guards, watching you carefully.  
+ 
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 26098
+D2
+~
+~
+0 0
+0 0 26076
+S
+#26098
+Within the Far Aldazar Din Headquarters~
+The interior of this structure is decorated with a variety of wall
+hangings depicting the glorious feats of the {WBrothers of the Eagle{w
+throughout history.  Various members of the society lounge about the area,
+drinking or playing a game of toss.  Beyond them is a room for resting in,
+away from the noise and turmoil of the hold.  
+ 
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26099
+D2
+~
+~
+3 3
+1 0 26097
+S
+#26099
+A Quiet Place to Rest~
+This is a quiet place to rest away from the noise in the society
+hall. A small bed of {Dc{ro{Ra{rl{Ds{x in the corner contains some roasting
+{ymeat{w, and a small pitcher of {cw{Cate{cr{w in the corner is attended by
+a gai'shain. There are spare cushions and mats placed about the
+room as well.
+ 
+~
+0
+CD 0
+D2
+~
+~
+0 0
+0 0 26098
+S
+#26100
+Entrance to the Rahien Sorei Society House~
+This is the entrance to the Rahien Sorei Warrior Society Building.  A
+fairly humble looking structure, made of the same {Dblack{w stone and {Yyellow{w
+brick that the rest of the houses are made from.  Standing by the door are
+two Rahien Sorei guards, watching you carefully.  
+ 
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 26101
+D2
+~
+~
+0 0
+0 0 26077
+S
+#26101
+Within the Rahien Sorei Headquarters~
+The interior of this structure is decorated with a variety of 
+wall hangings depicting the glorious feats of the {YDawn Runners{w
+throughout history. Various members of the society lounge about 
+the area, drinking or playing a game of toss. Beyond them is a 
+room for resting in, away from the noise and turmoil of the hold.
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 26102
+D2
+~
+~
+3 3
+1 0 26100
+S
+#26102
+A Quiet Place to Rest~
+This is a quiet place to rest away from the noise in the society
+hall. A small bed of {Dc{ro{Ra{rl{Ds{x in the corner contains some roasting
+{ymeat{w, and a small pitcher of {cw{Cate{cr{w in the corner is attended by
+a gai'shain. There are spare cushions and mats placed about the
+room as well.
+~
+0
+CD 0
+D3
+~
+~
+0 0
+0 0 26101
+S
+#26103
+Entrance to the Sovin Nai Society House~
+This is the entrance to the Sovin Nai Warrior Society Building.
+A fairly humble looking structure, made of the same {Dblack{w
+stone and {Yyellow{w brick that the rest of the houses are made
+from. Standing by the door are two Sovin Nai guards, watching you
+carefully.
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26104
+D2
+~
+~
+0 0
+0 0 26078
+S
+#26104
+Within the Sovin Nai Headquarters~
+The interior of this structure is decorated with a variety of 
+wall hangings depicting the glorious feats of the {DKn{wif{We H{wan{Dds{w
+the area, drinking or playing a game of Toss. Beyond them is a 
+the area, drinking or playing a game of toss. Beyond them is a
+room for resting in, away from the noise and turmoil of the hold.
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 26103
+D3
+~
+~
+0 0
+0 0 26105
+S
+#26105
+A Quiet Place to Rest~
+This is a quiet place to rest away from the noise in the society
+hall. A small bed of {Dc{ro{Ra{rl{Ds{x in the corner contains some roasting
+{ymeat{w, and a small pitcher of {cw{Cate{cr{w in the corner is attended by
+a gai'shain. There are spare cushions and mats placed about the
+room as well.
+~
+0
+CD 0
+D1
+~
+~
+0 0
+0 0 26104
+S
+#26106
+Entrance to the Far Dareis Mai Society House~
+This is the entrance to the Far Dareis Mai Warrior Society Building.  A
+fairly humble looking structure, made of the same {Dblack{w stone and {Yyellow{w
+brick that the rest of the houses are made from.  Standing by the door are
+two Far Dareis Mai guards, watching you carefully.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26107
+D2
+~
+~
+0 0
+0 0 26079
+S
+#26107
+Within the Far Dareis Mai Headquarters~
+The interior of this structure is decorated with a variety of wall
+hangings depicting the glorious feats of the {yM{Yai{yd{Ye{yns {Yo{yf th{Ye {ySp{Yea{yr{w
+throughout history.  Various members of the society lounge about the area,
+drinking or playing a game of cat's cradle.  Beyond them is a room for
+resting in, away from the noise and turmoil of the hold.  
+ 
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 26108
+D3
+~
+~
+0 0
+0 0 26106
+S
+#26108
+A Quiet Place to Rest~
+This is a quiet place to rest away from the noise in the society
+hall. A small bed of {Dc{ro{Ra{rl{Ds{x in the corner contains some roasting
+{ymeat{w, and a small pitcher of {cw{Cate{cr{w in the corner is attended by
+a gai'shain. There are spare cushions and mats placed about the
+room as well.
+~
+0
+CD 0
+D2
+~
+~
+0 0
+0 0 26107
+S
+#26109
+A Steep Incline~
+The edge of the {Dcliff{w beings rounds a corner here. To the east
+it slopes upwards and around a bend. To the north, the incline
+lowers, eventually levelling out.
+ 
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 26086
+D1
+~
+~
+0 0
+0 0 26110
+S
+#26110
+Up a Steep Incline~
+The incline slopes upwards to the east, towards a bend northward.  Around
+you can be seen hundreds of {yy{Yel{yl{Yo{yw {wbrick houses, across the canyon, and
+further above and below you.  The {Dcliffs{w frame it all quite majestically,
+and the site of Aiel children running alongside the gai'shain and narrow
+alleys between the houses is something to behold.  
+ 
+~
+0
+0 5
+D3
+~
+~
+0 0
+0 0 26109
+D4
+~
+~
+0 0
+0 0 26111
+S
+#26111
+A Bend in the Incline~
+Open {cp{Cal{ce b{Clu{ce{w sky can be seen quite easily from this vantage point.  The
+view is absolutely breathtaking.  Far below you the bottom of the canyon can
+just barely be made out from this angle.  Down and to the west the steep
+incline disappears around the bend.  To your north is another row of
+{yy{Yel{yl{Yo{yw{w brick structures and {gg{Gar{gd{Gen{gs{w.  
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26112
+D5
+~
+~
+0 0
+0 0 26110
+S
+#26112
+A Narrow Path Between Two Houses~
+This is a narrow path between two houses. It is roughly five feet
+wide, and appears fairly clean. The occasional stack of jars or
+jugs can be seen in the shade offered between the two walls.
+ 
+~
+0
+0 4
+E
+jars~
+Nothing amazing. Buttons, twine, and other miscellaney.
+~
+E
+jugs~
+Nothing particularly interesting. Some grains, that's about it.
+~
+D0
+~
+~
+0 0
+0 0 26113
+D2
+~
+~
+0 0
+0 0 26111
+S
+#26113
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity. 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26114
+D2
+~
+~
+0 0
+0 0 26112
+D3
+~
+~
+0 0
+0 0 26116
+S
+#26114
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity. 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26115
+D3
+~
+~
+0 0
+0 0 26113
+S
+#26115
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity. 
+~
+0
+0 4
+D3
+~
+~
+0 0
+0 0 26114
+S
+#26116
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity. 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26113
+D3
+~
+~
+0 0
+0 0 26117
+S
+#26117
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity. 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26116
+D3
+~
+~
+0 0
+0 0 26118
+S
+#26118
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity.  
+
+A {Dblack {wg{Dra{wn{Dit{we{x bridge provides access across the crevice to the other
+dwellings there.  {gG{Gree{gn{x vines and {Rbright red{x flowers adorn the sides of it,
+draping downwards, adding more color to the place.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26122
+D1
+~
+~
+0 0
+0 0 26117
+D3
+~
+~
+0 0
+0 0 26119
+S
+#26119
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{x path leading between the crevice of part of
+the canyon, and the the various {yy{Yello{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity. 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26118
+D3
+~
+~
+0 0
+0 0 26120
+S
+#26120
+Overlooking the Canyon~
+The {Ds{wt{Wo{wn{De{w path abrubtly ends here.  Before you is empty air, and the far
+canyon wall, across a rather wide chasm.  The Cold Rocks Hold before you, in
+all its splendor is quite a site.  From here you can see literally
+thousands of the {yy{Yel{yl{Yo{yw{w brick houses lining the walls, the people so small
+in perspective they look like ants, busy at work.  
+ 
+A narrow ladder, carved into the {Ds{wt{Wo{wn{De{w leads upwards.
+ 
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26119
+D4
+~
+~
+0 0
+0 0 26121
+S
+#26121
+A Quite Vantage Point~
+The view from up here is incredible!  Even more so than from below. 
+Perhaps it seems worthless to carve a ladder into the {Ds{wt{Wo{wn{De{x, but now you can
+see why.  The vast expanse of Cold Rocks Hold extends before you, all{yy{Yell{yows{x
+and {Dblacks{x, with washes of {gg{Gree{gn{x on the roofs.  The people are so busy below
+that they have no clue that you are here.  From this vantage point, you
+could spend hours just observing the hold.  That is, if you could bare the
+unshaded heat.  
+~
+0
+0 4
+D5
+~
+~
+0 0
+0 0 26120
+S
+#26122
+A Wide Granite Bridge~
+This arching bridge looks to be carved from the very same {Dblack{w
+g{Dra{wni{Dt{we that the majority of this cliff appears made from.  The smooth edges
+are testament to the years of work it must have taken to build this hold,
+and the loving care to which it is given.  Along the edges are wide, narrow
+flowerboxes, trailing out {gg{Gree{gn{w vines, and curious looking {Rbright red{w
+flowers, dangling freely, and so skillfully planted that it almost looks
+like something that would occur naturally.  Far over the edges can be seen
+the sprawling dwellings of the hold, easily numbering in the thousands.
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26123
+D2
+~
+~
+0 0
+0 0 26118
+S
+#26123
+A Wide Granite Bridge~
+This arching bridge looks to be carved from the very same {Dblack{w
+g{Dra{wni{Dt{we that the majority of this cliff appears made from.  The smooth edges
+are testament to the years of work it must have taken to build this hold,
+and the loving care to which it is given.  Along the edges are wide, narrow
+flowerboxes, trailing out {gg{Gree{gn{w vines, and curious looking {Rbright red{w
+flowers, dangling freely, and so skillfully planted that it almost looks
+like something that would occur naturally.  Far over the edges can be seen
+the sprawling dwellings of the hold, easily numbering in the thousands.
+ 
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 26124
+D2
+~
+~
+0 0
+0 0 26122
+S
+#26124
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{w path leading between the crevice of part of
+the Canyon, and the the various {yy{Yel{yl{Yo{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity.  
+
+A {Dblack{w g{Dra{wn{Dit{we bridge provides access across the crevice to the other
+dwellings there.  {gG{Gree{gn{w vines and {Rbright red{w flowers adorn the sides of it,
+draping downards, adding more colour to the place.  
+
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26125
+D2
+~
+~
+0 0
+0 0 26123
+D3
+~
+~
+0 0
+0 0 26126
+S
+#26125
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{w path leading between the crevice of part of
+the Canyon, and the the various {yy{Yel{yl{Yo{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity.  
+~
+0
+0 4
+D3
+~
+~
+0 0
+0 0 26124
+S
+#26126
+A Narrow Path Between the Ledge and Houses~
+This is a small simple {Ds{wt{Wo{wn{De{w path leading between the crevice of part of
+the Canyon, and the the various {yy{Yel{yl{Yo{yw{x structures that make up the shops,
+homes, and guildhalls of the Aiel in this hold.  Across the crevice you can
+see other houses and gardens, and activity.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 26124
+S
+#26127
+A Tanner's Shop~
+This particular area of the warrens has a strong {ga{Gc{grid{w scent due to the
+acids and processes involved in tanning leather.  There are all manner of
+{yle{Ya{yth{Ye{yr{w goods here for sale and trade, from armor to shields, to common
+leather household products.  Such craftsmanship is quite extraordinary, and
+not surprising, as leather and rock are mostly all the materials the
+{rA{Ri{We{rl{w have to work with.  
+ 
+~
+0
+0 1
+D3
+~
+~
+3 3
+1 0 26034
+S
+#26128
+An Unusual Shop~
+~
+0
+BC 0
+S
+#26129
+Taardad Recall~
+A small room is cut out of the stone granite, a perfect place to leave
+items for others in the clan that may be in need.  
+~
+0
+BCK 0
+D5
+~
+~
+0 0
+0 0 26068
+S
+#26199
+Lex's Room~
+A serene calm washes over you the moment you enter this room.  A fire
+burns in the fireplace and casts a warm glow over the entire room.  The only
+furniture in here consists of two cozy plush chairs.  One of them has an
+open book laying on the seat, and a blanket tossed over the back, waiting
+for someone to return and curl up in it.  The other is for guests, to make
+them feel comfortable and at home here.  
+~
+0
+BCD 0
+S
+#0
+
+
+
+#SPECIALS
+M 26010 spec_speardancer
+S
+
+
+
+#RESETS
+D 0 26001 5 1
+D 0 26002 4 1
+D 0 26006 1 1
+D 0 26008 1 1
+D 0 26009 3 1
+D 0 26030 3 1
+D 0 26034 1 1
+D 0 26034 3 1
+D 0 26035 1 1
+D 0 26035 3 1
+D 0 26036 3 1
+D 0 26038 1 1
+D 0 26040 1 1
+D 0 26041 0 1
+D 0 26041 3 1
+D 0 26042 0 1
+D 0 26042 2 1
+D 0 26043 2 1
+D 0 26044 1 1
+D 0 26046 2 1
+D 0 26050 1 1
+D 0 26050 3 1
+D 0 26051 1 1
+D 0 26052 3 1
+D 0 26056 0 1
+D 0 26056 3 1
+D 0 26057 1 1
+D 0 26058 1 2
+D 0 26059 3 2
+D 0 26061 1 1
+D 0 26062 3 1
+D 0 26068 0 1
+D 0 26069 1 1
+D 0 26069 2 1
+D 0 26070 3 1
+D 0 26094 0 1
+D 0 26095 2 1
+D 0 26097 0 1
+D 0 26098 2 1
+D 0 26100 0 1
+D 0 26101 2 1
+D 0 26127 3 1
+O 0 26001 0 26000
+O 0 26012 0 26003
+P 0 26002 8 26012 5
+O 0 26000 0 26003
+M 0 26001 1 26003 1
+M 0 26000 5 26004 2
+M 0 26002 10 26006 2
+E 0 26015 0 7
+E 0 26016 0 13
+E 0 26017 0 20
+M 0 26002 10 26006 2
+E 0 26015 0 7
+E 0 26016 0 13
+E 0 26017 0 20
+M 0 26005 2 26007 2
+M 0 26034 10 26007 2
+M 0 26034 10 26007 2
+O 0 26003 0 26007
+M 0 26005 2 26007 2
+O 0 26003 0 26008
+M 0 26004 2 26008 2
+G 0 26007 0
+M 0 26004 2 26008 2
+G 0 26007 0
+O 0 26004 0 26009
+P 0 26005 4 26004 2
+M 0 26003 1 26009 1
+G 0 26006 0
+G 0 26007 0
+G 0 26008 0
+G 0 26009 0
+G 0 26010 0
+G 0 26013 0
+G 0 19 0
+M 0 26007 4 26011 2
+E 0 26014 0 7
+M 0 26000 6 26014 2
+M 0 26009 4 26015 1
+M 0 26006 4 26016 2
+G 0 26008 0
+M 0 26008 1 26018 1
+E 0 26018 0 20
+E 0 26019 0 13
+G 0 26008 0
+M 0 26009 4 26019 3
+M 0 26000 4 26019 1
+O 0 26081 0 26021
+R 0 26026 4
+R 0 26027 4
+R 0 26028 4
+M 0 26000 6 26028 2
+R 0 26029 4
+O 0 26011 0 26029
+M 0 26034 10 26032 2
+M 0 26032 5 26032 2
+M 0 26034 10 26032 2
+M 0 26032 5 26032 2
+M 0 26035 10 26033 2
+M 0 26035 10 26033 2
+M 0 26015 3 26034 2
+E 0 26018 0 20
+E 0 26050 0 13
+M 0 26015 3 26034 2
+E 0 26018 0 20
+E 0 26050 0 13
+M 0 26038 15 26035 1
+E 0 26074 0 9
+M 0 26040 1 26036 1
+M 0 26046 1 26037 1
+M 0 26045 1 26037 1
+M 0 26044 1 26037 1
+M 0 26043 1 26037 1
+M 0 26042 1 26037 1
+M 0 26041 1 26037 1
+M 0 26039 1 26037 1
+M 0 26035 10 26038 2
+O 0 26034 0 26039
+O 0 26035 0 26039
+P 0 26036 100 26035 1
+O 0 26026 0 26040
+P 0 26027 10 26026 3
+M 0 26023 10 26040 1
+E 0 26023 0 19
+M 0 26024 10 26040 1
+E 0 26023 0 19
+E 0 26024 0 19
+M 0 26014 3 26042 2
+E 0 26018 0 20
+E 0 26048 0 10
+M 0 26014 1 26042 1
+E 0 26018 0 20
+E 0 26048 0 10
+O 0 26068 0 26043
+O 0 26077 0 26043
+M 0 26035 10 26044 2
+O 0 26068 0 26044
+O 0 26077 0 26044
+M 0 26036 1 26045 1
+E 0 26064 0 20
+E 0 26065 0 11
+E 0 26062 0 7
+E 0 26063 0 9
+E 0 26029 0 10
+M 0 26034 10 26046 2
+O 0 26077 0 26046
+O 0 26068 0 26046
+M 0 26012 3 26047 1
+E 0 26044 0 7
+E 0 26042 0 20
+M 0 26038 15 26047 1
+E 0 26074 0 9
+M 0 26011 3 26048 1
+E 0 26043 0 20
+E 0 26050 0 13
+M 0 26032 5 26049 2
+M 0 26051 3 26050 3
+M 0 26051 3 26050 3
+M 0 26051 3 26050 3
+M 0 26013 3 26050 2
+E 0 26018 0 20
+E 0 26050 0 13
+M 0 26034 10 26051 2
+M 0 26033 5 26051 2
+M 0 26012 3 26052 1
+E 0 26048 0 10
+E 0 26018 0 20
+M 0 26011 3 26053 1
+E 0 26047 0 12
+E 0 26043 0 20
+M 0 26038 15 26053 1
+E 0 26075 0 7
+E 0 26076 0 12
+M 0 26038 15 26054 1
+E 0 26074 0 9
+E 0 26075 0 7
+E 0 26076 0 12
+M 0 26033 5 26055 2
+M 0 26028 10 26056 1
+G 0 26010 0
+G 0 26034 0
+G 0 26041 0
+G 0 26051 0
+G 0 26052 0
+G 0 26053 0
+G 0 26054 0
+G 0 26055 0
+G 0 19 0
+O 0 26023 0 26057
+O 0 26024 0 26057
+O 0 26026 0 26057
+P 0 26027 20 26026 3
+M 0 26010 1 26058 1
+E 0 26015 0 15
+G 0 26020 0
+E 0 26022 0 20
+E 0 26080 0 10
+E 0 26078 0 12
+E 0 26079 0 9
+O 0 26021 0 26059
+O 0 26035 0 26060
+O 0 26034 0 26060
+P 0 26009 100 26034 1
+M 0 26035 10 26060 2
+M 0 26027 1 26061 1
+G 0 26036 0
+G 0 26037 0
+G 0 26038 0
+G 0 26039 0
+G 0 26040 0
+O 0 26056 0 26062
+O 0 26035 0 26062
+P 0 26040 10 26035 1
+M 0 26030 7 26067 1
+M 0 26029 1 26067 1
+M 0 26035 10 26068 2
+M 0 26030 7 26068 1
+M 0 26038 15 26068 1
+E 0 26075 0 7
+E 0 26076 0 12
+E 0 26074 0 9
+O 0 26057 0 26069
+M 0 26031 1 26069 1
+E 0 26061 0 8
+E 0 26062 0 7
+E 0 26063 0 9
+O 0 26056 0 26070
+O 0 26055 0 26070
+O 0 26035 0 26071
+P 0 26051 10 26035 1
+O 0 26034 0 26071
+O 0 26058 0 26072
+O 0 26059 0 26072
+O 0 26060 0 26072
+M 0 26029 20 26072 1
+M 0 26022 2 26078 2
+M 0 26021 2 26078 2
+M 0 26020 2 26078 2
+M 0 26017 2 26078 2
+M 0 26012 2 26078 2
+M 0 26016 2 26078 2
+M 0 26007 5 26080 1
+M 0 26011 5 26080 1
+M 0 26006 5 26080 1
+M 0 26015 10 26080 1
+M 0 26052 2 26081 2
+M 0 26052 2 26081 2
+O 0 26069 0 26081
+O 0 26071 0 26081
+O 0 26073 0 26081
+O 0 26070 0 26082
+O 0 26072 0 26082
+O 0 26058 0 26082
+M 0 26037 10 26082 1
+O 0 26060 0 26083
+O 0 26069 0 26083
+O 0 26073 0 26083
+M 0 26038 15 26083 1
+E 0 26074 0 9
+E 0 26075 0 7
+E 0 26076 0 12
+O 0 26071 0 26084
+O 0 26072 0 26084
+O 0 26058 0 26084
+O 0 26069 0 26085
+O 0 26073 0 26085
+O 0 26070 0 26085
+M 0 26037 3 26085 1
+M 0 26038 15 26085 1
+E 0 26074 0 9
+E 0 26075 0 7
+E 0 26076 0 12
+M 0 26047 2 26094 2
+M 0 26012 3 26095 1
+O 0 26026 0 26096
+P 0 26027 50 26026 1
+P 0 26009 50 26026 3
+O 0 26066 0 26096
+O 0 26067 0 26096
+O 0 26068 0 26096
+M 0 26029 50 26096 1
+E 0 26025 0 7
+M 0 26048 2 26097 2
+M 0 26018 3 26098 1
+O 0 26026 0 26099
+P 0 26027 50 26026 1
+P 0 26008 50 26026 1
+O 0 26066 0 26099
+O 0 26067 0 26099
+O 0 26068 0 26099
+M 0 26029 50 26099 1
+E 0 26025 0 15
+M 0 26049 2 26100 2
+M 0 26011 3 26101 1
+O 0 26026 0 26102
+P 0 26027 50 26026 1
+P 0 26008 50 26026 2
+O 0 26066 0 26102
+O 0 26067 0 26102
+O 0 26068 0 26102
+M 0 26029 50 26102 1
+E 0 26025 0 15
+M 0 26050 2 26103 2
+M 0 26019 3 26104 1
+O 0 26026 0 26105
+P 0 26027 50 26026 1
+P 0 26006 50 26026 2
+O 0 26066 0 26105
+O 0 26067 0 26105
+O 0 26068 0 26105
+M 0 26029 50 26105 1
+E 0 26025 0 15
+M 0 26002 10 26106 2
+M 0 26002 10 26107 6
+O 0 26026 0 26108
+P 0 26027 50 26026 1
+P 0 26009 50 26026 1
+O 0 26066 0 26108
+O 0 26067 0 26108
+O 0 26068 0 26108
+M 0 26029 50 26108 1
+E 0 26025 0 15
+M 0 26038 50 26109 4
+M 0 26030 15 26109 2
+O 0 26036 0 26112
+M 0 26035 15 26113 3
+M 0 26034 15 26113 3
+M 0 26032 15 26113 3
+M 0 26030 15 26115 2
+M 0 26035 15 26115 3
+M 0 26034 15 26115 3
+M 0 26030 15 26117 2
+M 0 26035 15 26117 3
+M 0 26034 15 26117 3
+M 0 26033 15 26117 3
+M 0 26032 15 26117 3
+M 0 26015 5 26118 2
+M 0 26038 2 26118 2
+M 0 26032 10 26118 2
+M 0 26030 10 26118 2
+M 0 26032 15 26119 1
+M 0 26035 15 26119 1
+M 0 26034 15 26119 1
+M 0 26033 15 26119 1
+M 0 26035 20 26125 3
+M 0 26034 20 26125 2
+M 0 26011 5 26125 1
+M 0 26014 3 26125 1
+M 0 26032 10 26126 2
+M 0 26038 50 26126 5
+M 0 26006 8 26126 2
+M 0 26006 4 26126 2
+O 0 26034 0 26127
+P 0 26033 1 26034 1
+M 0 26026 1 26127 1
+G 0 26028 0
+G 0 26029 0
+G 0 26030 0
+G 0 26031 0
+G 0 26032 0
+G 0 19 0
+O 0 26191 0 26129
+M 0 26000 1 26199 1
+O 0 26002 0 26199
+O 0 26001 0 26199
+S
+
+
+
+#SHOPS
+26003 19 12 9 17 0 100 75 6 20
+26026 0 9 5 15 0 125 75 5 22
+26027 26 19 15 0 0 125 30 0 23
+26028 17 1 12 5 15 115 70 5 20
+26040 0 0 0 0 0 100 100 1 23
+0
+
+
+
+#$

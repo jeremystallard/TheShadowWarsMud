@@ -1,0 +1,2511 @@
+#AREADATA
+Name haunted house~
+Builders Kitiara Tykhon~
+VNUMs 31200 31300
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#31200
+ghost apparition~
+a {Wghost{x~
+An apparition floats in the air, appearing to be a white misty form.
+~
+~
+unique~
+ABF 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+G 0 0 0
+stand stand none 0
+K 0 medium 'mist'
+#31201
+beast goblin~
+a {ggo{Gbl{gin{x~
+A small, hairless {gb{Geas{gt{x with tiny horns on its head.
+~
+~
+unique~
+AF 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+IK 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#31202
+frankenstein creature~
+{DFr{gan{rken{gste{Din{x~
+A towering {Dcr{geatu{Dre{x rises before you.
+~
+~
+unique~
+ABF 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+C 0 0 0
+stand stand male 0
+J 0 medium 'flesh'
+#31203
+masked man phantom~
+the {DPh{ra{Dnt{ro{Dm{x of the {WOpera{x~
+A {Wmasked{x man plays an eerie tune.
+~
+~
+unique~
+ABF 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+H 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#31204
+women witches~
+three {Dw{wi{Dtch{we{Ds{x~
+Three strange women, dressed all in black.
+~
+~
+unique~
+ABF 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+A 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#31205
+werewolf wolf creature~
+a {Dw{we{Dr{we{Dw{ro{Dlf{x~
+Half-{Dw{wo{Dlf{x, half-{yh{wu{yman{x, this creature lunges at you out of the darkness.
+~
+~
+unique~
+ABF 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+MV 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#31206
+dracula creature~
+{DC{wo{Wu{wn{Dt Dr{ra{Dc{ru{Dla{x~
+A sickly pale {Dcr{we{Wat{wu{Dre{x engulfed in a black cape.
+~
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FG 0 0 0
+stand stand male 0
+0 0 medium 'blood'
+#31207
+corpse~
+a {Ddi{rsf{Rig{rur{Ded{x corpse~
+Rising from one of the sarcophagus is a {Ddi{rsf{Rig{rur{Ded{x corpse.
+~
+~
+andoran~
+A 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+A
+5 5 5 5
+A 0 0 0
+stand stand either 20
+0 0 medium 'flesh'
+#31208
+vampire bat~
+{Da v{ra{Dmp{ri{Dre bat{x~
+{DScreeching loudly this dark, winged creature swoops down out of the crevice.{x
+~
+~
+bat~
+AF J 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+F aff Z
+#31209
+dracula count~
+{DC{Wou{Dnt Dr{ra{Rc{ru{Dla{x~
+{DStanding tall and dressed all in black, this man gives off an aura of grace and sensuality.{x
+~
+~
+kandori~
+A HP 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+EH 0 0 0
+stand stand male 40
+0 0 medium 'flesh'
+#31210
+skeleton~
+a {Wsk{De{rl{De{Wton{x~
+A lanky {Wsk{De{rl{De{Wton{x with shreds of skin and hair hanging from it.
+~
+~
+unique~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+FKOU H BFLQ E
+stand stand either 200
+0 0 medium 'bone'
+#31211
+mutilated human body~
+{Da mutilated human body{x~
+{DHanging from a {ytr{gee{x {Dis a mutilated human body.{x
+~
+~
+andoran~
+ABT DFHJ 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+A
+-40 -40 -40 -40
+FGHKNU ac 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#31212
+headless horseman~
+{Dthe Headless Horseman{x~
+{DRiding his stee, the Headless Horseman search for a a donor.{x
+~
+~
+andoran~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FGK 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#31213
+wizard terrible~
+{YI{Ra{rn {Dthe T{rer{Rri{rbl{De{x~
+{DStanding in his {Dw{ri{Rzar{rd{Ds robes, {YI{Ra{rn{D raises his arms to the skies calling down death upon us all.{x
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 200
+0 0 medium 'flesh'
+#31214
+mummy~
+{Dthe M{Wu{Dmmy{x~
+{DWrapped from head to toe in g{wa{Wu{wz{De, the M{Wu{Dmmy gazes about with haunted eyes.{x
+~
+~
+andoran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FI 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#31215
+wicked witch~
+{Dthe wicked witch{x~
+{DStirring the boiling contents of a c{rau{Dldr{ro{Dn is the wicked witch weaing her pointy hat and cursing everything around her.{x
+~
+~
+andoran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 200
+0 0 medium 'flesh'
+#31216
+scarecrow~
+{Dthe Sc{ra{Rr{Yec{Rr{ro{Dw{x~
+{Dstanding amidst rows of corn, the sc{ra{Rr{Yec{Rr{ro{Dw watches you closely.
+~
+~
+andoran~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+E 0 0 0
+stand stand female 200
+0 0 medium 'stuffing'
+#31217
+warewolf~
+{Dthe {yw{ra{yrew{Wo{ylf{x~
+{DCrouching on the ground, baring its theeth the {yw{ra{yrew{Wo{ylf{x {Dprepares to leap for your throw with in fangs.{x
+~
+~
+wolf~
+ABFT J 0 0
+91 81 46d46+8281 91d10+100 10d11+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 20
+0 0 medium 'furr'
+F aff Z
+#31218
+zombie~
+{Da Z{ro{Rmb{ri{De{x~
+{Dwalking with stiff legs and arms held out before it, the Z{ro{Rmb{ri{De makes its way towards you, hunger in its eyes.{x
+~
+~
+andoran~
+ABT DFJ 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+A
+-40 -40 -40 -40
+CFGHK ac 0 0
+stand stand male 230
+0 0 medium 'flesh'
+#31219
+elvira~
+{DEl{rv{Dira{x~
+{DWearing a long slinky dress of sil, showing off rather ample bosoms, El{rv{Dira is here, painting her long nails with a {gdangerous{D looking liquid.
+~
+~
+andoran~
+ABT 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+V 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#31220
+ghost~
+{Dthe {mDr{cago{mns{x {DGh{Wo{Dst{x~
+{DA Gh{Wo{Dst of the past floats around int he air, appearing almost {cf{Ci{clmy{D and h{Wa{Dzy as it haunts this corner of the forest.{x
+~
+~
+andoran~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+FH 0 0 0
+stand stand male 200
+0 0 medium 'unknown'
+#31221
+axe murderer~
+{DA {YF{yurr{Yy{x {rA{Rx{De M{rur{Rde{rre{Dr{x~
+{Dcarrying a sticky axe, The {YF{yurr{Yy{x {Daxe murderer looks around for his next victim.{x
+~
+~
+andoran~
+ABFT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+A 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#31222
+catwoman~
+{DK{mi{wt{Wi{wa{mr{Da the C{ra{Dtw{ro{Rm{ra{Dn{x~
+{DWearing her C{ra{Dtw{ro{Rm{ra{Dn outfit, K{mi{wt{Wi{wa{mr{Da cracks her whip and meows at those who walk by.{x
+~
+~
+andoran~
+ABT HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 Eabc 0 0
+stand stand female 200
+0 0 medium 'flesh leather'
+#31223
+batman~
+{RZa{rnd{Ror{D the B{wa{Wtm{wa{Dn{x~
+{DWearing his B{wa{Wtm{wa{Dn suit, {RZa{rnd{Ror{D parades around flaring his cape.{x
+~
+~
+andoran~
+ABT HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+HN EJSUVWabcd 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#31224
+penguin~
+{DSword{Bfish{D as P{wen{Wg{wui{Dn{x~
+{DSitting on a large block of {ci{Cc{ce{D, {DSword{Bfish{D is dressed up like a penguin.{x
+~
+~
+andoran~
+ABT HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+EF Eac 0 0
+stand stand male 200
+0 0 medium 'flesh'
+#31225
+poison ivy~
+{mL{Mi{Dl{Mi{mth{D as P{go{Gis{go{Dn {YI{Gv{gy{x~
+{DWearing clothing all in {ggr{Gee{gn{D with live {gv{Gi{Yn{Ge{gs{D of ivy growing along her, {mL{Mi{Dl{Mi{mth{D smiles dazzlingly at all about her.{x
+~
+~
+andoran~
+ABT HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FGN EJa 0 0
+stand stand female 200
+0 0 medium 'ivy'
+#31226
+batgirl~
+{bAn{Bgen{bue{D as B{ra{Dt{Mg{Wi{Mrl{x~
+{DWearing a short skirt and matching cape, {bAn{Bgen{bue{D dons a mask.{x
+~
+~
+andoran~
+AB HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FGIK Eac 0 0
+stand stand female 100
+0 0 medium 'flesh'
+#31227
+joker~
+{rP{Ra{Yy{Rn{re{D as {rJ{Ro{Yk{Re{rr{x~
+{DShuffling a deck of cards and wearing a wild wig, {rP{Ra{Yy{Rn{re{D cackles like a maniac.{x
+~
+~
+andoran~
+ABT Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+AIV ac 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#31228
+urosh green goblin~
+{GUr{go{Wsh{gn{Gor{x {Das the {GGr{De{gen Gob{Dl{Gin{x~
+{DFlying around the room letting out a wicked laugh, {GUr{go{Wsh{gn{Gor{x, the {GGr{De{gen Gob{Dl{Gin{D zips by your head deciding how best to kill you.{x
+~
+~
+andoran~
+ABT HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-50 -50 -50 -50
+AFGKNW EQac 0 0
+stand stand male 100
+0 0 medium 'ice'
+#31229
+gatekeeper demon~
+{Dthe {wG{Da{Wt{Dekee{Wp{De{wr{D of {Rh{Ye{Rll{x~
+{DA huge {RD{re{Dm{ro{Rn{x, {Dsh{Wi{Dfting in and out of v{Wi{Dew stands guarding the ga{Wt{Des before you.{x
+~
+~
+gholam~
+ABT DFHTc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+AFGHKOW 0 L 0
+stand stand male 0
+0 0 large 'flesh'
+M 'SPEECH' 31227 No~
+M 'SPEECH' 31227 no~
+M 'SPEECH' 31228 Yes~
+M 'SPEECH' 31228 yes~
+M 'GREET' 31229 100~
+M 'ENTRY' 31229 100~
+#31230
+handler instructor guide ride cleark demon~
+{Dthe {w{Dh{Wa{Dnd{Wl{De{wr{D of {Rh{Ye{Rll{x~
+{DSticking out from the trees is a small box with a smaller {RD{re{Dm{ro{Rn{D sitting within it, waiting for you to {ws{Wa{wy{D that you are {wr{Weady{w.{x
+~
+Stop looking at me, and just say ready.....
+~
+gholam~
+AB DFJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FHKMW 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'SPEECH' 31226 ready~
+#31231
+chainsawman man~
+a {ychain{Dsaw{x wielding {Rma{rniac{x~
+A very large man wearing a {yover{Dalls{x grins at you from the shadows
+~
+~
+unique~
+AB DFJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FHK ac 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'GREET' 31231 100~
+M 'ENTRY' 31231 100~
+#31232
+bigfoot~
+a large {yh{Da{yiry{x {Dbeast{x~
+A huge {Dbeast{x walks slowly amidst the {Dshadows{x.
+~
+~
+unique~
+AB DFJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FHK ac 0 0
+stand stand none 0
+0 0 giant 'unknown'
+M 'GREET' 31232 100~
+M 'ENTRY' 31232 100~
+#31233
+doll~
+a small {Wp{wo{Wrceli{wn{We{x baby doll~
+A {Wp{wo{Wrceli{wn{Wg{x baby doll grips a long bladded knife and grins at you {Dw{mickedl{Dy{x.
+~
+~
+unique~
+AB DFJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FGK ac 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'GREET' 31233 100~
+M 'ENTRY' 31233 100~
+#31234
+insane clown man~
+an insane {Rc{Yl{Wo{Yw{Rn{x~
+An {rinsane{x looking man with {Gco{Rlo{Crf{Yul{x hair, and big floppy {Mbo{mo{Mts{x smiles as he sees you enter.
+~
+~
+malkieri~
+ABT DFJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FHK ac 0 0
+stand stand male 0
+0 0 huge 'unknown'
+M 'GREET' 31234 100~
+M 'ENTRY' 31234 100~
+#31235
+gremlin~
+a small {mgr{Demlin{x~
+A small {mgre{Dmlin{x sits in a box amidst the {ytr{gees{x.
+~
+~
+unique~
+ABT DFHJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FGKM ac 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'ENTRY' 31235 100~
+M 'GREET' 31235 100~
+#31236
+statue figure~
+a {Ws{Dtatu{We{x of {DT{my{rkh{mo{Dn{x~
+A large {Ws{Dtatu{We{x of {DT{my{rkh{mo{Dn{x holding a pair of d{Wi{xce in his hands is standing here.
+~
+~
+fade~
+ABT DHJVc -100 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-60 -60 -60 -60
+FGHKOW ac 0 0
+stand stand male 200
+0 0 medium 'unknown'
+F vul R
+M 'GIVE' 31238 31221~
+M 'GIVE' 31236 31222~
+#31237
+statue figure~
+a {Ws{Dtatu{We{x of {CM{co{Dir{ca{Ci{x~
+A large {Ws{Dtatu{We{x of {CM{co{Dir{ca{Ci{x is here, a {Dspi{Rd{Der{x crawling atop her shoulder.
+~
+~
+malkieri~
+ABT DFHJc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+100 100 100 100 100
+A
+-60 -60 -60 -60
+FGHKOW ac 0 0
+stand stand female 100
+0 0 medium 'unknown'
+M 'GIVE' 31237 31223~
+#31238
+statue figure~
+a {Ws{Dtatu{We{x of {DTh{Ca{Wna{Ct{Dos{x~
+A large {Ws{Dtatu{We{x of {DTh{Ca{Wna{Ct{Dos{x holding a large {rs{Dcyth{re{x is standing here.
+~
+~
+malkieri~
+ABOT DFHJVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-60 -60 -60 -60
+FGHKW ac 0 0
+stand stand male 100
+0 0 medium 'unknown'
+M 'GIVE' 31236 31222~
+M 'GIVE' 31238 31221~
+#31266
+mountain goat~
+a mountain goat~
+A small {ymountain{x {Dgoat{x is grazing on a very small ledge.
+~
+~
+unique~
+ABDT FHJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FGHK ac 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'ENTRY' 31266 100~
+M 'GREET' 31266 100~
+#31267
+guard demon posessed~
+a {Dposs{we{Dssed{x {rde{Dmon{x {Dgua{rrd{x~
+The {Wgu{Da{Wrd{x here has been {Dposs{we{Dssed{x by a {rd{Re{rmon{x now seeking revenge.
+~
+~
+unique~
+ABT DFHJVc 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+100 100 100 100 100
+A
+-20 -20 -20 -20
+AFGHK ac 0 0
+stand stand male 100
+0 0 huge 'unknown'
+M 'ENTRY' 31267 100~
+M 'GREET' 31267 100~
+#31268
+voice dark lord head~
+the {Wvoice{x of the {Dd{ra{Drk{x {Dlo{rr{Dd{x~
+A floating {Dhead{x with glowing {Rr{re{Rd{x {Re{ry{Res{x.
+~
+~
+unique~
+ABD BDFGHJQTc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+AFGHKM Eac 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'ACT' 31268 worship~
+#0
+
+
+
+#OBJECTS
+#31200
+mist aura~
+a {Dm{wi{Dst{x enshrouded {Da{rur{Da{x~
+A {Dm{wi{Dst{x enshrouded {Da{rur{Da{x is here.~
+mist~
+armor ASY AQ
+15 15 10 10 0
+50 1 200 100
+#31201
+horns~
+a pair of {Dh{ro{Drns{x~
+A pair of short, stubby {Dh{ro{Drns{x are growing here.~
+horn~
+armor ES AE
+15 15 15 15 0
+60 1 200 100
+#31202
+bolts~
+a pair of {Db{wo{Dlts{x~
+A matching pair of {Db{wo{Dlts{x with {rbl{Roo{rdy{x skin hanging off.~
+metal~
+armor 0 AC
+20 20 20 10 0
+70 1 200 100
+#31203
+mask~
+a {Dh{ra{Dlf{x-{Wmask{x~
+A half-{Wmask{x with clumps of burnt skin.~
+ceramic~
+armor 0 AV
+20 20 20 20 0
+80 1 200 100
+#31204
+earring~
+a {Ws{wk{Du{wl{Wl{x earring~
+A long, {yh{Yoo{yp{x earring with a mouse {Ws{wk{Du{wl{Wl{x dangling from it.~
+cloth~
+armor SY AU
+25 25 20 20 0
+90 1 200 100
+#31205
+claws furry feet~
+a pair of {Dcl{ra{Dwed{x, {Df{yu{Drry{x feet~
+A pair of {Df{yu{Drry{x feet with long, dangerous {Dcl{ra{Dws{x.~
+flesh~
+armor 0 AG
+20 20 20 20 0
+90 1 200 100
+#31206
+cape black~
+a {Dfl{wo{Ww{wi{Dng{x cape of black~
+A long {Dfl{wo{Ww{wi{Dng{x cape of black.~
+cloth~
+armor 0 AD
+20 20 20 20 0
+90 1 200 100
+#31207
+pumpkin~
+a {yp{Yu{Rmpk{Yi{yn{x~
+A little hollowed out pumpkin.~
+cloth~
+container 0 AO
+1 0 0 100 10
+1 1 0 100
+#31208
+caramel apple~
+a {yc{Da{yr{Da{ym{De{yl{x covered {ga{Gpp{gle{x~
+A green {ga{Gpp{gle{x dipped in {yc{Da{yr{Da{ym{De{yl{x.~
+apple~
+pill 0 A
+90 'slow' 'heal' '' ''
+30 1 50 100
+#31209
+candy corns candycorn~
+a handful of candy {Rc{Yo{Rr{Yn{Rs{x~
+A handful of candy {Rc{Yo{Rr{Yn{Rs{x.~
+sugar~
+pill 0 A
+90 'weaken' 'heal' '' ''
+30 0 50 100
+#31210
+chocolate candy bar~
+a {ychocolate{x candy bar~
+A large, {ychocolate{x candy bar.~
+cloth~
+pill 0 A
+90 'gag' 'slow' 'mass healing' ''
+30 0 50 100
+#31211
+tootsie roll~
+a {Dt{yoo{Dts{yie{x roll~
+A {Dt{yoo{Dts{yie{x roll!~
+cloth~
+pill 0 A
+90 'bless' 'cure poison' 'refresh' ''
+10 0 50 100
+#31212
+glowing stick green~
+a {gg{Glo{Yw{Gin{gg{x stick~
+A long, {gg{Glo{Yw{Gin{gg{x green stick.~
+cloth~
+light AS A
+0 0 500 0 0
+10 0 0 100
+#31213
+finger~
+a {Wsk{De{rl{De{Wton{x finger~
+A {Wsk{De{rl{De{Wton{x finger lies here, useless in the dust.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#31214
+crevice~
+{Da deep crevice in the floor~
+{DA deep crevice in the floor is here.{x~
+cloth~
+portal a 0
+0 0 0 31225 0
+0 0 0 100
+#31215
+crevice~
+{Da deep crevice in the floor~
+{DA deep crevice in the floor is here.{x~
+cloth~
+portal a 0
+0 0 0 31200 0
+0 0 0 100
+#31216
+halloween token pumpkin pumpkinkey~
+{Da H{ra{Rll{Yo{Rwe{re{Dn key{x~
+{DA large {Wsk{De{Wle{Dt{Won{D key, with an end shaped like a {Rp{Yu{Rmpk{Yi{Rn{D wait to be put to use{x.~
+obsidian~
+key KPb A
+0 0 0 0 0
+0 1 0 100
+#31217
+statue woman~
+{Da s{wt{Wo{wn{De statue{x~
+{DA s{wt{Wo{wn{De statue of an {ca{Cng{We{Cli{cc{D woman stands here.{x~
+stone~
+container 0 0
+8 0 0 100 100
+0 0 0 100
+#31218
+wicked dagger~
+{Da wicked looking dagger{x~
+{DA long, wicked looking dagger.{x~
+steel~
+weapon P N
+dagger 10 10 'pierce' D
+100 1 0 100
+A
+19 4
+#31219
+blade~
+{Da wickedly curved blade{x~
+{DA wickedly curved blade.{x~
+steel~
+weapon P N
+sword 10 10 'slice' D
+100 1 0 100
+A
+19 4
+#31220
+ridekey~
+a ride key~
+A small key to the halloween ride.~
+cloth~
+key MPZb 0
+0 0 0 0 0
+0 0 0 100
+#31221
+scythe cickle mini~
+a miniture {Dscythe{x~
+{DSome{mone{x has lost this.  You better {mgive{x it {Dback{x.~
+death~
+token KUb A
+0 0 0 0 0
+0 1 0 100
+#31222
+bone dice~
+A set of {Wbone{x d{Di{xce~
+{DSome{mone{x has lost this.  You better {mgive{x it {Dback{x.~
+bone~
+token KUb A
+0 0 0 0 0
+1 1 50 100
+#31223
+plastic spider~
+a small {mplastic{x {Dspi{Rd{Der{x~
+{DSome{mone{x has lost this.  You better {mgive{x it {Dback{x.~
+plastic~
+token KUb A
+0 0 0 0 0
+1 1 50 100
+#31224
+double xp token doublexptoken~
+a {Ddo{Wub{Dle{x {Mx{mp{x token~
+A small token with "{Mx{mp{x" written on it, should be turned in for a prize.~
+Quendilar~
+token Cb A
+0 0 0 0 0
+1 1 1000 100
+#31225
+spider angreal glass~
+a small {Cg{Wlas{Cs{x {Dspi{rd{Der{x~
+A small {Cg{Wlas{Cs{x {Dspi{rd{Der{x seems to hum on its own.~
+angreal~
+angreal KQab AO
+0 0 999 0 0
+75 10 2000 100
+A
+26 2
+#31226
+sign~
+a simple warning sign~
+A simple "{RWarning{x" sign that points {rwest{x and reads "{RRun!{x~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 10 0 100
+#31227
+sign~
+a simple warning sign~
+A simple "{RWarning{x" sign that points {rnorth{x and reads "{RRun!{x~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 10 0 100
+#31228
+pedestal~
+a book stand~
+A marble {Wp{De{Wdest{Da{Wl{x stands here with a {ybook{x open on top of it.~
+marble~
+trash 0 0
+0 0 0 0 0
+0 30 100 100
+E
+book~
+Patience is a must, make sure you stay out of the dust.
+Mind the items that you find, for they shall be what saves you time.
+The dice are key, do not forget, or your prize, you'll never get.
+~
+#31229
+entrance letter ruin paperquest~
+a {yru{wi{yned{x piece of {Wpaper{x~
+A piece of {Wpaper{x is almost {ydest{wr{yoyed{x, but if you look close you can see a small bit of {rwritting{x still readable.~
+paper~
+trash 0 A
+0 0 0 0 0
+0 1 10 100
+E
+writting~
+------------------------------------
+---------{RPath{x-------{RHell{x------------
+------------------------------------
+----{RWorship{x-------------------------
+--------------------{Rsell{x------------
+-------------{Ryour soul{x--------------
+------------------------------------
+~
+#31268
+token favor dark lord tokenfavor~
+the {Dfavor{x of the {Dd{ra{Drk{x {Dlo{rr{Dd{x~
+A {Dblack{x {Ds{gic{yk{Dly{x looking token with {Rr{re{Rd{x {Re{ry{Res{x.~
+metal~
+token PU A
+0 0 0 0 0
+5 1 10 100
+#0
+
+
+
+#ROOMS
+#31200
+{DA Haunted Forest{x~
+{DA long dirt path stretches out before you.  Tall trees line the path
+{Dahead, creating long shadows on the ground.  The sound of animals is faint
+{Dhere, almost as if they care not to proceed any further.  Perhaps you should
+{Dfollow their lead and turn back now.  {x 
+{DThere is a broken {Wsign{D here with something on it.{x
+~
+0
+A 4
+E
+sign~
+The sign leans a bit to the side, the writting very hard to read.  What
+part you can make out read, "{R...  Find the key to continue on....  Stopping
+at this point would be wrong.  {x" 
+~
+D0
+~
+~
+4096 4096
+0 0 31201
+S
+#31201
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31214
+D1
+~
+~
+4096 4096
+0 0 31215
+D2
+~
+~
+4096 4096
+0 0 31200
+D3
+~
+~
+4096 4096
+0 0 31202
+S
+#31202
+{DNearing A House{x~
+{DThe air turns cold and misty here, the only light that from the full moon
+{Dshinning through the branches of the trees above.  Up ahead can be seen a
+{Dtall, rickety building, dark and empty yet one light seems to shine from a
+{Dwindow.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31203
+D1
+~
+~
+4096 4096
+0 0 31201
+D2
+~
+~
+4096 4096
+0 0 31226
+D3
+~
+~
+4096 4096
+0 0 31227
+S
+#31203
+{DThe Steps Of The House{x~
+{DThe steps underneath your feet creek as you move up them, one breaking
+{Dbeneath your weight but somehow you manage to move on unharmed.  The door
+{Dbefore you is cracked open and as you near it swings wide to allow you
+{Dentrance.  {x 
+~
+0
+A 4
+D0
+~
+~
+1 1
+1 0 31204
+D2
+~
+~
+4096 4096
+0 0 31202
+S
+#31204
+{DHaunted House{x~
+{DThe air is stark and cold upon your skin, the room is dark as night.  It
+{Ddoesn't appear as if there are any doors but a curving stairwell makes its
+{Dway up to the next floor.  {x 
+~
+0
+A 0
+D0
+~
+~
+4099 4099
+1 0 31206
+D2
+~
+~
+1 1
+1 0 31203
+D4
+~
+~
+0 0
+0 0 31205
+D5
+~
+~
+4099 4099
+1 0 31213
+S
+#31205
+{DDark Hallway{x~
+{DA long hallway stretches out before you, doors on either side, each
+{Dclosed and different sounds arizing from behind them.  {x 
+~
+0
+A 0
+D1
+~
+~
+3 3
+1 0 31208
+D2
+~
+~
+0 0
+0 0 31209
+D3
+~
+~
+3 3
+1 0 31207
+D5
+~
+~
+0 0
+0 0 31204
+S
+#31206
+{DOut Back{x~
+{DYou have left the house, and perhaps safety, behind.  Out in the open
+{Dwoods anything could be lurking.  The sound of a wolf can be heard nearby
+{Dand in fact, it seems to be growing nearer.  {x 
+~
+0
+A 4
+D2
+~
+~
+4099 4099
+1 0 31204
+S
+#31207
+{DA Dark Room{x~
+{DThe room lay before you, empty and chill.  A soft sound of low moaning
+{Dseems to float on the air, surrounding you, engulfing you.  {x 
+~
+0
+A 0
+D1
+~
+~
+3 3
+1 0 31205
+S
+#31208
+{DA Dark Room{x~
+{DThe room is dark and a faint stench is on the air.  The sound of growling
+{Dalerts you to the rooms inhabitant before you see him.  {x 
+~
+0
+A 0
+D3
+~
+~
+3 3
+1 0 31205
+S
+#31209
+{DDark Hallway{x~
+{DA long hallway stretches out before you, doors on either side, each
+{Dclosed and different sounds arizing from behind them.  {x 
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 31205
+D1
+~
+~
+3 3
+1 0 31211
+D3
+~
+~
+3 3
+1 0 31210
+D4
+~
+~
+4097 4097
+1 0 31212
+S
+#31210
+{DA Dark Room{x~
+{DThe room is filled with strange electrical equipment and a long, metal
+{Dtable takes up the center of the room.  Upon it lies a large male creature
+{Dwho when you enter rises to stand above you, towering like a giant.  {x 
+~
+0
+A 0
+D1
+~
+~
+3 3
+1 0 31209
+S
+#31211
+{DA Dark Room{x~
+{DEerie music fills the air as you enter this room.  Sitting in the corner
+{Dof the room is an old organ, its rusty pipes setting forth the eerie sounds.
+{DPlaying with his back to you is a tall man, a black cape covering his
+{Dshoulders.  A mirror is beside the organ and when he looks up, you can see a
+{Dwhite mask which covers half of his face.  {x 
+~
+0
+A 0
+D3
+~
+~
+3 3
+1 0 31209
+S
+#31212
+{DA Dark Room{x~
+{DThe room is dark and cold, almost as if blocks of ice were layered here. 
+{DThe wooden floors creak beneath your feet as you move about.  Shadows are
+{Dcast all over the room, hiding anything that may be lurking inside.{x
+~
+0
+0 0
+D5
+~
+~
+4097 4097
+1 0 31209
+S
+#31213
+{DThe Basement{x~
+{DA pair of rickety old stairs lead down to the dark depths beneath the
+{Dhouse.  The smell of freshly dug dirt is heavy on the air and can be felt
+{Dbeneath your feet as you move further into the room.  Nearby is a large,
+{Dwooden {Wco{wff{Win{D, oddly it has been left open.  {x 
+~
+0
+A 0
+E
+coffin~
+On the side of the coffin there is a plaque which reads, "The {Rk{Ye{Ry{x is the
+{Ws{Decre{Wt{x to {Ddepths{x below, hold onto it tight, on the {mride{x you must go.  To
+begin your little journey say {cyes{x, or say {cno{x!  
+~
+D4
+~
+~
+4099 4099
+1 0 31204
+D5
+~
+~
+12327 12327
+2 31216 31251
+S
+#31214
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31239
+D2
+~
+~
+4096 4096
+0 0 31201
+S
+#31215
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31216
+D1
+~
+~
+4096 4096
+0 0 31217
+D2
+~
+~
+4096 4096
+0 0 31218
+D3
+~
+~
+4096 4096
+0 0 31201
+S
+#31216
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31244
+D2
+~
+~
+4096 4096
+0 0 31215
+S
+#31217
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31220
+D2
+~
+~
+4096 4096
+0 0 31237
+D3
+~
+~
+4096 4096
+0 0 31215
+S
+#31218
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31215
+D1
+~
+~
+4096 4096
+0 0 31221
+S
+#31219
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+AC 4
+D0
+~
+~
+0 0
+0 0 31234
+S
+#31220
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31245
+D1
+~
+~
+4096 4096
+0 0 31222
+D2
+~
+~
+4096 4096
+0 0 31217
+S
+#31221
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D3
+~
+~
+4096 4096
+0 0 31218
+S
+#31222
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.   Between the limbs
+{Dof the looming trees the white color of a building can be seen.{x
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31223
+D3
+~
+~
+4096 4096
+0 0 31220
+S
+#31223
+{DBefore A Crypt{x~
+{DThe looming trees about you part here, leaving just enough room for a
+{Dlarge, white building.  The stone is thick and strong, yet cracked and
+{Dchipped, showing the wear of time.  The door is large and made of a thick
+{Diron, a large lock is in place to keep intruders out.  Carved into the stone
+{Dabove the door are some words in a long forgotten language.{x
+~
+0
+A 3
+D1
+~
+~
+3 3
+1 0 31224
+D3
+~
+~
+4096 4096
+0 0 31222
+S
+#31224
+{DInside The Crypt{x~
+{DThe inside of the crypt is dark and dank, cobwebs can be seen in the
+{Dcorners of the open area, and a thick layer of dust covers the many
+{Dsarcophagus.  The sounds of little creatures running across the stone floor
+{Dcan be heard, along with the creaking of the door behind you.  In the far
+{Dcorner of the room a deep crevice can be seen, cold air escaping from
+{Dbeneath.{x
+~
+0
+A 0
+D3
+~
+~
+3 3
+1 0 31223
+S
+#31225
+{DBeneath The Crypt{x~
+{DYou find yourself deep within the ground, the dirt hard packed and
+{Dcold beside you.  Following the crevice deeper it finally widens to a large
+{Dcavern.  A mound of fresh dug dirt can be seen in the center of the cavern,
+{Dresting atop it is an old wood coffin, the top of which has been opened.  {x
+~
+0
+AC 0
+S
+#31226
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31202
+D2
+~
+~
+4096 4096
+0 0 31235
+S
+#31227
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31228
+D1
+~
+~
+4096 4096
+0 0 31202
+D2
+~
+~
+4096 4096
+0 0 31230
+D3
+~
+~
+4096 4096
+0 0 31229
+S
+#31228
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D2
+~
+~
+4096 4096
+0 0 31227
+D3
+~
+~
+4096 4096
+0 0 31231
+S
+#31229
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31227
+D2
+~
+~
+4096 4096
+0 0 31232
+S
+#31230
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31227
+S
+#31231
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31228
+S
+#31232
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodinglly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Ahead through the trees specks of white and brown can be seen as you approach
+{Dan old graveyard.{x
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 31229
+D2
+~
+~
+4096 4096
+0 0 31234
+D3
+~
+~
+4096 4096
+0 0 31233
+S
+#31233
+{DA Graveyard{x~
+{DThe trees part here onto a large, grassy knoll.  In the center of the
+{Darea is a stone statue of a tall figure with wings coming off her back, arms
+{Dand face raised to the skies.  The stone has been worn with time and
+{Dweather, the color more gray than white, green moss growing in the cracks. 
+{DAll around the statue rest tombstones in the ground, where people were
+{Dburied hundreds of years ago.{x
+~
+0
+A 3
+D1
+~
+~
+4096 4096
+0 0 31232
+S
+#31234
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31232
+D2
+~
+~
+0 0
+0 0 31219
+S
+#31235
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31226
+D1
+~
+~
+4096 4096
+0 0 31236
+S
+#31236
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D3
+~
+~
+4096 4096
+0 0 31235
+S
+#31237
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31217
+D1
+~
+~
+4096 4096
+0 0 31238
+S
+#31238
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D3
+~
+~
+4096 4096
+0 0 31237
+S
+#31239
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31240
+D2
+~
+~
+4096 4096
+0 0 31214
+S
+#31240
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31241
+D3
+~
+~
+4096 4096
+0 0 31239
+S
+#31241
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31243
+D2
+~
+~
+4096 4096
+0 0 31240
+D3
+~
+~
+4096 4096
+0 0 31242
+S
+#31242
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31241
+S
+#31243
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D3
+~
+~
+4096 4096
+0 0 31241
+S
+#31244
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D3
+~
+~
+4096 4096
+0 0 31216
+S
+#31245
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31246
+D2
+~
+~
+4096 4096
+0 0 31220
+S
+#31246
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D1
+~
+~
+4096 4096
+0 0 31249
+D2
+~
+~
+4096 4096
+0 0 31245
+D3
+~
+~
+4096 4096
+0 0 31247
+S
+#31247
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31248
+D1
+~
+~
+4096 4096
+0 0 31246
+S
+#31248
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D2
+~
+~
+4096 4096
+0 0 31247
+S
+#31249
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D0
+~
+~
+4096 4096
+0 0 31250
+D3
+~
+~
+4096 4096
+0 0 31246
+S
+#31250
+{DThe Haunted Forest{x~
+{DThe path continues along here, leading further into the dark forest which
+{Dseems to rise forbodingly about you.  The air is still and cold about you,
+{Dno sound floating nearby.  The further you move, the closer everything
+{Dfeels.  Something seems to scrape along your arm and leg, almost as if
+{Dgrabbing for it, but when you turn, nothing is there.  {x 
+~
+0
+A 4
+D2
+~
+~
+4096 4096
+0 0 31249
+S
+#31251
+{DBefore the Gates of Hell{x~
+Large gates engulfed with flames block the path further down.  The
+darkness is heavy here, strangling the light.  Vapors and ghosts fly around
+screaming in agony and pain see you here in that bag of flesh.  On all sides
+of where you are standing is molten lava making sure that you have no
+direction in which to run.  
+~
+0
+0 0
+D4
+~
+~
+12327 12327
+2 0 31213
+S
+#31252
+Beginning of the ride~
+As you appear here the heavy fog begins to shift slightly settling
+quickly around your feet.  Dark and gloomy trees block the east and west of
+you, while a large wall, with the image of the GateKeeper carved into it. 
+To the north all there is is darkness.  
+~
+0
+KNV 0
+D0
+~
+~
+12327 12327
+2 31220 31253
+S
+#31253
+On the ride~
+Entering the room the dence trees continue to block your view on the
+right and the left.  Now before you, you can see a light, but it is very
+faint, while the darkness has enveloped the way you came.  Screaming and
+moaning echo through the heavy air, with other strange noises filling in
+around them.  
+~
+0
+KNV 0
+D0
+~
+~
+0 0
+0 0 31254
+D2
+~
+~
+12327 12327
+2 0 31252
+S
+#31254
+On the ride~
+The darkness clears slightly as the trees falls away from your path
+opening up into a small field.  Blood is smeared on everything here.  Body
+parts have been strewn across your path, with corpses lying all over.  Dark,
+almost human forms can be seen in the shadows moving quickly.  
+~
+0
+KNV 0
+D2
+~
+~
+0 0
+0 0 31253
+D3
+~
+~
+0 0
+0 0 31255
+S
+#31255
+On the ride~
+Crashing through the wall you find ourself in a very large room with
+dolls of every size looking at you.  Shelves line the walls that you didn't
+come through.  Each covered with very lifelike dolls, starting at you. 
+Their eyes staying on you as you come to a stop in the mniddle of the room. 
+Looking up you see what looks like a chandalier with large glass spikes
+floating back and forth in the air due to the disturbance you have caused. 
+Suddenly the dolls begin to move, the metal daggers gripped in their hands
+now gleaming in the light.  
+~
+0
+KNV 0
+D0
+~
+~
+0 0
+0 0 31256
+D1
+~
+~
+0 0
+0 0 31254
+S
+#31256
+On the ride{x~
+Crashing through another wall of the house and back out into the yard the
+grounds open up again into a full array of circus equipment.  The large
+bigtop tents are off to side, with the animal cages right next to them.  The
+animals look a bit strange though.  Each one seems to be loosing the flesh
+from its bones.  Blood oozing from the open wounds, the stench of death
+thinker hear than elsewhere on this ride.  Ghosts of dead mortals are
+floating across the field letting out loud screams as they find their own
+body dismembered and spoiling on the ground.  Suddenly music begins to fill
+the air, drowning out the screams of the anguished souls.  
+~
+0
+KNV 0
+D0
+~
+~
+0 0
+0 0 31257
+D2
+~
+~
+0 0
+0 0 31255
+S
+#31257
+End of the Ride~
+The forest closes back in around you, as the darkness begins to choke out
+the light here.  The animals sounds, and all the other horrific sounds are
+all now coming from behind you.  Fog quickly fills the rooms bringing a very
+ominous and heavy feeling with it.  The stench of death is less noticable
+here, but that more because you have gotten accustomed to the smell than
+anything else.  A lone bright star can be seen above you clearly, as shadowy
+figures begin to move quickly around the room.  
+~
+0
+KNV 0
+D2
+~
+~
+0 0
+0 0 31256
+D4
+~
+~
+4096 4096
+0 0 31258
+S
+#31258
+Atop of a mountain.~
+The light is very bright here, and the ground is very solid.  Large pine
+trees and larger rocks cover the ground with a small path leading off to the
+west, heading you further up the mountain side.  The air is a bit thin, and
+dried blood patches can be seen all over the area.  The birds in the trees
+sing intermitently stopping each time you make any sound.  The smell of
+blood is heavy, and may draw other animals here looking for food.  I
+wouldn't stay here for very long.  
+~
+0
+X 5
+E
+dt~
+{RB{rl{Rood{x {rspu{Rrts{x from your {rwounds{x, which are pretty {Yse{yrio{Yus{x and continue to
+cause you more and more {Rpain{x each second you are here.  
+~
+D0
+~
+~
+4096 4096
+0 0 31258
+D2
+~
+~
+4096 4096
+0 0 31258
+D3
+~
+~
+4096 4096
+0 0 31259
+S
+#31259
+Further up the mountain~
+The path continues up the mountain through trees and rocks.  Blood
+follows the same trail along with footprints heading in every direction. 
+The trees are blocking out more of the light here and the birds can no
+longer be heard.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 31260
+D1
+~
+~
+4096 4096
+0 0 31258
+S
+#31260
+Further up the mountain~
+The path continues up the mountain through the trees and rocks.  Trails
+of blood follow the trail along with footprints that head in every
+direction.  The trees block out even more of the light here, and the silence
+is getting deafening.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 31259
+D3
+~
+~
+0 0
+0 0 31261
+S
+#31261
+Before the shrine~
+Rissing before you is a huge shrine build into the mountain.  There is a
+large clearing of sand right in the middle of the room where you have to
+cross to get to the entrance.  The trees are very thick on both sides making
+it impossible to make your way through them.  
+~
+0
+X 5
+E
+dt~
+You begin to {Ysink{x into the {ydirt{x as you stand here, the {yqu{Dicksa{ynd{x sucking
+the {Rl{Wif{Re{x from your {rdamaged{x body.  
+~
+D0
+~
+~
+0 0
+0 0 31262
+D1
+~
+~
+0 0
+0 0 31260
+S
+#31262
+Within the Shrine~
+The entire building is very bright, but no torches or lights can be seen
+anything.  The thick marble on the floors, walls, and ceiling cause an echo
+of each footstep you take.  There is no dirt, or blood traces anywhere
+inside the building as the floors remain prefectly spotless even with you
+walking on them.  There are no windows, but three hallways, each heading in
+a different direction.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 31265
+D1
+~
+~
+0 0
+0 0 31263
+D2
+~
+~
+0 0
+0 0 31261
+D3
+~
+~
+0 0
+0 0 31264
+M 100 H 0
+S
+#31263
+A worship room~
+The echoes continue to bounce on the pristine marble.  And the room is
+very well lit, but again there are no sources of light that can been seen. 
+Painting have been created on each of the three walls depicting images that
+pay homage to the statue sitting in the middle of the room.  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 31262
+S
+#31264
+A worship room~
+The echoes continue to bounce on the pristine marble.  And the room is
+very well lit, but again there are no sources of light that can been seen. 
+Painting have been created on each of the three walls depicting images that
+pay homage to the statue sitting in the middle of the room.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 31262
+S
+#31265
+A worship room~
+The echoes continue to bounce on the pristine marble.  And the room is
+very well lit, but again there are no sources of light that can been seen. 
+Painting have been created on each of the three walls depicting images that
+pay homage to the statue sitting in the middle of the room.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 31262
+D4
+~
+~
+12327 12327
+2 31220 31266
+S
+#31266
+Falling down the Mountain~
+This side of the mountain has only a few trees on it, but many large
+rocks.  Blood stains can been seen on the edges as well as rotted and broken
+body parts that the birds havn't gotten to you.  The air has a sweet smell
+too it, and with your current rate of decent it is quite chilly.  
+~
+0
+CUV 5
+S
+#0
+
+
+
+#SPECIALS
+M 31213 spec_channeler_hard
+M 31215 spec_channeler_hard
+M 31219 spec_poison
+M 31222 spec_channeler_offensive
+M 31223 spec_blademaster
+M 31224 spec_channeler_offensive
+M 31225 spec_channeler_offensive
+M 31226 spec_duelling
+M 31227 spec_blademaster
+M 31228 spec_channeler_hard
+M 31234 spec_channeler_hard
+M 31236 spec_duelling
+M 31237 spec_channeler_hard
+M 31238 spec_blademaster
+M 31267 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 31204 0 1
+D 0 31204 5 1
+D 0 31205 1 1
+D 0 31205 3 1
+D 0 31206 2 1
+D 0 31207 1 1
+D 0 31208 3 1
+D 0 31209 1 1
+D 0 31209 3 1
+D 0 31210 1 1
+D 0 31211 3 1
+D 0 31213 4 1
+D 0 31213 5 2
+D 0 31223 1 1
+D 0 31224 3 1
+D 0 31251 4 2
+D 0 31252 0 2
+D 0 31253 2 2
+D 0 31265 4 2
+M 0 31214 1 31200 1
+M 0 31215 1 31206 1
+M 0 31225 1 31207 1
+G 0 31216 0
+E 0 31204 0 23
+M 0 31220 1 31208 1
+M 0 31211 10 31210 1
+M 0 31221 1 31211 1
+E 0 31208 0 19
+M 0 31228 1 31212 1
+G 0 31216 0
+E 0 31201 0 8
+E 0 31207 0 19
+E 0 31212 0 0
+O 0 31207 0 31213
+P 0 31208 1 31207 1
+P 0 31209 1 31207 1
+P 0 31210 1 31207 1
+P 0 31211 1 31207 1
+M 0 31226 1 31219 1
+E 0 31218 0 20
+G 0 31216 0
+E 0 31203 0 25
+M 0 31213 1 31221 1
+O 0 31214 0 31224
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+M 0 31207 10 31224 10
+O 0 31215 0 31225
+M 0 31209 1 31225 1
+G 0 31216 0
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31208 10 31225 10
+M 0 31200 1 31225 1
+M 0 31224 1 31231 1
+G 0 31216 0
+E 0 31205 0 10
+O 0 31217 0 31233
+P 0 31216 1 31217 1
+M 0 31210 10 31233 5
+E 0 31213 0 4
+M 0 31210 10 31233 5
+E 0 31213 0 4
+M 0 31210 10 31233 5
+M 0 31210 10 31233 5
+M 0 31210 10 31233 5
+E 0 31213 0 4
+M 0 31210 5 31233 5
+M 0 31210 5 31233 5
+M 0 31210 5 31233 5
+M 0 31210 5 31233 5
+M 0 31227 1 31236 1
+E 0 31219 0 20
+G 0 31216 0
+E 0 31200 0 1
+M 0 31223 1 31238 1
+E 0 31219 0 20
+G 0 31216 0
+E 0 31206 0 14
+M 0 31216 1 31242 1
+M 0 31222 1 31243 1
+E 0 31218 0 20
+G 0 31216 0
+E 0 31202 0 5
+E 0 31210 0 19
+M 0 31217 1 31244 1
+E 0 31211 0 19
+M 0 31218 10 31248 2
+M 0 31219 1 31250 1
+M 0 31200 1 31250 1
+M 0 31229 1 31251 1
+M 0 31230 1 31252 1
+E 0 31220 0 19
+M 0 31231 1 31253 1
+M 0 31232 1 31254 1
+M 0 31233 1 31255 1
+M 0 31234 1 31256 1
+M 0 31235 1 31257 1
+O 0 31226 0 31258
+M 0 31218 10 31259 10
+E 0 31221 0 19
+M 0 31218 10 31259 10
+E 0 31221 0 19
+M 0 31218 10 31259 10
+E 0 31221 0 19
+M 0 31218 10 31259 10
+E 0 31221 0 19
+M 0 31211 10 31260 10
+E 0 31222 0 19
+M 0 31211 10 31260 10
+E 0 31222 0 19
+M 0 31211 10 31260 10
+E 0 31222 0 19
+O 0 31227 0 31261
+O 0 31228 0 31262
+M 0 31236 1 31263 1
+E 0 31218 0 20
+M 0 31238 1 31264 1
+E 0 31219 0 20
+M 0 31237 1 31265 1
+E 0 31219 0 20
+E 0 31225 0 19
+E 0 31220 0 5
+M 0 31266 1 31266 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,838 @@
+#AREADATA
+Name Queen's Blessings Inn~
+Builders Kitiara~
+VNUMs 600 699
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#600
+Basel Gill Innkeeper Master Fat Pink-faced man~
+Basel Gill~
+A fat, pink-faced man in a starched {Wwhite{x apron makes sure the inn runs smoothly
+~
+~
+andoran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#601
+master chef~
+a Master Chef~
+A Master Chef stands here preparing his latest creation.
+~
+~
+andoran~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+B 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#602
+sleeping woman~
+a sleeping woman~
+A woman sleeps in the bed, snoring softly in her slumber.
+~
+~
+mayener~
+AB RW 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 R
+sleep sleep female 350
+0 0 medium 'flesh'
+#603
+wise one woman wiseone~
+a Wise One~
+A woman dressed in long, tan skirts and a billowing blouse is here.
+~
+This woman is dressed in loose, billowing clothing.  She wears a scarf
+around her long, reddish hair, and many strands of jewels.  She has an air
+of authority about her and seems to be waiting, impatiently, for something. 
+~
+aiel~
+AB 0 0 0
+79 69 40d40+6241 79d10+100 8d17+39 none
+0 0 0 0 0
+B
+4 4 4 4
+0 0 0 R
+stand stand female 240
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#600
+bowl soup~
+a steaming bowl of soup~
+a bowl of soup lies discarded hear, steam still eminating from it~
+wood~
+food 0 A
+4 4 0 A 0
+0 1 15 100
+#601
+fireplace fire~
+a large {Dstone{x {rfi{Rre{Yp{Rla{rce{x~
+A large {Dstone{r fi{Rre{Yp{Rla{rce{x is here, its {rf{Rl{Ya{Rm{re{x spreading revitalizing warmth.~
+stone~
+furniture AO P
+999 16777215 ADGJ 200 200
+91 32767 0 100
+#602
+table tables chair chairs~
+a {ytable{x~
+A number of {ytables{x and {ychairs{x fills the room.~
+wood~
+furniture O P
+50 20000 DGJ 125 125
+0 0 0 100
+#603
+roast potatoes plate~
+a plate of roast and potatoes~
+A thick slice of roast surrounded by steaming potatoes.~
+roast~
+food 0 A
+5 5 0 0 0
+1 1 25 100
+#604
+oven stone~
+a {Dmassive{x stone oven~
+A {Dmassive{x stone oven is here, radiating {Rheat{x throughout the kitchen.~
+stone~
+container O P
+10000 A 0 10 100
+0 0 0 100
+#605
+iced lemon cup~
+a cup of iced lemon~
+A cup of iced lemon drink has been set here.~
+lemon~
+drink 0 AO
+5 5 'lemonade' 0 0
+0 1 10 100
+#606
+glass red sherry~
+a glass of red sherry~
+A glass of red sherry sparkles in the light.~
+glass~
+drink 0 0
+2 2 'sherry' 0 0
+10 1 40 100
+#607
+loaf bread~
+a loaf of bread~
+A large loaf of fresh baked bread is here.~
+flour~
+food 0 AO
+3 3 0 0 0
+1 1 10 100
+#608
+table oak chair~
+a green cushioned chair~
+A large, rectangular table of solid oak surrounded by matching chairs.~
+cloth~
+furniture 0 0
+8 100000 EH 120 130
+0 0 0 100
+#609
+bookshelves bookshelve bookshelf bookcase book case~
+a bookcase~
+Large bookshelves line the walls of the room.~
+cloth~
+container 0 0
+10 0 0 100000 25
+0 0 0 100
+#610
+game stones~
+a game of stones~
+A game of Stones has been set up on a small table.~
+stone~
+trash 0 AO
+0 0 0 0 0
+1 1 500 100
+#611
+chest~
+a small chest~
+A small chest is here, resting unobtrustively in the corner.~
+cloth~
+container Ca A
+5000 AC 0 5000 1
+10 32767 0 100
+#612
+cabinet wooden~
+a {ywooden{x cabinet~
+A {ywooden{x cabinet stands near the door.~
+cloth~
+container a P
+5000 AC 0 5000 1
+10 32767 0 100
+#613
+small wooden key~
+a small wooden key~
+A small wooden key strung on a thin string.~
+wood~
+key 0 AC
+0 0 0 0 0
+0 0 0 100
+#614
+king bed~
+a king sized bed~
+A king sized bed covered with a {mc{Mom{Wfor{Mte{mr{x and matching {Wp{Mi{mll{Mow{Ws{x.~
+cloth~
+furniture 0 0
+2 10000 EHK 140 150
+0 0 0 100
+#615
+sungwood bed~
+a sungwood bed~
+A king-sized sungwood bed with a lacy canopy.~
+cloth~
+furniture 0 0
+2 1000000 EHK 200 200
+0 0 0 100
+#616
+full sized bed~
+a full sized bed~
+A full sized bed for one, covered with a simple bedspread.~
+cloth~
+furniture 0 0
+1 1000 EHK 150 150
+0 0 0 100
+#617
+narrow bed~
+a narrow bed~
+A narrow bed with fresh {Wlinen{x sheets is resting against the wall.~
+cloth~
+furniture 0 0
+1 1000 EHK 120 120
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#600
+Barn Yard~
+A sturdy fence surrounds a large yard next to the Inn, farm animals and
+horses held within its arms.  A rather large cow with black and white spots
+stands beside a pile of hay, slowly chewing a mouthful, small strands of hay
+hanging from its mouth.  A rather large oak tree rises above the Inn, its
+limbs spreading wide over the area, spreading shade over the ground below. 
+A few chickens run around the yard, pecking here and there at grasshoppers
+and ants that crawl upon the ground.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 601
+D1
+~
+~
+3 3
+1 0 602
+S
+#601
+The Stables of the Laughing Cow Inn~
+The smell of hay and manure fill the air as you stroll into the stables
+of the Laughing Cow Inn.  Half a dozen stalls line the north and west walls,
+a few of which are occupied by the horses of the inn's patrons.  To the
+south a large door leads out to the Inn's yard, and to the east the sounds
+of music and the buzz of a crowd wafts through a narrow door leading into
+the common room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 603
+D2
+~
+~
+3 3
+1 0 600
+S
+#602
+{WThe {rL{Rau{rgh{Ri{rng {bC{Bo{bw {BI{bnn{x~
+Resting on the southern end of the {gC{Gar{Yal{Gai{gn Gr{Ga{gss{x is a small inhabited
+area.  The tall grass that makes up the plains area has been cleared out
+around a small {BI{bnn {xthat has been built here along the Tar Valon road between
+Caemlyn and the great city of Tar Valon.  The Inn is built of river stones
+on the first level, with brightly painted wooden shingles on the second. 
+The roof has been made of dried grass gathered from the area, pretty wooden
+lattices adorning the sides of the Inn with colorful flowers blooming along
+its length.  A tall barn and stable yard are to the west of the Inn.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 603
+D3
+~
+~
+3 3
+1 0 600
+S
+#603
+Common Room of the Laughing Cow Inn~
+Large and paneled with dark wood, the common room of the Laughing Cow Inn
+welcomes you with comforting warmth.  Circular oaken tables with
+accompanying chairs fills the room, bustling with patrons.  Serving girls
+weave their way through the crowd, arms loaded with food and drink, and one
+smiles at you warmly.  A swinging door to the east leads to the kitchen, a
+wooden door to the west opens into the stables, and to the north you can see
+a warmly lit hallway leading deeper into the inn.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 604
+D1
+~
+~
+1 1
+1 0 605
+D2
+~
+~
+3 3
+1 0 602
+D3
+~
+~
+3 3
+1 0 601
+S
+#604
+A Warmly Lit Hallway~
+Dark paneled wood and the occasional lamp mounted on the wall filling the
+air with golden light give this narrow hallway a warm ambiance that is very
+relaxing.  Doors to the east and west from here open into a pair of private
+dining rooms for high-profile guests.  The hall continues northward and to
+the south the sound of music and the buzz of a crowd can be heard from the
+common room.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 608
+D1
+~
+~
+3 3
+1 0 606
+D2
+~
+~
+1 1
+1 0 603
+D3
+~
+~
+3 3
+1 0 607
+S
+#605
+The Kitchen~
+Stepping into the bustling kitchen, the delicious smells of baking bread,
+sizzling meats, spices, and other foods fills your senses.  The heat of the
+massive stone oven warms your face even as a scullion girl frowns at you for
+the intrusion.  A state of ordered chaos fills the room as a number of cooks
+ply their trade, and you are only in the way.  The common room is to the
+west.  
+~
+0
+D 0
+D3
+~
+~
+1 1
+1 0 603
+S
+#606
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the west leads back into the warmly lit hallway.  
+~
+0
+CDJ 0
+D3
+~
+~
+3 3
+1 0 604
+S
+#607
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the east leads back into the warmly lit hallway.  
+~
+0
+CDJ 0
+D1
+~
+~
+3 3
+1 0 604
+S
+#608
+A Warmly Lit Hallway~
+Dark paneled wood and the occasional lantern mounted on the wall filling
+the air with golden light give this narrow hallway a warm ambiance that is
+very relaxing.  Doors to the east and west from here open into a pair of
+private dining rooms for high-profile guests.  The hall continues northward
+where a staircase can be seen leading up into the second floor of the inn,
+and to the south the sound of faint music can be heard.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 611
+D1
+~
+~
+3 3
+1 0 609
+D2
+~
+~
+0 0
+0 0 604
+D3
+~
+~
+3 3
+1 0 610
+S
+#609
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the west leads back into the warmly lit hallway.  
+~
+0
+CDJ 0
+D3
+~
+~
+3 3
+1 0 608
+S
+#610
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the east leads back into the warmly lit hallway.  
+~
+0
+CDJ 0
+D1
+~
+~
+3 3
+1 0 608
+S
+#611
+A Warmly Lit Hallway~
+The hallway ends here at a large staircase leading up into the second
+floor of the inn.  To the east, you catch the faint smell of books, and a
+small door to the west leads into what appears to be a storage room.  The
+hallway leads southward from here, where the sound of faint music can be
+heard.  
+~
+0
+D 0
+D0
+~
+~
+7 7
+2 613 614
+D1
+~
+~
+1 1
+1 0 612
+D2
+~
+~
+0 0
+0 0 608
+D3
+~
+~
+3 3
+1 0 613
+D4
+~
+~
+0 0
+0 0 615
+S
+#612
+A Small Library~
+Shelves lining the walls filled with books marks this room as the library
+of the Laughing Cow Inn.  Clothbound, leatherbound with gilded spines, even
+a few with wooden covers, your eyes pick out well known titles among the
+hundreds of books in the room.  The smell of old paper, characteristic of
+all libraries, fills the air.  A small door to the west leads back into the
+warmly lit hallway.  
+~
+0
+CDK 0
+D3
+~
+~
+1 1
+1 0 611
+S
+#613
+A Storage Room~
+Barrels and boxes leaning against the wall crowd the floor of this
+storage room.  A small wooden cabinet stands against the door, and in the
+far corner a chest covered in a thin layer of dust rests unobtrusively.  A
+small window on the north wall fills the room with a single bar of sunlight.
+A small door leads east back into the warmly lit hallway.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 611
+S
+#614
+Innkeeper's Room~
+This room seems to be where the Innkeeper spends his nights.  The room is
+sparsely furnished, a small, cozy looking bed is against the north wall
+beneath a large window.  Against the east wall is a small table, atop of
+which is a basin and pitcher of water for washing up.  A wardrobe contains
+all of the Inkeeper's clothing and a chest seems to contain the rest of his
+belongings.  
+~
+0
+D 0
+D2
+~
+~
+7 7
+2 613 611
+S
+#615
+Warmly Lit Hallway~
+Dark paneled wood and the occasional lantern mounted on the wall filling
+the air with golden light give this narrow hallway a warm ambiance that is
+very relaxing.  To the east you see a door that goes into one of the Inn's
+bedroom's usually used for people with less coin to pay for a decent room
+while to the west is a bedroom for high-profile guests 
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 617
+D2
+~
+~
+0 0
+0 0 618
+D3
+~
+~
+3 3
+1 0 616
+D5
+~
+~
+0 0
+0 0 611
+S
+#616
+A Large, Richly-Furnished Room~
+The room is large and open, a pair of matching windows open to let in
+fresh air, the curtains billowing on the breeze.  A large, king sized bed
+sets between the windows, a thick comforter and matching pillows laying upon
+it.  Covering most of the floor is a Tairen rug, and a small table is
+against the wall, writing implements set out for whoever is renting the room
+for the night.  
+~
+0
+DJ 0
+D1
+~
+~
+3 3
+1 0 615
+S
+#617
+A Small Room~
+This room is small and the furnishing is simple yet everything is neatly
+in place and the room is sparkling clean.  The bed is narrow but the white
+linens covering it look pristine.  There is a window with the glass spotless
+so the outside can be seen even though the view isn't a great one.  An alley
+with upturned barrels and some mud splaterred on the wall.  A small wooden
+table and a chair stands opposite to the bed and a pitcher and washing basin
+filled with water on the table.  
+~
+0
+DJ 0
+D3
+~
+~
+3 3
+1 0 615
+S
+#618
+A Warmly Lit Hallway~
+Dark paneled wood and the occasional lantern mounted on the wall filling
+the air with golden light give this narrow hallway a warm ambiance that is
+very relaxing.  To the east and west are doors that enter into some of the
+Inn's bedrooms that are for rent.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 615
+D1
+~
+~
+3 3
+1 0 619
+D2
+~
+~
+0 0
+0 0 621
+D3
+~
+~
+3 3
+1 0 620
+S
+#619
+A Large Room~
+The door opens to a good sized room, yet the furnishing is simple.  The
+bed is a good size, yet made for one.  There is a window with the glass
+spotless so the outside can be seen even though the view isn't a great one. 
+An alley with upturned barrels and some mud splaterred on the wall.  A small
+wooden table and a chair stands opposite to the bed and a pitcher and
+washing basin filled with water on the table.  
+~
+0
+DJ 0
+D3
+~
+~
+3 3
+1 0 618
+S
+#620
+A Small Room~
+Even though the room is rather small in size, it has a rather cozy
+feeling to it.  A small bed has been pushed against the wall and a woolen
+rug is on the floor beside it.  A small table rests across from the bed, a
+basin and water pitcher resting atop it.  The room looks to be currently in
+use, as the bed is rumpled, someone sleeping underneath the covers.  
+~
+0
+DJ 0
+D1
+~
+~
+3 3
+1 0 618
+S
+#621
+A Warmly Lit Hallway~
+Dark paneled wood and the occasional lantern mounted on the wall filling
+the air with golden light give this narrow hallway a warm ambiance that is
+very relaxing.  To the east and west are doors that enter into some of the
+Inn's bedrooms that are for rent.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 618
+D1
+~
+~
+3 3
+1 0 622
+D3
+~
+~
+3 3
+1 0 623
+S
+#622
+A Small Room~
+This room is small and the furnishing is simple yet everything is neatly
+in place and the room is sparkling clean.  The bed is narrow but the white
+linens covering it look pristine.  There is a window with the glass spotless
+so the outside can be seen even though the view isn't a great one.  An alley
+with upturned barrels and some mud splaterred on the wall.  A small wooden
+table and a chair stands opposite to the bed and a pitcher and washing basin
+filled with water on the table.  
+~
+0
+DJ 0
+D3
+~
+~
+3 3
+1 0 621
+S
+#623
+A Large Well-Appointed Room~
+This room is rather fancily furnished and probably the fanciest room in
+the Inn.  A king-sized sungwood bed with high posters and a lacy canopy
+rests in the center of the room.  A decorative rug covers the entire floor
+of the room and Sea Folk porcelain vases adorn the shelves attached to a
+wall.  A dainty vanity, with a large, shiny mirror standing over it, has
+been set against the south wall.  
+~
+0
+DJ 0
+D1
+~
+~
+3 3
+1 0 621
+S
+#0
+
+
+
+#SPECIALS
+M 603 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 600 0 1
+D 0 600 1 1
+D 0 601 1 1
+D 0 601 2 1
+D 0 602 0 1
+D 0 602 3 1
+D 0 603 2 1
+D 0 603 3 1
+D 0 604 1 1
+D 0 604 3 1
+D 0 606 3 1
+D 0 607 1 1
+D 0 608 1 1
+D 0 608 3 1
+D 0 609 3 1
+D 0 610 1 1
+D 0 611 0 2
+D 0 611 3 1
+D 0 613 1 1
+D 0 614 2 2
+D 0 615 1 1
+D 0 615 3 1
+D 0 616 1 1
+D 0 617 3 1
+D 0 618 1 1
+D 0 618 3 1
+D 0 619 3 1
+D 0 620 1 1
+D 0 621 1 1
+D 0 621 3 1
+D 0 622 3 1
+D 0 623 1 1
+M 0 600 1 603 1
+G 0 603 0
+G 0 600 0
+G 0 605 0
+E 0 613 0 5
+G 0 606 0
+O 0 601 0 603
+O 0 602 0 603
+M 0 601 1 605 1
+O 0 604 0 605
+P 0 607 1 604 1
+O 0 608 0 606
+O 0 608 0 607
+O 0 608 0 609
+O 0 608 0 610
+O 0 609 0 612
+O 0 610 0 612
+O 0 611 0 613
+O 0 612 0 613
+O 0 614 0 616
+O 0 617 0 617
+O 0 616 0 619
+M 0 602 1 620 1
+O 0 617 0 622
+M 0 603 1 623 1
+O 0 615 0 623
+S
+
+
+
+#SHOPS
+600 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

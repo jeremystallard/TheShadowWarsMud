@@ -1,0 +1,200 @@
+#AREADATA
+Name Fortress of Light~
+Builders None~
+VNUMs 10600 10799
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10600
+10600-10799~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 10601
+S
+#10601
+Outside the Gate to the Fortress of the Light~
+The tall stone walls of the Fortress of Light loom overhead.  The dirt has
+faded into a cut stone pathway.  Each stone was meticulously placed to create
+a checkerboard effect in the stone work.  Light and dark stones alternate
+to form the pattern.  A large stone guard post is to the east.  Another one
+is a few steps to the west.  The guards look ready to stop anyone who dares
+to enter without a good reason.
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10604
+D1
+~
+~
+0 0
+0 0 10602
+D2
+~
+~
+0 0
+0 0 10600
+D3
+~
+~
+0 0
+0 0 10603
+S
+#10602
+Guard Post~
+This large guard post has stark cold walls.  There is no furniture in
+this room except a small wooden desk in the corner.  Presumably, this is
+where all the reports are filled out at the end of each guard's shift. 
+There are no windows in this room.  Light is provided by several oil lamps
+hung from iron hook on the wall.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 10601
+S
+#10603
+Guard Post~
+This large guard post has stark cold walls.  There is no furniture in
+this room except a small wooden desk in the corner.  Presumably, this is
+where all the reports are filled out at the end of each guard's shift. 
+There are no windows in this room.  Light is provided by several oil lamps
+hung from iron hook on the wall.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10601
+S
+#10604
+At The Gate Of The Fortress Of The Light~
+The heavy iron bars of the gates show no signs of rusting.  The gates appears
+to lower from a large recess in the stone above the walkway.  A wooden
+door is at the right side of the gate and appears to be another way through
+to the other side.  The walls on either side make this part of the entrance
+ominous to any who have not entered through the gate before.  The guards
+stop each wagon and large group going through the gate.
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10605
+D2
+~
+~
+0 0
+0 0 10601
+S
+#10605
+Inside The Gate~
+This path is just inside the heavy iron gate to the Fortress of the
+Light.  The stone walls of the Fortress loom overhead and to each side.  The
+ground is a cut stone pathway.  Each stone was meticulously placed to create
+a checkerboard effect in the stone work.  Light and dark stones alternate to
+form the pattern.  To the north is the entry to the lower bailey where all
+the merchant go to sell their wares.  To the south is the gate to the
+Fortress.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10606
+D2
+~
+~
+3 3
+1 0 10604
+S
+#10606
+The Entry To The Lower Bailey~
+The stone pathway ends and the dirt begins again.  The bustle of troops and
+merchants that supply the Fortress rather difficult.  The noise of a blacksmith
+banging on an anvil can be heard somewhere nearby of the bustle of the crowds.
+The walls open up into the lower bailey where all the merchants and tradesmen
+do their business with the Children of the Light.  Gate guards try to keep the
+crowds moving and look for pick pockets or thieves.
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 10607
+D2
+~
+~
+0 0
+0 0 10605
+S
+#10607
+A Secret Passageway~
+~
+0
+0 0
+D3
+~
+~
+4096 4096
+0 0 10606
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 10604 0 1
+D 0 10605 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

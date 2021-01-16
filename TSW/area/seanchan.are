@@ -1,0 +1,4372 @@
+#AREADATA
+Name Seanchan Encampment~
+Builders Kesin Tyreal~
+VNUMs 20700 20900
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 32
+Version 2
+End
+
+
+
+#MOBILES
+#20700
+servant~
+a domani servant~
+A Domani servant stands here, holding a tray.
+~
+~
+domani~
+AG 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+0
+2 2 2 2
+0 0 0 0
+stand stand female 5
+0 0 medium 'unknown'
+#20701
+deathwatch guard~
+a deathwatch guard~
+A deathwatch guard stands here, guarding the blood.
+~
+~
+seanchan~
+ABT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+0
+6 6 6 6
+0 0 0 0
+stand stand male 30
+0 0 medium 'unknown'
+#20702
+grolm~
+a {DG{gr{Go{gl{Dm{x~
+A large, three-eyed {Dc{gre{Gat{gur{De{x is tearing apart his meal.
+~
+~
+unique~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+AOV 0 EF 0
+stand stand either 0
+AG ACDEFHKU huge 'flesh'
+#20703
+morat morat'grolm moratgrolm~
+a {rM{yo{Dr{ya{rt{D'{DG{gr{Go{gl{Dm{x~
+A {rM{yo{Dr{ya{rt{D'{DG{gr{Go{gl{Dm{x is putting fresh straw into an empty cage.
+~
+~
+seanchan~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+IN 0 0 QR
+stand stand either 20
+0 0 medium 'flesh'
+#20704
+corlm~
+a {DC{yo{Yr{yl{Dm{x~
+A tall {Dc{yre{Yat{yur{De{x appearing like a flightless bird.
+~
+~
+unique~
+AB 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 QR
+stand stand either 0
+AGW ACDEFHPQU huge 'flesh'
+#20705
+morat morat'corlm moratcorlm~
+a {rM{yo{Dr{ya{rt{D'C{yo{Yr{yl{Dm{x~
+A {rM{yo{Dr{ya{rt{D'C{yo{Yr{yl{Dm{x walks through the area, checking on the beasts within.
+~
+~
+seanchan~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 QR
+stand stand either 20
+0 0 medium 'flesh'
+#20706
+raken~
+a {DR{wa{Wk{we{Dn{x~
+A silvery-colored, winged {Dc{wre{Wat{wur{De{x is crouching over a nest.
+~
+~
+unique~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+IM 0 0 0
+stand stand either 0
+AG ACDEFHKPQU huge 'flesh'
+#20707
+no name~
+a {rM{yo{Yr{ya{rt{D'R{wa{Wk{we{Dn{x~
+A {rM{yo{Yr{ya{rt{D'R{wa{Wk{we{Dn{x is busy mucking out a cage.
+~
+~
+seanchan~
+ABT 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+IN 0 0 QR
+stand stand either 20
+0 0 medium 'flesh'
+#20708
+toraken to'raken~
+a {yT{Do'{yR{Da{yk{De{yn{x~
+A rather large, winged {ycr{Dea{yt{Du{yre{x is crouching here.
+~
+~
+unique~
+AB 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+A
+5 5 5 5
+HM 0 0 QR
+stand stand none 0
+AG ACDEFHKPQU giant 'flesh'
+#20709
+morat~
+a {rM{yo{Yr{ya{rt{D'{yT{Do'{yR{Da{yk{De{yn{x~
+A {rM{yo{Yr{ya{rt{D'{yT{Do'{yR{Da{yk{De{yn{x is tending to an injured wing.
+~
+~
+seanchan~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+K 0 0 QR
+stand stand either 20
+0 0 medium 'flesh'
+#20710
+torm~
+a {rT{yor{rm{x~
+A three-eyed, scaly {rcr{ye{Dat{yur{re{x is sleeping.
+~
+~
+unique~
+AB 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+MO 0 E 0
+stand stand either 0
+0 0 huge 'flesh'
+#20711
+morat~
+a {rM{yo{Yr{ya{rt{D'{rT{yor{rm{x~
+A {rM{yo{Yr{ya{rt{D'{rT{yor{rm{x is filing the nails of an angry {rT{yor{rm{x.
+~
+~
+seanchan~
+ABT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 QR
+stand stand either 20
+0 0 medium 'flesh'
+#20712
+lopar~
+a {yL{ro{Rp{ra{yr{x~
+A hulking {ycr{re{Ratu{rr{ye{x with horned ridges around its eyes.
+~
+~
+unique~
+AB 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 none
+0 0 0 0 0
+A
+4 4 4 4
+ACO 0 E 0
+stand stand either 0
+AG ACDEFHJKU giant 'flesh'
+#20713
+morat~
+a {rM{yo{Yr{ya{rt{D'{yL{ro{Rp{ra{yr{x~
+A {rM{yo{Yr{ya{rt{D'{yL{ro{Rp{ra{yr{x moves amongst the cages.
+~
+~
+seanchan~
+AT 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 none
+0 0 0 0 0
+A
+4 4 4 4
+IN 0 0 QR
+stand stand either 20
+0 0 medium 'flesh'
+#20714
+damane~
+{DD{wa{Wma{wn{De{x~
+Kneeling on the pallet is a dark-haired animal.
+~
+~
+seanchan~
+AB 0 0 0
+88 78 45d46+7744 88d10+100 9d17+44 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 QR
+stand stand female 0
+0 0 medium 'flesh'
+#20715
+sul'dam suldam~
+a {bS{Bu{Rl{Y'{Rd{Ba{bm{x~
+A {bS{Bu{Rl{Y'{Rd{Ba{bm{x is preparing for her daily duties.
+~
+~
+seanchan~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+IW 0 0 QR
+stand stand female 30
+0 0 medium 'flesh'
+#20716
+sailor~
+a {bs{Ba{Wil{Bo{br{x~
+A {bs{Ba{Wil{Bo{br{x is catching a nap on one of the bunk beds.
+~
+~
+seanchan~
+AB 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 none
+0 0 0 0 0
+A
+1 1 1 1
+I 0 R Q
+stand stand either 10
+0 0 medium 'flesh'
+#20717
+woman cook head~
+the Head {WCook{x~
+An overly rounded {Wwoman{x wearing a white apron.
+~
+~
+seanchan~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+I 0 0 QR
+stand stand female 10
+0 0 medium 'flesh'
+#20718
+deathwatch guard~
+a {DDe{gat{Ghw{gat{Dch{x {DG{gua{Drd{x~
+A {DDe{gat{Ghw{gat{Dch{x {DG{gua{Drd{x stands watch by the door.
+~
+~
+ogier~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+ACDU 0 E QR
+stand stand male 30
+0 0 huge 'flesh'
+#20719
+da'covale dacovale~
+a {Wda{Y'{Wcovale{x~
+Kneeling by the wall is a {Wda{Y'{Wcovale{x.
+~
+~
+seanchan~
+AB 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 QR
+stand stand either 0
+0 0 medium 'flesh'
+#20720
+hawk eitan~
+a {rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywk{x~
+Resting on a wooden perch is a large, {rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywk{x, his eyes watching those who enter the room.
+~
+~
+unique~
+ABI T 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+M 0 R Q
+stand stand male 0
+AGW ACDEFKPQU small 'feathers'
+#20722
+captain morat~
+the {yD{re{yr{W'{rM{yo{Yr{ya{rt{x Captain~
+Standing with her arms crossed, the {yD{re{yr{W'{rM{yo{Yr{ya{rt{x Captain supervises those under her.
+~
+~
+seanchan~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh blood'
+#20723
+grolm~
+a {DG{gr{Go{gl{Dm{x~
+A large, three-eyed {Dc{gre{Gat{gur{De{x is tearing apart his meal.
+~
+~
+unique~
+AI 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+O 0 E 0
+stand stand either 0
+AG ACDEFHKU huge 'flesh'
+#20724
+corlm~
+a {DC{yo{Yr{yl{Dm{x~
+A tall {Dc{yre{Yat{yur{De{x appearing like a flightless bird.
+~
+~
+unique~
+ABI 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+I 0 E QR
+stand stand either 0
+AGW ACDEFHPQU huge 'flesh'
+#20725
+raken~
+a {DR{wa{Wk{we{Dn{x~
+A silvery-colored, winged {Dc{wre{Wat{wur{De{x is crouching over a nest.
+~
+~
+unique~
+ABZ 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+M 0 P 0
+stand stand either 0
+AG ACDEFHKPQU huge 'flesh'
+#20726
+toraken to'raken~
+a {yT{Do'{yR{Da{yk{De{yn{x~
+A rather large, winged {ycr{Dea{yt{Du{yre{x is crouching here.
+~
+~
+unique~
+ABZ 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+0
+5 5 5 5
+M 0 P 0
+stand stand none 0
+AG ACDEFHKPQU giant 'flesh'
+#20727
+torm~
+a {rT{yor{rm{x~
+A three-eyed, scaly {rcr{ye{Dat{yur{re{x is sleeping.
+~
+~
+unique~
+ABI 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+O 0 E 0
+stand stand either 0
+0 0 huge 'flesh'
+#20728
+lopar~
+a {yL{ro{Rp{ra{yr{x~
+A hulking {ycr{re{Ratu{rr{ye{x with horned ridges around its eyes.
+~
+~
+unique~
+ABI 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+C 0 E 0
+stand stand either 0
+AG ACDEFHJKU giant 'flesh'
+#0
+
+
+
+#OBJECTS
+#20700
+black lacquer scale mail~
+black lacquered scale mail shirt~
+A black lacquered scale mail shirt lies here, untouched.~
+steel~
+armor 0 AD
+25 25 20 5 0
+75 30 150 100
+#20701
+black lacquer breast plate breastplate~
+a black lacquered breastplate~
+A black lacquered breastplate lies here, covered in dirt.~
+steel~
+armor 0 AD
+30 30 25 5 0
+90 50 270 100
+A
+2 3
+#20702
+black lacquer chain gauntlets~
+a pair of black lacquered chain gauntlets~
+A pair of black lacquered chain gauntlets lie here, in the dirt.~
+steel~
+armor 0 AH
+25 25 20 5 0
+75 5 90 100
+#20703
+black lacquer gauntlets~
+a pair of black lacquered gauntlets~
+A pair of black lacquered gauntlets lie here, in the dirt.~
+steel~
+armor 0 AH
+30 30 25 5 0
+90 7 125 100
+A
+1 3
+#20704
+black steel toe boots~
+a pair of black, steel-toed boots~
+A pair of black, steel-toed boots stand here, in the corner.~
+steel~
+armor 0 AG
+20 20 30 5 0
+75 7 78 100
+A
+2 3
+#20705
+black lacquer boots~
+a pair of black lacquered boots~
+A pair of black lacquered boots lie here, in the corner.~
+steel~
+armor 0 AG
+30 25 30 5 0
+90 10 99 100
+#20706
+black chain sleeves~
+a pair of black, chainmail sleeves~
+A pair of black, chainmail sleeves lie here, untouched.~
+steel~
+armor 0 AI
+25 20 25 5 0
+75 7 75 100
+#20707
+black lacquer greaves~
+a pair of black lacquered greaves~
+A pair of black lacquered greaves lie here, on a table.~
+steel~
+armor 0 AI
+30 25 25 10 0
+90 9 103 100
+#20708
+black leggings~
+a pair of black leggings~
+A pair of black leggings lie here, covered in dust.~
+iron~
+armor 0 AF
+20 20 25 10 0
+75 5 68 100
+#20709
+black lacquer leggings~
+a pair of black lacquered leggings~
+A pair of black lacquered leggings lie here, untouched.~
+steel~
+armor 0 AF
+30 20 25 15 0
+90 9 90 100
+#20710
+black insect helm~
+a black insect-like helm~
+A black insect-like helm lies here, collecting dust.~
+steel~
+armor 0 AE
+20 30 20 5 0
+75 4 75 100
+#20711
+black lacquer insect helmet~
+a black lacquered, insect-like helmet~
+A black lacquered, insect-like helmet stands here, in the dirt.~
+steel~
+armor 0 AE
+25 35 25 5 0
+90 7 88 100
+A
+5 2
+#20712
+black insect mandibles~
+a black insect-like mandible~
+A black insect-like mandible lies here.~
+steel~
+armor 0 AV
+30 25 25 0 0
+75 3 45 100
+#20713
+black lacquer insect mandible~
+a black lacquered, insect-like mandible~
+A black lacquered, insect-like mandible lies here.~
+steel~
+armor 0 AV
+25 35 25 5 0
+90 5 66 100
+A
+5 1
+#20714
+black wrist guard~
+a black wrist guard~
+A black wrist guard lies here, untouched.~
+iron~
+armor 0 AM
+25 25 25 0 0
+75 2 45 100
+#20715
+black lacquer wrist guard~
+a black lacquered wristguard~
+A black lacquered wristguard lies here, collecting dust.~
+steel~
+armor 0 AM
+25 25 35 5 0
+90 4 65 100
+A
+1 2
+#20716
+black neck guard~
+a black neck guard~
+A black neck guard lies here, untouched.~
+steel~
+armor 0 AC
+20 30 20 5 0
+75 2 30 100
+#20717
+black lacquer neck guard~
+a black lacquered neckguard~
+A black lacquered neckguard lies here, in the dirt.~
+steel~
+armor 0 AC
+25 35 25 5 0
+90 4 60 100
+A
+4 2
+#20718
+three eye ring~
+a silver, three-eyed ring~
+A silver, three-eyed ring lies here, shining brightly.~
+silver~
+jewelry 0 AB
+0 0 0 0 0
+90 1 30 100
+A
+19 2
+A
+4 2
+#20719
+lightning bolt earring~
+a small, lightning bolt earring~
+A small, lightning bolt earring lies here, shining in the dirt.~
+gold~
+jewelry 0 AU
+0 0 0 0 0
+90 1 100 100
+#20720
+standard backpack~
+a standard imperial backpack~
+A standard imperial backpack hangs here, from a peg.~
+leather~
+container 0 AS
+500 AC 0 0 0
+90 3 60 100
+#20721
+black lacquer belt~
+a black lacquered, belt~
+A black lacquered, belt lies hee, coiled neatly.~
+steel~
+armor 0 AL
+20 30 30 10 0
+90 5 70 100
+A
+3 2
+#20722
+black handled sword~
+a black handled sword~
+A black handled sword hangs here, on the wall.~
+iron~
+weapon 0 AN
+sword 8 13 'slash' 0
+75 5 175 100
+A
+19 9
+#20723
+black hafted spear~
+a black-hafted spear~
+A black-hafted spear stands here against the wall.~
+iron~
+weapon 0 AN
+spear 8 13 'pierce' 0
+75 0 0 100
+A
+19 9
+#20724
+curved sword~
+a black lacquered, slightly curved sword~
+A black lacquered, slightly curved sword hangs here on the wall.~
+steel~
+weapon AB AN
+exotic 10 15 'slash' F
+90 15 300 100
+A
+19 5
+#20725
+black hafted asrendari~
+a black-hafted ashrendari~
+A black-hafted ashrendari stands here, against the wall.~
+steel~
+weapon 0 AN
+exotic 10 15 'pierce' F
+90 7 200 100
+A
+19 4
+#20726
+blue dress~
+a {bb{Blu{be{x dress with a {Ylightning bolt{x~
+A {bb{Blu{be{x dress with a {Ylightning bolt{x hangs here, on a peg.~
+wool~
+armor 0 AD
+25 25 20 10 0
+80 3 86 100
+A
+3 3
+#20727
+shiny bracelet a'dam~
+a {wshiny{x bracelet~
+A {wshiny{x bracelet lies here, linked to a {wshiny{x collar.~
+silver~
+jewelry 0 AM
+0 0 0 0 0
+80 1 90 100
+#20728
+grey dress~
+a grey dress~
+A grey dress hangs here, on a peg.~
+wool~
+armor 0 AD
+20 15 20 5 0
+60 0 0 100
+#20729
+shiny collar~
+a shiny collar~
+A {wshiny{x collar lies here, connected to a {wshiny{x bracelet~
+silver~
+jewelry 0 AC
+0 0 0 0 0
+60 1 30 100
+#20730
+two black raven tattoo~
+two black ravens~
+Some ink has been dropped here.~
+ink~
+armor 0 AR
+30 25 20 15 0
+90 1 10 100
+A
+18 9
+A
+2 2
+#20731
+pallet~
+a {Wpallet{x~
+Laying on the floor is a small, somewhat uncomfortable {Wpallet{x.~
+cloth~
+furniture 0 0
+1 15000 EHK 90 90
+0 0 0 100
+#20732
+bed~
+a wood-framed {Bb{We{Bd{x~
+A simple, wood-framed bed with a thick {bb{Bl{Wa{Yn{Wk{Be{bt{x.~
+cloth~
+furniture 0 0
+1 20000 EHK 100 100
+0 0 0 100
+#20733
+ancient lamp~
+an ancient looking {yl{Yam{yp{x~
+An ancient looking {yl{Yam{yp{x stands here on a table.~
+cloth~
+light 0 A
+0 0 999 0 0
+85 5 300 100
+A
+18 5
+#20734
+bunk bed beds~
+a {ybunk {Db{we{Dds{x~
+Three sets of {ybunk {Db{we{Dds{x line the room, leaving little floor space between.~
+cloth~
+furniture 0 0
+3 50000 EHK 100 100
+0 0 0 100
+#20735
+black cloak~
+a black silk cloak~
+A black silk cloak hangs here, from a peg.~
+silk~
+armor 0 AK
+20 25 35 10 0
+90 5 150 100
+A
+19 5
+A
+18 5
+#20736
+aura pain~
+an aura of pain~
+A shimmering stands here.~
+air~
+treasure 0 AQ
+0 0 0 0 0
+90 10 100 100
+A
+3 2
+#20737
+cup kaf~
+a steaming cup of {Dk{ya{Df{x~
+A {cp{Cor{Wcel{Cai{cn{x tea cup and matching dish.~
+kaf~
+drink 0 A
+5 5 'coffee' 0 0
+1 1 15 100
+#20738
+bowl rice~
+a {cb{Co{cwl{x of steamed {Wrice{x~
+A {cb{Co{cwl{x of steamed {Wrice{x.~
+cloth~
+food 0 A
+5 5 0 0 0
+1 1 25 100
+#20739
+spicy chicken rice dish~
+a {rs{Rpic{ry{x chicken and {ybr{wo{ywn{x rice dish~
+A {rs{Rpic{ry{x chicken and {ybr{wo{ywn{x rice dish.~
+cloth~
+food 0 A
+7 7 0 0 0
+1 1 35 100
+#20740
+tables benches bench~
+a wooden {Db{we{Dnch{x~
+Long rows of wooden {yt{wa{ybl{we{ys{x and {Db{we{Dnch{we{Ds{x line the room.~
+cloth~
+furniture 0 0
+20 9000000 E 100 100
+0 0 0 100
+#20741
+bed~
+a bed in the wall~
+A small, bed-sized cubicle in the wall.~
+cloth~
+furniture a 0
+8 90000 HK 100 100
+0 0 0 100
+#20742
+table chairs chair~
+a low-backed {Ych{Wai{Yr{x~
+Securely attached to the floor is a small round {ytable{x and {Ych{Wai{Yrs{x.~
+cloth~
+furniture 0 0
+8 900000 E 100 100
+0 0 0 100
+#20743
+tub~
+an {Wivory{x tub filled with {rh{Ro{rt{x, {cst{Cea{cmy{x water~
+Resting atop the silk {Dc{ba{Brp{be{Dt{x is a large, {Wivory{x tub.~
+ivory~
+furniture 0 0
+2 400000 FI 150 150
+0 0 0 100
+#20744
+cabinet~
+a {yc{Yab{Wi{Yne{yt{x set in the wall~
+A small cabinet set into the wall of ship.~
+cloth~
+container a 0
+100 AC 0 100 100
+0 0 0 100
+#20745
+towel~
+a fluffy {bto{Bwel{x~
+A large, fluffy {bto{Bwel{x has been folded neatly.~
+cloth~
+armor S AKO
+3 3 1 3 0
+10 1 45 100
+#20746
+loofa sponge~
+a loofa {Ysp{Won{Yge{x~
+A large loofa {Ysp{Won{Yge{x has been set here.~
+loofa~
+trash S AO
+0 0 0 0 0
+0 1 10 100
+#20747
+bottle scented soap~
+a bottle of scented {Ws{roa{Wp{x~
+A small bottle of liquid, scented {Ws{roa{Wp{x,~
+glass~
+trash S AO
+0 0 0 0 0
+0 1 15 100
+#20748
+sleigh bed~
+a king-sized {rsl{yei{rgh{x bed~
+A king-sized {rsl{yei{rgh{x bed covered with a {Dc{bo{Bmf{Wo{Brt{be{Dr{x and matching {Wp{Bi{bll{Bo{Wws{x.~
+cloth~
+furniture 0 0
+4 900000 EHK 175 175
+0 0 0 100
+#20749
+peg~
+a {ypeg{x on the wall~
+A peg on the wall.~
+wood~
+container a 0
+10 0 0 100 100
+0 0 0 100
+#20750
+chest~
+a {ychest{x of {ydr{ra{yw{re{yrs{x~
+A chest of drawers.~
+cloth~
+container a 0
+2 0 0 100 100
+0 0 0 100
+#20751
+night robe~
+a {Ds{bi{Blk{be{Dn{x night robe~
+A {Ds{bi{Blk{be{Dn{x night robe is hanging here.~
+silk~
+armor S AD
+2 3 3 2 0
+10 1 350 100
+#20752
+straight razor~
+a long-handled straight {Dr{wa{Wz{wo{Dr{x~
+A long-handled straight {Dr{wa{Wz{wo{Dr{x.~
+steele~
+trash Y AO
+0 B ABC 0 0
+10 1 10 100
+#20753
+stiff brush~
+a stiff-bristled {Wbrush{x~
+A stiff-bristled {Wbrush{x.~
+horse hair~
+trash S AO
+0 0 0 0 0
+0 1 10 100
+#20754
+jar cream~
+a {cpo{Crc{We{Cla{cin{x jar of cream~
+A small {cpo{Crc{We{Cla{cin{x jar of cream.~
+porcelain~
+trash 0 AO
+0 0 0 0 0
+0 1 25 100
+#20755
+chiffonier~
+a {rch{yif{Yfo{yni{rer{x behind the {cscr{Cee{cn{x~
+A chiffonier is behind the screen.~
+wood~
+container a 0
+10 0 0 100 100
+0 0 0 100
+#20756
+trousers~
+a pair of {Wpleated{x, silk {Dtr{wo{Wus{we{Drs{x~
+A pair of {Wpleated{x, silk {Dtr{wo{Wus{we{Drs{x.~
+silk~
+armor Y AF
+2 2 3 3 0
+10 1 250 100
+#20757
+robes~
+long flowing {bro{Bbes{x of silk, the hem embroidered with {Wcranes{x~
+Long flowing {bro{Bbes{x of silk, the hem embroidered with {Wcranes{x.~
+silk~
+armor S AK
+2 2 3 3 0
+10 1 400 100
+#20758
+sash~
+a wide, white {Wsash{x of silk~
+A wide, white {Wsash{x of silk.~
+silk~
+armor S AL
+3 3 2 2 0
+10 1 250 100
+#20759
+sleeping pad~
+a comfortable {Wsl{Cee{Wping{x pad behind the {cscr{Cee{cn{x~
+A sleeping pad.~
+cloth~
+furniture a 0
+1 30000 EHK 100 100
+0 0 0 100
+#20760
+table~
+a long wooden {ytable{x~
+A long wooden table with {co{grn{Gat{gel{cy{x carved legs.~
+cloth~
+furniture 0 0
+0 1000 N 0 0
+0 0 0 100
+#20761
+chest~
+a rectangular {Dc{wh{We{ws{Dt{x~
+A large rectangular {Dc{wh{We{ws{Dt{x, a delicate {Wcrane{x engraved in the top, is here.~
+steel~
+container a AO
+2 ACD 20770 10 100
+0 2 200 100
+#20762
+figurine shea dancer~
+a figurine of a {rsh{Rea{x dancer~
+A delicate figurine of a {rsh{Rea{x dancer.~
+clay~
+trash 0 AO
+0 0 0 0 0
+0 1 750 100
+E
+dancer~
+The figurine is of a {rsh{Rea{x dancer, posed with one leg up near her ear, toe
+pointed, both her arms move over her head, leaning towards the raised leg,
+forming a soft, gentle curve with her body.  {rSh{Ree{rr{x clothing drapes over her
+lithe body.  
+~
+#20763
+glass figurine crane~
+a glass figurine of a {Wcrane{x~
+A glass figurine, nearly a foot tall, of a pure white {Wcrane{x.~
+glass~
+trash 0 AO
+0 0 0 0 0
+0 1 800 100
+E
+crane~
+This figurine of {cgl{Ca{css{x is nearly a foot in height.  A pure white {Wcrane{x is
+standing on a rock surrounded by water, his neck is long and graceful, his
+wings spread wide and beak pointing towards the sky.  
+~
+#20764
+screen~
+a {cscr{Cee{cn{x~
+A screen.~
+cloth~
+container a 0
+10 0 0 100 100
+0 0 0 100
+#20765
+chair~
+a high-backed {ychair{x is here~
+A high-backed {ychair{x is here.~
+cloth~
+furniture 0 0
+3 9000000 E 100 100
+0 0 0 100
+#20766
+platter~
+a {Ds{wi{Wlv{we{Dr{x-worked platter~
+A {Ds{wi{Wlv{we{Dr{x-worked platter.~
+silver~
+container a AO
+1 0 0 100 100
+0 1 75 100
+#20767
+kettle~
+a {bk{Be{btt{Bl{be{x of {Dkaf{x~
+A delicately curved {bk{Be{btt{Bl{be{x rests on the {Dpl{wa{Wt{wte{Dr{x.~
+porcelain~
+drink 0 AO
+50 50 'kaf' 0 0
+0 0 0 100
+#20768
+cup~
+a porcelain {bc{Bup{x~
+A small, curved porcelain {bc{Bup{x and {bs{Bau{bc{Be{br{x.~
+porcelain~
+drink 0 AO
+5 5 'kaf' 0 0
+0 1 25 100
+#20769
+dish fruit~
+a dish of fresh {rfr{Rui{rt{x~
+A small dish of fresh fruit.~
+cloth~
+food 0 AO
+5 5 0 0 0
+0 1 25 100
+#20770
+silver key~
+a {Ds{wi{Wlv{we{Dr{x-embossed key~
+A small, {Ds{wi{Wlv{we{Dr{x-embossed key.~
+silver~
+key 0 AO
+0 0 0 0 0
+0 0 0 100
+#20771
+cabinet~
+a small {yc{ra{Rbin{re{yt{x behind the {Cscr{Wee{Cn{x~
+A small cabinet.~
+cloth~
+container a 0
+2 0 0 100 100
+0 0 0 100
+#20772
+hood~
+a leather {yh{ra{ywk{x hood~
+A small,leather hood for the {yh{ra{ywk{x.~
+leather~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+#20773
+jesses~
+leather {Dj{re{yss{re{Ds{x~
+A set of leather {Dj{re{yss{re{Ds{x used for hawking.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+#20774
+wooden cage~
+a wooden {yc{Ya{yge{x behind the {Cscr{Wee{Cn{x~
+A wooden cage.~
+cloth~
+container a 0
+2 0 0 100 100
+0 0 0 100
+#20775
+rat~
+a {Wwhite{x rat with {Db{rea{Ddy{x eyes~
+A large, white rat with beady eyes.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 1 0 100
+#20776
+porcelain platter~
+a {Dpo{grc{Gel{ga{Din{x platter~
+A {Dpo{grc{Gel{ga{Din{x platter, topped with a {gt{Gea {Dk{ge{Gtt{gl{De{x and matching {gc{Gu{gps{x and {Ds{ga{Guce{gr{Ds{x.~
+porcelain~
+container Sa AO
+1 0 0 100 100
+0 1 350 100
+#20777
+tea kettle~
+a {gt{Gea {Dk{ge{Gtt{gl{De{x~
+A porcelain {gt{Gea {Dk{ge{Gtt{gl{De{x has been set here.~
+porcelain~
+drink 0 AO
+30 30 'kaf' 0 0
+0 1 300 100
+#20778
+cup~
+a porcelain {gc{Gu{gp{x~
+A tiny porcelain {gc{Gu{gp{x and matching {Ds{ga{Guc{ge{Dr{x.~
+porcelain~
+drink 0 AO
+5 5 'kaf' 0 0
+0 1 150 100
+#20779
+screen~
+a silken {Cscr{Wee{Cn{x~
+A silken {Cscr{Wee{Cn{x.~
+silk~
+container a 0
+1 0 0 100 100
+0 0 0 100
+#20780
+chair~
+a {Dc{gus{Ghio{gne{Dd{x, low-back {ych{wai{yr{x~
+A low-backed {ych{wai{yr{x, the seat covered with a small {Dc{gu{Gshi{go{Dn{x.~
+cloth~
+furniture 0 A
+3 0 E 100 100
+0 1 0 100
+#20781
+chair~
+a high-backed {rch{ye{rrry {yw{roo{yd{x chair~
+A high-backed {rch{ye{rrry {yw{roo{yd{x chair rests atop the {Ds{gi{Glk{ge{Dn{x rug.~
+cloth~
+furniture 0 0
+1 10000000 E 120 120
+0 0 0 100
+#20782
+perch~
+a tall, wooden {yperch{x~
+A tall, wooden {yperch{x, with a carpeted platform, rests in the center of the room.~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#20783
+bedroll~
+a comfortable {Wbedroll{x~
+A small, comfortable {Wbedroll{x is on the floor here.~
+cloth~
+furniture a 0
+1 300000 EHK 125 120
+0 0 0 100
+#20784
+chest~
+a small {ychest{x~
+A small {ychest{x for the So'jhin's personal items.~
+cloth~
+container a 0
+1 0 0 100 100
+0 0 0 100
+#20785
+wardrobe~
+a {yw{ra{yrdr{ro{ybe{x behind the screen~
+A large {yw{ra{yrdr{ro{ybe{x stands behind the screen.~
+wood~
+container a 0
+2 0 0 100 100
+0 2 0 100
+#20786
+robes~
+long, flowing {Dsi{gl{Gk ro{gb{Des{x~
+Long, flowing {Dsi{gl{Gk ro{gb{Des{x have been hung here.~
+silk~
+trash 0 AK
+0 0 0 0 0
+10 1 300 100
+#20787
+slippers~
+silk {Ds{gli{Gpp{ger{Ds{x~
+A pair of silk {Ds{gli{Gpp{ger{Ds{x.~
+cloth~
+trash 0 AG
+0 0 0 0 0
+10 1 100 100
+#20788
+cart~
+a {yc{ra{yrt{x hidden behind the {Cscr{Wee{Cn{x~
+A small {yc{ra{yrt{x hidden behind the {Cscr{Wee{Cn{x.~
+cloth~
+container a 0
+1 0 0 100 100
+0 1 0 100
+#20789
+bed~
+a {yf{You{yr{D-{yp{Yo{Wst{Ye{yr{x bed~
+A king-sized {yf{You{yr{D-{yp{Yo{Wst{Ye{yr{x bed with a flowing {Dc{ga{Gno{gp{Dy{x.~
+cloth~
+furniture 0 0
+4 9000000 EHK 150 150
+0 0 0 100
+#20790
+tub~
+an {Wivory{x tub filled with {rh{Ro{rt{x water and big {cb{Cu{Wbbl{Ce{cs{x~
+Resting atop the silk {Dc{ga{Grp{ge{Dt{x is a large, {Wivory{x tub.~
+ivory~
+furniture 0 0
+2 900000 FI 150 150
+0 0 0 100
+#20791
+towel~
+a fluffy {gt{Go{Ww{Ge{gl{x~
+A large, fluffy {gt{Go{Ww{Ge{gl{x has been neatly folded.~
+wool~
+trash 0 AK
+0 0 0 0 0
+10 1 29 100
+#20792
+bottle oil~
+a bottle of softly {ys{Yce{Wn{Yte{yd{x bath oil~
+A bottle of softly {ys{Yce{Wn{Yte{yd{x bath oil.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 1 24 100
+#20793
+bench~
+a {rcu{Rsh{Wi{Ron{red {ybench{x~
+A long, wooden {ybench{x, covered with thick {rc{Rus{Whi{Ron{rs{x.~
+wood~
+furniture 0 0
+5 9000000 EHK 100 100
+0 0 0 100
+#20794
+silver blue key~
+a {Ds{wi{Wlv{we{Dr{x and {bbl{Bue{x key~
+A {Ds{wi{Wlv{we{Dr{x and {bbl{Bue{x key impressed with the visage of a white {Wcrane{x.~
+silver~
+key 0 AO
+0 0 0 0 0
+0 1 0 100
+#20795
+silver green key~
+a {Ds{wi{Wlv{we{Dr{x and {ggr{Gee{gn{x key~
+A {Ds{wi{Wlv{we{Dr{x and {ggr{Gee{gn{x key impressed with the visage of a {rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywk{x.~
+silver~
+key 0 AO
+0 0 0 0 0
+0 1 0 100
+#20796
+cart~
+a small, wooden {Dc{wa{Drt{x~
+A small, wooden {Dc{wa{Drt{x on wheels.~
+wood~
+container X A
+40 0 0 1000 100
+0 20 500 100
+#20797
+carafe wine~
+a {cc{Ca{Wra{Cf{ce{x of Seanchan {mw{ri{mne{x~
+A glass {cc{Ca{Wra{Cf{ce{x filled with a special Seanchan {mw{ri{mne{x.~
+glass~
+drink 0 AO
+10 10 'benedictine wine' 0 0
+1 1 450 100
+#20798
+tea kettle~
+a {Wwhite{x tea kettle~
+A small, {Wwhite{x tea kettle, a delicate {rr{Mo{rse{x painted upon it.~
+cloth~
+drink SY AO
+10 10 'tea' 0 0
+1 1 75 100
+#20799
+dish raspberries~
+a {bd{Bi{bsh{x filled with fresh {rr{ma{rspb{me{rrr{mie{rs{x~
+A ceramic {bd{Bi{bsh{x filled with fresh {rr{ma{rspb{me{rrr{mie{rs{x.~
+ceramic~
+container 0 AO
+1 0 0 10 100
+1 1 55 100
+#20800
+raspberry plump~
+a plump, delicious {rr{ma{rspb{me{rrry{x~
+A plump, delicious {rr{ma{rspb{me{rrry{x.~
+raspberry juice~
+food 0 AO
+3 3 0 0 0
+1 0 10 100
+#20801
+sideboard~
+a {ysideb{roa{yrd{x~
+A {ysideb{roa{yrd{x is against the north wall.~
+cloth~
+container 0 0
+200 AC 0 50 100
+0 0 0 100
+#20802
+tablecloth lace~
+a round tablecloth of {Wlace{x~
+A round tablecloth of {Wlace{x.~
+lace~
+trash 0 AO
+0 0 0 0 0
+1 1 100 100
+#20803
+silk napkin~
+a silk {Wnapkin{x~
+A silk {Wnapkin{x wrapped around silverware.~
+silk~
+trash 0 AO
+0 0 0 0 0
+1 1 50 100
+#20804
+winerack~
+a {mw{ri{mne{Dr{wa{Dck{x~
+A large {mw{ri{mne{Dr{wa{Dck{x spans the south wall.~
+metal~
+container 0 0
+1000 0 0 100 100
+0 1000 0 100
+#20805
+bottle wine seanchan~
+a {gb{Go{gttle{x of Seanchan {mw{ri{mne{x~
+A {gb{Go{gttle{x of Seanchan {mw{ri{mne{x.~
+glass~
+drink 0 AO
+20 20 'benedictine wine' 0 0
+0 1 299 100
+#20806
+bottle rose wine~
+a {gb{Go{gttle{x of {mr{Mo{mse{x wine~
+A {gb{Go{gttle{x of {mr{Mo{mse{x wine.~
+glass~
+drink 0 AO
+20 20 'rose wine' 0 0
+0 1 199 100
+#20807
+plush chair~
+a plush {Wchair{x~
+A large, plush {Wchair{x rests in the center of the room.~
+cloth~
+furniture 0 0
+1 20000 EH 120 120
+0 0 0 100
+#20808
+bed poster~
+a king-sized, {yf{You{yr{D-{yp{Yo{Wst{Ye{yr{x bed~
+A king-sized, {yf{You{yr{D-{yp{Yo{Wst{Ye{yr{x bed covered with a soft comforter.~
+cloth~
+furniture 0 0
+2 400000 EHK 150 150
+0 1000 0 100
+#20809
+sleigh bed~
+a king-sized {rsl{yei{rgh{x bed~
+A king-sized {rsl{yei{rgh{x bed covered with a comforter and matching pillows.~
+cloth~
+furniture 0 0
+2 40000 EHK 150 150
+0 1000 0 100
+#20810
+silver red key~
+a {Ds{wi{Wlv{we{Dr{x and {rr{Re{rd{x key~
+A {Ds{wi{Wlv{we{Dr{x and {rr{Re{rd{x key with the visage of a {Dt{wh{Wor{wn{Dy {rr{Ro{rse{x.~
+silver~
+key Y A
+0 0 0 0 0
+0 1 0 100
+#20811
+desk chair~
+a {yh{ri{Rgh{D-{Rba{rck{yed{x chair gilded with {rr{Ro{rs{Re{rs{x~
+A large, ornately carved desk of {yc{rh{Rer{rr{yy{x wood rests atop the {Ds{ri{Rlk{re{Dn{x rug, a medium-sized matching high-backed chair gilded with {Dt{wh{Wor{wn{Dy {rr{Ro{rs{Re{rs{x resting behind it.~
+cherrywood~
+furniture 0 0
+1 9000 EH 150 150
+0 0 0 100
+E
+desk~
+Gr The desk is made of a dark {yc{rh{Rer{rr{yy{x wood, the legs and top ornately
+carved in rounded swirls.  The center of the front of the desk has been
+carved into the form of an open {rr{Ro{rse{x, a long stem bearing two {Dt{wh{Wor{wn{Ds{x.  
+~
+#20812
+bed~
+a small {yc{rh{Rer{rr{yy{x wood bed covered with {Dr{re{Rd s{ril{Dk{x sheets and matching {Dp{ri{Rll{ro{Dws{x~
+Resting in the center of the room is a small {yc{rh{Rer{rr{yy{x wood bed covered with {Dr{re{Rd s{ril{Dk{x sheets and matching {Dp{ri{Rll{ro{Dws{x.  The center of the headboard is worked into a {yg{Yi{Wld{Ye{yd {rr{Ro{rse{x.~
+cherrywood~
+furniture 0 0
+2 18000 EHK 150 150
+0 0 0 100
+#20813
+donation chest guilded~
+a large, {yg{Yi{Wld{Ye{yd{x chest~
+A large, {yg{Yi{Wld{Ye{yd{x chest has been nailed to the {ypl{wa{ynks{x of the ship.~
+wood~
+container 0 0
+20000 0 0 500 100
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#20700
+Main Deck Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks of the ship creak with the movements of the ship as it
+rolls through the waves of the ocean.  Many different people move about the
+ship, sailors, deckhands, {DS{ru{Rl'd{ra{Dm{x leading {Dd{wa{Wma{wn{De{x with their leash.  A wooden
+stair case leads from the Main deck to the Upper deck, kneeling on the
+bottom stair are two deckhands with buckets of {cs{Coa{cpy{x water resting next to
+them as they scrub any debris from the planks.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20722
+D1
+~
+~
+3 3
+1 0 20710
+D2
+~
+~
+0 0
+0 0 20717
+D3
+~
+~
+0 0
+0 0 20718
+D4
+~
+~
+0 0
+0 0 20808
+S
+#20701
+Port Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 20713
+S
+#20702
+Captain's Quarters~
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 20703
+D2
+~
+~
+3 3
+1 0 20710
+S
+#20703
+Captain's Bedroom~
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 20702
+S
+#20704
+Starboard Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20706
+D3
+~
+~
+0 0
+0 0 20723
+S
+#20705
+UNKNOWN~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20707
+S
+#20706
+Starboard Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20711
+D3
+~
+~
+0 0
+0 0 20704
+S
+#20707
+Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20705
+D2
+~
+~
+3 3
+1 0 20708
+S
+#20708
+UNKNOWN~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20707
+S
+#20709
+Hallway~
+The hallway widens here at the top of a stairwell that leads down into
+the ship.  Back to the west is the Captain's office and the door that leads
+outside the cabin.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20710
+D5
+~
+~
+0 0
+0 0 20726
+S
+#20710
+Hallway~
+The hallway is rather wide through the cabin of the ship, having to be
+big enough for the beasts aboard the ship to get through.  The ship
+captain's office and meeting rooms are to the north and south of here, the
+hallway continues to the east.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20702
+D1
+~
+~
+0 0
+0 0 20709
+D2
+~
+~
+3 3
+1 0 20715
+D3
+~
+~
+3 3
+1 0 20700
+S
+#20711
+Starboard Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 20706
+S
+#20712
+Map Room~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20715
+S
+#20713
+Port Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20701
+D3
+~
+~
+0 0
+0 0 20714
+S
+#20714
+Port Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20713
+D3
+~
+~
+0 0
+0 0 20720
+S
+#20715
+Captain's Meeting Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20710
+D1
+~
+~
+0 0
+0 0 20712
+S
+#20716
+Port Of The Sea Hawk~
+The {Wsails{x above flap in the breeze as the ship rolls over the oceans
+waters.  Members of the {DE{gv{Ger {DVi{gcto{Grious {DA{gr{Gmy{x are lined here, making precise
+movements as they practice their forms.  The {yw{woo{yd{we{yn{x planks creak with the
+movements of the ship and members of the crew go about their daily duties. 
+Women wearing dark blue dresses with red panels lead other women around by a
+{Dl{Wea{Dsh{x, letting the {Dd{wa{Wma{wn{De{x get some fresh air.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20718
+D1
+~
+~
+0 0
+0 0 20717
+S
+#20717
+Main Deck Of The Sea Hawk~
+A strong breeze can be felt above deck on the {cS{Cea {yH{ra{ywk{x as it makes its
+way through the rolling waters of the seas.  The {yw{woo{yd{we{yn{x planks creak softly
+and the {Wsails{x above snap in the wind.  Members of the crew, sailors and
+deckhands, move around, going about their daily duties.  Soldiers of the
+{DE{gv{Ger {DVi{gcto{Grious {DA{gr{Gmy{x drill nearby going through various techniques in order
+to keep in shape during the long sail.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20700
+D2
+~
+~
+0 0
+0 0 20720
+D3
+~
+~
+0 0
+0 0 20716
+S
+#20718
+Quarterdeck~
+The {yw{woo{yd{we{yn{x planks of the ship creak as it rolls through the oceans
+waves.  Officers of the ship stand here, giving out their orders for the
+sailors.  The {Dri{wg{Wg{wi{Dng{x rises high into the air where the {Wsails{x flap in the
+wind.  Sailors move about the deck nimbly, some climbing up the rigging to
+adjust one sail or another.  Two deckhands kneel on the deck, buckets of
+{cs{Coa{cpy{x water rest next to them as they scrub the planks clean of any debris. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20721
+D1
+~
+~
+0 0
+0 0 20700
+D2
+~
+~
+0 0
+0 0 20716
+D3
+~
+~
+0 0
+0 0 20719
+D4
+~
+~
+0 0
+0 0 20806
+S
+#20719
+Stern Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak softly as the ship rolls in the oceans waters. 
+High in the air above the {Wsails{x flap in the wind, causing the {Dri{wg{Wg{wi{Dng{x to
+jerk.  The oceans water below the stern splashes up onto the deck from time
+to time as the ship dips into a wave.  Sailors and deckhands move about,
+going about their daily duties, two deckhands kneel on the deck, buckets of
+{cs{Coa{cpy{x water nearby as they scrub away any debris on the planks.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20718
+S
+#20720
+Port Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20717
+D1
+~
+~
+0 0
+0 0 20714
+S
+#20721
+Starboard Of The Sea Hawk~
+The {Wsails{x above flap in the breeze as the ship rolls over the oceans
+waters.  Members of the {DE{gv{Ger {DVi{gcto{Grious {DA{gr{Gmy{x are lined here, making precise
+movements as they practice their forms.  The {yw{woo{yd{we{yn{x planks creak with the
+movements of the ship and members of the crew go about their daily duties. 
+Women wearing dark blue dresses with red panels lead other women around by a
+{Dl{Wea{Dsh{x, letting the {Dd{wa{Wma{wn{De{x get some fresh air.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20722
+D2
+~
+~
+0 0
+0 0 20718
+S
+#20722
+Main Deck Of The Sea Hawk~
+A strong breeze can be felt above deck on the {cS{Cea {yH{ra{ywk{x as it makes its
+way through the rolling waters of the seas.  The {yw{woo{yd{we{yn{x planks creak softly
+and the {Wsails{x above snap in the wind.  Members of the crew, sailors and
+deckhands, move around, going about their daily duties.  Soldiers of the
+{DE{gv{Ger {DVi{gcto{Grious {DA{gr{Gmy{x drill nearby going through various techniques in order
+to keep in shape during the long sail.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20723
+D2
+~
+~
+0 0
+0 0 20700
+D3
+~
+~
+0 0
+0 0 20721
+S
+#20723
+Starboard Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks creak as the ship rolls over the oceans waters.  The
+{Dri{wg{Wg{wi{Dng{x of the ship jerks as the wind catches in the {Wsails{x above.  Sailors
+and deckhands move about the ship, going about their daily duties.  Two
+Sailors stand by a large mass of ropes, busily coiling them up into neat
+piles.  A row of {DS{ru{Rl'd{ra{Dm{x leading their {DD{wa{Wma{wn{De{x by their {Wa{w'd{Da{wm{W's{x are busy
+practicing their defensive weaves over the side of the ship.  Frequently
+{yli{Ygh{Wt{Yni{yng{x bolts brighten the sky though no cloud is in sight.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20704
+D2
+~
+~
+0 0
+0 0 20722
+S
+#20724
+Up the rigging~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 20725
+S
+#20725
+Crow's Nest~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 20724
+S
+#20726
+Hallway~
+A narrow stairway leads down to the first level below the deck, opening
+up to a large foyer area.  The wooden floor is covered with a {rr{Rou{rnd{x rug made
+of thick layers of silk in a shade of {rdeep sc{Ra{rrl{Re{rt{x.  In each corner of the
+foyer stands a tall {yg{Yi{Wld{Ye{yd{x mirror lamp, lighting up the area.  Hanging upon
+the west wall is a large, rectangular {cm{Ci{Wrr{Co{cr{x the frame made of {yg{Yo{yld{x.  The
+hallways lead off in all directions, moving through the rooms of the {rBl{Roo{rd{x
+that are traveling upon this ship.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20727
+D1
+~
+~
+0 0
+0 0 20728
+D2
+~
+~
+0 0
+0 0 20729
+D3
+~
+~
+0 0
+0 0 20730
+D4
+~
+~
+0 0
+0 0 20709
+D5
+~
+~
+0 0
+0 0 20751
+S
+#20727
+Hallway~
+The hallway is fairly wide through this section of the ship, the wooden
+floor covered by a long silk carpet in a {rdeep sc{Ra{rrl{Re{rt{x color.  {yG{Yi{Wld{Ye{yd{x lamps
+have been set in niches along the hallway, lighting the way for those who
+would pass through.  Hanging upon the walls are various {Dp{gic{Gtu{gre{Ds{x depicting
+the homeland of {DSe{ra{Rn{rd{Dar{x.
+~
+0
+0 0
+D1
+~
+~
+259 259
+1 20810 20732
+D2
+~
+~
+0 0
+0 0 20726
+D3
+~
+~
+3 3
+1 0 20731
+S
+#20728
+A Small Room With A View~
+This is a small room at the aft of the ship.  A thick window has been set
+into the hull, giving a good view of the {co{Cc{Wea{Cn{cs{x waters as they move behind
+the ship.  A small, round {Dt{wa{Dble{x has been set atop a rectangular rug with
+{yg{Yo{yld t{Yas{Ws{Yel{ys{x.  Two small metal-framed {Dch{wai{Drs{x with thick {yg{Yo{yld c{Yus{Whi{Yon{ys{x sit
+beside the table.  Atop the table is a {cd{Cel{Wic{Cat{ce{x vase, filled with fresh
+{ml{Mi{Wli{Me{ms{x.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20726
+S
+#20729
+Hallway~
+The hallway is fairly wide through this section of the ship, the wooden
+floor covered by a long silk carpet in a {rdeep sc{Ra{rrl{Re{rt{x color.  {yG{Yi{Wld{Ye{yd{x lamps
+have been set in niches along the hallway, lighting the way for those who
+would pass through.  Hanging upon the walls are various {Dp{gic{Gtu{gre{Ds{x depicting
+the homeland of {DSe{ra{Rn{rd{Dar{x.
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20726
+D1
+~
+~
+3 3
+1 0 20735
+S
+#20730
+Hallway~
+The hallway is fairly wide through this section of the ship, the wooden
+floor covered by a long silk carpet in a {rdeep sc{Ra{rrl{Re{rt{x color.  {yG{Yi{Wld{Ye{yd{x lamps
+have been set in niches along the hallway, lighting the way for those who
+would pass through.  Hanging upon the walls are various {Dp{gic{Gtu{gre{Ds{x depicting
+the homeland of {DSe{ra{Rn{rd{Dar{x.
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20726
+D3
+~
+~
+0 0
+0 0 20738
+S
+#20731
+Storage Room~
+The door opens to a small room where wheeled {Dc{wa{Drts{x are set up, platters
+of various foods and drinks resting atop them, along with vases of fresh
+flowers.  Anything which the Lords and Ladies upon the ship may desire.  A
+{ysideb{roa{yrd{x rests against the north wall, filled with {Wlinens{x and {Dt{ca{Dble{Dw{ca{Dre{x.  A
+large {cc{Co{cld{x food container is against the west wall, somehow kept cold
+without the use of traditional ice.  Along the south wall is a large {mw{ri{mne{x
+rack, filled with all the best vintages from {DSe{ra{Rn{rd{Dar{x.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 20727
+S
+#20732
+Anteroom To A Lord's Rooms~
+There is no furniture in this room, the only visible objects are the
+standing lamps, {yg{Yi{Wld{Ye{yd{x and {cm{Cir{Wro{Cre{cd{x to give more light to the room.  The
+wooden floor is covered by a large, oval rug made of silk.  All four
+wood-paneled walls are hidden by tall silk {cs{Ccr{Wee{Cn{cs{x.  Deathwatch Guards stand
+just inside the room and at the door to the north, always on hand to protect
+their Blood.  Da'covale line the walls, awaiting the needs and desires of
+their Blood.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20734
+D3
+~
+~
+259 259
+1 20810 20727
+S
+#20733
+A Lord's Bedchamber~
+The room is wide and open, a thick {Ds{ri{Rlk{re{Dn{x rug covering the wooden floor. 
+All four walls are {yw{Yoo{yd{Ye{yn{x, each having a tall, silk {cs{Cc{Wre{Ce{cn{x in front, each
+hand painted, depicting a battle scene.  The screen to the north wall is a
+scene of a famous General of the {gEv{Ge{gr {DVi{rct{Ror{rio{Dus A{Wrm{Dy{x leading a cavalry
+charge into the opposing infantry.  The screen to the west wall shows a
+great battle in the mountains of {DN{bo{Dr{be{Dn {mM{D'{mSh{ra{mr{x.  The screen to the south wall
+takes place in the waters of the Aryth Ocean, the naval ships firing at each
+other, the opposing ship burning in {rf{Rl{Yam{Re{rs{x.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20734
+S
+#20734
+A Lord's Sitting Room~
+The room is sparsely furnished, leaving plenty of room to move around. 
+The wooden floor is covered by a large silken rug, in the center is the
+visage of a large {Dt{wh{Wor{wn{Dy {rr{Ro{rse{x, tiny copies of which surround the outer
+sides.  In each of the four corners of the room are tall, {yg{Yi{Wld{Ye{yd {cm{Ci{Wrr{Co{cr{x
+lamps.  Many silken {cs{Ccr{We{Cen{cs{x line the walls of the room.  Resting to the east
+side of the room is a large, ornately carved desk of {yc{rh{Rer{rr{yy{x wood, a matching
+high-backed chair sitting behind it.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20732
+D3
+~
+~
+0 0
+0 0 20733
+S
+#20735
+Anteroom To A Lady's Rooms~
+There is no furniture in this room, the only visible objects are the
+standing lamps, {yg{Yi{Wld{Ye{yd{x and {cm{Cir{Wro{Cre{cd{x to give more light to the room.  The
+wooden floor is covered by a large, oval rug made of silk.  All four
+wood-paneled walls are hidden by talk silk {cs{Ccr{We{Cen{cs{x.  Deathwatch Guards stand
+just inside the room and at the door leading south, always on hand to
+protect their Blood.  Da'covale line the walls, awaiting the needs and
+desires of their Blood.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20736
+D3
+~
+~
+3 3
+1 0 20729
+S
+#20736
+A Lady's Sitting Room~
+The room is sparsely furnished, leaving plenty of room to move around. 
+The wooden floor is covered by a large rug of silk.  In each of the four
+corners of the room are tall {yg{Yi{Wld{Ye{yd {cm{Ci{Wrr{Co{cr{x lamps.  Many silken {cs{Ccr{We{Cen{cs{x line
+the walls of the room.  A large, plush chair rests in the center of the
+room.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20735
+D3
+~
+~
+0 0
+0 0 20737
+S
+#20737
+High Lady Musheko's Bedchamber~
+The room is wide and open, a thick, silken rug covering the wooden floor.
+All four walls are wooden, each having a tall, silk {cs{Cc{Wre{Ce{cn{x before it. 
+Resting in the center of the room is a king-sized, {yf{You{yr{D-{yp{Yo{Wst{Ye{yr{x bed.  Long
+flowing material forms a canopy at the top of the posters, the material at
+the side of the bed has been tied back to show a thick, soft comforter and
+matching pillows.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20736
+S
+#20738
+Hallway~
+The hallway is fairly wide through this section of the ship, the wooden
+floor covered by a long silk carpet in a {rdeep sc{Ra{rrl{Re{rt{x color.  {yG{Yi{Wld{Ye{yd{x lamps
+have been set in niches along the hallway, lighting the way for those who
+would pass through.  Hanging upon the walls are various {Dp{gic{Gtu{gre{Ds{x depicting
+the homeland of {DSe{ra{Rn{rd{Dar{x.  To the north and south are the rooms of two of the
+High Blood accompanying this ship.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 20794 20739
+D1
+~
+~
+0 0
+0 0 20730
+D2
+~
+~
+3 3
+1 20795 20743
+D3
+~
+~
+0 0
+0 0 20747
+S
+#20739
+Anteroom To High Lord Sirakor's Rooms~
+There is no furniture in this room, the only visible objects are the
+standing lamps, {yg{Yi{Wld{Ye{yd{x and {cm{Cir{Wro{Cre{cd{x to give more light to the room.  The
+wooden floor is covered by a large, {bov{Bal{x rug made of silk, a motif of {Wcranes{x
+flying around the edge while a large white {Wcrane{x spreads his wings in the
+center.  All four wood-paneled walls are hidden by tall silk {cscr{Cee{cns{x. 
+Deathwatch Guards stand just inside the room and at the door leading east,
+always on hand to protect their Blood.  Da'covale line the walls, awaiting
+the needs and desires of their Blood.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20740
+D2
+~
+~
+3 3
+1 20794 20738
+S
+#20740
+High Lord Sirakor's Sitting Room~
+The room is sparsely furnished, leaving plenty of room to move around. 
+The wooden floor is covered by a large rug of {bsi{Blk{x, a motif of flying {Wcranes{x
+decorating the rug.  In each of the four corners of the room are tall,
+{yg{Yi{Wld{Ye{yd {cm{Ci{Wrr{Co{cr{x lamps.  Many silken {cscr{Cee{cns{x line the walls of the room, each
+decorated in a motif of {Wcranes{x.  One overly-sized {Dp{bl{Bu{bs{Dh{x chair rests in the
+center of the room, looking very comfortable with rounded arm rests.  The
+room has a soft, yet masculine odor to it.  
+~
+0
+0 0
+E
+northscreen~
+Behind the {cscr{Cee{cn{x is a long {yt{ra{yble{x, resting atop it are rectangular {Dc{wh{Wes{wt{Ds{x
+of metal.  
+~
+E
+eastscreen~
+Behind the {cscr{Cee{cn{x are a few high-backed {ychairs{x made of hard wood.  
+~
+E
+southscreen~
+Behind the {cscr{Cee{cn{x is a {Ds{wi{Wlv{we{Dr{x-worked platter, topped with a {bk{Be{btt{Bl{be{x and
+matching {bcu{Bps{x and {bs{Bau{bc{Be{brs{x.  Also behind the screen is an assortment of fresh
+fruits.  
+~
+E
+westscreen~
+Behind the {cscr{Cee{cn{x is a wide {cc{Cr{Wyst{Ca{cl{x cabinet, many {Wcranes{x have been etched
+into the glass.  
+~
+D0
+~
+~
+0 0
+0 0 20741
+D3
+~
+~
+0 0
+0 0 20739
+S
+#20741
+High Lord Sirakor's Bedchamber~
+The room is wide and open, a thick, {Ds{bi{Blk{be{Dn{x rug covering the wooden floor.
+All four walls are wooden, each having a tall, silk screen decorated with
+flying {Wcranes{x in front.  Resting in the center of the room is a king-sized
+{rsl{yei{rgh{x bed, covered with a thick {Dc{bo{Bmf{Wo{Brt{be{Dr{x and matching {Wp{Bi{bll{Bo{Wws{x.  Very
+little furniture is visible, it's possible more is hidden behind the
+screens.  The room is filled with a soft, yet masculine scent.  
+~
+0
+0 0
+E
+eastscreen~
+Behind the {cscr{Cee{cn{x is a small {ychest{x of {ydr{ra{yw{re{yrs{x where the High Lords
+personal items are kept.  
+~
+E
+westscreen~
+Behind the {cscr{Cee{cn{x is a small area where the so'jhin sleeps.  A small,
+comfortable appearing, {Wsl{Cee{Wping{x pad is on the floor, covered with a warm
+{Db{bl{Ba{Wn{Bk{be{Dt{x, a small {Wpillow{x resting atop.  A small {ychest{x is at the foot of the
+sleeping pad, all of the so'jhin's belongings kept inside.  
+~
+E
+southscreen~
+Behind the screen is a {rch{yif{Yfo{yni{rer{x, in which all of High Lord Sirakor's
+clothing is kept in.  
+~
+E
+northscreen~
+Behind the {cscr{Cee{cn{x is one of the ship's portholes, a view of the ocean's
+waters just outside.  A peg is on the wall beside the porthole, A {Ds{bi{Blk{be{Dn{x
+night robe hangs on the peg.  
+~
+D2
+~
+~
+0 0
+0 0 20740
+D3
+~
+~
+0 0
+0 0 20742
+S
+#20742
+Bathing Room~
+The walls in this room are panneled with a dark {Yoa{yk{x wood, silk {cscr{Cee{cns{x
+standing in front of all four walls.  The screens are {Wwhite{x, each {cde{Cli{Wca{Cte{cly{x
+painted with {Wcranes{x done in a black and white motif.  A thick {Dc{ba{Brp{be{Dt{x of silk
+covers the wooden floor.  Resting atop the rug is a large, man-sized tub
+made of pure white {Wivory{x, the feet are curved out and form claws at the
+ends.  A small cabinet is set into the wall, containing soft, fluffy
+{bto{Bwels{x, {Ysp{Wo{Yng{We{Ys{x and a variety of softly scented {Ws{roa{Wps{x.  A small, round
+porthole is in the wall, giving a view of the {co{Cc{Wea{Cn{cs{x waters.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20741
+S
+#20743
+Anteroom to the High Lady Musheko's Rooms~
+There is no furniture in this room, the only visible objects are the
+standing lamps, {yg{Yi{Wld{Ye{yd{x and {cm{Cir{Wro{Cre{cd{x to give more light to the room.  The
+wooden floor is covered by a large, {Do{gva{Gl r{gu{Dg{x made of silk, a motif of flying
+{yh{ra{ywks{x decorate the edge of the rug, while in the center is a very detailed
+{rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywk{x perching on a tree branch.  All four wood-paneled walls are
+hidden by tall silk {cscr{Cee{cns{x.  Deathwatch Guards stand just inside the room
+and at the door leading east, always on hand to protect their Blood. 
+Da'covale line the walls, awaiting the needs and desires of their Blood.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 20795 20738
+D1
+~
+~
+0 0
+0 0 20745
+S
+#20744
+Bathing Room~
+The walls in this room are panneled with a dark {Yoa{yk{x wood, silk {Cscr{Wee{Cns{x
+standing in front of all four walls.  The screens are {Wwhite{x, each delicately
+painted with {rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywks{x done in a black and white motif.  A thick
+{Dc{ga{Grp{ge{Dt{x of silk covers the wooden floor.  Resting atop the rug is a large
+{Wtub{x, big enough for a full grown man to relax comfortably in.  The tub is
+made of pure {Wivory{x, the feet are curved and are carved to resemble the claws
+of a {yh{ra{ywk{x.  A small cabinet is set into the wall, containing soft, fluffy
+{gtow{Gels{x, {Ysp{Wo{Yng{We{Ys{x, and a variety of softly scented {ys{Yo{Wa{Yp{ys{x.  A small, round
+porthole is in the 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20746
+S
+#20745
+High Lady Musheko's Sitting Room~
+The room is sparsely furnished, leaving plenty of room to move around. 
+The wooden floor is covered by a large {Dr{gu{Gg {gof {Gsi{gl{Dk{x, a motif of flying {yh{ra{ywks{x
+decorating the rug.  In each of the four corners of the room are tall,
+{yg{wi{Wld{Ye{yd {cm{Ci{Wrr{Co{cr{x lamps.  Many silken {Cscr{Wee{Cns{x line the walls of the room, each
+decorated in a motif of {rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywks{x.  One high-backed, {rch{ye{rrry w{roo{yd{x
+chair, the arms curved and each of the four legs carved to appear like hawk
+claws.  In the center of the room is a tall wooden perch, atop it is a
+{rr{Re{rd{D-{rt{Rai{rl{Re{rd {yh{ra{ywk{x, sitting tall and majestic.  
+~
+0
+0 0
+E
+eastscreen~
+Behind the {Cscr{Wee{Cn{x is a long, wooden {yc{Ya{yge{x, the sounds of small {Wcr{re{Datu{rr{Wes{x
+scratching around can be heard from inside.  
+~
+E
+westscreen~
+Behind the {Cscr{Wee{Cn{x is a {Dpo{grc{Ge{gla{Din{x platter, topped with a {gt{Gea {Dk{ge{Gtt{gl{De{x and
+matching {gc{Gu{gps{x and {Ds{ga{Guce{gr{Ds{x.  
+~
+E
+southscreen~
+Behind the {Cscr{Wee{Cn{x are a few low-backed {ychairs{x, each with a small {Dc{gu{Gshi{go{Dn{x.  
+~
+E
+northscreen~
+Behind the {Cscr{Wee{Cn{x is a large, wire {Dc{wa{Dge{x, spanning most of the wall.  A
+small {yc{ra{Rbin{re{yt{x rests beside the cage.  
+~
+D2
+~
+~
+0 0
+0 0 20746
+D3
+~
+~
+0 0
+0 0 20743
+S
+#20746
+High Lady Musheko's Bedchamber~
+The room is wide and open, a thick, {Ds{gi{Glk{ge{Dn{x rug covering the wooden floor.
+All four walls are wooden, each having a tall, silk {Cscr{Wee{Cn{x decorated with a
+motif of flying {yh{ra{ywks{x.  Resting in the center of the room is a king-sized,
+{yf{You{yr{D-{yp{Yo{Wst{Ye{yr{x bed.  Long, flowing material forms a {Dc{ga{Gno{gp{Dy{x at the top of the
+posters, the material at the side of the bed has been tied back to show a
+thick, soft {gco{Gmf{Wo{Grt{ger{x and matching {Wp{Gil{gl{Gow{Ws{x.  The room is filled with a soft
+scent of {yv{Yan{Wi{Yll{ya{x.  
+~
+0
+0 0
+E
+westscreen~
+Behind the {Cscr{Wee{Cn{x is a small {yc{ra{yrt{x with drawers, filled with some of the
+{DHi{gg{Gh L{ga{Ddy{x's personal items.  
+~
+E
+northscreen~
+Behind the {Cscr{Wee{Cn{x is the sleeping area of the {DHi{gg{Gh L{ga{Ddy{x's So'jhin.  A
+{Wbedroll{x has been set out on the floor, covered with soft {gbl{Ga{gnk{Ge{gts{x and a
+{Wpillow{x.  A small {ychest{x is provided for the So'jhin's personal items.  
+~
+E
+eastscreen~
+Behind the {Cscr{Wee{Cn{x is a large {yw{ra{yrdr{ro{ybe{x, containing all of the High Lady's
+{Dc{glo{Gth{gin{Dg{x.  
+~
+E
+southscreen~
+Behind the {Cscr{Wee{Cn{x is a large porthole, providing a view of the oceans
+waters and adding to the light in the room.  
+~
+D0
+~
+~
+0 0
+0 0 20745
+D3
+~
+~
+0 0
+0 0 20744
+S
+#20747
+Hallway~
+The hallway is fairly wide through this section of the ship, the wooden
+floor covered by a long silk carpet in a {rdeep sc{Ra{rrl{Re{rt{x color.  {yG{Yi{Wld{Ye{yd{x lamps
+have been set in niches along the hallway, lighting the way for those who
+would pass through.  Hanging upon the walls are various {Dp{gic{Gtu{gre{Ds{x depicting
+the homeland of {DSe{ra{Rn{rd{Dar{x.
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20748
+D1
+~
+~
+0 0
+0 0 20738
+D2
+~
+~
+0 0
+0 0 20750
+D3
+~
+~
+0 0
+0 0 20749
+S
+#20748
+A Small Room With A View~
+This is a small room at the end of the hallway.  A thick window has been
+set into the hull of the ship, giving a good view of the {co{Cc{Wea{Cn{cs{x waters as
+the ship makes its way through.  A long {ybench{x, covered with thick {rc{Rus{Whi{Ron{rs{x
+is set beneath the window so that one may sit and enjoy the view.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20747
+S
+#20749
+A Small Room With A View~
+This is a small room at the end of the hallway.  A thick window has been
+set into the hull of the ship, giving a good view of the {co{Cc{Wea{Cn{cs{x waters as
+the ship makes its way through.  A long {ybench{x, covered with thick {rc{Rus{Whi{Ron{rs{x
+is set beneath the window so that one may sit and enjoy the view.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20747
+S
+#20750
+A Small Room With A View~
+This is a small room at the end of the hallway.  A thick window has been
+set into the hull of the ship, giving a good view of the {co{Cc{Wea{Cn{cs{x waters as
+the ship makes its way through.  A long {ybench{x, covered with thick {rc{Rus{Whi{Ron{rs{x
+is set beneath the window so that one may sit and enjoy the view.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20747
+S
+#20751
+Hallway~
+The ladder stops on this level of the ship, leading off in all directions
+from here.  Silver-worked lanterns rest in niches in the walls, lighting the
+area well.  A large, woven rug covers the floor here.  To the east are the
+rooms of the Deathwatch Guard, to the north are the rooms of the Morat, to
+the south are the rooms of the Ever Victorious Army and to the west is the
+Galley and rooms for the sailors and crew members.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20765
+D1
+~
+~
+3 3
+1 0 20772
+D2
+~
+~
+0 0
+0 0 20766
+D3
+~
+~
+0 0
+0 0 20752
+D4
+~
+~
+0 0
+0 0 20726
+D5
+~
+~
+0 0
+0 0 20775
+S
+#20752
+Hallway~
+The hallway is long and narrow, moving through the center part of the
+ship.  Niches in the walls are filled with silver-worked lanters, lighting
+up the hallways.  The floor is covered by a long, narrow rug.  To the west
+is the Galley and sleeping quarters of the crew members, to the south is the
+sleeping quarters of the sailors and back to the east is the ladder that
+leads to the upper and lower portions of the ship.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20751
+D2
+~
+~
+0 0
+0 0 20756
+D3
+~
+~
+0 0
+0 0 20753
+S
+#20753
+Mess Hall~
+Long rows of wooden tables and benches line the room, each topped with a
+stack of cloth napkins, salt and pepper shakers, along with some spicy
+sauces the Seanchan's prefer.  Men and women dressed in various types of
+uniforms sit at the tables, eating a quick meal before returning to their
+duties.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20757
+D1
+~
+~
+0 0
+0 0 20752
+D3
+~
+~
+3 3
+1 0 20754
+S
+#20754
+The Galley~
+Heat and steam swirl around as the door is open, hitting those who enter
+hard and fast.  Several large cauldron have been set above fire pits, each
+surrounded by a thick metal.  Within the cauldrons are the contents of the
+next meal.  An overly rounded woman wearing a white apron seems to be the
+one in charge as she orders about the other cooks.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 20753
+S
+#20755
+~
+~
+0
+C 0
+S
+#20756
+Hallway~
+The hallway is long and narrow, moving through the sleeping quarters of
+those sailors who work on the ship.  Niches in the walls are filled with
+silver-worked lanterns, lighting up the hallways.  The floor is covered by a
+long, narrow rug.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20752
+D2
+~
+~
+3 3
+1 0 20764
+D3
+~
+~
+0 0
+0 0 20761
+S
+#20757
+Hallway~
+The hallway is long and narrow, moving through the sleeping quarters of
+the crew members.  Niches in the walls are filled with silver-wored
+lanterns, lighting up the hallways.  The floor is covered by a long, narrow
+rug.  To the south is the Galley, and futher on is the sleeping quarters of
+the sailors on the ship.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20759
+D1
+~
+~
+3 3
+1 0 20760
+D2
+~
+~
+0 0
+0 0 20753
+D3
+~
+~
+3 3
+1 0 20758
+S
+#20758
+Crew's Bunkroom~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 20757
+S
+#20759
+Crew's Bunkroom~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20757
+S
+#20760
+Crew's Bunkroom~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 20757
+S
+#20761
+Hallway~
+The hallway is long and narrow, moving through the sleeping quarters of
+those sailors who work on the ship.  Niches in the walls are filled with
+silver-worked lanterns, lighting up the hallways.  The floor is covered by a
+long, narrow rug.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20756
+D2
+~
+~
+3 3
+1 0 20763
+D3
+~
+~
+3 3
+1 0 20762
+S
+#20762
+Sailor's Room~
+The room is small and cramped, very little floor space is to be had in
+this part of the ship.  Three sets of metal-framed bunk beds have been
+secured to the floor with nails.  One large set of drawers is also secured
+to the floor, each drawer kept closed by a metal bar.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 20761
+S
+#20763
+Sailor's Room~
+The room is small and cramped, very little floor space is to be had in
+this part of the ship.  Three sets of metal-framed bunk beds have been
+secured to the floor with nails.  One large set of drawers is also secured
+to the floor, each drawer kept closed by a metal bar.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20761
+S
+#20764
+Navy Commander~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20756
+S
+#20765
+Hallway~
+The hallway is long and narrow, moving through the rooms of the Morat. 
+Niches in the walls are filled with silver-worked lanterns, lighting up the
+hallways.  The floor is covered by a long, narrow rug.  To the north are the
+bunkrooms of the Morat, back to the south is the ladder that leads up to the
+deck and further down into the ship.  Further to the south are the rooms of
+the Deathwatch Guard, Ever Victorious Army, and crew members of the ship.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20769
+D2
+~
+~
+0 0
+0 0 20751
+S
+#20766
+Hallway~
+The hallway is long and narrow, moving through the section of the ship
+where the soldiers of the Ever Victorious Army stay.  Niches in the walls
+are filled with silver-worked lanterns, lighting up the hallways.  The floor
+is covered by a long, narrow rug.  To the east is the Captains room and to
+the south are the bunkrooms where the soldiers sleep.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20751
+D1
+~
+~
+3 3
+1 0 20774
+D2
+~
+~
+3 3
+1 0 20767
+S
+#20767
+Soldier's Bunk Room~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20766
+D1
+~
+~
+0 0
+0 0 20768
+S
+#20768
+Soldier's Bunk Room~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20767
+S
+#20769
+Morat Bunk Room~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20771
+D2
+~
+~
+3 3
+1 0 20765
+D3
+~
+~
+0 0
+0 0 20770
+S
+#20770
+Morat Bunk Room~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20769
+S
+#20771
+Morat Bunk Room~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20769
+S
+#20772
+Deathwatch Guard Rooms~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20773
+D3
+~
+~
+3 3
+1 0 20751
+S
+#20773
+Deathwatch Guard Rooms~
+The room is lined on two sides with small bed-sized cubicles in the
+walls, each one three high, a set of curtains on each for privacy.  On the
+third side of the room are small closets, one for each of the beds, a small
+lock hangs on the door to each closet.  In the center of the room is a
+small, round table surrounded by wooden chairs, each securely attached to
+the floor so they don't move during stormy weather.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20772
+S
+#20774
+Captain of the EVA Room~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 20766
+S
+#20775
+Hallway~
+The ladder leads to a platform on another level of the ship.  The hallway
+leads off to the north where the Sul'dam keep their rooms, and to the south
+are the kennels of the Damane.  The ladder continues up to the deck of the
+ship, and further down to the Morat level of the ship.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20776
+D2
+~
+~
+0 0
+0 0 20788
+D4
+~
+~
+0 0
+0 0 20751
+D5
+~
+~
+0 0
+0 0 20797
+S
+#20776
+Hallway Through Sul'dam Rooms~
+The hallway, leading through the Sul'dam's rooms, is long and narrow,
+brightly lit by silver-worked lanterns.  The walls are painted pure white,
+the trim done in dark-blue, and the floors are covered with long, narrow
+rugs.  To the east and west are more Sul'dam rooms.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20777
+D1
+~
+~
+0 0
+0 0 20785
+D2
+~
+~
+0 0
+0 0 20775
+D3
+~
+~
+0 0
+0 0 20778
+S
+#20777
+Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20776
+S
+#20778
+Hallway Through Sul'dam Rooms~
+The hallway, leading through the Sul'dam's rooms, is long and narrow,
+brightly lit by silver-worked lanterns.  The walls are painted pure white,
+the trim done in dark-blue, and the floors are covered with long, narrow
+rugs.  To the east and west are more Sul'dam rooms.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20779
+D1
+~
+~
+0 0
+0 0 20776
+D2
+~
+~
+3 3
+1 0 20780
+D3
+~
+~
+0 0
+0 0 20781
+S
+#20779
+Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20778
+S
+#20780
+Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20778
+S
+#20781
+Hallway~
+The hallway, leading through the Sul'dam's rooms, is long and narrow,
+brightly lit by silver-worked lanterns.  The walls are painted pure white,
+the trim done in dark-blue, and the floors are covered with long, narrow
+rugs.  To the west is a gathering area for the Sul'dam and to the east are
+more Sul'dam rooms.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20782
+D1
+~
+~
+0 0
+0 0 20778
+D2
+~
+~
+3 3
+1 0 20783
+D3
+~
+~
+3 3
+1 0 20784
+S
+#20782
+Der'Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20781
+S
+#20783
+Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20781
+S
+#20784
+Sul'dam Gathering Room~
+Two long couches sit opposite a short table, the wooden legs carved into
+strange creatures, and covered with a thin glass top.  The decorations are
+sparse in this room, and the colors are kept to shades of blue and white. 
+Many women occupy the room, some are connected to each other by a metal
+leash, a bracelet worn on the arm of one woman, a collar around the neck of
+another.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 20781
+D2
+~
+~
+3 3
+1 0 20796
+S
+#20785
+Hallway Through Sul'dam Rooms~
+The hallway, leading through the Sul'dam's rooms, is long and narrow,
+brightly lit by silver-worked lanterns.  The walls are painted pure white,
+the trim done in dark-blue, and the floors are covered with long, narrow
+rugs.  To the east and west are more Sul'dam rooms.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20786
+D2
+~
+~
+3 3
+1 0 20787
+D3
+~
+~
+0 0
+0 0 20776
+S
+#20786
+Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20785
+S
+#20787
+Sul'dam Room~
+The walls of this room are painted a soft shade of blue, the trim is done
+in a deep red.  Within the room is very little furnishing, a simple
+wood-framed bed covered with a soft, thick blanket, and a chest for the
+belongings of the rooms occupant.  Anything that could move and cause damage
+during a storm has been nailed securely to the floor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20785
+S
+#20788
+Hallway Through Damane Kennels~
+The hallway, leading through the area where the Damane are kept kenneled,
+is long and narrow, brightly lit by silver-worked lanterns.  The walls are
+painted pure white and the floors are covered with long, narrow rugs.  To
+the west is the room where the Sul'dam work with the Damane in their
+training, and to the east is more of the Kennels.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20775
+D1
+~
+~
+0 0
+0 0 20789
+D2
+~
+~
+3 3
+1 0 20790
+D3
+~
+~
+0 0
+0 0 20791
+S
+#20789
+Hallway Through Damane Kennels~
+The hallway, leading through the area where the Damane are kept kenneled,
+is long and narrow, brightly lit by silver-worked lanterns.  The walls are
+painted pure white and the floors are covered with long, narrow rugs.  To
+the west are more of the Damane kennels, and further to the west is the room
+where the Sul'dam work with the Damane in their training.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20792
+D3
+~
+~
+0 0
+0 0 20788
+S
+#20790
+Damane Kennel~
+The walls of this room are painted a pure white, the trimmings done in a
+faint gray.  There is no furnishings other than a small pallet on the floor,
+covered with a single, thin blanket to keep the occupant warm.  On the wall
+is a peg, where the bracelet of the a'dam is placed when the Sul'dam is not
+wearing it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20788
+S
+#20791
+Hallway Through Damane Kennels~
+The hallway, leading through the area where the Damane are kept kenneled,
+is long and narrow, brightly lit by silver-worked lanterns.  The walls are
+painted pure white and the floors are covered with long, narrow rugs.  To
+the west is the room where the Sul'dam work with the Damane in their
+training, and to the east is more of the Kennels.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20788
+D2
+~
+~
+3 3
+1 0 20794
+D3
+~
+~
+0 0
+0 0 20793
+S
+#20792
+Damane Kennel~
+The walls of this room are painted a pure white, the trimmings done in a
+faint gray.  There is no furnishings other than a small pallet on the floor,
+covered with a single, thin blanket to keep the occupant warm.  On the wall
+is a peg, where the bracelet of the a'dam is placed when the Sul'dam is not
+wearing it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20789
+S
+#20793
+Hallway Through Damane Kennels~
+The hallway, leading through the area where the Damane are kept kenneled,
+is long and narrow, brightly lit by silver-worked lanterns.  The walls are
+painted pure white and the floors are covered with long, narrow rugs.  To
+the west is the room where the Sul'dam work with the Damane in their
+training, and to the east is more of the Kennels.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20791
+D2
+~
+~
+3 3
+1 0 20795
+D3
+~
+~
+3 3
+1 0 20796
+S
+#20794
+Damane Kennel~
+The walls of this room are painted a pure white, the trimmings done in a
+faint gray.  There is no furnishings other than a small pallet on the floor,
+covered with a single, thin blanket to keep the occupant warm.  On the wall
+is a peg, where the bracelet of the a'dam is placed when the Sul'dam is not
+wearing it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20791
+S
+#20795
+Damane Kennel~
+The walls of this room are painted a pure white, the trimmings done in a
+faint gray.  There is no furnishings other than a small pallet on the floor,
+covered with a single, thin blanket to keep the occupant warm.  On the wall
+is a peg, where the bracelet of the a'dam is placed when the Sul'dam is not
+wearing it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20793
+S
+#20796
+Damane Training Room~
+Many women move around in this room, some dressed in plain grey dresses,
+many more dressed in blue dresses with red panels.  Placed throughout the
+room are various targets, buckets of water and earth, and other oddities.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20784
+D1
+~
+~
+3 3
+1 0 20793
+S
+#20797
+Hallway Through The Cages~
+A ladder leads onto this level from the levels above.  A long hallway
+leads away, towards the cages where the Morat keep the exotic beasts of
+Seanchan.  A strong odor hangs on the air, the scent of fresh hay, animal
+feces, and raw meat.  Men and women of the morat walk through the area, each
+tending to the duties of their position.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20798
+D2
+~
+~
+3 3
+1 0 20799
+D3
+~
+~
+0 0
+0 0 20800
+D4
+~
+~
+0 0
+0 0 20775
+S
+#20798
+The Torm Area~
+The strong scent of animal permeates through this area, along with the
+sound of animals feeding and moving about in their cages.  Long rows of
+cages line each side of the area, each occupied by a single Torm. 
+Morat'Torm are busy tending to their beasts and the cages they occupy.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20797
+S
+#20799
+The Lopar Area~
+The strong scent of animal permeates through this area, along with the
+sound of animals feeding and moving about in their cages.  Long rows of
+cages line each side of the area, each occupied by a single Lopar. 
+Morat'Lopar are busy tending to their beasts and the cages they occupy.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20797
+S
+#20800
+Hallway Through The Cages~
+A long hallway leads through this area where the Morat keep the exotic
+beasts of Seanchan.  A strong odor hangs on the air, the scent of fresh hay,
+animal feces, and raw meat.  Men and women of the morat walk through the
+area, each tending to the duties of their position.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20801
+D1
+~
+~
+0 0
+0 0 20797
+D2
+~
+~
+3 3
+1 0 20802
+D3
+~
+~
+0 0
+0 0 20803
+S
+#20801
+Grolm~
+The strong scent of animal permeates through this area, along with the
+sound of animals feeding and moving about in their cages.  Long rows of
+cages line each side of the area, each occupied by a single Corlm. 
+Morat'Corlm are busy tending to their beasts and the cages they occupy.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20800
+S
+#20802
+Grolm~
+The strong scent of animal permeates through this area, along with the
+sound of animals feeding and moving about in their cages.  Long rows of
+cages line each side of the area, each occupied by a single Grolm. 
+Morat'Grolm are busy tending to their beasts and the cages they occupy.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20800
+S
+#20803
+Hallway Through The Cages~
+A long hallway leads through this area where the Morat keep the exotic
+beasts of Seanchan.  A strong odor hangs on the air, the scent of fresh hay,
+animal feces, and raw meat.  Men and women of the morat walk through the
+area, each tending to the duties of their position.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20804
+D1
+~
+~
+0 0
+0 0 20800
+D2
+~
+~
+3 3
+1 0 20805
+S
+#20804
+The Raken Area~
+The strong scent of animal permeates through this area, along with the
+sound of animals feeding and moving about in their cages.  Long rows of
+cages line each side of the area, each occupied by a single Raken. 
+Morat'Raken are busy tending to their beasts and the cages they occupy.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 20803
+S
+#20805
+The Raken Area~
+The strong scent of animal permeates through this area, along with the
+sound of animals feeding and moving about in their cages.  Long rows of
+cages line each side of the area, each occupied by a single To'Raken. 
+Morat'To'Raken are busy tending to their beasts and the cages they occupy.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 20803
+S
+#20806
+In The Rigging~
+Thick {yr{Yo{ypes{x and thin ropes spread out in all directions from this wide
+pole.  A few men climb about the {Dri{wg{Wg{wi{Dng{x, fixing any frays or loose knots in
+the ropes.  A ladder made of rope climbs its way along the pole up to the
+{Dcr{Wo{Dw's {yn{Ye{yst{x above.  Flying around the ship are a few {Wg{Du{Wlls{x that have flown
+far from the land in search of food, every once in awhile they swoop in to
+land on the rigging of the ship.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 20807
+D5
+~
+~
+0 0
+0 0 20718
+S
+#20807
+Crows Nest~
+The rope {yl{Ya{Wdd{Ye{yr{x moves up over a wooden nest-like structure.  The {Dm{ya{Dst{x
+moves up through the center of the {Dcr{Wo{Dw's {yn{Ye{yst{x where a sailor is always on
+watch for any objects in the oceans surrounding the ship or land.  The ships
+{Dri{wg{Wg{wi{Dng{x spreads out from the mast in all different directions, holding the
+{Wsails{x in place as they flap in the wind.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 20806
+S
+#20808
+Stairs Between Decks~
+Wide wooden stairs move from the main deck to the upper deck of the {cS{Cea
+{yH{ra{ywk{x.  Sailors and deckhands move between the decks going about their daily
+duties.  The {yw{woo{yd{we{yn{x planks creak softly with the rolling movements of the
+ship, The {ywh{ree{yl{x that steers the ship can be seen to the east, large spokes
+poking out of it.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20811
+D5
+~
+~
+0 0
+0 0 20700
+S
+#20809
+In The Rigging~
+Thick {yr{Yo{ypes{x and thin ropes spread out in all directions from this wide
+pole.  A few men climb about the {Dri{wg{Wg{wi{Dng{x, fixing any frays or loose knots in
+the ropes.  A ladder made of rope climbs its way along the pole up to the
+{Dcr{Wo{Dw's {yn{Ye{yst{x above.  Flying around the ship are a few {Wg{Du{Wlls{x that have flown
+far from the land in search of food, every once in awhile they swoop in to
+land on the rigging of the ship.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 20810
+D5
+~
+~
+0 0
+0 0 20816
+S
+#20810
+Crows Nest~
+Gr The rope {yl{Ya{Wdd{Ye{yr{x moves up over a wooden nest-like structure.  The {Dm{ya{Dst{x
+moves up through the center of the {Dcr{Wo{Dw's {yn{Ye{yst{x where a sailor is always on
+watch for any objects in the oceans surrounding the ship or land.  The ships
+{Dri{wg{Wg{wi{Dng{x spreads out from the mast in all different directions, holding the
+{Wsails{x in place as they flap in the wind.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 20809
+S
+#20811
+Upper Deck Of The Sea Hawk~
+Sailors and deckhands move about the deck of the ship going about their
+various duties.  The {yw{woo{yd{we{yn{x planks creak softly with the movement of the
+ship, the {Wsail{x above flapping in the wind above, jerking the {Dri{wg{Wg{wi{Dng{x down
+below.  To the east is the {ywh{ree{yl{x which steers the ship and to the west is a
+ladder which leads down to the main deck.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20812
+D1
+~
+~
+0 0
+0 0 20813
+D2
+~
+~
+0 0
+0 0 20814
+D3
+~
+~
+0 0
+0 0 20808
+S
+#20812
+Upper Deck Of The Sea Hawk~
+Sailors and deckhands move about the deck of the ship going about their
+various duties.  The {yw{woo{yd{we{yn{x planks creak softly with the movement of the
+ship, the {Wsail{x above flapping in the wind above, jerking the {Dri{wg{Wg{wi{Dng{x down
+below.  Two deckhands are kneeling on the {ypl{wa{ynks{x, buckets of {cs{Coa{cpy{x water
+next to them spill their waters on the deck as they work hard to scrub the
+planks clean.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20815
+D2
+~
+~
+0 0
+0 0 20811
+S
+#20813
+Quarterdeck~
+The {yw{woo{yd{we{yn{x planks of the ship creak softly as sailors move about above
+deck.  A large {ywh{ree{yl{x, nearly the size of a short man, is the mainstay of
+this area, eight large {Ds{yp{rok{ye{Ds{x pointing out from the wheel.  At all times
+there is someone manning the wheel, keeping the ship on due course.  The
+{Dri{wg{Wg{win{Dg{x of the ship rises into the air all about, a large {Wsail{x flapping in
+the wind above.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20815
+D1
+~
+~
+0 0
+0 0 20818
+D2
+~
+~
+0 0
+0 0 20816
+D3
+~
+~
+0 0
+0 0 20811
+S
+#20814
+Upper Deck Of The Sea Hawk~
+Sailors and deckhands move about the deck of the ship going about their
+various duties.  The {yw{woo{yd{we{yn{x planks creak softly with the movement of the
+ship, the {Wsail{x above flapping in the wind above, jerking the {Dri{wg{Wg{wi{Dng{x down
+below.  Two deckhands are kneeling on the {ypl{wa{ynks{x, buckets of {cs{Coa{cpy{x water
+next to them spill their waters on the deck as they work hard to scrub the
+planks clean.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20811
+D1
+~
+~
+0 0
+0 0 20816
+S
+#20815
+Upper Deck Of The Sea Hawk~
+Standing by a thick piles of {yr{Wo{ype{x, two sailors are busy coiling it up
+into neat circles on the ground.  Sailors and deckhands move about the deck
+of the ship going about their various duties.  The {yw{woo{yd{we{yn{x planks creak
+softly with the movement of the ship, the {Wsail{x above flapping in the wind
+above, jerking the {Dri{wg{Wg{wi{Dng{x down below.  Rising high into the air is a tall,
+wide pole that moves up through the rigging, ending in a {Dcr{Wo{Dw's {yn{Ye{yst{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20819
+D2
+~
+~
+0 0
+0 0 20813
+D3
+~
+~
+0 0
+0 0 20812
+D4
+~
+~
+0 0
+0 0 20820
+S
+#20816
+Upper Deck Of The Sea Hawk~
+Standing by a thick piles of {yr{Wo{ype{x, two sailors are busy coiling it up
+into neat circles on the ground.  Sailors and deckhands move about the deck
+of the ship going about their various duties.  The {yw{woo{yd{we{yn{x planks creak
+softly with the movement of the ship, the {Wsail{x above flapping in the wind
+above, jerking the {Dri{wg{Wg{wi{Dng{x down below.  Rising high into the air is a tall,
+wide pole that moves up through the rigging, ending in a {Dcr{Wo{Dw's {yn{Ye{yst{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20813
+D1
+~
+~
+0 0
+0 0 20817
+D3
+~
+~
+0 0
+0 0 20814
+D4
+~
+~
+0 0
+0 0 20809
+S
+#20817
+Upper Deck Of The Sea Hawk~
+Sailors and deckhands move about the deck of the ship going about their
+various duties.  The {yw{woo{yd{we{yn{x planks creak softly with the movement of the
+ship, the {Wsail{x above flapping in the wind above, jerking the {Dri{wg{Wg{wi{Dng{x down
+below.  Two deckhands are kneeling on the {ypl{wa{ynks{x, buckets of {cs{Coa{cpy{x water
+next to them spill their waters on the deck as they work hard to scrub the
+planks clean.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20818
+D3
+~
+~
+0 0
+0 0 20816
+S
+#20818
+Upper Deck Of The Sea Hawk~
+The {yw{woo{yd{we{yn{x planks of the ship creak softly as sailors and deckhands move
+about the ship going about their various duties.  The {Wsails{x flap in the wind
+high above, jerking the {Dr{wi{Dgg{wi{Dng{x down below.  A long row of {yc{Yr{Wat{Ye{ys{x and
+{yb{ra{Drr{re{yls{x have been stacked here, atop them are a few cages filled with small
+{Wp{Cig{ce{Con{Ws{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20819
+D2
+~
+~
+0 0
+0 0 20817
+D3
+~
+~
+0 0
+0 0 20813
+S
+#20819
+Upper Deck Of The Sea Hawk~
+This portion of the deck has been reserved for the {DR{wa{Wk{we{Dn{x and {yT{Do'{yR{Da{yk{De{yn{x. 
+The large beasts are accompanied by their {rM{yo{Yr{ya{rt{x who handle them with ease,
+allowing the beasts to stretch their wings, others being flown alongside the
+ship.  The sailors and deckhands seem to steer clear of this portion of the
+ship, as the Beasts are exercised and trained.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 20818
+D3
+~
+~
+0 0
+0 0 20815
+S
+#20820
+In The Rigging~
+Thick {yr{Yo{ypes{x and thin ropes spread out in all directions from this wide
+pole.  A few men climb about the {Dri{wg{Wg{wi{Dng{x, fixing any frays or loose knots in
+the ropes.  A ladder made of rope climbs its way along the pole up to the
+{Dcr{Wo{Dw's {yn{Ye{yst{x above.  Flying around the ship are a few {Wg{Du{Wlls{x that have flown
+far from the land in search of food, every once in awhile they swoop in to
+land on the rigging of the ship.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 20821
+D5
+~
+~
+0 0
+0 0 20815
+S
+#20821
+Crows Nest~
+Gr The rope {yl{Ya{Wdd{Ye{yr{x moves up over a wooden nest-like structure.  The {Dm{ya{Dst{x
+moves up through the center of the {Dcr{Wo{Dw's {yn{Ye{yst{x where a sailor is always on
+watch for any objects in the oceans surrounding the ship or land.  The ships
+{Dri{wg{Wg{wi{Dng{x spreads out from the mast in all different directions, holding the
+{Wsails{x in place as they flap in the wind.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 20820
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 20700 1 1
+D 0 20702 2 1
+D 0 20705 2 1
+D 0 20707 0 1
+D 0 20707 2 1
+D 0 20708 0 1
+D 0 20710 0 1
+D 0 20710 2 1
+D 0 20710 3 1
+D 0 20715 0 1
+D 0 20727 1 1
+D 0 20727 3 1
+D 0 20729 1 1
+D 0 20731 1 1
+D 0 20732 3 1
+D 0 20735 3 1
+D 0 20738 0 1
+D 0 20738 2 1
+D 0 20739 2 1
+D 0 20743 0 1
+D 0 20751 1 1
+D 0 20753 3 1
+D 0 20754 1 1
+D 0 20756 2 1
+D 0 20757 0 1
+D 0 20757 1 1
+D 0 20757 3 1
+D 0 20758 1 1
+D 0 20759 2 1
+D 0 20760 3 1
+D 0 20761 2 1
+D 0 20761 3 1
+D 0 20762 1 1
+D 0 20763 0 1
+D 0 20764 0 1
+D 0 20765 0 1
+D 0 20766 1 1
+D 0 20766 2 1
+D 0 20767 0 1
+D 0 20769 2 1
+D 0 20772 3 1
+D 0 20774 3 1
+D 0 20776 0 1
+D 0 20777 2 1
+D 0 20778 0 1
+D 0 20778 2 1
+D 0 20779 2 1
+D 0 20780 0 1
+D 0 20781 0 1
+D 0 20781 2 1
+D 0 20781 3 1
+D 0 20782 2 1
+D 0 20783 0 1
+D 0 20784 1 1
+D 0 20784 2 1
+D 0 20785 0 1
+D 0 20785 2 1
+D 0 20786 2 1
+D 0 20787 0 1
+D 0 20788 2 1
+D 0 20789 2 1
+D 0 20790 0 1
+D 0 20791 2 1
+D 0 20792 0 1
+D 0 20793 2 1
+D 0 20793 3 1
+D 0 20794 0 1
+D 0 20795 0 1
+D 0 20796 0 1
+D 0 20796 1 1
+D 0 20797 0 1
+D 0 20797 2 1
+D 0 20798 2 1
+D 0 20799 0 1
+D 0 20800 0 1
+D 0 20800 2 1
+D 0 20801 2 1
+D 0 20802 0 1
+D 0 20803 0 1
+D 0 20803 2 1
+D 0 20804 2 1
+D 0 20805 0 1
+O 0 20813 0 20718
+O 0 20796 0 20731
+P 0 20797 1 20796 1
+P 0 20798 1 20796 1
+O 0 20799 0 20731
+P 0 20800 10 20799 10
+O 0 20801 0 20731
+P 0 20802 1 20801 1
+P 0 20803 1 20801 1
+O 0 20804 0 20731
+P 0 20805 1 20804 1
+P 0 20806 1 20804 1
+M 0 20719 20 20732 2
+M 0 20719 20 20732 2
+M 0 20718 30 20732 2
+M 0 20718 30 20732 2
+O 0 20812 0 20733
+O 0 20811 0 20734
+M 0 20719 20 20735 2
+M 0 20719 20 20735 2
+M 0 20718 30 20735 2
+M 0 20718 30 20735 2
+O 0 20807 0 20736
+O 0 20808 0 20737
+M 0 20719 20 20739 2
+M 0 20719 20 20739 2
+M 0 20718 30 20739 4
+M 0 20718 30 20739 4
+M 0 20718 30 20739 4
+M 0 20718 30 20739 4
+O 0 20764 0 20740
+P 0 20760 1 20764 1
+O 0 20761 0 20740
+P 0 20762 1 20761 1
+P 0 20763 1 20761 1
+P 0 20765 1 20764 1
+O 0 20766 0 20740
+P 0 20767 1 20766 1
+P 0 20768 1 20766 1
+P 0 20769 1 20766 1
+O 0 20748 0 20741
+O 0 20749 0 20741
+P 0 20751 1 20749 1
+O 0 20750 0 20741
+P 0 20752 1 20750 1
+P 0 20753 1 20750 1
+P 0 20754 1 20750 1
+O 0 20755 0 20741
+P 0 20756 1 20755 1
+P 0 20757 1 20755 1
+P 0 20758 1 20755 1
+O 0 20759 0 20741
+O 0 20743 0 20742
+O 0 20744 0 20742
+P 0 20745 1 20744 1
+P 0 20746 1 20744 1
+P 0 20747 1 20744 1
+M 0 20719 20 20743 2
+M 0 20719 20 20743 2
+M 0 20718 30 20743 4
+M 0 20718 30 20743 4
+M 0 20718 30 20743 4
+M 0 20718 30 20743 4
+O 0 20790 0 20744
+O 0 20744 0 20744
+P 0 20791 1 20744 1
+P 0 20746 1 20744 1
+P 0 20792 1 20744 1
+O 0 20771 0 20745
+P 0 20772 1 20771 1
+P 0 20773 1 20771 1
+O 0 20774 0 20745
+P 0 20775 3 20774 3
+O 0 20776 0 20745
+P 0 20777 1 20776 1
+P 0 20778 3 20776 3
+O 0 20779 0 20745
+P 0 20780 1 20779 1
+O 0 20781 0 20745
+O 0 20782 0 20745
+M 0 20720 1 20745 1
+O 0 20783 0 20746
+O 0 20784 0 20746
+O 0 20785 0 20746
+P 0 20786 1 20785 1
+P 0 20787 1 20785 1
+O 0 20788 0 20746
+P 0 20752 1 20788 1
+P 0 20753 1 20788 1
+P 0 20754 1 20788 1
+O 0 20789 0 20746
+O 0 20793 0 20748
+O 0 20793 0 20749
+O 0 20793 0 20750
+O 0 20740 0 20753
+M 0 20717 1 20754 1
+G 0 20737 0
+G 0 20738 0
+G 0 20739 0
+O 0 20741 0 20758
+O 0 20742 0 20758
+O 0 20741 0 20759
+O 0 20742 0 20759
+O 0 20741 0 20760
+O 0 20742 0 20760
+O 0 20734 0 20762
+M 0 20716 5 20762 5
+M 0 20716 5 20762 5
+M 0 20716 5 20762 5
+M 0 20716 5 20762 5
+M 0 20716 5 20762 5
+O 0 20734 0 20763
+O 0 20741 0 20767
+O 0 20742 0 20767
+O 0 20741 0 20768
+O 0 20742 0 20768
+O 0 20741 0 20769
+O 0 20742 0 20769
+O 0 20741 0 20770
+O 0 20742 0 20770
+O 0 20741 0 20771
+O 0 20742 0 20771
+O 0 20741 0 20772
+O 0 20742 0 20772
+O 0 20741 0 20773
+O 0 20742 0 20773
+O 0 20732 0 20777
+M 0 20715 1 20779 1
+O 0 20732 0 20779
+O 0 20732 0 20780
+O 0 20732 0 20782
+O 0 20732 0 20783
+O 0 20732 0 20786
+O 0 20732 0 20787
+O 0 20731 0 20790
+M 0 20714 1 20792 1
+O 0 20731 0 20792
+O 0 20731 0 20794
+O 0 20731 0 20795
+M 0 20710 5 20798 5
+M 0 20710 5 20798 5
+M 0 20710 5 20798 5
+M 0 20710 5 20798 5
+M 0 20710 5 20798 5
+M 0 20711 1 20798 1
+M 0 20712 5 20799 5
+M 0 20712 5 20799 5
+M 0 20712 5 20799 5
+M 0 20712 5 20799 5
+M 0 20712 5 20799 5
+M 0 20713 1 20799 1
+M 0 20704 5 20801 5
+M 0 20704 5 20801 5
+M 0 20704 5 20801 5
+M 0 20704 5 20801 5
+M 0 20704 5 20801 5
+M 0 20705 1 20801 1
+M 0 20702 5 20802 5
+M 0 20702 5 20802 5
+M 0 20702 5 20802 5
+M 0 20702 5 20802 5
+M 0 20702 5 20802 5
+M 0 20703 1 20802 1
+M 0 20722 1 20803 1
+M 0 20706 5 20804 5
+M 0 20706 5 20804 5
+M 0 20706 5 20804 5
+M 0 20706 5 20804 5
+M 0 20706 5 20804 5
+M 0 20707 1 20804 1
+M 0 20708 5 20805 5
+M 0 20708 5 20805 5
+M 0 20708 5 20805 5
+M 0 20708 5 20805 5
+M 0 20708 5 20805 5
+M 0 20709 1 20805 1
+S
+
+
+
+#SHOPS
+20717 0 0 0 0 0 100 100 0 23
+20722 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

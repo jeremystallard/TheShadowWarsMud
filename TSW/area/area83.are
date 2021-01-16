@@ -1,0 +1,2333 @@
+#AREADATA
+Name CotL Military Camp~
+Builders Angenue~
+VNUMs 27400 27500
+Credits None~
+Security 5
+Low 40
+High 60
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#27400
+servant~
+a {ys{Ye{Wrva{Yn{yt{x~
+A servant stands here in {Wwhite{x and {yg{Yol{yd{x livery, waiting for his orders.
+~
+A tall man with sleek {ybrown{x hair stands here in neatly pressed {yl{Yi{Wve{Yr{yy{x. 
+His appearance is very clean and sharp.  Not a whisker on his face or a hair
+out of place.  He is very much in keeping with the order of a servant of the
+light.  
+~
+amadician~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 shoulderbash
+0 0 0 0 0
+A
+1 1 1 1
+CIN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#27401
+soldier~
+a {Wsoldier{x~
+A soldier walks through camp with a distinct purpose, his {Wcloak{x flapping from his stride.
+~
+A tall, thin man dressed in a {Wwhite cloak{x and conical metal {Wcap{x strides
+through camp toward the orderly soldier tents.  His gaze is straight forward
+and purposeful.  He only pauses to appropriately greet his superiors.  
+~
+amadician~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+CIN 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#27402
+soldier~
+a {Wsoldier{x~
+A {Wsoldier{x is here, taking long strides toward his assignment.
+~
+A tall, thin man dressed in a {Wwhite cloak{x and conical metal {Wcap{x strides
+through camp toward the orderly soldier tents.  His gaze is straight forward
+and purposeful.  He only pauses to appropriately greet his superiors.  
+~
+amadician~
+A 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 headbutt
+0 0 0 0 0
+A
+1 1 1 1
+CIN 0 0 0
+stand stand male 45
+0 0 medium 'flesh'
+#27403
+bartender drink servant~
+a {Wservant{x~
+A servant in starch {Wwhite {yli{Yve{yry{x stands here, serving drinks.
+~
+A tall, cleanly shaven man stands here, dressed in {Wwhite{x and {yg{Yol{yd{x.  He is
+very polite and waits for the appropriate time to offer drinks to those
+officers relaxing in this room.  
+~
+amadician~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 knee
+0 0 0 0 0
+A
+1 1 1 1
+CIN 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+M 'SPEECH' 27403 mead~
+M 'SPEECH' 27402 tea~
+M 'SPEECH' 27401 brandy~
+M 'GREET' 27400 100~
+#27404
+guard~
+a solid, stoic {Wguard{x~
+A solid, stoic {Wguard{x with a sneer stands here, protecting the entrance to this {Wtent{x.
+~
+A {ydusty{x haired man stands here, guarding the {Wtent{x belonging to the Lord
+Captain.  His cleanly shaven face is stern and his jaw off-set slightly to
+create a sneer.  His starched {Wwhite cloak{x is clean and neatly pressed,
+proving that he hasn't had to do much protecting.  But he doesn't exactly
+look like a man to be messed with.  
+~
+amadician~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 shoulderbash
+0 0 0 0 0
+A
+7 7 7 7
+CEFIJKNU B 0 0
+stand stand male 60
+0 0 medium 'flesh'
+G Children~
+F guard_flag BD
+M 'GREET' 27404 100~
+#27405
+neat neatly groomed cook man~
+a neatly-groomed {Wcook{x~
+A neatly-groomed {Wcook{x is here, serving meals to the soldiers.
+~
+A rounder man within a cleanly shaven face and neatly cut {Dg{wra{Dy{win{Dg{x hair
+stands here.  His smile is famous to those around this camp, as his is
+cooking.  His meals are always quite outstanding, especially considering the
+amount of food he has to prepare.  He is dressed in an appropriate {Wwhite
+cloak{x, covered with a starched {Wwhite{x apron to keep his cloak clean.  
+~
+amadician~
+AB DFJ 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 uppercut
+0 0 0 0 0
+A
+6 6 6 6
+CEFIKN ABCD 0 0
+stand stand male 40
+0 0 medium 'flesh'
+#27406
+guard~
+a well-built {Wguard{x~
+A well-built {Wguard{x stands here, carefully watching all who enter the encampment.
+~
+A dusty haired man stands here, his deep {Bblue{x eyes carefully examining
+all who enter the Children of the Light encampment.  A {Ds{ww{Wo{wr{Dd{x in a scabbard
+is carefully tucked beneath his {Wcloak{x, ready to be drawn, if necessary.  
+~
+amadician~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 shoulderbash
+0 0 0 0 0
+A
+3 3 3 3
+CFIKN 0 0 0
+stand stand male 60
+0 0 medium 'flesh'
+M 'GREET' 27406 100~
+#27407
+guard~
+a well-built {Wguard{x~
+A well-built {Wguard{x stands here, carefully watching all who enter the encampment.
+~
+A dusty haired man stands here, his deep {Bblue{x eyes carefully examining
+all who enter the Children of the Light encampment.  A {Ds{ww{Wo{wr{Dd{x in a scabbard
+is carefully tucked beneath his {Wcloak{x, ready to be drawn, if necessary.  
+~
+amadician~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 shoulderbash
+0 0 0 0 0
+A
+3 3 3 3
+CFIKN 0 0 0
+stand stand male 60
+0 0 medium 'flesh'
+#27408
+practice dummy~
+a practice {Wdummy{x~
+A practice {Wdummy{x stands here, waiting for a battle.
+~
+A body bag filled with {Wfluff{x stands here, waiting for someone to attack
+it.  
+
+~
+unique~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 medium 'cotton'
+#27409
+white stallion~
+a {Wwhite{x stallion~
+A {Wwhite{x stallion stands in the pasture, nibbling on some {Gg{gr{Gass{x.
+~
+A beautiful {Wwhite stallion{x, looking to be of Tairen blood, stands here
+eating some {Gg{gr{Gass{x.  He swishes his tail to keep the {Df{wl{Dies{x away.  
+~
+unique~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AV ACDEJKQ medium 'flesh'
+#27410
+low ranking soldier~
+a low ranking {Wsoldier{x~
+A low ranking {Wsoldier{x works in this {Wtent{x, organizing supplies.
+~
+A young looking man with {Rst{Yra{Wwbe{Yrr{Ry b{Yl{Won{Yd{Re{x hair is working here.  His new
+{Wwhite cloak{x is pressed neatly and he wears it quite well.  His face is
+cleanly shaven, though he might not be old enough to worry.  And, his hair
+is nicely clipped.  He is the perfect picture of a new recruit.  
+~
+amadician~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CEFIJKNO ABCD 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#27411
+officer man~
+an {Wo{Yff{yi{Yc{Wer{x~
+An {Wofficer{x with {yt{Yhre{Ye {yk{Yn{Wo{Yt{ys{x of rank patrols the encampment.
+~
+A tall, thin officer, looking very crisp in his starched {Wwhite cloak{x
+paces the camp.  He gives orders to the new soldiers around him and
+disciplines when necessary.  They all notice the {yt{Yhre{ye k{Yn{Wo{Yt{ys{x of rank below
+the {ysu{Ynbur{yst{x on his left breast and salute or address appropriately.  
+~
+amadician~
+A 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+CIN 0 0 0
+stand stand male 55
+0 0 medium 'flesh'
+#27412
+questioner hand light~
+a {RQu{res{Rti{ron{Rer{x~
+A {rH{Ran{rd{x of the {yL{Yi{Wg{Yh{yt{x walks toward his {Wtent{x in the encampment.
+~
+A tall, {ys{Yand{yy{x haired man walks quickly through the camp.  He is very
+stoic and his face is set to almost stern.  He is not approached by others
+of his rank, specifically because of the {rr{Re{rd {Rcrook{x behind the {ysu{Ynbur{yst{x on
+his left breast.  
+~
+amadician~
+A 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+CIN 0 0 0
+stand stand male 55
+0 0 medium 'flesh'
+#27413
+officer man~
+an {Wo{Yff{yi{Yc{Wer{x~
+An {Wofficer{x with {yf{You{yr k{Yn{Wo{Yt{ys{x of rank stands here, teaching military tactics.
+~
+A tall, thin officer, looking very crisp in his starched {Wwhite cloak{x
+paces the camp.  He gives orders to the new soldiers around him and
+disciplines when necessary.  They all notice the {yf{You{yr k{Yn{Wo{Yt{ys{x of rank below
+the {ysu{Ynbur{yst{x on his left breast and salute or address appropriately.  
+~
+amadician~
+ABJTb 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CIN 0 0 0
+stand stand male 55
+0 0 medium 'flesh'
+F gain A
+#27414
+officer man~
+an {Wo{Yff{yi{Yc{Wer{x~
+An {Wofficer{x with {yf{You{yr k{Yn{Wo{Yt{ys{x of rank sits in his tent, studying a {gm{yap{x.
+~
+A tall, thin officer, looking very crisp in his starched white cloak is
+here, studying.  He is planning a battle of sorts, or maybe pondering a new
+way to teach new recruits.  Anyone would notice the {yf{You{yr k{Yn{Wo{Yt{ys{x of rank below
+the {ysu{Ynbur{yst{x on his left breast and salute or address appropriately.  
+~
+amadician~
+AB 0 0 0
+90 80 50d50+10000 90d10+100 12d12+60 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CFHIKNO 0 0 0
+stand stand male 55
+0 0 medium 'flesh'
+M 'KILL' 27414 100~
+#27415
+soldier~
+a {Wsoldier{x~
+A {Wsoldier{x is here.
+~
+A tall, thin man, looking very crisp in his starched {Wwhite cloak{x is here.  
+~
+amadician~
+ABF 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CFHIKNO 0 0 0
+stand stand male 55
+0 0 medium 'flesh'
+#27416
+stoic guard solid~
+a solid, stoic {Wguard{x~
+A solid, stoic {Wguard{x stands here, awaiting orders from his leader.
+~
+A {yd{Yus{yty{x haired man stands here, his {Wwhite cloak{x billowing slightly in the
+breeze.  His face is cleanly shaven, showing off a nicely chiseled jaw. 
+Everything about him is pristine, from his starched, clean, neatly pressed
+{Wwhite cloak{x to his polished, dirt-free {Dboots{x.  He stands at attention,
+waiting for orders from his commanding officer.  
+~
+amadician~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 shoulderbash
+0 0 0 0 0
+A
+7 7 7 7
+CEFIJKNU 0 0 0
+stand stand male 60
+0 0 medium 'flesh'
+G Children~
+F guard_flag BD
+#27459
+Gaius Cassius Centurion~
+(no short description)~
+(no long description)
+~
+~
+andoran~
+ABFT Vb 0 0
+200 100 200d57+20000 110d10+100 12d12+55 none
+500 500 500 500 500
+0
+8 8 8 8
+CFHJKNW c 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#27400
+small spring~
+a small {Bs{Cp{Wri{Cn{Bg{x~
+A small {Bs{Cp{Wri{Cn{Bg{x is bubbling from the ground here, in the midst of a small grove of {yt{Gr{ge{Ge{ys{x.~
+none~
+fountain 0 P
+100000 100000 'water' 0 0
+0 0 0 100
+#27401
+table bench~
+a {ybench{x~
+Several large {ytables{x are placed in precise rows throughout the tent, each with two {ybenches{x attached to either side.~
+wood~
+furniture 0 P
+20 20000 E 0 0
+0 0 0 100
+#27402
+large bed comforter~
+a large {ybed{x ~
+A large {ybed{x covered in layers of {Wwhite{x and {yg{Yol{yd{x comforters is here, separated from the rest of the tent by {yg{Yo{Wld{Ye{yn {Wcurtains{x. ~
+wood~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#27403
+large desk~
+a large {ydesk{x~
+A large {ydesk{x stands in the center of the room, covered with neatly organized stacks of {Wl{Det{Wters{x and {Wpapers{x.~
+wood~
+furniture 0 P
+1 1000 D 0 0
+0 0 0 100
+#27404
+armchair sturdy chair~
+a {Wpadded{x, sturdy {yarmchair{x~
+Two sturdy {yarmchairs{x with comfortable {Wcushions{x have been placed near the desk.~
+wood~
+furniture 0 P
+2 2000 E 0 0
+0 0 0 100
+#27405
+heavy golden key~
+a heavy {yg{Yo{Wld{Ye{yn{x key~
+A heavy {yg{Yo{Wld{Ye{yn{x key really shouldn't be lying here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 10 100
+#27406
+mess kit~
+a {Dm{wes{Ws {wki{Dt{x~
+A {Dm{wes{Ws {wki{Dt{x sits here, complete with spoon, fork, plate and cup.~
+metal~
+container 0 AO
+10 0 0 4 0
+0 2 15 100
+#27407
+bedroll~
+a {Wbedroll{x~
+A {Wbedroll{x is neatly rolled and stored here.~
+cloth~
+furniture 0 A
+1 1000 EHK 200 150
+0 2 20 100
+#27408
+small red key~
+a small {Rred{x key~
+A small {Rred{x key should not be lying here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 10 100
+#27409
+desk large mahogany~
+a large {yma{rho{ygany{x desk~
+A large {yma{rho{ygany{x desk stands at the center of the room, covered in neatly rolled {ym{Da{Wps{x and piles of {Wpaper{x.~
+wood~
+furniture 0 P
+1 1000 D 0 0
+0 0 0 100
+#27410
+quill pen~
+a {Wquill{x pen~
+A {Wquill{x pen is here, sitting at the corner of the {ydesk{x.~
+bone~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+pen~
+This pen was given to you as a courtesy of the {WChildren{x of the {YLight{x.
+~
+#27411
+armchair chair~
+a {Wpadded{x {yarmchair{x~
+Two heavy {Wpadded{x {yarmchairs{x sit adjacent to the desk.~
+wood~
+furniture 0 P
+2 2000 E 0 0
+0 0 0 100
+#27412
+gold pitcher~
+a beautiful {ygo{Yld{y-l{Yea{yfed {yp{Yi{Wtch{Ye{yr{x~
+A beautiful {ygo{Yld{y-l{Yea{yfed {yp{Yi{Wtch{Ye{yr{x sits on a stand, filled with {Cice{x cold {Bw{Ca{Wt{Ce{Br{x.~
+metal~
+drink 0 AO
+10 10 'water' 0 0
+0 25 0 100
+#27413
+stand~
+a beautifully carved {ys{rt{yand{x~
+A beautifully carved {ys{rt{yand{x is here, holding refreshments.~
+wood~
+container 0 P
+20 AC 0 10 0
+0 0 0 100
+#27414
+crystal goblet~
+an expensive {Ccr{Wyst{Cal {Cgo{Wbl{Cet{x~
+An expensive {Ccr{Wyst{Cal {Cgo{Wbl{Cet{x lies here, broken.~
+crystal~
+drink 0 AO
+1 0 'water' 0 0
+0 1 10 100
+#27415
+golden bowl~
+a beautiful, expensive {yg{Yo{Wld{Ye{yn {yb{Wo{Yw{yl{x~
+A very ornate, expensive {yg{Yo{Wld{Ye{yn{x {yb{Yow{yl{x sits atop a handsome, sturdy {ydresser{x.~
+metal~
+container 0 P
+20 0 0 5 0
+0 0 0 100
+#27416
+bunch grapes~
+a bunch of {mgrapes{x~
+A bunch of ripe, yummy looking {mgrapes{x lies here.~
+organic~
+food 0 AO
+2 1 0 0 0
+0 1 0 100
+#27417
+snifter brandy~
+a snifter of {ybrandy{x~
+A snifter of {ybrandy{x has been dropped on the ground.~
+glass~
+drink 0 AO
+1 1 'brandy' 0 0
+0 1 10 100
+#27418
+cup hot tea~
+a cup of {yt{ge{ya{x~
+A cup of {yt{ge{ya{x lies on the ground.~
+porcelain~
+drink 0 AO
+1 1 'tea' 0 0
+0 1 10 100
+#27419
+amadacian mead~
+a mug of Amadacian {ymead{x~
+A mug of {BAm{Yad{Bac{Yia{Bn{x {ymead{x~
+porcelain~
+drink 0 AO
+1 1 'mead' 0 0
+0 1 10 100
+#27420
+sauna warm~
+a warm {ys{Ba{Cu{Bn{ya{x~
+A warm {ys{Ba{Cu{Bn{ya{x is here, behind heavy {yv{Ye{Wlv{Ye{yt {ycu{Yrt{ya{Yin{ys{x.~
+metal~
+container 0 P
+4000 F 0 4 0
+0 0 0 100
+#27421
+velvet couch~
+a very comfortable {yv{Ye{Wlv{Ye{yt c{Youc{yh{x~
+Four large, very comfortable {yv{Ye{Wlv{Ye{yt c{Youc{yh{x are neatly placed around the tent at perfect angles. Each is covered with fluffy, soft {yp{Yi{Wllo{Yw{ys{x.~
+velvet~
+furniture 0 P
+8 8000 EHK 0 0
+0 0 0 100
+#27422
+bathrobe~
+a soft, warm {Wbathrobe{x~
+A very soft {Wbathrobe{x hangs from robe rack near the {ys{Ba{Cu{Bn{ya{x.~
+cloth~
+armor 0 AD
+0 0 0 0 0
+0 2 10 100
+#27423
+list~
+a lengthy {Wl{Di{Wst{x~
+A lengthy {Wl{Di{Wst{x of people that are being saught lies here on the desk.~
+paper~
+notepaper 0 AO
+0 0 0 0 0
+0 1 1 100
+#27424
+desk drawer~
+a {ydesk{x drawer~
+A desk drawer is here.~
+wood~
+container a P
+10 AC 0 4 0
+0 0 0 100
+#27425
+ornate map~
+a very detailed, ornate {ym{ga{yp{x~
+A very detailed, ornate {ym{ga{yp{x is here.~
+paper~
+map 0 AO
+0 0 0 0 0
+0 0 0 100
+#27426
+bowl golden strawberries strawberry~
+a ripe, yummy {rst{Rra{rwb{Rer{rry{x~
+A {yg{Yo{Wld{Ye{yn{x bowl of ripe, yummy {rst{Rra{rwb{Rer{rri{Res{x sits near a {yp{Yi{Wll{Yo{yw{x.~
+organic~
+food 0 AO
+1 1 0 0 0
+0 1 0 100
+#27427
+rack gold~
+a {ywooden{x rack, leafed in {yg{Yol{yd{x~
+A {ywooden{x rack, leafed in {yg{Yol{yd{x, has been placed here to hold {Ds{ww{Wor{wd{Ds{x.~
+cloth~
+container 0 0
+2000 0 0 20 0
+0 0 0 100
+#27428
+steel tipped lance~
+a {Ds{wt{We{we{Dl{x-tipped {ylance{x~
+A {Ds{wt{We{we{Dl{x-tipped {ylance{x lies on the ground.~
+metal~
+weapon 0 AN
+lance 7 12 'stab' 0
+60 20 50 100
+A
+19 4
+A
+19 4
+A
+19 4
+#27429
+mail shirt~
+a {Dch{wai{Wn {wma{Dil shirt{x~
+A {Dch{wai{Wn {wma{Dil shirt{x has been dropped here.~
+metal~
+armor 0 AD
+30 0 30 0 0
+60 25 150 100
+#27430
+simple cot~
+a simple, well-made {Wc{yo{Wt{x~
+A simple, well-made {Wc{yo{Wt{x stands in the corner of the {Wtent{x.~
+wood~
+furniture 0 P
+1 1000 EHK 200 200
+0 0 0 100
+#27431
+cup hot coffee~
+a cup of hot {ycoffee{x~
+A cup of hot {ycoffee{x sits on the ground.~
+liquid~
+drink 0 AO
+1 1 'coffee' 0 0
+0 1 5 100
+#27432
+bowl blue grapes~
+a bowl of {Bblue{x {Bg{bra{Bp{be{Bs{x~
+A bowl of {Bblue{x {Bg{bra{Bp{be{Bs{x sits here.~
+cloth~
+food 0 AO
+20 20 0 0 0
+0 1 8 100
+#27433
+plate sliced pears~
+a plate of sliced {Yp{ge{ya{Yrs{x~
+A plate of sliced {Yp{ge{ya{Yrs{x sits here.~
+cloth~
+food 0 AO
+20 20 0 0 0
+0 1 8 100
+#27434
+spicy muffins~
+a plate of {rs{Yp{ricy {ymu{rf{Yf{yins{x~
+A plate of {rs{Yp{ricy {ymu{rf{Yf{yins{x is here.~
+cloth~
+food 0 AO
+25 25 0 0 0
+0 1 15 100
+#27435
+salted ham~
+a plate of {Wsalted {Mh{Wa{Mm{x~
+A plate of {Wsalted {Mh{Wa{Mm{x sits here.~
+cloth~
+food 0 AO
+35 35 0 0 0
+0 1 30 100
+#27436
+peppered beef~
+a plate of {Dpe{wp{Dpe{wr{Ded{x {yb{re{yef{x~
+A plate of {Dpe{wp{Dpe{wr{Ded{x {yb{re{yef{x sits here.~
+cloth~
+food 0 AO
+35 35 0 0 0
+0 1 35 100
+#27437
+breast plate~
+a polished {Wbr{wea{Wst p{wl{Wa{wt{We{x~
+A polished {Wbr{wea{Wst p{wl{Wa{wt{We{x lies on the ground.~
+metal~
+armor 0 AD
+25 10 25 0 0
+60 10 120 100
+#27438
+longsword sword~
+a {Dlo{wng{Ws{wwo{Drd{x~
+A {Dlo{wng{Ws{wwo{Drd{x has been dropped on the ground.~
+metal~
+weapon 0 AN
+sword 7 12 'stab' 0
+60 10 100 100
+A
+19 4
+#27439
+pile hay~
+a pile of {Yh{ya{Yy{x~
+A pile of {Yh{ya{Yy{x sits in each stall for a {yhorse{x to eat.~
+organic~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#27440
+bird nest oak tree~
+a neatly built bird's {ynest{x~
+A neatly built bird's {ynest{x is resting here in a tall {yoak {gt{Gr{ye{ge{x.~
+wood~
+container 0 P
+10 0 0 3 0
+0 0 0 100
+#27441
+robin egg~
+a {Cr{wo{Cb{wi{Cn {Ce{wg{Cg{x~
+A small {Cr{wo{Cb{wi{Cn {Ce{wg{Cg{x sits here. ~
+organic~
+food 0 AO
+0 0 0 0 0
+0 1 1 100
+#27442
+sterile white cot cots~
+a comfortable, {Wsterile cot{x~
+Five comfortable, {Wsterile cots{x are arranged in a perfect row here inside the {Wtent{x.~
+cloth~
+furniture 0 P
+5 5000 EHK 0 0
+0 0 0 100
+#27443
+cabinet medical supply~
+a medical supply {ycabinet{x~
+A medical supply {ycabinet{x stands here, neatly stocked with the necessary {Wsupplies{x.~
+wood~
+furniture 0 P
+0 0 0 0 0
+0 0 0 100
+#27444
+drawer~
+a {ydrawer{x in a medical supply {ycabinet{x~
+A {ydrawer{x in a medical supply {ycabinet{x is here.~
+wood~
+container a P
+100 AC 0 5 0
+0 0 0 100
+#27445
+pouch herb herbs~
+a {ypouch{x of {yh{ge{yr{gb{ys{x~
+A {ypouch{x of {yh{ge{yr{gb{ys{x lies on the ground.~
+organic~
+pill 0 AO
+90 'heal' 'refresh' '' ''
+0 2 10 100
+#27446
+leather saddle~
+a {yl{De{wa{yt{Dh{we{yr saddle{x~
+A {yl{De{wa{yt{Dh{we{yr saddle{x sits here on a rail.~
+leather~
+armor 0 AD
+2 2 4 2 0
+10 0 0 100
+#27447
+conical metal cap~
+a {Wconical m{De{wt{Da{Wl cap{x~
+A {Wconical m{De{wt{Da{Wl cap{x has been dropped here.~
+metal~
+armor 0 AE
+10 10 10 10 0
+40 4 80 100
+#27448
+long white cloak~
+a long {Wwhite cloak{x~
+A long {Wwhite cloak{x lies on the ground.~
+cloth~
+armor 0 AK
+10 10 10 10 0
+40 4 100 100
+#27449
+longsword~
+a {Dl{won{Wgsw{wor{Dd{x~
+A {Dl{won{Wgsw{wor{Dd{x has been dropped here.~
+cloth~
+weapon 0 AN
+sword 5 10 'stab' 0
+40 10 150 100
+A
+19 4
+#27450
+scabbard~
+a {Wscabbard{x~
+A {Wscabbard{x has been dropped here.~
+leather~
+container 0 AL
+15 0 0 1 0
+55 2 50 100
+#27451
+wooden rack~
+a {ywooden{x rack~
+A {ywooden{x rack stands in the middle of the room.~
+wood~
+furniture 0 P
+1 1000 EH 0 0
+0 0 0 100
+#27452
+cherry wood desk~
+a {rch{ye{rrry {yw{ro{yod desk{x~
+An elaborately carved {rch{ye{rrry {yw{ro{yod desk{x writing desk stands atop a plush {Rr{re{Rd c{rar{Rp{ret{x.~
+wood~
+furniture 0 P
+1 1000 D 0 0
+0 0 0 100
+#27453
+plush armchair~
+a {rp{Rlu{rsh {ra{Rr{ymcha{Ri{rr{x~
+Two {rp{Rlu{rsh {ra{Rr{ymcha{Ri{rrs{x made of beautiful{rch{ye{rrry {yw{ro{yod{x sit adjacent to the {ydesk{x.~
+wood~
+furniture 0 P
+2 2000 EH 0 0
+0 0 0 100
+#27454
+lance~
+a {ysanded wood l{wa{Dn{wc{ye{x with an elaborate {Whandguard{x~
+A {yl{wa{Dn{wc{ye{x made of {ysanded wood{x with an elaborate {Whandguard{x has been dropped here.~
+wood~
+weapon c AN
+lance 11 14 'stab' D
+90 20 1000 100
+A
+18 9
+A
+19 9
+A
+3 1
+A
+2 1
+A
+4 1
+A
+1 1
+A
+5 1
+#27455
+guild donation chest wooden~
+a {ywooden{x chest~
+A {ywooden{x chest stands here inside the {Wtent{x.~
+wood~
+container 0 P
+20000 A 0 100 0
+0 0 0 100
+#27456
+small golden key~
+a small {yg{Yol{yd{x key~
+A small {yg{Yol{yd{x key should not have been dropped here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 10 100
+#27457
+small stream~
+a small {Bs{Ct{Wre{Ca{Bm{x~
+A small {Bs{Ct{Wre{Ca{Bm{x bubbles over worn {Dr{wo{Wc{wk{Ds{x in the field.~
+organic~
+fountain 0 P
+100000 100000 'water' 0 0
+0 0 0 100
+#27458
+white cloak~
+a {Wwhite cloak{x~
+A {Wwhite cloak{x sits neatly folded on a shelf.~
+cloth~
+armor 0 AK
+20 5 20 5 0
+50 2 200 100
+#27459
+sturdy lance~
+a sturdy {Dl{wa{yn{wc{De{x~
+A sturdy {Dl{wa{yn{wc{De{x has been dropped here.~
+metal~
+weapon 0 AN
+lance 5 21 'stab' 0
+100 5 100 100
+A
+18 4
+A
+19 4
+#27460
+polished sword~
+a polished {Ds{ww{Wo{wr{Dd{x~
+A polished {Ds{ww{Wo{wr{Dd{x has been dropped here.~
+metal~
+weapon 0 AN
+sword 5 21 'stab' 0
+100 5 100 100
+#27461
+tent~
+a pure {Wwhite tent{x~
+A pure {Wwhite tent{x has been pitched here.~
+cloth~
+container 0 0
+2 AC 0 3 10
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#27400
+A Field of Well-Worn Grass~
+This large, knee-high {gg{Gras{gs{x pasture has been transformed into a military
+encampment, covered in {Wwhite{x.  Tents spread in each direction for several
+hundred yards.  Each of them is perfectly spaced, not an inch out of place. 
+Soldiers can be seen hurrying around the encampment, dressed in long, {Wwhite
+cloaks{x.  
+~
+0
+0 15
+D0
+~
+~
+0 0
+0 0 27401
+D1
+~
+~
+0 0
+0 0 27403
+D3
+~
+~
+0 0
+0 0 27402
+D8
+~
+~
+0 0
+0 0 54204
+S
+#27401
+A Path Through the Military Encampment~
+The field's worn {gg{Gras{gs{x creates a path that stretches in four different
+directions.  Parts of the path are so worn, that {ye{ra{yrth{x shows through,
+creating mud puddles on rainy days.  These pits of mud are worrisome to
+those wearing long, {Wwhite cloaks{x within this encampment.  Hoof prints can be
+seen leading to the east, and depending on the time of day, the aroma of
+food cooking wafts from the west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27404
+D1
+~
+~
+0 0
+0 0 27406
+D2
+~
+~
+0 0
+0 0 27400
+D3
+~
+~
+0 0
+0 0 27429
+S
+#27402
+A Well-Worn Grass Path~
+The once tall {gg{Gras{gs{x is now plastered to the ground by many soldiers'
+boots who have walked to their orderly {Wtents{x.  Outside most of the tents,
+there are orderly {ywood{x piles for small camp {rf{Ri{Yr{Re{rs{x, perfect for cooking or
+warming under the night sky.  
+~
+0
+0 2
+D0
+~
+'{Wtent flap{x'~
+3 3
+1 0 27419
+D1
+~
+~
+0 0
+0 0 27400
+D3
+~
+~
+0 0
+0 0 27420
+S
+#27403
+A Well-Worn Grass Path~
+Outside of these rows of perfectly {Wwhite tents{x, soldiers can be seen
+lining up in perfect single file for their morning inspection.  At times, an
+officer might enter one of their tents to ensure its cleanliness as well. 
+If a {rf{Ri{Yr{re {ypit{x outside one of the tents is left unclean from the night
+before, the soldier stands to face the day doing chores instead of training.
+~
+0
+0 2
+D0
+~
+'{Wtent flap{x'~
+3 3
+1 0 27416
+D1
+~
+~
+0 0
+0 0 27417
+D3
+~
+~
+0 0
+0 0 27400
+S
+#27404
+A Path Through the Military Encampment~
+A worn-path in the field's {gg{Gras{gs{x forks here near the center of the
+encampment, curving to either side of a grove of {yt{Gr{ye{Ge{ys{x.  The trees are large
+{yo{G{gk{ys{x, full of leaves and critters scurrying to get {yacorns{x...  Though they
+seem to have slowed a bit since so many people have arrived.  In the midst
+of the trees is a bubbling spring of fresh {Bw{Ca{Wt{Ce{Br{x, flowing from some unknown
+place in the ground.  Because of its central location, it makes it easy for
+anyone in this camp to access.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27408
+D2
+~
+~
+0 0
+0 0 27401
+S
+#27405
+A Mess Tent~
+This massive {Wwhite tent{x is very organized, it has to be to store food and
+seat hungry soldiers.  There is a large {ybar{x set up for food serving.  All
+food that rests upon it is neatly served and cleaned so that dribbles do not
+decorate the surface.  A long table in the tent holds several {Dpi{wt{Wch{we{Drs{x,
+prespiring with {Bw{Ca{Wt{Ce{Br{x droplets.  Each pitcher is placed on a table at
+serving time so that it can be used to fill drinking glasses.  Order is key
+at meal time, as is eating carefully so that noone's {Wwhite cloak{x is
+tarnished.  
+~
+0
+CD 0
+D1
+~
+'{Wtent flap{x'~
+1 1
+1 0 27429
+S
+#27406
+A Fenced in Pasture~
+A tall, {Wwhite{x picket fence surrounds this portion of the {ggr{Gas{gsy{x pasture,
+worn only by horse's hooves.  It creates the perfect place for these noble
+animals to graze or run.  Two large gates allow access for soldiers to
+obtain their animals for training or battle.  To the east is a large tent
+set up for use as a stable.  
+ 
+~
+0
+0 1
+D1
+~
+'{Wtent flap{x'~
+1 1
+1 0 27415
+D2
+~
+~
+0 0
+0 0 27407
+D3
+~
+~
+0 0
+0 0 27401
+S
+#27407
+An Open Pasture~
+This open pasture is filled with tall {ggr{Gas{gs{x, up to a soldier's knee.  It
+has only been worn in one place, a small, narrow path leading to the south. 
+Sporatically, large {yo{ga{yk{x {yt{gr{Ge{yes{x cover the landscape, adding a {gg{Gree{gn{x drapery to
+an otherwise {Cblue{x sky.  {YYellow bu{ytt{Yer{yfl{Yies{x flit from flower to flower,
+pausing only briefly before dancing on their way.  And, it isn't uncommon to
+see a {ysq{Du{Wi{Dr{yrel{x scamper from a tree when it hears the footsteps of a soldier
+ruining this otherwise serene setting.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27406
+D2
+~
+~
+0 0
+0 0 27428
+S
+#27408
+A Path Through the Military Encampment~
+A worn {gg{Gras{gs{x path continues through this very large field, leading to
+several soldiers {Wtents{x that have been pitched.  Each tent is evenly spaced,
+not an inch out of place.  In places where many soldiers haven't walked,
+{mf{Wl{Yowe{Wr{ms{x still bloom in the tall grass, but they will not be around for long,
+considering all the troops that are stationed here.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27409
+D1
+~
+'{Wtent flap{x'~
+3 3
+1 0 27410
+D2
+~
+~
+0 0
+0 0 27404
+D3
+~
+'{Wtent flap{x'~
+1 1
+1 0 27411
+S
+#27409
+A Path Through the Military Encampment~
+The field {gg{Gras{gs{x has been worn down to form a path through the encampment
+leading to various {Wtents{x.  Some of the flaps are open and some are closed,
+allowing privacy for the soldiers inside.  To the west, rows upon rows of
+{Wtents{x have been set up, making it easy to get lost unless you know which
+tent belongs to you.  To the east, a large {Rr{re{Rd{x tent has been set up.  It
+stands out dramatically against the field of {Wwhite{x surrounding it.  
+~
+0
+0 2
+D1
+~
+'{Rtent flap{x'~
+8743 8743
+2 27408 27413
+D2
+~
+~
+0 0
+0 0 27408
+D3
+~
+~
+0 0
+0 0 27430
+S
+#27410
+A Tidy Tent~
+This soldier's tent is made to perfection, even his {Wc{yo{Wt{x stands without
+any wrinkles in the thin, feather {Wcomforter{x.  His toiletries are precisely
+placed on a small stand, including {Ysoap{x, a hand {Wtowel{x and a {D{wa{Wz{wo{Dr{x, next to a
+bowl filled with clear {Bw{Ca{Wt{Ce{Br{x.  A clean, {Wwhite cloak{x hangs from a peg placed
+carefully on the tent's {Wcanvas{x wall.  
+~
+0
+CD 0
+D3
+~
+'{Wtent flap{x'~
+3 3
+1 0 27408
+S
+#27411
+A Tidy Tent~
+Inside this starched white {Wtent{x, everything is very orderly.  There is
+not much in this tent, as it belongs to a simple soldier.  Among the
+furnishings is a {ychest{x used to hold personal items and a change of clothes
+for when his {Wwhite{x cloak gets tarnished during practice.  
+~
+0
+CD 0
+D1
+~
+'{Wtent flap{x'~
+1 1
+1 0 27408
+S
+#27412
+A Large Pavilion~
+This enormous tent belongs to one powerful man, the Lord Captain of the
+Children of the Light.  It is furnished to reflect strength, power and
+wealth.  An enormous woven Tairen {Wrug{x covers most of the floor.  On it
+stands large {Yfurniture{x carved with strong, straight lines.  The towering
+lamps around the room are gilded in {yg{Yol{yd{x and lit with a flame that almost
+seems {yg{Yo{Wld{Ye{yn{x itself.  The walls of this grand tent support portraits and
+artwork of victory, as well as a massive {Wwhite{x banner with an embroidered
+{yg{Yo{Wld{Ye{yn {Ysunburst{x.  
+~
+0
+CD 0
+D3
+~
+'{Wtent flap{x'~
+8743 8743
+2 27405 27422
+S
+#27413
+A High Ranking Inquisitor's Tent~
+Inside this very large {Rr{re{Rd{x tent, everything is placed even more perfectly
+than outside, if that is possible.  All of the interior colors are {Rred{x and
+{Wwhite{x, stark and rich.  Upon the floor sits and elegant woven Tairen rug,
+dyed blood {Rred{x.  Perhaps it is a symbol of the taste of the man who inhabits
+this tent.  Upon a {yg{Yol{yd-{yl{Ye{Waf{Ye{yd{x flag pole, next to the desk, is a large {Wwhite{x
+banner, emblazened with a {ysu{Ynbur{yst{x.  Behind the sunburst is a {Rr{re{Rd crook{x. 
+Anyone who knows about the Hand of the Light would probably not want to find
+himself in this tent, unless on official business.  
+~
+0
+CD 0
+D1
+~
+'{Rtent flap{x'~
+8743 8743
+2 27408 27414
+D3
+~
+'{Rtent flap{x'~
+8743 8743
+2 27408 27409
+S
+#27414
+A Torture Tent~
+This room is kept intentionally dim, lit only by a few dripping {Wcandles{x
+that are wearing down to their bases.  It seems rather damp and unclean,
+especially for a camp that prides itself on sterility and organization. 
+Very little decor has been placed in this tent, a few pieces here and there,
+like {Dma{wn{Wac{wl{Des{x welded to the ground.  Noticeably, a large {ytable{x, covered in
+{Di{wr{Wo{wn{Ds{x, {Dp{wi{Wnce{wr{Ds{x, {Dkn{wi{Wv{Des{x and {Dn{we{Wedl{we{Ds{x is here.  A very bright, hot {rf{Ri{Yr{re{x burns
+in a small, square pit next to the table.  On a good day, only screams will
+be heard.  On a bad one, the squeal of rats.  
+~
+0
+ACD 0
+D3
+~
+'{Rtent flap{x'~
+8743 8743
+2 27408 27413
+S
+#27415
+A Large Tent~
+Inside this very large, starched {Wwhite tent{x, many stables have been built
+with gates to protect the animals inside from leaving without their owner's
+knowledge.  Upon the stable walls, a few elegantly detailed {Wle{ya{Wth{ye{Wr{x saddles
+have been placed.  These clearly belong to the officer's who have servants
+to bridle their horses.  Other, more simpler gear is draped neatly over
+portable {ytables{x.  One corner of the stable has been designed specifically
+for food, where many bales of {Yhay{x have been neatly stacked.  
+~
+0
+CD 0
+D0
+~
+'{ystable gate{x'~
+1 1
+1 0 27445
+D3
+~
+~
+1 1
+1 0 27406
+S
+#27416
+A Tidy Tent~
+The inside of this tent is extremely organized, if simple.  The {yc{Wo{yt{x is
+neatly made and a small stand holds a change of clothing neatly folded
+inside of it.  On top of the stand, a small {Dm{wes{Ws {Wki{Dt{x has been cleaned and
+laid out on a {Wtowel{x to dry.  Each piece of the kit is placed on the towel to
+the square.  
+~
+0
+CD 0
+D2
+~
+'{Wtent flap{x'~
+3 3
+1 0 27403
+S
+#27417
+A Well-Worn Grass Path~
+The well-worn pasture {gg{Gras{gs{x continues only for a few feet here, before
+giving way to a newly made {Dco{wbb{Wles{wto{Dne{x path to the south.  Instead of small
+soldiers {Wtents{x, three massive pavilions can be seen, clearly used by high
+ranking officers.  It is hard to miss the grand banners of {Wwhite{x with
+emblazened {ysu{Ynburs{yts{x flapping slightly in the wind.  
+~
+0
+0 2
+D0
+~
+'{Wtent flap{x'~
+1 1
+1 0 27418
+D2
+~
+~
+0 0
+0 0 27422
+D3
+~
+~
+0 0
+0 0 27403
+S
+#27418
+A Tidy Tent~
+This small tent belongs to a new recruit because there is not a change of
+clothing anywhere to be seen.  The {yc{Wo{yt{x is also made, but not to the
+standards that others in this encampment meet.  A small {ypack{x lies tucked
+beneath the cot, which would explain the empty {ystand{x built next to the cot. 
+~
+0
+CD 0
+D2
+~
+'{Wtent flap{x'~
+1 1
+1 0 27417
+S
+#27419
+A Tidy Tent~
+Inside this starched, {Wwhite tent{x, a soldier makes his home.  It is small,
+but cozy, and neatly kept.  Each day, the {yc{Wo{yt{x is made, and a spare pair of
+polished boots are left next to it.  Also, a nicely pressed {Wwhite cloak{x is
+tucked beneath the pillow.  The soldier who lives here clearly takes pride
+in his belongings.  
+~
+0
+CD 0
+D2
+~
+'{Wtent flap{x'~
+3 3
+1 0 27402
+S
+#27420
+A Well-Worn Grass Path~
+The path of {Wtents{x ends here, where knee-high {gg{Gras{gs{x continues out into a
+wide open field littered with {gt{Gr{ye{Ge{gs{x.  During brief breaks, soldiers stand
+here to converse about their training and take time to admire the beauty of
+the field.  
+~
+0
+0 2
+D0
+~
+'{Wtent flap{x'~
+1 1
+1 0 27421
+D1
+~
+~
+0 0
+0 0 27402
+S
+#27421
+A Tidy Tent~
+This simple {Wtent{x is the epitomy of organization.  Each portable
+furnishing is placed on the neatly sweep floor to the square.  A small {ystand{x
+containing toiletries is here, neatly organized so that the soldier who
+lives here can shave and clean up each morning.  A clean, {Wwhite cloak{x sits
+neatly folded at the foot of the cot.  
+~
+0
+CD 0
+D2
+~
+'{Wtent flap{x'~
+1 1
+1 0 27420
+S
+#27422
+A Newly Made Cobblestone Path~
+The {Ds{wt{Won{we{Ds{x of this road are still rough and unpolished and the {yd{ri{yrt{x that
+is packed around them is not eroded away, giving you the impression that
+this path has been very recently made.  The first of the pavilions is here
+to the east.  It looks very sturdy and starched {Wwhite{x and, because of its
+size, must belong to someone very important.  A huge, {Wwhite banner{x
+emblazened with a {ysu{Ynbur{yst{x flies at its top.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27417
+D1
+~
+'{Wtent flap{x'~
+8743 8743
+2 27405 27412
+D2
+~
+~
+0 0
+0 0 27424
+S
+#27423
+A Large Pavilion~
+~
+0
+CD 0
+S
+#27424
+A Newly Made Cobblestone Path~
+Outside the second of three very large {Wpavilion tents{x, a huge {Wwhite
+banner{x flaps lightly in the breeze.  It's embroidered {yg{Yo{Wld{Ye{yn su{Ynbur{yst{x
+ripples on the field of {Wwhite{x creating a dramatic, powerful effect.  The
+starch {Wwhite{x of the pavilion is no contrast to the banner, each looking
+clean and placed to within an inch of perfection.  A new looking {Dco{wbb{Wles{wto{Dne{x
+path continues to the south.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27422
+D1
+~
+'{Wtent flap{x'~
+3 3
+1 0 27425
+D2
+~
+~
+0 0
+0 0 27426
+S
+#27425
+A Large Pavilion~
+Everything in this {Wmassive pavilion{x is placed precisely where is should
+be, from the rich, very ornate {yfurniture{x that is squared to perfection to
+the elegantly woven Tairen {yr{Yu{yg{x that covers the floor.  The {ym{ga{yps{x and
+landscape paintings on the walls would suggest that this room is used for
+planning.  The opulence of your surroundings implies that this tent is only
+to be used by high ranking officers and noblity.  
+~
+0
+CD 0
+D3
+~
+'{Wtent flap{x'~
+3 3
+1 0 27424
+S
+#27426
+A Newly Made Cobblestone Path~
+The last of three very large {Wpavilion tents{x stands here to the east.  Its
+starched {Wwhite{x exterior standing out against the {gg{Gree{gn{x of the landscape.  A
+freshly made {Dco{wbb{Wles{wto{Dne{x road also ends abruptly here, but could be
+continued if need be.  Atop the pavilion, it would be hard to miss a very
+large {Wwhite banner{x emblazened with a {yg{Yo{Wld{Ye{yn su{Ynbur{yst{x waving lightly in a
+warm pasture breeze.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27424
+D1
+~
+'{Wtent flap{x'~
+3 3
+1 0 27427
+S
+#27427
+A Large Pavilion~
+The interior of this {Wtent{x is kept dim in order to reflect the mood
+inside.  All of the interior decorations are very warm and comfortable. 
+There is a huge, {Wwhite fur{x rug that covers the floor with evenly spaced
+lounge chairs and couches on top.  Fluffy, feather {yp{Yi{Wllo{Yw{ys{x are placed neatly
+on the floor and on each piece of furniture, making perfect places for
+relaxing massages when officers need indulgence.  A light perfumey smell
+comes from a corner hidden by large {yv{Ye{Wlv{Ye{yt{x {ycu{Yrt{yai{Yns{x.  Only officers of the
+Light are allowed in here.  
+~
+0
+CD 0
+D3
+~
+'{Wtent flap{x'~
+3 3
+1 0 27426
+S
+#27428
+A Practice Field~
+The {gg{Gras{gs{x on this patch of pasture is completely worn, almost to the
+root.  There is only enough grass left in places to keep it from showing
+earth or turning to mud when the weather is poor.  It is here that men,
+lining up in rows of perfect single file, learn military tactics from their
+officers.  Throughout the day, horns echo across this field, giving signals
+for the orders the soldiers are to follow.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27407
+S
+#27429
+A Path through the Camp~
+The worn {gg{Gras{gs{x path through camp terminates here, in the midst of three
+perfectly placed, starched {Wwhite tents{x.  Each tent looks the same with no
+discriminate markings on the outside.  A soldier would either need to know
+what it is he is looking for or ask for directions.  The only clue he might
+have is the smell of baking bread coming from the west.  
+~
+0
+0 0
+D0
+~
+'{Wtent flap{x'~
+1 1
+1 0 27431
+D1
+~
+~
+0 0
+0 0 27401
+D2
+~
+'{Wtent flap{x'~
+1 1
+1 0 27432
+D3
+~
+'{Wtent flap{x'~
+1 1
+1 0 27405
+S
+#27430
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27433
+D1
+~
+~
+0 0
+0 0 27409
+D3
+~
+~
+0 0
+0 0 27434
+S
+#27431
+An Infirmary~
+The starched {Wwhite{x of this tent is more sterile than any other, if that
+is possible.  In fact, everything within its walls is {Wwhite{x and sterile to
+prevent bacterial growth.  The floor of this tent is swept several times a
+day and the cots are changed frequently in case they need to be used.  The
+furnishings in this room are sparse, making it easy to move around in case
+of emergency.  
+~
+0
+CD 0
+D2
+~
+'{Wtent flap{x'~
+1 1
+1 0 27429
+S
+#27432
+A Supply Tent~
+Inside this starched {Wwhite tent{x are several {ycabinets{x, shelves and {ych{rests{x.
+Each one holds a different supply that a soldier might use.  And, each one
+is neatly tagged, stating its contents.  Upon entering this encampment, a
+new soldier comes to this tent to be given his first {Wwhite cloak{x and {Wcap{x. 
+Once he tarnishes it, it is his responsibility to replace it.  
+~
+0
+CD 0
+D0
+~
+'{Wtent flap{x'~
+1 1
+1 0 27429
+S
+#27433
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27443
+D2
+~
+~
+0 0
+0 0 27430
+D3
+~
+~
+0 0
+0 0 27436
+S
+#27434
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 27430
+D0
+~
+~
+0 0
+0 0 27436
+D3
+~
+~
+0 0
+0 0 27435
+S
+#27435
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27437
+D1
+~
+~
+0 0
+0 0 27434
+D3
+~
+~
+0 0
+0 0 27438
+S
+#27436
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 27437
+D0
+~
+~
+0 0
+0 0 27442
+D1
+~
+~
+0 0
+0 0 27433
+D2
+~
+~
+0 0
+0 0 27434
+S
+#27437
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27441
+D2
+~
+~
+0 0
+0 0 27435
+D3
+~
+~
+0 0
+0 0 27439
+D1
+~
+~
+0 0
+0 0 27436
+S
+#27438
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 27439
+D1
+~
+~
+0 0
+0 0 27435
+S
+#27439
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 27438
+D0
+~
+~
+0 0
+0 0 27440
+D1
+~
+~
+0 0
+0 0 27437
+S
+#27440
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 27441
+D2
+~
+~
+0 0
+0 0 27439
+S
+#27441
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 27440
+D0
+~
+'{Wtent flap{x'~
+4099 4099
+1 0 27444
+D1
+~
+~
+0 0
+0 0 27442
+D2
+~
+~
+0 0
+0 0 27437
+S
+#27442
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 27443
+D3
+~
+~
+0 0
+0 0 27441
+D2
+~
+~
+0 0
+0 0 27436
+S
+#27443
+Rows of White Tents~
+Rows upon rows of starched {Wwhite tents{x are here, each one belonging to a
+soldier.  They are placed in perfect unison, not an inch out of place.  The
+{Wwhite{x is a sharp contrast to the rich {gg{Gree{gn{x of the surrounding pasture. 
+Because each tent is the same, it is easy to get lost in the masses.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 27442
+D2
+~
+~
+0 0
+0 0 27433
+S
+#27444
+Inside an Officer's Tent~
+This {Wtent{x is larger than most of the others outside and furnished with a
+few more amenities.  Each object in this tent is placed with precision, not
+an inch out of place.  A {yc{Wo{yt{x is neatly made in one corner of the tent, and
+next to it is a small stand.  On the stand sits a {Dg{wo{Wbl{we{Dt{x with precipitation
+on it and a plate of {Rf{Yr{Gu{Yi{Rt{x.  The officer who inhabits this tent obviously
+takes his health into consideration.  
+~
+0
+CN 0
+D2
+~
+'{Wtent flap{x'~
+4099 4099
+1 0 27441
+S
+#27445
+A Stable~
+A heavy {ywooden{x gate swings open into a small private stable.  It's sturdy
+and there is plenty of room for a horse to move around.  A trough filled
+with {Bw{Ca{Wt{Ce{Br{x is constructed behind the door and a pile of {Yhay{x is here for the
+animal to eat.  
+~
+0
+D 0
+D2
+~
+'{ystable gate{x'~
+1 1
+1 0 27415
+S
+#27446
+A Field of Well-Worn Grass~
+This large, knee-high {gg{Gras{gs{x pasture has been transformed into a military
+encampment, covered in {Wwhite{x.  Tents spread in each direction for several
+hundred yards.  Each of them is perfectly spaced, not an inch out of place. 
+Soldiers can be seen hurrying around the encampment, dressed in long, {Wwhite
+cloaks{x.  
+~
+0
+0 15
+D0
+~
+~
+0 0
+0 0 27447
+D1
+~
+'{Wtent flap{x'~
+1 1
+1 0 27448
+D3
+~
+'{Wtent flap{x'~
+1 1
+1 0 27449
+D4
+~
+~
+0 0
+0 0 27453
+D8
+~
+~
+0 0
+0 0 42589
+S
+#27447
+A Grassy, Tent-Covered Field~
+Several perfectly pitched {Wwhite{x tents have been placed here, in perfect
+rows.  Some of them have small {rf{Ri{Yr{re{x pits out in front, others have neatly
+placed {Dboots{x.  A small mess tent and other provisional tents have been built
+here to house the soldiers that make this their home.  Stomped {gg{Gras{gs{x paths
+lead throughout the tents, marking where the soldiers walk each day on their
+patrols.  
+~
+0
+0 2
+D0
+~
+~
+7 7
+2 27405 27460
+D1
+~
+'{Wtent flap{x'~
+3 3
+1 0 27451
+D2
+~
+~
+0 0
+0 0 27446
+D3
+~
+'{Wtent flap{x'~
+3 3
+1 0 27452
+S
+#27448
+A Tidy Tent~
+Inside this starched, {Wwhite tent{x, a soldier makes his home.  It is small,
+but cozy, and neatly kept.  Each day, the {yc{Wo{yt{x is made, and a spare pair of
+polished boots are left next to it.  Also, a nicely pressed {Wwhite cloak{x is
+tucked beneath the pillow.  The soldier who lives here clearly takes pride
+in his belongings.  
+~
+0
+CD 0
+D3
+~
+~
+1 1
+1 0 27446
+S
+#27449
+A Tidy Tent~
+This simple {Wtent{x is the epitomy of organization.  Each portable
+furnishing is placed on the neatly sweep floor to the square.  A small {ystand{x
+containing toiletries is here, neatly organized so that the soldier who
+lives here can shave and clean up each morning.  A clean, {Wwhite cloak{x sits
+neatly folded at the foot of the cot.  
+~
+0
+CD 0
+D1
+~
+~
+1 1
+1 0 27446
+S
+#27450
+A Large Pavilion~
+This enormous tent belongs to one powerful man, the Lord Captain of the
+Children of the Light.  It is furnished to reflect strength, power and
+wealth.  An enormous woven Tairen {Wrug{x covers most of the floor.  On it
+stands large {Yfurniture{x carved with strong, straight lines.  The towering
+lamps around the room are gilded in {yg{Yol{yd{x and lit with a flame that almost
+seems {yg{Yo{Wld{Ye{yn{x itself.  The walls of this grand tent support portraits and
+artwork of victory, as well as a massive {Wwhite{x banner with an embroidered
+{yg{Yo{Wld{Ye{yn {Ysunburst{x.  
+~
+0
+CD 0
+S
+#27451
+An Armory Tent~
+The inside of this starched {Wwhite{x tent is filled with equipment and
+{Da{wr{Wm{wo{Dr{x.  Chests and barrels hold supplies and litter the ground in an orderly
+fashion.  This tent holds anything a soldier might need for patrol or
+battle.  
+~
+0
+D 0
+D3
+~
+'{Wtent flap{x'~
+3 3
+1 0 27447
+S
+#27452
+A Gathering Tent~
+This {Wwhite{x canvas tent is used as a waiting room for those soldiers that
+are on call to serve their leaders.  There are only a few {ywooden{x chairs
+resting upon a well-trodden {gg{Gras{gs{x floor.  Strings have been pulled and tied
+up, opening window holes in the tent to allow a cool pasture breeze inside. 
+~
+0
+D 0
+D1
+~
+'{Wtent flap{x'~
+3 3
+1 0 27447
+S
+#27453
+Whitecloak Recall~
+This is the whitecloak recall room.  Go down to leave.
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 27446
+S
+#27457
+~
+~
+0
+B 0
+D0
+~
+~
+7 7
+2 0 27458
+S
+#27458
+~
+~
+0
+B 0
+D0
+~
+~
+7 7
+2 0 27459
+D2
+~
+~
+7 7
+2 0 27457
+S
+#27459
+Destiny~
+~
+0
+B 0
+D2
+~
+~
+7 7
+2 0 27458
+S
+#27460
+A Large Pavilion~
+This enormous tent belongs to one powerful man, the Lord Captain of the
+Children of the Light.  It is furnished to reflect strength, power and
+wealth.  An enormous woven Tairen {Wrug{x covers most of the floor.  On it
+stands large {Yfurniture{x carved with strong, straight lines.  The towering
+lamps around the room are gilded in {yg{Yol{yd{x and lit with a flame that almost
+seems {yg{Yo{Wld{Ye{yn{x itself.  The walls of this grand tent support portraits and
+artwork of victory, as well as a massive {Wwhite{x banner with an embroidered
+{yg{Yo{Wld{Ye{yn {Ysunburst{x.  
+~
+0
+CD 0
+D2
+~
+~
+7 7
+2 27405 27447
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 27402 0 1
+D 0 27403 0 1
+D 0 27408 1 1
+D 0 27409 1 2
+D 0 27410 3 1
+D 0 27412 3 2
+D 0 27413 1 2
+D 0 27413 3 2
+D 0 27414 3 2
+D 0 27416 2 1
+D 0 27419 2 1
+D 0 27422 1 2
+D 0 27424 1 1
+D 0 27425 3 1
+D 0 27426 1 1
+D 0 27427 3 1
+D 0 27441 0 1
+D 0 27444 2 1
+D 0 27447 0 2
+D 0 27447 1 1
+D 0 27447 3 1
+D 0 27451 3 1
+D 0 27452 1 1
+D 0 27457 0 2
+D 0 27458 0 2
+D 0 27458 2 2
+D 0 27459 2 2
+D 0 27460 2 2
+M 0 27407 2 27400 2
+E 0 27438 0 20
+E 0 27437 0 7
+M 0 27407 2 27400 2
+E 0 27438 0 20
+E 0 27437 0 7
+M 0 27406 1 27400 1
+E 0 27437 0 7
+E 0 27438 0 20
+M 0 27402 10 27401 1
+M 0 27401 10 27401 1
+M 0 27402 10 27402 1
+M 0 27401 10 27402 1
+M 0 27402 10 27403 1
+M 0 27401 10 27403 1
+M 0 27402 10 27404 1
+M 0 27401 10 27404 1
+O 0 27400 0 27404
+M 0 27405 1 27405 1
+G 0 27436 0
+G 0 27435 0
+G 0 27434 0
+G 0 27433 0
+G 0 27432 0
+G 0 27431 0
+O 0 27401 0 27405
+M 0 27409 2 27406 2
+M 0 27409 2 27406 2
+O 0 27440 0 27407
+P 0 27441 3 27440 3
+M 0 27412 2 27408 2
+M 0 27412 2 27408 2
+M 0 27411 2 27408 2
+E 0 27450 0 16
+M 0 27402 10 27409 1
+M 0 27401 10 27409 1
+O 0 27430 0 27410
+O 0 27407 0 27410
+O 0 27455 0 27411
+O 0 27430 0 27411
+O 0 27430 0 27411
+O 0 27424 0 27412
+P 0 27423 1 27424 1
+O 0 27415 0 27412
+P 0 27416 1 27415 1
+O 0 27404 0 27412
+O 0 27403 0 27412
+M 0 27400 5 27412 1
+O 0 27402 0 27412
+O 0 27453 0 27413
+O 0 27452 0 27413
+M 0 27400 5 27413 1
+O 0 27451 0 27414
+O 0 27446 0 27415
+O 0 27439 0 27415
+O 0 27430 0 27416
+O 0 27406 0 27416
+O 0 27430 0 27418
+O 0 27430 0 27419
+O 0 27430 0 27421
+M 0 27404 5 27422 2
+E 0 27429 0 7
+E 0 27428 0 20
+M 0 27404 5 27422 2
+E 0 27429 0 7
+E 0 27428 0 20
+O 0 27427 0 27422
+O 0 27424 0 27425
+P 0 27425 1 27424 1
+O 0 27413 0 27425
+P 0 27414 10 27413 10
+O 0 27412 0 27425
+O 0 27411 0 27425
+O 0 27410 0 27425
+O 0 27409 0 27425
+M 0 27400 5 27425 1
+O 0 27426 0 27427
+O 0 27422 0 27427
+O 0 27421 0 27427
+O 0 27420 0 27427
+M 0 27403 1 27427 1
+M 0 27400 5 27427 1
+M 0 27413 1 27428 1
+M 0 27408 1 27428 1
+M 0 27411 2 27429 2
+E 0 27450 0 16
+R 0 27430 4
+O 0 27444 0 27431
+P 0 27445 1 27444 1
+O 0 27443 0 27431
+O 0 27442 0 27431
+M 0 27410 1 27432 1
+G 0 27449 0
+G 0 27448 0
+G 0 27447 0
+M 0 27402 10 27433 1
+M 0 27401 10 27433 1
+R 0 27433 4
+M 0 27402 10 27434 1
+M 0 27401 10 27434 1
+R 0 27434 4
+R 0 27435 4
+M 0 27402 10 27436 1
+M 0 27401 10 27436 1
+R 0 27436 4
+M 0 27401 10 27437 1
+M 0 27402 10 27437 1
+R 0 27437 4
+R 0 27438 4
+R 0 27439 4
+R 0 27440 4
+M 0 27401 10 27441 1
+M 0 27402 10 27441 1
+R 0 27441 4
+R 0 27442 4
+O 0 27461 0 27442
+R 0 27443 4
+M 0 27414 1 27444 1
+E 0 27454 0 20
+O 0 27457 0 27446
+M 0 27404 5 27447 5
+E 0 27460 0 20
+M 0 27404 5 27447 5
+E 0 27459 0 20
+M 0 27404 5 27447 5
+E 0 27459 0 20
+M 0 27404 5 27447 5
+E 0 27460 0 20
+M 0 27404 5 27447 5
+E 0 27460 0 20
+E 0 27428 0 20
+E 0 27429 0 7
+O 0 27430 0 27448
+O 0 27430 0 27449
+O 0 27404 0 27450
+O 0 27424 0 27450
+O 0 27403 0 27450
+M 0 27400 10 27450 1
+O 0 27458 0 27451
+M 0 27416 6 27452 6
+E 0 27460 0 26
+M 0 27416 6 27452 6
+E 0 27460 0 26
+M 0 27416 6 27452 6
+E 0 27460 0 26
+M 0 27416 6 27452 6
+E 0 27459 0 26
+M 0 27416 6 27452 6
+E 0 27459 0 26
+M 0 27416 6 27452 6
+E 0 27459 0 26
+M 0 27400 10 27460 1
+O 0 27403 0 27460
+O 0 27404 0 27460
+O 0 27424 0 27460
+S
+
+
+
+#SHOPS
+27405 17 19 0 0 0 100 100 1 23
+27410 9 5 0 0 0 100 100 1 23
+0
+
+
+
+#$

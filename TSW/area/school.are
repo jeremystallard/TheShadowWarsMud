@@ -1,0 +1,4986 @@
+#AREADATA
+Name Newbie School~
+Builders Kitiara~
+VNUMs 3700 3799
+Credits {{1-5}  Immortal   Mud School~
+Security 5
+Low 0
+High 10
+Flags 40
+Version 2
+End
+
+
+
+#MOBILES
+#3700
+mobile newbie gainer~
+the {rN{Re{Wwb{Ri{re{x Gainer~
+The {rN{Re{Wwb{Ri{re{x Gainer stands here ready to meet your needs.
+~
+Of average stature, the {rN{Re{Wwb{Ri{re{x Gainer appears to be a lithe and capable
+man, ready to teach you what you need to know to survive in the world.  
+~
+illianer~
+ABGTb H 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+100 100 100 100 100
+A
+6 6 6 6
+CFI 0 0 0
+stand stand male 500
+0 0 medium 'flesh'
+F gain A
+F train B
+V tlevel 90
+#3701
+mobile newbie healer~
+the {rN{Re{Wwb{Ri{re{x Healer~
+The {rN{Re{Wwb{Ri{re{x Healer sits comfortably here, smiling warmly.
+~
+The {rN{Re{Wwb{Ri{re{x Healer kindly devotes her time to helping injured and sick
+newbies.  The healer appears to be a kindly old woman with a warm smile and
+a gentle and reassuring voice.  She does have a youthful looking face but
+her eyes seem to hint of wisdom and experience that could only have been
+obtained by living many years.  
+~
+andoran~
+ABGa HJ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+50 50 50 50 50
+A
+6 6 6 6
+CFI CD CD 0
+stand stand female 500
+BSc 0 medium 'flesh'
+M 'RANDOM' 3707 25~
+M 'RANDOM' 3706 25~
+#3702
+mobile newbie trainer~
+the {rN{Re{Wwb{Ri{re{x Trainer~
+The {rN{Re{Wwb{Ri{re{x Trainer practices with her sword.
+~
+With slow, well practiced movements, the {rN{Re{Wwb{Ri{re{x Trainer stands here
+practicing with her sword.  Students of the sword and other skills watch her
+quietly in the hope of practicing their skills.  
+~
+kandori~
+ABGJKTU H 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+CFI 0 0 0
+stand stand female 500
+0 0 medium 'flesh'
+F train A
+V tlevel 10
+#3703
+small plump woman aes sedai aessedai~
+an {YA{We{Ys S{We{Yd{Wa{Yi{x~
+A small, plump woman stands with a serene gaze at those who enter.
+~
+This small woman wears a yellow shawl about her shoulders and stands here
+serenly, waiting to help those in need of her assistance.  
+~
+shienaran~
+ABJKUbc 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+100 85 85 100 100
+A
+6 6 6 6
+CFIN B KPZ 0
+stand stand female 10
+0 0 large 'flesh'
+F gain B
+F train B
+V tlevel 10
+M 'GREET' 3702 45~
+#3704
+disheveled man insane male channeler~
+an insane male channeler~
+A disheveled man stands in the center of the room, talking to himself.
+~
+Appearing to not have seen a tub of water in ages, this man wanders in
+circles, arguing with himself.  
+~
+andoran~
+ABGJb 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 claw
+0 0 0 0 0
+A
+6 6 6 6
+0 B 0 0
+stand stand male 3
+0 QU medium 'flesh'
+F gain B
+F train B
+V tlevel 10
+#3705
+mobile wimpy~
+a {yw{Yimp{yy{x {Dm{yobil{De{x~
+A {yw{Yimp{yy{x {Dm{yobil{De{x cowers in the corner of the room.
+~
+A {yw{Yimp{yy{x {Dm{yobil{De{x cowers in the corner of the room.  Don't forget to collect
+any items or money from the mobile after you have defeated it.  
+~
+school monster~
+ABGH 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 slap
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand either 3
+0 0 medium '0'
+F imm AB
+F vul C
+#3706
+mobile aggressive~
+an {ra{Rggressiv{re {Dm{yobil{De{x~
+An {ra{Rggressiv{re {Dm{yobil{De{x prowls around the room...
+~
+An {ra{Rggressiv{re {Dm{yobil{De{x prowls around the room.
+~
+school monster~
+ABFGT 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 5
+0 0 medium 'flesh'
+F imm AB
+F vul C
+#3707
+mobile shopkeeper~
+a {cs{Ch{Wopkeep{Ce{cr{x~
+A {cs{Ch{Wopkeep{Ce{cr{x stands here, ready to help you.
+~
+A shopkeeper stands here, ready to help you.  The following commands will help 
+you with interacting with the shopkeepers.
+ 
+List = Gives you a list of items and prices of what the shopkeeper is selling.
+Buy  = Allows you to buy an item from the shop, if you have sufficient funds.
+Sell = Allows you to attempt to sell an item to the shopkeeper.
+~
+shienaran~
+ABGTU J 1000 0
+90 80 46d47+6548 90d10+100 9d10+45 beating
+0 0 0 0 0
+A
+-6 -6 -6 -6
+ACEFHIKN ABCD 0 C
+stand stand female 500
+0 QU medium 'flesh'
+#3708
+mobile newbie changer~
+the {rN{Re{Wwb{Ri{re{x Changer~
+The {rN{Re{Wwb{Ri{re{x Changer sits here counting his gold.
+~
+Sitting behind his desk, the {rN{Re{Wwb{Ri{re{x Changer counts his many stacks of
+gold and silver.  
+~
+shienaran~
+ABGTcd 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 beating
+0 0 0 0 0
+A
+6 6 6 6
+CFIN 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#3709
+Newbie Guide~
+the {rN{Re{Wwb{Ri{re{x Guide~
+The {rN{Re{Wwb{Ri{re{x Guide stands here welcoming all new adventurers.
+~
+With a friendly smile the {rN{Re{Wwb{Ri{re{x Guide welcomes all to the Newbie School.  
+~
+andoran~
+ABGUc HJ 100 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+A
+6 6 6 6
+FH 0 0 0
+stand stand either 500
+G 0 medium 'flesh'
+M 'ACT' 3700 appears in the room~
+#3710
+mobile~
+a {Dm{yobil{De{x~
+A {Dm{yobil{De{x wanders aimlessly around the room.
+~
+A {Dm{yobil{De{x wanders aimlessly around the room.  Remember to use "{Wconsider{x"
+to assess your chances of beating this mobile in combat.  
+~
+andoran~
+AGU 0 -100 0
+1 0 1d1+1 1d10+100 1d2+0 bite
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand either 0
+GXc QUV small 'flesh'
+#3711
+boar~
+a boar~
+A boar tries to run you over.
+~
+A boar tries to run you over.
+~
+pig~
+AGU J 0 0
+3 1 1d7+23 3d10+100 1d3+2 charge
+0 0 0 0 0
+0
+0 0 0 0
+CDFR 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#3712
+fox~
+a fox~
+A fox is here staring at you.
+~
+A fox stands here casually. Its fur might be worth some money...
+~
+fox~
+AGHU J 100 0
+1 0 1d2+6 1d10+100 1d2+0 bite
+0 0 0 0 0
+0
+0 0 0 0
+NR 0 0 0
+stand stand either 0
+0 0 small 'flesh'
+F aff Z
+#3713
+ogier sasha~
+{WS{wa{Ds{wh{Wa{x, a young ogier~
+A young ogier is standing here in the corridor, looking lost.
+~
+A young ogier girl is standing at the center of the corridor, looking lost.
+~
+ogier~
+ABGUc JO 0 0
+10 1 6d7+128 10d10+100 2d5+5 punch
+0 0 0 0 0
+0
+0 0 0 0
+CFIN 0 0 0
+stand stand female 0
+G 0 tiny 'flesh'
+M 'RANDOM' 3703 10~
+#3714
+queens guard soldier man~
+a {rQ{Ru{Wee{Rn{x'{rs G{Ru{Wa{Rr{rd{x~
+The Captain of the {rQ{Ru{Wee{Rn{D'{rs G{Ru{Wa{Rr{rd{x patrols the streets.
+~
+Wearing a pristing uniform of the Queen's Guard, this man appears to be
+the Captain by the adornments he wears.  
+~
+andoran~
+ABT 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slash
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 Q large 'flesh'
+#3715
+creature grolm~
+a {Dg{gr{Do{gl{Dm{x~
+A hideous three-eyed creature is watching you...
+~
+Weighing in at three hundred to five hundred pounds, grolm are the size
+of large bears, but with the {Dgray{x-{gg{Gre{gen{x coloration and skin texture of very
+tough frogs.  They have three eyes that are small and fierce, looking like
+they lack intelligence, and are ringed by hard ridges.  Their horny-lipped
+beaks are hooked for ripping flesh.  
+
+When walking, grolm appear almost awkward, moving with a waddling motion,
+but all traces of awkwardness vanish when they run, taking great leaps and
+bounds that propel them over the ground at great speed.  They also have very
+good vision, a keen sense of smell, and are extremely territorial.  Because
+of these characteristics they make excellent guard animals.  They rapidly
+learn who is allowed in a given area, and will use their sense of smell to
+distinguish anyone who is nervous or afraid.  
+~
+lizard~
+ABGUYc J 0 0
+7 0 4d4+49 7d10+100 1d8+3 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+V BJU large 'flesh'
+F res L
+F vul I
+M 'GREET' 3705 5~
+#3716
+wolf~
+a wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+wolf~
+AGU J 0 0
+4 0 2d5+33 4d10+100 1d4+2 bite
+0 0 0 0 0
+0
+0 0 0 0
+NR 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+F aff Z
+#3717
+adept cleric~
+the adept of Selene~
+An adept of Selene is here, grinning and selling you things.
+~
+He is big and bad.  Don't mess with him.
+~
+unique~
+ABCQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+0 0 0 0 0
+0
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+0 0 medium '0'
+M 'GREET' 3704 20~
+#3718
+adept cleric~
+{BT{bhe {wm{Wi{ws{Wt{wr{We{ws{Ws{x of {Gc{Bo{Rl{Yo{Pr{Ms{x.~
+{BT{bhe {wm{Wi{ws{Wt{wr{We{ws{Ws{x of {Gc{Bo{Rl{Yo{Pr{Ms{x.
+~
+She is soft, cuddly, bue her black eyes are cold.
+~
+unique~
+ABCJQTV H 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+0 0 0 0 0
+0
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand female 0
+0 0 medium '0'
+#3719
+priest cleric~
+the priest of Circe~
+The priest of Circe is ready to help you practice.
+~
+He is big and bad.  Don't mess with him.
+~
+unique~
+ABCKQTV CH 1000 0
+30 10 1d1+999 1d1+999 2d4+30 beating
+0 0 0 0 0
+0
+-15 -15 -15 -15
+ACEFHIKN ABCD 0 0
+stand stand male 0
+0 0 medium '0'
+#3720
+diploma beast~
+the diploma beast~
+The hideous diploma beast is here, holding your graduation present!
+~
+This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+school monster~
+AB J 0 0
+3 1 2d4+30 1d1+99 1d6+1 claw
+0 0 0 0 0
+0
+8 8 8 10
+EFN 0 0 0
+stand stand none 30
+0 0 medium '0'
+#3721
+seafolk sailmistress woman~
+a {cS{Ce{Wa{cf{Co{Wlk{x Sailmistress~
+A {cS{Ce{Wa{cf{Co{Wlk{x Sailmistress stands here, waiting for her ship.
+~
+The Sailmistress is a tall, well-tanned woman, with brightly colored
+tattoos upon her hands.  Her clothing is composed of baggy breeches, tied at
+the waist by brightly colored sashes.  She wears a chain that moves from her
+ear to her nose, with several medallions hanging from the chain.  
+~
+unique~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3722
+tear lord man tairen~
+a {RT{Wai{Yr{We{Rn{x Lord~
+A {RT{Wai{Yr{We{Rn{x Lord stands here being self-important.
+~
+Wearing a colorful coat of padded silk and brocade, the sleeves puffy and
+striped, and tight breeches, this tall Tairen Lord stands here in a
+self-important manner.  
+~
+tairen~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#3723
+winged guard~
+a {rW{Ri{rnged {DG{wu{Wa{wr{Dd{x~
+A member of the {rW{Ri{rnged {DG{wu{War{wd{Ds{x stands at attention.
+~
+~
+mayener~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 10
+0 0 medium 'flesh'
+#3724
+illianer man citizen~
+an {gI{Gl{Yl{Gia{Yn{Ge{gr{x citizen~
+An {gI{Gl{Yl{Gia{Yn{Ge{gr{x citizen stands here idly.
+~
+Wearing a long coat with a raised collar, this man has a beard which
+leaves his upper lip bare, something which marks him as a citizen of Illian.
+~
+illianer~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 shoulderbash
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3725
+altaran woman~
+an {BA{Yl{rt{Ya{rr{Ya{Bn{x woman~
+An {BA{Yl{rt{Ya{rr{Ya{Bn{x woman gazes about the area.
+~
+An olive complexion is set off by dark hair and eyes on this Altaran
+woman.  Her dress is pale and snug through the bodice with a full skirt that
+falls over brightly colored petticoats.  The most distinctive thing about
+this woman is the knife that hangs hilt-down from a choker about her neck.  
+~
+altaran~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3726
+member cotl child light man whitecloak~
+a member of the {WCh{Yi{Wldr{Ye{Wn{x of the {WL{Yi{Wght{x~
+A member of the {WCh{Yi{Wldr{Ye{Wn {wof the {WL{Yi{Wght{x stands here in his pure white cloak.
+~
+A small, squat man stands here, regarding you with a sneer.  He wears a
+pure white cloak over his armor, a golden sunburst over the left breast.  A
+blood-red shepherd's crook is emblazoned behind the sunburst, marking him as
+one of the feared "Questioners" 
+~
+amadician~
+AB 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 headbutt
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#3727
+taraboner woman~
+a {cv{Ce{Wil{Ce{cd{x woman~
+A {cv{Ce{Wil{Ce{cd{x Taraboner woman stands here.
+~
+Wearing a transparent veil, a Taraboner woman stands here quietly,
+looking about.  Her dress is of thin silk and quite revealing of her figure.
+~
+taraboner~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3728
+ghealdanin child boy~
+a {RGh{wea{Rld{wa{Rn{wi{Rn{x child~
+A {RGh{wea{Rld{wa{Rn{wi{Rn{x child plays with his ball.
+~
+A small child wearing woolen breeches and a cotton shirt stands here
+playing with his ball.  
+~
+ghealdanin~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#3729
+thief man murandian~
+a {BMur{Wand{Bian{x thief~
+A {BMur{Wand{Bian{x man stands in the shadows, eyeing those who pass by.
+~
+A small, slinky man stands in the shadows of a nearby building, his eyes
+following the glint of jewelry upon passersby.  
+~
+murandian~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 uppercut
+0 0 0 0 0
+A
+0 0 0 0
+0 T 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#3730
+domani woman graceful~
+a graceful {GD{Do{Wma{Dn{Gi{x woman~
+A tall, graceful {GD{Do{Wma{Dn{Gi{x woman stands here in an alluring manner.
+~
+Long, wavy dark brown hair flows over this tall woman's shoulders, ending
+at a slim waist.  Hazel eyes sparkle with gold flecks as the light hits
+them.  A smooth, coppery complexion serves to enhance her youthful feminine
+features.  Her silk dress, in shades of blue, lookd appealing on her slim,
+feminine build, clinging to her hips and waist.  
+~
+domani~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3731
+seeker~
+a {DS{wee{Dk{we{Dr{x for the {cTr{Cu{cth{x~
+A {DS{wee{Dk{we{Dr{x for the {cTr{Cu{cth{x stands at ease.
+~
+~
+seanchan~
+AB 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#3732
+cairhienan noble woman~
+a {bC{Bai{Yr{Whi{Ye{Bna{bn{x noble woman~
+A {bC{Bai{Yr{Whi{Ye{Bna{bn{x noble woman contemplates Daes Dae'mar.
+~
+A short, pale-skinned woman with dark hair tightly coiffed into an
+elaborate tower of curls stands here.  Her dress is dark blue with narrow
+horizontal slashes of bright colors across the chest and body, dark ivory
+lace adorns the throat and wrists.  
+~
+unique~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 slap
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#3733
+aiel woman maiden far dareis mai~
+a {yF{Da{yr D{Da{yr{Dei{ys M{Dai{x~
+A tall, {rf{Rie{rry{D-{rh{Rai{rr{Re{rd{x woman appears ready with her spears.
+~
+With fiery-red hair and piercing blue eyes, this tall woman wears the
+cadin'sor, her spears kept always at the ready.  
+~
+aiel~
+AB 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 stab
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3734
+sharan merchant man~
+a {Gm{ge{Grch{ga{Gnt{x~
+A {GSh{ga{Gr{ga{Gn{x merchant guards his goods.
+~
+Average of height and dark of skin, this curly-haired man stands here
+with his goods, watching those foreigners who come to trade with a greedy
+eye.  Always ready to cheat where he can, the merchant will lie to any
+foreigner to increase his fortune.  
+~
+unique~
+AB 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 uppercut
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+AGV ABCDEFGHIJK medium 'flesh'
+#3735
+young ogier man~
+an {gOg{Gie{gr y{Gou{gth{x~
+An {gOg{Gie{gr y{Gou{gth{x sits upon a stump, reading a book.
+~
+Wearing a heavily embroidered long coat, this Ogier youth sits here
+reading quietly, his bushy eyebrows hanging down the side of his face, and
+his tufted ears twitching at times.  His nose is broad and flattened and
+though he is young, his size is much larger than any human.  
+~
+ogier~
+ABH 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 thwack
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#3736
+aes sedai woman~
+an {BA{be{Bs S{be{Bd{bai{x~
+An ageless woman with a {Bb{blu{Be{x shawl stands here.
+~
+Small of stature, this woman bears herself with great dignity and pride. 
+Her ageless appearance and the blue shawl she wears mark her as an Aes
+Sedai, one of those women trained at the White Tower to use the One Power.  
+~
+andoran~
+AB 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 flame
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#3737
+arafellin man~
+an {RA{Wr{Raf{We{Rll{Wi{Rn{x man~
+An {RA{Wr{Raf{We{Rll{Wi{Rn{x man stands here, two swords strapped to his back.
+~
+Pale of skin with unusually large, grey eyes, this man is marked as an
+Arafellin by the two long braids he wears, with small silver bells attached
+to the ends.  
+~
+unique~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3738
+shienaran warrior~
+a {CS{Wh{Di{We{Cn{Wa{Dr{Wa{Cn{x warrior~
+A {CS{Wh{Di{We{Cn{Wa{Dr{Wa{Cn{x warrior sits upon his horse in readiness.
+~
+One of the famed Shienaran Lancers, this man sits his horse proudly, his
+fighting lance held at the ready.  
+~
+shienaran~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 B 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3739
+kandori merchant man~
+a {gK{Ga{Rn{Gd{Ro{Gr{gi{x merchant~
+A {gK{Ga{Rn{Gd{Ro{Gr{gi{x merchant sells her goods.
+~
+The merchant is dressed in a long coat, three silver chains worn over it.
+One ear is pierced and adorned with a very flashy earring.  His beard is
+forked and his eyes dark.  
+~
+kandori~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3740
+treant tree~
+a {gT{yr{gea{yn{gt{x~
+An odd appearing {gg{yian{gt t{yre{ge{x stands here.
+~
+As you approach the tree seems to move and it suddenly appears like a
+giant leech-like animal with a tough hide and massive serrated teeth.  
+~
+unique~
+AB 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large 'flesh'
+#3741
+saldaean woman~
+a {BS{Da{wl{Wda{we{Da{Bn{x woman~
+A {BS{Da{wl{Wda{we{Da{Bn{x woman stands here defiantly.
+~
+Large, tilted eyes are the most noticeable feature of this woman.  Her
+dark hair flows down over her shoulders and her clothing is made of fine
+silks, though the flash of hidden daggers can be seen.  
+~
+saldaean~
+AB 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#3742
+tuatha'an tuathaan tinker man~
+a {GT{Bi{Ynk{Be{Gr{x~
+A man in {Gbr{Big{Yht{Rly cl{Yas{Bhi{Gng{x clothes smiles happily.
+~
+Tall and lanky, this young man seems very easy natured and happy.  He
+wears baggy clothing of bright colors, not a single article matching the
+other.  He holds no weapon and doesn't appear to have any upon him, he seems
+more likely to dance with you than fight.  
+~
+aiel~
+ABH 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#3743
+broad shouldered man~
+a broad-shouldered man~
+A broad-shouldered man stands here, a large axe hanging at his side.
+~
+Of very large build, this young man appears as if he could handle himself
+at the forge of a blacksmith.  Dark curly hair and a thick beard offset his
+oddly golden eyes.  At his belt hangs a large halfmoon shaped axe.  
+~
+andoran~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 cleave
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3744
+tall man~
+a tall gray-eyed man~
+A tall man with deep gray-eyes and auburn hair stands here.
+~
+A tall man with deep gray-eyes and auburn hair, seems to pull threads
+upon the pattern into a weave of his own.  
+~
+aiel~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 slice
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3745
+golden haired young woman~
+a golden-haired young woman~
+A golden-haired young woman stands here with an aura of dignity and grace.
+~
+Long reddish-golden tresses fall over this woman's shoulders in waves. 
+Dazzling blue eyes gaze about her as she sits here in quiet dignity.  Her
+clothes are of the finest silks, cuffs and hems embroidered with delicate
+flowers.  
+~
+andoran~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 thrust
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#3746
+short haired woman~
+a short-haired woman~
+A short-haired woman wearing coat and breeches stands here.
+~
+Wearing a coat and snug fitting pair of breeches, this woman stands here
+in a confidant manner, gazing at people in an odd manner, as if she were
+seeing more than just the person.  
+~
+andoran~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 stab
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3747
+dark eyed woman~
+a dark-eyed woman~
+A dark-eyed woman tugging at her braid is here.
+~
+Long brown hair has been pulled into a thick, waist-length braid. 
+Wearing sturdy Two-Rivers woolens, a chain holding a large mans ring hangs
+about her neck.  
+~
+andoran~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 3
+0 0 medium 'flesh'
+#3748
+black dark hair woman~
+a dark-haired woman~
+A woman with long black hair stands here smiling.
+~
+Standing here smiling, this dark-haired woman holds a striped stole in
+her hands.  
+~
+andoran~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 slap
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 4
+0 0 medium 'flesh'
+#3749
+tall woman~
+a reddish-haired woman~
+A tall woman with reddish hair stands here in a proud manner.
+~
+A tall woman with blue-green eyes and short reddish hair wears laced
+knee-boots and close-fitting coat and breeches, all in shades of earth and
+rock, making her appear as if she would blend into her surroundings.  
+~
+aiel~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 stab
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3750
+young dark haired man~
+a young man~
+A young, dark-haired man with a mischievous grin sits here playing dice.
+~
+Sitting on the floor playing at a game of dice, this young man seems to
+have all the luck.  His brown eyes shine with mischief and his hand rests
+upon an odd appearing spear and a fox-head medallion hangs about his neck.  
+~
+andoran~
+AB 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 stab
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#3751
+beautiful woman~
+a beautiful woman~
+An extremely beautiful woman with long, flowing tresses.
+~
+This extremely beautiful woman is tall and lithe, with pale skin and
+flowing midnight tresses.  She wears a gown of the purest white, accented
+with a silver belt.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#3752
+handsome dark haired woman~
+a dark-haired woman~
+A sturdily handsome, dark-haired woman lurks in the shadows.
+~
+Staying in the shadows, this dark-haired woman watches those who move
+about in secrecy.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 sting
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 3
+0 0 medium 'flesh'
+#3753
+solid golden haired man~
+a solid man~
+A solid, golden-haired man with a livid scar slanted across his face.
+~
+A solid appearing man with golden-hair and blue eyes appears ruggedly
+handsome, though a livid scar slants across his face.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3754
+hawk nosed man~
+a hawk nosed man~
+A good-looking, hawk nosed man watches you in a cold, calculating manner.
+~
+Tall and reasonably good-looking with a hawk nose which leaves him
+almost, but not quite handsome.  His manner is cold and calculating as he
+watches those about him.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 medium 'flesh'
+#3755
+handsome man~
+a handsome man~
+A dark-eyed, dark-haired handsome man sits quietly strumming a harp.
+~
+Dark of hair and eye, this man is considered handsome by most.  A musical
+instrument seems to be near at hand and he plays remarkably well, perhaps he
+could even be a prodigy of sorts.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 3
+0 0 medium 'flesh'
+#3756
+stunning voluptuous blond woman~
+a stunning woman~
+A stunning, voluptuous blond woman is being waited upon by half-naked servants.
+~
+A voluptuous woman in a clinging gown that leaves little to the
+imagination, she wears her hair in elaborate bejeweled ringles, and is doted
+upon by gorgeous, half-naked servants.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#3757
+tall dark eyed woman~
+a tall, dark-eyed woman~
+An unusually tall, dark-eyed woman stands here.
+~
+With a remarkable amout of calm and grace, this unusally tall woman was
+known as a great healer, though her healing extracted a painful price.  
+~
+unique~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 3
+0 0 medium 'flesh'
+#3758
+raven sleek dark feathered~
+a Raven~
+A sleek, dark-feathered Raven perches in a tree.
+~
+With sleek, midnight colored feathers, this birds perches on a tree limb,
+his beedy little eyes watching your every move.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 1
+0 0 small 'flesh'
+#3759
+filthy rat~
+a filthy rat~
+A filthy rat edge his way along the corners of the room.
+~
+Wiggling his whiskers, this rat appears to be filthy as he creeps about
+the corners of the room in search of food.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 tiny 'flesh'
+#3760
+creature bulky trolloc~
+a Trolloc~
+A towering, coarse-haried bulky creature looms over you.
+~
+With the long, narrow snout of a wolf and human eyes that gaze out from
+the fur upon his face, this creature looms over any human who dares to near
+him.  The creature snarls, eager to make them his meal.  
+~
+trolloc~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 2
+0 0 large 'flesh'
+#3761
+tall handsome man~
+a Myrddraal~
+A tall, coldly handsome man turns his eyeless gaze upon those who enter.
+~
+Moving with a sinewy grace, this tall, handsome man stays to the shadows.
+His eyeless gaze causes a paralyzing fear in those who look into it.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#3762
+tall pale man~
+a Draghkar~
+An overly tall, pale-skinned man wrapped in a large black cloak is here.
+~
+A soft, irresistible crooning emits from this tall man, the black cloak
+opens from around him to reveal a pair of large, batlike wings.  His skin is
+pale, nearly white, and his nails are sharp talons.  His eyes are overly
+large and his mouth appears to be more of a wound, colored in a brilliant
+blood-red, his puckered lips covering sharp pointed teeth.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 medium 'flesh'
+#3763
+hound creature pony dark~
+a Darkhound~
+Dark as night and the size of a pony, this hound-like creature stands here howling.
+~
+As large as a pony and as dark as night, the basic shape of this creature
+resembles that of a hound.  A smell of burned sulphur surrounds the area and
+large pawprints can be seen in the stone.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 1
+0 0 medium 'flesh'
+#3764
+ordinary man grayman gray~
+a Gray Man~
+An ordinary appearing man seems to slide past your gaze.
+~
+Nothing about this man catches your eye, in fact you eyes seem to slide
+right by him.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 2
+0 0 medium 'flesh'
+#3765
+gholam tall lean man~
+a Gholam~
+A tall, lean man in a slender, plain gray coat stands here.
+~
+Standing at about six feet tall, this man has a lean, handsome body. 
+Wearing a slender, plain gray coat that moves with his quick, fluid body, he
+smiles rapturously.  
+~
+unique~
+AB 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 1
+0 0 medium 'flesh'
+#3766
+newbie mobile mob man~
+A fully equipped newbie mobile~
+A fully equipped Newbie mobile stands here wearing everything you'd ever need as a newbie
+~
+~
+taraboner~
+ABG 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#3775
+victim~
+A victim~
+Here stands a victim and awaits punishment.
+~
+He has been bad and now he awaits your punishment.
+~
+unique~
+ABGT AId 450 0
+5 20 1d1+0 0d0+0 1d1+0 punch
+0 0 0 0 0
+0
+0 0 0 0
+FHIV 0 0 0
+stand stand male 5
+0 0 medium 'unknown'
+#3784
+tall handsome man~
+a tall, handsome man~
+A tall, handsome man with streaks of white over his ears stands here.
+~
+This man stands tall with wide shoulders and appears to be very handsome.
+Streaks of white over his ears only adds to his good looks.  His easy smile
+seems to make you wish to do as he wishes.  
+~
+andoran~
+AB 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+I 0 0 0
+stand stand male 1
+0 0 medium 'flesh'
+#3794
+valkyria~
+Valkyria~
+{DV{da{wl{Wky{wr{di{Da{x,{bc{Bh{bo{Bo{bs{Be{br{x of the {Rs{rl{Ra{ri{Rn{x
+~
+~
+unique~
+A AVcd 450 0
+0 20 1d1+0 0d0+0 1d1+0 none
+0 0 0 0 0
+0
+0 0 0 0
+IN K 0 0
+stand stand female 5
+0 0 large 'unknown'
+#3796
+jock~
+Jock~
+{DJ{Woc{Dk{x, {Rj{ra{Rr{rl{x of {Db{dl{Da{dc{Dk {Rw{rol{Rf {Dkindred{x
+~
+~
+unique~
+AF AId 1000 0
+2 20 2d2+10 0d0+0 1d1+0 punch
+0 0 0 0 0
+0
+0 0 0 0
+IN 0 HI JP
+stand stand male 100
+0 0 large 'unknown'
+#3797
+deona~
+Deona~
+{RD{re{Yo{rn{Ra,{bthe {Wm{wi{Ws{wt{Wr{we{ws{Ws{x.
+~
+~
+altaran~
+ACGT H 450 0
+5 20 1d1+0 0d0+0 1d1+0 punch
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'unknown'
+#3798
+trolloc~
+A {gn{Ge{gw{Gb{gi{Ge {Rva{rmp{rir{Re-{Wt{wr{Wo{wl{Wl{wo{Wc{x~
+A {gn{Ge{gw{Gb{gi{Ge {Rva{rmp{rir{Re-{Wt{wr{Wo{wl{Wl{wo{Wc{x
+~
+~
+trolloc~
+AF QVc 2 0
+25 50 5d5+10 0d0+0 5d5+10 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand female 100
+0 0 giant 'unknown'
+#3799
+guard~
+{wA {Bn{be{Wwb{bi{Be {Rg{ru{Ya{rr{Rd{x~
+{wA {Bn{be{Wwb{bi{Be {Rg{ru{Ya{rr{Rd{x
+~
+~
+ogier~
+AB H 0 0
+10 100 20d20+0 0d0+0 10d10+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 giant 'unknown'
+#0
+
+
+
+#OBJECTS
+#3700
+fountain~
+a small {cf{Cou{Wnt{Cai{cn{x~
+A small {cf{Cou{Wnt{Cai{cn{x spurts water into the air.~
+stone~
+fountain 0 0
+-1 -1 'water' 0 0
+1 10000 10 100
+#3701
+newbie dagger~
+a {rn{Re{Wwb{Ri{re{x dagger~
+A {rn{Re{Wwb{Ri{re{x dagger has been left here.~
+bronze~
+weapon U AN
+dagger 1 6 'pierce' 0
+1 3 10 100
+A
+19 1
+#3702
+newbie sword~
+a {rn{Re{Wwb{Ri{re{x sword~
+A {rn{Re{Wwb{Ri{re{x sword has been left here.~
+bronze~
+weapon U AN
+sword 1 6 'slash' 0
+1 5 10 100
+A
+19 1
+#3703
+newbie tunic~
+a {rn{Re{Wwb{Ri{re{x tunic~
+A {rn{Re{Wwb{Ri{re{x tunic has been left here.~
+leather~
+armor SU AD
+1 0 0 0 0
+1 3 10 100
+#3704
+newbie shield~
+a {rn{Re{Wwb{Ri{re{x shield~
+A {rn{Re{Wwb{Ri{re{x shield has been left here.~
+wood~
+armor U AJ
+0 1 0 0 0
+1 7 10 100
+#3705
+newbie scarf~
+a {rn{Re{Wwb{Ri{re{x scarf~
+A {rn{Re{Wwb{Ri{re{x scarf has been left here.~
+cloth~
+armor SU AC
+0 0 1 0 1
+1 4 10 100
+#3706
+newbie cap~
+a {rn{Re{Wwb{Ri{re{x cap~
+A {rn{Re{Wwb{Ri{re{x cap has been left here.~
+leather~
+armor SU AE
+1 0 0 0 0
+1 2 10 100
+#3707
+newbie leggings~
+{rn{Re{Wwb{Ri{re{x leggings~
+A pair of {rn{Re{Wwb{Ri{re{x leggings has been left here.~
+leather~
+armor SU AF
+0 0 1 0 0
+1 3 10 100
+#3708
+newbie shoes~
+{rn{Re{Wwb{Ri{re{x shoes~
+A pair of {rn{Re{Wwb{Ri{re{x shoes has been left here.~
+leather~
+armor SU AG
+0 0 1 0 0
+1 3 10 100
+#3709
+newbie gloves~
+{rn{Re{Wwb{Ri{re{x gloves~
+A pair of {rn{Re{Wwb{Ri{re{x gloves has been left here.~
+leather~
+armor SU AH
+0 1 0 0 0
+1 1 10 100
+#3710
+newbie sleeves~
+{rn{Re{Wwb{Ri{re{x sleeves~
+A pair of {rn{Re{Wwb{Ri{re{x sleeves has been left here.~
+leather~
+armor SU AI
+1 0 0 0 0
+1 2 10 100
+#3711
+newbie cloak~
+a {rn{Re{Wwb{Ri{re{x cloak~
+A {rn{Re{Wwb{Ri{re{x cloak has been left here.~
+cloth~
+armor SU AK
+0 0 1 0 0
+1 4 10 100
+#3712
+newbie sash~
+a {rn{Re{Wwb{Ri{re{x sash~
+A {rn{Re{Wwb{Ri{re{x sash has been left here.~
+leather~
+armor SU AL
+0 0 1 0 0
+1 2 10 100
+#3713
+newbie bracer~
+a {rn{Re{Wwb{Ri{re{x bracer~
+A {rn{Re{Wwb{Ri{re{x bracer has been left here.~
+bronze~
+armor U AM
+0 0 1 0 0
+1 2 10 100
+#3714
+wax candle~
+a {Ww{wa{Wx {wc{Wa{wn{Wd{wl{We{x~
+A {Ww{wa{Wx {wc{Wa{wn{Wd{wl{We{x has been left here.~
+wax~
+light A AO
+0 0 200 0 0
+1 1 25 100
+#3715
+canvas backpack~
+a canvas {rba{Rc{Wkp{Ra{rck{x~
+A canvas {rba{Rc{Wkp{Ra{rck{x has been left here.~
+canvas~
+container S AS
+200 AC 0 200 50
+1 10 10 100
+#3716
+ball light~
+a {yb{Yal{yl{x of {yl{Yigh{yt{x~
+A {yb{Yal{yl{x of {yl{Yigh{yt{x hovers in the air.~
+light~
+light AGS AQ
+0 0 200 0 0
+1 5 10 100
+#3717
+newbie spear~
+a {rn{Re{Wwb{Ri{re{x spear~
+A {rn{Re{Wwb{Ri{re{x spear has been left here.~
+wood~
+weapon U AN
+spear 1 6 'thrust' 0
+1 5 10 100
+A
+19 1
+#3718
+newbie staff~
+a {rn{Re{Wwb{Ri{re{x staff~
+A {rn{Re{Wwb{Ri{re{x staff has been left here.~
+wood~
+weapon U AN
+staff 1 6 'pound' F
+1 4 10 100
+A
+19 1
+#3719
+newbie axe~
+a {rn{Re{Wwb{Ri{re{x axe~
+You see a sub issue axe here.~
+bronze~
+weapon U AN
+axe 1 6 'chop' 0
+1 8 10 100
+A
+19 1
+#3720
+newbie flail~
+a {rn{Re{Wwb{Ri{re{x flail~
+You see a sub issue flail here.~
+bronze~
+weapon U AN
+flail 1 6 'smash' 0
+1 5 10 100
+A
+19 1
+E
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3721
+newbie whip~
+a {rn{Re{Wwb{Ri{re{x whip~
+A {rn{Re{Wwb{Ri{re{x whip has been left here.~
+leather~
+weapon SU AN
+whip 1 6 'whip' 0
+1 3 10 100
+A
+19 1
+#3722
+newbie poleaxe~
+a {rn{Re{Wwb{Ri{re{x poleaxe~
+A {rn{Re{Wwb{Ri{re{x poleaxe has been left here.~
+wood~
+weapon U AN
+polearm 1 6 'slash' F
+1 8 10 100
+A
+19 1
+#3723
+newbie bow~
+a {rn{Re{Wwb{Ri{re{x bow~
+A {rn{Re{Wwb{Ri{re{x bow has been left here.~
+wood~
+weapon SU AN
+bow 1 6 'blast' F
+1 5 10 100
+A
+19 1
+#3724
+lance sub~
+a {rn{Re{Wwb{Ri{re{x lance~
+A {rn{Re{Wwb{Ri{re{x lance has been left here.~
+steel~
+weapon U AN
+lance 1 6 'thrust' F
+1 5 10 100
+#3725
+newbie arrow~
+a {rn{Re{Wwb{Ri{re{x arrow~
+A {rn{Re{Wwb{Ri{re{x arrow has been left here.~
+wood~
+weapon U AO
+arrow 1 6 'pierce' 0
+1 1 5 100
+A
+19 1
+#3726
+food slice apple pie~
+a slice of {ga{Gppl{ge {ypie{x~
+A large slice of {ga{Gppl{ge {ypie{x has been left here.~
+organic~
+food S A
+30 30 0 0 0
+1 2 5 100
+#3727
+tree limbs~
+{gtr{yee {gl{yi{gmbs{x~
+Hacked off {gtr{yee {gl{yi{gmbs{x are here.~
+organic~
+armor S AI
+0 1 0 0 0
+1 3 50 100
+A
+1 1
+#3728
+iron gauntlets~
+iron {Dg{rau{Rntl{ret{Ds{x~
+A pair of iron {Dg{rau{Rntl{ret{Ds{x have been left here.~
+steel~
+armor 0 AH
+1 0 0 0 0
+1 3 50 100
+A
+2 1
+#3729
+topknot top knot scalp~
+a {CS{Wh{Di{We{Cn{Wa{Dr{wa{Cn{x topknot~
+A {rbl{Roo{rdy{x scalp has been left here.~
+flesh~
+armor 0 AE
+1 0 0 0 150
+1 1 25 100
+A
+3 1
+#3730
+scabbard leather~
+a double back {Dsc{ya{Dbb{ya{Drd{x~
+A large piece of leather has been left on the ground.~
+stone~
+armor 0 AS
+0 1 0 0 0
+1 1 50 100
+A
+17 -2
+E
+fountain~
+A small stone fountain made of smooth marble.  Cool, clear water sprays
+up a short distance before landing in a pool in the base of the fountain.  
+~
+#3731
+rising sun rays~
+the {rR{Ri{rs{Ri{rng {YS{Wu{Yn{x~
+The fallen {rr{Ra{rys{x of the sun no longer shed light.~
+sunshine~
+light S A
+0 0 500 0 0
+1 1 5 100
+#3732
+veil cloth~
+a translucent {cv{Cei{cl{x~
+A thin piece of {ccl{Co{cth{x has been discarded here.~
+ribbon~
+armor 0 AV
+0 0 1 0 0
+1 1 5 100
+A
+5 1
+#3733
+gold golden bracelet~
+a wide-{yg{Yo{Wld{Ye{yn{x bracelet~
+A wide piece of {yg{Yo{yld{x metal has been dropped here.~
+gold~
+armor 0 AM
+0 0 0 1 0
+1 1 5 100
+A
+17 -2
+#3734
+dagger marriage~
+a marriage {Dd{wa{Wgg{we{Dr{x~
+A sheathed {Dd{wa{Wgg{we{Dr{x with encrusted {rj{Re{rw{Re{rls{x has been left here.~
+silver~
+armor 0 AC
+1 0 0 0 0
+1 1 50 100
+A
+18 1
+#3735
+silver boots~
+{Ds{wi{Wlv{we{Dr{x-worked {Db{Woo{Dts{x~
+A pair of {Ds{wi{Wlv{we{Dr{x-worked {Db{Woo{Dts{x are here.~
+leather silver~
+armor 0 AG
+0 1 0 0 0
+1 1 50 100
+A
+12 10
+E
+sign~
+{WWelcome to {wThe {DS{wh{Wad{wo{Dw {rW{Ra{rrs {WNewbie School{x
+
+Please read "{WHelp Rules{x" and be familiar with all within.  You are
+responsible for knowing and living by these rules.  
+
+To learn more about the commands available to use and MUDs in general, head
+{Wdown{x.  
+
+To learn more about the Wheel of Time series, head {Wwest{x.  
+
+To begin gathering xp and training, head {Weast{x.  
+~
+#3736
+tattoo ink~
+a {rt{Ra{rtt{Roo{x of a {Draven{x and {Dtower{x~
+Some dried up {Dink{x has been spilt here.~
+ink~
+armor 0 AR
+0 0 1 0 0
+1 1 50 100
+A
+19 1
+#3737
+sense sensuality~
+a sense of {rs{Re{rns{Rua{rl{Ri{rty{x~
+A sense of {rs{Re{rns{Rua{rl{Ri{rty{x surrounds the area.~
+sensuality~
+armor 0 AQ
+0 0 0 1 500
+1 1 50 100
+A
+17 -2
+#3738
+cloak golden sunburst~
+a flaring {Wcloak{x with a {yg{Yo{Wld{Ye{yn {rs{Ru{rn{yb{Yu{Wr{Ys{yt{x~
+A large piece of {Wwhite{x cloth with a {yg{Yo{Wld{Ye{yn {rs{Ru{rn{yb{Yu{Wr{Ys{yt{x rests here.~
+cloth~
+armor C AK
+1 0 0 0 0
+1 3 10 100
+A
+13 10
+#3739
+shield metal~
+a rectangular {Ds{wh{Wie{wl{Dd{x~
+A rectangular piece of {Dm{we{Wt{wa{Dl{x has been left here.~
+iron~
+armor 0 AJ
+0 1 0 0 0
+1 3 50 100
+A
+13 10
+#3740
+gold hoops~
+round {yg{Yo{Wld{Ye{yn{x hoops~
+Worked round pieces of {yg{Yo{yld{x lay here.~
+gold~
+armor 0 AU
+0 0 1 0 100
+1 1 50 100
+A
+17 -2
+E
+table~
+A small round antique table stands in the corner of the room.  The wooden
+table looks to be well polished and smells faintly of beeswax.  
+~
+#3741
+belt leather~
+a narrow {bb{Be{blt{x~
+A long piece of narrow {bl{Bea{bth{Be{br{x rests here.~
+leather~
+armor 0 AL
+0 0 0 1 0
+1 1 50 100
+A
+17 -2
+#3742
+ring metal serpent~
+a {yg{Yo{Wld{Ye{yn {rs{Ye{rrp{Ye{rnt{x ring~
+A piece of {ym{Ye{Wt{Ya{yl{x worked into the shape of a {rs{Ye{rrp{Ye{rnt{x.~
+gold~
+armor 0 AB
+1 0 0 0 0
+1 1 50 100
+A
+4 1
+E
+plinth~
+The {Dp{wl{Win{wt{Dh{x is made of {Db{wl{Wa{wc{Dk m{wa{Wrb{wl{De{x, just like what was used to make the
+{Ds{wt{Wat{wu{De{x.  Set upon the {Dp{wl{Win{wt{Dh{x is a {yg{Yo{Wld{Ye{yn p{Yl{Waq{Yu{ye{x with a small
+inscription upon it.  
+~
+#3743
+silver chains~
+three {Ds{wi{Wlv{we{Dr{x chains across the chest~
+Three {Ds{wi{Wlv{we{Dr{x chains have been discarded.~
+silver~
+armor 0 AD
+0 1 0 0 0
+1 1 50 100
+A
+18 1
+#3744
+book~
+a {yb{roo{yk{x of short stories~
+Laying on the ground is an open {yb{roo{yk{x.~
+paper~
+armor 0 AO
+0 0 1 0 0
+1 1 20 100
+A
+19 1
+#3745
+sense exhaustion endurance~
+a Maiden's {ce{Cnd{Wura{Cnc{ce{x~
+A strong sense of {ce{Cxh{Waust{Cio{cn{x rests here.~
+cloth~
+armor 0 AF
+0 0 0 1 0
+1 1 50 100
+A
+12 10
+#3746
+newbie canteen~
+a {rN{Re{Wwb{Ri{re{x canteen~
+A {rN{Re{Wwb{Ri{re{x canteen has been left here.~
+leather~
+drink 0 AO
+100 100 'water' 0 0
+1 10 10 100
+#3747
+bedroll~
+a small {Rb{We{Rdr{Wo{Rll{x~
+A small {Rb{We{Rdr{Wo{Rll{x rests on the ground.~
+cloth~
+furniture 0 A
+1 2000 EHK 105 105
+1 5 10 100
+#3748
+stole~
+a striped {rs{Yt{Wo{Yl{re{x~
+A {rs{Yt{Wo{Yl{re{x striped in seven colors lays here.~
+cloth~
+armor S AC
+0 1 0 0 0
+1 1 5 100
+A
+3 1
+#3749
+boots~
+a pair of {yb{Doo{yts{x~
+A pair of sturdy {yb{Doo{yts{x rest here.~
+cloth~
+armor S AG
+0 0 1 0 0
+1 1 5 100
+A
+12 10
+#3750
+dice~
+some {Wd{Di{Wce{x~
+A pair of {Wd{Di{Wce{x have been left here.~
+cloth~
+armor S AO
+0 1 0 0 0
+1 0 5 100
+#3751
+eyes golden~
+{yg{Yo{yld{Ye{yn{x eyes~
+A pair of {yg{Yo{yld{Ye{yn{x eyes seem to glow in the dark.~
+flesh~
+armor S AV
+0 0 0 1 0
+1 1 5 100
+A
+5 1
+#3752
+tattoo~
+a {gt{Ya{Gtt{Yo{go{x~
+{gS{Ye{Grp{Ye{gnts{x wind about the wrist, almost seeming alive.~
+ink~
+armor S AR
+0 0 1 0 0
+1 1 5 100
+A
+13 10
+#3753
+bracelet~
+an {Ge{gm{Ge{gr{Ga{gld{x and {Bs{ba{Bpph{bi{Bre{x bracelet~
+A beautifully set {Ge{gm{Ge{gr{Ga{gld{x and {Bs{ba{Bpph{bi{Bre{x bracelet.~
+precious stones~
+armor 0 AM
+1 0 0 0 0
+1 1 5 100
+#3754
+raven feathers~
+a bunch of raven's {Df{rea{Dth{re{Drs{x~
+A bunch of raven's {Df{rea{Dth{re{Drs{x have been dropped here.~
+feathers~
+armor 0 AI
+0 0 0 1 8
+1 1 8 100
+#3755
+aura~
+an aura of {Wi{cnv{Ci{Wsibi{Cl{cit{Wy{x~
+An {ca{Cu{cra{x of invisibility has been left here.~
+cloth~
+armor S AQ
+0 0 0 1 0
+1 0 0 100
+A
+17 -2
+#3756
+candle~
+a {Yc{Wa{Ynd{Wl{Ye{x~
+A thin {Yc{Wa{Ynd{Wl{Ye{x with a flickering {rf{Rl{Ya{Rm{re{x stands here.~
+cloth~
+light S AQ
+0 0 400 0 0
+3 1 8 100
+#3757
+paws~
+a large set of {yp{Da{yws{x~
+A pair of horse sized {yp{Da{yws{x are here.~
+flesh~
+armor S AG
+1 1 1 0 0
+3 1 8 100
+#3758
+wings~
+a pair of {Dw{Wi{Dngs{x~
+A pair of black, leather {Dw{Wi{Dngs{x have been left here.~
+flesh~
+armor S AS
+0 0 0 1 0
+1 1 8 100
+#3759
+cloak~
+a motionless {Dcloak{x~
+A long, motionless {Dcloak{x has been left here.~
+cloth~
+armor S AC
+0 1 0 0 0
+1 1 8 100
+A
+2 1
+#3760
+snout~
+a wolf's {ysn{Dou{yt{x~
+A {rb{Dl{Roo{Dd{ry{x wolf's snout has been left here.~
+flesh~
+armor S AV
+0 2 1 0 0
+3 1 8 100
+#3761
+rat paw~
+a rat's {Dp{wa{Dw{x~
+A smelly piece of rat {Dfl{we{Dsh{x lays here.~
+flesh~
+armor S AU
+1 0 0 0 0
+1 1 8 100
+#3762
+belt~
+a woven {Ws{wi{Dlv{we{Wr{x belt~
+A woven {Ws{wi{Dlv{we{Wr{x belt clasped with a moon and star rests here.~
+cloth~
+armor S AL
+1 0 0 0 0
+1 1 10 100
+A
+4 1
+#3763
+band~
+a simple {Ds{wi{Wlv{we{Dr{x band~
+A simple {Ds{wi{Wlv{we{Dr{x band has been left here.~
+cloth~
+armor 0 AB
+0 1 0 0 0
+1 1 5 100
+#3764
+hair white streak streaks~
+streaks of {Wwh{wi{Wte{x in {yd{Da{yrk{x hair~
+Clumps of {Wwh{wi{Wte{x hair have been left here.~
+hair~
+armor S AE
+1 0 0 0 0
+1 0 10 100
+#3765
+spider ring~
+a ring shaped as a {Ds{wp{Wid{we{Dr{x~
+A silver crafted {Ds{wp{Wid{we{Dr{x that wraps around a finger rests here.~
+silver~
+armor 0 AB
+1 0 0 0 0
+1 1 10 100
+A
+17 -2
+#3766
+scar~
+a {Dl{ri{Rv{ri{Dd{x scar~
+An ugly piece of flesh lays upon the ground.~
+flesh~
+armor S AV
+1 0 0 0 0
+1 0 10 100
+A
+13 10
+#3767
+breeches~
+a pair of {Dbr{ree{Dch{re{Ds{x~
+A pair of long, black {Dbr{ree{Dch{re{Ds{x are here.~
+cloth~
+armor S AF
+0 1 0 0 0
+1 1 10 100
+A
+12 10
+#3768
+harp~
+a {Yh{Wa{Yrp{x~
+A musical instrument with many strings rests here.~
+wood~
+treasure S AO
+0 0 0 0 0
+5 2 10 100
+#3769
+dress~
+a clinging red {rd{rr{Re{rss{x~
+A clinging {rr{Re{rd{x dress has been placed here.~
+cloth~
+armor S AD
+0 0 1 0 0
+1 0 10 100
+#3770
+hands~
+a pair of {Dto{rrt{Ru{rro{Dus{x hands~
+A pair of slim hands, skilled with torture, lie here.~
+cloth~
+armor S AH
+0 0 0 1 0
+1 1 10 100
+A
+1 1
+#3771
+stud~
+a simple {rst{Ru{rd{x~
+A simple {rst{Ru{rd{x has been left here.~
+silver~
+armor 0 AU
+0 0 0 1 0
+1 1 0 100
+#3772
+newbie mace~
+a {rn{Re{Wwb{Ri{re{x mace~
+A {rn{Re{Wwb{Ri{re{x mace has been left here.~
+cloth~
+weapon U AN
+mace 1 6 'pound' 0
+1 3 10 100
+A
+19 1
+#3798
+sword~
+{DA {Rleader {Bsword{x~
+{DA {Rleader {Bsword{x~
+iron~
+weapon ABG AHN
+sword 10 5 'none' 0
+1 0 0 100
+#3799
+bench~
+{WA {rsung{Gw{go{Go{gd{b bench{x~
+{WA {rsung{Gw{go{Go{gd{b bench{x~
+wood~
+furniture 0 0
+2 0 E 200 200
+5 0 0 100
+#0
+
+
+
+#ROOMS
+#3700
+Newbie School Entrance~
+This is a huge circular chamber with exits leading in all many
+directions.  Lighting the chamber are several oil lanterns placed at
+intervals around the room to ensure that the room is always well lit.  The
+walls of the chamber have been painted a pale shade of blue and the floor of
+the chamber has been paved with polished white tiles.  Around the inner
+perimeter of the chamber is a spiraling staircase, carved from white marble
+that coils off in both directions.
+ 
+Use the '{Rnewbie{x' channel to ask questions.
+~
+0
+CD 1
+S
+#3701
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 1 - Rooms & Movement~
+Greetings and welcome to the {rN{Re{Wwb{Ri{re{x School Tutorial, a guide to some of
+the more common commands used on this MUD to help you get started on your
+journey.  By typing {WExit{x you will be able to see all available exits from
+the room you are standing in.  Moving around your environment is simple by
+using the compass directions {WNorth{x, {WEast{x, {WSouth{x and {WWest{x, which can be
+abbreviated to {Wn{x, {We{x, {Ws{x, {Ww{x.  Respectively.  There are also two other
+directions to be familiar with, {WUp{x and {WDown{x; {Wu{x and {Wd{x.  To look at the
+description of the room or area you are in, simply type {WLook{x, which can also
+be abbreviated to {Wl{x.  
+~
+0
+D 0
+E
+sign~
+Congratulations on completing the first part of your course.  Use your
+knowledge and head {WDown {x({Wd{x) to your next lesson.  
+~
+D5
+~
+~
+0 0
+0 0 3702
+S
+#3702
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2 - Communication~
+Communication is an essential part of a MUD.  It is used for
+role-playing, asking for help or general chat.  To make it easier to
+understand the different aspects of communication, this lesson has been
+split into four parts.  Look at the sign in the room to find out where each
+of the lessons is being held.  
+~
+0
+DR 0
+E
+sign~
+{WNorth{x:  The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2a - OOC & IC
+{WEast {x:  The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2b - The Channels
+{WSouth{x:  The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2c - Groups & Communication
+{WWest {x:  The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2d - Help
+~
+D0
+~
+~
+0 0
+0 0 3703
+D1
+~
+~
+0 0
+0 0 3704
+D2
+~
+~
+0 0
+0 0 3705
+D3
+~
+~
+0 0
+0 0 3706
+D4
+~
+~
+0 0
+0 0 3701
+D5
+~
+~
+0 0
+0 0 3707
+S
+#3703
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2a - OOC & IC~
+OOC and IC are two very common terms that are used frequently.  IC means
+in character and applies to role-playing.  OOC means out of character and
+applies to matters not related to role-play.  It is commonplace for any OOC
+knowledge not to be used as IC knowledge or matters with IC character
+development gets really confusing.  Communication channels are put into one
+of either of these two categories for example, to speak to a character in
+the same room as you role-play, use the "{Wsay{x" command.  But to talk
+to that person out of character, use the "{Wosay{x" command to avoid any
+confusion.  
+~
+0
+DR 0
+D2
+~
+~
+0 0
+0 0 3702
+S
+#3704
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2b - The Channels~
+Channels are a means of communicating with other characters, some
+channels are considered as IC, some are considered as OOC.  To talk to one
+character anywhere in the world use the "{Wtell{x" command.  To communicate with
+all characters use the "{Wchat{x" command.  Both of these channels are
+considered as OOC.  For IC communications "{WGossip{x" will allow you to talk to
+all characters.  These are only a few of the many channels that are
+available.  To find out more, use the "{WHelp{x" command and check out the
+relative information.  
+
+New players have access to the "{MNewbie{x" channel where questions can be asked
+related to the game or any other question that new players should have.  
+
+The "{WPray{x" channel is a mean to directly communicate to the Immortals.  
+~
+0
+DR 0
+D3
+~
+~
+0 0
+0 0 3702
+S
+#3705
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2c - Groups & Communication~
+Perhaps on your journey into the world you will be traveling in a group
+with other characters.  To talk to the other members of your group, simply
+use the "{Wgt{x" command.  To find out more relevant information about groups
+and grouping, check out "{WHelp{x" and "{WHelp Group{x" for more details.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3702
+S
+#3706
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 2d - Help~
+If you are stuck in any part of the mud and are unsure of what to do,
+don't panic.  First check out the help files using the "{WHelp{x" command.  If
+what you are looking for is not there, try talking to the players on the
+relevant OOC channel.  If you are still unsure of what to do, finally the
+pray channel is another way of getting help.  Use the "{WPray{x" command and if
+an immortal is around, they will help you with your inquiry. 
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3702
+S
+#3707
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 3 - Objects~
+You should now be familiar with rooms and communication so this next
+lesson should be really easy.  Over the course of your journey you will find
+various types of objects.  An object can have many properties and
+attributes, some beneficial; some could even be harmful.  Whether or not an
+object will be useful to you is a question for you to find out.  To find out
+more about interacting with objects, look at the chart on the wall (Use
+"{WLook Chart{x").  Look at the sign on the wall to find out more about common
+objects.  When you are ready, head down to the next lesson.  
+
+~
+0
+DR 0
+E
+chart~
+The {rN{Re{Wwb{Ri{re{x Guide to Objects
+ 
+Get <Object>     = Use to pick up an object.
+Drop <Object>    = Use to drop an object.
+Examine <Object> = Examines/looks at an object.
+Inventory        = Lists objects in your inventory (Abbreviated as "{Wi{x")
+Equipment        = Lists objects you are wearing (Abbreviated as "{Weq{x")
+~
+E
+sign~
+North: The {rN{Re{Wwb{Ri{re{x School Tutorial: Part 3a - Food & Drink
+East : The {rN{Re{Wwb{Ri{re{x School Tutorial: Part 3b - Containers
+South: The {rN{Re{Wwb{Ri{re{x School Tutorial: Part 3c - Lights
+West : The {rN{Re{Wwb{Ri{re{x School Tutorial: Part 3d - Equipment
+~
+D0
+~
+~
+0 0
+0 0 3708
+D1
+~
+~
+0 0
+0 0 3709
+D2
+~
+~
+0 0
+0 0 3710
+D3
+~
+~
+0 0
+0 0 3711
+D4
+~
+~
+0 0
+0 0 3702
+D5
+~
+~
+0 0
+0 0 3712
+S
+#3708
+The {rN{Re{Wwb{Ri{re{x School Tutorial: Part 3a - Food & Drink~
+Among the different types of objects you will encounter during your
+journey, perhaps the most essential ones are foods and drinks.  Making sure
+that your character is well fed and refreshed can improve your natural
+healing abilities.  In short, if you are hungry, you are going to heal
+really slowly after a battle unless you eat some food and drink some water. 
+As well as drinking from fountains, you can carry your own supply of water
+with you for emergencies, but remember to fill your container.  There are
+other drinkable liquids besides water, some of which have very bizarre
+effects indeed.  To find out more about interacting with food and drink
+items, look at the chart on the wall.  
+~
+0
+DR 0
+E
+chart~
+{WFood & Drink{x
+ 
+Fill <Container> <Source> = Fill your container from source of liquid
+Drink <Container>         = Drink from your drink container or fountain
+Eat <Food>                = Eat an item of food
+~
+D2
+~
+~
+0 0
+0 0 3707
+S
+#3709
+The {rN{Re{Wwb{Ri{re{x School Tutorial: Part 3b - Containers~
+Containers are very useful items.  Not only can you find all sorts of
+hidden treasures lurking within the depths of some containers, but also they
+are useful for storing your own items.  To find out more about containers,
+read the chart upon the wall, then see if you can find what's within the
+wardrobe.  
+~
+0
+DR 0
+E
+chart~
+{WContainers{x
+ 
+Examine <Container>    = Examine a container to see what it holds.    
+Put <Item> <Container> = Put an item into a container
+Get <Item> <Container> = Get an item from a container
+Open <Container>       = Open a container if it is closeable
+Close <Container>      = Close a container if it is closeable
+Unlock <Container>     = Unlock a container if it is lockable
+Lock <Container>       = Lock a container if it is lockable
+ 
+To lock or unlock a container you must have the correct key in your inventory.
+~
+D3
+~
+~
+0 0
+0 0 3707
+S
+#3710
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 3c - Lights~
+Light sources are another type of useful item that you will probably find
+on your travels.  It helps to have a source of light when exploring dark
+regions.  There is a down side as some light sources have a limited life
+span and could end up leaving you in the dark.  To find out more about light
+equipment, read the {wc{Whar{wt{x upon the wall.  Don't forget to look inside the
+jar on the table here; it may contain something of interest.  
+~
+0
+DR 0
+E
+chart~
+{WLights, Weapons and Equipment{x
+ 
+Wear <Item/Light>   = Wear Item/Use Light
+Wield <Weapon>      = Wield Weapon
+Hold <Item>         = Hold An Item
+Remove <Item/Light> = Remove Item/Remove Light
+Remove <Weapon>     = Remove Wielded Weapon
+Equipment (eq)      = Displays All Worn Equipment
+Inventory (i)       = Displays Items Carried In Inventory
+~
+D0
+~
+~
+0 0
+0 0 3707
+S
+#3711
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 3d - Equipment~
+Equipment is essential as you travel on you journey, and you will find it
+along the way.  Good armor and clothing gives you resistance from attacks. 
+A good weapon can inflict more damage than a poorly made one.  As you gain
+experience and levels from fighting mobs, the type of armor and weapons you
+can use tends to get better.  Some items have other special affects that
+could benefit or hinder your character and his development.  What those
+items are and where they will be found is up to you to discover, but always
+remember to check your newly gained equipment in case it does more harm than
+good.  As well as reading the chart, don't forget to check the wardrobe in
+this room, just in case someone has left something inside it.  
+~
+0
+DR 0
+E
+chart~
+{WLights, Weapons and Equipment{x
+ 
+Wear <Item/Light>   = Wear Item/Use Light
+Wield <Weapon>      = Wield Weapon
+Hold <Item>         = Hold An Item
+Remove <Item/Light> = Remove Item/Remove Light
+Remove <Weapon>     = Remove Wielded Weapon
+Equipment (eq)      = Displays All Worn Equipment
+Inventory (i)       = Displays Items Carried In Inventory
+~
+D1
+~
+~
+0 0
+0 0 3707
+S
+#3712
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 4 - Miscellaneous Items~
+Here are a few helpful hints to help you on your way before you head
+down to your final lesson:
+
+Type "{Wauto{x" for a status list of automatic functions your character can
+perform.  Typing the name of each function toggles them on and off.  "{WTitle{x"
+sets your title on the player list (type "{Wwho{x" to see who else is logged on
+the Mud).  "{WIctitle{x" sets your IC title, so remember to use something that
+is in character.  Type "{Wcommands{x" to give you a list of the commands used on
+this Mud and don't forget to check the help files if you want more
+information about them.  
+~
+0
+DR 0
+D4
+~
+~
+0 0
+0 0 3707
+D5
+~
+~
+0 0
+0 0 3713
+S
+#3713
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5 - Mobiles~
+Here is a crash course in combat.  Use the "{Wwimpy{x" command to set the
+amount of hp you have left before you flee from combat.  Always make sure to
+check your equipment.  There is nothing worse than starting combat and
+forgetting to wield a weapon.  Non-player characters on Muds are generally
+known as mobiles, mobs for short.  Firstly let us see if there are any mobs
+around here.  Use the "{Wscan{x" command to scan the adjacent area for any life.
+If the area you are scanning in is too dark to see or if a mobile or player
+is hidden, you will not be able to find them.  Once you have found your
+target, go to them and use the "{Wconsider <target>{x" command to see if you
+stand a fair chance of defeating your foe.  "{WKill <target>{x" will initiate
+combat, but if the going gets too tough "{Wflee{x" will allow you to attempt to
+run away from your attacker.  Once you have used "{Wscan{x", if there is a
+mobile around here, go forth and let the combat commence!  
+~
+0
+DR 0
+E
+sign~
+North: The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5a - Combat
+East : The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5b - Wimpy Mobiles
+South: The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5c - Aggressive Mobiles
+West : The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5d - Shops & Shopkeepers
+~
+D0
+~
+~
+0 0
+0 0 3714
+D1
+~
+~
+0 0
+0 0 3715
+D2
+~
+~
+0 0
+0 0 3716
+D3
+~
+~
+0 0
+0 0 3717
+D4
+~
+~
+0 0
+0 0 3712
+D5
+~
+~
+0 0
+0 0 3718
+S
+#3714
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5a - Combat~
+This is a plain square chamber with no distinguishing features.  The room
+is completely white from the white tiled floor to the white plaster ceiling
+that overhangs from high above.  A few small cracks in the walls suggest
+that this place could do with some moderate repairing, otherwise there is
+nothing really special about this chamber at all.  
+~
+0
+DR 0
+E
+sign~
+It is important to loot a corpse when you have killed your foe.  There
+could be important items that you can use with this command: {Wget all corpse{x.
+~
+D2
+~
+~
+0 0
+0 0 3713
+S
+#3715
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5b - Wimpy Mobiles~
+This is a plain square chamber with no distinguishing features.  The room
+is completely white from the white tiled floor to the white plaster ceiling
+that overhangs from high above.  A few small cracks in the walls suggest
+that this place could do with some moderate repairing, otherwise there is
+nothing really special about this chamber at all.  
+~
+0
+DR 0
+E
+sign~
+It is important to loot a corpse when you have killed your foe.  There
+could be important items that you can use with this command: {Wget all corpse{x.
+~
+D3
+~
+~
+0 0
+0 0 3713
+S
+#3716
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5c - Aggressive Mobiles~
+This is a plain square chamber with no distinguishing features.  The room
+is completely white from the white tiled floor to the white plaster ceiling
+that overhangs from high above.  A few small cracks in the walls suggest
+that this place could do with some moderate repairing, otherwise there is
+nothing really special about this chamber at all.  
+~
+0
+DR 0
+E
+sign~
+It is important to loot a corpse when you have killed your foe.  There
+could be important items that you can use with this command: {Wget all corpse{x.
+~
+D0
+~
+~
+0 0
+0 0 3713
+S
+#3717
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Part 5d - Shops & Shopkeepers~
+This is a plain square chamber with no distinguishing features.  The room
+is completely white from the white tiled floor to the white plaster ceiling
+that overhangs from high above.  A few small cracks in the walls suggest
+that this place could do with some moderate repairing, otherwise there is
+nothing really special about this chamber at all.  
+~
+0
+DKR 0
+E
+sign~
+Shopkeepers are good mobs to go to when you find yourself in need of
+items.  Shopkeepers in different areas will sell different types of items,
+some will sell food, others equipment.  To learn more about the
+shopkeepers, look at the shopkeeper in this room.  
+~
+D1
+~
+~
+0 0
+0 0 3713
+D3
+~
+~
+0 0
+0 0 3723
+S
+#3718
+The {rN{Re{Wwb{Ri{re{x School Tutorial:  Summary~
+Here is a brief summary of all the important things to know.
+ 
+{WHelp Rules{x   - Remember to read this, you are responsible for knowing them.
+ 
+{WHelp Weekly{x  - Updates on all the different changes being made.
+ 
+{WHelp{x         - General help and information.
+ 
+{WCommands{x     - A list of all important commands used on the MUD.
+~
+0
+DR 0
+D4
+~
+~
+0 0
+0 0 3713
+S
+#3719
+The Channeler's Corridor~
+This long corridor stretches away into the darkness towards infinity. 
+The only light provided in this barren passageway comes from the flickering
+rush torches that are set upon the walls, staining the gray stone behind
+them to a charcoal black color.  There are many brightly colored tapestries
+that hang from the bland and cold gray stone walls and are so delicately
+made the tapestries almost seem to be alive.  
+~
+0
+CDR 0
+D1
+~
+~
+0 0
+0 0 3720
+D2
+~
+~
+0 0
+0 0 3756
+S
+#3720
+{CA Draughty Corridor{x~
+This long corridor stretches away into the darkness towards infinity. 
+The only light provided in this barren passageway comes from the flickering
+rush torches that are set upon the walls, staining the gray stone behind
+them to a charcoal black color.  On both sides of the corridor there are
+many doorways that look to be very foreboding.  There are many brightly
+colored tapestries that hang from the bland and cold gray stone walls and
+are so delicately made the tapestries almost seem to be alive.  
+~
+0
+CDR 0
+E
+sign~
+{BNorth{b: {CThe Newbie Training Room{x
+{YSouth{y: {CThe Newbie Infirmary{x
+~
+D0
+~
+~
+0 0
+0 0 3722
+D2
+~
+~
+0 0
+0 0 3721
+D3
+~
+~
+0 0
+0 0 3719
+S
+#3721
+The Female Channeler's Room~
+This room is large and rather warm.  A fireplace in the south wall ablaze
+with flame.  The floor is made of polished white tiles and the walls have
+been painted a soft shade of green.  
+~
+0
+CDR 0
+E
+sign~
+{BNorth{b: {CThe Newbie Armor Shop{x
+{GEast {g: {CThe Newbie Supplies Shop{x
+{YSouth{y: {CThe Newbie Weapons Shop{x
+~
+D0
+~
+~
+0 0
+0 0 3720
+S
+#3722
+The Male Channeler's Room~
+This chamber is cold and damp, no decorations or comforts of any kind can
+be seen.  No windows exist in the walls, giving no light to the room, only a
+torch in the wall gives any semblence of life, its smoke filling the room.  
+~
+0
+CDR 0
+E
+sign~
+{BSkills And Attributes{x
+{b---------------------{x
+
+You can gain and practice your skills as well as improve your character's
+attributes at a trainer.  For more details on how to do this type "{BHelp
+Train{x", "{BHelp Practice{x" and "{BHelp Gain{x" for more details.  
+~
+D2
+~
+~
+0 0
+0 0 3720
+S
+#3723
+The {rN{Re{Wwb{Ri{re{x Weapons Shop~
+This is just a simple shop, one of few items but all of them are useful
+in some form or another.  The shelves seem a little bit dusty, and a few of
+the items on sale look worn from old age and gray with dust.  At one end of
+the shop is a large wooden counter and fixed to the wall behind the counter
+is a {ys{Yig{yn{x, which may be worth looking at more closely.  
+~
+0
+DR 0
+E
+sign~
+Here is a list of commands to help you with using shops.
+ 
+{CList {w={c  Gives you a list of items and prices of what the shopkeeper is selling.
+{CBuy {w = {c Allows you to buy an item from the shop, if you have sufficient funds. 
+{CSell{w = {c Allows you to attempt to sell an item to the shopkeeper. {x
+~
+D1
+~
+~
+0 0
+0 0 3717
+D2
+~
+~
+0 0
+0 0 3726
+S
+#3724
+{YWelcome To The Mud School{x~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0
+CDKR 0
+D2
+~
+~
+0 0
+0 0 3727
+S
+#3725
+{CThe Newbie Infirmary{x~
+This chamber appears to be quite bland and no form of decoration hand
+upon the wall, which is quite a contrast to the corridor outside.  A window
+looks out into a beautiful garden, but there is nothing to indicate where
+this place could possibly be.  A heavy wooden doorway provides the only
+possible exit out of this chamber.  
+~
+0
+CDKR 0
+E
+sign~
+{RHealers{x
+{r-------{x
+
+Type "{RHeal{x" to see a list of treatments available from the healer.
+Type "{RHeal <Type>{x" to choose what type of healing you require.
+~
+S
+#3726
+The {rN{Re{Wwb{Ri{re{x Armor Shop~
+This is just a simple shop, one of few items but all of them are useful
+in some form or another.  The shelves seem a little bit dusty, and a few of
+the items on sale look worn from old age and gray with dust.  At one end of
+the shop is a large wooden counter and fixed to the wall behind the counter
+is a {ys{Yig{yn{x, which may be worth looking at more closely.  
+~
+0
+CD 0
+E
+sign~
+Here is a list of commands to help you with using shops.
+ 
+{CList {w={c  Gives you a list of items and prices of what the shopkeeper is selling.
+{CBuy {w = {c Allows you to buy an item from the shop, if you have sufficient funds. 
+{CSell{w = {c Allows you to attempt to sell an item to the shopkeeper. {x
+~
+D0
+~
+~
+0 0
+0 0 3723
+S
+#3727
+{CThe Newbie Supplies Shop{x~
+This is just a simple shop, one of few items but all of them are useful
+in some form or another.  The shelves seem a little bit dusty, and a few of
+the items on sale look worn from old age and gray with dust.  At one end of
+the shop is a large wooden counter and fixed to the wall behind the counter
+is a {ys{Yig{yn{x, which may be worth looking at more closely.  
+~
+0
+CDR 0
+E
+sign~
+Here is a list of commands to help you with using shops.
+
+{CList {w={c  Gives you a list of items and prices of what the shopkeeper is selling.
+{CBuy {w = {c Allows you to buy an item from the shop, if you have sufficient funds. 
+{CSell{w = {c Allows you to attempt to sell an item to the shopkeeper. {x
+~
+D0
+~
+~
+0 0
+0 0 3724
+S
+#3728
+{BThe Nations By The Sea Of Storms{x~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0
+CDR 0
+E
+tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+E
+tapestry~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+S
+#3729
+{mThe Borderlands{x~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0
+CDR 0
+E
+tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+E
+tapestry~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+S
+#3730
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+E
+statue~
+The statue depicts an Aiel warrior, veiled and ready for battle.  The
+Aiel are a mysterious race and little is known about them by the other races
+of the land.  Aiel culture is very complex; they live by a code of honor
+known as Ji'e'toh, translated from the Old Tongue it means "honor and
+obligation".  It is a way of life so complex, no "wetlander" could ever
+possibly comprehend.  "Wetlander" is a term used by the Aiel and refers to
+any non-Aiel person, except Ogier.  To "Wetlanders", the Aiel are a savage
+race of blood thirsty warriors, Aiel have much the same regard to others not
+of their race.  
+~
+E
+the twelve clans~
+"{RThe Twelve Clans{x"
+
+The largest of the tapestries that is displayed in this gallery is
+entitled "The Twelve Clans".  Aiel are divided into groups called clans, of
+which there are twelve: Daryne, Reyn, Shaido, Goshien, Taardad, Nakai,
+Codarra, Chareen, Sharaad, Miagoma and Tomanelle.  Each clan is then in turn
+subdivided into smaller groups called septs.  Each clan has a chief that
+governs it and the same applies to each individual sept.  Aiel clans have a
+tendency to feud with each other, but some shaky alliances have been known
+to form between some clans.  
+~
+E
+tapestry tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+ 
+"{RThe Twelve Clans{x"
+"{YAiel Societies{x"
+~
+E
+aiel societies~
+"{YAiel Societies{x"
+
+Aiel warriors are divided into twelve groups known as societies.  The
+societies are as follows: Seia Doon (Black Eyes), Far Dareis Mai (Maidens of
+the Spear), Far Aldazar Din (Brothers of the Eagle), Rahien Sorei (Dawn
+Runners), Sovin Nai (Knife Hands), Hama N'Dore (Mountain Dancers), Cor Darei
+(Night Spears), Aethan Dor (Red Shields), Shae'en M'taal (Stone Dogs),
+Sha'mad Conde (Thunder Walkers), Tain Shari (True Bloods) and Duadhe
+Mahdi'in (Water Seekers).  Each society has its own purpose, rules and
+regulations as well as the strict Aiel rules of conduct known as Ji'e'toh to
+live by.  Far Dareis Mai is a unique society as it is the only for female
+Aiel warriors.  Even if two members of the same society come from feuding
+clans, they will not fight each other.  
+~
+D0
+~
+~
+0 0
+0 0 3735
+D2
+~
+~
+0 0
+0 0 3736
+D3
+~
+~
+0 0
+0 0 3738
+S
+#3731
+{YThe Central Nations{x~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.
+~
+0
+CD 0
+E
+tapestry~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+E
+tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+S
+#3732
+{wThe {gN{Ga{Wtio{Gn{gs{w Of The {rW{Ro{Wr{Rl{rd{x~
+The long wide corridor abruptly ends at this point.  In all directions
+there are huge iron-braced wooden doors, each one looks more foreboding than
+the last one.  The floor here is covered in a thick sheet of dust, but deep
+footprints embedded in the grime suggest that there has been some sort of
+life present within these lonely corridors.  
+~
+0
+CDR 0
+S
+#3733
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3738
+D1
+~
+~
+0 0
+0 0 3736
+D3
+~
+~
+0 0
+0 0 3744
+S
+#3734
+{CThe Nations By The Aryth Ocean{x~
+You are in the Arena.  Remember, if you wish to get out of this Arena, just
+go up.  Ceilings can barely be seen in this huge Arena.  You feel as if you are
+being watched by some divine being.  There is a BIG SIGN here.
+~
+0
+CDR 0
+E
+tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+E
+tapestry~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+S
+#3735
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+E
+tapestry tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+ 
+"{WTar Valon{x"
+"{CThe Seven Ajahs{x"
+~
+E
+statue~
+The huge marble statue at the center of the rectangular chamber depicts a
+Warder, one of the legendary soldiers that fight beside and protect Aes
+Sedai.  This particular warder is brandishing a large two-handed sword that
+appears to be a part of him.  There are many rumors about Warders, some are
+myths while others hold some grain of truth about them.  Warders or Gaidin
+as they are also known are guards who "bonded" to an Aes Sedai using the One
+Power.  Warders appear to have some benefits from bonding as they have
+higher stamina and endurance, but nothing is known of what Aes Sedai have to
+gain from this.  
+~
+E
+tar valon~
+"{WTar Valon{x"
+
+Tar Valon is the great city where the White Tower, the head quarters of
+the Aes Sedai was built shortly after the Breaking of the World.  Tar Valon
+is a major location on trading routes for both road and river based
+journeys.  
+~
+E
+the seven ajahs~
+"{CThe Seven Ajahs{x"
+
+Aes Sedai are placed in one of seven societies usually according to their
+beliefs.  All Aes Sedai are governed by the Amrylin Seat, an Aes Sedai who
+is considered to be of all Ajahs but be of none (i.  E.  Maintaining a
+strict code of non-favoritism over the Ajahs, although this is widely
+desputed within the ranks of Aes Sedai).  The {BBlue Ajah{x, which is also known
+as the {BJustice Ajah{x is a society for Aes Sedai who obviously fight for
+rights and for justice.  Many Amrylins have come from this particular Ajah. 
+The {RRed Ajah{x tend to oppose the Blue Ajah on most things.  Their aim is to
+prevent another Breaking of the World by eliminating all male wielders of
+the One Power by severing thier link with the One Power thus rendering them
+unable to channel.  Unlike most of the other Ajahs, the {RRed Ajah{x never bond
+with a Warder.  The {GGreen Ajah{x or the {GBattle Ajah{x has a long and proud
+tradition.  They are the Aes Sedai who prepare for the Last Battle, Taimon
+Gaidon.  The {GGreen Ajah{x are a unique Ajah as they can bond up to four
+Warders at one time, unlike the other Ajahs who only take one Warder.  The
+{GGreen Ajah{x tend to side with the Blue Ajah on White Tower internal affairs
+just as the {WWhite Ajah{x tend to side with the Red Ajah.  The {WWhite Ajah{x are
+philosophers and devout followers of logic, unlike the {yBrown Ajah{x who are
+researchers and historians.  The Gray Ajah are diplomats and advisors whilst
+the {YYellow Ajah{x are healers that use the One Power.  
+~
+D2
+~
+~
+0 0
+0 0 3730
+D3
+~
+~
+0 0
+0 0 3743
+S
+#3736
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+E
+tapestries~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+E
+tapestry~
+Many brightly colored tapestries have been hung upon the walls, each one
+has a small inscribed plaque fixed to the wall beneath them.  Some of the
+tapestries catch your eye: 
+~
+D0
+~
+~
+0 0
+0 0 3730
+D3
+~
+~
+0 0
+0 0 3733
+S
+#3737
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3789
+D1
+~
+~
+0 0
+0 0 3745
+S
+#3738
+A Corridor~
+The long, spiraling stairway pauses at a landing here which opens out to
+a large, circular chamber.  Lanterns are placed in niches along the walls,
+the floor is laid out in polished white tiles.  Rooms lead in all directions
+and the stairway continues up and down.  
+~
+0
+CDR 0
+D0
+~
+~
+0 0
+0 0 3743
+D1
+~
+~
+0 0
+0 0 3730
+D2
+~
+~
+0 0
+0 0 3733
+D3
+~
+~
+0 0
+0 0 3740
+D4
+~
+~
+0 0
+0 0 3746
+D5
+~
+~
+0 0
+0 0 3770
+S
+#3739
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3743
+D2
+~
+~
+0 0
+0 0 3740
+S
+#3740
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3739
+D1
+~
+~
+0 0
+0 0 3738
+D2
+~
+~
+0 0
+0 0 3744
+S
+#3741
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3748
+D2
+~
+~
+0 0
+0 0 3746
+D3
+~
+~
+0 0
+0 0 3784
+S
+#3742
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3747
+D3
+~
+~
+0 0
+0 0 3745
+S
+#3743
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3735
+D2
+~
+~
+0 0
+0 0 3738
+D3
+~
+~
+0 0
+0 0 3739
+S
+#3744
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3740
+D1
+~
+~
+0 0
+0 0 3733
+S
+#3745
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3746
+D1
+~
+~
+0 0
+0 0 3742
+D3
+~
+~
+0 0
+0 0 3737
+S
+#3746
+A Corridor~
+The long, spiraling stairway pauses at a landing here which opens out to
+a large, circular chamber.  Lanterns are placed in niches along the walls,
+the floor is laid out in polished white tiles.  Rooms lead in all directions
+and the stairway moves back down.  
+~
+0
+CDR 0
+D0
+~
+~
+0 0
+0 0 3741
+D1
+~
+~
+0 0
+0 0 3747
+D2
+~
+~
+0 0
+0 0 3745
+D3
+~
+~
+0 0
+0 0 3789
+D5
+~
+~
+0 0
+0 0 3738
+S
+#3747
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3748
+D2
+~
+~
+0 0
+0 0 3742
+D3
+~
+~
+0 0
+0 0 3746
+S
+#3748
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D2
+~
+~
+0 0
+0 0 3747
+D3
+~
+~
+0 0
+0 0 3741
+S
+#3749
+{BS{Da{wl{Wd{wa{De{Ba{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Saldaea.  The largest of the Border nations Saldaea stretches
+from the unbroken cliffs on the Aryth Ocean known as the World's End, to the
+River Arinelle and the northern edge of the Black Hills.  The people of
+Saldaea are known for their distinctively tilted almond-shaped eyes, as well
+as their military prowess, their equestrian skills being far superior to any
+other Border nation.  War for Saldaean's is a family event, wives generally
+joining their husbands on all military campaigns.  Most of the women are
+quite skilled with knives or in hand-to-hand fighting.  Saldaean women can
+be extremely sensual, the ladies of the court are known for the subtlety of
+their seductions, using the language of fans to communicate their thoughts
+to potential suitors.  The infamous sa'sara is a dance outlawed for its
+indecency, yet most all noblewomen know how to dance it.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Saldaean cities, including the capital
+city of Maradon.  
+~
+D1
+~
+~
+0 0
+0 0 3755
+D2
+~
+~
+0 0
+0 0 3752
+S
+#3750
+A Corridor~
+A long, wide corridor leads it's way through the area.  Gilded lanterns
+are set in niches in the wall, and long rugs cover the tiled floor.  A
+spiraling staircase leads upwards into what appears to be a Tower.  Open
+doorways lead in all directions.  
+~
+0
+CDR 0
+D0
+~
+~
+0 0
+0 0 3756
+D1
+~
+~
+0 0
+0 0 3751
+D2
+~
+~
+0 0
+0 0 3768
+D3
+~
+~
+0 0
+0 0 3767
+D4
+~
+~
+0 0
+0 0 3770
+D5
+~
+~
+0 0
+0 0 3791
+S
+#3751
+The Healer's Chamber~
+The doorway opens to a small, cozy seeming room.  The floor is made of
+polished white tiles, many well woven rugs resting upon it.  The walls are
+painted a pale yellow color, adding a tinge of color to the room.  A
+fireplace in the corner gives off warmth and a window lets in the sunlight. 
+~
+0
+DR 0
+D3
+~
+~
+0 0
+0 0 3750
+S
+#3752
+{gT{Gu{Bat{Rh{Ba'{Ga{gn{x~
+The floor of this room has been beautifully crafted into a huge mosaic,
+consisting of tiny brightly colored tiles arranged to make a design
+depicting a map of the world.  This section of the map shows one of the
+camps of the Tuatha'an.  The Tuatha'an are a wandering folk, also known as
+the Tinkers and as the Traveling People, who live in brightly painted wagons
+and follow a totally pacifist philosophy called the Way of the Leaf.  Things
+mended by Tinkers are often better than new.  They are among the few who can
+cross the Aiel Waste unmolested, for the Aiel strictly avoid all contact
+with them.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3749
+S
+#3753
+{RG{wh{Re{wa{Rl{wd{Ra{wn{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Ghealdan.  Ghealdan is a relatively quiet and self-sufficient
+nation ruled by a king.  Most of the towns in Ghealdan are walled and
+contain buildings made primarily of stone and roofed with slate, and the
+people are generally wary of strangers.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Ghealdan cities, including the capital
+city of Jehannah.  
+~
+D1
+~
+~
+0 0
+0 0 3759
+D2
+~
+~
+0 0
+0 0 3760
+D3
+~
+~
+0 0
+0 0 3783
+S
+#3754
+{rA{Rm{Ya{Wdi{Yc{Ri{ra{x~
+The floor of this room has been beautifully crafted into a huge {Dm{wo{Wsa{wi{Dc{x,
+consisting of tiny brightly colored tiles arranged to make a design
+depicting a map of the world.  This section of the map shows the land of
+Amadicia.  Amadicia lies south of the Mountains of Mist, and is the home of
+the Children of the Light.  The land is "ruled" by a king, though this is
+more for appearance sake, as it is truly the Children of the Light who rule
+the land.  Channeling and channelers are outlawed in Amadicia, as it is the
+Children of the Light's goal to rid the land of Aes Sedai, believing them to
+be dark friends.  Thieves are also treated harshly, branding is for the
+first offense, the loss of their right hand for the second, and hanging for
+the third.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Amadician cities, including the capital
+city of Amador.  
+~
+D0
+~
+~
+0 0
+0 0 3783
+D1
+~
+~
+0 0
+0 0 3760
+S
+#3755
+{gK{Ga{Rnd{Go{gr{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Kandor.  Lying between the nations of Arafel and Saldaea along
+the Blightborder, the people of Kandori are highly developed in the martial
+arts.  The Kandori have also developed a skill for trade and have
+established a highly respected guild for merchants.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Kandoran cities, including the capital
+city of Chachin.  
+~
+D0
+~
+~
+0 0
+0 0 3773
+D1
+~
+~
+0 0
+0 0 3761
+D3
+~
+~
+0 0
+0 0 3749
+S
+#3756
+The Gainer's Chamber~
+The doorway opens to a small, comfortable looking room.  The floor is
+made of polished white tiles and the walls are painted a soft blue.  A
+fireplace in the corner gives off warmth and a window lets in the sunlight. 
+~
+0
+0 0
+E
+chart~
+The {rN{Re{Wwb{Ri{re{x Gainer
+
+During your travels through the world it will be useful to know many skills.
+But before you may practice these skills you must first learn the basics of
+them.  The gainers are useful for this.  
+
+To see a list of the skills you may gain, type {Wgain list{x.  
+
+To gain a skill, type {Wgain <skill>{x.  
+~
+D0
+~
+~
+0 0
+0 0 3719
+D2
+~
+~
+0 0
+0 0 3750
+S
+#3757
+{cS{Ce{Wa {wof {DS{ct{Cor{cm{Ds{x~
+Deep blue and black marble tiles have been used to depict the vast
+expanse of water known as the Sea of Storms upon the {Dm{wo{Wsa{wi{Dc{x map
+of the world.  Images of storms and ships have been painted onto some of the
+tiles.  Some of the ships are the familiar Seafolker ships, ranging from
+darters to soarers.
+~
+0
+CDR 0
+D0
+~
+~
+0 0
+0 0 3772
+D2
+~
+~
+0 0
+0 0 3777
+S
+#3758
+A Small Chamber~
+This small, stone chamber, is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+E
+two rivers~
+The {yTwo Rivers{x is a quiet little rural district in the far west of
+{rA{Rn{Wd{Ro{rr{x.  Due to its location this tiny area, it has been largely ignored by
+the rulers of {rA{Rn{Wd{Ro{rr{x for many generations.  Many of the people of the {yTwo
+Rivers{x district do not realise they are a part of {rA{Rn{Wd{Ro{rr{x, and those who do
+know hope that the {yTwo Rivers{x still remains forgotten so that outsiders do
+not interfer with their business.  
+~
+D1
+~
+~
+0 0
+0 0 3790
+D2
+~
+~
+0 0
+0 0 3770
+D3
+~
+~
+0 0
+0 0 3763
+S
+#3759
+{bM{Bu{Wran{Bd{by{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Murandy.  The people of Murandy respect the political leadership
+of their local lords and ladies instead of the king who officially rules. 
+Murandians are extremely suspicious of outsiders, seeing every foreign
+action as part of a plot.  The Andorans are partuclarly despised, primarily
+due to a long history of disputes along their common border, although, close
+to the border the two people are almost indistinguishable except by dress.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3764
+D2
+~
+~
+0 0
+0 0 3766
+D3
+~
+~
+0 0
+0 0 3753
+S
+#3760
+{BA{Yl{rta{Yr{Ba{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Altara.  Facing the Sea of Storms, Altara is unified only in
+name.  Most of the inhabitants prefer to identify themselves as belonging to
+a particular town or as being the subjects of a particular lord or lady,
+seem to care little for their nation, seldom paying taxes or offering more
+than lip service to the crown.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Altaran cities, including the capital
+city of Ebou Dar.  
+~
+D0
+~
+~
+0 0
+0 0 3753
+D1
+~
+~
+0 0
+0 0 3766
+D3
+~
+~
+0 0
+0 0 3754
+S
+#3761
+{RA{Wr{Raf{We{Rl{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Arafel.  The land maintains a strong military tradition for
+protection from the creatures of the Blight, the Arafellin warriors wear two
+swords strapped to their backs with one hilt over each shoulder, all being
+capable swordsmen.  The people native to Arafel are pale-skinned with
+unusually large eyes, the men wear their hair in two long braids, usually
+with silver bells on the ends.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Arafellin cities, including the capital
+city of Shol Arbela.  
+~
+D1
+~
+~
+0 0
+0 0 3767
+D2
+~
+~
+0 0
+0 0 3762
+D3
+~
+~
+0 0
+0 0 3755
+S
+#3762
+{WTar Valon{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the city Tar Valon.  Tar Valon is home to the famed {WWhite Tower{x where
+the Aes Sedai train.  Tar Valon is located upon an island that is only three
+or four miles across, much of the land made up of gardens and parks.  Great
+bridges built by the Ogier lead across the River Erinin, allowing access to
+the city.  Nearly every race and country have representatives within the
+city.  Tar Valon is governed by a council of Aes Sedai chosen by the Hall
+of the Tower.  
+~
+0
+DR 0
+E
+tower~
+The White Tower was made by the cooperative work of Ogier stonemasons
+with the assistance of Aes Sedai wielding the One Power.  It is one of the
+most impressive buildings in the world, constructed entirely of white stone
+and towers five hundred feet above ground.  The front of the Tower faces a
+great public square, emphasizing the deep broad steps and massive doors of
+the main entrance.  A large building behind the Tower serves as the famous
+Library, full of the greatest collections of knowledge known.  
+~
+E
+mosaic~
+Marked upon the map is the famed {WWhite Tower{x.  
+~
+D0
+~
+~
+0 0
+0 0 3761
+D2
+~
+~
+0 0
+0 0 3769
+S
+#3763
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3758
+D2
+~
+~
+0 0
+0 0 3775
+S
+#3764
+{rA{Rn{Wd{Ro{rr{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the country of Andor.  Andor is a large and wealthy realm, reaching from the
+Mountains of Mist to the River Erinin.  One of the largest and oldest
+nations of the land, Andor is a land ruled by Queens.  It is a tradition for
+Andoran Queens to have an Aes Sedai advisor, creating a powerful ally in the
+White Tower.  In keeping with this ally it is tradition to send the eldest
+daughter, the Daughter-Heir, to the White Tower to train among the Aes
+Sedai.  The eldest son, the First Prince of the Sword, is sworn to protect
+and defend his sister with his life.  From an early age the First Prince is
+trained to command the Queen's armies.  
+~
+0
+DR 0
+E
+caemlyn capital~
+By many people's standards, Caemlyn is reputed to be one of the most
+beautiful cities in the world.  The city is comprised of two parts.  The
+Inner city is the oldest part of Caemlyn, this is the location of the Royal
+Palace, the place where the reigning monarch of Andor lives.  The outer part
+of Caemlyn is called the Newer City, this is a relatively more recent
+addition to Caemlyn and tends to lack the beauty and elegance of the Inner
+City.  
+~
+E
+map mosaic floor~
+Marked upon the map are several Andoran cities including the capital city,
+{rC{Ra{Weml{Ry{rn{x.  
+~
+D1
+~
+~
+0 0
+0 0 3769
+D2
+~
+~
+0 0
+0 0 3759
+S
+#3765
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3790
+D2
+~
+~
+0 0
+0 0 3771
+D3
+~
+~
+0 0
+0 0 3770
+S
+#3766
+{gI{Gl{Yli{Ga{gn{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Illian.  A powerful nation on the Sea of Storms, it borders the
+weaker nations of Altara and Murandy.  Wealthy from sea-, land-, and
+river-borne trade, Illian protected the weaker Altara during the Whitecloak
+War to insure that the nation would remain a buffer between Illian and
+Amadicia.  In Illian the King is not the sole political leader of the
+nation.  He is "advised" by a council of lords, known as the Council of
+Nine.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Illianer cities, including the capital
+city of Illian.  
+~
+D0
+~
+~
+0 0
+0 0 3759
+D1
+~
+~
+0 0
+0 0 3772
+D3
+~
+~
+0 0
+0 0 3760
+S
+#3767
+{CS{Wh{Di{We{Dn{Wa{Cr{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Shienar.  Lying at the far northeast, Shienar is flanked by the
+Mountains of Dhoom and the Spine of the Dragon.  The struggle to survive on
+the Blightborder affects every aspect of a Shienaran warrior's life and
+thoughts.  Ask any what three things he values most, he will almost
+certainly answer the following: Peace - because he has known only war. 
+Beauty - because the Blight is filled with ugliness.  And most of all, life
+- because he has already sworn himself to death.  A Shienaran warrior lives
+his life prepared for battle, protected by heavy clothing and armor, but
+in death he is lowered unclothed into the welcoming dirt of the grave,
+believing all came from the earth, and they must return as they came, naked
+and unarmed, into the last embrace of the mother.  
+ 
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Shienaran cities, including the capital
+city of Fal Moran.  
+~
+D1
+~
+~
+0 0
+0 0 3750
+D3
+~
+~
+0 0
+0 0 3761
+S
+#3768
+The Trainer's Chamber~
+The doorway opens to a small, comfortable looking room.  The floor is
+made of polished white tiles, the walls are painted a soft purple.  A
+fireplace in the corner gives off warmth and a window lets in the sunlight. 
+~
+0
+DR 0
+E
+chart~
+The {rN{Re{Wwb{Ri{re{x Trainer
+
+In order to increase those skills you have learned during your travels you
+must train them.  The Trainer is a good place to do this.
+
+In order to see what you can train, type {Wtrain list{x.  
+
+To train a skill, type {Wtrain <skill>.{x
+~
+D0
+~
+~
+0 0
+0 0 3750
+S
+#3769
+{bC{Ba{Yi{Wrh{Yi{Be{bn{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the country of Cairhien.  The peoples of Cairhien are stern and unyielding,
+they thrive on the complexities of subtle political intrigue, using the art
+of misdirection and hidden meanings to gain power and status.  They have
+created a dangerous and often deadly game of competition between the Houses
+of Cairhien called Daes Dae'mar.  King Laman Damodred caused his own death
+by playing the game when he destroyed the Aiel gift of Avendoraldera, the
+only known sapling of the lost Tree of Life, and making it into a throne.  
+~
+0
+DR 0
+E
+cairhien~
+The city of {bC{Ba{Yi{Wrh{Yi{Be{bn{x is laid out on a precise grid
+pattern within the perfect square formed by high gray perimeter walls.  The
+River Alguenya flows along one side of the city and within the walls the
+famous Topless Towers stand in exact patterns.  The city streets are wide
+and paved, the buildings and terraces made of stone, their decoration, like
+everything else in the city, straight lines and sharp angles.  
+~
+E
+mosaic~
+Marked upon the map are severl Cairhienin cities, including the capital
+city of {bC{Ba{Yi{Wrh{Yi{Be{bn{x.  
+~
+D0
+~
+~
+0 0
+0 0 3762
+D1
+~
+~
+0 0
+0 0 3774
+D3
+~
+~
+0 0
+0 0 3764
+S
+#3770
+A Corridor~
+The long, spiraling stairway pauses at a landing here which opens out to
+a large, circular chamber.  Lanterns are placed in niches along the walls,
+the floor is laid out in polished white tiles.  Rooms lead in all directions
+and the stairway continues up and down.  
+~
+0
+CDR 0
+D0
+~
+~
+0 0
+0 0 3758
+D1
+~
+~
+0 0
+0 0 3765
+D2
+~
+~
+0 0
+0 0 3781
+D3
+~
+~
+0 0
+0 0 3775
+D4
+~
+~
+0 0
+0 0 3738
+D5
+~
+~
+0 0
+0 0 3750
+S
+#3771
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3765
+D3
+~
+~
+0 0
+0 0 3781
+S
+#3772
+{RT{Wea{Yr{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Tear.  Tear contains the greatest port on the Sea of Storms,
+located well above the mouth of the River Erinin, and is guarded by the
+ancient fortress known as the Stone of Tear.  Tear is ruled by a council
+known as the High Lords of Tear, ruling from the Stone of Tear.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Tearan cities, including the capital city
+of Tear.  
+~
+D1
+~
+~
+0 0
+0 0 3778
+D2
+~
+~
+0 0
+0 0 3757
+D3
+~
+~
+0 0
+0 0 3766
+S
+#3773
+The {DGr{wea{Wt Bl{wig{Dht{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the Blight.  The Blight is a region in the far north, entirely corrupted by
+the Dark One.  A haunt of Trollocs, Myrddraal, and other creatures of the
+Dark One.  The Blight is a virulent place, full of poisonous growths, killer
+trees, animals that masquerade as plants, plants that are half-mobile,
+worms, and many more unknown creatures that lurk in the awful heat of the
+Blight.  
+~
+0
+DR 0
+D2
+~
+~
+0 0
+0 0 3755
+S
+#3774
+{wThe {ySp{Yi{yne {wof the {yW{Yo{yrld{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the Spine of the World.  A long, towering mountain range moving from the
+Blight to the north, down to the Drowned Lands to the south.  Only a few
+passes move through the Spine of the World from the lands to the west to the
+Aiel Waste to the east.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3779
+D3
+~
+~
+0 0
+0 0 3769
+S
+#3775
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3763
+D1
+~
+~
+0 0
+0 0 3770
+D2
+~
+~
+0 0
+0 0 3780
+S
+#3776
+{gSt{Ge{gdd{Yi{gng Sh{Ya{gng{Gt{gai{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+one of the Stedding, home to the Ogier.  Ogier Stedding seem to be shielded
+in some unknown way that completely prevents the One Power from being
+channelled, or even sensed, within their boundaries; attempts to wield the
+One Power from outside a Stedding have no effect inside of it.  The very air
+within a Stedding seems somehow diferent from that outside, fresher or more
+peaceful, causing most visitors to shiver in surprise upon entering.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map is one of the {gO{Gg{Yi{Ge{gr{x stedding, this one is
+the Stedding Shangtai, located just to the east of the Spine of the World.  
+~
+E
+ogier~
+Ogier resemble humans in general build and dress, but are a genetically
+separate species with long tufted ears and broad, vaguely snoutlike noses. 
+Rising to a height much larger than humans, the male Ogier average ten feet
+with the women standing only slightly shorter.  The life span of an Ogier is
+at least three to four times of a human and are not considered truly mature
+until they have reached the age of at least one hundred years old.  
+~
+D0
+~
+~
+0 0
+0 0 3779
+S
+#3777
+{yI{Ysle{ys {wof the {cS{Ce{Wa {cF{Co{Wlk{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the Isles of the Sea Folk.  The Sea Folk perform most sea trade, and nearly
+all of the trade in silk and ivory from Shara, yet little is known of them
+except through stories and legend.  The Atha'an Miere prefer to spend most
+of their lives aboard their ships and are even born upon the water.  They
+wear brightly colored tattoos upon their hands, some of which denote clan,
+equally brilliant sashes on their waists, gold and silver jewelry, and a
+ditinct style of dress.  The Sea Folk women have an almost irresistible
+allure and are told to be the epitome of beauty and temptation.  To the
+Atha'an Miere, each ship is a living spirit, gifted with a man's heart and
+courage.  These ships are as much a part of the Sea Folk family as any
+human.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3757
+S
+#3778
+{CMa{Yye{Cne{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Mayene.  Resting on the end of a peninsula in the Sea of Storms,
+Mayene is an independent city-state, rather than a nation.  Mayene's wealth
+comes from the secret oilfish shoals.  The ruling family of Mayene claims to
+be descended from Artur Hawkwing, and the man or woman who rules Mayene is
+styled "the First".  All high lords and ladies of Mayene are trained in basic
+self-defense, so that they need not rely solely on their personal guards
+for protection. 
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Mayener cities, including the capital
+city of Mayene.  
+~
+D3
+~
+~
+0 0
+0 0 3772
+S
+#3779
+{yThr{Dee-{yF{Do{yld L{Da{ynd{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the Aiel Waste.  A harsh, rugged, and all but waterless land that would
+appear to be uninhabitable is home to those who call themselves Aiel.  A
+fierce people, they call this land the Three-Fold land because they believe
+it to be first, a shaping stone to make them; second, a testing ground to
+prove their worth; and third, a punishment for their sin.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3787
+D2
+~
+~
+0 0
+0 0 3776
+D3
+~
+~
+0 0
+0 0 3774
+S
+#3780
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3775
+D1
+~
+~
+0 0
+0 0 3781
+S
+#3781
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3770
+D1
+~
+~
+0 0
+0 0 3771
+D3
+~
+~
+0 0
+0 0 3780
+S
+#3782
+{GA{Wra{Dd {GD{Do{Wma{Gn{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Arad Doman.  Arad Doman lies between the Mountains of Mist and
+the Aryth Ocean, just north of the Almoth Plain.  The Domani believe they
+are descendants of those who made the Tree of Life, but it is the Domani
+women that are legendary.  Copper-skinned and exceedingly graceful, they are
+said to be able to twist a man around their wrist with a look, and imprison
+his heart with a single smile.  The clothes they wear are considered
+scandalous by most other standards, their dresses covering their bodies from
+neck to toes, but are barely opaque and cling to every curve.  Most Domani
+merchants are women, and the nation owes its wealth to their success.  
+~
+0
+DR 0
+E
+map~
+There have been many towns and cities marked upon the map.  Among the
+more important ones are {cB{Ca{cn{Cd{ca{Cr {cE{Cb{ca{Cn{x and {DF{Ya{Rl{Ym{De{x.  
+~
+E
+mosaic~
+Marked upon the map are several Arad Doman cities, including the capital
+city of Bandar Eban.  
+~
+D2
+~
+~
+0 0
+0 0 3783
+D3
+~
+~
+0 0
+0 0 3785
+S
+#3783
+{RT{Wa{Rr{Ya{Rb{Wo{Rn{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Tarabon.  Lying just south of the Almoth Plain, Tarabon is a
+sizable nation.  A great trading nation, Tarabon is a major source of fine
+rugs, dyes, fireworks, and other luxury items.  Historically, Tarabon has
+spent nearly three hundred years squabbling with Arad Doman over the Almoth
+Plain.  Tarabon is the home of the Guild of Illuminators, a very secretive
+guild who holds the secret to producing illuminations, or airborne fireworks
+displays.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Taraboner cities, including the capital
+city of Tanchico.  
+~
+D0
+~
+~
+0 0
+0 0 3782
+D1
+~
+~
+0 0
+0 0 3753
+D2
+~
+~
+0 0
+0 0 3754
+S
+#3784
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3741
+D2
+~
+~
+0 0
+0 0 3789
+S
+#3785
+{wThe {cA{Cr{cy{Ct{ch {cO{Cc{We{Ca{cn{x~
+Deep blue marble tiles have been used to depict the vast expanse of
+water known as the Aryth Ocean upon the mosaic map of the world.  Images of
+dolphins and ships have been painted onto some of the tiles.  Some of the
+ships are the familiar Seafolk ships, ranging from darters to soarers.
+Some of the ships depicted on the map are somewhat unfamiliar, but who knows
+what really lies beyond the Aryth Ocean?  
+~
+0
+DR 0
+D1
+~
+~
+0 0
+0 0 3782
+D3
+~
+~
+0 0
+0 0 3786
+S
+#3786
+{rS{Re{Da{Wnc{Dh{Ra{rn{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows a
+strange, unknown land, the land of Seanchan.  Ruled by a strong Empress, the
+land of Seanchan prospers well on its own, though all live for the time of
+the Corenne, or the Return, when those of Seanchan will cross the Aryth
+Ocean to take back the lands of the Oathbreakers.  The nobility of Seanchan
+are called the Blood.  The Blood are those who are direct decendants of
+Artur Hawkwing, though it is possible, and considered a great honor, to be
+raised to the Blood.  Those women who can channel, the marath'damane, of the
+land, are collared by an a'dam, and controlled by Sul'dam to train the
+Damane for weapons.  Damane are considered less than human, and are a part
+of the Morat, the beasts of the Empire.  
+~
+0
+DR 0
+E
+mosaic~
+Marked upon the map are several Seanchan cities, including the Imperial
+capital of Seandar.  
+~
+D1
+~
+~
+0 0
+0 0 3785
+S
+#3787
+{GSh{ga{Gr{ga{x~
+The floor of this room has been beautifully crafted into a huge
+{Dm{wo{Wsa{wi{Dc{x, consisting of tiny brightly colored tiles arranged to
+make a design depicting a map of the world.  This section of the map shows
+the land of Shara.  Steep cliffs and walls along the coastal cities keeep
+the land of Shara hidden from outsiders.  All stories heard of the people of
+Shara differ and all that is generally known of these people is from the
+writings of Jain Farstrider, the Sea Folk, and the Aiel.  
+~
+0
+DR 0
+D3
+~
+~
+0 0
+0 0 3779
+S
+#3788
+A dank, dark corridor.~
+~
+0
+DR 0
+D2
+~
+~
+0 0
+0 0 3794
+S
+#3789
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D0
+~
+~
+0 0
+0 0 3784
+D1
+~
+~
+0 0
+0 0 3746
+D2
+~
+~
+0 0
+0 0 3737
+S
+#3790
+A Small Chamber~
+This small, stone chamber is one of many among the Tower.  The room has
+little decoration save for a fireplace, which gives off both warmth and
+light, as there are few windows in the place.  The stone floor is bare, a
+coolness arising from it.  
+~
+0
+DR 0
+D2
+~
+~
+0 0
+0 0 3765
+D3
+~
+~
+0 0
+0 0 3758
+S
+#3791
+The Changer's Chamber~
+The doorway opens to a small, comfortable looking room.  The floor is
+made of polished white tiles, the walls are painted a soft green.  A
+fireplace in the corner gives off warmth and a window lets in the sunlight. 
+
+
+You can leave newbie school and venture into the real world by following the
+stairs down.  
+~
+0
+R 0
+E
+chart~
+The {rN{Re{Wwb{Ri{re{x Changer
+
+The bulk and weight of silver can often become too much for a person to
+carry all at once.  It is often a good idea to change these smaller coins
+into larger.  There are bankers in the world who will be more than happy to
+do this for you, but beware for their services do not come for free.  
+
+To use the changer simply give him the silver or gold you wish to have
+exhanged: {Wgive <amount> <silver/gold> changer{x.
+~
+D4
+~
+~
+0 0
+0 0 3750
+D5
+~
+~
+1 1
+1 0 4531
+S
+#3792
+Newbie Combat - Equipment Room - 5a.2~
+This room contains a well equipped mobile that appears to be fully
+dressed out in newbie equipment.  
+ 
+He only appears to be missing a weapon.  Kill him, take his equipment
+and put it on.
+ 
+~
+0
+C 0
+S
+#3793
+A path~
+A path of silence.  Here is tranquility and peace.  The path is bordered
+with some roses and you wonder who made such a pretty path.  As you wander
+it you feel completely at peace.  And safe.  
+ 
+ 
+~
+0
+CKR 1
+D2
+~
+~
+0 0
+0 0 3796
+S
+#3794
+~
+You stand in the lookout tower and can see through the ages of man, you
+can almost make out the characters and history of all the mankind throughout
+the ages.  You wonder who made this illusionary magic and think nothing more
+of it until you see yourself in one of the patterns, but as soon as it was
+there, it is gone again.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 3788
+D1
+~
+~
+0 0
+0 0 3795
+D2
+~
+~
+0 0
+0 0 3797
+S
+#3795
+~
+You have entered the domains of the Black Wolf Kindred.  Here at the
+gates to their meadhall you wonder what great miracle has created this and
+then thank the gods and goddesses for their gift of bringing you there.  The
+ground is soft on your feet and the trees around seems to be glowing green
+and peacefully in the sunlight.  
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 3796
+D2
+~
+~
+0 0
+0 0 3798
+D3
+~
+~
+0 0
+0 0 3794
+S
+#3796
+Eastern test room.~
+The room of color.  Here is your sight and sound that is tested.  As you
+enter this room you can only see multitude of colors and sounds that
+confuses you.  You ponder this for a while and then get a little with the
+music as you find a rythm, as you do this you can see something emerging
+from the patterns of the colors.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 3793
+D2
+~
+~
+0 0
+0 0 3799
+D3
+~
+~
+0 0
+0 0 3795
+S
+#3797
+Southern testing room.~
+The southern testing room.  Here it is cleaner than anywhere.  It is
+spotless an you wonder howcome this is, why is it so clean here and who the
+cleaner is.  As you ponder these questions you see someone coming from the
+far end of the room and as you try to hide to see who it is, you notice the
+stains of blood on her.  
+~
+0
+CR 0
+D0
+~
+~
+0 0
+0 0 3794
+D1
+~
+~
+0 0
+0 0 3798
+S
+#3798
+Northern test room~
+The northern test room. {RB{rl{Ro{ro{Rd{x is dripping from the walls.
+There is a pool of {Rb{rl{Ro{ro{Rd{x on the floor and you cant help but wonder where it came from.
+As you ponder this you notice in the middle of the {Rb{rl{Ro{ro{Rd{x there is something....or someone.
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 3795
+D1
+~
+~
+0 0
+0 0 3799
+D3
+~
+~
+0 0
+0 0 3797
+S
+#3799
+The first central room.~
+You are standing in a room surrounded by cages.  The noice is loud and
+alarming.  As you look around you see that there is only a few exits.  
+ 
+There is a sign here, {W"{BBe ready to be tested.{W"{x
+~
+0
+CR 0
+D0
+~
+~
+0 0
+0 0 3796
+D3
+~
+~
+0 0
+0 0 3798
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3735 0 3700
+M 0 3709 1 3700 1
+O 0 3736 0 3708
+O 0 3730 0 3708
+O 0 3726 0 3708
+O 0 3737 0 3709
+O 0 3736 0 3709
+P 0 3715 1 3737 1
+O 0 3736 0 3710
+O 0 3740 0 3710
+P 0 3741 5 3740 2
+O 0 3737 0 3711
+O 0 3736 0 3711
+P 0 3706 1 3737 1
+P 0 3707 1 3737 1
+O 0 3734 0 3713
+M 0 3710 1 3714 1
+O 0 3734 0 3714
+M 0 3705 1 3715 1
+O 0 3734 0 3715
+M 0 3706 1 3716 1
+O 0 3734 0 3716
+M 0 3707 3 3717 1
+G 0 3726 0
+G 0 3746 0
+G 0 3747 0
+G 0 19 0
+O 0 3734 0 3717
+M 0 3703 1 3721 1
+M 0 3704 1 3722 1
+M 0 3707 5 3723 1
+G 0 3725 0
+G 0 3724 0
+G 0 3723 0
+G 0 3722 0
+G 0 3721 0
+G 0 3720 0
+G 0 3719 0
+G 0 3718 0
+G 0 3717 0
+G 0 3702 0
+G 0 3701 0
+G 0 3700 0
+M 0 3707 5 3726 1
+G 0 3713 0
+G 0 3712 0
+G 0 3711 0
+G 0 3710 0
+G 0 3709 0
+G 0 3708 0
+G 0 3707 0
+G 0 3706 0
+G 0 3705 0
+G 0 3704 0
+G 0 3703 0
+M 0 3764 1 3730 1
+M 0 3762 1 3733 1
+M 0 3765 1 3735 1
+M 0 3763 1 3736 1
+M 0 3753 1 3737 1
+M 0 3759 1 3739 1
+M 0 3760 1 3740 1
+M 0 3751 1 3741 1
+M 0 3755 1 3742 1
+M 0 3758 1 3743 1
+M 0 3761 1 3744 1
+M 0 3754 1 3745 1
+M 0 3756 1 3747 1
+M 0 3757 1 3748 1
+M 0 3741 1 3749 1
+E 0 3737 0 1
+O 0 3700 0 3750
+M 0 3707 5 3750 1
+G 0 3715 0
+G 0 3726 0
+G 0 3747 0
+G 0 3746 0
+M 0 3701 1 3751 1
+M 0 3742 1 3752 1
+M 0 3728 1 3753 1
+M 0 3726 1 3754 1
+E 0 3738 0 15
+M 0 3739 1 3755 1
+E 0 3743 0 7
+M 0 3700 1 3756 1
+O 0 3736 0 3756
+M 0 3743 1 3758 1
+M 0 3729 1 3759 1
+M 0 3725 1 3760 1
+E 0 3734 0 5
+M 0 3737 1 3761 1
+E 0 3730 0 14
+M 0 3736 1 3762 1
+E 0 3742 0 3
+M 0 3744 1 3763 1
+M 0 3714 1 3764 1
+E 0 3728 0 11
+M 0 3749 1 3765 1
+M 0 3724 1 3766 1
+E 0 3741 0 16
+M 0 3738 1 3767 1
+E 0 3729 0 8
+M 0 3702 1 3768 1
+O 0 3736 0 3768
+M 0 3732 1 3769 1
+E 0 3731 0 0
+M 0 3748 1 3771 1
+M 0 3722 1 3772 1
+E 0 3735 0 10
+M 0 3740 1 3773 1
+E 0 3727 0 12
+M 0 3733 2 3774 1
+E 0 3745 0 9
+M 0 3745 1 3775 1
+M 0 3735 1 3776 1
+E 0 3744 0 19
+M 0 3721 1 3777 1
+E 0 3740 0 23
+M 0 3723 1 3778 1
+E 0 3739 0 13
+M 0 3746 1 3780 1
+M 0 3747 1 3781 1
+M 0 3730 1 3782 1
+E 0 3733 0 17
+M 0 3727 1 3783 1
+E 0 3732 0 25
+M 0 3784 1 3784 1
+M 0 3731 1 3786 1
+E 0 3736 0 2
+M 0 3734 1 3787 1
+M 0 3752 1 3789 1
+M 0 3750 1 3790 1
+M 0 3708 1 3791 1
+M 0 3766 1 3792 1
+E 0 3703 0 7
+E 0 3712 0 16
+E 0 3704 0 13
+E 0 3705 0 5
+E 0 3706 0 8
+E 0 3710 0 12
+E 0 3709 0 11
+E 0 3708 0 10
+E 0 3707 0 9
+E 0 3711 0 15
+G 0 3746 0
+E 0 3713 0 18
+E 0 3713 0 17
+S
+
+
+
+#SHOPS
+3707 1 9 19 17 15 100 100 0 23
+3709 0 0 0 0 0 100 100 0 23
+3717 1 15 17 19 0 100 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,857 @@
+#AREADATA
+Name The Eye of the World~
+Builders Angenue~
+VNUMs 800 850
+Credits None~
+Security 1
+Low 80
+High 90
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#800
+gnarled gnarl tree~
+{Da gnarled tree{x~
+{DA gnarled tree, with corrupted, wiggling limbs, attempts to ensnare you.{x
+~
+{DA rotten-looking tree, with corrupted limbs, reachs for you with its
+limbs wriggling like snakes, attempting to snare your arms, waist and neck. 
+{x 
+~
+unique~
+AF M -1000 0
+100 90 51d52+10000 100d10+100 11d11+50 crush
+0 0 0 0 0
+A
+7 7 7 7
+CEFHKLNU 0 0 0
+stand stand none 0
+B F medium 'wood'
+#801
+gnarled gnarl tree~
+{Da gnarled tree{x~
+{DA gnarled tree, with corrupted, wiggling limbs, attempts to ensnare you.{x
+~
+{DA rotten-looking tree, with corrupted limbs, reachs for you with its
+limbs wriggling like snakes, attempting to snare your arms, waist and neck. 
+{x 
+~
+unique~
+AF M -1000 0
+90 80 46d47+8100 90d10+100 10d10+45 crush
+0 0 0 0 0
+A
+6 6 6 6
+CEFHKLNU 0 0 0
+stand stand none 0
+B F medium 'wood'
+#802
+creature~
+{Da creature{x~
+{DA creature with a massive body leaps out of the trees.{x
+~
+{DStiff hair like long brittles covers it, and it has too many legs,
+joining a body as big as a bear at odd angles.  Some of them at least, those
+coming out of its back, have to be useless for walking, but the finger-long
+claws at their ends tear at the earth in its death agony.  {x 
+~
+unique~
+AF M -1000 0
+100 90 51d52+10000 100d10+100 11d11+50 bite
+0 0 0 0 0
+A
+7 7 7 7
+CEFHIJKMNOU 0 0 0
+stand stand none 0
+G ABCDEFUV medium 'flesh'
+#803
+green man~
+a {gGr{Gee{gn {GM{ga{Gn{x~
+A {gGr{Gee{gn {GM{ga{Gn{x steps from out of the {gfo{Glia{gge{x, greeting you.
+~
+A man-shape of woven {gvines{x and {Gleaves{x, {ggr{Gee{gn{x and growing.  His hair is
+{gg{Gras{gs{x, flowing to his shoulders; his eyes, huge {yhaz{Del{ynuts{x; his fingernails,
+{yac{Do{yrns{x.  Green {gle{Gav{ges{x made his tunic and trousers; seamless {yb{Da{yrk{x, his boots.
+{YBu{Wtt{De{Yrf{Wli{Yes{x swirl around him, lighting on his fingers, his shoulders, his
+face.  Only one things spoils the verdant perfection.  A deep {Dfissure{x runs
+up his cheek and temple across the top of his head, and in that the vines
+are {ybrown{x and {Dwithered{x.  
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 800 100~
+#804
+green man~
+a {gGr{Gee{gn {GM{ga{Gn{x~
+A {gGr{Gee{gn {GM{ga{Gn{x walks through the {gg{Gar{gd{Ge{gn{x, with {Rbu{Ytt{Wer{Df{Yli{Res{x surrounding him in a cloud.
+~
+A man-shape of woven {gvines{x and {Gleaves{x, {ggr{Gee{gn{x and growing.  His hair is
+{gg{Gras{gs{x, flowing to his shoulders; his eyes, huge {yhaz{Del{ynuts{x; his fingernails,
+{yac{Do{yrns{x.  Green {gle{Gav{ges{x made his tunic and trousers; seamless {yb{Da{yrk{x, his boots.
+{YBu{Wtt{De{Yrf{Wli{Yes{x swirl around him, lighting on his fingers, his shoulders, his
+face.  Only one things spoils the verdant perfection.  A deep {Dfissure{x runs
+up his cheek and temple across the top of his head, and in that the vines
+are {ybrown{x and {Dwithered{x.  
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 801 100~
+#805
+green man~
+a {gGr{Gee{gn {GM{ga{Gn{x~
+A {gGr{Gee{gn {GM{ga{Gn{x stands here with {Mbu{Rtt{Yer{Wf{Dl{Yi{Re{Ms{x swirling about him in agitation.
+~
+A man-shape of woven {gvines{x and {Gleaves{x, {ggr{Gee{gn{x and growing.  His hair is
+{gg{Gras{gs{x, flowing to his shoulders; his eyes, huge {yhaz{Del{ynuts{x; his fingernails,
+{yac{Do{yrns{x.  Green {gle{Gav{ges{x made his tunic and trousers; seamless {yb{Da{yrk{x, his boots.
+{YBu{Wtt{De{Yrf{Wli{Yes{x swirl around him, lighting on his fingers, his shoulders, his
+face.  Only one things spoils the verdant perfection.  A deep {Dfissure{x runs
+up his cheek and temple across the top of his head, and in that the vines
+are {ybrown{x and {Dwithered{x.  
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 802 100~
+#806
+man gray~
+Aginor~
+A man walks toward you, wearing a {Ddark g{wr{Day {Dc{wlo{Dak{x that seems musty, even in open air.
+~
+A hand, old and shriveled to scarcely human, lacking a fingernail and
+with knuckles gnarled like knots in a piece of rope, pushes back his hood. 
+This old man is older than old.  The skin of his face is like crazed
+parchment drawn tight over a skull, then pulled tighter still.  Wispy tufts
+of brittle hair stand at odd places on his scabrous scap.  His ears are
+withered bits like scraps of ancient leather; his eyes sunken, peering out
+of his head as if from the ends of tunnels.  
+~
+shienaran~
+ABF 0 -1000 0
+100 90 51d52+10000 100d10+100 11d11+50 chill
+500 500 500 500 500
+A
+7 7 7 7
+EFIJKNQ 0 Z 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 803 100~
+#807
+man green~
+Balthamel~
+A man strides toward you, his {gd{Ga{grk green {gc{Gl{Do{Ga{gk{x stirring in the breeze.
+~
+A tight, {Dblack l{we{Wa{Dt{wh{We{Dr{x carapace covers his head and face completely, but
+the front of it is worked into a perfect face, a young man's face, laughing
+wildly; laughing insanely, frozen forever.  What is he hiding if the other
+shows what he shows?  
+~
+shienaran~
+AB 0 -1000 0
+100 90 51d52+10000 100d10+100 11d11+50 chill
+500 500 500 500 500
+A
+7 7 7 7
+EFIJKNQ 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#808
+green man~
+a {gGr{Gee{gn {GM{ga{Gn{x~
+A {gGr{Gee{gn {GM{ga{Gn{x strides from the trees, toward the two strangers.
+~
+A man-shape of woven {gvines{x and {Gleaves{x, {ggr{Gee{gn{x and growing.  His hair is
+{gg{Gras{gs{x, flowing to his shoulders; his eyes, huge {yhaz{Del{ynuts{x; his fingernails,
+{yac{Do{yrns{x.  Green {gle{Gav{ges{x made his tunic and trousers; seamless {yb{Da{yrk{x, his boots.
+{YBu{Wtt{De{Yrf{Wli{Yes{x swirl around him, lighting on his fingers, his shoulders, his
+face.  Only one things spoils the verdant perfection.  A deep {Dfissure{x runs
+up his cheek and temple across the top of his head, and in that the vines
+are {ybrown{x and {Dwithered{x.  
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 ABCD 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 804 100~
+#809
+singing ogier~
+an {yOg{Di{we{yr{x~
+An {yOg{Di{we{yr{x kneels here, singing a beautiful, heartfelt song.
+~
+This {yOg{Di{we{yr{x closes his eyes and stretches out his arms.  The tufts on his
+ears stand straight as he lifts his face to the sky and sings.  
+~
+ogier~
+AB 0 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 crush
+0 0 0 0 0
+A
+7 7 7 7
+CFHIJKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#810
+imp creature man lex~
+a impish looking man~
+An impish looking man peering into the corridor.
+~
+Bells attached to his head, jungle slightly as he moves.  He is slightly
+bent over, twin swords on his back.  His face is very orginary, which match
+his clothes.  Nothing special stands out about him but something just
+doesn't seem to be right.  
+~
+arafellin~
+ABT DFHJP 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slice
+100 100 100 100 100
+A
+6 6 6 6
+FHJK ABPabc 0 0
+stand stand none 0
+0 0 medium 'unknown'
+F gain C
+#0
+
+
+
+#OBJECTS
+#800
+gnarled limb~
+a {Dgnarled limb{x~
+A {Dgnarled limb{x lies rotting on the ground.~
+wood~
+weapon 0 AN
+sword 11 15 'stab' 0
+90 5 100 100
+A
+18 8
+A
+19 8
+A
+2 1
+A
+5 1
+A
+1 1
+#801
+gnarled limb~
+a {Dgnarled limb{x~
+A {Dgnarled limb{x lies rotting on the ground.~
+wood~
+weapon 0 AN
+staff 11 15 'crush' F
+90 5 100 100
+A
+1 1
+A
+5 1
+A
+2 1
+A
+19 8
+A
+18 8
+#802
+cap blossoms blossom~
+a {gc{Ga{gp{x of {Wblossoms{x - {Mp{mi{Mnk {Mw{mi{Mldr{mo{Mse{x, {Yyellow b{ye{Yll{x and {Wwhite m{Yo{Gr{gn{Yi{Wngstar{x~
+A {gc{Ga{gp{x of {Wblossoms{x - {Mp{mi{Mnk {Mw{mi{Mldr{mo{Mse{x, {Yyellow b{ye{Yll{x and {Wwhite m{Yo{Gr{gn{Yi{Wngstar{x - lies on the ground.~
+organic~
+armor I AE
+20 10 10 10 0
+50 1 100 100
+#803
+garland morningstar~
+a {Wgarland{x of m{Yo{Gr{gn{Yi{Wngstar{x~
+A {Wgarland{x of m{Yo{Gr{gn{Yi{Wngstar{x lies on the ground.~
+organic~
+armor I AE
+20 10 10 10 0
+50 1 100 100
+#804
+garden pink white flowers~
+a {Mp{mi{Mnk{x and {Wwhite {Wfl{go{Gw{Wer{x~
+A {Mp{mi{Mnk{x and {Wwhite {Wfl{go{Gw{Wers{x spreads in all directions.~
+organic~
+trash 0 AO
+0 0 0 0 0
+0 1 5 100
+#805
+heartstone cuendillar pottery fragments~
+{Dc{Wu{De{Wn{Dd{Wi{Dl{Wl{Da{Wr{x~
+Pottery fragments, {Dblack{x and {Wwhite{x and shiny, lay on the ground.~
+stone~
+treasure 0 AO
+0 0 0 0 0
+0 1 10000 100
+#806
+heartstone cuendillar pottery fragments~
+{Dc{Wu{De{Wn{Dd{Wi{Dl{Wl{Da{Wr{x~
+Pottery fragments, {Dblack{x and {Wwhite{x and shiny, lay on the ground.~
+stone~
+treasure 0 AO
+0 0 0 0 0
+0 1 10000 100
+#807
+cube chest~
+an elaborate {yg{Yol{yd{x and {Ws{wi{Dlv{we{Wr{x chest~
+An elaborate flattened cube of {yg{Yol{yd{x and {Ws{wi{Dlv{we{Wr{x sits atop the column.~
+metal~
+container 0 AP
+100 AC 0 1000 0
+0 0 0 100
+#808
+horn valere~
+a curled, {yg{Yol{yd h{Yor{yn{x~
+A curled, {yg{Yol{yd h{Yor{yn{x lies here.~
+metal~
+treasure ABH AO
+0 0 0 0 0
+0 4 10000 100
+E
+horn~
+A line of {Ws{wi{Dlv{we{Wr{x script is inlaid around the mouth of the bell.  It reads
+"Tia mi aven Moridin isainde vadin."  
+~
+#809
+horn valere~
+a curled, {yg{Yol{yd h{Yor{yn{x~
+A curled, {yg{Yol{yd h{Yor{yn{x lies here.~
+metal~
+treasure ABH AO
+0 0 0 0 0
+0 4 10000 100
+E
+horn~
+A line of {Ws{wi{Dlv{we{Wr{x script is inlaid around the mouth of the bell.  It reads
+"Tia mi aven Moridin isainde vadin."  
+~
+#810
+dragon banner bundle white cloth~
+a bundle of {Wwhite cloth{x~
+A bundle of {Wwhite cloth{x sits on the ground.~
+cloth~
+treasure ABH AQ
+0 0 0 0 0
+0 10 10000 100
+E
+bundle~
+A long, {Wwhite{x banner spreads out, lifting into the air. The whole thing seems of a piece, neither woven, more dyed, nor painted. A figure like a serpent, scaled in {rsc{Rarl{ret{x and {yg{Yol{yd{x, runs the entire length, but it has scaled legs, and feet with five long, {yg{Yo{Wld{Ye{yn{x claws on each, and a great head with a {yg{Yo{Wld{Ye{yn{x mane and eyes like the sun. The stirring of the banner makes it seem to m.fove, scales glittering like precious metals and gems, alive, and almost sounding like it roars in defiance.
+~
+E
+banner~
+A long, {Wwhite{x banner spreads out, lifting into the air.  The whole thing
+seems of a piece, neither woven, more dyed, nor painted.  A figure like a
+serpent, scaled in {rsc{Rarl{ret{x and {yg{Yol{yd{x, runs the entire length, but it has
+scaled legs, and feet with five long, {yg{Yo{Wld{Ye{yn{x claws on each, and a great head
+with a {yg{Yo{Wld{Ye{yn{x mane and eyes like the sun.  The stirring of the banner makes
+it seem to m.  Fove, scales glittering like precious metals and gems, alive,
+and almost sounding like it roars in defiance.  
+~
+#811
+dragon banner bundle white cloth~
+a bundle of {Wwhite cloth{x~
+A bundle of {Wwhite cloth{x sits on the ground.~
+cloth~
+treasure ABH AQ
+0 0 0 0 0
+0 10 10000 100
+E
+bundle~
+A long, {Wwhite{x banner spreads out, lifting into the air.  The whole thing
+seems of a piece, neither woven, more dyed, nor painted.  A figure like a
+serpent, scaled in {rsc{Rarl{ret{x and {yg{Yol{yd{x, runs the entire length, but it has
+scaled legs, and feet with five long, {yg{Yo{Wld{Ye{yn{x claws on each, and a great head
+with a {yg{Yo{Wld{Ye{yn{x mane and eyes like the sun.  The stirring of the banner makes
+it seem to m.  Fove, scales glittering like precious metals and gems, alive,
+and almost sounding like it roars in defiance.  
+~
+E
+banner~
+A long, {Wwhite{x banner spreads out, lifting into the air.  The whole thing
+seems of a piece, neither woven, more dyed, nor painted.  A figure like a
+serpent, scaled in {rsc{Rarl{ret{x and {yg{Yol{yd{x, runs the entire length, but it has
+scaled legs, and feet with five long, {yg{Yo{Wld{Ye{yn{x claws on each, and a great head
+with a {yg{Yo{Wld{Ye{yn{x mane and eyes like the sun.  The stirring of the banner makes
+it seem to m.  Fove, scales glittering like precious metals and gems, alive,
+and almost sounding like it roars in defiance.  
+~
+#812
+beautiful red statue~
+a beautiful statue carved from {rr{Re{rd {Ds{wt{Wo{wn{De{x~
+A beautiful statue of a goddess stands here, carved from {rr{Re{rd {Ds{wt{Wo{wn{De{x, her hair flowing in the breeze.~
+stone~
+treasure 0 P
+0 0 0 0 0
+0 0 0 100
+E
+statue~
+A small plaque at the base of the statue reads "In Memory of Kelly "{R@{G}-{gSh{Gau{gna{G-{x" Brown Leaver, Beloved Friend."
+~
+#0
+
+
+
+#ROOMS
+#800
+The Blight~
+{DTraveling north, the Mountains of Dhoom loom in the distance.  Even under
+the sunrise, the peaks rise black and lifeless, like jagged teeth.  In a
+wall they stretch, east and west as far as the eye can see.  {x 
+~
+0
+ACV 3
+D0
+~
+~
+0 0
+0 0 801
+D8
+~
+~
+0 0
+0 0 42068
+S
+#801
+The Blight~
+{DAs the Mountains of Dhoom draw closer, so does the true Blight.  Where a
+leaf is spotted black and mottled yellow before, now foliage falls wetly
+while you watch, breaking apart from the weight of its own corruption.  The
+trees themselves are tortured, crippled things, twisted branches clawing at
+the sky as if begging mercy from some power that refuses to hear.  Ooze
+slides like pus from bark cracked and spliting.  As if nothing truly solid is
+left to them, the trees seem to tremble from the passage of horses over the
+ground.  {x 
+~
+0
+AV 0
+D1
+~
+~
+0 0
+0 0 802
+D2
+~
+~
+0 0
+0 0 800
+S
+#802
+The Blight~
+{DIt is difficult to tell what kind of trees these had been, so gnarled and
+tormented are their shapes.  As you watch, a tree suddenly whips back and
+forth again, then bends down, flailing at the ground.  Something screams,
+shrill and piercing.  The tree springs back straight, its limbs entwined
+around a dark mass that writhes and spits and screams.  {x 
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 803
+D3
+~
+~
+0 0
+0 0 801
+S
+#803
+{DWorms!{x~
+{DIf the trees were not stricking into the mass of attacking flesh as much
+as at the humans, if the creatures, no two alike, had not fought the trees
+and one another as much as to reach you, any traveler might be overwhelmed. 
+As this thought crosses your mind, a fluting cry arises.  Instantly, the
+snarling ceases, as if it has been sliced off with a knife.  The attacking
+shapes freeze; the trees go still.  As suddenly as the things with legs had
+appeared, they melt away, vanishing into the twisted forest.  The reedy
+shrill comes again, like a cracked shepherd's pipes, and is answered in a
+kind of chorus.  Half a dozen, singing among themselves, far behind... 
+Worms.  Ride.  Ride!  To the mountains.  {x 
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 804
+D2
+~
+~
+0 0
+0 0 802
+S
+#804
+Running from the Worms~
+{DThe Blight flows past, weeds and grasses splashing rotten under galloping
+hooves.  Trees of the kinds that had earlier attacked did not so much as
+twitch even when you ride directly under their branches.  The Mountains of
+Dhoom fill the sky ahead, black and bleak, and almost near enough to touch,
+it seems.  The piping comes both sharp and clear, and there is squishing
+sounds behind you, louder than the things crushing under hooves.  Too loud,
+as if half-decayed trees are being crushed by huge bodies slithering over
+them.  Too near.  You look over your shoulder.  Back there treetops whip
+and go down like grass.  The land begins sloping upward, toward the
+mountains, tilting enough so that you know you are climbing.  
+~
+0
+ACV 0
+D2
+~
+~
+0 0
+0 0 803
+D4
+~
+~
+0 0
+0 0 805
+S
+#805
+The Mountains of Dhoom~
+{DYou aren't going to make it!  The worms are closing in.  The Blight has
+turned to foothills.  You can see the route you must climb once you reach
+the mountains, the twisting path and the high pass beyond, like an axe blow
+cleaving into the black stone.  {x 
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 806
+D5
+~
+~
+0 0
+0 0 804
+S
+#806
+Nothing of the Blight Can Enter Here~
+Between one slope of a hill and the next, between crest and peak, the
+Blight is gone.  {GGr{gee{Gn{x {gl{Geave{gs{x cover peacefully spreading {ybra{Yn{Dc{yhes. 
+{mWi{Mld{Yf{Wl{Yo{Mwe{mrs{x make a carpet of bright patches in {ggr{Gass{ges{x stirred by a sweet
+spring {cb{Creez{ce{x.  {cBu{Ctt{We{Dr{Wf{cli{Ces{x flutter from {Wblossom to {Wblossom, with buzzing
+{Yb{Dee{Ys{x, and {bb{Bird{bs{x trilling their songs.  {x 
+~
+0
+V 2
+D0
+~
+~
+0 0
+0 0 807
+D2
+~
+~
+0 0
+0 0 805
+S
+#807
+A {GBe{gau{Gti{gfu{Gl G{gar{Gde{gn{x~
+The {gGr{Gee{gn {GM{ga{Gn{x tends his {gfo{Gre{gst{x as he walks and speaks with his guests.  His
+{yha{Yze{Dl{Yn{yut{x eyes catch a crooked {ylimb{x on a climbing {rw{Ri{gl{Gd{rr{Ros{re{x, forcing it into
+an awkward angle by the {Wblossom{x-covered limb of an {ra{Rppl{re {yt{gr{Ge{ye{x, and he
+pauses, still talking, to run his hand along the bend.  You aren't sure, but
+you think if your eyes aren't playing tricks on you, that {ythorns{x actually
+did bend out of the way so as not to prick his {ggr{Gee{gn f{Gin{gge{Grs{x.  When the
+towering shape of the {gGr{Gee{gn {GM{ga{Gn{x moves on, the limb runs straight and true,
+spreading {rr{Re{rd {gpe{Gtal{gs{x among the {Wwhite{x of the {ra{Rppl{re{x {Wblossoms{x.  
+~
+0
+V 0
+D0
+~
+~
+0 0
+0 0 808
+D2
+~
+~
+0 0
+0 0 806
+S
+#808
+{DA{wn{W A{Dr{wc{Wh{Dw{wa{Wy{x~
+The {gGr{Gee{gn {GM{ga{Gn{x leads you to an arched opening in the side of a hill.  It
+is a simple {Ds{wt{Wo{wn{De {Da{yr{wc{Dh{x, tall and {Wwhite{x, and on the {Wk{we{Wysto{wn{We{x is a circle
+halfed by a sinuous line, one half {Drough{x, the other {Wsmooth{x.  The anciet
+symbol of Aes Sedai.  The opening itself was {Dsh{wa{Ddo{ww{Ded{x.  The {gg{Gar{gd{Gen{x continues
+over the hill, with {rs{Rwe{re{Rtb{re{Rrr{ry {gb{Gus{gh{x growing beside the arch.  
+~
+0
+V 0
+D0
+~
+~
+0 0
+0 0 809
+D2
+~
+~
+0 0
+0 0 807
+S
+#809
+{DA Corridor{x~
+This room is simply a corridor, its polished walls rounded overhead like
+the {Da{wr{Wc{Dh{x, winding gently downward.  There is head room for even the Green
+Man to pass this way.  The {Dsmooth floor{x, slick to the eye like oiled slate,
+yet somehow gives a sure footing.  Seamless, {Dwhite walls{x glittering with
+uncounted flecks in untold {Rc{Yo{Gl{Bo{mr{Ms{x, giving a low, soft light even after the
+sunlit archway vanishs around a curve behind.  The light is no natural
+thing, but it is benign too.  
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 810
+S
+#810
+{cTh{Ce E{wye {Wof th{we W{Cor{cld{x~
+The corridor opens into a vast, domed {Dspace{x, the rough, living {Dr{wo{Wc{Dk{x of
+its ceiling dotted with clumps of glowing {rc{Rr{Yy{Gs{Ct{Ba{ml{Ms{x.  Below it, a {Bp{Co{Wo{Bl{x takes
+up the entire cavern, except for the walkway around it, perhaps five paces
+wide.  In the oval shape of an eye, the pool is lined about its rim with a
+low, flat edging of crystals that {Wglow{x with a duller, yet fiercer, light
+than those above.  Its surface is as smooth as glass and as clear as the
+Winespring Water.  Looking at the pool forever, you will not see any bottom
+to it.  
+
+Not all the crystals in the dome {Wglow{x with the same intensity.  Some are
+stronger, some weaker; some flicker, and others are only faceted lumps to
+{Cs{Wp{Ca{Wr{Ck{Wl{Ce{x in a captured light.  If all shone, the dome would be as bright as
+the noonday sun, but they make it only late afternoon, now.  {DD{wu{Dst{x coats the
+walkway, and bits of {Ds{wt{Wo{wn{De{x and even crystal.  Long years waiting, while the
+Wheel turns and grinds.  
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 811
+D2
+~
+~
+0 0
+0 0 809
+S
+#811
+Two New, Unwelcome Visitors~
+Standing again in a {gf{Giel{gd{x of {ytr{ge{Ge{ys{x, you hear voices and two men approach
+you.  The breeze stirs their cloaks.  Their boots hardly rustle the {gg{Gras{gs{x
+upon which they trod.  
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 816
+D2
+~
+~
+0 0
+0 0 810
+S
+#812
+{cTh{Ce E{wye {Wof th{We W{Cor{cld{x~
+The Eye is gone.  What was here before no longer remains.  The crystals
+have disappeared and so has the path leading around the smooth pool.  A
+{Cc{Wr{Cy{Ws{Ct{Wa{Cl{x column has replaced the center of the pool, with steps reaching to
+it.  
+~
+0
+AV 0
+D0
+~
+~
+0 0
+0 0 813
+D2
+~
+~
+4103 4103
+2 0 816
+S
+#813
+A Sacred Grove~
+Dawn reveals devastation in the Green Man's garden.  The ground is thick
+with fallen leaves, almost knee deep in places.  All the flowers are gone
+except a few clinging desperately to the edge of the clearing.  Little could
+grow in the soil under an oak, but a thin circle of {mf{Mlo{Ww{Mer{ms{x and {gg{Gras{gs{x center
+on the thick {ytrunk{x above the {gGr{Gee{gn {GM{ga{Gn{x's grave.  The oak itself retains only
+half its leaves, and that is far more than any other tree has, as if some
+remnant of the Green Man still fights to hold it here.  The cool breezes had
+died, replaced by a growing sticky heat, the butterflies are gone, the birds
+silent.  
+~
+0
+V 0
+D0
+~
+~
+0 0
+0 0 815
+D2
+~
+~
+0 0
+0 0 812
+S
+#814
+The Blight~
+{DYou crest a hill, and in an eyeblink the Blight is all around you,
+twisted and rotted in virulent rainbow hues.  You look over your shoulder,
+but the garden is nowhere to be seen.  Only the Blight stretching behind you
+as before.  Yet, just for a moment, you see the towering top of the {yo{Ga{gk
+t{Gre{ge{x, {gg{Gree{gn{x {Gand l{gus{Gh{D, before it shimmers and is gone.  Then there is only
+the Blight.  {x 
+~
+0
+AV 0
+D6
+~
+~
+0 0
+0 0 42068
+S
+#815
+The Remains of the Garden~
+As the Ogier sings, the earth sings, almost sounding as if birds are
+trilling again, and spring {Cbr{Weez{Ces{x sigh softly, and the sound of {Rbu{Ytt{We{Yrf{Rly{x
+wings.  The sun stands well above the horizon.  It had been touching the
+{ytr{Ge{ge{ys{x when the Ogier began.  The {gle{Gav{ges{x still on the {go{Ga{yk{x seem greener, and
+more firmly attached than before.  The flowers encircling it stand
+straighter, the {Wmorn{Yi{Dn{Wgstars white{x and fresh, the {rlov{Rers{wk{Rn{rots{x a strong
+{rcrimson{x.  
+~
+0
+V 0
+D0
+~
+~
+0 0
+0 0 814
+D2
+~
+~
+0 0
+0 0 813
+S
+#816
+A huge wall of shrubs~
+Rocks and trees cover the area, but along the north path you can see a
+large growing wall.  The light is really strong here though a strange smell
+is in the air.  
+~
+0
+0 0
+D0
+~
+wall~
+4103 4103
+2 0 812
+D2
+~
+~
+0 0
+0 0 811
+S
+#0
+
+
+
+#SPECIALS
+M 806 spec_channeler_hard
+M 807 spec_channeler_offensive
+M 808 spec_channeler_offensive
+M 810 spec_blademaster
+S
+
+
+
+#RESETS
+D 0 812 2 2
+D 0 816 0 2
+M 0 802 8 801 2
+M 0 802 8 801 2
+M 0 801 5 801 1
+E 0 800 0 20
+M 0 800 10 801 2
+M 0 800 10 801 2
+M 0 802 8 802 2
+M 0 802 8 802 2
+M 0 801 5 802 1
+E 0 801 0 20
+M 0 800 10 802 3
+M 0 800 10 802 3
+M 0 800 10 802 3
+M 0 802 8 803 2
+M 0 802 8 803 2
+M 0 801 5 803 3
+E 0 800 0 20
+M 0 801 5 803 3
+E 0 800 0 20
+M 0 801 5 803 3
+E 0 801 0 20
+M 0 800 10 803 2
+M 0 800 10 803 2
+M 0 803 1 806 1
+O 0 804 0 807
+O 0 803 0 807
+O 0 802 0 807
+M 0 804 1 807 1
+M 0 805 1 808 1
+M 0 808 1 811 1
+M 0 806 1 811 1
+M 0 807 1 811 1
+O 0 812 0 813
+M 0 809 1 815 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

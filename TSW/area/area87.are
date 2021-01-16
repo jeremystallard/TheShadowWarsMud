@@ -1,0 +1,454 @@
+#AREADATA
+Name New Newbie School~
+Builders Kitiara Gwenos~
+VNUMs 2900 2999
+Credits None~
+Security 9
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2900
+{DThe {rShadow {DWars{x~
+Welcome to {DThe {rShadow {DWars{x, a Fantasy Role-Playing Game set in the world
+of Robert Jordan's {WWheel {wof {CTime{x.  Role-Playing is very highly encouraged,
+though it is not enforced, and levelling within the code is required to
+obtain RP Power.  
+
+We are currently doing an alternate story line to the books.  The time is
+set up about 30 years before the start of {WThe {CE{cye {Wof the {GW{go{Grld{x.  The
+Seanchan and Shadow Spawn are big players in this turn.  The usual guilds
+one might find on Wheel of Time MUDs are gone for now, leaving the choices
+as: {DTh{re Empi{Dre{x, for the Seanchan, {DShadow Spawn{x, for Trollocs, and {cA{Cl{Dl{wia{Dn{Cc{ce{x,
+for all that are fighting for the Light!  
+
+From here we will go through the different areas of creating your new
+character, including information that will help you know how to find your
+way through this world called a MUD, what the {WWheel {wof{C Time{D({WW{wo{CT{D){x world is
+all about, and hopefully anything else you want to know.  
+
+If you get stuck or feel lost with creation at any time, use the '{Rnewbie{x'
+channel to ask for help.  We are a very friendly bunch and generally very
+eager to help new players.  
+~
+0
+BCDKNV 0
+S
+#2901
+Movement~
+Movement is the means by which you can get your character from one place
+to another on the game.  There are 6 basic movements on the game, North,
+East, South, West, Up, Down.  You can shorten these commands by simply
+typing the first letter, {WN, E, S, W, U, D{x.  To see the obvious exits from
+the room, simply type {WExits{x, remember that some rooms may have hidden exits,
+you will have to find these on your own.  {WLook{x is another useful command, it
+allows you to look at the room you are currently in, you can shorten this
+command by just typing {Wl{x.  
+ 
+We have implemented a vmap, or virtual map, as a means to travel between
+cities.  In order to leave a city and enter the vmap you have to find an
+exit, which will look like this: {gleave(Area){x.  Typing {Wleave{x, will allow you
+to exit the area.  When you see a city you wish to enter you will see this,
+{genter(n, e, s, w){x.  Typing {Wenter <dir>{x will allow you to enter the area.
+ 
+To see a map of the world, type {Whelp map{x, it will give you an idea of where
+the cities are located.  To see what the vmap looks like, goto this link:
+{Rhttp://www.shadowwars.org/worldmap.html{x.   This is a very enlarged view.
+ 
+Now, practice moving from this room to the others that you see linked, when
+you are finished, come back to this room to continue.
+~
+0
+BDKNV 0
+D0
+~
+~
+0 0
+0 0 2902
+D1
+~
+~
+0 0
+0 0 2905
+D2
+~
+~
+0 0
+0 0 2904
+D3
+~
+~
+0 0
+0 0 2903
+D4
+~
+~
+0 0
+0 0 2906
+D5
+~
+~
+0 0
+0 0 2907
+S
+#2902
+Locked Rooms~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2901
+S
+#2903
+Hidden Exits~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2901
+S
+#2904
+Recall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2901
+S
+#2905
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 2901
+S
+#2906
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 2901
+S
+#2907
+~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 2901
+S
+#2908
+Communication~
+Communication is an essential part of a MUD, it is used for role-playing,
+chatting, and asking for help.  One of the most important channels for you
+right now will be the {Rnewbie{x channel.  There are many different types of
+channels, most are Out Of Character({WOOC{x).  To learn more of the channels
+used for communication, visit the other rooms listed on Exit, then return
+here to move on.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2909
+D2
+~
+~
+0 0
+0 0 2911
+D3
+~
+~
+0 0
+0 0 2910
+S
+#2909
+RP~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2908
+S
+#2910
+Guilds~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2908
+S
+#2911
+Others~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2908
+S
+#2912
+Objects~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2913
+D1
+~
+~
+0 0
+0 0 2915
+D3
+~
+~
+0 0
+0 0 2914
+S
+#2913
+Equipment~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2912
+S
+#2914
+Containers~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2912
+S
+#2915
+Furniture~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 2912
+S
+#2916
+Mobs~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2917
+S
+#2917
+Combat~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2916
+D1
+~
+~
+0 0
+0 0 2918
+S
+#2918
+Leveling~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2919
+D3
+~
+~
+0 0
+0 0 2917
+S
+#2919
+Skills~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2918
+D2
+~
+~
+0 0
+0 0 2924
+S
+#2920
+Classes~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2921
+D1
+~
+~
+0 0
+0 0 2922
+D2
+~
+~
+0 0
+0 0 2923
+S
+#2921
+Warrior~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2920
+S
+#2922
+Thief~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 2920
+S
+#2923
+Channeler~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2920
+D3
+~
+~
+0 0
+0 0 2925
+S
+#2924
+Weapon Master~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2919
+S
+#2925
+Weaves~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2923
+S
+#2926
+Shops~
+~
+0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

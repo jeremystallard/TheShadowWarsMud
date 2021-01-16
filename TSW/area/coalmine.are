@@ -1,0 +1,1659 @@
+#AREADATA
+Name Coal Mine~
+Builders Oniren~
+VNUMs 2800 2899
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#2800
+scruffy goat~
+a {ys{wcr{yu{wff{yy g{woa{yt{x~
+A {ys{wcr{yu{wff{yy g{woa{yt{x skillfully negotiates the mountain paths, looking for things to eat.
+~
+~
+rabbit~
+AGW 0 0 0
+42 32 22d23+1764 42d10+100 5d7+21 charge
+0 0 0 0 0
+A
+1 1 1 1
+C 0 0 0
+stand stand either 0
+0 W medium 'unknown'
+F off H
+#2801
+small goat~
+a {ys{wm{ya{wl{yl{x {yg{woa{yt{x~
+A {ys{wm{ya{wl{yl{x {yg{woa{yt{x hops from outcrop to outcrop, bleating loudly.
+~
+~
+rabbit~
+AGW 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 charge
+0 0 0 0 0
+A
+1 1 1 1
+CD 0 0 0
+stand stand either 0
+0 W medium 'unknown'
+F off F
+#2802
+large bat~
+a {Dl{wa{Dr{wg{De b{wa{Dt{x~
+A {Dl{wa{Dr{wg{De b{wa{Dt{x roosts in the cavern.
+~
+~
+bat~
+AB JQ 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+sleep sleep either 0
+0 0 small 'unknown'
+F aff Z
+F off H
+#2803
+raven~
+a {Draven{x~
+A {Draven{x is perched on top of a {Dl{wa{Wr{wg{De b{wou{Wl{wde{Dr{x.
+~
+~
+song bird~
+AB PQ 0 0
+40 30 21d22+1600 40d10+100 5d5+20 peck
+0 0 0 0 0
+A
+1 1 1 1
+D 0 0 0
+sit sit either 0
+0 0 small 'unknown'
+F off H
+#2804
+small bat~
+a {Ds{wm{Da{wl{Dl b{wa{Dt{x~
+A {Ds{wm{Da{wl{Dl b{wa{Dt{x tries to conceal itself within the dark shadows.
+~
+~
+bat~
+AB J 0 0
+38 28 20d21+1444 38d10+100 4d12+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off H
+#2805
+tiny insect biteme~
+a {gb{Ditem{ge{x~
+A {gt{Din{gy i{Dnsec{gt{x buzzes around the area, generally being a pest.
+~
+~
+centipede~
+AFH JQT 0 0
+38 28 20d21+1444 38d10+100 4d12+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 P tiny 'unknown'
+F aff Z
+#2806
+explorer~
+an {re{Rx{Yp{Wlo{Yr{Re{rr{x~
+An {re{Rx{Yp{Wlo{Yr{Re{rr{x roams around the mountain passes, enjoying the views.
+~
+~
+ghealdanin~
+AGW 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+FK 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#2807
+mountain lion~
+a {ymountain lion{x~
+A {ymountain lion{x slinks through the area, searching for prey.
+~
+~
+cat~
+AGW J 0 0
+45 35 23d23+2025 45d10+100 5d10+22 claw
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 large 'unknown'
+F aff Z
+F off H
+#2808
+eagle~
+an {ye{wa{Dg{wl{ye{x~
+An elegant {ye{wa{Dg{wl{ye{x soars gracefully in the skies above.
+~
+~
+song bird~
+AGW 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 claw
+0 0 0 0 0
+A
+1 1 1 1
+AD 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#0
+
+
+
+#OBJECTS
+#2800
+scrubby bush~
+a {gscrubby-looking bush{x~
+A {gscrubby-looking bush{x has managed to take root in the poor soil.~
+flora~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#2801
+animal needle fangs~
+{Wn{weedl{We-l{wik{We f{wa{Wn{wg{Ws{x~
+Gross! Someone has left a set of animal fangs here.~
+teeth~
+armor KS AV
+11 11 11 7 0
+40 1 0 100
+A
+19 1
+A
+18 -1
+#2802
+animal sharp fangs~
+{Ws{wh{Wa{wr{Wp f{wa{Wn{wg{Ws{x~
+Gross! Someone has left a set of animal fangs here.~
+teeth~
+armor KS AV
+11 11 11 7 0
+40 1 0 100
+A
+19 -2
+A
+18 2
+#2803
+wooden barrel~
+a {yw{Do{yod{De{yn b{Da{yrr{De{yl{x~
+The splintered remains of a {yw{Do{yod{De{yn b{Da{yrr{De{yl{x lie in the dirt.~
+wood~
+container Sa P
+200 0 0 100 100
+0 0 0 100
+#2804
+rusty pickaxe~
+a {rr{yu{ws{yt{ry p{yi{wcka{yx{re{x~
+A rusty pickaxe lies half-buried in the dirt.~
+iron~
+weapon a AN
+exotic 5 10 'pound' 0
+40 5 150 100
+A
+19 1
+A
+18 -1
+#2805
+hunting knife~
+{wa {gh{yun{Dt{yin{gg{w {Dk{wn{Wi{wf{De{w{x~
+A hunting knife has been left here.~
+steel~
+weapon 0 AN
+dagger 5 10 'slash' 0
+45 1 180 100
+A
+18 2
+A
+19 -1
+#2806
+goat hide pants~
+{yg{woa{yt h{wid{ye p{wa{yn{wt{ys{x~
+A pair of goat hide pants has been left here.~
+hide~
+armor S AF
+12 12 12 9 0
+45 6 85 100
+A
+2 1
+#2807
+goat hide boots~
+{yg{woa{yt h{wid{ye b{wo{yo{wt{ys{x~
+A pair of goat hide boots has been left here.~
+hide~
+armor S AG
+12 12 12 9 0
+45 3 85 100
+A
+1 1
+#2808
+goat hide vest~
+a {yg{woa{yt h{wid{ye v{wes{yt{x~
+A goat hide vest has been left here.~
+hide~
+armor S AD
+12 12 12 9 0
+45 4 85 100
+A
+5 1
+#2809
+wide brimmed hat~
+a {ywide brimmed hat{x~
+A wide brimmed hat has been left here.~
+cloth~
+armor S AE
+12 12 12 9 0
+45 1 45 100
+A
+3 1
+#2810
+green cloth kerchief~
+a {ggreen kerchief{x~
+A piece of green cloth has been left here.~
+cloth~
+armor S AC
+12 12 12 9 0
+45 1 45 100
+A
+5 1
+#2811
+goat hide bracer~
+a {yg{woa{yt h{wid{ye b{wr{yac{we{yr{x~
+A goat hide bracer has been left here.~
+hide~
+armor S AM
+12 12 12 9 0
+45 1 100 100
+A
+5 1
+#2812
+brass ring~
+a {yb{Yras{ys r{Yin{yg{x~
+A ring made of brass has been left here.~
+brass~
+armor S A
+12 12 12 9 0
+45 1 50 100
+A
+19 1
+#2813
+dusty cloak~
+{wa {Dd{wust{Dy c{wloa{Dk{x~
+A dusty cloak has been left here.~
+wool~
+armor S AK
+12 12 12 9 0
+45 4 60 100
+A
+17 -5
+#2814
+thick leather belt~
+a{y t{Dhic{yk l{Deathe{yr b{Del{yt{x~
+A thick leather belt has been dropped here.~
+leather~
+armor S AL
+12 12 12 9 0
+45 1 85 100
+A
+19 1
+#2815
+large gray boulder~
+a {Dl{wa{Wr{wg{De {wg{Wr{wa{Dy b{wou{Wl{wde{Dr{x~
+A {Dl{wa{Wr{wg{De {wg{Wr{wa{Dy b{wou{Wl{wde{Dr{x lies half buried in the ground.~
+stone~
+furniture Sa P
+2 10000 EH 100 100
+0 0 0 100
+#2816
+mountain stream~
+a {cm{Countai{cn s{Ctrea{cm{x~
+The crystal clear waters of a {cm{Countai{cn s{Ctrea{cm{x meander southwards down the gently inclining plain.~
+water~
+fountain Sa P
+0 0 'water' 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#2800
+A Rocky Plain~
+A large area of flat ground that lies before a rocky slope on the western
+horizon; the land stretches out in almost all directions.  The terrain is
+mostly composed of rocks and mud; there is not much vegetation growing in
+this area and there are no landmarks to distinguish this particular part
+from another point upon the rocky plain apart from a shallow stream that can
+be seen a short distance away to the west cutting through the almost barren
+land.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 2801
+D3
+~
+~
+0 0
+0 0 2805
+S
+#2801
+A Rocky Plain~
+A huge rocky mass, the beginnings of what appears to be a large mountain
+range lies in the distance from this plain to the west beyond a small stream
+that cuts through the center of this rocky area.  The terrain in this area
+is mostly comprised of rocks and dried mud.  There are not very many plants
+or animals inhabiting this area; a few spiny shrubs dotted around the
+landscape appear to be the only greenery for miles around.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2800
+D2
+~
+~
+0 0
+0 0 2802
+D3
+~
+~
+0 0
+0 0 2804
+S
+#2802
+A Rocky Plain~
+This is a huge rough plain that stretches out in all directions; it is an
+almost featureless sprawl of land that lays before a huge mountain range to
+the west.  The tall peaks of the humongous dark mountains appear to be
+shrouded in an eerie mist.  There is not much to see within the muddy plain
+itself apart from a small stream that runs through the desolate waste ground
+to the west and not much grows beside the waters except for a couple of
+spiny-looking shrubs.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2801
+D3
+~
+~
+0 0
+0 0 2803
+S
+#2803
+A Shallow Stream~
+A narrow shallow stream, barely more than a trickle of water flows
+southwards down the gentle incline of this rocky plain, meandering its way
+along a pebbly bed of stones and mud.  Not much grows here, a few small
+spiny yet hardy plants have found a home at the banks of the stream, but
+surprising not much else grows here indicating that the soil in this region
+is poor and unfertile.  To the west a huge rocky slope can be seen, a jagged
+effigy to the Breaking of the World, the beginnings of a huge mountainous
+region that stretches as far as the eye can see along the western horizon.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2804
+D1
+~
+~
+0 0
+0 0 2802
+D3
+~
+~
+0 0
+0 0 2808
+S
+#2804
+A Shallow Stream~
+A shallow stream that flows here is one of only a few notable landmarks
+within this almost featureless rocky wasteland.  There are very little
+plants growing in this section of the rocky plains save for a few rough
+spiny examples that grow upon the water's edge.  There is very little else
+to see here apart from the steeply sloped jagged rocks that lie some
+distance away to the west, the beginnings of a huge mountain range that
+stretch along the western horizon, seemingly forever.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2805
+D1
+~
+~
+0 0
+0 0 2801
+D2
+~
+~
+0 0
+0 0 2803
+D3
+~
+~
+0 0
+0 0 2807
+S
+#2805
+A Shallow Stream~
+This is a large area of flat ground that lies before the rocky slopes of
+a large mountain range.  The terrain of this plain is mostly composed of
+rocks and mud; there hardly any vegetation growing in this area at all.  The
+mountain range which lies upon the western horizon is shrouded in a thick
+white mist; it has a dark, ominous feel to it.  A shallow stream flows here
+over a pebbly bed, meandering southwards down the gentle incline of the
+muddy plains.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 2800
+D2
+~
+~
+0 0
+0 0 2804
+D3
+~
+~
+0 0
+0 0 2806
+S
+#2806
+A Rocky Plain~
+There is no shortage of stones on this rocky plain.  The land is a huge
+flat sprawl of mud and rocks, only broken up by a small stream that flows
+just east of here and a huge steep rocky slope to the west.  There are very
+few plants growing in this region, it seems that only the hardiest of
+greenery has taken up abode in this wasteland which suggests that either the
+soil is too poor to support a lot of plant life or there is something in the
+ground that is poisonous to most plants.  As a consequence there does not
+appear to be much fauna in this region either.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 2805
+D2
+~
+~
+0 0
+0 0 2807
+D3
+~
+~
+0 0
+0 0 2811
+S
+#2807
+A Rocky Plain~
+There is not much to see across this rocky plain apart from a jumble of
+rocks and stones, flat areas of mud or the occasional plant growing here
+that is tough enough to withstand the harsh conditions.  A short distance
+away to the east, a small stream, barely a trickle of water, flows down the
+gentle southern incline of the muddy plain; its route is highlighted by an
+increase in numbers of plant life growing around it than compared with its
+surroundings.  A huge rocky mass lurks to the west, the start of foothills
+that stretches upwards to eventually form a huge mountainous range that
+almost seems to envelope the western horizon.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2806
+D1
+~
+~
+0 0
+0 0 2804
+D2
+~
+~
+0 0
+0 0 2808
+D3
+~
+~
+0 0
+0 0 2810
+S
+#2808
+A Rocky Plain~
+There is very little to see across this dusty plain apart from a jumble
+of rocks and stones, a few flat areas of mud or just the occasional plant
+growing here that is tough enough to withstand the harsh conditions of this
+area.  Something barely resembling a small stream can be seen a short
+distance away to the east, its presence only noticeable from this point from
+the additional bits of greenery that inhabit the edges of the water.  To the
+west the start of foothills can be seen; stretching upwards until they
+eventually join a huge mountainous range that almost seems to envelope the
+western horizon.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2807
+D1
+~
+~
+0 0
+0 0 2803
+D3
+~
+~
+0 0
+0 0 2809
+S
+#2809
+A Steep Incline~
+The landscape is a lasting legacy to the madness, chaos and destruction
+brought onto the land by the Breaking of the World.  The almost smooth
+plains that stretch out eastwards is abruptly ended by a huge rocky mass to
+the west; it almost seems as if the rock was forced out of the ground to
+form an almost vertical wall that is approximately twenty feet high.  A
+recent landslide has shifted a large mass of rocky rubble, including
+boulders down the base of the short cliff which may provide a route up the
+steep incline.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2810
+D1
+~
+~
+0 0
+0 0 2808
+D4
+~
+~
+0 0
+0 0 2833
+S
+#2810
+Nothing But Rocks~
+This is a base of a cliff-like structure that is approximately twenty
+feet in height.  The rock face is almost vertical and there appears to be no
+visible foot holes to enable a person to scale the short cliff.  Scattered
+around the base of the rocky slope is a lot of rubble and at the top of the
+rocky ledge appears to be the source of the debris for a lot of loose rocks
+can be seen teetering on the edge, waiting their turn to plummet.  The rock
+mass is a huge contrast to the lands that lay around it to the east, smooth
+almost flat plains that gently slope downwards to the south, broken only by
+a small stream that runs through the center of it.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2811
+D1
+~
+~
+0 0
+0 0 2807
+D2
+~
+~
+0 0
+0 0 2809
+S
+#2811
+A Reminder Of The Past~
+This landscape as a far from natural appearance to it is a lasting
+reminder back to the Breaking of the World.  The rocky plains to the east
+abruptly end at this virtual wall of rock, the beginnings of what could be
+considered as a small pass running up the side of a steep cliff that is only
+twenty feet high although it s impossible to determine what lies beyond that
+from this point so close to the bass of the incline.  A series of small foot
+holes may provide a route up to the top and therefore in turn provide
+answers.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 2806
+D2
+~
+~
+0 0
+0 0 2810
+D4
+~
+~
+0 0
+0 0 2812
+S
+#2812
+A Narrow Ledge~
+This is a long narrow ledge approximately twenty feet above a large area
+of flat rocky ground can be seen sprawling out north and eastwards.  It juts
+out of an almost wall-like vertical rock structure; there appears to be no
+safe foot holes to climb further upwards from this ledge although there
+appears to be enough foot holes set in the rocks to climb down to the plains
+below.  In the distance to the east a small stream is just visible from this
+point and can be seen meandering southwards along the gentle slope.  Closer
+to home, a second ledge equally as narrow as this one can be seen to the
+south, but the distance between the two ledges plus the amount of loose
+rocky debris that has accumulated upon the southern ledge would make the
+direct crossing between the two far too dangerous.  
+~
+0
+0 5
+D3
+~
+~
+0 0
+0 0 2813
+D5
+~
+~
+0 0
+0 0 2811
+S
+#2813
+A Narrow Ledge~
+This is a long narrow ledge barely a pace in width and approximately
+twenty feet above a large area of flat rocky ground can be seen sprawling
+out north and eastwards.  It juts out of a towering vertical rock structure
+but from this point it is impossible to see what lies at the top of the
+sheer rock face without falling off the ledge.  There appears to be enough
+foot holes set in the rock to further upwards from this ledge although there
+does not seem to be enough foot holes in the rock below the ledge to climb
+down the rock face.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 2812
+D4
+~
+~
+0 0
+0 0 2814
+S
+#2814
+A Narrow Ledge~
+This is a narrow ledge that juts out of a huge towering rock face,
+overlooking a huge stretch of rocky land to the north and east.  This part
+of the ledge overhangs an even narrower one approximately fifteen feet below
+it.  There are a few small holes within the rock face below to provide a
+convenient route to the lower ledge.  The upper ledge continues westwards at
+a steep incline providing a dodgy route along the side of the rock face;
+lose debris from past landslides makes the path a slippery one.  
+~
+0
+0 5
+D3
+~
+~
+0 0
+0 0 2815
+D5
+~
+~
+0 0
+0 0 2813
+S
+#2815
+A Narrow Ledge~
+This is a narrow ledge that juts out of a huge towering rock face,
+overlooking a huge stretch of rocky land to the north and east.  The ledge,
+approximately two paces wide steeply slopes downwards to the east.  A few
+tufts of grass and weeds grow in clumps of mud that have clung to the
+surface of the ledge.  Apart from descending down the rock face to the east
+the huge gapping cracks that lurk in the southern rock face that overlooks
+the narrow ledge may provide an alternative route upwards and around the
+sheer black rock face.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 2814
+D4
+~
+~
+0 0
+0 0 2816
+S
+#2816
+A Safe Haven~
+A large grass covered stretch of land lays in wait to greet those who
+venture to this point of the rocky slope that curves around to the south and
+west.  More vegetation appears to be growing upon the rocky slopes than the
+immediate land that surrounds them, indicating that there may be something
+wrong with the soil in the lower regions.  This area is one such example;
+the land here has retained its top soil although on the eastern edge of this
+outcrop there are the remnants of a rock slide to be seen.  The large amount
+of rocky debris lying there seems to indicate that this area is far from the
+stable safe haven it first appears to be.  The area is a home to small
+mountain dwelling flora as well as a large number of insects.  The fairly
+level ground overlooks a large sprawl of barren land to the north and east
+and is in turn overlooked by a steep rocky cliff to the south.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2817
+D5
+~
+~
+0 0
+0 0 2815
+S
+#2817
+Round The Bend~
+A tall cliff face casts a gloomy shadow across this large "u" shaped
+grassy area of land that curves from the north and around to the west
+following the face of the cliff.  Looking over the edge of the ledge to
+towards the north and east there is just a barren sprawl of rocky land; it
+is almost impossible to say how high up this area is above the plains.  To
+the west and south steep black rocks rise up forming an almost impenetrable
+wall, although gaps and holes within the rocks may reveal paths not seen
+from this point.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2816
+D3
+~
+~
+0 0
+0 0 2818
+S
+#2818
+Strange Shapes~
+A grass-topped ledge follows eastwards along the contour of a sheer black
+rock cliff that towers over it to the south which is part of a huge rock
+structure whose shape looks to be too strange to have been made by natural
+means.  This particular area of flat ground then bends around to the north
+almost forming a "u" shape.  On the western side of the "u" bend there has
+been a subsidence in the land and much of the ledge has crumbled away on
+this side to form a very unstable slope downwards towards a gaping hole into
+another rock face further down from here which may be a cave.  The cliffs to
+the south are so steep they look almost impossible to scale although there
+may be away further along the ledge to the east.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 2817
+D5
+~
+~
+0 0
+0 0 2819
+S
+#2819
+Unnatural Features~
+This is just a small area of ground, approximately six feet square and
+enclosed by steep black rock faces on all four sides.  The rock on the
+northern side of this area is much shorter than the other three sides; from
+its subtly lighter tone the slab of rock on the north side does not appear
+to be an original feature of this area.  The northern rock has been split up
+the middle forming two slabs of rock now forming a small "v" shaped archway
+approximately six feet in height and three feet in width.  A recent
+landslide has cluttered up much of the south and western part of this
+enclosed area, making a shaky yet relatively stable ramp upwards towards a
+ledge further up on the southern rock face.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2820
+D4
+~
+~
+0 0
+0 0 2818
+S
+#2820
+A Jumble Of Rocks~
+A narrow rock platform forms a rather scenic north/south along the side
+of a sheer dark gray stone cliff that runs along to the west.  The remnants
+of a similar rock face to the east running along half of the length of the
+ledge from the south before it breaks away; the entire are looks like the
+result of a freakish nightmare, not a naturally occurring rock formation. 
+The platform is approximately six feet in width and it stretches towards the
+north for another twenty feet.  The way to the south is blocked, or rather
+it used to be blocked by what was a huge slab of light gray stone; chisel
+marks in the rock face hint that this stone was quarried from elsewhere. 
+But now the rock has split into two, forming an archway which may be big
+enough to crawl through to the south.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2821
+D2
+~
+~
+0 0
+0 0 2819
+S
+#2821
+Twisted Rocks~
+This is the end of what appears to be a natural platform made of dark
+gray, almost black rock that overlooks desolate waste ground to the east. 
+It is difficult to estimate how high up this platform is; the twisted rock
+formations that dominate this landscape create an illusion that the rocks
+are higher than they really are.  The platform is approximately six feet in
+width and twenty feet in length, reaching back to a strange structure made
+of light gray rock that simply does not look like it belong here.  This
+platform overlooks two grassy ledges, one high above it to the southeast
+which appears to be almost impossible to reach from here without a difficult
+climb.  The other one is directly below this platform just six feet away.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2820
+D5
+~
+~
+0 0
+0 0 2822
+S
+#2822
+Rocks And Boulders~
+Unlike most of the rocky area; this section has retained the majority of
+its topsoil and a mixture of grass and other small plants inhabit this "l"
+shaped ledge.  The ledge continues east and north, over looking more rocks
+and boulders until the land finally eases out far down below into flat,
+barren and almost featureless plains.  To the south the ledge ends at a
+large pitted rock face although there appears to be yet another ledge
+approximately six feet above this one.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2823
+D4
+~
+~
+0 0
+0 0 2821
+S
+#2823
+Far Above The Madness~
+This is the eastern side of a large "l" shaped ledge that overlooks a
+barren wasteland of dusty wasteland far below it.  The land upon this ledge
+is a huge contrast to what it overlooks; grass and other small hardy green
+plants grow here and even a small number of insects have been attracted into
+this area where as only a sprinkling of green indicates that there is any
+plant life at all upon the barren wasteland below.  A short climbable rock
+face lies to the west whilst to the north the "l" shaped ledge continues
+onwards.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2824
+D3
+~
+~
+0 0
+0 0 2822
+S
+#2824
+A Place With A View~
+An "l" shaped ledge begins or perhaps ends at this point with a sheer
+cliff face of black rock blocking the northern and western sides.  The ledge
+is covered in grass although some of the top soil on the ledge has started
+to overhang the edges and appears to be on the verge of plummeting.  About
+twenty or twenty five feet below this ledge to the east is a rocky mass of
+boulders and stones beyond which lies a flat barren area of stony land.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2823
+D5
+~
+~
+4096 4096
+0 0 2825
+S
+#2825
+Dark Shadows~
+This is a very small gap approximately three feet in width that runs
+east/west between two black rock faces.  A large pile of rocky debris
+clutters the bottom of the gap, blocking the way westwards, resulting in the
+formation of an unstable but climbable ramp upwards between the two rock
+faces.  To the east the path between the two cliffs curves around slightly,
+the way disappearing into the darkness of the shadows created by the rocks. 
+~
+0
+C 5
+D1
+~
+~
+0 0
+0 0 2826
+D4
+~
+~
+4096 4096
+0 0 2824
+S
+#2826
+A Gap Between Two Rocks~
+This is an extremely small gap approximately three feet in width that
+runs east/west between two tall black rock faces.  To the west the path
+between the two cliffs curves around slightly, the way disappearing into the
+darkness of the shadows created by the rocks.  The path to the east is
+blocked by a pile of rubble from a recent landslide, almost blocking and
+obscuring a small hole that lies close to the ground in the southern rock
+face.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2827
+D3
+~
+~
+0 0
+0 0 2825
+S
+#2827
+A Long Tunnel~
+This is a long yet narrow tunnel dug through dull black rock, curving
+from the west to the north where it finally reaches the outside.  The tunnel
+is approximately three feet wide as it starts from the north and gradually
+widens as it bends towards the west until it reaches a width of about five
+feet.  A cold draught from the west suggests that the hole to the north is
+not the only opening to the outside world within this underground system.  
+~
+0
+AD 5
+D0
+~
+~
+0 0
+0 0 2826
+D3
+~
+~
+0 0
+0 0 2828
+S
+#2828
+A Long Tunnel~
+This is a long yet narrow east/west tunnel dug through dull black rock. 
+The tunnel is about five feet in both width and height, the floor of the
+tunnel is strangely free of any large pieces of rocky debris.  To the west
+the tunnel appears to open out into a large underground chamber although
+what lies within the chamber is hidden in the darkness that shrouds it.  A
+cold draught from the west suggests there may be an opening to the outside
+world within this underground system to the west.  
+~
+0
+AD 5
+D1
+~
+~
+0 0
+0 0 2827
+D3
+~
+~
+0 0
+0 0 2829
+S
+#2829
+An Underground Chamber~
+This is a large chamber hollowed out from under the ground which may once
+have been a mine.  The chamber is approximately eighty to one hundred feet
+in diameter and around the chamber are several huge cylindrical pillars of
+rock, carved from the original rock to support the roof of the chamber. 
+Rocky debris litters the floor of the huge underground cavern and a chilling
+draught from the west causes much of the dust to stir up into the air,
+probably due to an old ventilation system that is still operational.  An
+entrance into a small tunnel, approximately five feet in diameter can be
+seen in the eastern wall leading away from this huge chamber.  
+~
+0
+AD 5
+D1
+~
+~
+0 0
+0 0 2828
+D2
+~
+~
+0 0
+0 0 2832
+D3
+~
+~
+0 0
+0 0 2830
+S
+#2830
+An Underground Chamber~
+An eerie sound of water dripping slowly from the ceiling onto the floor
+echoes around this huge underground chamber.  The man-made chamber is
+approximately one hundred feet in diameter and around the chamber are
+several huge cylindrical pillars of rock, carved from the original rock to
+support the roof of the chamber.  A small circular shaft in the northern
+wall, barely a foot in diameter appears to be the source of the ventilation
+within this cavern; the draught emanating from it stirs up clouds of dust
+from the ground.  Broken remnants of mining tools have been left deserted
+amongst the rocky debris that lies scattered across the floor of the cavern.
+~
+0
+ADZ 5
+D1
+~
+~
+0 0
+0 0 2829
+D2
+~
+~
+0 0
+0 0 2831
+S
+#2831
+An Abandoned Mine~
+This huge underground chamber may be part of a larger mining complex that
+has been dug here but any work within this area has been abandoned long ago.
+The man-made chamber is approximately one hundred feet in diameter and
+around the chamber are several huge cylindrical pillars of rock, carved from
+the rock to help support the weight of the roof of the chamber.  The floor
+of the chamber is littered with both rocky debris and also fragments of old
+mining tools.  An entrance into a small tunnel, approximately ten feet in
+width and can be seen in the western wall which used to lead out from this
+huge chamber; the exit has been blocked long ago by a cave-in.  
+~
+0
+ADZ 5
+D0
+~
+~
+0 0
+0 0 2830
+D1
+~
+~
+0 0
+0 0 2832
+S
+#2832
+An Underground Chamber~
+A huge underground chamber has been hollowed out from under the earth; it
+may once have been a mine.  The chamber is roughly circular in shape and is
+approximately one hundred feet in diameter.  The actual ceiling of the
+chamber is quite low in places when compared with the overall width of the
+area, but there is enough room for possibly an adult Ogier to stand
+comfortably in.  Around the underground chamber there are several huge
+cylindrical pillars of rock, carved from the original rock to support the
+ceiling of the cavern.  Quite a lot of rocky debris is strewn across the
+floor of the huge underground cavern and a chilling draught from the west
+causes much of the dust to stir up into the air.  
+~
+0
+AD 5
+D0
+~
+~
+0 0
+0 0 2829
+D3
+~
+~
+0 0
+0 0 2831
+S
+#2833
+Remnants Of The Past~
+This is a narrow ledge that juts out of the side of an east-facing cliff.
+It is approximately twenty feet above a large area of flat rocky ground can
+be seen sprawling out north and eastwards.  The ledge is particularly narrow
+in places, reaching as little as a pace in width at times although it does
+widen to about six or seven paces in width as it bends southwards following
+the contours of the steep rock face that overlooks it.  A recent landslide
+has blocked the path southwards and further remnants of the landslide can be
+seen piled up at the base of the cliff; the rocks and boulders may provide a
+relatively safer way of descending from the ledge without having to scale
+the sheer rock face itself.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2834
+D5
+~
+~
+0 0
+0 0 2809
+S
+#2834
+A Steep Climb~
+A tall vertical cliff overlooks a barren wasteland of mud and rocks to
+the east; this is just a narrow ledge, one of many set in the cliff face. 
+Deep cracks and fissures are visible within the rock of the cliff indicating
+that this is an extremely unstable area, so much so that parts of the
+vertical cliff face as become dislodged now leaving a steep narrow pass
+leading westwards up the cliff face.  Closer to home, a second ledge equally
+as narrow as this one can be seen to the north, but the distance between the
+two ledges plus the amount of loose rocky debris that has accumulated upon
+the southern ledge would make the direct crossing between the two far too
+dangerous.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2833
+D3
+~
+~
+0 0
+0 0 2835
+S
+#2835
+A Narrow Pass~
+This area used to be a vertical cliff comprised of reddish-black rock,
+grainy in appearance but over time parts of the cliff face have come away to
+form an extremely narrow pass along the rock face that curves steeply
+upwards from the south and around to the east where it ends abruptly at a
+narrow ledge that juts out of the rock.  The path is littered with sharp
+rock fragments and small, square holes dug deep into the rock face suggest
+that this area has been scaled at least once before in the past.  The steep
+walls of dark red rock that overlook this tiny insignificant pass make any
+other path from here impossible without climbing equipment or aid.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 2834
+D2
+~
+~
+0 0
+0 0 2836
+S
+#2836
+A Dangerous Path~
+Here is a wide "v" shaped fissure cuts through the rock forming a steep
+sloping path that slopes downwards to the north.  Small pieces of rocky
+debris, signs of digging or quarrying litter the floor of the fissure
+providing a relatively stable path to walk upon.  There are deep cracks
+within the vertical rock faces that enclose this area, and parts of the rock
+seem to shift and wobble when pushed against; this passage way appears to be
+on the verge of caving in soon.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2835
+D4
+~
+~
+0 0
+0 0 2837
+S
+#2837
+Twisted Rocks~
+A narrow ledge lies here following the side of an east facing cliff made
+of dark red grainy rock.  The dusty ledge, sometimes only a pace wide in
+places steeply slopes upwards to the north.  The ledge over looks a deep
+ditch-like fissure that forms a pass through the lower parts of this strange
+and twisted rock formation.  The bottom of the fissure, approximately
+fifteen feet below this upper ledge first appears to be inaccessible from
+this point but an almost totally hidden route comprised of a series of
+shallow foot holes in the rock face provides a way down to the lower level. 
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2838
+D5
+~
+~
+0 0
+0 0 2836
+S
+#2838
+Peculiar Rock Formations~
+A narrow ledge approximately four paces wide lies here; it follows the
+side of an east facing cliff made of dark red grainy rock, gradually bending
+around the tall rock formation to the west.  A series of tall pillar-like
+rock formations made of dark red, almost black rock juts upwards to the
+east; they appear to be part of the large rock formation although they do
+not appear to be naturally made but time and the elements have weathered
+these strange standing stones down until they are almost smooth.  They
+partially obscure the overall view of the barren plains to the east; a
+stretch of land where not many plants has taken root within the dry, rocky
+soil.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2837
+D3
+~
+~
+0 0
+0 0 2839
+S
+#2839
+A Dangerous Climb~
+This is a very narrow platform of stone approximately four paces wide
+that follows the side of a west facing cliff made of dark red grainy rock,
+gradually bending around the tall rock formation to the east.  A series of
+tall pillar-like rock formations made of dark red, almost black rock juts
+upwards to the north; they appear to be part of the large rock formation
+although they do not appear to be naturally made but time and the elements
+have weathered these strange standing stones down until they are almost
+smooth.  The view to the north is obscured by another equally large rock
+formation comprised of tall dark gray and approximately lays twenty five to
+thirty feet away from this ledge.  The wall of rock to the north looks like
+a dangerous climb, if at all possible, but there appears to be no path from
+this point to reach the tower-like formation.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 2838
+D2
+~
+~
+0 0
+0 0 2840
+S
+#2840
+A Sloping Ledge~
+Across this rocky ledge is a jumbled mess of rocks and stones of varying
+shades of color, ranging from blood-red to dull black.  The ledge juts out
+of a west pointing rock face; there is a slight over hang of rock
+approximately nine feet above the ledge making this a relatively sheltered
+point along the rocky pass.  The ledge slopes steeply to the south and in
+the distance the ledge can be seen to disappear around the corner of the
+cliff to the east.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2839
+D4
+~
+~
+0 0
+0 0 2841
+S
+#2841
+Towering Peaks~
+This appears to be the top of a moderately tall rock formation that
+overlooks a vast stretch of rocky plains to the east and north.  Another
+similar rock formation can be seen to the north but there appears to be no
+direct path from this point to the neighboring peak.  These rock formations
+pale into insignificance when compared with the vast stretch of mountains
+that lie to the west; their immensely high peaks seem to be permanently
+shrouded in a strange and unearthly white mist.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2842
+D5
+~
+~
+0 0
+0 0 2840
+S
+#2842
+The Mountains Of Mist~
+A narrow cliff-top path winds its way along the edge in a wide curve. 
+The area is littered with rocks and debris; there is no soil here for any
+plants to take root in.  The cliff overlooks a vast stretch of rocky plains
+that lies to the east and north of this point.  Also a rock formation
+similar to this one can be seen to the north although there appears to be no
+direct route from this point to reach it.  As inspiring as these sights are,
+they seem like nothing compared to the stretch of mountains that lies to the
+west that towers over this peak, the Mountains of Mist.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2841
+D3
+~
+~
+0 0
+0 0 2843
+S
+#2843
+A Cliff-Top Path~
+This is a precariously narrow cliff-top path that winds its way along the
+edge in a wide curve.  The area is strewn with loose debris making the path
+additionally dangerous.  The cliff overlooks a vast stretch of rocky plains
+that lies to the east and north of this point.  A rock formation similar to
+this one is visible to the north although there appears to be no direct
+route from this point to reach it.  As inspirational as these sights are,
+they are dwarfed by the stretch of mountains that lies to the west that
+towers over this peak.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 2844
+D1
+~
+~
+0 0
+0 0 2842
+S
+#2844
+A Final Legacy~
+A cliff top path ends at a rather strange yet also spectacular sight. 
+Although the Mountains of Mist to the west and the vast rocky plains to the
+east provide a fantastic view, it is what lies at this point in the rock
+structure itself that is even more remarkable.  The rough, rocky ground is
+pitted with small yet strange craters, no more than a foot or two in
+diameter; the rock that lines them is almost glass-like in its crystalline
+appearance.  A deep line, perfectly cylindrical in shape, just a few inches
+in diameter cuts through the northwestern corner of the rock face, boring
+first through the face of the cliff at a gentle angle until it eventually
+the bore emerges through the rocky floor.  The line does not appear to be
+naturally made and neither does there appear to be any tool marks; it may be
+a result of the use of the One Power although slight weathering around the
+surface suggests that this had been done a very long time ago.  The angle at
+which this line projects to suggest that whatever cut this rock was farther
+into the Mountains of Mist to the west.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 2843
+S
+#0
+
+
+
+#SPECIALS
+M 2805 spec_poison
+S
+
+
+
+#RESETS
+O 0 2815 0 2800
+M 0 2803 5 2800 1
+O 0 2816 0 2803
+M 0 2805 6 2803 2
+M 0 2805 6 2803 2
+O 0 2816 0 2804
+M 0 2805 6 2804 2
+M 0 2805 6 2804 2
+O 0 2816 0 2805
+M 0 2805 6 2805 2
+M 0 2805 6 2805 2
+M 0 2803 5 2810 1
+M 0 2807 5 2813 1
+M 0 2808 5 2813 1
+M 0 2807 5 2814 1
+M 0 2801 6 2815 2
+M 0 2801 6 2815 2
+M 0 2800 10 2816 2
+M 0 2800 10 2816 2
+M 0 2806 5 2817 1
+E 0 2805 0 20
+E 0 2806 0 9
+E 0 2807 0 10
+E 0 2808 0 7
+E 0 2813 0 15
+E 0 2814 0 16
+E 0 2811 0 17
+E 0 2811 0 18
+E 0 2812 0 3
+M 0 2800 10 2818 2
+M 0 2800 10 2818 2
+M 0 2806 5 2819 1
+E 0 2805 0 20
+E 0 2806 0 9
+E 0 2807 0 10
+E 0 2808 0 7
+E 0 2813 0 15
+E 0 2814 0 16
+E 0 2811 0 17
+E 0 2811 0 18
+E 0 2812 0 3
+M 0 2801 6 2820 2
+M 0 2801 6 2820 2
+M 0 2807 5 2821 1
+M 0 2803 5 2822 1
+M 0 2803 5 2823 1
+M 0 2807 5 2824 1
+M 0 2804 8 2827 4
+M 0 2804 8 2827 4
+M 0 2804 8 2827 4
+M 0 2804 8 2827 4
+M 0 2804 8 2828 4
+M 0 2804 8 2828 4
+M 0 2804 8 2828 4
+M 0 2804 8 2828 4
+M 0 2802 16 2829 4
+E 0 2801 0 25
+M 0 2802 16 2829 4
+E 0 2801 0 25
+M 0 2802 16 2829 4
+E 0 2801 0 25
+M 0 2802 16 2829 4
+E 0 2801 0 25
+M 0 2802 16 2830 4
+E 0 2802 0 25
+M 0 2802 16 2830 4
+E 0 2802 0 25
+M 0 2802 16 2830 4
+E 0 2802 0 25
+M 0 2802 16 2830 4
+E 0 2802 0 25
+O 0 2803 0 2831
+M 0 2802 16 2831 4
+E 0 2801 0 25
+M 0 2802 16 2831 4
+E 0 2801 0 25
+M 0 2802 16 2831 4
+E 0 2801 0 25
+M 0 2802 16 2831 4
+E 0 2801 0 25
+O 0 2804 0 2832
+M 0 2802 16 2832 4
+E 0 2802 0 25
+M 0 2802 16 2832 4
+E 0 2802 0 25
+M 0 2802 16 2832 4
+E 0 2802 0 25
+M 0 2802 16 2832 4
+E 0 2802 0 25
+M 0 2807 5 2833 1
+M 0 2808 5 2833 1
+M 0 2803 5 2834 1
+M 0 2808 5 2835 1
+M 0 2806 5 2837 1
+E 0 2805 0 20
+E 0 2806 0 9
+E 0 2807 0 10
+E 0 2808 0 7
+E 0 2813 0 15
+E 0 2814 0 16
+E 0 2811 0 17
+E 0 2811 0 18
+E 0 2812 0 3
+M 0 2808 5 2838 2
+M 0 2808 5 2838 2
+M 0 2800 10 2839 2
+M 0 2800 10 2839 2
+M 0 2801 6 2840 2
+M 0 2801 6 2840 2
+M 0 2806 5 2841 1
+E 0 2805 0 20
+E 0 2806 0 9
+E 0 2807 0 10
+E 0 2808 0 7
+E 0 2813 0 15
+E 0 2810 0 5
+E 0 2811 0 17
+E 0 2811 0 18
+E 0 2812 0 3
+M 0 2800 10 2842 2
+M 0 2800 10 2842 2
+O 0 2800 0 2843
+M 0 2806 5 2843 1
+E 0 2805 0 20
+E 0 2806 0 9
+E 0 2807 0 10
+E 0 2808 0 7
+E 0 2809 0 8
+E 0 2810 0 5
+E 0 2811 0 17
+E 0 2811 0 18
+E 0 2812 0 3
+M 0 2800 10 2844 2
+M 0 2800 10 2844 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

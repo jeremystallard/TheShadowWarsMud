@@ -1,0 +1,2212 @@
+#AREADATA
+Name The Black Tower~
+Builders Torin~
+VNUMs 18000 18200
+Credits None~
+Security 1
+Low 50
+High 90
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#18000
+asha'man soldier guard~
+an {RAs{rh{Da'{rm{Ran{x~
+A {Dbl{wac{Wk-co{wat{Ded {RAs{rh{Da'{rm{Ran{x is standing guard here.
+~
+A distant cold gaze regards you as this man turns toward you.  The high
+collar of his black coat sports both a {Ws{ww{Do{wr{Wd{x and a {rd{Rr{Yag{Ro{rn{x, showing him as
+one of the terrifying Asha'man.  He moves purposefully, with the grace of a
+great cat, ready to strike at any moment.  
+~
+unique~
+A 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 slash
+75 100 100 85 75
+A
+-6 -6 -6 -6
+CFK 0 0 0
+stand stand male 50
+MV ABCEFGHIJK medium 'skin'
+#0
+
+
+
+#OBJECTS
+#18000
+speaking stone~
+a {Wgl{wis{Dte{wni{Wng{x {Wb{wl{Do{wc{Wk{x of {Wb{wl{Da{wc{Wk {Ws{wt{Do{wn{We{x~
+A {Wgl{wis{Dte{wni{Wng{x {Wb{wl{Do{wc{Wk{x of {Wb{wl{Da{wc{Wk {Ws{wt{Do{wn{We{x, looking to be stood on.~
+obsidian~
+furniture 0 P
+2 1000 BE 100 100
+0 0 0 101
+#18001
+tree traitor's~
+{gT{yh{ge{x {gTr{yaito{gr's{x {gT{yre{ge{x~
+{gT{yh{ge{x {gTr{yaito{gr's{x {gT{yre{ge{x is standing here, nooses hanging from the lower branches.~
+wood~
+furniture Mc P
+10 999999 B 0 0
+90 100 0 100
+#18002
+scythe~
+a long-handled {Ds{wc{Wyt{wh{De{x~
+A long-handled {Ds{wc{Wyt{wh{De{x rests against the wall.~
+metal~
+weapon 0 AN
+exotic 6 11 'none' 0
+50 2 0 100
+A
+19 4
+#18003
+bunkbed bunkbeds bed~
+a {Db{wu{Dnk{yb{Ye{yds{x~
+Sets of {Db{wu{Dnk{yb{Ye{yds{x have been pushed up against the walls.~
+wood~
+furniture 0 0
+8 99999 EHK 110 110
+0 0 0 100
+#18004
+footlocker~
+a {Ds{wt{We{we{Dl{x footlocker~
+A small, {Ds{wt{We{we{Dl{x footlocker rests at the end of the {Db{wu{Dnk{yb{Ye{yd{x.~
+wood~
+container 0 0
+1 C 0 10 100
+0 1 0 100
+#18005
+tub tubs~
+a large {yc{Yo{ypp{Ye{yr{x tub~
+Two large {yc{Yo{ypp{Ye{yr{x tubs rest in the center of the room.~
+copper~
+furniture 0 0
+2 40000 FI 150 150
+0 0 0 100
+#18006
+chair~
+a {yl{wa{ydd{we{yr{D-{yb{wa{yck{we{yd{x chair~
+Two {yl{wa{ydd{we{yr{D-{yb{wa{yck{we{yd{x chairs rest on the porch, one on each side of the door.~
+hard wood~
+furniture 0 0
+2 99999 EH 110 110
+0 0 0 100
+#18007
+chair~
+a {mch{Mai{mr{x~
+A large, rectangular table of {yp{Yol{Wis{Yhe{yd{x oak surrounded by mismatched {bch{gai{mrs{x rests atop a large {Dwo{rve{Rn r{Ru{Dg{x.~
+oak~
+furniture 0 0
+10 9999999 EH 110 110
+0 0 0 100
+#18008
+carved shelf shelves~
+an elegantly {rc{ya{rrv{ye{rd{x shelf~
+Long rows of elegantly {rc{ya{rrv{ye{rd{x shelves line the walls of the room.~
+wood~
+container 0 0
+4 0 0 100 19
+0 0 0 100
+#18009
+copy tattered jaim farstrider~
+a copy of the {RAd{rve{Dnt{rur{Res{x of {yJ{Yai{ym {DF{gar{Gstri{gde{Dr{x~
+An old, {yt{wa{ytt{we{yr{we{yd{x copy of the {RAd{rve{Dnt{rur{Res{x of {yJ{Yai{ym {DF{gar{Gstri{gde{Dr{x.~
+leather~
+treasure 0 AO
+0 0 0 0 0
+0 1 25 100
+#18010
+table chair chairs~
+a plain {yw{woo{yd{we{yn{x chair~
+Four {ych{wai{yrs{x surrounding a plain wooden {yt{wa{yble{x rest in the center of the room.~
+wood~
+furniture 0 0
+4 4000 EH 110 110
+0 0 0 100
+#18100
+table~
+a wooden table~
+A wooden table stands here near the tent door.~
+wood~
+furniture 0 0
+4 5000 DGN 100 100
+0 10 10 100
+#18101
+brass lantern~
+a {yb{Yras{ys{x lantern~
+A {yb{Yras{ys{x lantern sits on the table.~
+brass~
+light 0 0
+0 0 5000 0 0
+25 0 0 100
+#18102
+hay filled mattress~
+a hay-filled mattress~
+A mattress stuffed with hay lays on the ground near the back of the tent.~
+cloth~
+furniture 0 0
+2 4000 EHK 150 150
+20 0 0 100
+#18103
+canvas cot~
+a small canvas cot~
+A small canvas cot is set up here.~
+cloth~
+furniture 0 0
+2 4000 EHK 150 150
+0 0 0 100
+#18164
+grove trees wall~
+a grove of trees~
+A wall of trees hides the swamp from view~
+cloth~
+portal 0 0
+0 K A 18166 0
+0 0 0 100
+#18166
+dark grove trees~
+a grove of trees~
+A grove of trees grows in the center of the island~
+wood~
+portal 0 0
+0 K A 18100 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#18000
+A Sudden Clearing in the Woods~
+Without warning, the forest seems to suddenly come to a dead-end here. 
+Slightly ahead and to the west, what almost appears to be a small shack can
+be seen, and directly to the north, a large expanse of cleared land is
+visible.  Several buildings, newly-built by the look of them.  The bare
+lands looks to have been recently cleared, and nothing seems to be growing
+save for the grass.  The landscape appears to be filled with random craters,
+as if something large were uprooted.  Perhaps it explains why there are no
+trees?  To the north, what appears to be a wall of black stone, encloses the
+visible buildings.  
+~
+0
+B 2
+D0
+~
+~
+0 0
+0 0 18001
+S
+#18001
+Approaching the Farm~
+A well-worn dirt road approaches the black-walled buildings, that for all
+intents and purposes resemble those one might find on a farm.  The area is
+still devoid of any trees, though immediately off the road soft green grass
+can be seen, blanketing the fields around.  Off to the east can be seen a
+bare patch of land, devoid of any green.  The road itself continues on to
+toward the farm, to the north, and back south, toward the forest.  
+~
+0
+B 2
+D0
+~
+~
+0 0
+0 0 18002
+D2
+~
+~
+0 0
+0 0 18000
+S
+#18002
+Just Outside the Black Walls~
+Very little detail surrounds the area immediately off this simple dirt
+road.  To the east and west can be seen little except barren fields, as if
+the fields were stripped and then only allowed to grow back a low covering
+of grass.  To the south, a forest can be seen, the dirt road leading among
+the trees, but to the north is what really draws the eyes.  A towering wall
+of glistening black stone, roughly twenty feet in height, surrounds what
+appears to be a collection of buildings.  The wall stretches to the east and
+west, just a little over a mile in length, and to the immediate north a gate
+of what appears to be blackened wrought-iron allows the only visible
+entrance to within the walls.  
+~
+0
+B 2
+D0
+~
+~
+0 0
+0 0 18006
+D1
+~
+~
+0 0
+0 0 18004
+D2
+~
+~
+0 0
+0 0 18001
+S
+#18003
+~
+~
+0
+BC 0
+S
+#18004
+A Large Field~
+A large stretch of open field lies here, barren save for the rocks and
+the dirt they rest in.  Small craters and fused glass make it look as if
+something had exploded out from the ground.  Nothing grows here, of course,
+as it looks like anything that may have had a chance is probably buried now
+under the fused glass and rocks that litter the field.  To the east, the
+field continues on, looking much the sae, while to the west, a short path
+leads to a long dirt road, and to the north can be seen a high wall of what
+appears to be glistening black stone.  
+~
+0
+B 2
+D1
+~
+~
+0 0
+0 0 18042
+D2
+~
+~
+0 0
+0 0 18043
+D3
+~
+~
+0 0
+0 0 18002
+S
+#18005
+~
+~
+0
+BC 0
+S
+#18006
+The Gates of the Farm~
+Surrounding the entire farm is a wall of stone blocks, almost normal,
+save for the fact that each piece of stone is of a deep black color.  The
+wall stands over twenty feet high, and along the top can be seen glistening
+spearheads of blackened steel, meant to deter anyone attempting to climb
+over them.  Over the walls can be seen a number of buildings, ranging from
+small wooden sheds, to large wood and brick farmhouses.  Set in the black
+stone ahead is a metal gate, the same height as the wall, of thick wrought
+iron.  To the south, a simple dirt road leads through an empty field toward
+a forest.  
+~
+0
+B 0
+D0
+~
+'thick {Dwr{wou{Dght i{Wro{Dn{x gate'~
+3 3
+1 0 18007
+D2
+~
+~
+0 0
+0 0 18002
+S
+#18007
+Into the Farm~
+This road is the main entry into the Farm, and it shows that fact.  The
+road is plain dirt, but looks to be hard-packed by the number of people who
+walk back and forth along it daily.  From this road, a great deal of the
+farm can be seen, showing new buildings all around, and men and women moving
+between them, intent on their tasks.  To the north can be seen the center of
+the farm, and something that glistens in the sun, while to the south, lie
+the great wrought-iron gates set in the black walls.  A small cabin to the
+west looks like it might be used for some sort of storage.  
+~
+0
+B 1
+D0
+~
+~
+0 0
+0 0 18008
+D2
+~
+~
+3 3
+1 0 18006
+D3
+~
+~
+3 3
+1 0 18011
+S
+#18008
+The Center of the Farm~
+The center of the Farm is a hub of activity, men and servants moving
+along about their business.  Soldiers, Dedicated, and Asha'man move
+purposely along on their errands, everything located within an easy walk
+from this point.  Several benches are spaced evenly here, seeming to be
+centrally placed around a large block of glistening black stone, looking as
+if it might be some sort of addressing podium.  To the north can be seen the
+main Farmhouse, while to the east and west a small dirt road leads off to
+the other buildings and cabins of the Farm, and to the south lies the gates,
+and beyond them a stretch of empty fields.  
+~
+0
+B 1
+D0
+~
+~
+0 0
+0 0 18012
+D1
+~
+~
+0 0
+0 0 18010
+D2
+~
+~
+0 0
+0 0 18007
+D3
+~
+~
+0 0
+0 0 18009
+S
+#18009
+Near the Center~
+~
+0
+B 0
+D1
+~
+~
+0 0
+0 0 18008
+D3
+~
+~
+0 0
+0 0 18054
+S
+#18010
+~
+~
+0
+B 1
+D1
+~
+~
+0 0
+0 0 18046
+D2
+~
+~
+3 3
+1 0 18045
+D3
+~
+~
+0 0
+0 0 18008
+S
+#18011
+A Storage Shed~
+Small, and dusty, this shed looks to be used for little more than storage
+of common tools.  Various implements, such as scythes, axes, and hoes, hang
+from the walls by small steel hooks.  Small wooden kegs are stacked in one
+corner, while in another rest a pile of what appears to be bags of burlap. 
+The floor is covered with a light coating of dust, and with the door closed,
+the only light comes from what is brought into the room.  
+~
+0
+B 0
+D1
+~
+~
+3 3
+1 0 18007
+S
+#18012
+The Farmhouse Porch~
+The steps leading up to the porch are plain, sanded hardwood, possibly
+oak or cedar.  The porch itself is of the same kind of wood, laid out in
+simple plan form, the wood looking almost brand new, though it is unpainted
+or sealed, and left exposed to the elements.  A simple wooden railing
+encompasses the porch, plain yet very well-made, and on either side of the
+door sit two plain ladder-backed chairs.  
+~
+0
+B 1
+D0
+~
+~
+3 3
+1 0 18013
+D2
+~
+~
+0 0
+0 0 18008
+S
+#18013
+A Sparsely-furnished Foyer~
+The foyer of the main house is quite spacious, but at the same time,
+sparsely-furnished.  The walls are panelled in oak, polished with beeswax,
+and the floor of the same, though unpolished.  A large table, with several
+chairs around it is the only real furniture in the room.  The only
+decoration in the room is a painting on one wall of a large black Dragon's
+Fang, on a field of dark red.  A large woven rug of dark red sits in the
+center of the room, beneath the table and chairs, covering a good deal of
+the floor.  Hallways lie to the north and east, while to the west a kitchen
+can be seen through the empty doorway, and to the south lies the front door,
+and the porch.  
+~
+0
+B 0
+D0
+~
+~
+0 0
+0 0 18014
+D1
+~
+~
+0 0
+0 0 18016
+D2
+~
+~
+3 3
+1 0 18012
+D3
+~
+~
+0 0
+0 0 18015
+S
+#18014
+A Wood-floored Hallway~
+~
+0
+B 0
+D1
+~
+~
+3 3
+1 0 18018
+D2
+~
+~
+0 0
+0 0 18013
+D3
+~
+~
+3 3
+1 0 18017
+D4
+~
+~
+0 0
+0 0 18019
+S
+#18015
+The Kitchen~
+~
+0
+B 0
+D1
+~
+~
+0 0
+0 0 18013
+D3
+~
+~
+0 0
+0 0 18035
+S
+#18016
+A Short Hallway~
+This short hallway looks like much of what can be seen of the rest of the
+home, the walls of polished hardwood panels, and the floors of the same type
+of wood, though only sanded to smoothness.  The walls are unadorned and
+empty, save for the two doors here, one to the north, and a second to the
+east.  To the west is the main foyer of the house.  
+~
+0
+0 0
+D0
+~
+~
+39 39
+2 0 18034
+D1
+~
+~
+3 3
+1 0 18037
+D3
+~
+~
+0 0
+0 0 18013
+S
+#18017
+An Unpollished Room~
+This room could best be described as cozy, and rustic, the scent of cut
+and unfinished timber predominating.  The floor is of well-cut cedar, sanded
+smooth, but lacking any sort of shine or polish.  On the south wall of the
+room, three hooks stand out, set there for the hanging of coats or hats.  On
+the north wall sits a large bookshelf, of the same wood as the floor and
+walls, but polished with a light coat of beeswax, the wood shining dully.  A
+narrow, but comfortably-made bed, rests against the west side of the room,
+and situated more towards the center, on a small scrap of blue carpet sits
+an old and battered mahogany desk, worn with use, but still serviceable.  A
+single window sits over the bed, the curtains of wool matching the carpet in
+color, and a single door sits in the middle of the east wall, leading into
+the rest of the house.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 18014
+S
+#18018
+A Darkly-panelled Room~
+The walls of this room are paneled in a rich, dark wood, half way to the
+ceiling.  The rest of the walls are painted in a warm beige.  A large, four
+poster bed of dark wood takes up a good portion of the far wall.  At the
+foot of the bed is a large wardrobe, made of the same wood.  One wall holds
+two small bookcases and a large desk.  Along the opposite wall is a
+collection of different swords on either side of a small fireplace of dark
+grey stone.  Several comfortable armchairs rest in front of the fireplace. 
+The floor of the room is carpeted in a thick, soft carpet.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 18014
+S
+#18019
+Top of the Stairs~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18039
+D2
+~
+~
+0 0
+0 0 18020
+D3
+~
+~
+3 3
+1 0 18040
+D5
+~
+~
+0 0
+0 0 18014
+S
+#18020
+A Wood-floored Hallway~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 18019
+D1
+~
+~
+3 3
+1 0 18022
+D2
+~
+~
+0 0
+0 0 18023
+D3
+~
+~
+3 3
+1 0 18021
+S
+#18021
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18020
+S
+#18022
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 18038
+D3
+~
+~
+3 3
+1 0 18020
+S
+#18023
+A Wood-floored Hallway~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 18020
+D1
+~
+~
+3 3
+1 0 18025
+D3
+~
+~
+3 3
+1 0 18024
+D4
+~
+~
+0 0
+0 0 18026
+S
+#18024
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18023
+S
+#18025
+~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18023
+S
+#18026
+Top of the Stairs~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 18027
+D5
+~
+~
+0 0
+0 0 18023
+S
+#18027
+A Wood-floored Hallway~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 18030
+D1
+~
+~
+3 3
+1 0 18028
+D2
+~
+~
+0 0
+0 0 18026
+D3
+~
+~
+3 3
+1 0 18029
+S
+#18028
+~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18027
+S
+#18029
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18027
+S
+#18030
+A Wood-floored Hallway~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18031
+D2
+~
+~
+0 0
+0 0 18027
+D3
+~
+~
+3 3
+1 0 18032
+D4
+~
+~
+0 0
+0 0 18033
+S
+#18031
+A Servant's Room~
+This room is rather small yet has a quaint, homey feel to it.  Two small
+beds covered with soft, woolen blankets in soft shades of lavendar and
+yellow take up most of the room, one resting on each side of a small window,
+covered with billowy curtains.  Beneath the window is a small table, a white
+vase filled with wild flowers rests atop it.  An oaken wardrobe rests
+against the north wall and a small chest is at the foot of each bed. 
+Hanging on the south wall is a painting of a majestic white mare against an
+inky black background.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 18030
+S
+#18032
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18030
+S
+#18033
+A Dimly-lit Attic~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 18030
+S
+#18034
+The M'Hael's Study~
+Though quite spacious, this office actually has very little furniture
+present.  The walls are paneled in sanded oak, the wood looking freshly
+sealed and polished to a dull shine.  The floor is of a different wood, and
+does not show signs of being sealed or polished.  A large blue rug, worked
+in the Tairen maze design, with silver thread marking out the scrolls sits
+in the middle of the room, and on top of it rests the largest piece of
+furniture.  The desk is of dark cherrywood, polished with beeswax, and
+embossed in the top of the desk is a black Dragon's Fang.  A well-padded,
+high-backed leather chair sits behind the desk, plain and undecorated. 
+Against the rear wall sits a small bookcase, the shelves filled with volumes
+on the One Power and the Prophecies of the Dragon.  A simple, ladder-backed
+chair of wood sits before the desk, and on the west wall hangs a map of the
+known world, while on the east is a painting of a dragon, on a blue
+background, coiled around the ancient Aes Sedai symbol.  The only door in
+the office is to the south.  
+~
+0
+0 0
+D2
+~
+~
+39 39
+2 0 18016
+D5
+~
+~
+4131 4131
+1 0 18041
+S
+#18035
+The Storeroom~
+Shelves fill this room, lining the walls.  All of the shelves are filled
+with various packages, small sacks, and small kegs.  The aroma of foods and
+spices fill the room, and more sacks and larger kegs rest on the floor,
+appearing to be everything from flour and sugar, to brandy and ale.  Set in
+the middle of the floor is a heavy wooden trapdoor, possibly leading to a
+basement, or another storage room.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 18015
+D5
+~
+~
+3 3
+1 0 18036
+S
+#18036
+A Basement~
+~
+0
+0 0
+D4
+~
+~
+3 3
+1 0 18035
+S
+#18037
+A Small Library~
+Every wall of this room is lined with shelves of plain, yet elegantly
+carved wood.  The shelves themselves are filled end to end with books of
+various ages and sizes, from thin and tattered books, to thick, tall
+leather-bound volumes, and the topics are as varied as the books'
+appearances.  The One Power, Jaim Farstrider, and even books on philosophy
+fill these shelves.  Light is provided by oil lamps set near the door, and
+hang from the ceiling above.  The only other furniture in the room is a
+plain wooden table, and four matching chairs surrounding it, obviously meant
+as a place to sit and enjoy the works presented here.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18016
+S
+#18038
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 18022
+S
+#18039
+~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18019
+S
+#18040
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18019
+S
+#18041
+A Hidden Room~
+Barely the size of a servant's bedroom, this room is almost bare.  A
+small table, two chairs, and a simple cot are the only furnishings, and they
+all seem to be pushed toward one corner of the room, leaving the rest of it
+strangely empty.  Small sconces hang on the wall, holding candles that seem
+to be the only light, and set in the ceiling is a small trapdoor, the only
+way to it being a ladder set against the east wall.  
+~
+0
+0 0
+D4
+~
+~
+4131 4131
+1 0 18034
+S
+#18042
+The Training Field~
+This field looks like it was once used to grow vegetables, or maybe
+tabac, as is common with most farms.  Since then, however, anything that
+might have once grown here appears to have been blasted, burned, or scorched
+out of existence, leaving only an expanse of dirt and rocks.  Throughout the
+field, some parts of it appear to have been fused into black glass, and yet
+in other parts, small craters are visible, as if something erupted out of
+the ground.  To the northwest, a high wall of what appears to be glistening
+black stone can be seen, the tops of several buildings just visible over
+them, and to the west, a dirt road can be seen, leading toward the farm, and
+also into the forest to the south.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 18044
+D3
+~
+~
+0 0
+0 0 18004
+S
+#18043
+The Training Field~
+This field looks like it was once used to grow vegetables, or maybe
+tabac, as is common with most farms.  Since then, however, anything that
+might have once grown here appears to have been blasted, burned, or scorched
+out of existence, leaving only an expanse of dirt and rocks.  Throughout the
+field, some parts of it appear to have been fused into black glass, and yet
+in other parts, small craters are visible, as if something erupted out of
+the ground.  To the northwest, a high wall of what appears to be glistening
+black stone can be seen, the tops of several buildings just visible over
+them, and to the north, the field continues on, while to the south, a forest
+can be seen.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 18004
+D1
+~
+~
+0 0
+0 0 18044
+S
+#18044
+The Training Field~
+This field looks like it was once used to grow vegetables, or maybe
+tabac, as is common with most farms.  Since then, however, anything that
+might have once grown here appears to have been blasted, burned, or scorched
+out of existence, leaving only an expanse of dirt and rocks.  Throughout the
+field, some parts of it appear to have been fused into black glass, and yet
+in other parts, small craters are visible, as if something erupted out of
+the ground.  To the northwest, a high wall of what appears to be glistening
+black stone can be seen, the tops of several buildings just visible over
+them, and to the west, the field continues on, while to the south, a forest
+can be seen.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 18042
+D3
+~
+~
+0 0
+0 0 18043
+S
+#18045
+A Large Barracks~
+If not for the furniture, this cabin would be quite roomy.  With
+everything present, it looks less like a house, and more like some sort of
+dormitory or barracks.  As it is, there is still room to move around, but
+only just.  Soldiers and Dedicated can usually be seen lounging about here
+in their free time.  Several beds fill the room, arranged in twos, bunked
+one on top of the other, and at the foot of each bed rests a steel
+footlocker.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 18010
+D1
+~
+~
+3 3
+1 0 18066
+S
+#18046
+~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 18047
+D3
+~
+~
+0 0
+0 0 18010
+S
+#18047
+A Dirt Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 18048
+D1
+~
+~
+3 3
+1 0 18049
+D2
+~
+~
+0 0
+0 0 18046
+S
+#18048
+~
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 18050
+D2
+~
+~
+0 0
+0 0 18047
+D3
+~
+~
+3 3
+1 0 18051
+S
+#18049
+A Large Barracks~
+If not for the furniture, this cabin would be quite roomy.  With
+everything present, it looks less like a house, and more like some sort of
+dormitory or barracks.  As it is, there is still room to move around, but
+only just.  Soldiers and Dedicated can usually be seen lounging about here
+in their free time.  Several beds fill the room, arranged in twos, bunked
+one on top of the other, and at the foot of each bed rests a steel
+footlocker.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18052
+D3
+~
+~
+3 3
+1 0 18047
+S
+#18050
+A Large Barracks~
+If not for the furniture, this cabin would be quite roomy.  With
+everything present, it looks less like a house, and more like some sort of
+dormitory or barracks.  As it is, there is still room to move around, but
+only just.  Soldiers and Dedicated can usually be seen lounging about here
+in their free time.  Several beds fill the room, arranged in twos, bunked
+one on top of the other, and at the foot of each bed rests a steel
+footlocker.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18053
+D3
+~
+~
+3 3
+1 0 18048
+S
+#18051
+An Asha'man's Cabin~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18048
+S
+#18052
+A Common Bath~
+The main feature in this room are the two large copper tubs in its
+center.  Each tub looks large enough to comfortably hold one, with room to
+spare, so that two might fit in each tightly.  Around the walls of the room
+itself, wooden benches have been built, and secured, and above each bench is
+a single metal hook, looking as if it is meant to hang something on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18049
+S
+#18053
+A Common Bath~
+The main feature in this room are the two large copper tubs in its
+center.  Each tub looks large enough to comfortably hold one, with room to
+spare, so that two might fit in each tightly.  Around the walls of the room
+itself, wooden benches have been built, and secured, and above each bench is
+a single metal hook, looking as if it is meant to hang something on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18050
+S
+#18054
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 18009
+D2
+~
+~
+3 3
+1 0 18056
+D3
+~
+~
+0 0
+0 0 18055
+S
+#18055
+A Turn in the Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 18057
+D1
+~
+~
+0 0
+0 0 18054
+S
+#18056
+An Asha'man's Cabin~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 18054
+S
+#18057
+A Dirt Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 18058
+D1
+~
+~
+3 3
+1 0 18060
+D2
+~
+~
+0 0
+0 0 18055
+D3
+~
+~
+3 3
+1 0 18059
+S
+#18058
+Along a Dirt Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 18063
+D1
+~
+~
+0 0
+0 0 18062
+D2
+~
+~
+0 0
+0 0 18057
+D3
+~
+~
+0 0
+0 0 18061
+S
+#18059
+A Large Barracks~
+If not for the furniture, this cabin would be quite roomy.  With
+everything present, it looks less like a house, and more like some sort of
+dormitory or barracks.  As it is, there is still room to move around, but
+only just.  Soldiers and Dedicated can usually be seen lounging about here
+in their free time.  Several beds fill the room, arranged in twos, bunked
+one on top of the other, and at the foot of each bed rests a steel
+footlocker.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18057
+D3
+~
+~
+3 3
+1 0 18064
+S
+#18060
+An Asha'man's Cabin~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18057
+S
+#18061
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 18058
+S
+#18062
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 18058
+S
+#18063
+Approaching the Traitor's Tree~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 18065
+D2
+~
+~
+0 0
+0 0 18058
+S
+#18064
+A Common Bath~
+The main feature in this room are the two large copper tubs in its
+center.  Each tub looks large enough to comfortably hold one, with room to
+spare, so that two might fit in each tightly.  Around the walls of the room
+itself, wooden benches have been built, and secured, and above each bench is
+a single metal hook, looking as if it is meant to hang something on.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18059
+S
+#18065
+The Traitor's Tree~
+A large space has been left empty here, and the only thing in it, filling
+the center of the clearing is a a tall tree, its many branches bare of
+leaves.  From each of the lower branches hangs a length of what appears to
+be coarse rope, looped and tied into a noose.  The ground nearby looks
+well-trodden, as if many have stood around the tree, perhaps observing the
+hangings that obviously seem to take place here.  The rest of the farm can
+be seen through the branches of the tree, and to the south, several
+buildings stand, looking to be cabins or sheds of some kind.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 18063
+S
+#18066
+A Common Bath~
+The main feature in this room are the two large copper tubs in its
+center.  Each tub looks large enough to comfortably hold one, with room to
+spare, so that two might fit in each tightly.  Around the walls of the room
+itself, wooden benches have been built, and secured, and above each bench is
+a single metal hook, looking as if it is meant to hang something on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18045
+S
+#18100
+A Sudden Clearing in the Woods~
+The trees of the forest open to a small clearing here, the sounds of
+small woodland animals becoming softer.  Small bushes and wild flowers grow
+alongside a worn path that makes its way to the north where large tents have
+been set up.  A large tree stump can be seen ahead, between the tents,
+little squirrels can be seen scampering across the top, chewing on nuts.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 18101
+D1
+~
+~
+0 0
+0 0 18108
+S
+#18101
+Among The Tents~
+The path stretches through the forest, a row of tents lining each side,
+the pathway is well trodden and appears to be used regularly.  The tents are
+a large, heavy duty canvas, almost big enough to stand in.  In the center of
+the pathway is a large tree stump, stretching five feet across.  Small
+squirrels scamper along the top, pausing to eat what they've found in the
+forest before running off again.  The sounds of the forest fills the air,
+bringing a feeling of calmness to the area.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 18104
+D1
+~
+~
+3 3
+1 0 18103
+D2
+~
+~
+0 0
+0 0 18100
+D3
+~
+~
+3 3
+1 0 18102
+S
+#18102
+Inside A Tent~
+The person who lives here is a bit of a slob.  A hay mattress rests at
+the back of the tent, but some of the hay is spilling out of the cloth
+holding it and some is poking through the material itself.  There is a table
+here with some food stains and left over crumbs that the rats haven't gotten
+to yet standing near the door.  What looks like a clothes line is tossed in
+a corner with a dirty shirt tossed on top of it.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18101
+S
+#18103
+Inside A Tent~
+A small table is set up in one corner of this tent.  A lantern rests in
+the middle of the table.  A hay stuffed mattress lays on the ground near the
+back of the tent.  The ground has been hard packed and swept clean of loose
+rocks and twigs.  
+
+A rope has been stretched down one side of the tent, near the roof, and some
+wooden clothespins are fastened to the rope.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18101
+S
+#18104
+Among The Tents~
+The path continues on through the forest.  A clearing opens up ahead to
+the north and tents line both sides of the road.  The forest noises are
+quieter here than other places and the foot traffic is stronger leading
+towards (or away from) the clearing.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 18107
+D1
+~
+tentflap~
+3 3
+1 0 18106
+D2
+~
+~
+0 0
+0 0 18101
+D3
+~
+~
+3 3
+1 0 18105
+S
+#18105
+Inside A Tent~
+The packed earth of the tent floor is swept clean.  A hay filled mattress
+rests against the back of the tent.  While it is stuffed full of hay, the
+blankets are ruffled and the bed is unmade.  A small table stands in the
+corner and it looks like someone has been carving at it in places with a
+knife.  A rope stretches along the side of the tent, appearing new and
+unused.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 18104
+S
+#18106
+Inside A Tent~
+This tent has a table with a vase of roses and a tablecloth on it.  The
+mattress is a bit larger than normal and there is a cot at the foot of the
+mattress.  A lantern and several candles rest on the table.  A clothes line
+is tied near the door and coiled around a small nail which hsa been nailed
+into one of the tents supporting stakes.  The mattress is stuffed with hay,
+but has silk sheets over it and a dark blue down comforter and matching
+pillows on it.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 18104
+S
+#18107
+A Practice Field~
+A large area has been cleared from the forest.  Trees appear to have been
+yanked right out of the ground and hurled aside in some places.  Burn marks
+and toppled trees in the area are a sign of some of the things happening. 
+There is a large pile of rocks in one corner of the field, and sets of
+archery targets set up along another edge.  Straw dummies are staked in a
+row against the back of the clearing.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 18104
+S
+#18108
+Picket Line~
+A picket line for horses has been stretched out along the edge of the
+forest.  A large enough area for several wagons has also been cleared out of
+the brush.  The dirt is well packed and the grass has been worn away by the
+passage of the horses, wagons, and many feet.  
+
+A pile of hay rests just out of reach of the picket line, so that the
+animals can be fed, without helping themselves to the entire stack.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 18100
+S
+#18150
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 18151
+D3
+~
+~
+0 0
+0 0 18153
+D0
+~
+~
+0 0
+0 0 18152
+S
+#18151
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 18153
+D3
+~
+~
+0 0
+0 0 18150
+S
+#18152
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 18154
+D0
+~
+~
+0 0
+0 0 18158
+D2
+~
+~
+0 0
+0 0 18150
+S
+#18153
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 18164
+D1
+~
+~
+0 0
+0 0 18150
+D0
+~
+~
+0 0
+0 0 18151
+S
+#18154
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 18161
+D0
+~
+~
+0 0
+0 0 18155
+D3
+~
+~
+0 0
+0 0 18152
+S
+#18155
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 18154
+D3
+~
+~
+0 0
+0 0 18156
+S
+#18156
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 18155
+D2
+~
+~
+0 0
+0 0 18157
+D3
+~
+~
+0 0
+0 0 18152
+S
+#18157
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 18156
+D3
+~
+~
+0 0
+0 0 18163
+S
+#18158
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 18152
+D3
+~
+~
+0 0
+0 0 18159
+S
+#18159
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 18158
+D2
+~
+~
+0 0
+0 0 18151
+S
+#18160
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+C 16
+S
+#18161
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 18162
+D3
+~
+~
+0 0
+0 0 18154
+S
+#18162
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 18161
+D1
+~
+~
+0 0
+0 0 18163
+S
+#18163
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D3
+~
+~
+0 0
+0 0 18162
+D0
+~
+~
+0 0
+0 0 18165
+D1
+~
+~
+0 0
+0 0 18157
+S
+#18164
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 18153
+D2
+~
+~
+0 0
+0 0 18153
+S
+#18165
+In a Swamp~
+The swamp here ranges from ankle deep to chest deep.  Mosquito's fill the
+air with their humming and feast on whatever they can find available.  There
+are occasionally small islands rising from the mire which are large enough
+for a few trees to grow from.  The branches hang low, brushing the surface
+of the water.  Every once in a while the surface of the water ripples as
+something large swims below.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 18153
+D2
+~
+~
+0 0
+0 0 18163
+S
+#18166
+A Larger Island~
+This island rises up out of the swamp.  It is overgrown along the banks
+and the trees are dark and hang low.  The water ripples as fish and other
+swamp dwellers make their way through it.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 18165
+S
+#18193
+~
+~
+0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 18000 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 18006 0 1
+D 0 18007 2 1
+D 0 18007 3 1
+D 0 18010 2 1
+D 0 18011 1 1
+D 0 18012 0 1
+D 0 18013 2 1
+D 0 18014 1 1
+D 0 18014 3 1
+D 0 18016 0 2
+D 0 18016 1 1
+D 0 18017 1 1
+D 0 18018 3 1
+D 0 18019 1 1
+D 0 18019 3 1
+D 0 18020 1 1
+D 0 18020 3 1
+D 0 18021 1 1
+D 0 18022 3 1
+D 0 18023 1 1
+D 0 18023 3 1
+D 0 18024 1 1
+D 0 18025 3 1
+D 0 18027 1 1
+D 0 18027 3 1
+D 0 18028 3 1
+D 0 18029 1 1
+D 0 18030 1 1
+D 0 18030 3 1
+D 0 18031 3 1
+D 0 18032 1 1
+D 0 18034 2 2
+D 0 18034 5 1
+D 0 18035 5 1
+D 0 18036 4 1
+D 0 18037 3 1
+D 0 18039 3 1
+D 0 18040 1 1
+D 0 18041 4 1
+D 0 18045 0 1
+D 0 18045 1 1
+D 0 18047 1 1
+D 0 18048 1 1
+D 0 18048 3 1
+D 0 18049 1 1
+D 0 18049 3 1
+D 0 18050 1 1
+D 0 18050 3 1
+D 0 18051 1 1
+D 0 18052 3 1
+D 0 18053 3 1
+D 0 18054 2 1
+D 0 18056 0 1
+D 0 18057 1 1
+D 0 18057 3 1
+D 0 18059 1 1
+D 0 18059 3 1
+D 0 18060 3 1
+D 0 18064 1 1
+D 0 18066 3 1
+D 0 18101 1 1
+D 0 18101 3 1
+D 0 18102 1 1
+D 0 18103 3 1
+D 0 18104 1 1
+D 0 18104 3 1
+D 0 18105 1 1
+D 0 18106 3 1
+O 0 18000 0 18008
+O 0 18002 0 18011
+O 0 18006 0 18012
+O 0 18007 0 18013
+O 0 18008 0 18037
+P 0 18009 1 18008 1
+O 0 18010 0 18037
+O 0 18003 0 18045
+O 0 18004 0 18045
+O 0 18003 0 18049
+O 0 18004 0 18049
+O 0 18003 0 18050
+O 0 18004 0 18050
+O 0 18005 0 18052
+O 0 18005 0 18053
+O 0 18003 0 18059
+O 0 18004 0 18059
+O 0 18005 0 18064
+O 0 18001 0 18065
+O 0 18005 0 18066
+O 0 18164 0 18100
+O 0 18100 0 18102
+O 0 18101 0 18102
+O 0 18102 0 18102
+O 0 18100 0 18103
+O 0 18101 0 18103
+O 0 18102 0 18103
+O 0 18100 0 18105
+O 0 18101 0 18105
+O 0 18102 0 18105
+O 0 18100 0 18106
+O 0 18101 0 18106
+O 0 18102 0 18106
+O 0 18103 0 18106
+R 0 18150 1
+R 0 18150 2
+R 0 18150 3
+R 0 18150 4
+R 0 18152 1
+R 0 18152 2
+R 0 18152 3
+R 0 18152 4
+R 0 18153 1
+R 0 18153 2
+R 0 18153 3
+R 0 18153 4
+R 0 18154 1
+R 0 18154 2
+R 0 18154 3
+R 0 18154 4
+R 0 18154 5
+R 0 18154 6
+R 0 18158 1
+R 0 18158 2
+R 0 18158 3
+R 0 18158 4
+R 0 18158 5
+R 0 18162 1
+R 0 18162 2
+R 0 18162 3
+R 0 18162 4
+R 0 18163 1
+R 0 18163 2
+R 0 18163 3
+R 0 18163 4
+R 0 18163 5
+R 0 18163 6
+R 0 18164 1
+R 0 18164 2
+R 0 18164 3
+R 0 18164 4
+O 0 18166 0 18166
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

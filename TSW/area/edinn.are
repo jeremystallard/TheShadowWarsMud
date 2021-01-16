@@ -1,0 +1,2215 @@
+#AREADATA
+Name Dancing Horse Inn~
+Builders Ilona~
+VNUMs 27801 27999
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#27801
+wench girl barmaid~
+a {rs{Ra{Du{Rc{ry{w serving girl~
+A {rs{Ra{Du{Rc{ry{w serving girl weaves through the tables with food and drink.
+~
+Spilling easily to the middle of her back if left unbound, this young
+girl's dark hair is slightly wavy.  Classic saldaean looks, she seems like a
+striking example of the country's fierce beauty and the way she moves
+through the crowd suggests she knows more than perhaps she should.  That -
+and the {rs{Ra{Du{Rc{ry{w grin she flashes patrons.  
+~
+saldaean~
+A 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#27802
+cook woman~
+a rotund, older woman in a food-stained apron~
+A short, rotund older woman in a food-stained apron stands here, watching serveral dishes in the making.
+~
+Surely this woman must be an amazing cook - due to the fact that she is
+as full figured as she is.  Greying, her hair {Dblack{w hair is bound severely
+and kept in a simple net - the streaks of {Wwhite{w and {Ws{wi{Dlv{we{Wr{w glinting in the
+light.  Wearing a simple {ybrown{w skirt and {Wwhite{w blouse, she wears over that
+an apron which is covered in various stains.  When she stops long enough for
+one to see her face - she looks calm and serene..  Completely in her element
+and rather like a teacher.  
+~
+saldaean~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+50 50 50 50 50
+A
+2 2 2 2
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+F train B
+V tlevel 90
+#27803
+cat mouser~
+a lithe {Dblack{w cat with glowing {gg{Gr{ge{Ge{gn{w eyes~
+A lithe {Dblack{w cat with glowing {gg{Gr{ge{Ge{gn{w eyes is here, looking for something to pounce on.
+~
+~
+cat~
+AI J 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 small 'furr'
+F aff Z
+#27804
+mouse tiny~
+a tiny {Dm{yo{Du{ys{De{w~
+A tiny {Dm{yo{Du{ys{De{w scurries about.
+~
+~
+rabbit~
+AC 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 Q tiny 'whisker fur tail'
+#27805
+young woman greeter~
+a pretty young woman~
+Standing near the door, {YT{Wa{Yn{Wi{Ya{x greets the guests to the Inn.
+~
+Wearing a pretty dress of green silk, this young woman stands near the
+door, taking the coats of the visitor's to the Inn.  Those who are looking
+for a room for the night can ask the young woman and she'll direct you to
+the owners of the Inn.  
+~
+saldaean~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+M 'SPEECH' 27805 room~
+#27826
+girl young~
+a slim young girl~
+A slim young girl skitters around the kitchen, following orders.
+~
+Looking perhaps no older than ten or eleven years of age - this little
+girl helps out in the kitchen.  Wiry, she no doubt moves at a fast pace all
+day long, and often can be seen running trays out to waiting serving girls
+on busy nights.  
+~
+saldaean~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 small 'flesh'
+#27831
+servant girl puppet~
+a servant girl~
+A servant girl stands almost unnoticed in the corner.
+~
+Her brown hair is cut to frame her face, and as she keeps her head down
+it tends to cover her light green eyes.  Her skin is a bit pale, looking as
+though she hasn't been out in the sun for a while.  Her clothes are very
+simple, a robe of thin silk and a pair of slippers.  She doesn't seem to
+happy, but then she doesn't seem like she is a captive here either.  
+~
+tarvaloner~
+ABG OPQYd 0 0
+100 10 50d50+1000 100d10+100 11d11+50 slap
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 HP
+stand stand female 0
+0 0 small 'flesh'
+M 'ACT' 27831 whistle~
+#27832
+street wise woman underdressed~
+A street wise woman~
+An underdressed woman with a fake smile stands here.
+~
+Standing before you is a woman who doesn't seem to quite blend in with
+everyone else, her clothing the main reason, a dark blue dress with a slit
+showing of her thigh and the neckline dipping to show off her wares as they
+are.  She flashes you a fake smile coming your way with a practiced twist of
+the hips and flash of the bosom, you can't help but wonder what it is
+exactly that she wants.  
+~
+domani~
+A ATYd 0 0
+97 87 29d29+1000 97d10+100 10d17+48 slap
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 COP
+stand stand female 0
+0 0 small 'unknown'
+#27851
+stablemaster man massive~
+a massive stablemaster~
+A massive stablemaster is here - running his workers ragged and keeping his charges well-tended.
+~
+Tall, reaching nearly six foot five - this stablemaster looks to be in
+his thirties - his {Ds{ya{Db{yl{De{w hair showing hints of {Ws{wi{Dlv{we{Wr{w at the temples.  Well
+muscled and a massive man in general, his bellowing commands can probably be
+heard within the inn - and his workers scramble to do everything he says.  
+~
+saldaean~
+AB 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 stab
+0 0 0 0 0
+A
+3 3 3 3
+FI 0 0 0
+stand stand male 0
+0 0 large 'flesh'
+#27852
+mottled pony~
+{ym{wo{yt{wt{yl{we{yd{w old pony~
+A {ym{wo{yt{wt{yl{we{yd{x old pony grazes on the hay.
+~
+~
+bear~
+AZ 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 S
+stand stand male 0
+0 Q medium 'mane tail hooves'
+F off DEO
+F res EI
+F par UV
+#27853
+stableboy stablehand boy~
+a wiry young stableboy~
+A wiry young stableboy dashes about.
+~
+~
+saldaean~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#27854
+speckled stallion~
+a {Ws{yp{We{yc{Wk{yl{We{yd{w stallion with a {Wsnow{w-{Wwhite{w mane~
+A {Ws{yp{We{yc{Wk{yl{We{yd{w stallion with a {Wsnow{w-{Wwhite{w mane is here.
+~
+~
+bear~
+AZ 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand male 0
+0 0 medium 'mane hooves tail'
+F off DEO
+F res EI
+#0
+
+
+
+#OBJECTS
+#27801
+table~
+a large, round {yo{Ya{yk{Ye{yn{w table~
+A large, round {yo{Ya{yk{Ye{yn{w table sits in the center of this booth.~
+wood~
+furniture 0 0
+20 2147483647 DEK 100 100
+0 1000 0 100
+#27802
+fireplace~
+a large {rfi{Rr{Ye{Wp{Yl{Ra{rce{x ~
+A large {rfi{Rr{Ye{Wp{Yl{Ra{rce{x covers most of the wall near the kitchen wall, giving off ample heat.~
+brick~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#27803
+sugar cookie~
+a {Wsugar {yc{Yo{yo{Yk{yi{Ye{w~
+A {Wsugar {yc{Yo{yo{Yk{yi{Ye{w rests upon a cloth on the {Ws{wi{Dlv{we{Wr{w tray.~
+confection~
+food 0 AO
+1 0 0 0 0
+1 1 1 100
+#27804
+wooden trunk~
+a wooden {ytr{Yu{ynk{x with {Dir{Wo{Dn{x bindings ~
+A large wooden {ytr{Yu{ynk{x with {Dir{Wo{Dn{x bindings has been left open here.~
+wood~
+container 0 0
+10 A 0 10 100
+0 0 0 100
+#27805
+sheets dingy~
+a set of {Wd{Di{Wngy{x white sheets~
+A set of {Wd{Di{Wngy{x white sheets have been left here.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 1 0 100
+#27806
+pie cherry cherrypie~
+a slice of {rc{Rh{rer{Rr{ry{w pie~
+A slice of {rc{Rh{rer{Rr{ry{x pie sits on a little parchment doily.~
+sugar cherries flour butter~
+food 0 AO
+1 0 0 0 0
+0 1 1 100
+#27807
+key amber~
+a cast-{Diron{w key inlaid with {Ya{ym{Yb{ye{Yr{w~
+A cast-{Diron{w key inlaid with {Ya{ym{Yb{ye{Yr{w is here.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27808
+wine rack~
+an {Dir{Wo{Dn{x wine rack~
+An {Dir{Wo{Dn{x wine rack lines the wall inside the cellar.~
+cloth~
+container 0 0
+5 0 0 25 100
+0 1 0 100
+#27809
+couch couches sofa sofas~
+one of the {Ddark {ybrown{x couches~
+Three matching {Ddark {ybrown{w leather couches form a cemi-circle around the fireplace.~
+cloth~
+furniture 0 P
+12 2147483647 EHK 115 115
+0 200 0 100
+#27810
+key 28 iron~
+a cast-{Diron{w key engraved with the number 28~
+A cast-{Diron{x key engraved with the number 28.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27811
+key 27 iron~
+a cast-{Diron{w key engraved with the number 27~
+A cast-{Diron{x key engraved with the number 27.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27812
+key 22 iron~
+a cast-{Diron{w key engraved with the number 22~
+A cast-{Diron{x key engraved with the number 22.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27813
+key 23 iron~
+a cast-{Diron{w key engraved with the number 23~
+A cast-{Diron{x key engraved with the number 23.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27814
+key 24 iron~
+a cast-{Diron{w key engraved with the number 24~
+A cast-{Diron{x key engraved with the number 24.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27815
+key 21 iron~
+a cast-{Diron{w key engraved with the number 21~
+A cast-{Diron{x key engraved with the number 21.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27816
+bed feather~
+a {Wfeather{w bed~
+A {Wfeather{w bed with hand-carved posts sits in the corner.~
+cloth~
+furniture 0 0
+3 2147483647 EHK 120 120
+0 1000 0 100
+#27817
+key 29 iron~
+a cast-{Diron{w key engraved with the number 29~
+A cast-{Diron{x key engraved with the number 29.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27818
+key 30 iron~
+a cast-{Diron{w key engraved with the number 30~
+A cast-{Diron{x key engraved with the number 30.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27819
+bottle saldaean wine~
+a bottle of fine Saldaean {mw{ri{mne{x~
+A {ggr{Gee{gn{x glass bottle of fine Saldaean {mw{ri{mne{x.~
+glass~
+drink 0 AO
+40 40 'red wine' 0 0
+25 1 250 100
+#27820
+key 26 iron~
+a cast-{Diron{w key engraved with the number 26~
+A cast-{Diron{x key engraved with the number 26.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27821
+key 25 iron~
+a cast-{Diron{w key engraved with the number 25~
+A cast-{Diron{x key engraved with the number 25.~
+iron~
+key VY AO
+0 0 0 0 0
+0 1 0 100
+#27822
+chair chairs~
+a high-backed {yo{Ya{yk{Ye{yn{w chair~
+A set of twelve high-backed {yo{Ya{yk{Ye{yn{x chairs.~
+cloth wood~
+furniture SX 0
+12 500000000 DEGHK 100 100
+0 50 200 100
+#27823
+table~
+a long dining table covered with a {Wc{yr{We{ya{Wm{w cloth~
+A long dining table covered with a {Wc{yr{We{ya{Wm{w cloth and set for service in the middle of the room.~
+wood~
+furniture 0 0
+12 2147483647 DGJ 100 100
+0 300 0 100
+#27824
+table~
+an age-blackened {yo{Ya{yk{Ye{yn{w table~
+An age-blackened {yo{Ya{yk{Ye{yn{w table stands here.~
+wood~
+furniture S 0
+12 50000000 BDE 100 100
+0 300 5000 100
+#27825
+stone fireplace~
+a large {Ds{wt{Wo{wn{De f{ri{Rre{Ypl{Rac{re{x~
+A large {Ds{wt{Wo{wn{De f{ri{Rre{Ypl{Rac{re{x lights up the room, the fire within crackling.~
+stone~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#27826
+table~
+a low {ytable{x~
+A low {ytable{x rests before the leather couches.~
+wood~
+container 0 0
+5 0 0 10 100
+0 0 0 100
+#27827
+maple pipe~
+a whittled {ym{ra{yple{x pipe~
+A whittled {ym{ra{yple{x pipe has been left here.~
+maple wood~
+trash 0 AO
+0 0 0 0 0
+0 1 15 100
+#27828
+table~
+one of the round {yo{Ya{yk{Ye{yn{w tables~
+Several round {yo{Ya{yk{Ye{yn{w tables litter the room, surrounded by chairs.~
+wood~
+furniture 0 0
+50 2147483647 DGJ 100 100
+0 500 0 100
+#27829
+maple chest~
+a small {rc{yh{re{ys{rt{x of maple~
+A small {rc{yh{re{ys{rt{x of maple rests at the foot of the bed.~
+maple wood~
+container 0 0
+5 AC 0 50 100
+0 0 0 100
+#27830
+compartment~
+a cleverly concealed compartment within the desk~
+A cleverly concealed compartment within the desk.~
+wood~
+container a P
+1 AC 0 50 100
+0 10 0 100
+#27831
+huge bed four~
+atop an uncommonly large four post bed~
+An uncommonly large four post {yo{Ya{yk{w bed fills the center of the room, with a trunk at the foot.~
+cloth wood~
+furniture 0 0
+5 5000000 EHK 150 150
+0 25 0 100
+#27832
+bed~
+one of a pair of beds with matching {gi{Gv{gy{w coverlets~
+A pair of beds with matching {gi{Gv{gy{w coverlets sit against the the wall.~
+cloth~
+furniture 0 P
+2 2147483647 EHK 100 100
+0 200 0 100
+#27833
+bed~
+a large, comfortable bed with a {Yg{yo{Yl{yd{Ye{yn{x quilt~
+A large, comfortable bed juts out from the corner with a {Yg{yo{Yl{yd{Ye{yn{x quilt atop of it.~
+cloth~
+furniture 0 P
+3 2147483647 EHK 150 150
+0 200 0 100
+#27834
+bed~
+a monstrously large bed with a nearly {Dblack{x finish~
+A monstrously large bed with a nearly {Dblack{w finish fills the center of the chamber.~
+cloth~
+furniture 0 P
+8 2147483647 EHK 150 150
+0 500 0 100
+#27835
+armchair chair chairs~
+an over-stuffed {Wc{yr{We{ya{Wm{w-coloured armchair~
+A pair of over-stuffed {Wc{yr{We{ya{Wm{w-coloured armchairs.~
+cloth~
+furniture a P
+2 6000 EHK 100 100
+0 300 0 100
+#27836
+iron pearl key~
+an iron key inlaid with {Wpearl{w~
+An iron key inlaid with {Wpearl{x.~
+iron~
+key Yb AO
+0 0 0 0 0
+0 1 0 100
+#27837
+bed sleighbed sleigh~
+a large, {Ws{wi{Dlv{we{Wr{y m{ra{yp{rl{ye{w sleigh bed~
+A large, {Ws{wi{Dlv{we{Wr{y m{ra{yp{rl{ye{w sleigh bed rests in the center of this room.~
+cloth~
+furniture 0 P
+5 2147483647 EHK 100 100
+0 500 0 100
+#27838
+tub coppertub bathtub~
+a large {rc{Yo{rp{Yp{re{Yr{w tub~
+A large, {rc{Yo{rp{Yp{re{Yr{w bathing tub takes up the center of the room.~
+copper~
+furniture 0 0
+2 6000 FIL 100 100
+0 150 0 100
+#27839
+amethyst key~
+an iron key inlaid with {ma{Mm{me{Wth{my{Ms{mt{w~
+An iron key inlaid with {ma{Mm{me{Wth{my{Ms{mt{x.~
+iron~
+key VYbc AO
+0 0 0 0 0
+0 1 1 100
+#27840
+bed round~
+a large, round bed with a {mf{Rl{go{cr{Wa{Yl{w coverlet and numerous pillows~
+A large, round bed with a {mf{Rl{go{cr{Wa{Yl{w coverlet and pile of pillows fills the center of the room.~
+cloth wood~
+furniture 0 P
+5 2147483647 DEHK 100 100
+0 500 0 100
+#27841
+shelves shelf~
+three shelves filled with {Wlinens{x~
+Three shelves filled with {Wlinens{x line the wall.~
+wood~
+container 0 0
+3 0 0 100 10
+0 0 0 100
+#27842
+couch~
+a vibrant {mp{Mu{mr{Mp{ml{Me{w damask-linen couch~
+A vibrant, {mp{Mu{mp{Ml{me{w damask-linen couch sits in the center of the room, flanked by matching armchairs.~
+linen cotton wood~
+furniture 0 P
+3 2147483647 BEHK 100 100
+0 500 0 100
+#27843
+chair armchair~
+an over-stuffed {mp{Mu{mr{Mp{ml{Me{w armchair~
+A pair of over-stuffed {mp{Mu{mr{Mp{ml{Me{w armchairs on either side of the couch.~
+linen cotton wood~
+furniture Xa P
+2 2147483647 BEHK 100 100
+0 200 0 100
+#27844
+couch sofa~
+a modest {Wc{yr{We{ya{Wm{w-coloured couch~
+A modest {Wc{yr{We{ya{Wm{w-coloured couch sits in the center of the room, flanked by armchairs.~
+cloth~
+furniture 0 P
+3 2147483647 EHK 100 100
+0 200 0 100
+#27845
+wardrobe~
+a large wardrobe with ornately carved doors~
+A large wardrobe with ornately carved doors stands against the wall.~
+wood~
+container a P
+50 ACDFGH 27807 1000 0
+0 1000 0 100
+#27846
+feather pillow~
+a large, fluffy {Wfeather{x pillow~
+A large, fluffy {Wfeather{x pillow looks rather inviting.~
+feathers~
+furniture 0 AO
+1 4000 EHK 100 100
+0 1 50 100
+#27847
+silver mirror lamp~
+a tall {Ds{wi{Wlv{we{Dr {ym{Yir{Wro{Yre{yd{x lamp~
+A tall {Ds{wi{Wlv{we{Dr {ym{Yir{Wro{Yre{yd{x lamp rests here, giving off ambient light.~
+silver~
+light A A
+0 0 100 0 0
+1 1 350 100
+#27848
+satchel lavender~
+a small satchel of {mla{Dv{men{Dd{mer{x~
+A small satchel of {mla{Dv{men{Dd{mer{x giving off a soft scent is here.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 1 0 100
+#27849
+silver tray~
+a cloth-covered tray of fresh baked goods~
+A {Ws{wi{Dlv{we{Wr{w tray rests upon the counter, covered with a cloth.~
+cloth~
+container a P
+2147483647 AC 0 100 50
+0 10 0 100
+#27850
+mirror dresser~
+a large dresser made of bright {yo{Ya{yk{x~
+A long, square {cm{Ci{Wrr{Co{cr{x hangs on the wall above a bright {yo{Ya{yk{x dresser.~
+oak~
+container 0 0
+10 AC 0 50 100
+0 10 0 100
+#27851
+mirror dresser~
+a light-colored {Ydr{We{Yss{We{Yr{x~
+A delicately worked oval {cm{Ci{Wrr{Co{cr{x rests atop a light-colored {Ydr{We{Yss{We{Yr{x.~
+wood~
+container 0 0
+10 AC 0 40 100
+0 0 0 100
+#27852
+stool desk~
+a small {rst{Roo{rl{x~
+A tall, {yo{Ya{Wk{Ye{yn{x roll-top desk rests against the far wall.~
+wood~
+furniture 0 0
+1 10000 E 100 100
+0 20 0 100
+#27853
+chair~
+an overstuffed {Dw{Wi{Dng{x chair~
+An overstuffed {Dw{Wi{Dng{x chair rests near a set of bookshelves.~
+cloth~
+furniture 0 0
+2 100000 EHK 100 100
+0 0 0 100
+#27855
+cinnamon roll~
+a {yst{Wick{yy {rci{ynn{Wa{ym{ron {yr{Wo{yll{x~
+A sticky pastry has been dropped here.~
+bread~
+food S A
+1 0 0 0 0
+1 1 1 100
+#27856
+chocolate cookie~
+a {ychocolate{x {Dchip{x cookie~
+A {ychocolate {Dchip{x cookie sits here.~
+chocolate~
+food 0 AO
+1 0 0 0 0
+0 1 1 100
+#27857
+danish~
+a {BB{blueberry {BD{banish{x~
+A yummy {Bb{blueberry {Bd{banish{x has been left here.~
+pastry~
+food S A
+1 1 0 0 0
+1 1 1 100
+#27858
+muffin~
+a {Rd{re{Rl{ri{Rc{ri{Ro{ru{Rs S{rtr{Rawb{rerr{Ry M{ruff{Rin{x~
+A steaming, {Rs{rtr{Rawb{rerr{Ry m{ruff{Rin{x is sitting here.~
+pastry~
+food S A
+1 0 0 0 0
+1 1 1 100
+#0
+
+
+
+#ROOMS
+#27801
+Common Room of The Dancing Horse Inn~
+Against the northern wall, is a large {rfi{Rr{Ye{Wp{Yl{Ra{rce{w next to the door that
+leads to the kitchens.  To the south is a large archway leading into the
+foyer which holds the stairway leading to the upper floors.  Not as tidy as
+it could be, the seating arrangements in the common room seem random, save
+for paths through the sea of tables and chairs leading to the kitchens. 
+Weaving about through the room from the swinging kitchen door, serving girls
+take orders and bring out food and drink.  
+ 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27802
+D1
+~
+~
+4096 4096
+0 0 27827
+D2
+~
+~
+0 0
+0 0 27829
+D3
+~
+~
+0 0
+0 0 27828
+S
+#27802
+Kitchens of the Inn~
+Fairly spacious, the kitchens of The Stag & Lion have quite the 'homey'
+feel.  Set about waist high on the eastern wall, are several {Dw{Cindow{Ds{w, as
+well as {yl{Ya{Wm{Yp{ys{w which hang from the high ceiling to help keep things properly
+lit.  All along the room are wide {ywooden{w countertops, showing meals in
+various stages of completion.  Against the southern wall are very large
+basins set into the countertops for use as sinks to clean the dishes. 
+Nearby the scullery sinks is a heavy {ywooden{w door.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27849
+D1
+~
+~
+3 3
+1 0 27803
+D2
+~
+~
+3 3
+1 0 27801
+D3
+~
+~
+4099 4099
+1 0 27826
+S
+#27803
+Larder of the Inn~
+A large, room - this larder seems to be well stocked indeed.  The entire
+northern and eastern walls are lined with shelves, full of various jars,
+packages and sachets of herbs.  The southern corner of the room is full of
+barrels, with waxed parchment paper lables upon the sides.  Just north of
+the door, against the western wall is a large hutch with glass-paned doors
+and within them are extra sets of dishes and flatware.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 27802
+D5
+~
+~
+3 3
+1 0 27804
+S
+#27804
+Cellar of the Inn~
+Empty cast-iron sconces line the walls every four or five feet in this
+drafty, and somewhat dank cellar.  Numerous chests and trunks are stacked
+off to one side - one has been left ajar to reveal sets of {Wwhite{w sheets
+within them.  Stacked in the far corner - one can make out what look like
+spare headboards and rolled up rugs.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 27805
+D4
+~
+~
+3 3
+1 0 27803
+S
+#27805
+A Cramped Wine Cellar~
+A short flight of stairs leads down into this semi cramped and chilly
+room.  Just wide enough to comfortably fit a single person between the two
+aisles, there are racks which line the walls and make an island in the
+center, creating two aisles mostly filled with glass bottles.  Clearly a
+wine cellar, the wines have been categorized by flavor - signs made from
+waxed parchment paper mark each section.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 27804
+S
+#27806
+A Long Hallway~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  To the east, the hustle and bustle of the Common room can
+be heard.  To the west, the hallway leads to the Great room and the {yStables{w.
+Up the wide {Ds{wt{Do{wn{De{w staircase, the other floors await.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 27829
+D3
+~
+~
+0 0
+0 0 27807
+D4
+~
+~
+0 0
+0 0 27810
+S
+#27807
+Hallway Before a Door~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  To the east, the hustle and bustle of the Common room can
+be heard.  To the west, the hallway ends at a door leading into the {yStables{w.
+Here, there is a large door to the north.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27809
+D1
+~
+~
+0 0
+0 0 27806
+D3
+~
+~
+0 0
+0 0 27808
+S
+#27808
+End of a Hallway Before a Heavy Door~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  Far to the east, the hustle and bustle of the Common room
+can be heard.  Just to the west, the hallway ends at a door leading to the
+{yStables{w.  
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 27807
+D3
+~
+~
+3 3
+1 0 27851
+S
+#27809
+A Great Room Within the Inn~
+The first thing one tends to notice as they ender this spacious room is
+the soft, almost sickeningly sweet scent of pipe weed.  The same {rr{mo{rs{me{Dwood{w
+floors found throughout the inn continue here, creating a pleasant contrast
+with the rich {ghunter{w {gg{Gr{ge{Ge{gn{w walls.  Against the far northern wall, a large
+fireplace is built - with a roaring fire crackling and writhing in the
+embrace of the stone.  Three large dark brown leather couches form a semi
+circle five or six feet away from the fireplace and before them is a low
+table with an ash tray and a few empty mugs of ale waiting on a serving
+girl.  Lining the walls near the entryway, are bookshelves which stretch
+from about waist height to the ceiling - filled with various books, scrolls,
+maps and statuary.  Over the mantle hangs a tapestry depicting the "Three
+Fishes" of Saldaea and around the room are other various paintings and
+tapestries depicting the sites and history of Saldaea.  
+ 
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 27807
+S
+#27810
+Second Floor Landing~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  The wide {Ds{wt{Do{wn{De{w staircase leads downstairs and up.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 27817
+D1
+~
+~
+0 0
+0 0 27819
+D3
+~
+~
+0 0
+0 0 27811
+D4
+~
+~
+0 0
+0 0 27830
+D5
+~
+~
+0 0
+0 0 27806
+S
+#27811
+A Hallway~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27814 27814
+D1
+~
+~
+0 0
+0 0 27810
+D2
+~
+~
+3 3
+1 27813 27813
+D3
+~
+~
+0 0
+0 0 27812
+S
+#27812
+A Hallway~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27812 27816
+D1
+~
+~
+0 0
+0 0 27811
+D2
+~
+~
+3 3
+1 27815 27815
+S
+#27813
+Room 23~
+This is one of the standard bedrooms in the inn.  The {Wfeather{w bed that
+sits in the corner of the room has sturdy, hand-carved posts.  At the foot
+of the bed, there is a small {rc{yh{re{ys{rt{w.  There is a single tall {Dw{Cindo{Dw{w on the
+wall to the south, that overlooks the street below.  Beneath the window, is
+a washstand.  On the wall near the door are a number of pegs for hanging
+clothes, and a short dressed beneath it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27813 27811
+S
+#27814
+Room 24~
+This is one of the standard bedrooms in the inn.  The {Wfeather{w bed that
+sits in the corner of the room has sturdy, hand-carved posts.  At the foot
+of the bed, there is a small {rc{yh{re{ys{rt{w.  There is a single tall {Dw{Cindo{Dw{w on the
+wall to the north, that overlooks the street below.  Beneath the window, is
+a washstand.  On the wall near the door are a number of pegs for hanging
+clothes, and a short dressed beneath it.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 27814 27811
+S
+#27815
+Room 21~
+This is one of the standard bedrooms in the inn.  The {Wfeather{w bed that
+sits in the corner of the room has sturdy, hand-carved posts.  At the foot
+of the bed, there is a small {rc{yh{re{ys{rt{w.  There is a single tall {Dw{Cindo{Dw{w on the
+wall to the south, that overlooks the street below.  Beneath the window, is
+a washstand.  On the wall near the door are a number of pegs for hanging
+clothes, and a short dressed beneath it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27815 27812
+S
+#27816
+Room 22~
+This is one of the standard bedrooms in the inn.  The {Wfeather{w bed that
+sits in the corner of the room has sturdy, hand-carved posts.  At the foot
+of the bed, there is a small {rc{yh{re{ys{rt{w.  There is a single tall {Dw{Cindo{Dw{w on the
+wall to the north, that overlooks the street below.  Beneath the window, is
+a washstand.  On the wall near the door are a number of pegs for hanging
+clothes, and a short dressed beneath it.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 27812 27812
+S
+#27817
+A Hallway~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27818
+D2
+~
+~
+0 0
+0 0 27810
+S
+#27818
+A Linen Closet~
+Just inside the wooden door, a tiny circular platform hangs from the wall
+for the placement of a candle.  A few large rectangular chests line the
+walls on the floor, filled with a multitude of sheet sets.  About waist
+height, there are three shelves, filled with varying sizes of pillows and
+pillow cases.  In a large chest at the back of the room, behind a few
+pillows, there are spare sets of curtains and a few extra silver mirrored
+{yl{Ya{ym{Yp{ys{w.  Stashed between the pillows, sheets, and hanging from a few places
+on the walls are small sachets of {mla{Dv{men{Dd{mer{w, helping to ensure a pleasing
+scent in all the rooms of the Dancing Horse.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 27817
+S
+#27819
+A Hallway~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27820 27820
+D1
+~
+~
+3 3
+1 0 27822
+D2
+~
+~
+3 3
+1 27821 27821
+D3
+~
+~
+0 0
+0 0 27810
+S
+#27820
+Room 26~
+This is one of the standard bedrooms in the inn.  The {Wfeather{w bed that
+sits in the corner of the room has sturdy, hand-carved posts.  At the foot
+of the bed, there is a small {rc{yh{re{ys{rt{w.  There is a single tall {Dw{Cindo{Dw{w on the
+wall to the south, that overlooks the street below.  Beneath the window, is
+a washstand.  On the wall near the door are a number of pegs for hanging
+clothes, and a short dressed beneath it. 
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 27820 27819
+S
+#27821
+Room 25~
+This is one of the standard bedrooms in the inn.  The {Wfeather{w bed that
+sits in the corner of the room has sturdy, hand-carved posts.  At the foot
+of the bed, there is a small {rc{yh{re{ys{rt{w.  There is a single tall {Dw{Cindo{Dw{w on the
+wall to the south, that overlooks the street below.  Beneath the window, is
+a washstand.  On the wall near the door are a number of pegs for hanging
+clothes, and a short dressed beneath it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27821 27819
+S
+#27822
+A Hallway~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27823
+D1
+~
+~
+4099 4099
+1 0 27825
+D2
+~
+~
+3 3
+1 0 27824
+D3
+~
+~
+3 3
+1 0 27819
+S
+#27823
+A Luxurious Dining Room~
+The dining room is long and elegant, lit by an overhead chandelier of
+{cc{Cr{Wy{Ds{Wt{Ca{cl{w fragments and {Yc{Wa{Yn{rd{Yl{We{Ys{w.  Glowing globes affixed to the walls add
+additional light, shedding their luminance on the room and it's occupants. 
+A {Wc{yr{We{ya{Wm{w lace cloth drapes over the long dining table, highlighting the {Wwhite{w
+porcelain placed upon it in evenly spaced rows, and chairs are lined up at
+the same interval, each high-backed and ornate with velvet cushions.  The
+scent of food occasionally wanders in, but the subtle scent of {Wl{Yi{Wli{Ye{Ws{w
+eventually overtakes it, securing the aura of sophistication.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 27822
+S
+#27824
+A Well-Appointed Dining Room~
+Just a step down, and through a low hanging doorway leads into one of the
+most comfortable dinning halls one could find.  The low ceilings sport
+attractively exposed as well as carved rafters.  Small {Ws{wi{Dlv{we{Wr{w lanterns
+appear in each corner of this gathering place, hung from a small {Ws{wi{Dlv{we{Wr{w
+chain, illuminating the area with soft tongues of {rf{Ri{Yr{re{w.  Hung from the very
+center of the room is a a rustic wrought-iron chandelier, set with atleast a
+dozen candles.  Sanded to a soft surface, the lacquered with thick polish,
+the floor has been treated well through its age, protected by numerous rugs
+between the tables as well as in front of the granite fireplace.  The
+fireplace itself appears to be of roughly cut blocks of stone, placed
+together with mortar, surrounded by a thick, buried layer of granite to
+prevent fires.  Decorated with a myriad of portraits and sketches, the
+fireplace seems to give off a feeling of comfort and home.  A large pot of
+{Dblack {wi{Dr{wo{Dn{w hangs above the {rf{Rl{Ya{rm{Re{Rs{w, its contents bubbling with warmth.  Not
+far from the mantle sets a small stage covered with a thick, battered old
+rug to offer an artist a space to perform.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27822
+S
+#27825
+A Servant's Stairwell~
+Darkened, this stairwell is expressly for the purpose of bringing food
+and drink to the guests using the Private Dining Room.  A single {Ws{wi{Dlv{we{Wr{w
+mirrored {yl{Ya{ym{Yp{w hangs on the wall to illuminate the stairwell enough to allow
+the servers to pass through. 
+~
+0
+0 0
+D3
+~
+~
+4099 4099
+1 0 27822
+D5
+~
+~
+0 0
+0 0 27826
+S
+#27826
+The Bottom of a Servant's Stairwell~
+Darkened, this stairwell is expressly for the purpose of bringing food
+and drink to the guests using the Private Dining Room.  A single {Ws{wi{Dlv{we{Wr{w
+mirrored {yl{Ya{ym{Yp{w hangs on the wall to illuminate the stairwell enough to allow
+the servers to pass through.  
+~
+0
+C 0
+D1
+~
+~
+4099 4099
+1 0 27802
+D4
+~
+~
+0 0
+0 0 27825
+S
+#27827
+A Private Booth~
+This little alcove off the Common room is somewhat more quiet and
+definitely more private.  Despite the occasional outburst that drifts over -
+this little nook remains pleasantly quiet.  A large {yo{Ya{yk{Ye{yn{w table sits in the
+center of the room and is surrounded by a wrap-around bench with a high back
+that helps deaden the sounds.
+~
+0
+C 0
+D3
+~
+~
+4096 4096
+0 0 27801
+S
+#27828
+A Private Booth~
+This little alcove off the Common room is somewhat more quiet and
+definitely more private.  Despite the occasional outburst that drifts over -
+this little nook remains pleasantly quiet.  A large {yo{Ya{yk{Ye{yn{w table sits in the
+center of the room and is surrounded by a wrap-around bench with a high back
+that helps deaden the sounds.
+~
+0
+CD 0
+D1
+~
+~
+0 0
+0 0 27801
+S
+#27829
+The Foyer of The Dancing Horse Inn~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by silver wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  To the north, the hustle and bustle of the Common room can
+be heard.  To the west, the hallway leads to the upstairs, the Great room
+and the Stables.  
+~
+0
+CD 0
+D0
+~
+~
+0 0
+0 0 27801
+D2
+~
+~
+3 3
+1 0 27850
+D3
+~
+~
+0 0
+0 0 27806
+S
+#27830
+Third Floor Landing~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  The carpet-covered {Ds{wt{Do{wn{De{w staircase continues up and down.  
+~
+0
+0 0
+D0
+~
+~
+519 519
+2 27810 27832
+D1
+~
+~
+519 519
+2 27817 27834
+D2
+~
+~
+519 519
+2 27811 27833
+D3
+~
+~
+519 519
+2 27818 27831
+D4
+~
+~
+0 0
+0 0 27835
+D5
+~
+~
+0 0
+0 0 27810
+S
+#27831
+A Masculine Bedroom~
+The walls of this room are covered in masculine draping with animal skin
+rugs and finely woven tapestries in bold colors.  A wide, four post bed made
+from oak stands here, built so high off the ground that it requires a
+stepping stool beside of it just to climb onto it.  Shiny satins in shades
+of {rr{Re{rd{w and {bb{Bl{bu{Be{w cover the bed with dozens of pillows piled on top.  A
+dresser made of the same bright {yo{Ya{yk{w wood that the bed is built from stands
+against one wall with a square {cm{Ci{Wrr{Co{cr{w that takes up the entire wall hung
+behind it.  
+~
+0
+D 0
+D1
+~
+~
+519 519
+2 27818 27830
+S
+#27832
+An Elegant Bedroom~
+This cheerful room has been decorated in shades of {Wwhite{w and {yg{Yo{yl{Yd{w and
+smell of jasmine incense.  Two dainty beds made from the pale wood of an ash
+tree have been pushed against a wall with hand-carved headboards showing a
+stylized flower in the center of each.  {WWhite{w satin sheets cover the beds
+with pillows and soft blankets made from lace-covered satin on the top.  The
+ceiling has a mural of the {bn{Di{bg{Dh{bt{w sky painted upon it, with a dominant
+constellation showing nine stars arranged in three parallel columns in the
+center.  Three {Yb{yr{Ya{ys{Ys{w candelabrums, with three candles each, cast their
+bright glow around the room.  A light-colored dresser stands against the
+opposite wall with a delicate oval {cm{Ci{Wrr{Co{cr{w at the back.  
+~
+0
+0 0
+D2
+~
+~
+519 519
+2 27810 27830
+S
+#27833
+A Cozy Bedroom~
+A modest, cozy bedroom is here, provided for the guests - done in pale
+{gg{Gr{ge{Ge{gn{w.  A large {Dw{Cindo{Dw{w looks out onto the world, and beneath it is a dresser
+with a small {Wm{wi{Drr{wo{Wr{w on top.  A desk sits against the far wall, and a small
+stool sits just beneath it, tucked away conveniently.  Situated just so, a
+large and comfortable looking bed juts diagonally out from one corner -
+behind the headboard is a tall but slender wall sconce and at the foot of
+the bed is a worn old {ymaple{w trunk with an elaborately engraved lid.  
+~
+0
+0 0
+D0
+~
+~
+519 519
+2 27811 27830
+S
+#27834
+A Lurid Bedroom - Room 29~
+The furnishings in this room are all done in a heavy style, with a deep,
+nearly {Dblack{w finish.  The bed, a monstrous thing large enough for four or
+five people, is topped with lurid {rr{Re{rd{w coverings that match the carpet it
+rests on.  An overstuffed wing chair rests in one corner of the room, near a
+large set of bookshelves.  The wardrobe, on the wall opposite the bookshelf,
+is done in the same dark style as everything else.  
+~
+0
+0 0
+D3
+~
+~
+519 519
+2 27817 27830
+S
+#27835
+The Fourth Floor~
+Suprisingly wide and rather long - this hallway is simple and elegant. 
+Split in half horizontally, the lower half of the walls are covered in
+{mr{ro{ms{re{Dwood{w panels which match the floors.  The upper half, are covered in
+stunning {Wc{yr{We{ya{Wm{w coloured Sharan silk - the patterns within catch the light,
+provided by {Ds{wi{Wlv{we{Dr{w wall sconces, making them all the more noticable. 
+Spanning the length of the floors, is a three foot wide runner of {Wc{yr{We{ya{Wm{w
+colored fabric.  The wide {Ds{wt{Do{wn{De{w staircase leads down.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 27845
+D1
+~
+~
+8231 8231
+2 27839 27839
+D3
+~
+~
+551 551
+2 27836 27836
+D5
+~
+~
+0 0
+0 0 27830
+S
+#27836
+A Well-Appointed Sitting Room~
+This modest sized sitting room shows signs of regular use.  Upon the
+{mr{ro{ms{re{Dwood{w floor is a large tairen maze rug in a neutral shade of {Wc{yr{We{ya{Wm{w.  The
+walls are painted in a warm {Wc{yr{We{ya{Wm{w color, akin to that of ivory - with
+swirling texture done in plaster.  The walls remain largely unadorned, save
+for a striking rendition of the {WWhite Tower{w upon canvas within a {Wwhite{w
+washed frame, hanging upon the western wall above the desk.  In the center
+of the room, facing the windows are a pair of armchairs with a modest couch
+in between.  Before the couch, is a low table upon which rests a small
+statuette and a few books.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27836 27837
+D1
+~
+~
+551 551
+2 27836 27835
+D2
+~
+~
+3 3
+1 27836 27844
+S
+#27837
+An Airy Bedchamber~
+A large, effeminate bed made from the wood of the {Ws{wi{Dlv{we{Wr {ym{ra{yp{rl{ye{w tree stands at 
+the center of this lovely little suite, draped in a canopy of {cl{Ci{cg{Ch{ct {bb{Bl{bu{Be{w lace. 
+The bed is covered with {Ws{wi{Dlv{we{Wr{w satin sheets and pillows and a {bb{Bl{bu{Be{w lace bed 
+skirt to match both the canopy and the curtains that cover the tiny {Dw{Cindow{Ds{w of 
+the room. The ceiling is painted like the night sky, with a constellation of 
+seven stars in a tall, thin X-shape and two brighter ones at the top. {WS{wi{Dlv{we{Wr{w 
+sconces on the walls give off a pleasant amount of light and cause the silver 
+details around the room to shine. A large wardrobe stands against the wall with 
+a narrow {Ws{wi{Dlv{we{Wr {cm{Ci{Wrr{Co{cr{w hung beside it.
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 27836 27836
+D3
+~
+~
+3 3
+1 0 27838
+S
+#27838
+A Bath Room~
+Steam wafts gently through the air in this room, coming from the tub
+located in the center of the room.  The walls and floors themselves are
+lined with small {Wwhite{w ceramic tiles in a grid pattern.  Before the large
+{rc{Yo{rp{Yp{re{Yr{w tub is a small {Wwhite{w cotton rug and just to the side of that is a
+small {yo{Ya{yk{Ye{yn{w stand from which hang one or two towels.  Filling the air, is
+the unmistakable scent of soap and {rr{mo{rs{me{rh{mi{rp{ms{w.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 27837
+S
+#27839
+An Elegant Sitting Room~
+This sitting room appears to be less formal and regularly used.  Upon the
+{mr{ro{ms{re{Dwood{w floor is a large circular tairen maze rug in a worn and slightly
+faded shade of {mp{Mu{mr{Mp{ml{Me{w.  The walls themselves are painted in a soothing, cool
+shade of {ml{Da{mv{Wen{md{De{mr{w - with various paintings, maps and {cm{Ci{cr{Wr{co{Cr{cs{w hanging to suit
+the owner.  A faded tapestry of Taraboner craftsmanship hangs on the wall
+behind a desk which is littered with papers and a large ledger.  In the
+center of the room sits a damask linen-covered couch, dyed a vibrant {mp{Mu{mr{Mp{ml{Me{w
+and flanked by two matching armchairs.  A large vase of {ml{Wi{ml{Wa{mc{w and {ml{Da{mv{Wen{md{De{mr{w
+sits on a low table before the couch.  To the south, a door leads out onto a
+balcony while the north leads to a bedroom.  
+~
+0
+0 0
+D0
+~
+~
+39 39
+2 27839 27840
+D2
+~
+~
+3 3
+1 0 27842
+D3
+~
+~
+8231 8231
+2 27839 27835
+S
+#27840
+A Spacious Bedchamber~
+{DW{Cindow{Ds{w on two sides of this large room let light in, illuminating the
+round bed in the middle of the floor.  The bed is made with {Wwhite{w sheets and
+a blanket with a feminine {mf{Rl{go{cr{Wa{Yl{w pattern, and covered by pillows in varying
+shades of {mp{Mu{mr{Mp{ml{Me{w.  A table made from {rm{ya{rh{yo{rg{ya{rn{yy{w wood stands near one of the
+windows, holding a vase with a few {ml{Da{Mv{wen{Md{De{mr{w and {ml{Wi{ml{Wa{mc{w flowers.  Nearby is a
+matching wardrobe, the only other furniture in the room.  A collection of
+{rd{Ra{Dg{rg{De{Rr{rs{w in different lengths and styles adorns one of the walls, seeming a
+bit out of place in a woman's room.  
+ 
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 27841
+D2
+~
+~
+39 39
+2 27839 27839
+S
+#27841
+A Bath Room~
+Steam wafts gently through the air in this room, coming from the tub
+located in the center of the room.  The walls and floors themselves are
+lined with small {Wwhite{w ceramic tiles in a grid pattern.  Before the large
+{rc{Yo{rp{Yp{re{Yr{w tub is a small {ml{wa{mv{Den{md{we{mr{w colored cotton rug and just to the side of
+that is a small {yb{Yr{ya{Ys{ys{w stand from which hang one or two towels.  Filling the
+air, is the unmistakable scent of soap and {ml{wa{mv{Den{md{we{mr{w.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 27840
+S
+#27842
+A Quaint Balcony~
+Unexpected, this balcony is recessed somewhat into the building so that
+none but the most discerning eyes would see this nook from the ground. 
+Enclosed by a sturdy {ywooden{w railing, this semi-circular balcony is somewhat
+small with a modest walkway leading to another off to the west.  The view is
+not all together unspectacular, a wide scenic view of bustling city life in
+Maradon.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27839
+D3
+~
+~
+0 0
+0 0 27843
+S
+#27843
+A Modest Walkway Between Balconies~
+Just wide enough to perhaps accomodate two people comfortably side by
+side, this walkway is largely hidden from view to those on the ground. 
+Enclosed by a sturdy {ywooden{w railing, this walkway is basic and lacks any
+real ornamentation.  Against the wall however, a decent sized circular
+window looks into the hallway - high up enough that those inside cannot see
+out it.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 27842
+D3
+~
+~
+0 0
+0 0 27844
+S
+#27844
+A Quaint Balcony~
+Unexpected, this balcony is recessed somewhat into the building so that
+none but the most discerning eyes would see this nook from the ground. 
+Enclosed by a sturdy {ywooden{w railing, this semi-circular balcony is somewhat
+small with a modest walkway leading to another off to the east.  The view is
+not all together unspectacular, a wide scenic view of bustling city life in
+Maradon.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 27836 27836
+D1
+~
+~
+0 0
+0 0 27843
+S
+#27845
+A Darkened Alcove~
+{DIt's suprisingly dark.  One never would've imagined finding this small
+{Dlittle alcove behind the large tapestry in the hall.  Despite being so
+{Dsmall, it could probably accomodate two people comfortably enough for a
+{Dtime.  As one's eyes adjust to the darkness - a tiny crack of {Wlight{D can be
+{Dseen from above..{w  
+~
+0
+0 0
+D2
+~
+~
+4096 4096
+0 0 27835
+D4
+~
+~
+4099 4099
+1 0 27846
+S
+#27846
+Rooftop of an Inn~
+Much like all the other roofs in Maradon, this one rises a bit higher
+than most - giving those who brave the climb a stunning view of the city
+around them.  Off in the distance, the palace can clearly be seen and one
+could even see into what looks like a bedroom..  If one cared to.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 27847
+D5
+~
+~
+4099 4099
+1 0 27845
+S
+#27847
+At the Edge of the Roof~
+At the edge of the roof of the inn - it's a modest climb to the top of
+the roof and a long way down to the ground.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 27846
+D5
+~
+~
+0 0
+0 0 27848
+S
+#27848
+Atop a Small Roof Near the Second Story~
+Around five feet by eight feet, this smaller roof is almost like a
+landing - making the climb to the top of the building a bit more manageable
+while covering the door to the kitchens from the weather.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 27847
+D5
+~
+~
+0 0
+0 0 27849
+S
+#27849
+A Short Back Alley Near the Kunwar Crescent~
+A short path leads from this the read entrance of the Dancing Horse Inn,
+out to the street known as the Kunwar Crescent.  The path is mostly dirt
+with some gravel and the cold embrace of the weather is not staved off by
+the high walls of buildings for long.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21052
+D2
+~
+~
+3 3
+1 0 27802
+D4
+~
+~
+0 0
+0 0 27848
+S
+#27850
+Along a Path Towards an Inn~
+The cold wind whips down the path, swirling around in the small space
+just off the main street.  A bit more quiet here than on the street - the
+sounds of commerce and busy life can still be heard, but the din is not
+deafening.  This dirt and gravel path meanders along the front of the Inn -
+little shrubs and plants looking a bit worse for the wear no doubt because
+of the hungry mounts who pass and take a bite.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27829
+D1
+~
+~
+0 0
+0 0 21055
+D3
+~
+~
+0 0
+0 0 27855
+S
+#27851
+The Stables~
+The air in the {ystables{w is heavy with the smell of {yh{ro{yr{rs{ye{rs{w, oats and hay. 
+The door to the east leads to the main hallway of the inn.  A number of
+stalls dot the stables.
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 27852
+D1
+~
+~
+3 3
+1 0 27808
+D2
+~
+~
+0 0
+0 0 27857
+D3
+~
+~
+3 3
+1 0 27853
+D4
+~
+~
+0 0
+0 0 27854
+S
+#27852
+A Stall~
+Built to house multiple teams of horses, this series of stalls currently
+only houses a small number of it's capacity.  Possessing a loft full of
+bales of hay and sacks of oats, the horses quartered here are always well
+treated.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 27851
+S
+#27853
+A Stall~
+Built to house multiple teams of horses, this series of stalls currently
+only houses a small number of it's capacity.  Possessing a loft full of
+bales of hay and sacks of oats, the horses quartered here are always well
+treated.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 27851
+S
+#27854
+The Hayloft~
+Little more than a large ledge with a guard rail overlooking the stables,
+the hayloft is suprisingly warm.  With bales of hay stacked up, lining the
+far wall and a few extra saddles in need of mending in the corner - this
+place is much as one would expect it.  Complete with the onerous scent of
+horse manure.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 27851
+S
+#27855
+A Path Around the Inn Towards the {yStables{x~
+The cold wind whips down the path, swirling around in the small space
+just off the main street.  A bit more quiet here than on the street - the
+sounds of commerce and busy life can still be heard, but the din is not
+deafening.  This dirt and gravel path meanders along the front of the Inn -
+little shrubs and plants looking a bit worse for the wear no doubt because
+of the hungry mounts who pass and take a bite.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 27850
+D3
+~
+~
+0 0
+0 0 27856
+S
+#27856
+A Path Around the Inn Towards the {yStables{x~
+The cold wind whips down the path, swirling around in the small space
+just off the main street.  A bit more quiet here than on the street - the
+sounds of commerce and busy life can still be heard, but the din is not
+deafening.  This dirt and gravel path meanders along the front of the Inn -
+little shrubs and plants looking a bit worse for the wear no doubt because
+of the hungry mounts who pass and take a bite.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 27855
+D3
+~
+~
+0 0
+0 0 27857
+S
+#27857
+Before the {yStables{w~
+The cold wind whips down the path, swirling around in the small space
+just off the main street.  A bit more quiet here than on the street - the
+sounds of commerce and busy life can still be heard, but the din is not
+deafening.  This dirt and gravel path meanders along the front of the Inn -
+little shrubs and plants looking a bit worse for the wear no doubt because
+of the hungry mounts who pass and take a bite.  Just to the north are the
+stables and the onerous scent of manure starts to become palpable.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 27851
+D1
+~
+~
+0 0
+0 0 27856
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 27801 0 1
+D 0 27802 0 1
+D 0 27802 1 1
+D 0 27802 2 1
+D 0 27802 3 1
+D 0 27803 3 1
+D 0 27803 5 1
+D 0 27804 3 1
+D 0 27804 4 1
+D 0 27805 1 1
+D 0 27807 0 1
+D 0 27808 3 1
+D 0 27809 2 1
+D 0 27811 0 1
+D 0 27811 2 1
+D 0 27812 0 1
+D 0 27812 2 1
+D 0 27813 0 1
+D 0 27814 2 1
+D 0 27815 0 1
+D 0 27816 2 1
+D 0 27817 0 1
+D 0 27818 2 1
+D 0 27819 0 1
+D 0 27819 1 1
+D 0 27819 2 1
+D 0 27820 2 1
+D 0 27821 0 1
+D 0 27822 0 1
+D 0 27822 1 1
+D 0 27822 2 1
+D 0 27822 3 1
+D 0 27823 2 1
+D 0 27824 0 1
+D 0 27825 3 1
+D 0 27826 1 1
+D 0 27829 2 1
+D 0 27830 0 2
+D 0 27830 1 2
+D 0 27830 2 2
+D 0 27830 3 2
+D 0 27831 1 2
+D 0 27832 2 2
+D 0 27833 0 2
+D 0 27834 3 2
+D 0 27835 1 2
+D 0 27835 3 2
+D 0 27836 0 1
+D 0 27836 1 2
+D 0 27836 2 1
+D 0 27837 2 1
+D 0 27837 3 1
+D 0 27838 1 1
+D 0 27839 0 2
+D 0 27839 2 1
+D 0 27839 3 2
+D 0 27840 1 1
+D 0 27840 2 2
+D 0 27841 3 1
+D 0 27842 0 1
+D 0 27844 0 1
+D 0 27845 4 1
+D 0 27846 5 1
+D 0 27849 2 1
+D 0 27850 0 1
+D 0 27851 0 1
+D 0 27851 1 1
+D 0 27851 3 1
+D 0 27852 2 1
+D 0 27853 1 1
+M 0 27801 5 27801 2
+O 0 27828 0 27801
+O 0 27802 0 27801
+M 0 27802 1 27802 1
+M 0 27826 3 27802 3
+O 0 27849 0 27802
+P 0 27806 1 27849 1
+P 0 27803 1 27849 1
+P 0 27858 1 27849 1
+P 0 27857 1 27849 1
+P 0 27855 1 27849 1
+P 0 27856 1 27849 1
+M 0 27803 2 27803 1
+M 0 27804 2 27804 2
+O 0 27804 0 27804
+P 0 27805 1 27804 1
+O 0 27808 0 27805
+P 0 27819 1 27808 1
+O 0 27809 0 27809
+O 0 27825 0 27809
+O 0 27826 0 27809
+P 0 27827 1 27826 1
+O 0 27816 0 27813
+O 0 27829 0 27813
+O 0 27816 0 27814
+O 0 27829 0 27814
+O 0 27816 0 27815
+O 0 27829 0 27815
+O 0 27816 0 27816
+O 0 27829 0 27816
+O 0 27847 0 27818
+O 0 27841 0 27818
+P 0 27846 2 27841 2
+P 0 27848 5 27841 5
+O 0 27829 0 27820
+O 0 27816 0 27820
+O 0 27829 0 27821
+O 0 27816 0 27821
+O 0 27823 0 27823
+O 0 27824 0 27824
+O 0 27822 0 27824
+O 0 27801 0 27827
+O 0 27801 0 27828
+M 0 27805 1 27829 1
+M 0 27831 1 27831 1
+O 0 27831 0 27831
+O 0 27850 0 27831
+O 0 27832 0 27832
+O 0 27851 0 27832
+O 0 27833 0 27833
+O 0 27852 0 27833
+O 0 27834 0 27834
+O 0 27853 0 27834
+O 0 27844 0 27836
+O 0 27835 0 27836
+O 0 27830 0 27836
+P 0 27836 1 27830 1
+P 0 27807 1 27830 1
+O 0 27837 0 27837
+O 0 27845 0 27837
+O 0 27838 0 27838
+O 0 27842 0 27839
+O 0 27843 0 27839
+O 0 27843 0 27839
+O 0 27830 0 27839
+P 0 27839 1 27830 1
+P 0 27815 1 27830 1
+P 0 27812 1 27830 1
+P 0 27813 1 27830 1
+P 0 27814 1 27830 1
+P 0 27821 1 27830 1
+P 0 27820 1 27830 1
+P 0 27811 1 27830 1
+P 0 27810 1 27830 1
+P 0 27817 1 27830 1
+P 0 27818 1 27830 1
+P 0 27807 1 27830 1
+P 0 27836 1 27830 1
+O 0 27840 0 27840
+O 0 27845 0 27840
+O 0 27838 0 27841
+M 0 27851 1 27851 1
+M 0 27853 9 27851 3
+M 0 27854 3 27852 1
+M 0 27852 5 27853 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

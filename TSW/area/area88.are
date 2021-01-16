@@ -1,0 +1,1832 @@
+#AREADATA
+Name Medo~
+Builders Oniren~
+VNUMs 5600 5699
+Credits None~
+Security 1
+Low 0
+High 5
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#5600
+grim faced guardsman~
+a grim-faced {bg{Bua{wrds{Bma{bn{x~
+A {bg{Bua{wrds{Bma{bn{x has been posted at the gate.
+~
+This is a grim-faced {bg{Bua{wrds{Bma{bn{x garbed in dull steel armor, standing at
+his post at the village gate.  
+~
+shienaran~
+ABT 0 0 0
+10 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#5601
+crew riverboat sailor~
+a {cs{Ca{Wil{Co{cr{x~
+The crew of a {cr{Civ{Werb{Coa{ct{x is preparing to set sail.
+~
+This burly {cs{Ca{Wil{Co{cr{x is a member of the crew belonging to one of the
+{cr{Civ{Werbo{Cat{cs{x that are moored here in Medo.  
+~
+shienaran~
+ABT 0 0 0
+10 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#5602
+mangy cat~
+a mangy cat~
+A mangy cat is patrolling his territory.
+~
+This mangy looking cat is patrolling his territory, searching for prey,
+mates and places to snooze.  
+~
+cat~
+AGW J 0 0
+5 0 1d1+1 1d10+100 1d2+0 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+#5603
+pigeon~
+a {Dp{wi{Wge{wo{Dn{x~
+A pigeon is here, pecking crumbs off of the ground.
+~
+This rather plump pigeon is pecking crumbs off of the ground, much like
+what most pigeons do.  How uncanny!  
+~
+song bird~
+AGW 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff T
+F off FH
+#5604
+cart driver man~
+a {ycart driver{x~
+A heavily laden cart makes its way along the narrow roads.
+~
+A weary man dressed in drab woolen clothing is in charge of this heavily
+laden cart that is being pulled by a team of horses.  It is difficult to say
+what the cart's load is as it is bein concealed underneath a tattered sheet
+of canvas.  
+~
+shienaran~
+AGW 0 0 0
+10 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#5605
+village blacksmith~
+the {bvillage blacksmith{x~
+The {bblacksmith{x is sat upon a barrel, eating his lunch.
+~
+Despite his apparently advanced years, this grey-haired man is probably
+one of the burliest of the villagers in Medo.  Years of work at the forge
+has sculpted his body into what seems like a mountain of muscle.  
+~
+shienaran~
+ABEK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#5606
+local woman villager~
+a {yv{Yil{Wla{Yge{yr{x~
+A local woman appears to be in a bit of a hurry to get somewhere.
+~
+Dressed in warm, practical woolen clothing, there does not appear to be
+anything out of the ordinary about this villager.  
+~
+shienaran~
+AGW 0 0 0
+9 0 3d4+16 4d10+100 1d5+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5607
+local man villager~
+a {yv{Yil{Wla{Yge{yr{x~
+A local man clutches his cloak tightly around himself as he strolls along.
+~
+Dressed in warm, practical woolen clothing, there does not appear to be
+anything out of the ordinary about this villager.  
+~
+shienaran~
+AGW 0 0 0
+9 0 3d4+16 4d10+100 1d5+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#5608
+elderly villager woman~
+an elderly {yv{Yil{Wla{Yge{yr{x~
+An elderly woman totters along the road.
+~
+Dressed in warm woolen clothing, there does not appear to be anything out
+of the ordinary about this elderly villager apart from her occasional
+foul-mouthed exchanges with cart drivers who get in her way.  So much for
+Borderlander manners!  
+~
+shienaran~
+AGW d 0 0
+8 0 2d2+9 3d10+100 1d4+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5609
+elderly man villager~
+an elderly {yv{Yil{Wla{Yge{yr{x~
+Hobbling down the busy road is an elderly man.
+~
+Dressed in warm woolen clothing, there does not appear to be anything out
+of the ordinary about this elderly villager apart from his occasional
+foul-mouthed exchanges with younger villagers who get in his way.  So much
+for Borderlander manners!  
+~
+shienaran~
+AGW d 0 0
+9 0 3d4+16 4d10+100 1d5+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 17
+0 0 medium 'unknown'
+#5610
+young boy~
+a young {gb{Go{gy{x~
+This young boy looks like he is up to some mischief.
+~
+This young boy is dressed in much the same way as the older villagers, in
+plain yet practical woolen clothing.  However unlike his elders, this boy
+appears to be getting into some mischief by pulling pranks on various
+people.  
+~
+shienaran~
+AGW 0 0 0
+7 0 2d3+4 2d10+100 1d3+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 small 'unknown'
+#5611
+young girl~
+a young {gg{Gir{gl{x~
+A young girl is skipping merrily down the road.
+~
+Dressed in plain yet practical woolen clothing, one villager looks much
+the same as another in this district.  
+~
+shienaran~
+AGW 0 0 0
+7 0 2d3+4 2d10+100 1d3+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 small 'unknown'
+#5612
+innkeeper man~
+the {Yinnkeeper{x~
+Stood behind the bar in the northwest corner of the room is the innkeeper.
+~
+~
+shienaran~
+AB 0 0 0
+10 0 3d3+25 5d10+100 1d6+2 none
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+stand stand male 250
+0 0 medium 'unknown'
+#5613
+man patron~
+a {bp{Ba{ctr{Bo{bn{x~
+One of the inn's patrons is enjoying a quiet drink.
+~
+~
+shienaran~
+AB 0 0 0
+6 0 1d1+1 1d10+100 1d2+0 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+sit sit male 25
+0 0 medium 'unknown'
+#5614
+man gambler dicer~
+a {rg{Ram{wb{Rle{rr{x~
+This man is sat at the dining table, dicing with his friends.
+~
+~
+shienaran~
+AB 0 0 0
+6 0 1d1+1 1d10+100 1d2+0 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+sit sit male 250
+0 0 medium 'unknown'
+#5615
+head cook~
+the {Whead cook{x~
+The head cook is prowling around the kitchen, overseeing her staff.
+~
+~
+shienaran~
+AB 0 0 0
+8 0 2d2+9 3d10+100 1d4+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#5616
+cooks assistant woman~
+a cook's assistant~
+A woman is hurrying around the kitchen, preparing food.
+~
+~
+shienaran~
+AB 0 0 0
+6 0 1d1+1 1d10+100 1d2+0 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#5617
+dapple gray mare horse~
+a {Dd{wa{Wp{Dp{wl{We {Dg{wr{Wa{Dy{x mare~
+This {Dd{wa{Wp{Dp{wl{We {Dg{wr{Wa{Dy{x mare is attempting to eat her surroundings.
+~
+This dozy mare's coat is a like a mess of different patches of white and
+gray in varying shades.  In spite of the apparent laziness of this horse,
+she looks like sturdy and well-tempered individual.  
+~
+rabbit~
+AIZ S 0 0
+10 0 6d7+100 10d10+100 2d2+5 charge
+0 0 0 0 0
+A
+0 0 0 0
+I 0 0 0
+stand stand female 0
+0 0 large 'unknown'
+#5618
+ostler~
+an ostler~
+This ostler whistles a merry tune to himself as he cleans the stables.
+~
+~
+shienaran~
+AB 0 0 0
+7 0 2d3+4 2d10+100 1d3+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#5619
+buxom serving maid~
+a buxom maid~
+A serving maid is rushing around here as she tries to complete her errands.
+~
+~
+shienaran~
+AGY 0 0 0
+6 0 1d1+1 1d10+100 1d2+0 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#5620
+gray haired wisdom healer~
+the {yV{Yi{wlla{Yg{ye W{Yi{wsd{Yo{ym{x~
+The {yV{Yi{wlla{Yg{ye W{Yi{wsd{Yo{ym{x is preoccupied with her housework.
+~
+~
+shienaran~
+ABQa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+100 100 100 100 100
+A
+7 7 7 7
+0 ABCb 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#5621
+sleepy sleeping guest~
+a {wsleepy guest{x~
+One of the inn's guests is fast asleep in the bed.
+~
+~
+shienaran~
+AB 0 0 0
+7 0 2d3+4 2d10+100 1d3+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+sleep sleep either 25
+G 0 medium 'unknown'
+#5622
+tall brown horse~
+a tall {ybrown horse{x~
+A tall brown horse has been hitched to a post outside of the stable.
+~
+~
+rabbit~
+AB 0 0 0
+8 0 2d2+9 3d10+100 1d4+1 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 b 0 0
+stand stand either 0
+0 0 medium 'unknown'
+F off FH
+#0
+
+
+
+#OBJECTS
+#5600
+dull steel breastplate~
+a {Dd{wul{Wl s{wtee{Dl{w {Db{wrea{Wst{wplat{De{x~
+Here lies a {Dd{wul{Wl s{wtee{Dl{w {Db{wrea{Wst{wplat{De{x.~
+steel~
+armor 0 AD
+3 3 3 1 0
+10 10 300 100
+A
+17 -5
+#5601
+dull steel backplate~
+a {Dd{wul{Wl s{wtee{Dl{w {Db{wac{Wkpl{wat{De{x~
+Here lies a {Dd{wul{Wl s{wtee{Dl{w {Db{wac{Wkpl{wat{De{x.~
+steel~
+armor 0 AS
+3 3 3 1 0
+10 10 300 100
+A
+17 -5
+#5602
+dull steel helmet~
+a {Dd{wul{Wl s{wtee{Dl{w {Dh{we{Wlm{we{Dt{x~
+Here lies a {Dd{wul{Wl s{wtee{Dl{w {Dh{we{Wlm{we{Dt{x.~
+steel~
+armor 0 AE
+3 3 3 1 0
+10 5 300 100
+A
+17 -5
+#5603
+dull steel shield~
+a {Dd{wul{Wl s{wtee{Dl{w {Ds{wh{Wie{wl{Dd{x~
+Here lies a {Dd{wul{Wl s{wtee{Dl{w {Ds{wh{Wie{wl{Dd{x.~
+steel~
+armor 0 AJ
+3 3 3 1 0
+10 10 300 100
+A
+17 -5
+#5604
+short spear blue tassels~
+a {ys{who{Drt sp{wea{yr{x with {bb{Blu{be t{Bas{bs{Bel{bs{x~
+Here lies a {ys{who{Drt sp{wea{yr{x with {bb{Blu{be t{Bas{bs{Bel{bs{x.~
+steel~
+weapon 0 AN
+spear 5 7 'stab' 0
+10 5 300 100
+A
+19 1
+#5605
+blue cloth sash~
+a {cb{Clu{ce c{Clot{ch s{Cas{ch{x~
+Here lies a {cb{Clu{ce c{Clot{ch s{Cas{ch{x.~
+cloth~
+armor KS AL
+2 2 2 4 0
+10 1 45 100
+A
+2 1
+#5606
+long beltknife knife dagger~
+a long {yb{De{wltkni{Df{ye{x~
+Here lies a long {yb{De{wltkni{Df{ye{x.~
+steel~
+weapon 0 AN
+dagger 5 7 'slash' 0
+10 1 150 100
+A
+18 1
+#5607
+tattoo anchor~
+a {Dt{wa{Wtt{wo{Do{x of an {Da{wn{Wch{wo{Dr{x~
+Here lies a {Dt{wa{Wtt{wo{Do{x of an {Da{wn{Wch{wo{Dr{x.~
+ink~
+armor KS AR
+0 0 0 10 0
+10 0 0 100
+A
+1 1
+#5608
+heavy work books~
+a pair of {Dheavy work boots{x~
+Here lies a pair of {Dheavy work boots{x.~
+leather~
+armor S AG
+3 2 3 2 0
+10 4 85 100
+A
+2 1
+#5609
+knotted kerchief~
+a {rknotted kerchief{x~
+Somebody has left their kerchief here.~
+cloth~
+armor S AC
+2 2 3 3 0
+10 1 45 100
+A
+5 2
+A
+2 -1
+#5610
+heavy pickaxe axe~
+a heavy {yp{wic{Dk{wax{ye{x~
+This pickaxe is rather heavy.~
+iron~
+weapon 0 AN
+axe 5 5 'smash' 0
+5 10 50 100
+A
+19 1
+#5611
+heavy hammer mace~
+a heavy {Dha{wm{Wm{we{Dr{x~
+This is a rather heavy hammer.~
+iron~
+weapon 0 AN
+mace 5 5 'crush' 0
+5 10 50 100
+A
+19 1
+#5612
+sharp knife dagger~
+a sharp {Wk{wn{Di{wf{We{x~
+The blade of this knife looks very sharp.~
+steel~
+weapon 0 AN
+dagger 5 5 'slice' 0
+5 3 50 100
+A
+19 1
+#5613
+lightweight spear~
+a lightweight {ys{wp{We{wa{yr{x~
+A lightweight spear has been left here.~
+steel~
+weapon 0 AN
+spear 5 5 'stab' 0
+5 5 50 100
+A
+19 1
+#5614
+rusty flail~
+a rusty {rf{yl{wa{yi{rl{x ~
+A rusty flail has been left here.~
+iron~
+weapon 0 AN
+flail 5 5 'smash' 0
+5 10 50 100
+A
+19 1
+#5615
+iron ferruled short staff~
+an iron-ferruled {ys{wh{Do{wr{yt s{wt{Da{wf{yf{x~
+Somebody has left an iron-ferruled short staff here.~
+iron~
+weapon 0 AN
+staff 5 5 'thwack' 0
+5 10 50 100
+A
+19 1
+#5616
+iron chain whip~
+an iron {Dc{whai{Dn w{whi{Dp{x~
+This is a chain whip forged from iron.~
+iron~
+weapon 0 AN
+whip 5 5 'whip' 0
+5 7 50 100
+A
+19 1
+#5617
+steel tipped lance~
+a steel-tipped {yl{wa{Dn{wc{ye{x~
+Somebody has left a steel-tipped lance here.~
+steel~
+weapon 0 AN
+lance 5 5 'thrust' 0
+5 10 50 100
+A
+19 1
+#5618
+leather coin purse~
+a leather {Dc{yo{Yin pur{ys{De{x~
+Somebody has left a leather {Dc{yo{Yin pur{ys{De{x here.~
+gold~
+money K A
+0 25 0 0 0
+0 1 0 100
+#5619
+goosemint elixir green potion vial glass liquid~
+a vial of {ggo{Go{gsem{Gi{gnt{X elixir~
+Someone has filled this glass vial with a strange green liquid.~
+glass~
+potion S A
+10 'haste' '' '' ''
+10 1 100 100
+#5620
+chainleaf elixir brown potion vial liquid~
+a vial of {gch{yainle{gaf{x elixir~
+Someone has filled this glass vial with a strange brown liquid.~
+glass~
+potion S A
+10 'frenzy' '' '' ''
+10 1 100 100
+#5621
+round table chairs~
+a {yr{Do{yu{Dn{yd t{Da{yb{Dl{ye{x~
+Placed at the center of the kitchen is a {yr{Do{yu{Dn{yd t{Da{yb{Dl{ye{x that is surrounded by six chairs.~
+wood~
+furniture 0 P
+6 10000 DGJ 300 300
+0 0 0 100
+#5622
+red cloth kerchief~
+a {rred kerchief{x~
+A piece of red cloth has been left here.~
+cloth~
+armor 0 AC
+2 2 2 0 0
+6 1 45 100
+A
+5 1
+#5623
+wooden trunk~
+a {ywooden trunk{x~
+Somebody has stashed a wooden trunk underneath the bed.~
+wood~
+container Sa P
+500 ACD 5624 100 100
+0 0 0 100
+#5624
+black painted key small~
+a {Dblack key{x~
+This small key has been painted black.~
+cloth~
+key 0 A
+0 0 0 0 0
+0 0 0 100
+#5625
+pile silver coins~
+a pile of {Wsilv{we{Dr {Wcoi{wn{Ds{x~
+Somebody has left a large pile of silver coins here!~
+silver~
+money 0 A
+500 0 0 0 0
+0 5 500 100
+#5626
+woolen cloak~
+a {Dwoolen cloak{x embroidered with {mf{Ml{Wowe{Mr{ms{x~
+none~
+wool~
+armor S AK
+3 3 3 0 0
+9 5 60 100
+A
+4 1
+#5627
+green woolen cap~
+a {ggreen woolen cap{x~
+This is a simple cap made of green wool.~
+wool~
+armor S AE
+3 3 3 0 0
+9 1 60 100
+A
+3 1
+#5628
+dull steel visor~
+a {Dd{wul{Wl s{wtee{Dl v{wi{Ws{wo{Dr{x~
+A {Dd{wul{Wl s{wtee{Dl v{wi{Ws{wo{Dr{x has been left here.~
+steel~
+armor 0 AV
+3 3 3 1 0
+10 1 300 100
+A
+17 -5
+#5629
+woolen tunic~
+a woolen tunic~
+This is just a plain woolen tunic.~
+wool~
+armor KS AD
+2 2 2 0 0
+6 2 60 100
+A
+5 1
+#5630
+thin leather belt~
+a {ythin leather belt{x~
+This is just a thin belt made of leather.~
+leather~
+armor KS AL
+0 0 0 6 0
+6 1 85 100
+A
+17 -5
+#5631
+plain woolen breeches~
+a pair of {Dplain woolen breeches{x~
+This is just a pair of plain woolen breeches.~
+wool~
+armor KS AF
+3 1 1 1 0
+6 3 60 100
+A
+2 1
+#5632
+long apron~
+a long apron~
+Somebody has left their apron here!~
+cloth~
+armor KS AD
+1 1 1 3 0
+6 1 45 100
+A
+1 1
+#5633
+sharp knife~
+a sharp knife~
+Somebody has left a sharp knife here!~
+steel~
+weapon K AN
+dagger 5 5 'slash' 0
+6 1 150 100
+A
+18 1
+#5634
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#5635
+floral scent~
+a {Gf{Yl{Wor{Ya{Gl s{Yc{We{Yn{Gt{x~
+A faint {Gf{Yl{Wor{Ya{Gl s{Yc{We{Yn{Gt{x hangs in the air.~
+cloth~
+armor KS A
+2 2 1 1 0
+6 1 0 100
+A
+13 20
+#5636
+pink ribbon bow~
+a {Mpink ribbon{x tied into a bow~
+Somebody has left a pink ribbon here.~
+cloth~
+armor KS AE
+0 0 0 6 0
+6 1 45 100
+A
+12 20
+#5637
+cloth banner shienaran~
+a {cS{Ch{Wi{we{Dn{wa{Wr{Ca{cn{x banner~
+This is a blue and white striped banner emblazoned with a black hawk.~
+cloth~
+armor 0 AQ
+0 0 0 10 0
+10 1 45 100
+A
+17 -5
+#5638
+wooden cudgel~
+a {ywooden cudgel{x~
+Someone has left a wooden cudgel here.~
+wood~
+weapon S AN
+mace 5 5 'smash' 0
+9 5 150 100
+A
+1 1
+#5639
+brass hoop earring~
+a {ybrass hoop earring{x~
+A hoop earring made of brass has been left here.~
+brass~
+armor 0 AU
+0 0 0 8 0
+8 1 100 100
+A
+3 1
+#5640
+brass ring~
+a {ybrass ring{x~
+A plain ring made of brass has been left here.~
+brass~
+armor 0 AB
+0 0 0 9 0
+9 1 100 100
+A
+17 -5
+#5641
+straw bonnet~
+a {Ystraw bonnet{x~
+This is just a simple bonnet woven out of straw.~
+straw~
+armor S AE
+2 2 2 3 0
+9 1 0 100
+A
+2 1
+#5642
+pretty white shoes~
+{Wpretty white shoes{x~
+This is a pretty pair of shoes made from white leather.~
+leather~
+armor S AG
+2 2 2 1 0
+7 2 85 100
+A
+18 1
+#0
+
+
+
+#ROOMS
+#5600
+{yThe Outskirts of Medo{x~
+The south entrance into the village of Medo is marked by a sturdy
+reinforced gateway.  The road leading up to the gate is a dusty track, well
+worn by wagons but the road within the village has been paved with stone
+slabs.  Two bulky watchtowers flank the gate, providing a good view of the
+high-walled village and the forests, plains and river surrounding it.  
+~
+0
+0 14
+D2
+~
+~
+0 0
+0 0 5601
+D6
+~
+~
+0 0
+0 0 42752
+S
+#5601
+{DFal Dara Gate{x~
+Fal Dara Gate is a gloomy archway built into the gray stone walls that
+marks the perimeter of the village of Medo.  The reinforced gateway provides
+adequate protection from Shadowspawn attacks but many of the buildings
+within the settlement have arrow-slits instead of ground-floor windows in
+case the gates are breached.  A paved thoroughfare leads off to the south
+towards the heart of the settlement while in the opposite direction a wide
+muddy road crosses the grassy plains surrounding the village.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5600
+D2
+~
+~
+0 0
+0 0 5602
+S
+#5602
+{yFal Dara Road{x~
+This is a wide paved road that leads north/south through the village of
+Medo.  Flanking the road are cottages with steeply sloping roofs, many of
+the buildings have arrow slits instead of ground floor windows to use in
+case there is a Trolloc raid.  To the north is one of the main gates into
+the village.  A narrow lane leads off to the east from this point, linking
+this road to a large courtyard.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5601
+D1
+~
+gate~
+3 3
+1 0 5625
+D2
+~
+~
+0 0
+0 0 5603
+S
+#5603
+{yFal Dara Road{x~
+This is a wide paved road that leads north/south through Medo.  Lining
+the road are cottages and shops with steeply sloping roofs, many of the
+buildings have arrow slits instead of ground floor windows to use in the
+event of a Shadowspawn attack breaching the village's main gates.  A
+particularly squat-looking building with several chimneys stands out from
+other buildings along the east side of the road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5602
+D1
+~
+~
+3 3
+1 0 5618
+D2
+~
+~
+0 0
+0 0 5604
+S
+#5604
+{yFal Dara Road{x~
+This is a broad road paved with gray stone that leads north/south through
+the village of Medo.  The majority of the buildings along this street are
+cottages but there are also some shops and inns along here with steeply
+sloping roofs that are used by both travelers and locals alike.  Along the
+east side of the road is the Old Bear Inn, Medo's largest inn.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5603
+D1
+~
+~
+3 3
+1 0 5619
+D2
+~
+~
+0 0
+0 0 5605
+S
+#5605
+{yFal Dara Road{x~
+This is a broad paved road that leads north/south through the village of
+Medo.  Flanking the road are cottages and shops with steeply sloping roofs,
+many of the buildings have arrow slits instead of ground floor windows to
+use in the event of a Shadowspawn attack breaching the village's main gates.
+To the south is the village green.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5604
+D2
+~
+~
+0 0
+0 0 5611
+S
+#5606
+{yThe Outskirts of Medo{x~
+The east entrance into Medo is marked by a sturdy reinforced gateway. 
+The thoroughfare leading up to the gate is a dusty track, rutted and
+potholed but the road within the village has been paved with stone.  Two
+bulky watchtowers flank the gate, offering a good view of the high-walled
+village and the forests, plains and river surrounding it.  
+~
+0
+0 14
+D3
+~
+~
+0 0
+0 0 5607
+D7
+~
+~
+0 0
+0 0 42752
+S
+#5607
+{DFal Moran Gate{x~
+Fal Moran Gate is a gloomy archway built into the gray stone walls that
+encircles the village.  The reinforced gateway provides adequate protection
+from Shadowspawn attacks but many of the buildings within the settlement
+have arrow-slits instead of ground-floor windows in case the gates are
+breached.  A paved thoroughfare leads off to the west towards the heart of
+the settlement while in the opposite direction a wide muddy road crosses the
+grassy plains surrounding the village.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5606
+D3
+~
+~
+0 0
+0 0 5608
+S
+#5608
+{yFal Moran Road{x~
+Fal Moran Road is a wide thoroughfare paved with gray stone that leads
+east/west through Medo.  Lining the road are cottages with steeply sloping
+roofs, many of the buildings have arrow slits instead of ground floor
+windows to use in case there is a Shadowspawn raid.  To the east is one of
+the main gates into the village.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5607
+D3
+~
+~
+0 0
+0 0 5609
+S
+#5609
+{yFal Moran Road{x~
+Fal Moran Road is a broad paved thoroughfare that leads east/west through
+the village of Medo.  Flanking the road are cottages with steeply sloping
+roofs, many of the buildings have arrow slits instead of ground floor
+windows to use in case there is a Trolloc raid.  One of the cottages along
+the north side of the road looks especially colorful with flowers and herbs
+planted in wooden casks arranged around its front.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 5633
+D1
+~
+~
+0 0
+0 0 5608
+D3
+~
+~
+0 0
+0 0 5610
+S
+#5610
+{yFal Moran Road{x~
+This is a wide road paved with gray stone slabs that leads east/west
+through Medo.  Flanking the road are cottages with steeply sloping roofs,
+many of the buildings have arrow slits instead of ground floor windows to
+use in the event of a Shadowspawn attack breaching the village's main gates.
+To the west is the village green.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5609
+D3
+~
+~
+0 0
+0 0 5611
+S
+#5611
+{gThe Village Green{x~
+The Village Green is a large area of patchy grass overlooked by Medo's
+two main roads that follow the Green's western and southern border which are
+in turn lined with gray stone buildings with steep roofs.  The Village Green
+is a popular meeting place for many of the locals as well as a gathering
+place for holidays and festivals.  At the southwest corner of the green
+where the two main roads meet is a third road that follows the bank of the
+River Mora.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 5605
+D1
+~
+~
+0 0
+0 0 5610
+D3
+~
+~
+0 0
+0 0 5612
+S
+#5612
+{yMora Road{x~
+This Mora Road, a broad paved street named after the river which Medo was
+built beside.  Flanking the road are cottages with steeply sloping roofs,
+many of the buildings have arrow slits instead of ground floor windows to
+use in the event of a Shadowspawn attack breaching the village's main gates.
+To the east is the village green.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5611
+D3
+~
+~
+0 0
+0 0 5613
+S
+#5613
+{yMora Road{x~
+This is Mora Road, a broad paved road that follows along the bank of the
+Mora River.  Two stone jetties have been built along this road, one of them
+lies just a short distance away to the west side.  On the opposite side of
+the road are several cottages and small warehouses, many of the buildings
+have arrow slits instead of ground floor windows to use in the event of a
+Shadowspawn attack.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5612
+D2
+~
+~
+0 0
+0 0 5614
+D3
+~
+~
+0 0
+0 0 5617
+S
+#5614
+{yMora Road{x~
+This is a broad paved road that follows along the bank of the Mora River.
+Two stone jetties have been built along the west side of the road, jutting
+out into the cold gray waters of the river.  There are some cottages and
+small warehouses built along the east side of the road, all of them have
+steeply sloping roofs to cope with the snows at wintertime.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5613
+D2
+~
+~
+0 0
+0 0 5615
+S
+#5615
+{yMora Road{x~
+This is the southernmost end of Mora Road, a broad paved road that
+follows along the bank of the Mora River.  Two stone jetties have been built
+along this road, one of them lies just a short distance away to the west
+side.  On the opposite side of the road are several cottages and small
+warehouses, many of the buildings have arrow slits instead of ground floor
+windows to use in the event of a Shadowspawn attack.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5614
+D3
+~
+~
+0 0
+0 0 5616
+S
+#5616
+{cThe South Dock{x~
+This is dock that juts out into the cold gray waters of the River Medo. 
+The dock has been built using dull gray stone, years of weathering has made
+the surface and edges of the stone smooth.  A muddy track leads eastwards
+away from the dock towards a paved thoroughfare.  From here a second, almost
+identical dock can be seen upstream to the north.  
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 5615
+S
+#5617
+{cThe North Dock{x~
+This is dock that juts out into the cold gray waters of the River Medo. 
+The dock has been built using dull gray stone, years of erosion has made the
+surface and edges of the stone smooth.  A muddy track leads eastwards from
+the dock towards a paved thoroughfare.  From here a second, almost identical
+dock can be seen downstream to the south.  
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 5613
+S
+#5618
+{bThe Blacksmith's Workshop{x~
+This particular blacksmith's workshop seems to be quite quiet despite the
+area being filled with the heat from the blazing forge.  The workshop
+appears to be well organized, the almost countless number of tools belonging
+to the owner of this establishment have been neatly arranged in racks that
+are fixed upon the brick walls.  A small wooden bench has been placed
+against one wall, apart from a folded shirt and cloak there does not appear
+to be anything else of interest.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5603
+S
+#5619
+{YThe Old Bear Inn{W -{y The Common Room{x~
+The Old Bear Inn occupies a large gray stone building and is one of
+Medo's oldest structures.  The room has shuttered arrow slits rather than
+windows so is reliant on the light provided by strategically placed lanterns
+and candles.  There are numerous tables and benches placed around the room
+but the most popular seats appear to be the ones nearest the fireplace on
+the north side of the room.  There are three main exits from the common
+room, a steep wooden staircase built along the south side of the room and
+two sturdy doors that mirror each other on the east and west sides.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5620
+D3
+~
+~
+3 3
+1 0 5604
+D4
+~
+~
+0 0
+0 0 5628
+S
+#5620
+{YThe Old Bear Inn{W - {yA Narrow Hallway{x~
+This is the southern end of a narrow gray stone hallway situated inside a
+large inn.  The area is brightly lit up by lanterns fitted to the walls
+which reveal a blue rug down the entire length of the hallway.  There are
+several unmarked doorways leading off from this corridor and into other
+parts of the large building.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5622
+D1
+~
+~
+3 3
+1 0 5621
+D3
+~
+~
+3 3
+1 0 5619
+S
+#5621
+{YThe Old Bear Inn{W - {yA Private Dining Room{x~
+This is a small room with white plastered walls and bare timber
+floorboards.  The room is furnished with a large circular table and
+ladder-backed chairs.  On the north side of the room is a gray stone
+fireplace.  There is a window on the east side of the room that overlooks
+the plains and forests surrounding Medo.  On the west side of the room is a
+doorway.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5620
+S
+#5622
+{YThe Old Bear Inn{W - {yA Narrow Hallway{x~
+This is the northern end of a narrow hallway located inside a gray stone
+inn.  The area is brightly illuminated by lamps fixed to the walls which
+reveal a blue rug down the whole length of the hallway.  There are several
+unmarked doorways leading off from this corridor and into other parts of the
+large building.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5624
+D1
+~
+~
+3 3
+1 0 5623
+D2
+~
+~
+0 0
+0 0 5620
+S
+#5623
+{YThe Old Bear Inn{W - {yThe Innkeeper's Quarters{x~
+This is a small room with white plastered walls and bare timber
+floorboards.  The room is furnished with a simple bed, wash stand, table and
+chair.  On the south side of the room is a gray stone fireplace.  There is a
+window on the east side of the room that overlooks the plains and forests
+surrounding Medo.  On the west side of the room is a doorway.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5622
+S
+#5624
+{YThe Old Bear Inn{W - {yThe Kitchen{x~
+The kitchen within this large gray stone inn is quite big.  Numerous
+cupboards and shelves line the walls of the room except for the east side
+where a large stove and fireplace has been built.  At the center of the
+kitchen is a large counter topped with polished white stone where food is
+prepared.  There are two exits from this room, a door on the south side of
+the room and a much larger door on the west side that leads out into a
+courtyard.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5622
+D3
+~
+~
+3 3
+1 0 5625
+S
+#5625
+{YThe Old Bear Inn {W- {yThe Stable Yard{x~
+This is a large cobblestone yard roughly square in shape that surrounded
+buildings built using dull gray stone.  The smallest of these buildings is a
+yard on the north side of the yard whilst a larger building along the east
+side of the yard is an inn.  There is a stone trough and wooden hitching
+rail placed near the stable's entrance whilst the inn's entrance is flanked
+by two large barrels, both of them appear to be empty.  There is a narrow
+lane leads off to the west, linking this courtyard with a broad road.  
+~
+0
+C 1
+D0
+~
+~
+3 3
+1 0 5626
+D1
+~
+~
+3 3
+1 0 5624
+D3
+~
+gate~
+3 3
+1 0 5602
+S
+#5626
+{YThe Old Bear Inn{W - {yThe Stable{x~
+The stable is a small building constructed using dull gray stone and
+roughly hewn timber.  The area is carefully illuminated by lanterns that
+leave no areas of shadow within the building, revealing the underside of the
+steeply sloping roof beyond the stable's hay loft.  There are several
+individual stalls built along the north side of the building whilst at the
+opposite side are a pair of doors that lead out to a cobblestone yard.  
+~
+0
+DM 0
+D2
+~
+~
+3 3
+1 0 5625
+S
+#5627
+Mount Storage Room~
+This room does not require a description.
+~
+0
+BCDK 0
+S
+#5628
+{YThe Old Bear Inn{W - {yA Narrow Hallway{x~
+This is a narrow hallway located inside a pale gray stone building known
+as the Old Bear Inn.  The area is brightly illuminated by lanterns attached
+to the walls which reveal a blue rug down the entire length of the hallway. 
+There is a steep wooden staircase situated at one end of the corridor as
+well as several doorways along it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5629
+D1
+~
+~
+3 3
+1 0 5630
+D2
+~
+~
+3 3
+1 0 5631
+D3
+~
+~
+3 3
+1 0 5632
+D5
+~
+~
+0 0
+0 0 5619
+S
+#5629
+{YThe Old Bear Inn {W- {yA Guest Room{x~
+This is a small bedroom with white plaster walls and timber floorboards. 
+A blue woolen rug that is slightly smaller than the dimensions of the room
+has been placed across the floor.  The room is furnished with simple items
+including a bed, a washstand, a side table and an armchair.  There is a
+leaded glass window on the north side of the room that overlooks a
+cobblestone yard.  On the south side of the room is a doorway.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5628
+S
+#5630
+{YThe Old Bear Inn {W- {yA Guest Room{x~
+This is a small bedroom with white plaster walls and timber floorboards. 
+A blue woolen rug that is slightly smaller than the dimensions of the room
+has been placed across the floor.  The room is furnished with simple items
+including a bed, a washstand, a side table and an armchair.  There is a
+leaded glass window on the east side of the room that overlooks the plains
+and forests surrounding Medo.  On the west side of the room is a doorway.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5628
+S
+#5631
+{YThe Old Bear Inn {W- {yA Guest Room{x~
+This is a small bedroom with white plaster walls and timber floorboards. 
+A blue woolen rug that is slightly smaller than the dimensions of the room
+has been placed across the floor.  The room is furnished with simple items
+including a bed, a washstand, a side table and an armchair.  There is a
+leaded glass window on the south side of the room that overlooks cottages
+with steeply sloping roofs.  On the north side of the room is a doorway.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5628
+S
+#5632
+{YThe Old Bear Inn {W- {yA Guest Room{x~
+This is a small bedroom with white plaster walls and timber floorboards. 
+A blue woolen rug that is slightly smaller than the dimensions of the room
+has been placed across the floor.  The room is furnished with simple items
+including a bed, a washstand, a side table and an armchair.  There is a
+leaded glass window on the west side of the room that overlooks a broad road
+paved lined with cottages and shops.  On the east side of the room is a
+doorway.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5628
+S
+#5633
+{mThe Healer's House{x~
+At a first glance there does not seem to be anything out of the ordinary
+about this small gray stone cottage.  It is a snug, comfy little abode
+furnished with plainly made yet functional furniture.  A closer look at the
+kitchen reveals numerous bottles and jars lining shelves, each one holding
+dried herbs.  There is even a wooden rack hung above the kitchen window upon
+which freshly picked herbs are drying.  
+~
+0
+DK 0
+D2
+~
+~
+3 3
+1 0 5609
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5602 1 1
+D 0 5603 1 1
+D 0 5604 1 1
+D 0 5609 0 1
+D 0 5618 3 1
+D 0 5619 1 1
+D 0 5619 3 1
+D 0 5620 1 1
+D 0 5620 3 1
+D 0 5621 3 1
+D 0 5622 0 1
+D 0 5622 1 1
+D 0 5623 3 1
+D 0 5624 2 1
+D 0 5624 3 1
+D 0 5625 0 1
+D 0 5625 1 1
+D 0 5625 3 1
+D 0 5626 2 1
+D 0 5628 0 1
+D 0 5628 1 1
+D 0 5628 2 1
+D 0 5628 3 1
+D 0 5629 2 1
+D 0 5630 3 1
+D 0 5631 0 1
+D 0 5632 1 1
+D 0 5633 2 1
+M 0 5604 9 5600 1
+E 0 5609 0 5
+M 0 5600 6 5601 3
+E 0 5637 0 1
+E 0 5600 0 7
+E 0 5601 0 14
+E 0 5602 0 8
+E 0 5603 0 13
+E 0 5604 0 20
+M 0 5600 6 5601 3
+E 0 5600 0 7
+E 0 5601 0 14
+E 0 5602 0 8
+E 0 5603 0 13
+E 0 5604 0 20
+M 0 5600 6 5601 3
+E 0 5600 0 7
+E 0 5601 0 14
+E 0 5602 0 8
+E 0 5603 0 13
+E 0 5604 0 20
+M 0 5604 9 5601 1
+E 0 5609 0 5
+M 0 5602 6 5602 1
+M 0 5603 6 5602 1
+M 0 5606 8 5602 2
+E 0 5641 0 8
+M 0 5606 8 5602 2
+M 0 5611 6 5603 2
+E 0 5642 0 10
+M 0 5611 6 5603 2
+M 0 5610 6 5604 1
+M 0 5607 8 5605 1
+M 0 5608 8 5605 1
+M 0 5609 8 5605 1
+M 0 5610 6 5605 1
+M 0 5604 9 5606 1
+E 0 5609 0 5
+M 0 5600 6 5607 3
+E 0 5628 0 25
+E 0 5600 0 7
+E 0 5601 0 14
+E 0 5602 0 8
+E 0 5603 0 13
+E 0 5604 0 20
+M 0 5600 6 5607 3
+E 0 5600 0 7
+E 0 5601 0 14
+E 0 5602 0 8
+E 0 5603 0 13
+E 0 5604 0 20
+M 0 5600 6 5607 3
+E 0 5600 0 7
+E 0 5601 0 14
+E 0 5602 0 8
+E 0 5603 0 13
+E 0 5604 0 20
+M 0 5604 9 5607 1
+E 0 5609 0 5
+M 0 5602 6 5608 1
+M 0 5603 6 5608 1
+M 0 5606 8 5608 2
+E 0 5626 0 15
+M 0 5606 8 5608 2
+M 0 5610 6 5609 2
+M 0 5610 6 5609 2
+M 0 5611 6 5609 1
+M 0 5607 8 5610 1
+M 0 5608 8 5610 1
+M 0 5609 8 5610 1
+M 0 5607 8 5612 1
+E 0 5627 0 8
+M 0 5608 8 5612 1
+E 0 5639 0 23
+M 0 5609 8 5612 1
+E 0 5640 0 3
+M 0 5610 6 5612 1
+M 0 5602 6 5613 1
+M 0 5603 6 5613 1
+M 0 5607 8 5613 2
+E 0 5638 0 20
+M 0 5607 8 5613 2
+E 0 5627 0 8
+M 0 5604 9 5614 1
+E 0 5609 0 5
+M 0 5611 6 5614 2
+M 0 5611 6 5614 2
+M 0 5610 6 5614 1
+M 0 5604 9 5615 1
+E 0 5609 0 5
+M 0 5606 8 5615 2
+M 0 5606 8 5615 2
+E 0 5626 0 15
+M 0 5601 6 5616 3
+E 0 5605 0 16
+E 0 5606 0 20
+E 0 5607 0 2
+E 0 5608 0 10
+M 0 5601 6 5616 3
+E 0 5605 0 16
+E 0 5606 0 20
+E 0 5607 0 2
+E 0 5608 0 10
+M 0 5601 6 5616 3
+E 0 5605 0 16
+E 0 5606 0 20
+E 0 5607 0 2
+E 0 5608 0 10
+M 0 5601 6 5617 3
+E 0 5605 0 16
+E 0 5606 0 20
+E 0 5607 0 2
+E 0 5608 0 10
+M 0 5601 6 5617 3
+E 0 5605 0 16
+E 0 5606 0 20
+E 0 5607 0 2
+E 0 5608 0 10
+M 0 5601 6 5617 3
+E 0 5605 0 16
+E 0 5606 0 20
+E 0 5607 0 2
+E 0 5608 0 10
+M 0 5605 1 5618 1
+G 0 5610 0
+G 0 5611 0
+G 0 5612 0
+G 0 5613 0
+G 0 5614 0
+G 0 5615 0
+G 0 5616 0
+G 0 5617 0
+M 0 5612 1 5619 1
+G 0 5624 0
+M 0 5613 5 5619 5
+E 0 5629 0 7
+E 0 5631 0 9
+E 0 5630 0 16
+M 0 5613 5 5619 5
+E 0 5629 0 7
+E 0 5631 0 9
+E 0 5630 0 16
+M 0 5613 5 5619 5
+E 0 5629 0 7
+E 0 5631 0 9
+E 0 5630 0 16
+M 0 5613 5 5619 5
+E 0 5629 0 7
+E 0 5631 0 9
+E 0 5630 0 16
+M 0 5613 5 5619 5
+E 0 5629 0 7
+E 0 5631 0 9
+E 0 5630 0 16
+M 0 5619 6 5620 2
+E 0 5635 0 1
+M 0 5619 6 5620 2
+E 0 5635 0 1
+M 0 5614 5 5621 5
+E 0 5622 0 5
+G 0 5618 0
+M 0 5614 5 5621 5
+G 0 5618 0
+M 0 5614 5 5621 5
+G 0 5618 0
+M 0 5614 5 5621 5
+G 0 5618 0
+M 0 5614 5 5621 5
+G 0 5618 0
+M 0 5619 6 5622 2
+E 0 5635 0 1
+M 0 5619 6 5622 2
+E 0 5635 0 1
+O 0 5623 0 5623
+P 0 5624 1 5623 1
+M 0 5615 1 5624 1
+M 0 5616 5 5624 5
+E 0 5632 0 7
+E 0 5633 0 20
+M 0 5616 5 5624 5
+E 0 5632 0 7
+E 0 5633 0 20
+M 0 5616 5 5624 5
+E 0 5632 0 7
+E 0 5633 0 20
+M 0 5616 5 5624 5
+E 0 5632 0 7
+E 0 5633 0 20
+M 0 5616 5 5624 5
+E 0 5632 0 7
+E 0 5633 0 20
+M 0 5622 5 5625 5
+M 0 5622 5 5625 5
+M 0 5622 5 5625 5
+M 0 5622 5 5625 5
+M 0 5622 5 5625 5
+M 0 5618 5 5626 5
+M 0 5618 5 5626 5
+M 0 5618 5 5626 5
+M 0 5618 5 5626 5
+M 0 5618 5 5626 5
+M 0 5617 1 5627 1
+M 0 5619 6 5628 2
+E 0 5635 0 1
+E 0 5636 0 8
+M 0 5619 6 5628 2
+E 0 5635 0 1
+E 0 5636 0 8
+M 0 5621 4 5629 1
+M 0 5621 4 5630 1
+M 0 5621 4 5631 1
+M 0 5621 4 5632 1
+O 0 5621 0 5633
+M 0 5620 1 5633 1
+G 0 5620 0
+G 0 5619 0
+S
+
+
+
+#SHOPS
+5605 5 9 0 0 0 110 90 0 23
+5620 10 26 0 0 0 150 50 0 23
+0
+
+
+
+#$

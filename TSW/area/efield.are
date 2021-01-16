@@ -1,0 +1,5750 @@
+#AREADATA
+Name Emond's Field~
+Builders Kitiara  Oniren~
+VNUMs 7200 7400
+Credits None~
+Security 5
+Low 30
+High 75
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#7200
+tethered cow~
+a {yt{De{ythered c{Do{yw{x~
+A {yt{De{ythered c{Do{yw{x grazes contentedly upon the Green.
+~
+~
+pig~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 charge
+0 0 0 0 0
+A
+3 3 3 3
+0 ABb 0 0
+stand stand female 0
+0 0 large 'unknown'
+#7201
+young boy~
+a {By{bo{Du{wn{Wg{w b{Bo{by{x~
+A {By{bo{Du{wn{Wg{w b{Bo{by{x plays joyfully amongst his friends.
+~
+~
+andoran~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 0
+stand stand male 5
+0 0 small 'unknown'
+#7202
+young girl~
+a {My{mo{Du{wn{Wg{w {Wg{wi{Mr{ml{x~
+A {My{mo{Du{wn{Wg{w {Wg{wi{Mr{ml{x plays happily with her friends.
+~
+~
+andoran~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 0
+stand stand female 5
+0 0 small 'unknown'
+#7203
+young boy~
+a {By{bo{Du{wn{Wg{w b{Bo{by{x~
+A {By{bo{Du{wn{Wg{w b{Bo{by{x stands by the bank of the Winespring Water, throwing {Ds{wt{Won{we{Ds{x into the {cs{Ct{Wre{Ca{cm{x.
+~
+~
+andoran~
+ABS 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN ABb 0 0
+stand stand male 5
+0 0 small 'unknown'
+#7204
+women woman villager~
+a {gv{Gillage{gr{x~
+One of the {gw{Gome{gn{x of the village stops to gossip with her friends.
+~
+~
+andoran~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#7205
+woman villager~
+a {gv{Gillage{gr{x~
+A {gw{Goma{gn{x strolls down the road with a {ys{wh{yoppi{wn{yg b{wa{ysk{we{yt{x in her arms.
+~
+~
+andoran~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+F AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#7206
+man villager~
+a {gv{Gillage{gr{x~
+A {gv{Gillage{gr{x hums a tune to himself as he makes his way to the Winespring Inn.
+~
+~
+andoran~
+AGTW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#7207
+man villager~
+a {gv{Gillage{gr{x~
+A {gm{Ga{gn{x ambles along with a {yb{Do{yw{x in one hand and a freshly killed {Dr{wa{ybb{wi{Dt{x in the other.
+~
+~
+andoran~
+AGTW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#7208
+dog~
+a {ydog{x~
+A {ydog{x darts about the area, barking loudly at anyone who passes.
+~
+~
+dog~
+AGW 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 bite
+0 0 0 0 0
+A
+3 3 3 3
+F AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#7209
+cat~
+a {Wc{wa{Dt{x~
+A {Wc{wa{Dt{x prowls around, investigating its territory.
+~
+~
+cat~
+AGW J 0 0
+58 48 30d31+3364 58d10+100 6d14+29 scratch
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off H
+#7210
+dhurran horse huge~
+a {DD{yhurra{Dn{x~
+A {Dh{yug{De h{yors{De{x stands in one of the stalls in the stable.
+~
+~
+rabbit~
+AB 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 charge
+0 0 0 0 0
+A
+4 4 4 4
+I AB 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off H
+#7211
+stocky man stablehand~
+a {cs{wt{Wableha{wn{cd{x~
+A {cs{wt{Wocky m{wa{cn{x attends to his duties in the stable.
+~
+~
+andoran~
+ABT 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#7212
+sparrow~
+a {ys{wp{ya{Dr{yr{wo{yw{x~
+A {ys{wp{ya{Dr{yr{wo{yw{x is perched on top of a branch in the {gh{De{gd{yge{gr{Do{gw{x.
+~
+~
+song bird~
+AGW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 peck
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+sit sit either 0
+0 0 small 'unknown'
+#7213
+beady eyed raven~
+a {Db{we{Wady-ey{we{Dd raven{x~
+A {Db{we{Wady-ey{we{Dd raven{x is perched on a tree banch overhanging the road.
+~
+~
+song bird~
+AGW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 peck
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+sit sit either 0
+0 0 small 'unknown'
+F off H
+#7214
+mouse~
+a {ymouse{x~
+A {ymouse{x scurries behind one of the {mw{Min{me{w {yb{Da{yrre{Dl{ys{x.
+~
+~
+rabbit~
+AB Q 0 0
+55 45 28d28+3025 55d10+100 6d11+27 bite
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#7215
+field mouse~
+a {yfield mouse{x~
+A {yfield mouse{x scurries amongst the {gh{De{gd{yger{go{Dw{gs{x.
+~
+~
+rabbit~
+AGW PQ 0 0
+55 45 28d28+3025 55d10+100 6d11+27 bite
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#7216
+curly horned ram~
+a {yc{Du{wr{Wly-hor{wn{De{yd{x {Wr{wa{Wm{x~
+A {yc{Du{wr{Wly-hor{wn{De{yd{x {Wr{wa{Wm{x vigilantly patrols his territory.
+~
+~
+rabbit~
+AFGW 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 charge
+0 0 0 0 0
+A
+4 4 4 4
+D AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F off H
+#7217
+black faced sheep~
+a {Dbl{wac{Wk-f{wac{Ded{x {Ws{wh{We{we{Wp{x~
+A {Dbl{wac{Wk-f{wac{Ded{x {Ws{wh{We{we{Wp{x bleats loudly to her companions as she wanders around the area.
+~
+~
+rabbit~
+AGW 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 charge
+0 0 0 0 0
+A
+4 4 4 4
+0 AB 0 0
+stand stand female 0
+0 0 medium 'unknown'
+F off H
+#7218
+dhurran horse huge~
+a {DD{yhurra{Dn{x~
+A {Dh{yug{De h{yors{De{x stands idly in one of the barn's stalls.
+~
+~
+rabbit~
+AB 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 charge
+0 0 0 0 0
+A
+4 4 4 4
+I ABb 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off H
+#7219
+chicken~
+a {Dc{yhi{Dc{yke{Dn{x~
+A {Dc{yhi{Dc{yke{Dn{x roams the yard, clucking loudly whilst clawing at the dirt.
+~
+~
+song bird~
+AB 0 0 0
+58 48 30d31+3364 58d10+100 6d14+29 peck
+0 0 0 0 0
+A
+2 2 2 2
+0 ABb 0 0
+stand stand female 0
+0 0 small 'unknown'
+F aff T
+F off H
+#7220
+fox~
+a {rfox{x~
+A {rfox{x slinks through the undergrowth.
+~
+~
+wolf~
+AGW JPQ 0 0
+63 53 32d32+3969 63d10+100 7d10+31 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off H
+#7221
+large brown dog~
+a {Db{yrown do{Dg{x~
+A large {Db{yrown do{Dg{x lazes beside the fire.
+~
+~
+dog~
+AB 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 bite
+0 0 0 0 0
+A
+3 3 3 3
+F ABb 0 0
+sleep sleep either 0
+0 0 medium 'unknown'
+F off H
+#7222
+farmer~
+a {cf{Ca{Wrmer{x~
+A {cf{Ca{Wrmer{x is preoccupied with his daily chores.
+~
+~
+andoran~
+AGTW 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+CF ABb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#7223
+farmer wife~
+a {cf{Ca{Wrmer's {cw{Ci{Wfe{x~
+A {cf{Ca{Wrmer's {cw{Ci{Wfe{x is busy tidying up the house.
+~
+~
+andoran~
+AGTY 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+F ABb 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#7224
+little boy~
+a {rl{Ri{Wttle {rb{Ro{Wy{x~
+A {rl{Ri{Wttle {rb{Ro{Wy{x runs crazily around the bedroom.
+~
+~
+andoran~
+ABS 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+F ABb 0 0
+stand stand male 0
+0 0 small 'unknown'
+#7225
+little girl~
+a {ml{Mi{Wttle {mg{Mi{Wrl{x~
+A {ml{Mi{Wttle {mg{Mi{Wrl{x jumps up and down on one of the{y b{Ye{Wds{x.
+~
+~
+andoran~
+ABS 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+F ABb 0 0
+stand stand female 0
+0 0 small 'unknown'
+#7226
+plump tabby cat~
+a {yt{Da{yb{Db{yy c{Da{yt{x~
+A plump {yt{Da{yb{Db{yy c{Da{yt{x lounges beside the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.
+~
+~
+cat~
+AB J 0 0
+58 48 30d31+3364 58d10+100 6d14+29 scratch
+0 0 0 0 0
+A
+2 2 2 2
+0 ABb 0 0
+rest rest either 0
+0 0 small 'unknown'
+F aff Z
+F off H
+#7227
+thatcher~
+a {Dt{yh{Yatch{ye{Dr{x~
+A {Dt{yh{Yatch{ye{Dr{x trundles along with a {yl{Da{ydd{De{yr{x tucked underneath his arm.
+~
+~
+andoran~
+AGTW 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+CF AB 0 0
+stand stand male 15
+0 0 medium 'wool'
+#7228
+miller~
+a {ym{Di{cll{De{yr{x~
+The {ym{Di{cll{De{yr{x oversees the running of his mill.
+~
+~
+andoran~
+ABS 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+FN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#7229
+gray haired old man~
+a {Dg{wra{Dy-h{waire{Dd o{wl{Dd man{x~
+A {Dg{wra{Dy-h{waire{Dd o{wl{Dd man{x is having a quiet nap on one of the {ys{Ym{Wall{y b{Ye{Wds{x.
+~
+~
+andoran~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+C AB 0 0
+sleep sleep male 0
+0 0 medium 'unknown'
+#7230
+large brown dog~
+a {Db{yrown do{Dg{x~
+A large {Db{yrow{Dn d{yo{Dg{x is burying a {Wbone{x in the garden.
+~
+~
+dog~
+AB 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 bite
+0 0 0 0 0
+A
+3 3 3 3
+F ABb 0 0
+stand stand either 0
+0 0 medium 'unknown'
+F off H
+#7231
+black spotted pig~
+a {Db{wl{ya{wc{Dk{x-{Ds{wp{yott{we{Dd{x {yp{wi{Dg{x~
+A plump {Db{wl{ya{wc{Dk{x-{Ds{wp{yott{we{Dd{x {yp{wi{Dg{x wallows around in the sticky mud.
+~
+~
+pig~
+AB 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 bite
+0 0 0 0 0
+A
+4 4 4 4
+CF AB 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#7232
+brown cow~
+a {ybrown cow{x~
+A {ybrown cow{x lazily grazes in the {gm{Geado{gw{x.
+~
+~
+rabbit~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 charge
+0 0 0 0 0
+A
+6 6 6 6
+C ABb 0 0
+stand stand female 0
+0 Q large 'unknown'
+F off H
+#7233
+farmhand~
+a {bf{Ba{wr{Wmhand{x~
+A {bf{Ba{wr{Wmhand{x whistles merrily as he works.
+~
+~
+andoran~
+AGTW 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#7234
+farmhand~
+a {bf{Ba{wr{Wmhand{x~
+One of the {bf{Ba{wr{Wmhands{x is asleep in the barn.
+~
+~
+andoran~
+AGTW 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+CF ABb 0 0
+sleep sleep male 15
+0 0 medium 'unknown'
+#7235
+shaggy brown mare~
+a {yshaggy brown mare{x~
+A {yshaggy brown mare{x occupies one of the barn's stalls.
+~
+~
+rabbit~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 charge
+0 0 0 0 0
+A
+7 7 7 7
+CI ABabcde 0 0
+stand stand female 0
+0 Q large 'unknown'
+#7236
+innkeeper~
+an {ri{Rnn{Wkee{Rpe{rr{x~
+The {ri{Rnn{Wkee{Rpe{rr{x stands beside the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x with a thoughtful expression upon his face. 
+~
+~
+andoran~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CEF ABJbce 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#7237
+village wisdom young woman~
+a {gV{Gi{Wlla{Gg{ge W{Gi{Wsd{Go{gm{x~
+A {gy{Go{Wu{Gn{gg w{Go{Wm{Ga{gn{x is wandering the Waterwood, gathering {gh{Ge{gr{Gb{gs{x.
+~
+~
+andoran~
+AGWa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#7238
+muscular man blacksmith~
+a {bb{Bla{Wcksm{Bit{bh{x~
+A {bm{Bus{Wcu{Bla{br{W m{Ba{bn{x is busy working at the forge.
+~
+~
+andoran~
+ABEK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#7200
+cowbell rope~
+a {Dc{wow{Wb{wel{Dl{x hung upon a piece of {yrope{x~
+A cowbell has been left here.~
+iron~
+armor 0 AC
+16 16 16 12 0
+60 1 0 100
+A
+19 3
+A
+2 -1
+#7201
+brown woolen coat~
+a {ybrown woolen coat{x~
+A brown woolen coat has been left here.~
+wool~
+armor S AD
+16 16 16 12 0
+60 3 60 100
+A
+2 1
+A
+1 1
+#7202
+stout leather shoes~
+a pair of {Ds{ytou{Dt l{yeathe{Dr s{yhoe{Ds{x~
+A pair of stout leather shoes has been left here.~
+leather~
+armor S AG
+16 16 16 12 0
+60 1 85 100
+A
+2 1
+A
+5 1
+#7203
+short brown breeches~
+a pair of {yshort brown breeches{x~
+A pair of short brown breeches has been left here.~
+wool~
+armor S AF
+16 16 16 12 0
+60 2 60 100
+A
+4 1
+A
+1 1
+#7204
+pretty woolen dress~
+a {Cp{Wrett{Cy w{Woole{Cn d{Wres{Cs{x~
+A woolen dress has been left here.~
+wool~
+armor S AD
+16 16 16 12 0
+60 3 60 100
+A
+4 1
+A
+3 1
+#7205
+bracelet painted wooden beads~
+a {mb{Mr{Wa{mc{Me{Wl{me{Mt{x made of {mp{Ma{Wi{mn{Mt{We{md {Mw{Wo{mo{Md{We{mn {Mb{We{ma{Md{Ws{x~
+A bracelet made of wooden beads has been left here.~
+wood~
+armor S AM
+16 16 16 12 0
+60 1 0 100
+A
+19 1
+A
+18 1
+#7206
+stout leather shoes~
+a pair of {Ds{ytou{Dt l{yeathe{Dr s{yhoe{Ds{x~
+A pair of stout leather shoes has been left here.~
+leather~
+armor KS AG
+17 17 17 14 0
+65 1 85 100
+A
+4 3
+#7207
+plain dress purple wool~
+a {mp{Mlai{mn d{Mres{ms{x made of {mp{Murpl{me w{Moo{ml{x~
+A plain dress has been left here.~
+wool~
+armor KS AD
+17 17 17 14 0
+65 5 60 100
+A
+3 3
+#7208
+plain dress green wool~
+a {gp{Glai{gn d{Gres{gs{x made of {gg{Gree{gn w{Goo{gl{x~
+A plain dress has been left here.~
+wool~
+armor KS AD
+17 17 17 14 0
+65 5 60 100
+A
+5 3
+#7209
+long sleeves purple wool~
+{ml{Mon{mg s{Mleeve{ms{x made of {mp{Murpl{me w{Moo{ml{x~
+A set of long sleeves has been left here.~
+wool~
+armor KS AI
+17 17 17 14 0
+65 1 60 100
+A
+19 4
+A
+13 -20
+#7210
+long sleeves green wool~
+{gl{Gon{gg s{Gleeve{gs{x made of {gg{Gree{gn w{Goo{gl{x~
+A set of long sleeves has been left here.~
+wool~
+armor KS AI
+17 17 17 14 0
+65 1 60 100
+A
+12 60
+#7211
+stout leather shoes~
+a pair of {Ds{ytou{Dt l{yeathe{Dr s{yhoe{Ds{x~
+A pair of stout leather shoes has been left here.~
+leather~
+armor KS AG
+19 19 19 13 0
+70 1 85 100
+A
+2 2
+A
+5 1
+#7212
+brown woolen coat~
+a {ybrown woolen coat{x~
+A brown woolen coat has been left here.~
+wool~
+armor S AD
+19 19 19 13 0
+70 3 60 100
+A
+1 3
+#7213
+thick leather belt~
+a{y t{Dhic{yk l{Deathe{yr b{Del{yt{x~
+A thick leather belt has been left here.~
+leather~
+armor KS AL
+19 19 19 13 0
+70 1 85 100
+A
+2 -1
+A
+19 2
+A
+18 2
+#7214
+tables chairs~
+one of the {yt{Da{ybl{De{ys{x placed beneath the {gb{yo{gug{yh{gs{x of the {go{ya{gk t{yre{ge{x~
+A tall {go{ya{gk t{yre{ge{x has pushed its way through the ruined {Df{wo{Wu{wn{Dd{wa{Dt{wi{Wo{wn{Ds{x south of the inn.~
+wood~
+furniture S P
+8 10000 DGJ 100 100
+0 0 0 100
+E
+tables chairs~
+A tall {go{ya{gk t{yre{ge{x has pushed its way through the ruined {Df{wo{Wu{wn{Dd{wa{Dt{wi{Wo{wn{Ds{x south
+of the inn.  The innkeeper has taken advantage of the shelter offered by the
+{go{ya{gk t{yre{ge{x by placing several {yt{Da{ybl{De{ys{x and {yc{Dh{yai{Dr{ys{x its {gl{yo{gf{yt{gy b{yo{gug{yh{gs{x.  The {yt{Da{ybl{De{ys{x
+offer a wonderful view of the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x that lies due west of here.  
+~
+E
+oak tree~
+A tall {go{ya{gk t{yre{ge{x has pushed its way through the ruined {Df{wo{Wu{wn{Dd{wa{Dt{wi{Wo{wn{Ds{x south
+of the inn.  The innkeeper has taken advantage of the shelter offered by the
+{go{ya{gk t{yre{ge{x by placing several {yt{Da{ybl{De{ys{x and {yc{Dh{yai{Dr{ys{x its {gl{yo{gf{yt{gy b{yo{gug{yh{gs{x.  
+~
+#7215
+tables chairs~
+one of the {yt{Da{ybl{De{ys{x within the common room~
+Several {yt{Da{ybl{De{ys{x and {yc{Dh{yai{Dr{ys{x have been placed neatly around the common room.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#7216
+high backed chairs~
+one of the {yh{Di{ygh-b{Da{yck{De{yd c{Dh{yai{Dr{ys{x placed in a semi-circle around the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x~
+A small {yc{Yl{Wo{Yc{yk{x and a {Dt{wi{Wn{x of {Dt{ya{Db{ya{Dc{x rest upon the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x's {Dm{wa{Wn{wt{De{wl{Dp{wi{We{wc{De{x.~
+wood~
+furniture Sa P
+6 10000 EHK 100 100
+0 0 0 100
+E
+fireplace~
+A tall {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x has been built in the common room which is almost half
+the length of room.  There are also several {yh{Di{ygh-b{Da{yck{De{yd c{Dh{yai{Dr{ys{x placed in a
+semi-circle around the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.  
+~
+E
+clock tin tabac~
+A small {yc{Yl{Wo{Yc{yk{x and a {Dt{wi{Wn{x of {Dt{ya{Db{ya{Dc{x rest upon the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x's {Dm{wa{Wn{wt{De{wl{Dp{wi{We{wc{De{x.  
+~
+#7217
+table chairs~
+the {yt{Da{yb{Dl{ye{x at the center of the kitchen~
+At the center of the kitchen is a sturdy {yt{Da{yb{Dl{ye{x surrounded by {yc{Dh{yai{Dr{ys{x.~
+wood~
+furniture S P
+6 10000 DGJ 100 100
+0 0 0 100
+#7218
+stout boots~
+a pair of {ys{Dt{wo{Du{yt b{Do{wo{Dt{ys{x~
+A pair of boots has been left here.~
+leather~
+armor KS AG
+20 20 20 15 0
+75 3 85 100
+A
+2 1
+A
+19 2
+A
+17 -5
+#7219
+pitchfork~
+a {Dp{wit{Wchf{wor{Dk{x~
+A pitchfork has been left here.~
+steel~
+weapon K AN
+polearm 8 13 'stab' F
+75 8 0 100
+A
+1 4
+#7220
+blue cloth kerchief~
+a {bb{Blu{be k{Ber{bch{Bie{bf{x~
+A piece of blue cloth has been left here.~
+cloth~
+armor KS AC
+20 20 20 15 0
+75 1 45 100
+A
+4 2
+A
+5 2
+#7221
+four poster bed~
+a {yf{Do{yur-post{De{yr bed{x~
+There is a {yf{Do{yur-post{De{yr bed{x in the room with {bf{Bluff{by b{Blu{be b{Blanket{bs{x and {wg{Woos{we-d{Wow{wn p{Willow{ws{x.~
+wood~
+furniture S P
+2 10000 EIL 150 150
+0 0 0 100
+#7222
+four poster bed~
+a {yf{Do{yur-post{De{yr bed{x~
+Inside the room is a {yf{Do{yur-post{De{yr bed{x  with {Df{wl{Du{wf{Df{wy {Dg{wr{Da{wy b{Dl{wa{Dn{wk{De{wt{Ds{x and {wg{Woos{we-d{Wow{wn p{Willow{ws{x.~
+wood~
+furniture S P
+2 10000 EIL 150 150
+0 0 0 100
+#7223
+four poster bed~
+a {yf{Do{yur-post{De{yr bed{x~
+There is a {yf{Do{yur-post{De{yr bed{x inside the room with a {yy{Ye{Wl{yl{Yo{Ww{y p{Ya{Wt{yc{Yh{Ww{yo{Yr{Wk{y q{Yu{Wi{yl{Yt{x and {wg{Woos{we-d{Wow{wn p{Willow{ws{x.~
+wood~
+furniture S P
+2 10000 EIL 150 150
+0 0 0 100
+#7224
+padded armchairs~
+a {bp{Ba{cdd{Bed {ba{Brm{cch{Bai{br{x~
+Two {bp{Ba{cdd{Bed {ba{Brm{ccha{Bir{bs{x have been placed next to the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.~
+wood~
+furniture S P
+2 10000 EHK 100 100
+0 0 0 100
+#7225
+wooden chair~
+a {yw{Do{yod{De{yn c{Dh{ya{Di{yr{x~
+A {yw{Do{yod{De{yn c{Dh{ya{Di{yr{x has placed beside the door.~
+wood~
+furniture S P
+1 1000 EHK 100 100
+0 0 0 100
+#7226
+rocking chair~
+a {yr{Do{ycki{Dn{yg c{Dh{ya{Di{yr{x~
+A {yr{Do{ycki{Dn{yg c{Dh{ya{Di{yr{x with {cp{Cl{Wu{Cm{cp c{Cus{Whi{Con{cs{x has been placed beside the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.~
+wood~
+furniture S P
+1 1000 EHK 100 100
+0 0 0 100
+#7227
+padded armchairs~
+a {mp{Ma{mdd{Me{md a{Mr{mmcha{Mi{mr{x~
+Two {mp{Ma{mdd{Me{md a{Mr{mmchai{Mr{ms{x and a small {yt{Da{yb{Dl{ye{x have been placed next to the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.~
+wood~
+furniture S P
+2 10000 EHK 100 100
+0 0 0 100
+#7228
+large bed~
+a {yl{Ya{Wrge {yb{Ye{Wd{x~
+A {bb{Blu{be b{Bedsprea{bd{x covers this neatly made {yb{Ye{Wd{x.~
+wood~
+furniture S P
+2 10000 EIL 150 150
+0 0 0 100
+#7229
+sturdy wooden cart~
+a {ys{Dt{yur{Dd{yy w{Do{yod{De{yn ca{Dr{yt{x~
+A {ys{Dt{yur{Dd{yy w{Do{yod{De{yn ca{Dr{yt{x has been stored inside the barn.~
+wood~
+furniture S P
+4 10000 FIL 100 100
+0 0 0 100
+#7230
+broad oaken table dining chairs~
+a {yb{Dr{yo{Da{yd o{Da{yk{De{yn t{Da{yb{Dl{ye{x~
+Several {yd{Di{yni{Dn{yg c{Dh{yai{Dr{ys{x have been placed neatly around a {yb{Dr{yo{Da{yd o{Da{yk{De{yn t{Da{yb{Dl{ye{x.~
+wood~
+furniture S P
+12 10000 DGJ 100 100
+0 0 0 100
+#7231
+cushioned chair~
+a {ccu{wsh{Di{won{ced c{wh{Da{wi{cr{x~
+A {ccu{wsh{Di{won{ced c{wh{Da{wi{cr{x has been placed beside the fire.~
+wood~
+furniture S P
+1 1000 EHK 100 100
+0 0 0 100
+#7232
+long blue rug~
+a {bl{Bon{bg{x {bb{Blu{be r{Bu{bg{x in front of the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x~
+A {bl{Bon{bg{x {bb{Blu{be r{Bu{bg{x has been laid out in front of the fire.~
+wool~
+furniture Sa P
+1 1000 EHK 125 125
+0 0 0 100
+#7233
+cabinets chests~
+a few {yc{Ya{Wbinets{x and {yc{Yh{Wests{x~
+The front room has been furnished with a few {yc{Ya{Wbinets{x and {yc{Yh{Wests{x.~
+wood~
+container S P
+250 AC 0 100 100
+0 0 0 100
+#7234
+sturdy wooden bed~
+a {ysturdy wooden bed{x~
+The bedroom has been furnished with a {ysturdy wooden bed{x and a {ytall wardrobe{x.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+E
+tall wardrobe~
+A collection of plain yet functional men's clothes hang neatly inside the
+{ytall wardrobe{x.  
+~
+#7235
+old chest~
+an {yo{Dl{yd c{Dh{ye{Ds{yt{x~
+An {yo{Dl{yd c{Dh{ye{Ds{yt{x has been stashed underneath the {ysturdy wooden bed{x.~
+wood~
+container Sa P
+100 ABCD 7236 25 100
+0 0 0 100
+#7236
+dull metal key~
+a {Dd{wul{Wl{D m{weta{Wl{D k{we{Wy{x~
+A dull metal key has been left here.~
+iron~
+key a A
+0 0 0 0 0
+0 0 0 100
+#7237
+sword heron mark~
+a {Ds{wwor{Wd{x with {yb{Yronz{ye h{Yero{yn{x upon its {Dblack scabbard{x~
+Here lies a {Ds{wwor{Wd{x with {yb{Yronz{ye h{Yero{yn{x upon its {Dblack scabbard{x.~
+steel~
+weapon 0 0
+sword 5 5 'slash' F
+0 0 0 100
+E
+sword heron mark~
+Here lies a {Ds{wwor{Wd{x with {yb{Yronz{ye h{Yero{yn{x upon its {Dblack scabbard{x.  The {Ds{wwor{Wd{x's
+long steel blade is slightly curved, sharp along only one edge and has
+another {yh{Yero{yn{x etched into it.  The short quillions that are worked like a
+braid and flank the hilt make the {Ds{wwor{Wd{x look fragile.  
+~
+#7238
+armchairs~
+an {ya{rr{Rmcha{ri{yr{x~
+A pair of {ya{rr{Rmchai{rr{ys{x have been arranged near the fire.~
+wood~
+furniture S P
+2 2000 EHK 100 100
+0 0 0 100
+#7239
+tall cabinets~
+a {Dt{yal{Dl c{yabine{Dt{x~
+A couple of {Dt{yal{Dl c{yabinet{Ds{x have been placed inside the room.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+#7240
+large chests~
+a {Dl{yarg{De c{yhes{Dt{x~
+A set of {Dl{yarg{De c{yhest{Ds{x have been placed inside the room.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+#7241
+long green couch~
+a {gl{Gon{gg g{Gree{gn c{Gouc{gh{x~
+A {gl{Gon{gg g{Gree{gn c{Gouc{gh{x has been placed near the fire.~
+wood~
+furniture S P
+4 10000 EHK 100 100
+0 0 0 100
+#7242
+long blue couch~
+a {bl{Bon{bg b{Blu{be c{Bouc{bh{x~
+A {bl{Bon{bg b{Blu{be c{Bouc{bh{x has been placed near the fire.~
+wood~
+furniture S P
+4 10000 EHK 100 100
+0 0 0 100
+#7243
+small beds~
+one of the {ys{Ym{Wall{y b{Ye{Wds{x~
+A pair of {ys{Ym{Wall{y b{Ye{Wds{x stand on either side of the room.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+#7244
+large bed~
+a {yl{Ya{Wrge{y b{Ye{Wd{x~
+A {yl{Ya{Wrge{y b{Ye{Wd{x stands at the center of the room.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+#7245
+tall wardrobe~
+a {yt{Ya{Wll{y w{Ya{Wrdrobe{x~
+A {yt{Ya{Wll{y w{Ya{Wrdrobe{x has been placed in one corner of the room.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+#7246
+heavy chest~
+a {yh{Ye{Wavy {yc{Yh{West{x~
+A {yh{Ye{Wavy {yc{Yh{West{x has been placed against one of the walls.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+#7247
+straw hat~
+a {ys{Yt{yr{Ya{yw h{Ya{yt{x with a {yw{Yid{ye b{Yri{ym{x~
+A straw hat with a wide brim has been left here.~
+straw~
+armor KS AE
+24 24 24 18 0
+90 1 0 100
+A
+18 6
+#7248
+pitchfork~
+a {Dp{wit{Wchf{wor{Dk{x~
+A pitchfork has been left here.~
+steel~
+weapon K AN
+polearm 10 15 'stab' F
+90 8 0 100
+A
+19 3
+A
+18 3
+#7249
+short white apron~
+a {Wshort white apron{x tied around the waist~
+A white apron has been left here.~
+cloth~
+armor KS AL
+24 24 24 18 0
+90 1 45 100
+A
+4 6
+#7250
+stout leather shoes~
+a pair of {Ds{ytou{Dt l{yeathe{Dr s{yhoe{Ds{x~
+A pair of stout leather shoes has been left here.~
+leather~
+armor KS AG
+24 24 24 18 0
+90 1 85 100
+A
+1 3
+A
+2 3
+#7251
+plain dress blue wool~
+a {bp{Blai{bn d{Bres{bs{x made of {bb{Blu{be w{Boo{bl{x~
+A plain dress has been left here.~
+wool~
+armor KS AD
+24 24 24 18 0
+90 5 60 100
+A
+12 120
+#7252
+long sleeves blue wool~
+{bl{Bon{bg s{Bleeve{bs{x made of {bb{Blu{be w{Boo{bl{x~
+A set of long sleeves has been left here.~
+wool~
+armor KS AI
+24 24 24 18 0
+90 1 60 100
+A
+13 120
+#7253
+stout boots~
+a pair of {ys{Dt{wo{Du{yt b{Do{wo{Dt{ys{x~
+A pair of boots has been left here.~
+leather~
+armor KS AG
+24 24 24 18 0
+90 3 85 100
+A
+18 4
+A
+17 -10
+#7254
+long hooded cloak purple wool~
+a {mh{Mo{mod{Me{md c{Ml{mo{Ma{mk{x made of {mp{Mu{mrp{Ml{me w{Moo{ml{x~
+A long hooded cloak has been left here.~
+wool~
+armor S AK
+24 24 24 18 0
+90 5 60 100
+A
+19 4
+A
+18 4
+A
+2 -2
+#7255
+windowsill~
+a {yw{Di{yndowsi{Dl{yl{x behind the {gl{Gon{gg g{Gr{ge{Ge{gn c{Gur{gta{Gin{gs{x~
+The bedroom window has been fitted with {gl{Gon{gg g{Gr{ge{Ge{gn c{Gur{gta{Gin{gs{x.~
+wood~
+container Sa P
+10 E 0 5 100
+0 0 0 100
+E
+windowsill long green curtains~
+The bedroom window has been fitted with {gl{Gon{gg g{Gr{ge{Ge{gn c{Gur{gta{Gin{gs{x although
+{yw{Di{yndowsi{Dl{yl{x behind the{g c{Gur{gta{Gin{gs{x is a bit dusty.  
+~
+#7256
+heavy leather-bound book travels jain farstrider~
+a copy of "{cThe Travels of Jain Farstrider{x"~
+A heavy leather-bound book has been left here.~
+leather~
+treasure S AO
+0 0 0 0 0
+90 1 100 100
+A
+13 -40
+A
+12 -40
+A
+19 10
+#7257
+woodsman axe~
+a {Dwo{wodsm{Wan's{D a{wx{We{x~
+A woodsman's axe has been propped up against the wall.~
+steel~
+weapon 0 AN
+axe 10 15 'cleave' F
+90 8 150 100
+A
+19 6
+#7258
+pile stack split wood~
+a pile of {ys{Yp{Wlit{y w{Yo{Wod{x~
+A pile of split wood has been neatly stacked against the wall of the farmhouse.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#7259
+dark blue breeches~
+a pair of {bdark blue breeches{x~
+A pair of breeches has been left here.~
+wool~
+armor S AF
+24 24 24 18 0
+90 4 60 100
+A
+1 3
+A
+2 3
+#7260
+leather gloves~
+a pair of {yleather gloves{x~
+A pair of leather gloves has been left here.~
+leather~
+armor S AH
+24 24 24 18 0
+90 1 85 100
+A
+2 6
+#7261
+pile hair neatly trimmed beard~
+a {yneatly-timmed beard{x~
+A pile of hair has been left here.~
+hair~
+armor KS AV
+24 24 24 18 0
+90 0 0 100
+A
+4 6
+#7262
+old trunk~
+an {yo{Dl{yd t{Dr{yu{Dn{yk{x~
+An {yo{Dl{yd t{Dr{yu{Dn{yk{x has been pushed to the back of the attic.~
+wood~
+container Sa P
+200 0 0 100 100
+0 0 0 100
+#7263
+old chest~
+an {yo{Dl{yd c{Dh{ye{Ds{yt{x~
+An {yo{Dl{yd c{Dh{ye{Ds{yt{x is sat here gathering dust.~
+wood~
+container Sa P
+200 AC 0 100 100
+0 0 0 100
+#7264
+rusty spear~
+{wa {rr{yu{ws{yt{ry s{yp{we{ya{rr{x~
+A rusty spear has been left here.~
+steel~
+weapon 0 AN
+spear 10 15 'stab' F
+90 7 150 100
+A
+18 3
+A
+19 3
+#7265
+scalemail jerkin~
+a {Ds{wcalemai{Dl j{werki{Dn{x~
+A scalemail jerkin has been left here.~
+steel~
+armor 0 AD
+24 24 24 18 0
+90 6 250 100
+A
+17 -30
+#7266
+wide brimmed helmet~
+a {Dw{wid{We{w {Db{wrimme{Wd{w {Dh{welme{Wt{x~
+A wide brimmed helmet has been left here.~
+steel~
+armor 0 AE
+23 23 23 16 0
+85 4 300 100
+A
+4 5
+#7267
+cutthroat razor~
+a {Dc{wut{Wthr{woa{Dt r{wa{Wz{wo{Dr{x~
+A cutthroat razor has been dropped here.~
+steel~
+weapon 0 AN
+dagger 9 14 'slash' 0
+80 1 150 100
+#7268
+pretty green dress~
+a {gp{Gr{Yet{Gt{gy g{Gr{Ye{Ge{gn d{Gr{Ye{Gs{gs{x~
+A green dress has been left here.~
+wool~
+armor S AD
+21 21 21 17 0
+80 4 60 100
+A
+4 2
+A
+3 2
+#7269
+half pike~
+a {Dh{wal{Wf{w {Dp{wik{We{x~
+A half pike has been left here.~
+steel~
+weapon 0 AN
+polearm 8 13 'stab' F
+75 10 150 100
+A
+19 3
+A
+18 3
+A
+17 10
+#7270
+leather tunic metal studs~
+a {Dl{yeathe{Dr t{yuni{Dc{x with {Dm{wet{Wal st{wud{Ds{x~
+A heavy leather tunic fitted with metal studs.~
+leather~
+armor 0 AD
+20 20 20 15 0
+75 6 100 100
+A
+19 1
+A
+18 1
+A
+17 -10
+#7271
+sourgum tree~
+a {gs{Go{gur{Ggu{gm t{Gre{ge{x~
+A forty-foot {gs{Go{gur{Ggu{gm t{Gre{ge{x has taken root at the center of the room.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#7272
+apple trees~
+one of the {ga{Gppl{ge t{Gree{gs{x~
+Row upon row of {ga{Gppl{ge t{Gree{gs{x grow throughout this large {go{Grchar{gd{x.~
+wood~
+container S P
+10 0 0 10 100
+0 0 0 100
+#7273
+apple~
+an {ga{Gppl{ge{x~
+An apple has been left here.~
+food~
+food S A
+2 2 0 0 0
+0 1 10 100
+#7274
+pear trees~
+one of the {yp{Yea{yr{g {yt{Yree{ys{x~
+Row upon row of {yp{Yea{yr{g {yt{Yree{ys{x grow throughout this large {go{Grchar{gd{x.~
+wood~
+container S P
+10 0 0 10 100
+0 0 0 100
+#7275
+pear~
+a {yp{Yea{yr{x~
+A pear has been left here.~
+food~
+food S A
+2 2 0 0 0
+0 1 10 100
+#7276
+half moon axe~
+a masterfully-crafted {Wh{wal{Wf-m{woo{Wn{w {Da{wx{De{x~
+A half-moon axe has been left here.~
+steel~
+weapon 0 P
+axe 10 15 'cleave' F
+90 6 300 100
+A
+19 6
+#7277
+tin canteen~
+a {Dt{wi{Dn ca{wnte{Den{w{x~
+This is a canteen made of tin.~
+tin~
+drink 0 A
+12 0 'water' 0 0
+0 2 140 100
+#7278
+rag doll~
+a {mr{Ma{mg d{Mol{ml{x~
+A rag doll has been dropped here.~
+cloth~
+trash S AO
+0 0 0 0 0
+0 1 0 100
+#7279
+white candle~
+a {Wwhite candle{x~
+A white candle has been left here.~
+wax~
+light S A
+0 0 2 0 0
+0 1 0 100
+#7280
+wooden bowl~
+a {yw{Yo{Woden {yb{Yo{Wwl{x~
+A {yb{Yo{Wwl{x carved from {yw{Yo{Wod{x has been placed here.~
+wood~
+trash S AO
+0 0 0 0 0
+0 1 0 100
+#7281
+wooden spoon~
+a {yw{Yo{Woden{x {ys{Yp{Woon{x~
+A {ys{Yp{Woon{x carved from {yw{Yo{Wod{x has been placed here.~
+wood~
+trash S AO
+0 0 0 0 0
+0 1 0 100
+#7282
+two rivers long bow~
+a {cT{Dwo {cR{Divers {ybow{x~
+A long bow from the Two Rivers has been left here.~
+wood~
+weapon S AN
+bow 10 15 'thwack' F
+90 5 300 100
+A
+12 -200
+A
+19 10
+A
+18 10
+#7283
+brass ring~
+a {yb{Yras{ys r{Yin{yg{x~
+A ring made of brass has been left here.~
+brass~
+armor S AB
+17 17 17 14 0
+65 1 50 100
+A
+18 1
+A
+4 1
+A
+5 1
+#7284
+mayor chains golden office~
+the {rM{Ra{Wy{Ro{rr's{x {yc{Yhain{ys{x of {yo{Yffic{ye{x~
+A set of golden chains has been left here.~
+brass~
+armor b 0
+24 24 24 18 0
+90 1 0 100
+A
+17 -30
+#7285
+hitching post~
+a {yh{Di{ytchi{Dn{yg po{Ds{yt{x~
+There is a {yh{Di{ytchi{Dn{yg po{Ds{yt{x at the north side of the yard next to the kitchen door.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#7200
+The North Road~
+The North Road is little more than a wide {ymuddy track{x that cuts through
+the far-west region of Andor known as the Two Rivers.  The land is a
+patchwork of {gf{yi{gel{yd{gs{x, {go{Grchard{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x that are bordered by {gforests{x and
+towered over by the sharp gray peaks of the Mountains of Mist that lie due
+west.  To the south lies Emond's Field, one of the Two Rivers quaint
+villages.  
+~
+0
+0 14
+D2
+~
+~
+0 0
+0 0 7201
+S
+#7201
+The North Road~
+The wide {ydirt thoroughfare{x that is commonly known as the North Road
+passes a collection of stout frame houses that surround a large {gv{Gi{gl{Gl{ga{Gg{ge
+g{Gr{ge{Ge{gn{x, a particularly squat construction sits on the east side of this road.
+The {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x itself is particularly unusual as it is divided into two
+by a gushing {cs{Ct{Wre{Ca{cm{x that flows eastward under a series of {yw{Do{yod{De{yn b{Dr{yidg{De{ys{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7200
+D1
+~
+~
+3 3
+1 0 7266
+D2
+~
+~
+0 0
+0 0 7215
+D3
+~
+~
+0 0
+0 0 7202
+S
+#7202
+A Narrow Street~
+This is a narrow unpaved street that winds its way around the {gv{Gi{gl{Gl{ga{Gg{ge
+g{Gr{ge{Ge{gn{x of Emond's Field.  The large expanse of grassy land known as the Green
+lies due south of this point, the area is bisected by a surging {cs{Ct{Wre{Ca{cm{x.  A
+neat row of thatched buildings border the opposite side of the road, the
+majority of them are cottages.  The street joins a much wider thoroughfare
+to the east known as the North Road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 7201
+D2
+~
+~
+0 0
+0 0 7233
+D3
+~
+~
+0 0
+0 0 7203
+S
+#7203
+A Narrow Street~
+This narrow street is barely more than a {ydirt track{x that connects a row
+of thatched buildings built along the northern edge of the Green, mirroring
+the buildings at the opposite side.  A blacksmith's forge sits among the
+cottages at this point; it stands out from the houses as it is a stone
+structure rather than a stout frame building.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 7342
+D1
+~
+~
+0 0
+0 0 7202
+D2
+~
+~
+0 0
+0 0 7232
+D3
+~
+~
+0 0
+0 0 7204
+S
+#7204
+A Narrow Street~
+This is a long yet narrow street that leads around the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x of
+Emond's Field.  A fierce gushing {cs{Ct{Wre{Ca{cm{x can be seen from this point,
+dividing the grassy area into two.  There are two wooden {yf{Do{yot b{Dr{yidg{De{ys{x
+crossing the {cs{Ct{Wre{Ca{cm{x as well as a much wider crossing to the southeast. 
+Thatched houses flank the northern side of the street, mirroring the
+structures at the opposite side.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 7203
+D2
+~
+~
+0 0
+0 0 7231
+D3
+~
+~
+0 0
+0 0 7205
+S
+#7205
+A Narrow Street~
+This is a narrow unpaved road that leads around the northern and western
+sides of the Green, the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x that sits at the heart of Emond's
+Field.  The grassy area is separated into two parts by a fast flowing {cs{Ct{Wre{Ca{cm{x
+that originates from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x on the west side of the {gv{Gi{gl{Gl{ga{Gg{ge
+g{Gr{ge{Ge{gn{x.  Both the road and the Green are overlooked by several thatched
+cottages that are in turn encompassed by an area of dense woodland.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 7204
+D2
+~
+~
+0 0
+0 0 7206
+S
+#7206
+A Narrow Street~
+This is a narrow unpaved street that snakes its way around the {gv{Gi{gl{Gl{ga{Gg{ge
+g{Gr{ge{Ge{gn{x of Emond's Field.  A large expanse of grassy land known as the Green
+lies due east of this point, the area is bisected by a surging {cs{Ct{Wre{Ca{cm{x which
+originates from a low {Dr{wo{Wck{wy o{Dut{wc{Wr{wo{Dp{x.  A neat row of thatched buildings
+border the opposite side of the road, nearly all of them are cottages.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7205
+D1
+~
+~
+0 0
+0 0 7231
+D2
+~
+~
+0 0
+0 0 7207
+D3
+~
+~
+3 3
+1 0 7336
+S
+#7207
+A Narrow Street~
+This narrow street is barely more than a {ydirt track{x that connects a row
+of thatched buildings built along the western edge of the Green.  There are
+similar buildings along the other three sides of the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x although
+an unusually large building can be seen on the east side.  A fierce rushing
+{cs{Ct{Wre{Ca{cm{x can also be seen from here, emerging from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x at the
+west side of the Green and dividing the area in half.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7206
+D2
+~
+~
+0 0
+0 0 7230
+D3
+~
+~
+3 3
+1 0 7337
+S
+#7208
+Quarry Road~
+Despite this being the western edge of Emond's Field, Quarry Road
+continues westwards into the Westwood.  A few thatched cottages can be seen
+here dotted amongst the {gt{Gr{ge{Ge{gs{x but the majority of the houses border the
+{gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x that lies to the east.  A second, much narrower street leads
+northwards along the western edge of the Green.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7230
+D1
+~
+~
+0 0
+0 0 7209
+D3
+~
+~
+0 0
+0 0 7217
+S
+#7209
+Quarry Road~
+Quarry Road is a narrow {ydirt-packed road{x that leads east/west through
+Emond's Field and into the Westwood.  A neat row of thatched {yt{Di{ymb{De{yr{x frame
+houses borders the southern side of the road whilst a large {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x
+divided into two by a {cs{Ct{Wre{Ca{cm{x lies on the opposite side.  More houses can be
+seen along the opposite of the Green as well as a blacksmith's forge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7236
+D1
+~
+~
+0 0
+0 0 7210
+D2
+~
+~
+3 3
+1 0 7339
+D3
+~
+~
+0 0
+0 0 7208
+S
+#7210
+Quarry Road~
+Quarry Road is a narrow {ydirt-packed road{x that leads east/west through the
+village of Emond's Field and into the Westwood.  A neat row of thatched
+{yt{Di{ymb{De{yr{x frame houses borders the southern side of the road whilst a large
+{gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x lies on the opposite side.  A wide rushing {cs{Ct{Wre{Ca{cm{x cuts through
+the center of the grassy land, virtually dividing the village into two.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7235
+D1
+~
+~
+0 0
+0 0 7211
+D2
+~
+~
+3 3
+1 0 7340
+D3
+~
+~
+0 0
+0 0 7209
+S
+#7211
+Quarry Road~
+This is the east end of Quarry Road, a narrow {ydirt-packed road{x that leads
+east/west through the village of Emond's Field and into the Westwood.  Along
+the south side of the road is a neat row of thatched {yt{Di{ymb{De{yr{x frame houses
+whilst a large {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x lies on the opposite side.  Quarry Road joins a
+much wider thoroughfare to the east.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7234
+D1
+~
+~
+0 0
+0 0 7212
+D2
+~
+~
+3 3
+1 0 7341
+D3
+~
+~
+0 0
+0 0 7210
+S
+#7212
+The Old Road~
+The broad {ydirt thoroughfare{x known as the Old Road passes a collection of
+stout frame houses that encircle a large {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x.  The {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x
+itself is particularly odd as it is divided into two by a gushing {cs{Ct{Wre{Ca{cm{x
+that flows eastward under a series of {yw{Do{yod{De{yn b{Dr{yidg{De{ys{x.  Two roads lead off
+from this point, Quarry Road lies to the west whilst Winespring Road lies to
+the east.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7214
+D1
+~
+~
+0 0
+0 0 7223
+D2
+~
+~
+0 0
+0 0 7213
+D3
+~
+~
+0 0
+0 0 7211
+S
+#7213
+The Old Road~
+The Old Road is little more than a wide {ymuddy track{x that cuts through the
+southern half of the Andoran district of the Two Rivers.  The land is a
+patchwork of {go{Grchard{gs{x, {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x that are bordered by {gforests{x and
+towered over by the jagged gray peaks of the Mountains of Mist that lie due
+west.  To the north lies Emond's Field, one of the Two Rivers quaint
+villages.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7212
+S
+#7214
+The Old Road~
+This is the north end of the Old Road, the wide {ydirt thoroughfare{x that
+passes through the southern half of Emond's Field to the banks of the River
+Manetherendrelle, known to the locals as the White River.  The end of the
+road is marked by a wide {yw{Do{yod{De{yn b{Dr{yid{Dg{ye{x that shows signs of wear and tear by
+{yc{wa{Dr{wt{ys{x and {Dw{yagon{Ds{x.  There are several large buildings bordering the east side
+of the road including the Winespring Inn, Emond's Field's only inn.  To the
+west lies the Green that is surrounded by numerous small houses.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7216
+D1
+~
+~
+0 0
+0 0 7239
+D2
+~
+~
+0 0
+0 0 7212
+D3
+~
+~
+0 0
+0 0 7234
+S
+#7215
+The North Road~
+This is the southern end of the North Road, the wide {ydirt thoroughfare{x
+that passes through the northern half of Emond's Field and beyond.  The end
+of the road is marked by a wide {yw{Do{yod{De{yn b{Dr{yid{Dg{ye{x known to the locals as the
+Wagon Bridge, the signs of wear and tear upon the structure shows that this
+bridge does indeed live up to its name and has been used a lot by {yc{wa{Dr{wt{ys{x and
+{Dw{yagon{Ds{x.  To the west lies the Green that is surrounded by numerous small
+houses.  Much larger buildings can be seen along the east side of this road.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7201
+D2
+~
+~
+0 0
+0 0 7216
+D3
+~
+~
+0 0
+0 0 7233
+S
+#7216
+The Wagon Bridge~
+The Wagon Bridge is one of three {yw{Do{yod{De{yn b{Dr{yidg{De{ys{x that cross the Winespring
+Water but it is the only one wide enough to accommodate {yc{wa{Dr{wt{ys{x and {Dw{yagon{Ds{x. 
+The bridge links two muddy roads, to the north is the North Road whilst to
+the south is the Old Road.  This point gives an excellent view of the large
+grassy area to the west known as the Green and the hodgepodge of thatched
+cottages built around it.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7215
+D2
+~
+~
+0 0
+0 0 7214
+S
+#7217
+Quarry Road~
+A tangled mess of {gt{Gr{ge{Ge{gs{x and {yb{gr{Dia{gr{ys{x flank this {ydirt track{x that is known as
+Quarry Road.  The path is quite rough and bumpy with the occasional piece of
+{Ds{wt{Wo{wn{De p{wa{Wvi{wn{Dg{x poking through the surface, suggesting that this area was a
+much grander road.  The {gt{Gr{ge{Ge{gs{x start to thin out at this point along the road
+and the little village of Emond's Field can be seen through the gaps in the
+foliage to the east.  
+~
+0
+C 14
+D1
+~
+~
+0 0
+0 0 7208
+D3
+~
+~
+0 0
+0 0 7218
+S
+#7218
+Quarry Road~
+The gnarled old {gt{Gr{ge{Ge{gs{x of the Westwood loom gloomily over this {ydirt track{x
+called Quarry Road.  The odd farm can be seen through the gaps between the
+dense foliage but only the toughest of farmers dare to work this land. 
+Despite their gigantic size, the {gt{Gr{ge{Ge{gs{x of this forest are in turn dwarfed by
+the jagged gray peaks of the Mountains of Mist that lie to the west.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 7217
+D3
+~
+~
+0 0
+0 0 7219
+S
+#7219
+Quarry Road~
+The towering {gt{Gr{ge{Ge{gs{x of the Westwood loom ominously over this {ydirt track{x
+that is known as Quarry Road.  The path is quite rough and bumpy with the
+occasional piece of {Ds{wt{Wo{wn{De p{wa{Wvi{wn{Dg{x poking through the surface, suggesting that
+this area was a much grander road.  The area surrounding the road covered
+with an assorted mix of {gn{ce{gttl{ce{gs{x and {yb{gr{Dia{gr{ys{x amongst the {gt{Gr{ge{Ge{gs{x.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 7218
+D3
+~
+~
+0 0
+0 0 7220
+S
+#7220
+Quarry Road~
+Tangled masses of {gt{Gr{ge{Ge{gs{x and other vegetation lay either side of this
+east/west {ydirt track{x that is known as Quarry Road.  The odd farm can be seen
+through the gaps between the {gt{Gr{ge{Ge{gs{x but only the toughest of farmers would
+dare to work this land.  Despite their huge size, the {gt{Gr{ge{Ge{gs{x of this forest
+are in turn dwarfed by the jagged gray peaks of the Mountains of Mist that
+lie to the west.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 7219
+D3
+~
+~
+0 0
+0 0 7221
+S
+#7221
+Quarry Road~
+The towering {gt{Gr{ge{Ge{gs{x of the Westwood loom ominously over this {ydirt track{x
+that is known as Quarry Road.  Perhaps in the past the road led to a quarry
+but now all that lies west of this point are the virtually deserted Sand
+Hills and Mountains of Mist.  Only the hardiest of farmers own land in the
+outskirts, most of the local farms lie east of here in or around the village
+of Emond's field.  
+~
+0
+C 14
+D1
+~
+~
+0 0
+0 0 7220
+D2
+~
+~
+4096 4096
+0 0 7248
+D3
+~
+~
+0 0
+0 0 7222
+S
+#7222
+Quarry Road~
+Quarry Road is a long {ydirt track{x that links the Westwood to the village
+of Emond's Field that lies in the distance to the east.  The path is quite
+rough and bumpy with the occasional piece of {Ds{wt{Wo{wn{De p{wa{Wvi{wn{Dg{x poking through the
+surface, suggesting that this area was a much grander thoroughfare.  The
+area is covered with an assorted mix of deciduous and coniferous {gt{Gr{ge{Ge{gs{x,
+{yb{gra{ymb{gle{ys{x and {gn{ce{gttl{ce{gs{x.  A couple of farms can be seen in this area but none
+lie west of this point, only the ominous Sand Hills and the Mountains of
+Mist.  
+~
+0
+C 14
+D0
+~
+~
+4096 4096
+0 0 7247
+D1
+~
+~
+0 0
+0 0 7221
+S
+#7223
+Winespring Road~
+This is the western end of Winespring Road, a long yet narrow {ydirt road{x
+that leads eastwards towards the Waterwood.  Although this road is named
+after the {cs{Cp{Wri{Cn{cg{x that flows through the center of Emond's Field, the spring
+is not visible from this point.  The main landmarks that can be seen from
+this point are the Old Road lies to the west and the Winespring Inn that
+lies to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7239
+D1
+~
+~
+0 0
+0 0 7224
+D3
+~
+~
+0 0
+0 0 7212
+S
+#7224
+Winespring Road~
+Winespring Road is a long yet narrow {ymuddy track{x that leads east/west. 
+The great bulking structure known as the Winespring Inn lies due north but
+there is no entrance from this point.  To the west lies the Old Road and
+beyond that lies a neat row of houses along the southern edge of the Green. 
+The land to the south of the Winespring Road is a patchwork of {gf{yi{gel{yd{gs{x and
+{gp{Ga{gs{Gtu{gr{Ge{gs{x, bordered with {gh{De{gd{yger{go{Dw{gs{x.  {gT{Gr{ge{Ge{gs{x can be seen dotted around the
+farmhouses but in the distance to the east is an area of very dense woodland
+known as the Waterwood.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 7225
+D3
+~
+~
+0 0
+0 0 7223
+S
+#7225
+Winespring Road~
+Winespring Road is a long yet narrow {ydirt track{x that leads east/west.  A
+large stable yard lies north of here with two large buildings sat on
+opposite sides of it.  To the south is a huge sprawl of land, a patchwork of
+{gf{yi{gel{yd{gs{x, {go{Grchard{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x that are dotted with a few {gt{Gr{ge{Ge{gs{x and farms. 
+Emond's Field's {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x can be seen in the distance to the west,
+surrounded by small thatched houses that look out over the grassy area.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 7252
+D1
+~
+~
+0 0
+0 0 7226
+D3
+~
+~
+0 0
+0 0 7224
+S
+#7226
+Winespring Road~
+Winespring Road is a long yet narrow {ymuddy track{x that leads east/west. 
+The land on either side of the road is a patchwork of {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x,
+bordered with {gh{De{gd{yger{go{Dw{gs{x.  The number of farms dwindles to the east and the
+land becomes more populated with {gt{Gr{ge{Ge{gs{x.  The village of Emond's Field lies
+along the road in the opposite direction beyond which lies the densely
+packed Westwood and the towering peaks of the Mountains of Mist.  
+~
+0
+C 14
+D1
+~
+~
+0 0
+0 0 7227
+D3
+~
+~
+0 0
+0 0 7225
+S
+#7227
+Winespring Road~
+Winespring Road is a long yet narrow {ymuddy track{x that leads east/west. 
+The land on either side of the road is a patchwork of {gp{Ga{gs{Gtu{gr{Ge{gs{x, field and
+{go{Grchard{gs{x that are bordered with {gh{De{gd{yger{go{Dw{gs{x.  Narrow {ymuddy tracks{x wind their
+way through the landscape, connecting the individual farms to this road. 
+The Winespring Water can be seen to the north as it surges eastwards towards
+the Waterwood and the Mire.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 7228
+D2
+~
+~
+4096 4096
+0 0 7243
+D3
+~
+~
+0 0
+0 0 7226
+S
+#7228
+Winespring Road~
+Winespring Road is a long yet narrow {ymuddy track{x that leads east/west. 
+The land on either side of the road is a patchwork of {gp{Ga{gs{Gtu{gr{Ge{gs{x, {gf{yi{gel{yd{gs{x and
+{go{Grchard{gs{x that are bordered with {gh{De{gd{yger{go{Dw{gs{x.  The Winespring Water can be seen
+to the north as it surges eastwards towards the Waterwood and the Mire, a
+watermill has been built nearby which takes advantage of the power of the
+Winespring's current.  
+~
+0
+0 14
+D0
+~
+gate~
+3 3
+1 0 7292
+D1
+~
+~
+0 0
+0 0 7229
+D3
+~
+~
+0 0
+0 0 7227
+S
+#7229
+Winespring Road~
+Depending on one's point of view, Winespring Road starts or ends at this
+point.  The ground to the east of becomes too soft and boggy to support the
+weight of {Dw{yagon{Ds{x as the Winespring Water splits into smaller {cw{Cat{Werw{Cay{cs{x that
+feed both the Waterwood and the Mire.  To the west the land becomes much
+firmer and {gt{Gr{ge{Ge{gs{x give way to clusters of farms.  
+~
+0
+C 14
+D1
+~
+~
+4096 4096
+0 0 7290
+D3
+~
+~
+0 0
+0 0 7228
+S
+#7230
+A Narrow Street~
+This is a long yet narrow road street that leads around Emond's Field's
+{gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x.  A fierce gushing {cs{Ct{Wre{Ca{cm{x can be seen from this point,
+emerging from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x and dividing the grassy area in half.  The
+area is overlooked by stout frame cottages that have steeply sloped thatched
+roofs.  This street joins a much wider thoroughfare to the south known as
+Quarry Road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 7207
+D1
+~
+~
+0 0
+0 0 7236
+D2
+~
+~
+0 0
+0 0 7208
+D3
+~
+~
+3 3
+1 0 7338
+S
+#7231
+The Green~
+This is the western end of the Green, a large area of grassy land
+surrounded by thatched houses.  A fast flowing {cs{Ct{Wre{Ca{cm{x known as the
+Winespring Water emerges from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x on the west side of the
+{gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x, the force of which is enough to knock a fully grown man off
+of his feet.  The {cs{Cp{Wri{Cn{cg{x divides the Green into two but three {yw{Do{yod{De{yn b{Dr{yidg{De{ys{x
+provide a route over the {cw{Cat{Wer{Cwa{cy{x, one of the smaller {yf{Do{yot b{Dr{yidg{De{ys{x lies to
+the south.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7204
+D1
+~
+~
+0 0
+0 0 7232
+D2
+~
+~
+0 0
+0 0 7237
+D3
+~
+~
+0 0
+0 0 7206
+S
+#7232
+The Green~
+The Green lies at the heart of the little village of Emond's Field.  It
+is a big expanse of grassy land bordered by thatched stout frame cottages. 
+A rapid flowing {cs{Ct{Wre{Ca{cm{x known as the Winespring Water emerges from a low {Dr{wo{Wc{wk
+o{Dut{wc{Wr{wo{Dp{x on the west side of the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x, dividing the area into two. 
+The Green is used as a gathering place for special occasions such as
+festivals as well as a place for the children to play or the locals to
+indulge in a game of bowls.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7203
+D1
+~
+~
+0 0
+0 0 7233
+D3
+~
+~
+0 0
+0 0 7231
+S
+#7233
+The Green~
+This is the eastern end of the Green, a large expanse of grassy land
+encircled by thatched houses.  A fast flowing {cs{Ct{Wre{Ca{cm{x known as the Winespring
+Water emerges from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x on the west side of the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x,
+the force of which is enough to knock a fully grown man off of his feet. 
+The {cs{Cp{Wri{Cn{cg{x divides the Green in half but three {yw{Do{yod{De{yn b{Dr{yidg{De{ys{x provide a
+route over the {cw{Cat{Wer{Cwa{cy{x, one of the smaller {yf{Do{yot b{Dr{yidg{De{ys{x lies to the south. 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7202
+D1
+~
+~
+0 0
+0 0 7215
+D2
+~
+~
+0 0
+0 0 7238
+D3
+~
+~
+0 0
+0 0 7232
+S
+#7234
+The Green~
+This is the eastern end of the Green, a large area of grassy land
+bordered by thatched stout frame houses.  A fast flowing {cs{Ct{Wre{Ca{cm{x known as the
+Winespring Water surfaces from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x on the west side of the
+{gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x, the force of which is enough to knock a fully grown man off
+of his feet.  The {cs{Ct{Wre{Ca{cm{x divides the Green in half but three {yw{Do{yod{De{yn b{Dr{yidg{De{ys{x
+provide a route over the {cw{Cat{Wer{Cwa{cy{x, one of the smaller {yf{Do{yot b{Dr{yidg{De{ys{x lies to
+the north.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7238
+D1
+~
+~
+0 0
+0 0 7214
+D2
+~
+~
+0 0
+0 0 7211
+D3
+~
+~
+0 0
+0 0 7235
+S
+#7235
+The Green~
+The Green lies at the middle of the village of Emond's Field.  It is a
+big expanse of grassy land encircled by thatched cottages.  A fast flowing
+{cs{Ct{Wre{Ca{cm{x known as the Winespring Water emerges from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x on the
+west side of the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x, dividing the area into two.  The Green is
+used as a gathering place for special occasions such as festivals as well as
+a place for the children to play or the locals to indulge in a game of
+bowls.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 7234
+D2
+~
+~
+0 0
+0 0 7210
+D3
+~
+~
+0 0
+0 0 7236
+S
+#7236
+The Green~
+This is the western end of the Green, a large area of grassy land
+surrounded by thatched stout frame houses.  A rapid flowing {cs{Ct{Wre{Ca{cm{x known as
+the Winespring Water surfaces from a low {Dr{wo{Wc{wk o{Dut{wc{Wr{wo{Dp{x on the west side of
+the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x, the force of which is enough to knock a fully grown man
+off of his feet.  The {cs{Ct{Wre{Ca{cm{x divides the Green into two but three {yw{Do{yod{De{yn
+b{Dr{yidg{De{ys{x provide a route over the {cw{Cat{Wer{Cwa{cy{x, one of the smaller {yf{Do{yot b{Dr{yidg{De{ys{x
+lies to the north.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7237
+D1
+~
+~
+0 0
+0 0 7235
+D2
+~
+~
+0 0
+0 0 7209
+D3
+~
+~
+0 0
+0 0 7230
+S
+#7237
+A Foot Bridge~
+The strength of the current of the Winespring Water as it emerges from a
+{Dr{wo{Wck{wy o{Dut{wc{Wr{wo{Dp{x at the west side of the Green is too strong to cross by foot
+without this {yf{Do{yot b{Dr{yid{Dg{ye{x.  It is a narrow yet sturdy arched construction
+made of thick {yt{Di{ymb{De{yr{x beams which is almost identical to the second {yf{Do{yot
+b{Dr{yid{Dg{ye{x on the east side of the Green.  The bridge provides a good vantage
+point of the thatched buildings of the village and the {gforest{x and {gf{yi{gel{yd{gs{x
+that surround it.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7231
+D2
+~
+~
+0 0
+0 0 7236
+S
+#7238
+A Foot Bridge~
+The strength of the current of the Winespring Water as it emerges from a
+{Dr{wo{Wck{wy o{Dut{wc{Wr{wo{Dp{x at the west side of the Green is too strong to cross by foot
+without this {yf{Do{yot b{Dr{yid{Dg{ye{x.  It is a narrow yet robust arched construction
+made of thick wooden beams and is almost identical to the second {yf{Do{yot b{Dr{yid{Dg{ye{x
+on the west side of the village.  The bridge provides a fine view of the
+Emond's Field's thatched cottages and the {gforest{x and {gf{yi{gel{yd{gs{x that surround
+them.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 7233
+D2
+~
+~
+0 0
+0 0 7234
+S
+#7239
+Outside The Winespring Inn~
+The Winespring Inn is the largest building of the village however unlike
+the other buildings of Emond's Field, the inn has twelve chimneys and it has
+been roofed with {rred tiles{x.  The first floor of the building is made from
+{Dr{wi{Wv{we{Dr{w r{Wo{wc{Dk{x but the inn's {Df{wo{Wu{wn{Dd{wa{Dt{wi{Wo{wn{Ds{x are of older stone that once came from
+the mountains.  The {Df{wo{Wu{wn{Dda{wt{Wi{wo{Dn{x continues south of the inn, appearing to be
+the remains of a much older and larger structure.  The second floor of the
+building has been constructed from timber and juts out over the first floor
+all the way around.  
+~
+0
+C 2
+D1
+~
+~
+3 3
+1 0 7240
+D2
+~
+~
+0 0
+0 0 7223
+D3
+~
+~
+0 0
+0 0 7214
+S
+#7240
+The Common Room Of The Winespring Inn~
+The common room of the Winespring Inn is warm and cozy place despite its
+walls being created out of {Dr{wi{Wv{we{Dr{w r{Wo{wc{Dk{x.  The room is relatively large and has
+been built with a tall {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x that is almost half the length of room.  A
+steep {ys{Dt{ya{Di{yr{Dc{ya{Ds{ye{x leads to the second floor where the guest rooms and the
+innkeeper's quarters lie whilst on the north side of the room is a door
+leading into a short hallway.  The only other exit from the common room is a
+sturdy door on the west side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7241
+D3
+~
+~
+3 3
+1 0 7239
+D4
+~
+~
+0 0
+0 0 7254
+S
+#7241
+A Short Hallway~
+Like the rest of the rooms that lie on the first floor of this building,
+the walls of this hallway have been constructed form {Dr{wi{Wv{we{Dr{w r{Wo{wc{Dk{x.  There are
+two doorways along this hallway, the one to the south leads into the common
+room whilst the one on the east side of the corridor leads into the inn's
+kitchen.  A {Dh{wo{Wo{Dk{x has been fixed into the wall next to the kitchen door; the
+{Ds{wo{Do{wt{Dy m{wa{Dr{wk{Ds{x around it suggest that a lamp was once hung here.  A closer
+examination of the floor below the {Dh{wo{Wo{Dk{x reveals a {yt{Dr{yapdo{Do{yr{x which probably
+leads into a cellar.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7242
+D2
+~
+~
+3 3
+1 0 7240
+D5
+~
+trapdoor~
+3 3
+1 0 7251
+S
+#7242
+The Kitchen Of The Winespring Inn~
+Despite the walls of the inn's kitchen being constructed from {Dr{wi{Wv{we{Dr{w
+{Ds{wt{Wo{wn{De{x, the room has a warm and homely feel to it.  Four {Df{wi{Wr{we{Dpl{wa{Wc{we{Ds{x and two
+{Di{wro{Dn st{wov{Des{x have been built into the kitchen as well as numerous cupboards,
+drawers and worktops.  A faint aroma of {Dt{ya{Db{ya{Dc{x and {yale{x drifts in through the
+door on the west side of the room whilst a cool {Cd{Wr{Ca{Wu{Cg{Wh{Ct{x flows through a gap
+underneath the door on the south side of the kitchen; a window next to the
+southern exit looks out over a thatched stable and a yard.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7252
+D3
+~
+~
+3 3
+1 0 7241
+S
+#7243
+A Muddy Track~
+This is a wide {ymuddy track{x flanked by thick {gh{De{gd{yger{go{Dw{gs{x that mark the
+perimeters of various {gf{yi{gel{yd{gs{x, {go{Grchard{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x.  There are several
+small farms dotted around the area although their numbers dwindle to the
+east where in the distance where the Waterwood and the Mire can be seen. 
+The track slopes gently downwards to the north where it joins with a wider
+east/west thoroughfare.  
+~
+0
+C 14
+D0
+~
+~
+4096 4096
+0 0 7227
+D2
+~
+~
+0 0
+0 0 7244
+S
+#7244
+A Muddy Track~
+This is a wide {ymuddy track{x edged by {gh{De{gd{yger{go{Dw{gs{x that mark the borders of
+various {go{Grchard{gs{x, {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x.  There are several small farms dotted
+around the area although their numbers dwindle to the east where in the
+distance as the land approaches the Waterwood and the Mire.  The track forks
+at this point, to the west and east are farms whilst a wide thoroughfare can
+be seen downhill to the north.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7243
+D1
+~
+~
+0 0
+0 0 7246
+D3
+~
+~
+0 0
+0 0 7245
+S
+#7245
+A Muddy Track~
+This is a wide {ymuddy track{x edged by {gh{De{gd{yger{go{Dw{gs{x that mark the borders of
+various {go{Grchard{gs{x, {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x.  The ground has been churned up to a
+pulp by the horses and {yc{wa{Dr{wt{ys{x that use this road.  There are several small
+farms scattered around the vicinity, one such farm can be seen due west of
+here.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 7244
+D3
+~
+gate~
+3 3
+1 0 7270
+S
+#7246
+A Muddy Track~
+This is a broad {ymuddy track{x edged by {gh{De{gd{yger{go{Dw{gs{x that mark the borders of
+various {gp{Ga{gs{Gtu{gr{Ge{gs{x, {gf{yi{gel{yd{gs{x and {go{Grchard{gs{x.  The road's surface has been churned
+up into a pulp by various {yc{wa{Dr{wt{ys{x and horses that use it.  There are a few
+small farms scattered around the vicinity, one such farm can be seen due
+east of here.  
+~
+0
+0 14
+D1
+~
+gate~
+3 3
+1 0 7275
+D3
+~
+~
+0 0
+0 0 7244
+S
+#7247
+A Muddy Track~
+This is a wide {ymuddy track{x that leads deep into the Westwood, winding its
+way past ancient {gt{Gr{ge{Ge{gs{x and large rocks.  The ground here is stony and yet a
+few local farmers manage to tame lies land to a degree.  One such farm lies
+north of here past the towering {gt{Gr{ge{Ge{gs{x and the tangled {gt{yh{Di{gck{De{yt{gs{x that surround
+this track.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 7263
+D2
+~
+~
+4096 4096
+0 0 7222
+S
+#7248
+The Lightning-Split Oak~
+Although the ground here is very stony it is also fertile.  Tall oak
+{gt{Gr{ge{Ge{gs{x grow in abundance in this area as well as thick tangles of {yb{gra{ymb{gle{ys{x
+and {gv{Gi{Wn{Ge{gs{x.  A mulch of oak leaves litters the ground as well as a scattering
+of squirrel-chewed {ga{Dc{yor{Dn{gs{x.  One tree in this area stands out from the rest
+in this area, an oak that is almost completely cleaved into two, the two
+halves of its trunk lean apart like a fork.  The inside surface of the tree
+is black and hardened like iron.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 7221
+D3
+~
+~
+0 0
+0 0 7249
+S
+#7249
+A Disused Path~
+This was once a small path leading through the Westwood to a large house
+but little of the path remains now.  Only the tall {gt{Gr{ge{Ge{gs{x that once flanked
+the path keep the undergrowth down to a large extent in this area, making
+the way passable.  There are no other buildings in view from this point; the
+derelict house stands alone amongst the vegetation.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 7248
+D2
+~
+~
+0 0
+0 0 7250
+S
+#7250
+Before The Old Sickhouse~
+The thick vegetation has almost claimed what is left of the Old
+Sickhouse.  It is a ramshackle one storey building whose walls lean almost
+drunkenly.  The walls are choked with {gv{Gi{Wn{Ge{gs{x and {yb{gr{Dia{gr{ys{x that snake their way
+across the surface of the masonry.  {gV{Gi{Wn{Ge{gs{x also cover part of the original
+thatching which still remains but half of the house's rooms are open to the
+sky.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 7249
+D2
+~
+~
+3 3
+1 0 7344
+S
+#7251
+A Stone Cellar~
+The Winespring Inn's cellar is a stone-walled room that was probably part
+of a much bigger building.  Wooden racks fixed along the walls and the floor
+hold {yc{Da{ys{Dk{ys{x of {yb{Yr{yan{Yd{yy{x and {yc{Yi{yd{Ye{yr{x as well as larger {yb{Da{yrre{Dl{ys{x of {yale{x and {mw{Min{me{x. 
+Many of the {mw{Min{me{x {yb{Da{yrre{Dl{ys{x are marked with their year of purchase, what
+peddler brought them and in which city they were made but the {yale{x and {yb{Yr{yan{Yd{yy{x
+appears to be made on the Two Rivers farms or by the innkeeper.  There
+appears to be only one exit from this room, a steep {Ds{wt{Wo{wn{De s{wta{Wirc{was{De{x that
+leads upwards to a {yt{Dr{yapdo{Do{yr{x set in the ceiling.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+3 3
+1 0 7241
+S
+#7252
+The Stable Yard Of The Winespring Inn~
+This is a large yard that is tucked between two large buildings.  The
+largest building of the two is an inn that has been built around the west
+and north sides of the yard.  Unlike the rest of the buildings in Emond's
+Field, part of the inn's walls has been built from {Dr{wi{Wv{we{Dr{w r{Wo{wc{Dk{x and the roof
+has been covered with {rred tiles{x.  The smaller of the two buildings lies on
+the east side of the yard and is a long and narrow stable with a steeply
+sloped roof that is covered with thatch.  A wide {ymuddy track{x leads
+southwards from this yard and joins a long east/west thoroughfare.  
+~
+0
+C 1
+D0
+~
+~
+3 3
+1 0 7242
+D1
+~
+~
+3 3
+1 0 7253
+D2
+~
+gate~
+3 3
+1 0 7225
+S
+#7253
+The Stable Of The Winespring Inn~
+The stable is a very long yet narrow building that looks well maintained.
+Like the majority of the buildings in the village, this building is a timber
+frame construction with a steeply sloping roof that has been covered with
+thatch.  The building has over eighteen individual stalls to accommodate the
+horses that belong to the inn's guests.  There are two sets of double doors
+that lead out into the stable yard, one at each end of the western side of
+the stable.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 7252
+S
+#7254
+A Narrow Hallway~
+This is the southern end of a long yet narrow hallway within the
+Winespring Inn.  Unlike the first floor of the building that is built out of
+{Dr{wi{Wv{we{Dr{w r{Wo{wc{Dk{x, the second floor of the building has been constructed from
+{yt{Di{ymb{De{yr{x.  There are numerous doorways along this corridor that lead into the
+guest rooms.  The only other exit from this room is a steep {ys{Dt{ya{Di{yr{Dc{ya{Ds{ye{x at
+this point that leads down to the common room.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 7255
+D1
+~
+~
+3 3
+1 0 7262
+D2
+~
+~
+3 3
+1 0 7261
+D3
+~
+~
+3 3
+1 0 7260
+D5
+~
+~
+0 0
+0 0 7240
+S
+#7255
+A Narrow Hallway~
+This is a long yet narrow hallway located on the second floor of the
+Winespring Inn.  Unlike the first floor of the building that is constructed
+out of {Dr{wi{Wv{we{Dr{w r{Wo{wc{Dk{x, this floor of the building has been built from {yt{Di{ymb{De{yr{x. 
+There are numerous doorways along this hallway that lead into the guest
+rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 7256
+D2
+~
+~
+0 0
+0 0 7254
+D3
+~
+~
+3 3
+1 0 7259
+S
+#7256
+A Narrow Hallway~
+This is the northern end of a long yet narrow hallway in the Winespring
+Inn.  Unlike the first floor of the building that is built out of {Dr{wi{Wv{we{Dr{w
+r{Wo{wc{Dk{x, the second floor of the building has been constructed from {yt{Di{ymb{De{yr{x. 
+There are several doors along this passageway but the most interesting is a
+door on the east side of the corridor that leads into the innkeeper's
+quarters.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7257
+D1
+~
+~
+3 3
+1 0 7327
+D2
+~
+~
+0 0
+0 0 7255
+D3
+~
+~
+3 3
+1 0 7258
+D4
+~
+trapdoor~
+4099 4099
+1 0 7326
+S
+#7257
+A Snug Guest Room~
+The small stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x on the east side of the guest room helps to
+make it a warm and cozy one.  Like the rest of the second floor of the inn,
+this room has been built from {yt{Di{ymb{De{yr{x.  {wW{Whit{we c{Wurtain{ws{x have been fitted to
+the large window on the west side of the room that looks out over the
+{gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x and the cluster of stout frame houses that surround it.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7256
+S
+#7258
+A Snug Guest Room~
+The small stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x on the north side of the guest room helps to
+make it a warm and snug one.  Like the rest of the second floor of the
+building, this room has been constructed from {yt{Di{ymb{De{yr{x.  {yY{Yello{yw c{Yurtain{ys{x have
+been fitted to the window on the west side of the room that looks out over
+the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x and the woodland that lies beyond it.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7256
+S
+#7259
+A Snug Guest Room~
+This is one of the guest rooms within the Winespring Inn.  The small stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x on the north side of the room helps to make it warm and comfy. 
+Like the rest of the second floor of the building, this room has been
+constructed from {yt{Di{ymb{De{yr{x.  {cB{Clu{ce c{Curtain{cs{x have been fitted to the large window
+on the west side of the gives a wonderful view of the {gforests{x and mountains
+that lie beyond the village.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7255
+S
+#7260
+A Snug Guest Room~
+The small stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x on the north side of the guest room helps to
+make it a warm and homely one.  Like the rest of the second floor of the
+building, this room has been constructed from {yt{Di{ymb{De{yr{x.  {yY{Yello{yw c{Yurtain{ys{x have
+been fitted to the large window on the west side of the room provides a good
+view of the woodlands and mountains that lie beyond the village.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7254
+S
+#7261
+A Snug Guest Room~
+The small stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x on the east side of the guest room helps to
+make it a warm and cozy one.  Like the rest of the second floor of the
+building, this room has been constructed from {yt{Di{ymb{De{yr{x.  {wW{Whit{we c{Wurtain{ws{x have
+been fitted to the large window on the west side of the room that looks out
+over the {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x and the collection of stout frame cottages that
+encircle it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7254
+S
+#7262
+A Snug Guest Room~
+This is one of the guest rooms within the Winespring Inn.  The small stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x on the north side of the room helps to make it warm and cozy. 
+Like the rest of the second floor of the building, this room has been
+constructed from {yt{Di{ymb{De{yr{x.  {cB{Clu{ce c{Curtain{cs{x have been fitted to the large window
+on the east side of the room that looks out over the stable and the yard at
+the back of the inn.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 7254
+S
+#7263
+A Muddy Track~
+This is a wide {ymuddy track{x located somewhere within the tangled maze of
+vegetation known as the Westwood.  The track forks at this point, to the
+west is a small farm house and barn whilst there are a couple more farm
+buildings to the east.  The south path winds its way past ancient {gt{Gr{ge{Ge{gs{x and
+large rocks, eventually joining Quarry Road.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 7284
+D2
+~
+~
+0 0
+0 0 7247
+D3
+~
+~
+0 0
+0 0 7264
+S
+#7264
+A Farmyard~
+Three buildings form points of a triangle within this farmyard.  On the
+north side of the yard is a small rectangular farmhouse with a steep sloping
+thatched roof.  A second thatched building on the west side of the yard is a
+barn.  The third building which lies on the south side of the yard is an
+open shearing shed with a sheep pen and stone dipping trough has been
+constructed next to it.  A {ymuddy track{x leads eastwards from the yard towards
+a second set of farm buildings.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 7293
+D1
+~
+~
+0 0
+0 0 7263
+D2
+~
+gate~
+3 3
+1 0 7265
+D3
+~
+~
+3 3
+1 0 7280
+S
+#7265
+A Sheep Pen~
+This is a large sheep pen that sits on the south side of a small
+farmyard.  Sturdy {yt{Di{ymb{De{yr{x fencing with a secure gate on the north side of the
+pen provides an adequate barrier for the prevention of escaping livestock. 
+An open shearing shed made of wood and a stone dipping trough has been built
+nearby the sheep pen.  
+~
+0
+0 0
+D0
+~
+gate~
+3 3
+1 0 7264
+S
+#7266
+The Wisdom's House~
+This is a small front room whose main focal point is the ornately carved
+gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x at the south side of the room.  There is a set of
+{ys{Dh{yelv{De{ys{x on the opposite side of the room which house a few more books as
+well as some small {ct{Cri{Wnk{Cet{cs{x and {Do{wr{Wnam{Yent{ys{x.  The {gv{Gi{gl{Gl{ga{Gg{ge g{Gr{ge{Ge{gn{x can be seen
+through the two windows adorned with {mp{Min{Wk {Mc{Wu{Mrt{Wa{Min{ms{x that sit on either side
+of the front door on the west side of the room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7267
+D3
+~
+~
+3 3
+1 0 7201
+S
+#7267
+A Short Hallway~
+This short hallway is a rather plain and simple room with four doorways
+leading into other parts of the house.  A collection of small framed
+{yp{Yicture{ys{x of {Dw{yoodlan{Dd a{ynimal{Ds{x have been hung upon the freshly {Wwhitewashed{x
+walls.  The wooden floorboards of the room are bare apart from a small {yrug{x
+made of {ybrown wool{x placed at the center.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7282
+D1
+~
+~
+3 3
+1 0 7268
+D2
+~
+~
+3 3
+1 0 7269
+D3
+~
+~
+3 3
+1 0 7266
+S
+#7268
+A Spare Bedroom~
+This is a small bedroom with a gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x built into the north
+wall.  At the adjacent side of the room is a window that looks out over the
+rolling {gf{yi{gel{yd{gs{x and woodlands east of the village of Emond's Field.  Among
+the items used to furnish this room are a wardrobe, a trunk and a washstand.
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 7267
+S
+#7269
+A Bedroom~
+There is little out of the ordinary about this bedroom.  It is a small
+room built with a gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x in the west wall.  At the other side
+of the room is a window that looks out over the {gf{yi{gel{yd{gs{x that surround the
+village.  Among the items used to furnish this room are a wardrobe, a chest
+of drawers and a washstand.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7267
+S
+#7270
+A Farmyard~
+This is a large farmyard belonging to one of the farms near the
+Waterwood.  The area is surrounded by {gf{yi{gel{yd{gs{x and {go{Grchard{gs{x and is overlooked
+by several large buildings including a barn to the north and a large
+farmhouse to the west that looks like it has gone through various expansions
+and extensions over the course of its history.  Two {ymuddy tracks{x lead off
+from the yard; the southern track passes more farm buildings.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 7274
+D1
+~
+gate~
+3 3
+1 0 7245
+D2
+~
+gate~
+3 3
+1 0 7271
+D3
+~
+~
+3 3
+1 0 7305
+S
+#7271
+A Muddy Track~
+This is a wide {ymuddy track{x that leads through one of the larger farms of
+the Waterwood.  The ground appears to have been churned up very recently by
+the passing of animals and {yc{wa{Dr{wt{ys{x.  A tall barn lies on the east side of the
+track whilst a sheep pen and shearing shed sit on the opposite side.  To the
+north is a farmyard that is surrounded by more thatched buildings.  
+~
+0
+0 14
+D0
+~
+gate~
+3 3
+1 0 7270
+D1
+~
+~
+3 3
+1 0 7273
+D2
+~
+~
+0 0
+0 0 7289
+D3
+~
+gate~
+3 3
+1 0 7272
+S
+#7272
+A Sheep Pen~
+This is a large sheep pen constructed from roughly hewn {yt{Di{ymb{De{yr{x.  A hefty
+gate on the east side of the pen opens out onto a wide {ymuddy track{x that
+connects various farm buildings and {gf{yi{gel{yd{gs{x.  Several other structures can be
+seen nearby the pen including an open shearing shed and a dipping trough
+made of stone.  
+~
+0
+0 2
+D1
+~
+gate~
+3 3
+1 0 7271
+S
+#7273
+A Large Barn~
+This is a large yet neatly kept barn.  It is a stout frame structure made
+of {yt{Di{ymb{De{yr{x with a steeply sloping roof that is covered with thatch.  The
+building is used to house livestock as well as store various tools and
+farming equipment.  The barn has been equipped with a hay loft; the sturdy
+wooden platform can be accessed by means of a ladder.  A pair of wide double
+doors on the west side of the building leads out onto a broad {ymuddy track{x.  
+~
+0
+AD 0
+D3
+~
+~
+3 3
+1 0 7271
+S
+#7274
+A Large Barn~
+This is a large yet neatly kept barn.  It is a stout frame structure made
+of {yt{Di{ymb{De{yr{x with a steeply sloping roof that is covered with thatch.  The
+structure is used to house farm animals as well as store various tools and
+farming equipment.  The barn has been equipped with a hay loft; the sturdy
+wooden platform can be accessed via a ladder.  A pair of wide double doors
+on the south side of the building leads into a farmyard.  
+~
+0
+AD 0
+D2
+~
+~
+3 3
+1 0 7270
+S
+#7275
+A Farmyard~
+This is a farmyard belonging to one of the farms near the Waterwood.  The
+area is surrounded by {go{Grchard{gs{x and {gf{yi{gel{yd{gs{x and is overlooked by a few large
+buildings including a barn to the north and a large farmhouse to the east
+that looks like it has gone through various extensions over the course of
+its history.  Two {ymuddy tracks{x lead off from the yard; the southern track
+passes more farm buildings.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 7276
+D1
+~
+~
+3 3
+1 0 7312
+D2
+~
+gate~
+3 3
+1 0 7277
+D3
+~
+gate~
+3 3
+1 0 7246
+S
+#7276
+A Large Barn~
+This is a large yet neatly kept barn.  It is a stout frame structure made
+of wood topped with a thatched roof.  The structure is used to house
+livestock as well as store various tools and farming equipment.  The barn
+has been equipped with a hay loft; the sturdy wooden platform can be
+accessed via a ladder.  A pair of wide double doors on the south side of the
+building leads into a farmyard.  
+~
+0
+AD 0
+D2
+~
+~
+3 3
+1 0 7275
+S
+#7277
+A Muddy Track~
+This is a broad {ymuddy track{x that leads through one of the larger farms of
+the Waterwood.  The ground has been churned up very recently by the passing
+of {yc{wa{Dr{wt{ys{x and livestock.  A stout frame barn lies on the west side of the
+track whilst a sheep pen and an open shearing shed sit on the opposite side.
+To the north is a farmyard that is surrounded by more thatched buildings.  
+~
+0
+0 14
+D0
+~
+gate~
+3 3
+1 0 7275
+D1
+~
+~
+3 3
+1 0 7279
+D2
+~
+~
+0 0
+0 0 7288
+D3
+~
+~
+3 3
+1 0 7278
+S
+#7278
+A Large Barn~
+This is a large yet neatly kept barn.  It is a stout frame structure made
+of wood topped with a thatched roof.  The building is used to house
+livestock as well as store various tools and farming equipment.  The barn
+has been equipped with a hay loft; the sturdy wooden platform can be
+accessed by a ladder.  A pair of wide double doors on the east side of the
+barn leads out onto a wide {ymuddy track{x.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 7277
+S
+#7279
+A Sheep Pen~
+This is a large sheep pen built from roughly hewn {yt{Di{ymb{De{yr{x.  A hefty gate
+on the west side of the pen leads out onto a broad {ydirt track{x that connects
+several farm buildings and {gf{yi{gel{yd{gs{x.  There are a few other structures that
+have been built close to the sheep pen including an open shearing shed and a
+dipping trough made of stone.  
+~
+0
+0 2
+D3
+~
+~
+3 3
+1 0 7277
+S
+#7280
+A Large Barn~
+This is a large yet neatly kept barn.  It is a stout frame structure made
+of {yt{Di{ymb{De{yr{x with a steeply sloping roof that is covered with thatch.  The
+building is used to house farm animals as well as store various tools and
+farming equipment.  The barn has been equipped with a hay loft; the sturdy
+wooden platform can be accessed by way of a ladder.  A pair of wide double
+doors on the east side of the barn leads into a farmyard.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 7264
+S
+#7281
+A Large Barn~
+This is a large yet neatly kept barn.  It is a tall yet sturdy frame
+structure made of {yt{Di{ymb{De{yr{x with a steeply sloping roof that is covered with
+thatch.  The building is used to house livestock as well as store various
+items including tools and spare parts for the mill.  The barn has been
+equipped with a loft; the sturdy wooden platform can be accessed via a
+ladder.  A pair of wide double doors on the west side of the building leads
+into a yard.  
+~
+0
+AD 0
+D3
+~
+~
+3 3
+1 0 7292
+S
+#7282
+A Kitchen~
+This is a small kitchen with gray stone {Dfl{woo{Wr t{wil{Des{x and plain {Wwhitewashed{x
+walls.  As well as the things that are usually found in kitchen like the
+{Ds{wtov{De{x, the {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x, the {ycupboards{x and {yshelves{x, {yh{ge{Gr{gb{ys{x have been draped over
+a wooden {ydrying rack{x hung from the ceiling.  An arched window on the west
+side of the room looks out into a large {gg{Ga{grd{Ge{gn{x, a hefty door next to the
+window leads outside.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7267
+D3
+~
+~
+3 3
+1 0 7283
+S
+#7283
+A Large Garden~
+This is a large {gg{Ga{grd{Ge{gn{x that belongs to the small thatched cottage that
+lies to the east.  The {gg{Ga{grd{Ge{gn{x's boundaries are marked with a short {Wfence{x
+that has been painted white in color.  A {Ds{wton{We-c{wla{Dd {Wp{wat{Dh{x leads from a small
+{ywooden shed{x at the bottom of the {gg{Ga{grd{Ge{gn{x to the cottage's kitchen door. 
+There are row upon row of {gv{ye{rg{getab{rl{ye{gs{x growing within this area as well as a
+large section of {gg{Ga{grd{Ge{gn{x dedicated to growing {yh{ge{Gr{gb{ys{x.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 7282
+S
+#7284
+A Muddy Track~
+This is a wide {ymuddy track{x that winds its way through one of the Westwood
+farms.  Tall {gt{Gr{ge{Ge{gs{x border the track as it passes a curing-shed and a smoke
+house.  The ground is quite stony here and slopes gently downwards to the
+south.  A stretch of {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x lay north of this point whilst in
+the distance to the west is a farmyard and more buildings.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7285
+D3
+~
+~
+0 0
+0 0 7263
+S
+#7285
+A Muddy Track~
+This is the northern end of a wide {ymuddy track{x that winds its way through
+one of the Westwood farms.  Thick {gh{De{gd{yger{go{Dw{gs{x flank this track as well as mark
+the borders of the {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x with wide sturdy gates providing
+access points into the individual {gf{yi{gel{yd{gs{x.  Beyond the {gf{yi{gel{yd{gs{x is a densely
+populated area of woodland, despite the {gt{Gr{ge{Ge{gs{x and the stony soil there are a
+couple of other similar-looking farms in the area.  
+~
+0
+0 14
+D1
+~
+~
+3 3
+1 0 7287
+D2
+~
+~
+0 0
+0 0 7284
+D3
+~
+gate~
+3 3
+1 0 7286
+S
+#7286
+A Large Tabac Field~
+This is a large field that roughly square in shape.  Despite the ground
+in the area being particularly stony, the field has been worked well enough
+for it to sustain this crop of {Dt{ya{Db{ya{Dc{x.  Like the other {gf{yi{gel{yd{gs{x in the area,
+the perimeter of this one is marked out with thickly growing {gh{De{gd{yger{go{Dw{gs{x which
+are in turn surrounded by tall {gt{Gr{ge{Ge{gs{x.  A couple of buildings can be seen
+between the {gt{Gr{ge{Ge{gs{x including a small farmhouse.  The only exit from this
+field is a gate on the east side that leads out onto a {ymuddy track{x.  
+~
+0
+0 2
+D1
+~
+gate~
+3 3
+1 0 7285
+S
+#7287
+A Small Pasture~
+This is a small pasture that approximately square in shape.  Despite the
+ground in the area being rather stony, the field has been worked well enough
+for it to grow grass.  Like the other {gf{yi{gel{yd{gs{x in the area, the perimeter of
+this one is marked out with thickly growing {gh{De{gd{yger{go{Dw{gs{x which are in turn
+surrounded by tall {gt{Gr{ge{Ge{gs{x.  A few buildings can be seen between the {gt{Gr{ge{Ge{gs{x
+including a small farmhouse.  The only exit from this field is a gate on the
+west side that leads out onto a {ymuddy track{x.  
+~
+0
+0 2
+D3
+~
+~
+3 3
+1 0 7285
+S
+#7288
+A Muddy Track~
+This is a broad {ymuddy track{x that leads through one of the larger farms of
+the Waterwood.  The ground has been churned up very recently by the passing
+of {yc{wa{Dr{wt{ys{x and livestock.  Short wooden fencing borders the track as it passes
+a curing-shed and a smoke house.  A stretch of {gf{yi{gel{yd{gs{x lay south and east of
+this point whilst in the distance to the north are a farmyard and more
+buildings.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7277
+D2
+~
+~
+0 0
+0 0 7345
+D3
+~
+gate~
+3 3
+1 0 7354
+S
+#7289
+A Muddy Track~
+This is a wide {ymuddy track{x that leads through one of the larger farms of
+the Waterwood.  The ground appears to have been churned up very recently by
+the passing of animals and {yc{wa{Dr{wt{ys{x.  Short wooden fencing flanks the track as
+it passes a curing-shed and a smoke house.  A stretch of {gf{yi{gel{yd{gs{x lay south
+and west of this point whilst in the distance to the north are a farmyard
+and more buildings.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7271
+D1
+~
+gate~
+3 3
+1 0 7353
+D2
+~
+~
+0 0
+0 0 7349
+S
+#7290
+By The Edge Of The Waterwood~
+A dense stretch of woodland area lies north and east of here, a maze of
+{go{yak{gs{x, {gp{Gin{Wes{x and {rl{ye{gatherlea{yf{rs{x that are interwoven with thickets of vine-woven
+{gb{yr{gu{ys{gh{x.  To the north lies what is left of the Winespring Water, it is now
+divided into lots of tiny {cs{Ct{Wrea{Cm{cs{x and {cr{Ci{Wvule{Ct{cs{x.  The area is also dotted
+numerous {cp{Co{Wo{Cl{cs{x and {cp{Co{Wn{Cd{cs{x that are surrounded by tall {Dr{yushe{Ds{x.  
+~
+0
+0 3
+D2
+~
+~
+4096 4096
+0 0 7291
+D3
+~
+~
+4096 4096
+0 0 7229
+S
+#7291
+An Overgrown Path~
+The ground is surprisingly firm in this stretch of the Waterwood although
+it does lie close to the wood's edge.  A narrow path winds its way past tall
+{go{yak{gs{x, {gp{Gin{Wes{x and {rl{ye{gatherle{ya{rf{x trees although it does become overgrown by
+{yb{gra{ymb{gle{ys{x in some places.  The path ends a short distance away to the east
+where a large thatched house lies.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 7290
+D1
+~
+~
+3 3
+1 0 7322
+S
+#7292
+A Large Yard~
+This is a large yard surround by a collection of tall thatched buildings.
+On the west side of the yard is a house and on the opposite side is a barn
+which looks very similar to the other buildings in or near Emond's Field. 
+However on the north side of the yard is a large watermill that takes
+advantage of the Winespring Water's strong current as it nears the
+Waterwood.  
+~
+0
+C 1
+D0
+~
+~
+3 3
+1 0 7343
+D1
+~
+~
+3 3
+1 0 7281
+D2
+~
+gate~
+3 3
+1 0 7228
+D3
+~
+~
+3 3
+1 0 7298
+S
+#7293
+A Farmhouse~
+The front room of this farmhouse is a spacious area that is reasonably
+clean and tidy.  A large gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x has been built on the west
+side of the room whilst there are some {ys{Dh{yelv{De{ys{x fixed upon the opposite wall.
+There is a robust door on south side of the room that leads out into a large
+yard.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7294
+D2
+~
+~
+3 3
+1 0 7264
+S
+#7294
+A Short Hallway~
+This short hallway is a fairly simple room with plain whitewashed walls. 
+The floor has been left as bare {yt{Di{ymb{De{yr{x boards apart from a small {rr{Re{rd w{Ro{rol{Re{rn
+r{Ru{rg{x placed near the bottom of a steep wooden {ys{Dt{ya{Di{yr{Dc{ya{Ds{ye{x.  There are a couple
+of doorways along this hallway that lead into other parts of the farmhouse. 
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7333
+D2
+~
+~
+3 3
+1 0 7293
+D4
+~
+~
+0 0
+0 0 7295
+S
+#7295
+A Short Hallway~
+This short hallway is a rather simple room with plain whitewashed walls
+and wooden floorboards.  A small {yl{Yam{yp{x hung above the steep wooden {ys{Dt{ya{Di{yr{Dc{ya{Ds{ye{x
+lights up the way down to the ground floor of the building.  There are a
+couple of doorways along this hallway that lead into other parts of the
+house.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7296
+D2
+~
+~
+3 3
+1 0 7297
+D4
+~
+trapdoor~
+4099 4099
+1 0 7323
+D5
+~
+~
+0 0
+0 0 7294
+S
+#7296
+A Small Bedroom~
+This is a small bedroom that has been built under the steeply sloped
+thatch roof of a farmhouse.  A few {ys{Dh{yelv{De{ys{x have been attached to the {Wwhite
+plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a variety of {Db{yook{Ds{x and {cm{Ce{Gm{Yen{Gt{Co{cs{x.  A {rr{Re{rd
+w{Ro{rol{Re{rn r{Ru{rg{x has been used to cover the floor, providing a little warmth as
+well as color.  There is a small sash window on the north side of the room
+that looks out over a vegetable garden at the back of the house.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7295
+S
+#7297
+A Small Bedroom~
+This is a small bedroom that has been fitted underneath the steeply
+sloped thatch roof of a farmhouse.  A couple of {ys{Dh{yelv{De{ys{x have been fitted to
+the {Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds an assortment of {cm{Ce{Gm{Yen{Gt{Co{cs{x as well
+as {Db{yook{Ds{x.  A {bb{Blu{be w{Bo{bol{Be{bn r{Bu{bg{x has been used to cover the floor, providing a
+little warmth as well as color.  There is a small sash window on the south
+side of the room that looks out over a farmyard at the front of the house.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7295
+S
+#7298
+The Miller's House~
+The front room of the miller's house is a large yet cozy space that has
+been kept immaculately clean and tidy.  A large gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x has
+been built on the west side of the room whilst there are some {ys{Dh{yelv{De{ys{x fixed
+upon the adjacent wall.  There is a robust door on east side of the front
+room that leads out into a large yard.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7299
+D1
+~
+~
+3 3
+1 0 7292
+S
+#7299
+A Hallway~
+This hallway is a rather simple room with plain {Wwhitewashed walls{x.  The
+floor has been left as bare {yt{Di{ymb{De{yr{x boards apart from a long {ybrown woolen rug{x
+placed near the base of a steep set of wooden {ys{Dt{yai{Dr{ys{x.  There are a couple of
+doorways along this hallway that lead into other parts of the house.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7321
+D2
+~
+~
+3 3
+1 0 7298
+D4
+~
+~
+0 0
+0 0 7300
+S
+#7300
+A Hallway~
+This hallway is a rather simple room with plain {Wwhitewashed walls{x and
+wooden floorboards.  A small {yl{Yam{yp{x hung above the steep wooden {ys{Dt{yai{Dr{ys{x
+illuminates the way down to the ground floor of the building.  There are a
+couple of doorways along this hallway that lead into other parts of the
+house.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7301
+D1
+~
+~
+3 3
+1 0 7302
+D2
+~
+~
+3 3
+1 0 7303
+D3
+~
+~
+3 3
+1 0 7304
+D4
+~
+trapdoor~
+4099 4099
+1 0 7325
+D5
+~
+~
+0 0
+0 0 7299
+S
+#7301
+A Spacious Bedroom~
+This is a spacious bedroom that has been built under the steeply sloped
+thatch roof of a large house.  A few {ys{Dh{yelv{De{ys{x have been attached to the {Wwhite
+plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a variety of {Db{yook{Ds{x and {rk{Re{Mepsak{Re{rs{x.  A {mp{Mu{mrp{Ml{me
+w{Mo{mol{Me{mn r{Mu{mg{x has been used to cover the floor, providing a little warmth as
+well as color.  There is a pair of sash windows on the north side of the
+room that looks out over the Winespring Water and the {gwoods{x and {gf{yi{gel{yd{gs{x that
+lie beyond it.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7300
+S
+#7302
+A Spacious Bedroom~
+This is a spacious bedroom that has been fitted beneath the steeply
+sloped thatch roof of a large house.  A couple of {ys{Dh{yelv{De{ys{x have been fitted
+to the {Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a collection of {bm{Be{Gm{Yen{Gt{Bo{bs{x as
+well as {Db{yook{Ds{x.  A {bb{Blu{be w{Bo{bol{Be{bn{x {bm{Ba{bt{x has been used to cover the floor,
+providing a little warmth as well as color.  There is a pair of sash windows
+on the east side of the room that looks out over a yard at the front of the
+house.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 7300
+S
+#7303
+A Spacious Bedroom~
+This is a spacious bedroom that has been fitted underneath the steeply
+sloped thatch roof of a large house.  A couple of {ys{Dh{yelv{De{ys{x have been fitted
+to the {Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds an assortment of {ms{Mo{mu{Dv{we{Dn{mi{Mr{ms{x as
+well as {Db{yook{Ds{x.  A {gg{Gr{ge{Ge{gn w{Go{gol{Ge{gn m{Ga{gt{x has been used to cover the floor,
+providing a little warmth as well as color.  There is a pair of sash windows
+on the south side of the room that looks out over a hedge-lined road and a
+cluster of farms beyond it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7300
+S
+#7304
+A Spacious Bedroom~
+This is a spacious bedroom that has been built under the steeply sloped
+thatch roof of a large house.  A few {ys{Dh{yelv{De{ys{x have been attached to the {Wwhite
+plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a variety of {Db{yook{Ds{x and {bm{Be{Gm{Yen{Gt{Bo{bs{x.  A {bb{Blu{be
+w{Bo{bol{Be{bn r{Bu{bg{x has been used to cover the floor, providing a little warmth as
+well as color.  There is a pair of sash windows on the west side of the room
+that provides a beautiful view of Emond's Field and the woodland and
+mountains that lie beyond the settlement.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7300
+S
+#7305
+A Farmhouse~
+The front room of this old farmhouse is a large area that is spotlessly
+clean and tidy.  A large gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x has been built on the north
+side of the room whilst there are some {ys{Dh{yelv{De{ys{x fixed upon the opposite wall.
+There is a hefty door on east side of the room that leads out into the
+farmyard.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7270
+D3
+~
+~
+3 3
+1 0 7306
+S
+#7306
+A Long Hallway~
+This long hallway is a rather simple room with plain {Wwhitewashed walls{x. 
+The floor has been left as bare {yt{Di{ymb{De{yr{x boards apart from a long {gg{Gr{ge{Ge{gn w{Go{gol{Ge{gn{x
+{gr{Gu{gg{x placed near the bottom of a steep set of wooden {ys{Dt{yai{Dr{ys{x.  There are a
+couple of doorways along this hallway that lead into other parts of the
+farmhouse.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7319
+D1
+~
+~
+3 3
+1 0 7305
+D2
+~
+~
+3 3
+1 0 7318
+D3
+~
+~
+3 3
+1 0 7335
+D4
+~
+~
+0 0
+0 0 7307
+S
+#7307
+A Long Hallway~
+This long hallway is a rather simple room with plain {Wwhitewashed walls{x
+and wooden floorboards.  A small {yl{Yam{yp{x hung above the steep set of wooden
+{ys{Dt{yai{Dr{ys{x lights up the way down to the ground floor of the building.  There
+are a couple of doorways along this hallway that lead into other parts of
+the farmhouse.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7308
+D1
+~
+~
+3 3
+1 0 7309
+D2
+~
+~
+3 3
+1 0 7310
+D3
+~
+~
+3 3
+1 0 7311
+D4
+~
+trapdoor~
+4099 4099
+1 0 7324
+D5
+~
+~
+0 0
+0 0 7306
+S
+#7308
+A Bedroom~
+This is a roomy bedroom that has been built under the steeply sloped
+thatch roof of a large farmhouse.  A few {ys{Dh{yelv{De{ys{x have been attached to the
+{Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a variety of {Db{yook{Ds{x and {rk{Re{Mepsak{Re{rs{x.  A
+{rr{Re{rd w{Ro{rol{Re{rn r{Ru{rg{x has been used to cover the floor, providing a bit of warmth
+as well as color.  There is a large arched window on the north side of the
+room that looks out over a vegetable garden.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7307
+S
+#7309
+A Bedroom~
+This is a roomy bedroom that has been fitted beneath the steeply sloped
+thatch roof of a large farmhouse.  A couple of {ys{Dh{yelv{De{ys{x have been fitted to
+the {Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a collection of {cm{Ce{Gm{Yen{Gt{Co{cs{x as well
+as {Db{yook{Ds{x.  A {gg{Gr{ge{Ge{gn w{Go{gol{Ge{gn m{Ga{gt{x has been used to cover the floor, providing a
+bit of warmth as well as color.  There is a large arched window on the east
+side of the room that looks out over a yard at the front of the house.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 7307
+S
+#7310
+A Bedroom~
+This is a roomy bedroom that has been fitted underneath the steeply
+sloped thatch roof of a large farmhouse.  A couple of {ys{Dh{yelv{De{ys{x have been
+fitted to the {Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds an assortment of
+{cso{Cuve{Wni{wr{Ds{x as well as {Db{yook{Ds{x.  A {mp{Mu{mrp{Ml{me w{Mo{mol{Me{mn{x {mm{Ma{mt{x has been used to cover the
+floor, providing a bit of warmth as well as color.  There is a large arched
+window on the south side of the room that looks out over a sprawl of {gf{yi{gel{yd{gs{x
+and {go{Grchard{gs{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7307
+S
+#7311
+A Bedroom~
+This is a roomy bedroom that has been built under the steeply sloped
+thatch roof of a large farmhouse.  A few {ys{Dh{yelv{De{ys{x have been attached to the
+{Wwhite plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a variety of {Db{yook{Ds{x and {cm{Ce{Gm{Yen{Gt{Co{cs{x.  A
+{cb{Clu{ce w{Co{col{Ce{cn r{Cu{cg{x has been used to cover the floor, providing a bit of warmth
+as well as color.  There is a large arched window on the west side of the
+room that provides a beautiful view of Emond's Field and the woodland and
+mountains that lie beyond the settlement.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7307
+S
+#7312
+A Farmhouse~
+The front room of this old farmhouse is a spacious area that is
+impeccably clean and tidy.  A large gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x has been built on
+the north side of the room whilst there are some {ys{Dh{yelv{De{ys{x fixed upon the
+opposite wall.  There is a hefty door on west side of the room that leads
+out into a large yard.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7313
+D3
+~
+~
+3 3
+1 0 7275
+S
+#7313
+A Short Hallway~
+This short hallway is a somewhat simple room with plain {Wwhitewashed
+walls{x.  The floor has been left as bare timber boards apart from a small
+{cb{Clu{ce w{Co{col{Ce{cn r{Cu{cg{x placed near the bottom of a steep flight of wooden {ys{Dt{yai{Dr{ys{x. 
+There are a couple of doorways along this hallway that lead into other parts
+of the farmhouse.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7320
+D3
+~
+~
+3 3
+1 0 7312
+D4
+~
+~
+0 0
+0 0 7314
+S
+#7314
+A Short Hallway~
+This short hallway is a somewhat simple room with plain {Wwhitewashed walls{x
+and wooden floorboards.  A small {yl{Yam{yp{x hung above the steep flight of wooden
+{ys{Dt{yai{Dr{ys{x lights up the way down to the ground floor of the building.  There
+are a couple of doorways along this hallway that lead into other parts of
+the farmhouse.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7316
+D3
+~
+~
+3 3
+1 0 7315
+D4
+~
+trapdoor~
+4099 4099
+1 0 7317
+D5
+~
+~
+0 0
+0 0 7313
+S
+#7315
+A Bedroom~
+This is a roomy bedroom that has been built beneath the steeply sloped
+thatch roof of a farmhouse.  A few {ys{Dh{yelv{De{ys{x have been attached to the {Wwhite
+plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a collection of {ym{Ye{Wment{Yo{ys{x as well as {Db{yook{Ds{x. 
+A {Rr{re{Rd w{ro{Dol{re{Rn r{ru{Rg{x has been used to cover the floor, providing a bit of warmth
+as well as color.  There is a large arched window on the west side of the
+room that looks out over a yard at the front of the house.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7314
+S
+#7316
+A Bedroom~
+This is a bedroom that has been fitted below the steeply sloped thatch
+roof of a farmhouse.  A couple of {ys{Dh{yelv{De{ys{x have been fitted to the {Wwhite
+plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a variety of {Db{yook{Ds{x and {rk{Re{Mepsak{Re{rs{x.  A {ggr{Gee{Wn{g
+wo{Gole{Wn{g m{Ga{Wt{x has been used to cover the floor, providing a bit of warmth as
+well as color.  There is a large arched window on the south side of the room
+that looks out over a sprawl of {gf{yi{gel{yd{gs{x and {go{Grchard{gs{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7314
+S
+#7317
+An Attic Storeroom~
+This is an attic space built under the rafters of a thatched farmhouse. 
+The room is dark and cramped with a lot of its space reserved for the
+storage of old trunks, chests and boxes.  The floor beams seem sufficient
+enough to support the weight of the items stored here but some planks have
+been placed across some of the beams to distribute the weight of the heavier
+bits and pieces.  The only exit from this area is the trapdoor set into the
+floor.  
+~
+0
+AD 0
+D5
+~
+trapdoor~
+4099 4099
+1 0 7314
+S
+#7318
+A Large Bedroom~
+This is a large bedroom that appears to be part of a recently built
+extension of a farmhouse.  A couple of {ys{Dh{yelv{De{ys{x have been fitted to the {Wwhite
+plaster walls{x; each {ys{Dh{ye{Dl{yf{x holds a collection of {rk{Re{Mepsak{Re{rs{x as well as {Db{yook{Ds{x. 
+A {Yyellow woolen mat{x has been used to cover the floor, providing a bit of
+warmth as well as color.  There is a large arched window on the south side
+of the room that looks out over a sprawl of {gf{yi{gel{yd{gs{x and {go{Grchard{gs{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7306
+S
+#7319
+A Kitchen~
+This is a large kitchen with gray stone floor tiles and {Wplastered walls{x. 
+There is little out of the ordinary about this room, it has a {Ds{wtov{De{x, a
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and a lot of cupboards and drawers for storage.  {DP{wot{Ws{x and {Dp{wan{Ws{x
+hang from a rack attached to the ceiling whilst {yj{Dar{ys{x, {gb{Go{Yttl{Ge{gs{x and {Dc{wr{Wocke{wr{Dy{x
+have been stored on {ys{Dh{yelv{De{ys{x fixed to the walls.  There is a pair of arched
+windows on the east side of the room flank a sturdy door and look out over a
+large vegetable garden.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7330
+D2
+~
+~
+3 3
+1 0 7306
+S
+#7320
+A Kitchen~
+This is a large kitchen with gray stone floor tiles and {Wplastered walls{x.
+There is little out of the ordinary about this room, it has a {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x, an
+{Di{wro{Dn{x {Ds{wtov{De{x and lots of cupboards and drawers for storage.  {DP{wot{Ws{x and {Dp{wan{Ws{x
+hang from a rack attached to the ceiling whilst {yj{Dar{ys{x, {gb{Go{Yttl{Ge{gs{x and {Dc{wr{Wocke{wr{Dy{x
+have been stored on {ys{Dh{yelv{De{ys{x fixed to the walls.  There is a pair of arched
+windows on the east side of the room flank a robust door and look out over a
+large vegetable garden.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7313
+D1
+~
+~
+3 3
+1 0 7331
+S
+#7321
+A Kitchen~
+This is a large kitchen with grayish-brown stone floor tiles and plain
+{Wplastered walls{x.  There nothing out of the ordinary about this room, it has
+a {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x, an {Di{wro{Dn{x {Ds{wtov{De{x and lots of cupboards and drawers for storage. 
+{DP{wot{Ws{x and {Dp{wan{Ws{x hang from a wooden rack fixed to the ceiling whilst {yj{Dar{ys{x,
+{gb{Go{Yttl{Ge{gs{x and {Dc{wr{Wocke{wr{Dy{x have been stored on {ys{Dh{yelv{De{ys{x attached to the walls. 
+There is a pair of arched windows on the west side of the room flank a
+robust door and look out over a large vegetable garden.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7299
+D3
+~
+~
+3 3
+1 0 7332
+S
+#7322
+The New Sickhouse~
+The Sickhouse is a place on the outskirts of the village of Emond's Field
+where people with infectious diseases go to convalesce.  This is the front
+room, a spacious area that has been kept impeccably clean and tidy.  A large
+gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x has been built on the north side of the room whilst
+there are some {ys{Dh{yelv{De{ys{x fixed upon the opposite wall.  There is a hefty door
+on west side of the room that leads outside.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7356
+D3
+~
+~
+3 3
+1 0 7291
+S
+#7323
+An Attic Storeroom~
+This is an attic space built beneath the rafters of a thatched farmhouse.
+The area is dark and cramped with a lot of its space devoted to the storage
+of old trunks, chests and boxes.  The floor beams seem adequate enough to
+support the weight of the items stored here but some planks have been laid
+across some of the beams to distribute the weight of the heavier items.  The
+only exit from this area is the trapdoor set in the floor.  
+~
+0
+AD 0
+D5
+~
+trapdoor~
+4099 4099
+1 0 7295
+S
+#7324
+An Attic Storeroom~
+This is an attic space built underneath the rafters of a thatched
+farmhouse.  The area is dark and cramped with a lot of its space devoted to
+the storage of old trunks, chests and boxes.  The floor beams seem adequate
+enough to support the weight of the items stored here but some planks have
+been laid across some of the beams to distribute the weight of the heavier
+objects.  The only exit from this area is the trapdoor set in the floor.  
+~
+0
+0 0
+D5
+~
+trapdoor~
+4099 4099
+1 0 7307
+S
+#7325
+An Attic~
+This is an attic storeroom built beneath the rafters of a thatched house.
+The room is dark and cramped with a lot of its space reserved for the
+storage of old trunks, chests and boxes.  The floor beams seem sufficient
+enough to support the weight of the items stored here but some planks have
+been laid across some of the beams to distribute the weight of the heavier
+stuff.  The only exit from this area is the trapdoor set in the floor.  
+~
+0
+0 0
+D5
+~
+trapdoor~
+4099 4099
+1 0 7300
+S
+#7326
+An Attic~
+This is an attic room built beneath the rafters of the Winespring Inn. 
+The area is dark and cramped with a lot of its space devoted to the storage
+of old chests, trunks and boxes.  The floor beams seem adequate enough to
+support the weight of the items stored here but some planks have been placed
+across some of the beams to distribute the weight of the heavier objects. 
+The only exit from this area is the trapdoor set into the floor.  
+~
+0
+0 0
+D5
+~
+trapdoor~
+4099 4099
+1 0 7256
+S
+#7327
+The Innkeeper's Quarters~
+This is the front room of the innkeeper's quarters.  It is a warm and
+cozy place with a large stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and a collection of personal
+{cm{Cem{Yen{Cto{cs{x lines neatly upon {ys{Dh{yelv{De{ys{x around the room.  There are a couple of
+framed embroidered pictures of {mf{Ml{Wowe{Mr{ms{x hang upon the {Wwhite plaster walls{x
+just to add a little color to the place.  On the east side of the room is a
+pair of large windows that look out over the stable and the yard at the back
+of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7328
+D2
+~
+~
+3 3
+1 0 7329
+D3
+~
+~
+3 3
+1 0 7256
+S
+#7328
+A Large Bedroom~
+This is a large bedroom within the innkeeper's quarters of the Winespring
+Inn.  A couple of {ys{Dh{yelv{De{ys{x have been fitted to the {Wwhite plaster walls{x; each
+{ys{Dh{ye{Dl{yf{x holds an assortment of {ys{You{Wven{Yir{ys{x as well as {Db{yook{Ds{x.  A {mpurple woolen
+rug{x has been used to cover the floor, providing a little warmth as well as
+color.  On the east side of the room is a large window that looks out over
+the stable and the yard at the back of the inn.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7327
+S
+#7329
+A Small Bedroom~
+This is a small bedroom within the innkeeper's quarters of the Winespring
+Inn.  A couple of {ys{Dh{yelv{De{ys{x have been fitted to the {Wwhite plaster walls{x; each
+{ys{Dh{ye{Dl{yf{x holds an assortment of {bk{ce{Cep{Ws{Cak{ce{bs{x as well as {Db{yook{Ds{x.  A {rred woolen mat{x
+has been used to cover the floor, providing a little warmth as well as
+color.  On the east side of the room is a large window that looks out over
+the stable and the yard at the back of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7327
+S
+#7330
+A Vegetable Garden~
+This is a rather large square plot of land that lies at the back of the
+farmhouse has been devoted solely to growing vegetables.  The perimeter of
+the garden has been marked out with a low wooden fence.  Within the plot of
+carefully tended ground are neat rows of vegetables including cabbages,
+potatoes, onions and carrots.  
+~
+0
+0 2
+D3
+~
+~
+3 3
+1 0 7319
+S
+#7331
+A Vegetable Garden~
+This is a rather large square plot of land that lies at the back of the
+farmhouse has been devoted solely to growing vegetables.  The boundaries of
+the garden have been marked out with a low wooden fence.  Within the plot of
+carefully tended ground are neat rows of vegetables including potatoes,
+cabbages, onions and carrots.  
+~
+0
+0 2
+D3
+~
+~
+3 3
+1 0 7320
+S
+#7332
+A Vegetable Patch~
+This is a relatively large square plot of land that lies at the back of
+the house has been devoted solely to growing vegetables.  The perimeter of
+the garden has been marked out with a low wooden fence.  Within the plot of
+carefully tended ground are row upon row of vegetables including cabbages,
+potatoes, onions and carrots.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 7321
+S
+#7333
+The Back Room~
+The back room is a rather neat and tidy place whose main focal point is a
+large gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.  The huge {Dk{we{Dtt{wl{De{x that hangs over the fire is
+probably used to heat the water for the {Dt{wi{Wn b{wat{Dh{x that sits in the corner of
+the room.  The back room is also the home to numerous {ycupboards{x, {ycabinets{x
+and {ys{Dh{yelv{De{ys{x that are used to store items varying from {cblankets{x and {Wbed linen{x
+to cleaning utensils.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7334
+D2
+~
+~
+3 3
+1 0 7294
+S
+#7334
+A Vegetable Garden~
+This is a relatively large square plot of land that lies at the back of
+the farmhouse has been devoted solely to growing vegetables.  The boundaries
+of the garden have been marked out with a low wooden fence.  Within the plot
+of carefully tended ground are row upon row of vegetables including
+potatoes, cabbages, onions and carrots.  
+~
+0
+0 2
+D2
+~
+~
+3 3
+1 0 7333
+S
+#7335
+The Back Room~
+The back room is a particularly neat and tidy place whose main focal
+point is a large gray stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x.  The huge {Di{wro{Dn k{we{Dtt{wl{De{x that hangs over
+the fire is probably used to heat the water for the {Dt{wi{Wn b{wat{Dh{x that sits in
+the corner of the room.  The back room is also the home to numerous
+{ycabinets{x, {ycupboards{x and {ys{Dh{yelv{De{ys{x that are used to store items varying from
+{cblankets{x and {Wbed linen{x to cleaning utensils.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7306
+S
+#7336
+The Blacksmith's House~
+Like a lot of the houses in Emond's Field, this one has been expanded
+over time to accommodate several generations beneath one thatched roof with
+its many extensions built into both floors of the building.  The main focal
+point of the building is the front room with its enormous gray stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and the comfortable {ma{Mrm{mcha{Mir{ms{x that surround it.  At the other end
+of the room is a {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x large enough to seat a dozen people and a
+couple of plainly-crafted {yc{Du{ypboar{Dd{ys{x that hold {Dcu{wtle{Wry{x and {Wcrockery{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7206
+S
+#7337
+A Large House~
+Like many of the houses in Emond's Field, this one has been expanded over
+time to house several generations beneath one thatched roof with its
+numerous extensions built into both floors of the building.  The main focal
+point of the building is the front room with its massive stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and
+the comfortable {ba{Br{bm{Bc{bh{Ba{bi{Br{bs{x placed near it.  At the other end of the room is a
+{yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x big enough to seat a dozen people and a couple of well-crafted
+{yd{Dr{yesse{Dr{ys{x that hold {Wcrockery{x and {Dcu{wtle{Wry{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7207
+S
+#7338
+A Large House~
+Like a lot of the houses within the village of Emond's Field, this one
+has been expanded over the years to accommodate several generations beneath
+one thatched roof with its many extensions built into both floors of the
+building.  The main focal point of the building though is the front room
+with its enormous stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and the comfy {ga{Grm{gcha{Gir{gs{x that surround it. 
+At the other end of the room is a {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x large enough to seat a dozen
+people and a couple of plainly-crafted {yc{Da{ybine{Dt{ys{x that hold {Wcrockery{x and
+{Dcu{wtle{Wry{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 7230
+S
+#7339
+A Large House~
+Like a lot of the houses within the village of Emond's Field, this one
+has been expanded over the years to accommodate several generations beneath
+one thatched roof with its numerous extensions built into both floors of the
+building.  The main focal point of the building though is the front room
+with its massive stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and the comfy {ca{Dr{cmchai{Dr{cs{x that surround it. 
+At the other end of the room is a {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x large enough to seat a dozen
+people and a couple of plainly-crafted {yc{Da{ybine{Dt{ys{x that hold {Wcrockery{x and
+{Dcu{wtle{Wry{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7209
+S
+#7340
+A Large House~
+Like many of the houses in Emond's Field, this one has been expanded over
+time to house several generations beneath one thatched roof with its
+numerous extensions built into both floors of the building.  The main focal
+point of the building is the front room with its massive gray stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and the comfortable {bc{Bouc{bh{x placed by it.  At the other end of the
+room is a {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x big enough to seat a dozen people and a couple of
+well-crafted {yc{Du{ypboar{Dd{ys{x that hold {Dcu{wtle{Wry{x and {Wcrockery{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7210
+S
+#7341
+A Large House~
+Like many of the houses within the village of Emond's Field, this one has
+been expanded over the years to house several generations beneath one
+thatched roof with its numerous extensions built into both floors of the
+building.  The main focal point of the building though is the front room
+with its massive stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x and the comfy {yc{Youc{yh{x placed near it.  At the
+other end of the room is a {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x big enough to seat a dozen people
+and a couple of well-crafted {yc{Da{ybine{Dt{ys{x that hold {Wcrockery{x and {Dcu{wtle{Wry{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7211
+S
+#7342
+The Blacksmith's Forge~
+The blacksmith's workshop is a small building that lies on the northern
+edge of the Green.  The area has been kept immaculately clean and tidy with
+all of the blacksmith's tools kept safe in their respective {yr{Da{yc{Dk{ys{x, {yc{Du{ypboar{Dd{ys{x
+or {yd{Dr{yawe{Dr{ys{x.  At the west side of the workshop is the {Df{wo{Wr{wg{De{x with a small
+group of {Dan{wvi{Dls{x placed close by it.  At the opposite side of the room are
+several large wooden {yb{Da{yrre{Dl{ys{x, each one contains water, salt-water or oil.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7355
+D2
+~
+~
+3 3
+1 0 7203
+S
+#7343
+The Watermill~
+The Watermill harnesses some of the power of the Winespring Water to
+grind locally grown {yg{Yr{Wa{Yi{yn{x into {Wflour{x.  Within the {yt{Di{ymb{De{yr{x frame building is a
+mass of wooden {ycogs{x, {ywheels{x and {ygears{x that are propelled by huge wooden
+{yw{Da{yt{ce{Cr w{ch{ye{De{yl{x fed by a {yflume{x which are outside.  The air within the mill is a
+little dusty from the {Wflour{x but reasonably clean and tidy in this
+well-maintained workplace.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7292
+S
+#7344
+The Old Sickhouse~
+The front room of the Old Sickhouse is one of the only rooms of the
+building to be roofed.  It is a large room whose walls slope to one side but
+still seem structurally stable.  Outside the house beyond the {gv{Gin{ge{x-veiled
+windows is a tangled mess of {gt{Gr{ge{Ge{gs{x, {gb{Gu{Ysh{Ge{gs{x and {yb{gr{Dia{gr{ys{x known as the Westwood.
+~
+0
+AD 0
+D0
+~
+~
+3 3
+1 0 7250
+D2
+~
+~
+3 3
+1 0 7359
+S
+#7345
+A Muddy Track~
+This is the southern end of a wide {ymuddy track{x that winds its way through
+one of the Waterwood farms.  Thick {gh{De{gd{yger{go{Dw{gs{x flank this path as well as mark
+the borders of the {gf{yi{gel{yd{gs{x and {gp{Ga{gs{Gtu{gr{Ge{gs{x with wide sturdy gates providing
+access points into the individual {gf{yi{gel{yd{gs{x.  Beyond the {gf{yi{gel{yd{gs{x is a densely
+populated area of woodland, despite the {gt{Gr{ge{Ge{gs{x and the stony soil there are a
+few other similar-looking farms in the area.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7288
+D1
+~
+gate~
+3 3
+1 0 7346
+D2
+~
+gate~
+3 3
+1 0 7347
+D3
+~
+~
+3 3
+1 0 7348
+S
+#7346
+A Large Meadow~
+This is a large {gm{Geado{gw{x that more or less square in shape.  Despite the
+ground in the area being rather rocky, the field has been worked well enough
+for it to grow grass.  Like the other {gf{yi{gel{yd{gs{x in the area, the border of this
+one is marked out with densely growing {gh{De{gd{yger{go{Dw{gs{x which are in turn
+surrounded by tall {gt{Gr{ge{Ge{gs{x.  Some buildings can be seen in the distance
+including a couple of barns and a large farmhouse.  The only exit from this
+field is a gate on the west side that leads out onto a broad {ymuddy track{x.  
+~
+0
+0 2
+D3
+~
+gate~
+3 3
+1 0 7345
+S
+#7347
+A Tabac Field~
+This is a large field that roughly square in shape.  Despite the ground
+in the area being particularly stony, the field has been worked well enough
+for it to grow {Dt{ya{Db{ya{Dc{x plants.  Like the other {gf{yi{gel{yd{gs{x in the area, the edge of
+this one is marked out with thickly growing {gh{De{gd{yger{go{Dw{gs{x which are in turn
+surrounded by tall {gt{Gr{ge{Ge{gs{x.  Some buildings can be seen in the distance
+including a couple of barns and a large farmhouse.  The only exit from this
+field is a gate on the north side that leads out onto a wide {ymuddy track{x.  
+~
+0
+0 2
+D0
+~
+gate~
+3 3
+1 0 7345
+S
+#7348
+A Large Orchard~
+Despite the ground being quite stony, this large square field is occupied
+by an {go{Grchar{gd{x.  Like the other {gf{yi{gel{yd{gs{x in the area, the boundary of this
+orchard is marked out with densely growing {gh{De{gd{yger{go{Dw{gs{x.  Some buildings can be
+seen in the distance including a couple of barns and a large farmhouse.  The
+only exit from this field is a gate on the east side that leads out onto a
+wide {ymuddy track{x.  
+~
+0
+0 3
+D1
+~
+~
+3 3
+1 0 7345
+S
+#7349
+A Muddy Track~
+This is the southern end of a broad {y{ymuddy track{x{x that snakes its way
+through one of the Waterwood farms.  Thick {gh{De{gd{yger{go{Dw{gs{x border this track as
+well as mark the perimeter of the {gf{yi{gel{yd{gs{x and pastures with wide sturdy gates
+providing access points into the individual {gf{yi{gel{yd{gs{x.  Beyond the {gf{yi{gel{yd{gs{x is a
+densely populated area of woodland, despite the {gt{Gr{ge{Ge{gs{x and the stony soil
+there are a couple of other similar-looking farms in the area.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 7289
+D1
+~
+gate~
+3 3
+1 0 7350
+D2
+~
+gate~
+3 3
+1 0 7351
+D3
+~
+gate~
+3 3
+1 0 7352
+S
+#7350
+A Large Orchard~
+Despite the ground being quite stony, this large square field is occupied
+by an {go{Grchar{gd{x.  Like the other {gf{yi{gel{yd{gs{x in the area, the perimeter of this
+{go{Grchar{gd{x is marked out with thickly growing {gh{De{gd{yger{go{Dw{gs{x.  Some buildings can be
+seen in the distance including a couple of barns and a large farmhouse.  The
+only exit from this field is a gate on the west side that leads out onto a
+{ymuddy track{x.  
+~
+0
+0 3
+D3
+~
+gate~
+3 3
+1 0 7349
+S
+#7351
+A Large Meadow~
+This is a large {gm{Geado{gw{x that approximately square in shape.  Despite the
+ground in the area being rather stony, the field has been worked well enough
+for it to grow grass.  Like the other {gf{yi{gel{yd{gs{x in the area, the perimeter of
+this one is marked out with thickly growing {gh{De{gd{yger{go{Dw{gs{x which are in turn
+surrounded by tall {gt{Gr{ge{Ge{gs{x.  Some buildings can be seen in the distance
+including a couple of barns and a large farmhouse.  The only exit from this
+field is a gate on the north side that leads out onto a {ymuddy track{x.  
+~
+0
+0 2
+D0
+~
+gate~
+3 3
+1 0 7349
+S
+#7352
+A Tabac Field~
+This is a large field that approximately square in shape.  Despite the
+ground in the area being particularly stony, the field has been worked well
+enough for it to sustain a crop of {Dt{ya{Db{ya{Dc{x plants.  Like the other {gf{yi{gel{yd{gs{x in
+the area, the perimeter of this one is marked out with thickly growing
+{gh{De{gd{yger{go{Dw{gs{x which are in turn surrounded by tall {gt{Gr{ge{Ge{gs{x.  Some buildings can be
+seen in the distance including a couple of barns and a large farmhouse.  The
+only exit from this field is a gate on the east side that leads out onto a
+{ymuddy track{x.  
+~
+0
+0 2
+D1
+~
+gate~
+3 3
+1 0 7349
+S
+#7353
+A Pig Sty~
+This is a large pig sty built from roughly hewn pieces of wood.  Two
+troughs filled with water and food has been provided for the pigs as well as
+a small wooden shelter.  The ground within the sty has been churned up to a
+thick slime by its residents.  There is a sturdy gate on the west side of
+the sty which opens out onto a wide muddy track.  
+~
+0
+0 2
+D3
+~
+gate~
+3 3
+1 0 7289
+S
+#7354
+A Pig Sty~
+This is a large pig sty constructed from roughly hewn pieces of timber. 
+Two troughs filled with food and water has been provided for the pigs as
+well as a small wooden shelter.  The ground within the sty has been churned
+up to a thick gunk by its residents.  There is a sturdy gate on the east
+side of the sty which opens out onto a wide muddy track.  
+~
+0
+0 2
+D1
+~
+gate~
+3 3
+1 0 7288
+S
+#7355
+A Storage Room~
+This is a large storage room at the back of the blacksmith's workshop. 
+It is a square room with one solitary window on the north side of the room
+and a doorway on the opposite side.  A small {yl{Ya{Wnte{Yr{yn{x hung from the ceiling
+provides enough illumination to reveal the bare plaster walls and the stone
+floor of the room as well as the items stored within this area.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7342
+S
+#7356
+A Long Hallway~
+This long hallway is a rather simple room with plain {Wwhitewashed walls{x. 
+The floor has been left as bare {yt{Di{ymb{De{yr{x boards apart from a long {ggreen woolen
+rug{x along its center.  Like the rest of this house, this room has been
+recently cleaned and tidied for there is not a speck of dirt of cobweb to be
+seen.  There are a couple of doorways along this hallway that lead into
+other parts of the house.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7357
+D2
+~
+~
+3 3
+1 0 7358
+D3
+~
+~
+3 3
+1 0 7322
+S
+#7357
+A Small Bedroom~
+This is one of the bedrooms within the Sickhouse where people with
+infectious diseases go to convalesce.  It is a small room with a gray stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x built into the west wall.  At the other side of the room is a
+window that looks out over the woods that surround the house.  Among the
+items used to furnish this room are a large trunk, a chest of drawers and a
+washstand.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 7356
+S
+#7358
+A Small Bedroom~
+This is one of the bedrooms within the Sickhouse where people with
+infectious diseases go to convalesce.  It is a small room built with a gray
+stone {Df{wi{Wr{we{Dp{wl{Wa{wc{De{x in the west wall.  At the other side of the room is a window
+that looks out over the woodland that surrounds the house.  Among the items
+used to furnish this room are a wardrobe, a chest of drawers and a
+washstand.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 7356
+S
+#7359
+A Long Hallway~
+This long hallway was a rather simple room with plain whitewashed walls
+but dirt and grime has tarnished the walls until they are gray in color. 
+The floor has been left as bare {yt{Di{ymb{De{yr{x boards and the tattered remains of a
+{mpurple woolen rug{x lie across the floor.  The walls look buckled and bowed
+but seem strong enough to support the weight of the thatched roof.  There
+are several doorways along this corridor leading into other parts of the Old
+Sickhouse.  
+~
+0
+A 0
+D0
+~
+~
+3 3
+1 0 7344
+D1
+~
+~
+3 3
+1 0 7361
+D2
+~
+~
+7 7
+2 0 7362
+D3
+~
+~
+3 3
+1 0 7360
+S
+#7360
+A Small Bedroom~
+This room within the Old Sickhouse was probably a bedroom.  The
+whitewashed walls have turned a grubby shade of gray from the accumulation
+of dirt over the years of this building's abandonment.  A small gray stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x built into the north wall of the room has not been used in years,
+a sound of birds squawking from up the chimney hint that it has become a
+nesting site.  No furniture remains in this room, the only things that
+decorate this room are the thickly-growing {gv{Gi{Wn{Ge{gs{x that have reached in
+through the southern window and have spread across most of the wall.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 7359
+S
+#7361
+A Small Bedroom~
+This room within the Old Sickhouse was probably a bedroom.  The
+whitewashed walls have turned a grubby shade of gray from the gathering of
+dirt over the years of this building's desertion.  A small gray stone
+{Df{wi{Wr{we{Dp{wl{Wa{wc{De{x constructed into the north wall of the room has not been used in
+years, a sound of birds squawking from up the chimney hint that it has
+become a nesting site.  No furniture remains in this room, the only things
+that decorate this room are the tangle of {gv{Gi{Wn{Ge{gs{x that have reached in through
+the southern window and have spread across most of the wall.  
+~
+0
+AD 0
+D3
+~
+~
+3 3
+1 0 7359
+S
+#7362
+Open Skies~
+The back room of the Old Sickhouse is almost identical to the front room
+with its warped walls that are almost entirely covered with tangles of {gv{Gi{Wn{Ge{gs{x
+and {yb{gr{Dia{gr{ys{x.  The thatched roof is missing over this room leaving this area
+open to the elements.  Birds roosting in what is left of the thatch can be
+seen from this point as well as a badger's den dug underneath the back
+steps.  The Westwood and its tangle of {gt{Gr{ge{Ge{gs{x, {yb{gra{ymb{gle{ys{x and {gv{Gi{Wn{Ge{gs{x closes in
+on the house from all directions making it impossible to venture deeper into
+the woods from this point.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 0 7359
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 7201 1 1
+D 0 7203 0 1
+D 0 7206 3 1
+D 0 7207 3 1
+D 0 7209 2 1
+D 0 7210 2 1
+D 0 7211 2 1
+D 0 7225 0 1
+D 0 7228 0 1
+D 0 7230 3 1
+D 0 7239 1 1
+D 0 7240 0 1
+D 0 7240 3 1
+D 0 7241 1 1
+D 0 7241 2 1
+D 0 7241 5 1
+D 0 7242 2 1
+D 0 7242 3 1
+D 0 7245 3 1
+D 0 7246 1 1
+D 0 7250 2 1
+D 0 7251 4 1
+D 0 7252 0 1
+D 0 7252 1 1
+D 0 7252 2 1
+D 0 7253 3 1
+D 0 7254 1 1
+D 0 7254 2 1
+D 0 7254 3 1
+D 0 7255 3 1
+D 0 7256 0 1
+D 0 7256 1 1
+D 0 7256 3 1
+D 0 7256 4 1
+D 0 7257 2 1
+D 0 7258 1 1
+D 0 7259 1 1
+D 0 7260 1 1
+D 0 7261 0 1
+D 0 7262 3 1
+D 0 7264 0 1
+D 0 7264 2 1
+D 0 7264 3 1
+D 0 7265 0 1
+D 0 7266 1 1
+D 0 7266 3 1
+D 0 7267 0 1
+D 0 7267 1 1
+D 0 7267 2 1
+D 0 7267 3 1
+D 0 7268 3 1
+D 0 7269 0 1
+D 0 7270 0 1
+D 0 7270 1 1
+D 0 7270 2 1
+D 0 7270 3 1
+D 0 7271 0 1
+D 0 7271 1 1
+D 0 7271 3 1
+D 0 7272 1 1
+D 0 7273 3 1
+D 0 7274 2 1
+D 0 7275 0 1
+D 0 7275 1 1
+D 0 7275 2 1
+D 0 7275 3 1
+D 0 7276 2 1
+D 0 7277 0 1
+D 0 7277 1 1
+D 0 7277 3 1
+D 0 7278 1 1
+D 0 7279 3 1
+D 0 7280 1 1
+D 0 7281 3 1
+D 0 7282 2 1
+D 0 7282 3 1
+D 0 7283 1 1
+D 0 7285 1 1
+D 0 7285 3 1
+D 0 7286 1 1
+D 0 7287 3 1
+D 0 7288 3 1
+D 0 7289 1 1
+D 0 7291 1 1
+D 0 7292 0 1
+D 0 7292 1 1
+D 0 7292 2 1
+D 0 7292 3 1
+D 0 7293 0 1
+D 0 7293 2 1
+D 0 7294 0 1
+D 0 7294 2 1
+D 0 7295 0 1
+D 0 7295 2 1
+D 0 7295 4 1
+D 0 7296 2 1
+D 0 7297 0 1
+D 0 7298 0 1
+D 0 7298 1 1
+D 0 7299 0 1
+D 0 7299 2 1
+D 0 7300 0 1
+D 0 7300 1 1
+D 0 7300 2 1
+D 0 7300 3 1
+D 0 7300 4 1
+D 0 7301 2 1
+D 0 7302 3 1
+D 0 7303 0 1
+D 0 7304 1 1
+D 0 7305 1 1
+D 0 7305 3 1
+D 0 7306 0 1
+D 0 7306 1 1
+D 0 7306 2 1
+D 0 7306 3 1
+D 0 7307 0 1
+D 0 7307 1 1
+D 0 7307 2 1
+D 0 7307 3 1
+D 0 7307 4 1
+D 0 7308 2 1
+D 0 7309 3 1
+D 0 7310 0 1
+D 0 7311 1 1
+D 0 7312 1 1
+D 0 7312 3 1
+D 0 7313 2 1
+D 0 7313 3 1
+D 0 7314 2 1
+D 0 7314 3 1
+D 0 7314 4 1
+D 0 7315 1 1
+D 0 7316 0 1
+D 0 7317 5 1
+D 0 7318 0 1
+D 0 7319 1 1
+D 0 7319 2 1
+D 0 7320 0 1
+D 0 7320 1 1
+D 0 7321 2 1
+D 0 7321 3 1
+D 0 7322 1 1
+D 0 7322 3 1
+D 0 7323 5 1
+D 0 7324 5 1
+D 0 7325 5 1
+D 0 7326 5 1
+D 0 7327 0 1
+D 0 7327 2 1
+D 0 7327 3 1
+D 0 7328 2 1
+D 0 7329 0 1
+D 0 7330 3 1
+D 0 7331 3 1
+D 0 7332 1 1
+D 0 7333 0 1
+D 0 7333 2 1
+D 0 7334 2 1
+D 0 7335 1 1
+D 0 7336 1 1
+D 0 7337 1 1
+D 0 7338 1 1
+D 0 7339 0 1
+D 0 7340 0 1
+D 0 7341 0 1
+D 0 7342 0 1
+D 0 7342 2 1
+D 0 7343 2 1
+D 0 7344 0 1
+D 0 7344 2 1
+D 0 7345 1 1
+D 0 7345 2 1
+D 0 7345 3 1
+D 0 7346 3 1
+D 0 7347 0 1
+D 0 7348 1 1
+D 0 7349 1 1
+D 0 7349 2 1
+D 0 7349 3 1
+D 0 7350 3 1
+D 0 7351 0 1
+D 0 7352 1 1
+D 0 7353 3 1
+D 0 7354 1 1
+D 0 7355 2 1
+D 0 7356 0 1
+D 0 7356 2 1
+D 0 7356 3 1
+D 0 7357 2 1
+D 0 7358 0 1
+D 0 7359 0 1
+D 0 7359 1 1
+D 0 7359 2 2
+D 0 7359 3 1
+D 0 7360 1 1
+D 0 7361 3 1
+D 0 7362 0 2
+M 0 7204 4 7201 1
+E 0 7206 0 10
+E 0 7207 0 7
+E 0 7209 0 12
+M 0 7206 4 7202 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7205 4 7203 1
+E 0 7206 0 10
+E 0 7208 0 7
+E 0 7210 0 12
+M 0 7207 4 7204 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7227 1 7204 1
+E 0 7253 0 10
+E 0 7259 0 9
+E 0 7260 0 11
+M 0 7204 4 7205 1
+E 0 7206 0 10
+E 0 7207 0 7
+E 0 7209 0 12
+M 0 7206 4 7206 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7208 3 7206 1
+M 0 7205 4 7207 1
+E 0 7206 0 10
+E 0 7208 0 7
+E 0 7210 0 12
+M 0 7204 4 7208 1
+E 0 7283 0 3
+E 0 7206 0 10
+E 0 7207 0 7
+E 0 7209 0 12
+M 0 7208 3 7208 1
+M 0 7206 4 7209 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7205 4 7210 1
+E 0 7206 0 10
+E 0 7208 0 7
+E 0 7210 0 12
+M 0 7209 3 7210 1
+M 0 7207 4 7211 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7204 4 7212 1
+E 0 7206 0 10
+E 0 7207 0 7
+E 0 7209 0 12
+M 0 7206 4 7214 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7209 3 7214 1
+M 0 7207 4 7215 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7208 3 7215 1
+M 0 7205 4 7216 1
+E 0 7206 0 10
+E 0 7208 0 7
+E 0 7210 0 12
+M 0 7213 2 7218 1
+M 0 7213 2 7220 1
+M 0 7207 4 7230 1
+E 0 7211 0 10
+E 0 7212 0 7
+E 0 7213 0 16
+M 0 7209 3 7230 1
+M 0 7200 1 7231 1
+E 0 7200 0 5
+M 0 7201 2 7231 1
+E 0 7201 0 7
+E 0 7202 0 10
+E 0 7203 0 9
+M 0 7203 2 7232 1
+E 0 7201 0 7
+E 0 7202 0 10
+E 0 7203 0 9
+M 0 7202 2 7233 1
+E 0 7204 0 7
+E 0 7202 0 10
+E 0 7205 0 18
+M 0 7201 2 7234 1
+E 0 7201 0 7
+E 0 7202 0 10
+E 0 7203 0 9
+M 0 7203 2 7235 1
+E 0 7201 0 7
+E 0 7202 0 10
+E 0 7203 0 9
+M 0 7202 2 7236 1
+E 0 7204 0 7
+E 0 7202 0 10
+E 0 7205 0 18
+O 0 7214 0 7239
+O 0 7215 0 7240
+O 0 7216 0 7240
+M 0 7236 1 7240 1
+E 0 7284 0 5
+O 0 7217 0 7242
+M 0 7215 2 7244 2
+M 0 7215 2 7244 2
+M 0 7212 2 7245 1
+M 0 7212 2 7246 1
+M 0 7220 2 7249 1
+M 0 7214 5 7251 5
+M 0 7214 5 7251 5
+M 0 7214 5 7251 5
+M 0 7214 5 7251 5
+M 0 7214 5 7251 5
+O 0 7285 0 7252
+M 0 7210 4 7253 4
+M 0 7210 4 7253 4
+M 0 7210 4 7253 4
+M 0 7210 4 7253 4
+M 0 7211 2 7253 2
+E 0 7218 0 10
+E 0 7219 0 20
+E 0 7220 0 5
+M 0 7211 2 7253 2
+E 0 7218 0 10
+E 0 7219 0 20
+E 0 7220 0 5
+O 0 7224 0 7257
+O 0 7222 0 7257
+O 0 7225 0 7258
+O 0 7223 0 7258
+O 0 7226 0 7259
+O 0 7221 0 7259
+O 0 7225 0 7260
+O 0 7223 0 7260
+O 0 7226 0 7261
+O 0 7222 0 7261
+O 0 7224 0 7262
+O 0 7221 0 7262
+O 0 7258 0 7264
+M 0 7219 16 7264 4
+M 0 7216 3 7265 1
+M 0 7217 12 7265 4
+M 0 7217 12 7265 4
+M 0 7217 12 7265 4
+M 0 7217 12 7265 4
+O 0 7227 0 7266
+O 0 7228 0 7268
+O 0 7228 0 7269
+M 0 7219 16 7270 4
+M 0 7222 2 7270 1
+E 0 7247 0 8
+E 0 7248 0 20
+E 0 7253 0 10
+M 0 7233 4 7271 2
+E 0 7253 0 10
+E 0 7247 0 8
+E 0 7248 0 20
+M 0 7216 3 7272 1
+M 0 7217 12 7272 4
+M 0 7217 12 7272 4
+M 0 7217 12 7272 4
+M 0 7217 12 7272 4
+M 0 7234 1 7273 1
+E 0 7253 0 10
+E 0 7247 0 8
+E 0 7248 0 20
+O 0 7229 0 7274
+M 0 7218 12 7274 4
+M 0 7218 12 7274 4
+M 0 7218 12 7274 4
+M 0 7218 12 7274 4
+O 0 7258 0 7275
+M 0 7219 16 7275 4
+M 0 7222 2 7275 1
+E 0 7247 0 8
+E 0 7248 0 20
+E 0 7253 0 10
+O 0 7229 0 7276
+M 0 7218 12 7276 4
+M 0 7218 12 7276 4
+M 0 7218 12 7276 4
+M 0 7218 12 7276 4
+M 0 7216 3 7279 1
+M 0 7217 12 7279 4
+M 0 7217 12 7279 4
+M 0 7217 12 7279 4
+M 0 7217 12 7279 4
+O 0 7229 0 7280
+M 0 7218 12 7280 2
+M 0 7218 12 7280 2
+M 0 7235 1 7280 1
+O 0 7229 0 7281
+M 0 7218 12 7281 2
+M 0 7218 12 7281 2
+O 0 7217 0 7282
+M 0 7233 4 7288 2
+E 0 7253 0 10
+E 0 7247 0 8
+E 0 7248 0 20
+M 0 7220 2 7290 1
+M 0 7237 1 7290 1
+M 0 7219 16 7292 4
+O 0 7231 0 7293
+O 0 7232 0 7293
+O 0 7230 0 7293
+O 0 7233 0 7293
+P 0 7236 1 7233 1
+P 0 7279 4 7233 4
+P 0 7280 6 7233 6
+P 0 7281 6 7233 6
+O 0 7234 0 7296
+O 0 7235 0 7297
+P 0 7237 1 7235 1
+O 0 7234 0 7297
+O 0 7230 0 7298
+O 0 7238 0 7298
+M 0 7221 1 7298 1
+O 0 7239 0 7298
+O 0 7246 0 7301
+O 0 7244 0 7301
+O 0 7243 0 7302
+M 0 7224 3 7302 1
+M 0 7225 3 7302 1
+O 0 7246 0 7303
+O 0 7243 0 7303
+O 0 7245 0 7304
+O 0 7244 0 7304
+O 0 7230 0 7305
+O 0 7240 0 7305
+O 0 7241 0 7305
+M 0 7223 2 7305 1
+E 0 7249 0 16
+E 0 7250 0 10
+E 0 7251 0 7
+E 0 7252 0 12
+O 0 7245 0 7308
+P 0 7254 1 7245 1
+O 0 7243 0 7308
+M 0 7224 3 7308 1
+M 0 7225 3 7308 1
+O 0 7245 0 7309
+O 0 7255 0 7309
+P 0 7256 1 7255 1
+O 0 7243 0 7309
+M 0 7229 2 7309 1
+M 0 7229 2 7309 1
+O 0 7246 0 7310
+O 0 7244 0 7310
+O 0 7246 0 7311
+P 0 7267 1 7246 1
+O 0 7244 0 7311
+O 0 7230 0 7312
+O 0 7242 0 7312
+O 0 7239 0 7312
+M 0 7223 2 7312 1
+E 0 7249 0 16
+E 0 7250 0 10
+E 0 7251 0 7
+E 0 7252 0 12
+O 0 7246 0 7315
+P 0 7278 1 7246 1
+O 0 7243 0 7315
+M 0 7224 3 7315 1
+M 0 7225 3 7315 1
+O 0 7245 0 7316
+O 0 7244 0 7316
+O 0 7263 0 7317
+P 0 7264 1 7263 1
+P 0 7265 1 7263 1
+O 0 7245 0 7318
+O 0 7244 0 7318
+O 0 7217 0 7319
+M 0 7226 2 7319 1
+O 0 7217 0 7320
+O 0 7217 0 7321
+M 0 7226 2 7321 1
+O 0 7239 0 7322
+O 0 7242 0 7322
+O 0 7262 0 7323
+P 0 7277 1 7262 1
+P 0 7282 1 7262 1
+O 0 7262 0 7324
+P 0 7266 1 7262 1
+O 0 7263 0 7325
+O 0 7262 0 7326
+P 0 7270 1 7262 1
+P 0 7269 1 7262 1
+O 0 7238 0 7327
+O 0 7230 0 7327
+O 0 7246 0 7328
+O 0 7244 0 7328
+O 0 7245 0 7329
+P 0 7268 1 7245 1
+O 0 7243 0 7329
+M 0 7230 1 7330 1
+O 0 7257 0 7333
+M 0 7238 1 7342 1
+M 0 7228 1 7343 1
+E 0 7253 0 10
+E 0 7261 0 25
+M 0 7232 10 7346 5
+M 0 7232 10 7346 5
+O 0 7274 0 7348
+P 0 7275 10 7274 10
+O 0 7272 0 7350
+P 0 7273 10 7272 10
+M 0 7232 10 7351 5
+M 0 7232 10 7351 5
+M 0 7231 8 7353 4
+M 0 7231 8 7353 4
+M 0 7231 8 7354 4
+M 0 7231 8 7354 4
+O 0 7240 0 7355
+P 0 7276 1 7240 1
+O 0 7271 0 7362
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

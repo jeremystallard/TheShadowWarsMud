@@ -1,0 +1,409 @@
+#AREADATA
+Name Bandit Camp~
+Builders Scarawl~
+VNUMs 2200 2299
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#2200
+huge vile rat~
+a huge vile, and disgusting rat~
+A pair of tiny red eyes focus  in your direction
+~
+This rat is at least twice the size of a normal rat, having lived well in
+the tunnels.  It's hair is black, and I wouldn't be surprised if it carries
+diseases.  
+~
+unique~
+AFG FM 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+D c 0 0
+stand stand male 30
+G F small 'unknown'
+#2201
+giant snake beast~
+a giant snake-like beast~
+A giant snake-like beast slithers through the sludge
+~
+This beast is disgusting, like an enormous snake.  It seems to feed off
+anything it can find in the refuse pit.  
+~
+snake~
+AFG FM 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CEHKN C 0 0
+stand stand none 100
+0 0 huge 'unknown'
+#0
+
+
+
+#OBJECTS
+#2200
+chair table~
+A table and four chairs~
+A rough wooden table is here, surrounded by four high-backed chairs~
+wood~
+furniture 0 0
+4 0 D 5 5
+0 0 0 100
+#2201
+wooden chest~
+a {ywooden{x chest~
+A {ywooden{x chest is fastened to the ground~
+wood~
+container 0 0
+0 0 0 0 0
+0 0 0 100
+#2202
+heavy iron flail~
+a heavy {Wi{Dr{Wo{Dn{x flail~
+a heavy flail, of solid iron, has been discarded here~
+iron~
+weapon 0 AN
+flail 10 15 'none' 0
+90 0 0 100
+A
+2 1
+A
+5 1
+A
+18 4
+A
+19 4
+#0
+
+
+
+#ROOMS
+#2200
+In a Thick Forest~
+The foilage here is thick, and the tree's tall and full of strength, from
+enduring the hardships of Saldaean weather.  The sun manages to get through
+in parts, where the cold has burst a few tree's.  There is the faintest
+signs of human activity through here, or perhaps that of wild animals.  Up
+in a tree, barely noticable, is a wooden construct that could easily hold a
+man, an archer to be exact.  It is well hidden among the foilage.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 2201
+S
+#2201
+On a Small Horse Trail~
+There is a trail here that winds off through the woods, it is barely wide
+enough to allow one horse and perhaps a small wagon behind it.  There is a
+green foilage all about, causing the brown-packed trail to stand-out, minus
+the tufts of grass sticking from it here and there.  The trail winds off to
+the north, and towards the south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2202
+D3
+~
+~
+4096 4096
+0 0 2200
+S
+#2202
+Moving Along the Horse Trail~
+The trail continues winding through the forest to the north, although it
+seems to bend a little to the east further ahead.  The trail, barely widen
+enough for horse and wagon, is beat mostly dead of vegetation.  There is a
+ladder on a tree just to the west side of the trail.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2205
+D2
+~
+~
+0 0
+0 0 2201
+D4
+~
+~
+0 0
+0 0 2203
+S
+#2203
+Climbing a Tree~
+The rope ladder leads up the rather tall tree, towards a large wooden box
+mounted to some thick branches.  Just looking around, from the ladder,
+offers something of a view of the trail as it winds to the north-east, and
+back south.  There is a small hole in the bottom of the wooden box to allow
+a man entry.  
+~
+0
+0 0
+D4
+~
+~
+1 1
+1 0 2204
+D5
+~
+~
+0 0
+0 0 2202
+S
+#2204
+Inside the Tree-House~
+Once inside the tree-house, it is quite apparent that it is of solid
+construction and is very sturdy.  The walls reach up about four feet, to
+allow the occupants to duck beneath them.  Two people can fit, one more
+comfortably.  It provides an immaculate view of the winding horse trail, and
+a fair distance of the forest itself.  
+~
+0
+0 0
+D5
+~
+~
+1 1
+1 0 2203
+S
+#2205
+Nearing a Bend in the Horse Trail~
+The horse trail, barely wide enough for a horse and wagon, takes a small
+curve to the east here.  Just to the south of you is a well camouflaged
+treehouse sitting up high in the branches of an old tree.  The path
+continues on to the south for as far as the eye can see.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2206
+D2
+~
+~
+0 0
+0 0 2202
+S
+#2206
+A Bend in the Narrow Horse Trail~
+The narrow-cut path comes out of the curve, heading north into a
+clearing.  At the edge of the clearing are rows of sharpened stakes, and
+behind that barricades made of heaped dirt and clay.  Several buildings are
+scattered throughout, all made of rough wood but meant to last.  The
+encampment is circled by the stakes, and a clearing beyond that creating a
+killing field.  Back to the south-west is the way out of here, and to
+safety.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2207
+D3
+~
+~
+0 0
+0 0 2205
+S
+#2207
+Walking Between the Stakes~
+The stakes are twice as long as a man, sharpened to a point and angled to
+prevent a charge of any kind.  The trail leads to the south, out of this
+place.  It is something of a lodge, two main buildings with a small
+scattering of tents.  Just at the inside of the spikes, on the last
+remaining tree swung a corpse.  The wind moved the desecrated remains like
+an eerie banner, giving a warning to this place.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2208
+D2
+~
+~
+0 0
+0 0 2206
+S
+#2208
+Southern Edge of the Camp~
+The ground is trampled nearly clear of grass, only the occasional shoots
+here and there.  Mostly brown, beaten by hooves and boots.  Right to the
+south is the trail through the spikes, and from there the forest. 
+Immediately to the north is the front door to the largest of the two
+buildings.  Two drunk looking brigands lounging beside the door, the
+apparent guards on duty.  To the east is the smaller building, no guards at
+that door.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2209
+D2
+~
+~
+0 0
+0 0 2207
+S
+#2209
+Before the Small 'Office' Building~
+The small building is made of mud and clay, with a straw thatched roof. 
+It seems odd that there are no guards, but then one would remember that this
+camp is well hidden.  A simple blanket is draped over the doorway, acting as
+the door.  Back to the west is the trail that winds southwards back to the
+main trails of the woods.  The sounds of steel upon steel can be heard
+directly to the north, perhaps a practice area.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 2210
+D3
+~
+~
+0 0
+0 0 2208
+S
+#2210
+Inside the 'Office' Building~
+The room inside is well lit, the light provided by flickering torches
+held in place by wall-braces.  The walls are coated with maps of Murandy,
+and the local countryside.  The positions of local patrols are marked, as
+well as other brigands.  In the center of the room is a simple table, and
+it's top is covered by a large river-map of the known world.  There are
+scuff marks all over the floor directly below.  
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 2209
+D5
+~
+~
+4099 4099
+1 0 2211
+S
+#2211
+In a Tunnel~
+This tunnel is dank, and seems to be lacking some in oxygen.  The sound
+of dripped water, is as evident as the sound of the scurrying feet of the
+rats.  The tunnel is dark, and seems to stretch some way.  Here and there,
+your feet crunch over the old bones of a corpse.  The walls of dirt are
+lined in slime, and a solid wooden construct seems to hold the tunnel
+together.  Straight above, streaks of light break through the cracks in the
+floor, illuminating the dust as it falls below the trapdoor.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 2212
+D4
+~
+~
+4099 4099
+1 0 2210
+S
+#2212
+Further Along the Tunnel~
+The dark tunnel continues on, and reaches a bend.  The enormous rats
+continue to scurry about, their little feet blending with the sound of
+dripping water.  Here and there, the hungry little eyes focus on you.  The
+tunnel seems to end here, but in the corner is a chest.  Along the wall at
+the end of this corridor are empty torch brackets, as well as a table.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2211
+D5
+~
+~
+4096 4096
+0 0 2213
+S
+#2213
+A Pit Full of Soiled Water~
+It would seem that you have fallen into the sewage system for this bandit
+camp.  The water is thick, and vile with a horrible stench.  The exit above
+you looks so far away.  Perhaps this is it....  You feel something brush
+against your leg, under the sludge.  
+~
+0
+VX 0
+D4
+~
+~
+4096 4096
+0 0 2212
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2210 5 1
+D 0 2211 4 1
+M 0 2200 10 2211 3
+O 0 2201 0 2212
+P 0 2202 1 2201 1
+M 0 2201 2 2213 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

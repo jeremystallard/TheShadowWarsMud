@@ -1,0 +1,2339 @@
+#AREADATA
+Name Falme2~
+Builders Myre~
+VNUMs 9700 9800
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#9700
+receptionist pudgy~
+a pudgy receptionist~
+A pudgy receptionist works diligently behind the desk.
+~
+~
+taraboner~
+A 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 punch
+0 0 0 0 0
+A
+1 1 1 1
+CI 0 0 0
+sit sit female 20
+0 0 medium 'skin flesh bones'
+#9798
+Canadian canada man woman wild~
+a wild {RC{ra{Wn{Ra{rd{Wi{Ra{rn{x~
+A wild {RC{ra{Wn{Ra{rd{Wi{Ra{rn{x
+~
+~
+unique~
+AG 0 0 0
+20 10 12d12+2000 20d10+100 1d4+5 crush
+0 0 0 0 0
+A
+0 0 0 0
+FO Eac 0 0
+stand stand male 0
+0 CEHJ giant 'skin meat bones'
+#9799
+clone dragon~
+a {RD{rh{Wi{Damm{Wa{rr{Ra{x clone~
+A {RD{rh{Wi{Damm{Wa{rr{Ra{x clone creates havoc!
+~
+~
+dragon~
+AG 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 crush
+0 0 0 0 0
+A
+7 7 7 7
+DEIMOV EHc 0 0
+stand stand female 0
+0 LW giant 'skin flesh bones'
+#9800
+canadian beaver~
+a large mutated {ybeaver{x~
+A large mutated {ybeaver{x lumbers about creating havoc.
+~
+~
+unique~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+M 0 0 0
+stand stand either 0
+0 0 large 'flesh meat bones'
+#0
+
+
+
+#OBJECTS
+#9700
+elegant dagger~
+an {Wel{Ye{yg{Ya{Wnt{x dagger~
+An {Wel{Ye{yg{Ya{Wnt{x dagger with an {Wiv{wo{Wry{x hilt carved into a cats paw lays in its sheath.~
+steel~
+weapon Y AN
+dagger 10 15 'stab' 0
+90 50 2000 100
+A
+12 50
+A
+13 50
+A
+19 5
+A
+18 4
+A
+19 4
+#9701
+metal key chain~
+a {Dmetal{x keychain~
+A {Dmetal{x keychain looks pretty empty.~
+cloth~
+container Y AO
+20 0 0 30 50
+90 3 100 100
+#9702
+wine rack~
+a wine rack~
+A wine rack rests against the wall.~
+wood~
+container a 0
+25 AC 0 10 100
+1 10 10 100
+#9703
+medium well~
+a medium sized {Dw{We{wl{Dl{x~
+A medium sized {Dw{We{wl{Dl{x sits in the middle of the square.~
+stone~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 100
+#9704
+old book~
+an {yold{x book~
+An {yold{x book with a title of "{DArthur Hawkwing{x"~
+parchment~
+treasure 0 AO
+0 0 0 0 0
+1 2 100 100
+#9705
+book shelf~
+a wall to wall {ybookshelf{x~
+A wall to wall {ybookshelf{x filled with books sits here.~
+wood~
+container a 0
+100 0 0 5 0
+0 0 0 100
+#9706
+bottle red scratched wine~
+a scratched up bottle of {rr{Re{rd{x wine~
+A scratched up bottle of {rr{Re{rd{x wine sits in the rack.~
+glass~
+drink 0 A
+12 12 'red wine' 0 0
+1 10 100 100
+#9707
+brass key~
+a {ybr{Wa{yss{x key~
+A {ybr{Wa{yss{x key dangles from a chain.~
+cloth~
+key 0 A
+0 0 0 0 0
+1 2 20 100
+#9708
+steel key~
+a {Ds{Wtee{Dl{x key~
+A {Ds{Wtee{Dl{x key hangs from a loop of {yleather{x cord.~
+steel~
+key Y A
+0 0 0 0 0
+1 2 20 100
+#9709
+steel key gold~
+a {Wst{De{Wel{x key with {Yg{yol{Yd{x inlay~
+A {Wst{De{Wel{x key with {Yg{yol{Yd{x inlay hangs from a keychain.~
+gold steel~
+key Y A
+0 0 0 0 0
+1 3 50 100
+#9710
+small golden key~
+a small {Ygo{yld{Yen{x key~
+A small {Ygo{yld{Yen{x key sits in a pocket long forgotten.~
+gold steel~
+key 0 A
+0 0 0 0 0
+1 2 60 100
+#9794
+key pile~
+a key to a pile of {Ytr{ye{ba{Bs{Gu{Rr{re{x is tucked safely into a neck {Bs{Wc{Da{ble{x.~
+A key to a pile of {Ytr{ye{ba{Bs{Gu{Rr{re{x is tucked safely into a neck {Bs{Wc{Da{ble{x.~
+metal~
+key ABGIa AC
+0 0 0 0 0
+96 500 0 100
+#9795
+canada flag~
+a meduim-sized {RC{Wa{Rna{Wd{Ra{x flag perfect for a cloak or cape~
+A medium-sized {RC{Wa{Rna{Wd{Ra{x flag moves slowly in the breeze.~
+cloth~
+armor 0 AK
+4 4 4 4 0
+1 1 0 100
+#9796
+claws~
+a set of sharp {Wcla{Rw{rs{x~
+A set of sharp and deadly {Wcla{Rw{rs{x~
+nails~
+staff b AO
+100 1000 1000 'balefire' 0
+96 2 0 100
+#9797
+chocolate quarter~
+a {Wsi{Cl{Dv{Wer{x chocolate quarter~
+A {Wsi{Cl{Dv{Wer{x chocolate quarter with a moose stamped on it.~
+chocolate~
+food b A
+30 30 0 0 0
+60 2 0 100
+#9798
+beaver tail~
+a deep fried {ybe{Wa{yver{x tail~
+A deep fried {ybe{Wa{yver{x tail with cinnamon and sugar sits here waiting to be eaten.~
+deep fried batter~
+food b A
+30 30 0 0 0
+1 2 0 100
+#9799
+Dhia token~
+a {BD{bh{Di{Wamm{Da{br{Ba{x token~
+A {BD{bh{Di{Wamm{Da{br{Ba{x token made out of one of her scales.~
+scale~
+token b A
+0 0 0 0 0
+1 2 0 100
+#9800
+cookie Dhia sugar~
+a {Wsugar c{yoo{Wkie{x with {bb{Blue{x icing~
+A {Wsugar{x {Wc{yoo{Wkie{x with {bb{Blue{x icing in the shape of a D.~
+cookie~
+food 0 A
+50 50 0 0 0
+1 1 0 100
+#0
+
+
+
+#ROOMS
+#9700
+Secretary's Office~
+The plain office consists of plain {ywooden{x chairs set up along the walls
+near the door and a large desk in the middle were a woman sits behind it. 
+The {Wli{Cg{Wht{x that comes in from the solitary window illuminates the back half
+of the room while closed lanterns light the rest.  Across from the window is
+a solid looking door with a plaque nailed onto it that reads "{DCaptain{x". 
+Many of the messengers and sailors come into the room, most often just
+speaking with the woman behind the desk and then leaving but occassionally
+the woman rises and unlocks the door so they can speak directly to the
+Captain himself.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 8532
+D3
+~
+~
+7 7
+2 9708 9702
+S
+#9701
+Recruitment Office~
+Blank {Dst{wo{Dne{x walls and hard {ywooden{x floors make up yet another office. 
+This one tends to be the busiest of them all with guards moving in and out
+from the barracks to the west.  Against the back wall a desk sits behind
+which another woman sits.  Chairs are set up near the desk for those waiting
+to speak with her about joining the Watchers and though their not always
+full their rarely ever empty.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8532
+D3
+~
+~
+1 1
+1 0 9703
+S
+#9702
+Captain's Office~
+Unlike the rest of the building this office has maps and pictures on the
+walls as well as a flag centered on the back wall across from the door of
+the same {We{by{We{x and {bwaves{x image but more elaborate that was seen outside on the
+sign.  The maps on the walls are of Almoth Plain, Arad Doman and Tarabon,
+some of the pictures are of warriors and battles.  A large {yd{res{yk{x takes up
+most of the space in this room with three {ywooden{x chairs placed infront of
+it.  
+~
+0
+0 0
+D1
+~
+~
+7 7
+2 9708 9700
+D4
+~
+~
+4097 4097
+1 0 9706
+S
+#9703
+Enterance to the Barracks~
+In the main room of the barracks new recruits can get both their uniform,
+their weapon and their bunk placement.  This is also where the men get their
+orders for the day.  To the south loud clamoring and the faint smell of food
+wafts in while to the north it is much quieter.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9704
+D1
+~
+~
+1 1
+1 0 9701
+D2
+~
+~
+0 0
+0 0 9705
+S
+#9704
+Sleeping Quarters~
+The sleeping area is filled with as many bunk beds as could possibly fit
+without making it too uncomfortable.  For each set of bunks there is a trunk
+divided in half for the belongings of the bunk mates.  It is generally
+quietest in this room as those off duty are most likely sleeping and
+occassionally can be seen reading.  The noise from the mess hall just
+filters into this room but isn't enough to disturb those sleeping.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9703
+S
+#9705
+Mess Hall~
+Large, long bench {ytables{x stretch the length of this room while across
+from the door is the kitchen where the food is prepared for the men.  The
+way the men are served is almost like a buffet line, the men pick up their
+plates and utensils and move down the line while kitchen staff ladel
+whatever food item is available onto their plates before the men move to
+find a place to sit.  The noise level in this room is so loud its amazing
+that anyone can hear the person next too them and yet the men don't seem to
+have any problems.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9703
+S
+#9706
+Captain's Quarters~
+Sparcely furnished but clean this room is used mostly for sleeping and
+little else.  A small yet comfortable looking bed sits in one corner of the
+room with a nightstand to one side with a candle.  A book shelf stands
+against one of the walls with an arm chair near by.  A small wood stove is
+off by itself near the back of the room with stone tiles placed beneath it
+on the floor so that the wood floor doesn't catch fire.  The only way in or
+out is the staircase with the hidden exit behind the large flag in the
+office below.  
+~
+0
+0 0
+D5
+~
+~
+4097 4097
+1 0 9702
+S
+#9707
+The Kitchen and Dining Room~
+In the small room a {ytable{x and four {ychairs{x sit to one side of the room
+while an oven and stove sit on the far wall.  Counters and shelves line the
+rest of the available space, holding pots and {gherbs{x used in cooking.  Though
+small the kitchen is kept neat and tidy.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8531
+S
+#9708
+The Bedroom~
+A large bed takes up most of the room, its sheets a dark {mpurple{x color,
+and looks big enough to fit four people if needed.  Two small {ydressers{x sit
+on one wall and a pair of {ywooden{x chairs sit against the other.  {WLi{Dg{Wht{x comes
+from both the fireplace in the next room and also from {Ycandles{x placed on the
+dressers.  The room is meager but suits the needs of those that live here.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8531
+S
+#9709
+The Kitchen and Dining Room~
+In the small room a {ytable{x and four {ychairs{x sit to one side of the room
+while an oven and stove sit on the far wall.  Counters and shelves line the
+rest of the available space, holding pots and herbs used in cooking.  Though
+small the kitchen is kept neat and tidy.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9711
+S
+#9710
+A Bedroom~
+A large bed takes up most of the room, its sheets a dark {bblue{x color, and
+looks big enough to fit four people if needed.  Two small {ydressers{x sit on
+one wall and a pair of {ywooden{x chairs sit against the other.  {WLi{Dg{Wht{x comes
+from both the fireplace in the next room and also from {Ycandles{x placed on the
+dressers.  The room is meager but suits the needs of those that live here.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 9711
+S
+#9711
+A Simple Home~
+Sparcely furnished the living room consists of a large {mcouch{x and a couple
+of {ywooden{x chairs.  A small {Df{ri{Rr{Yepl{Ra{rc{De{x sits in one corner and keeps the room
+heated during the cold weather.  Through the door frame to the east a bed
+can just be made out while to the south the smell of baking bread can be
+smelt coming from the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8463
+D1
+~
+~
+0 0
+0 0 9710
+D2
+~
+~
+0 0
+0 0 9709
+S
+#9712
+An Elaborate Living Room~
+The living room is set up for the comfort of both the Mayor and any
+guests he might entertain.  Comfortable furniture in materials of {ggreen{x and
+{bblue{x sit about the {Df{ri{Rr{Yepl{Ra{rc{De{x on the wall farthest from the door leading into
+the foyer.  A liquor cabinet sits against one wall, a servant always on hand
+to serve drinks as needed.  The main door is kept locked against intruders
+and people that take wrong turns while to the left is the library and to the
+right is the dining room.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8535
+D1
+~
+~
+0 0
+0 0 9713
+D3
+~
+~
+0 0
+0 0 9714
+S
+#9713
+The Library~
+Roof to floor and wall to wall bookshelves cover this room, each is
+filled with books to the very top and there is very little space anywhere to
+be seen on the shelves, the only space without a bookself is the corner
+where the stairs come down.  Four large armchairs all sit in the middle of
+the room with hanging lanterns above them so that people can sit and chat or
+come in and read together.  The only door in the room leads out into the
+living room of the house.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 9712
+D4
+~
+~
+0 0
+0 0 8584
+S
+#9714
+The Dining Room~
+A large dining table and chairs enough for 10 people to sit at take up
+the majority of the room with enough space for both people to sit and
+servants to move around the table as needed.  There are paintings on the
+walls depicting animals and nature while the lighting is kept dim for the
+most part for a soothing relaxing atmosphere, perfect for a nice meal. 
+Through the door at the end of the room the sounds and smells of the kitchen
+filter through quietly.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9712
+D2
+~
+~
+3 3
+1 0 9715
+S
+#9715
+The Kitchen~
+Much like any kitchen this one has all the necessities, a large oven
+stove take up the wall farthest from the door.  Counters, shelves and
+cupboards take up the rest of the space, holding all that is needed for the
+cooking and baking that takes place here throughout the day.  Normally the
+Mayor eats alone so the meals are fairly small, simple yet delicious just
+the same, making it an easy day on the staff but sometimes there is a dinner
+party and then the kitchen goes into full swing.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9714
+S
+#9716
+Recovery Room~
+Numerous comfortable looking single {Wbeds{x take up most of the room,
+cupboards holding the Wisdom's herbs take up the rest of the space.  The
+people that spend time in this room are those that had the worst injuries
+and need time to rest and heal up before they can leave.  The Wisdom and her
+assistant often bustle between the two rooms, tending to those that need
+them.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8534
+S
+#9717
+The Bedroom~
+A large bed takes up most of the room, its sheets a dark {ggreen{x color, and
+looks big enough to fit four people if needed.  Two small {ydressers{x sit on
+one wall and a pair of {ywooden{x chairs sit against the other.  {WLi{Dg{Wht{x comes
+from both the fireplace in the next room and also from {Ycandles{x placed on the
+dressers.  The room is meager but suits the needs of those that live here.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 8536
+S
+#9718
+The Kitchen and Dining Room~
+In the small room a {ytable{x and four {ychairs{x sit to one side of the room
+while an oven and stove sit on the far wall.  Counters and shelves line the
+rest of the available space, holding pots and herbs used in cooking.  Though
+small the kitchen is kept neat and tidy.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8536
+S
+#9719
+A Rentable Room~
+The room in this long building consists of a single bed with {Wwhite{x
+sheets, a {ynightstand{x, a lockable chest and a {ywooden{x chair with a {bpadded{x
+seat.  Most that rent out this room only spend a night or two here and are
+usually sailors just recently arrived in town while their ship resupplies.
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8479
+S
+#9720
+A Rentable Room~
+The room in this long building consists of a single bed with {Wwhite{x
+sheets, a {ynightstand{x, a lockable chest and a {ywooden{x chair with a {bpadded{x
+seat.  Most that rent out this room only spend a night or two here and are
+usually sailors just recently arrived in town while their ship resupplies.
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8480
+S
+#9721
+The Renting Office~
+The rental office is small and is furnished with a large {ydesk{x in the back
+and numerous {ywooden{x chairs between the desk and the door.  Signs on the
+walls inform those that enter the cost of the rooms per night and what
+services are offered.  The most eyecatching thing in the room is the large
+{Dsafe{x behind the desk but the large mutt of a dog that is sleeping beside it
+make most think twice about trying for it.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8481
+S
+#9722
+A Waiting Room~
+Comfortable {bcouches{x are spaced evenly all around the room so that the
+visitors that come here can relax while they wait. The {Wlig{Dht{Wing{x is kept
+dim and alcohol flows freely here, brought by scantily clad girls who
+occassionaly guide a visitor north into a hallway. The smell of {min{rcen{mse{x
+fills the room with the smell of sandalwood.  {DCarpet{x covers the entire floor
+so that footsteps make no sound and the dirt from outside doesn't show as
+easily.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9723
+D2
+~
+~
+3 3
+1 0 8417
+S
+#9723
+An Office~
+At the end of the wide hallway a desk sits infront of a staircase, the
+desk is almost empty except for an ink pot, a quill and four sheets of
+parchment.  The woman behind the desk inquires as to which room you would
+like, makes a mark on one of the sheets of parchment and then hands you a
+key, giving you directions to the room you want to go to.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9722
+D4
+~
+~
+0 0
+0 0 9724
+S
+#9724
+Top of the Staircase~
+At the top of the stairs is a small hallway that goes in either
+direction, there isn't much traffic up here but the muffled sounds of
+anything from screams of pleasure, cries of torment and the occassional
+sound of a whip cracking.  The same {Dcarpet{x from downstairs is also here on
+the hallway to muffle footsteps so that the visitors aren't disturbed.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9725
+D3
+~
+~
+0 0
+0 0 9728
+D5
+~
+~
+0 0
+0 0 9723
+S
+#9725
+A Small Hallway~
+At the end of the hallway two doors sit on either side, one door is
+numbered one and the other is numbered two.  When the room is occupied the
+sounds of human passion can be heard but when empty the hallway is almost
+disturbingly quiet.  Hooded lanterns light the hallway here.  The same
+{Dcarpet{x from downstairs is also here on the hallway to muffle footsteps so
+that the visitors aren't disturbed.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 8547 9726
+D2
+~
+~
+7 7
+2 8548 9727
+D3
+~
+~
+0 0
+0 0 9724
+S
+#9726
+A Grungy Room~
+The poor {Wlig{Dht{Wing{x in this room provides much comfort one when actually
+takes a moment to look around the room.  The place looks like it hasn't been
+cleaned in a long time, various articles of clothing cover the floor in an
+odd sort of carpet.  If the walls weren't made of {Dstone{x one would easily see
+the dirt that is smeared on the once {rred{x curtains that cover the lone
+window.  Luckily most of the visitors are too drunk to notice the state of
+the room, lucky them.  
+~
+0
+0 0
+D2
+~
+~
+7 7
+2 8547 9725
+S
+#9727
+A Barren Room~
+The room is almost empty except for a mess of {yblankets{x piled in the
+middle of the room.  The walls have no decoration, the floor has no carpet,
+the window has no curtain and allows one to look out into the sky and at the
+cliffs.  The {ywood{x floor has numerous claw marks and faint {rblood{x stains all
+over the place, the blankets are also a bit {rblood{x stained as well.  A lone
+lantern hangs high up on the ceiling, providing a little {Wli{Cg{Wht{x but not a
+lot.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 8548 9725
+S
+#9728
+A Small Hallway~
+At the end of the hallway two doors sit on either side, one door is
+numbered three and the other is numbered four.  When the room is occupied
+the sounds of human passion can be heard but when empty the hallway is
+almost disturbingly quiet.  Hooded lanterns light the hallway here.  The
+same {Dcarpet{x from downstairs is also here on the hallway to muffle footsteps
+so that the visitors aren't disturbed.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 8549 9729
+D1
+~
+~
+0 0
+0 0 9724
+D2
+~
+~
+7 7
+2 8550 9730
+S
+#9729
+An Overly Perfumed Room~
+This room is almost out of place here, expensive looking {bcarpet{x covers
+the floor, {yo{ra{yk{x furniture fills most of the space while a large four post {yb{re{yd{x
+sits in the middle with gauzy {bblue{x curtains surrounding it.  The room smells
+strongly of perfume but not just one perfume but many all thrown together. 
+A fancy looking {Dchandelair{x provides light for the room as well as a few
+candles placed about the room.  
+~
+0
+0 0
+D2
+~
+~
+7 7
+2 8549 9728
+S
+#9730
+A Room of Whips and Chains~
+The smell of {Dleather{x and {Dme{wt{Dal{x is dominate in this room, the dim
+lightning barely showing what is inside.  Hooks have been put into the
+ceiling and floor with chain manacles attached to each.  Lining the walls on
+hooks and shelves are whips, paddles, riding crops and other various items
+used for punishment as well as pleasure, as the case may be.  One can only
+wonder how much action this room sees, considering the attitude of the
+majority of sailors.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 8550 9728
+S
+#9731
+A Small Livingroom~
+Sparcely furnished the living room consists of a large {bcouch{x and a couple
+of {ywooden{x chairs.  A small {Df{ri{Rr{Yepl{Ra{rc{De{x sits in one corner and keeps the room
+heated during the cold weather.  Through the door frame to the west a bed
+can just be made out while to the south the smell of baking bread can be
+smelt coming from the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8440
+D2
+~
+~
+0 0
+0 0 9732
+D3
+~
+~
+0 0
+0 0 9733
+S
+#9732
+The Kitchen and Dining Room~
+In the small room a {ytable{x and four {ychairs{x sit to one side of the room
+while an oven and stove sit on the far wall.  Counters and shelves line the
+rest of the available space, holding pots and {Dh{gerb{Ds{x used in cooking.  Though
+small the kitchen is kept neat and tidy.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9731
+S
+#9733
+The Bedroom~
+A large {ybed{x takes up most of the room, its sheets a dark {ggreen{x color,
+and looks big enough to fit four people if needed.  Two small {ydressers{x sit
+on one wall and a pair of wooden chairs sit against the other.  {WLi{Dg{Wht{x comes
+from both the fireplace in the next room and from {Ycandles{x placed on the
+dressers.  The room is meager but suits the needs of those that live here. 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9731
+S
+#9734
+A Furniture Shop~
+This shop is very cluttered with various pieces of wood furniture, tables
+and chairs are stacked one on top of the other as if the owner tried to cram
+as many piece of furniture in as possible while leaving a path big enough
+for a person to walk through to the counter at the back of the room.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8444
+S
+#9735
+Along the Docks~
+The {ywooden{x planks that make up the dock are on sturdier ground here and
+do not rock with the water as the only water beneath the wood is what washes
+up with the waves.  At the end of the planks is a solid looking wood door
+with a metal door handle, looking up the door leads to the top of the
+{Wligh{Dth{Wouse{x where the glowing beacon shines out into the ocean to warn the
+ships in the night and in the fog of the cliffs and also guides them towards
+Falme.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 8435
+D3
+~
+~
+0 0
+0 0 8434
+S
+#9736
+Large Living Quarters~
+The door slides back into place with a soft click, shutting off the large
+room from the staircase outside.  The room has all the comforts of home, a
+wood burning stove with a pipe that goes up through the rock, a large
+comfortable bed, a rocking chair, a tub and even a well in one far corner of
+the room with a bucket and pulley system.  The place has been kept neat and
+tidy and though there are no windows there is still plenty of light provided
+by the lanterns and candles in the room.  The {Dstone{x floor is mostly covered
+by rugs of various colors and styles, all seem old and worn.  One can only
+assume that the caretaker of the {Wligh{Dth{Wouse{x lives here.  
+~
+0
+0 0
+D1
+~
+~
+4099 4099
+1 0 8569
+S
+#9737
+A Room Full of Bunks~
+Bunks fill every available space here and at the foot of them are two
+sets of small lockable chests.  There is usually at least one or two men in
+this room sleeping or playing cards.  This is where they come to rest up for
+the next task or job assigned to them.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8556
+S
+#9738
+A Store Room~
+This large room contains all the ill gotten goods of those that reside
+here.  Despite the amount of things in this place its fairly well organized.
+Money is kept in chests against the back wall, expensive clothing,
+paintings, books and anything else that is valuable are neatly stacked along
+the rest of the walls.  By the looks of things the bandits do well for
+themselves and the two dogs outside are definately a good deterrent for
+anyone within the ranks wanting to take a bit extra for themselves.  
+~
+0
+0 0
+D0
+~
+~
+8711 8711
+2 8470 9746
+S
+#9739
+The Galley~
+The galley is awash with sounds and smells as the men fill their bellies
+with what smells to be delicious food.  {yTables{x and {ybenches{x have been
+securely nailed to the floor so there is no risk of injury.  The cook seems
+to be a master of his craft for instead of just stew or gruel to feed the
+men he instead cooks real food with which to keep the men going.  The men
+obviously don't complain as they happily fill themselves up and continue
+about their duties.  Perhaps other ships should take an example from the
+Mark, happy men are hard working men.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8593
+S
+#9740
+A Cell~
+Far back in the ship {Dbars{x have been put in between a set of bulkheads, in
+the darkness it is hard to make out what is inside the cell but groaning is
+definately audible.  In one far corner a {Ddark{x huddled figure can just barely
+be seen.  
+~
+0
+V 0
+D0
+~
+~
+8231 8231
+2 8500 8592
+S
+#9741
+The Forecastle Deck~
+The forecastle deck supports the fore mast and all its sails, lookouts
+spend most of their time around this part of the ship, wether up in the
+sails or clinging to the bowsprite to keep an eye on the water so they ship
+doesn't hit anything or run aground in shallow water.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 8492
+S
+#9742
+The Quarter Deck~
+A large {ywheel{x is the main focus of the quarter deck and it is manned by
+someone at all times, wether by the Captain himself or someone he appoints,
+to not keep hold of this wheel could mean the fate of both ship and crew. 
+Below this deck is the Captain's quarters and over head is the large, {Wwhite{x
+main sail of the ship, billowing in the breeze.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 8452
+S
+#9744
+An Eating Area~
+Tables and chairs fill most of this room except for the oven and stove at
+the far wall, the chimney goes up into the ground above and yet no smoke was
+seen other then that from the house's chimney top.  The cook here works to
+keep something at the ready at all times of the day so that those newly
+arrived can have a hot meal before they sleep.  The noise level though a
+constant low thrum rarely ever erupts into anything loud for those that live
+here know to draw attention to this place would mean death.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8556
+S
+#9745
+A Training Area~
+The room is large like the others and has {Yla{Dnter{Yns{x hanging along the
+walls between the racks of weapons.  The middle of the room is kept clear so
+that training can be done without hindrance, the ceiling here is also higher
+then in the other rooms and most noticable is that one must step down into
+the room, it having been dug deeper down in the ground then the rest of the
+area too.  The man that oversees the training is here at all hours of the
+day and night and many often wonder if he sleeps at all.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8556
+S
+#9746
+An Office~
+This is the office of the bandit leader and much like the rest of the
+place it is sparcely furnished.  A desk sits to one side of the room and is
+usually covered with neat stacks of parchment and maps while on the other
+side of the room is a small yet comfortable looking bed and a chest.  The
+door to the south is guarded by two large {Dblack{x dogs that are usually seen
+laying infront of it appearing to be asleep.  
+~
+0
+0 0
+E
+desk~
+A {ydesk{x of sturdy {yo{ra{yk{x is kept neat, all parchments and maps piled just so
+on the large surface area of the desk.  Lots of drawers provide places to
+store inks and quills and other impliments needed.  
+~
+D0
+~
+~
+3 3
+1 0 8556
+D2
+~
+~
+8711 8711
+2 8470 9738
+S
+#9747
+A Rowboat on the Water~
+Gentle {bw{Bave{bs{x rock the small {yrowboat{x back and forth, lightly thumping
+against one of the {ypier's{x thick support beams where it is tied.  There are
+two {yoars{x settled inside the boat, just waiting to be used.  It looks as if
+the boat has been sitting here for at least a day or so, a light coating of
+salt dusting the rope.  
+~
+0
+0 19
+D2
+~
+~
+0 0
+0 0 9748
+D4
+~
+~
+4096 4096
+0 0 8491
+S
+#9748
+Rowing Through the Water~
+As you row steadily out towards the more open water you spot something
+strange bobbing up and down in the water, a little {ggreen{x ball that seems to
+be filled with air so it stays afloat and as you look further ahead you can
+see more of them in a winding path out and away from the harbor.  One can
+either follow them or turn back towards the safety of the harbor for open
+waters are a dangerous place for the small rowboat your in.  So either
+continue onwards or turn back while you still can, its a long way back to
+safe waters after all.  
+~
+0
+0 19
+D0
+~
+~
+0 0
+0 0 9747
+D2
+~
+~
+0 0
+0 0 9749
+S
+#9749
+Rowing Through the Water~
+After rowing for so long you've now found your rythm, your oars moving at
+a strong, steady and smooth pace as they wish through the murky {Bwater{x.  You
+can still see the harbor easily from here and in the distance ahead of you
+are the {Dcliffs{x that follow part of the coastline leading away from Falme. 
+Still bobbing not far from you are the enticing little {ggreen{x markers.  
+~
+0
+0 19
+D0
+~
+~
+0 0
+0 0 9748
+D1
+~
+~
+0 0
+0 0 9750
+S
+#9750
+Leaving the Harbor Behind~
+Looking northward you can see the harbor gradually dwindling as you row
+onward, following the strange {gmarkers{x that someone has left behind, the
+markers still seem to have no direct path but with the {Bwater{x moving them
+about that's no surprise.  So leaving behind the safety of the harbor's
+waters you continue on out towards open water, the cliffs off in the
+distance beckoning you.  
+~
+0
+0 19
+D1
+~
+~
+0 0
+0 0 9751
+D3
+~
+~
+0 0
+0 0 9749
+S
+#9751
+In Open Water~
+As you leave the harbor behind and with the {Dcliffs{x still a ways to go,
+you're effectively in open {Bwater{x.  With the little {gmarkers{x bobbing up and
+down in the water, beckoning you to go onward, you throw caution to the wind
+and continue forward, hoping no surge in the tides sends you astray from
+your eventual destination, wherever that may be.  
+~
+0
+0 19
+D1
+~
+~
+0 0
+0 0 9752
+D3
+~
+~
+0 0
+0 0 9750
+S
+#9752
+Nearing the Cliffs~
+Steering away from the open {Bwater{x once a safe distance from harbor you
+row towards the {Dcliffs{x, lessing the risk of being washed out into the ocean
+but increasing the chances of being dashed against the rocks.  Still,
+curiosity makes you continue to follow the small floating markers.  
+~
+0
+0 19
+D2
+~
+~
+0 0
+0 0 9753
+D3
+~
+~
+0 0
+0 0 9751
+S
+#9753
+Following the Cliffs~
+The high {Dcliff{x walls stretch out in either direction along the {Bwater{x,
+you've been rowing for sometime now and keep as close to the cliffs as
+possible so as not to get washed out into the expanse of open water to the
+west.  Some distance up ahead you can see the cliffs curving towards the
+east.  The markers you have been following have vanished by this point but
+you can only assume your heading in the right direction.  
+~
+0
+0 19
+D0
+~
+~
+0 0
+0 0 9752
+D2
+~
+~
+0 0
+0 0 9754
+S
+#9754
+Rowing Along the Cliffs~
+The high {Dcliff{x walls stretch out in either direction along the {Bwater{x,
+you've been rowing for sometime now and keep as close to the cliffs as
+possible so as not to get washed out into the expanse of open water to the
+west.  As you look eastwards you think you see a break in the {Dcliffs{x.  
+~
+0
+0 19
+D0
+~
+~
+0 0
+0 0 9753
+D1
+~
+~
+0 0
+0 0 9755
+S
+#9755
+An Opening in the Cliffs~
+Along the stretch of {Dcliffs{x there is an opening, not too wide to lead to
+somewhere large but it appears large enough that a ship could pass through
+it easily.  By now your arms are feeling fairly tired, the currents of the
+water appear ever shifting and you have to be wary that your not dashed
+against the rocks just a few feet away.  
+~
+0
+0 19
+D0
+~
+~
+0 0
+0 0 9756
+D3
+~
+~
+0 0
+0 0 9754
+S
+#9756
+A Hidden Inlet~
+Hidden by the high {Dcliffs{x, a small peaceful inlet rests.  The {Cclear{x {Bblue{x
+water laps gently towards the {yro{Dc{yky{x shore.  Anchored in the middle of the
+{Bwater{x is a large ship with wide, {Dblack{x sails.  As you row closer you can see
+and hear the crew of this glorious and yet foreboding vessel.  
+~
+0
+0 19
+D1
+~
+~
+0 0
+0 0 9757
+D2
+~
+~
+0 0
+0 0 9755
+S
+#9757
+Alongside the Ship~
+{DDark{x {yrich{x looking wood makes up this large ship.  As you come closer to
+the side one of the crew throws down two lines with hooks to be attached to
+either end of the {yrowboat{x.  Once you've secured the rowboat the crew start
+hauling it up towards the deck high above your head, sending cascades of
+clear {Bwater{x from the sides of the boat as it rises.  
+~
+0
+0 19
+D3
+~
+~
+0 0
+0 0 9756
+D4
+~
+~
+0 0
+0 0 8589
+S
+#9758
+A Small Bedroom~
+The small room looks like a disaster zone, toys and clothes are lying all
+over the floor and on the few pieces of furniture in the room.  A set of
+bunk {ybeds{x take up one wall while an armoire takes up the other, a large
+{ywooden{x trunk sits against the wall between the two but judging by the amount
+of toys on the floor it sees little use.  The clothing suggests that a pair
+of boys reside here and considering that there are no sounds of play
+anywhere it could be assumed the pair is off with their father working.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8547
+S
+#9759
+The Hoslter's Shop~
+The smell of {yhay{x and a few other unpleasant things fill the barnlike
+building, the only difference being the walls are made of {Dstone{x instead of
+wood.  A {ycounter{x near the large doorway is where most head before going
+further into the building to look at the horses available for purchasing. 
+Two young boys scurry two and fro in matching outfits while taking orders
+from an older man behind the counter and judging from the similarities in
+looks their father and sons.  
+~
+0
+M 0
+D0
+~
+~
+0 0
+0 0 8456
+S
+#9760
+Hostler's Stable~
+~
+0
+CM 0
+S
+#9761
+Armor Shop~
+Working in conjunction with the blacksmith this shop sells armor for use
+on the seas.  Studded leather, metal worked pieces and a variety of other
+clothing is sold here, both for sailors use and for the locals. Hooks along
+the walls display the available articles and in the back of the store there
+are sets premade in general sizes but many custom orders come in that are
+done in a short period of time.  Despite the noise and heat that rolls
+across the street from the blacksmiths the store seems to do very well.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8448
+S
+#9762
+A Cellar~
+Faint {Wli{Cg{Wht{x streams down from the cellar door up above revealing kegs of
+various ales along three of the walls and the fourth wall contains various
+bottles of a variety of vintages.  The floor is well trod upon, the stones
+of the floor contain very little dust and the kegs themselves seem to be
+well kept, seems a lot cleaner down here then it is upstairs actually.  
+~
+0
+0 0
+E
+rack~
+The wine rack and its bottles are spotless but one bottle seems to have a
+lot of scratches on it, as if its moved around a lot.  
+~
+D1
+~
+~
+4099 4099
+1 0 9763
+D4
+~
+~
+4099 4099
+1 0 8572
+S
+#9763
+A Dark Stairway~
+As the shelf of bottles clink back into place behind you what faint {Wli{Cg{Wht{x
+there was is now gone only to be replaced by a fainter light down what
+appear to be a set of {ydirt{x covered {Dstone{x stairs.  No sound can be heard
+further down but faintly through the wall the sounds from the pub filters
+down.  
+~
+0
+0 0
+D3
+~
+~
+4099 4099
+1 0 9762
+D5
+~
+~
+0 0
+0 0 9764
+S
+#9764
+A Long, Dimly Lit Hallway~
+At the end of the stairs a long hallway stretches out to the left and
+right, hooded {Dlan{Wte{Drns{x provide soft light at strategic points on either
+side, generally near the closed {ywooden{x doors that dot the walls.  It is
+almost eerily silent down here after the bustle of the pub up above, a soft
+coating of woodchips on the floor further dampens the sound as does the
+earthen walls around you.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9765
+D3
+~
+~
+0 0
+0 0 9772
+D4
+~
+~
+0 0
+0 0 9763
+S
+#9765
+A Dimly Lit Hallway~
+The hallway continues back the way you came and ends not far ahead the
+hooded {Dlan{Wte{Drns{x providing soft light at strategic points on either side,
+generally near the closed {ywooden{x doors that blend into the dirt.  It is
+almost eerily silent down here after the bustle of the pub up above, a soft
+coating of woodchips on the floor further dampens the sound as does the
+earthen walls around you.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9770
+D1
+~
+~
+0 0
+0 0 9766
+D2
+~
+~
+3 3
+1 0 9769
+D3
+~
+~
+0 0
+0 0 9764
+S
+#9766
+A Dimly Lit Hallway~
+The hallway ends at a firm earthen wall, the hooded {Dlan{Wte{Drns{x providing
+soft light at strategic points on either side, generally near the closed
+{ywooden{x doors that blend into the dirt.  It is almost eerily silent down here
+after the bustle of the pub up above, a soft coating of woodchips on the
+floor further dampens the sound as does the earthen walls around you.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 9707 9767
+D2
+~
+~
+7 7
+2 9707 9768
+D3
+~
+~
+0 0
+0 0 9765
+S
+#9767
+An Office and a Bedroom~
+Although sparsly furnished this is one of two rooms in this place that is
+locked.  The {ywood{x framed bed is the same as the others but the {ydesk{x is a bit
+larger and instead of one chair it has two, it also sits so that its not
+facing a wall but instead so a person can sit on either side of it.  On the
+top of the table an engraving of a large raven has been etched into the
+center while the folding screen is painted with {Wdoves{x in flight.  
+~
+0
+0 0
+D2
+~
+~
+7 7
+2 9707 9766
+S
+#9768
+An Office and a Bedroom~
+Although sparsly furnished this is one of two rooms in this place that is
+locked.  The {ywood{x framed bed is the same as the others but the {ydesk{x is a bit
+larger and instead of one chair it has two, it also sits so that its not
+facing a wall but instead so a person can sit on either side of it.  On the
+top of the table an engraving of a large raven has been etched into the
+center while the folding screen is painted with various small {yb{Wird{ys{x all
+perched in a {gtr{yee{x.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 9707 9766
+S
+#9769
+A Bedroom~
+The room is as sparsly furnished as the rest of the rooms, consisting of
+a plain {ywooden{x bed with {Dblack{x sheets, a sturdy {ydesk{x and chair with a folding
+screen dividing the two with the images of {bh{De{Wro{Dn{bs{x wading through some
+{grushes{x.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9765
+S
+#9770
+A Bedroom~
+The furniture in the room is very sparse, consisting of a plain {ywood{x
+framed bed with {Dblack{x sheets, a sturdy {ywooden{x desk and a {ychair{x and a large
+trunk for clothing.  There is also no decoration except for a beautiful
+folding screen that separates the 'bed' area and the 'office' area, a
+painting of swans in flight decorates either side in a beautiful splash of
+{Bc{Wo{ml{Wo{Br{x.  The only feature in the room that could be considered odd is a hook
+by the door with what appears to be a leash with a collar on one end and a
+bracelet on the other.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 9765
+S
+#9772
+A Dimly Lit Hallway~
+The hallway continues back the way you came and ends not far ahead the
+hooded {Dlan{Wte{Drns{x providing soft light at strategic points on either side,
+generally near the open {ywooden{x doorways that bled into the dirt. It is
+almost eerily silent down here after the bustle of the pub up above, a soft
+coating of woodchips on the floor further dampens the sound as does the
+earthen walls around you.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9776
+D1
+~
+~
+0 0
+0 0 9764
+D2
+~
+~
+0 0
+0 0 9777
+D3
+~
+~
+0 0
+0 0 9773
+S
+#9773
+A Dimly Lit Hallway~
+The hallway ends at a firm earthen wall, the hooded {Dlan{Wte{Drns{x providing
+soft light at strategic points on either side, generally near the open
+{ywooden{x doorways that blend into the dirt.  It is almost eerily silent down
+here after the bustle of the pub up above, a soft coating of woodchips on
+the floor further dampens the sound as does the earthen walls around you.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9774
+D1
+~
+~
+0 0
+0 0 9772
+D2
+~
+~
+0 0
+0 0 9775
+S
+#9774
+Training Room~
+Dirt floors provide little resistance to the individuals training in
+here, dust often flying up into the air as they move about.  The floor is
+clear from wall to wall except for a line of weapons racks along the wall
+farthest from the door, only one rack contains wooden practice weapons while
+the rest hold actual weapons and you can't quite brush off the feeling that
+their there for a much more practical use as well.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9773
+S
+#9775
+A Sleeping Area~
+This large room contains as many bunkbeds as could fit into it but only a
+few seem to be in use.  The room is lit with the same hooded {Dlan{Wte{Drns{x that
+light the rest of this underground area, although its doubtful anyone would
+see the light through the earth the people that reside here seem to remain
+cautious.  Though the {ybunks{x aren't large they at least seem comfortable,
+each has a lockable footlocker along with it as well.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9773
+S
+#9776
+A Sleeping Area~
+This large room contains as many bunkbeds as could fit into it but only a
+few seem to be in use.  The room is lit with the same hooded {Dlan{Wte{Drns{x that
+light the rest of this underground area, although its doubtful anyone would
+see the light through the earth the people that reside here seem to remain
+cautious.  Though the {ybunks{x aren't large they at least seem comfortable,
+each has a lockable footlocker along with it as well.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9772
+S
+#9777
+An Eating Area~
+Large enough to hold about twenty people the room is generally empty and
+contains no stove or oven but just a fireplace, its chimney running up
+through the dirt and if one were to study the kitchen in the pub upstairs
+while it wasn't lit you would still see smoke rising as the smoke from this
+one is channeled up into it.  A large hole leading up has a pulley system
+with two buckets on it and during the late hours various items are hoisted
+down to those that reside here.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9772
+S
+#9778
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8465
+S
+#9779
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8466
+S
+#9780
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8473
+S
+#9781
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8470
+S
+#9782
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8471
+S
+#9783
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8474
+S
+#9784
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8475
+S
+#9785
+A Small Bank~
+Metal {Dbars{x go across the windows and numerous {yl{Yock{ys{x are on the thick {ywood{x
+door leading into the small bank.  A long counter divides the room in two,
+infront of the counter there are a few chairs against either side of the
+room against the walls for those wishing to sit while they wait while behind
+the counter are large solid safes, two big burly guards and a small but
+sturdily built man that conducts all the business.  
+~
+0
+K 0
+D2
+~
+~
+3 3
+1 0 8482
+S
+#9786
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8484
+S
+#9787
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8450
+S
+#9788
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8487
+S
+#9789
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8488
+S
+#9791
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8459
+S
+#9792
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8461
+S
+#9793
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8489
+S
+#9794
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8464
+S
+#9795
+A Pottery Store~
+A small {Wb{Del{Wl{x chimes each time the door is open, letting the owner know
+there is someone in the store.  The front portion of the store has wall to
+wall shelving filled with various pots, dishes, vases, plates and anything
+else that can be made from clay.  In the back portion is where all the items
+get made, a large kiln sits in a far corner always burner hotly, large
+windows near it allow fresh cool air in.  The owner of the store is usually
+sitting at the pottery wheel spinning out the latest piece, all of the
+materials she needs to work close at hand.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8409
+S
+#9796
+A Glassblowers Store~
+Coming into the store the owner softly tells you "{cPlease be careful.  {x"
+before returning to what she is doing.  The store is filled with glass
+objects of various shapes and sizes ranging from figurines to vases and
+glasses.  Its a good idea to take the advice of the owner for one wrong move
+could lead to catastrophy.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8409
+S
+#9797
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8423
+S
+#9798
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8455
+S
+#9799
+A House~
+One of the numerous houses in the town, its furnishings are as elaborate
+or as plain as the person living here can afford.  There is a fireplace in
+each room for warmth against the cold of the ocean and quilts adorn much of
+the furniture as well.  The playful screams of children often fill the house
+as they run about or play with their neighbors.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8449
+S
+#9800
+In the Water~
+Spying a rope hanging out of the Captain's window in his quarters you
+lean out over the side of the ship to see what its there for.  Bobbing on
+top of the water you see a chest tied to the end of the rope and while no
+one is looking you dive off the side of the ship and swim towards it,
+carefuly cutting the chest free you work your way back to the docks to see
+what you've found.  
+~
+0
+0 1
+D4
+~
+~
+4096 4096
+0 0 8452
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 9700 3 2
+D 0 9702 1 2
+D 0 9711 0 1
+D 0 9712 0 1
+D 0 9714 2 1
+D 0 9715 0 1
+D 0 9716 2 1
+D 0 9719 2 1
+D 0 9720 2 1
+D 0 9721 2 1
+D 0 9722 2 1
+D 0 9725 0 2
+D 0 9725 2 2
+D 0 9726 2 2
+D 0 9727 0 2
+D 0 9728 0 2
+D 0 9728 2 2
+D 0 9729 2 2
+D 0 9730 0 2
+D 0 9731 0 1
+D 0 9734 2 1
+D 0 9735 1 1
+D 0 9736 1 1
+D 0 9737 2 1
+D 0 9738 0 2
+D 0 9740 0 2
+D 0 9744 1 1
+D 0 9745 3 1
+D 0 9746 0 1
+D 0 9746 2 2
+D 0 9761 2 1
+D 0 9762 1 1
+D 0 9762 4 1
+D 0 9763 3 1
+D 0 9765 0 1
+D 0 9765 2 1
+D 0 9766 0 2
+D 0 9766 2 2
+D 0 9767 2 2
+D 0 9768 0 2
+D 0 9769 0 1
+D 0 9770 2 1
+D 0 9778 0 1
+D 0 9779 0 1
+D 0 9780 1 1
+D 0 9781 1 1
+D 0 9782 1 1
+D 0 9783 1 1
+D 0 9784 1 1
+D 0 9785 2 1
+D 0 9786 2 1
+D 0 9787 3 1
+D 0 9788 3 1
+D 0 9789 3 1
+D 0 9791 3 1
+D 0 9792 3 1
+D 0 9793 3 1
+D 0 9794 0 1
+D 0 9795 3 1
+D 0 9796 1 1
+D 0 9797 2 1
+D 0 9798 2 1
+D 0 9799 2 1
+M 0 8415 1 9700 1
+G 0 9708 0
+M 0 8414 1 9701 1
+M 0 8453 5 9701 5
+M 0 8448 1 9702 1
+M 0 8446 10 9704 5
+M 0 8446 10 9705 5
+M 0 8454 1 9705 1
+M 0 8416 10 9707 1
+M 0 8416 10 9709 1
+M 0 8417 10 9710 1
+M 0 8421 5 9712 2
+O 0 9705 0 9713
+P 0 9704 1 9705 1
+M 0 8421 5 9714 1
+M 0 8421 5 9715 1
+O 0 8557 0 9716
+M 0 8416 10 9717 1
+M 0 8510 1 9721 1
+O 0 8558 0 9721
+P 0 8559 1 8558 1
+M 0 8512 1 9721 1
+G 0 8560 0
+M 0 8503 1 9722 1
+G 0 8547 0
+G 0 8548 0
+G 0 8549 0
+G 0 8550 0
+M 0 8502 30 9722 5
+M 0 8411 1 9726 1
+E 0 8527 0 8
+M 0 8410 1 9727 1
+E 0 8528 0 7
+M 0 8412 1 9729 1
+E 0 8531 0 15
+M 0 8413 1 9730 1
+E 0 8530 0 20
+E 0 8529 0 25
+M 0 8416 10 9731 1
+M 0 8417 10 9733 1
+M 0 8444 1 9734 1
+M 0 8497 10 9735 1
+O 0 8519 0 9736
+P 0 8517 1 8519 1
+O 0 8543 0 9736
+O 0 8475 0 9737
+M 0 8489 4 9737 4
+E 0 8480 0 20
+O 0 8472 0 9738
+O 0 8471 0 9738
+M 0 8458 1 9739 1
+G 0 8536 0
+G 0 8537 0
+G 0 8538 0
+G 0 8539 0
+G 0 8540 0
+M 0 8457 10 9739 2
+M 0 8464 1 9740 1
+E 0 8495 0 20
+E 0 8501 0 8
+E 0 8515 0 25
+E 0 8514 0 24
+E 0 8514 0 23
+E 0 8513 0 21
+E 0 8512 0 17
+E 0 8512 0 18
+E 0 8511 0 16
+E 0 8510 0 12
+E 0 8509 0 11
+E 0 8508 0 10
+E 0 8507 0 9
+E 0 8506 0 7
+E 0 8505 0 6
+E 0 8505 0 5
+E 0 8502 0 1
+E 0 8504 0 4
+E 0 8504 0 3
+E 0 8503 0 2
+M 0 8457 10 9741 1
+M 0 8457 10 9742 1
+M 0 8456 1 9742 1
+E 0 8535 0 20
+M 0 8473 1 9744 1
+E 0 8476 0 20
+M 0 8488 4 9744 4
+E 0 8476 0 20
+O 0 8482 0 9744
+M 0 8474 1 9745 1
+M 0 8487 4 9745 4
+E 0 8476 0 20
+M 0 8472 1 9746 1
+E 0 8473 0 20
+G 0 8492 0
+O 0 8483 0 9746
+P 0 8470 1 8483 1
+P 0 8489 1 8483 1
+O 0 8488 0 9746
+P 0 8471 1 8488 1
+M 0 8475 2 9746 2
+O 0 8518 0 9748
+O 0 8518 0 9749
+O 0 8518 0 9750
+O 0 8518 0 9751
+O 0 8518 0 9752
+O 0 8493 0 9758
+P 0 8494 1 8493 1
+M 0 8438 1 9759 1
+M 0 8492 1 9759 1
+M 0 8491 1 9759 1
+M 0 8496 10 9760 1
+M 0 8495 20 9760 1
+M 0 8494 10 9760 1
+M 0 8493 20 9760 1
+M 0 8443 1 9761 1
+G 0 8577 0
+G 0 8578 0
+G 0 8579 0
+G 0 8580 0
+G 0 8581 0
+G 0 8582 0
+G 0 8583 0
+M 0 8511 1 9762 1
+O 0 9702 0 9762
+P 0 9706 1 9702 1
+M 0 8467 1 9766 1
+G 0 9707 0
+M 0 8501 1 9770 1
+M 0 8469 10 9774 2
+M 0 8469 10 9775 2
+M 0 8469 10 9776 2
+M 0 8469 10 9777 2
+M 0 8505 1 9785 1
+M 0 8445 1 9795 1
+G 0 8596 0
+G 0 8597 0
+G 0 8595 0
+M 0 8447 1 9796 1
+G 0 8598 0
+G 0 8599 0
+G 0 8600 0
+O 0 8569 0 9800
+P 0 9700 1 8569 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

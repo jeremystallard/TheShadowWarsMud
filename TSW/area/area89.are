@@ -1,0 +1,2003 @@
+#AREADATA
+Name Halos games~
+Builders Halo Shamrock~
+VNUMs 58581 58680
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#58582
+Centurion Gaius Cassius~
+{DL{yo{Yn{Dgi{Yn{yu{Ds{x, the {DCen{wt{Wu{wr{Dion{x~
+{DCen{wt{Wu{wr{Dion {yG{Ya{Di{Yu{ys C{Ya{Dssi{Yu{ys{x stands ready to pierce the side of Christ.
+~
+~
+shienaran~
+AT 0 0 0
+300 110 240d120+20000 120d10+100 13d13+60 none
+0 0 0 0 0
+A
+9 9 9 9
+CEFHKN c 0 0
+stand stand male 0
+0 0 medium 'felsh'
+#58583
+leveling mob~
+an {Wx{rp{x-monger~
+{WA D{ro{Wu{rb{Wl{re{W XP Day {rl{We{rv{We{rl{Wi{rn{Wg {rm{Wo{rb{x is here, ready to die.
+~
+~
+andoran~
+A AHcd 0 0
+100 90 400d400+20000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-200 -200 -200 -200
+FK Bac CDHZ 0
+stand stand male 20000
+0 0 medium 'flesh'
+#58584
+burly chubby boy~
+a {Wc{wh{Dub{wb{Wy{x, {Db{wu{Drly{x boy~
+({mL{Mi{Dli{mth{M'{ms {Wq{wu{De{ws{Wt{x) A {Wc{wh{Dub{wb{Wy{x, {Db{wu{Drly{x boy is here, holding his toys greedily
+~
+This large, chubby boy looks at you with wary eyes as he hugs his new
+{Wt{wo{Dy{Ws{x close to his chest.  With a {Ws{wn{Da{wr{Wl{x, he takes a forward whenever someone
+eyes his toys too much.  He doesn't seem afraid to fight for his new toys
+with all his will.  
+ 
+Maybe killing him isn't the best way to get his toys.
+~
+andoran~
+AT DEFHJPVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 wrath
+0 0 0 0 0
+A
+7 7 7 7
+DEFHIJKNW BCDEZabc CEZ 0
+stand stand male 0
+0 0 large 'flesh'
+M 'SPEECH' 58585 action figure~
+M 'SPEECH' 58582 give me~
+M 'BRIBE' 58587 100000~
+M 'ACT' 58583 bonk~
+M 'ACT' 58583 whap~
+M 'GREET' 58581 75~
+M 'SPEECH' 58584 I beg you~
+M 'SPEECH' 58588 Please~
+#58585
+quest action figure lili~
+a {Rde{rmoni{Rac {mL{Mi{Dli{mth {WAct{wi{Won {DFi{wg{Dure{x~
+{D[{RMo{rns{Rter {WS{wi{Dz{We{D]{x A huge {mL{Mi{Dli{mth {WAct{wi{Won {DFi{wg{Dure{x with a demonic face, is here, causing chaos.
+~
+This curvacious succubus that once was the entertainment of the little
+kids who would play with her action figure came to life and is now with
+demonic red eyes and pointy teeth, causing chaos around the cities and
+trying to squash everyone that gets too close.  
+~
+trolloc~
+A DFJ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 wrath
+0 0 0 0 0
+0
+2 2 2 2
+CEFIKNY ABabc 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#58586
+NASTY2~
+The {MBu{mn{Mny{x of {DDe{wa{Dth{x~
+The {MBu{mn{Mny{x of {DDe{wa{Dth{x is taking his revenge on the world for eatting his {Weggs{x.
+~
+A very large furry rabbit stands here with an evil grin on his furry
+little face and murder on his mind.  I wouldn't get in his way if I were
+you.  Its no your turn to be hunted like little eggs.  
+~
+trolloc~
+ABT DEFHJPVc 0 0
+102 90 51d52+10000 100d10+100 11d11+50 wrath
+0 0 0 0 0
+A
+7 7 7 7
+EFGHKW BEZabc CEZ 0
+stand stand male 0
+0 0 large 'unknown'
+#58587
+halloween monster~
+a {rh{Rall{rowe{Re{rn{x {Dmon{ws{Wter{x~
+A {rh{Rall{rowe{Re{rn{x {Dmon{ws{Wter{x is here, with different body parts of the TSW players.
+~
+This halloween experiment has a stamp on its backside of Lilith's scary
+products, Inc.  It has Payne's red eyes, Pogo's trolloc nose, Hectar's hairy
+legs, Aleida's dark hair, Lucian's head and Kieri's torso.  It looks very
+bizarre.  
+
+When it cackles, it has Kitiara's maniac laughter
+
+~
+trolloc~
+ABT 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 wrath
+0 0 0 0 0
+A
+1 1 1 1
+CEFIKNY ABabc 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#58588
+halloween monster~
+a {rh{Rall{rowe{Re{rn{x {Dmon{ws{Wter{x~
+A {rh{Rall{rowe{Re{rn{x {Dmon{ws{Wter{x is here, with different body parts of the TSW players.
+~
+This halloween experiment has a stamp on its backside of Lilith's scary
+products, Inc.  It has Nahal's golden eyes, Valen's hairy legs, Uroshnor's
+white hair, Draziel's head and Ambrya's torso.  It looks very bizarre.  
+
+When it cackles, it has Ared's insane laughter.  
+~
+trolloc~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 wrath
+0 0 0 0 0
+A
+2 2 2 2
+CEFIJKNY ABabc 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#58589
+quest action figure ang~
+a {Rde{rmoni{Rac {bAn{Bgen{bue {WAct{wi{Won {DFi{wg{Dure{x~
+{D[{RMo{rns{Rter {WS{wi{Dz{We{D]{x A huge {bAn{Bgen{bue{x {WAct{wi{Won {DFi{wg{Dure{x with a demonic face, is here, causing chaos.
+~
+This tall, blond woman dressed in a genie outfit that once was the
+entertainment of the little kids who would play with her action figure came
+to life and is now with demonic red eyes and pointy teeth, causing chaos
+around the cities and trying to squash everyone that gets too close.  
+~
+andoran~
+A DFJ 0 0
+60 50 31d32+3600 60d10+100 7d7+30 slap
+0 0 0 0 0
+A
+3 3 3 3
+EFIKNY ABab 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#58590
+birthday balloon~
+{Wb{Ci{Mr{Wt{Ch{Md{Wa{Cy{x {Cba{Mll{Wo{Mon{x~
+A {Wb{Ca{Ml{Wl{Co{Mo{Wn{x written, '{WHappy Birthday, Corwenna!{x' is floating in the air.
+~
+~
+ogier~
+AT DFJ 0 0
+70 60 36d37+4900 70d10+100 8d8+35 wrath
+0 0 0 0 0
+A
+4 4 4 4
+CEFIKNW ABab 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#58591
+halloween monster~
+a {rh{Rall{rowe{Re{rn{x {Dmon{ws{Wter{x~
+A {rh{Rall{rowe{Re{rn{x {Dmon{ws{Wter{x is here, with different body parts of the TSW players.
+~
+This halloween experiment has a stamp on its backside of Lilith's scary
+products, Inc.  It has Zandor's head, Kitiara's kitten ears, Raylek's legs,
+Angenue's blond hair and Collen's torso.  It looks very bizarre.  
+
+When it cackles, it has Corwenna's Canadian laughter.  
+~
+trolloc~
+AT DFJV 0 0
+60 50 31d32+3600 60d10+100 7d7+30 wrath
+0 0 0 0 0
+A
+3 3 3 3
+EFIKW ABab 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#58592
+Hungarian horntail dragon massive~
+{gHu{Gng{yar{Gi{gan {gHo{Gr{ynt{Ga{gil{x~
+A massive {gD{Gr{yag{Go{gn{x with a long spiked-tail is here, destroying everything around it.
+~
+~
+trolloc~
+AFT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 wrath
+500 500 500 500 500
+A
+6 6 6 6
+EFIKNOWe ABHabc E 0
+stand stand none 0
+0 0 medium 'plasma'
+#58593
+LEVEL100~
+LEVEL100~
+LEVEL100
+~
+~
+trolloc~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 wrath
+0 0 0 0 0
+A
+7 7 7 7
+CDEFHIJKNW ABabc E 0
+stand stand none 0
+0 0 medium 'flesh'
+#58594
+quest action figure kit~
+a {Rde{rmoni{Rac {mK{Mi{wt{Wi{wa{Mr{ma {WAct{wi{Won {DFi{wg{Dure{x~
+{D[{RMo{rns{Rter {WS{wi{Dz{We{D]{x A huge {mK{Mi{wt{Wi{wa{Mr{ma {WAct{wi{Won {DFi{wg{Dure{x with a demonic face, is here, causing chaos.
+~
+This blue-eyed man with an imposing aura that once was the entertainment
+of the little kids who would play with his action figure came to life and is
+now with demonic red eyes and pointy teeth, causing chaos around the cities
+and trying to squash everyone that gets too close.  Desc.  C This sexy
+kitten that once was the entertainment of the little kids who would play
+with her action figure came to life and is now with demonic red eyes and
+pointy teeth, causing chaos around the cities and trying to squash everyone
+that gets too close.  
+~
+trolloc~
+AT DFJVc 0 0
+80 70 41d42+6400 80d10+100 9d9+40 divine
+0 0 0 0 0
+0
+5 5 5 5
+CEFIJKNW ABab 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#58595
+Chinese Fireball massive dragon~
+{rC{Rh{Yin{Res{re {rF{Rir{Yeb{Ral{rl{x~
+A massive {rD{Rr{Yag{Ro{rn{x with a fringe of {yg{Yo{ylden {ysp{Yi{ykes{x around its face is here, destroying everything.
+~
+~
+trolloc~
+AFT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 wrath
+0 0 0 0 0
+A
+6 6 6 6
+EFIKNOWe ABHabc E 0
+stand stand none 0
+0 0 medium 'plasma'
+#58596
+Welsh Green massive dragon~
+{gW{Gel{gsh {gG{Gr{geen{x~
+A massive {gD{Gr{gagon{x with {gg{Gr{geen{x {gs{Gcale{gs{x is here, destroying everything.
+~
+~
+trolloc~
+AFT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 wrath
+0 0 0 0 0
+A
+6 6 6 6
+EFIKNOWe ABHabc E 0
+stand stand none 0
+0 0 medium 'plasma'
+#58597
+Swedish Short Snout massive dragon~
+{cS{Cw{Ded{Cis{ch {cS{Ch{cort{D-{cS{Cn{cout{x~
+A massive {cD{Cr{Dag{Co{cn{x of a {cs{Cil{Dve{Cr{cy{D-{cb{Cl{cue{x color is here, destroying everything.
+~
+~
+trolloc~
+AFT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 wrath
+0 0 0 0 0
+A
+6 6 6 6
+EFIKNOWe ABHabc E 0
+stand stand none 0
+0 0 medium 'plasma'
+#58598
+quest action figure pay~
+a {Rde{rmoni{Rac {rP{Ra{Yy{Rn{re {WAct{wi{Won {DFi{wg{Dure{x~
+{D[{RMo{rns{Rter {WS{wi{Dz{We{D]{x A huge {rP{Ra{Yy{Rn{re {WAct{wi{Won {DFi{wg{Dure{x with a demonic face, is here, causing chaos.
+~
+This gargantuan beast with red eyes that once was the entertainment of the
+little kids who would play with his action figure came to life and is now
+with demonic red eyes and pointy teeth, causing chaos around the cities and
+trying to squash everyone that gets too close. 
+~
+trolloc~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 headbutt
+0 0 0 0 0
+0
+2 2 2 2
+CEFIKNY ABab 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#58599
+quest action figure zyt~
+a {Rde{rmoni{Rac {BZ{cy{Ct{ck{Ba {WAct{wi{Won {DFi{wg{Dure{x~
+{D[{RMo{rns{Rter {WS{wi{Dz{We{D]{x A huge {BZ{cy{Ct{ck{Ba {WAct{wi{Won {DFi{wg{Dure{x with a demonic face, is here, causing chaos.
+~
+This mysterious being that once was the entertainment of the little kids
+who would play with his action figure came to life and is now with demonic
+red eyes and pointy teeth, causing chaos around the cities and trying to
+squash everyone that gets too close.  
+~
+trolloc~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 headbutt
+0 0 0 0 0
+0
+2 2 2 2
+CEFIKNY ABab 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#58581
+sharp mahogany hilted axe~
+a {Ws{wh{Da{wr{Wp{x, {ym{Da{wh{Wogan{wy{W-{wh{Wil{wt{De{yd{x axe~
+a {Ws{wh{Da{wr{Wp{x, {ym{Da{wh{Wogan{wy{W-{wh{Wil{wt{De{yd{x axe~
+Steel~
+weapon Ybc AN
+axe 12 16 'wrath' D
+90 5 50000 100
+A
+13 200
+A
+5 1
+A
+4 1
+A
+3 1
+A
+18 13
+A
+19 9
+A
+1 2
+A
+2 2
+#58582
+shirt -Lilith questeq-~
+a {Wt{w-{Wsh{wi{Wrt{x that reads, '{DI've saved my soul and got a lousy T-shirt for it.{x'~
+A {Wt{w-{Wsh{wi{Wrt{x that reads, '{DI've saved my soul and got a lousy T-shirt for it.{x' has been left here~
+linen~
+armor Ybc AD
+15 25 29 30 0
+90 10 1 100
+A
+12 100
+A
+13 150
+A
+1 2
+A
+17 -14
+A
+2 1
+A
+5 2
+#58583
+soul~
+soul~
+soul~
+cosmos~
+treasure ABGHY A
+0 0 0 0 0
+0 1 1 100
+#58584
+The Spear of Destiny~
+the {WSpear{x of {rDestiny{x~
+a sharp spear~
+steel~
+weapon HMPUY AN
+spear 10 16 'wrath' 0
+90 0 0 100
+A
+19 20
+A
+18 20
+A
+19 4
+#58585
+valeria~
+a {Bd{br{Dag{bo{Bn{x key~
+none~
+metal~
+key P AO
+0 0 0 0 0
+1 1 1 100
+#58586
+bomb -Lilith CS quest-~
+{W[{WCo{wu{Dn{wt{Wer {DStr{Wi{Dke{W]{x {DT{wH{DE B{WO{DMB{x~
+The {Db{Wo{Dmb{x has been dropped here is is ready to {re{Rxp{Ylo{Rd{re{x!~
+C4~
+trash ABEYb AP
+0 0 0 0 0
+0 20 10 100
+#58587
+book knife dreams quest~
+a large {Wha{wr{Ddco{wv{Wer {Wbook{x entitled, '{DKnife of Dreams{x'~
+A large {Wha{wr{Ddco{wv{Wer {Wbook{x entitled, '{DKnife of Dreams{x' has been left here.~
+shell~
+token Yb AO
+0 0 0 0 0
+0 0 0 100
+#58588
+Zandor Action Figure -Lilith quest-~
+a {RZa{rnd{Ror {WAct{wi{Won {DFi{wg{Dure{x~
+A small miniature of a blue-eyed man with an {Rimp{ros{Ring{x presence has been left here.~
+zandor~
+treasure Ybc AP
+0 0 0 0 0
+0 5 5 100
+#58589
+Kitiara Action Figure -Lilith quest-~
+a {mK{Mi{wt{Wi{wa{Mr{ma {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature of a sexy {mk{Mi{Wtt{Me{mn{x has been left here.~
+Kitiara~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58590
+Swordfish Action Figure -Lilith quest-~
+a {DSword{Bfish {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature man of pure {rfire{x, coding in front of a {Dcomputer {Bscreen{x has been left here.~
+swordfish~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58591
+Angenue Action Figure -Lilith quest-~
+an {bAn{Bgen{bue {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature of a tall, blonde woman that is wearing a {bg{Beni{be {bo{Butfi{bt{x has been left here.~
+angenue~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58592
+Uroshnor Action Figure -Lilith quest-~
+an {GUr{go{Wsh{gn{Gor{x {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature of a white-haired {Gan{gc{Wie{gn{Gt{x man has been left here.~
+uroshnor~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58593
+Zytka Action Figure -Lilith quest-~
+a {BZ{cy{Ct{ck{Ba {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature of a {Bmy{cs{Cter{cio{Bus{x being has been left here.~
+zytka~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58594
+Lilith Action Figure -Lilith quest-~
+a {mL{Mi{Dli{mth {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature of a curvacious {msu{Mc{Dcu{Mb{mus{x has been left here.~
+Lilith~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58595
+pay action figure~
+a {rP{Ra{Yy{Rn{re {WAct{wi{Won {DFi{wg{Dure{x~
+The miniature of a gargantuan {rb{Re{Ya{Rs{rt{x with red eyes has been left here.~
+Payne~
+treasure Ybc AOP
+0 0 0 0 0
+0 5 5 100
+#58596
+letter L~
+{Wletter {RL{x~
+A large {Wletter {RL{x carved on a square piece of {Wstone{x has been left here.~
+stone~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58597
+letter I~
+{Wletter {RI{x~
+A large {Wletter {RI{x carved on a square piece of {Wstone{x has been left here.~
+stone~
+treasure 0 A
+0 0 0 0 0
+0 1 0 100
+#58598
+letter T~
+{Wletter {RT{x~
+A large {Wletter {RT{x carved on a square piece of {Wstone{x has been left here.~
+stone~
+treasure 0 A
+0 0 0 0 0
+0 1 0 100
+#58599
+letter H~
+{Wletter {RH{x~
+A large {Wletter {RH{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58600
+letter Z~
+{Wletter {RZ{x~
+A large {Wletter {RZ{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58601
+letter A~
+{Wletter {RA{x~
+A large {Wletter {RA{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58602
+letter N~
+{Wletter {RN{x~
+A large {Wletter {RN{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58603
+letter D~
+{Wletter {RD{x~
+A large {Wletter {RD{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58604
+letter O~
+{Wletter {RO{x~
+A large {Wletter {RO{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58605
+letter R~
+{Wletter {RR{x~
+A large {Wletter {RR{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58606
+letter K~
+{Wletter {RK{x~
+A large {Wletter {RK{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58607
+letter U~
+{Wletter {RU{x~
+A large {Wletter {RU{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58608
+letter S~
+{Wletter {RS{x~
+A large {Wletter {RS{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58609
+letter W~
+{Wletter {RW{x~
+A large {Wletter {RW{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58610
+letter F~
+{Wletter {RF{x~
+A large {Wletter {RF{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58611
+letter G~
+{Wletter {RG{x~
+A large {Wletter {RG{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58612
+letter E~
+{Wletter {RE{x~
+A large {Wletter {RE{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58613
+letter P~
+{Wletter {RP{x~
+A large {Wletter {RP{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58614
+letter Y~
+{Wletter {RY{x~
+A large {Wletter {RY{x carved on a square piece of {Wstone{x has been left here.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#58615
+golden egg~
+a sparkling {yg{Yolde{yn {ye{Yg{yg{x~
+A sparkling {yg{Yolde{yn {ye{Yg{yg{x was left here.~
+gold~
+treasure ABG A
+0 0 0 0 0
+0 5 10000 100
+#58616
+portal magical honey pot gate~
+Pooh's Magical Honey Pot~
+An oversized honey pot laying on its side is here~
+cloth~
+portal Yb A
+1000000 A E 0 0
+10 10000 0 100
+#58617
+gateway portal paradise mushroom~
+A {Ggr{We{gen{G-gl{gow{Wi{Gng{x portal~
+A small patch of {Gmu{gsh{Wr{goo{Gms{x sprout up giving off a {Gg{Wr{ge{We{Gn{x {Gg{Wlo{Gw{x~
+Etheral~
+portal CEYab A
+100000 A C 9923 0
+0 10000 0 100
+#58678
+colorful balloons~
+{yc{Yo{rl{Ro{br{Bf{cu{Cl {gb{Ga{ml{Ml{wo{Wo{rn{Rs{x~
+Many {yc{Yo{rl{Ro{br{Bf{cu{Cl {gb{Ga{ml{Ml{wo{Wo{rn{Rs{x decorate the room to celebrate {yF{YI{rN{RA{bL{BL{cY{C!{x the end of {RZa{rnd{Ror{r's{x classes~
+Gold~
+furniture AB P
+0 0 0 0 0
+0 0 0 100
+#58679
+mystic ruby ring special quest~
+a {Wm{wy{Dst{wi{Wc {rr{Rub{ry {Dr{Wi{Dn{Wg{x~
+A {Wm{wy{Dst{wi{Wc {rr{Rub{ry {Dr{Wi{Dn{Wg{x has been left here.~
+metal~
+armor BYbc AB
+20 25 20 25 0
+90 50 100000 100
+A
+18 7
+A
+17 -20
+A
+13 200
+A
+19 7
+#58680
+liliths wagon pocket~
+{mL{Mi{Dli{mth{M'{ms {Wd{wi{Wmens{wi{Wonal {mpoc{Mket{x~
+{mL{Mi{Dli{mth{M'{ms {Wd{wi{Wmens{wi{Wonal {mpoc{Mket{x has been left open here. Do you dare to enter it?~
+none~
+vehicle 0 A
+0 ABFN A 58680 0
+0 0 100000 100
+#0
+
+
+
+#ROOMS
+#58581
+The Entrance!~
+The gates to the crucifixion place are barred shut and the 20th {WRoman{x
+legion {WValeria {YVictrix{x finest are guarding the gates.  {x 
+
+Jesus is hanging on the cross just north of here!  Press through the
+tyrants!  Kill them all and save Jesus from Cassus Gaius Longinus with the
+Spear of {WDestiny{x!  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 58582 58582
+S
+#58582
+The {WGuard {WStation{x~
+Here the guards of {WValeria {YVictorix{x rest and heal, pieces of armor is
+spread as well as men lying on bunks and recieving the finest medical
+treatment of {WRome{x 
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 58585 58584
+D2
+~
+~
+7 7
+2 58585 58581
+M 10000 H 10000
+S
+#58583
+~
+~
+0
+C 0
+S
+#58584
+{DRows Of Crucifixions{x~
+{DRows of corpses hung on {Wcrosses{D line the hills in the desert here.  Roman
+Praetorians and Legionnaires are walking around and breaking the legs of the
+living before taking them down.  In the center of the ghastly sightings, one
+man on a cross is hanging limply, apparently dead.  Above his head is a
+{Wshining {yg{Yolde{yn {Dc{yi{Yr{Wc{Yl{ye{x 
+~
+0
+V 0
+D2
+~
+~
+7 7
+2 58585 58582
+M 0 H 0
+S
+#58585
+(1) ShamMaze~
+~
+0
+ABDV 18
+E
+sign~
+The wooden sign reads as follows.
+ 
+"{BThou have entered the Dragon's Tower.{x
+{BPick a door with which to enter{x
+{BNeither right and neither wrong{x
+{BA task you must perform to move on{x
+{BUpon the end a prize to be had{x
+{BBut should you leave too soon{x
+{BYou must start again.{x"
+~
+D0
+~
+~
+0 0
+0 0 58586
+S
+#58586
+(2) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58587
+D2
+~
+~
+0 0
+0 0 58585
+D3
+~
+~
+0 0
+0 0 58591
+S
+#58587
+(3) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58588
+D3
+~
+~
+0 0
+0 0 58586
+S
+#58588
+(4) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58589
+D3
+~
+~
+0 0
+0 0 58587
+S
+#58589
+(5) ShamMaze~
+~
+0
+ABDV 18
+D3
+~
+~
+0 0
+0 0 58588
+D5
+~
+~
+1 1
+1 0 58590
+S
+#58590
+(6) ShamMaze~
+~
+0
+ABDV 18
+D4
+~
+~
+3 3
+1 0 58589
+S
+#58591
+(7) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58586
+D3
+~
+~
+0 0
+0 0 58592
+S
+#58592
+(8) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58591
+D3
+~
+~
+0 0
+0 0 58593
+S
+#58593
+(9) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58592
+D3
+~
+~
+0 0
+0 0 58594
+S
+#58594
+(10) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58595
+D1
+~
+~
+0 0
+0 0 58593
+S
+#58595
+(11) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58596
+D2
+~
+~
+0 0
+0 0 58594
+S
+#58596
+(12) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58597
+D2
+~
+~
+0 0
+0 0 58595
+S
+#58597
+(13) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58598
+D3
+~
+~
+0 0
+0 0 58596
+S
+#58598
+(14) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58597
+S
+#58599
+(15) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58600
+D1
+~
+~
+0 0
+0 0 58598
+S
+#58600
+(16) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58601
+D2
+~
+~
+0 0
+0 0 58599
+S
+#58601
+(17) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58602
+D3
+~
+~
+0 0
+0 0 58600
+S
+#58602
+(18) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58601
+D2
+~
+~
+0 0
+0 0 58603
+S
+#58603
+(19) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58602
+D1
+~
+~
+0 0
+0 0 58604
+S
+#58604
+(20) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58605
+D2
+~
+~
+0 0
+0 0 58608
+D3
+~
+~
+0 0
+0 0 58603
+S
+#58605
+(34) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58604
+D5
+~
+~
+0 0
+0 0 58606
+S
+#58606
+(35) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58607
+D4
+~
+~
+0 0
+0 0 58605
+S
+#58607
+(36) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58606
+S
+#58608
+(21) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58604
+D2
+~
+~
+0 0
+0 0 58609
+D3
+~
+~
+0 0
+0 0 58615
+S
+#58609
+(24) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58608
+D1
+~
+~
+0 0
+0 0 58610
+S
+#58610
+(25) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58611
+D3
+~
+~
+0 0
+0 0 58609
+S
+#58611
+(26) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58612
+D2
+~
+~
+0 0
+0 0 58610
+S
+#58612
+(27) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58613
+D3
+~
+~
+0 0
+0 0 58611
+S
+#58613
+(28) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58612
+D2
+~
+~
+0 0
+0 0 58614
+S
+#58614
+(29) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58613
+S
+#58615
+(22) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58608
+D2
+~
+~
+0 0
+0 0 58616
+S
+#58616
+(23) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58615
+D1
+~
+~
+0 0
+0 0 58617
+S
+#58617
+(30) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58618
+D3
+~
+~
+0 0
+0 0 58616
+S
+#58618
+(31) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58617
+D3
+~
+~
+0 0
+0 0 58619
+S
+#58619
+(32) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58620
+D1
+~
+~
+0 0
+0 0 58618
+S
+#58620
+(33) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58621
+D2
+~
+~
+0 0
+0 0 58619
+S
+#58621
+(37) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58622
+D2
+~
+~
+0 0
+0 0 58620
+S
+#58622
+(38) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58623
+D3
+~
+~
+0 0
+0 0 58621
+S
+#58623
+(39) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58624
+D2
+~
+~
+0 0
+0 0 58622
+S
+#58624
+(40) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58625
+D2
+~
+~
+0 0
+0 0 58623
+S
+#58625
+(41) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58638
+D2
+~
+~
+0 0
+0 0 58626
+D3
+~
+~
+0 0
+0 0 58624
+S
+#58626
+(45) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58625
+D2
+~
+~
+0 0
+0 0 58627
+S
+#58627
+(46) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58626
+D2
+~
+~
+0 0
+0 0 58628
+S
+#58628
+(47) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58627
+D2
+~
+~
+0 0
+0 0 58629
+S
+#58629
+(48) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58628
+D2
+~
+~
+0 0
+0 0 58630
+S
+#58630
+(49) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58629
+D1
+~
+~
+0 0
+0 0 58631
+S
+#58631
+(50) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58634
+D1
+~
+~
+0 0
+0 0 58632
+D3
+~
+~
+0 0
+0 0 58630
+S
+#58632
+(58) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58633
+D3
+~
+~
+0 0
+0 0 58631
+S
+#58633
+(59) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58632
+S
+#58634
+(51) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58635
+D2
+~
+~
+0 0
+0 0 58631
+S
+#58635
+(52) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58639
+D2
+~
+~
+0 0
+0 0 58634
+D3
+~
+~
+0 0
+0 0 58636
+S
+#58636
+(44) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58637
+D1
+~
+~
+0 0
+0 0 58635
+S
+#58637
+(43) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58636
+D3
+~
+~
+0 0
+0 0 58638
+S
+#58638
+(42) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58637
+D2
+~
+~
+0 0
+0 0 58625
+S
+#58639
+(53) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58640
+D3
+~
+~
+0 0
+0 0 58635
+S
+#58640
+(63) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58639
+D1
+~
+~
+0 0
+0 0 58645
+D2
+~
+~
+0 0
+0 0 58641
+S
+#58641
+(62) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58640
+D3
+~
+~
+0 0
+0 0 58642
+S
+#58642
+(61) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58643
+D1
+~
+~
+0 0
+0 0 58641
+S
+#58643
+(60) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58642
+S
+#58644
+~
+~
+0
+C 0
+S
+#58645
+(57) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58646
+D3
+~
+~
+0 0
+0 0 58640
+S
+#58646
+(56) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58645
+D3
+~
+~
+0 0
+0 0 58647
+S
+#58647
+(55) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58648
+D1
+~
+~
+0 0
+0 0 58646
+S
+#58648
+(54) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58649
+D2
+~
+~
+0 0
+0 0 58647
+S
+#58649
+(64) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58650
+D3
+~
+~
+0 0
+0 0 58648
+S
+#58650
+(65) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58649
+D5
+~
+~
+0 0
+0 0 58651
+S
+#58651
+(66) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58652
+D4
+~
+~
+0 0
+0 0 58650
+S
+#58652
+(67) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58651
+D4
+~
+~
+0 0
+0 0 58653
+S
+#58653
+(70) ShamMaze~
+~
+0
+ABDV 18
+D2
+~
+~
+0 0
+0 0 58654
+D5
+~
+~
+0 0
+0 0 58652
+S
+#58654
+(71) ShamMaze~
+~
+0
+ABDV 18
+D0
+~
+~
+0 0
+0 0 58653
+D3
+~
+~
+0 0
+0 0 58655
+S
+#58655
+(72) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58654
+D5
+~
+~
+0 0
+0 0 58656
+S
+#58656
+(73) ShamMaze~
+~
+0
+ABDV 18
+D3
+~
+~
+0 0
+0 0 58657
+D4
+~
+~
+0 0
+0 0 58655
+S
+#58657
+(74) ShamMaze~
+~
+0
+ABDV 18
+D1
+~
+~
+0 0
+0 0 58656
+D5
+~
+~
+0 0
+0 0 58658
+S
+#58658
+(75) ShamMaze~
+~
+0
+ABDV 18
+D4
+~
+~
+0 0
+0 0 58657
+S
+#58659
+~
+~
+0
+C 0
+S
+#58680
+{mL{Mi{Dli{mth{M'{ms {WD{wi{Wmens{wi{Wonal {mPoc{Mket{x~
+You find yourself floating in the {Demp{wt{Din{we{Dss{x and {Ddarkness{x.  {WSpecs{x of {Wl{wi{Wght{x
+fly around in random directions and as the come closer, you notice they are
+in fact personal {Wob{wj{De{wc{Wts{x of a woman.  {mL{Mi{mpst{Mi{mcks{x, {mn{Mai{ml {Wpol{wi{Wsh{x, {Dha{wi{Wrbr{wu{Dsh{x and
+many other weird things that makes you wonder what sort of {Dper{wv{Dert{x is the
+owner of this space.  {WSketches{x and leftover {Wob{wj{De{wc{Wts{x of previous quests also
+float around to no direction.  The space looks {Dinf{wi{Dn{wi{Dte{x...  
+~
+0
+CDKNTV 0
+S
+#0
+
+
+
+#SPECIALS
+M 58582 spec_speardancer
+M 58586 spec_nasty
+M 58587 spec_channeler_hard
+M 58591 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 58581 0 2
+D 0 58582 0 2
+D 0 58582 2 2
+D 0 58584 2 2
+D 0 58590 4 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

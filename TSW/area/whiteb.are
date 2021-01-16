@@ -1,0 +1,3754 @@
+#AREADATA
+Name Whitebridge~
+Builders Yasmine~
+VNUMs 5800 5899
+Credits 20+}  Immortal   Whitebridge~
+Security 2
+Low 20
+High 60
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#5800
+Wisdom~
+{YWi{ysd{Wom {YCh{yas{Wsie{x~
+The young wisdom moves from cot to cot, inspecting wounds and illnesses with a gentle touch.
+~
+~
+andoran~
+ABGQa JNOVb 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+0 0 0 0
+FGHIJKa BLQ CDE I
+stand stand female 90
+0 0 medium 'flesh'
+#5801
+Bartim~
+Bartim~
+Bartim, the fat innkeeper, greets you with a greedy little grin.
+~
+~
+andoran~
+ABT J 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+FHIK C C 0
+stand stand male 50
+0 0 large 'flesh'
+#5802
+dancing girl~
+a pretty {Rda{rnc{Win{Rg g{rir{Wl{x~
+A {Rp{rr{Wet{rt{Ry{x {Rg{ri{Rr{Wl{x dances around the room.
+~
+~
+andoran~
+ABG 0 1000 0
+30 20 16d17+900 30d10+100 4d4+15 punch
+0 0 0 0 0
+A
+1 1 1 1
+FIK 0 0 FI
+stand stand female 100
+0 0 medium 'flesh'
+#5803
+regular man~
+one of the {Yre{ygul{wars~
+One of the {x{Yre{ygul{xars{x sits here, leering at the girls.
+~
+~
+andoran~
+ABG 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slash
+0 0 0 0 0
+A
+1 1 1 1
+FIKa 0 0 EI
+stand stand male 150
+0 0 medium 'flesh'
+#5804
+man male lover~
+a {x{Bm{bale {Bl{bover{x~
+A young man, who has just proposed to his love, is here on bended knee.
+~
+~
+andoran~
+ABG 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+DEFIK 0 EI H
+stand stand male 200
+0 0 medium 'flesh'
+#5805
+woman female lover~
+a {x{Mf{memale {Ml{mover{x~
+A young woman sits here, admiring a ring from her love.
+~
+~
+andoran~
+ABG 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIK 0 0 H
+stand stand female 150
+0 0 medium 'flesh '
+#5806
+stray dog~
+a {ym{Dan{ygy f{Dlea{x-{yri{Ddd{yen {ydo{Dg{x~
+A {ym{Dan{ygy f{Dlea{x-{yri{Ddd{yen {ydo{Dg{x scrounges for food here.
+~
+Truly a pitiful sight with his ribs protruding and dirt and blood matting
+his hair, this mutt shrinks away from anyone who comes close to him.  
+~
+dog~
+AGH 0 50 0
+25 15 13d13+625 25d10+100 3d8+12 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 BGH
+stand stand male 0
+0 0 medium 'fur'
+#5807
+calico cat~
+a small {Rc{ya{Dl{ri{Yc{Wo {Yc{ra{Dt{x~
+A small {Rc{ya{Dl{ri{Yc{Wo {Yc{ra{Dt{x rubs against your ankles.
+~
+Purring quietly and begging for food with a soft "{cmew{x", this little ball
+of fur might make a good pet if cleaned up and cared for properly.  
+~
+cat~
+AGH J 50 0
+25 15 13d13+625 25d10+100 3d8+12 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 0 BFT GJ
+stand stand female 0
+0 0 small 'unknown'
+F aff Z
+#5808
+little brat~
+a {Bl{bi{Bt{bt{Bl{be {Bb{br{Ba{bt{x~
+A {Bl{bi{Bt{bt{Bl{be {Bb{br{Ba{bt{x darts in front of the wagons here.
+~
+What a filthy little bugger!  It's nearly impossible to differentiate
+between spots of dirt and the freckles on his cheeks and nose.  Clad in
+tattered and torn rags, this little brat, tries to spook horses and trip
+citizens for amusement.  Maybe someone should take a switch after him?  
+~
+andoran~
+AGS 0 50 0
+20 10 11d12+400 20d10+100 3d3+10 bite
+0 0 0 0 0
+A
+0 0 0 0
+FINb B 0 C
+stand stand male 45
+0 0 medium 'flesh'
+#5809
+little girl brat~
+a {Ml{mi{Mt{mt{Ml{me {Mb{mr{Ma{mt{x~
+A {Ml{mi{Mt{mt{Ml{me {Mb{mr{Ma{mt{x stands here, looking pitiful.
+~
+This little girl would be absolutely adoreable if she was a bit cleaner.
+Her dark hair is tied into pigtails and her face is covered with dirt.  She
+sticks her tongue out at anyone who comes near her and sometimes stomps on
+someone's toes for coming too close.  Maybe she needs a lesson in manners.  
+~
+andoran~
+AGS 0 50 0
+20 10 11d12+400 20d10+100 3d3+10 bite
+0 0 0 0 0
+A
+0 0 0 0
+FIKd 0 0 GJ
+stand stand female 45
+0 0 medium 'flesh'
+#5810
+arrogant woman~
+an {Mar{Wro{mga{wnt {Mwo{Wm{ma{wn{x~
+An {Mar{Wro{mga{wnt {Mwo{Wm{ma{wn{x admires herself in a mirror here.
+~
+This young woman stands here admiring her pale face in a golden mirror,
+batting her eyelashes at herself and tossing her raven lockes over her
+shoulder.  
+~
+andoran~
+AG 0 1000 0
+30 20 16d17+900 30d10+100 4d4+15 knee
+0 0 0 0 0
+A
+1 1 1 1
+0 0 E G
+stand stand female 120
+0 0 medium 'flesh'
+#5811
+retired sailor~
+a {Br{be{Wti{wre{Bd s{ba{Wi{wl{Bo{br{x~
+A {Br{be{Wti{wre{Bd s{ba{Wi{wl{Bo{br{x stands here, waiting to train you.
+~
+He's big, he's mean and Light!  Is he ugly!  Half his teeth are missing
+and his arms are roughly the size of an average man's legs.  He's about 300
+pounds of pure, solid muscle.  If you choose to attack him, then you deserve
+to die.  
+~
+illianer~
+ABGJb HJV 1000 0
+93 83 47d47+8649 93d10+100 10d13+46 grep
+0 0 0 0 0
+A
+6 6 6 6
+DFHIKa CD CD 0
+stand stand male 0
+0 0 huge 'unknown'
+F gain A
+F train A
+V tlevel 90
+#5812
+old lover man~
+an {wo{Wl{wd {Wm{wa{Wn{x~
+A little o{Wl{xd {Wm{wa{Wn{x sits here, still trying to impress his wife.
+~
+His eyes on his beautiful wife, and only on her, this old man's age seems
+to melt away as he performs different antics just to get a giggle out of
+her.  
+~
+andoran~
+ABGK HJV 1000 0
+85 75 43d43+7225 85d10+100 9d14+42 punch
+0 0 0 0 0
+A
+5 5 5 5
+DFHIKa CD CD 0
+stand stand male 400
+0 0 medium 'flesh'
+#5813
+old woman lover~
+an {Wo{wl{Wd w{wom{Wan{x~
+A little {Wo{wl{Wd w{wo{Wm{wa{Wn{x giggles like a young girl at her husband.
+~
+Her eyes full of love and adoration as she gazes at her husband of 60
+years, and even after all that time, she still laughs at his boyish antics. 
+~
+andoran~
+ABGK HJV 1000 0
+85 75 43d43+7225 85d10+100 9d14+42 slap
+0 0 0 0 0
+A
+5 5 5 5
+DFGHIKa CD CD 0
+stand stand female 400
+0 0 medium 'flesh'
+#5814
+gateguard~
+a {Bme{ban lo{Boki{bng {Bgat{begu{Bard{x~
+A {Bme{ban lo{Boki{bng {Bgat{begu{Bard{x watches people carefully.
+~
+~
+andoran~
+ABT 0 1000 0
+65 55 33d33+4225 65d10+100 7d12+32 slash
+0 0 0 0 0
+A
+3 3 3 3
+EFIJa 0 0 F
+stand stand male 0
+0 0 large 'unknown'
+#5815
+watchman~
+a {x{Bt{Wo{Bw{Wn {Bwat{Wch{Bman{x~
+A {x{Bt{Wo{Bw{Wn {Bwat{Wch{Bman{x patrols the streets.
+~
+~
+andoran~
+AGT J 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 slash
+0 0 0 0 0
+A
+1 1 1 1
+CEFKN 0 0 GI
+stand stand male 30
+0 0 large 'flesh'
+#5816
+street hawker~
+Charlie~
+A street hawker tries to push his wares on anyone who passes by.
+~
+~
+andoran~
+ABG JV 0 0
+70 60 36d37+4900 70d10+100 8d8+35 slash
+0 0 0 0 0
+A
+4 4 4 4
+FHIK CD CD 0
+stand stand none 100
+0 0 large 'flesh'
+#5817
+maid~
+a young {x{Rm{Dai{Rd{x~
+A young {x{Rw{ro{Dm{ra{Rn{x walks the halls pushing a cart and carrying a feather duster.
+~
+~
+andoran~
+ACGY NO 1000 0
+25 15 13d13+625 25d10+100 3d8+12 slap
+0 0 0 0 0
+A
+0 0 0 0
+FIK 0 0 0
+stand stand female 80
+0 0 medium 'flesh'
+#5818
+old man~
+A little old man~
+A short little old man stands here, waiting on customers.
+~
+~
+andoran~
+ABGT HJN 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 pierce
+0 0 0 0 0
+A
+1 1 1 1
+FHIJKOd CD CD 0
+stand stand male 400
+0 0 medium 'flesh'
+#5819
+weaponshoppe~
+A grizzled old vetran~
+A grizzled old vetran stands here showing off weapons.
+~
+~
+andoran~
+ABEGT HJ 0 0
+40 30 21d22+1600 40d10+100 5d5+20 slash
+0 0 0 0 0
+A
+1 1 1 1
+FHIKd CD CD 0
+stand stand male 400
+0 0 medium 'flesh'
+#5820
+tough cargo master~
+a tough looking {Dca{wrg{Wo ma{wst{Der{x~
+A tough looking {Dca{wrg{Wo ma{wst{Der{x stands here picking his teeth with his knife. 
+~
+A bare chested man stands here, showing off his muscles and his burly,
+{yhairy{x chest.  He wears frayed {Bblue{x cotton pants and no boots.  He speaks to
+those carrying cargo in a rough, frank tone, ensuring that things get to
+where they need to go.  
+~
+andoran~
+A 0 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 headbutt
+0 0 0 0 0
+A
+7 7 7 7
+CEFKLO ABb 0 PT
+stand stand male 0
+0 0 large 'flesh'
+#5836
+Sam~
+Loyal Sam~
+Sam looms over the crowd, keeping an eye out for any trouble.
+~
+Big.  Really big and ugly too.  This man's arm is easily the size of an
+average man's leg.  Clad in a watchman's uniform, his dark eyes scan the
+crowd for any sign of trouble.  He absently strokes the large axe at his
+side as he stands his vigil.  
+~
+andoran~
+AGT 0 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 cleave
+0 0 0 0 0
+A
+4 4 4 4
+CEFHKNTY 0 0 J
+stand stand male 100
+0 0 huge 'flesh'
+#5840
+bartender lady woman~
+{RM{riss {RKi{rtty{x~
+A voluptuous woman is here serving drinks and shouting orders at the dancing girls.
+~
+~
+andoran~
+ABGT HJV 0 0
+40 30 21d22+1600 40d10+100 5d5+20 slap
+0 0 0 0 0
+A
+1 1 1 1
+CDFHIKO CD CD 0
+stand stand female 400
+0 0 medium 'flesh'
+#5841
+thief~
+a hidden thief~
+A shady looking man hides in the shadows.
+~
+~
+andoran~
+AGS GPQV 0 0
+40 30 21d22+1600 40d10+100 5d5+20 pierce
+0 0 0 0 0
+A
+1 1 1 1
+BEFIN GH GH J
+stand stand male 75
+0 0 medium 'unknown'
+#5846
+jeweler~
+Artemis~
+The jeweler stands here, studying a large gem.
+~
+~
+andoran~
+ABG HJV 1000 0
+75 65 38d38+5625 75d10+100 8d13+37 divine
+0 0 0 0 0
+0
+4 4 4 4
+FHIK CD CD 0
+stand stand female 0
+0 0 medium 'flesh'
+#5849
+Jeweler Man~
+{x{BM{ba{Darc{bu{Bs{x~
+A young man wanders from customer to customer, showing off jewels with a smile.
+~
+~
+andoran~
+ABGT 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+DFHIK CD CD 0
+stand stand male 400
+0 0 medium 'flesh'
+#5851
+shopkeeper~
+Conal~
+Conal, the pet shop owner, stands here inspecting a baby kitten.
+~
+~
+andoran~
+ABGT HJV 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 slap
+0 0 0 0 0
+A
+2 2 2 2
+CDEFHIK CD CD 0
+stand stand male 200
+0 0 medium 'flesh'
+#5852
+tabby~
+a {Db{xl{Da{xc{Dk{x and {yo{rr{ya{rn{yg{re{x striped tabby cat~
+A jowly, striped tabby cat sits here.
+~
+~
+cat~
+AI J 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 claw
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 E
+stand stand female 0
+0 0 small 'unknown'
+F aff Z
+#5853
+bluejay~
+a singing {Bb{bl{Bu{be{Bj{ba{By{x~
+A small {Bb{bl{Bu{be{Bb{bi{Br{bd{x is perched here.
+~
+~
+song bird~
+AI 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+#5858
+baker~
+the {RB{ra{Rk{re{Rr{x~
+A short, pudgy woman wearing a baker's hat stands here.
+~
+~
+andoran~
+ABGT HJV 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 slap
+0 0 0 0 0
+A
+1 1 1 1
+FHIKO CD CD 0
+stand stand female 400
+0 0 medium 'flesh'
+#5868
+butcher~
+the {RB{Wut{rch{Re{rr{x~
+A middle aged man wearing a bloody apron stands here.
+~
+~
+andoran~
+ABGT HJV 0 0
+40 30 21d22+1600 40d10+100 5d5+20 crush
+0 0 0 0 0
+A
+1 1 1 1
+DFHIKO CD CD 0
+stand stand male 400
+0 0 medium 'flesh'
+#5870
+puppy~
+a {Dblack lab{x pup~
+A playful black puppy gnaws on an old shoe here.
+~
+~
+dog~
+AI 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 bite
+0 0 0 0 0
+A
+1 1 1 1
+D 0 FI 0
+stand stand male 0
+0 0 medium 'flesh'
+#5879
+sailor~
+a Sailor~
+A big, burly sailor carries some of his cargo around the docks.
+~
+~
+illianer~
+AGT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 uppercut
+0 0 0 0 0
+A
+2 2 2 2
+CEFIKN 0 0 H
+stand stand male 75
+0 0 large 'unknown'
+#5895
+Wise Old Man~
+a wise old man~
+A little old man sits here, adjusting his glasses as he reads.
+~
+Sitting here reading a book, this little old man occasionally chuckles
+as he first adjusts the tiny pair of glasses on his face then puffs at his
+pipe.  His large, dark eyes twinkle with amusement and a small, crooked
+smile plays across his shriveled lips as he continues to read from a book
+entitled "{WRiddles for the Ages{x".  Perhaps if asked, he'll share a riddle
+with you?  
+~
+andoran~
+ABGT HJV 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 slash
+0 0 0 0 0
+A
+6 6 6 6
+CDFHIKO CD CD 0
+stand stand male 1000000
+0 0 huge 'flesh'
+#5896
+big guard dog~
+a {x{ysn{xarl{Ding {ygu{xa{Drd {ydo{Dg{x~
+A  {x{ysn{xarl{Ding {ygu{xa{Drd {ydo{Dg{x stands here on guard.
+~
+~
+dog~
+ABFGT J 1000 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 0
+stand stand male 0
+0 0 large 'fur'
+F off H
+#0
+
+
+
+#OBJECTS
+#5800
+cots~
+a comfortable looking cot~
+Several comforable looking cots look like great places to rest weary bones.~
+down~
+furniture S 0
+6 2000 EFHIKL 200 150
+1 0 0 100
+#5801
+sword~
+none~
+none~
+steel~
+weapon 0 AN
+exotic 1 1 'none' 0
+2 2 100 100
+#5802
+codpiece~
+The {BM{bighty {DC{wod{Dpi{we{Dce{x of {BP{Do{Bw{De{Br{x~
+A banged up codpiece lies here.~
+metal~
+armor AB AL
+5 5 5 5 0
+20 2 200 100
+#5803
+brassiere~
+The {BB{Dra{Bssi{Der{Be{x of {BMi{Dgh{Bt{x~
+A lady's brassiere has been left here.~
+metal~
+armor AB AD
+5 5 5 5 0
+20 2 200 100
+#5804
+boots~
+{yDoeskin Boots{x~
+A pair of soft boots lie here.~
+leather~
+armor ABS AG
+5 5 6 4 0
+20 1 200 100
+#5805
+gloves~
+A pair of {yRa{wbb{yit S{yki{wn{x gloves~
+A pair of soft, fuzzy gloves have been left behind.~
+rabbit~
+armor S AH
+5 5 5 5 0
+20 1 150 100
+#5806
+leg plates~
+a pair of {Ws{xh{Wi{xn{Wy {Ds{xt{De{xe{Dl{x leg plates~
+A pair of well polished leg plates have been left here.~
+steel~
+armor 0 AF
+10 10 15 5 0
+40 15 150 100
+#5807
+guard wrist bracer~
+A {yB{Yr{yo{Yn{yz{Ye {yB{Yr{ya{Yc{ye{Yr{x~
+A beaten up bracer lies here.~
+metal~
+armor AB AM
+5 5 5 5 0
+20 1 200 100
+#5808
+long dagger~
+a {x{Bl{bong {Bd{bagger{x~
+A deadly looking dagger has been dropped here.~
+steel~
+weapon AB AN
+dagger 3 8 'pierce' D
+20 2 250 100
+#5809
+broadsword~
+a {x{Bb{broad{Bs{bword{x~
+A gleaming broadsword has been left here.~
+steel~
+weapon 0 AN
+sword 3 8 'slash' D
+20 2 250 100
+#5810
+wooden arrow~
+a {x{Bl{bong {Bw{booden {Ba{brrow{x~
+A simple wooden arrow lies here.~
+wood~
+weapon 0 ANO
+arrow 3 8 'pierce' 0
+20 1 200 100
+#5811
+axe~
+a {x{Bdouble{x-{Bs{bided{x-{Ba{bxe{x~
+A deadly looking axe lies here.~
+steel~
+weapon 0 AN
+axe 3 8 'chop' D
+20 1 250 100
+#5812
+whip~
+a {x{Bb{braided {Bl{beather {Bw{bhip{x~
+A long, wicked looking whip has been discarded here.~
+leather~
+weapon ABS AN
+whip 3 8 'whip' 0
+20 1 200 100
+#5813
+staff blue wax~
+a {x{Bb{blue{x-{Bt{binged{x-{Bw{baxwood {Bs{btaff{x~
+A beautiful staff rests here.~
+wood~
+weapon ABS AN
+staff 3 8 'pound' F
+20 1 250 100
+#5814
+mace~
+a {x{Bb{blue{x-{Bs{bteel {Bm{bace{x~
+A heavy, steel mace lies here.~
+steel~
+weapon AB AN
+mace 3 8 'pound' 0
+20 2 250 100
+#5815
+boots~
+a pair of shiny, {Dblack{x leather boots~
+A pair of shiny, {Dblack{x leather boots lies here.~
+leather~
+armor S AG
+10 10 10 10 0
+40 2 100 100
+#5816
+backpack~
+a little {Dblack backpack{x~
+A little {Dblack backpack{x lies here, forgotten.~
+leather~
+container SY AK
+90 0 0 150 5
+35 1 100 100
+#5817
+shield~
+a {BN{bavy{x-{BB{blue {BS{bhield{x~
+A beat up looking shield lies here.~
+steel~
+armor AB AJ
+5 5 5 5 0
+20 2 200 100
+#5818
+fountain~
+a {CB{cub{Wbl{ci{Cng B{clu{We {CF{co{Wunta{ci{Cn{x~
+A beautiful {Cb{clue {Wm{xar{Cb{Wl{Ce{wd {Cf{co{Wunta{ci{Cn{x sits here.~
+marble~
+fountain S 0
+-1 -1 'water' 0 0
+0 10000 100000 100
+#5819
+cinnamon roll~
+a {yst{Wick{yy {rci{ynn{Wa{ym{ron {yr{Wo{yll{x~
+A sticky pastry has been dropped here.~
+bread~
+food S A
+4 2 0 0 0
+1 1 50 100
+#5820
+cheese bread~
+some {YCh{yee{Yse {yBr{Yea{yd{x~
+A loaf of piping hot cheese bread has been left here.~
+bread~
+food S A
+4 3 0 0 0
+1 1 75 100
+#5821
+danish~
+a {BB{blueberry {BD{banish{x~
+A yummy {Bb{blueberry {Bd{banish{x has been left here.~
+pastry~
+food S A
+4 4 0 0 0
+1 1 75 100
+#5822
+cloak~
+a long, billowy cloak of {Dblack{x wool~
+A long, {Dblack{x cloak has been left here.~
+wool~
+armor S AC
+15 10 10 5 0
+40 5 150 100
+#5823
+muffin~
+a {Rd{re{Rl{ri{Rc{ri{Ro{ru{Rs S{rtr{Rawb{rerr{Ry M{ruff{Rin{x~
+A steaming, {Rs{rtr{Rawb{rerr{Ry m{ruff{Rin{x is sitting here.~
+pastry~
+food S A
+4 5 0 0 0
+1 0 75 100
+#5824
+gloves~
+a pair of simple, {Dblack{x leather gloves~
+A pair of {Dblack{x, leather gloves have been discarded.~
+leather~
+armor S AH
+10 10 10 10 0
+40 1 75 100
+#5825
+a rug~
+a beautiful {Bw{bo{Bv{be{Bn {br{Bu{bg{x~
+A fine looking {br{Bu{bg{x has been discarded here.~
+wool~
+furniture S A
+4 1000 EHK 150 200
+10 1 150 100
+#5826
+cape~
+a {Br{bo{By{ba{Bl {bb{Bl{bu{Be{x cape~
+A short {bb{Bl{bu{Be{x cape has been neatly folded and left here.~
+satin~
+armor S AC
+10 10 10 10 0
+40 2 150 100
+#5827
+steak~
+a {Yj{yuicy {Ys{yteak{x~
+A fat, juicy looking steak has been left here.~
+beef~
+food S A
+4 5 0 0 0
+1 0 80 100
+#5828
+lantern~
+a s{Wi{xl{Wv{xe{Wr{x lantern holding an {ya{rm{yb{re{yr{x flame~
+A beautiful lantern lies here.~
+metal~
+light 0 A
+0 0 800 0 0
+40 3 100 100
+#5829
+breastplate~
+a {Ws{xh{Wi{xn{Wy{x, {Ds{xt{De{xe{Dl{x breastplate~
+A well polished breastplate glitters in the sunlight.~
+steel~
+armor 0 AD
+10 15 10 5 0
+40 10 150 100
+#5830
+leather pouch~
+a {x{Dblack leather{x pouch~
+A simple leather pouch has been left here.~
+cloth~
+container 0 AL
+30 AC 0 60 75
+40 3 100 100
+#5831
+salmon patties~
+two huge {Ms{malmon {Mp{matties{x~
+A couple {Ms{malmon {Mp{matties{x have been left here.~
+fish~
+food S A
+4 6 0 0 0
+1 1 100 100
+#5832
+decanter~
+a {Bb{bl{Bu{be{W-{xs{Wi{xl{Wv{xe{Wr{x decanter~
+A small decanter glitters metallically in the sunlight.~
+metal~
+drink 0 AO
+400 400 'water' 0 0
+40 0 75 100
+#5833
+marbled bench~
+a beautiful {Wwhite{x m{War{Db{Wle{xd bench~
+A bench sits by the pond, its legs and back covered by {Gv{gi{Gn{ge{Gs{x.~
+marble~
+furniture S 0
+4 1000 EHK 150 150
+0 200 1000 100
+#5834
+chicken legs~
+a few moist {Ych{Wick{yen {Yle{Wg{ys{x~
+A few moist {Ych{Wick{yen {Yle{Wg{ys{x are lying here.~
+poultry~
+food S A
+4 7 0 0 0
+1 1 100 100
+#5835
+steel helm~
+a {Ws{xh{Wi{xn{Wy {Ds{xt{De{xe{Dl{x helm~
+A well polished helm has been left lying around here.~
+steel~
+armor 0 AE
+15 10 5 10 0
+40 8 100 100
+#5836
+Loyal Sam's axe~
+Sam's axe~
+A very sharp, well polished axe lies here.~
+iron~
+weapon Y AN
+axe 8 13 'cleave' D
+70 10 200 100
+#5837
+venison~
+a nice {yve{Dnis{yon st{Dea{yk{x~
+A nice {yve{Dnis{yon st{Dea{yk{x lies here.~
+deer~
+food S A
+6 9 0 0 0
+1 1 100 100
+#5838
+steel sleeves~
+a pair of s{Wh{xi{Wn{xy, {Ds{xt{De{xe{Dl{x sleeves~
+Someone has dropped a pair of s{Wh{xi{Wn{xy sleeves here.~
+steel~
+armor 0 AI
+10 5 10 15 0
+40 10 200 100
+#5839
+ruby ring~
+a simple {Ygold{x band encrusted with tiny {Rr{ru{Rb{ri{Re{rs{x~
+A beautiful gold band has been left here.~
+gold~
+armor 0 AB
+10 10 10 10 0
+40 1 150 100
+#5840
+mug of ale~
+a mug of {Dd{war{Dk {ya{Dl{ye{x~
+A tall mug full of dark liquid sits here.~
+alcohol~
+drink S A
+10 10 'ale' 0 0
+1 0 75 100
+#5841
+earring~
+a {Wd{xi{Wa{xm{Wo{xn{Wd{x stud earring~
+A flawless diamond stud earring has been dropped here.~
+gold~
+armor 0 AU
+10 10 10 10 0
+40 1 100 100
+#5842
+glass champagne~
+a glass of {Wbu{wbb{Wl{win{Wg cha{wmp{Wagn{we{x~
+Here sits a  glass of {Wbu{wbb{Wl{win{Wg cha{wmp{Wagn{we{x.~
+alcohol~
+drink S A
+5 0 'champagne' 0 0
+1 0 85 100
+#5843
+white wine~
+a glass of {Wwh{xit{We wi{wne{x~
+A glass of {Wwh{xit{We wi{wne{x.~
+cloth~
+drink S A
+6 6 'white wine' 0 0
+1 0 80 100
+#5844
+stein of mead~
+a stein of {yme{Ya{yd{x.~
+A sturdy stein full of thick {yme{Ya{yd{x sits here.~
+alcohol~
+drink 0 A
+10 10 'mead' 0 0
+1 0 75 100
+#5845
+cup of tea~
+a {Wd{wain{Wty c{wu{Wp{x of {Yt{ye{Ya{x~
+A {Wd{wain{Wty c{wu{Wp{x of {Yt{ye{Ya{x sits here.~
+drink~
+drink S A
+5 5 'tea' 0 0
+1 0 30 100
+#5846
+sapphire ring~
+a {Ygold{x band bearing a small {Bsapphire{x~
+A beautiful ring has been left behind.~
+gold~
+armor 0 AB
+10 10 10 10 0
+40 1 150 100
+#5847
+plate of food~
+a heaping plate of {yst{Yea{yk{x and {Gv{geggies{x~
+Here sits a  heaping plate of {yst{Yea{yk{x and {Gv{geggies{x.~
+food~
+food S A
+7 10 0 0 0
+1 1 150 100
+#5848
+tuna sandwhich~
+a nice {Ytu{Wna sa{Yndw{Whic{Yh{x~
+A nice {Ytu{Wna sa{Yndw{Whic{Yh{x sits here on it's plate.~
+fish~
+food S A
+9 9 0 0 0
+1 0 75 100
+#5849
+firebreather~
+a bottle of {Rfi{Yreb{Rrea{Ythe{Rr{x~
+A bottle of {Rfi{Yreb{Rrea{Ythe{Rr{x sits here.~
+alcohol~
+drink S A
+12 12 'firebreather' 0 0
+1 0 90 100
+#5850
+bottle local specialty~
+a bottle of the {Rl{ro{Wca{Rl sp{recia{Wlt{Ry{x~
+A bottle of the {Rl{ro{Wca{Rl sp{recia{Wlt{Ry{x rests here.~
+alcohol~
+drink S A
+10 10 'local specialty' 0 0
+1 0 85 100
+#5851
+glass vodka~
+a glass of {Wvo{wdk{Wa{x~
+A glass of {Wvo{wdk{Wa{x sits here.~
+alcohol~
+drink S A
+10 10 'water' 0 0
+1 0 100 100
+#5852
+dagger~
+a short, well-folded dagger~
+A dagger with a well-folded blade lies here.~
+steel~
+weapon 0 AN
+dagger 5 10 'pierce' D
+40 1 150 100
+#5853
+shield~
+a s{Wh{xi{Wn{xy, kite-shaped shield~
+A well polished shield lies here.~
+steel~
+armor 0 AJ
+10 10 10 10 0
+40 15 200 100
+#5854
+steel bracer~
+a s{Wh{xi{Wn{xy, {Ds{xt{De{xe{Dl{x bracer~
+A polished bracer has been left here.~
+steel~
+armor 0 AM
+10 10 10 10 0
+40 5 100 100
+#5855
+skirt~
+a {x{Rp{rretty {Rr{red {Rs{rkirt{x~
+A {Rp{rretty {Rr{red {Rs{rkirt{x lies here in a heap.~
+cloth~
+armor S AF
+9 7 9 7 0
+30 1 200 100
+#5856
+leather belt~
+a simple, {ybrown leather{x belt~
+A worn, leather belt lies here.~
+leather~
+armor S AL
+9 7 9 7 0
+30 1 50 100
+#5857
+steel sword~
+a s{Wh{xi{Wn{xy, {Ds{xt{De{xe{Dl{x sword with a {Bb{bl{Bu{bi{Bs{bh{x blade~
+A shiny sword is propped against the wall here.~
+steel~
+weapon 0 AN
+sword 5 10 'slash' D
+40 10 250 100
+#5858
+white blouse~
+a {WB{we{Wa{wu{Wt{wi{Wf{wu{Wl W{wh{Wi{Wt{we {WB{wl{Wo{wu{Ws{we{x~
+A {WB{we{Wa{wu{Wt{wi{Wf{wu{Wl W{wh{Wi{Wt{we {WB{wl{Wo{wu{Ws{we{x is crumpled up here on the floor.~
+cloth~
+armor S AD
+9 7 9 7 0
+30 1 200 100
+#5859
+cloak~
+a {yBr{Dow{yn W{Do{yol Cl{Doa{yk{x~
+A  {yBr{Dow{yn W{Do{yol Cl{Doa{yk{x lies here.~
+cloth~
+armor S AK
+9 7 9 7 0
+30 1 200 100
+#5860
+belt~
+a simple {yL{Yea{yther {YB{yelt{x~
+A simple {yL{Yea{yther {YB{yelt{x lies here.~
+leather~
+armor S AL
+9 7 9 7 0
+30 1 150 100
+#5861
+table and chair~
+a {Yst{yurdy wo{Yod{yen ta{Yble{x and chair.~
+Several {Yst{yurdy wo{Yod{yen ta{Ybles{x sit here, each with six chairs around them.~
+wood~
+furniture S 0
+48 500 D 5 2
+1 10000 100000 100
+#5862
+backplate~
+a s{Wh{xi{Wn{xy, {Ds{xt{De{xe{Dl{x backplate~
+A well-polished backplate lies here.~
+steel~
+armor 0 AS
+10 10 10 10 0
+40 15 250 100
+#5863
+blue lantern~
+a {Bb{bl{Bu{be{x-{Ws{wi{Wl{wv{We{wr {Bl{ba{Wn{wt{Be{br{Wn{x~
+A {Bb{bl{Bu{be{x-{Ws{wi{Wl{wv{We{wr {Bl{ba{Wn{wt{Be{br{Wn{x sits here, emitting an odd glow.~
+flame~
+light 0 A
+0 0 998 0 0
+20 1 200 100
+#5864
+small velvet bag~
+a {BS{bm{Ba{bl{Bl V{be{Bl{bv{Be{bt {BB{ba{Bg{x~
+A {Bs{bm{Ba{bl{Bl v{be{Bl{bv{Be{bt {Bb{ba{Bg{x has been forgotten here.~
+cloth~
+container AS AO
+20 AC 0 25 -1
+30 1 150 100
+#5865
+ring diamond~
+a {Wd{wi{Wa{wm{Wo{wn{Wd {we{Wn{wg{Wa{wg{We{wm{We{wn{Wt {wr{Wi{wn{Wg{x~
+Some poor girl has lost her {Wd{wi{Wa{wm{Wo{wn{Wd {we{Wn{wg{Wa{wg{We{wm{We{wn{Wt {wr{Wi{wn{Wg{x here.~
+diamond~
+armor 0 AB
+9 7 9 7 0
+35 1 250 100
+#5866
+marble bench~
+a beautiful {Wm{wa{Wr{wb{Wl{we {Wb{we{Wn{wc{Wh{x~
+A beautiful {Wm{wa{Wr{wb{Wl{we {Wb{we{Wn{wc{Wh{x sits here.~
+marble~
+furniture S 0
+6 500 EHK 100 80
+1 10000 100000 100
+#5867
+small bed~
+a {ysm{ga{yll {gb{ye{gd{x~
+A {ysm{ga{yll {gb{ye{gd{x sits off to the side looking comfy and cozy.~
+springs~
+furniture S 0
+4 0 EFHIKL 100 100
+1 100 300 100
+#5868
+mirror~
+a {Ybe{Waut{Yif{Wu{Yl m{Wir{Yror {Wof {Ygo{Wl{Yd{x~
+A {Ybe{Waut{Yif{Wu{Yl m{Wir{Yror {Wof {Ygo{Wl{Yd{x has been left here.~
+gold~
+treasure AB AO
+BCDE D D ABCDG 0
+30 1 300 100
+A
+12 3
+#5869
+shiny sword~
+an {Wi{wv{Wo{wr{Wy{x-{wh{Wi{wl{Wt{we{Wd{x sword with a {Bb{bl{Bu{be{x-{Bt{bi{Bn{bg{Be{bd {Bb{bl{Ba{bd{Be{x~
+A beautiful {Wi{wv{Wo{wr{Wy{x-{wh{Wi{wl{Wt{we{Wd{x sword with a {Bb{bl{Bu{be{x-{Bt{bi{Bn{bg{Be{bd {Bb{bl{Ba{bd{Be{x lies here.~
+steel~
+weapon Y AN
+sword 7 12 'slash' D
+65 3 400 100
+#5870
+midnight blue tunic~
+a {Dmid{Bni{Dght {Bb{Dlu{Be {Dtu{Bn{Dic{x~
+A thick, {Dmid{Bni{Dght {Bb{Dlu{Be {Dtu{Bn{Dic{x lies crumpled up here.~
+wool~
+armor SY AD
+18 16 18 13 0
+65 1 300 100
+#5871
+shiny boots~
+a pair of {Ws{wh{Wi{wn{Wy {Dblack b{wo{Wo{Dts{x~
+A pair of {Ws{wh{Wi{wn{Wy {Dblack b{wo{Wo{Dts{x sure do look comfy.~
+leather~
+armor SY AG
+18 16 18 13 0
+65 1 300 100
+#5872
+oval shield~
+an oval-shaped {Bsh{bie{Bld{x~
+An oval-shaped {Bsh{bie{Bld{x rests here.~
+cloth~
+armor Y AJ
+18 16 18 13 0
+65 3 450 100
+A
+13 6
+#5873
+blue wool pants~
+a pair of {Dmi{Bdni{Dght {Bb{Dl{Bu{De {Bpa{Dn{Bts{x~
+A pair of {Dmi{Bdni{Dght {Bb{Dl{Bu{De {Bpa{Dn{Bts{x lie here in a crumpled heap.~
+wool~
+armor SY AF
+18 16 18 13 0
+65 1 350 100
+#5874
+a small bed~
+a small, clean bed~
+A small, clean bed rests here, beckoning for someone to sleep in it.~
+wood~
+furniture S 0
+2 500 EFHIKL 75 75
+1 300 30000 100
+#5875
+waterfall~
+a {x{Ws{wm{Wa{wl{Wl {Cwa{cte{Wrf{ca{Cll{x~
+A {x{Ws{wm{Wa{wl{Wl {Cwa{cte{Wrf{ca{Cll{x flows here.~
+water~
+fountain S 0
+-1 -1 'water' 0 0
+0 16960 0 100
+#5876
+medallion foxhead~
+a {Ds{wil{Dv{wer {yf{ro{yxhe{rad{x {Dmed{wal{Dlio{wn{x~
+An odd {x{Dmed{wal{Dlio{wn{x lies here, cold to the touch.~
+silver~
+angreal GYb AC
+0 0 999 0 0
+90 1 3000 100
+A
+2 4
+A
+1 4
+A
+3 4
+#5877
+beautiful sword~
+a {Dbe{Waut{Diful {Wsword{x with a {Ygo{yld{Yen h{yi{Ylt{x~
+A {Dbe{Waut{Diful {Wsword{x with a {Ygo{yld{Yen h{yi{Ylt{x lies here, forgotten.~
+cuendillar~
+weapon Y AN
+sword 10 15 'slash' D
+90 5 6000 100
+A
+19 5
+A
+18 5
+#5878
+dagger jeweled~
+a  {Rd{ra{Dgg{re{Rr{D encrusted with a single  {x{Rru{rb{Ry{x~
+A {Dwi{rc{Rk{re{Dd{x looking dagger lies here.~
+steel~
+weapon Y AN
+dagger 10 15 'pierce' D
+90 2 4000 100
+A
+19 4
+A
+18 8
+A
+19 8
+A
+5 5
+#5879
+ascot~
+a {Bb{bl{Bu{be{x ascot~
+A dark {Bb{bl{Bu{be{x ascot lies here.~
+cloth~
+armor S AC
+15 10 15 10 0
+50 1 75 100
+#5880
+Yasmine Death Rename Coupon~
+{x{YY{yas{mmi{Wne{Y's {WCertificate of {DDe{Rat{Dh{x~
+A crumpled up, {Dblack{x and {Ygold{x piece of paper has been discarded here.~
+indestructable~
+token HMSYb AO
+0 0 0 0 0
+0 0 1000000 100
+#5881
+boots leather~
+a sturdy pair of {Dsh{Win{Dy le{Wath{Der b{Wo{Dots{x~
+A sturdy pair of {Dsh{Win{Dy le{Wath{Der b{Wo{Dots{x sure do look comfy.~
+leather~
+armor SY AG
+25 25 20 20 0
+90 2 2000 100
+A
+12 10
+A
+5 7
+#5882
+cloak~
+a {Wgl{wim{Wmer{wing{x cloak, swirling with {Rc{Co{Yl{Go{Br{x~
+A shimmery cloak lies here in a heap.~
+ter'angreal~
+armor GSY AK
+20 25 20 25 0
+90 2 5000 100
+A
+18 5
+A
+19 5
+#5883
+earring stud diamond~
+a {x{Wdia{wm{Wond{x studded {x{Yea{yrr{Ying{x~
+A beautiful, {x{Wdia{wm{Wond{x studded {x{Yea{yrr{Ying{x has been lost here.~
+gold~
+armor 0 AU
+5 5 5 5 0
+20 1 200 100
+#5884
+earring sapphire stud~
+a {x{Bsa{bp{Wph{bi{Bre{x studded {x{Wea{wrri{Wng{x~
+A beautiful {x{Bsa{bp{Wph{bi{Bre{x studded {x{Wea{wrri{Wng{x has been dropped here.~
+precious~
+armor 0 AU
+8 7 8 7 0
+30 1 250 100
+#5885
+earring platinum hoop~
+a {x{Wpl{yat{wi{ynu{Wm h{woo{Wp {yea{Wrr{wi{yn{Wg{x~
+A gorgeous, {x{Wpl{yat{wi{ynu{Wm h{woo{Wp {yea{Wrr{wi{yn{Wg{x has been lost here.~
+platinum~
+armor 0 AU
+10 10 10 10 0
+40 1 300 100
+#5886
+bracelet silver~
+a simple {x{Wsi{wlv{Wer bra{wce{Wlet{x~
+A pretty {x{Wsi{wlv{Wer bra{wce{Wlet{x has been dropped here.~
+silver~
+armor 0 AM
+5 5 5 5 0
+20 1 200 100
+#5887
+bracelet gold~
+a simple {x{Yg{yo{Yld bra{yce{Ylet{x~
+A pretty {x{Yg{yo{Yld bra{yce{Ylet{x lies here.~
+gold~
+armor 0 AM
+8 7 8 7 0
+30 1 250 100
+#5888
+platinum bracelet~
+a stunning, {x{Wpl{yati{Wnum bra{yce{Wlet{x~
+A lovely, {x{Wpl{yati{Wnum bra{yce{Wlet{x has been dropped here.~
+platinum~
+armor 0 AM
+10 10 10 10 0
+40 1 300 100
+#5889
+ring silver diamond~
+a beautiful {x{Wdia{wm{Wond{x ring~
+A beautiful {x{Wdia{wm{Wond{x ring lies here, forgotten.~
+silver~
+armor 0 AB
+5 5 5 5 0
+20 1 200 100
+#5890
+ring gold ruby~
+a beautiful {x{Rr{ru{Rb{ry{x ring~
+A beautiful {x{Rr{ru{Rb{ry{x ring has been lost.~
+gold~
+armor 0 AB
+8 7 8 7 0
+30 1 250 100
+#5891
+platinum ring sapphire~
+a beautiful {x{Bsa{bp{Wph{bi{Bre{x ring~
+Someone has lost a beautiful {x{Bsa{bp{Wph{bi{Bre{x ring.~
+platinum~
+armor 0 AB
+10 10 10 10 0
+40 1 300 100
+#5892
+featherduster~
+a {x{ywo{Yod{yen{x {Wfea{wt{Wher du{wst{Wer{x~
+Someone has left a dirty looking {Wfea{wt{Wher du{wst{Wer{x here.~
+wood~
+armor S AO
+7 6 6 6 0
+25 1 75 100
+#5893
+aura doom~
+an {x{Da{wu{Dr{wa{x of {Dim{wpen{Ddin{wg {Dd{wo{Do{wm{x~
+An {x{Da{wu{Dr{wa{x of {Dim{wpen{Ddin{wg {Dd{wo{Do{wm{x floats here.~
+cloth~
+armor 0 AQ
+25 20 20 20 0
+90 1 2000 100
+A
+3 1
+#5894
+tattoo moon~
+a {x{Wsi{wlv{Wery {wcr{Wesc{went {Wm{wo{Wo{wn{x~
+A {x{Wsi{wlv{Wery {wcr{Wesc{went {Wm{wo{Wo{wn{x has been dropped here.~
+cloth~
+armor 0 AR
+20 25 25 20 0
+90 1 1000 100
+A
+19 5
+#5895
+shimmering veil~
+a {x{Wshi{wmm{Weri{wng {Wv{we{Wi{wl{x~
+A {x{Wshi{wmm{Weri{wng {Wv{we{Wi{wl{x lies here in a crumpled heap.~
+cloth~
+armor S AV
+25 20 25 20 0
+90 1 1500 100
+#5896
+sycamore tree~
+a {gsy{Gca{gmo{Gre {wt{Gr{ge{ye{x~
+A {gsy{Gca{gmo{Gre {wt{Gr{ge{ye{x is growing here.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#5897
+elm tree~
+an {ye{gl{ym t{gr{Ge{ye{x~
+An {ye{gl{ym t{gr{Ge{ye{x stands here, bending slightly with the breeze.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#5800
+The Wisdom's Room~
+The walls have been knocked out making three rooms into one giant room. 
+Several cots are pushed back against the walls, the linens on them crisp and
+clean.  The walls are of a soft blue colour and the paint seems to be
+chipping around the tops.  A small stove rests in the far corner with a
+teapot full of hot water resting on top.  
+~
+0
+K 0
+D2
+~
+~
+3 3
+1 0 5801
+S
+#5801
+Common Room of the {RW{ray{Dfa{Rrer{r's {RR{re{Dst{x~
+The common room is empty save for the fat innkeeper who is half-heartedly
+wiping down his bar.  The tables aren't very clean at all and the floor
+looks as though it hasn't been swept in days, maybe even weeks.  For those
+desperate enough for rest, the guest rooms are located upstairs while a
+Wisdom's room is just north.  Back to the south is the town square and the
+foot of the the famous {WWhite Bridge{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5800
+D1
+~
+~
+3 3
+1 0 5802
+D2
+~
+~
+3 3
+1 0 5815
+D4
+~
+~
+0 0
+0 0 5803
+S
+#5802
+Storage Room~
+Dust covers everything from the floors to the several jars that sit atop
+cracked wooden shelves that threaten to break completely and send their
+contents crashing to the floor.  There are a few large barrels sitting about
+the room, probably cases of ale and up in the corners of the walls, tiny
+cobwebs sway lazily despite the still, stagnant air of the room.  A small
+window on the southern wall is filthy and admits a tiny stream of light from
+outside.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5801
+S
+#5803
+Up the Stairs~
+Creaky wooden stairs lead up to the guest rooms and each step seems to
+crack and bow, threatening to break under the slightest bit of weight.  The
+white paint on the walls is peeling badly and strips of it has fallen to the
+steps, of which need swept badly.  The stairwell itself is dark save for the
+small candle mounted on the wall and even it is threatening to flicker out. 
+Back down the stairs is the common room.  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 5804
+D5
+~
+~
+0 0
+0 0 5801
+S
+#5804
+Hallway to Guest Rooms~
+The floor of the guest hall is just as cracked and old as the stairs and
+is dry rotted in a few places.  The floor boards crack and snap with every
+footstep and the walls are only half painted, with the paint on the finished
+parts peeling as though the project had been forgotten long ago.  Another
+set of stairs lead up to the roof while the guest rooms are down the hall to
+the west.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 5803
+D3
+~
+~
+0 0
+0 0 5807
+D4
+~
+~
+3 3
+1 0 5805
+S
+#5805
+Up the Stairs~
+This set of stairs seems worse than the other, with the tops of some of
+the steps actually missing.  The handrail only stretches halfway up and
+there isn't anything lighting the dark stairwell.  The walls are rough and
+unfinished and up at the stop of the stairwell, a tiny stream of light
+forces its way through several cracks in the door.  
+~
+0
+D 0
+D4
+~
+~
+3 3
+1 0 5806
+D5
+~
+~
+3 3
+1 0 5804
+S
+#5806
+On the Roof~
+A clothesline stretches across the length of the roof and several large
+white sheets are suspended from them and sway lazily in the soft breeze.  A
+few potted plants are set up in the corners, each looking rather wilted and
+as if they haven't been tended to in some time.  On the plus side though,
+the view from up here is nice as one can look over the edge and see almost
+the entire city stretching out below.  
+~
+0
+0 0
+D5
+~
+~
+3 3
+1 0 5805
+S
+#5807
+In the Hallway~
+An old, tattered rug lines the floor here in a feeble attempt to hide
+the discoloration of the floor boards.  The walls themselves are cracked and
+dirty looking and the sound of mice scurrying about inside them can be
+heard.  There is also an odd, unclean smell to this place that is more
+noticeable here than anywhere else in the inn.  
+~
+0
+C 0
+D0
+~
+~
+3 3
+1 0 5808
+D1
+~
+~
+0 0
+0 0 5804
+D2
+~
+~
+3 3
+1 0 5809
+D3
+~
+~
+0 0
+0 0 5810
+S
+#5808
+A Small Room~
+Pushed against the far well is a small bed that looks rather hard.  The
+linens are folded neatly at the foot of it with the small, down-filled
+pillow atop the pile.  A small, rickety nightstand sits next to the head of
+the bed and a wash basin and large pitcher sits across the room, a clean
+towel hanging from a hook on the wall beside it.  There is a small window
+over the head of the bed that gives a lovely view of the wall of the
+building next door.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5807
+S
+#5809
+An Ogier Room~
+Everything in this room seems much larger than normal.  An oversized bed
+made of sungwood lies against the wall and across from it sits a large
+bookcase covered in several old, dusty books.  An open window allows a cool
+breeze to flow through the room, causing the draperies to gently sway and
+flap out from the wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5807
+S
+#5810
+In the Hallway~
+A hole in the thin wall here provides a peek inside a small broom closet
+just on the other side through a spiderweb that's been spun over top of it. 
+The floor boards continue to creak and crack with every step.  If the halls
+are this dirty perhaps it isn't wise to stay in the rooms either.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 5807
+D3
+~
+~
+0 0
+0 0 5811
+S
+#5811
+In the Hallway~
+The long, dark hallway comes to an end here with a guest room both to
+the north and south and a very small sitting room to the west.  There is a
+small mouse hole along the base board near one of the doors and cobwebs hang
+over each door.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5812
+D1
+~
+~
+0 0
+0 0 5810
+D2
+~
+~
+3 3
+1 0 5813
+D3
+~
+~
+3 3
+1 0 5814
+S
+#5812
+A Larger Room~
+This room is slightly larger than the rest, with a much larger bed and a
+decent view of the city outside the window.  A nightstand sits on either
+side of the bed and a desk is shoved up against one wall while a large
+wardrobe is placed on the other side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5811
+S
+#5813
+A Grand Room~
+A huge bed is placed in the center of the far wall in this room, with the
+linens already put on the bed and the blankets turned down.  Two, wobbly
+nightstands sit on either side of the bed and two large wardrobes lean
+against the walls to either side.  A small writing desk sits near the door
+and a small bathtub is placed in the center of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5811
+S
+#5814
+A Sitting Room~
+A couple dusty bookcases are pushed back against the walls and several
+old books line the shelves.  Two large chairs, both ratty and torn sit in
+the middle of the room with a small, wobbly table placed in between them. 
+On the table, an old stones board sits and a few of the pieces seem to be
+missing.  The carpet in the room is worn through in places.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5811
+S
+#5815
+Before the {RW{ray{Dfa{Rrer{r's {RR{re{Dst{x~
+Swinging in the breeze, a weather-worn sign over the door of the inn
+depicts a striding man with a bundle on his back on one side and the same
+man with his head on a pillow on the other, and proclaims The {RW{ray{Dfa{Rrer{r's
+{RR{re{Dst{x.  The inn itself sits at the northern end of the town square where the
+foot of the {Wwhite bridge{x touches down.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 5801
+D2
+~
+~
+0 0
+0 0 5836
+S
+#5816
+Along Main Street~
+Shops of every description line the street and many tradesmen can be seen
+working out in front of their establishments beneath signs that sway in the
+wind.  Hawkers cry their services and try to push their wares on passers-by.
+Overhead, the White Bridge looms over this end of the street and casts shade
+over the ground and the loud clanging of metal can be heard further east.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5817
+D3
+~
+~
+0 0
+0 0 5836
+S
+#5817
+Along Main Street~
+The scent of molten metal is strong here and the loud clanging is louder
+as the armorer is to the north and the weapons shop is to the south.  People
+of every age roam the street here, dodging wagons and horses as they trudge
+their way down the busy main street.  Overhead, the famous {WWhite Bridge{x
+looms.  
+~
+0
+S 1
+D0
+~
+~
+3 3
+1 0 5818
+D1
+~
+~
+0 0
+0 0 5820
+D2
+~
+~
+3 3
+1 0 5819
+D3
+~
+~
+0 0
+0 0 5816
+S
+#5818
+Ye Olde Armour Shoppe~
+Several pieces of armor line the walls, either hanging or sitting in the
+floor.  A long counter lies along the northern part of the room with an old
+man standing behind it, occasionally shouting orders to the workers in the
+back.  Loud clanging can be heard from the back room as a few workers toil
+away.  
+~
+0
+S 0
+D2
+~
+~
+3 3
+1 0 5817
+S
+#5819
+Ye Olde Weapons Shoppe~
+Several weapons and fixed to the walls on display, while in the back a
+few apprentices toil away creating new or restoring old weaponry.  This shop
+smells of molten metals and some smoke wafts from the back room from the
+working area.  
+~
+0
+S 0
+D0
+~
+~
+3 3
+1 0 5817
+S
+#5820
+Along Main Street~
+People rush about, busy tending to their own business as a steady stream
+of merchants and hawkers seem to be coming from the east, wagons full of
+various items.  Back to the west is Town Square and onward to the east lies
+the merchants docks, just beneath the {WWhite Bridge{x.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5821
+D3
+~
+~
+0 0
+0 0 5817
+S
+#5821
+Gate to the Merchant's Docks~
+A steady stream of traffic flood the eastern gate that leads out onto
+the merchants docks and the {WWhite Bridge{x disappears over the top of the
+large walls on it's way out to the eastern shore.  Several sailors and
+merchants can be seen within the crowd.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5869
+D1
+~
+~
+3 3
+1 0 5871
+D2
+~
+~
+0 0
+0 0 5842
+D3
+~
+~
+0 0
+0 0 5820
+S
+#5822
+Along Main Street~
+The crowded stone street continues towards the western gate, just as busy
+as the opposite end of the street.  Here, the stone is chipped and cracked,
+a sign of years and years of traffic and low maintenance.  A few houses dot
+the street here but this end is mostly for peddlers wagons and street
+hawkers.  Back to the east lies the town square and the foot of the {WWhite
+{WBridge{x.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5823
+D1
+~
+~
+0 0
+0 0 5836
+D3
+~
+~
+0 0
+0 0 5824
+S
+#5823
+The {CF{co{Wun{wta{ci{Cn{x Yard~
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 5822
+S
+#5824
+Along Main Street~
+As the street continues it's path, several people take a turn to the
+south to visit the tiny park there, while others head towards the western
+gate.  Back to the east is the town square with the massive {WWhite Bridge{x
+looming over it.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5822
+D2
+~
+~
+0 0
+0 0 5825
+D3
+~
+~
+0 0
+0 0 5826
+S
+#5825
+Entrance to a Small Park~
+Small {Rr{ro{Rs{re {Gb{gu{Gs{gh{Ge{gs{x line the walkways here, the occasional {Gv{gi{Gn{ge{x covered
+bench resting in between them for people to relax on.  Overhead a large,
+{Dir{wo{Dn{x sign hangs, proclaiming this as the city park.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 5824
+D1
+~
+~
+0 0
+0 0 5835
+D2
+~
+~
+3 3
+1 0 5833
+D3
+~
+~
+0 0
+0 0 5832
+S
+#5826
+Along Main Street~
+The stones in the street seem to begin to thin out on this end, leaving
+huge ruts and puddles of mud in the spots lacking stones.  People here seem
+to be swarming towards the western gate.  Back to the east is the town
+square.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5824
+D3
+~
+~
+0 0
+0 0 5827
+S
+#5827
+The Western Gate~
+A pair of tall wooden gates stand here, connected at the top by a single
+suspension bridge.  A few guards march back and forth across it, watching
+the crowd below while several guardsmen on the ground question visitors and
+decide whether to let them pass or not.  The stones are completely gone here
+and the entire ground is like one large mudhole.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5857
+D1
+~
+~
+3 3
+1 0 5826
+D2
+~
+~
+0 0
+0 0 5856
+D9
+~
+~
+0 0
+0 0 49155
+S
+#5828
+Southeast Corner of the Park~
+The garden of {Wli{wli{Wes{x thin out and the path turns towards the west towards
+a small, wooden bridge.  From nearby, the soft chirping of birds can be
+heard and the gentle music of the crickets play in the background.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 5834
+D3
+~
+~
+0 0
+0 0 5829
+S
+#5829
+Over a Small Arch Bridge~
+A small, {ywooden{x arch bridge crosses over the {Cp{Wo{wn{Cd{x here towards the
+western corner of the park.  Below, tiny minnows frolic in the clear {Bb{bl{Bu{Be{x
+water, knocking over rocks and stirring up the dirt on the bottom of the
+{Cp{Wo{wn{Cd{x.  The rails and sides of the bridge have been created from intricate
+lattice work and a few creeping {Gv{gi{Gn{ge{Gs{x of {Mp{mu{Mr{mp{Ml{me {Mw{my{Ms{mt{Me{mr{Mi{ma{x twine their way
+through the holes, emitting a soft, relaxing scent.  
+~
+0
+S 2
+D1
+~
+~
+0 0
+0 0 5828
+D3
+~
+~
+0 0
+0 0 5830
+S
+#5830
+Southwest Corner of the Park~
+The lush {Gg{gr{Ge{ge{Gn {gg{Gr{ga{Gs{gs{x starts along the edges of the path here with various
+{Rw{Ci{Gl{Yd{Mf{Bl{Wo{Rw{Be{Yr{Gs{x dotting the sides of the path as it turns and continues to the
+north.  A {Wm{wa{Wr{wb{Wl{we{x bench sits near the corner of the walkway, leafy {Gv{gi{Gn{ge{Gs{x just
+starting to creep up its legs.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 5831
+D1
+~
+~
+0 0
+0 0 5829
+S
+#5831
+Tiptoeing Through the Tulips~
+Beautiful {YYo{ykoh{Yama{ys{x and {RRo{rco{Rcos{x line the path here, swaying lazily next
+to some {MN{me{Mg{mr{Mi{mt{Ma{ms{x and some {WB{marc{Welo{mnas{x.  The fresh floral scent filling the
+air and creating an almost dream like place within this tiny park.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 5832
+D2
+~
+~
+0 0
+0 0 5830
+S
+#5832
+Northwest Corner of the Park~
+Several small, {Rr{ro{Rs{re {Gb{gu{Gs{gh{Ge{gs{x line the sides of the path here, emitting a
+soft floral scent into the air.  The path runs east and south here.  
+~
+0
+S 2
+D1
+~
+~
+0 0
+0 0 5825
+D2
+~
+~
+0 0
+0 0 5831
+S
+#5833
+A Beautiful {CP{Wo{wn{Cd{x~
+The clear, blue water in the {Cp{Wo{cn{wd{x is quiet and still.  Even the gentle
+breeze that caresses it's surface doesn't seem to disturb it very much at
+all.  It is quiet here, with the soft chirping of birds and the soft murmurs
+of lovers as they stroll around the lake, hand in hand and doting on each
+other.  Near the shore, a few small children play together while their
+parents look on them with pride.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 5825
+S
+#5834
+Through a Garden of Lilies~
+White {WKyoto{x and {WIceberg{x lilies mixed with {YA{yp{Re{rl{Yd{yo{Ro{rr{Yn{x and {MB{me{Mr{mg{Ma{mm{Mo{x and
+{MC{Wa{Mr{Wt{Mo{Wu{Mc{Wh{Me{x {Wlilies{x line the path here, the flowers swaying gently in the soft
+breeze and seeming to quiver as a tiny, {Yg{yol{Yd{x butterfly kisses their blooms,
+one by one.  
+~
+0
+S 2
+D0
+~
+~
+0 0
+0 0 5835
+D2
+~
+~
+0 0
+0 0 5828
+S
+#5835
+Northeast Corner of the Park~
+The walkway continues to the south here with the {Rr{ro{Rs{re {Gb{gu{Gs{gh{Ge{gs{x ending and
+another small garden beginning.  A heavy floral scent hangs in the air and
+the grass seems so much greener and richer here than anywhere else in the
+city.  It is obvious that the caretaker of this place takes his work
+seriously.  
+~
+0
+S 2
+D2
+~
+~
+0 0
+0 0 5834
+D3
+~
+~
+0 0
+0 0 5825
+S
+#5836
+Town Square~
+The {WWhite Bridge{x ends in the center of the square.  The paved stones are
+worn from years of traffic and several inns, brick houses and shops of every
+kind surround the busy square.  The {WWhite Bridge{x leads up and to the east
+while Main Street runs east and west and a small Inn lies to the north.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5815
+D1
+~
+~
+0 0
+0 0 5816
+D2
+~
+~
+0 0
+0 0 5837
+D3
+~
+~
+0 0
+0 0 5822
+D4
+~
+~
+0 0
+0 0 5881
+S
+#5837
+Town Square South~
+With all of the goings on in the main square, this small, yet beautiful
+piece of the city is sometimes easily missed.  The paved stones on the
+ground are in tact and seem to be in fairly good condition.  A few small
+houses line the sidewalks and the medians of fresh, green grass in front of
+the houses are each dotted with brightly colored wildflowers.  Back to the
+north lies the Main Square while a small road leads to the south.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5836
+D2
+~
+~
+0 0
+0 0 5838
+S
+#5838
+Bend in the Road~
+The well paved stones seem to break up here and the few empty shops are
+dark and look as though they've been abandoned for some time.  Loud music
+can be heard coming from the darkness to the east and a few people seem to
+be disappearing into the alley, probably in search of that sound.  Back to
+the north lies the Town Squares of {w{WWhitebridge{x and the famous {w{Wbridge{x itself.
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5837
+D1
+~
+~
+0 0
+0 0 5839
+S
+#5839
+In a Dark Alley~
+This dimly lit walkway between two buildings doesn't appear to be the
+safest place for one to be roaming alone as several shady looking people
+seem to loiter here.  A blaring piano can be heard to the south, along with
+the cheers and loud laughter of a crowd of drunken locals.  A weatherworn
+sign hangs over the door and can barely be read by the dim lights.  It
+depicts several young women in red dresses kicking their legs up in dance
+and reads The {x{RD{ra{Rn{rc{Ri{rn{Rg L{ra{Rd{ry{x Inn just beneath.  The alley continues to the
+east towards the waterfront.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5841
+D2
+~
+~
+3 3
+1 0 5840
+D3
+~
+~
+0 0
+0 0 5838
+S
+#5840
+Common Room of The {x{RD{ra{Rn{rc{Ri{rn{Rg L{ra{Rd{ry{x Inn ~
+This small tavern is just bustling with activity with several girls
+dancing around the room and the bartender herself occasionally dancing along
+with them, all serving drinks to what appears to be a mostly male client
+base.  Music blares from a small piano in the corner as several of the
+patrons are engaged in dice games or flirting with the pretty dancing girls.
+~
+0
+S 0
+D0
+~
+~
+3 3
+1 0 5839
+S
+#5841
+Dark Alley~
+This dimly lit walkway between two buildings doesn't appear to be the
+safest place for one to be roaming alone as this seems to be the favored
+hiding place of various, shady looking people.  The torches that should be
+lighting this small alley flicker as if they're going to burn out completely
+at any moment.  To the east is the waterfront, while the alley continues to
+the west towards some very loud piano music.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5842
+D3
+~
+~
+0 0
+0 0 5839
+S
+#5842
+Along the Waterfront~
+The street turns into a dirt road here, with the railing overlooking the
+merchants docks below looking a little less taken care of than in the
+northern part of town.  A dark alley sits to the west, loud music blaring
+from it while the road itself continues to the south.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5821
+D2
+~
+~
+0 0
+0 0 5843
+D3
+~
+~
+0 0
+0 0 5841
+S
+#5843
+Along the Waterfront~
+As the road continues southward, the presence of people become fewer. 
+This road almost seems to be completely forgotten except for the occasional
+watchman and citizens that hurry down it.  The railing is completely gone
+here and seems unsafe for anyone standing near the edge to watch the goings
+on down on the docks.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5842
+D2
+~
+~
+0 0
+0 0 5844
+S
+#5844
+The Southern Road~
+The dirt road takes a sharp turn to the west here, again seeming to be
+almost forgotten.  The road bares a few deep ruts and a few blades of grass
+struggle to grow up between the broken shards of brick remaining in the
+ground.  Up ahead, a few guards can be seen wandering about looking for
+something to do.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5843
+D3
+~
+~
+0 0
+0 0 5845
+S
+#5845
+The Southern Road~
+The road continues westward towards the southern gate, and could be
+considered deserted except for the few guardsman wandering about looking
+bored.  Empty shops and a few small houses line the road here.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5844
+D2
+~
+~
+3 3
+1 0 5846
+D3
+~
+~
+0 0
+0 0 5847
+S
+#5846
+A Small House~
+This small house looks to be kept in good order and very clean and neat. 
+In the corner, a small cookstove warms a pot of hot water, probably for tea
+and in the opposite corner rests a small bed, with fresh linens placed
+neatly on it.  
+~
+0
+JS 0
+D0
+~
+~
+3 3
+1 0 5845
+S
+#5847
+The Southern Road~
+This road is eerily quiet and seems to continue on forever.  With the
+abandoned warehouses and homes in this part of town, this section is almost
+spooky.  Every footstep can be heard in the dead, still air as if the owner
+were stomping loudly trying to get attention.  Perhaps there are some people
+up ahead?  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5845
+D3
+~
+~
+0 0
+0 0 5848
+S
+#5848
+The Southern Road~
+This road is eerily quiet and seems to continue on forever.  With the
+abandoned warehouses and homes in this part of town, this section is almost
+spooky.  Every footstep can be heard in the dead, still air as if the owner
+were stomping loudly trying to get attention.  Perhaps there are some people
+up ahead?  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5847
+D2
+~
+~
+3 3
+1 0 5849
+D3
+~
+~
+0 0
+0 0 5850
+S
+#5849
+{x{WWhitebridge Jewelers{x~
+The flooring here is carpeted with a soft, plush carpeting that appears
+to be well cared for.  Several mirrors line the eastern wall, while on the
+western wall lies a long, glass counter which contains jewelry of all types.
+A few men and women are in this small shop admiring the merchandise, some
+are young couples more than likely looking for wedding trinkets.  
+~
+0
+S 0
+D0
+~
+~
+3 3
+1 0 5848
+S
+#5850
+The Southern Gate~
+There is a small crowd of people here, mostly just local farmers and
+merchants making their way into the city and a few, bored-looking gate and
+city guards.  This road continues east to the waterfront and west to the
+wall.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5848
+D3
+~
+~
+3 3
+1 0 5870
+D8
+~
+~
+0 0
+0 0 49155
+S
+#5851
+Pet Shop~
+The heavy scent of cedar fills the air in this small shop, as a large bag
+of cedar chips rests in the corner, half of its contents lining the cages
+that the animals live in.  A few small kittens play with balls of yarn while
+two little black puppies romp and bite each other in play.  Towards the back
+corner is perched a beautiful blue bird, singing a sweet song.  
+~
+0
+MS 0
+D0
+~
+~
+3 3
+1 0 5870
+S
+#5852
+Pet Shop Warehouse~
+~
+0
+CS 0
+S
+#5853
+The Southern Road~
+The road continues eastward towards the southern gate, and could be
+considered deserted except for the few guardsman wandering about looking
+bored.  Empty shops and a few small houses line the road here.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5870
+D3
+~
+~
+0 0
+0 0 5854
+S
+#5854
+The Southern Road~
+The dirt road takes a sharp turn to the east here, again seeming to be
+almost forgotten.  The road bares a few deep ruts and a few blades of grass
+struggle to grow up between the broken shards of brick remaining in the
+ground.  Up ahead, a few guards can be seen wandering about looking for
+something to do.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5855
+D1
+~
+~
+0 0
+0 0 5853
+S
+#5855
+The Western Wall~
+The noise of main street seems to die down somewhat here as the road
+nears the southern wall.  The cobblestone street has broken up a little here
+and several blades of grass are peeking through the open cracks.  The road
+doesn't appear to be as rutted here, perhaps it isn't used all that often?  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5856
+D2
+~
+~
+0 0
+0 0 5854
+S
+#5856
+The Western Wall~
+The cobblestone road continues south and is lined with a few empty shops
+and warehouses.  A few people dot the road here and there, sometimes just
+couples walking hand in hand and the occasional merchant traveling south. 
+Back to the north is the western gate and the busy main street.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5827
+D2
+~
+~
+0 0
+0 0 5855
+S
+#5857
+Along the Western Wall~
+The cobblestone road continues north and is lined with a few empty shops
+and warehouses.  A few people dot the road here and there, sometimes just
+couples walking hand in hand and the occasional merchant traveling north. 
+Back to the south is the western gate and the busy main street.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5859
+D1
+~
+~
+0 0
+0 0 5858
+D2
+~
+~
+0 0
+0 0 5827
+S
+#5858
+Bakery~
+The scent of fresh baked goods fills the air inside this small shop.  It
+is quite warm in here with all the ovens burning at the same time, and all
+along the counters lie several yummy looking pastries and baked breads.  An
+older woman hums cheerfully as she rolls out a ball of dough with a large
+rolling pin.  
+~
+0
+S 0
+D3
+~
+~
+0 0
+0 0 5857
+S
+#5859
+Along the Western Wall~
+The noise of main street seems to die down somewhat here as the road
+nears the northern wall.  The cobblestone street has broken up a little here
+and several blades of grass are peeking through the open cracks.  The road
+doesn't appear to be as rutted here, perhaps it isn't used all that often?  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5860
+D2
+~
+~
+0 0
+0 0 5857
+S
+#5860
+The Northern Road~
+The northern road takes a turn to the south here and makes its way
+towards the western gate.  Throngs of people make their way towards the
+gate, citizens and merchants alike.  Some stopping along the way to chat
+with each other briefly.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5861
+D2
+~
+~
+0 0
+0 0 5859
+S
+#5861
+The Northern Road~
+The cobblestones seem to disappear here and are replaced by deep, nasty
+looking wagon ruts.  A few of the ruts have collected water and have formed
+large mud holes on different parts of the street.  This must be where most
+of the carts and wagons enter the city since there is both dried and fresh
+horse messes about the place.  The mess isn't ignored though as a couple
+young men are walking about, trying to clean it up out of the street.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5862
+D3
+~
+~
+0 0
+0 0 5860
+S
+#5862
+The Northern Road~
+There seem to be quite a few more people here than on the end of the
+street, though most do seem to be making thier way to the north gate just
+ahead.  A few watchman roam from person to person here, stopping briefly to
+talk with them before moving on.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5863
+D3
+~
+~
+0 0
+0 0 5861
+S
+#5863
+The North Gate~
+There is a small crowd of people here, mostly just local farmers and
+merchants making their way into the city and a few, bored-looking gate and
+city guards.  This road continues east to the waterfront and west to the
+wall.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5864
+D3
+~
+~
+0 0
+0 0 5862
+D6
+~
+~
+0 0
+0 0 49155
+S
+#5864
+The Northern Road~
+There seem to be quite a few more people here than on the end of the
+street, though most do seem to be making thier way to the north gate just
+ahead.  A few watchman roam from person to person here, stopping briefly to
+talk with them before moving on.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5865
+D3
+~
+~
+0 0
+0 0 5863
+S
+#5865
+The Northern Road~
+The cobblestones seem to disappear here and are replaced by deep, nasty
+looking wagon ruts.  A few of the ruts have collected water and have formed
+large mud holes on different parts of the street.  This must be where most
+of the carts and wagons enter the city since there is both dried and fresh
+horse messes about the place.  The mess isn't ignored though as a couple
+young men are walking about, trying to clean it up out of the street.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5866
+D2
+~
+~
+0 0
+0 0 5897
+D3
+~
+~
+0 0
+0 0 5864
+S
+#5866
+The Northern Road~
+The northern road takes a turn to the south here, overlooking the docks
+and the Manetherndrelle River below.  Throngs of people make their way
+towards the gate, citizens and merchants alike.  Some stopping along the way
+to chat with each other briefly.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 5867
+D3
+~
+~
+0 0
+0 0 5865
+S
+#5867
+Along the Waterfront~
+More people seem to be headed south towards Main Street, though some do
+break from the crowd to visit the small butcher shop to the west.  Over the
+side of the wall, the docks can be seen, cluttered with several boats of all
+types, loading and unloading their cargo while merchants and sailors rush
+about trying to get their chores done.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5866
+D2
+~
+~
+0 0
+0 0 5869
+D3
+~
+~
+3 3
+1 0 5868
+S
+#5868
+The Butcher Shop~
+Several skinned animals are hanging from meat hooks around the walls and
+in the center, towards the rear of the store, an older looking man is
+grinding some sort of meat for sausages.  The shop, though clean, still
+reeks with the smell of blood.  
+~
+0
+S 0
+D1
+~
+~
+3 3
+1 0 5867
+S
+#5869
+Along the Waterfront~
+Just ahead a crowd of people can be seen trying to make their way through
+the gates to the merchants docks.  The street itself is rather worn here
+with the bricks lining it becoming more and more sparse, showing signs of
+many years worth of traffic.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5867
+D2
+~
+~
+0 0
+0 0 5821
+S
+#5870
+The Southern Road~
+The south road continues west towards the southern gate and then back to
+the east towards the waterfront.  Very little seems to happen this far from
+the main square of town, as the guards and townfolk who wander the street
+appear to be very bored.  Just to the south is a small jewelery shop.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5850
+D2
+~
+~
+3 3
+1 0 5851
+D3
+~
+~
+0 0
+0 0 5853
+S
+#5871
+On a Creaky Wooden Pier~
+The wood creaks beneath every footstep and the dock itself bobs up and
+down on the surface of the Manetherendrelle, causing several of the
+merchants to have to calm their horses to get them to move on to where
+they're going.  A few of the smaller boats are docked here and ship captains
+and sailors make their way onto shore, carrying large crates and barrels.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5872
+D2
+~
+~
+0 0
+0 0 5873
+D3
+~
+~
+3 3
+1 0 5821
+S
+#5872
+Merchants Dock North~
+Across the Manetherendrelle, the eastern docks can be seen, each pier
+bobbing up and down lazily on the clear blue water.  Several ships dot the
+waters here, each waiting for their turn to dock and unload.  Merchants wait
+for their merchandise to be loaded or unloaded and a few townfolk wait
+anxiously for that long lost relative to step off the boat and onto shore.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 5871
+S
+#5873
+Merchant Dock South~
+Several horses are tied to a post here while their owners speak with the
+sailors or the ship captains themselves, probably trying to barter passage
+down the river.  The docks are bustling with activity and the pace of the
+area is fast as merchants and captains shout very different orders to the
+sailors, who are running around and carting crates and barrels.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5871
+S
+#5874
+White Bridge at the Docks~
+The legendary {WWhite Bridge{x arches high over the wide waters of the River
+Mantherendrelle and stands twice as high as any of the ships' masts.  From
+end to end it gleams milky white in the sunlight, seeming to gather the
+light until it glows.  Spidery piers of the same material plunge down into
+the strong currents of the river, appearing too frail to support the weight
+and width of the bridge.  The bridge itself leads to the town of Whitebridge
+on the western shore.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5882
+D1
+~
+~
+0 0
+0 0 5889
+D2
+~
+~
+0 0
+0 0 5885
+D4
+~
+~
+0 0
+0 0 5875
+S
+#5875
+Over the Mantherendrelle~
+The glowing {WWhite Bridge{x stretches across the river towards town, it's
+surface shimmering as the light hits it.  Though the surface is smooth, it
+is not as frictionless as it appears, another strange quality about the
+monument.  It looks to be all of one piece, as though it had been carved out
+of one large stone or shaped by a giant's hand.  The River Manetherendrelle
+flows just below and on to the west lies the town of Whitebridge.  
+~
+0
+S 1
+D4
+~
+~
+0 0
+0 0 5876
+D5
+~
+~
+0 0
+0 0 5874
+S
+#5876
+Over the Manetherendrelle~
+Broad and tall, the {WWhite Bridge{x leaps across the Manetherendrelle
+towards the town with an airy grace that could easily cause one to forget
+about its size.  Wooden docks dot the Manetherendrelle below like tiny
+wooden fingers and small boats line the waters thickly with fishermen
+hauling their nets.  
+~
+0
+S 1
+D3
+~
+~
+0 0
+0 0 5877
+D5
+~
+~
+0 0
+0 0 5875
+S
+#5877
+Atop the White Bridge~
+The surface of the {WWhite Bridge{x gleams in the sunlight as it stretches
+across the river below and into the town.  All around are sailors and
+merchants carrying their wares and cargo to and from the ships below.  East
+is the docks and further on west is the town of Whitebridge.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5876
+D3
+~
+~
+0 0
+0 0 5878
+S
+#5878
+Atop the White Bridge~
+The {x{WWhite Bridge{x continues on to the west.  Stretching gracefully across
+the River Manetherendrelle and into the town of {x{WWhitebridge{x.  Below, in the
+the river, several boats are busy docking or preparing to dock while the
+western dock is lined with merchants and sailors alike, all preparing to
+both load and unload their wares.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5877
+D3
+~
+~
+0 0
+0 0 5879
+S
+#5879
+White Bridge Over Town~
+Looking out over the sides of the {x{Wbridge{x, several smokestacks and
+rooftops can be seen as the {x{Wbridge{x and all it's glory passes over the tall
+eastern gates and into town.  Just ahead, the road begins to slope down
+towards the main square of the town of {x{WWhitebridge{x.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5878
+D3
+~
+~
+0 0
+0 0 5880
+S
+#5880
+The White Bridge Over Town~
+The {x{WWhite Bridge{x stretches itself completely over the eastern end of main
+street, where throngs of people are rushing about tending to their everyday
+business.  Blacksmiths working diligently within their forges, while a few
+street hawkers can be heard crying out to the people to buy their wares.  A
+few small children play around their mother's ankles while their fathers try
+to haggle with the nearest shopkeeper for a good deal.  
+~
+0
+S 1
+D1
+~
+~
+0 0
+0 0 5879
+D5
+~
+~
+0 0
+0 0 5881
+S
+#5881
+Coming into Town~
+Just ahead and down, the foot of the famous {x{WWhite Bridge{x touches down
+into the very center of the main square.  All around are inns and shops, all
+crowded with people and merchants.  Horses towing carts make their way
+through the street while being led by their owners.  
+~
+0
+S 1
+D4
+~
+~
+0 0
+0 0 5880
+D5
+~
+~
+0 0
+0 0 5836
+S
+#5882
+The Eastern Docks~
+The dock is busy, loaded down with carts and horses and people alike and
+all running about trying to get their affairs in order to depart or arrive. 
+It's a wonder that the dock, only floating atop the cool waters of the River
+Manetherendrelle, can even support all of this weight.  Overhead, the
+glorious {x{WWhite Bridge{x stretches towards the town to the west, casting a cool
+shade over the area.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5883
+D2
+~
+~
+0 0
+0 0 5874
+S
+#5883
+The Eastern Docks~
+Several merchants and sailors are gathered here and the place is almost
+like a madhouse as every person scurries about to load and unload precious
+cargo from one ship or another.  Above, the {x{WWhite Bridge{x gleams in the
+sunlight.  
+~
+0
+S 1
+D2
+~
+~
+0 0
+0 0 5882
+D3
+~
+~
+0 0
+0 0 5884
+S
+#5884
+A Small Room off the Docks~
+This probably used to be a storage room at one point, given the room is
+full of empty crates and barrels and everything is covered in dust.  As of
+now, the only thing this room is full of is a bunch of rowdy sailors, happy
+to have gotten shore leave for once.  
+~
+0
+S 0
+D1
+~
+~
+0 0
+0 0 5883
+S
+#5885
+The Eastern Docks~
+The dock is busy, loaded down with carts and horses and people alike and
+all running about trying to get their affairs in order to depart or arrive. 
+It's a wonder that the dock, only floating atop the cool waters of the River
+Manetherendrelle, can even support all of this weight.  Overhead, the
+glorious {x{WWhite Bridge{x stretches towards the town to the west, casting a cool
+shade over the area.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5874
+D2
+~
+~
+0 0
+0 0 5886
+S
+#5886
+The Eastern Docks~
+Several merchants and sailors are gathered here and the place is almost
+like a madhouse as every person scurries about to load and unload precious
+cargo from one ship or another.  Above, the {x{WWhite Bridge{x gleams in the
+sunlight.  
+~
+0
+S 1
+D0
+~
+~
+0 0
+0 0 5885
+D3
+~
+~
+0 0
+0 0 5887
+S
+#5887
+End of the Pier~
+The end of the pier floats and bobs atop the waters of the River
+Manetherndrelle.  Out on the river itself, several skiffs and larger ships
+wait thier turns to dock and overhead the awesome sight of the {x{WWhite Bridge{x
+looms.  
+~
+0
+S 0
+D1
+~
+~
+0 0
+0 0 5886
+D2
+~
+~
+0 0
+0 0 5888
+S
+#5888
+An Abandoned Storeroom~
+Dust covers every barrel and every crate in this small room, and the
+floor creeks and crackles beneath every step as if it is ready to give out
+at any moment.  The room is lit only by a dying flame on the tip of a melted
+candle stick.  
+~
+0
+S 0
+D0
+~
+~
+0 0
+0 0 5887
+S
+#5889
+Path Outside of Whitebridge~
+The air is filled with the scent of pine and fir as each of these trees
+stretch their long, green branches out over this beaten down path through
+tall grass.  To the west lies the River Manetherendrelle.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 5890
+D3
+~
+~
+0 0
+0 0 5874
+S
+#5890
+A Beaten Path~
+The path is nothing more than the remains of tall grass that has been
+pushed aside and broken in half.  A large forest spreads out to the sides,
+only thickening as the path continues on.  The sound of trickling water
+comes from the south while to the west lies the River Manetherendrelle and
+the path continues to the east.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 5892
+D2
+~
+~
+0 0
+0 0 5891
+D3
+~
+~
+0 0
+0 0 5889
+S
+#5891
+Off the Beaten Path~
+This area seems to have been cleared out as it is completely devoid of
+any debris or clutter.  In the center of a small ring of bushes and flowing
+from a short hill is a small waterfall.  It is so small that it makes more
+of a trickling sound that the large crashing sound one much larger would
+make.  Though it does seem to come from nowhere, it does seem clean enough
+to drink.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 5890
+S
+#5892
+A Beaten Path~
+The path seems to cut off here and one could walk straight out into the
+trees or take a turn north.  Back to the west, this path leads back to the
+River Manetherendrelle and the town of {x{WWhite Bridge{x.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 5893
+D3
+~
+~
+0 0
+0 0 5890
+D7
+~
+~
+0 0
+0 0 49155
+S
+#5893
+A Dark Room~
+The smell of scorched candle wax and mildew hangs heavy in the air and
+the walls feel slimy.  The floor doesn't seem to be in much better
+condition.  It appears to be full of holes and what's left of it is just as
+slippery and slimy as the walls.  There doesn't seem to be a way back so
+it's probably best to just keep moving forward, or down in this case.  
+~
+0
+AT 0
+D5
+~
+~
+3 3
+1 0 5894
+S
+#5894
+A Dark Stairwell~
+This particular room doesn't seem to be in any better condition than the
+last, though it probably is safer since it is at the bottom of the stairs. 
+The mildew smell seems stronger here and all over the walls crawl several
+insects.  To the east lies a door with a soft glow coming from behind it.  
+~
+0
+AT 0
+D1
+~
+~
+3 3
+1 0 5895
+D4
+~
+~
+3 3
+1 0 5893
+S
+#5895
+Inside a Very Large Tree~
+Something that resembles sawdust covers the floor here and makes soft
+crunching noises beneath every step.  The substance not only covers the
+floor, but also every piece of furniture inside this place from the small,
+rickety desk on one side to the tiny little bed opposite.  Several doors
+line the walls, leading off to destinations unknown.  
+~
+0
+CTU 0
+D0
+~
+~
+3 3
+1 0 5877
+D1
+~
+~
+3 3
+1 0 5850
+D2
+~
+~
+3 3
+1 0 5833
+D3
+~
+~
+3 3
+1 0 5827
+D4
+~
+~
+3 3
+1 0 5863
+D5
+~
+~
+3 3
+1 0 5892
+S
+#5896
+Questmaster's Stash~
+Here Zandor! *beam* Lookit all da pretty things!
+~
+0
+C 0
+S
+#5897
+{x{BF{bi{Wr{bs{Bt {WB{Ba{Wn{Bk{x of {WWhitebridge{x~
+The air inside is warm and smells strongly of {x{ypu{Ym{rp{Yk{yin sp{ri{yce{x.  A thick,
+royal {x{rred{x carpet covers the floor and several pale {x{Yye{Wll{Yow{x candles give off a
+warm glow from different areas of the room.  A large, {x{Ds{wt{De{we{Dl{x vault lies
+against the southern wall and a small sign rests on the top of the long
+counter in front of it.  
+~
+0
+S 0
+D0
+~
+~
+0 0
+0 0 5865
+S
+#0
+
+
+
+#SPECIALS
+M 5806 spec_fido
+M 5836 spec_executioner
+M 5895 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 5800 2 1
+D 0 5801 0 1
+D 0 5801 1 1
+D 0 5801 2 1
+D 0 5802 3 1
+D 0 5804 4 1
+D 0 5805 4 1
+D 0 5805 5 1
+D 0 5806 5 1
+D 0 5807 0 1
+D 0 5807 2 1
+D 0 5808 2 1
+D 0 5809 0 1
+D 0 5811 0 1
+D 0 5811 2 1
+D 0 5811 3 1
+D 0 5812 2 1
+D 0 5813 0 1
+D 0 5814 1 1
+D 0 5815 0 1
+D 0 5817 0 1
+D 0 5817 2 1
+D 0 5818 2 1
+D 0 5819 0 1
+D 0 5821 1 1
+D 0 5825 2 1
+D 0 5827 1 1
+D 0 5839 2 1
+D 0 5840 0 1
+D 0 5845 2 1
+D 0 5846 0 1
+D 0 5848 2 1
+D 0 5849 0 1
+D 0 5850 3 1
+D 0 5851 0 1
+D 0 5867 3 1
+D 0 5868 1 1
+D 0 5870 2 1
+D 0 5871 3 1
+D 0 5893 5 1
+D 0 5894 1 1
+D 0 5894 4 1
+D 0 5895 0 1
+D 0 5895 1 1
+D 0 5895 2 1
+D 0 5895 3 1
+D 0 5895 4 1
+D 0 5895 5 1
+O 0 5800 0 5800
+M 0 5800 1 5800 1
+M 0 5801 1 5801 1
+G 0 5840 0
+G 0 5842 0
+G 0 5843 0
+G 0 5844 0
+G 0 5845 0
+G 0 5847 0
+G 0 5848 0
+O 0 5861 0 5801
+M 0 5817 4 5807 2
+E 0 5892 0 19
+E 0 5892 0 19
+M 0 5817 4 5811 2
+E 0 5892 0 19
+M 0 5816 1 5816 1
+G 0 5816 0
+G 0 5825 0
+G 0 5832 0
+G 0 5863 0
+M 0 5806 12 5816 2
+M 0 5807 12 5817 2
+M 0 5808 12 5817 2
+M 0 5818 1 5818 1
+G 0 5802 0
+G 0 5803 0
+G 0 5804 0
+G 0 5805 0
+G 0 5807 0
+G 0 5817 0
+M 0 5819 1 5819 1
+G 0 5808 0
+G 0 5809 0
+G 0 5810 0
+G 0 5811 0
+G 0 5812 0
+G 0 5813 0
+G 0 5814 0
+M 0 5806 12 5820 2
+M 0 5815 40 5821 4
+E 0 5828 0 0
+E 0 5857 0 20
+E 0 5822 0 5
+E 0 5826 0 6
+M 0 5808 12 5821 2
+M 0 5814 6 5821 24
+E 0 5870 0 15
+E 0 5869 0 20
+E 0 5871 0 10
+O 0 5818 0 5823
+M 0 5808 12 5824 2
+M 0 5809 12 5824 2
+M 0 5808 12 5825 2
+M 0 5815 40 5827 4
+E 0 5857 0 20
+E 0 5828 0 0
+E 0 5829 0 7
+E 0 5862 0 14
+M 0 5809 12 5827 2
+M 0 5814 6 5827 24
+E 0 5869 0 20
+E 0 5872 0 13
+E 0 5873 0 9
+O 0 5866 0 5828
+M 0 5815 40 5829 4
+E 0 5828 0 0
+E 0 5857 0 20
+E 0 5853 0 13
+E 0 5856 0 16
+E 0 5854 0 17
+E 0 5854 0 18
+M 0 5804 1 5830 1
+G 0 5864 0
+M 0 5805 1 5830 1
+E 0 5865 0 4
+O 0 5866 0 5830
+O 0 5866 0 5832
+O 0 5833 0 5833
+M 0 5812 1 5833 1
+M 0 5813 1 5833 1
+O 0 5866 0 5835
+M 0 5836 1 5836 1
+E 0 5836 0 20
+M 0 5806 12 5836 2
+M 0 5807 12 5836 2
+M 0 5810 6 5837 2
+E 0 5868 0 19
+M 0 5807 12 5839 2
+M 0 5840 1 5840 1
+G 0 5849 0
+G 0 5850 0
+G 0 5851 0
+M 0 5802 4 5840 4
+E 0 5855 0 9
+E 0 5858 0 7
+M 0 5803 4 5840 4
+E 0 5859 0 15
+E 0 5860 0 16
+O 0 5861 0 5840
+M 0 5841 6 5841 3
+E 0 5852 0 20
+M 0 5807 12 5841 2
+M 0 5806 12 5843 2
+M 0 5807 12 5843 2
+O 0 5874 0 5846
+M 0 5807 12 5847 2
+M 0 5806 12 5848 2
+M 0 5849 1 5849 1
+G 0 5883 0
+G 0 5884 0
+G 0 5885 0
+G 0 5886 0
+G 0 5887 0
+G 0 5888 0
+G 0 5889 0
+G 0 5890 0
+G 0 5891 0
+M 0 5815 40 5850 4
+E 0 5835 0 8
+E 0 5806 0 9
+E 0 5828 0 0
+E 0 5857 0 20
+M 0 5814 6 5850 24
+E 0 5869 0 20
+E 0 5870 0 15
+E 0 5871 0 10
+M 0 5851 1 5851 1
+M 0 5853 5 5852 1
+M 0 5852 5 5852 1
+M 0 5870 5 5852 1
+M 0 5808 12 5853 2
+M 0 5809 12 5853 2
+M 0 5806 12 5855 2
+M 0 5809 12 5855 2
+M 0 5809 12 5856 2
+M 0 5858 1 5858 1
+G 0 5819 0
+G 0 5820 0
+G 0 5821 0
+G 0 5823 0
+M 0 5806 12 5859 2
+M 0 5808 12 5859 2
+M 0 5807 12 5860 2
+M 0 5808 12 5860 2
+M 0 5806 12 5862 2
+M 0 5808 12 5862 2
+M 0 5809 12 5862 2
+M 0 5815 40 5863 4
+E 0 5828 0 0
+E 0 5857 0 20
+E 0 5815 0 10
+E 0 5824 0 11
+E 0 5838 0 12
+M 0 5814 6 5863 24
+E 0 5869 0 20
+E 0 5872 0 13
+E 0 5873 0 9
+M 0 5807 12 5864 2
+M 0 5806 12 5867 2
+M 0 5868 1 5868 1
+G 0 5827 0
+G 0 5831 0
+G 0 5834 0
+G 0 5837 0
+M 0 5807 12 5869 2
+M 0 5820 1 5871 1
+M 0 5879 20 5879 4
+E 0 5879 0 5
+M 0 5809 12 5880 2
+M 0 5811 1 5888 1
+O 0 5875 0 5891
+M 0 5896 2 5893 1
+M 0 5896 2 5894 1
+M 0 5895 1 5895 1
+O 0 5867 0 5895
+E 0 5876 0 5
+E 0 5877 0 20
+E 0 5878 0 26
+E 0 5880 0 19
+E 0 5881 0 10
+E 0 5882 0 15
+E 0 5893 0 1
+E 0 5894 0 2
+E 0 5895 0 25
+O 0 5990 0 5895
+O 0 5876 0 5896
+O 0 5877 0 5896
+O 0 5878 0 5896
+O 0 5880 0 5896
+O 0 5881 0 5896
+O 0 5882 0 5896
+M 0 5990 1 5897 1
+O 0 5991 0 5897
+S
+
+
+
+#SHOPS
+5801 0 0 0 0 0 100 25 0 24
+5816 0 0 0 0 0 100 50 0 24
+5818 0 0 9 0 0 100 25 0 24
+5819 0 5 0 0 0 100 25 0 24
+5840 0 0 0 0 0 100 25 0 24
+5846 0 0 0 0 0 50 100 0 24
+5849 0 0 0 0 33 100 25 0 23
+5851 0 0 0 0 0 100 25 0 24
+5858 0 0 0 19 0 100 25 0 24
+5868 0 0 0 19 0 100 25 0 24
+0
+
+
+
+#$

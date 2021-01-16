@@ -1,0 +1,2965 @@
+#AREADATA
+Name Carysford~
+Builders Oniren~
+VNUMs 1000 1099
+Credits None~
+Security 5
+Low 0
+High 10
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1000
+beady eyed mouse~
+a {ymouse{x~
+A {Db{we{Wady-ey{we{Dd{y mouse{x can be seen scurrying around the cellar.
+~
+~
+rabbit~
+AB 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off FH
+#1001
+scruffy brown dog~
+a {ybr{Do{ywn d{Do{yg{x~
+A scruffy {ybr{Do{ywn d{Do{yg{x is sniffing at the ground for scraps of food.
+~
+~
+dog~
+AGW 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#1002
+sleek black cat~
+a {Dblack cat{x~
+A sleek {Dblack cat{x is prowling around its territory.
+~
+~
+cat~
+AGW J 0 0
+11 1 6d6+121 11d10+100 2d3+5 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+#1003
+gray pigeon~
+a {Wpig{weo{Dn{x~
+A {Dg{wr{Way pig{weo{Dn{x waddles around the area, pecking at crumbs left upon the ground.
+~
+~
+song bird~
+AGW 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff T
+F off FH
+#1004
+little girl~
+a {ml{Mit{Wtle g{Mir{ml{x~
+A {ml{Mit{Wtle g{Mir{ml{x is here playing amongst her friends.
+~
+~
+andoran~
+AGSW 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand female 15
+0 0 small 'unknown'
+#1005
+little boy~
+a {cl{Cit{Wtle b{Co{cy{x~
+A mischievous {cl{Cit{Wtle b{Co{cy{x is running around the area.
+~
+~
+andoran~
+AGTW 0 0 0
+11 1 6d6+121 11d10+100 2d3+5 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand male 15
+0 0 small 'unknown'
+#1006
+villager~
+a {gv{Gi{Wllag{Ge{gr{x~
+A {gv{Gi{Wllag{Ge{gr{x hurries on by as they attend to their daily errands.
+~
+~
+andoran~
+AGTW 0 0 0
+12 2 7d8+144 12d10+100 2d4+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#1007
+villager~
+a {gv{Gi{Wllag{Ge{gr{x~
+A {gv{Gi{Wllag{Ge{gr{x stops to gossip with one of their neighbors.
+~
+~
+andoran~
+AGSW 0 0 0
+12 2 7d8+144 12d10+100 2d4+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand female 20
+0 0 medium 'unknown'
+#1008
+shopkeeper~
+the {ms{Mh{Wopkeep{Me{mr{x~
+The {ms{Mh{Wopkeep{Me{mr{x is sat in a {yr{Do{ycki{Dn{yg c{Dh{ya{Di{yr{x at the back of the shop, warily eyeing any strangers.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 A 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#1009
+shopkeeper~
+the {gs{Gho{Ypkee{Gpe{gr{x~
+The {gs{Gho{Ypkee{Gpe{gr{x is stood behind the counter, polishing a {Ds{wt{We{we{Dl{x {Ds{wh{Wie{wl{Dd{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 A 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#1010
+shopkeeper~
+the {bs{Bho{cpkee{Bpe{br{x~
+The {bs{Bho{cpkee{Bpe{br{x seems preoccupied with tidying the display in the shop's window.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 A 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#1011
+kindly old lady wisdom~
+the {DW{wi{Wsd{wo{Dm{x~
+A kindly {Do{wl{Wd la{wd{Dy{x is busy reorganizing the glass jars on one of the shelves.
+~
+~
+andoran~
+ABQa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+100 100 100 100 100
+A
+7 7 7 7
+0 A 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#1012
+peddler~
+the {bp{ce{gddl{ce{br{x~
+A {bp{ce{gddl{ce{br{x is busy unhitching his {Dh{wo{yrs{we{Ds{x from the {mc{rol{yor{rfu{ml w{ra{yg{ro{mn{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 A 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#1013
+villager~
+a {gv{Gi{Wllag{Ge{gr{x~
+A {gv{Gi{Wllag{Ge{gr{x whistles a merry tune as they stroll along.
+~
+~
+andoran~
+AGTW 0 0 0
+12 2 7d8+144 12d10+100 2d4+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#1014
+blacksmith~
+the {Db{mlacksmit{Dh{x~
+The {Db{mlacksmit{Dh{x pauses to wipe the sweat from his brow before continuing his work.
+~
+~
+andoran~
+ABEK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 A 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#1015
+elderly man~
+an {ge{Gl{Wderly m{Ga{gn{x~
+An {ge{Gl{Wderly m{Ga{gn{x is warming himself beside the fire.
+~
+~
+andoran~
+ABS d 0 0
+13 3 7d7+169 13d10+100 2d5+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1016
+elderly woman~
+an {ge{Gl{Wderly wom{Ga{gn{x~
+An {ge{Gl{Wderly wom{Ga{gn{x is busy baking a cake.
+~
+~
+andoran~
+ABT d 0 0
+13 3 7d7+169 13d10+100 2d5+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#1017
+young man~
+a {gy{Go{Wung m{Ga{gn{x~
+A {gy{Go{Wung m{Ga{gn{x grumbles to himself as he sweeps the floor.
+~
+~
+andoran~
+ABS 0 0 0
+13 3 7d7+169 13d10+100 2d5+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1018
+young woman~
+a {gy{Go{Wung wom{Ga{gn{x~
+A {gy{Go{Wung wom{Ga{gn{x is tending to a stew cooking above the fire.
+~
+~
+andoran~
+ABT 0 0 0
+13 3 7d7+169 13d10+100 2d5+6 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#1019
+horse scruffy~
+a {Dh{yo{wr{ys{De{x~
+A {Ds{ytal{Dl{x in the back of the barn is home to a scruffy-looking {Dh{yo{wr{ys{De{x.
+~
+~
+rabbit~
+AB 0 0 0
+13 3 7d7+169 13d10+100 2d5+6 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off FH
+#1020
+horse scruffy~
+a {Dh{yo{wr{ys{De{x~
+A scruffy-looking {Dh{yo{wr{ys{De{x is waiting patiently for its master.
+~
+~
+rabbit~
+AIZ 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 0
+0 0 large 'unknown'
+#1021
+ostler~
+an {co{ws{Wtl{we{cr{x~
+An {co{ws{Wtl{we{cr{x is busy sweeping the floor of the barn.
+~
+~
+andoran~
+ABT 0 0 0
+14 4 8d9+196 14d10+100 2d6+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1022
+skinny chef~
+a {Ds{wk{Winny ch{we{Df{x~
+A {Ds{wk{Winny ch{we{Df{x hurries around the kitchen, cooking food.
+~
+~
+andoran~
+ABT 0 0 0
+14 4 8d9+196 14d10+100 2d6+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1023
+drunken cook~
+a {Dd{wr{Wunken co{wo{Dk{x~
+A {Dd{wr{Wunken co{wo{Dk{x is staggering around the kitchen, swigging from a bottle of cooking sherry.
+~
+~
+andoran~
+ABS 0 0 0
+14 4 8d9+196 14d10+100 2d6+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#1024
+innkeeper~
+the {ci{Cn{Wnkeep{Ce{cr{x~
+The {ci{Cn{Wnkeep{Ce{cr{x stands behind the bar, spitting into a tankard and then cleaning it with his sleeve.
+~
+~
+andoran~
+ABT 0 0 0
+14 4 8d9+196 14d10+100 2d6+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand male 45
+0 0 medium 'unknown'
+#1025
+innkeeper~
+the {ci{Cn{Wnkeep{Ce{cr{x~
+The {ci{Cn{Wnkeep{Ce{cr{x is stood behind the bar, counting his money.
+~
+~
+andoran~
+ABT 0 0 0
+14 4 8d9+196 14d10+100 2d6+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand male 45
+0 0 medium 'unknown'
+#1026
+local farmer~
+a {gf{ya{wrm{ye{gr{x~
+A local {gf{ya{wrm{ye{gr{x is sat at one of the tables, drinking a tankard of ale.
+~
+~
+andoran~
+ABS 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1027
+woman aes sedai~
+an {bA{Be{bs S{Beda{bi{x~
+Standing beside the window is a {bw{Boma{bn{x with an ageless face.
+~
+~
+taraboner~
+ABJQb 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+100 100 100 100 100
+A
+7 7 7 7
+0 A 0 0
+stand stand female 250
+0 0 medium 'unknown'
+F gain B
+F train B
+V tlevel 50
+#1028
+burly man warder~
+a {gW{ya{Drd{ye{gr{x~
+A {gb{yu{gr{yl{Dy m{ya{gn{x paces up and down the room as if waiting for someone.
+~
+~
+taraboner~
+ABJb 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 A 0 0
+stand stand male 250
+0 0 medium 'unknown'
+F gain A
+F train A
+V tlevel 50
+#1029
+bushy haired gleeman~
+a {cg{ml{ye{ce{gm{ra{bn{x~
+A bushy-haired {cg{ml{ye{ce{gm{ra{bn{x is fast asleep on one of the beds.
+~
+~
+andoran~
+ABS 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+sleep sleep male 25
+0 0 medium 'unknown'
+#1030
+plump merchant~
+a {cm{Ce{Wrcha{Cn{ct{x~
+Sitting on the edge of the bed is a plump {cm{Ce{Wrcha{Cn{ct{x.
+~
+~
+cairhienin~
+ABT 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+sit sit female 250
+0 0 medium 'unknown'
+#1031
+stout gentleman mayor~
+the {yM{Ya{Wy{Yo{yr{x~
+A stout-looking {yg{Ye{Wntlem{Ya{yn{x is fast asleep in one of the padded chairs.
+~
+~
+andoran~
+ABT 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 Ab 0 0
+sleep sleep male 250
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#1000
+red leather collar~
+a {rred leather collar{x~
+A red leather collar has been left here.~
+leather~
+armor S AC
+3 3 3 2 0
+11 1 85 100
+#1001
+red leather muzzle~
+a {rred leather muzzle{x~
+A red leather muzzle has been left here.~
+leather~
+armor S AV
+3 3 3 2 0
+11 1 85 100
+#1002
+razor sharp claws~
+some {Dr{wa{Wz{wo{Dr-s{wh{Wa{wr{Dp c{wl{Wa{ww{Ds{x~
+Some razor-sharp claws have been left here.~
+unknown~
+weapon S AN
+exotic 5 7 'scratch' 0
+11 1 0 100
+#1003
+sleek black fur~
+some {Dsleek black fur{x~
+Some sleek black fur has been left here.~
+fur~
+armor S AD
+3 3 3 2 0
+11 1 0 100
+#1004
+pink ribbon~
+a {mp{Mi{Wnk rib{Mbo{mn{x~
+A pink ribbon has been left here.~
+cloth~
+armor KS AE
+3 3 3 2 0
+11 1 45 100
+#1005
+skipping rope~
+a {ys{wki{Wpping ro{wp{ye{x~
+A skipping rope has been left here.~
+hemp~
+weapon KS AN
+whip 5 7 'beating' 0
+11 1 0 100
+#1006
+brass hoop earring~
+a {ybra{ws{ys ho{wo{yp earri{wn{yg{x~
+A brass hoop earring has been left here.~
+brass~
+armor 0 AU
+3 3 3 2 0
+11 1 100 100
+#1007
+muddy boots~
+a pair of {ym{Du{wd{Dd{yy b{Do{wo{Dt{ys{x~
+A pair of muddy boots has been left here.~
+leather~
+armor S AG
+3 3 3 2 0
+11 1 85 100
+#1008
+woolen mittens~
+a pair of {cw{Coo{Wlen mit{Cten{cs{x~
+A pair of woolen mittens has been left here.~
+wool~
+armor KS AH
+3 3 3 2 0
+11 1 60 100
+#1009
+baggy breeches~
+a pair of {bb{Bagg{by b{Breeche{bs{x~
+A pair of baggy breeches has been left here.~
+wool~
+armor KS AF
+3 3 3 2 0
+11 4 60 100
+#1010
+hooded cloak~
+a {bhooded cloak{x~
+A hooded cloak has been left here.~
+wool~
+armor KS AK
+3 3 3 3 0
+12 6 60 100
+#1011
+woolen scarf~
+a {cwoolen scarf{x~
+A woolen scarf has been left here.~
+wool~
+armor KS AC
+3 3 3 3 0
+12 2 60 100
+#1012
+woolen gloves~
+a pair of {cwoolen gloves{x~
+A pair of woolen gloves has been left here.~
+wool~
+armor KS AH
+3 3 3 3 0
+12 1 60 100
+#1013
+leather shoes~
+a pair of {Dl{yeathe{Dr s{yhoe{Ds{x~
+A pair of leather shoes has been left here.~
+leather~
+armor KS AG
+3 3 3 3 0
+12 3 85 100
+#1014
+narrow leather belt~
+a narrow {Dl{yeathe{Dr b{yel{Dt{x~
+A narrow leather belt has been left here.~
+leather~
+armor KS AL
+3 3 3 3 0
+12 1 85 100
+#1015
+brass ring~
+a {ybra{ws{ys ri{wn{yg{x~
+A brass ring has been left here.~
+brass~
+armor K AB
+3 3 3 3 0
+12 1 100 100
+#1016
+river cary~
+the {cR{Ci{Wve{wr C{Wa{Cr{cy{x~
+The {cr{Ci{Wv{Ce{cr{x is shallow enough to cross by foot at this point without having to use the {yb{Dr{yid{Dg{ye{x.~
+water~
+fountain Sa P
+10000 10000 'water' 0 0
+0 0 0 100
+#1017
+wax candle~
+a {Wwax candle{x~
+A wax candle has been left here.~
+wax~
+light S A
+0 0 24 0 0
+1 1 10 100
+#1018
+brass lantern~
+a {ybra{ws{ys lante{wr{yn{x~
+A brass lantern has been left here.~
+brass~
+light 0 A
+0 0 48 0 0
+5 1 100 100
+#1019
+woolen blanket~
+a {cwoolen blanket{x~
+A woolen blanket has been spread out here.~
+wool~
+furniture S A
+2 2000 EHK 150 200
+1 10 50 100
+#1020
+canvas tent~
+a {Dc{wanva{Ds t{wen{Dt{x~
+A canvas tent has been pitched here.~
+canvas~
+furniture S A
+2 2000 FIL 250 400
+5 20 200 100
+#1021
+canvas haversack~
+a {Dc{wanva{Ds h{waversac{Dk{x~
+A canvas haversack has been left here.~
+canvas~
+container S AS
+1000 AC 0 500 100
+5 10 200 100
+#1022
+brass cased compass~
+a {ybra{ws{ys-cas{we{yd{x {ycompa{ws{ys{x~
+A brass-cased compass has been left here.~
+brass~
+treasure 0 AO
+0 0 0 0 0
+5 1 250 100
+A
+5 1
+A
+2 -1
+#1023
+sign~
+a {Ysign{x~
+There is a {Ysign{x on the back wall of the shop.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+There is a {Ysign{x on the back wall of the shop.  The {Ysign{x reads:
+{c"If you need any assistance use '{CHELP BUY{c'."  {x 
+~
+#1024
+steel greaves~
+a set of {Ds{wt{We{we{Dl{w {Dg{wr{Weav{we{Ds{x~
+A set of steel greaves has been left here.~
+steel~
+armor 0 AF
+1 1 1 2 0
+5 5 300 100
+#1025
+steel vambraces~
+a set of {Ds{wt{We{we{Dl{w {Dv{wa{Wm{wb{Dr{wa{Wc{we{Ds{x~
+A set of steel vambraces has been left here.~
+steel~
+armor 0 AI
+1 1 1 2 0
+5 5 300 100
+#1026
+steel sabatons~
+a set of {Ds{wt{We{we{Dl{x {Ds{wa{Wb{wat{Wo{wn{Ds{x~
+A set of steel sabatons has been left here.~
+steel~
+armor 0 AG
+1 1 1 2 0
+5 5 300 100
+#1027
+steel helmet~
+a {Ds{wt{We{we{Dl h{we{Wlm{we{Dt{x~
+A steel helmet has been left here.~
+steel~
+armor 0 AE
+1 1 1 2 0
+5 3 300 100
+#1028
+steel backplate~
+a {Ds{wt{We{we{Dl b{wa{Wc{wk{Dp{wl{Wa{wt{De{x~
+A steel backplate has been left here.~
+steel~
+armor 0 AS
+1 1 1 2 0
+5 10 300 100
+#1029
+steel breastplate~
+a {Ds{wt{We{we{Dl b{wr{Wea{ws{Dtp{wl{Wa{wt{De{x~
+A steel breastplate has been left here.~
+steel~
+armor 0 AD
+1 1 1 2 0
+5 10 300 100
+#1030
+steel visor~
+a {Ds{wt{We{we{Dl v{wi{Ws{wo{Dr{x~
+A steel visor has been left here.~
+steel~
+armor 0 AV
+1 1 1 2 0
+5 3 300 100
+#1031
+steel shield~
+a {Ds{wt{We{we{Dl{x {Ds{wh{Wie{wl{Dd{x~
+A steel shield has been left here.~
+steel~
+armor 0 AJ
+1 1 1 2 0
+5 10 300 100
+#1032
+hatchet axe~
+a {Dh{wa{Wtch{we{Dt{x~
+A hatchet has been left here.~
+steel~
+weapon 0 AN
+axe 5 5 'cleave' 0
+5 4 150 100
+#1033
+short dagger~
+a {Ds{who{Wrt da{wgge{Dr{x~
+A short dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 5 5 'stab' 0
+5 1 150 100
+#1034
+heavy cudgel~
+a {yheavy cudgel{x~
+A heavy cudgel has been left here.~
+wood~
+weapon S AN
+mace 5 5 'smash' 0
+5 3 150 100
+#1035
+iron tipped spear~
+an {Di{wro{Dn{x-{Dt{wippe{Dd{x spear~
+An iron-tipped spear has been left here.~
+iron~
+weapon 0 AN
+spear 5 5 'stab' 0
+5 5 150 100
+#1036
+glaive polearm~
+a {Dg{wl{Wai{wv{De{x~
+A glaive has been left here.~
+steel~
+weapon 0 AN
+polearm 5 5 'slash' F
+5 6 150 100
+#1037
+long staff white oak~
+a {yl{wo{Wng sta{wf{yf{x~
+A long staff carved out of white oak has been left here.~
+wood~
+weapon S AN
+staff 5 5 'smash' F
+5 6 150 100
+#1038
+slapjack flail~
+a {ys{Dl{wapja{Dc{yk{x~
+A slapjack has been left here.~
+lead~
+weapon 0 AN
+flail 5 5 'smash' 0
+5 3 150 100
+#1039
+hunting whip~
+a {yhunting whip{x~
+A hunting whip has been left here.~
+leather~
+weapon S AN
+whip 5 5 'beating' 0
+5 1 150 100
+#1040
+short sword~
+a {Ds{who{Wrt sw{wor{Dd{x~
+A short sword has been left here.~
+steel~
+weapon 0 AN
+sword 5 5 'slash' 0
+5 4 150 100
+#1041
+scrap paper~
+a {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x~
+A {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x has been pinned to the front door of the cottage.~
+paper~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+scrap paper~
+A {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x has been pinned to the front door of the cottage.  A
+message written on the {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x reads:
+{m"For help about my services type '{MHELP HEALER{m' or '{MHEAL{m' for details."  {x 
+~
+#1042
+colorful wagon~
+a {mc{rol{yor{rfu{ml w{ra{yg{ro{mn{x~
+A {mc{rol{yor{rfu{ml w{ra{yg{ro{mn{x has been parked in one corner of the yard.~
+wood~
+furniture S P
+6 10000 CFIL 500 500
+0 0 0 100
+#1043
+silver bangle~
+a {Ds{wil{Wver {Db{wan{Wgle{x~
+A silver bangle has been left here.~
+silver~
+armor 0 AM
+1 1 1 2 0
+5 1 135 100
+#1044
+silver armlet~
+a {Ds{wil{Wver {Da{wrm{Wlet{x~
+A silver armlet has been left here.~
+silver~
+armor 0 AI
+1 1 1 2 0
+5 1 135 100
+#1045
+silver earring~
+a {Ds{wil{Wver{G {Dea{wrr{Wing{x~
+A silver earring has been left here.~
+silver~
+armor 0 AU
+1 1 1 2 0
+5 1 135 100
+#1046
+silver ring~
+a {Ds{wil{Wver{D r{wi{Wng{x~
+A silver ring has been left here.~
+silver~
+armor 0 AB
+1 1 1 2 0
+5 1 135 100
+#1047
+green kerchief~
+a {Ggreen kerchief{x~
+A green kerchief has been left here.~
+cloth~
+armor S AC
+1 1 1 2 0
+5 1 45 100
+#1048
+blue bandana~
+a {Bblue bandana{x~
+A blue bandana has been left here.~
+cloth~
+armor S AE
+1 1 1 2 0
+5 1 45 100
+#1049
+red sash~
+a {Rred sash{x~
+A red sash has been left here.~
+cloth~
+armor S AL
+1 1 1 2 0
+5 1 45 100
+#1050
+scrap paper~
+a {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x~
+A {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x has been pinned to the front door of the workshop.~
+paper~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+scrap paper~
+A {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x has been pinned to the front door of the workshop.  A
+message written on the {ys{wc{Wr{wa{yp{x of {yp{wa{Wp{we{yr{x reads:
+{m"For help about my services type '{MHELP REPAIR{m' or '{MHELP RESTRING{m' for
+details."  {x 
+~
+#1051
+white cloth hat~
+a {Wwhite cloth hat{x~
+A white cloth hat has been left here.~
+cloth~
+armor S AE
+3 3 3 5 0
+14 1 45 100
+#1052
+white cloth apron~
+a {Wwhite cloth apron{x~
+A white cloth apron has been left here.~
+cloth~
+armor KS AD
+3 3 3 5 0
+14 3 45 100
+#1053
+barrels~
+one of the {yb{Da{yrre{Dl{ys{x~
+There are several {yb{Da{yrre{Dl{ys{x stacked in the southeast corner of the common room.~
+wood~
+fountain S P
+10000 10000 'ale' 0 0
+0 0 0 100
+E
+barrels~
+There are several {yb{Da{yrre{Dl{ys{x stacked in the southeast corner of the common
+room which contain {yale{x and {mwine{x.  
+~
+#1054
+tables benches~
+one of the {yt{Da{ybl{De{ys{x~
+There are several {yt{Da{ybl{De{ys{x and {yb{De{ynch{De{ys{x arranged neatly around the room.~
+wood~
+furniture S P
+6 10000 DG 100 100
+0 0 0 100
+#1055
+tables benches~
+one of the {yt{wa{Wbl{we{ys{x~
+There are numerous {yt{wa{Wbl{we{ys{x and {yb{we{Wnch{we{ys{x placed around the common room.~
+wood~
+furniture S P
+6 10000 DG 100 100
+0 0 0 100
+#1056
+casks~
+one of the {yc{wa{Ws{wk{ys{x~
+A couple of {yc{wa{Ws{wk{ys{x have been stacked up beside the bar.~
+wood~
+fountain S P
+10000 10000 'red wine' 0 0
+0 0 0 100
+#1057
+patched cloak~
+a {cp{ma{yt{cc{gh{re{bd{g c{cl{yo{ma{ck{x~
+A patched cloak has been left here.~
+wool~
+armor S AK
+3 3 3 6 0
+15 3 60 100
+A
+2 1
+#1058
+slim dagger~
+a {Ds{wl{Wim dag{wge{Dr{x~
+A slim dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 5 7 'stab' 0
+15 2 150 100
+A
+18 1
+#1059
+golden bracelet~
+a {yg{Yo{Wld{Ye{yn b{Yra{Wce{Yle{yt{x~
+A golden bracelet has been left here.~
+gold~
+armor K AM
+3 3 3 6 0
+15 1 300 100
+A
+5 1
+#1060
+golden armlet~
+a {yg{Yo{Wld{Ye{yn{x {ya{Yr{Wml{Ye{yt{x~
+A golden armlet has been left here.~
+gold~
+armor K AI
+3 3 3 6 0
+15 1 300 100
+A
+19 1
+#1061
+blue silk dress~
+a {cb{Cl{Wu{Ce{c s{Ci{Wl{Ck{c d{Cre{Ws{Cs{x~
+A blue silk dress has been left here.~
+silk~
+armor S AD
+3 3 3 6 0
+15 5 300 100
+A
+18 1
+#1062
+blue silk slippers~
+a pair of {cb{Cl{Wu{Ce{c s{Ci{Wl{Ck{x {cs{Cl{Wi{Cp{cp{Ce{Wr{Cs{x~
+A pair of blue silk slippers has been left here.~
+silk~
+armor S AG
+3 3 3 6 0
+15 1 300 100
+A
+4 1
+#1063
+blue silk pouch~
+a {cb{Cl{Wu{Ce{c s{Ci{Wl{Ck{x {cp{Cou{Wc{Ch{x~
+A blue silk pouch has been left here.~
+silk~
+money KSb A
+0 25 0 0 0
+15 1 0 100
+#1064
+cloth kerchief~
+a {gc{Gl{Yo{Gt{gh k{Ger{Ych{Gie{gf{x~
+A cloth kerchief has been left here.~
+cloth~
+armor K AC
+5 5 5 0 0
+15 1 45 100
+A
+5 1
+#1065
+long vest~
+a {glong vest{x~
+A long vest has been left here.~
+wool~
+armor K AD
+5 5 5 0 0
+15 3 60 100
+A
+3 1
+#1066
+baggy breeches~
+a pair of {gbaggy breeches{x~
+A pair of baggy breeches has been left here.~
+wool~
+armor 0 AF
+5 5 5 0 0
+15 5 60 100
+A
+2 1
+#1067
+wide belt silver buckle~
+a {Dw{yide bel{Dt{x with a {Ds{wi{Wlv{we{Dr b{wu{Wck{wl{De{x~
+A wide belt has been left here.~
+leather~
+armor 0 AL
+5 5 5 0 0
+15 2 85 100
+A
+13 20
+#1068
+thick golden chain~
+a {yt{Yh{Wi{Yc{yk g{Yo{Wld{Ye{yn c{Yh{Wa{Yi{yn{x~
+A thick golden chain has been left here.~
+gold~
+armor 0 AC
+5 5 5 0 0
+15 1 300 100
+A
+19 1
+#1069
+thick golden band~
+a {yt{Yh{Wi{Yc{yk g{Yo{Wld{Ye{yn{x {Yb{Wa{Yn{yd{x~
+A thick golden band has been left here.~
+gold~
+armor K AB
+5 5 5 0 0
+15 1 300 100
+A
+3 1
+#1070
+brown leather pouch~
+a {Db{yrow{Dn l{yeathe{Dr p{youc{Dh{x~
+A brown leather pouch has been left here.~
+leather~
+money KSb A
+0 15 0 0 0
+15 1 0 100
+#1071
+neatly trimmed beard pile hair~
+a neatly trimmed {Db{year{Dd{x~
+A pile of hair has been left here.~
+hair~
+armor KS AV
+4 4 4 2 0
+14 1 0 100
+#1072
+cloth kerchief~
+a {rc{Rlot{rh k{Rerchie{rf{x~
+A cloth kerchief has been left here.~
+cloth~
+armor K AC
+3 3 3 2 0
+11 1 45 100
+#1073
+white shirt~
+a {Wplain white shirt{x~
+A plain white shirt has been left here.~
+cloth~
+armor KS AD
+4 4 4 1 0
+13 3 45 100
+#1074
+brown breeches~
+a pair of {ybrown breeches{x~
+A pair of brown breeches has been left here.~
+cloth~
+armor KS AF
+4 4 4 1 0
+13 3 45 100
+#1075
+walking staff~
+a {yw{wa{Wlki{wn{yg s{wt{Wa{wf{yf{x~
+A walking staff has been left here.~
+wood~
+weapon KS AN
+staff 5 7 'smash' F
+15 4 150 100
+A
+19 1
+#1076
+pile clothes~
+a pile of {cclothes{x~
+A pile of {cclothes{x have been left neatly folded upon the {yl{wa{Wrge b{we{yd{x.~
+cloth~
+container Sa P
+100 0 0 100 100
+0 0 0 100
+#1077
+large bed~
+a {yl{wa{Wrge b{we{yd{x~
+A {yl{wa{Wrge b{we{yd{x has been placed against the north wall.~
+wood~
+furniture S P
+2 2000 EHK 500 500
+0 0 0 100
+#1078
+nightcap~
+a {cn{Ci{Wghtc{Ca{cp{x~
+A nightcap has been left here.~
+cloth~
+armor S AE
+2 2 2 1 0
+7 1 45 100
+#1079
+nightshirt~
+a {cn{Ci{Wghtshi{Cr{ct{x~
+A nightshirt has been left here.~
+cloth~
+armor S AD
+2 2 2 1 0
+7 3 45 100
+#1080
+smallclothes~
+a pair of {ws{Wmallclothe{ws{x~
+A pair of smallclothes has been left here.~
+cloth~
+armor S AF
+2 2 2 1 0
+7 1 45 100
+#1081
+socks~
+a pair of {ws{Wock{ws{x~
+A pair of socks has been left here.~
+cloth~
+armor S AG
+2 2 2 1 0
+7 1 45 100
+#1082
+meat cleaver~
+a {Dm{wea{Dt c{wleave{Dr{x~
+A meat cleaver has been left here.~
+steel~
+weapon 0 AN
+axe 5 7 'cleave' 0
+14 2 150 100
+#1083
+carving knife~
+a {rc{warvi{Wng k{wnif{re{x~
+A carving knife has been left here.~
+steel~
+weapon K AN
+dagger 5 7 'stab' 0
+14 1 150 100
+#1084
+rolling pin~
+a {yrolling pin{x~
+A rolling pin has been dropped here.~
+wood~
+weapon S AN
+mace 5 7 'smash' 0
+14 3 150 100
+#1085
+oil lantern~
+an {Do{wi{Wl lan{wter{Dn{x~
+An {Do{wi{Wl lan{wter{Dn{x has been foolishly abandoned in the hayloft.~
+brass~
+container Sa P
+10 AC 0 2 100
+5 0 0 100
+#1086
+golden glow~
+a {yg{Yold{Wen g{Ylo{yw{x~
+There is a strange {yg{Yold{Wen g{Ylo{yw{x in the air.~
+light~
+armor SY AQ
+2 2 1 0 0
+5 0 0 100
+#0
+
+
+
+#ROOMS
+#1024
+{rThe Carysford Arms{x - A Wide Hallway~
+This is the southern end of a wide hallway located on the ground floor of
+the Carysford Arms.  It is a rather plain-looking area where the wooden
+floorboards have been left exposed and the walls have been left as bare
+white plaster.  Grubby lanterns attached to the walls illuminate the area
+and reveal several doorways along this corridor.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1026
+D1
+~
+~
+3 3
+1 0 1025
+D2
+~
+~
+3 3
+1 0 1022
+S
+#1025
+{rThe Carysford Arms{x - The Innkeeper's Quarters~
+The innkeeper's quarters are housed within this small, simple chamber. 
+The room's white plaster walls look bare with no paint adorning them but a
+carpet made of rough grayish green wool does add a little color to the
+quarters.  There are a few items of furniture within this room including a
+wardrobe, a washstand placed in the corner of the room and a short bookcase
+filled with tattered tomes.  A large leaded glass window on the east side of
+the room overlooks the River Cary while a doorway on the opposite side of
+the room appears to be the only exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1024
+S
+#1026
+{rThe Carysford Arms{x - A Wide Hallway~
+This is the northern end of a wide hallway located on the ground floor of
+the Carysford Arms.  It is a rather plain-looking area where the wooden
+floorboards have been left exposed and the walls have been left as bare
+white plaster.  Grubby lanterns attached to the walls illuminate the area
+and reveal several doorways along this corridor.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1028
+D1
+~
+~
+3 3
+1 0 1027
+D2
+~
+~
+0 0
+0 0 1024
+S
+#1027
+{rThe Carysford Arms{x - A Private Dining Room~
+This is a small room with white plastered walls and bare timber
+floorboards.  The room is furnished with a large circular table and
+ladder-backed chairs.  On the south side of the room is a fireplace built
+using red bricks.  There is a window on the east side of the room that that
+overlooks the River Cary.  On the west side of the room is a doorway leading
+out into a hallway.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1026
+S
+#1028
+{rThe Carysford Arms{x - The Common Room~
+The common room of the Carysford Arms is plain yet cozy area that is
+dimly lit up by small lanterns.  The walls have been left as bare red
+brickwork apart from the western end of the room where a wide fireplace has
+been built.  The inn may look aged but it has been carefully maintained
+although both the floorboards and the wooden staircase built along the east
+wall of the room.  There is an arched door on the north side of the common
+room that leads out onto Caemlyn Road.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1003
+D2
+~
+~
+3 3
+1 0 1026
+D4
+~
+~
+0 0
+0 0 1029
+S
+#1029
+{rThe Carysford Arms{x - A Hallway~
+This is a long yet narrow hallway on the first floor of the Carysford
+Arms.  There are several doors along this corridor leading into rooms.  A
+ladder fitted to the east end of the corridor leads upwards towards a
+trapdoor set in the ceiling.  The only other exit from this room is a narrow
+staircase that leads downwards to the inn's common room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1031
+D1
+~
+~
+3 3
+1 0 1033
+D2
+~
+~
+3 3
+1 0 1034
+D3
+~
+~
+3 3
+1 0 1032
+D4
+~
+trapdoor~
+3 3
+1 0 1030
+D5
+~
+~
+0 0
+0 0 1028
+S
+#1030
+{rThe Carysford Arms{x - An Attic Room~
+Although being the longest of the bedrooms within the inn, this guest
+room is the most cramped and has the lowest ceiling due to the steeply
+sloping eaves.  The room is accessed by a study hatchway built into the
+floor.  Spread across the rest of the floor is a rug made of coarse brown
+wool.  There is a dormer window on the east side of the room that looks out
+onto the River Cary, flanking the window is a pair of narrow beds.  
+~
+0
+D 0
+D5
+~
+trapdoor~
+3 3
+1 0 1029
+S
+#1031
+{rThe Carysford Arms{x - A Guest Room~
+This is a small guest room with white plastered walls and timber
+floorboards.  A blue woolen rug that is slightly smaller than the dimensions
+of the room has been placed across the floor.  The room is furnished with
+simple items including a pair of narrow beds, a washstand, a side table and
+an armchair.  There is a leaded glass window on the north side of the room
+that overlooks a wide cobbled street.  The only exit from this room is a
+doorway on the south side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1029
+S
+#1032
+{rThe Carysford Arms{x - A Guest Room~
+This is a small guest room with white plastered walls and timber
+floorboards.  A blue woolen rug that is slightly smaller than the dimensions
+of the room has been placed across the floor.  The room is furnished with
+rather bland items including a pair of narrow beds, a washstand, a side
+table and an armchair.  There is a leaded glass window on the west side of
+the room that overlooks grassy fields and farmland.  The only exit from this
+room is a doorway on the east side.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1029
+S
+#1033
+{rThe Carysford Arms{x - A Guest Room~
+This is a small bedroom with white plastered walls and timber
+floorboards.  A green woolen rug that is slightly smaller than the
+dimensions of the room has been placed across the floor.  The room is
+furnished with simple items including a pair of narrow beds, a washstand, a
+side table and an armchair.  There is a leaded glass window on the south
+side of the room that overlooks grassy fields and farmland.  The only exit
+from this room is a doorway on the north side.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1029
+S
+#1034
+{rThe Carysford Arms{x - A Guest Room~
+This is a small bedroom with white plastered walls and timber
+floorboards.  A green woolen rug that is slightly smaller than the
+dimensions of the room has been placed across the floor.  The room is
+furnished with simple items including a pair of narrow beds, a washstand, a
+side table and an armchair.  There is a leaded glass window on the south
+side of the room that overlooks grassy fields and farmland.  The only exit
+from this room is a doorway on the north side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1029
+S
+#1035
+{WThe Crown and Lion Inn{x - The Common Room~
+The common room of this inn is plain yet cozy area that is dimly lit up
+by small lanterns.  The walls have been left as bare red brickwork apart
+from the southern end of the room where a fireplace made of gray river
+stones has been built.  The inn may look aged but it has been carefully
+maintained although both the floorboards and the wooden staircase built
+along the west wall of the room creak ominously when traversed over.  There
+are two other exits from this room, there is a door on the east side of the
+room leading to the inn's kitchen and there is a much larger door on the
+north side leading out of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1011
+D1
+~
+~
+3 3
+1 0 1036
+D4
+~
+~
+0 0
+0 0 1041
+S
+#1036
+{WThe Crown and Lion Inn{x - A Large Kitchen~
+There is a rough yet homely feel to this inn's kitchen.  The walls have
+been left as bare red brickwork apart from the southern end of the room
+where a fireplace made of gray river stones and a large iron stove has been
+built.  The wooden shelves and cupboards within this room have all been well
+made and have a subtle sheen to them from a fresh coat of oil.  There are
+two exits from this room, a door on the east side of the room leading to the
+inn's common room and a much larger door on the north side leading out of
+the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1037
+D3
+~
+~
+3 3
+1 0 1035
+D5
+~
+trapdoor~
+3 3
+1 0 1058
+S
+#1037
+{WThe Crown and Lion Inn{x - A Small Yard~
+This is a small yet simple cobblestone yard that is flanked by three tall
+brick buildings.  To the north is a smithy whilst to the south is an inn. 
+The smallest of the buildings is a barn that lies on the east side of the
+yard.  All three of the buildings have been constructed mainly from brick
+and have much of the surface of their exterior walls covered in a thick
+growth of ivy.  The west side of the yard leads directly onto a wide
+cobblestone road that winds its way through the village.  
+~
+0
+0 1
+D0
+~
+~
+7 7
+2 0 1054
+D1
+~
+~
+3 3
+1 0 1038
+D2
+~
+~
+3 3
+1 0 1036
+D3
+~
+~
+0 0
+0 0 1011
+S
+#1038
+{WThe Crown and Lion Inn{x - A Barn~
+This is a large barn built out of old red bricks and aged timbers.  The
+area is relatively tidy although straw litters most of the earthen floor of
+the barn.  A rickety wooden ladder fixed to the east wall of the building
+leads upwards to a timber platform that is currently being used as a
+hayloft.  At the opposite side of the building is a set of wide double doors
+that lead outside.  
+~
+0
+DM 0
+D3
+~
+~
+3 3
+1 0 1037
+D4
+~
+~
+0 0
+0 0 1040
+S
+#1039
+{GMount Storage Room{x~
+This room does not require a description.
+~
+0
+BCDK 0
+S
+#1040
+{WThe Crown and Lion Inn{x - A Hay Loft~
+The hay loft is a simple wooden platform which is reached by a rickety
+ladder that is also made of wood.  Unsurprisingly this area is used to store
+bales of hay and straw as well as sacks of animal feed.  The platform
+provides a good view of the overall building although there is nothing out
+of the ordinary in the barn to be seen from this point.  
+~
+0
+AD 0
+D5
+~
+~
+0 0
+0 0 1038
+S
+#1041
+{WThe Crown and Lion Inn{x - A Long Hallway~
+This is a long yet narrow hallway on the first floor of the inn.  There
+are several doors along this corridor leading into rooms.  A ladder fitted
+to the east end of the corridor leads upwards towards a trapdoor set in the
+ceiling.  The only other exit from this room is a narrow staircase leads
+downwards to the inn's common room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1043
+D1
+~
+~
+3 3
+1 0 1044
+D2
+~
+~
+3 3
+1 0 1045
+D3
+~
+~
+3 3
+1 0 1046
+D4
+~
+trapdoor~
+3 3
+1 0 1042
+D5
+~
+~
+0 0
+0 0 1035
+S
+#1042
+{WThe Crown and Lion Inn{x - An Attic Room~
+Despite being the longest of the bedrooms within the inn, this guest room
+is the most cramped and has the lowest ceiling due to the sloping eaves. 
+The room is accessed by a study trapdoor set into the floor.  Spread across
+the rest of the floor is a rug made of rough, gray wool.  There is a dormer
+window on the west side of the room that looks out onto the River Cary,
+flanking the window are two small yet comfortable beds.  
+~
+0
+D 0
+D5
+~
+trapdoor~
+3 3
+1 0 1041
+S
+#1043
+{WThe Crown and Lion Inn{x - A Guest Room~
+This is a small guest room with white plastered walls and bare wooden
+floorboards.  The room is furnished with a simple bed, washstand, table and
+chair.  A small chest has been tucked underneath the bed but it looks old
+and battered.  Gray, moth-eaten curtains frame a window on the north side of
+the room that overlooks a wide cobbled street.  On the south side of the
+room is a doorway which appears to be the only exit.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1041
+S
+#1044
+{WThe Crown and Lion Inn{x - A Guest Room~
+This is a small guest room with white plastered walls and bare wooden
+floorboards.  The room is furnished with a simple bed, washstand, table and
+chair.  There is also a rough, wooden trunk placed beneath the small bed. 
+Gray, moth-eaten curtains frame a window on the east side of the room that
+overlooks a cobblestone yard.  On the west side of the room is a doorway
+which appears to be the only exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1041
+S
+#1045
+{WThe Crown and Lion Inn{x - A Guest Room~
+The innkeeper's quarters are housed within this small, simple chamber. 
+The room's white plaster walls look bare with no paint adorning them but a
+square rug made of rough blue-gray wool does add a little splash of color to
+area.  There are a few items of furniture inside this room including a
+washstand placed in the corner of the room and a chest of drawers.  A large
+leaded glass window on the south side of the room overlooks grassy fields
+and farmland while a doorway on the opposite side of the room appears to be
+the only exit.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1041
+S
+#1046
+{WThe Crown and Lion Inn{x - A Guest Room~
+This is a small bedroom with white plastered walls and bare timber
+floorboards.  The room is furnished with a simple bed, washstand, table and
+chair.  Stashed underneath the bed is an old wooden locker painted blue
+although the paint is flaking off in places.  Gray, moth-eaten curtains
+frame a window on the west side of the room that overlooks the River Cary. 
+On the east side of the room is a doorway which appears to be the only exit.
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1041
+S
+#1047
+{mThe Mayor's House{x~
+These are the main living quarters within a large red brick cottage.  The
+white plaster-walled room combines kitchen and dining area with the focal
+point of the room being the red brick hearth built into the north wall.  The
+room has been furnished with numerous cabinets that have been painted a
+dusky green color.  In the middle of the room is a round dining table
+encircled by padded chairs.  There is a narrow stairway built from timber
+along the south wall that leads up into the sleeping quarters of the
+cottage.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1010
+S
+#1048
+{cA Small Cottage{x~
+These are the main living quarters within a cozy red brick cottage.  The
+white plaster-walled room combines kitchen and dining area with the focal
+point of the room being the red brick hearth built into the north wall.  The
+room has been fitted with many cupboards that are simple yet well
+constructed.  In the middle of the room is an oak dining table flanked by
+two sturdy benches.  A narrow stairway built from timber along the south
+wall leads up into the sleeping quarters.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1015
+S
+#1049
+{cA Small Cottage{x~
+These are the main living quarters inside a comfy red brick cottage.  The
+white plaster-walled room combines kitchen and dining area with the focal
+point of the room being the red brick hearth built into the north wall.  The
+room has been furnished with numerous cabinets that are plain yet well made.
+In the middle of the room is an oak dining table encircled by several
+chairs.  Finally there is a narrow staircase built from timber along the
+south wall that leads up into the sleeping quarters.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1014
+S
+#1050
+{cA Small Cottage{x~
+This is the main living quarters within a small yet comfy red brick
+cottage.  The white plaster-walled room combines kitchen and dining area
+with the focal point of the room being the red brick hearth built into the
+south wall.  The room has been furnished with numerous cabinets that are
+plain yet well constructed.  At the center of the room is an oak dining
+table flanked by two long benches.  Finally there is a narrow stairway built
+from timber along the south wall that leads up into the sleeping quarters.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1018
+S
+#1051
+{cA Small Cottage{x~
+These are the main living quarters within a snug red brick cottage.  The
+white plaster-walled room combines kitchen and dining area with the focal
+point of the room being the red brick fireplace built into the north wall. 
+The room has been furnished with numerous cupboards that are plain yet well
+constructed.  At the center of the room is an oak dining table flanked by
+two sturdy benches.  A narrow staircase built from timber along the south
+wall leads up into the sleeping quarters.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1013
+S
+#1052
+{cA Small Cottage{x~
+This is the main living quarters inside a small yet snug red brick
+cottage.  The white plaster-walled room combines kitchen and dining area
+with the focal point of the room being the red brick fireplace built into
+the south wall.  The room has been fitted with many cabinets that are simple
+yet well made.  In the middle of the room is an oak dining table encircled
+by several chairs.  Finally there is a narrow stairway built from timber
+along the south wall that leads up into the sleeping quarters.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1012
+S
+#1053
+{mThe Wisdom's House{x~
+At a first glance there does not appear to be anything out of the
+ordinary within this humble abode.  This cottage is a small brick structure
+furnished with plain and simple wooden furniture.  A few of the owner's
+possessions dotted around the house gives it a more personal touch.  It is
+the kitchen that stands out from the rest of the house, for it has more than
+its fair share of wooden shelves fixed upon its walls housing glass jars
+filled with dried herbs.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1017
+S
+#1054
+{mA Blacksmith's Workshop{x~
+This large red brick building is home to Carysford's smithy.  Heat
+radiates from the forge that has been built on the north side of the room. 
+Several anvils of differing sizes have been placed close to the forge; all
+of them show heavy signs of wear and tear.  The blacksmith's tools hang
+neatly on wooden racks fixed to the walls of the room.  There are several
+large barrels placed in one corner of the workshop, each one appears to
+contain water although the barrels are marked with a different symbol. 
+There are two exits, a door on the west side of the room and a second one on
+the south side of the room that leads into a yard.  
+~
+0
+D 0
+D2
+~
+~
+7 7
+2 0 1037
+D3
+~
+~
+3 3
+1 0 1009
+S
+#1055
+{mCarysford General Store{x~
+This is a small yet neatly kept shop located just off of the Caemlyn
+Road.  There are a lot of items for sale here despite the size of the shop;
+the majority of the merchandise is located on sturdy wooden shelves attached
+to the walls but a few of the more interesting items for sale have been
+displayed in the shop window.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1003
+S
+#1056
+{mCarysford Weapons Store{x~
+This weapons store is mainly frequented by travelers that use the Caemlyn
+Road than the residents of the village.  A multitude of weapons have been
+hung out on display upon the store's red brick walls inclosing swords,
+dagger and spears.  A wide window on the south side of the room has also
+been used to display merchandise although it has been reinforced with iron
+bars for security reasons like the doorway built next to it.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 1005
+S
+#1057
+{mCarysford Armor Store{x~
+This armor store appears to be visited mostly by travelers that use the
+Caemlyn Road than the village locals.  Many pieces of armor have been hung
+out on display upon the store's red brick walls as well as on racks placed
+behind the shop's counter.  A window on the north side of the room has also
+been used to show off goods although it has been reinforced with iron bars
+as well as the door that sits beside it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1005
+S
+#1058
+{WThe Crown and Lion Inn{x - A Cellar~
+This is a red brickwork cellar built underneath the inn.  The room has
+been used to store a multitude of items including barrels, casks, crates and
+sacks.  The only exit from this room is a wooden hatch set in the ceiling
+that can be accessed via a red brick stairway.  There is a thin veil of dust
+over many of the items in the cellar but scrape marks and dusty footprints
+show that this room is often used.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+3 3
+1 0 1036
+S
+#1000
+Outside Carysford~
+The Caemlyn Road is a well travelled route that passes by thickly growing
+forests to the north and grassy plains and hills to the south.  There are a
+few farms scattered around the area, the fields and orchards that surround
+them make the landscape reminiscent of a gleeman's patched cloak.  To the
+east the trees and farmland gives way to a small red brick settlement
+constructed around a river.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 1001
+S
+#1001
+Caemlyn Road~
+This point on the outskirts of Carysford provides a good view of the
+western half of the village.  The village is mostly comprised of small brick
+buildings topped with tiled roofs.  A lot of the exterior walls of the
+buildings are covered with thick tendrils of ivy.  The ford from which this
+village is named after can also be seen from this point although the slow
+moving waterway has now been spanned by an old bridge.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1002
+D3
+~
+~
+0 0
+0 0 1000
+S
+#1002
+Caemlyn Road~
+This is the Caemlyn Road, a wide cobblestone thoroughfare that passes
+through the village of Carysford.  Much narrower gravel covered lanes lead
+off from the main road, winding their way between closely packed houses made
+of red brick.  The ford from which this village is named after can also be
+seen in the distance to the east although the slow moving waterway is now
+crossed by an old bridge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1017
+D1
+~
+~
+0 0
+0 0 1003
+D2
+~
+~
+0 0
+0 0 1014
+D3
+~
+~
+0 0
+0 0 1001
+S
+#1003
+Caemlyn Road~
+Carysford is a large village when compared to its neighbors situated
+along the Caemlyn Road.  The road has been paved with rounded cobblestones
+as it winds its way through the middle of the settlement.  Built on either
+side of the road are several small brick buildings, some of which appear to
+be shops.  The ford from which this village is named after is visible nearby
+to the east although the slow moving waterway has now been crossed by an old
+bridge.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1055
+D1
+~
+~
+0 0
+0 0 1004
+D2
+~
+~
+3 3
+1 0 1028
+D3
+~
+~
+0 0
+0 0 1002
+S
+#1004
+Carysford Bridge~
+The center of Carysford is marked out by the sluggish River Cary.  The
+shallow ford would have been easy enough to cross by foot but a large bridge
+has been built to span the waterway.  It is difficult to estimate the true
+age of Carysford Bridge but the stone abutments looks so weathered and worn
+that they almost appear like natural rock formations.  Years of freight
+wagons and merchant trains had ground at the thick wooden planks, forming
+deep groove marks within the timber's surface; the boards are loose enough
+to rattle even when a pedestrian passes over the crossing.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1005
+D3
+~
+~
+0 0
+0 0 1003
+S
+#1005
+Caemlyn Road~
+Carysford is one of the many villages that can be found along the ancient
+Caemlyn Road although it is quite large in comparison with the neighboring
+settlements.  Several small brick buildings can be seen from this point in
+the village flanking the Caemlyn Road which appears to be shops.  The ford
+from which this village is named after can also be seen nearby to the west
+although the slow moving waterway has now been spanned by an old bridge.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1056
+D1
+~
+~
+0 0
+0 0 1006
+D2
+~
+~
+3 3
+1 0 1057
+D3
+~
+~
+0 0
+0 0 1004
+S
+#1006
+Caemlyn Road~
+Carysford is one of several villages that can be found along the ancient
+Caemlyn Road.  The route has been covered with rounded cobblestones has it
+passes through this relatively large village.  From this point along the
+Caemlyn Road a slightly narrower cobblestoned road leads southwards and a
+much narrower gravel covered lane leads northwards.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1012
+D1
+~
+~
+0 0
+0 0 1007
+D2
+~
+~
+0 0
+0 0 1010
+D3
+~
+~
+0 0
+0 0 1005
+S
+#1007
+Caemlyn Road~
+This point on the fringes of Carysford gives a good view of the eastern
+half of the village.  The settlement is mostly comprised of small brick
+buildings topped with tiled roofs.  Many of the exterior walls of the
+buildings are covered with thick tangled masses of ivy.  The ford from which
+this village is named after can also be seen from this point although the
+slow moving river has now been crossed by an old bridge.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1008
+D3
+~
+~
+0 0
+0 0 1006
+S
+#1008
+Outside Carysford~
+The Caemlyn Road is a dusty yet well used thoroughfare that passes by
+densely growing forests to the north and grassy hills and plains to the
+south.  There are a few farms dotted around the landscape, the fields and
+orchards that surround them make the land reminiscent of a gleeman's patched
+cloak.  To the west the trees and farmland gives way to a small red brick
+settlement built around a river.  
+~
+0
+0 14
+D3
+~
+~
+0 0
+0 0 1007
+S
+#1009
+Cary Street~
+This is a wide cobblestoned street that passes several buildings as it
+cuts through the village of Carysford.  There is an unusually large building
+on the east side of the street that is built of brick and topped with a
+tiled roof.  Like the rest of the buildings in the village, this particular
+structure's exterior walls are covered in a dense mass of green ivy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1010
+D1
+~
+~
+3 3
+1 0 1054
+D2
+~
+~
+0 0
+0 0 1011
+S
+#1010
+Cary Street~
+This is a wide cobblestoned street that passes several buildings, joining
+a wider cobblestoned road to the north.  There is an unusually large
+building on the east side of the street that is built of brick and topped
+with a tiled roof.  Like the rest of the buildings in the village, this
+particular structure's outer walls are covered in a thick mass of dark green
+ivy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1006
+D1
+~
+~
+3 3
+1 0 1047
+D2
+~
+~
+0 0
+0 0 1009
+S
+#1011
+Cary Street~
+This is the southern end of a wide cobblestoned street in Carysford.  A
+small yard surrounded by red brick buildings can be seen on the east side of
+the road whilst there is an unusually large building at the end of the
+street that is also constructed from bricks.  Like many of the buildings
+within the village, these structures' exterior walls are covered in a thick
+mass of green ivy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1009
+D1
+~
+~
+0 0
+0 0 1037
+D2
+~
+~
+3 3
+1 0 1035
+S
+#1012
+Evergreen Lane~
+This is a narrow gravel covered lane that weaves its way between two rows
+of buildings, joining a wider cobblestoned thoroughfare to the south.  The
+buildings along this lane are small cottages constructed from brick and
+topped with steeply sloping roofs covered with dark tiles.  The houses
+within this vicinity are old and weathered and a lot of them are entangled
+with ivy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1013
+D1
+~
+~
+3 3
+1 0 1052
+D2
+~
+~
+0 0
+0 0 1006
+S
+#1013
+Evergreen Lane~
+This is the northern end of a long yet slender gravel covered lane that
+passes between two rows of small buildings as it meanders through the
+village of Carysford.  The buildings which flank this lane are houses
+constructed from brick and topped with very steep roofs that are covered
+with dark tiles.  The houses within this vicinity are generally old, shabby
+and covered with thick tangles of ivy.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1012
+D3
+~
+~
+3 3
+1 0 1051
+S
+#1014
+Foxtail Lane~
+This is a narrow gravel lane that winds its way through Carysford,
+passing between two neat rows of buildings.  The buildings along this lane
+are small cottages constructed from brick and topped with sloping tiled
+roofs.  The houses are old and weathered and a lot of them are covered with
+thick tangles of ivy.  The lane joins a significantly wider cobblestoned
+thoroughfare a short distance away to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1002
+D2
+~
+~
+0 0
+0 0 1015
+D3
+~
+~
+3 3
+1 0 1049
+S
+#1015
+Foxtail Lane~
+This is a narrow gravel covered lane that winds its way through
+Carysford, passing between two neat rows of buildings.  The buildings along
+this lane are small cottages constructed from red brick and topped with
+sloping tiled roofs.  The houses in this particular area are old and
+weathered and a lot of them are entangled with ivy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1014
+D2
+~
+~
+0 0
+0 0 1016
+D3
+~
+~
+3 3
+1 0 1048
+S
+#1016
+Foxtail Lane~
+This is the southern end of a narrow gravel covered lane that weaves its
+way through Carysford, passing between two neat rows of buildings.  The
+buildings along this lane are small houses constructed from red brick and
+topped with steep sloping roofs.  At the end of the lane is a tall red brick
+wall with a wide wooden gate built into the wall revealing a large yard
+behind it.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1015
+D2
+~
+gate~
+3 3
+1 0 1019
+S
+#1017
+Rose Lane~
+This is a narrow gravel covered lane that is flanked on both sides by
+small buildings.  The buildings along this lane are houses constructed from
+brick and topped with tiled roofs.  The houses are old, weather-beaten and
+covered with thick masses of ivy.  The lane joins a significantly wider
+cobblestoned thoroughfare a short distance away to the south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1018
+D2
+~
+~
+0 0
+0 0 1002
+D3
+~
+~
+3 3
+1 0 1053
+S
+#1018
+Rose Lane~
+This is the northern end of a long yet narrow gravel covered lane that
+passes between two rows of buildings.  The structures built along this lane
+are small houses made from brick and crowned with sloping tiled roofs.  The
+houses are rather old, weathered and a lot of them are covered with thick
+tangles of ivy.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 1050
+D2
+~
+~
+0 0
+0 0 1017
+S
+#1019
+{rThe Carysford Arms{x - A Large Yard~
+This is a large cobblestone yard that is roughly square in shape and is
+almost entirely encircled by a tall wall constructed from red brick.  A wide
+wooden gate has been built into the north wall, separating the yard from a
+narrow gravel lane beyond the wall.  There are two buildings of note
+overlooking the yard; a barn on the south side of the yard and an inn on the
+east side.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 1016
+D1
+~
+~
+3 3
+1 0 1022
+D2
+~
+~
+3 3
+1 0 1020
+S
+#1020
+{rThe Carysford Arms{x - A Barn~
+There nothing out of the ordinary about this old barn.  It is a large
+structure built out of brick and timber yet has a bare earth floor.  A
+rickety wooden ladder fixed to the east wall of the building leads upwards
+to a timber platform that is currently being used as a hayloft.  At the
+north side of the building is a set of wide double doors that lead outside. 
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1019
+D4
+~
+~
+0 0
+0 0 1021
+S
+#1021
+{rThe Carysford Arms{x - A Hay Loft~
+The hay loft is a simple wooden platform which is reached by a rickety
+ladder that is also made of timber.  Predictably this area is used to store
+bales of hay and straw as well as sacks of animal feed.  The platform
+provides a good view of the overall building although there is nothing out
+of the ordinary in the barn to be seen from this point.  
+~
+0
+AD 0
+D5
+~
+~
+0 0
+0 0 1020
+S
+#1022
+{rThe Carysford Arms{x - A Large Kitchen~
+There is a rough yet homely feel to this inn's kitchen.  The walls have
+been left as bare white plaster apart from the eastern end of the room where
+a red brick hearth and a blackened iron stove has been built.  The wooden
+shelves and cupboards within this room have all been well made and have a
+subtle sheen to them from a fresh coat of oil.  There are two exits from
+this room, a door on the north side of the room and a much larger door on
+the west side leading out of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1024
+D3
+~
+~
+3 3
+1 0 1019
+D5
+~
+trapdoor~
+3 3
+1 0 1023
+S
+#1023
+{rThe Carysford Arms{x - A Cellar~
+This is a red brickwork chamber built beneath the inn.  The room has been
+used to store a multitude of items including casks, barrels, crates and
+sacks.  The only exit from this room is a trapdoor set in the ceiling that
+can be accessed via a staircase that is also made from red bricks.  There is
+a thick layer of dust over many of the items in the cellar but scrape marks
+and dusty footprints show that this room is often accessed.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+3 3
+1 0 1022
+S
+#0
+
+
+
+#SPECIALS
+M 1027 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 1024 1 1
+D 0 1024 2 1
+D 0 1025 3 1
+D 0 1026 0 1
+D 0 1026 1 1
+D 0 1027 3 1
+D 0 1028 0 1
+D 0 1028 2 1
+D 0 1029 0 1
+D 0 1029 1 1
+D 0 1029 2 1
+D 0 1029 3 1
+D 0 1029 4 1
+D 0 1030 5 1
+D 0 1031 2 1
+D 0 1032 1 1
+D 0 1033 3 1
+D 0 1034 0 1
+D 0 1035 0 1
+D 0 1035 1 1
+D 0 1036 0 1
+D 0 1036 3 1
+D 0 1036 5 1
+D 0 1037 0 2
+D 0 1037 1 1
+D 0 1037 2 1
+D 0 1038 3 1
+D 0 1041 0 1
+D 0 1041 1 1
+D 0 1041 2 1
+D 0 1041 3 1
+D 0 1041 4 1
+D 0 1042 5 1
+D 0 1043 2 1
+D 0 1044 3 1
+D 0 1045 0 1
+D 0 1046 1 1
+D 0 1047 3 1
+D 0 1048 1 1
+D 0 1049 1 1
+D 0 1050 3 1
+D 0 1051 1 1
+D 0 1052 3 1
+D 0 1053 1 1
+D 0 1054 2 2
+D 0 1054 3 1
+D 0 1055 2 1
+D 0 1056 2 1
+D 0 1057 0 1
+D 0 1058 4 1
+D 0 1003 0 1
+D 0 1003 2 1
+D 0 1005 0 1
+D 0 1005 2 1
+D 0 1009 1 1
+D 0 1010 1 1
+D 0 1011 2 1
+D 0 1012 1 1
+D 0 1013 3 1
+D 0 1014 3 1
+D 0 1015 3 1
+D 0 1016 2 1
+D 0 1017 3 1
+D 0 1018 1 1
+D 0 1019 0 1
+D 0 1019 1 1
+D 0 1019 2 1
+D 0 1020 0 1
+D 0 1022 0 1
+D 0 1022 3 1
+D 0 1022 5 1
+D 0 1023 4 1
+O 0 1077 0 1025
+O 0 1076 0 1025
+P 0 1078 1 1076 1
+P 0 1079 1 1076 1
+P 0 1080 1 1076 1
+P 0 1081 1 1076 1
+M 0 1028 1 1027 1
+O 0 1055 0 1028
+O 0 1056 0 1028
+M 0 1024 1 1028 1
+E 0 1052 0 7
+M 0 1026 4 1028 2
+E 0 1075 0 20
+M 0 1026 4 1028 2
+E 0 1075 0 20
+M 0 1029 1 1030 1
+E 0 1057 0 15
+E 0 1058 0 20
+E 0 1058 0 21
+M 0 1027 1 1033 1
+O 0 1054 0 1035
+O 0 1053 0 1035
+M 0 1025 1 1035 1
+E 0 1052 0 7
+E 0 1071 0 25
+M 0 1026 4 1035 2
+E 0 1075 0 20
+M 0 1026 4 1035 2
+E 0 1075 0 20
+M 0 1023 1 1036 1
+E 0 1051 0 8
+E 0 1052 0 7
+E 0 1083 0 21
+E 0 1084 0 20
+M 0 1019 6 1038 3
+M 0 1019 6 1038 3
+M 0 1019 6 1038 3
+M 0 1021 4 1038 2
+M 0 1021 4 1038 2
+M 0 1020 1 1039 1
+M 0 1030 1 1046 1
+E 0 1059 0 17
+E 0 1059 0 18
+E 0 1060 0 12
+E 0 1061 0 7
+E 0 1062 0 10
+E 0 1058 0 20
+G 0 1063 0
+M 0 1031 1 1047 1
+E 0 1064 0 5
+E 0 1065 0 7
+E 0 1066 0 9
+E 0 1067 0 16
+E 0 1068 0 6
+E 0 1069 0 3
+G 0 1070 0
+M 0 1017 3 1048 1
+E 0 1073 0 7
+E 0 1074 0 9
+M 0 1018 3 1048 1
+M 0 1015 2 1049 1
+E 0 1073 0 7
+E 0 1074 0 9
+M 0 1016 2 1049 1
+M 0 1017 3 1050 1
+E 0 1073 0 7
+E 0 1074 0 9
+M 0 1018 3 1050 1
+M 0 1015 2 1051 1
+E 0 1073 0 7
+E 0 1074 0 9
+M 0 1016 2 1051 1
+M 0 1017 3 1052 1
+E 0 1073 0 7
+E 0 1074 0 9
+M 0 1018 3 1052 1
+O 0 1041 0 1053
+M 0 1011 1 1053 1
+O 0 1050 0 1054
+M 0 1014 1 1054 1
+O 0 1023 0 1055
+M 0 1008 1 1055 1
+G 0 1022 0
+G 0 1021 0
+G 0 1020 0
+G 0 1018 0
+G 0 1019 0
+G 0 1017 0
+O 0 1023 0 1056
+M 0 1010 1 1056 1
+G 0 1032 0
+G 0 1033 0
+G 0 1034 0
+G 0 1035 0
+G 0 1036 0
+G 0 1037 0
+G 0 1038 0
+G 0 1039 0
+G 0 1040 0
+O 0 1023 0 1057
+M 0 1009 1 1057 1
+G 0 1024 0
+G 0 1025 0
+G 0 1026 0
+G 0 1027 0
+G 0 1028 0
+G 0 1029 0
+G 0 1030 0
+G 0 1031 0
+M 0 1000 10 1058 5
+M 0 1000 10 1058 5
+M 0 1013 4 1001 2
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+M 0 1013 4 1001 2
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+M 0 1003 4 1002 2
+M 0 1003 4 1002 2
+M 0 1006 4 1003 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1007 4 1003 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+O 0 1016 0 1004
+M 0 1006 4 1005 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1007 4 1005 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1003 4 1006 2
+M 0 1003 4 1006 2
+M 0 1013 4 1007 2
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+M 0 1013 4 1007 2
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+M 0 1004 4 1009 1
+E 0 1004 0 8
+E 0 1005 0 20
+E 0 1006 0 23
+E 0 1006 0 24
+M 0 1005 4 1009 1
+E 0 1007 0 10
+E 0 1008 0 11
+E 0 1009 0 9
+M 0 1006 4 1010 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1007 4 1010 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1001 4 1011 1
+E 0 1000 0 5
+E 0 1001 0 25
+M 0 1002 4 1011 1
+E 0 1002 0 20
+E 0 1003 0 7
+M 0 1004 4 1012 1
+E 0 1004 0 8
+E 0 1005 0 20
+E 0 1006 0 23
+E 0 1006 0 24
+M 0 1005 4 1012 1
+E 0 1007 0 10
+E 0 1008 0 11
+E 0 1009 0 9
+M 0 1001 4 1013 1
+E 0 1000 0 5
+E 0 1001 0 25
+M 0 1002 4 1013 1
+E 0 1002 0 20
+E 0 1003 0 7
+M 0 1006 4 1014 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1007 4 1014 1
+E 0 1010 0 15
+E 0 1011 0 5
+E 0 1012 0 11
+E 0 1013 0 10
+E 0 1014 0 16
+E 0 1015 0 3
+M 0 1004 4 1015 1
+E 0 1004 0 8
+E 0 1005 0 20
+E 0 1006 0 23
+E 0 1006 0 24
+M 0 1005 4 1015 1
+E 0 1007 0 10
+E 0 1008 0 11
+E 0 1009 0 9
+M 0 1001 4 1016 1
+E 0 1000 0 5
+E 0 1001 0 25
+M 0 1002 4 1016 1
+E 0 1002 0 20
+E 0 1003 0 7
+M 0 1004 4 1017 1
+E 0 1004 0 8
+E 0 1005 0 20
+E 0 1006 0 23
+E 0 1006 0 24
+M 0 1005 4 1017 1
+E 0 1007 0 10
+E 0 1008 0 11
+E 0 1009 0 9
+E 0 1072 0 5
+M 0 1001 4 1018 1
+E 0 1000 0 5
+E 0 1001 0 25
+M 0 1002 4 1018 1
+E 0 1002 0 20
+E 0 1003 0 7
+O 0 1042 0 1019
+M 0 1012 1 1019 1
+G 0 1043 0
+G 0 1044 0
+G 0 1045 0
+G 0 1046 0
+G 0 1047 0
+G 0 1048 0
+G 0 1049 0
+M 0 1019 6 1020 3
+M 0 1019 6 1020 3
+M 0 1019 6 1020 3
+M 0 1021 4 1020 2
+M 0 1021 4 1020 2
+O 0 1085 0 1021
+P 0 1086 1 1085 1
+M 0 1022 1 1022 1
+E 0 1051 0 8
+E 0 1052 0 7
+E 0 1082 0 20
+E 0 1083 0 21
+M 0 1000 10 1023 5
+M 0 1000 10 1023 5
+M 0 1000 10 1023 5
+S
+
+
+
+#SHOPS
+1008 1 15 12 5 9 150 50 0 23
+1009 9 0 0 0 0 150 50 0 23
+1010 5 0 0 0 0 150 50 0 23
+1012 9 5 0 0 0 150 50 0 23
+0
+
+
+
+#$

@@ -1,0 +1,8165 @@
+#AREADATA
+Name Baerlon~
+Builders Oniren~
+VNUMs 58001 58200
+Credits None~
+Security 2
+Low 1
+High 90
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#58001
+gate guard~
+a {rg{Rat{re g{Ruar{rd{x~
+A {rg{Rat{re g{Ruar{rd{x stands to attention beside the {yw{Do{yod{De{yn{w {yg{Da{yt{De{ys{x.
+~
+~
+andoran~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+CEK ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58002
+whitecloak soldier~
+a {WWhitecloak {ys{Yo{Wldi{Ye{yr{x~
+A {WWhitecloak {ys{Yo{Wldi{Ye{yr{x strides purposefully down the road.
+~
+~
+amadician~
+AGTW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEFKR AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58003
+gruff man thieftaker~
+a {DT{whi{Wefta{wke{Dr{x~
+A {Dg{wr{Wu{wf{Df-l{woo{Wk{win{Dg{x {Dm{wa{Wn{x scours the streets in search for someone.
+~
+~
+andoran~
+AGTW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+EFK AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58004
+young woman wisdom apprentice~
+a {YW{yi{Ds{wd{Wom's {Ya{yp{Dp{wr{Wentice{x~
+A {Yy{yo{Du{wn{Wg{Y w{yo{Dm{wa{Wn{x looks flustered as she scuttles off down the road.
+~
+~
+andoran~
+AGQW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58005
+lean young man hunter horn~
+a {cH{Cu{Wnt{Ge{gr{x of the {yH{Yo{Wr{Yn{x~
+A {cl{Ce{Wan {cy{Cou{Wng {cm{Ca{Wn{x wanders around the town with an inquisitive gaze.
+~
+~
+illianer~
+AGSW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+FKN AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#58006
+lithe young woman hunter horn~
+a {cH{Cu{Wnt{Ge{gr{x of the {yH{Yo{Wr{Yn{x~
+A {Gl{gi{Dt{wh{We{g {Gy{go{Du{wn{Wg{G w{go{Dm{wa{Wn{x slips through the crowds gathered here in the street.
+~
+~
+illianer~
+AGSW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+FJN AB 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#58007
+young boy~
+a {by{Bou{bng{w {bb{Bo{by{x~
+A {by{Bou{bng{w {bb{Bo{by{x runs down the road.
+~
+~
+andoran~
+AGSW 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand male 5
+0 0 small 'unknown'
+#58008
+young girl~
+a {my{Mou{mng gi{Mr{ml{x~
+A {my{Mou{mng gi{Mr{ml{x dashes off along the crowded street.
+~
+~
+andoran~
+AGSW 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand female 5
+0 0 small 'unknown'
+#58009
+elderly man~
+an {ge{Gld{gerly m{Ga{gn{x~
+An {ge{Gld{gerly m{Ga{gn{x shuffles down the road.
+~
+~
+andoran~
+AGTW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58010
+elderly woman~
+an {ye{Yld{yerly wom{Ya{yn{x~
+An {ye{Yld{yerly wom{Ya{yn{x hobbles down the street.
+~
+~
+andoran~
+AGTW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58011
+tired miner~
+a {Dt{yir{we{Dd{D m{wi{yne{Dr{x~
+A {Dt{yir{we{Dd{D m{wi{yne{Dr{x trudges down the road as he looks for an {yi{wn{yn{x to stay at for the night.
+~
+~
+andoran~
+AGTW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58012
+peddler~
+a {Bp{be{Dd{wd{Wler{x~
+A {Bp{be{Dd{wd{Wler{x as stopped at the side of the road to sell merchandise from their {Db{ya{wrr{yo{Dw{x.
+~
+~
+andoran~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+FN AB 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#58013
+hawker~
+a {Mh{ma{Dw{wk{Wer{x~
+A {Mh{ma{Dw{wk{Wer{x wheels a {Db{ya{wrr{yo{Dw{x full of goods down the road.
+~
+~
+andoran~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+FN AB 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#58014
+local man~
+a {bl{Boc{bal m{Ba{bn{x~
+A {bl{Boc{bal m{Ba{bn{x hurries down the street.
+~
+~
+andoran~
+AGTW 0 0 0
+54 44 28d29+2916 54d10+100 6d10+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58015
+heavily muscled man warehouse worker~
+a {cwarehouse worker{x~
+A {cheavily muscled man{x is busy unloading a {yw{Da{yg{Do{yn{x.
+~
+~
+andoran~
+AGTW 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CFI AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58016
+beady eyed man wagon driver~
+a {rw{Rago{rn d{Rrive{rr{x~
+A {rb{Re{rady-ey{Re{rd m{Ra{rn{x guides a heavily laden {yw{Da{yg{Do{yn{x down the street.
+~
+~
+andoran~
+AGTW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+FI AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58017
+burly miner~
+a {Db{yur{wl{Dy m{wi{yne{Dr{x~
+A {Db{yur{wl{Dy m{wi{yne{Dr{x strolls down the road.
+~
+~
+andoran~
+AGTW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58018
+gangly youth pickpocket~
+a {cp{Cickp{Wocket{x~
+A {cg{Can{Wgly{c y{Cou{Wth{x wanders aimlessly around the town.
+~
+~
+andoran~
+AGSW 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FJKN AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58019
+snooty merchant~
+a {ys{Yn{Woo{Yt{yy m{Yer{Wch{Yan{yt{x~
+A {ys{Yn{Woo{Yt{yy m{Yer{Wch{Yan{yt{x travels around the town in his horse-drawn {yc{Dar{yri{Dag{ye{x.
+~
+~
+cairhienin~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CF AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#58020
+lanky youth cutpurse~
+a {gc{Gutp{Wurse{x~
+A {gl{Gan{Wky{g y{Gou{Wth{x stands on the edge of the street, watching the crowds go by.
+~
+~
+andoran~
+AGSW 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FJKN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58021
+drunken miner~
+a {Dd{yrunk{we{Dn{x {Dm{wi{yne{Dr{x~
+A {Dd{yrunk{we{Dn{x {Dm{wi{yne{Dr{x staggers down the street.
+~
+~
+andoran~
+AGTW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58022
+stocky man wagon driver~
+a {bw{Bago{bn d{Brive{br{x~
+A {bs{Btocky ma{bn{x guides an empty {yw{Da{yg{Do{yn{x down the road.
+~
+~
+andoran~
+AGTW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58023
+local woman~
+a {ml{Moc{mal wom{Ma{mn{x~
+A {ml{Moc{mal wom{Ma{mn{x hurries down the street.
+~
+~
+andoran~
+AGTW 0 0 0
+54 44 28d29+2916 54d10+100 6d10+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58024
+dark haired man farmer~
+a {Df{wa{Wrm{we{Dr{x~
+A {Dd{war{Wk-{wh{Da{wir{De{wd{W m{wa{Dn{x carefully guides his horse-drawn {yc{Dar{yt{x down the road.
+~
+~
+andoran~
+AGTW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58025
+merchant guard~
+a {rm{Rer{wch{Ran{rt's g{Ru{wa{Rr{rd{x~
+A {rm{Rer{wch{Ran{rt's g{Ru{wa{Rr{rd{x shadows his master as he walks down the street.
+~
+~
+cairhienin~
+AGTW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+CEFK AB 0 0
+stand stand male 15
+0 0 medium 'none'
+#58026
+town watch~
+a member of the {rT{Dow{rn W{Datc{rh{x~
+A member of the {rT{Dow{rn W{Datc{rh{x patrols the area.
+~
+~
+andoran~
+AGTW 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEFKRU AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58027
+ostler~
+an {yo{Ds{wtl{De{yr{x~
+One of the {yo{Ds{wt{Wl{we{Dr{ys{x is busy sweeping the yard clear of any debris.
+~
+~
+andoran~
+ABT 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58028
+shopkeeper~
+a {bs{Bho{wp{Dke{we{Bpe{br{x~
+A {bs{Bho{wp{Dke{we{Bpe{br{x stands behind the {yc{Do{yunt{De{yr{x, sharpening a {Dc{wur{Wve{wd{D d{wag{Wge{wr{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#58029
+shopkeeper~
+a {gs{Gho{wp{Dke{we{Gpe{gr{x~
+A {gs{Gho{wp{Dke{we{Gpe{gr{x smiles happily as he greets his customers.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#58030
+serving maid~
+a {cs{Cer{Wving m{Cai{cd{x~
+A busy {cs{Cer{Wving m{Cai{cd{x weaves her way around the common room as she serves the customers.
+~
+~
+andoran~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+F AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58031
+drunken miner~
+a {Dd{yrunk{we{Dn{x {Dm{wi{yne{Dr{x~
+A {Dd{yrunk{we{Dn{G {Dm{wi{yne{Dr{x slouches at one of the {yt{Da{ybl{De{ys{x.
+~
+~
+andoran~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58032
+bouncer~
+a {rb{Rou{ync{Yer{x~
+A {rb{Rou{ync{Yer{x watches the area with a wary gaze.
+~
+~
+andoran~
+ABT 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58033
+patron~
+a {gp{Gat{yro{Yn{x~
+One of the common room's {gp{Gat{yro{Yns{x is enjoying a quiet drink.
+~
+~
+andoran~
+ABT 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+F AB 0 0
+sit sit either 15
+0 0 medium 'unknown'
+#58034
+scruffy brown horse~
+a {yscruffy brown horse{x~
+A {yscruffy brown horse{x stands in one of the stalls.
+~
+~
+rabbit~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 charge
+0 0 0 0 0
+A
+3 3 3 3
+I ABb 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off H
+#58035
+dapple gray horse~
+a {Wd{wa{Wpp{wl{We g{wra{Wy h{wo{Wr{ws{We{x~
+A {Wd{wa{Wpp{wl{We g{wra{Wy h{wo{Wr{ws{We{x swishes its tail as it stands in its stall.
+~
+~
+rabbit~
+AB 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 charge
+0 0 0 0 0
+A
+3 3 3 3
+I ABb 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off H
+#58036
+tall black horse~
+a {Dtall black horse{x~
+A {Dtall black horse{x impatiently paws at the ground with its hoof.
+~
+~
+rabbit~
+AB 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 charge
+0 0 0 0 0
+A
+3 3 3 3
+I ABb 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off H
+#58037
+ostler~
+an {yo{Ds{wtl{De{yr{x~
+One of the {yo{Ds{wt{Wl{we{Dr{ys{x diligently tends to the stable.
+~
+~
+andoran~
+ABT 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58038
+cook~
+a {Dc{wo{Wok{x~
+One of the inn's {Dc{wo{Woks{x is busy kneading {ybread dough{x.
+~
+~
+andoran~
+ABT 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+FK ABb 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58039
+cook~
+a {Dc{wo{Wok{x~
+A {Dc{wo{Wok{x is preoccipied with chopping up {gvegetables{x.
+~
+~
+andoran~
+ABT 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+FK ABb 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58040
+cook~
+a {Dc{wo{Wok{x~
+A {Dc{wo{Wok{x watches a {cb{Cub{Wbl{Cin{cg{x set of {Dp{wan{Ds{x on one of the {Dst{wov{Des{x like a hawk.
+~
+~
+andoran~
+ABT 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+FK ABb 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58041
+serving maid~
+a {cs{Cer{Wving m{Cai{cd{x~
+A {cs{Cer{Wving m{Cai{cd{x hurries along as she carries a {Dp{wl{Watt{we{Dr{x full of food.
+~
+~
+andoran~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+F ABb 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58042
+merchant~
+a {ym{Yer{Wch{Yan{yt{x~
+A smartly-dressed {ym{Yer{Wch{Yan{yt{x is sat at the {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x discussing business with a colleague.
+~
+~
+cairhienin~
+ABT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CF AB 0 0
+sit sit male 50
+0 0 medium 'unknown'
+#58043
+captain town watch~
+the {rC{Daptai{rn{x of the {rT{Dow{rn W{Datc{rh{x~
+The {rC{Daptai{rn{x of the {rT{Dow{rn W{Datc{rh{x is sitting at his {yd{Yes{Wk{x.
+~
+~
+andoran~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CEFK ABJbe D 0
+stand stand male 50
+0 0 medium 'unknown'
+#58044
+shopkeeper~
+a {cs{gh{Gopkeep{ge{cr{x~
+The {cs{gh{Gopkeep{ge{cr{x looks half-asleep as he attends to his customers.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#58045
+gruff shopkeeper~
+a {yg{Dr{wu{Df{yf sh{Dop{wke{Dep{yer{x~
+A {yg{Dr{wu{Df{yf sh{Dop{wke{Dep{yer{x stands behind the {Ds{rh{Dop c{ro{Dunt{re{Dr{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#58046
+weaselly man~
+a {mwe{Da{wse{Dl{mly {wm{Da{mn{x~
+A {mwe{Da{wse{Dl{mly {wm{Da{mn{x stands behind the {Wd{wu{ys{wt{Wy s{wh{yo{wp{W c{wo{yunt{we{Wr{x.
+~
+~
+andoran~
+ABK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#58047
+blacksmith apprentice~
+a {mb{rla{Rcksm{rit{mh{x's {ma{rpp{Rrent{ric{me{x~
+The {mb{rla{Rcksm{rit{mh{x's scruffy {ma{rpp{Rrent{ric{me{x works the {yb{De{yl{Dl{yo{Dw{ys{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#58048
+blacksmith~
+a {mb{rla{Rcksm{rit{mh{x~
+The {mb{rla{Rcksm{rit{mh{x is busy forging a {Dl{won{Wg sw{wor{Dd{x on an {Dan{wv{Wi{Dl{x.
+~
+~
+andoran~
+ABE 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#58049
+chamber maid~
+a {mc{Mh{mam{Mbe{mr ma{Mi{md{x~
+A {mc{Mh{mam{Mbe{mr ma{Mi{md{x patrols the inn and its guest rooms on her never ending quest to fight {Dd{yir{Dt{x and {Dg{wrim{De{x.
+~
+~
+andoran~
+AGSY 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58050
+bath attendant~
+a {bb{Bat{bh a{Btt{be{Bndan{bt{x~
+A {bb{Bat{bh a{Btt{be{Bndan{bt{x hurries down the corridor carrying a bundle of {Wt{wo{Wwe{wl{Ws{x in their arms.
+~
+~
+andoran~
+AGSY 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#58051
+weary guest~
+a {gw{Gea{gry g{Gu{ge{Gs{gt{x~
+A {gw{Gea{gry g{Gu{ge{Gs{gt{x makes their way to their room.
+~
+~
+andoran~
+AGSY 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#58052
+jeweler~
+a {yj{Ye{Wwel{Ye{yr{x~
+The {yj{Ye{Wwel{Ye{yr{x sits behind the {yw{Do{yod{De{yn c{Do{yunt{De{yr{x carefully examining a {yg{Yol{yd r{Yin{yg{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#58053
+tall man whitecloak agent~
+a {WWhitecloak {ya{Wgen{yt{x~
+A {yt{Wal{yl m{Wa{yn{x sits upon the edge of the {ro{ya{Yk{r b{ye{Yd{x, sharpening his {Ds{ww{Wo{wr{Dd{x.
+~
+~
+amadician~
+ABT 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 punch
+0 0 0 0 0
+A
+5 5 5 5
+AEFK ABCIJde DEG 0
+sit sit male 50
+0 0 medium 'unknown'
+#58054
+baker assistant~
+a {yb{Yake{yr's a{Yssistan{yt{x~
+The {yb{Yake{yr's a{Yssistan{yt{x hurries around the shop as she tries to serve the customers.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#58055
+bank clerk~
+a {rb{Ran{rk c{Rler{rk{x~
+A {rb{Ran{rk c{Rler{rk{x sits behind his {Dd{re{Dsk{x, polishing his {Ds{cp{Cec{Wta{Ccl{ce{Ds{x with a soft piece of {ccloth{x.
+~
+~
+andoran~
+ABDd 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#58056
+shopkeeper~
+a {Ds{who{Wpkee{Cpe{cr{x~
+The {Ds{who{Wpkee{Cpe{cr{x looks bored as she stands behind the {yc{wo{yunt{we{yr{x.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#58057
+bartender~
+a {bba{Brt{yen{Yder{x~
+The {bba{Brt{yen{Yder{x stands behind the bar, wiping the {Dt{wan{Wka{wrd{Ds{x with a {Dd{yirty clot{Dh{x.
+~
+~
+andoran~
+ABS 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+FN ABb 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#58058
+smartly dressed guard~
+a {rs{Rm{wart{Rl{ry d{Rr{wess{Re{rd g{Ru{wa{Rr{rd{x~
+A {rs{Rm{wart{Rl{ry d{Rr{wess{Re{rd g{Ru{wa{Rr{rd{x stands next to the entrance into the house.
+~
+~
+andoran~
+ABT 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+CFK ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#58059
+gray haired man governor secretary~
+the {rG{Rov{wer{Rno{rr's s{Rec{wret{Rar{ry{x~
+A {Dg{wra{Dy-ha{wir{Ded m{wa{Dn{x dressed in {rr{Re{rd{x and {Dg{wra{Dy{x {rl{Ri{wve{Rr{ry{x stands at the foot of the {rs{Dt{ra{Dirc{ra{Ds{re{x.
+~
+~
+andoran~
+ABQ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+85 0 85 300 30
+A
+6 6 6 6
+ACFH ABCHIJNOPabde DEG 0
+stand stand male 50
+0 0 medium 'unknown'
+#58060
+chamber maid~
+a {mc{Mh{mam{Mbe{mr ma{Mi{md{x~
+A {mc{Mh{mam{Mbe{mr ma{Mi{md{x is totally immersed with her chores.
+~
+~
+andoran~
+AGSY 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#58061
+weary traveler~
+a {cw{be{Ba{br{cy tr{ba{Bve{bl{cer{x~
+A {cm{ba{Bn{x is curled up and fast asleep in the {yl{Da{yr{Dg{ye f{Do{yu{Dr{y-p{Do{yst{De{yr b{De{yd{x.
+~
+~
+andoran~
+AGSY 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+sleep sleep male 15
+0 0 medium 'unknown'
+#58062
+blonde woman wisdom~
+the {yW{Yi{Wsd{Yo{ym{x~
+A {yb{Ylo{Wn{Yde wo{Wm{Ya{yn{x is sat in one of the {ya{Dr{wmchai{Dr{ys{x reading a {cbook{x.
+~
+~
+andoran~
+ABQa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+100 100 100 100 100
+A
+7 7 7 7
+0 ABb 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#58063
+innkeeper~
+the {bi{Bnn{bkee{Bpe{br{x~
+The {bi{Bnn{bkee{Bpe{br{x is having an argument with one of the {Dc{wo{Wok{Ws{x.
+~
+~
+andoran~
+ABT 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CFI ABb 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#58064
+smartly dressed young man~
+a {gyoung traveler{x~
+A {gsmartly dressed young man{x is sat upon the edge one of the {ys{Dm{ya{Dl{yl b{De{yds{x.
+~
+~
+andoran~
+ABT 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+CFK AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#58065
+brown mouse~
+a {ybrown mouse{x~
+A {ybrown mouse{x scurries behind one of the {yb{Da{yrre{Dl{y8s{x.
+~
+~
+rabbit~
+AB Q 0 0
+45 35 23d23+2025 45d10+100 5d10+22 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#58066
+warehouse worker muscular man~
+a {cwarehouse worker{x~
+A {cmuscular man{x is heaving {yc{wr{Da{ytes{x and {yb{Da{yrre{Dl{ys{x around the warehouse.
+~
+~
+andoran~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CFI AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58067
+townsman~
+a {gt{Go{ww{Wns{wm{Ga{gn{x~
+A {gt{Go{ww{Wns{wm{Ga{gn{x relaxes inside his home.
+~
+~
+andoran~
+ABT 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+CFI AB 0 0
+stand stand male 10
+0 0 medium 'unknown'
+#58068
+townswoman~
+a {mt{Mow{wn{Wsw{wo{Mma{mn{x~
+A {mt{Mow{wn{Wsw{wo{Mma{mn{x is chatting to her husband.
+~
+~
+andoran~
+ABS 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+FN AB 0 0
+stand stand female 10
+0 0 medium 'unknown'
+#58069
+burly miner~
+a {Db{yur{wl{Dy m{wi{yne{Dr{x~
+A {Db{yur{wl{Dy m{wi{yne{Dr{x chips away at cliff face with a {Dp{wic{Dk a{wx{De{x.
+~
+~
+andoran~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CF ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58070
+old miner~
+a {Db{yur{wl{Dy m{wi{yne{Dr{x~
+A {Do{wl{yd{x {Dm{wi{yne{Dr{x stands at the {ywash tables{x, seperating the {yg{Yol{yd d{Yus{yt{x from the {Dg{wri{Dt{x.
+~
+~
+andoran~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#58071
+man wagon driver~
+a {bw{Bago{bn d{Brive{br{x~
+A {bm{Ba{bn{x guides his horse-drawn {Dw{yago{Dn{x along a dusty track.
+~
+~
+andoran~
+AGTW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+F AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#58001
+frayed rope~
+a {wf{yraye{wd r{yop{we{x~
+A {wf{yraye{wd r{yop{we{x hangs down beside the {yw{Do{yod{De{yn{w {yg{Da{yt{De{ys{x.~
+hessian~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+frayed rope~
+A {wf{yraye{wd r{yop{we{x hangs down beside the {yw{Do{yod{De{yn{w {yg{Da{yt{De{ys{x; the other end of the
+{wr{yop{we{x lies on the opposite side of the {yg{Da{yt{De{ys{x and is attached to a {Dl{warg{We{D b{wel{Wl{x.
+~
+#58002
+stone guardhouse~
+the {Ds{wt{Wo{wn{De{x {Dg{wu{Wa{wr{Ddh{wo{Wu{ws{De{x~
+There is a small square {Dg{wu{Wa{wr{Ddh{wo{Wu{ws{De{x built out of {Ds{wt{Wo{wn{De{x against the {yl{Do{yg p{Da{ylisa{Dd{ye{x near the {yw{Do{yod{De{yn{w {yg{Da{yt{De{ys{x.~
+stone~
+furniture S P
+10 10000 FIL 175 175
+0 0 0 100
+#58003
+cloak red wool~
+a {rm{Ruc{rh-m{Rende{rd c{Rloa{rk{x made of {rr{Red woo{rl{x~
+A cloak made of red wool has been left here.~
+wool~
+armor S AK
+23 23 23 11 0
+80 6 60 100
+A
+4 2
+A
+5 2
+#58004
+red cloth cap~
+a {rr{Re{rd c{Rlot{rh c{Ra{rp{x~
+A red cloth cap has been left here.~
+cloth~
+armor S AE
+23 23 23 11 0
+80 1 45 100
+A
+4 2
+A
+3 2
+#58005
+short red coat~
+a {rs{Rhor{rt r{Re{rd c{Roa{rt{x~
+A short red coat has been left here.~
+wool~
+armor S AD
+23 23 23 11 0
+80 4 60 100
+A
+5 2
+A
+1 2
+#58006
+heavy boots black leather~
+{Dhe{wa{Wv{Dy bo{wo{Wt{Ds{x made of {Dbl{wa{Wc{Dk leat{wh{We{Dr{x~
+A pair of heavy boots has been left here.~
+leather~
+armor S AG
+23 23 23 11 0
+80 3 85 100
+A
+17 -10
+A
+1 2
+#58007
+wide belt black leather~
+a {Dw{wi{Wd{De b{we{Wl{Dt{x made of {Dbl{wa{Wc{Dk leat{wh{We{Dr{x~
+A wide belt has been left here.~
+leather~
+armor S AL
+23 23 23 11 0
+80 1 85 100
+A
+19 2
+A
+18 2
+#58008
+baggy breeches black wool~
+{Dbaggy breeches{x made of {Dblack wool{x~
+A pair of baggy breeches has been left here.~
+wool~
+armor S AF
+23 23 23 11 0
+80 4 60 100
+A
+18 2
+A
+2 2
+#58009
+short sword~
+a {Ds{who{Wrt{D s{wwo{Wrd{x~
+A short sword has been left here.~
+steel~
+weapon 0 AN
+sword 9 14 'slash' 0
+80 4 150 100
+A
+19 3
+A
+18 3
+A
+3 -2
+#58010
+long sword~
+a {Dl{wo{Wng{w {Ds{ww{Wo{wr{Dd{x~
+A long sword has been left here.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' F
+70 5 175 100
+A
+4 -3
+A
+19 6
+#58011
+breastplate burnished steel~
+a {Db{wre{Wastpl{wat{De{x made of {Db{wu{Wrnish{we{Dd{x {Ds{wt{We{we{Dl{x~
+A breastplate made of burnished steel has been left here.~
+steel~
+armor 0 AD
+20 20 20 10 0
+70 6 300 100
+A
+17 -15
+#58012
+backplate burnished steel~
+a {Db{wac{Wkpl{wat{De{x made of {Db{wu{Wrnish{we{Dd{G {Ds{wt{We{we{Dl{x~
+A backplate made of burnished steel has been left here.~
+steel~
+armor 0 AS
+20 20 20 10 0
+70 6 300 100
+A
+17 -15
+#58013
+conical helmet burnished steel~
+a {Dc{wo{Wnic{wa{Dl{x {Dh{we{Wlm{we{Dt{x made of {Db{wu{Wrnish{we{Dd{x {Ds{wt{We{we{Dl{x~
+A conical helmet made of burnished steel has been left here.~
+steel~
+armor 0 AE
+20 20 20 10 0
+70 3 300 100
+A
+5 3
+#58014
+white cloak golden sunburst~
+a {Wwhite cloak{x embroidered with the {yG{Yolde{yn S{Yunburs{yt{x upon its left breast~
+A white cloak has been left here.~
+wool~
+armor S AK
+20 20 20 10 0
+70 5 60 100
+A
+18 3
+#58015
+burnished steel plated boots~
+a pair of {Db{wu{Wrnish{we{Dd{x {Ds{wt{We{we{Dl{x-{Dp{wl{Wat{we{Dd{x {Wboots{x~
+A pair of burnished steel-plated boots has been left here.~
+steel~
+armor 0 AG
+20 20 20 10 0
+70 5 300 100
+A
+1 3
+#58016
+burnished steel plated gauntlets~
+a pair of {Db{wu{Wrnish{we{Dd{x {Ds{wt{We{we{Dl{x-{Dp{wl{Wat{we{Dd{x {Wgauntlets{x~
+A pair of burnished steel-plated gauntlets has been left here.~
+steel~
+armor 0 AH
+20 20 20 10 0
+70 4 300 100
+A
+2 3
+#58017
+chainmail leggings~
+a pair of {Dc{wh{Wa{Di{wn{Wm{Da{wi{Wl{x {Dl{we{Wg{Dg{wi{Wn{Dg{ws{x~
+A pair of chainmail leggings has been left here.~
+steel~
+armor 0 AF
+20 20 20 10 0
+70 7 250 100
+A
+18 1
+A
+19 1
+A
+17 -5
+#58018
+brass ferruled quarterstaff staff~
+a {yb{Yras{ys{x-{yf{Yerrule{yd {yqu{Da{yrt{Der{yst{Da{yff{x~
+A quarterstaff fitted with brass ferrules.~
+wood~
+weapon 0 AN
+staff 7 12 'smash' F
+67 8 150 100
+A
+19 1
+A
+18 2
+#58019
+blue woolen cap~
+a {cb{Clu{ce w{Coole{cn c{Ca{cp{x~
+A cap made of blue wool has been left here.~
+wool~
+armor KS AE
+19 19 19 10 0
+67 1 60 100
+A
+5 3
+#58020
+belt knife~
+a {Db{wel{Dt k{wnif{De{x~
+A belt knife has been left here.~
+steel~
+weapon 0 AN
+dagger 7 12 'slash' 0
+67 1 150 100
+A
+18 3
+#58021
+sturdy leather shoes~
+a pair of {Ds{yturd{Dy l{yeathe{Dr s{yhoe{Ds{x~
+A pair of sturdy leather shoes has been dropped here.~
+leather~
+armor KS AG
+19 19 19 10 0
+67 2 85 100
+A
+4 3
+#58022
+broad axe blue tassels~
+a {Db{wro{Wad a{wx{De{x with {cb{Cl{Wu{Ce ta{Wss{Cel{cs{x~
+A well-made broad axe decorated with blue tassels.~
+steel~
+weapon 0 AN
+axe 7 12 'cleave' F
+65 7 200 100
+A
+18 2
+A
+19 3
+A
+3 -1
+A
+2 -1
+#58023
+dark leather whip~
+a {Dd{yar{Dk l{yea{Dt{yhe{Dr w{yhi{Dp{w{x~
+A dark leather whip has been left here.~
+leather~
+weapon S AN
+whip 7 12 'beating' 0
+65 1 200 100
+A
+19 2
+A
+18 3
+A
+1 -1
+A
+3 -1
+#58024
+main gauche~
+a {Dm{ca{Ci{cn{D g{ca{Cuc{ch{De{x~
+A main gauche has been left here.~
+steel~
+weapon 0 AN
+dagger 6 11 'stab' 0
+57 2 150 100
+A
+18 6
+A
+19 -4
+#58025
+steel tipped spear~
+a {Ds{wt{We{we{Dl{x {Dt{wip{Wped sp{wea{Dr{x~
+A steel tipped spear has been left here.~
+steel~
+weapon 0 AN
+spear 7 12 'stab' 0
+67 7 175 100
+A
+18 1
+A
+19 2
+#58026
+round steel cap~
+a {Dr{wou{Wnd{D s{wte{Wel{D c{wa{Wp{x~
+A round steel cap has been left here.~
+steel~
+armor 0 AE
+21 21 21 9 0
+72 3 300 100
+A
+17 -15
+#58027
+studded leather jerkin~
+a {Dst{wudd{Wed{x {Dl{yeathe{Dr j{yerki{Dn{x~
+A studded leather jerkin has been left here.~
+leather~
+armor 0 AD
+21 21 21 9 0
+72 6 100 100
+#58028
+oaken quarterstaff~
+an {yo{Da{yk{De{yn qu{Da{yrt{Der{yst{Da{yff{x~
+An oaken quarterstaff has been left here.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+72 5 150 100
+A
+19 3
+A
+18 3
+A
+12 -60
+#58029
+heavy boots black leather~
+{Dhe{wa{Wv{Dy bo{wo{Wt{Ds{x made of {Dbl{wa{Wc{Dk leat{wh{We{Dr{x~
+A pair of heavy boots has been left here.~
+leather~
+armor S AG
+21 21 21 9 0
+72 3 85 100
+A
+17 -15
+#58030
+wide belt black leather~
+a {Dw{wi{Wd{De b{we{Wl{Dt{x made of {Dbl{wa{Wc{Dk leat{wh{We{Dr{x~
+A wide belt has been left here.~
+leather~
+armor S AL
+21 21 21 9 0
+72 1 85 100
+A
+17 -30
+A
+12 -60
+#58031
+cloak red wool~
+a {rm{Ruc{rh-m{Rende{rd c{Rloa{rk{x made of {rr{Red woo{rl{x~
+A cloak made of red wool has been left here.~
+wool~
+armor S AK
+21 21 21 9 0
+72 6 60 100
+A
+2 3
+#58032
+wooden bench~
+a {yw{Do{yod{De{yn b{De{yn{Dc{yh{x sheltering underneath the {yv{De{yran{Dd{ya{x~
+A {yv{De{yran{Dd{ya{x roofed with {Dg{wra{Dy s{wlat{De{x has been built onto the back of the blacksmith's workshop.~
+wood~
+furniture S P
+4 10000 EHK 100 100
+0 0 0 100
+E
+veranda~
+A {yv{De{yran{Dd{ya{x has been built onto the back of the blacksmith's workshop. 
+Sheltering beneath the {Dg{wra{Dy {x{Ds{wlat{De{x {Dr{woo{Df{x of the {yv{De{yran{Dd{ya{x is a {yw{Do{yod{De{yn b{De{yn{Dc{yh{x.  
+~
+#58033
+upturned barrel~
+an {Du{ypturne{Dd b{yarre{Dl{x~
+An {Du{ypturne{Dd b{yarre{Dl{x has been placed beside the inn's kitchen door.~
+wood~
+furniture S P
+1 1000 EH 100 100
+0 0 0 100
+#58034
+broom~
+a {ybroom{x~
+A broom has been left here.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+74 6 0 100
+A
+19 3
+A
+18 3
+A
+12 -60
+#58035
+long leather vest~
+a {Dl{yon{Dg l{yea{Dt{yhe{Dr v{yes{Dt{x~
+A long vest made of leather has been left here.~
+leather~
+armor S AD
+21 21 21 11 0
+74 4 85 100
+A
+5 3
+#58036
+rectangular table chairs kitchen~
+the {yk{Di{ytch{De{yn{x {yt{Da{yb{Dl{ye{x~
+A {yr{De{ycta{Dn{ygul{Da{yr t{Da{yb{Dl{ye{x surrounded by {yc{Dh{yai{Dr{ys{x stands at the center of the room.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#58037
+dining table high backed chairs~
+a {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x~
+A large {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x surrounded by {yh{Di{ygh-b{Da{yck{De{yd{x {yc{Dh{yai{Dr{ys{x sits at the center of the room.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#58038
+heavy claymore sword~
+a {Dh{wea{Wv{wy{D c{wlay{Wmor{we{x~
+A heavy claymore has been left here.~
+steel~
+weapon 0 AN
+sword 10 15 'slash' F
+90 8 300 100
+A
+18 5
+A
+19 5
+A
+13 -40
+A
+12 -40
+#58039
+curved dagger~
+a {Dc{wur{Wve{wd{D d{wag{Wge{wr{x~
+A curved dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 10 15 'stab' 0
+90 2 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58040
+cat nine tails whip~
+a {Dc{ya{Dt{x of {Dn{yin{De t{yail{Ds{x~
+A cat of nine tails has been left here.~
+leather~
+weapon S AN
+whip 10 15 'beating' 0
+90 0 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58041
+vine carved staff~
+a {gv{Gin{ge{x-{gc{Garve{gd{y s{Dt{ya{Df{yf{x~
+A vine-carved staff has been left here.~
+wood~
+weapon S AN
+staff 10 15 'smash' F
+90 5 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58042
+lightweight javelin spear~
+a {yl{wi{Wgh{wt{yw{we{Wig{wh{yt{W {yj{wa{Wvel{wi{yn{x~
+A lightweight javelin has been left here.~
+wood~
+weapon S AN
+spear 10 15 'stab' 0
+90 2 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58043
+black steel battleaxe axe~
+a {Dbl{wa{Wc{wk{D st{we{We{wl{D batt{wle{Wax{we{x~
+A black steel battleaxe has been left here.~
+steel~
+weapon 0 AN
+axe 10 15 'cleave' F
+90 8 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58044
+composite bow~
+a {rc{yom{Dpos{yit{re{y {rb{yo{Dw{x~
+A composite bow has been left here.~
+wood~
+weapon S AN
+bow 10 15 'thwack' F
+90 2 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58045
+spiked mace~
+a {Ds{wp{Wi{wke{Dd{w m{Wa{wc{De{x~
+A spiked mace has been left here.~
+steel~
+weapon 0 AN
+mace 10 15 'smash' 0
+90 5 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58046
+long handled flail~
+a {Dl{yon{Dg-h{yan{Dd{yle{Dd f{wl{Wa{wi{Dl{x~
+A long-handled flail has been left here.~
+steel~
+weapon 0 AN
+flail 10 15 'smash' 0
+90 5 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58047
+steel bladed brandistock polearm~
+a {Ds{wt{We{we{Dl-b{wl{Wad{we{Dd{x {Db{wr{yandisto{wc{Dk{x~
+A steel-bladed brandistock has been left here.~
+steel~
+weapon 0 AN
+polearm 10 15 'slash' F
+90 8 300 100
+A
+19 5
+A
+18 5
+A
+13 -40
+A
+12 -40
+#58048
+long curved sword blue silk hilt~
+a {Dl{won{Wg{D c{wurv{Wed{D s{wwo{Wrd{x with a {bb{Blu{be s{Bil{bk-w{Brappe{bd h{Bil{bt{x~
+A long curved sword has been left here.~
+steel~
+weapon 0 AN
+sword 7 12 'slash' F
+60 4 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58049
+long curved dagger blue silk hilt~
+a {Dl{won{Wg{D c{wurv{Wed{D d{wagg{Wer{x with a {bb{Blu{be s{Bil{bk-w{Brappe{bd h{Bil{bt{x~
+A long curved dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 7 12 'stab' 0
+60 2 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58050
+heavy battle hammer blue silk hilt mace~
+a {Dh{wea{Wvy{D b{watt{Wle{D h{wamm{Wer{x with a {bb{Blu{be s{Bil{bk-w{Brappe{bd h{Bil{bt{x~
+A heavy battle hammer has been left here.~
+steel~
+weapon 0 AN
+mace 7 12 'smash' F
+60 6 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58051
+heavy spiked flail blue silk hilt~
+a {Dh{wea{Wvy{D s{wpik{Wed{D f{wla{Wil{x with a {bb{Blu{be s{Bil{bk-w{Brappe{bd h{Bil{bt{x~
+A heavy spiked flail has been left here.~
+steel~
+weapon 0 AN
+flail 7 12 'smash' 0
+60 6 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58052
+sharp battle axe blue silk hilt~
+a {Ds{wha{Wrp{D b{watt{Wle{D a{wx{We{x with a {bb{Blu{be s{Bil{bk-w{Brappe{bd h{Bil{bt{x~
+A sharp battle axe has been left here.~
+steel~
+weapon 0 AN
+axe 7 12 'cleave' F
+60 6 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58053
+long bladed spear blue silk shaft~
+a {Dl{won{Wg{D b{wla{Wded{D s{wpe{War{x with a {bb{Blu{be s{Bil{bk-w{Brappe{bd s{Bhaf{bt{x~
+A long bladed spear has been left here.~
+steel~
+weapon 0 AN
+spear 7 12 'stab' 0
+60 4 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58054
+long whip braided black red leather~
+a {rl{Don{rg w{Dhi{rp{x made of {rb{Dr{ra{Di{rd{De{rd{x {Db{wl{Da{wc{Dk{x and {rr{Re{rd{x {rl{De{ra{Dt{rh{De{rr{x~
+A long whip has been left here.~
+leather~
+weapon S AN
+whip 7 12 'beating' 0
+60 2 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58055
+hawthorn quarterstaff staff~
+a {gh{yaw{Dth{yor{gn q{yuar{Dters{ytaf{gf{x~
+A quarterstaff has been left here.~
+wood~
+weapon S AN
+staff 7 12 'smash' F
+60 5 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58056
+massive longbow bow~
+a {rm{yassiv{re l{yongbo{rw{x~
+A longbow has been left here.~
+wood~
+weapon S AN
+bow 7 12 'thwack' F
+60 2 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58057
+steel tipped lance golden streamers~
+a {Ds{wt{We{we{Dl-t{wi{Wpp{we{Dd l{wa{Wn{wc{De{x adorned with {yg{Yo{Wld{Ye{yn s{Ytr{Weam{Yer{ys{x~
+A steel-tipped lance has been left here.~
+steel~
+weapon 0 AN
+lance 7 12 'thrust' 0
+60 8 295 100
+A
+13 -20
+A
+12 -20
+A
+18 2
+A
+19 2
+#58058
+ashandrei red oak haft steel blade polearm~
+an {Da{ws{Wh{wa{Wn{wd{Wr{we{Di{x with a {rr{ye{rd o{ya{rk{w {rh{yaf{rt{x and a {Ds{wt{We{we{Dl b{wl{Wa{wd{De{x~
+An ashandrei has been left here.~
+steel~
+weapon 0 AN
+polearm 7 12 'slash' F
+60 8 295 100
+A
+13 -20
+A
+12 -60
+A
+18 2
+A
+19 4
+#58059
+tables chairs benches stools~
+one of the {yt{Da{ybl{De{ys{x~
+A lot of the floor space within the common room has been taken up by dozens of {yt{Da{ybl{De{ys{x, {yc{Dh{yai{Dr{ys{x, {ys{Dt{yoo{Dl{ys{x and {yb{De{ynch{De{ys{x.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#58060
+tables chairs benches stools~
+one of the {yt{Yab{Wles{x~
+Scores of {yt{Yab{Wles{x fill the common room floor with {yc{Yha{Wirs{x, {ys{Yto{Wols{x and {yb{Yenc{Whes{x surrounding them.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#58061
+silver teardrop earring~
+a {Ws{wi{Dlv{we{Wr te{wa{Drd{wr{Wop ea{wr{Dr{wi{Wng{x~
+This is a silver earring in the shape of a teardrop.~
+silver~
+armor K AU
+20 20 20 10 0
+70 1 150 100
+A
+17 -5
+A
+18 1
+A
+19 1
+#58062
+large table stools~
+a {yl{Yar{Wge {yt{Yab{Wle{x ~
+A {yl{Yar{Wge {yt{Yab{Wle{x surrounded by {ys{Yto{Wols{x stands at the center of the kitchen.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#58063
+high backed chairs dining table~
+one of the {bp{Badde{bd{x {yh{Yi{Wgh-{yb{Yac{Wked {yc{Yha{Wirs{x surrounding the {yd{Yin{Wing {yt{Yab{Wle{x~
+At the center of the room is a {yd{Yin{Wing {yt{Yab{Wle{x surrounded by {bp{Badde{bd{x {yh{Yi{Wgh-{yb{Yac{Wked {yc{Yha{Wirs{x.~
+wood~
+furniture S P
+10 10000 EHK 100 100
+0 0 0 100
+#58064
+high backed chairs dining table~
+one of the {gp{Gadde{gd{x {yh{Yi{Wgh-{yb{Yac{Wked {yc{Yha{Wirs{x surrounding the {yd{Yin{Wing {yt{Yab{Wle{x~
+At the center of the room is a {yd{Yin{Wing {yt{Yab{Wle{x surrounded by {gp{Gadde{gd{x {yh{Yi{Wgh-{yb{Yac{Wked {yc{Yha{Wirs{x.~
+wood~
+furniture S P
+10 100 EHK 100 100
+0 0 0 100
+#58065
+silver capped baton~
+a {Ds{wi{Wlv{we{Dr-c{wa{Wpp{we{Dd{x {yb{Da{yt{Do{yn{x~
+This is a long baton made of dark wood that sports a silver cap on either end.~
+wood~
+weapon K AN
+staff 7 12 'smash' 0
+65 2 300 100
+A
+18 5
+A
+3 -2
+#58066
+long silk vest blue~
+a {cl{Cong ves{ct{x made of {cb{Clue sil{ck{x~
+A long silk vest has been left here.~
+silk~
+armor KS AD
+19 19 19 8 0
+65 3 200 100
+A
+4 2
+A
+3 1
+#58067
+spontoon dark steel blade~
+a {Dspont{wo{Wo{wn{x with a {Dd{wa{Wr{wk{D st{we{We{wl{x {Dbl{wa{Wd{we{x~
+This is a robust spontoon with a  sharp dark steel blade.~
+steel~
+weapon 0 AN
+spear 10 15 'stab' 0
+90 5 300 100
+A
+19 10
+A
+18 5
+A
+12 -200
+A
+17 -25
+#58068
+round steel cap~
+a {Dr{wou{Wnd{D s{wte{Wel{D c{wa{Wp{x~
+A round steel cap has been left here.~
+steel~
+armor 0 AE
+26 26 26 12 0
+90 3 300 100
+A
+17 -10
+A
+18 4
+#58069
+heavy boots black leather~
+{Dhe{wa{Wv{Dy bo{wo{Wt{Ds{x made of {Dbl{wa{Wc{Dk leat{wh{We{Dr{x~
+A pair of heavy boots has been left here.~
+leather~
+armor S AG
+26 26 26 12 0
+90 3 85 100
+A
+18 6
+#58070
+studded leather jerkin~
+a {Dst{wudd{Wed{x {Dl{yeathe{Dr j{yerki{Dn{x~
+A studded leather jerkin has been left here.~
+leather~
+armor 0 AD
+26 26 26 12 0
+90 6 100 100
+A
+5 3
+A
+1 3
+#58071
+long cloak red wool~
+a {rl{Ron{rg c{Rloa{rk{x made of {rr{Red woo{rl{x~
+A cloak made of red wool has been left here.~
+wool~
+armor S AK
+26 26 26 12 0
+90 6 60 100
+A
+2 3
+A
+3 3
+#58072
+blue light aura authority~
+an {ba{Bu{Cr{ca{x of {bau{Bth{wo{Cri{cty{x~
+There is a strange blue shimmering light here.~
+cloth~
+armor S AQ
+26 26 26 12 0
+90 0 0 100
+A
+3 -4
+A
+18 5
+A
+19 5
+#58073
+black leather bracer~
+a {Dblack leather bracer{x~
+A black leather bracer has been left here.~
+wool~
+armor S AM
+26 26 26 12 0
+90 1 100 100
+A
+13 40
+A
+19 2
+A
+18 2
+#58074
+crab apple tree~
+a {gc{Gra{gb a{Gppl{ge t{Gre{ge{x~
+An old and gnarled {gc{Gra{gb a{Gppl{ge t{Gre{ge{x grows at the bottom of the garden.~
+wood~
+container S P
+10 0 0 10 100
+0 0 0 100
+#58075
+terracotta strawberry pots plants~
+a {yterracotta strawberry pot{x~
+{gS{rt{Rrawber{rr{gy p{rl{Ran{rt{gs{x grow in abundance in {yterracotta strawberry pots{x neatly arranged at the top of the garden.~
+ceramic~
+container S P
+10 0 0 10 100
+0 0 0 100
+#58076
+crab small green apple~
+a {gc{Gra{gb a{Gppl{ge{x~
+A small green apple has been left here.~
+food~
+food S A
+1 1 0 0 0
+0 1 0 100
+#58077
+strawberry~
+a {gs{rt{Rrawber{rr{gy{x~
+A strawberry has been left here.~
+food~
+food S A
+1 1 0 0 0
+0 1 0 100
+#58078
+cot rough wooden bench~
+a {ycot{x~
+Placed at the southern end of the cell is a {ycot{x which is little more than a {yrough {x{ywooden bench{x.~
+wood~
+furniture S P
+1 1000 0 100 100
+0 0 0 100
+#58079
+lightweight chainmail tunic~
+a {cl{Ci{wgh{Ct{cw{Ce{wig{Ch{ct {Dc{wh{Wa{wi{Dn{wm{Wa{wi{Dl t{wu{Wn{wi{Dc{x~
+A chainmail tunic has been left here.~
+steel~
+armor 0 AD
+21 21 21 12 0
+75 5 250 100
+A
+17 -10
+A
+2 2
+#58080
+lightweight chainmail coif~
+a {cl{Ci{wgh{Ct{cw{Ce{wig{Ch{ct {Dc{wh{Wa{wi{Dn{wm{Wa{wi{Dl c{wo{Wi{wf{x~
+A chainmail coif has been left here.~
+steel~
+armor 0 AE
+21 21 21 12 0
+75 1 250 100
+A
+17 -10
+A
+2 2
+#58081
+lightweight chainmail sleeves~
+a set of {cl{Ci{wgh{Ct{cw{Ce{wig{Ch{ct {Dc{wh{Wa{wi{Dn{wm{Wa{wi{Dl{x {Ds{wle{We{wve{Ds{x~
+A set of chainmail sleeves has been left here.~
+steel~
+armor 0 AI
+21 21 21 12 0
+75 1 250 100
+A
+17 -10
+A
+1 2
+#58082
+lightweight chainmail leggings~
+a set of {cl{Ci{wgh{Ct{cw{Ce{wig{Ch{ct {Dc{wh{Wa{wi{Dn{wm{Wa{wi{Dl{x {Dl{weg{Wgi{wng{Ds{x~
+A set of chainmail leggings has been left here.~
+steel~
+armor 0 AF
+21 21 21 12 0
+75 1 250 100
+A
+17 -10
+A
+1 2
+#58083
+heavy pickaxe~
+a {Dh{weav{Dy p{wic{Dk{wax{De{x~
+A heavy pickaxe has been left here.~
+steel~
+weapon 0 AN
+exotic 5 9 'smash' F
+35 8 175 100
+#58084
+large hammer mace~
+a {Dl{warg{De h{wamme{Dr{x~
+A large hammer has been left here.~
+steel~
+weapon 0 AN
+mace 5 9 'smash' 0
+35 8 175 100
+#58085
+razor sharp scythe polearm~
+a {Dr{wa{Wz{wo{Dr-s{wh{Wa{wr{Dp sc{wy{Wt{wh{De{x~
+A razor-sharp scythe has been left here.~
+steel~
+weapon 0 AN
+polearm 5 9 'slash' F
+35 8 175 100
+#58086
+belt knife dagger~
+a {Db{wel{Dt k{wnif{De{x~
+A belt knife has been left here.~
+steel~
+weapon 0 AN
+dagger 5 9 'stab' 0
+35 1 150 100
+#58087
+golden arrow~
+a {yg{Yo{Wld{Ye{yn a{Yr{Wr{Yo{yw{x~
+An arrow with golden fletchings has been left here.~
+wood~
+weapon S AO
+arrow 10 15 'pierce' 0
+90 0 1 100
+#58088
+long lance blackened steel~
+a {rl{Don{rg l{Danc{re{x tipped with {Dblack{we{Wn{we{Dd st{we{We{wl{x~
+A long lance has been left here.~
+steel~
+weapon 0 AN
+lance 10 15 'thrust' 0
+90 8 300 100
+A
+17 -25
+A
+13 -100
+A
+18 5
+A
+12 -100
+A
+19 6
+#58089
+twisted metal staff~
+a {Dt{ww{Wi{ws{Wt{we{Dd m{we{Wt{wa{Dl s{wt{Wa{wf{Df{x~
+This is a staff forged from two pieces of iron twisted together.~
+iron~
+weapon 0 AN
+staff 9 14 'smash' F
+80 10 300 100
+A
+19 2
+A
+18 2
+#58090
+armchairs~
+one of the {ya{Dr{wmchai{Dr{ys{x~
+A pair of {ya{Dr{wmchai{Dr{ys{x have been neatly arranged around the {Dh{weart{Dh{x.~
+wood~
+furniture S P
+2 2000 EHK 100 100
+0 0 0 100
+#58091
+oak table chairs~
+the {yo{Ya{Wk{y t{Ya{Wble{x~
+A large {yo{Ya{Wk{y t{Ya{Wble{x surrounded by {yc{Yh{Wairs{x has been placed at the opposite end of the room to the {Dh{weart{Dh{x.~
+wood~
+furniture S P
+6 6000 DGJ 100 100
+0 0 0 100
+#58092
+silver crescent moon pendant~
+a {Wsi{wl{Dv{we{Wr cre{ws{Dc{we{Wnt m{wo{Do{wn{W pe{wn{Dd{wa{Wnt{x~
+This is a silver pendant in the shape of a crescent moon.~
+silver~
+armor 0 AC
+26 26 26 12 0
+90 1 300 100
+A
+18 6
+#58093
+blazing golden sunburst pendant~
+a {yg{Yo{Wld{Ye{yn s{Yu{Wnbur{Ys{yt p{Ye{Wnda{Yn{yt{x~
+This is a gold pendant in the shape of a blazing sun.~
+gold~
+armor 0 AC
+26 26 26 12 0
+90 1 300 100
+A
+19 6
+#58094
+oak beds~
+one of the two {ro{ya{Yk{r b{ye{Yd{Ws{x~
+A pair of {ro{ya{Yk{r b{ye{Yd{Ws{x have been placed either side of the window.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+#58095
+oak wardrobe~
+an {ro{ya{Yk{x {rwa{yrd{Yro{Wbe{x~
+In the corner of the room is a tall {ro{ya{Yk{x {rwa{yrd{Yro{Wbe{x.~
+wood~
+container S P
+200 AC 0 200 100
+0 0 0 100
+#58096
+oak bed~
+a {ro{ya{Yk{r b{ye{Yd{x~
+A large {ro{ya{Yk{r b{ye{Yd{x has been placed inside the room.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+#58097
+black hooded cloak~
+a {Dblack hooded cloak{x~
+A {Dblack hooded cloak{x has been left hung up here.~
+wool~
+armor S AK
+24 24 24 13 0
+85 4 60 100
+A
+17 -25
+#58098
+black leather belt~
+a {Dblack leather belt{x~
+A {Dblack leather belt{x has been left here.~
+leather~
+armor S AL
+24 24 24 13 0
+85 1 85 100
+A
+18 1
+A
+19 1
+A
+17 -15
+#58099
+rapier sword~
+a {Dr{wa{Wpi{we{Dr{x~
+A rapier has been left here.~
+steel~
+weapon 0 AN
+sword 9 14 'slash' 0
+85 4 200 100
+A
+3 -1
+A
+19 3
+A
+18 3
+#58100
+headband red black cloth~
+a {rh{Re{wa{Ddb{wa{Rn{rd{x made of {rr{Re{rd{x and {Db{wl{Da{wc{Dk{x {rc{Rl{Do{Rt{rh{x twisted together~
+This is a headband made of red and black cloth twisted together.~
+cloth~
+armor KS AE
+24 24 24 13 0
+85 1 45 100
+A
+4 5
+#58101
+eyepatch red cloth~
+an {re{Rye{rpa{Rtc{rh{x made of {rr{Re{rd c{Rlot{rh{x~
+This is an eyepatch made of red cloth.~
+cloth~
+armor KS AV
+24 24 24 13 0
+85 1 45 100
+A
+2 5
+#58102
+silver hoop earring~
+a {ws{Di{wl{Wv{we{Dr{w h{Do{wo{Wp{w e{Da{wr{Wr{wi{Dn{wg{x~
+A silver hoop earring has been left here.~
+silver~
+armor K AU
+24 24 24 13 0
+85 1 100 100
+A
+17 -25
+#58103
+red cloth sleeves~
+{rr{Re{rd c{Rlot{rh s{Rl{re{Re{rv{Re{rs{x~
+A set of red cloth sleeves has been left here.~
+cloth~
+armor S AI
+24 24 24 13 0
+85 1 45 100
+A
+1 1
+A
+3 1
+A
+2 1
+A
+4 1
+A
+5 1
+#58104
+black leather coin purse~
+a {Dblack leather coin purse{x~
+A black leather coin purse has been left here.~
+leather~
+money Yb A
+0 75 0 0 0
+85 1 0 100
+#58105
+loaf bread~
+a {yloaf{w of {ybread{x~
+A loaf of bread has been left here.~
+food~
+food S A
+4 4 0 0 0
+0 1 15 100
+#58106
+raspberry cheesecake~
+a {yr{Ya{ms{Mpbe{mr{Yr{yy c{Yh{me{Mesec{ma{Yk{ye{x~
+A raspberry cheesecake has been left here.~
+food~
+food S A
+4 4 0 0 0
+0 1 14 100
+#58107
+sheet notepaper paper~
+a sheet of {Wnotepaper{x~
+A sheet of notepaper has been left here.~
+paper~
+notepaper S AO
+0 0 0 0 0
+0 0 0 100
+#58108
+small oil lantern~
+an {Do{yi{Yl{y {Dl{ya{Ynte{yr{Dn{x~
+A small oil lantern has been hung up here.~
+brass~
+light 0 A
+0 0 5 0 0
+0 1 100 100
+#58109
+red leather satchel~
+a {rr{ye{rd l{ye{rath{ye{rr s{ya{rtch{ye{rl{x~
+This is a satchel made of red leather.~
+leather~
+container Sb AK
+50 AC 0 50 100
+0 1 85 100
+#58110
+bottle whisky~
+a {Db{wot{Wtl{we{x of {ywhisky{x~
+A small bottle of whisky has been left here.~
+glass~
+drink S A
+2 2 'whisky' 0 0
+0 1 30 100
+#58111
+blue kite shield~
+a {bb{Blu{be k{Bit{be s{Bhiel{bd{x~
+A blue kite shield has been left here.~
+steel~
+armor 0 AJ
+26 26 26 12 0
+90 5 300 100
+A
+17 -40
+A
+2 -2
+#58112
+white gold ring~
+a {ww{Whit{we g{Wol{wd r{Win{wg{x~
+A white gold ring has been left here.~
+gold~
+armor 0 AB
+26 26 26 12 0
+90 1 200 100
+A
+5 3
+A
+4 3
+#58113
+red gray tabard~
+a {rr{Re{rd{x and {Dg{wra{Dy{x {rt{Ra{wba{Rr{rd{x~
+A red and gray tabard has been left here.~
+cloth~
+armor S AD
+26 26 26 12 0
+90 2 45 100
+A
+12 60
+A
+13 60
+#58114
+steel tipped spear red gray tassels~
+a {Ds{wt{We{we{Dl-t{wi{Wpp{we{Dd s{wp{We{wa{Dr{x adorned with {rr{Re{rd{x and {Dg{wra{Dy{x {rt{Ra{wsse{Rl{rs{x~
+A steel-tipped spear has been left here.~
+steel~
+weapon 0 AN
+spear 10 15 'stab' 0
+90 5 275 100
+A
+19 4
+A
+18 4
+A
+3 -2
+#58115
+broad writing desk padded chairs~
+the {Db{rr{Do{ra{Dd {rw{Dr{ri{Dt{ri{Dn{rg {Dd{re{Ds{rk{x~
+A {Db{rr{Do{ra{Dd {rw{Dr{ri{Dt{ri{Dn{rg {Dd{re{Ds{rk{x and two matching {rp{Ra{rdd{Re{rd{x {Dc{rh{Da{ri{Dr{rs{x have been arranged at the center of the room.~
+wood~
+furniture S P
+2 2000 DGJ 100 100
+0 0 0 100
+#58116
+iron safe~
+an {Di{wro{Dn s{waf{De{x~
+A {yp{Yo{rr{Rtr{ra{Yi{yt{x of the {rQ{Ru{We{Re{rn{x of {rA{Rn{Wd{Ro{rr{x in a {yg{Yi{Wld{Ye{yd f{Yr{Wa{Ym{ye{x hangs on the wall above the {Df{wir{De{wp{Dl{wac{De{x.~
+iron~
+container 0 P
+25 ABCD 58118 25 100
+0 0 0 100
+E
+iron safe~
+A {yp{Yo{rr{Rtr{ra{Yi{yt{x of the {rQ{Ru{We{Re{rn{x of {rA{Rn{Wd{Ro{rr{x in a {yg{Yi{Wld{Ye{yd f{Yr{Wa{Ym{ye{x hangs on the wall
+above the {Df{wir{De{wp{Dl{wac{De{x.  There is an {Di{wro{Dn s{waf{De{x hidden behind the {yp{Yo{rr{Rtr{ra{Yi{yt{x.  
+~
+E
+portrait queen andor gilded frame~
+A {yp{Yo{rr{Rtr{ra{Yi{yt{x of the {rQ{Ru{We{Re{rn{x of {rA{Rn{Wd{Ro{rr{x in a {yg{Yi{Wld{Ye{yd f{Yr{Wa{Ym{ye{x hangs on the wall
+above the {Df{wir{De{wp{Dl{wac{De{x.  
+~
+#58117
+pile gold coins~
+a pile of {yg{Yol{Wd co{Yin{ys{x~
+A pile of {yg{Yol{Wd co{Yin{ys{x has been tucked away in the corner of the {Di{wro{Dn s{waf{De{x.~
+gold~
+money a A
+0 100 0 0 0
+0 0 0 100
+#58118
+small key white lion andor~
+a {Ds{wma{Wll k{we{Dy{x engraved with the {WWhite Lion{x of {rA{Rn{Wd{Ro{rr{x~
+This is a small iron key that has been engraved with the White Lion of Andor.~
+iron~
+key HPUYb A
+0 0 0 0 0
+0 0 0 100
+#58119
+armchairs~
+one of the {ba{Br{bm{Bcha{bi{Br{bs{x next to the {Df{wir{De{wp{Dl{wac{De{x~
+A pair of {ba{Br{bm{Bcha{bi{Br{bs{x has been arranged around the {Df{wir{De{wp{Dl{wac{De{x.~
+wood~
+furniture Sa P
+2 2000 EHK 100 100
+0 0 0 100
+#58120
+armchairs~
+one of the {ra{Rr{rm{Rcha{ri{Rr{rs{x next to the {Df{wir{De{wp{Dl{wac{De{x~
+A pair of {ra{Rr{rm{Rcha{ri{Rr{rs{x has been arranged around the {Df{wir{De{wp{Dl{wac{De{x.~
+wood~
+furniture Sa P
+2 2000 EHK 100 100
+0 0 0 100
+#58121
+armchairs~
+one of the {ga{Gr{gm{Gcha{gi{Gr{gs{x next to the {Df{wir{De{wp{Dl{wac{De{x~
+A pair of {ga{Gr{gm{Gcha{gi{Gr{gs{x has been arranged around the {Df{wir{De{wp{Dl{wac{De{x.~
+wood~
+furniture Sa P
+2 2000 EHK 100 100
+0 0 0 100
+#58122
+washstand~
+a {yw{Da{yshsta{Dn{yd{x~
+A {yw{Da{yshsta{Dn{yd{x complete with a {wp{Worcelai{wn b{Wow{wl{x and {wp{Witche{wr{x has been placed in one corner of the guest room.~
+wood~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+#58123
+ornately carved wardrobe~
+an {yo{Dr{ynate{Dl{yy c{Da{yrv{De{yd w{Da{yrdro{Db{ye{x~
+This room has been furnished with an {yo{Dr{ynate{Dl{yy c{Da{yrv{De{yd w{Da{yrdro{Db{ye{x.~
+wood~
+container S P
+200 AC 0 200 100
+0 0 0 100
+#58124
+large wooden trunk~
+a {yl{Da{yr{Dg{ye w{Do{yod{De{yn t{Dr{yu{Dn{yk{x~
+A {yl{Da{yr{Dg{ye w{Do{yod{De{yn t{Dr{yu{Dn{yk{x has been placed against one of the walls.~
+wood~
+container S P
+200 AC 0 200 100
+0 0 0 100
+#58125
+small beds~
+one of the {ys{Dm{ya{Dl{yl b{De{yds{x~
+A pair of {ys{Dm{ya{Dl{yl b{De{yds{x has been placed on either side of the room.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+#58126
+large four poster bed~
+a {yl{Da{yr{Dg{ye f{Do{yu{Dr{y-p{Do{yst{De{yr b{De{yd{x adorned with {Ws{wh{We{we{Wr w{wh{Wi{wt{We d{wr{Wap{we{Ws{x~
+At the center of the room is a {yl{Da{yr{Dg{ye f{Do{yu{Dr{y-p{Do{yst{De{yr b{De{yd{x adorned with {Ws{wh{We{we{Wr w{wh{Wi{wt{We d{wr{Wap{we{Ws{x.~
+wood~
+furniture S P
+2 2000 EIL 150 150
+0 0 0 100
+#58127
+small trunk~
+a {ys{Dm{ya{Dl{yl{x {yt{Dr{yu{Dn{yk{x~
+A {ys{Dm{ya{Dl{yl{x {yt{Dr{yu{Dn{yk{x has been stashed underneath the {yb{De{yd{x.~
+wood~
+container Sa P
+25 AC 0 25 100
+0 0 0 100
+#58128
+chest drawers~
+a {yc{Dh{ye{Ds{yt{x of {yd{Dr{yawe{Dr{ys{x~
+The bedroom is furnished with a {yc{Dh{ye{Ds{yt{x of {yd{Dr{yawe{Dr{ys{x.~
+wood~
+container S P
+200 0 0 200 100
+0 0 0 100
+#58129
+small bed~
+a {ys{Dm{ya{Dl{yl b{De{yd{x~
+A {ys{Dm{ya{Dl{yl b{De{yd{x has been placed against the north wall.~
+wood~
+furniture S P
+2 2000 EIL 200 200
+0 0 0 100
+#58130
+wisdom crooked wooden cudgel~
+a {yW{Yi{Wsd{Yo{ym's c{Du{ydg{De{yl{x~
+A crooked wooden cudgel has been left here.~
+wood~
+weapon S AN
+mace 10 15 'smash' 0
+90 1 150 100
+A
+4 6
+#58131
+plain white shift~
+a {Wplain white shift{x~
+A plain white shift has been neatly folded here.~
+cloth~
+armor S AD
+26 26 26 12 0
+90 1 45 100
+A
+4 3
+A
+3 3
+#58132
+green hat wide brim~
+a {ggreen hat{x with a {gwide brim{x~
+A green hat with a wide brim has been left here.~
+cloth~
+armor KS AE
+21 21 21 9 0
+72 1 45 100
+A
+4 3
+#58133
+plain white cuff~
+a {wp{Wlai{wn w{Whit{we c{Wuf{wf{x~
+A cuff has been left here.~
+cloth~
+armor KS AM
+21 21 21 9 0
+72 1 45 100
+A
+19 2
+A
+18 2
+A
+17 5
+#58134
+snug green breeches~
+a pair of {gsnug green breeches{x~
+A pair of breeches has been left here.~
+wool~
+armor KS AF
+21 21 21 9 0
+72 3 60 100
+A
+1 1
+A
+2 2
+#58135
+long green vest~
+a {glong green vest{x~
+A vest has been left here.~
+wool~
+armor KS AD
+21 21 21 9 0
+72 3 60 100
+A
+2 1
+A
+5 2
+#58136
+plain white shirt sleeves~
+{wp{Wlai{wn w{Whit{we{x {ws{Whir{wt s{Wleeve{ws{x~
+A set of shirt sleeves has been left here.~
+cloth~
+armor KS AI
+21 21 21 9 0
+72 1 45 100
+A
+19 3
+#58137
+plain white collar~
+a {wp{Wlai{wn w{Whit{we{x {wc{Wolla{wr{x~
+A collar has been left here.~
+cloth~
+armor KS AC
+21 21 21 9 0
+72 1 45 100
+A
+19 1
+A
+18 1
+A
+17 -5
+#58138
+dusty leather boots~
+a pair of {Dd{wu{ys{wt{Dy l{we{yath{we{Dr b{wo{yo{wt{Ds{x~
+A pair of boots has been left here.~
+leather~
+armor KS AG
+21 21 21 9 0
+72 2 85 100
+A
+5 1
+A
+1 1
+A
+2 1
+#58139
+dull steel spear~
+a {Dd{wul{Dl s{wtee{Dl s{wpea{Dr{x~
+A dull steel spear has been left here.~
+steel~
+weapon 0 AN
+spear 8 13 'stab' 0
+72 7 150 100
+A
+19 3
+#58140
+bearded axe~
+a {Wb{we{Dard{we{Wd a{wx{We{x~
+A bearded axe has been left here.~
+steel~
+weapon 0 AN
+axe 8 13 'cleave' F
+72 7 150 100
+A
+19 3
+#58141
+small key engraved three 3~
+a {Ds{wm{Wa{wl{Dl{W k{we{Dy{x engraved with the number {y"{Y3{y"{x~
+This is a small key that has been engraved with the number three.~
+iron~
+key a A
+0 0 0 0 0
+0 0 0 100
+#58142
+copper bathtubs~
+one of the {yc{Yo{ypp{Ye{yr b{Ya{ythtu{Yb{ys{x~
+There are a dozen tall {yc{Yo{ypp{Ye{yr b{Ya{ythtu{Yb{ys{x that stand in a circle around the drain.~
+copper~
+furniture 0 P
+12 10000 FI 100 100
+0 0 0 100
+E
+copper bathtubs~
+There are a dozen tall {yc{Yo{ypp{Ye{yr b{Ya{ythtu{Yb{ys{x that stand in a circle around the
+drain.  Behind each {yb{Ya{ythtu{Yb{x is a {ys{Dt{yo{Do{yl{x with a {wt{Wh{wi{Wc{wk t{Wo{ww{We{wl{x neatly folded and
+large cake of {yy{Yello{yw s{Yoa{yp{x sat upon it.  
+~
+#58143
+tall cabinet~
+a {yt{Da{yll c{Da{ybin{De{yt{x~
+A {yt{Da{yll c{Da{ybin{De{yt{x has been placed at the end of the hallway.~
+wood~
+container 0 P
+100 AC 0 100 100
+0 0 0 100
+#58144
+fluffy bath towel~
+a {wf{Wl{wu{Wf{wf{Wy{x {wb{Wa{wt{Wh{w t{Wo{ww{We{wl{x~
+A {wb{Wa{wt{Wh{w t{Wo{ww{We{wl{x has been neatly folded and placed here.~
+cloth~
+armor S AD
+3 3 3 1 0
+10 1 45 100
+#58145
+large wooden bucket~
+a {yl{Da{yr{Dg{ye w{Do{yod{De{yn b{Du{yck{De{yt{x~
+A large wooden bucket has been left here.~
+wood~
+drink S AO
+10 0 'water' 0 0
+0 2 0 100
+#58146
+wooden bath dipper~
+a {yw{Do{yod{De{yn{x {yb{Da{yt{Dh{y d{Di{ypp{De{yr{x~
+A bath dipper carve dout of wood has been left here.~
+wood~
+trash S AO
+0 0 0 0 0
+0 1 0 100
+#58147
+small key engraved two 2~
+a {Ds{wm{Wa{wl{Dl{W k{we{Dy{x engraved with the number {m"{M2{m"{x~
+This is a small key that has been engraved with the number two.~
+iron~
+key a A
+0 0 0 0 0
+0 0 0 100
+#58148
+small key engraved one 1~
+a {Ds{wm{Wa{wl{Dl{W k{we{Dy{x engraved with the number {c"{C1{c"{x~
+This is a small key that has been engraved with the number one.~
+iron~
+key a A
+0 0 0 0 0
+0 0 0 100
+#58149
+grand dining table~
+a {Dg{rr{Da{rn{Dd d{ri{Dni{rn{Dg t{ra{Db{rl{De{x~
+A {Dg{rr{Da{rn{Dd d{ri{Dni{rn{Dg t{ra{Db{rl{De{x stands at the center of the room surrounded by a cluster of {Dc{rh{Da{ri{Dr{rs{x.~
+wood~
+furniture S P
+10 10000 DGJ 100 100
+0 0 0 100
+#58150
+large four poster bed~
+a {Dl{ra{Dr{rg{De f{ro{Dur-p{ro{Dst{re{Dr b{re{Dd{x~
+At the center of the bedroom is a {Dl{ra{Dr{rg{De f{ro{Dur-p{ro{Dst{re{Dr b{re{Dd{x adorned with {Ws{wh{We{we{Wr w{wh{Wi{wt{We d{wr{Wap{we{Ws{x.~
+wood~
+furniture S P
+4 4000 EIL 175 175
+0 0 0 100
+#58151
+small trunk~
+a {ys{Dm{ya{Dl{yl{x {yt{Dr{yu{Dn{yk{x~
+A {ys{Dm{ya{Dl{yl{w {yt{Dr{yu{Dn{yk{x has been stashed underneath the {Df{ro{Dur-p{ro{Dst{re{Dr b{re{Dd{x.~
+wood~
+container Sa P
+10 AC 0 10 100
+0 0 0 100
+#58152
+long sword~
+a {Dl{won{Wg sw{wor{Dd{x~
+A long sword has been left here.~
+steel~
+weapon 0 AN
+sword 5 8 'slash' F
+20 4 150 100
+A
+18 1
+#58153
+short spear~
+a {Ds{wh{Wo{wr{Dt s{wp{We{wa{Dr{x~
+A short spear with a steel tip has been left here.~
+steel~
+weapon 0 AN
+spear 9 14 'stab' 0
+80 4 300 100
+A
+18 4
+#58154
+blue crystal teardrop earring~
+a {cb{Clu{We {Cc{Wry{Csta{cl{x {ct{Ce{Wardr{Co{cp{W {ce{Ca{Wrri{Cn{cg{x~
+A blue crystal earring cut into the shape of a teardrop.~
+crystal~
+armor S AU
+17 17 17 9 0
+60 1 125 100
+A
+19 1
+A
+18 1
+#58155
+pink crystal teardrop earring~
+a {mp{Min{Wk {Mc{Wry{Msta{ml{x {mt{Me{Wardr{Mo{mp e{Ma{Wrri{Mn{mg{x~
+A pink crystal earring cut into the shape of a teardrop.~
+crystal~
+armor S AU
+23 23 23 11 0
+80 1 150 100
+A
+19 2
+A
+18 2
+#58156
+apple pie~
+an {ga{Gppl{ge{w {ypie{w{x~
+An apple pie has been left here.~
+food~
+food S A
+4 4 0 0 0
+0 1 14 100
+#58157
+honeycake~
+a {Yh{yoneycak{Ye{w{x~
+A honeycake has been left here.~
+food~
+food S A
+2 2 0 0 0
+0 1 10 100
+#58158
+lightweight round shield~
+a {cl{Ci{wgh{Ct{cw{Ce{wig{Ch{ct{x {Dr{wo{Wu{wn{Dd s{wh{Wie{wl{Dd{x~
+A lightweight shield has been left here.~
+steel~
+armor 0 AJ
+21 21 21 12 0
+75 4 300 100
+A
+17 -20
+#0
+
+
+
+#ROOMS
+#58001
+A Well Traveled Road~
+This is a wide {yroad{x that cuts through a vast area of {gg{Grasslan{gd{x and
+{gf{Go{gres{Gt{gs{x that are overshadowed by the {Dj{wa{Wgg{we{Dd p{we{Wa{wk{Ds{x of the {DM{wou{Wnta{win{Ds{x of the
+{DM{wi{Ws{wt{x along the western horizon.  To the east the {yroad{x leads to a large {Dt{yow{Dn{x
+that is surrounded by tall {yl{Do{yg p{Da{ylisa{Dd{ye{x.  {yF{garm{ys{x lay scattered around the
+{Dt{yow{Dn{x, the majority of them lie to the north whilst only a few break up the
+{gwo{Go{gdla{Gn{gds{x south of the {Dt{yow{Dn{x.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58159
+D1
+~
+~
+0 0
+0 0 58002
+S
+#58002
+Whitebridge Gate~
+The mining {Dt{yow{Dn{x of {DB{yaerlo{Dn{x is enclosed by a {yl{Do{yg p{Da{ylisa{Dd{ye{x that is roughly
+twenty feet in height and dotted with tall {yw{Do{yod{De{yn w{Da{ytch{Dt{yowe{Dr{ys{x that look out
+over the surrounding landscape.  The entrances into the {Dt{yow{Dn{x are marked by
+heavy {yw{Do{yod{De{yn{x {yg{Da{yt{De{ys{x bound with wide straps of {Db{wlac{Dk i{wro{Dn{x, one such entrance
+lies here.  A narrow slot cut into the wall halfway up acts as a {yp{Deephol{ye{x
+for the guardsmen on the other side.  
+~
+0
+0 14
+D1
+~
+gate~
+3 3
+1 0 58003
+D3
+~
+~
+0 0
+0 0 58001
+S
+#58003
+Whitebridge Gate~
+A wide {Dp{wa{Wv{we{Dd t{wh{Wo{wr{Do{wug{Dh{wf{Wa{wr{De{x ends here at a pair of heavy {yw{Do{yod{De{yn{x {yg{Da{yt{De{ys{x that
+are built into the {yl{Do{yg {x{yp{Da{ylisa{Dd{ye{x that surrounds the {Dt{yow{Dn{x.  To the east are
+the numerous tall yet narrow buildings that make up {DB{yaerlo{Dn{x that range from
+{Ds{wh{Wo{wp{Ds{x with colorful {ba{Bw{bn{Bi{bn{Bg{bs{x, rowdy {yi{wnn{ys{x and {yt{wa{Dv{we{Dr{wn{ys{x to the drab and dull
+{Dw{war{Wehou{wse{Ds{x.  
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 58004
+D3
+~
+gate~
+3 3
+1 0 58002
+S
+#58004
+Baerlon Road~
+This is a long road that leads east/west through {DB{yaerlo{Dn{x.  Like the rest
+of the main roads within this {Dt{yow{Dn{x, this road has been paved with square
+slabs of {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De{x.  A narrower road which is unpaved leads off to the
+north from this point.  Although there are a few {Dh{yo{wus{ye{Ds{x within this area,
+most of the buildings are {Ds{wh{Wo{wp{Ds{x, {yt{wa{Dv{we{Dr{wn{ys{x and {yi{wnn{ys{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58025
+D1
+~
+~
+0 0
+0 0 58005
+D2
+~
+~
+3 3
+1 0 58084
+D3
+~
+~
+0 0
+0 0 58003
+S
+#58005
+Baerlon Road~
+This is a wide road that leads east/west through the center of {DB{yaerlo{Dn{x. 
+The entire road has been clad with large square slabs of {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De{x.  Tall
+yet skinny buildings tower over the busy street, although there are a few
+{Dh{yo{wus{ye{Ds{x along this road the majority of the buildings are {Ds{wh{Wo{wp{Ds{x, {yi{wnn{ys{x and
+{yt{wa{Dv{we{Dr{wn{ys{x.  There is a narrower unpaved street flanked by tall {yw{Do{yod{De{yn f{De{ynci{Dn{yg{x
+that leads off to the south.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58085
+D1
+~
+~
+0 0
+0 0 58006
+D2
+~
+~
+0 0
+0 0 58038
+D3
+~
+~
+0 0
+0 0 58004
+S
+#58006
+Baerlon Road~
+This long {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{x {Dp{wa{Wv{we{Dd{x {wr{Wo{wa{Dd{x runs east/west through the mining {Dt{yow{Dn{x of
+{DB{yaerlo{Dn{x.  The majority of the buildings that flank this road are tall yet
+skinny frame structures that are capped with steeply sloping roofs which are
+covered with tiles.  A large building much larger than the rest sits on the
+north side of the road: the sign above the door reads {b"{BThe Miner's Rest{b"{x.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58079
+D1
+~
+~
+0 0
+0 0 58007
+D2
+~
+~
+3 3
+1 0 58116
+D3
+~
+~
+0 0
+0 0 58005
+S
+#58007
+Baerlon Road~
+This broad {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{x {Dp{wa{Wv{we{Dd{x {wr{Wo{wa{Dd{x runs east/west through {DB{yaerlo{Dn{x.  The
+majority of the buildings that flank this road are tall yet skinny frame
+structures that are capped with steeply sloping roofs that are covered with
+tiles.  A lot of the buildings along this road are {Ds{wh{Wo{wp{Ds{x with brightly
+colored {Ga{Yw{Wnin{Yg{Gs{x fitted to their fronts but there are a few {Dh{yo{wus{ye{Ds{x along this
+road too.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58101
+D1
+~
+~
+0 0
+0 0 58008
+D2
+~
+~
+3 3
+1 0 58087
+D3
+~
+~
+0 0
+0 0 58006
+S
+#58008
+Baerlon Road~
+Two broad roads that are paved with square slabs of {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De{x converge
+at this point.  Both of the roads are flanked by a collection of tall frame
+buildings with tiled roofs.  There are a few {Dh{yo{wus{ye{Ds{x and {yt{wa{Dv{we{Dr{wn{ys{x to be seen
+along the roads but the {Ds{wh{Wo{wp{Ds{x with their brightly colored {Ca{cw{Cn{ci{Cn{cg{Cs{x outnumber
+them.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58037
+D1
+~
+~
+0 0
+0 0 58009
+D3
+~
+~
+0 0
+0 0 58007
+S
+#58009
+Baerlon Road~
+Two broad paved roads converge at this point at the center of {DB{yaerlo{Dn{x. 
+Both roads are flanked by a collection of tall yet thin frame buildings with
+roofs that are clad with either slate or tiles.  There are a few {Dh{yo{wus{ye{Ds{x and
+{yt{wa{Dv{we{Dr{wn{ys{x here but the buildings that dominate this area in number are the
+{Ds{wh{Wo{wp{Ds{x with their brightly colored {Ma{mw{Mn{mi{Mn{mg{Ms{x.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58113
+D1
+~
+~
+0 0
+0 0 58010
+D2
+~
+~
+0 0
+0 0 58024
+D3
+~
+~
+0 0
+0 0 58008
+S
+#58010
+Baerlon Road~
+This is a long road that leads east/west through the mining {Dt{yow{Dn{x of
+{DB{yaerlo{Dn{x.  Like the rest of the main roads within this {Dt{yow{Dn{x, this road has
+been paved with {Dg{wr{Wa{wy {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{ws{x.  Tall yet narrow buildings sit on either
+side of the road; the majority of them are {Ds{wh{Wo{wp{Ds{x with brightly colored
+{ba{Bw{wn{Wi{wn{Bg{bs{x overhanging stalls set up outside their fronts.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58112
+D1
+~
+~
+0 0
+0 0 58011
+D2
+~
+~
+3 3
+1 0 58115
+D3
+~
+~
+0 0
+0 0 58009
+S
+#58011
+Baerlon Road~
+Two broad roads that are paved with {Dg{wr{Wa{wy {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{ws{x intersect at this
+point in {DB{yaerlo{Dn{x.  Both of the roads are bordered by numerous tall frame
+buildings with tiled roofs.  There are a few {Dh{yo{wus{ye{Ds{x, {yi{wnn{ys{x and {yt{wa{Dv{we{Dr{wn{ys{x
+visible along the roads but outnumbering them are {DB{yaerlo{Dn{x's {Ds{wh{Wo{wp{Ds{x with their
+colorful {ra{Rw{wn{Wi{wn{Rg{rs{x overhanging stalls set up outside their fronts.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58044
+D1
+~
+~
+0 0
+0 0 58012
+D2
+~
+~
+3 3
+1 0 58100
+D3
+~
+~
+0 0
+0 0 58010
+S
+#58012
+Baerlon Road~
+This is a long road that leads east/west through {DB{yaerlo{Dn{x.  Like the rest
+of the main roads within this {Dt{yow{Dn{x, this road has been paved with square
+slabs of {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De{x.  Tall yet narrow buildings sit on either side of the
+road; most of them are {Ds{wh{Wo{wp{Ds{x with vibrantly colored {ba{Bw{wn{Wi{wn{Bg{bs{x overhanging
+stalls set up outside their fronts.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58013
+D2
+~
+~
+3 3
+1 0 58114
+D3
+~
+~
+0 0
+0 0 58011
+S
+#58013
+Baerlon Road~
+This is a broad flagstone road that leads east/west through the middle of
+{DB{yaerlo{Dn{x.  Tall yet narrow buildings tower over the busy street, although
+there are a few {Dh{yo{wus{ye{Ds{x along this road the majority of the buildings are
+{Ds{wh{Wo{wp{Ds{x, {yi{wnn{ys{x and {yt{wa{Dv{we{Dr{wn{ys{x.  There is a narrower unpaved street flanked by tall
+{yw{Do{yod{De{yn f{De{ynci{Dn{yg{x that leads off to the south.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58014
+D2
+~
+~
+0 0
+0 0 58054
+D3
+~
+~
+0 0
+0 0 58012
+S
+#58014
+Baerlon Road~
+This wide {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{x {Dp{wa{Wv{we{Dd{x {wr{Wo{wa{Dd{x runs east/west through the mining {Dt{yow{Dn{x of
+{DB{yaerlo{Dn{x.  Most of the buildings that flank this road are tall yet narrow
+frame structures that are topped with steeply sloping tiled roofs.  A large
+building much larger than the rest sits on the south side of the road: the
+sign above the door reads {r"{RThe Town Watch Headquarters{r"{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58015
+D2
+~
+~
+3 3
+1 0 58080
+D3
+~
+~
+0 0
+0 0 58013
+S
+#58015
+Baerlon Road~
+This is a broad road that leads east/west through the {Dt{yow{Dn{x of {DB{yaerlo{Dn{x. 
+Like the rest of the main roads within this {Dt{yow{Dn{x, this road has been paved
+with {Dg{wr{Wa{wy {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{ws{x.  A narrower road which is unpaved leads off to the
+north from this point.  Although there are a few {Dh{yo{wus{ye{Ds{x within this area,
+most of the buildings are {Ds{wh{Wo{wp{Ds{x, {yt{wa{Dv{we{Dr{wn{ys{x and {yi{wnn{ys{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58055
+D1
+~
+~
+0 0
+0 0 58016
+D3
+~
+~
+0 0
+0 0 58014
+S
+#58016
+Caemlyn Gate~
+A wide {Dp{wa{Wv{we{Dd t{wh{Wo{wr{Do{wug{Dh{wf{Wa{wr{De{x ends here at a pair of heavy {yw{Do{yod{De{yn{x {yg{Da{yt{De{ys{x that
+are built into the {yl{Do{yg p{Da{ylisa{Dd{ye{x that surrounds the {Dt{yow{Dn{x.  To the west the
+road is flanked by tall buildings that are roofed with slate or tiles, a few
+of them are {Dh{yo{wus{ye{Ds{x but the majority of them are {Ds{wh{Wo{wp{Ds{x with brightly colored
+{Ca{cw{Cn{ci{Cn{cg{Cs{x.  
+~
+0
+C 1
+D1
+~
+gate~
+3 3
+1 0 58017
+D3
+~
+~
+0 0
+0 0 58015
+S
+#58017
+Caemlyn Gate~
+The mining {Dt{yow{Dn{x of {DB{yaerlo{Dn{x is encircled by a {yl{Do{yg p{Da{ylisa{Dd{ye{x that is about
+twenty feet in height and scattered with {yw{Do{yod{De{yn w{Da{ytch{Dt{yowe{Dr{ys{x that look out
+over the surrounding land.  The entrances into the {Dt{yow{Dn{x are marked by heavy
+{yw{Do{yod{De{yn{x {yg{Da{yt{De{ys{x bound with wide straps of {Db{wlac{Dk i{wro{Dn{x, one such entrance lies
+here.  A narrow slot cut into the wall halfway up serves as a {yp{Deephol{ye{x for
+the guards on the other side.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58018
+D3
+~
+gate~
+3 3
+1 0 58016
+S
+#58018
+A Well Traveled Road~
+This is a wide dirt {yroad{x that cuts through a vast area of {gg{Grasslan{gd{x and
+{gw{Go{go{Gd{gs{x that are overshadowed by the {Dj{wa{Wgg{we{Dd p{we{Wa{wk{Ds{x of the {DM{wou{Wnta{win{Ds{x of the {DM{wi{Ws{wt{x
+along the western horizon.  To the west the {yroad{x leads to a large {Dt{yow{Dn{x that
+is encircled by tall {yl{Do{yg p{Da{ylisa{Dd{ye{x.  {yF{garm{ys{x lay scattered around the {Dt{yow{Dn{x, the
+majority of them lie to the north whilst only a few break up the {gf{Go{gre{Gs{gt{x
+south of the settlement.  
+~
+0
+0 14
+D3
+~
+~
+0 0
+0 0 58017
+S
+#58019
+A Well Traveled Road~
+This is a broad dirt {yroad{x that cuts through a vast area of {gg{Grass{gy p{Glain{gs{x
+and {gf{Go{gres{Gt{gs{x that are overshadowed by the {Ds{wh{Wa{wr{Dp{x {Dp{we{Wa{wk{Ds{x of the {DM{wou{Wnta{win{Ds{x of the
+{DM{wi{Ws{wt{x along the western horizon.  To the north the {yroad{x leads to a large {Dt{yow{Dn{x
+that is enclosed by a {yl{Do{yg p{Da{ylisa{Dd{ye{x.  {yF{garm{ys{x lay scattered around the {Dt{yow{Dn{x,
+most of them lie to the north whilst only a few break up the {gw{Go{go{Gd{gs{x south of
+the {Dt{yow{Dn{x.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58020
+S
+#58020
+Taren Gate~
+The mining {Dt{yow{Dn{x of {DB{yaerlo{Dn{x is surrounded by a {yl{Do{yg p{Da{ylisa{Dd{ye{x that is
+approximately twenty feet in height and dotted with {yw{Do{yod{De{yn w{Da{ytch{Dt{yowe{Dr{ys{x that
+look out over the surrounding countryside.  The entrances into the {Dt{yow{Dn{x are
+marked by heavy {yw{Do{yod{De{yn{x {yg{Da{yt{De{ys{x bound with wide straps of {Db{wlac{Dk i{wro{Dn{x, one such
+entrance lies here.  A narrow slot cut into the wall halfway up acts as a
+{yp{Deephol{ye{x for the guards on the other side.  
+~
+0
+0 14
+D0
+~
+gate~
+3 3
+1 0 58021
+D2
+~
+~
+0 0
+0 0 58019
+S
+#58021
+Taren Gate~
+A wide {Dp{wa{Wv{we{Dd{x {wr{Wo{wa{Dd{x ends here at a set of heavy {yw{Do{yod{De{yn{x {yg{Da{yt{De{ys{x that are
+constructed into the {yl{Do{yg p{Da{ylisa{Dd{ye{x that surrounds {DB{yaerlo{Dn{x.  To the north the
+thoroughfare is flanked by tall buildings that are roofed with slate or
+tiles, a few of them are {Dh{yo{wus{ye{Ds{x but most of them are {Ds{wh{Wo{wp{Ds{x with brightly
+colored {ra{Rw{wn{Wi{wn{Rg{rs{x.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 58022
+D2
+~
+gate~
+3 3
+1 0 58020
+S
+#58022
+Tarendrelle Road~
+Tall frame {Ds{wh{Wo{wp{Ds{x, {yi{wnn{ys{x and {Dh{yo{wus{ye{Ds{x border Tarendrelle Road as it leads
+north/south through {DB{yaerlo{Dn{x.  It is a broad and very well used thoroughfare
+that has been paved with gray square slabs of stone.  A second road leads
+off to the west although this one is much narrower and has been left
+unpaved.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58023
+D2
+~
+~
+0 0
+0 0 58021
+D3
+~
+~
+0 0
+0 0 58043
+S
+#58023
+Tarendrelle Road~
+Tall frame {Dh{yo{wus{ye{Ds{x, {yi{wnn{ys{x and {Ds{wh{Wo{wp{Ds{x flank Tarendrelle Road as it leads
+north/south through the mining town of {DB{yaerlo{Dn{x.  It is a wide and very well
+used thoroughfare that has been paved with gray square flagstones.  A second
+thoroughfare leads off to the east although this one is much narrower and
+has been left unpaved.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58024
+D1
+~
+~
+0 0
+0 0 58050
+D2
+~
+~
+0 0
+0 0 58022
+D3
+~
+~
+3 3
+1 0 58083
+S
+#58024
+Tarendrelle Road~
+Tarendrelle Road is a wide thoroughfare that has been paved with large {Dg{wr{Wa{wy
+{Df{wl{Wa{wg{Ds{wt{Wo{wn{De{ws{x.  Tall yet narrow buildings sit on either side of this busy road;
+although there are a few {Dh{yo{wus{ye{Ds{x and one or two {yt{wa{Dv{we{Dr{wn{ys{x the majority of the
+structures are {Ds{wh{Wo{wp{Ds{x with brightly colored {Ga{Yw{Wnin{Yg{Gs{x overhanging tables set up
+outside their fronts.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58009
+D2
+~
+~
+0 0
+0 0 58023
+D3
+~
+~
+3 3
+1 0 58075
+S
+#58025
+A Side Road~
+This is one of the many unpaved side streets that twist their way through
+the town.  The street is just big enough to fit two wagons and yet there are
+several {Dw{war{Wehou{wse{Ds{x built alongside it.  There are high {yf{De{ync{De{ys{x bordering this
+road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions conveniently
+obscure what lies on the opposite side.  The road is joined a much wider
+paved street to the south that is flanked by {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58026
+D2
+~
+~
+0 0
+0 0 58004
+S
+#58026
+A Side Road~
+This is one of the many unpaved side streets that wind their way through
+{DB{yaerlo{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this road, the
+street is barely wide enough to accommodate two wagons.  There are {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those
+tall wooden partitions remains a mystery from this point.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58027
+D2
+~
+~
+0 0
+0 0 58025
+S
+#58027
+A Side Road~
+This is a long unpaved street that leads north/south through the town of
+{DB{yaerlo{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built along this road, the
+street is barely wide enough to accommodate two carts.  There are {yf{De{ync{De{ys{x
+flanking this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those
+tall wooden partitions remains hidden.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58028
+D2
+~
+~
+0 0
+0 0 58026
+D3
+~
+~
+3 3
+1 0 58149
+S
+#58028
+A Side Road~
+This is a long unpaved street that leads north/south through {DB{yaerlo{Dn{x. 
+The road is barely wide enough to fit two carts and yet there are several
+large {Dw{war{Wehou{wse{Ds{x built along it.  There are high {yf{De{ync{De{ys{x bordering this road
+where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions conveniently hide what
+lurks on the opposite side.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58029
+D2
+~
+~
+0 0
+0 0 58027
+S
+#58029
+A Side Road~
+This unpaved side street bends sharply at this point as it twists its way
+through {DB{yaerlo{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this
+road the street is barely wide enough to fit two wagons.  There are {yf{De{ync{De{ys{x
+flanking this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those
+tall wooden partitions remains a mystery from this location.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58148
+D1
+~
+~
+0 0
+0 0 58030
+D2
+~
+~
+0 0
+0 0 58028
+S
+#58030
+A Side Road~
+This is a long unpaved road that leads east/west through the {Dt{yow{Dn{x.  The
+road is just wide enough to fit two carts and yet there are many {Dw{war{Wehou{wse{Ds{x
+built alongside it.  There are high {yf{De{ync{De{ys{x bordering this road where there
+are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions conveniently hide what lies on the
+other side.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58031
+D3
+~
+~
+0 0
+0 0 58029
+S
+#58031
+A Side Road~
+This is a long unpaved road that leads east/west through {DB{yaerlo{Dn{x.  The
+road is just wide enough to fit two wagons and yet there are several
+{Dw{war{Wehou{wse{Ds{x built along it.  There are tall {yf{De{ync{De{ys{x flanking this street where
+there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions conveniently hide what lies
+on the other side.  
+~
+0
+0 1
+D0
+~
+gate~
+262147 262147
+1 0 58144
+D1
+~
+~
+0 0
+0 0 58032
+D2
+~
+gate~
+262147 262147
+1 0 58062
+D3
+~
+~
+0 0
+0 0 58030
+S
+#58032
+A Side Road~
+This is one of the many unpaved side streets that snake their way through
+{DB{yaerlo{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this road the
+street is just wide enough to fit two wagons.  There are {yf{De{ync{De{ys{x bordering
+this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those tall
+wooden partitions remains a mystery from this location.  The road is joined
+a much wider paved street to the east that is flanked by {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58033
+D3
+~
+~
+0 0
+0 0 58031
+S
+#58033
+Arinelle Road~
+Tall frame {Ds{wh{Wo{wp{Ds{x, {yi{wnn{ys{x and {Dh{yo{wus{ye{Ds{x border Arinelle Road as it leads through
+{DB{yaerlo{Dn{x.  This is the northern end of the busy thoroughfare that has been
+paved with gray square slabs of stone.  At the very end of the road is a
+tall frame house which is much bigger than the rest of the abodes in the
+{Dt{yow{Dn{x.  A second road leads off to the west although this one is much
+narrower and has been left unpaved.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58117
+D2
+~
+~
+0 0
+0 0 58034
+D3
+~
+~
+0 0
+0 0 58032
+S
+#58034
+Arinelle Road~
+Two broad roads that are paved with square slabs of {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De{x converge
+at this point.  Both of the roads are flanked by a collection of tall frame
+buildings with roofs that are covered in tiles or slate.  There are a lot of
+{Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x in this district but the most interesting structure built
+along this road is the {bb{Bla{bcksm{Bit{bh's w{Bor{bks{Bho{bp{x west side of the intersection. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58033
+D1
+~
+~
+0 0
+0 0 58049
+D2
+~
+~
+0 0
+0 0 58035
+D3
+~
+~
+3 3
+1 0 58086
+S
+#58035
+Arinelle Road~
+Arinelle Road is a fairly broad thoroughfare that leads north/south through
+{DB{yaerlo{Dn{x.  The gray flagstone street is bordered with a group of tall yet
+narrow frame buildings; although there are a lot of {Dh{yo{wus{ye{Ds{x within this
+district there are also a lot of colorful {Ds{wh{Wo{wp{Ds{x, {yi{wnn{ys{x and {yt{wa{Dv{we{Dr{wn{ys{x here too. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58034
+D1
+~
+~
+3 3
+1 0 58099
+D2
+~
+~
+0 0
+0 0 58036
+S
+#58036
+Arinelle Road~
+Arinelle Road is a relatively wide street that leads north/south through
+the town of {DB{yaerlo{Dn{x.  The gray flagstone street is flanked with an
+assortment of tall yet narrow frame buildings; although there are a lot of
+{Dh{yo{wus{ye{Ds{x within this district there are also plenty of colorful {Ds{wh{Wo{wp{Ds{x and
+{yt{wa{Dv{we{Dr{wn{ys{x here too.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58035
+D1
+~
+~
+3 3
+1 0 58103
+D2
+~
+~
+0 0
+0 0 58037
+S
+#58037
+Arinelle Road~
+Arinelle Road is a rather wide thoroughfare that leads north/south
+through the town of {DB{yaerlo{Dn{x.  The gray flagstone street is bordered with a
+collection of tall yet narrow frame buildings; although there are a lot of
+{Dh{yo{wus{ye{Ds{x within this district there are also plenty of {Ds{wh{Wo{wp{Ds{x and {yt{wa{Dv{we{Dr{wn{ys{x here
+too.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58036
+D2
+~
+~
+0 0
+0 0 58008
+S
+#58038
+A Side Road~
+This is one of the many unpaved side streets that wind their way through
+{DB{yaerlo{Dn{x.  The road is barely wide enough to fit two carts and yet there are
+many {Dw{war{Wehou{wse{Ds{x built alongside it.  There are high {yf{De{ync{De{ys{x bordering this
+road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions conveniently hide
+what lies on the opposite side.  The road is joined a much wider paved
+street to the north that is flanked by {Dh{yo{wus{ye{Ds{x and {Ds{wh{Wo{wp{Ds{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58005
+D2
+~
+~
+0 0
+0 0 58039
+S
+#58039
+A Side Road~
+This unpaved side street bends sharply at this point as it snakes its way
+through the {Dt{yow{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this
+road, the thoroughfare is barely wide enough to accommodate two wagons. 
+There are {yf{De{ync{De{ys{x flanking this road where there are no {Dw{war{Wehou{wse{Ds{x but what
+lies beyond those tall wooden partitions remains a mystery from this point. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58038
+D1
+~
+~
+0 0
+0 0 58040
+D3
+~
+~
+3 3
+1 0 58155
+S
+#58040
+A Side Road~
+This unpaved side street bends sharply at this point as it twists its way
+through the {Dt{yow{Dn{x.  Although there are numerous {Dw{war{Wehou{wse{Ds{x built alongside
+this road, the street is barely wide enough to accommodate two wagons. 
+There are {yf{De{ync{De{ys{x flanking this road where there are no {Dw{war{Wehou{wse{Ds{x but what
+lies beyond those tall wooden partitions remains a mystery from this point. 
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 58041
+D3
+~
+~
+0 0
+0 0 58039
+S
+#58041
+A Side Road~
+This unpaved side street bends sharply at this point as it snakes its way
+through {DB{yaerlo{Dn{x.  The street is barely wide enough to accommodate two carts
+and yet there are several {Dw{war{Wehou{wse{Ds{x built alongside it.  There are tall
+{yf{De{ync{De{ys{x bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden
+partitions conveniently obscure what lies on the other side.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58040
+D1
+~
+~
+0 0
+0 0 58042
+S
+#58042
+A Side Road~
+This is a long unpaved street that leads east/west through {DB{yaerlo{Dn{x.  The
+street is just wide enough to fit two wagons and yet there are many
+{Dw{war{Wehou{wse{Ds{x built alongside it.  There are high {yf{De{ync{De{ys{x bordering this road
+where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions conveniently hide what
+lies on the other side.  
+~
+0
+0 1
+D0
+~
+gate~
+262147 262147
+1 0 58082
+D1
+~
+~
+0 0
+0 0 58043
+D2
+~
+~
+3 3
+1 0 58154
+D3
+~
+~
+0 0
+0 0 58041
+S
+#58043
+A Side Road~
+This is one of the many unpaved side streets that snake their way through
+the {Dt{yow{Dn{x.  There are many {Dw{war{Wehou{wse{Ds{x built alongside this road, the street
+is barely wide enough to accommodate two carts.  There are {yf{De{ync{De{ys{x bordering
+this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those tall
+wooden partitions remains a mystery from this point.  The road is joined a
+much wider paved street to the east that is flanked by {Dh{yo{wus{ye{Ds{x and {Ds{wh{Wo{wp{Ds{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58022
+D3
+~
+~
+0 0
+0 0 58042
+S
+#58044
+Manetheren Road~
+Manetheren Road is a somewhat wide thoroughfare that leads north/south
+through the mining {Dt{yow{Dn{x of {DB{yaerlo{Dn{x.  The gray flagstone street is bordered
+with a collection of tall yet slender frame buildings; although there are a
+lot of {Dh{yo{wus{ye{Ds{x within this district there are also plenty of {Ds{wh{Wo{wp{Ds{x and
+{yt{wa{Dv{we{Dr{wn{ys{x too.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58045
+D2
+~
+~
+0 0
+0 0 58011
+S
+#58045
+Manetheren Road~
+Manetheren Road is a fairly wide street that leads north/south through
+the busy {Dt{yow{Dn{x of {DB{yaerlo{Dn{x.  The gray flagstone street is flanked on either
+side by an assortment of tall yet narrow frame buildings; although there are
+a lot of {Dh{yo{wus{ye{Ds{x within this area there are also plenty of colorful {Ds{wh{Wo{wp{Ds{x and
+{yt{wa{Dv{we{Dr{wn{ys{x too.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58046
+D2
+~
+~
+0 0
+0 0 58044
+D3
+~
+~
+3 3
+1 0 58102
+S
+#58046
+Manetheren Road~
+Manetheren Road is a rather broad thoroughfare that leads north/south
+through {DB{yaerlo{Dn{x.  The majority of the buildings that flank this road are
+tall yet skinny frame structures that are capped with steeply sloping roofs
+which are covered with tiles.  A large building much larger than the rest
+sits on the east side of the road: the sign above the door reads {y"{YThe Stag
+and Lion Inn{y"{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58047
+D1
+~
+~
+3 3
+1 0 58073
+D2
+~
+~
+0 0
+0 0 58045
+D3
+~
+~
+3 3
+1 0 58076
+S
+#58047
+Manetheren Road~
+Tall frame {Dh{yo{wus{ye{Ds{x, {Ds{wh{Wo{wp{Ds{x and {yi{wnn{ys{x border Manetheren Road as it leads
+through the mining {Dt{yow{Dn{x of {DB{yaerlo{Dn{x.  It is a wide and very well used
+thoroughfare that has been paved with gray square flagstones.  A second
+thoroughfare leads off to the east although this one is much narrower and
+has been left unpaved.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58061
+D2
+~
+~
+0 0
+0 0 58046
+D3
+~
+~
+0 0
+0 0 58048
+S
+#58048
+Manetheren Road~
+Manetheren Road is a wide road that leads east/west through {DB{yaerlo{Dn{x. 
+Like the rest of the main roads within this {Dt{yow{Dn{x, this road has been paved
+with {Dg{wr{Wa{wy {Df{wl{Wa{wg{Ds{wt{Wo{wn{De{ws{x.  Beyond the rows of tall yet slender {Dh{yo{wus{ye{Ds{x and {Ds{wh{Wo{wp{Ds{x
+that line this street are large {Dw{war{Wehou{wse{Ds{x although there is no direct route
+to those storage buildings from this point.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58047
+D3
+~
+~
+0 0
+0 0 58049
+S
+#58049
+Manetheren Road~
+This is a long road that leads east/west through {DB{yaerlo{Dn{x.  Like the rest
+of the main roads within this {Dt{yow{Dn{x, this road has been paved with square
+slabs of {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De{x.  Beyond the rows of tall yet narrow {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x
+that line this street are large {Dw{war{Wehou{wse{Ds{x although there is no direct route
+to those storage buildings from this point.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58048
+D3
+~
+~
+0 0
+0 0 58034
+S
+#58050
+A Side Road~
+This is one of the many unpaved side streets that twist their way through
+the {Dt{yow{Dn{x.  Although there are several {Dw{war{Wehou{wse{Ds{x built alongside this road
+the street is barely wide enough to fit two wagons.  There are {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those
+tall wooden partitions remains a mystery from this side.  The road is joined
+a much wider paved street to the west that is flanked by {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58051
+D3
+~
+~
+0 0
+0 0 58023
+S
+#58051
+A Side Road~
+This is one of the countless unpaved side streets that twist their way
+through {DB{yaerlo{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this
+road, the street is barely wide enough to accommodate two wagons.  There are
+{yf{De{ync{De{ys{x flanking this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond
+those tall wooden partitions remains a mystery from this point.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58052
+D2
+~
+~
+3 3
+1 0 58153
+D3
+~
+~
+0 0
+0 0 58050
+S
+#58052
+A Side Road~
+This is a long unpaved street that leads east/west through the {Dt{yow{Dn{x of
+{DB{yaerlo{Dn{x.  Although there are several {Dw{war{Wehou{wse{Ds{x built here, the street is
+just wide enough to accommodate two wagons.  There are {yf{De{ync{De{ys{x flanking this
+road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those tall wooden
+partitions remains a mystery.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58053
+D3
+~
+~
+0 0
+0 0 58051
+S
+#58053
+A Side Road~
+This unpaved side street bends sharply at this point as it twists its way
+through {DB{yaerlo{Dn{x.  The road is barely wide enough to accommodate two wagons
+and yet there are many {Dw{war{Wehou{wse{Ds{x built alongside it.  There are high {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions
+conveniently obscure what lies on the opposite side.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58054
+D2
+~
+~
+3 3
+1 0 58152
+D3
+~
+~
+0 0
+0 0 58052
+S
+#58054
+A Side Road~
+This is one of the many unpaved side streets that meander their way through
+{DB{yaerlo{Dn{x.  The street is barely wide enough to accommodate two carts and yet
+there are several {Dw{war{Wehou{wse{Ds{x built along it.  There are tall {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions
+conveniently hide what lies on the other side.  The road is joined a much
+wider paved thoroughfare to the north that is flanked by {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58013
+D2
+~
+~
+0 0
+0 0 58053
+S
+#58055
+A Side Road~
+This is one of the many unpaved side streets that wind their way through
+the {Dt{yow{Dn{x.  Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this road the
+street is just wide enough to accommodate two wagons.  There are {yf{De{ync{De{ys{x
+flanking this road where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those
+tall wooden partitions remains a mystery.  The road is joined a much wider
+paved road to the south that is bordered by {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58056
+D2
+~
+~
+0 0
+0 0 58015
+S
+#58056
+A Side Road~
+This is a long unpaved street that leads north/south through {DB{yaerlo{Dn{x. 
+Although there are a few {Dw{war{Wehou{wse{Ds{x built along this road, the street is
+barely wide enough to fit two wagons.  There are {yf{De{ync{De{ys{x bordering this road
+where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those tall wooden
+partitions remains a mystery from this point.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58057
+D2
+~
+~
+0 0
+0 0 58055
+D3
+~
+~
+262147 262147
+1 0 58063
+S
+#58057
+A Side Road~
+This is one of the numerous unpaved side streets that meander their way
+through {DB{yaerlo{Dn{x.  The street is barely wide enough to accommodate two wagons
+and yet there are many {Dw{war{Wehou{wse{Ds{x built alongside it.  There are tall {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions
+conveniently obscure what lies on the opposite side.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58058
+D2
+~
+~
+0 0
+0 0 58056
+S
+#58058
+A Side Road~
+This unpaved side street bends sharply at this point as it winds its way
+through {DB{yaerlo{Dn{x.  The street is barely wide enough to accommodate two wagons
+and yet there are several {Dw{war{Wehou{wse{Ds{x built alongside it.  There are high
+{yf{De{ync{De{ys{x bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden
+partitions conveniently obscure what lies on the opposite side.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 58151
+D2
+~
+~
+0 0
+0 0 58057
+D3
+~
+~
+0 0
+0 0 58059
+S
+#58059
+A Side Road~
+This is a long unpaved street that leads east/west through the {Dt{yow{Dn{x of
+{DB{yaerlo{Dn{x.  The street is just big enough to fit two wagons and yet there are
+several {Dw{war{Wehou{wse{Ds{x built along it.  There are also some tall {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions
+conveniently conceal what is on the opposite side.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58058
+D3
+~
+~
+0 0
+0 0 58060
+S
+#58060
+A Side Road~
+This is a long unpaved street that leads east/west through {DB{yaerlo{Dn{x. 
+Although there are many {Dw{war{Wehou{wse{Ds{x built alongside this road, the street is
+just big enough to fit two carts.  There are {yf{De{ync{De{ys{x bordering this road
+where there are no {Dw{war{Wehou{wse{Ds{x but what lies beyond those high wooden
+partitions remains a mystery from this side.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 58059
+D3
+~
+~
+0 0
+0 0 58061
+S
+#58061
+A Side Road~
+This is one of the numerous unpaved side streets that snake their way
+through the {Dt{yow{Dn{x.  The street is just wide enough to accommodate two wagons
+and yet there are many {Dw{war{Wehou{wse{Ds{x built alongside it.  There are tall {yf{De{ync{De{ys{x
+bordering this road where there are no {Dw{war{Wehou{wse{Ds{x, the wooden partitions
+conveniently hide what lies on the other side.  The road is joined a much
+wider paved road to the west that is flanked by {Ds{wh{Wo{wp{Ds{x and {Dh{yo{wus{ye{Ds{x.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 58150
+D1
+~
+~
+0 0
+0 0 58060
+D3
+~
+~
+0 0
+0 0 58047
+S
+#58062
+A Stable Yard~
+This is a large yard that is sits between three timber frame buildings
+and enclosed by a high {yw{Do{yod{De{yn {x{yf{De{yn{Dc{ye{x with a wide {yg{Da{ytew{Da{yy{x built into the {yf{De{yn{Dc{ye{x
+at the back of the yard.  The largest of the three buildings overlooking the
+yard is an inn on the south side, many of its {ys{Da{ysh w{Di{yndo{Dw{ys{x look out over the
+area but the only entrance from this point is a door leading into the
+kitchen.  A strong smell of horses is coming from the huge stable with broad
+arched doors on the west side of the yard.  The third building is a large
+yet squat structure with tall {Dc{whi{Dmn{wey{Ds{w {xon the east side of the yard and
+appears to be a blacksmith's workshop.  
+~
+0
+C 1
+D0
+~
+gate~
+262147 262147
+1 0 58031
+D1
+~
+~
+3 3
+1 0 58086
+D2
+~
+~
+3 3
+1 0 58064
+D3
+~
+~
+3 3
+1 0 58078
+S
+#58063
+A Stable Yard~
+This is a big yard that is sits between two timber frame buildings and
+enclosed by a tall {yw{Do{yod{De{yn {x{yf{De{yn{Dc{ye{x with a broad {yg{Da{ytew{Da{yy{x built into the {yf{De{yn{Dc{ye{x at
+the back.  A strong stench of horses is coming from the huge stable with
+wide arched doors on the north side of the yard.  The other building
+overlooking the yard is a large inn that is four storeys in height and its
+tiled roof topped with lots of {Ds{wt{Do{wn{De{x {Dc{whi{Dmn{wey{Ds{x.  
+~
+0
+C 1
+D0
+~
+~
+3 3
+1 0 58077
+D1
+~
+~
+262147 262147
+1 0 58056
+D2
+~
+~
+3 3
+1 0 58071
+D3
+~
+~
+3 3
+1 0 58068
+S
+#58064
+A Large Kitchen~
+This is the kitchen of the Miner's Rest, one of Baerlon's larger yet
+rougher inns.  The area is lit up by several {yo{Yi{Wl la{Ymp{ys{x that are suspended
+from the ceiling.  As well as {yc{Da{ybine{Dt{ys{x, {yd{Dr{yawe{Dr{ys{x and {ys{Dh{yelv{De{ys{x, the kitchen has
+several {ywooden racks{x fitted to the walls which house various cooking
+utensils.  There are {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De f{wir{Wepla{wce{Ds{x and {Di{wro{Dn s{wtove{Ds{x built into the
+walls of the kitchen as to cook food for the inn's many customers.  There
+are two exits from this room, a door on the south side and another door on
+the north side which leads out into a large yard.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58062
+D2
+~
+~
+3 3
+1 0 58065
+D5
+~
+trapdoor~
+4099 4099
+1 0 58147
+S
+#58065
+A Hallway~
+This is a long hallway in one of Baerlon's inns.  The windowless room is
+illuminated by small {yo{Yi{Wl {x{Wla{Ymp{ys{x hung from the ceiling and their light reveals
+that this building has a strong wooden frame structure.  Both the walls and
+the floor of the corridor are bare wood and have no form of decoration
+adorning them.  There is also a similarly bare flight of {yw{Do{yod{De{yn s{Dt{yai{Dr{ys{x here
+that leads to the upper levels of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58064
+D1
+~
+~
+3 3
+1 0 58067
+D2
+~
+~
+3 3
+1 0 58079
+D3
+~
+~
+3 3
+1 0 58066
+D4
+~
+~
+0 0
+0 0 58088
+S
+#58066
+A Private Dining Room~
+This is a comfortable dining room that is rather plain yet functional in
+the way it has been decorated.  There is a wide window built into the east
+wall; the view out of the window has been blocked by a tall {yw{Do{yod{De{yn f{De{yn{Dc{ye{x.  A
+{rt{Rh{ri{Rc{rk r{Re{rd r{Ru{rg{x has been placed upon the floor which match the {rc{Ru{rr{Rta{ri{Rn{rs{x fitted
+to the window.  Apart from the {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x the main focal point of this
+room is the tall {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De f{wir{Wepl{wac{De{x that has been built into the north
+wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58065
+S
+#58067
+A Private Dining Room~
+This is a comfortable dining room that is rather plain yet functional in
+the way it has been decorated.  There is a wide window built into the east
+wall that looks out over the street outside the inn.  A {mt{Mh{mi{Mc{mk p{Mu{mrp{Ml{me r{Mu{mg{x has
+been placed upon the floor which match the {mc{Mu{mr{Mta{mi{Mn{ms{x fitted to the window. 
+Apart from the {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x the main focal point of this room is the tall
+{Dg{wr{Wa{wy {Ds{wt{Wo{wn{De f{wir{Wepl{wac{De{x that has been built into the north wall.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58065
+S
+#58068
+A Hallway~
+This is a long hallway in one of Baerlon's inns.  The windowless room is
+illuminated by small {yo{Yi{Wl{x {Wlant{Yern{ys{x hung from the ceiling and their light
+reveals that this building has a sturdy timber frame structure.  Both the
+walls and the floor of the corridor are bare wood and have no form of
+decoration adorning them.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58070
+D1
+~
+~
+3 3
+1 0 58063
+D2
+~
+~
+0 0
+0 0 58069
+D3
+~
+~
+3 3
+1 0 58074
+S
+#58069
+A Hallway~
+This is the southern end of a long corridor in one of Baerlon's inns. 
+The windowless room is lit up by small {yo{Yi{Wl{x {Wlant{Yern{ys{x suspended from the
+ceiling and their light reveals that this building has a robust timber frame
+structure.  Both the walls and the floor of the corridor are void of any
+decorations.  There is an equally bare {yw{Do{yod{De{yn s{Dt{yai{Dr{yca{Ds{ye{x here that leads to
+the upper levels of the inn.  There is also a pair of wide swinging doors on
+the east side of the passageway that leads into a large kitchen.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58068
+D1
+~
+~
+3 3
+1 0 58071
+D3
+~
+~
+3 3
+1 0 58072
+D4
+~
+~
+0 0
+0 0 58089
+S
+#58070
+A Hallway~
+This is the northern end of a long corridor in one of Baerlon's inns. 
+The windowless room is lit up by small {yo{Yi{Wl la{Ymp{ys{x hung from the ceiling and
+their light reveals that this building has a sturdy wooden frame structure. 
+Both the walls and the floor of the corridor are bare wood and have no form
+of decoration adorning them.  There is a pair of wide swinging doors on the
+west side of the room that lead into the common room.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 58068
+D3
+~
+~
+3 3
+1 0 58073
+S
+#58071
+A Tidy Kitchen~
+This is a large kitchen that is illuminated by a series of {yo{Yi{Wl la{Ymp{ys{x that
+hang from the ceiling.  As well as {yc{Yab{Winets{x, {yd{Yra{Wwers{x and {ys{Yhe{Wlves{x, the room
+has several {yr{Yac{Wks{x fitted to the walls which house various cooking utensils. 
+There are {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De f{wir{Wepla{wce{Ds{x and {Di{wro{Dn s{wtove{Ds{x built into the walls of the
+kitchen as to cook food for the inn's many customers.  A pair of wide
+swinging doors on the west side of the kitchen lead out into a hallway
+whilst a hefty wooden door on the north side of the room leads out into a
+large yard at the back of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58063
+D3
+~
+~
+3 3
+1 0 58069
+D5
+~
+trapdoor~
+4099 4099
+1 0 58146
+S
+#58072
+A Private Dining Room~
+This is a large and spacious dining room that is rather plain yet
+functional in the way it has been decorated.  The room has a wide window
+built into the west wall looks out over the road outside the front of the
+inn.  A {bt{Bhic{bk b{Blu{be r{Bu{bg{x has been placed upon the floor which match the
+{bc{Burtain{bs{x fitted to the window.  Apart from the {yd{Yin{Wing {yt{Yab{Wle{x the main focal
+point of this room is the wide {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De f{wir{Wepla{wc{De{x that has been built into
+the north wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58069
+S
+#58073
+The Stag and Lion Inn~
+The Stag and Lion Inn's common room is a huge room with paintings of
+{Do{wr{Wna{wt{De b{wu{Wildin{wg{Ds{x with gardens of {gt{Gal{gl t{Gree{gs{x and {cb{Cr{Wig{Ch{ct f{Clo{Ww{Cer{cs{x painted high
+upon the walls thus marking it as one of Baerlon's finer establishments.  A
+{Dg{wra{Dy s{wton{De h{weart{Dh{x blazes on each wall bring warmth to the room whilst small
+{yo{Yi{Wl la{Ymp{ys{x suspended from the ceiling bring light.  There are two exits from
+this room; a door on the east side and a larger iron-braced door at the
+opposite side of the room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58070
+D3
+~
+~
+3 3
+1 0 58046
+S
+#58074
+A Private Dining Room~
+This is a large and spacious dining room that is rather plain yet
+functional in the way it has been decorated.  There is a wide window built
+into the west wall that looks out over the street outside the front of the
+inn.  A {gt{Ghic{gk g{Gree{gn r{Gu{gg{x has been placed upon the floor which match the
+{gc{Gurtain{gs{x fitted to the window.  Apart from the {yd{Yin{Wing {yt{Yab{Wle{x the main focal
+point of this room is the wide {Dg{wr{Wa{wy {Ds{wt{Wo{wn{De f{wir{Wepla{wc{De{x that has been built into
+the south wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58068
+S
+#58075
+A Small Weapons Shop~
+A couple of small {yo{Yi{Wl la{Ymp{ys{x hung from low timber rafters dimly illuminate
+this small weapons shop.  The building has mainly been constructed with wood
+and has many {ys{Dh{yelv{De{ys{x and {yr{Da{yc{Dk{ys{x fitted to its walls to display the
+shopkeeper's rather old and battered merchandise.  There are two doorways in
+this room; a door at the front of the building that leads out into
+Tarendrelle Road and a small door at the back of the shop that probably
+leads to the shopkeeper's living quarters.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58024
+S
+#58076
+Manetheren Road Weapons~
+A few small {yo{Yi{Wl lan{Ytern{ys{x suspended from low timber rafters softly
+illuminate this small weapons shop.  The shop has mainly been built with
+wood and has numerous {ys{Dh{yelv{De{ys{x and {yr{Da{yc{Dk{ys{x attached to its walls to display the
+shopkeeper's wares which include some finely crafted {Ds{ww{Wor{wd{Ds{x, {Dk{wn{Wiv{we{Ds{x and
+{Da{wxe{Ds{x.  There are two exits from this room; a door at the front of the
+building that leads out into Manetheren Road and a small door at the back of
+the shop that leads to the shopkeeper's living quarters.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58046
+S
+#58077
+A Stable~
+The stable belonging to the Stag and Lion Inn is a large building that
+looks well cared for.  Like the majority of the buildings in Baerlon, this
+building is a timber frame construction with a steep roof that has been
+covered with gray slate tiles.  The air within the building is dusty and
+smells strongly of horses.  The building has been equipped with dozens of
+stalls to accommodate the horses that belong to the inn's patrons.  There is
+a wide pair of doors at the south side of the stable that leads out into a
+large yard.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58063
+S
+#58078
+A Stable~
+The stable belonging to the Miner's Rest is a large building that looks
+well cared for.  Like most of the buildings in Baerlon, this building is a
+wooden frame construction with a steep roof that has been covered with
+bluish-gray slate tiles.  The air within the building is dusty and smells
+strongly of horses.  The stable has been equipped with lots of stalls to
+accommodate the horses that belong to the inn's patrons.  There is a broad
+pair of doors at the east side of the stable that leads out into a large
+yard.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58062
+S
+#58079
+The Miner's Rest~
+This large rectangular room is the common room belonging to the Miner's
+Rest, one of Baerlon's inns.  The grubby whitewashed walls and the even
+grubbier bare {yt{Di{ymb{De{yr{x floors mark the inn out as one of the town's rougher
+establishments.  A {cb{Dl{wui{Ds{ch-g{Dra{cy s{Dt{wo{Dn{ce h{De{war{Dt{ch{x blazes on each wall bring warmth
+to the room whilst small {yo{Yi{Wl lan{Yter{yns{x hung from the ceiling bring light. 
+There are two exits from this room; a door on the north side and a larger
+iron-braced door at the opposite side of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58065
+D2
+~
+~
+3 3
+1 0 58006
+S
+#58080
+The Town Watch Headquarters~
+The headquarters of the Town Watch is a large yet bland gray stone
+building.  This particular room serves as both an office and a storage room.
+There are several {yw{Yood{Wen{y r{Yac{Wks{x fitted to the walls of the room with a
+selection of well-used {Dw{we{Wapo{wn{Ds{x that are secured by strong {Dc{wh{Dai{wn{Ds{x.  Although
+the room is illuminated by small {yo{Yi{Wl la{Ymp{ys{x there are also narrow windows
+fitted with sturdy {Di{wro{Dn {x{Db{war{Ds{x in the north wall allow in some light during
+the day.  There are several reinforced doors here but the one of most
+interest is the wide door on the north side of the room that leads out of
+the building.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58014
+D2
+~
+~
+3 3
+1 0 58081
+S
+#58081
+A Jail Cell~
+This is little out of the ordinary about this jail cell.  The gray stone
+walls and floor of the room have been etched with years of graffiti leaving
+behind a vast repository of obscenities from the former cell occupants.  An
+iron-barred window built into the southern wall of the cell is the room's
+only source of light.  The only exit from this room is an iron-braced
+doorway built into the northern wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58080
+S
+#58082
+A Back Yard~
+This is a large rectangular area of land that is surrounded by a high
+{yw{Do{yod{De{yn f{De{yn{Dc{ye{x along three of its sides and a tall timber frame house along
+the fourth.  The area is a well cultivated garden with the sweet smelling
+scents of the {gh{Ge{Yr{Gb{gs{x and {mf{Ml{mo{Mw{me{Mr{ms{x that grow here in abundance filling the air.
+An area of the garden has been sectioned off to grow various {gvegetables{x and
+fruiting {gp{Glant{gs{x.  A {Dsla{wt{De-pav{we{Dd pa{wt{Dh{x winds its way down the center of the
+yard, connecting the house with a {yg{Dat{ye{x built into the {yf{De{yn{Dc{ye{x.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 58087
+D2
+~
+gate~
+262147 262147
+1 0 58042
+S
+#58083
+A Small Armor Shop~
+There is a vast range of {Da{wr{Wm{wo{Dr{x hung upon {yracks{x or displayed on {ymannequins{x
+arranged around this small shop.  Most of the items look cheap and flimsy
+but there is the odd little gem to be found amongst the trash that litters
+the shop.  Apart from a small doorway at the back of the shop that leads
+into the shopkeeper's quarters, the only exit is a door at the east side of
+the shop.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58023
+S
+#58084
+A Tool Shop~
+A couple of small {yb{Yr{Wa{Ys{ys l{Yan{Wte{Yrn{ys{x hung from low timber rafters dimly
+illuminate this small shop.  The building has mainly been constructed with
+wood and has numerous {Ds{rh{Delv{re{Ds{x and {Dr{ra{Dc{rk{Ds{x fitted to its walls to display the
+shop owner's merchandise.  There are two doorways in this room; a door at
+the front of the building that leads out into Baerlon Road and a small door
+at the back of the shop that probably leads to the shopkeeper's living
+quarters.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58004
+S
+#58085
+Baerlon Pawn Shop~
+The Baerlon Pawn Shop is a treasure trove of items ranging from the bland
+and mundane to some expensive little {yt{Yre{Wasu{Yre{ys{x and {bt{Bri{wnk{Bet{bs{x.  The {yshelves{x, {y
+racks{x and {ydisplay counters{x that take up so much space within this shop are
+filled to their full capacity with miscellaneous items that have been traded
+by the shops customers.  Through the jungle of {Wd{wus{Wt-c{wov{We{wre{Wd{x goods, a door
+leading outside can be seen on the south side of the shop.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58005
+S
+#58086
+A Blacksmith's Workshop~
+The blacksmith's workshop is a large yet squat stone building.  Despite
+how busy the blacksmith is he has managed to keep his workshop clean and
+tidy.  His tools hang on {yracks{x attached to the walls or have been squirreled
+away in the various {yc{Yab{yin{Yet{ys{x that lie around the workshop.  The heart of the
+workshop is the {Dg{wra{Dy s{wton{De f{worg{De{x that blazes quite fiercely; there are a
+couple of {Dan{wv{Wi{wl{Ds{x of varying sizes placed near it and a {yw{Yor{ykbe{Ync{yh{x.  At the
+opposite side of the room are several large {yw{Yo{yod{Ye{yn b{Ya{yrre{Yl{ys{x, each one
+contains water.
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58034
+D3
+~
+~
+3 3
+1 0 58062
+S
+#58087
+A Wisdom's House~
+This is a large and spacious front room belonging to one of the houses in
+Baerlon.  There is a small {Dg{wra{Dy s{wton{De f{wire{Dp{wlac{De{x built into the east wall,
+the {Dh{weart{Dh{x may be plain but it provides more than enough heat to warm the
+room.  A tall {rb{yo{Yo{Wkc{Ya{ys{re{x filled with {cbooks{x has been placed near the fireplace
+although a couple of the {rs{yh{Ye{Wl{Yv{ye{rs{x have been used to display small brightly
+painted {mo{Mr{Rn{ra{mm{re{Rn{Mt{ms{x.  A pair of arched windows looks out over a busy street;
+there is a sturdy doorway between them that also leads outside of the house.
+At the opposite end of the room is a second doorway as well a steep flight
+of stairs that provides access to the upper part of the house.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58007
+D2
+~
+~
+3 3
+1 0 58082
+D4
+~
+~
+0 0
+0 0 58129
+S
+#58088
+A Hallway~
+This is a long corridor in one of Baerlon's inns.  The windowless room is
+lit up by {yo{Yi{Wl lant{Yern{ys{x hung from the ceiling and their light reveals that
+this building has a strong timber frame structure.  Both the walls and the
+floor of the corridor are bare wood and have no form of decoration adorning
+them.  There is a pair of steep {yw{Do{yod{De{yn s{Dt{yaircas{De{ys{x at opposite ends of this
+corridor; one leads up while the other leads down.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58110
+D1
+~
+~
+3 3
+1 0 58107
+D2
+~
+~
+3 3
+1 0 58111
+D3
+~
+~
+3 3
+1 0 58106
+D4
+~
+~
+0 0
+0 0 58092
+D5
+~
+~
+0 0
+0 0 58065
+S
+#58089
+A Hallway~
+This is the southern end of a long plain hallway in one of Baerlon's
+inns.  The windowless room is illuminated by small {yo{Yi{Wl lant{Yern{ys{x suspended
+from the ceiling and their light reveals that this building has a robust
+timber frame construction.  There is a pair of {ys{Dt{yaircas{De{ys{x at this end of the
+hallway; one leads upwards while the other leads down.  There also are
+several doorways along this hallway that lead into the guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58090
+D1
+~
+~
+3 3
+1 0 58120
+D3
+~
+~
+3 3
+1 0 58119
+D4
+~
+~
+0 0
+0 0 58093
+D5
+~
+~
+0 0
+0 0 58069
+S
+#58090
+A Hallway~
+This is a long corridor in one of Baerlon's inns.  The windowless room is
+lit up by small {yo{Yi{Wl la{Ymp{ys{x hung from the ceiling and their light reveals that
+this building has a robust wooden frame structure.  Both the walls and the
+floor of the corridor are void of any decorations.  There are several doors
+along this corridor that lead into the guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58091
+D1
+~
+~
+3 3
+1 0 58122
+D2
+~
+~
+0 0
+0 0 58089
+D3
+~
+~
+3 3
+1 0 58121
+S
+#58091
+A Hallway~
+This is the northern end of a long hallway in one of Baerlon's inns.  The
+windowless room is illuminated by small {yo{Yi{Wl{w {Wlant{Yern{ys{x suspended from the
+ceiling and their light reveals that this building has a sturdy timber frame
+structure.  Both the walls and the floor of the corridor are void of any
+decorations.  There are several doorways along this hallway that lead into
+the guest rooms.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58123
+D2
+~
+~
+0 0
+0 0 58090
+D3
+~
+~
+8227 8227
+1 58148 58137
+S
+#58092
+A Hallway~
+This is a long hallway in one of Baerlon's inns.  The windowless room is
+lit up by small oil {yo{Yi{Wl la{Ymp{ys{x hung from the ceiling and their light reveals
+that this building has a strong timber frame structure.  Both the walls and
+the floor of the corridor are bare wood and have no form of decoration
+adorning them and there is also a similarly bare flight of {yw{Do{yod{De{yn s{Dt{yai{Dr{ys{x
+that leads to the lower levels of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58104
+D1
+~
+~
+3 3
+1 0 58109
+D2
+~
+~
+3 3
+1 0 58105
+D3
+~
+~
+3 3
+1 0 58108
+D5
+~
+~
+0 0
+0 0 58088
+S
+#58093
+A Hallway~
+This is a long corridor within the Stag and Lion Inn.  The windowless
+room is lit up by small {yo{Yi{Wl {x{Wlant{Yern{ys{x suspended from the ceiling reveals this
+building's sturdy timber frame structure.  Both the walls and the floor of
+the corridor are void of any decorations.  There are two {ys{Dt{yaircas{De{ys{x at this
+end of the hallway; one leads upwards while the other leads down.  There
+also are several doors along this hallway that lead into the guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58094
+D1
+~
+~
+3 3
+1 0 58125
+D3
+~
+~
+3 3
+1 0 58124
+D4
+~
+~
+0 0
+0 0 58096
+D5
+~
+~
+0 0
+0 0 58089
+S
+#58094
+A Hallway~
+This is a long hallway in one of Baerlon's inns.  The windowless room is
+lit up by small {yo{Yi{Wl lant{Yern{ys{x hung from the ceiling reveals this building's
+robust timber frame structure.  Both the walls and the floor of the corridor
+are void of any decorations.  There are several doors along this hallway
+that lead into the guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58095
+D1
+~
+~
+3 3
+1 0 58126
+D2
+~
+~
+0 0
+0 0 58093
+D3
+~
+~
+3 3
+1 0 58127
+S
+#58095
+A Hallway~
+This is a long hallway in one of Baerlon's inns.  The windowless room is
+lit up by small {yo{Yi{Wl lant{Yern{ys{x hung from the ceiling reveals this building's
+robust timber frame structure.  Both the walls and the floor of the corridor
+are void of any decorations.  There are several doors along this hallway
+that lead into the guest rooms.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58128
+D2
+~
+~
+0 0
+0 0 58094
+D3
+~
+~
+8227 8227
+1 58147 58136
+S
+#58096
+A Hallway~
+This is the southern end of a long hallway in one of Baerlon's inns.  The
+windowless room is illuminated by small {yo{Yi{Wl lant{Yern{ys{x suspended from the
+ceiling and their light reveals that this building has a robust timber frame
+construction.  Both the walls and the floor of the corridor are void of any
+decorations and there is an equally bare {yw{Do{yod{De{yn s{Dt{yaircas{De{x that leads to the
+lower levels of the inn.  There are several doorways along this hallway that
+lead into the guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58097
+D1
+~
+~
+3 3
+1 0 58131
+D3
+~
+~
+3 3
+1 0 58130
+D5
+~
+~
+0 0
+0 0 58093
+S
+#58097
+A Hallway~
+This is a long corridor within the Stag and Lion Inn.  The windowless
+room is lit up by small {yo{Yi{Wl {x{Wla{Ymp{ys{x suspended from the ceiling reveals this
+building's sturdy wooden frame structure.  Both the walls and the floor of
+the corridor are void of any decorations.  There are several doorways along
+this corridor that lead into the guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 58098
+D1
+~
+~
+3 3
+1 0 58133
+D2
+~
+~
+0 0
+0 0 58096
+D3
+~
+~
+3 3
+1 0 58132
+S
+#58098
+A Hallway~
+This is the northern end of a long corridor in one of Baerlon's inns. 
+The windowless room is lit by small {yo{Yi{Wl lant{Yern{ys{x suspended from the ceiling
+which reveals this building's robust timber frame structure.  Both the walls
+and the floor of the corridor are void of any decorations.  There are
+several doors along this hallway that lead into the guest rooms.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58134
+D2
+~
+~
+0 0
+0 0 58097
+D3
+~
+~
+8227 8227
+1 58141 58135
+S
+#58099
+A Small House~
+This is a comfortable single-roomed house that has been partitioned off
+into two sections.  The front of the house has a small kitchen and dining
+area.  The {Ww{wh{Wi{wt{We s{wt{Wo{wn{We f{wi{Wre{wp{Wla{wc{We{x at the south side of the room is sufficient
+to cook food on and provide the house with warmth.  There is a tall {Dc{ra{Dbin{re{Dt{x
+filled with delicately painted {Wcr{Mo{mck{Me{Wry{x placed against the wall near the
+{Dd{ri{Dni{rn{Dg t{ra{Db{rl{De{x.  The rear half of the room is lies on a split level that is
+raised slightly higher than the other half.  The level is accessed by three
+wide wooden steps and is furnished with {Dt{ywi{Dn b{yed{Ds{x, two large {yt{Dr{yun{Dk{ys{x and a
+long {Wm{wi{Dr{wr{Wor{x.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58035
+S
+#58100
+A Small House~
+This is a snug single-roomed house that has been partitioned off into two
+sections.  The front of the house has a kitchen and dining area.  The
+{cb{wluis{ch-g{wra{cy s{wton{ce f{wireplac{ce{x at the east side of the room is sufficient to
+cook on and provide the house with warmth.  There is a tall {yc{Ya{Wbinet{x filled
+with brightly painted {bo{Brn{came{Bnt{bs{x placed against the wall near the {yd{Yi{Wning
+{yt{Ya{Wble{x.  The rear half of the room is lies on a split level that is raised
+slightly higher than the other half.  The level is accessed by three wide
+wooden steps and is furnished with a {yl{Ya{Wrge{y b{Ye{Wd{x, a {yw{Ya{Wrdrobe{x and a long
+{Wmi{wr{Dr{wo{Wr{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58011
+S
+#58101
+A Small House~
+This is a comfy single-roomed house that has been partitioned off into
+two areas.  The front of the house has a kitchen and dining area.  The {Dbl{wa{Dck
+st{wo{Dne fi{wr{Depl{wa{Dce{x at the west side of the room is enough to cook on and warm
+the entire room.  There is a tall {yb{Do{yokca{Ds{ye{x filled with {bbooks{x placed against
+the wall near the {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x.  The rear half of the room is used as
+sleeping quarters and lies on a split level that is raised slightly higher
+than the front half.  The level is accessed by three wide wooden steps and
+is furnished with a {yl{Da{yr{Dg{ye b{De{yd{x, a {yc{Dh{ye{Ds{yt{x of {yd{Dr{yawe{Dr{ys{x and a long {Wm{wi{Dr{wr{Wor{x.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58007
+S
+#58102
+A Small House~
+This is a cozy single-roomed house that has been partitioned off into two
+areas.  The front of the house has a small yet tidy kitchen and dining area.
+The {Dg{wra{Dy s{wton{De f{wireplac{De{x at the north side of the room is enough to cook
+food on and heat up the entire room.  There is a tall {yb{Do{yokca{Ds{ye{x filled with
+{gbooks{x placed against the wall near the {yd{Di{yni{Dn{yg t{Da{yb{Dl{ye{x.  The rear half of the
+room is used as sleeping quarters and lies on a split level that is raised
+slightly higher than the front half.  The level is accessed by three wide
+wooden steps and is furnished with {Dt{ywi{Dn b{yed{Ds{x, a {ywa{Dr{ydr{Do{ybe{x and a long {Wmi{wr{Dr{wo{Wr{x. 
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58045
+S
+#58103
+A Jewelry Shop~
+This shop is very typical of the establishments that can be found within
+Baerlon.  It is a very tiny and cramped timber frame building with a creepy
+feel to it.  A large {yw{Do{yod{De{yn c{Do{yunt{De{yr{x takes up most of the space within the
+shop while the {yj{Ye{Wwel{Yr{yy{x is displayed within {yw{Do{yod{De{yn{x {yc{Da{ybine{Dt{ys{x attached to the
+far wall.  There is an exit beside the window on the south side of the room
+but there is also another door opposite it that leads to the shopkeeper's
+quarters.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58036
+S
+#58104
+A Small Guest Room~
+This is one of the Miner's Rest's small yet comfy guest rooms.  The
+bedroom appears quite plain with its almost bare wooden floor and
+whitewashed walls.  There is a {rt{Ra{rt{Rte{rr{Re{rd r{Re{rd r{Ru{rg{x placed in front of the {Dg{wra{Dy
+s{wton{De f{wireplac{De{x at the west side of the room which matches the {rr{Re{rd{x {rc{Ru{rr{Rta{ri{Rn{rs{x
+that adorn the window in the adjacent wall.  The only exit is a door at the
+south side of the guest room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58092
+S
+#58105
+A Small Guest Room~
+This is a small yet cozy guest room within the Miner's Rest.  The bedroom
+looks quite plain with its almost bare wooden floor and whitewashed walls. 
+There is a {yf{Yraye{yd y{Yello{yw r{Yu{yg{x placed in front of the {Dg{wra{Dy s{wton{De f{wireplac{De{x at
+the west side of the room which matches the {yy{Yello{yw c{Yurtain{ys{x that adorn the
+window in the adjacent wall.  The only exit is a door at the north side of
+the guest room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58092
+S
+#58106
+A Small Guest Room~
+This is a small yet comfy guest room inside the Miner's Rest.  The
+bedroom looks rather plain with its almost bare wooden floor and whitewashed
+walls.  There is a {bs{Bmal{bl b{Blu{be r{Bu{bg{x placed in front of the {Dg{wra{Dy s{wton{De
+f{wireplac{De{x at the north side of the room which matches the {bb{Blu{be c{Burtain{bs{x that
+adorn the window in the adjacent wall.  The only exit is a door at the east
+side of the guest room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58088
+S
+#58107
+A Small Guest Room~
+This is one of the Miner's Rest's small yet comfortable guest rooms.  The
+room appears quite plain with its almost bare wooden floor and whitewashed
+walls.  There is a {rs{Rmal{rl{x {rr{Re{rd r{Ru{rg{x placed in front of the {Dg{wra{Dy s{wton{De f{wireplac{De{x
+at the north side of the room which matches the {rr{Re{rd{x {rc{Ru{rr{Rta{ri{Rn{rs{x that adorn the
+window in the adjacent wall.  The only exit is a door at the west side of
+the guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58088
+S
+#58108
+A Small Guest Room~
+This is a small yet comfortable guest room inside the Miner's Rest.  The
+room looks fairly plain with its almost bare wooden floor and whitewashed
+walls.  There is a {cf{wr{cay{we{cd t{wea{cl r{wu{cg{x placed in front of the {Dg{wra{Dy s{wton{De
+f{wireplac{De{x at the north side of the room which matches the {ct{wea{cl{x {ccu{wr{cta{wi{cns{x that
+adorn the window in the adjacent wall.  The only exit is a door at the east
+side of the guest room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58092
+S
+#58109
+A Small Guest Room~
+This is one of the Miner's Rest's small yet comfortable guest rooms.  The
+room looks quite plain with its almost bare wooden floor and whitewashed
+walls.  There is a {msmall purple rug{x placed in front of the {Dg{wra{Dy s{wton{De
+f{wireplac{De{x at the north side of the room which matches the {mpurple curtains{x
+that adorn the window in the adjacent wall.  The only exit is a door at the
+west side of the guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58092
+S
+#58110
+A Small Guest Room~
+This is a small yet comfy guest room in the Miner's Rest.  The bedroom
+seems quite plain with its almost bare wooden floor and whitewashed walls. 
+There is a {gt{Gattere{gd g{Gree{gn r{Gu{gg{x placed in front of the {Dg{wra{Dy s{wton{De f{wireplac{De{x at
+the west side of the room which matches the {gg{Gree{gn c{Gurtain{gs{x that adorn the
+window in the adjacent wall.  The only exit is a door at the south side of
+the guest room.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 58088
+S
+#58111
+A Small Guest Room~
+This is one of the Miner's Rest's small yet comfortable guest rooms.  The
+room looks fairly plain with its almost bare wooden floor and whitewashed
+walls.  There is a {bf{Br{ba{By{be{Bd b{bl{Bu{be r{Bu{bg{x placed in front of the {Dg{wra{Dy s{wton{De
+f{wireplac{De{x at the west side of the room which matches the {Bb{bl{Bu{be{x {bc{Bu{br{Bt{ba{Bi{bn{Bs{x that
+adorn the window in the adjacent wall.  The only exit is a door at the north
+side of the guest room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58088
+S
+#58112
+Baerlon Bakery~
+A couple of {yb{Yras{ys l{Yantern{ys{x hung from low timber rafters brightly
+illuminate this small bakery.  The building has mainly been constructed with
+wood and has many {ys{Dh{yelv{De{ys{x and {yr{Da{yc{Dk{ys{x fitted to its walls to display the shop
+owner's produce in square {Yw{yi{Yck{ye{Yr b{ya{Ys{yk{Ye{yt{Ys{x.  There are two doorways in this
+room; a door at the front of the building that leads out into Baerlon Road
+and a small door at the back of the shop from which the smell of freshly
+baked bread and cakes appears is emanating form.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58010
+S
+#58113
+The Bank of Andor~
+The Bank of Andor is one of the smaller establishments along Baerlon
+Road.  The area is brightly lit by {ys{Yt{Wa{Yn{yd-l{Ya{Wm{Yp{ys{x that reveal colorful
+{rt{Ra{Wp{Re{rst{Rr{Wi{Re{rs{x adorning the gray brick walls of the building.  There is a door
+reinforced with straps of {Di{wro{Dn{x on the north side of the room that has been
+securely bolted and {Dp{wad{Wloc{wke{Dd{x.  There is a {wb{Da{wr{Dr{we{Dd {ww{Di{wn{Dd{wo{Dw{x on the south side
+of the room with a large door built next to it that provides an exit from
+the bank.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58009
+S
+#58114
+The General Store~
+This is a small shop that is brightly illuminated by a collection of small
+{yo{Yi{Wl lan{Yter{yns{x that are suspended from the timber beams that support the
+ceiling.  There are many {ys{wh{yelv{we{ys{x and {yra{wc{yks{x fitted to the shop's walls with
+each one used to display the shopkeeper's wares.  There are two doorways in
+this room; a door at the front of the building that leads out into Baerlon
+Road and a small door at the back of the shop that probably leads to a
+storage area or the shopkeeper's living quarters.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58012
+S
+#58115
+A Rundown Tavern~
+The grimy plaster walls have crumbled away in this small rundown tavern,
+revealing the brick and timber structure that lies beneath it.  A rickety
+wooden {ybar{x has been built along the east side of the common room with a
+stack of wooden {ybarrels{x and {ycasks{x balanced precariously behind it.  A long
+rack housing dozens of {Db{wat{Wte{wre{Dd t{wan{Wka{wrd{Ds{x has been built above the {ybar{x.  The
+only sturdy items within this room are the exit at the north side of the
+room and the wide {Ds{wto{Wne firepl{wac{De{x built into the adjacent wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58010
+S
+#58116
+A Ramshackle Tavern~
+The parts of the grubby plaster walls have fallen to pieces in this small
+ramshackle tavern, revealing the stone and timber structure that lies
+beneath it.  A shaky wooden {ybar{x has been built along the west side of the
+common room with a stack of wooden {ycasks{x and {ybarrels{x balanced perilously
+behind it.  A long rack housing dozens of {Dd{we{Wn{wte{Dd{w {Dp{we{Wwt{we{Dr{W {wm{Wu{wg{Ds{x has been built
+above the {ybar{x.  The only sturdy items within this room are the exit at the
+north side of the room and the tall {Ws{wt{Do{wn{We fire{wp{Dla{wc{We{x built into the adjacent
+wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58006
+S
+#58117
+The Governor's House~
+This is a spacious hallway whose walls have been freshly whitewashed and
+floor covered with a {rt{Rh{ri{Rc{rk {x{rc{Ra{rrp{Re{rt{x that is {rd{Re{re{Rp{r r{Re{rd{x in color.  The room is
+illuminated be a series of ornate {Ds{wil{Wver{D l{want{Werns{x attached to the walls. 
+There are several identical doorways that lead off from this room but all of
+them lack markings to say where each one leads to.  At the end of the
+hallway is a wide {rc{Ra{rr{Rpe{rt{Re{rd{x {rs{Dt{ra{Dirc{ra{Ds{re{x that leads to the upper levels of the
+building; a long but slightly faded {rt{Ra{Wpest{Rr{ry{x depicting the {WWhite Lion{x of
+{rA{Rn{Wd{Ro{rr{x has been hung upon the wall above the {rs{Dt{ra{Dirc{ra{Ds{re{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58118
+D2
+~
+~
+3 3
+1 0 58033
+D3
+~
+~
+3 3
+1 0 58139
+D4
+~
+~
+0 0
+0 0 58138
+S
+#58118
+The Governor's Office~
+This is a spacious office whose walls have been paneled with {rd{Da{rr{Dk{r w{Do{ro{Dd{x. 
+The {Wwhite plaster ceiling{x has been adorned with ornate moldings of roses
+around the edge of the room.  A series of ornate {Ds{wil{Wver{D l{want{Werns{x suspending
+from the ceiling illuminates the room with a gentle golden light.  Four tall
+arched windows built into the southern wall have been fitted with {rr{Ri{rc{Rh{r r{Re{rd
+{Rv{re{Rl{rv{Re{rt{x {Rd{rr{Ra{rp{Re{rs{x that are tied back with thick {Ds{wil{Wver{x {Dc{wor{Wds{x.  The east wall of
+the office is graced with a wide {Df{wir{De{wp{Dl{wac{De{x constructed from {Dd{war{Dk-g{wra{Dy s{wt{Do{wn{De{x.
+The door on the west side of the room appears to be the only exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58117
+S
+#58119
+A Large Guest Room~
+This is one of the Stag and Lion Inn's large and spacious guest rooms. 
+There is a pair of windows built in the room's west wall that looks out over
+a busy road that runs parallel to the inn.  A thick {rr{Re{rd r{Ru{rg{x covers the floor
+of the room which matches the {rc{Ru{rr{Rta{ri{Rn{rs{x that are fitted to the windows.  A
+plain {Df{wir{De{wp{Dl{wac{De{x constructed from {Dg{wra{Dy s{wt{Do{wn{De{x has been built into the north
+wall to provide some additional warmth.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58089
+S
+#58120
+A Large Guest Room~
+This is a spacious guest room within the Stag and Lion Inn.  There is a
+pair of windows built in the room's east wall that looks out over the inn's
+stable yard.  A thick {bb{Blu{be r{Bu{bg{x covers the floor of the room which matches
+the {bd{Br{bap{Be{bs{x that adorn the windows.  A plain {Df{wir{De{wp{Dl{wac{De{x constructed from {Dg{wra{Dy
+s{wt{Do{wn{De{x has been built into the north wall to provide some extra warmth.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58089
+S
+#58121
+A Large Guest Room~
+This is a large and spacious guest room within the Stag and Lion Inn.  A
+pair of windows built in the room's west wall look out over a busy street
+that runs parallel to the inn.  A thick {bb{Blu{be{x {bc{Ba{brp{Be{bt{x covers the floor of the
+room which matches the {bd{Br{bap{Be{bs{x that adorn the windows.  A small {Df{wir{De{wp{Dl{wac{De{x
+made of {Dg{wra{Dy s{wt{Do{wn{De{x has been built into the south wall to provide some extra
+warmth.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58090
+S
+#58122
+A Large Guest Room~
+This is one of the Stag and Lion Inn's large and spacious guest rooms.  A
+pair of windows built in the room's east wall look out over the inn's stable
+yard.  A thick {gg{Gr{ge{Ge{gn c{Ga{grp{Ge{gt{x covers the floor of the room which matches the
+{gc{Gu{gr{Gta{gi{Gn{gs{x that fitted to the windows.  There is a {Dg{wra{Dy s{wt{Do{wn{De{x {Df{wir{De{wp{Dl{wac{De{x built
+into the south wall to provide some additional heat.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58090
+S
+#58123
+A Large Guest Room~
+This is a large and spacious guest room within the Stag and Lion Inn. 
+There is a pair of windows built in the room's east wall that looks out over
+the inn's stable yard.  A plush {rr{Re{rd{x {rc{Ra{rrp{Re{rt{x covers the floor of the room
+which matches the {rd{Rr{rap{Re{rs{x fitted to the windows.  A plain {Df{wir{De{wp{Dl{wac{De{x
+constructed from {Dg{wra{Dy s{wt{Do{wn{De{x has been built into the south wall to provide
+some extra warmth.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58091
+S
+#58124
+A Large Guest Room~
+This is a comfy guest room within the Stag and Lion Inn.  A pair of
+windows built in the room's west wall look out over a busy road that runs
+parallel to the inn.  A thick {gg{Gr{ge{Ge{gn c{Ga{grp{Ge{gt{x covers the floor of the room
+which matches the {gc{Gu{gr{Gta{gi{Gn{gs{x that adorn the windows.  There is a {Dg{wra{Dy s{wt{Do{wn{De{x
+{Df{wir{De{wp{Dl{wac{De{x built into the north wall to provide some extra warmth.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58093
+S
+#58125
+A Large Guest Room~
+This is a cozy guest room within the Stag and Lion Inn.  A pair of
+windows built in the room's east wall look out over a yard situated at the
+back of the inn.  A thick {bb{Blu{be r{Bu{bg{x covers the floor of the room which
+matches the {bc{Bu{br{Bta{bi{Bn{bs{x that adorn the windows.  There is a {Dg{wra{Dy s{wt{Do{wn{De{x
+{Df{wir{De{wp{Dl{wac{De{x built into the north wall to provide some additional heat.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58093
+S
+#58126
+A Large Guest Room~
+This is one of the Stag and Lion Inn's large and spacious guest rooms. 
+There is a pair of windows built in the room's east wall that looks out over
+the inn's stable yard.  A thick {gg{Gr{ge{Ge{gn c{Ga{grp{Ge{gt{x covers the floor of the room
+which matches the {gc{Gu{gr{Gta{gi{Gn{gs{x that adorn the windows.  A small {Df{wir{De{wp{Dl{wac{De{x made
+of {Dg{wra{Dy s{wt{Do{wn{De{x has been built into the south wall to provide some additional
+warmth.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58094
+S
+#58127
+A Large Guest Room~
+This is one of the Stag and Lion Inn's spacious guest rooms.  There is a
+pair of windows built in the room's west wall that looks out over a busy
+street that runs parallel to the inn.  A thick {bb{Blu{be {x{br{Bu{bg{x covers the floor of
+the room which matches the {bc{Bu{br{Bta{bi{Bn{bs{x that adorn the windows.  A small
+{Df{wir{De{wp{Dl{wac{De{x made of {Dg{wra{Dy s{wt{Do{wn{De{x has been built into the south wall to provide
+some additional heat.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58094
+S
+#58128
+A Large Guest Room~
+This is one of the Stag and Lion Inn's large and spacious guest rooms.  A
+pair of windows built in the room's east wall look out over a yard at the
+back of the inn.  A thick {rr{Re{rd{x {rc{Ra{rrp{Re{rt{x covers the floor of the room which
+matches the {rc{Ru{rr{Rta{ri{Rn{rs{x that adorn the windows.  A plain {Df{wir{De{wp{Dl{wac{De{x constructed
+from {Dg{wra{Dy s{wt{Do{wn{De{x has been built into the south wall to provide some
+additional warmth.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58095
+S
+#58129
+A Small Bedroom~
+This is a cozy bedroom tucked away under the eaves of a small house with
+a steeply sloping roof.  Although there are small windows in the north and
+south sides of the room, the main source of illumination is a {Ds{wma{Wll lan{wter{Dn{x
+that is hung from one of the rafters.  There is a steep flight of stairs
+enclosed by plain {yt{Di{ymb{De{yr r{Da{yilin{Dg{ys{x on the south side of the room that leads
+downwards to the ground floor of the building.  
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 58087
+S
+#58130
+A Small Guest Room~
+This is a guest room built beneath the eaves of the Stag and Lion Inn. 
+It is a small room with bare plaster walls and an almost equally bare floor.
+A small window set in the west wall of the room looks out over a busy street
+that runs parallel to the inn.  The only exit from this room is the doorway
+on the east side of the guest room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58096
+S
+#58131
+A Small Guest Room~
+This is a guest room constructed below the eaves of the inn.  It is a
+small room with bare plaster walls and an almost equally bare floor.  A
+small window set in the east wall of the room looks out over the inn's
+stable yard.  The only exit from this room is the doorway on the west side
+of the guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58096
+S
+#58132
+A Small Guest Room~
+This is a guest room constructed under the eaves of the inn.  It is a
+small room with bare plaster walls and an almost equally bare floor.  A
+small window set in the west wall of the room looks out over a busy road
+that runs parallel to the inn.  The only exit from this room is the doorway
+on the east side of the guest room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58097
+S
+#58133
+A Small Guest Room~
+This is a guest room built beneath the eaves of the Stag and Lion Inn. 
+It is a small room with bare plaster walls and an almost equally bare floor.
+A small window set in the east wall of the room looks out over the yard at
+the back of the inn.  The only exit from this room is the doorway on the
+west side of the guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58097
+S
+#58134
+A Small Guest Room~
+This is a guest room constructed under the eaves of the Stag and Lion
+Inn.  It is a small room with bare plaster walls and an almost equally bare
+floor.  A small window set in the east wall of the room looks out over the
+yard at the back of the inn.  The only exit from this room is the doorway on
+the west side of the guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58098
+S
+#58135
+A Bath Chamber~
+This is a large chamber built under the sloping eaves of the inn.  The
+room has a floor that is covered with {ws{Wmoot{wh t{Wile{ws{x and gently slopes down
+towards the room's center.  At the center of the room is a small drain to
+dispose of the waste water.  There are a couple of big {Db{wlac{Dk i{wro{Dn {x{Dc{waul{Dd{wron{Ds{x
+of {cw{Ca{Wt{Ce{cr{x stood heating over {rf{Ri{Yr{Re{rs{x along one wall and on opposite wall there
+are logs blazing in a wide {Df{wir{De{wp{Dl{wac{De{x which add to overall warmth of the
+chamber.  
+~
+0
+D 0
+D1
+~
+~
+8227 8227
+1 58141 58098
+S
+#58136
+A Bath Chamber~
+This is a spacious chamber with a {ws{Wmoot{wh t{Wile{wd{x {wf{Wloo{wr{x that gently slopes
+down towards its center.  At the center of the room is a small drain to
+dispose of the waste water.  There are a few large {Db{wlac{Dk i{wro{Dn c{waul{Dd{wron{Ds{x of
+{cw{Ca{Wt{Ce{cr{x stood heating over {rf{Ri{Yr{Re{rs{x along one wall and on opposite wall there are
+logs blazing in a broad {Df{wir{De{wp{Dl{wac{De{x which add to general warmth of the room.  
+~
+0
+D 0
+D1
+~
+~
+8227 8227
+1 58147 58095
+S
+#58137
+A Bath Chamber~
+This is a large chamber with a {ws{Wmoot{wh t{Wile{wd{x {wf{Wloo{wr{x that gently slopes down
+towards its center.  At the center of the room is a small drain to dispose
+of the waste water.  There are a couple of big {Db{wlac{Dk i{wro{Dn c{waul{Dd{wron{Ds{x of {cw{Ca{Wt{Ce{cr{x
+stood heating over {rf{Ri{Yr{Re{rs{x along one wall and on opposite wall there are logs
+blazing in a wide {Df{wir{De{wp{Dl{wac{De{x which add to general warmth of the chamber.  
+~
+0
+D 0
+D1
+~
+~
+8227 8227
+1 58148 58091
+S
+#58138
+A Spacious Landing~
+This is a spacious landing whose walls have been freshly whitewashed and
+floor covered with a {rt{Rh{ri{Rc{rk {x{rd{Re{re{Rp{r r{Re{rd{x {rc{Ra{rrp{Re{rt{x.  The room is illuminated be a
+series of decorative {Ds{wil{Wver{D l{want{Werns{x attached to the walls.  There are
+several identical doors that lead off from this landing but all of them lack
+markings to say where each one leads to.  At the center of the hallway is a
+wide {rc{Ra{rr{Rpe{rt{Re{rd{x {rs{Dt{ra{Dirc{ra{Ds{re{x that leads to the lower levels of the building; a
+long but slightly faded {rt{Ra{Wpest{Rr{ry{x depicting the {WWhite Lion{x of {rA{Rn{Wd{Ro{rr{x has been
+hung upon the wall above the {rs{Dt{ra{Dirc{ra{Ds{re{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58141
+D3
+~
+~
+3 3
+1 0 58140
+D5
+~
+~
+0 0
+0 0 58117
+S
+#58139
+A Large Dining Room~
+This is a large dining room whose walls covered with {rd{Da{rr{Dk{r w{Do{ro{Dd{re{Dn{x
+paneling.  The {Wwhite plaster ceiling{x has been adorned with ornate moldings
+of roses around the edge of the room.  A series of ornate {Ds{wil{Wver{D l{want{Werns{x
+suspending from the ceiling illuminates the room with a gentle golden light.
+Four tall arched windows built into the southern wall have been fitted with
+{mdeep violet velvet drapes{x that are tied back with thick {Ds{wil{Wver{x {Dc{wor{Wds{x.  Two
+wide {Df{wir{De{wp{Dl{wac{De{ws{x constructed from {Dg{wra{Dy s{wt{Do{wn{De{x have been built along the west
+wall to bring warmth to the vast room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58142
+D1
+~
+~
+3 3
+1 0 58117
+S
+#58140
+A Large Bedroom~
+This is a large bedroom whose walls have been paneled with {rd{Da{rr{Dk{r w{Do{ro{Dd{x.  The
+{Wwhite plaster ceiling{x has been decorated with ornate moldings of roses
+around the edge of the room.  The room is softly illuminated by a series of
+ornate {Ds{wil{Wver{x {Dl{wam{Wps{x suspending from the ceiling.  On the north side of the
+room is a small {Df{wir{De{wp{Dl{wac{De{x and at the opposite side of the room is a pair of
+arched windows fitted with {bd{Be{be{Bp{b b{Bl{bu{Be{b c{Bu{br{Bt{ba{Bi{bn{Bs{x that look out over one of
+Baerlon's busy streets.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58138
+S
+#58141
+A Large Bedroom~
+This is a large bedroom whose walls covered with dark {rd{Da{rr{Dk{r w{Do{ro{Dd{re{Dn{x
+paneling.  The {Wwhite plaster ceiling{x has been decorated with ornate moldings
+of roses around the edge of the room.  The room is softly illuminated by
+several ornate {Ds{wil{Wver{D l{want{Werns{x hung from the ceiling.  On the north side of
+the room is a small {Df{wir{De{wp{Dl{wac{De{x and at the opposite side of the room is a pair
+of arched windows fitted with {yg{Yolde{yn y{Yello{yw c{Yurtain{ys{x that look out over one
+of Baerlon's busy streets.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58138
+S
+#58142
+A Large Kitchen~
+This is very little out of the ordinary about this kitchen apart from its
+size.  It is a rather large room that has {Dg{wra{Dy s{wt{Do{wn{De f{wl{Do{wo{Dr t{wi{Dl{we{Ds{x and plain
+whitewashed walls.  The main focal point of this kitchen is the {Dg{wra{Dy s{wt{Do{wn{De{x
+{Df{wir{De{wp{Dl{wac{De{x built into the east wall where a lot of the cooking is done. 
+There are more than a few {ycabinets{x and {ydrawers{x fitted around the kitchen to
+store foodstuffs and cooking {Du{wte{Wns{wil{Ds{x.  There are two exits from this room,
+a door on the south side and a much larger door on the west side of the
+kitchen that leads out into a yard.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58139
+D3
+~
+~
+3 3
+1 0 58143
+D5
+~
+trapdoor~
+4099 4099
+1 0 58145
+S
+#58143
+A Large Yard~
+This is the northern end of a large yard that is sits between two timber
+frame buildings and enclosed by a high wooden fence.  A strong stench of
+horses is coming from the stable on the west side.  The other building
+overlooking the yard is a grand house that looks much taller than the rest
+of Baerlon's residences.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 58142
+D2
+~
+~
+0 0
+0 0 58144
+S
+#58144
+A Large Yard~
+This is a the southern end of a large yard that is sits between two
+wooden frame buildings and enclosed by a tall timber fence with a broad
+gateway built into the fence at the front.  A strong smell of horses is
+coming from the stable on the west side.  The other building overlooking the
+yard is a grand house that looks much taller than the rest of Baerlon's
+residences.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 58143
+D2
+~
+gate~
+262147 262147
+1 0 58031
+S
+#58145
+A Large Cellar~
+This is a large cellar that has been constructed from dull gray stone. 
+The room has been given additional support by thick timber beams and
+pillars.  There are numerous wooden crates, barrels and casks stored in this
+chilly area, each one of them has chalk markings that indicate what is being
+stored inside each container.  There is only one exit from this cellar, a
+trapdoor set in the ceiling that can be reached by a set of stone steps
+leading up the side of the east wall.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+4099 4099
+1 0 58142
+S
+#58146
+A Large Cellar~
+This is a large cellar that has been built from dull gray bricks.  The
+room has been given extra support by thick timber beams and pillars.  There
+are many wooden barrels and casks stored in this chilly area, each one of
+them has chalk markings that indicate what is being stored inside each
+container.  There is only one exit from this cellar, a trapdoor set in the
+ceiling that can be reached by a set of stone steps leading up the side of
+the west wall.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+4099 4099
+1 0 58071
+S
+#58147
+A Large Kitchen~
+This is a large cellar that has been constructed from gray bricks.  The
+room has been given extra support by thick timber pillars and beams.  There
+are numerous wooden barrels and casks stored in this chilly area, each one
+of them has chalk markings that indicate what is being stored inside each
+container.  There is only one exit from this cellar, a trapdoor set in the
+ceiling that can be reached by a set of stone steps leading up the side of
+the east wall.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+4099 4099
+1 0 58064
+S
+#58148
+A Warehouse~
+This large structure built out of gray brick and timber is one of
+Baerlon's many warehouses.  The grubby {Do{yi{Yl{x {Yla{ymp{Ds{x that have been used to
+illuminate the area have left dark sooty stains upon the walls on which they
+are fixed upon.  Their dim light reveals masses of {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x, {yc{Da{ys{Dk{ys{x
+and {ys{Da{wc{Dk{ys{x that are being neatly stored within the warehouse.  The wide
+arched doors on the south side of the built appear to be this warehouse's
+only exit.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58029
+S
+#58149
+A Warehouse~
+This vast structure built out of gray stone and timber is one of
+Baerlon's many warehouses.  The grubby {Do{yi{Yl lan{yter{Dns{x that have been used to
+illuminate the area have left dark sooty marks upon the walls on which they
+are attached to.  Their dim light reveals loads of {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x, {yc{Da{ys{Dk{ys{x
+and {ys{Da{wc{Dk{ys{x that are being neatly stored within the warehouse.  The wide
+arched doors on the south side of the built appear to be this warehouse's
+only exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58027
+S
+#58150
+A Warehouse~
+This large structure built out of gray brick and timber is one of
+Baerlon's many warehouses.  The grubby {Do{yi{Yl{x {Yla{ymp{Ds{x that have been used to
+illuminate the area have left sooty marks upon the walls on which they are
+attached to.  Their dim light reveals many {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x, {yc{Da{ys{Dk{ys{x and {ys{Da{wc{Dk{ys{x
+that are being neatly stored within the warehouse.  The wide arched doors on
+the south side of the built appear to be this warehouse's only exit.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 58061
+S
+#58151
+A Warehouse~
+This enormous structure built out of gray brick and wood is one of
+Baerlon's many warehouses.  The dirty {Do{yi{Yl lan{yter{Dns{x that have been used to
+light up the building have left black sooty marks upon the walls on which
+they are attached to.  Their dim light reveals masses of {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x,
+{yc{Da{ys{Dk{ys{x and {ys{Da{wc{Dk{ys{x that are being neatly stored within the warehouse.  The wide
+arched doors on the south side of the built appear to be this warehouse's
+only exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58058
+S
+#58152
+A Warehouse~
+This enormous structure built out of gray stone and wood is one of
+Baerlon's many warehouses.  The filthy {Do{yi{Yl{x {Yla{ymp{Ds{x that have been used to
+light up the building have left sooty marks upon the walls on which they are
+fixed upon.  Their dim light reveals masses of {yb{Da{yrre{Dl{ys{x, {yc{wr{Da{ytes{x, {yc{Da{ys{Dk{ys{x and
+{ys{Da{wc{Dk{ys{x that are being neatly stored within the warehouse.  The wide arched
+doors on the north side of the built appear to be this warehouse's only
+exit.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58053
+S
+#58153
+A Warehouse~
+This vast structure built out of gray brick and wood is one of Baerlon's
+many warehouses.  The grimy {Do{yi{Yl lan{yter{Dns{x that have been used to light up the
+area have left dark sooty marks upon the walls on which they are fixed upon.
+Their dim light reveals loads of {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x, {yc{Da{ys{Dk{ys{x and {ys{Da{wc{Dk{ys{x that are
+being neatly stored within the warehouse.  The wide arched doors on the
+south side of the built appear to be this warehouse's only exit.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58051
+S
+#58154
+A Warehouse~
+This huge structure built out of gray stone and timber is one of
+Baerlon's many warehouses.  The grubby {Do{yi{Yl{x {Yla{ymp{Ds{x that have been used to
+illuminate the area have left dark sooty stains upon the walls on which they
+are fixed upon.  Their dim light reveals masses of {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x, {yc{Da{ys{Dk{ys{x
+and {ys{Da{wc{Dk{ys{x that are being neatly stored within the warehouse.  The wide
+arched doors on the north side of the built appear to be this warehouse's
+only exit.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58042
+S
+#58155
+A Warehouse~
+This huge structure built out of gray stone and wood is one of Baerlon's
+many warehouses.  The mucky {Do{yi{Yl lan{yter{Dns{x that have been used to light up the
+building have left black sooty stains upon the walls on which they are fixed
+upon.  Their dim light reveals masses of {yc{wr{Da{ytes{x, {yb{Da{yrre{Dl{ys{x, {yc{Da{ys{Dk{ys{x and {ys{Da{wc{Dk{ys{x
+that are being neatly stored within the warehouse.  The wide arched doors on
+the south side of the built appear to be this warehouse's only exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 58039
+S
+#58156
+{gDense Woodland{x~
+This is a dark and creepy area of deciduous woodland whose ground marshy
+and difficult to traverse by foot, made even worse by the tangle of {yt{wre{ye
+r{woot{ys{x and {yd{Dea{yd b{Dranche{ys{x that litter the floor.  To the north and west
+through the {gt{Gree{gs{x, a rickety wooden {yfence{x has been built; an unusual sight
+to see in a forest.  A sound of running {cw{Ca{Wt{Ce{cr{x can be heard some distance
+away to the east which may be the reason why this area seems damp and boggy.
+In the distance on the western horizon a grand mountain range of dark gray
+{Dr{wo{Dc{wk {Dp{we{Da{wk{Ds{x shrouded in mist.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 58157
+S
+#58157
+{CA Small Stream{x~
+The area of deciduous woodland seems to part at this point to reveal
+several small {cs{Ct{Wrea{Cm{cs{x, some of which appear to be emerging from underneath a
+tall rickety wooden {yfence{x that has been placed on the northern boundary of
+the wood.  The ground, although littered with huge {Dr{wo{Wc{wk{Ds{x and {Db{wou{Wld{wer{Ds{x is
+quite boggy which could be attributed to the excess {cw{Ca{Wt{Ce{cr{x here.  The small
+streams merge at this particular point into one wide {cs{Ct{Wre{Ca{cm{x flowing downhill
+to the south.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 58158
+D3
+~
+~
+0 0
+0 0 58156
+S
+#58158
+{gDense Woodland{x~
+The {gg{Gian{gt t{Gree{gs{x that grow here cast eerie shadows within this area of
+densely populated woodland.  The ground, although rocky in some places, is
+generally marshy at this point and there is a faint sound of running {cw{Ca{Wt{Ce{cr{x
+somewhere to the west.  Through the gaps between the {gt{Gree{gs{x and the other
+vegetation, a tall wooden {yfence{x can be seen running along the northern edge
+of the woods, beyond which appears to be some sort of quarry or opencast
+mine.  In the distance on the western horizon a grand mountain range of dark
+gray {Dr{wo{Dc{wk {Dp{we{Da{wk{Ds{x shrouded in mist.  
+~
+0
+0 3
+D2
+~
+~
+0 0
+0 0 58159
+D3
+~
+~
+0 0
+0 0 58157
+S
+#58159
+{yA Long Winding Road{x~
+In the distance on the west horizon a grand mountain range of dark gray
+{Dr{wo{Dc{wk {Dp{we{Da{wk{Ds{x shrouded in mist.  But the land in the immediate although rocky
+in places, gently slopes upwards to the west where what appears to be a
+rickety wooden {ybridge{x has been constructed.  A wide {ymuddy track{x deeply
+etched into the earth by the track of wagons leads along the southern edge
+of a forest and up the gentle hillside towards the bridge.  The ground on
+the southern side of the old road drops into a steep slope that is almost
+vertical like a cliff.  A few {gt{Gree{gs{x have taken root on the precarious
+incline but the majority of the sparsely growing vegetation appears to be
+clumps of coarse {gg{Gras{gs{x and {gw{Geed{gs{x.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58158
+D2
+~
+~
+0 0
+0 0 58001
+D3
+~
+~
+0 0
+0 0 58160
+S
+#58160
+{yA Wooden Bridge{x~
+A wide muddy {cs{Ct{Wre{Ca{cm{x running in a southerly direction splits the muddy
+wagon track into two; the path is connected by a rickety wooden {ybridge{x.  The
+road is dusty and deep grooves etched into its surface indicate that this
+route is well used by wagons with extremely heavy loads.  The stream seems
+to be shallow enough to cross by foot or by horseback alone, but the
+construction of the {ybridge{x appears to indicate that there may be problems
+for carts and wagons attempting a similar crossing without aid.  To the
+north of the thoroughfare is densely growing deciduous woodland, the faint
+sounds of tree felling that can be heard within the woods.  The ground on
+the southern side of the old road suddenly drops into a steep slope; the
+woodland becoming gradually less dense towards the bottom of the slope.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58159
+D3
+~
+~
+0 0
+0 0 58161
+S
+#58161
+{yA Long Winding Road{x~
+The densely packed woodland slopes gently downhill to the east and is
+bisected east/west by a badly worn {ymuddy track{x, heavily scored and pitted
+with what appears to be wagon or cart tracks.  The terrain here in this
+forested area although visibly fertile seems to be very rocky, but the large
+rock deposits do not appear to have been deposited here by natural means. 
+Scattered along the edges of the roadside and even lurking within the wooded
+area there are large piles of {Db{wr{Wok{we{Dn r{wo{Wc{wk{Ds{x; the sharp stone fragments look
+as if to have been dumped there.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58160
+D3
+~
+~
+0 0
+0 0 58162
+S
+#58162
+{yA Long Winding Road{x~
+This is a long winding track, wide enough to all two large carts to
+travel side by side as emphasized by the deep grooves in the road; the wear
+and tear probably from heavy goods wagons or something of a similar nature. 
+There appears to have been some rough maintenance to the road; a few {yd{Dea{yd
+t{Dre{ye b{Dranche{ys{x pushed to the side and a few obvious patches where large
+{Dpotholes{x in the road have been filled in with gravel and dirt.  The gently
+sloping road is overlooked by tall deciduous {gt{Gree{gs{x and dense vegetation,
+growing on both the northern and southern sides of the road; the gaps
+between the tangled mess of {gt{Gree{gs{x and vegetation to the north reveal a {ylog
+cabin{x although there appears to be no obvious way of reaching the building
+from this point.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 58161
+D3
+~
+~
+0 0
+0 0 58163
+S
+#58163
+The Entrance To The Mine~
+A first glance may suggest that this area is a simple openwork mine, the
+entrance marked by a hefty wooden {ygate{x.  The overall area itself is very
+reminiscent of a quarry save for the elongated shape of the excavation site.
+Several {ylog cabins{x have been built within the area's wooden {yfence{x
+boundaries, all of which are situated at a considerable distance away from
+the main excavation site that is to the north.  To the south is a
+particularly run down wooden {yshack{x which appears to be used as some sort of
+guardhouse or watch post.  A long winding road leads downhill from here
+towards the east through densely populated woodland.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 58172
+D1
+~
+~
+0 0
+0 0 58162
+D2
+~
+~
+3 3
+1 0 58164
+D3
+~
+~
+0 0
+0 0 58165
+S
+#58164
+{yA Wooden Shack{x~
+A small rundown wooden {yshack{x has been constructed on the outskirts of a
+small mining complex.  The building is roughly six feet square and eight
+feet in and made mainly appears to be in need of some repairs to the walls
+where some of the wood has rotted away.  The roof has been tiled in roughly
+cut {Ds{cl{Da{ct{De{x yet a few gaps between the tiles clearly indicate that this
+building is far from weatherproof.  A square window on the northern side of
+the room overlooks the {ydirt track{x that leads away eastwards from the
+entrance to the mines.  The only exit from this place appears to be a door
+to the west.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58163
+S
+#58165
+The Mine~
+The muddy area around here is level yet rocky in some places; its western
+and northern boundaries have been clearly marked by a sheer cliff
+approximately twenty five feet high.  The near-vertical slope is comprised
+of dark {Dr{wo{Dc{wk{x that shows signs of being excavated.  There are large rocks
+littering the ground, making it near impossible for a wagon to but there are
+hoof prints in the dirt that suggest that either horses or mules are in use
+at this site.  To the south a very large {ylog cabin{x with a gently sloping
+roof has been constructed; although there appears to be a sturdy {Di{wro{Dn-b{wrace{Dd{x
+door, the building has no windows.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 58171
+D1
+~
+~
+0 0
+0 0 58163
+D2
+~
+~
+3 3
+1 0 58166
+D3
+~
+~
+0 0
+0 0 58167
+S
+#58166
+{yA Log Cabin{x~
+This is a particularly large {ylog cabin{x that is being used as a
+storehouse.  It is about ten foot from floor to rafters and twenty to twenty
+five feet square in size.  There are wooden rafters above but beyond those
+the cabin seems to be at least another five foot in height to the point
+where the inverse "v" shaped roof peaks.  The building itself is windowless;
+apart from a few small gaps between the logs that make up the walls the only
+source of light from the exterior of the building appears to be the
+{Di{wro{Dn-b{wrace{Dd{x door on the northern side of the storage building.  The
+storeroom is dusty and dry old place and is full of what appears to be sacks
+of rock, probably ore waiting to be processed as well as its own fair share
+of {Wc{wo{Wbwe{wb{Ws{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 58165
+S
+#58167
+Towering Rocks~
+Standing here is a dark gray cliff approximately fifteen feet in height. 
+It stretches around from west to north in a gentle elongated arc, increasing
+with height as it goes.  The cliff abruptly comes to an end at this point,
+it is almost like something has pushed the earth from underground to form
+the cliff; the result of an earthquake long ago or maybe even the Breaking
+of the World.  The surface of the fault reveals the truly bewildering
+structure of the rock that forms the cliff.  The remainder of the rock that
+the cliff is comprised of is mostly likely buried deep within the ground,
+under earth, gravel rocks and even small boulders that has been deposited
+upon it over the years.  A faint sound of running water can be heard to the
+west but the source of the sound is hidden from view by rocky debris that
+lies at the base of the fault.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 58170
+D1
+~
+~
+0 0
+0 0 58165
+D2
+~
+~
+0 0
+0 0 58168
+S
+#58168
+A Narrow Dirt Track~
+A rough {ydirt track{x lies here and winds its way around the southern side
+of the mining complex.  The path is strewn with large rocks and appears to
+be far too narrow for a cart to traverse it although hoof prints dug deep
+into the soft muddy ground show that horses or mules have been used around
+this area.  To the east a large {ylog cabin{x has been constructed yet there are
+no visible entrances into the building from this point.  A narrow shallow
+{cs{Ct{Wre{Ca{cm{x runs parallel to the muddy path; its source is hidden amongst a
+strange clutter of rocks and boulders that lie against a rocky incline a
+short distance away to the northwest.  The western of the stream is
+overlooked by tall {gt{Gree{gs{x and densely packed vegetation that seems to grow in
+abundance around the base of the rocky slope which in turn is overlooked by
+dark twisted mountainous peaks veiled by strange mists.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58167
+D2
+~
+~
+0 0
+0 0 58169
+S
+#58169
+{CBeside A Stream{x~
+Here lies a roughly oblong shaped area of rocky ground somewhere on the
+southern side of the mine.  A rough {ydirt track{x winds its northwards back
+to the main mining complex.  Overlooking this patch of ground to the east
+is a small {ywooden shack{x that appears to be used as a guardhouse.  Beside
+the shack are tools for the breaking down of rock into small fragments,
+including hammers, anvils and a strange hand-driven contraption that looks
+very much like a miniature mill used for grinding.  Also here are three
+sets of wooden {ywash tables{x; obviously whatever is mined in this area is
+finally extracted at this point.  A small shallow {cs{Ct{Wre{Ca{cm{x runs parallel to
+the west of the path is probably the source of {cw{Ca{Wt{Ce{cr{x for the washing
+tables used to extract the small deposits of gold from the waste
+materials.
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 58168
+D1
+~
+~
+3 3
+1 0 58185
+S
+#58170
+A Rocky Incline~
+Near to the bottom of this tall dark gray stone cliff are signs of recent
+digging; rubble and even a few broken remnants of mining tools have been
+left here.  Foot and hoof prints dug deep into the muddy ground are clear
+indications of recent traffic.  The cliff is approximately fifteen to twenty
+feet in height and stretches around from west to north in a gentle elongated
+arc, increasing with height as it goes.  What lies directly beyond the is
+not visible from this point apart from a few forlorn-looking {gp{Glant{gs{x growing
+in patches of earth near the edge, but beyond that a grand rocky outcrop can
+be seen but there is not visible way to reach it.  
+~
+0
+FZ 5
+D1
+~
+~
+0 0
+0 0 58171
+D2
+~
+~
+0 0
+0 0 58167
+S
+#58171
+A Rocky Incline~
+This is the base of a steep mostly dark gray rocky incline that stretches
+around in a gentle elongated arc.  The formation of the rock structure
+however is very unusual in this area.  The layers of rock form a strange
+series of anticlines and synclines creating a ripple-like effect with.  The
+unusual structure may be due to the major land upheaval during the Breaking
+of the World.  There are signs of digging activity here with debris littered
+around the base of the slope, as well as tell-tale signs of excavation on
+specific bands of rock here.  
+~
+0
+FZ 5
+D0
+~
+~
+0 0
+0 0 58175
+D1
+~
+~
+0 0
+0 0 58172
+D2
+~
+~
+0 0
+0 0 58165
+D3
+~
+~
+0 0
+0 0 58170
+S
+#58172
+The Mine~
+This is a large yet level rocky area whose west and northern boundaries
+have been clearly marked by a sheer cliff of dark {Dr{wo{Dc{wk{x that does not appear
+to be naturally made; any smooth signs of erosion have been erased near the
+base of the cliff by the tell-tale signs of digging.  Large rocks litter the
+ground, making it very difficult for a wagon to traverse with any ease.  To
+the east a large {ylog cabin{x has been constructed; although there appears to
+be a sturdy {Di{wro{Dn-b{wrace{Dd{x door, strangely the building has no windows, or at
+least no windows visible from this point.  A hefty wooden {ygate{x lies due
+south to where a well used {ydirt track{x is situated.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 58174
+D1
+~
+~
+3 3
+1 0 58173
+D2
+~
+~
+0 0
+0 0 58163
+D3
+~
+~
+0 0
+0 0 58171
+S
+#58173
+{yA Log Cabin{x~
+This is a particularly large {ylog cabin{x, approximately ten foot from
+floor to rafters and twenty feet square in size.  Thick cobwebs drape down
+from the wooden rafters above but beyond those the building seems to be at
+least another five foot in height to the point where the inverse "v" shaped
+roof peaks.  The cabin is large considering its sole purpose is as a tool
+shed.  There are no windows, apart from a few tiny gaps between the logs
+that make up the walls; the only source of light from the exterior of the
+building would be the on the western side of the cabin where an {Di{wro{Dn-b{wrace{Dd{x
+door that marks the entranceway into the building if it were to be left
+open.  There are several well fixed wooden racks upon the walls housing
+various mining implements, ranging from {Dha{wmme{Drs{x to {Dp{wi{Wc{wk{Ds{x and {Dsh{wove{Wls{x.  An
+incredible amount of dust from outside has settled upon the floor and the
+items stored here in the cabin, finger prints within the dust reveal that
+the building has had recent visitors.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58172
+S
+#58174
+A Rocky Incline~
+A strange dark gray cliff approximately twenty to twenty five feet in
+height stretches around from west to north in a gentle elongated arc. 
+Although it is impossible to see what lies immediately beyond the top of the
+cliff from this point, dark mountainous peaks shrouded in eerie white mists
+can be seen towards the western horizon.  There are signs of digging
+activity here with debris littered around the base as well as large pits in
+the surface of the rocky slope.  At this point a large {cp{Co{Wo{Cl{x of {cw{Ca{Wt{Ce{cr{x has
+formed upon the ground here; a series of tiny cracks in the surface of the
+rock reveals a small {cs{Cp{Wri{Cn{cg{x to be the major source of the accumulating water
+and also an indication that this area may be unstable.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 58176
+D1
+~
+~
+0 0
+0 0 58178
+D2
+~
+~
+0 0
+0 0 58172
+D3
+~
+~
+0 0
+0 0 58175
+S
+#58175
+A Rocky Incline~
+This is the base of a steep gray rocky slope which it appears that recent
+digging has revealed part of the rock's structure has a sort of wave-like
+effect.  The top of the slope is approximately twenty or twenty five feet in
+height; what lies beyond that is not visible from this point save for a few
+forlorn-looking plants growing in patches of earth near the edge.  Although
+there are a few piles of broken up rock that have been stacked up in this
+area, this part of the excavation also appears to have been abandoned;
+massive fractures in the rock suggest that this area may be unstable.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 58174
+D2
+~
+~
+0 0
+0 0 58171
+S
+#58176
+A Rocky Incline~
+This is the bottom of a very steep rocky incline that stretches around
+in an elongated curve from the west and around to the north.  There are
+definite signs of digging activity here with debris littered around the base
+as well as large angular pits dig into what was once smooth rock; there are
+still some places upon the rock's surface where the effects of erosion have
+not been erased by excavation.  The general area seems more dry and dustier
+than it really is, probably due to the recent excavation of rock at this
+site.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 58177
+D2
+~
+~
+0 0
+0 0 58174
+S
+#58177
+Dizzy Heights~
+An almost vertical dark stone slope approximately twenty feet in height
+towers forms the northern boundary of this area of rocky ground.  There are
+many signs of digging activity here; the debris littered around the base and
+even a few mining tools left propped up against the slope.  A large {ylog
+cabin{x has been constructed a fair distance away to the south; from here
+there appears to be no visible entranceways into the building.  And in the
+distance to the southeast is a vast expanse of woodland can be seen over a
+tall wooden {yfence{x that forms the southern boundary of this area.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 58184
+D2
+~
+~
+0 0
+0 0 58178
+D3
+~
+~
+0 0
+0 0 58176
+S
+#58178
+Rocky Territory~
+Here lies a large expanse of rocky ground whose only boundaries appear to
+be the tall dark stone rocky outcrop that runs around the western and
+northern perimeter beyond which a peculiar mountain range almost obscured by
+mist can be seen.  There is a tall yet rickety wooden {yfence{x along the
+southern and eastern perimeter of this area beyond which densely populated
+woodland towers over the comparatively miniscule fencing.  A large {ylog{x {ycabin{x
+has been built directly to the south but there appears not be no door or
+windows at this side of the building in which to gain entry.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 58177
+D1
+~
+~
+0 0
+0 0 58179
+D3
+~
+~
+0 0
+0 0 58174
+S
+#58179
+Within The Mining Complex~
+Large rocks litter the ground, making it very difficult for a wagon to
+traverse with any ease although several {yfootpaths{x worn into the earth over
+the many years of this mine's existence marks the easier routes through this
+treacherous area.  The area's boundaries are defined by the rock outcrop
+that arcs from the west and around to the north, and also a tall rickety
+wooden {yfence{x along the southern and eastern border beyond which lies a vast
+area of woodland.  A large {ylog cabin{x has been constructed a short distance
+away to the southwest but there appears to be no entrances into the building
+from this side, not even a window.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 58184
+D1
+~
+~
+0 0
+0 0 58180
+D3
+~
+~
+0 0
+0 0 58178
+S
+#58180
+{CA Small Stream{x~
+Large rocks and deep ruts litter the ground, making it very difficult
+for a wagon to traverse with any ease although several {yfootpaths{x worn into
+the earth over the many years of this mine's existence that mark the easier
+routes through this treacherous area.  A tall rickety wooden {yfence{x runs
+along the southern and eastern border of the mining site, beyond which lies
+densely growing woodland.  A small stream flowing down to the south appears
+to be the result of one or more small {cs{Cp{Wrin{Cg{cs{x that has formed within the
+excavation site and disappears out of sight underneath the {yfence{x to the
+south 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 58183
+D1
+~
+~
+0 0
+0 0 58181
+D3
+~
+~
+0 0
+0 0 58179
+S
+#58181
+On The Border~
+This area of the mine is just muddy ground, littered with rocks and
+pitted with {Dholes{x, large and small At this point the mine's perimeter fence
+along the eastern and the southern borders join at this point.  The {gl{Geaf{gy
+b{Gough{gs{x of a tall {go{Ga{gk t{Gre{ge {xhang over the flimsy old {yfence{x; the beginnings of
+a densely growing woodland area that lies beyond the mine's boundaries.  To
+the north stands a dark gray cliff approximately twenty five feet in height
+and runs east/west along the northern border of the mining complex.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 58182
+D3
+~
+~
+0 0
+0 0 58180
+S
+#58182
+The Eastern Perimeter~
+Standing here is a dark gray cliff approximately twenty five feet in
+height that runs east/west along the northern perimeter of a large flat area
+of rocky ground and gently arcs around along the western border, forming a
+curve.  The rock shows signs that it has been dug at but there appear to be
+no visible signs present to what it has been excavated for.  The rock
+formation continues eastwards for quite a considerable distance but the way
+ahead has been blocked by a tall rickety wooden {yfence{x along the eastern and
+southern boundaries of this area.  Whereas the cliff continues eastwards
+from here, a densely populated wood grows on the far side of the {yfence{x to
+the south and south east.  
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 58181
+D3
+~
+~
+0 0
+0 0 58183
+S
+#58183
+{CA Small Spring{x~
+A steep gray stone slope approximately twenty feet in height stretches
+east/west along the northern edge of this rocky territory; the layers of
+gray rock form giant waves that have been frozen in time.  At this
+particular point along the rocky outcrop there is a thin crack in the rock
+face, approximately two paces in length and a thumb's width is the source of
+a small {cs{Cp{Wri{Cn{cg{x, the {cw{Ca{Wt{Ce{cr{x trickles away southwards; it appears to be one of
+many such {cs{Cp{Wrin{Cg{cs{x in this area.  There is really not much else here apart
+from a few piles of rocky rubble as well as abandoned mining tools that can
+be seen scattered around this area.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 58182
+D2
+~
+~
+0 0
+0 0 58180
+D3
+~
+~
+0 0
+0 0 58184
+S
+#58184
+A Steep Slope~
+An almost vertical dark stone slope approximately twenty feet in height
+stretches east/west along the northern edge of this rocky territory.  The
+muddy ground around the rocky outcrop is strewn with the stone fragments,
+both large and small as well as large {Dpotholes{x scaring the land; it would be
+near impossible for a wagon to traverse this area.  In the distance to the
+south and southeast is a vast expanse of woodland can be seen over a tall
+wooden {yfence{x that forms the southern boundary of this area.  A large {ylog
+cabin{x has been constructed a fair distance away to the southwest.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 58183
+D2
+~
+~
+0 0
+0 0 58179
+D3
+~
+~
+0 0
+0 0 58177
+S
+#58185
+{yA Wooden Shack{x~
+A small rundown {ywooden shack{x has been constructed within the mining
+complex.  Roughly six feet square and eight feet in height there would be
+hardly any room to swing a cat in this Pit of Doom.  The roof has been tiled
+in roughly cut {Ds{ml{Da{mt{De{x yet a few gaps between the tiles clearly indicate that
+this building is far from weatherproof.  A square window on the western side
+of the room overlooks a small {cs{Ct{Wre{Ca{cm{x as well as small rocky area scattered
+with various items of mining equipment.  At the center of the {yhut{x a large
+wooden {ycrate{x has been placed plus two smaller and equally rickety looking
+ones beside it; a poor imitation of a {ytable{x and {ychairs{x perhaps?  The only
+exit from this place appears to be a door to the west 
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 58169
+S
+#0
+
+
+
+#SPECIALS
+M 58004 spec_channeler_defensive
+M 58018 spec_thief
+M 58043 spec_speardancer
+M 58049 spec_janitor
+M 58053 spec_blademaster
+M 58059 spec_channeler_hard
+M 58060 spec_janitor
+M 58062 spec_channeler_hard
+S
+
+
+
+#RESETS
+D 0 58002 1 1
+D 0 58003 3 1
+D 0 58004 2 1
+D 0 58005 0 1
+D 0 58006 0 1
+D 0 58006 2 1
+D 0 58007 0 1
+D 0 58007 2 1
+D 0 58009 0 1
+D 0 58010 0 1
+D 0 58010 2 1
+D 0 58011 2 1
+D 0 58012 2 1
+D 0 58014 2 1
+D 0 58016 1 1
+D 0 58017 3 1
+D 0 58020 0 1
+D 0 58021 2 1
+D 0 58023 3 1
+D 0 58024 3 1
+D 0 58027 3 1
+D 0 58029 0 1
+D 0 58031 0 1
+D 0 58031 2 1
+D 0 58033 0 1
+D 0 58034 3 1
+D 0 58035 1 1
+D 0 58036 1 1
+D 0 58039 3 1
+D 0 58042 0 1
+D 0 58042 2 1
+D 0 58045 3 1
+D 0 58046 1 1
+D 0 58046 3 1
+D 0 58051 2 1
+D 0 58053 2 1
+D 0 58056 3 1
+D 0 58058 1 1
+D 0 58061 0 1
+D 0 58062 0 1
+D 0 58062 1 1
+D 0 58062 2 1
+D 0 58062 3 1
+D 0 58063 0 1
+D 0 58063 1 1
+D 0 58063 2 1
+D 0 58063 3 1
+D 0 58064 0 1
+D 0 58064 2 1
+D 0 58064 5 1
+D 0 58065 0 1
+D 0 58065 1 1
+D 0 58065 2 1
+D 0 58065 3 1
+D 0 58066 1 1
+D 0 58067 3 1
+D 0 58068 1 1
+D 0 58068 3 1
+D 0 58069 1 1
+D 0 58069 3 1
+D 0 58070 3 1
+D 0 58071 0 1
+D 0 58071 3 1
+D 0 58071 5 1
+D 0 58072 1 1
+D 0 58073 1 1
+D 0 58073 3 1
+D 0 58074 1 1
+D 0 58075 1 1
+D 0 58076 1 1
+D 0 58077 2 1
+D 0 58078 1 1
+D 0 58079 0 1
+D 0 58079 2 1
+D 0 58080 0 1
+D 0 58080 2 1
+D 0 58081 0 1
+D 0 58082 0 1
+D 0 58082 2 1
+D 0 58083 1 1
+D 0 58084 0 1
+D 0 58085 2 1
+D 0 58086 1 1
+D 0 58086 3 1
+D 0 58087 0 1
+D 0 58087 2 1
+D 0 58088 0 1
+D 0 58088 1 1
+D 0 58088 2 1
+D 0 58088 3 1
+D 0 58089 1 1
+D 0 58089 3 1
+D 0 58090 1 1
+D 0 58090 3 1
+D 0 58091 1 1
+D 0 58091 3 1
+D 0 58092 0 1
+D 0 58092 1 1
+D 0 58092 2 1
+D 0 58092 3 1
+D 0 58093 1 1
+D 0 58093 3 1
+D 0 58094 1 1
+D 0 58094 3 1
+D 0 58095 1 1
+D 0 58095 3 1
+D 0 58096 1 1
+D 0 58096 3 1
+D 0 58097 1 1
+D 0 58097 3 1
+D 0 58098 1 1
+D 0 58098 3 1
+D 0 58099 3 1
+D 0 58100 0 1
+D 0 58101 2 1
+D 0 58102 1 1
+D 0 58103 3 1
+D 0 58104 2 1
+D 0 58105 0 1
+D 0 58106 1 1
+D 0 58107 3 1
+D 0 58108 1 1
+D 0 58109 3 1
+D 0 58110 2 1
+D 0 58111 0 1
+D 0 58112 2 1
+D 0 58113 2 1
+D 0 58114 0 1
+D 0 58115 0 1
+D 0 58116 0 1
+D 0 58117 1 1
+D 0 58117 2 1
+D 0 58117 3 1
+D 0 58118 3 1
+D 0 58119 1 1
+D 0 58120 3 1
+D 0 58121 1 1
+D 0 58122 3 1
+D 0 58123 3 1
+D 0 58124 1 1
+D 0 58125 3 1
+D 0 58126 3 1
+D 0 58127 1 1
+D 0 58128 3 1
+D 0 58130 1 1
+D 0 58131 3 1
+D 0 58132 1 1
+D 0 58133 3 1
+D 0 58134 3 1
+D 0 58135 1 1
+D 0 58136 1 1
+D 0 58137 1 1
+D 0 58138 1 1
+D 0 58138 3 1
+D 0 58139 0 1
+D 0 58139 1 1
+D 0 58140 1 1
+D 0 58141 3 1
+D 0 58142 2 1
+D 0 58142 3 1
+D 0 58142 5 1
+D 0 58143 1 1
+D 0 58144 2 1
+D 0 58145 4 1
+D 0 58146 4 1
+D 0 58147 4 1
+D 0 58148 2 1
+D 0 58149 1 1
+D 0 58150 2 1
+D 0 58151 3 1
+D 0 58152 0 1
+D 0 58153 0 1
+D 0 58154 0 1
+D 0 58155 1 1
+D 0 58163 2 1
+D 0 58164 0 1
+D 0 58165 2 1
+D 0 58166 0 1
+D 0 58169 1 1
+D 0 58172 1 1
+D 0 58173 3 1
+D 0 58185 3 1
+O 0 58001 0 58002
+O 0 58002 0 58003
+M 0 58001 9 58003 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58001 9 58003 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58001 9 58003 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58011 4 58004 1
+M 0 58012 4 58004 1
+M 0 58026 10 58004 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58019 4 58005 1
+M 0 58020 4 58005 1
+E 0 58024 0 20
+M 0 58013 4 58006 1
+M 0 58014 4 58006 1
+M 0 58022 4 58007 1
+M 0 58023 4 58007 1
+M 0 58002 10 58008 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58002 10 58008 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58026 10 58008 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58002 10 58009 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58002 10 58009 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58022 4 58010 1
+M 0 58023 4 58010 1
+M 0 58026 10 58010 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58017 4 58011 1
+M 0 58018 4 58011 1
+E 0 58024 0 20
+M 0 58026 10 58011 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58021 4 58012 2
+M 0 58021 4 58012 2
+M 0 58024 4 58013 1
+M 0 58025 4 58013 1
+E 0 58025 0 20
+M 0 58011 4 58014 1
+M 0 58012 4 58014 1
+M 0 58002 10 58015 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58002 10 58015 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58026 10 58015 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+O 0 58002 0 58016
+M 0 58001 9 58016 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58001 9 58016 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58001 9 58016 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+O 0 58001 0 58017
+O 0 58001 0 58020
+O 0 58002 0 58021
+M 0 58001 9 58021 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58001 9 58021 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58001 9 58021 3
+E 0 58003 0 15
+E 0 58004 0 8
+E 0 58005 0 7
+E 0 58006 0 10
+E 0 58007 0 16
+E 0 58008 0 9
+E 0 58009 0 20
+M 0 58002 10 58022 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58002 10 58022 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58026 10 58022 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58011 4 58023 1
+M 0 58012 4 58023 1
+M 0 58026 10 58023 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58003 4 58024 1
+E 0 58018 0 20
+E 0 58019 0 8
+M 0 58004 4 58024 1
+E 0 58020 0 20
+E 0 58021 0 10
+M 0 58003 4 58025 1
+E 0 58018 0 20
+E 0 58019 0 8
+M 0 58004 4 58025 1
+E 0 58020 0 20
+E 0 58021 0 10
+M 0 58005 4 58026 1
+E 0 58022 0 20
+M 0 58006 4 58026 1
+E 0 58023 0 20
+M 0 58019 4 58027 1
+M 0 58020 4 58027 1
+E 0 58024 0 20
+M 0 58009 4 58028 1
+M 0 58010 4 58028 1
+M 0 58024 4 58029 1
+M 0 58025 4 58029 1
+E 0 58025 0 20
+M 0 58022 4 58030 1
+M 0 58023 4 58030 1
+M 0 58019 4 58031 1
+M 0 58020 4 58031 1
+E 0 58024 0 20
+M 0 58007 4 58032 1
+M 0 58008 4 58032 1
+M 0 58017 4 58033 1
+M 0 58018 4 58033 1
+E 0 58024 0 20
+M 0 58026 10 58033 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58002 10 58034 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58002 10 58034 2
+E 0 58010 0 20
+E 0 58011 0 7
+E 0 58012 0 14
+E 0 58013 0 8
+E 0 58014 0 15
+E 0 58015 0 10
+E 0 58016 0 11
+E 0 58017 0 9
+M 0 58026 10 58034 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58013 4 58035 1
+M 0 58014 4 58035 1
+M 0 58024 4 58036 1
+M 0 58025 4 58036 1
+E 0 58025 0 20
+M 0 58005 4 58037 1
+E 0 58022 0 20
+M 0 58006 4 58037 1
+E 0 58023 0 20
+M 0 58024 4 58038 1
+M 0 58025 4 58038 1
+E 0 58025 0 20
+M 0 58015 6 58039 2
+M 0 58015 6 58039 2
+M 0 58005 4 58040 1
+E 0 58022 0 20
+M 0 58006 4 58040 1
+E 0 58023 0 20
+M 0 58015 6 58041 1
+M 0 58016 4 58041 1
+M 0 58015 6 58042 1
+M 0 58016 4 58042 1
+M 0 58007 4 58043 1
+M 0 58008 4 58043 1
+M 0 58011 4 58044 1
+M 0 58012 4 58044 1
+M 0 58013 4 58045 1
+M 0 58014 4 58045 1
+M 0 58015 6 58046 1
+M 0 58016 4 58046 1
+M 0 58009 4 58047 1
+M 0 58010 4 58047 1
+M 0 58026 10 58047 1
+E 0 58026 0 8
+E 0 58027 0 7
+E 0 58028 0 20
+E 0 58029 0 10
+E 0 58030 0 16
+E 0 58031 0 15
+M 0 58022 4 58048 1
+M 0 58023 4 58048 1
+M 0 58003 4 58049 1
+E 0 58018 0 20
+E 0 58019 0 8
+M 0 58004 4 58049 1
+E 0 58020 0 20
+E 0 58021 0 10
+M 0 58017 4 58050 1
+M 0 58018 4 58050 1
+E 0 58024 0 20
+M 0 58019 4 58051 1
+M 0 58020 4 58051 1
+E 0 58024 0 20
+M 0 58021 4 58052 2
+M 0 58021 4 58052 2
+M 0 58009 4 58053 1
+M 0 58010 4 58053 1
+M 0 58007 4 58054 1
+M 0 58008 4 58054 1
+M 0 58009 4 58055 1
+M 0 58010 4 58055 1
+M 0 58013 4 58056 1
+M 0 58014 4 58056 1
+M 0 58003 4 58057 1
+E 0 58018 0 20
+E 0 58019 0 8
+M 0 58004 4 58057 1
+E 0 58020 0 20
+E 0 58021 0 10
+M 0 58005 4 58058 1
+E 0 58022 0 20
+M 0 58006 4 58058 1
+E 0 58023 0 20
+M 0 58017 4 58059 1
+M 0 58018 4 58059 1
+E 0 58024 0 20
+M 0 58015 6 58060 1
+M 0 58016 4 58060 1
+M 0 58007 4 58061 1
+M 0 58008 4 58061 1
+O 0 58032 0 58062
+M 0 58027 2 58062 1
+E 0 58034 0 20
+E 0 58035 0 7
+O 0 58033 0 58063
+M 0 58027 2 58063 1
+E 0 58034 0 20
+E 0 58035 0 7
+O 0 58036 0 58064
+M 0 58038 2 58064 1
+M 0 58039 4 58064 2
+M 0 58039 4 58064 2
+M 0 58040 2 58064 1
+M 0 58041 4 58064 2
+M 0 58041 4 58064 2
+M 0 58063 2 58064 1
+O 0 58037 0 58066
+M 0 58042 2 58066 2
+E 0 58065 0 20
+E 0 58066 0 7
+M 0 58042 2 58066 2
+E 0 58065 0 20
+E 0 58066 0 7
+O 0 58037 0 58067
+O 0 58062 0 58071
+M 0 58038 2 58071 1
+M 0 58039 4 58071 2
+M 0 58039 4 58071 2
+M 0 58040 2 58071 1
+M 0 58041 4 58071 2
+M 0 58041 4 58071 2
+M 0 58063 2 58071 1
+O 0 58063 0 58072
+O 0 58060 0 58073
+M 0 58030 8 58073 2
+E 0 58061 0 23
+E 0 58061 0 24
+M 0 58030 8 58073 2
+E 0 58061 0 23
+E 0 58061 0 24
+M 0 58033 7 58073 3
+M 0 58033 7 58073 3
+M 0 58033 7 58073 3
+M 0 58032 4 58073 1
+O 0 58064 0 58074
+M 0 58028 1 58075 1
+G 0 58038 0
+G 0 58039 0
+G 0 58040 0
+G 0 58041 0
+G 0 58042 0
+G 0 58043 0
+G 0 58044 0
+G 0 58045 0
+G 0 58046 0
+G 0 58047 0
+M 0 58029 1 58076 1
+G 0 58048 0
+G 0 58049 0
+G 0 58050 0
+G 0 58051 0
+G 0 58052 0
+G 0 58053 0
+G 0 58054 0
+G 0 58055 0
+G 0 58058 0
+G 0 58057 0
+G 0 58056 0
+M 0 58034 4 58077 2
+M 0 58034 4 58077 2
+M 0 58035 2 58077 1
+M 0 58036 2 58077 1
+M 0 58037 4 58077 2
+E 0 58034 0 20
+E 0 58035 0 7
+M 0 58037 4 58077 2
+E 0 58034 0 20
+E 0 58035 0 7
+M 0 58034 4 58078 2
+M 0 58034 4 58078 2
+M 0 58035 2 58078 1
+M 0 58036 2 58078 1
+M 0 58037 4 58078 2
+E 0 58034 0 20
+E 0 58035 0 7
+M 0 58037 4 58078 2
+E 0 58034 0 20
+E 0 58035 0 7
+O 0 58059 0 58079
+M 0 58030 8 58079 2
+E 0 58061 0 24
+E 0 58061 0 23
+M 0 58030 8 58079 2
+E 0 58061 0 24
+E 0 58061 0 23
+M 0 58031 7 58079 3
+M 0 58031 7 58079 3
+M 0 58031 7 58079 3
+M 0 58032 4 58079 1
+M 0 58043 1 58080 1
+E 0 58072 0 1
+E 0 58067 0 20
+E 0 58068 0 8
+E 0 58069 0 10
+E 0 58070 0 7
+E 0 58071 0 15
+E 0 58073 0 17
+E 0 58073 0 18
+O 0 58078 0 58081
+O 0 58074 0 58082
+P 0 58076 10 58074 10
+O 0 58075 0 58082
+P 0 58077 10 58075 10
+M 0 58044 1 58083 1
+G 0 58158 0
+G 0 58082 0
+G 0 58081 0
+G 0 58079 0
+G 0 58080 0
+M 0 58045 1 58084 1
+G 0 58086 0
+G 0 58083 0
+G 0 58084 0
+G 0 58085 0
+M 0 58046 1 58085 1
+G 0 58087 0
+G 0 58112 0
+G 0 58088 0
+G 0 58111 0
+M 0 58048 1 58086 1
+M 0 58047 1 58086 1
+G 0 58089 0
+G 0 58153 0
+G 0 58152 0
+O 0 58090 0 58087
+O 0 58091 0 58087
+M 0 58062 1 58087 1
+M 0 58049 8 58088 1
+M 0 58049 8 58090 2
+M 0 58050 3 58091 1
+M 0 58051 3 58091 1
+O 0 58143 0 58091
+P 0 58144 9 58143 3
+P 0 58145 9 58143 3
+P 0 58146 9 58143 3
+M 0 58049 8 58092 1
+M 0 58049 8 58094 2
+M 0 58050 3 58095 1
+M 0 58051 3 58095 1
+O 0 58143 0 58095
+P 0 58144 9 58143 3
+P 0 58145 9 58143 3
+P 0 58146 9 58143 3
+M 0 58049 8 58097 2
+M 0 58050 3 58098 1
+M 0 58051 3 58098 1
+O 0 58143 0 58098
+P 0 58144 9 58143 3
+P 0 58145 9 58143 3
+P 0 58146 9 58143 3
+M 0 58067 4 58099 1
+M 0 58068 4 58099 1
+M 0 58067 4 58100 1
+M 0 58068 4 58100 1
+M 0 58067 4 58101 1
+M 0 58068 4 58101 1
+M 0 58067 4 58102 1
+M 0 58068 4 58102 1
+M 0 58052 1 58103 1
+G 0 58092 0
+G 0 58093 0
+G 0 58155 0
+G 0 58154 0
+O 0 58095 0 58104
+O 0 58094 0 58104
+O 0 58095 0 58105
+O 0 58094 0 58105
+O 0 58095 0 58106
+O 0 58094 0 58106
+O 0 58095 0 58107
+O 0 58094 0 58107
+O 0 58095 0 58108
+O 0 58096 0 58108
+O 0 58095 0 58109
+O 0 58096 0 58109
+O 0 58095 0 58110
+P 0 58098 1 58095 1
+P 0 58097 1 58095 1
+O 0 58096 0 58110
+M 0 58053 1 58110 1
+E 0 58099 0 20
+E 0 58100 0 8
+E 0 58101 0 25
+E 0 58102 0 23
+E 0 58102 0 24
+E 0 58103 0 12
+G 0 58104 0
+O 0 58095 0 58111
+O 0 58096 0 58111
+M 0 58054 1 58112 1
+G 0 58105 0
+G 0 58106 0
+G 0 58156 0
+G 0 58157 0
+M 0 58055 1 58113 1
+M 0 58056 1 58114 1
+G 0 58108 0
+G 0 58109 0
+G 0 58110 0
+G 0 58107 0
+O 0 58060 0 58115
+M 0 58032 4 58115 1
+M 0 58030 8 58115 2
+E 0 58061 0 23
+E 0 58061 0 24
+M 0 58030 8 58115 2
+E 0 58061 0 23
+E 0 58061 0 24
+M 0 58031 7 58115 2
+M 0 58031 7 58115 2
+M 0 58033 7 58115 2
+M 0 58033 7 58115 2
+M 0 58057 2 58115 1
+O 0 58059 0 58116
+M 0 58033 7 58116 2
+M 0 58033 7 58116 2
+M 0 58031 7 58116 2
+M 0 58031 7 58116 2
+M 0 58032 4 58116 1
+M 0 58030 8 58116 2
+E 0 58061 0 23
+E 0 58061 0 24
+M 0 58030 8 58116 2
+E 0 58061 0 23
+E 0 58061 0 24
+M 0 58057 2 58116 1
+M 0 58058 4 58117 4
+E 0 58068 0 8
+E 0 58069 0 10
+E 0 58070 0 7
+E 0 58071 0 15
+E 0 58114 0 20
+M 0 58058 4 58117 4
+E 0 58068 0 8
+E 0 58069 0 10
+E 0 58070 0 7
+E 0 58071 0 15
+E 0 58114 0 20
+M 0 58058 4 58117 4
+E 0 58068 0 8
+E 0 58069 0 10
+E 0 58070 0 7
+E 0 58071 0 15
+E 0 58114 0 20
+M 0 58058 4 58117 4
+E 0 58068 0 8
+E 0 58069 0 10
+E 0 58070 0 7
+E 0 58071 0 15
+E 0 58114 0 20
+M 0 58059 1 58117 1
+E 0 58113 0 7
+O 0 58116 0 58118
+P 0 58117 1 58116 1
+O 0 58115 0 58118
+O 0 58120 0 58119
+O 0 58122 0 58119
+O 0 58124 0 58119
+O 0 58126 0 58119
+O 0 58119 0 58120
+O 0 58122 0 58120
+O 0 58123 0 58120
+O 0 58125 0 58120
+O 0 58119 0 58121
+O 0 58122 0 58121
+O 0 58123 0 58121
+O 0 58126 0 58121
+M 0 58061 2 58121 1
+O 0 58121 0 58122
+O 0 58122 0 58122
+O 0 58124 0 58122
+O 0 58125 0 58122
+O 0 58120 0 58123
+O 0 58122 0 58123
+O 0 58123 0 58123
+O 0 58125 0 58123
+M 0 58060 3 58123 1
+O 0 58121 0 58124
+O 0 58122 0 58124
+O 0 58123 0 58124
+O 0 58126 0 58124
+M 0 58060 3 58124 1
+O 0 58119 0 58125
+O 0 58122 0 58125
+O 0 58124 0 58125
+O 0 58126 0 58125
+O 0 58121 0 58126
+O 0 58122 0 58126
+O 0 58123 0 58126
+O 0 58126 0 58126
+M 0 58061 2 58126 1
+O 0 58119 0 58127
+O 0 58122 0 58127
+O 0 58124 0 58127
+O 0 58126 0 58127
+O 0 58120 0 58128
+O 0 58122 0 58128
+O 0 58124 0 58128
+O 0 58126 0 58128
+M 0 58060 3 58128 1
+O 0 58127 0 58129
+P 0 58130 1 58127 1
+O 0 58128 0 58129
+P 0 58131 2 58128 2
+O 0 58129 0 58129
+O 0 58125 0 58130
+O 0 58125 0 58131
+O 0 58125 0 58132
+M 0 58064 2 58132 1
+E 0 58132 0 8
+E 0 58133 0 18
+E 0 58133 0 17
+E 0 58134 0 9
+E 0 58135 0 7
+E 0 58136 0 12
+E 0 58137 0 5
+E 0 58138 0 10
+E 0 58140 0 20
+O 0 58125 0 58133
+M 0 58064 2 58133 1
+E 0 58132 0 8
+E 0 58133 0 17
+E 0 58133 0 18
+E 0 58134 0 9
+E 0 58135 0 7
+E 0 58136 0 12
+E 0 58137 0 5
+E 0 58138 0 10
+E 0 58139 0 20
+O 0 58125 0 58134
+O 0 58141 0 58135
+O 0 58142 0 58135
+O 0 58147 0 58136
+O 0 58142 0 58136
+O 0 58148 0 58137
+O 0 58142 0 58137
+O 0 58149 0 58139
+O 0 58150 0 58140
+O 0 58151 0 58141
+P 0 58118 1 58151 1
+O 0 58150 0 58141
+M 0 58065 15 58145 3
+M 0 58065 15 58145 3
+M 0 58065 15 58145 3
+M 0 58065 15 58146 3
+M 0 58065 15 58146 3
+M 0 58065 15 58146 3
+M 0 58065 15 58147 3
+M 0 58065 15 58147 3
+M 0 58065 15 58147 3
+M 0 58066 16 58148 2
+M 0 58066 16 58148 2
+M 0 58066 16 58149 2
+M 0 58066 16 58149 2
+M 0 58066 16 58150 2
+M 0 58066 16 58150 2
+M 0 58066 16 58151 2
+M 0 58066 16 58151 2
+M 0 58066 16 58152 2
+M 0 58066 16 58152 2
+M 0 58066 16 58153 2
+M 0 58066 16 58153 2
+M 0 58066 16 58154 2
+M 0 58066 16 58154 2
+M 0 58066 16 58155 2
+M 0 58066 16 58155 2
+M 0 58071 5 58163 1
+M 0 58070 3 58169 3
+M 0 58069 12 58170 2
+M 0 58069 12 58175 2
+M 0 58069 12 58176 2
+M 0 58069 12 58177 2
+M 0 58069 12 58183 2
+M 0 58069 12 58184 2
+S
+
+
+
+#SHOPS
+58028 5 0 0 0 0 500 100 0 23
+58029 5 0 0 0 0 500 80 0 23
+58044 9 0 0 0 0 500 100 0 23
+58045 5 0 0 0 0 250 50 0 23
+58046 8 0 0 0 0 500 100 0 23
+58047 9 5 0 0 0 500 75 0 23
+58052 9 32 33 8 0 500 75 0 23
+58054 19 0 0 0 0 375 75 0 23
+58056 13 0 0 0 0 500 100 0 23
+58062 26 10 0 0 0 500 100 0 23
+0
+
+
+
+#$

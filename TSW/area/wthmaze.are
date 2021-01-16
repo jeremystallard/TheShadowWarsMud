@@ -1,0 +1,2845 @@
+#AREADATA
+Name WT Hedge Maze~
+Builders Kitiara Raine~
+VNUMs 900 999
+Credits None~
+Security 5
+Low 0
+High 0
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#900
+blue bird~
+a small blue {bb{Bir{bd{x~
+A small blue {bb{Bir{bd{x chases after worms in the grass
+~
+A small blue {bb{Bir{bd{x hops along the grass, pecking around for seeds and
+worms.  
+~
+song bird~
+AC 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 QU tiny 'flesh'
+#901
+worm~
+a slimy {yw{Yo{yrm{x~
+A slimy {yw{Yo{yrm{x wiggles through the grass
+~
+A slimy {yw{Yo{yrm{x wiggles through the grass in its efforts to burrow itself in
+the dirt.  
+~
+unique~
+AGW 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand none 0
+AR DEF tiny 'flesh'
+#902
+red bird robin~
+a small {rr{yo{rb{yi{rn{x~
+A small {rr{yo{rb{yi{rn{x splashes in the {bb{Bir{bd{Db{Wat{Dh{x
+~
+A small {rr{yo{rb{yi{rn{x sits in the bottom of the {bb{Bir{bd{Db{Wat{Dh{x, splashing water up onto
+his back and twitching his tail.  
+~
+song bird~
+ABCW 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 Q tiny 'flesh'
+#903
+duck~
+a waddling {yd{Yuc{yk{x~
+A small {yd{Yuc{yk{x waddles about the {cp{Con{cd{x
+~
+A small {yd{Yuc{yk{x, with a bright {Rred{x chest and emerald {Ggr{gee{Gn{x head, waddles
+about the pond 
+~
+unique~
+AB 0 0 0
+38 28 20d21+1444 38d10+100 4d12+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AGW ACDKPQ small 'feathers'
+#904
+fish koi~
+a large {Rk{Yo{Ri{x fish~
+A large {Rk{Yo{Ri{x fish swims in the waters of the {cp{Con{cd{x
+~
+A large {Rk{Yo{Ri{x fish swims in the waters of the {cp{Con{cd{x 
+~
+unique~
+AB 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+Ab AFKOQ medium 'scales'
+#905
+butterfly~
+a beautiful {rb{Rut{Yt{We{Yr{Rfl{ry{x~
+A beautiful {rb{Rut{Yt{We{Yr{Rfl{ry{x flies from flower to flower.
+~
+A beautiful {rb{Rut{Yt{We{Yr{Rfl{ry{x flits from flower to flower.  
+~
+unique~
+AW 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+AO P tiny 'flesh'
+#906
+bee~
+a buzzing {Yb{De{Ye{x~
+A small buzzing {Yb{De{Ye{x pollenates the flowers
+~
+A small buzzing {Yb{De{Ye{x pollentates the flowers.  
+~
+unique~
+A 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+AO ACDEFKP tiny 'flesh'
+#907
+gardener~
+a {gg{Gar{gde{Gne{gr{x~
+A {gg{Gar{gde{Gne{gr{x is busy pruning the hedges.
+~
+Dressed in comfortable overalls, the {gg{Gar{gde{Gne{gr{x carries around a pair of
+hedge clippers and works to keep the hedges pruned.  
+~
+andoran~
+AC 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#908
+grounds keeper~
+the grounds {Dk{Wee{Dp{We{Dr{x~
+The grounds {Dk{Wee{Dp{We{Dr{x stands here.
+~
+A tall man with dark hair and eyes walks about the maze, supervising the
+gardeners.  
+~
+andoran~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 35
+0 0 medium 'flesh'
+#909
+squirrel~
+a fluffy-tailed {Ds{yq{Yu{Dir{Yr{ye{Dl{x~
+A fluffy-tailed {Ds{yq{Yu{Dir{Yr{ye{Dl{x sits on a tree limb, chattering noisily.
+~
+With a long, fluffy tail, this {Ds{yq{Yu{Dir{Yr{ye{Dl{x holds a small acorn in his hands,
+and chatters noisily at those who come near his home.  
+~
+unique~
+ACG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AG ACDEFHQU medium 'flesh'
+#910
+aes sedai woman~
+an {bA{Bes Se{bd{Ba{bi{x~
+An Aes Sedai of the {bB{Blue Aja{bh{x strolls quietly through the maze.
+~
+Strolling quietly along the stone path, this ageless appearing woman
+wears a {bb{Blue{b-{Bfr{bi{Bnge{bd{x shawl, the flame of Tar Valon embroidered upon its
+back.  
+~
+murandian~
+AG 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+100 85 85 100 100
+A
+5 5 5 5
+0 B 0 0
+stand stand female 75
+0 0 medium 'flesh'
+#911
+woman novice~
+a {WNovice{x~
+A young woman wearing a pure {Wwhite{x dress walks along the path.
+~
+Walking around the maze, this young girl appears to be in her teenage
+years.  Her dress is pure white, marking her as a {WNovice{x of the {WWhite Tower{x.
+~
+taraboner~
+AG 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+55 40 40 55 55
+A
+3 3 3 3
+0 0 0 0
+stand stand female 45
+0 0 medium 'flesh'
+#912
+accepted woman~
+an {WA{Rc{yc{Ye{gp{Dt{Be{Wd{x~
+A woman wearing a {Wc{Ro{yl{Yo{gr{Df{Bu{Wl{x banded dress stands here.
+~
+Standing here, enjoying the few peaceful moments she's allowed, this
+woman wears a {Wc{Ro{yl{Yo{gr{Df{Bu{Wl{x banded dress, marking her as an {WA{Rc{yc{Ye{gp{Dt{Be{Wd{x of the {WWhite
+Tower{x.  
+~
+tairen~
+AG 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+65 55 55 65 65
+A
+3 3 3 3
+0 0 0 0
+stand stand female 50
+0 0 medium 'flesh'
+#913
+aes sedai aessedai woman red~
+an {RA{re{Rs S{re{Rd{ra{Ri{x~
+An Aes Sedai of the {RR{re{Rd A{rja{Rh{x makes her way along the path.
+~
+Making her way along the path, this woman seems to ignore all around her
+as she tugs on her {Rr{re{Rd fr{ri{Rng{re{Rd{x shawl.  
+~
+mayener~
+A 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+100 85 85 100 100
+A
+5 5 5 5
+0 B 0 0
+stand stand female 65
+0 0 medium 'flesh'
+#914
+aes sedai aessedai yellow woman~
+an {YAes Sedai{x~
+An Aes Sedai of the {YYellow Ajah{x is here, enjoying the day.
+~
+~
+taraboner~
+A 0 0 0
+83 73 42d42+6889 83d10+100 9d12+41 none
+100 85 85 100 100
+A
+5 5 5 5
+0 B 0 0
+stand stand female 75
+0 0 medium 'flesh'
+#915
+aes sedai aessedai white woman~
+an {WAes Sedai{x~
+An Aes Sedai of the {WWhite Ajah{x holds her head high as she makes her way through the maze.
+~
+~
+andoran~
+A 0 0 0
+84 74 43d44+7056 84d10+100 9d13+42 none
+100 85 85 100 100
+A
+5 5 5 5
+0 B 0 0
+stand stand female 70
+0 0 medium 'flesh'
+#916
+aes sedai aessedai brown woman~
+an {yAes Sedai{x~
+An Aes Sedai of the {yBrown Ajah{x sits here, an open book on her lap.
+~
+~
+shienaran~
+A 0 0 0
+81 71 41d41+6561 81d10+100 9d10+40 none
+100 85 85 100 100
+A
+5 5 5 5
+0 B 0 0
+stand stand female 65
+0 0 medium 'flesh'
+#917
+aes sedai aessedai grey woman~
+an {DA{we{Ds S{we{Dd{wa{Di{x~
+An Aes Sedai of the {DG{wre{Dy A{wja{Dh{x strides along the path.
+~
+~
+andoran~
+A 0 0 0
+82 72 42d43+6724 82d10+100 9d11+41 none
+100 85 85 100 100
+A
+5 5 5 5
+0 B 0 0
+stand stand female 88
+0 0 medium 'flesh'
+#918
+blue bird bluebird~
+a {bb{Bue{D-{cb{Ci{crd{x~
+A small {bb{Bue{D-{cb{Ci{crd{x is tending to a {ynest{x.
+~
+~
+song bird~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 medium 'feathers'
+#999
+woman~
+a {mK{Di{wt{Wi{wa{Dr{ma{x look alike~
+A {mK{Di{wt{Wi{wa{Dr{ma{x look alike is wandering around here, holding something special.
+~
+~
+domani~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+0
+6 6 6 6
+EFIJKN 0 0 0
+stand stand female 100
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#900
+birdbath bath~
+a large stone {bb{Bir{bd{Db{Wat{Dh{x~
+A large stone {bb{Bir{bd{Db{Wat{Dh{x rests on the grass~
+stone~
+fountain M 0
+5000 5000 'water' 0 0
+1 1000 0 100
+E
+bath~
+A wide and narrow stone {bb{Bir{bd{Db{wat{Dh{x rests close to the ground.  The sides
+have been carved with decorative patterns.  The base is a large square,
+strong enough to hold the heavy stone bath.  
+~
+E
+birdbath~
+A wide and narrow stone {bb{Bir{bd{Db{wat{Dh{x rests close to the ground.  The sides
+have been carved with decorative patterns.  The base is a large square,
+strong enough to hold the heavy stone bath.  
+~
+#901
+stone bench~
+a small stone {Db{we{Wn{wc{Dh{x~
+A small stone {Db{we{Wn{wc{Dh{x rests beneath the shade of the tree~
+cloth~
+furniture 0 0
+2 1000 EHK 110 110
+0 1000 0 100
+#902
+feather~
+a shiny {rf{Re{rath{Re{rr{x~
+A shiny {rf{Re{rath{Re{rr{x floats on the air~
+cloth~
+trash 0 AO
+0 0 0 0 0
+1 0 10 100
+#903
+old rusty key~
+an old {yrus{yty{x key~
+An old {yrusty{x key has been forgotten here~
+iron~
+key 0 AO
+0 0 0 0 0
+1 10 0 100
+#904
+flower pot~
+a stack of flower {yp{Yo{yts{x~
+A stack of flower {yp{Yo{yts{x has been forgotten in the corner.~
+cloth~
+container a 0
+10 0 0 100 50
+10 0 0 100
+#905
+rusty trowel~
+a {yrusty{x trowel~
+A {yrusty{x trowel with a pointed tip~
+cloth~
+weapon 0 AN
+dagger 4 6 'thrust' 0
+50 10 0 100
+#906
+bench~
+a long wooden {ybench{x~
+A long wooden {ybench{x rests here.~
+wood~
+furniture 0 0
+5 10000 EHK 100 100
+0 1000 0 100
+#907
+tree~
+a fruit {ytree{x~
+A fruit {ytree{x spreads its {Mbl{mo{Mss{mo{Mm{x covered limbs~
+wood~
+container 0 0
+1000 0 0 1000 100
+0 0 0 100
+#908
+plum fruit~
+a small {mpl{Mu{mm{x~
+A small, ripe {mpl{Mu{mm{x rests here~
+food~
+food 0 AO
+2 2 0 0 0
+1 1 10 100
+#909
+fountain~
+a large {Dfo{wu{Wnt{wa{Din{x~
+A large stone {Dfo{wu{Wnt{wa{Din{x seems to rise from the ground.~
+stone~
+fountain 0 0
+100000 100000 'water' 0 0
+0 10000 0 100
+E
+fountain~
+Seemingly rising from the ground in a tall smooth curve, the {Dfo{wu{Wnt{wa{Din{x
+is made of smooth {Ds{wt{Wo{wn{De{x.  Water sprays into the air, falling back down to
+disappear far below, the sound of water running beneath the ground can be
+heard.  
+~
+#910
+bench gazebo~
+a small {yw{Yoo{yd{Ye{yn{x bench~
+A tall {Wgazebo{x with {yw{Yoo{yd{Ye{yn{x benches stands here.~
+wood~
+furniture 0 0
+4 5000 EH 100 100
+1 0 0 100
+#911
+fountain~
+a small {cf{Wou{Cnt{Wai{cn{x~
+A small {cf{Wou{Cnt{Wai{cn{x rests here, crystal clear waters slowly trinkling from the top to a small pool in the bottom.~
+stone~
+fountain 0 0
+10000 10000 'water' 0 0
+0 0 0 100
+#912
+curved stone benches~
+a curved {Ds{wt{Do{wn{De{x bench~
+Four curved stone {Db{we{Dnch{we{Ds{x rest in a circle around a {cf{Wou{Cnt{Wai{cn{x.~
+stone~
+furniture 0 0
+12 5000 BEH 100 100
+1 0 0 100
+#913
+carrot~
+a {Rc{Yarro{Rt{x~
+Sprouting out of the soil is a large {Rc{Yarro{Rt{x.~
+food~
+food 0 AO
+2 2 0 0 0
+1 1 5 100
+#0
+
+
+
+#ROOMS
+#900
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and east.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 910
+D1
+~
+~
+0 0
+0 0 901
+S
+#901
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 902
+D3
+~
+~
+0 0
+0 0 900
+S
+#902
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 912
+D1
+~
+~
+0 0
+0 0 903
+D3
+~
+~
+0 0
+0 0 901
+S
+#903
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 904
+D3
+~
+~
+0 0
+0 0 902
+S
+#904
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 905
+D3
+~
+~
+0 0
+0 0 903
+S
+#905
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 915
+D1
+~
+~
+0 0
+0 0 906
+D3
+~
+~
+0 0
+0 0 904
+S
+#906
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 916
+D3
+~
+~
+0 0
+0 0 905
+S
+#907
+Entrance to the {gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+Tall, neatly pruned {gh{Ge{gdg{Ge{gs{x can be seen all around.  A wide pathway
+leading through the hedges is made of {rs{Dm{roo{Dt{rh {Ds{wt{Won{we{Ds{x, and grass covers the
+area between the {Dp{Wat{Dh{x and the hedge.  A small row of {gf{Glo{Yw{Ger{gs{x lines the
+stone {Dp{Wat{Dh{x which continues to the north.  
+~
+0
+C 2
+E
+flowers~
+Rows of yellow day {Yl{Wi{Yll{Wie{Ys{x and orange {rp{Ro{Yp{Wp{Yi{Re{rs{x line the stone {Dp{Wat{Dh{x.  
+~
+E
+flower~
+Rows of yellow day {Yl{Wi{Yll{Wie{Ys{x and orange {rp{Ro{Yp{Wp{Yi{Re{rs{x line the stone {Dp{Wat{Dh{x.  
+~
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway leading through the maze.  
+~
+D0
+~
+~
+0 0
+0 0 917
+D2
+~
+"{Dwr{Wo{Dught-i{Wr{Don{x gate"~
+3 3
+1 0 14425
+S
+#908
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  Long
+rows of {rr{Ro{rse{x bushes line the south end up against the hedges, and groups of
+{Mt{Wu{Mli{Wp{Ms{x are on the opposite side of the path.  
+~
+0
+0 2
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+rose~
+Tall rose bushes line the southern hedges.  Large {rr{Ro{rs{Re{rs{x in full bloom
+give off a strong floral scent, tiny {Dth{Wo{Drns{x line the stems.  
+~
+E
+tulips~
+Small groups of colorful {Mt{Wu{Mli{Wp{Ms{x line the stone {Dp{Wat{Dh{x.  Thick, dark green
+{gst{Ge{gms{x holding up the pretty blossoms.  
+~
+D0
+~
+~
+0 0
+0 0 918
+D1
+~
+~
+0 0
+0 0 909
+S
+#909
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ro{Dn{re{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  A
+tall {yt{Yr{yee{x rises above the hedges in the southeast corner, a stone
+{Db{we{Wn{wc{Dh{x rests beneath the shade of its limbs.  
+~
+0
+0 2
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+stone~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+tree~
+A large {yo{Ya{yk{x tree rises high above the {gh{Ge{gdg{Ge{gs{x, it's limbs spreading out
+wide, providing much shade to the stone {Db{we{Wn{wc{Dh{x which rests beneath it.  
+~
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+flowers~
+Bunches of {mol{Mea{mn{Mde{mrs{x and {Rga{rz{Ran{ri{Ras{x line the {rs{Dt{ron{De p{Wat{Dh{x.  
+~
+D0
+~
+~
+0 0
+0 0 919
+D3
+~
+~
+0 0
+0 0 908
+S
+#910
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and south.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 920
+D2
+~
+~
+0 0
+0 0 900
+S
+#911
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+A large {yo{Ya{yk{x tree rises from the center of this little area, enclosed by the
+{gh{Ge{gdg{Ge{gs{x on all sides.  The thick limbs of the tree stretch out in all
+directions, providing a cozy shady area beneath it.  A beautifully worked
+stone bench rests just beneath the tree.  
+~
+0
+0 2
+D1
+~
+~
+4096 4096
+0 0 912
+D5
+~
+~
+4096 4096
+0 0 994
+S
+#912
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows of
+{gf{Glo{Yw{Ger{gs{x following along beside it.  The branches of a large {yo{Ya{yk{x tree can be
+seen rising over the hedges to the west, {bb{Bird{bs{x trilling their songs as they
+flit from branch to branch.  The {Dp{Wat{Dh{x continues to the south.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 902
+D3
+~
+~
+4096 4096
+0 0 911
+S
+#913
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and east.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 923
+D1
+~
+~
+0 0
+0 0 914
+S
+#914
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 915
+D3
+~
+~
+0 0
+0 0 913
+S
+#915
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and west.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 905
+D3
+~
+~
+0 0
+0 0 914
+S
+#916
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 906
+S
+#917
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{r {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  A
+strong scent of fresh flowers is to the east and the path continues to the
+north.  
+~
+0
+0 2
+E
+flower~
+Large groups of {Wda{Yi{Ws{Yi{Wes and {maz{Ma{Wl{Me{mas{x line the stone {Dp{Wat{Dh{x.  
+~
+E
+flowers~
+Large groups of {Wda{Yi{Ws{Yi{Wes and {maz{Ma{Wl{Me{mas{x line the stone {Dp{Wat{Dh{x.  
+~
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+D0
+~
+~
+0 0
+0 0 927
+D1
+~
+~
+0 0
+0 0 918
+D2
+~
+~
+0 0
+0 0 907
+S
+#918
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x leads into a large open area, a strong scent of fresh
+flowers moving on the breeze.  The chirping of {bb{Bird{bs{x can be heard to the
+north and the branches of a large {ytree{x rise high into the air from the
+southeast.  The {Dp{Wat{Dh{x continues in all directions, rows of {gf{Glo{Yw{Ger{gs{x
+following along beside it.  
+~
+0
+0 2
+E
+flowers~
+Large bunches of {rb{Reg{ron{Ria{rs{x and {Wm{Yu{Wms{x are clustered along the {rs{Dt{ron{De
+{Dp{Wat{Dh{x.  
+~
+E
+flower~
+Large bunches of {rb{Reg{ron{Ria{rs{x and {Wm{Yu{Wms{x are clustered along the {rs{Dt{ron{De
+{Dp{Wat{Dh{x.  
+~
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+D0
+~
+~
+0 0
+0 0 928
+D1
+~
+~
+0 0
+0 0 919
+D2
+~
+~
+0 0
+0 0 908
+D3
+~
+~
+0 0
+0 0 917
+S
+#919
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path leads into a large open area, a strong scent of fresh
+flowers moving on the breeze.  The chirping of {bb{Bird{bs{x can be heard to the
+northwest and the branches of a large {ytree{x rise high into the air from the
+south.  The {Dp{Wat{Dh{x continues in all directions, rows of {gf{Glo{Yw{Ger{gs{x following
+along beside it.  
+~
+0
+0 2
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+D0
+~
+~
+0 0
+0 0 929
+D2
+~
+~
+0 0
+0 0 909
+D3
+~
+~
+0 0
+0 0 918
+S
+#920
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and south.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 921
+D2
+~
+~
+0 0
+0 0 910
+S
+#921
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 931
+D1
+~
+~
+0 0
+0 0 922
+D3
+~
+~
+0 0
+0 0 920
+S
+#922
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 923
+D3
+~
+~
+0 0
+0 0 921
+S
+#923
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 924
+D2
+~
+~
+0 0
+0 0 913
+D3
+~
+~
+0 0
+0 0 922
+S
+#924
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 925
+D3
+~
+~
+0 0
+0 0 923
+S
+#925
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De {Dp{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 935
+D1
+~
+~
+0 0
+0 0 926
+D3
+~
+~
+0 0
+0 0 924
+S
+#926
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 927
+D3
+~
+~
+0 0
+0 0 925
+S
+#927
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  
+~
+0
+0 2
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+D0
+~
+~
+0 0
+0 0 937
+D2
+~
+~
+0 0
+0 0 917
+D3
+~
+~
+0 0
+0 0 926
+S
+#928
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+A large stone {bb{Bir{bd{Db{Wa{Dth{X rests in the center of a grass covered area.  Many
+different breeds of {bb{Bir{bds{X hop around the base of the birdbath, pecking at
+the grass for {yw{Yo{yrms{x and {ys{ree{yds{x, others splash happily in the {cw{Ca{ct{Ce{cr{x,
+flipping water up over their backs before shaking their feathers and
+beginning the process of preening them back into place.  The {rs{Dt{ron{De p{Wat{Dh{x
+continues through the maze.  
+~
+0
+0 2
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+D0
+~
+~
+0 0
+0 0 938
+D1
+~
+~
+0 0
+0 0 929
+D2
+~
+~
+0 0
+0 0 918
+S
+#929
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path leads into a large open area, a strong scent of fresh
+flowers moving on the breeze.  The chirping of {bb{Bird{bs{x can be heard to the
+west and the branches of a large {ytree{x rise high into the air from the south.
+The {Dp{Wat{Dh{x continues in all directions, rows of {gf{Glo{Yw{Ger{gs{x following along beside
+it.  
+~
+0
+0 2
+E
+path~
+Smooth {rs{Dt{ron{De{rs{x create a wide pathway that leads through the maze.  
+~
+D0
+~
+~
+0 0
+0 0 939
+D2
+~
+~
+0 0
+0 0 919
+D3
+~
+~
+0 0
+0 0 928
+S
+#930
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 940
+S
+#931
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and east.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 932
+D2
+~
+~
+0 0
+0 0 921
+S
+#932
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 942
+D1
+~
+~
+0 0
+0 0 933
+D3
+~
+~
+0 0
+0 0 931
+S
+#933
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 934
+D3
+~
+~
+0 0
+0 0 932
+S
+#934
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 944
+D1
+~
+~
+0 0
+0 0 935
+D3
+~
+~
+0 0
+0 0 933
+S
+#935
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 936
+D2
+~
+~
+0 0
+0 0 925
+D3
+~
+~
+0 0
+0 0 934
+S
+#936
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 946
+D1
+~
+~
+0 0
+0 0 937
+D3
+~
+~
+0 0
+0 0 935
+S
+#937
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  
+~
+0
+0 2
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+D1
+~
+~
+0 0
+0 0 938
+D2
+~
+~
+0 0
+0 0 927
+D3
+~
+~
+0 0
+0 0 936
+S
+#938
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  
+~
+0
+0 2
+E
+path~
+Smooth {rs{Dt{Won{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+D1
+~
+~
+0 0
+0 0 939
+D2
+~
+~
+0 0
+0 0 928
+D3
+~
+~
+0 0
+0 0 937
+S
+#939
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De{x path continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  A
+large {cp{Con{cd{x is in the northeast corner surrounded by small bushes.  
+~
+0
+0 2
+E
+pond~
+The waters of the {cp{Con{cd{x are clear, reflecting the {Wclouds{x in the sky above.
+Small ripples move across the water as the fish and birds that occupy it
+move about.  
+~
+E
+path~
+Smooth {rs{Dt{ron{De{rs{x create a wide pathway that leads through the maze.  
+~
+E
+hedge~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+E
+hedges~
+Rising to a height of about 6 1/2 feet, these {gh{Ge{gdg{Ge{gs{x are kept neatly
+trimmed and a healthy dark {ggreen{x color.  
+~
+D2
+~
+~
+0 0
+0 0 929
+D3
+~
+~
+0 0
+0 0 938
+S
+#940
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 947
+D1
+~
+~
+0 0
+0 0 941
+D2
+~
+~
+0 0
+0 0 930
+S
+#941
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  A few small rows of fruit {ytrees{x
+are in a clearing, their limbs covered with sweet smelling {Mbl{mo{Mss{mo{Mms{x. 
+{BB{Bird{bs{x fly from tree to tree, chirping their songs.  The {Dp{Wat{Dh{x continues to
+the north and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 948
+D3
+~
+~
+0 0
+0 0 940
+S
+#942
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and south.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 949
+D2
+~
+~
+0 0
+0 0 932
+S
+#943
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x opens to a wide, circular area in the {gh{Ge{gdg{Ge{gs{x.  The
+sound of running water is heard coming from a large {Dfo{wu{Wnt{wa{Din{x that rests
+within the path which circles around it.  Small, curved stone {Dbe{wn{Dc{wh{Des{x rest
+along side the path.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 950
+S
+#944
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, south and west.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 951
+D2
+~
+~
+0 0
+0 0 934
+S
+#945
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and east.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 952
+D1
+~
+~
+0 0
+0 0 946
+S
+#946
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and west.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 936
+D3
+~
+~
+0 0
+0 0 945
+S
+#947
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 954
+D2
+~
+~
+0 0
+0 0 940
+S
+#948
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x leads up to a wooden {ybr{Yi{ydge{x that rises up and over the
+waters of the {cbr{Coo{ck{x that flows gently beneath it.  To the south the
+{Dp{Wat{Dh{x continues, the limbs of fruit trees in blossom giving off a faint sweet
+scent can be seen.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 955
+D2
+~
+~
+0 0
+0 0 941
+S
+#949
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and east.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 950
+D2
+~
+~
+0 0
+0 0 942
+S
+#950
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 951
+D2
+~
+~
+0 0
+0 0 943
+D3
+~
+~
+0 0
+0 0 949
+S
+#951
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 952
+D2
+~
+~
+0 0
+0 0 944
+D3
+~
+~
+0 0
+0 0 950
+S
+#952
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, south and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 959
+D1
+~
+~
+4096 4096
+0 0 953
+D2
+~
+~
+0 0
+0 0 945
+D3
+~
+~
+0 0
+0 0 951
+S
+#953
+A Small {GG{ga{Yrd{ge{Gn{x~
+Enclosed by {gh{Ge{gdg{Ge{gs{x on all sides, this small area appears to be used by
+the cooks of the {wWhite Tower{x.  Rows of tilled soil line the ground, small
+walkways moving around them.  Sprouting out of the soil are the leafy
+greens, carrots, turnips and other such vegetables as the cooks use
+frequently.  
+~
+0
+0 2
+D3
+~
+~
+4096 4096
+0 0 952
+S
+#954
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 955
+D2
+~
+~
+0 0
+0 0 947
+S
+#955
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 956
+D2
+~
+~
+0 0
+0 0 948
+D3
+~
+~
+0 0
+0 0 954
+S
+#956
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 963
+D1
+~
+~
+0 0
+0 0 957
+D3
+~
+~
+0 0
+0 0 955
+S
+#957
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 964
+D1
+~
+~
+0 0
+0 0 958
+D3
+~
+~
+0 0
+0 0 956
+S
+#958
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 965
+D3
+~
+~
+0 0
+0 0 957
+S
+#959
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and east.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 960
+D2
+~
+~
+0 0
+0 0 952
+S
+#960
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 967
+D3
+~
+~
+0 0
+0 0 959
+S
+#961
+Entrance to the {gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+Tall, neatly pruned {gh{Ge{gdg{Ge{gs{x can be seen all around.  A wide pathway
+leading through the hedges is made of {rs{Dm{roo{Dt{rh {Ds{wt{Won{we{Ds{x, and grass covers the
+area between the {Dp{Wat{Dh{x and the hedge.  A small row of {gf{Glo{Yw{Ger{gs{x lines the
+stone {Dp{Wat{Dh{x which continues to the east.  
+~
+0
+C 2
+D1
+~
+~
+0 0
+0 0 962
+D3
+~
+"{Dwr{Wo{Dught-i{Wr{Don{x gate"~
+3 3
+1 0 14432
+S
+#962
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 973
+D3
+~
+~
+0 0
+0 0 961
+S
+#963
+{gH{Ge{gd{Gg{e {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+soft sound of {cw{Ca{ct{Ce{cr{x flowing slowly along can be heard nearby.  The
+{Dp{Wat{Dh{x continues in all directions.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 964
+D2
+~
+~
+0 0
+0 0 956
+S
+#964
+{gH{Ge{gd{Gg{e {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+soft sound of {cw{Ca{ct{Ce{cr{x flowing slowly along can be heard nearby.  The
+{Dp{Wat{Dh{x continues in all directions.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 975
+D1
+~
+~
+0 0
+0 0 965
+D2
+~
+~
+0 0
+0 0 957
+D3
+~
+~
+0 0
+0 0 963
+S
+#965
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 976
+D1
+~
+~
+0 0
+0 0 966
+D2
+~
+~
+0 0
+0 0 958
+D3
+~
+~
+0 0
+0 0 964
+S
+#966
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 977
+D3
+~
+~
+0 0
+0 0 965
+S
+#967
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and south.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 968
+D2
+~
+~
+0 0
+0 0 960
+S
+#968
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 969
+D3
+~
+~
+0 0
+0 0 967
+S
+#969
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 980
+D3
+~
+~
+0 0
+0 0 968
+S
+#970
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and east.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 981
+D1
+~
+~
+0 0
+0 0 971
+S
+#971
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 982
+D3
+~
+~
+0 0
+0 0 970
+S
+#972
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The small {Dp{Wa{Dth{x opens to a small, grass covered clearing in the {gh{Ge{gdg{Ge{gs{x. 
+Resting on a small hill in the center area is a tall, pure white {Wgazebo{x. 
+Two small, wooden {yb{Ye{ynch{Ye{ys{x line the inside of the gazebo, and the peaked roof
+makes this a shady place to relax.  Little lace-like wood-working decorates
+the upper edges around the roof, and placed on top is a tiny {Ds{wt{Wat{wu{De{x of a
+regal appearing woman.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 983
+D5
+~
+~
+4135 4135
+2 9938 9928
+S
+#973
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and east.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 974
+D2
+~
+~
+0 0
+0 0 962
+S
+#974
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 985
+D1
+~
+~
+0 0
+0 0 975
+D3
+~
+~
+0 0
+0 0 973
+S
+#975
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, south and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 986
+D2
+~
+~
+0 0
+0 0 964
+D3
+~
+~
+0 0
+0 0 974
+S
+#976
+{gH{Ge{gd{Gg{e {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+soft sound of {cw{Ca{ct{Ce{cr{x flowing slowly along can be heard nearby.  The
+{Dp{Wat{Dh{x continues in all directions.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 977
+D2
+~
+~
+0 0
+0 0 965
+S
+#977
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x moves to follow along a small {cbr{Coo{ck{x that runs through this
+part of the {gh{Ge{gd{Gg{ge{x maze.  Short walls of {Db{Rric{Dk{x line the waters of the brook
+that flow over sand and shiny pebbles, directing it through the maze on its
+course.  Rows of brightly colored {gf{Glo{Yw{Ger{gs{x follow along the {Dp{Wat{Dh{x.  
+~
+0
+0 2
+D1
+~
+~
+4096 4096
+0 0 978
+D2
+~
+~
+0 0
+0 0 966
+D3
+~
+~
+0 0
+0 0 976
+S
+#978
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+Behind the long row of {gh{Ge{gdg{Ge{gs{x is a small grassy knoll.  A small building
+rests at the top, a single window overlooks the path that lead to the row of
+hedges.  Rakes and shovels lean against the side of the building and a few
+people lounge on wooden {ybenches{x.  
+~
+0
+0 2
+D1
+~
+~
+7 7
+2 903 979
+D3
+~
+~
+4096 4096
+0 0 977
+S
+#979
+Inside of the {gG{Gard{Ye{Gnin{gg {ySh{Ye{yd{x~
+Inside the shed the room is dark, the floor is covered in dirt and grass
+that is dragged in by the maze keepers.  A variety of gardening tools hang
+on the walls, and a large pair of hedge clippers rest against the back wall.
+Old flower pots are stacked together off to the side, water dripping from
+some where they were carelessly placed.  
+~
+0
+0 2
+D3
+~
+~
+7 7
+2 903 978
+S
+#980
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, east and south.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 991
+D1
+~
+~
+0 0
+0 0 981
+D2
+~
+~
+0 0
+0 0 969
+S
+#981
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x opens to a large, stone covered clearing in the {gh{Ge{gdg{Ge{gs{x. 
+Small bushes with dark {rr{Re{rd{x flowers line the clearing, giving off a soft
+rosey scent.  Four curved stone {Db{we{Dnch{we{Ds{x form a wide circle in the center of
+the clearing, resting in the middle of the benches is a fountain.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 982
+D2
+~
+~
+0 0
+0 0 970
+D3
+~
+~
+0 0
+0 0 980
+S
+#982
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the north, south and west.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 993
+D2
+~
+~
+0 0
+0 0 971
+D3
+~
+~
+0 0
+0 0 981
+S
+#983
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and east.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 984
+D2
+~
+~
+0 0
+0 0 972
+S
+#984
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 985
+D3
+~
+~
+0 0
+0 0 983
+S
+#985
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 986
+D2
+~
+~
+0 0
+0 0 974
+D3
+~
+~
+0 0
+0 0 984
+S
+#986
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 987
+D2
+~
+~
+0 0
+0 0 975
+D3
+~
+~
+0 0
+0 0 985
+S
+#987
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 988
+D3
+~
+~
+0 0
+0 0 986
+S
+#988
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 989
+D3
+~
+~
+0 0
+0 0 987
+S
+#989
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 990
+D3
+~
+~
+0 0
+0 0 988
+S
+#990
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 991
+D3
+~
+~
+0 0
+0 0 989
+S
+#991
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south, east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 992
+D2
+~
+~
+0 0
+0 0 980
+D3
+~
+~
+0 0
+0 0 990
+S
+#992
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the east and west.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 993
+D3
+~
+~
+0 0
+0 0 991
+S
+#993
+{gH{Ge{gd{Gg{ge {DM{Waz{De{x~
+The {rs{Dt{ron{De p{Wat{Dh{x continues through the tall {gh{Ge{gdg{Ge{gs{x of the maze, long rows
+of {gf{Glo{Yw{Ger{gs{x following along beside it.  Tall {ytrees{x can be seen rising above
+the hedges all around and {bb{Bird{bs{x whistle their songs as they fly about.  The
+{Dp{Wat{Dh{x continues to the south and west.  
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 982
+D3
+~
+~
+0 0
+0 0 992
+S
+#994
+A Hidden Hollow~
+A small {gh{Go{gll{Go{gw{x in the ground, hidden by the {yo{Ya{yk{x tree, is covered in a
+soft grass.  A pair of {cb{Ci{crds{x have built a nest in the side of the hollow,
+which they tend to carefully.  
+~
+0
+C 2
+D4
+~
+~
+4096 4096
+0 0 911
+S
+#995
+~
+~
+0
+C 0
+S
+#996
+~
+~
+0
+C 0
+S
+#997
+~
+~
+0
+C 0
+S
+#998
+~
+~
+0
+C 0
+S
+#999
+~
+~
+0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 910 spec_channeler_offensive
+M 913 spec_channeler_offensive
+M 914 spec_channeler_defensive
+M 915 spec_channeler_defensive
+M 916 spec_channeler_offensive
+M 917 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 907 2 1
+D 0 961 3 1
+D 0 972 5 2
+D 0 978 1 2
+D 0 979 3 2
+M 0 907 20 900 3
+O 0 901 0 909
+O 0 901 0 911
+M 0 909 20 911 5
+M 0 906 20 916 5
+M 0 905 20 916 5
+M 0 913 10 921 2
+M 0 910 10 923 2
+M 0 915 10 925 2
+M 0 917 10 926 2
+M 0 916 10 926 2
+O 0 900 0 928
+M 0 900 10 928 5
+M 0 901 20 928 5
+M 0 902 20 928 5
+E 0 902 0 19
+M 0 914 10 933 2
+M 0 904 20 939 5
+M 0 903 20 939 5
+O 0 907 0 941
+P 0 908 5 907 5
+O 0 909 0 943
+M 0 911 20 949 2
+O 0 913 0 953
+M 0 912 20 971 3
+O 0 910 0 972
+M 0 907 20 978 2
+M 0 908 1 978 1
+E 0 903 0 19
+O 0 906 0 978
+O 0 904 0 979
+P 0 905 1 904 1
+O 0 911 0 981
+O 0 912 0 981
+M 0 918 2 994 2
+M 0 918 2 994 2
+O 0 40022 0 994
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

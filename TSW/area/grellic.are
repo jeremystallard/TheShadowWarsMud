@@ -1,0 +1,1600 @@
+#AREADATA
+Name Grellic's Camp~
+Builders Galadine~
+VNUMs 2700 2799
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#2700
+Entrace to a canyon~
+You stand at the mouth of the small slot canyon.  To the south lies the
+open blight, twisted and foul.  To the north the canyon twists down, angling
+slightly into the earth.  A small distance to the north you see a small
+pillar of smoke.  All around you there are small withered trees, bare of
+leaves and thirsty for fluid.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 2701
+S
+#2701
+Inside a small canyon~
+You stand a small ways into the slot canyon.  The way it twists here
+makes it less narrow than it appears from the north and south, there is
+plenty of space.  There is shade here giving respite from the strong sun,
+but the air is as dry and empty as ever.  To the south you can see the
+canyon angling up towards the level desert.  To the north the canyon
+descends even futher into the ground, the sky remaining always in view.  You
+think you catch a glimpse of smoke in a gentle breeze that makes it's way up
+the canyon.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2702
+D2
+~
+~
+0 0
+0 0 2700
+S
+#2702
+In a small canyon~
+You stand deep within the slot canyon.  The surface of the desert blight
+is now perhaps fourty feet above you.  Around your feet are small bushes,
+bare of leaves, that almost appear to reach out towards you.  They look
+hungry.  To the south, the end of the canyon is not visible due to twists
+and turns.  From the north you now catch the acrid smell of burning.  It
+smells like burning flesh.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2703
+D2
+~
+~
+0 0
+0 0 2701
+S
+#2703
+The end of a small canyon~
+At the northern end of the canyon the smell from the north is quite
+prominent.  The smell of burning flesh assaults your nose and, each time the
+breeze carries the smoke, stings your eyes.  The canyon to the south looks
+tight and perhaps hard to fit through.  To the north the canyon gives a
+sharp bend.  Around the bend you assume the canyon will end.  The small
+bushes here that were trying to survive, have been trampled mercilessly.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2704
+D2
+~
+~
+0 0
+0 0 2702
+S
+#2704
+Entrance to a cave~
+You stand at the southern end of a cave.  Perhaps ninety feet above you
+the canyon has begun cover the sky from view, as the lips of the surface
+draw closer together.  To the south the wall opens into a small slot canyon.
+To the north lies a grisly scene.  It is quite dark here, but the shadows
+and shapes which you can see give hints as to the happenings of this place. 
+A small distance to the north a small shadowed structure juts out of the
+ground.  Small fires dot the cave around you.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2711
+D1
+~
+~
+0 0
+0 0 2712
+D2
+~
+~
+0 0
+0 0 2703
+D3
+~
+~
+0 0
+0 0 2705
+S
+#2705
+A dark cave~
+You stand in the semi-dark cave, dull shafts of light coming down from
+the cieling.  To the south the wall of the cave rises up and curves
+northward blocking out the sky.  To the west and north you can see small
+campfires, to the east the mouth of the canyon.  To the north east you catch
+sight of a small structure.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2710
+D1
+~
+~
+0 0
+0 0 2704
+D3
+~
+~
+0 0
+0 0 2706
+S
+#2706
+A semi-dark cave~
+You are standing against the south wall of the semi-dark cave.  The cave
+ends to the east a small ways, and opens towards the east and north.  To the
+north you see a small campfire.  To the north east, the outline of a small
+structure.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2709
+D1
+~
+~
+0 0
+0 0 2705
+D3
+~
+~
+0 0
+0 0 2707
+S
+#2707
+South east corner~
+You stand in the south west corner of the cave.  The smooth rounded walls
+jut up before you curving sharply towards the north east.  This corner is
+quite dark, you can't see much, but for some reason, here in this corner, it
+smells worse.  You're not sure how much your stomach can take.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2708
+D1
+~
+~
+0 0
+0 0 2706
+S
+#2708
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2724
+D1
+~
+~
+0 0
+0 0 2709
+D2
+~
+~
+0 0
+0 0 2707
+S
+#2709
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2723
+D1
+~
+~
+0 0
+0 0 2710
+D2
+~
+~
+0 0
+0 0 2706
+D3
+~
+~
+0 0
+0 0 2708
+S
+#2710
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2722
+D1
+~
+~
+0 0
+0 0 2711
+D2
+~
+~
+0 0
+0 0 2705
+D3
+~
+~
+0 0
+0 0 2709
+S
+#2711
+~
+Center
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2721
+D1
+~
+~
+0 0
+0 0 2717
+D2
+~
+~
+0 0
+0 0 2704
+D3
+~
+~
+0 0
+0 0 2710
+S
+#2712
+A dark cave~
+You stand in the southern part of the cave, small shafts of light coming
+through the cieling illuminate the air only slightly around you.  To the
+south the wall of the cave juts up, curing off towards the north.  To the
+north you can see the shadow of a structure, to the east a fire.  You can
+see shadows moving about to the north and east.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2717
+D1
+~
+~
+0 0
+0 0 2713
+D3
+~
+~
+0 0
+0 0 2704
+S
+#2713
+A semi-dark cave~
+The wall of the cave rises into the darkness, angling off towards the
+north, to the south.  You hear loud noises all around, but through the
+darkness are unable to see anything but shadows moving around the dark cave.
+The small shafts of light, while making close vision somewhat possible,
+kills your ability to see in the dark, or farther than ten feet.  To the
+east you can make out a fire, to the north west the shadow of a structure.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2716
+D1
+~
+~
+0 0
+0 0 2714
+D3
+~
+~
+0 0
+0 0 2712
+S
+#2714
+Around a fire~
+You are standing in south east corner of the cave.  There is a large fire
+here, destroying any capability of seeing in the dark past it's own glow. 
+On the fire is a spit, with large chunks of flesh suspended on it.  Bloodied
+clothing, scraps of meat and bone, and other bodily remains lay strewn about
+here.  The smell of burnt flesh is so strong, that it would cause almost any
+to gag.  The area looks recently inhabited.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2715
+D3
+~
+~
+0 0
+0 0 2713
+S
+#2715
+~
+You stand at the east end of the cave.  The wall slopes up towards the
+west, covering the sky completely.  There is a strong smell here, the smell
+of burning meat.  A large fire to the south threatens to destroy your night
+vision.  You see shapes moving towards the south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2718
+D2
+~
+~
+0 0
+0 0 2714
+D3
+~
+~
+0 0
+0 0 2716
+S
+#2716
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2719
+D1
+~
+~
+0 0
+0 0 2715
+D2
+~
+~
+0 0
+0 0 2713
+D3
+~
+~
+0 0
+0 0 2717
+S
+#2717
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2720
+D1
+~
+~
+0 0
+0 0 2716
+D2
+~
+~
+0 0
+0 0 2712
+D3
+~
+~
+0 0
+0 0 2711
+S
+#2718
+East wall~
+You stand near the east wall of the cave.  The wall juts up into the
+darkness and to the west.  There is very little light here, the shafts of
+lights angling towards areas farther west.  To the south you see a large
+fire.  You catch glimpses of shadows moving around.  To the north west
+stands a small structure.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2731
+D2
+~
+~
+0 0
+0 0 2715
+D3
+~
+~
+0 0
+0 0 2719
+S
+#2719
+A dark cave~
+You stand in a dark cave, thin shafts of light falling in random spots. 
+To the west you see some shadowed shapes moving around.  A large fire blazes
+to the south east.  To the north you see the silouette of a structure.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2730
+D1
+~
+~
+0 0
+0 0 2718
+D2
+~
+~
+0 0
+0 0 2716
+D3
+~
+~
+0 0
+0 0 2720
+S
+#2720
+A dark cave~
+You stand in a dark cave.  There is a splashing noise as your foot steps
+into a hidden puddle.  You wonder where this liquid could have come from. 
+The smell here is pretty foul, and there is very little light.  Bones lay
+all around, most with chunks still attached to them.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2729
+D1
+~
+~
+0 0
+0 0 2719
+D2
+~
+~
+0 0
+0 0 2717
+D3
+~
+~
+0 0
+0 0 2721
+S
+#2721
+~
+Center
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2728
+D1
+~
+~
+0 0
+0 0 2720
+D2
+~
+~
+0 0
+0 0 2711
+D3
+~
+~
+0 0
+0 0 2722
+S
+#2722
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2727
+D1
+~
+~
+0 0
+0 0 2721
+D2
+~
+~
+0 0
+0 0 2710
+D3
+~
+~
+0 0
+0 0 2723
+S
+#2723
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2726
+D1
+~
+~
+0 0
+0 0 2722
+D2
+~
+~
+0 0
+0 0 2709
+D3
+~
+~
+0 0
+0 0 2724
+S
+#2724
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2725
+D1
+~
+~
+0 0
+0 0 2723
+D2
+~
+~
+0 0
+0 0 2708
+S
+#2725
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2738
+D1
+~
+~
+0 0
+0 0 2726
+D2
+~
+~
+0 0
+0 0 2724
+S
+#2726
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2737
+D1
+~
+~
+0 0
+0 0 2727
+D2
+~
+~
+0 0
+0 0 2723
+D3
+~
+~
+0 0
+0 0 2725
+S
+#2727
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2736
+D1
+~
+~
+0 0
+0 0 2728
+D2
+~
+~
+0 0
+0 0 2722
+D3
+~
+~
+0 0
+0 0 2726
+S
+#2728
+~
+Center
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2735
+D1
+~
+~
+0 0
+0 0 2729
+D2
+~
+~
+0 0
+0 0 2721
+D3
+~
+~
+0 0
+0 0 2727
+S
+#2729
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2734
+D1
+~
+~
+0 0
+0 0 2730
+D2
+~
+~
+0 0
+0 0 2720
+D3
+~
+~
+0 0
+0 0 2728
+S
+#2730
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2733
+D1
+~
+~
+0 0
+0 0 2731
+D2
+~
+~
+0 0
+0 0 2719
+D3
+~
+~
+0 0
+0 0 2729
+S
+#2731
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2732
+D2
+~
+~
+0 0
+0 0 2718
+D3
+~
+~
+0 0
+0 0 2730
+S
+#2732
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2745
+D2
+~
+~
+0 0
+0 0 2731
+D3
+~
+~
+0 0
+0 0 2733
+S
+#2733
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2744
+D1
+~
+~
+0 0
+0 0 2732
+D2
+~
+~
+0 0
+0 0 2730
+D3
+~
+~
+0 0
+0 0 2734
+S
+#2734
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2733
+D2
+~
+~
+0 0
+0 0 2729
+D3
+~
+~
+0 0
+0 0 2735
+S
+#2735
+~
+Center
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2734
+D2
+~
+~
+0 0
+0 0 2728
+D3
+~
+~
+0 0
+0 0 2736
+S
+#2736
+~
+Door to tent
+Guard
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2741
+D1
+~
+~
+0 0
+0 0 2735
+D2
+~
+~
+0 0
+0 0 2727
+D3
+~
+~
+0 0
+0 0 2737
+S
+#2737
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2740
+D1
+~
+~
+0 0
+0 0 2736
+D2
+~
+~
+0 0
+0 0 2726
+D3
+~
+~
+0 0
+0 0 2738
+S
+#2738
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2739
+D1
+~
+~
+0 0
+0 0 2737
+D2
+~
+~
+0 0
+0 0 2725
+S
+#2739
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2752
+D1
+~
+~
+0 0
+0 0 2740
+D2
+~
+~
+0 0
+0 0 2738
+S
+#2740
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2751
+D2
+~
+~
+0 0
+0 0 2737
+D3
+~
+~
+0 0
+0 0 2739
+S
+#2741
+~
+Tent
+Darkfriends
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2750
+D1
+~
+~
+0 0
+0 0 2742
+D2
+~
+~
+0 0
+0 0 2736
+S
+#2742
+~
+Center
+Tent
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2749
+D1
+~
+~
+0 0
+0 0 2743
+D3
+~
+~
+0 0
+0 0 2741
+S
+#2743
+~
+Tent
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2748
+D3
+~
+~
+0 0
+0 0 2742
+S
+#2744
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2747
+D1
+~
+~
+0 0
+0 0 2745
+D2
+~
+~
+0 0
+0 0 2733
+S
+#2745
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2746
+D2
+~
+~
+0 0
+0 0 2732
+D3
+~
+~
+0 0
+0 0 2744
+S
+#2746
+~
+Fire
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2759
+D2
+~
+~
+0 0
+0 0 2745
+D3
+~
+~
+0 0
+0 0 2747
+S
+#2747
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2758
+D1
+~
+~
+0 0
+0 0 2746
+D2
+~
+~
+0 0
+0 0 2744
+S
+#2748
+~
+tent
+Grellic
+Fade
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2743
+D3
+~
+~
+0 0
+0 0 2749
+S
+#2749
+~
+Center
+tent
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2748
+D2
+~
+~
+0 0
+0 0 2742
+D3
+~
+~
+0 0
+0 0 2750
+S
+#2750
+~
+tent
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2749
+D2
+~
+~
+0 0
+0 0 2741
+S
+#2751
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2754
+D2
+~
+~
+0 0
+0 0 2740
+D3
+~
+~
+0 0
+0 0 2752
+S
+#2752
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2753
+D1
+~
+~
+0 0
+0 0 2751
+D2
+~
+~
+0 0
+0 0 2739
+S
+#2753
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2766
+D1
+~
+~
+0 0
+0 0 2754
+D2
+~
+~
+0 0
+0 0 2752
+S
+#2754
+~
+Fire
+Prisoners
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2765
+D1
+~
+~
+0 0
+0 0 2755
+D2
+~
+~
+0 0
+0 0 2751
+D3
+~
+~
+0 0
+0 0 2753
+S
+#2755
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2764
+D1
+~
+~
+0 0
+0 0 2756
+D3
+~
+~
+0 0
+0 0 2754
+S
+#2756
+~
+Center
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2763
+D1
+~
+~
+0 0
+0 0 2757
+D3
+~
+~
+0 0
+0 0 2755
+S
+#2757
+~
+Fire
+Prisoners
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2762
+D1
+~
+~
+0 0
+0 0 2758
+D3
+~
+~
+0 0
+0 0 2756
+S
+#2758
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2761
+D1
+~
+~
+0 0
+0 0 2759
+D2
+~
+~
+0 0
+0 0 2747
+D3
+~
+~
+0 0
+0 0 2757
+S
+#2759
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2760
+D2
+~
+~
+0 0
+0 0 2746
+D3
+~
+~
+0 0
+0 0 2758
+S
+#2760
+~
+Corpses
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2759
+D3
+~
+~
+0 0
+0 0 2761
+S
+#2761
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2760
+D2
+~
+~
+0 0
+0 0 2758
+D3
+~
+~
+0 0
+0 0 2762
+S
+#2762
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2761
+D2
+~
+~
+0 0
+0 0 2757
+D3
+~
+~
+0 0
+0 0 2763
+S
+#2763
+~
+Center
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2762
+D2
+~
+~
+0 0
+0 0 2756
+D3
+~
+~
+0 0
+0 0 2764
+S
+#2764
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2763
+D2
+~
+~
+0 0
+0 0 2755
+D3
+~
+~
+0 0
+0 0 2765
+S
+#2765
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2764
+D2
+~
+~
+0 0
+0 0 2754
+D3
+~
+~
+0 0
+0 0 2766
+S
+#2766
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2765
+D2
+~
+~
+0 0
+0 0 2753
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

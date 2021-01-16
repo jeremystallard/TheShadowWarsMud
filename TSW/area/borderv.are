@@ -1,0 +1,5068 @@
+#AREADATA
+Name Border village~
+Builders Bryan Kitiara~
+VNUMs 12000 12199
+Credits None~
+Security 2
+Low 30
+High 90
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#12000
+arafellin soldier guard~
+an {rAr{Ra{Wfel{Rl{rin {DSo{wldi{Der{x~
+An {rAr{Ra{Wfel{Rl{rin {DSo{wldi{Der{x is here, going about his business.
+~
+Hardened in battle, these soldiers were raised to kill the Shadowspawn
+that plauge the northern lands without fear of death.  They flow from place
+to place, the recruits even seeming to have a deadly stride.  The weapons
+they carry don't not just look like part of them, they are part of them,
+like an extension of their arms.  
+~
+unique~
+AGT 0 1000 1
+70 70 36d37+4043 70d10+100 7d10+35 slash
+0 0 0 0 0
+A
+4 -4 -4 -4
+EFIJKN 0 0 0
+stand stand male 20
+0 0 medium 'skin'
+#12001
+arafellin sergeant~
+an {rAr{Ra{Wfel{Rl{rin {rSe{Rr{Wge{Ra{rnt{x~
+An {rAr{Ra{Wfel{Rl{rin {rSe{Rr{Wge{Ra{rnt{x stands here, watching over the other soldiers.
+~
+A man who's eyes could make ice seem like fire stands here.  His
+movements are deadly yet graceful, and any weapon in his hand flows like
+water.  Calmly, yet strictly, he directs and trains soldiers in their forms,
+perfecting the already deadly soldiers.  
+~
+unique~
+ABT 0 1000 1
+80 80 50d10+11900 100d20+23800 6d10+45 slash
+0 0 0 0 0
+A
+-5 -5 -5 -5
+BCEIKN 0 0 0
+stand stand male 60
+0 0 medium 'skin, steel'
+F train A
+V tlevel 75
+#12002
+blacksmith arafellin man~
+an {rAr{Ra{Wfel{Rl{rin {Dbla{wcksm{Dith{x~
+An {rAr{Ra{Wfel{Rl{rin {Dbla{wcksm{Dith{x stands here, hammering out a sword.
+~
+The blacksmith, while shorter then the other soldiers, has arms at least
+double that of any of the soldiers.  He holds an enormous hammer, which he
+continually uses to pound out new weapons and armor for the many soldiers of
+this tower.  Even as a blacksmith, his movements have a deadly gracefulness
+to him, and the heat of the room never touches him.  
+~
+unique~
+AB 0 1000 1
+90 10 46d47+6548 90d10+100 9d10+45 pound
+0 0 0 0 0
+A
+6 0 0 0
+0 0 0 0
+stand stand male 10000
+0 0 medium 'flesh'
+#12003
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#12004
+recruit officer arafellin~
+an {rAr{Ra{Wfel{Rl{rin {rRe{Rc{Wr{Ru{rit {DOf{wfic{Der{x~
+An {rAr{Ra{Wfel{Rl{rin {rRe{Rc{Wr{Ru{rit {DOf{wfic{Der{x sits behind his desk, muttering about reports.
+~
+A tall man sits behind the desk, not seeming to notice you enter.  He
+quietly mutters to himself over reports and lack of soldiers, always seeming
+angry.  Though somehow it's obvious he's an extremely strong soldier,
+considering his rather high rank.  
+~
+unique~
+ABT 0 1000 1
+80 80 41d42+5220 80d10+100 8d10+40 slash
+0 0 0 0 0
+A
+5 -5 -5 -5
+CEFIKN 0 0 0
+sit sit male 100
+0 0 medium 'skin, steel'
+#12005
+commander arafellin soldier~
+an {rAr{Ra{Wfel{Rl{rin {rCo{Rm{Wman{Rd{rer{x~
+An {rAr{Ra{Wfel{Rl{rin {rCo{Rm{Wman{Rd{rer{x sits at his desk, quietly filling out reports.
+~
+A man whose hair is more then half gray sits behind this desk.  Even at
+his age, he looks deadly, and his eyes have a coldness to them that says
+he's seen many bloody battles.  He sits quietly though, filling out several
+reports and handing them to recruits who enter and leave when summoned.  
+~
+unique~
+ABT 0 1000 0
+90 95 46d47+6548 90d10+100 9d10+45 slash
+0 0 0 0 0
+A
+6 -6 -6 -6
+CEFIKN 0 0 0
+sit sit male 300
+0 0 medium 'skin steel'
+#12006
+advisor arafellin~
+an {rAr{Ra{Wfel{Rl{rin {rAd{Rv{Wi{Rs{ror{x~
+An {rAr{Ra{Wfel{Rl{rin {rAd{Rv{Wi{Rs{ror{x sits behind his desk, looking over some maps.
+~
+Though rather old, the advisor to the commander of this tower appears to
+be a very strong soldier.  His eyes are cold, yet seem filled with wisdom. 
+He barely glances at anyone who enters the room, before returning his
+attention back to whatever he's currently studying.  
+~
+unique~
+AB 0 1000 1
+85 85 44d44+5865 85d10+100 12d7+43 slash
+0 0 0 0 0
+A
+5 -5 -5 -5
+0 0 0 0
+stand stand male 100
+0 0 medium 'skin steel'
+#12007
+doctor medic white cloak man~
+a man in a long {Wwhite{x coat~
+A man in a long {Wwhite{x coat stands here, tending to the injured.
+~
+Dressed in a long white coat, this man moves from bed to bed tending to
+the injured with herbs and other liquids.  He gives you a brief smile before
+moving on to the next injured person.  Even as a medic, he looks to be a
+capable fighter.  
+~
+unique~
+AB 0 1000 1
+60 50 31d32+3015 60d10+100 6d10+30 none
+0 0 0 0 0
+A
+3 -3 -3 -3
+0 0 0 0
+stand stand male 40
+0 0 medium 'flesh'
+#12008
+recruit soldier arafellin~
+an {rAr{Ra{Wfel{Rl{rin {DRe{wcru{Dit{x~
+An {rAr{Ra{Wfel{Rl{rin {DRe{wcru{Dit{x is here, going about his duties.
+~
+Dressed in considerably less armor, and obviously less deadly then the
+normal soldiers, these recruits still are capable warriors.  They move
+swiftly from place to place, doing several duties, including training.  
+~
+unique~
+AT 0 0 0
+40 30 21d21+1410 40d10+100 5d8+20 slash
+0 0 0 0 0
+A
+1 -1 -1 -1
+0 P 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#12009
+cook man~
+a fat {rAr{Ra{Wfel{Rl{rin {Wcook{x~
+A fat {rAr{Ra{Wfel{Rl{rin {Wcook{x stands here, cooking and preparing food for the soldiers.
+~
+The cooks hustle about the kitchen, quickly preparing food to be sent up
+to the cafeteria.  As fat as they are, they work quickly, producing
+wonderful smells of cooked meats, warm bread, and fresh vegetables and
+fruits.  
+~
+unique~
+AB 0 1000 1
+30 20 16d17+833 30d10+100 5d6+15 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#12010
+recruit arafel~
+an {rAr{Ra{Wfel{Rl{rin {DRe{wcru{Dit{x~
+An {rAr{Ra{Wfel{Rl{rin {DRe{wcru{Dit{x is here, going about his duties
+~
+Dressed in considerably less armor, and obviously less deadly then the
+normal soldiers, these recruits still are capable warriors.  They move
+swiftly from place to place, doing several duties, including training.  
+~
+unique~
+AB 0 0 0
+30 0 16d17+833 30d10+100 5d6+15 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#12011
+man male arafellin~
+an {rAr{Ra{Wfel{Rl{rin{x man~
+An Arafellin man, walking along the road.
+~
+A Arafellin man walks along the road, going about his buisness.  Years of
+living right next to the blight has hardened his face, and even though he's
+not a soldier, he looks strong and very able to fight if it becomes
+necessary.  
+~
+unique~
+A 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#12012
+arafellin woman female~
+an {rAr{Ra{Wfel{Rl{rin{x woman~
+An Arafellin woman walks along the road, going about her daily business.
+~
+A Arafellin woman walks along the road, going about her daily buisness. 
+Like the men, living near the border has hardened her to the point that she
+could hold herself up in a fight.  
+~
+unique~
+A 0 0 0
+38 28 20d21+1444 38d10+100 4d12+19 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#12013
+arafellin child~
+an {rAr{Ra{Wfel{Rl{rin{x child~
+An Arafellin child runs through the streets.
+~
+Like all the children, this small child seems unaware of the hell that
+lies just to the north.  The child runs happily through the street, passing
+by you without a glance, and doesn't seem to have a care in the world.  
+~
+unique~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#12014
+armorsmith man~
+an {rAr{Ra{Wfel{Rl{rin{x armorsmith~
+An {rAr{Ra{Wfel{Rl{rin{x armorsmith pounds away at some chain links.
+~
+Large muscles and an enormous hammer marks this man as a blacksmith of
+sorts.  He pounds away at different armors, producing them for travellers
+who pass by.  
+~
+unique~
+A 0 0 0
+80 0 41d42+5220 80d10+100 8d10+40 none
+0 0 0 0 0
+A
+5 0 0 0
+0 0 0 0
+stand stand male 200
+0 0 medium 'flesh'
+#12015
+grocer man thin~
+a thin man with a warm smile~
+A thin man with a warm smile stands behind the counter.
+~
+The local grocer is a thin man.  His warm smile seems permanent on his
+face as his hands move from one item to the next, showing off his various
+foods.  
+~
+unique~
+A 0 0 0
+80 0 41d42+5220 80d10+100 8d10+40 none
+0 0 0 0 0
+A
+5 0 0 0
+0 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#12016
+man owner~
+a middle-aged man~
+A middle-aged man with brown hair and warm eyes stands behind the counter.
+~
+A man in his middle ages stands behind the counter.  Short brown hair and
+warm but serious eyes make him a handsome man, even for his age.  He offers
+to show you his goods with a warm grin.  
+~
+unique~
+A 0 0 0
+80 0 41d42+5220 80d10+100 8d10+40 none
+0 0 0 0 0
+A
+5 0 0 0
+0 0 0 0
+stand stand male 75
+0 0 medium 'flesh'
+#12017
+innkeeper bartender man~
+the Innkeeper~
+The Innkeeper smiles at you as he cleans a glass.
+~
+A man shaped like a giant ball stands behind the counter, his cloth
+wrapped hands cleaning a glass as he directs a smile at you, then returns to
+helping his many customers.  
+~
+unique~
+AB 0 0 0
+80 0 41d42+5220 80d10+100 8d10+40 none
+0 0 0 0 0
+A
+5 0 0 0
+0 0 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#12018
+citizen drinking~
+a drinking citizen~
+A drinking citizen sits at one of the many tables, laughing with his friends.
+~
+Like everyone else in the room, this man appears to be drinking and
+laughing.  He doesn't even give you a glance as you pass by.  
+~
+unique~
+AB 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand either 25
+0 0 medium 'flesh'
+#12019
+bartender man~
+the bartender~
+A lanky man stands behind a bar counter, serving drinks.
+~
+Tall and thin, this man serves a countless number of drinks to customers
+throughout the day.  He holds a frown that shows of concentration as he
+carefully goes about his work.  
+~
+unique~
+AB 0 0 0
+70 0 36d37+4043 70d10+100 7d10+35 none
+0 0 0 0 0
+A
+4 0 0 0
+0 0 0 0
+stand stand male 150
+0 0 medium 'flesh'
+#12020
+woman waitress~
+a waitress~
+A waitress moves about, serving drinks and food.
+~
+A young woman moves from table to table, serving drinks and food.  Now
+and then one heads upstairs to serve drinks to customers in their rooms. 
+She constantly holds a forced smile after being teased by all the drunken
+men.  
+~
+unique~
+A 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand female 35
+0 0 medium 'flesh'
+#12021
+maid woman old~
+a maid~
+An old woman moves around the inn, cleaning as she goes.
+~
+An old woman, obviously not hired for her looks, moves mainly from room
+to room, cleaning up after the rooms last occupents.  Her wrinkled face
+always seems to hold a frown as she goes about her work, ignoring you.  
+~
+unique~
+AC 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#12022
+resting man~
+a resting man~
+Sitting in the rocking chair, this man enjoys his evenings rest.
+~
+~
+unique~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+sit sit male 20
+0 0 medium 'flesh'
+#12023
+woman gooseberry picking~
+a gooseberry picking woman~
+This woman stands here, picking gooseberries from their vines.
+~
+~
+unique~
+AB 0 0 0
+38 28 20d21+1444 38d10+100 4d12+19 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#12024
+little girl pigtails~
+a crying girl~
+A little girl with pigtails is sitting on the floor, crying.
+~
+~
+unique~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#12025
+cat black small~
+a purring {Dcat{x~
+A small {Dblack{x cat is stretched out on the rug, purring.
+~
+~
+cat~
+AB J 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 small 'flesh'
+F aff Z
+#12026
+hairy spider~
+a hairy {Dsp{ri{Dder{x~
+A large, hairy {Dsp{ri{Dder{x is resting in its {Dw{We{Db{x.
+~
+~
+unique~
+AF 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 none
+0 0 0 0 0
+A
+4 4 4 4
+U 0 0 0
+stand stand either 0
+BP CDKV medium 'flesh'
+#12027
+man blacksmith~
+a blacksmith~
+Standing at the billows, this man is busy at work.
+~
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 350
+0 0 medium 'flesh'
+#12028
+soldier off duty off-duty offduty~
+an off-duty {gs{Go{Wldi{Ge{gr{x~
+An off-duty {gs{Go{Wldi{Ge{gr{x is here, drinking with his friends.
+~
+~
+unique~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+U 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#12029
+auburn young woman bird watcher~
+a bird {mw{Ma{Wtch{Me{mr{x~
+An auburn-haired young woman sits beneath a tree.
+~
+A young woman with long auburn locks is sitting beneath the tree, her
+eyes watching the antics of the playful birds nearby.  A small parcel rests
+on the ground beside her from which she tosses seed to the ground before
+her.  
+~
+unique~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+W 0 0 0
+stand stand female 350
+0 0 medium 'flesh'
+#12030
+blue bird~
+a {bbl{Bu{We b{Bir{bd{x~
+Pecking at the ground, this {bbl{Bu{We b{Bir{bd{x is happily eating seeds.
+~
+~
+song bird~
+ABC 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#12031
+peddler short chubby man~
+a {mp{De{mddl{De{mr{x~
+A short, chubby man stands here by a cart, selling his wares.
+~
+~
+saldaean~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#12032
+recruit disgruntled kitchen~
+a disgruntled recruit~
+A Recruit doing Kitchen Duty is here, serving meals.
+~
+~
+unique~
+AB 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#12033
+starving soldier~
+a {Dst{wa{Wrv{wi{Dng{x soldier~
+A {Dst{wa{Wrv{wi{Dng{x soldier is here, stuffing his face.
+~
+~
+unique~
+ABT 0 0 0
+83 73 42d42+6889 83d10+100 9d12+41 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand either 250
+0 0 medium 'flesh'
+#12034
+prison guard~
+a prison guard~
+A prison guard stands here at full attention.
+~
+~
+unique~
+ABT 0 0 0
+87 77 44d44+7569 87d10+100 9d16+43 none
+0 0 0 0 0
+A
+5 5 5 5
+U 0 E BR
+stand stand either 200
+0 0 medium 'flesh'
+#12035
+prison guard~
+a prison guard~
+Striding along the path between the cells, this man guards the prisoners.
+~
+~
+unique~
+AT 0 0 0
+83 73 42d42+6889 83d10+100 9d12+41 none
+0 0 0 0 0
+A
+5 5 5 5
+FI 0 0 0
+stand stand male 200
+0 0 medium 'flesh'
+#12036
+lonely man prisoner~
+a prisoner~
+This lonely man paces his cell, repenting his sins.
+~
+Tall and thin, this man was probably once an attractive one.  His blonde
+hair is greasy and unwashed, the braids that once adorned his head are now
+matts.  A set of gray-blue eye dart about him, yet seem to see nothing.  As
+he paces his cell, he mutters to himself repeatedly, "{cI lost it, I'm so
+{csorry I lost it Chaeli!  {x" He paces more then stops at the wall and beats
+his fist against it as he mutters, "{cShe'll never forgive me...  {x" 
+~
+unique~
+A X 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+C 0 0 BR
+stand stand male 0
+0 0 medium 'flesh'
+#12037
+sweat sweating soldier~
+a sweating soldier~
+This soldier is here, working up a sweat.
+~
+~
+unique~
+AB 0 0 0
+68 58 35d36+4624 68d10+100 7d15+34 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand either 150
+0 0 medium 'flesh'
+#12038
+elite guardsman guard~
+an elite {rg{Rua{Wrds{Rma{rn{x~
+A {rg{Rua{Wrds{Rma{rn{x with two swords crossed over his back is here.
+~
+~
+unique~
+ABT 0 0 0
+99 89 50d50+9801 99d10+100 10d19+49 none
+0 0 0 0 0
+A
+6 6 6 6
+EK 0 EF BR
+stand stand male 350
+0 0 medium 'flesh'
+#12039
+royal honor guard honorguard~
+a royal {bh{Bon{Do{Wrg{Du{Bar{bd{x~
+A royal {bh{Bon{Do{Wrg{Du{Bar{bd{x stands here, ever so vigilant.
+~
+Adorned with beautifully decorated armor and weaponry this man stands
+proudly erect and ready.  The visor of his elaborate winged helmet is risen
+and reveals a stern face and eyes that are as vigilant as those of a hawk
+scouting for a prey.  
+~
+andoran~
+A 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKNUW 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#12050
+middle aged man~
+a middle-aged man~
+A middle-aged man leans on his staff for support. 
+~
+Though coming on in years this man walks with an air of importance,
+despite leaning on his staff for assistance.  Hair once {Dblack{x is now greying
+as is the beard that is neatly trimmed along his jaw and around his mouth,
+the hair beneath his nose is shaped into a curly mustache that he often
+strokes in thought.  His clothing is simple but rich looking, a {Wwhite{x silk
+shirt with full-sleeves is tucked into a pair of {ybrown{x leather breeches
+while buttoned up over both is a leather {yv{Des{yt{x.  A cloak of rich {bblue{x is
+draped over all and clasped at his neck with an ornate {yg{Yol{yd{x star.  
+~
+andoran~
+A 0 0 0
+88 78 45d46+7744 88d10+100 9d17+44 headbutt
+0 0 0 0 0
+A
+5 5 5 5
+CFIJKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#12070
+young woman~
+a young woman~
+A young woman sporting for a duel is here.
+~
+Stormy grey eyes, an obviously broken nose, thin bloodless lips, and a
+square jaw are framed by a mass of curly reddish brown hair.  Her snug
+bodice accentuates her curves, while her dark skirt is offset by many
+brightly colored petticoats.  She fingers the hilt of her daggers as she
+glares at everyone passing by.  
+~
+andoran~
+A 0 0 0
+97 87 49d49+9409 97d10+100 10d17+48 crush
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#12000
+shield arafellin~
+an {rAr{Ra{Wfel{Rl{rin {wgua{Drds{xman's shield~
+An {rAr{Ra{Wfel{Rl{rin {wgua{Drds{xman's shield lays here, waiting for a new owner.~
+steel~
+armor 0 AJ
+20 20 20 10 0
+70 20 300 100
+#12001
+armor rack~
+a {ywooden{x {Dar{wm{Dor{x rack~
+A {ywooden {Dar{wm{Dor{x rack rests here.~
+wood~
+container Sa P
+1000 0 0 100 100
+1 1000 1000 100
+E
+rack~
+A large {ywooden{x rack stands in the center of the room, holding several
+suits of {BSh{Di{wena{Dr{Ban{x {wc{Dhai{wn{x and {Dst{wee{Dl{x mail.  They seem well {Wpolished{x and
+rather clean.  
+~
+#12002
+arafellin armor plate mail~
+an {rAr{Ra{Wfel{Rl{rin {wgua{Drds{xman's plate mail~
+An {rAr{Ra{Wfel{Rl{rin {wgua{Drds{xman's plate mail lays here, waiting for a new owner.~
+steel~
+armor 0 AD
+20 20 20 10 0
+70 30 500 100
+#12003
+weapons rack~
+a {ywooden{x {Dwe{wapo{Dns{x rack~
+A {ywooden {Dwe{wapo{Dns{x rack rests here.~
+wood~
+container Sa P
+1000 0 0 1000 100
+0 1000 0 100
+E
+rack~
+A large, circular, {ywooden{x rack over all the others in the room.  Standing
+in the center, it extends to the ceiling, holding a large assortment of
+{Wshining{x {Dst{wee{Dl{x weapons.  
+~
+E
+rack~
+~
+#12004
+arafellin longsword~
+an {rAr{Ra{Wfel{Rl{rin {wgua{Drds{xman's {wlon{Dgsw{word{x~
+An {rAr{Ra{Wfel{Rl{rin {wgua{Drds{xman's {wlon{Dgsw{word{x lays here, waiting for a new owner.~
+steel~
+weapon 0 AN
+sword 10 5 'slash' 0
+70 15 300 100
+#12005
+bunk bunks bed~
+a row of {rAr{Ra{Wfel{Rl{rin{x soldier's bunks~
+A row of {rAr{Ra{Wfel{Rl{rin{x soldier's bunks are planted firmly to the floor.~
+cloth~
+furniture 0 0
+10 2000 EHK 125 125
+0 0 0 100
+#12006
+wooden sword~
+a {ywooden{x practice sword~
+A {ywooden{x practice sword lies here, unused.~
+wood~
+weapon S AN
+sword 3 8 'slash' 0
+20 1 50 100
+A
+19 4
+#12007
+weapon weapons rack~
+a {ywooden{x practice sword rack~
+A {ywooden{x practice sword rack stands here, holding weapons for those to be trained.~
+wood~
+container S P
+1000 0 0 1000 100
+0 10 0 100
+#12008
+counter~
+a large {ywooden{x counter~
+A large {ywooden{x counter spans the room, holding several delicious meals.~
+wood~
+container S P
+0 0 0 2000 100
+1 0 0 100
+#12009
+table tables~
+rows of {ywooden{x tables~
+Rows of {ywooden{x tables cover the room, with many soldiers eating at them.~
+wood~
+furniture S P
+10 10000 DG 120 125
+0 0 0 100
+#12010
+wooden desk~
+a large {ywooden{x desk~
+A large {ywooden{x desk sits in the center of the room.~
+wood~
+container S P
+100 A 0 1000 100
+0 0 0 100
+#12011
+padded chair~
+a {Dblack{x, padded {ywooden{x chair~
+A {Dblack{x, padded {ywooden{x chair sits behind the desk.~
+wood and padding~
+furniture S P
+1 1000 FIL 125 125
+0 0 0 100
+#12012
+chairs chair~
+a {ywooden{x chair~
+Several {ywooden{x chairs surround the desk for those summoned to the office.~
+wood~
+furniture S P
+5 4000 EHK 100 100
+0 0 0 100
+#12013
+bunks bunk padded~
+a comfortable bunk~
+Several {Wcomfortable{x, padded bunks line the walls of the room.~
+cloth padding~
+furniture S P
+10 10000 EHK 200 200
+0 0 0 100
+#12014
+cabinets cabinet~
+a large {Wwo{yod{Wen{x cabinet~
+A large {Wwo{yod{Wen{x cabinet is here.~
+wood~
+container Sa P
+100 AC 0 2000 100
+0 0 0 100
+E
+cabinet~
+A {Wwhite{x cabinet filled herbs seems of some interest.  The doctors
+continue to take herbs from it, mixing them in small containers and feeding
+them or applying them to their patients.  
+~
+#12015
+berries herb herbs berry~
+a handfull of {Rberries{x~
+A handfull of {Rberries{x lies here, waiting to be used.~
+fruit~
+pill S A
+20 'heal' '' '' ''
+1 0 15 100
+#12016
+benches bench wooden~
+a long {ywooden{x bench~
+Long {ywooden{x benches form rows on each side of the path.~
+wood~
+furniture S P
+30 20000 EHK 100 100
+0 0 0 100
+#12017
+wooden stand~
+a {ywooden{x stand~
+A {ywooden{x stand towers over the benches, allowing clear sight of the speaker.~
+wood~
+container S P
+1000 E 0 1000 10
+0 0 0 100
+#12018
+full-helm full helm helmet~
+an {rAr{Ra{Wfel{Rl{rin {Dst{wee{Dl{x full helm~
+An {rAr{Ra{Wfel{Rl{rin {Dst{wee{Dl{x full helm lays here, waiting for a new owner.~
+steel~
+armor 0 AE
+20 20 10 20 0
+70 10 100 100
+#12019
+leg plates~
+a pair of {rAr{Ra{Wfel{Rl{rin{x leg plates~
+A pair of {rAr{Ra{Wfel{Rl{rin{x leg plates lay here, waiting for a new owner.~
+steel~
+armor 0 AF
+10 20 20 20 0
+70 15 200 100
+#12020
+boots~
+{Dst{wee{Dl {rAr{Ra{Wfel{Rl{rin{x boots~
+{DSt{wee{Dl {rAr{Ra{Wfel{Rl{rin{x boots lay here, waiting for a new owner.~
+steel~
+armor 0 AG
+20 20 10 20 0
+70 10 150 100
+#12021
+gauntlets steel~
+{Dst{wee{Dl {rAr{Ra{Wfel{Rl{rin{x gauntlets~
+{DSt{wee{Dl {rAr{Ra{Wfel{Rl{rin{x gauntlets lay here, waiting for a new owner.~
+steel~
+armor 0 AH
+20 20 10 20 0
+70 5 100 100
+#12022
+cloak leather~
+a long, {yle{Dath{yer {rAr{Ra{Wfel{Rl{rin{x cloak~
+A long, {yle{Dath{yer {rAr{Ra{Wfel{Rl{rin{x cloak lays here, waiting for a new owner.~
+leather~
+armor S AK
+20 20 20 20 0
+80 10 400 100
+#12023
+arm plates arms~
+a pair of {rAr{Ra{Wfel{Rl{rin{x arm plates~
+A pair of {rAr{Ra{Wfel{Rl{rin{x arm plates lay here, waiting for a new owner.~
+steel~
+armor 0 AI
+20 20 20 10 0
+70 15 200 100
+#12024
+meat~
+an assortment of sliced {Rm{re{Ra{rt{Rs{x~
+An assortment of sliced {Rm{re{Ra{rt{Rs{x lay here, waiting to be eaten.~
+chicken beef~
+food S A
+10 5 0 0 0
+1 1 20 100
+#12025
+fruit fruits~
+an assortment of fresh {Yfr{yui{Yts{x~
+An assortment of fresh {Yfr{yui{Yts{x lies here, waiting to be eaten.~
+cloth~
+food S A
+5 5 0 0 0
+1 1 5 100
+#12026
+bread~
+a loaf of sliced {ybread{x~
+A loaf of sliced {ybread{x lays here, waiting to be eaten.~
+cloth~
+food S A
+3 3 0 0 0
+1 0 3 100
+#12027
+vegetables~
+a sack of {Rs{rp{Ri{rc{Re{rd {Gv{ge{Gg{ge{Gt{ga{Gb{gl{Ge{gs{x~
+A sack of {Rs{rp{Ri{rc{Re{rd {Gv{ge{Gg{ge{Gt{ga{Gb{gl{Ge{gs{x rests here, waiting to be eaten.~
+cloth~
+food S A
+5 5 0 0 0
+1 2 10 100
+#12028
+fountain stone~
+a small {Ds{wt{Do{wn{De{x fountain~
+A small {Ds{wt{Do{wn{De{x fountain pours water out of several openings.~
+stone water~
+fountain S P
+-1 -1 'water' 0 0
+0 100 0 100
+#12029
+shirt white~
+a {Wwhite{x shirt~
+A {Wwhite{x shirt lies on the ground.~
+cloth~
+armor S AD
+10 10 5 5 0
+30 2 30 100
+#12030
+breeches leather~
+a pair of {yle{Dath{yer{x breeches~
+A pair of {yle{Dath{yer{x breeches are here.~
+cloth~
+armor S AF
+10 10 5 5 0
+30 2 20 100
+#12031
+leather boots~
+a pair of {yle{Dath{yer{x boots~
+A pair of {yle{Dath{yer{x boots lies here.~
+leather~
+armor S AG
+10 10 5 5 0
+30 2 30 100
+#12032
+dress blue~
+a long {Bblue{x dress~
+A long {Bblue{x dress lies here.~
+cloth~
+armor S AD
+10 10 5 5 0
+30 2 0 100
+#12033
+blue shoes~
+{Bblue {yle{Dath{yer{x shoes~
+{BBlue {yle{Dath{yer{x shoes lie here.~
+cloth~
+armor S AG
+10 10 5 5 0
+30 2 20 100
+#12034
+small shirt~
+a child's {Dblack{x shirt~
+A child's {Dblack{x shirt lies here.~
+cloth~
+armor S AD
+2 2 2 4 0
+10 0 0 100
+#12035
+small child's breeches~
+a child's {yle{Dath{yer{x breeches~
+A child's {yle{Dath{yer{x breeches lie here.~
+cloth~
+armor S AF
+2 2 2 4 0
+10 2 10 100
+#12036
+child's shoes~
+a child's {yle{Dath{yer{x shoes~
+A child's {yle{Dath{yer{x shoes lie here.~
+leather~
+armor S AG
+2 2 2 4 0
+10 1 10 100
+#12037
+dress white~
+a {Wwhite{x dress~
+A {Wwhite{x dress lies here.~
+cloth~
+armor S AD
+2 2 2 4 0
+10 5 0 100
+#12038
+toy chest~
+a small {mto{My c{Wh{Mes{mt{x~
+A small {mto{My c{Wh{Mes{mt{x covered with stuffed animals.~
+wood~
+container S P
+10 AC 0 1000 100
+0 0 0 100
+#12039
+bed~
+a tiny {Wb{Me{Wd{x~
+A tiny {Wb{Me{Wd{x covered with a {Mp{Wi{Mnk{x quilt.~
+wood~
+furniture S P
+1 1000 EHK 175 175
+0 0 0 100
+#12040
+tattered doll~
+a {Yt{Wa{Gt{Cte{Gr{We{Yd{x doll~
+A {Yt{Wa{Gt{Cte{Gr{We{Yd{x doll with a missing eye has been left here.~
+cloth~
+treasure S AO
+0 0 0 0 0
+0 1 5 100
+#12041
+bed~
+a large {yw{Doo{yd{De{yn{x bed~
+A large {yw{Doo{yd{De{yn{x bed covered with a worn blanket.~
+wood~
+furniture S P
+2 5000 EHK 110 110
+0 0 0 100
+#12042
+rocking chair~
+a {yr{Do{yck{Di{yng{x chair~
+A {yr{Do{yck{Di{yng{x chair creaks as it moves.~
+wood~
+furniture S P
+1 1000 EH 105 105
+0 0 0 100
+#12043
+iron stove~
+an old {Dir{wo{Dn{x stove~
+An old {Dir{wo{Dn{x stove is here, giving warmth to the room.~
+iron~
+container 0 P
+10 AC 0 100 100
+0 0 0 100
+#12044
+gooseberry pie~
+a {Mg{Woo{Ms{We{Mb{We{Mrry{x pie~
+A {Mg{Woo{Ms{We{Mb{We{Mrry{x pie is here, steaming up the room.~
+berries~
+food S AO
+5 5 0 0 0
+10 1 15 100
+#12045
+loaf bread~
+a loaf of warm {ybr{wea{yd{x~
+A loaf of warm {ybr{wea{yd{x has been placed here to cool.~
+yeast~
+food S AO
+5 5 0 0 0
+10 1 15 100
+#12046
+kitchen cupboard~
+a kitchen cupboard~
+A kitchen cupboard is built into the wall here.~
+cloth~
+container Sa P
+10 AC 0 100 100
+0 0 0 100
+#12047
+turkey baster~
+a turkey {Yb{Wa{Yst{We{Yr{x~
+A turkey {Yb{Wa{Yst{We{Yr{x has been left here.~
+cloth~
+weapon S AN
+dagger 6 11 'none' H
+50 1 250 100
+A
+19 4
+#12048
+bed canopy~
+a small canopy bed~
+A small canopy bed covered with silken cobwebs.~
+cloth~
+furniture S P
+1 1000 EHK 80 80
+0 0 0 100
+#12049
+oaken desk~
+a dust covered desk~
+A large, oaken desk with a thick covering of dust.~
+oak~
+container S P
+1000 AC 0 1000 100
+0 0 0 100
+#12050
+bookcase~
+a large bookcase~
+A large bookcase stands against the wall to the west.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+bookcase~
+A large bookcase stands firmly against the wall to the west, many old,
+dust covered volumes line its shelves.  Oddly, a cool breeze can be felt
+from around the bookcase.  
+~
+#12051
+pile bones~
+a pile of {Wbones{x~
+A pile of {Wbones{x rest in a corner of the room.~
+cloth~
+container S P
+1 0 0 100 100
+0 0 0 100
+#12052
+femur bone~
+a femur {Wbone{x~
+The {Wfemur{x bone of a small child.~
+cloth~
+weapon S AN
+mace 4 9 'none' 0
+34 2 140 100
+A
+19 8
+#12053
+double headed axe~
+a double headed {Da{rx{De{x~
+A double headed {Da{rx{De{x has been left here.~
+steel~
+weapon 0 AN
+axe 8 13 'none' D
+70 5 250 100
+A
+19 4
+#12054
+longsword~
+a steel {Dl{ro{Dngsw{ro{Drd{x~
+A steel {Dl{ro{Dngsw{ro{Drd{x has been left here.~
+steel~
+weapon 0 AN
+sword 8 13 'none' D
+70 4 200 100
+A
+19 4
+#12055
+chain mail~
+{Dch{rai{Dn{x mail~
+A set of {Dch{rai{Dn{x mail has been placed here.~
+steel~
+armor 0 AD
+30 10 20 10 0
+70 5 350 100
+#12056
+suit plate mail~
+a suit of {Dpl{ra{Dte{x mail~
+A suit of {Dpl{ra{Dte{x mail is resting against the wall.~
+steel~
+armor 0 AD
+10 20 15 5 0
+50 8 450 100
+#12057
+loaf garlic bread food~
+a loaf of garlic bread~
+A steaming loaf of garlic bread is here.~
+cloth~
+food S A
+4 4 0 0 0
+10 1 25 100
+#12058
+head cabbage~
+a head of cabbage~
+A head of cabbage is here.~
+cloth~
+food S A
+3 3 0 0 0
+10 1 10 100
+#12059
+slab beef food~
+a slab of beef~
+A slab of beef hangs from the ceiling.~
+cloth~
+food S A
+8 8 0 0 0
+10 1 45 100
+#12060
+waterproof cow cows stomach canteen~
+a cows {yst{Wo{ym{Wa{ych{x~
+A {cwa{Cte{Wrp{Cro{cof{x cows stomach has been left here.~
+stomach~
+drink S A
+1000 1000 'water' 0 0
+50 1 350 100
+#12061
+leather satchel~
+a {Dl{yea{Dth{ye{Dr{x satchel~
+A small {Dl{yea{Dth{ye{Dr{x satchel has been left here.~
+leather~
+container S A
+1 0 0 100 80
+35 1 150 100
+#12062
+sturdy backpack leather pack~
+a sturdy {rb{ya{Yckp{ya{rck{x~
+A sturdy {rb{ya{Yckp{ya{rck{x of leather is sitting here.~
+leather~
+container S AS
+30 AC 0 500 50
+50 3 350 100
+#12063
+hanging lantern~
+a hanging {yl{Ya{Wnte{Yr{yn{x~
+A small, hanging {yl{Ya{Wnte{Yr{yn{x is resting here.~
+cloth~
+light 0 AO
+0 0 1000 0 0
+35 1 100 100
+#12064
+cold mug ale~
+a mug of {ya{rl{ye{x~
+A cold mug of {ya{rl{ye{x is leaving a ring on the table.~
+glass~
+drink S AO
+3 3 'ale' 0 0
+35 1 50 100
+#12065
+rack~
+a {ywooden {Dsh{wie{Dld{x rack~
+A {ywooden {Dsh{wie{Dld{x rack is here.~
+wood~
+container Sa P
+1000 0 0 1000 100
+0 1000 0 100
+E
+rack~
+A large {ywooden{x shield rack rests in the center of the room, holding
+several large {Dsh{wiel{Dds{x.  They all look newly made, and gleam brightly. 
+{DRec{wru{Dits{x enter to polish and clean them now and then, but other then that
+they remain untouched.  
+~
+E
+rack~
+~
+#12066
+sniffer brandy~
+a sniffer of {ybr{ra{yndy{x~
+A sniffer of {ybr{ra{yndy{x is here, waiting to be drunk.~
+glass~
+drink S AO
+2 2 'brandy' 0 0
+40 1 60 100
+#12067
+mug chipped rum~
+a mug of {yr{Wu{ym{x~
+A chipped mug, filled with {yr{Wu{ym{x.~
+glass~
+drink S AO
+3 3 'rum' 0 0
+45 1 70 100
+#12068
+bubbling brooke~
+a {cb{Cub{Wbl{Cin{cg{x brooke~
+A {cb{Cub{Wbl{Cin{cg{x brooke meanders along the ground.~
+cloth~
+fountain S P
+100000 100000 'water' 0 0
+0 0 0 100
+#12069
+wagon~
+a peddler's {yw{Ya{yg{Yo{yn{x~
+A large {yw{Ya{yg{Yo{yn{x has been left here, laden with goods for sale.~
+wood~
+container S P
+100 F 0 50000 100
+0 0 0 100
+#12070
+book story~
+A {Bst{Wo{Bry{x book~
+A leatherbound {Bst{Wo{Bry{x book has been left here.~
+leather~
+treasure S AO
+0 0 0 0 0
+1 1 75 100
+E
+book~
+This book is bound with finely crafted leather, and filled with paper. 
+It contains several childrens stories.  
+~
+#12071
+clock~
+a {Wcl{Do{Wck{x~
+A rounded piece of wood with a {Wcl{Do{Wck{x as a centerpiece rests here.~
+wood~
+jewelry S AO
+0 0 0 0 0
+10 1 1000 100
+#12072
+wrought iron skillet~
+a {Dsk{wi{Dll{we{Dt{x~
+A wrought iron {Dsk{wi{Dll{we{Dt{x is hanging here.~
+iron~
+weapon 0 AN
+mace 4 9 'none' 0
+30 2 350 100
+A
+19 4
+#12073
+calligraphy pen~
+a {Wc{Da{Wll{Di{Wgr{Da{Wphy{x pen~
+A {Wc{Da{Wll{Di{Wgr{Da{Wphy{x pen is smeared with ink.~
+wood~
+weapon S A
+dagger 9 14 'none' D
+80 1 500 100
+A
+19 4
+#12074
+stone slab~
+a straw covered slab~
+A small stone slab covered with soiled straw.~
+cloth~
+furniture S P
+1 5000 EHK 70 70
+0 0 0 100
+#12075
+soiled pile straw~
+a {ys{woi{yled{x pile of straw~
+A {ys{woi{yled{x pile of straw.~
+cloth~
+container Sa P
+1 0 0 500 100
+0 0 0 100
+#12076
+emerald amethyst ring~
+an {ge{Gme{Wr{Gal{gd{x and {ma{Mme{Wth{Mys{mt{x ring~
+Two {ge{Gme{Wr{Gal{gds{x surrounded by {ma{Mme{Wth{Mys{mts{x adorn this {ygo{Ylde{Wn r{Yin{yg{x.~
+gold~
+armor I AB
+10 10 10 40 0
+70 1 500 100
+#12077
+winged helmet~
+a {bwi{Bng{bed {Dh{we{Wlm{we{Dt{x~
+A {bwi{Bng{bed {Dh{we{Wlm{we{Dt{x has been dropped here.~
+metal~
+armor 0 AE
+30 30 30 0 0
+90 4 100 100
+A
+17 -6
+A
+1 2
+A
+5 2
+A
+2 2
+#12078
+breast plate breastplate~
+a thick {bb{Bre{Das{wt{Dpl{Bat{be{x~
+A thick {bb{Bre{Das{wt{Dpl{Bat{be{x has been dropped here.~
+metal~
+armor 0 AD
+30 30 30 0 0
+90 8 100 100
+A
+17 -12
+A
+1 3
+#12079
+halberd~
+a {Dh{wal{Wb{wer{Dd{x~
+A {Dh{wal{Wb{wer{Dd{x has been dropped here.~
+metal~
+weapon 0 AN
+polearm 10 15 'slash' F
+90 4 100 100
+A
+18 4
+A
+19 4
+#12080
+shield sturdy~
+a sturdy {Bsh{Di{we{Dl{Bd{x~
+A sturdy {Bsh{Di{we{Dl{Bd{x has been dropped here.~
+metal~
+armor 0 AJ
+30 20 30 10 0
+90 8 100 100
+A
+1 3
+#12081
+old rickety key~
+an old, {yr{wi{yck{we{yty{x key~
+An old, {yr{wi{yck{we{yty{x key has been left here.~
+cloth~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#12082
+spider web~
+{Da large, sticky sp{Wi{Dd{We{Dr w{We{Db{x~
+{DA large, sticky sp{Wi{Dd{We{Dr w{We{Db covers the west wall.{x~
+spider silk~
+container 0 0
+1 0 0 10 100
+0 1 0 100
+#12083
+bed~
+a {yf{rou{yr{D-{yp{ro{yst{re{yr b{re{yd{x with a {cfl{Co{Ww{Ci{cng c{Ca{Wno{Cp{cy{x~
+A large,{yf{rou{yr{D-{yp{ro{yst{re{yr b{re{yd{x with a {cfl{Co{Ww{Ci{cng c{Ca{Wno{Cp{cy{x rests atop a thick woolen carpet.~
+cloth~
+furniture 0 0
+4 999999 BEHK 130 140
+0 0 0 100
+#12084
+roll top desk~
+a {yr{ro{yll t{ro{yp d{re{ysk{x of a {rd{Ra{rrk ch{Re{rrry w{Roo{rd{x~
+A {yr{ro{yll t{ro{yp d{re{ysk{x of a {rd{Ra{rrk ch{Re{rrry w{Roo{rd{x rests atop a thick woolen carpet.~
+cherry wood~
+container 0 0
+5 AC 0 15 100
+0 5 0 100
+#12085
+parchment~
+a single sheet of rolled up {Wparchment{x ~
+A single sheet of {Wparchment{x rolled up and sealed with a {Wwhite{x rose on {rred{x wax.~
+paper~
+treasure 0 A
+0 0 0 0 0
+0 1 0 100
+#0
+
+
+
+#ROOMS
+#12000
+A Dirt Path~
+A quaint road twists through a thin {gfo{yr{gest{x, winding down towards a small
+village that rests a little low in the landscape.  The area is filled with a
+gentle, calming {Wch{Ci{Wll{x that is common in lands so far north.  The sounds of
+various creatures are heard rather easily, from the soft {Yme{rlo{Ydy{x of various
+chirping, to the {Dmo{wnoto{Dne{x sound of many insects.  The village appears rather
+small in size, yet it is surrounded by strong walls, with a few towers meant
+solely for defense.  In the far distance, the {Dsil{whoue{Dtte{x of a tall border
+tower can be seen looming over the landscape, vigilantly surveying the
+{YBl{yig{Yht{x for even the most minuscule of changes.  
+~
+0
+0 15
+E
+wall~
+While not massive, the walls of this village are very strong and large
+for such a quaint town.  A few towers stand at the corners, constructed
+solely for defense.  This is far from surprising, though, for a village so
+close to danger...  
+~
+E
+walls~
+While not massive, the walls of this village are very strong and large
+for such a quaint town.  A few towers stand at the corners, constructed
+solely for defense.  This is far from surprising, though, for a village so
+close to danger...  
+~
+E
+insects~
+The soft buzz of insects is rather constant, as to be expected.  While
+not nearly as beautiful as the songs of birds, it does add to the calm feel
+of the forest.  
+~
+E
+monotone~
+The soft buzz of insects is rather constant, as to be expected.  While
+not nearly as beautiful as the songs of birds, it does add to the calm feel
+of the forest.  
+~
+E
+chirping~
+A beautiful melody adds a relaxing feel to the forest, freely given by
+the various birds who sing out into the crisp northern air.  
+~
+E
+trees~
+While the trees are of varying heights, they all have a few similar
+qualities.  All have low branches, which tend to be very thick and able to
+support a lot of weight.  Many house the various creatures of the forest.  
+~
+E
+forest~
+The forest is made up of sparse, hardy {gtr{yee{gs{x, that hold well in the cold
+weather.  All have branches that start low to the ground, and are very thick
+to support the weight of large snow.  Soft sounds echo through the forest,
+and small animals occasionally run past from tree to tree.  
+~
+E
+tree~
+While the trees are of varying heights, they all have a few similar
+qualities.  All have low branches, which tend to be very thick and able to
+support a lot of weight.  Many house the various creatures of the forest.  
+~
+E
+blight~
+The Blight really can't be seen well from here.  Only slight variations
+in the landscape can really be made out on the horizon.  If one were closer,
+and higher, then perhaps they could be seen better..  
+~
+E
+silhouette~
+Only the silhouette of the Tower can be seen from here, as it lies far
+north of the border village.  The towers vigilantly survey the Blight,
+watching for any sign of the Trolloc Hordes, and have been a great help to
+Borderguard for many years.  
+~
+E
+tower~
+Only the silhouette of the Tower can be seen from here, as it lies far
+north of the border village.  The towers vigilantly survey the Blight,
+watching for any sign of the Trolloc Hordes, and have been a great help to
+Borderguard for many years.  
+~
+E
+chill~
+An almost constant breeze adds a sharp chill to the sparse forest, as is
+to be expected this far north.  In the winter months, this chill can be
+incredibly harsh, and hard on those not used to northern weather.  
+~
+E
+melody~
+A beautiful melody adds a relaxing feel to the forest, freely given by
+the various birds who sing out into the crisp northern air.  
+~
+E
+birds~
+A beautiful melody adds a relaxing feel to the forest, freely given by
+the various birds who sing out into the crisp northern air.  
+~
+D0
+~
+~
+0 0
+0 0 12001
+D8
+~
+~
+0 0
+0 0 42192
+S
+#12001
+A Dirt Path~
+The {ypath{x widens a little as it nears the {yvi{Ylla{yge{x, and the sparse {gfo{yre{gst{x
+thins to a few solitary trees that dot the landscape.  The soft {Cmu{Ws{Cic{x of the
+forest begin to dissipate as the more human {Yme{rlo{Ydy{x of a small village begins
+to overtake them.  Still, the voice of the {yvi{Ylla{yge{x is quiet, consisting
+mainly of horses hooves, the occasional shout, and the hammering of {Dm{weta{Dl{x. 
+While the village can be seen more clearly, the view of the border tower is
+somewhat hindered by it's {Dw{wall{Ds{x, and is still little more than a {Dsh{wad{Dow{x.  
+~
+0
+0 2
+E
+path~
+The path begins to widen as it nears the village, suggesting greater use.
+A few persistent weeds grow in various spots upon the road, though otherwise
+it seems to be kept rather clear.  
+~
+E
+village~
+The village is only a short distance away, and can be seen rather
+clearly.  Large protective walls surround it, which from behind come the
+soft sounds of town life.  The path leads up to it's small, yet strong
+gates, changing rather quickly into a stone road.  
+~
+E
+forest~
+The forest becomes very thin and sparse, with only a few trees dotting
+the landscape.  A few animals are still seen now and then, though it has
+become very rare.  
+~
+E
+music~
+The music of the forest has died significantly, becoming a dull hum of
+bird's chirping and a few insects.  
+~
+E
+melody~
+The small village has a soft melody streaming from behind it's walls,
+consisting mainly of horses hooves, metal pounding, and the occasional
+shout.  Otherwise, it has become rather quiet.  
+~
+E
+walls~
+The walls of this small village are quite tall, and thick, allowing for a
+walkway above them.  They are well built, with thick, carved stones, and
+strong mortar holding them together.  
+~
+E
+tower~
+Less of the Tower is visible as the village wall begins to hide it from
+view.  Even closer, it still appears as a mere shadow on the horizon.  
+~
+E
+shadow~
+Less of the Tower is visible as the village wall begins to hide it from
+view.  Even closer, it still appears as a mere shadow on the horizon.  
+~
+D0
+~
+~
+0 0
+0 0 12002
+D2
+~
+~
+0 0
+0 0 12000
+S
+#12002
+The Southern Entrance To The Border Village~
+The {ypath{x widens to fit the strong {Dg{wate{Ds{x that serve as the entrance to the
+small village.  As the hard-packed dirt meets the {Dg{wate{Ds{x, it quickly becomes
+consumed with stones, forming a stronger pathway that leads through the
+city.  To each side of the gate are pair of {Dto{wwe{Drs{x, made fully for defensive
+purposes.  The soft {Cme{Wlo{Cdy{x of the city consists of the occasional voice,
+horses hooves, and hammers, but little else.  The {Dw{wall{Ds{x of the village stand
+high, and consist of strong mortar and stone, and mostly block the view of
+the large {Dbo{wrd{Der to{ww{Der{x in the distance.  
+~
+0
+C 1
+E
+walls~
+Large walls of stone and mortar rise up from the ground, forming a strong
+barricade from any attacks made upon the village.  
+~
+E
+walls~
+~
+E
+wall~
+Large walls of stone and mortar rise up from the ground, forming a strong
+barricade from any attacks made upon the village.  
+~
+E
+tower~
+The large border tower is almost completely hidden by the gate and walls
+of the village, though it's shadow can still be seen somewhat in the far
+distance.  
+~
+E
+border~
+The large border tower is almost completely hidden by the gate and walls
+of the village, though it's shadow can still be seen somewhat in the far
+distance.  
+~
+E
+melody~
+The soft melody of village life flows from within the gates, consisting
+of the occasional shout and voice, horses hooves, and other sharp sounds. 
+Still, it seems rather peaceful.  
+~
+E
+towers~
+On each side of the gate rise two identical towers, made purely for
+defensive purposes.  Thin archer slits circle the small structures,
+surrounded by strong mortar and stone.  Near the base are sharpened, wooden
+shafts that point outwards from the tower, used mainly for intimidation.  
+~
+E
+gate~
+Large gates rise up, giving access to the city.  The steel bars and heavy
+locks provide a strong barrier for such a small village.  To the sides are
+strong stone and mortar, forming {Dto{wwe{Drs{x.  The path widens to meet the gates,
+becoming a hard stone walkway as it continues into the village.  
+~
+E
+gates~
+Large gates rise up, giving access to the city.  The steel bars and heavy
+locks provide a strong barrier for such a small village.  To the sides are
+strong stone and mortar, forming {Dto{wwe{Drs{x.  The path widens to meet the gates,
+becoming a hard stone walkway as it continues into the village.  
+~
+E
+stone~
+The path widens to fit the gate, becoming enveloped with stone as it
+enters the small village.  
+~
+E
+path~
+The path widens to fit the gate, becoming enveloped with stone as it
+enters the small village.  
+~
+D0
+~
+~
+3 3
+1 0 12124
+D2
+~
+~
+0 0
+0 0 12001
+S
+#12003
+The Border Village~
+A multitude of wide {Dst{won{Des{x form a hard {Dp{wat{Dh{x that runs north and south,
+leading to the two main {Dg{wate{Ds{x of the town.  The southern {Dg{wat{De{x can be easily
+seen close by, looming over the {Ds{wton{De{x {Dr{woa{Dd{x.  A few people roam the streets,
+though the village appears rather peaceful and quiet, with only the
+occasional shout or strong {Cso{wu{Cnd{x.  In the distance, to the north, the
+{Dsil{whoue{Dtte{x of a tall border {Dt{wowe{Dr{x can be made out upon the horizon.  
+~
+0
+0 1
+E
+stones~
+The stone pathway runs north and south, leading towards the main gates of
+the city.  Dirt is hard packed within the small slits dividing each
+individual stone, with the occasional weed shooting upwards.  
+~
+E
+path~
+The stone pathway runs north and south, leading towards the main gates of
+the city.  Dirt is hard packed within the small slits dividing each
+individual stone, with the occasional weed shooting upwards.  
+~
+E
+stone~
+The stone pathway runs north and south, leading towards the main gates of
+the city.  Dirt is hard packed within the small slits dividing each
+individual stone, with the occasional weed shooting upwards.  
+~
+E
+road~
+The stone pathway runs north and south, leading towards the main gates of
+the city.  Dirt is hard packed within the small slits dividing each
+individual stone, with the occasional weed shooting upwards.  
+~
+E
+gates~
+The gate is clearly visible, standing a very short distance to the south.
+The powerful structure is made of strong stone and mortar, formed in an arch
+shape.  
+~
+E
+gate~
+The gate is clearly visible, standing a very short distance to the south.
+The powerful structure is made of strong stone and mortar, formed in an arch
+shape.  
+~
+E
+sound~
+The quiet city has very little sound flowing through the air, and seems
+rather peaceful and quiet for a town so close to such dangers as the Blight.
+An occasional voice rises above the peace, before dying once more.  
+~
+E
+tower~
+In the distance, upon the horizon, the shadowy silhouette of a tall
+border tower can be seen looming over the land.  The base of the tower is
+still hidden by the city's structures.  
+~
+E
+silhouette~
+In the distance, upon the horizon, the shadowy silhouette of a tall
+border tower can be seen looming over the land.  The base of the tower is
+still hidden by the city's structures.  
+~
+D0
+~
+~
+0 0
+0 0 12004
+D1
+~
+~
+0 0
+0 0 12126
+D2
+~
+~
+0 0
+0 0 12124
+S
+#12004
+The Main Road~
+The stone road continues north and south, south eventually leading to the
+gates while to the north is the center of the city.  People walk along the
+road, going about their lives, and guards walk amongst them, keeping an eye
+out for any kind of trouble.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12005
+D2
+~
+~
+0 0
+0 0 12003
+S
+#12005
+The Main Road~
+The stone road continues north and south, south eventually leading to the
+gates while to the north is the center of the city.  People walk along the
+road, going about their lives, and guards walk amongst them, keeping an eye
+out for any kind of trouble.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12006
+D2
+~
+~
+0 0
+0 0 12004
+S
+#12006
+The Main Road~
+The pounding of a blacksmiths hammer echos from a nearby shop, though
+people seem to ignore it as they walk along the road.  The road leads north,
+toward' the center of the village, while it also leads south toward' the
+gates.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12007
+D2
+~
+~
+0 0
+0 0 12005
+S
+#12007
+The Center Of The Border Village~
+rinter-Postscripst crowded part of the Border Village.  To the east and
+west leads Border Road, while to the north and south runs the Main Road of
+the Border Village.  The voices of the people of the city fill your ears as
+you walk along here, as well as the sounds of shops carts and horse hooves. 
+A guard stands here and there, watching for trouble.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12008
+D1
+~
+~
+0 0
+0 0 12076
+D2
+~
+~
+0 0
+0 0 12006
+D3
+~
+~
+0 0
+0 0 12083
+S
+#12008
+The Main Road~
+The main road of the city runs along here.  To the south leads to the
+center, which is filled with people and noise, while to the north leads to
+the northern gates of the city.  People walk past you, not giving you more
+then a glance, and an occasional guard walks along, inspecting the crowds.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12009
+D2
+~
+~
+0 0
+0 0 12007
+S
+#12009
+The Main Road~
+The road leads north and south from here.  To the south is the center of
+the city, while a little ways to the north is the northern entrance to the
+village.  People walk past you, giving you not much more then a glance, and
+a soldier sometimes can be seen walking down the road, scouting for trouble.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12010
+D1
+~
+~
+3 3
+1 0 12112
+D2
+~
+~
+0 0
+0 0 12008
+S
+#12010
+The Main Road~
+The Main Road of the city leads north and south here.  North leading to
+the gate, and south leading deeper into the city.  People walk around, going
+about their lives, and an occasional guard walks past you, looking for
+trouble.  In the distance to the north you see a large tower, reaching
+toward the sky.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 12011
+D2
+~
+~
+0 0
+0 0 12009
+S
+#12011
+The Northern Entrance To The Border Village~
+A stone road leads into the gates of the village, which is guarded by a
+few Shienaran soldiers.  Voices, horses, wagons, and other sounds of
+villages echo in your ears as you stand in the gates.  The stone road leads
+north, apparently toward a large tower, one of the many that guards the
+border of the Blight.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12012
+D2
+~
+~
+3 3
+1 0 12010
+S
+#12012
+A Stone Road~
+A stone road leads north and south from the village across a field of
+small, grassy hills toward a large stone tower that looms over the
+surrounding area.  A few guards walk along it now and then to and from the
+tower, but not many people.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 12013
+D2
+~
+~
+0 0
+0 0 12011
+S
+#12013
+A Stone Road~
+You reach the top of a hill while walking along the road.  To the south
+the road leads to a good sized village, while to the north you see the
+Border Tower.  A small square wall can be seen surrounding the tower, as
+well as a courtyard full of soldiers going about their business.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 12014
+D2
+~
+~
+0 0
+0 0 12012
+S
+#12014
+The Entrance To A Border Tower~
+A square stone wall surrounds the Tower, with one southern entrance.  A
+stone road leads away from this entrance, toward the Border Village, while
+it leads north deeper into the the courtyard of the Tower, and then to the
+Tower entrance itself.  A group of Arafellin soldiers guard the entrance to
+this small courtyard, while you can see other soldiers walking around
+inside.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 12015
+D2
+~
+~
+0 0
+0 0 12013
+S
+#12015
+A Stone Path To The Tower~
+A stone path leads to the tower from the gate.  Soldiers walk past you,
+sparing you a glance before going about their business.  The sound of a
+blacksmiths hammer echos in your ears, as well as other noises in this small
+courtyard.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12016
+D1
+~
+~
+65 65
+1 0 12074
+D2
+~
+~
+3 3
+1 0 12014
+D3
+~
+~
+3 3
+1 0 12075
+S
+#12016
+The Entrance To The Tower~
+A large, double door marks the entrance to the tower.  A stone road leads
+from it to the south, and to the east and west are roads leading around the
+Tower.  The noises of this small military encampment fill your ears. 
+Soldiers walk past you, talking amongst themselves and going about their
+business.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 12017
+D2
+~
+~
+0 0
+0 0 12015
+S
+#12017
+The First Floor Of The Tower~
+You enter a large circular room with arrow slits along the walls.  Guards
+talk amongst themselves on various haystacks and stools, while others run up
+and down the stairs going about their business.  A door stands in the back
+of the room, while steps lead farther up into the tower, while another
+stairway leads down into the lower levels of it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12018
+D2
+~
+~
+3 3
+1 0 12016
+D4
+~
+~
+0 0
+0 0 12019
+D5
+~
+~
+0 0
+0 0 12024
+S
+#12018
+A Small Office~
+This room appears to be a small office, apparently for a low ranking
+officer of this small place.  A desk cluttered with various papers stands
+near the back of the room, and lanterns hang along the walls keeping the
+room well lit.  A couple chairs for visitors also rest on the floor, and a
+barred window decorates the wall behind the desk.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12017
+S
+#12019
+The Second Floor Of The Tower~
+Hallways lead north, south, east, and west from these stairs, with lamps
+lining the halls.  You can see barred windows at the end of each hallway,
+with an arrow slit next to each window.  Stairs lead down to the first floor
+of the tower, and continue up to the third floor.  Soldiers pass by you,
+going in all directions to do their work.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12041
+D1
+~
+~
+0 0
+0 0 12042
+D2
+~
+~
+0 0
+0 0 12044
+D3
+~
+~
+0 0
+0 0 12043
+D4
+~
+~
+0 0
+0 0 12020
+D5
+~
+~
+0 0
+0 0 12017
+S
+#12020
+The Third Floor Of The Tower~
+Hallways lead north, south, east, and west from here.  Lamps line the
+walls of the halls, and a window decorates the wall at the end of each hall,
+with an arrow slit on either side of the window.  Stairs continue up to the
+fourth and fifth floors, while they go down to the lower levels of the
+tower.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12045
+D1
+~
+~
+0 0
+0 0 12046
+D2
+~
+~
+0 0
+0 0 12048
+D3
+~
+~
+0 0
+0 0 12047
+D4
+~
+~
+0 0
+0 0 12021
+D5
+~
+~
+0 0
+0 0 12019
+S
+#12021
+The Fourth Floor Of The Tower~
+Hallways lead north and south from here, and lamps line the halls.  You
+notice more troops in this area, as well as the fact that there are no
+windows at the end of the halls, just arrow slits.  The stairs continue up
+to the fifth level of the tower, while they continue down to the lower
+levels.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12049
+D2
+~
+~
+0 0
+0 0 12050
+D4
+~
+~
+0 0
+0 0 12022
+D5
+~
+~
+0 0
+0 0 12020
+S
+#12022
+The Fifth Floor Of The Tower~
+Hallways run north and south from here, and are well lit by lamps running
+along the walls.  It seems very much like the fourth floor, with more troops
+in the halls and only arrow slits at the end of the hallways, without
+windows.  The stairs continue up to the watch floor of the tower, while they
+continue down to the lower levels of the tower.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12051
+D2
+~
+~
+0 0
+0 0 12052
+D4
+~
+~
+0 0
+0 0 12023
+D5
+~
+~
+0 0
+0 0 12021
+S
+#12023
+The Roof Of The Tower~
+Wonder fills your mind as you reach the top section of the tower, the
+watch section.  A beautiful view of the surrounding lands fills your eyes. 
+To the north you can see the Blight, and how the land changes to it, while
+to the south you see the Border Village, and some small farms, as well as
+the forest beyond it.  A few guards walk around the hard wooden floor, their
+trained eyes watching for anything out of the ordinary.  The steps go down
+to the lower sections of the tower.  
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 12022
+S
+#12024
+The Lower Floor Of The Tower~
+Stairs lead down to the lower section of the tower, which is very well
+lit by several lamps.  A couple soldiers guard a door to the south, while
+from the door to the north you can smell food being cooked.  Not many people
+pass down here, though every once and awhile a guard will come down.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12025
+D2
+~
+~
+3 3
+1 0 12027
+D4
+~
+~
+0 0
+0 0 12017
+S
+#12025
+The Tower Kitchen~
+Only two guards stand in this room, which seem to keep getting disturbed
+by the cooks to try something new.  Cooks line the room, with several ovens
+heating food, chopping vegetables, and preparing many other meals.  The room
+is rather hot from the steam, but the food smells delicious.  To the south
+is the stairs leading to the other sections of the tower, while to the north
+is a storeroom for food.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 12026
+D2
+~
+~
+3 3
+1 0 12024
+S
+#12026
+A Storeroom~
+Barrels and sacks of food cover this enormous room.  Obviously created in
+case the tower was ever under siege, the food could feed the soldiers here
+for months.  A few soldiers patrol the room, or sit on the sacks talking to
+each other or playing with dice.  To the south is the kitchen, as well as
+the stairs to the other floors.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 12025
+S
+#12027
+A Guard Room~
+Five guards stand in this room, guarding a stairway leading down to the
+deepest part of this tower, the jails.  The room is well lit, and smells
+rather nice because of the nearby kitchen.  The room could deffinitely hold
+more guards, if the need arose, but it doesn't look as if they've ever had
+any trouble.  To the north lies the stairway to the other levels of the
+tower, as well as the kitchen.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12024
+D5
+~
+~
+0 0
+0 0 12028
+S
+#12028
+The Prisons~
+Guards patrol these well lit halls, which lead north and south.  Most of
+the cells look empty, though the remains of a recent occupant can be seen in
+some.  Other then that, it seems rather quiet.  Stairs lead up to the guard
+room, while cells line the north and south hallway.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12029
+D2
+~
+~
+0 0
+0 0 12030
+D4
+~
+~
+0 0
+0 0 12027
+S
+#12029
+The Prisons~
+A guard patrols the halls, though the cells look rather empty.  Lamps
+line the walls, and the bars of a cell are on the left and right of you. 
+The cells don't seem to hold many occupants, and the entire hallway seems
+oddly quiet.  The hallway continues north to the end, and south, which also
+leads to the stairway back up to the tower.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12031
+D1
+~
+~
+3 3
+1 0 12037
+D2
+~
+~
+0 0
+0 0 12028
+D3
+~
+~
+3 3
+1 0 12038
+S
+#12030
+A Hallway~
+The well lit hallway leads south and north from here.  A guard passes
+along the hall now and then, but otherwise the halls seem oddly quiet.  To
+the east and west of you are cells, while to the south is the end of the
+hallway and more prison cells.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12028
+D1
+~
+~
+3 3
+1 0 12035
+D2
+~
+~
+0 0
+0 0 12032
+D3
+~
+~
+3 3
+1 0 12036
+S
+#12031
+The Prisons~
+You reach the end of the hallway of prisons.  A guard stands at the end,
+leaning against the wall.  Torches line the wall, lighting the hallway well,
+which leads south to the stairs and into another section of the prisons.  A
+cell also rests on the east and west side of you, currently unoccupied.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12039
+D2
+~
+~
+0 0
+0 0 12029
+D3
+~
+~
+3 3
+1 0 12040
+S
+#12032
+The Prisons~
+You reach the southern end of the prison.  The stone walls are lined with
+lamps keeping it well lit, and a guard stands at the hallway, watching
+everything like a hawk.  Silence fills the hallways otherwise, with the
+occasional clicking of boots from patrolling guards.  To the east and west
+of you are more prison cells, while to the north lies the stairway and
+another section of the prisons.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12030
+D1
+~
+~
+3 3
+1 0 12033
+D3
+~
+~
+3 3
+1 0 12034
+S
+#12033
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12032
+S
+#12034
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12032
+S
+#12035
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12030
+S
+#12036
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12030
+S
+#12037
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12029
+S
+#12038
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12029
+S
+#12039
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12031
+S
+#12040
+A Cell~
+The cell appears to be a cold room lit only by the torches on the walls
+of the hallway.  The bars that hold the prisoners in appear to be made tough
+enough to hold even Trollocs, and barred, unlit lamps rest high on the three
+walls of the room.  A small stone slab works for a bed, and a small stone
+washstand rests against the wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12031
+S
+#12041
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12053
+D2
+~
+~
+0 0
+0 0 12019
+D3
+~
+~
+3 3
+1 0 12054
+S
+#12042
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12057
+D2
+~
+~
+3 3
+1 0 12058
+D3
+~
+~
+0 0
+0 0 12019
+S
+#12043
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12059
+D1
+~
+~
+0 0
+0 0 12019
+D2
+~
+~
+3 3
+1 0 12060
+S
+#12044
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12019
+D1
+~
+~
+3 3
+1 0 12056
+D3
+~
+~
+3 3
+1 0 12055
+S
+#12045
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12063
+D2
+~
+~
+0 0
+0 0 12020
+D3
+~
+~
+3 3
+1 0 12065
+S
+#12046
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12061
+D2
+~
+~
+3 3
+1 0 12062
+D3
+~
+~
+0 0
+0 0 12020
+S
+#12047
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12065
+D1
+~
+~
+0 0
+0 0 12020
+D2
+~
+~
+3 3
+1 0 12064
+S
+#12048
+A Hallway~
+A hallway leads past two doors.  At the end of the hallway a barred
+window decorates the wall, with two arrow slits on each side of it.  The
+window gives a good view of the courtyard around the tower, as well as a
+short distance away from it.  Lamps light the hallway well, and an
+occasional guard walks along it.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12020
+D1
+~
+~
+3 3
+1 0 12062
+D3
+~
+~
+3 3
+1 0 12064
+S
+#12049
+A Hallway~
+Two doors rest on each side of the hallway, with a stone wall at the end
+of it.  Three stone arrow slits mark along the dead end, as well as a torch,
+one of many that line the hallway.  Guards also stand in these halls,
+talking amongst themselves.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12066
+D2
+~
+~
+0 0
+0 0 12021
+D3
+~
+~
+3 3
+1 0 12067
+S
+#12050
+A Hallway~
+Two doors rest on each side of the hallway, with a stone wall at the end
+of it.  Three stone arrow slits mark along the dead end, as well as a torch,
+one of many that line the hallway.  Guards also stand in these halls,
+talking amongst themselves.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12021
+D1
+~
+~
+3 3
+1 0 12068
+D3
+~
+~
+3 3
+1 0 12069
+S
+#12051
+A Hallway~
+Two doors rest on each side of the hallway, with a stone wall at the end
+of it.  Three stone arrow slits mark along the dead end, as well as a torch,
+one of many that line the hallway.  Guards also stand in these halls,
+talking amongst themselves.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12070
+D2
+~
+~
+0 0
+0 0 12022
+D3
+~
+~
+3 3
+1 0 12071
+S
+#12052
+A Hallway~
+Two doors rest on each side of the hallway, with a stone wall at the end
+of it.  Three stone arrow slits mark along the dead end, as well as a torch,
+one of many that line the hallway.  Guards also stand in these halls,
+talking amongst themselves.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12022
+D1
+~
+~
+3 3
+1 0 12072
+D3
+~
+~
+3 3
+1 0 12073
+S
+#12053
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12041
+S
+#12054
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12041
+S
+#12055
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12044
+S
+#12056
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12044
+S
+#12057
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12042
+S
+#12058
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12042
+S
+#12059
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12043
+S
+#12060
+The Soldiers Quarters~
+Beds line the walls of this small room.  One of many in the tower, it
+houses the many soldiers that guard and keep watch at this tower.  A couple
+soldiers sit on their bunks now, either reading, talking, sleeping, or doing
+various other things.  Arrow slits line the walls, letting in a small amount
+of light, but most of the room is lit by lanterns.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12043
+S
+#12061
+The Meeting Room~
+The walls of this room are covered with notes and small maps, as well
+torches to keep the room lit and the papers readable.  A small table sits in
+the center of the room, with several chairs around it for discussing things
+having to do with the tower, the {yblight{x, and other matters.  To the south is
+the door leading back to the second floor hallway.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12063
+D2
+~
+~
+3 3
+1 0 12046
+S
+#12062
+The Armory~
+The walls of this room are barely visible' behind the armor that covers
+them.  Racks of {Dst{wee{Dl{x{x plate mail, field plate, full plate, banded mail,
+splint mail, scale mail, and numerous other types of armor litter the floor
+and walls of this room.  {DSt{wudd{Ded {yle{Dath{yer{x and {yle{Dath{yer{x armor also hangs on
+racks in the center of the floor.  Soldiers enter and leave the room almost
+constantly, either inspecting, cleaning, or picking up armor and taking it
+with them.  The room seems fairly clean, and it looks as though the soldiers
+keep the armor well polished.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12046
+D3
+~
+~
+3 3
+1 0 12048
+S
+#12063
+Map Room~
+{BCol{Gor{Bful{x and detailed maps line the {Dstone{x walls of this rather large
+room.  {yCrates{x are covered in the thin paper maps, while some hang on walls
+held by small pins.  Charts line other walls, and pens and ink jars lay
+scattered across the various tables in the room.  The smell of dust shows
+this room hasn't been cleaned lately, but the maps appear rather clean. 
+Sounds of soldier's boots echo in your ears, as well as occasional voices.  
+~
+0
+D 0
+E
+map~
+A large map covers the wall, showing the area around the tower.  The
+{Dbl{yig{Dht{x lays less then a few miles to the north, while the {BB{Do{wrd{De{Br
+{BVi{Dl{wl{Da{Bge{x lays close by to the south.  Several {Rmarks{x have been made on the
+map, obviously troop movements from recent battles.  
+~
+D2
+~
+~
+3 3
+1 0 12061
+D3
+~
+~
+3 3
+1 0 12045
+S
+#12064
+The Armory~
+{DWe{wapo{Dns{x and {Dwe{wap{Don {yracks{x cover the walls of this large room.  Swords of
+all types, as well as axes, pole arms, spears, knives, maces, lances, and
+other various weapons shine brightly, apparently cleaned often.  Soldiers
+frequent the room, cleaning, polishing, or taking weapons, which there
+appear to be more then enough of.  A large, circular, wooden weapons rack
+stands in the middle of the room, holding swords of all types.  Sounds of
+Soldiers boots echo from the halls, as well as occasional voices.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12047
+D1
+~
+~
+3 3
+1 0 12048
+S
+#12065
+The Armory~
+Many {ywooden{x and {Dst{wee{Dl{x shields cover the wall, making it barely visible. 
+Wooden racks are set into the several floor in rows of bucklers, small
+shields, medium shields, and tower shields.  Soldiers enter and leave the
+room, carrying with them shields or returning some.  Other soldiers,
+obviously recruits, enter to clean and polish the shields.  In the center of
+the rather large room stands a rack full of large shields that all seem very
+well made.  The sounds of footsteps echo from the hallways to the east and
+south, as well as an occasional voice or two.  
+~
+0
+D 0
+E
+rack~
+A large {ywooden{x shield rack rests in the center of the room, holding
+several large {Dsh{wiel{Dds{x.  They all look newly made, and gleam brightly. 
+{DRec{wru{Dits{x enter to polish and clean them now and then, but other then that
+they remain untouched.  
+~
+D1
+~
+~
+3 3
+1 0 12045
+D2
+~
+~
+3 3
+1 0 12047
+S
+#12066
+Indoor Training Room~
+Soft, feather mats cover the floor of this room, keeping people from
+cracking their heads on stone.  The stone walls are also padded, with small
+slits for arrows cutting thin holes into the padding.  The southern wall is
+lined with many different types of practice weapons, all made of wood.  The
+room smells of sweat, and seems rather hot compared to the other rooms. 
+Soldiers enter and leave the room, most staying to listen to the instructor.
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12049
+S
+#12067
+The Cafeteria~
+{DRe{wcrui{Dts{x stand behind counters, serving food brought up from the
+kitchens.  An assortment of meats, vegetables, fruits, and breads lay on
+tables behind them, being made ready to serve to other soldiers.  The
+wonderful smell of these foods fill your nose, and the soft echo of boots
+enter your ears, as well as the clash of wooden swords from the nearby
+training room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12049
+S
+#12068
+The Mess Hall~
+Wooden tables form rows in the room, most of them already occupied with
+soldiers eating quickly.  Smells of well cooked, spiced food fill your nose,
+and the conversation of many soldiers buzz in your ears.  Recruits move
+about, collecting plates and cups, as well as cleaning the empty tables. 
+Most of the discussion seems to be about the Blight, while other topics
+include daily life and training.  Every once and awhile a table of soldiers
+bursts out in laughter, but for the most part the room seems rather
+peaceful.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12050
+S
+#12069
+The Mess Hall~
+Wooden tables form rows in the room, most of them already occupied with
+soldiers eating quickly.  Smells of well cooked, spiced food fill your nose,
+and the conversation of many soldiers buzz in your ears.  Recruits move
+about, collecting plates and cups, as well as cleaning the empty tables. 
+Most of the discussion seems to be about the Blight, while other topics
+include daily life and training.  Every once and awhile a table of soldiers
+bursts out in laughter, but for the most part the room seems rather
+peaceful.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12050
+S
+#12070
+An Office~
+A wooden desk sits in the center of the room, with a padded chair behind
+it.  Few soldiers enter or leave this room, unless summoned by it's
+occupant.  Papers cover the desk, well organized, as well as a ink bottle
+and a few pens.  Several chairs stand in front of the desk, and paintings
+hang on the wall, depicting battles against the Shadowspawn.  A good
+reminder of the location of this tower.  
+~
+0
+D 0
+E
+painting~
+Soldiers clad in {Dst{wee{Dl{x {Dp{wlat{De m{wai{Dl{x charge into battle against hordes of
+trollocs in this beautiful painting.  Obviously made long ago, it seems to
+be a symbol of Shienaran defiance against Shadowspawn.  
+~
+D3
+~
+~
+3 3
+1 0 12051
+S
+#12071
+An Office~
+A wooden desk sits in the center of the room, with a padded chair behind
+it.  Few soldiers enter or leave this room, unless summoned by it's
+occupant.  Papers cover the desk, well organized, as well as a ink bottle
+and a few pens.  Several chairs stand in front of the desk, and paintings
+hang on the wall, depicting battles against the Shadowspawn.  A good
+reminder of the location of this tower.  
+~
+0
+D 0
+E
+painting~
+Soldiers clad in {Dst{wee{Dl{x {Dp{wlat{De m{wai{Dl{x charge into battle against hordes of
+trollocs in this beautiful painting.  Obviously made long ago, it seems to
+be a symbol of Shienaran defiance against Shadowspawn.  
+~
+D1
+~
+~
+3 3
+1 0 12051
+S
+#12072
+The Infirmary~
+Several comfortable beds line the eastern wall of this large room. 
+Cabinets and counters rest against most of the other walls, full of medical
+supplies of all types.  Men in white coats move from soldier to soldier,
+tending to any wounds.  The smell of herbs fills the room, and the sounds of
+footsteps echo in the hallways outside.  A few of the cabinets hold some
+interesting herbs, though the doctors probably wouldn't appreciate it if
+anyone but they touched the herbs.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12052
+S
+#12073
+A Meeting Room~
+A small pathway leads from the door to a wooden stand at the far end of
+the room.  Along the pathway, long wooden benches stretch to each wall.  Few
+soldiers enter the room unless a meeting is taking place, though some
+recruits still enter to keep the room clean.  Papers hang on the walls,
+showing everything from today's activities to supplies that need to be
+bought.  Sounds of footsteps echo from the hallway to the east, as well as an
+occasional voice, but they disappear quickly.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12052
+S
+#12074
+Outdoor Training Grounds~
+Several soldiers fill this small yard, each practicing forms with a
+wooden weapon under the instruction of a Sergeant.  The clash of wood fills
+your ears, but the cool breeze seems to take away the harshness of the
+sounds.  Other soldiers march in and out of the entrance of the tower, some
+returning with various supplies.  
+~
+0
+0 1
+D3
+~
+~
+65 65
+1 0 12015
+S
+#12075
+The Blacksmith~
+A short man who looks to be twice the width of the normal soldiers stands
+behind a large iron anvil.  Dressed in a dirty version of the Shienaran
+uniform, he wields his large hammer to pound steel into weapons and armor
+for use by the Shienaran soldiers.  The heat of the forge burns hot enough
+to bring sweat to any man's face in an instant, but the blacksmith works in
+it as if it doesn't effect him in any way.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12015
+S
+#12076
+A Stone Road~
+Fewer people are among this road then they are the Main Road, but the
+buzz of life still exists.  People barely glance at you as they make their
+way east or west down the hard stone pathway.  The sound of a blacksmith's
+hammer rings in your ears, as well as the shout of hawkers and other selling
+their goods.  A guard walks the streets now and then, watching for trouble,
+but few others look armed.  
+~
+0
+0 14
+D0
+~
+~
+3 3
+1 0 12079
+D1
+~
+~
+0 0
+0 0 12077
+D2
+~
+~
+3 3
+1 0 12080
+D3
+~
+~
+0 0
+0 0 12007
+S
+#12077
+A Stone Road~
+Fewer people are among this road then they are the Main Road, but the
+buzz of life still exists.  People barely glance at you as they make their
+way east or west down the hard stone pathway.  The sound of a blacksmith's
+hammer rings in your ears, as well as the shout of hawkers and other selling
+their goods.  A guard walks the streets now and then, watching for trouble,
+but few others look armed.  
+~
+0
+0 14
+D0
+~
+~
+3 3
+1 0 12081
+D1
+~
+~
+0 0
+0 0 12078
+D2
+~
+~
+3 3
+1 0 12082
+D3
+~
+~
+0 0
+0 0 12076
+S
+#12078
+A Stone Road~
+Fewer people are among this road then they are the Main Road, but the
+buzz of life still exists.  People barely glance at you as they make their
+way east or west down the hard stone pathway.  The sound of a blacksmith's
+hammer rings in your ears, as well as the shout of hawkers and other selling
+their goods.  A guard walks the streets now and then, watching for trouble,
+but few others look armed.  
+~
+0
+0 14
+D3
+~
+~
+0 0
+0 0 12077
+S
+#12079
+A Blacksmith~
+The crash of a hammer pounding out {Dst{wee{Dl {rAr{Ra{Wfel{Rl{rin{x weapons and other
+metal items nearly blocks out the numerous voices of the villagers in the
+small {rAr{Ra{Wfel{Rl{rin{x town.  {RH{Yea{Rt{x pours onto you the moment you enter, and the
+steam from the numerous barrels filled with water to cool off finished {Dst{wee{Dl{x
+adds to the horribly hot blacksmith shop.  The man behind the billows is
+twice as wide as most men, with enormous arms.  He gives you little more
+then a glance with cold, hard eyes, before returning to his forge seeming to
+ignore you.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12076
+S
+#12080
+An Armorsmith~
+A rough looking man with thick arms sits on a stool, pounding out a large
+suit of plate mail.  He grimaces at you as you enter, then returns to his
+work.  All around the room, different types of {Dst{Wee{Dl{x armor hangs on pegs on
+the wooden walls.  The room is as hot as an oven, and the steam from the
+barrels of cool water that finished suits of mail are put in only adds to
+the inferno.  The clash of the large man's hammer nearly blocks the sounds
+of the citizens, but they can still be heard easily whenever the door is
+opened.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12076
+S
+#12081
+A Grocer~
+A middle-aged man sits behind a counter, smiling at his customers, which
+wander the store browsing various foods.  Several isles line the good sized
+store, containing all kinds of breads, meats, vegetables, fruits, and other
+food items.  Smells of cooked meat tingle in your nose, and freshly made
+bread creates another wonderful aroma to this quaint shop.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12077
+S
+#12082
+A General Store~
+The general store is a rather large building, with row after row of tools
+and supplies.  An old man with leathery skin and searching brown eyes
+examines you as you enter from behind a wooden counter, then, seeming
+satisfied, returns to his reading.  Shelves line the walls, filled with
+anything a commoner, soldier, or adventurer would need during his travels. 
+Behind the counter lie many crates, full of other items to be made for sale
+later.  Various people shop around, though no one gives anyone else much
+more then a glance.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12077
+S
+#12083
+A Stone Road~
+Fewer people are among this road then they are the Main Road, but the
+buzz of life still exists.  People barely glance at you as they make their
+way east or west down the hard stone pathway.  The sound of a blacksmith's
+hammer rings in your ears, as well as the shout of hawkers and other selling
+their goods.  A guard walks the streets now and then, watching for trouble,
+but few others look armed.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 12007
+D3
+~
+~
+0 0
+0 0 12084
+S
+#12084
+Entrence To The Residential Section~
+A {Ds{wton{De{x archway with a {Ds{wton{De{x fence lashing out from each side separates
+the city and the residential area.  Citizens of the medium sized village
+wander about, entering and leaving the main city or walking to other houses.
+An occasional horse or ox-driven cart passes through the arch, but compared
+to the main city, this section is rather quiet.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 12083
+D3
+~
+~
+0 0
+0 0 12085
+S
+#12085
+A Residential Street~
+A wide {Ds{wton{De pa{wthw{Day{x runs between small houses that line the street. 
+Carts and horses trot along the road now and then, as well as a few guards,
+but for the most part it's mainly occupied by citizens.  {YL{Wa{Ym{Wp{Ys{x line the road
+to be lit at night, and street signs show up at every intersection.  For the
+most part, this section of the city is rather quiet compared to the rest.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 12087
+D1
+~
+~
+0 0
+0 0 12084
+D2
+~
+~
+3 3
+1 0 12092
+D3
+~
+~
+0 0
+0 0 12086
+S
+#12086
+A Residential Intersection~
+The {Ds{wton{De{w road branches off north and south here.  More houses lie to the
+west, as well as to the north or south.  To the north, a very large building
+can be seen, though even from here it looks rather worn.  Nothing very
+interesting seems to lie to the west or south besides those few houses,
+though.  A {Yl{Wa{Yn{Wt{Ye{Wr{Yn{x that is lit at night to light up this intersection
+dangles above you, tied to a pole.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12097
+D1
+~
+~
+0 0
+0 0 12085
+S
+#12087
+A Small Home~
+The {Ds{wton{De{x house seems in rather good condition, despite a few cracks.  A
+multi-{Bc{Go{Rl{Yo{Rr{Ge{Bd{x rug lies across the floor, and a small rocking chair rests in
+the middle of the living room.  To the south is a door leading to the
+street, while to the north is a hallway leading to the other rooms of the
+house.  Pictures line the wall, and a small fireplace sits on one side of
+the room, providing warmth to the quaint little home.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12089
+D2
+~
+~
+3 3
+1 0 12085
+D3
+~
+~
+3 3
+1 0 12088
+S
+#12088
+A Kitchen~
+You enter a small kitchen with all the furnishings of any normal village
+house kitchen.  A stove rests in one corner, while a few cupboards provide a
+place for food and dish storage.  A sink with a metal pail resting next to
+it sits on another corner of the room, and a few barrels line the other
+walls, filled with various things.  To the east is the living room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12087
+S
+#12089
+A Hallway~
+The smell and heat of the fireplace in the living room fills your senses,
+even in this small hallway.  To the East is a door to the bedroom of the
+parents, while to the west is the small bedroom of a child.  Wooden walls
+line the hallway, and lanterns jut out from the wall, making a rather
+comfortable but silent hallway.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12090
+D2
+~
+~
+0 0
+0 0 12087
+D3
+~
+~
+3 3
+1 0 12091
+S
+#12090
+A Bedroom~
+A large wooden bedroom is quite heated from the fireplace in the living
+room.  A large bed rests at the eastern wall of the room, with a small table
+standing next to it.  At the southern wall is a small wooden dresser, with a
+large mirror reflecting your image, and a large wooden door leads to the
+closet.  A few small lanterns also line the walls of the room, used to light
+the room at night.  All in all, the room seems rather warm and cozy.  An odd
+feeling for a building in such a dangerous land..  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12089
+S
+#12091
+A Child's Bedroom~
+A small bed rests in the corner of the room, it's pink blankets pointing
+this room out to be a little girl's bedroom.  A small toy chests rests in
+one corner, next to a small wooden closet door.  A dresser stands next to
+the bed on one side, a table on the other, both wooden.  On the table is a
+small lamp, unlit, while the dresser is full of clothing packed inside.  The
+door to the East leads back to the hallway.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12089
+S
+#12092
+A Small Home~
+{YWo{Dod{yen{x walls cover this house, which appears very warm and cozy for a
+building this close to the Blight.  A small {Dblack{x rug lies on the floor on
+which a small black cat rests, purring softly.  A wooden rocking chair sits
+in the middle of the room, and a fireplace filled with burning wood provides
+warmth for the small home.  To the South lies a small hallway, leading to
+the other rooms of the house, while to the east lies the kitchen, from which
+smells of freshly cooked bread extend to your fill your senses 
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12085
+D1
+~
+~
+3 3
+1 0 12093
+D2
+~
+~
+0 0
+0 0 12094
+S
+#12093
+A Small Kitchen~
+An iron oven stands at one corner of the room, with freshly made bread
+sitting on a pan atop it.  Warmth from the oven still swallows the room,
+causing sweat to bead on your forehead.  Various pots and pans rest on
+shelves, as well as other food items that can be stored on shelves.  Knives
+hang on walls, but many normal kitchen items remain hidden in the many
+cupboards around the room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12092
+S
+#12094
+A Small Hallway~
+A small wooden hallway leads to two doors.  Small lamps keep the hallway
+moderately lit, though shadows still cover it.  Even with the sunlight that
+pours out the small window in the back of it during the day.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12092
+D1
+~
+~
+3 3
+1 0 12095
+D3
+~
+~
+0 0
+0 0 12096
+S
+#12095
+A Child's Bedroom~
+You enter a child's bedroom, which appears to be in total chaos.  Toys
+litter the floor, and an unmade feather bed is pushed up into the corner of
+the room, with sheets lying about on top of it in no particular order.  A
+small toy chest rests in another corner of the room, next to a small wooden
+closet.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12094
+S
+#12096
+A Bedroom~
+A bedroom, apparently for the adult owners of the house, looks rather
+comfortable.  A large bed rests against the center of one wall of the room,
+with comfortable blankets neatly organized across it.  A standing mirror
+reflects almost all the images in the room, with a dresser right next to it.
+In the back of the room is a large closet with two wooden doors.  All in all
+it looks like a rather comfortable room, for a commoner.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 12094
+S
+#12097
+In Front Of The Abandoned Building~
+To the west and east are what appear to be normal houses, but in front of
+you lies rusty steel gates leading to an old abandoned house.  Paint seems
+ripped away from the walls, and the few window shutters still attached to
+the house barely hang on their hinges.  The few people who look at the house
+cast fearful glances at it, though most just avoid looking at it as if it
+were inhabited by the Dark One himself.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 12098
+D2
+~
+~
+0 0
+0 0 12086
+S
+#12098
+Inside the Abandoned House~
+Dust seems to be the only evidence of a lack of human existence inside
+this building.  Everything else seems in perfect condition.  Portraits of
+the family who must have owned the large structure hang along a wall, going
+upwards along with the rounded stairs that lead up to the upper floor.  One
+a woman with long golden hair and a sly grin.  Another, a man with hard eyes
+but a comforting grin.  The next portrait up is a man who resembles a
+youthful version of the previous.  Brown hair and warm eyes, he looks to be
+in his twenties.  The final picture is of a small girl, less then ten years
+old.  She holds a bear and smiles with the innocence all young children
+posses.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12097
+D4
+~
+~
+0 0
+0 0 12099
+S
+#12099
+The Top Of The Stairs~
+The two sets of stairs lead up to a large balcony projecting from the
+wall.  A long hallway leads to another set up stairs to the north.  The
+balcony extends east and west, where two doors provide entry into smaller
+rooms of the house.  A few unlit lamps line the walls, that look as though
+they haven't been lit in many years by the silk webs of spiders that run
+through their openings.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12100
+D1
+~
+~
+0 0
+0 0 12103
+D3
+~
+~
+0 0
+0 0 12104
+D5
+~
+~
+0 0
+0 0 12098
+S
+#12100
+A Hallway~
+A medium sized hallway leads through the upper floor of the house.  Lamps
+hang at it's top and along the walls, and doors begin shortly into it.  One,
+to the east, leads to the main bedroom of the house.  The hallway continues
+on north toward a flight of stairs, while south leads back to the entrance
+of the house.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12102
+D1
+~
+~
+3 3
+1 0 12101
+D2
+~
+~
+0 0
+0 0 12099
+S
+#12101
+Master Bedroom~
+A large canopy bed rests in one corner of the room, obviously for the old
+owners of the house.  A dresser sits next to the bed, with dust covered
+objects on it's surface.  On the other side of the room, a large closet
+stands,looking as though it hasn't been opened in many years.  Next to it is
+a long mirror, reflecting the many details of the room.  Dust covers
+everything, disturbed only by your presence.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12100
+S
+#12102
+A Hallway~
+A medium sized hallway leads through the upper floor of the house.  Lamps
+hang at it's top and along the walls, and doors line it.  One, to the east,
+which is locked, and another to the west which leads to another office.  The
+hallway continues on north toward a flight of stairs, while south leads
+back to the entrance of the house.  
+~
+0
+D 0
+D1
+~
+~
+7 7
+2 12081 12107
+D2
+~
+~
+0 0
+0 0 12100
+D3
+~
+~
+3 3
+1 0 12108
+D4
+~
+~
+3 3
+1 0 12109
+S
+#12103
+The Balcony~
+Two unlit lamps hang beside a doorway leading to a large office to the
+north.  To the west is the entrance to the steps leading down from the
+balcony.  The wooden boards creak under your feet as you step across the
+soft red carpet which is covered in dust.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12105
+D3
+~
+~
+0 0
+0 0 12099
+S
+#12104
+The Balcony~
+Two unlit lamps hang beside a doorway leading to a small girl's bedroom
+to the north.  To the east is the entrance to the steps leading down from
+the balcony.  The wooden boards creak under your feet as you step across the
+soft red carpet which is covered in dust.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12106
+D1
+~
+~
+0 0
+0 0 12099
+S
+#12105
+A Large Office~
+You enter a wide room with many things pointing it out as an office of
+the previous owner.  A few very tall windows are in the back of the room,
+letting a downpour of sunshine rain on the furnishings of the room.  A desk
+sits in the middle of it, a book resting on it open with a pin on it's
+sheets.  In the corner a large clock sits, still ticking softly after so
+long.  A few other furnishings rest in this room.  A cabinet, smaller desks,
+chairs, but nothing of large interest.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12103
+S
+#12106
+A Child's Bedroom~
+This large bedroom was obviously occupied by a small girl at one time. 
+Light pours in from a small window in the back, showing it's pink walls and
+floor.  A small canopy bed rests against one corner of the room, with a
+large toy chest next to it.  On the other side of the room is an open, empty
+closet, and against one corner is a small dresser.  Settled dust fills the
+room, disturbed only by your footsteps.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12104
+S
+#12107
+A Guest Bedroom~
+A good sized bed rests in one corner of the room, covered in dust but
+still made.  In the center of the room is a desk, with a small, unlit lamp
+on it's corner.  A large dresser rests against another side of the room,
+next to a large lamp meant to light the entire room.  A door to the west
+leads back to the hallway, the lock on it now clicked open to allow passage.
+~
+0
+D 0
+D3
+~
+~
+7 7
+2 12081 12102
+S
+#12108
+A Large Office~
+This large room was obviously once an office.  On the far well a
+bookshelf rests, while in the center is a large circular desk with a portion
+cut out on one side and the center, allowing for the owner to sit in the
+center of the wooden circle.  A clock ticks silently on the desk, and papers
+still lay scattered along it's surface.  Rays if sunlight shine through it's
+open windows, with long curtains that are shut with the pull of a rope.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12102
+D3
+~
+~
+4099 4099
+1 0 12110
+S
+#12109
+The Attic~
+Dust and cobwebs seem to cover everything in this room.  Crates and
+barrels are scattered everywhere, nearly filling the room and almost
+covering the only window, which still fills the room with light.  A wooden
+spindle rests in the corner, yarn still set into it.  Though what's more odd
+is what lies next to it.  Bones, skin and organs rotted away to leave only
+white, cobweb and dust covered bones, lie on the floor.  
+~
+0
+D 0
+D5
+~
+~
+3 3
+1 0 12102
+S
+#12110
+A Wine Celler Pathway~
+Behind the bookcase lies a line of stairs, which lead down to a wine
+cellar.  Barrels of wine rest on cases with a small pathway leading through
+them to a door at the end.  Dust covers them all, and cobwebs rest in the
+corner.  The room is extremely dark, with no lamps or any light at all to
+give it illumination.  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 12108
+D3
+~
+~
+3 3
+1 0 12111
+S
+#12111
+An Small Stone Room~
+The room you enter is extremely dark, with no lamps or candles for light.
+It's rather small, and is made entirely of old stone.  In one corner is a
+pile of bones, with only a small girl's ripped, blood-stained dress to adorn
+them.  Nothing stirs in the room besides you, making it seem early quiet.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 12110
+S
+#12112
+The Trolloc's Horn~
+Named because of the line of trolloc's horns on it's doorway, this inn is
+one of the main gathering places of this small border village.  Men and
+soldiers mingle and drink and entertain in this large inn tavern.  The smell
+of home cooked meals rings in your nostrils as a waiter passes by, carrying
+a tray of food.  Behind the counter the innkeeper/bartender smiles at you,
+waiting for you to approach.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 12113
+D3
+~
+~
+3 3
+1 0 12009
+S
+#12113
+The Common Room~
+This appears to be the main area of the inn.  A large bar sits in the
+corner, and several maids and waitresses rush about serving and cleaning. 
+Soldiers and citizens fill the room with laughter and talk, and they all
+appear to be drinking.  A set of stairs leads up into the upper floors of
+the inn, while to the west is the entrance to the inn and another area of
+the common room.  Lanterns line the wall of the inn, illuminating it's high
+spirited area.  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 12112
+D4
+~
+~
+0 0
+0 0 12114
+S
+#12114
+The Upper Level~
+The hallway extends in three directions :North, South, and East.  To the
+west is a balcony overlooking the street below.  A maid passes by now and
+then, gliding along the smooth carpeted floors without giving you her
+attention, but otherwise this intersection is silent.  Lamps light the way
+to the different rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12118
+D1
+~
+~
+0 0
+0 0 12115
+D2
+~
+~
+0 0
+0 0 12119
+D3
+~
+~
+1 1
+1 0 12125
+D5
+~
+~
+0 0
+0 0 12113
+S
+#12115
+The Hallway~
+The hallway leading away from the intersection stops abruptly.  Two doors
+remain closed along it, with lamps on each side of them.  The smooth carpet
+creaks as you move, but otherwise the hallway remains perfectly silent.  A
+maid passes by now and then, checking the lamps and the rooms.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12116
+D2
+~
+~
+3 3
+1 0 12117
+D3
+~
+~
+0 0
+0 0 12114
+S
+#12116
+An Inn Room~
+A good sized bed rests in the corner of the room, beckoning those who
+enter to sleep on it's well cushioned surface.  A warm {Bblue{x blanket is
+neatly made on top of it, while some thin sheets under it provide extra
+comfort and warmth.  The room is well lit by several lanterns that follow
+the walls of the room, including one on the desk which is pushed against one
+wall.  A clock ticks in the corner of the room, and a small, clean little
+dresser sits next to the bed.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 12115
+S
+#12117
+An Inn Room~
+A good sized bed rests in the corner of the room, beckoning those who
+enter to sleep on it's well cushioned surface.  A warm {Bblue{x blanket is
+neatly made on top of it, while some thin sheets under it provide extra
+comfort and warmth.  The room is well lit by several lanterns that follow
+the walls of the room, including one on the desk which is pushed against one
+wall.  A clock ticks in the corner of the room, and a small, clean little
+dresser sits next to the bed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 12115
+S
+#12118
+The Hallway~
+The hallway leading away from the intersection stops abruptly.  Two doors
+remain closed along it, with lamps on each side of them.  The smooth carpet
+creaks as you move, but otherwise the hallway remains perfectly silent.  A
+maid passes by now and then, checking the lamps and the rooms.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12120
+D2
+~
+~
+0 0
+0 0 12114
+D3
+~
+~
+3 3
+1 0 12121
+S
+#12119
+The Hallway~
+The hallway leading away from the intersection stops abruptly.  Two
+doors remain closed along it, with lamps on each side of them.  The smooth
+carpet creaks as you move, but otherwise the hallway remains perfectly
+silent.  A maid passes by now and then, checking the lamps and the rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 12114
+D1
+~
+~
+3 3
+1 0 12122
+D3
+~
+~
+3 3
+1 0 12123
+S
+#12120
+An Inn Room~
+A good sized bed rests in the corner of the room, beckoning those who
+enter to sleep on it's well cushioned surface.  A warm {Bblue{x blanket is
+neatly made on top of it, while some thin sheets under it provide extra
+comfort and warmth.  The room is well lit by several lanterns that follow
+the walls of the room, including one on the desk which is pushed against one
+wall.  A clock ticks in the corner of the room, and a small, clean little
+dresser sits next to the bed.  
+~
+0
+DJ 0
+D3
+~
+~
+3 3
+1 0 12118
+S
+#12121
+An Inn Room~
+A good sized bed rests in the corner of the room, beckoning those who
+enter to sleep on it's well cushioned surface.  A warm {Bblue{x blanket is
+neatly made on top of it, while some thin sheets under it provide extra
+comfort and warmth.  The room is well lit by several lanterns that follow
+the walls of the room, including one on the desk which is pushed against one
+wall.  A clock ticks in the corner of the room, and a small, clean little
+dresser sits next to the bed.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12118
+S
+#12122
+An Inn Room~
+A good sized bed rests in the corner of the room, beckoning those who
+enter to sleep on it's well cushioned surface.  A warm {Bblue{x blanket is
+neatly made on top of it, while some thin sheets under it provide extra
+comfort and warmth.  The room is well lit by several lanterns that follow
+the walls of the room, including one on the desk which is pushed against one
+wall.  A clock ticks in the corner of the room, and a small, clean little
+dresser sits next to the bed.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 12119
+S
+#12123
+An Inn Room~
+A good sized bed rests in the corner of the room, beckoning those who
+enter to sleep on it's well cushioned surface.  A warm {Bblue{x blanket is
+neatly made on top of it, while some thin sheets under it provide extra
+comfort and warmth.  The room is well lit by several lanterns that follow
+the walls of the room, including one on the desk which is pushed against one
+wall.  A clock ticks in the corner of the room, and a small, clean little
+dresser sits next to the bed.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 12119
+S
+#12124
+Within The South Gate~
+{DShade{x surrounds this small area, covered above by the arch structure of
+the stone {Dg{wat{De{x.  Though an occasional faint {Wso{Cu{Wnd{x can be heard from within
+the gate walls, the strong stone and mortar make a very effective barrier
+for most sound.  The stone path continues far into the city, upon which a
+few various individuals roam.  Soft city sounds echo through the streets,
+though it seems mostly a peaceful {yvi{Ylla{yge{x.  
+~
+0
+0 1
+E
+village~
+The village is rather peaceful and quiet, with soft sounds and a few
+people along the streets, though not much else can be seen.  
+~
+E
+sound~
+Faint sounds can be heard within the city, and occasionally from within
+the walls of the gate, though it otherwise appears rather quiet.  
+~
+E
+gate~
+The arch of the gate's peak stands roughly twelve feet from the ground,
+and curves down to meet the dirt.  Large iron gates loom on each side,
+waiting to be shut.  
+~
+E
+shade~
+The shadows under the gate fill the small area at all times of day,
+mercilessly depriving the ground from any light except that which is
+occasionally brought through by a traveler or guard.  
+~
+D0
+~
+~
+0 0
+0 0 12003
+D2
+~
+~
+3 3
+1 0 12002
+S
+#12125
+A Balcony~
+This outdoor jut from the inn overlooks the Main Street below.  Throngs
+of people move through the street by day, and this little spot also gives a
+good view of the Blight and the Tower that guards against it in the
+distance.  Lights are fixed to the walls to the left and right of the
+Balcony, giving light for those who wish to come out here at night for any
+reason.  Vines growing around it's rail and a soft breeze make this spot
+rather beautiful.  
+~
+0
+D 0
+D1
+~
+~
+1 1
+1 0 12114
+S
+#12126
+A Dirt Path~
+Here a small dirt path leads off the stone road of the town.  Very little
+vegetation grows here, but the townsfolk seem to have lined the area with
+decorative stones and planted what will survive along the path, making it a
+nice little area to stroll in.  
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 12127
+D3
+~
+~
+0 0
+0 0 12003
+S
+#12127
+A Small Pathway~
+The dirt pathway continues here, giving way to more natural life, the
+sounds of animals moving in their homes audible.  A bit of moisture seems to
+touch the air as the sound of a nearby brooke begins to touch the air.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 12128
+D3
+~
+~
+0 0
+0 0 12126
+S
+#12128
+A Small Pathway~
+The pathway twists and turns away from the village, fewer and fewer
+people seem to come this way.  The path makes its way up over a short hill,
+giving view to a bubbling brooke nearby.  The vegetation seems to flourish
+near the brooke, the water which is so scarce in this area giving life where
+it is much needed.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 12127
+D1
+~
+~
+0 0
+0 0 12129
+S
+#12129
+Beside A Bubbling Brooke~
+The dirt pathway leads up to the side of the brooke, the smell of fresh
+water seems to hang on the air.  The brooke meanders in from the north and
+makes its way through the land to the southeast.  Off across the brooke is a
+small area that seems to be surprisingly green and peaceful.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 12130
+D2
+~
+~
+4096 4096
+0 0 12131
+D3
+~
+~
+0 0
+0 0 12128
+S
+#12130
+A Meadow~
+The moisture from the brooke seems to have done this area much good. 
+Green seems to grow in the unlikeliest of places, trees and plants sprouting
+up from the soil so near the border of death to north.  Birds can be heard
+chirping in the air above and the tracks of larger, docile creatures can be
+seen in the ground below.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 12129
+S
+#12131
+A Secluded Area~
+Around the curve of the brooke this small cove hides itself from the view
+of passersby.  Many a village teenager has spent hours here, wooing his
+sweetheart.  A large boulder with a smooth surface serves as a place to rest
+ones weary feet.  The sounds of wildlife scampering about nearby can be
+heard all around, and the ground is covered with smooth pebbles, worn down
+by the moving water.  
+~
+0
+0 2
+D0
+~
+~
+4096 4096
+0 0 12129
+D3
+~
+~
+12327 12327
+2 37500 37500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 12002 0 1
+D 0 12009 1 1
+D 0 12010 0 1
+D 0 12011 2 1
+D 0 12014 0 1
+D 0 12015 2 1
+D 0 12015 3 1
+D 0 12016 0 1
+D 0 12017 0 1
+D 0 12017 2 1
+D 0 12018 2 1
+D 0 12024 0 1
+D 0 12024 2 1
+D 0 12025 2 1
+D 0 12027 0 1
+D 0 12029 1 1
+D 0 12029 3 1
+D 0 12030 1 1
+D 0 12030 3 1
+D 0 12031 1 1
+D 0 12031 3 1
+D 0 12032 1 1
+D 0 12032 3 1
+D 0 12033 3 1
+D 0 12034 1 1
+D 0 12035 3 1
+D 0 12036 1 1
+D 0 12037 3 1
+D 0 12038 1 1
+D 0 12039 3 1
+D 0 12040 1 1
+D 0 12041 1 1
+D 0 12041 3 1
+D 0 12042 0 1
+D 0 12042 2 1
+D 0 12043 0 1
+D 0 12043 2 1
+D 0 12044 1 1
+D 0 12044 3 1
+D 0 12045 1 1
+D 0 12045 3 1
+D 0 12046 0 1
+D 0 12046 2 1
+D 0 12047 0 1
+D 0 12047 2 1
+D 0 12048 1 1
+D 0 12048 3 1
+D 0 12049 1 1
+D 0 12049 3 1
+D 0 12050 1 1
+D 0 12050 3 1
+D 0 12051 1 1
+D 0 12051 3 1
+D 0 12052 1 1
+D 0 12052 3 1
+D 0 12053 3 1
+D 0 12054 1 1
+D 0 12055 1 1
+D 0 12056 3 1
+D 0 12057 2 1
+D 0 12058 0 1
+D 0 12059 2 1
+D 0 12060 0 1
+D 0 12061 0 1
+D 0 12061 2 1
+D 0 12062 0 1
+D 0 12062 3 1
+D 0 12063 2 1
+D 0 12063 3 1
+D 0 12064 0 1
+D 0 12064 1 1
+D 0 12065 1 1
+D 0 12065 2 1
+D 0 12066 3 1
+D 0 12067 1 1
+D 0 12068 3 1
+D 0 12069 1 1
+D 0 12070 3 1
+D 0 12071 1 1
+D 0 12072 3 1
+D 0 12073 1 1
+D 0 12075 1 1
+D 0 12076 0 1
+D 0 12076 2 1
+D 0 12077 0 1
+D 0 12077 2 1
+D 0 12079 2 1
+D 0 12080 0 1
+D 0 12081 2 1
+D 0 12082 0 1
+D 0 12085 0 1
+D 0 12085 2 1
+D 0 12087 2 1
+D 0 12087 3 1
+D 0 12088 1 1
+D 0 12089 1 1
+D 0 12089 3 1
+D 0 12090 3 1
+D 0 12091 1 1
+D 0 12092 0 1
+D 0 12092 1 1
+D 0 12093 3 1
+D 0 12094 1 1
+D 0 12095 3 1
+D 0 12097 0 1
+D 0 12098 2 1
+D 0 12100 1 1
+D 0 12101 3 1
+D 0 12102 1 2
+D 0 12102 3 1
+D 0 12102 4 1
+D 0 12103 0 1
+D 0 12104 0 1
+D 0 12105 2 1
+D 0 12106 2 1
+D 0 12107 3 2
+D 0 12108 1 1
+D 0 12108 3 1
+D 0 12109 5 1
+D 0 12110 1 1
+D 0 12110 3 1
+D 0 12111 1 1
+D 0 12112 3 1
+D 0 12115 0 1
+D 0 12115 2 1
+D 0 12116 2 1
+D 0 12117 0 1
+D 0 12118 1 1
+D 0 12118 3 1
+D 0 12119 1 1
+D 0 12119 3 1
+D 0 12120 3 1
+D 0 12121 1 1
+D 0 12122 3 1
+D 0 12123 1 1
+D 0 12124 2 1
+D 0 12131 3 2
+M 0 12039 6 12000 2
+E 0 12079 0 20
+E 0 12080 0 13
+M 0 12039 6 12000 2
+E 0 12079 0 20
+E 0 12080 0 13
+M 0 12039 6 12001 2
+E 0 12077 0 8
+M 0 12039 6 12001 2
+E 0 12077 0 8
+M 0 12039 6 12002 2
+E 0 12078 0 7
+M 0 12039 6 12002 2
+E 0 12078 0 7
+M 0 12070 10 12003 2
+M 0 12070 10 12003 2
+M 0 12011 20 12003 5
+E 0 12029 0 7
+M 0 12012 20 12003 5
+E 0 12032 0 7
+M 0 12013 20 12003 5
+E 0 12034 0 7
+M 0 12011 20 12005 5
+E 0 12030 0 9
+M 0 12012 20 12005 5
+E 0 12033 0 10
+M 0 12013 20 12005 5
+E 0 12035 0 9
+M 0 12070 10 12006 2
+M 0 12070 10 12006 2
+M 0 12011 20 12007 5
+E 0 12031 0 10
+M 0 12012 20 12007 5
+E 0 12032 0 7
+M 0 12013 20 12007 5
+E 0 12036 0 10
+O 0 12028 0 12007
+M 0 12050 6 12008 2
+M 0 12050 6 12008 2
+O 0 12069 0 12008
+M 0 12031 1 12008 1
+G 0 12070 0
+G 0 12071 0
+G 0 12072 0
+M 0 12070 10 12009 2
+M 0 12070 10 12009 2
+M 0 12011 20 12010 5
+E 0 12031 0 10
+M 0 12012 20 12010 5
+E 0 12033 0 10
+M 0 12013 20 12010 5
+E 0 12036 0 10
+M 0 12070 10 12012 2
+M 0 12070 10 12012 2
+M 0 12000 20 12014 5
+E 0 12002 0 7
+M 0 12050 6 12015 2
+M 0 12050 6 12015 2
+M 0 12000 20 12016 5
+E 0 12022 0 15
+O 0 12010 0 12018
+O 0 12011 0 12018
+O 0 12012 0 12018
+M 0 12004 1 12018 1
+E 0 12073 0 20
+M 0 12000 20 12019 5
+E 0 12002 0 7
+M 0 12050 6 12020 2
+M 0 12050 6 12020 2
+M 0 12000 20 12021 5
+E 0 12022 0 15
+M 0 12038 5 12023 5
+M 0 12008 20 12024 5
+E 0 12004 0 20
+M 0 12009 3 12025 3
+M 0 12034 5 12027 5
+M 0 12035 10 12028 5
+O 0 12074 0 12033
+O 0 12075 0 12033
+P 0 12076 1 12075 1
+M 0 12036 1 12033 1
+O 0 12074 0 12034
+O 0 12074 0 12035
+O 0 12074 0 12036
+O 0 12074 0 12037
+O 0 12074 0 12038
+O 0 12074 0 12039
+O 0 12074 0 12040
+O 0 12013 0 12053
+O 0 12013 0 12054
+O 0 12013 0 12055
+O 0 12013 0 12056
+M 0 12000 20 12058 5
+E 0 12004 0 20
+O 0 12003 0 12064
+P 0 12004 1 12003 1
+P 0 12000 1 12065 1
+O 0 12065 0 12065
+P 0 12000 1 12065 1
+M 0 12001 2 12066 1
+E 0 12022 0 15
+M 0 12037 10 12066 10
+O 0 12008 0 12067
+M 0 12032 10 12067 5
+G 0 12024 0
+G 0 12027 0
+G 0 12025 0
+G 0 12026 0
+M 0 12033 10 12068 5
+M 0 12033 10 12069 5
+O 0 12011 0 12070
+O 0 12012 0 12070
+O 0 12010 0 12070
+M 0 12005 1 12070 1
+O 0 12010 0 12071
+O 0 12011 0 12071
+O 0 12012 0 12071
+M 0 12006 1 12071 1
+O 0 12013 0 12072
+O 0 12014 0 12072
+P 0 12015 1000 12014 7
+M 0 12007 4 12072 4
+M 0 12001 4 12074 4
+E 0 12022 0 15
+M 0 12000 20 12074 5
+E 0 12004 0 20
+M 0 12008 20 12074 4
+M 0 12002 1 12075 1
+E 0 12004 0 20
+G 0 12002 0
+G 0 12004 0
+G 0 12018 0
+G 0 12020 0
+G 0 12008 0
+G 0 12023 0
+G 0 12022 0
+G 0 12021 0
+G 0 12019 0
+M 0 12011 20 12077 5
+E 0 12030 0 9
+M 0 12012 20 12077 5
+E 0 12032 0 7
+M 0 12013 20 12077 5
+E 0 12035 0 9
+M 0 12027 1 12079 1
+G 0 12053 0
+G 0 12054 0
+M 0 12014 1 12080 1
+E 0 12029 0 7
+E 0 12030 0 9
+E 0 12031 0 10
+G 0 12055 0
+G 0 12056 0
+M 0 12015 1 12081 1
+G 0 12059 0
+G 0 12058 0
+G 0 12057 0
+M 0 12016 1 12082 1
+G 0 12060 0
+G 0 12061 0
+G 0 12062 0
+G 0 12063 0
+M 0 12011 20 12086 5
+E 0 12029 0 7
+M 0 12012 20 12086 5
+E 0 12033 0 10
+M 0 12013 20 12086 5
+E 0 12034 0 7
+O 0 12042 0 12087
+M 0 12022 1 12087 1
+M 0 12023 1 12088 1
+O 0 12043 0 12088
+P 0 12044 5 12043 5
+O 0 12041 0 12090
+M 0 12024 1 12091 1
+O 0 12038 0 12091
+P 0 12040 1 12038 1
+O 0 12039 0 12091
+M 0 12025 1 12092 1
+O 0 12043 0 12093
+P 0 12045 3 12043 3
+O 0 12046 0 12093
+P 0 12047 1 12046 1
+O 0 12049 0 12105
+O 0 12048 0 12106
+O 0 12083 0 12107
+O 0 12084 0 12107
+P 0 12085 1 12084 1
+O 0 12050 0 12108
+O 0 12082 0 12109
+P 0 12081 1 12082 1
+M 0 12026 5 12109 5
+O 0 12051 0 12111
+P 0 12052 1 12051 1
+M 0 12018 6 12112 6
+M 0 12017 1 12112 1
+M 0 12020 4 12112 4
+E 0 12037 0 7
+M 0 12019 1 12113 1
+G 0 12067 0
+G 0 12066 0
+G 0 12064 0
+M 0 12028 10 12113 5
+M 0 12021 3 12114 1
+E 0 12037 0 7
+O 0 12068 0 12129
+M 0 12029 1 12130 1
+M 0 12030 5 12130 5
+S
+
+
+
+#SHOPS
+12002 0 0 0 0 0 100 100 0 23
+12014 9 0 0 0 0 100 100 0 23
+12015 0 19 0 0 0 100 100 0 23
+12016 0 0 0 0 0 100 100 0 23
+12019 0 0 0 0 0 100 100 0 23
+12027 5 0 0 0 0 100 100 0 23
+12031 0 0 0 0 0 100 100 0 23
+12032 0 19 0 0 0 100 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,3737 @@
+#AREADATA
+Name Osenrein~
+Builders Tashalon Zytka~
+VNUMs 24100 24300
+Credits None~
+Security 5
+Low 40
+High 80
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#24101
+man stable master~
+a {yst{Dab{wl{We{wm{Das{yter{x~
+A {yst{Dab{wl{We{wm{Das{yter{x stands in the doorway, greeting passersby.
+~
+A stout man stands here, his tuft of {Dgr{yey{wing {ybr{D{ww{yn{x hair combed over his
+head.  Her wears simple clothes and thick work {Dboots{x, made for walking
+around things that would be on stable floors.  
+~
+andoran~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 elbow
+0 0 0 0 0
+A
+3 3 3 3
+FIK 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#24102
+man horse~
+a man leading a {yh{Do{wr{Ds{ye{x~
+A man walks the streets, leading his {yh{Do{wr{Ds{ye{x to the stables.
+~
+A tall, thin man with dusty {ybl{Yon{yde{x hair has hold of his horse's {yr{De{yins{x. 
+He keeps the animal under control as they walk through the city to the
+stables.  
+~
+andoran~
+A 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+FIK 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#24103
+sailor~
+a {Wsailor{x~
+A {Wsailor{x stands at the banks of the river, watching ships pass.
+~
+Dressed in his {Wwhite{x uniform, a sailor stands here.  He is of medium
+height and has a muscular build.  
+~
+andoran~
+AB 0 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 uppercut
+0 0 0 0 0
+A
+4 4 4 4
+CFIKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24104
+groomsman man groom~
+a {Dgr{woo{Wm{wsm{Dan{x~
+A {Dgr{woo{Wm{wsm{Dan{x stands here combing a {yhorse{x.
+~
+An orderly {Dgr{woo{Wm{wsm{Dan{x is here, neatly dressed.  He cares for each animal
+that comes into the stable...  That is, if he is paid appropriately.  
+~
+andoran~
+AB 0 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+CFIK 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24105
+horse brown~
+a {yhorse{x~
+A brown {yhorse{x is here, standing complacently.
+~
+A brown-haired horse is here, standing complacently and not doing much of
+anything.  In fact, if its eyes weren't open, you would be sure that it was
+sleeping on its feet.  Even so, you still think the odds of it being asleep
+at this moment are at least slim.  
+~
+unique~
+AB J 1000 0
+37 27 19d19+1369 37d10+100 4d11+18 bite
+0 0 0 0 0
+A
+1 1 1 1
+FIM 0 0 0
+stand stand male 0
+AGV ACDEKLQ medium 'flesh'
+#24106
+wiry man gleeman~
+a {Rg{Yl{Ge{Ce{Bm{ma{Wn{x~
+A wiry man with long, straggly {Whair{x plays a {yloot{x on the stage.
+~
+A wiry man with long, straggly {Whair{x that curls around his shoulders
+stands here playing a {yloot{x for the entertainment of the guests in the
+gathering area.  He sings songs to pass the time and juggles colorful {Rb{Ya{Gl{Bl{ms{x
+as he tells stories.  
+~
+mayener~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+CFIK 0 BEGH ILZ
+stand stand male 20
+0 0 medium 'flesh'
+#24107
+uncommon rotund man bartender aiel~
+a rotund woman~
+A rotund {mw{Mo{Wm{Ma{mn{x examines the room and serves drinks.
+~
+A woman who is rather round walks through her establishment, looking for
+clientele to serve.  She hums an old tune to herself from time to time.  
+~
+andoran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CEFHIJKNO ABCD EGH ILR
+stand stand male 100
+0 0 medium 'flesh'
+#24108
+drunken patron man~
+a drunken man~
+A drunken man is here, about to fall off his {ystool{x because he is laughing so hard.
+~
+A nicely dressed man is here.  It looks as though he has been here for a
+while, because he clearly has had a lot to drink.  He is probably a visitor
+to this inn, instead of a local, because he has allowed himself to get into
+this position.  Hopefully he doesn't have very far to walk to get to his
+bed.  
+~
+mayener~
+AB 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 elbow
+0 0 0 0 0
+A
+1 1 1 1
+CFIK 0 BEGH ILZ
+stand stand male 10
+0 0 medium 'flesh'
+#24109
+house mouse flee mice~
+a small house {ymouse{x~
+A small {ymouse{x skitters across the floor.
+~
+A small {ymouse{x with pale {ybrown{x fur scurries around looking for
+{gf{Goo{gd{x.  It thrives in the human habitat, adjusting its reproductive
+and territorial behavior to match the food supply.  The mouse's ears are
+well-developed, giving it a heightened sense of hearing to detect predators.
+Its scaly {Mt{Wai{Ml{x is at least three-quarters of the mouse's body
+length, helping it to hurry along narrow ledges.  
+~
+unique~
+ABW JX 0 0
+15 5 8d8+225 15d10+100 2d7+7 bite
+0 0 0 0 0
+A
+0 0 0 0
+FH 0 J L
+stand stand either 0
+AGV ACDEFHKQ medium 'flesh'
+#24110
+long snake~
+a {gs{Gn{Ya{Gk{ge{x~
+A long {gs{Gn{Ya{Gk{ge{x slithers here, trying not to be noticed.
+~
+A bright {gg{Gree{gn{x snake with deep {Rred{x spots slithers through a small puddle of
+{Cw{ca{Wt{ce{Cr{x.  Its forked {Rtongue{x flicks in and out.  
+~
+snake~
+AB FGJM 0 0
+25 15 13d13+625 25d10+100 3d8+12 whip
+0 0 0 0 0
+A
+0 0 0 0
+FMN 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#24111
+cook assistant~
+a {Wcook{x~
+A {Wcook{x stands here, making rotisserie {yc{Dh{Wi{ycken{x.
+~
+A cook, dressed in standard {Wwhite{x, is here, turning the spit to cook the
+food.  
+~
+tairen~
+AB 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+-2 -2 -2 -2
+CFIK 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#24112
+busy man~
+a busy {bm{Ba{bn{x~
+A busy {bm{Ba{bn{x walks down the street with a bundle of {Wpapers{x under his arm.
+~
+A tall, thin man walks the streets, his {yh{Ya{ri{yr{x blowing slightly from the
+breeze that is created from his swift walk.  
+~
+andoran~
+A 0 1000 0
+60 50 31d32+3600 60d10+100 7d7+30 headbutt
+0 0 0 0 0
+A
+3 3 3 3
+CFIKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#24113
+pretty woman~
+a pretty {mw{Moma{mn{x~
+A pretty {mw{Moma{mn{x strolls the street, humming a gentle tune.
+~
+A thin woman with long, {Ddark{x hair is out on the town.  Perhaps she is out
+to do a bit of shopping, or to visit friends, or to pick up some meat for
+the evening dinner.  
+~
+andoran~
+A 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIKN 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#24114
+messy boy~
+a {Dm{we{Ws{ws{Dy{x little boy~
+A {Dm{we{Ws{ws{Dy{x little boy plays in the streets.
+~
+A little boy, covered in {Ddirt{x as little boys typicall are, runs through
+the streets chasing friends and animals and laughing.  
+~
+andoran~
+A 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#24115
+burly farmer~
+a burly {rfarmer{x~
+A burly {rfarmer{x stomps through the city, looking out of place.
+~
+A burly farmer clomps along in his heavy work {Dboots.  {x Dressing in
+{Boveralls{x, with a piece of {Ystraw{x hanging from his lips, he looks very out of
+place.  
+~
+andoran~
+A 0 1000 0
+55 45 28d28+3025 55d10+100 6d11+27 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#24116
+crowd people~
+a crowd of {Dp{we{Wo{Dp{wl{De{x~
+A crowd of {Dp{we{Wo{Dp{wl{De{x make their way over the bridge.
+~
+A throng of people rush either direction on the bridge, crowding it and
+making it difficult to pass.  
+~
+andoran~
+AB 0 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 crush
+0 0 0 0 0
+A
+4 4 4 4
+CFIKN 0 0 0
+stand stand either 100
+0 0 medium 'flesh'
+#24117
+well trained guard~
+a well-trained {Wgu{Da{Wrd{x~
+A well-trained {Wgu{Da{Wrd{x stands here, watching the people on the street.
+~
+A guard stands here with his hands neatly tucked behind his back.  He is
+large and stoic.  And, obviously well-trained.  Otherwise, he would not be
+at this station.  
+~
+andoran~
+ABT 0 1000 0
+80 70 41d42+6400 80d10+100 9d9+40 headbutt
+0 0 0 0 0
+A
+5 5 5 5
+CFIJKN 0 0 0
+stand stand male 90
+0 0 medium 'flesh'
+#24118
+dark man~
+a {Ddark{x man~
+A {Ddark{x man hides in the shadows, leering at you.
+~
+A dark man with scars on his arms and face stands here in the shadows. 
+He looks to be someone you would not want to mess with.  
+~
+andoran~
+ABST PQ -1000 0
+90 80 46d47+8100 90d10+100 10d10+45 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand male 90
+0 0 medium 'flesh'
+#24119
+pickpocket~
+a {Dpi{wck{Dpo{wck{Det{x~
+A {Dpi{wck{Dpo{wck{Det{x strolls the streets.
+~
+A indescript man strolls the streets.  His hands are in his pockets and
+he looks around casually.  Perhaps you will be his next victim.  
+~
+andoran~
+A 0 1000 0
+60 50 31d32+3600 60d10+100 7d7+30 headbutt
+0 0 0 0 0
+A
+3 3 3 3
+CFIKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#24120
+myrddraal eyeless fade2~
+a {Dmyrddraal{x~
+A creature in a motionless {Dblack{x cloak is hiding in the shadows.
+~
+This creature looks like it could be human, tall and thin.  But there is
+something missing.  Its face is almost gaunt and very {Wpale{x.  It has no eyes
+in its head, but is still able to fight with stealth.  Its motionless {Dblack{x
+cloak helps it to hide and spy or attack its victim unknowingly.  
+~
+fade~
+ABF GJQVc -1000 0
+100 90 55d55+10000 100d10+100 16d16+100 slice
+0 0 0 0 0
+A
+7 7 7 7
+CEFGHJKNOQ ABCabc HI JP
+stand stand male 100
+0 0 medium 'unknown'
+F aff P
+F res L
+F vul R
+#24121
+friendly gambler~
+a friendly {Wg{Da{Wm{Db{Wl{De{Wr{x~
+A friendly {Wg{Da{Wm{Db{Wl{De{Wr{x sits here, dicing with those around him.
+~
+A friendly man is all smiles.  He sits here, throwing his {Wd{Di{Wce{x when it is
+his turn.  A large pile of {yc{Yoin{ts{x sits beside him.  
+~
+andoran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+JKN 0 H JR
+stand stand male 200
+0 0 medium 'flesh'
+#24122
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#24123
+blacksmith repair~
+a {Dblack{wsm{Wi{wth{x~
+A {Dblack{wsm{Wi{wth{x is here, repairing weapons.
+~
+The mastercraftsman of the town is here, busy working on repairs.  He
+contorts his face each time he has to hit a piece of glowing metal, proving
+that it requires strength and also diligence to perform this task.  
+~
+aiel~
+ABE 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CEFHIJKNO ABCD EGH ILR
+stand stand male 100
+0 0 medium 'flesh'
+#24124
+well trained guard~
+a {Wgu{Da{Wrd{x~
+A {Wgu{Da{Wrd{x is here, getting ready for his patrol.
+~
+A guard is here putting on his {Dboots{x.  He is getting ready for his patrol
+and must be in perfect order.  His uniform his neatly pressed and every
+{yb{Yutto{yn{x, {Wribbon{x and {bs{Btas{bh{x is where is should be.  
+~
+andoran~
+ABT 0 1000 0
+80 70 41d42+6400 80d10+100 9d9+40 headbutt
+0 0 0 0 0
+A
+5 5 5 5
+CFIJKN 0 0 0
+stand stand male 90
+0 0 medium 'flesh'
+#24125
+mayor~
+a {Dm{wa{Wy{wo{Dr{x~
+A {Dm{wa{Wy{wo{Dr{x stands here, busily shuffling {Wpapers{x on his desk.
+~
+A tall man is here, wearing a {Ddark{x hat on top of his {Ddark{x hair.  He also
+wears a {Dblack{x suit with pin {Wstripes{x that is neatly tailored.  A {yg{Yol{yd{x pocket
+watch chain can be hanging from his pocket.  He seems a little
+self-absorbed, but it always willing to speak with you.  
+~
+mayener~
+ABS 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CFI 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#24126
+male servant man~
+a male {Wservant{x~
+A male {Wservant{x is here, going about his tasks.
+~
+This man is dressed in a tidy {Wwhite{x uniform.  He goes back doing the
+tasks of his job and waits on the Mayor when he is in the room.  
+~
+andoran~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+IKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#24127
+haggard old woman~
+a haggard old {Dw{wo{Wm{wa{Dn{x~
+A haggard old {Dw{wo{Wm{wa{Dn{x stands here, mixing {yh{ge{yrbs{x.
+~
+An old woman stands here, dressed in the wool {ycl{Do{yth{we{ys{x of a peasant.  She
+has long, {Dg{wra{Dy{x hair that looks like it is combed every once in a while and a
+large wart on her nose.  
+~
+andoran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+CFIKN 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#24128
+house mouse flee mice~
+a small house {ymouse{x~
+A small {ymouse{x skitters across the floor.
+~
+A small {ymouse{x with pale {ybrown{x fur scurries around looking for
+{gf{Goo{gd{x.  It thrives in the human habitat, adjusting its reproductive
+and territorial behavior to match the food supply.  The mouse's ears are
+well-developed, giving it a heightened sense of hearing to detect predators.
+Its scaly {Mt{Wai{Ml{x is at least three-quarters of the mouse's body
+length, helping it to hurry along narrow ledges.  
+~
+unique~
+ABW JX 0 0
+15 5 8d8+225 15d10+100 2d7+7 bite
+0 0 0 0 0
+A
+0 0 0 0
+FH 0 J L
+stand stand either 0
+AGV ACDEFHKQ medium 'flesh'
+#24129
+pigeon flock~
+a {Dp{wi{Wge{wo{Dn{x~
+Several {Dp{wi{Wge{wo{Dns{x sit in the rafts, cooing softly.
+~
+A flock of {Dgray{x and {Wwhite{x {Dp{wi{Wge{wo{Dns{x sit in the rafters.  At times, a few of
+them have a scuffle and downy, {Wwhite{x feathers fill the air and fall to the
+floor.  
+~
+song bird~
+ABHW 0 1000 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+0 0 0 0
+C 0 R J
+stand stand either 0
+0 0 medium 'flesh'
+F aff T
+F off F
+#24130
+watching man~
+a {cm{Ca{cn{x watching the {Br{Ci{Wv{Ce{Br{x~
+A {cm{Ca{cn{x stands here watching the {Br{Ci{Wv{Ce{Br{x and the {yboats{x that pass.
+~
+~
+andoran~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+FIKN 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#24131
+smiling woman~
+a smiling {Mw{mo{Mm{ma{Mn{x~
+A smiling {Mw{mo{Mm{ma{Mn{x is here, enjoying the view.
+~
+~
+andoran~
+AB 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 shoulderbash
+0 0 0 0 0
+A
+1 1 1 1
+FIKN 0 0 0
+stand stand female 100
+0 0 medium 'flesh'
+#24132
+man horse~
+a man leading a {yh{Do{wr{Ds{ye{x~
+A man is here, riding his {yh{Do{wr{Ds{ye{x across the bridge.
+~
+A tall, thin man with dusty {ybl{Yon{yde{x hair has hold of his horse's {yr{De{yins{x. 
+He keeps the animal under control as they walk through the city to the
+stables.  
+~
+andoran~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+A
+2 2 2 2
+FIK 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#24133
+sailor~
+a {Wsailor{x~
+A {Wsailor{x stands on the bridge, watching the ships and women pass.
+~
+Dressed in his {Wwhite{x uniform, a sailor stands here.  He is of medium
+height and has a muscular build.  
+~
+andoran~
+AB 0 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 uppercut
+0 0 0 0 0
+A
+4 4 4 4
+CFIKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24174
+carefully paint painted target~
+a carefully painted {Rt{Wa{Rr{Wg{Re{Wt{x~
+A carefully painted {Rt{Wa{Rr{Wg{Re{Wt{x stands here, ready for practice.
+~
+~
+unique~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'wood'
+#24175
+busy cook~
+a busy {Wcook{x~
+A busy {Wcook{x hurries around the kitchen preparing top of the line {ycu{Di{ws{yine{x.
+~
+A {Wcook{x stands here, chopping {gve{Gge{gta{Gbl{ges{x and kneeding {Wd{you{Wgh{x.  He wears a
+tall {Wwhite{x hat and a uniform of pristine {Wwhite{x.  He is skilled enough at his
+craft that very little of what he is doing colors his clothes.  
+~
+andoran~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 chop
+0 0 0 0 0
+A
+2 2 2 2
+IKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'RANDOM' 24175 1~
+#24176
+bouncer large man~
+a {Dbo{wu{Wn{wc{Der{x~
+A very large man stands here with folded arms, greeting guests as they enter.
+~
+A top knot is tied upon this man's head, his hair shaved off around it. 
+Unlike other Shienaran warriors, he holds no weapons.  Instead, he folds his
+massive, {yhairy{x arms over his chest and glances around the room with
+{yh{Ya{ywk{x-like eyes.  His four hundred pound body looks more like a gorilla than
+a man.  There is not an ounce of fat on him.  
+~
+shienaran~
+AB 0 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 headbutt
+0 0 0 0 0
+A
+7 7 7 7
+CEFKLO ABb 0 PT
+stand stand male 0
+0 0 large 'flesh'
+M 'GREET' 24176 100~
+#24177
+bartender smiling~
+a smiling {Dba{wr{Wten{wd{Der{x~
+A smiling {Dba{wr{Wten{wd{Der{x wipes a {cg{Clas{cs{x with a {Wcloth{x while he waits for your order.
+~
+A tall man with {ybrown{x hair and a beard stands here.  He is very friendly
+and knowledgable about his craft.  He uses a {Wwhite{x cloth to clean mugs and
+glasses while he waits for your order.  
+~
+andoran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN ABCD 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24178
+pretty serving girl~
+a pretty serving girl~
+A pretty serving girl with {ych{res{ytnut{x hair carries a {Dt{wr{Wa{Dy{x around the room, serving food to guests.
+~
+A pretty serving girl works quickly to ensure that the patrons are
+served.  She has full, {Red{x lips that smile happily as she works.  A {Bblue
+{Bribbon{x holds her {yche{rs{ytnut{x hair back from her face.
+~
+mayener~
+AB 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand female 100
+0 0 medium 'flesh'
+M 'SPEECH' 24187 quiche~
+M 'SPEECH' 24186 sandwich~
+M 'SPEECH' 24185 fruit~
+M 'SPEECH' 24184 meat~
+M 'RANDOM' 24199 2~
+#24179
+pretty serving girl~
+a pretty serving girl~
+A pretty serving girl, dressed in a formal {Dblack g{wow{Dn{x, carries a {Wt{wr{Da{Wy{x around the room, filled with {Dg{wo{Wbl{we{Dts{x.
+~
+A pretty serving girl works quickly to ensure that the patrons are
+served.  She has full, {Rred{x lips that smile happily as she works.  She looks
+very formal and pretty in a clinging {Dblack{x dress.  
+~
+mayener~
+AB 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand female 100
+0 0 medium 'flesh'
+M 'SPEECH' 24189 goblet~
+#24180
+waiter~
+a waiter dressed in a {Dt{Wu{Dx{We{Dd{Wo{x~
+A waiter dressed in a {Dt{Wu{Dx{We{Dd{Wo{x walks the room holding a {Dt{wr{Wa{Dy{x filled with {yh{Do{Wr{ys {Yd'{Wo{Deu{Wve{yrs{x.
+~
+A tall, thin man dressed in a {Dt{Wu{Dx{We{Dd{Wo{x walks the room.  His {yhair{x is neatly
+combed and styled for the occasion.  
+~
+andoran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 beating
+0 0 0 0 0
+A
+6 6 6 6
+BFHJN AB CD 0
+stand stand male 150
+0 0 medium 'flesh'
+M 'SPEECH' 24195 salmon~
+M 'SPEECH' 24194 eclair~
+M 'SPEECH' 24193 mushroom~
+M 'SPEECH' 24192 caviar~
+M 'SPEECH' 24191 strawberry~
+#24181
+private butler~
+a private {Db{wu{Wtl{we{Dr{x~
+A private {Db{wu{Wtl{we{Dr{x stands here, waiting to see to the needs of those in the luxury suites.
+~
+A bald man dressed in {Dblack t{wu{Wxe{wd{Do{x and {Wwhite g{wl{Wo{wv{We{ws{x stands here, greeting
+the guests of the inn politely.  He is obviously well-trained in the art of
+etiquette.  
+~
+andoran~
+AB 0 100 0
+50 40 26d27+2500 50d10+100 6d6+25 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+CIN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 24190 100~
+#24182
+maid woman~
+a {Dm{Wa{Di{Wd{x~
+A {Dm{Wa{Di{Wd{x walks the inn, cleaning and dusting and seeing to the needs of the guests.
+~
+A pretty young woman skitters through the halls of the inn fulfilling her
+chores.  Her long, {yb{Ylond{ye{x ponytail sways as she walks, as do her hips.  She
+wears the uniform - a {Dblack{x, full-skirted dress covered with a {Wwhite{x apron. 
+It is quite appealing to look at.  
+~
+mayener~
+A 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+CFI 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#24183
+professional dicer~
+a professional {Wd{Di{Wc{De{Wr{x~
+A professional {Wd{Di{Wc{De{Wr{x sits here, playing his game with those around him.
+~
+A crafty looking man with a {ymustache{x sits here with a pile of {yc{Yoin{ys{x
+stacked in front of him.  He is clearly good at the game he plays and
+dresses the part in a fancy {bs{Bui{bt{x.  
+~
+andoran~
+AB 0 1000 0
+60 50 31d32+3600 60d10+100 7d7+30 headbutt
+0 0 0 0 0
+A
+3 3 3 3
+CFIKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24184
+game player~
+a game {Dp{Bl{Way{Be{Dr{x~
+A game {Dp{Bl{Way{Be{Dr{x sits here, trying to earn a few extra {yc{Yoi{yns{x.
+~
+A rather non-descript man sits here examining his gaming options.  He
+would like take home a few extra {yc{Yoi{yns{x and is working rather diligently to
+do just that.  
+~
+andoran~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24185
+bartender smiling~
+a smiling {Dba{wr{Wten{wd{Der{x~
+A smiling {Dba{wr{Wten{wd{Der{x stands here behind a small {ybar{x waiting to take your order.
+~
+A tall man with {ybrown{x hair and a beard stands here.  He is very friendly
+and knowledgable about his craft.  He uses a {Wwhite{x cloth to clean mugs and
+glasses while he waits for your order.  
+~
+andoran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN ABCD 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24186
+old gray mare~
+an old {Dgr{wa{Wy m{wa{Dre{x~
+An old {Dgr{wa{Wy m{wa{Dre{x stands here, looking rather timid.
+~
+An old looking {Dgr{wa{Wy horse stands here.  Her {Dt{wai{Dl{x and {Dm{wan{De{x are combed, so
+she is well-cared for.  But, she just looks tired and worn out.  However,
+looks can be deceiving.  
+~
+unique~
+AZ V 1000 0
+90 80 47d48+8500 90d10+100 11d11+50 bite
+0 0 0 0 0
+A
+6 6 6 6
+CFIKO 0 ER L
+stand stand female 0
+AGV ACDEFJLQ large 'flesh'
+#0
+
+
+
+#OBJECTS
+#24100
+fountain~
+a beautiful {Wfountain{x~
+A beautiful {Wfountain{x, made from the same material as the Tower, stands here spraying {Bw{Ca{Wt{Ce{Br{x.~
+stone~
+fountain 0 P
+100000 100000 'water' 0 0
+45 0 0 100
+#24101
+bag oats~
+a bag of {yo{Ga{gt{ys{x~
+A bag of {yo{Ga{gt{ys{x has been dropped on the ground and is spilling all over.~
+organic~
+food 0 AO
+25 20 0 0 0
+0 3 35 100
+#24102
+vegetables~
+a variety of fresh {gve{Gge{gta{Gbl{ges{x~
+A variety of fresh {gve{Gge{gta{Gbl{ges{x are stored here.~
+organic~
+food 0 A
+4 4 0 0 0
+0 1 0 100
+#24103
+hay~
+a pile of {Yhay{x~
+A soft pile of {Yhay{x {wis here on the ground.~
+hay~
+furniture 0 P
+2 2000 EHK 100 200
+0 0 0 100
+#24104
+table wooden chair~
+one of numerous {ywooden{x tables and chairs~
+Numerous {ywooden{x tables and chairs are scattered around the room.~
+wood~
+furniture 0 P
+20 10000 DEHKN 110 110
+1 0 0 100
+#24105
+red wine glass~
+a glass of {Rr{re{Rd w{rin{Re{x~
+A glass of {Rr{re{Rd w{rin{Re{x sits on the {ybar{x.~
+organic~
+drink 0 AO
+4 4 'red wine' 0 0
+0 2 15 100
+#24106
+mug of ale~
+a mug of {Dd{war{Dk {ya{Dl{ye{x~
+A tall mug full of dark liquid sits here.~
+alcohol~
+drink S A
+10 10 'ale' 0 0
+1 0 75 100
+#24107
+food stew~
+a bowl of {ystew{x~
+A bowl of steaming {ybeef{x stew rests here.~
+food~
+food 0 A
+4 2 0 0 0
+0 1 12 100
+#24108
+steak~
+a nice, thick, juicy {ys{Dt{yeak{x~
+A nice, thick, juicy {ys{Dt{yeak{x is stored here.~
+meat~
+food 0 A
+48 48 0 0 0
+1 0 20 100
+#24109
+bundle wood~
+a bundle of {ywood{x~
+A bundle of {ywood{x is stacked neatly on the floor.~
+wood~
+trash 0 AO
+0 0 0 0 0
+0 8 10 100
+#24110
+dicing table~
+a {Wd{Di{Wc{Di{Wn{Dg {ytable{x~
+Several {Wd{Di{Wc{Di{Wn{Dg {ytables{x stand around the room.~
+wood~
+furniture 0 P
+10 10000 D 0 0
+0 0 0 100
+#24111
+piece straw~
+a piece of {Ystraw{x~
+A piece of {Ystraw{x has beend dropped on the ground.~
+organic~
+trash 0 AV
+0 0 0 0 0
+0 0 0 100
+#24112
+rotisserie chicken~
+a {yrotisserie c{Wh{Dic{yken{x~
+A {yrotisserie c{Wh{Dic{yken{x has been mistakenly dropped on the ground.~
+organic~
+food 0 AN
+7 5 0 0 0
+0 2 80 100
+#24113
+kite shield~
+a kite {Bs{Rh{Bi{Re{Bl{Rd{x~
+A kite {Bs{Rh{Bi{Re{Bl{Rd{x has been dropped on the ground.~
+metal~
+armor 0 AJ
+30 20 30 0 0
+80 10 250 100
+A
+17 -20
+A
+1 4
+#24114
+small dagger~
+a small {Dd{wa{Wgg{we{Dr{x~
+A small {Dd{wa{Wgg{we{Dr{x has been dropped here.~
+metal~
+weapon b AN
+dagger 10 15 'slice' 0
+90 2 500 100
+A
+19 8
+A
+18 8
+#24115
+spear long~
+a long {Ds{wp{ye{wa{Dr{x~
+A long {Ds{wp{ye{wa{Dr{x is here on the ground.~
+wood~
+weapon 0 AN
+spear 9 14 'stab' 0
+80 3 200 100
+A
+18 6
+A
+19 6
+A
+2 2
+#24116
+chair desk mahogany plush~
+a {mpl{Mu{msh{x armchair~
+A {mpl{Mu{msh{x, inviting armchair sits near the fireplace.~
+cloth~
+furniture 0 P
+5 600000 EH 140 140
+0 0 0 100
+#24117
+brass canopy bed~
+a tall, {ybr{Ya{yss{x canopy bed~
+A tall, {ybr{Ya{yss{x canopy bed stands here in the center of the room.~
+brass~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#24118
+comfortable bed~
+a very comfortable {Wfeather{x bed~
+A very comfortable {Wfeather{x bed stands here.~
+wood~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#24119
+cot~
+a comfortable {Wc{yo{Wt{x~
+Several {Wc{yo{Wts{x are neatly lined in the room, each made to perfection.~
+cloth~
+furniture 0 P
+12 12000 EHK 0 0
+0 0 0 100
+#24120
+footlocker~
+a {Dfo{wot{Wlo{wck{Der{x~
+A {Dfo{wot{Wlo{wck{Der{x is closed here, at the end of a {yc{Wo{yt{x.~
+metal~
+container 0 P
+100 AC 0 2 0
+0 0 0 100
+#24121
+paper piece~
+a piece of {Wpaper{x with {Dwords{x written on it~
+A piece of {Wpaper{x with {Dwords{x written on it has been dropped on the ground.~
+paper~
+trash 0 AO
+0 0 0 0 0
+0 1 0 100
+E
+paper~
+All my pwoblems
+who knows, maybe evwybody's pwoblems
+is due to da fact, due to da awful twuth
+dat I am SPIDERMAN.
+I know.  I know.  All da dumb jokes:
+No flies on you, ha ha,
+and da ones about what do I do wit all
+doze extwa legs in bed.  Well, dat's funny yeah.
+But you twy being
+SPIDERMAN for a month or two.  Go ahead.
+
+You get doze cwazy calls fwom da
+Gubbener askin you to twap some booglar who's
+only twying to wip off color T.V. sets.
+Now, what do I cawre about T.V. sets?
+But I pull on da suit, da stinkin suit,
+wit da sucker cups on da fingers,
+and get my wopes and wittle bundle of
+equipment and den I go flying like cwazy
+acwoss da town fwom woof top to woof top.
+
+Till der he is.  Some poor dumb color T.V. slob
+and I fall on him and we westle a widdle 
+until I get him all woped.  So big deal.
+
+You tink when you SPIDERMAN
+der's sometin big going to happen to you.
+Well, I tell you what.  It don't happen dat way.
+Nuttin happens.  Gubbener calls, I go.
+Bwing him to powice, Gubbener calls again,
+like dat over and over.
+
+I tink I twy sometin diffunt.  I tink I twy
+sometin excitin like wacing cawrs.  Sometin to make
+my heart beat at a difwent wate.
+But den you just can't quit being sometin like
+SPIDERMAN.
+
+You SPIDERMAN for life.  Fowever.  I can't even
+buin my suit.  It won't buin.  It's fwame wesistent.
+So maybe dat's youwr pwoblem too, who knows.
+Maybe dat's da whole pwoblem wif evwytin.
+Nobody can buin der suits, dey all fwame wesistent.
+Who knows?
+~
+#24122
+desk~
+a large {ydesk{x~
+A large {ydesk{x stands in the middle of the room.~
+cloth~
+furniture 0 P
+1 1000 D 0 0
+0 0 0 100
+#24123
+vegetables~
+a bunch of {gve{Gge{gta{Gbl{ges{x~
+A bunch of {gve{Gge{gta{Gbl{ges{x are soaking here.~
+organic~
+food 0 A
+30 25 0 0 0
+0 1 10 100
+#24126
+lounge chair~
+a {Wlo{wun{Wge {ychair{x~
+A {Wlo{wun{Wge {ychair{x is reclining here, waiting for someone to sit in it.~
+wood~
+furniture 0 P
+2 20000 EHK 0 0
+0 0 0 100
+#24127
+corn ear~
+an ear of {Yc{go{Yrn{x~
+An ear of {Yc{go{Yrn{x grows on a stalk here.~
+organic~
+food 0 A
+20 15 0 0 0
+0 1 10 100
+#24128
+large bed~
+a large {yb{We{yd{x~
+A large {yb{We{yd{x stands here, dominating the room.~
+wood~
+furniture 0 P
+2 20000 EHK 0 0
+0 0 0 100
+#24129
+beautiful fountain~
+a beautiful {Wfountain{x~
+A beautiful {Wfountain{x is here, spraying {Bw{C{Wt{Ce{Br{x.~
+stone~
+fountain a P
+100000 100000 'water' 0 0
+0 0 0 100
+#24130
+park bench~
+a park {ybench{x~
+A park {ybench{x sits here, nestled in the {gg{Gras{gs{x.~
+wood~
+furniture 0 P
+2 20000 EHK 0 0
+0 0 0 100
+#24131
+table stool~
+a {ystool{x next to a rickety {ytable{x~
+A {ystool{x sits next to a rickety {ytable{x in the center of the room.~
+wood~
+furniture 0 P
+2 20000 EH 0 0
+0 0 0 100
+#24132
+bunch lilacs~
+a bunch of {mli{Wl{m{Ma{mcs{x~
+A bunch of {mli{Wl{Ma{mcs{x are growing on the ground.~
+organic~
+trash 0 AO
+0 0 0 0 0
+0 2 20 100
+#24133
+small pouch herbs~
+a small {Dp{wo{Wu{wc{Dh{x of {yhe{gr{Gb{ys{x~
+A small {Dp{wo{Wu{wc{Dh{x sits on the ground.~
+organic~
+pill 0 AO
+90 'heal' '' '' ''
+0 1 200 100
+#24134
+black key~
+a {Dblack{x key~
+A {Dblack{x key has been dropped here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 10 100
+#24135
+myrddraal sword~
+{Da tainted myrddraal sword{x~
+{DA tainted myrddraal sword lays on the ground.{x~
+metal~
+weapon CP AN
+sword 10 20 'none' H
+90 3 100 100
+#24141
+steel tipped lance~
+a {Ds{wt{We{we{Dl-ti{wpp{Ded l{wa{yn{wc{De{x~
+A {Ds{wt{We{we{Dl-ti{wpp{Ded l{wa{yn{wc{De{x has been dropped here.~
+wood~
+weapon 0 AN
+lance 10 15 'pierce' 0
+90 15 1000 100
+A
+18 6
+A
+2 3
+A
+1 3
+A
+18 5
+A
+19 4
+A
+19 4
+#24142
+soft silky blanket bedroll~
+a soft, {ms{Milk{my b{Mla{Wn{Mke{mt{x~
+A soft, {ms{Milk{my b{Mla{Wn{Mke{mt{x lays spread out on the ground.~
+silk~
+furniture b A
+2 20000 EHK 700 850
+0 1 1500 100
+#24144
+six foot sandwich~
+a yummy six foot {ys{Ra{Gn{Ddw{Gi{Rc{yh{x~
+A yummy six foot {ys{Ra{Gn{Ddw{Gi{Rc{yh{x sits on the ground, covered in {Dants{x.~
+organic~
+food 0 AO
+120 120 0 0 0
+0 5 1000 100
+#24145
+nylon backpack~
+a {Dn{wy{Wl{wo{Dn {cb{Ca{wc{Dkp{wa{Cc{ck{x~
+A {Dn{wy{Wl{wo{Dn {cb{Ca{wc{Dkp{wa{Cc{ck{x has been dropped here.~
+cloth~
+container b AS
+500 AC 0 150 0
+0 1 1500 100
+#24146
+ash crossbow~
+a {ycr{Dos{ysb{Do{yw{x made from {ya{Ds{yh{x~
+A {ycr{Dos{ysb{Do{yw{x made from {ya{Ds{yh{x has been left here.~
+wood~
+weapon 0 AN
+bow 10 15 'pierce' 0
+90 2 1000 100
+A
+18 4
+A
+19 6
+A
+19 4
+#24147
+ribbon breastplate blue~
+a {bb{Blu{be r{Bibbo{bn{x~
+A {bb{Blu{be r{Bibbo{bn{x has been left here.~
+cloth~
+armor 0 AD
+30 20 30 10 0
+90 2 1000 100
+E
+ribbon~
+A pretty {bb{Blu{be r{Bibbo{bn{x has {yg{Yol{yd{x letters printed on it, reading "{y1s{Yt P{Wri{yze, {YBe{Wer Drin{Yki{yng{x."
+~
+#24148
+ribbon breastplate blue~
+a {bb{Blu{be r{Bibbo{bn{x~
+A {bb{Blu{be r{Bibbo{bn{x has been left here.~
+cloth~
+armor 0 AD
+30 20 30 10 0
+90 2 1000 100
+E
+ribbon~
+A pretty {bb{Blu{be r{Bibbo{bn{x has {yg{Yol{yd{x letters printed on it, reading "{y1s{Yt P{Wri{yze, {YPi{We Ea{Yti{yng{x."
+~
+#24149
+four poster oak bed~
+a four poster, highly glossed {yo{Ya{yk{x bed covered in {ysa{Yt{yin{x sheets~
+A four poster, highly glossed {yo{Ya{yk{x bed covered in {ysa{Yt{yin{x sheets stands in the center of the room.~
+wood~
+furniture a P
+2 20000 EHK 100 100
+0 0 0 100
+#24150
+king sized sleigh bed~
+a {csl{Wei{cgh{x {ybed{x covered in a {Wdowny white{x quilt~
+A {csl{Wei{cgh{x {ybed{x covered in a {Wdowny white{x quilt stands here.~
+wood~
+furniture a P
+2 20000 EH 100 100
+0 0 0 100
+#24151
+stunning cherry queen sized sleigh bed~
+a stunning {rch{Der{rry{x queen sized sleight bed~
+A stunning {rch{Der{rry{x queen sized sleight bed draws ones eye towards to left side of the room.~
+wood~
+furniture a P
+2 20000 EHK 100 100
+0 0 0 100
+#24152
+bed pillows poster~
+a king size {ys{rl{yeigh b{re{yd{x covered in a fluffy {mc{mo{M{mm{Mf{morter{x and dozens of {ys{Yilk{yy p{Yi{wllo{yw{ys{x ~
+A king size {ys{rl{yeigh b{re{yd{x covered in a fluffy {mc{mo{M{mm{Mf{morter{x and dozens of {ys{Yilk{yy p{Yi{wllo{yw{ys{x stands in the room.~
+wood~
+furniture 0 P
+2 20000 EHK 100 100
+0 0 0 100
+#24153
+king size sleigh bed~
+a {ys{rle{yigh bed{x with a thick {Rr{re{Rd{x and {yg{Yol{yd{x feather {rc{Ro{ym{Yfo{yr{Rte{rr{x~
+A {ys{rle{yigh bed{x with a thick {Rr{re{Rd{x and {yg{Yol{yd{x feather {rc{Ro{ym{Yfo{yr{Rte{rr{x is made neatly in the room.~
+cloth~
+furniture 0 P
+2 20000 EHK 100 100
+0 0 0 100
+#24154
+bearskin rug~
+a {yb{De{yar s{Dk{yin r{Du{yg{x~
+A soft, fluffy {yb{De{yar s{Dk{yin r{Du{yg{x stretches in front of the fireplace.~
+skin~
+furniture 0 P
+2 20000 EHK 100 100
+0 0 0 100
+#24155
+bottle champagne~
+a chilled {cbo{Ctt{cle{x of {ych{Yam{Wp{Yag{yne{x~
+A chilled {cbo{Ctt{cle{x of {ych{Yam{Wp{Yag{yne{x sits here.~
+glass~
+drink 0 AO
+10 10 'champagne' 0 0
+0 0 0 100
+#24156
+ice chest~
+an {Ci{cc{Ce {ychest{x~
+An {Ci{cc{Ce {ychest{x stands near the sitting area.~
+wood~
+container 0 P
+1000 AC 0 5 0
+0 0 0 100
+#24157
+pile pillows~
+a pile of silken {yp{Yi{Wllo{Yw{ys{x~
+Several silken {yp{Yi{Wllo{Yw{ys{x are piled in front of the {Wf{wi{Wr{we{Wp{wl{Wa{wc{We{x.~
+cloth~
+furniture 0 P
+2 20000 EHK 100 100
+0 0 0 100
+#24158
+chaise lounge~
+a comfortable {yc{Yh{Wai{Ys{ye {ylo{Yun{yge{x~
+A beautiful silk {yc{Yh{Wai{Ys{ye {ylo{Yun{yge{x stands in the sitting area.~
+wood~
+furniture 0 P
+2 20000 EHK 100 100
+0 0 0 100
+#24159
+massive poster bed~
+a massive {yposter b{re{yd{x surrounded by {Wwhite c{wu{Wr{wt{Wa{wi{Wn{ws{x and covered in {rr{Ro{rse p{ge{Gt{Ral{rs{x~
+A massive {yposter b{re{yd{x surrounded by {Wwhite c{wu{Wr{wt{Wa{wi{Wn{ws{x and covered in {rr{Ro{rse p{ge{Gt{Ral{rs{x stands here in the bedroom.~
+wood~
+furniture 0 P
+2 20000 EHK 100 100
+0 0 0 100
+#24160
+crystal goblet~
+a {cc{Cr{Wyst{Ca{cl{x {cg{Co{Wbl{Ce{ct{x~
+A {cc{Cr{Wyst{Ca{cl{x {cg{Co{Wbl{Ce{ct{x sits here on a {ysu{rng{ywood{x table.~
+glass~
+drink 0 AO
+1 0 'orange juice' 0 0
+0 0 0 100
+#24161
+table orange juice pitcher~
+a beautiful {Dp{we{Wwt{we{Dr{x pitcher~
+A chilled {cp{Ci{Wtch{Ce{cr{x of {Ror{Ya{yn{Yge {yj{Ru{Yi{Rc{ye{x sits here on a {ysu{rng{ywood{x table.~
+glass~
+drink 0 A
+5 5 'orange juice' 0 0
+0 0 0 100
+#24162
+ornate ornately carved patio chair sungwood~
+an ornately carved {ysu{rng{ywood {Wpatio{x chair~
+Two ornately carved {ysu{rng{ywood {Wpatio{x chairs sit here, waiting for occupants.~
+wood~
+furniture 0 P
+2 20000 FIL 100 100
+0 0 0 100
+#24163
+wrought iron chair chairs padded~
+a {Dwr{wou{Wght-{wir{Don{x chair with a comfortable {yc{Yus{Wh{Yio{yn{x~
+Several {Dwr{wou{Wght-{wir{Don{x chairs with a comfortable {yc{Yus{Wh{Yio{yns{x sit here, waiting for occupants.~
+metal~
+furniture 0 P
+10 10000 EHK 100 100
+0 0 0 100
+#24164
+chamber pot~
+a {Dch{wa{Wm{wb{Der {ypot{x~
+A {Dch{wa{Wm{wb{Der {ypot{x has been built here.~
+wood~
+furniture 0 P
+1 10000 E 0 0
+0 0 0 100
+#24165
+privacy screen~
+a privacy {csc{Cr{We{Ce{cn{x~
+A privacy {csc{Cr{We{Ce{cn{x stands here, hiding all behind it.~
+cloth~
+furniture 0 P
+0 0 0 0 0
+0 0 0 100
+#24166
+marble tub~
+a {wm{Wa{wr{Wb{wl{We{x tub~
+A {wm{Wa{wr{Wb{wl{We{x tub hides behind a privacy {csc{Cr{We{Ce{cn{x.~
+cloth~
+container a P
+25000 F 0 2 0
+0 0 0 100
+#24167
+sungwood poster bed~
+a massive {ysun{Dgw{yood{x poster bed~
+A massive {ysun{Dgw{yood{x poster bed dominates a good portion of the room.~
+wood~
+furniture a P
+2 20000 EHK 0 0
+0 0 0 100
+#24168
+sturdy gaming table~
+a sturdy {Dg{Wa{Dm{Wi{Dn{Wg{x {ytable{x~
+Several sturdy {Dg{Wa{Dm{Wi{Dn{Wg{x {ytables{x are spread around the room.~
+cloth~
+furniture 0 P
+10 10000 EHK 100 100
+0 0 0 100
+#24169
+pipe~
+a {Dp{Wi{Dpe{x~
+A {Dp{Wi{Dpe{x {wis here, carelessly left on the ground.~
+wood~
+trash 0 AN
+0 0 0 0 0
+0 1 35 100
+#24170
+king size bed~
+a king size bed surrounded by a sheer {ba{Bz{mu{Br{be{x canopy~
+A king size bed commands attention in the center of the room, the sheer {ba{Bz{mu{Br{be{x canopy flowing around the bed in an alluring fashion.~
+cloth~
+furniture a P
+2 20000 EHK 0 0
+0 0 0 100
+#24171
+feather duster~
+a {yf{we{Da{yt{wh{De{yr{x duster~
+A {yf{we{Da{yt{wh{De{yr{x duster has been left here.~
+feather~
+weapon 0 AN
+mace 4 9 'crush' 0
+35 1 0 100
+A
+19 9
+#24172
+maypole~
+a {rc{Ro{Ml{Yo{Gr{Cf{Bu{ml{x {ymaypole{x~
+A {rc{Ro{Ml{Yo{Gr{Cf{Bu{ml{x {ymaypole{x stands here, wrapped with {rr{Ri{Yb{Gb{Co{Bn{ms{x for dancing.~
+cloth~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#24173
+mug beer~
+a mug of {ybeer{x~
+A mug of {ybeer{x has been dropped on the ground.~
+liquid~
+drink 0 A
+1 1 'beer' 0 0
+0 1 15 100
+#24174
+pile hay~
+a pile of {Yh{ya{Yy{x~
+A pile of {Yh{ya{Yy{x is scattered on the ground.~
+organic~
+furniture 0 P
+2 20000 EHK 500 500
+0 0 0 100
+#24175
+beautiful carved stone fountain~
+a beautifully carved {Ds{wt{Wo{wn{De {Dfo{wu{Wnt{wa{Din{x~
+A beautifully carved {Ds{wt{Wo{wn{De {Dfo{wu{Wnt{wa{Din{x stands in the center of the courtyard.~
+stone~
+fountain 0 P
+100000 100000 'water' 0 0
+0 0 0 100
+#24176
+beautifully carved stone bench~
+a beautifully carved {Ds{wt{Wo{wn{De b{wen{Dch{x~
+Two beautifully carved {Ds{wt{Wo{wn{De b{wen{Dches{x sit on soft {gg{Gras{gs{x just off the walkway.~
+stone~
+furniture 0 P
+4 40000 EHK 400 400
+0 0 0 100
+#24177
+sungwood bar stool barstool~
+a carefully crafted {ysu{rng{ywood ba{rrs{yt{roo{yl{x~
+Several carefully crafted {ysu{rng{ywood ba{rrs{yt{roo{yls{x line the {ysu{rng{ywood{x bar.~
+wood~
+furniture 0 P
+15 150000 E 100 150
+0 0 0 100
+#24178
+carved sungwood table~
+a carved {ysu{rng{ywood{x table~
+Several carved {ysu{rng{ywood{x tables are placed neatly around the room.~
+wood~
+furniture 0 P
+20 200000 D 0 0
+0 0 0 100
+#24179
+cup coffee~
+a cup of {yco{Df{yfee{x~
+A cup of {yco{Df{yfee{x has been dropped here.~
+cloth~
+drink 0 AO
+15 15 'coffee' 0 0
+0 1 25 100
+#24180
+glass whiskey~
+a {cg{Clas{cs{x of {ywhiskey{x~
+A glass of {cg{Clas{cs{x of {ywhiskey{x has been dropped here.~
+glass~
+drink 0 AO
+15 15 'whisky' 0 0
+0 1 50 100
+#24181
+mug fine ale~
+a mug of fine {yale{x~
+A mug of fine {yale{x has been dropped here.~
+glass~
+drink 0 AO
+15 15 'ale' 0 0
+0 1 35 100
+#24182
+glass red wine~
+a {cg{Clas{cs{x of {rr{Re{rd w{Rin{re{x~
+A {cg{Clas{cs{x of {rr{Re{rd w{Rin{re{x has been dropped here.~
+glass~
+drink 0 AO
+15 15 'red wine' 0 0
+0 1 45 100
+#24183
+cup tea~
+a cup of {rbl{Dac{rkb{Der{rry{x {gs{ya{gge {yt{ge{ya{x~
+A steaming cup of {rbl{Dac{rkb{Der{rry{x {gs{ya{gge {yt{ge{ya{x has been left here.~
+glass~
+drink 0 AO
+15 15 'tea' 0 0
+0 1 40 100
+#24184
+pastry filled meat~
+a {ypa{Ys{ytry{x filled with {ym{re{yat{x~
+A {ypa{Ys{ytry{x filled with {ym{re{yat{x has been dropped here.~
+organic~
+food 0 AO
+20 15 0 0 0
+0 1 1 100
+#24185
+pastry filled fruit~
+a {ypa{Ys{ytry{x filled with {Rf{Gr{Yu{Gi{Rt{x~
+A {ypa{Ys{ytry{x filled with {Rf{Gr{Yu{Gi{Rt{x has been dropped here.~
+organic~
+food 0 AO
+20 15 0 0 0
+0 1 1 100
+#24186
+cucumber finger sandwich~
+a {Gcu{Wc{Gum{Wb{Ger{x finger {ys{Wandwic{yh{x~
+A {Gcu{Wc{Gum{Wb{Ger{x finger {ys{Wandwic{yh{x has been dropped here.~
+organic~
+food 0 AO
+20 15 0 0 0
+0 1 1 100
+#24187
+miniature quiche~
+a miniature {Yqu{Di{Rc{Yhe{x~
+A miniature {Yqu{Di{Rc{Yhe{x has been dropped here.~
+organic~
+food 0 AO
+20 15 0 0 0
+0 1 1 100
+#24188
+silver fountain~
+a {Ws{wi{Dlv{we{Wr{x fountain flowing with {ych{Yamp{Wa{Ygn{ye{x~
+A {Ws{wi{Dlv{we{Wr{x fountain flowing with {ych{Yamp{Wa{Ygn{ye{x is a centerpiece for a large serving {ytable{x.~
+metal~
+fountain 0 P
+100000 100000 'champagne' 0 0
+0 0 0 100
+#24189
+pewter goblet~
+a pewter {Dg{wo{Wbl{we{Dt{x~
+A pewter {Dg{wo{Wbl{we{Dt{x filled with {ych{Yamp{Wa{Ygn{ye{x is on the ground.~
+metal~
+drink 0 AO
+1 1 'champagne' 0 0
+0 1 1 100
+#24190
+ice sculpture~
+an intricately carved {cic{De s{Wc{Cul{Wp{Ctu{cre{x~
+An intricately carved {cic{De s{Wc{Cul{Wp{Ctu{cre{x is a centerpiece for a serving {ytable{x.~
+ice~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#24191
+chocolate strawberry~
+a {ych{Doc{yo{Dla{yte{x dipped {rst{Rra{rwb{Rer{rry{x~
+A {ych{Doc{yo{Dla{yte{x dipped {rst{Rra{rwb{Rer{rry{x has been dropped on the ground.~
+organic~
+food 0 AO
+10 10 0 0 0
+0 1 1 100
+#24192
+caviar cracker~
+a {ycr{Ya{ycker{x covered with {Dca{wv{Diar{x~
+A {ycr{Ya{ycker{x covered with {Dca{wv{Diar{x lies on the ground.~
+organic~
+food 0 AO
+10 10 0 0 0
+0 1 1 100
+#24193
+stuffed mushroom~
+a {yst{Yuf{Wf{yed m{Dus{wh{Dr{yoom{x~
+A {yst{Yuf{Wf{yed m{Dus{wh{Dr{yoom{x has been dropped on the ground.~
+organic~
+food 0 AO
+10 10 0 0 0
+0 1 1 100
+#24194
+chocolate eclair~
+a {yc{Dh{yo{Dc{yo{Dl{ya{Dt{ye ec{Dla{yir{x~
+A {yc{Dh{yo{Dc{yo{Dl{ya{Dt{ye ec{Dla{yir{x is rotting on the ground.~
+organic~
+food 0 AN
+10 10 0 0 0
+0 1 1 100
+#24195
+salmon puffs~
+a {Msa{Dl{Wm{Mon {yp{Yu{yff{x~
+A {Msa{Dl{Wm{Mon {yp{Yu{yff{x is squished into the ground.~
+organic~
+food 0 AN
+10 10 0 0 0
+0 1 1 100
+#24196
+food apple pie~
+an {ga{Gppl{ge {ypie{x~
+A very large {ga{Gppl{ge {ypie{x has been left here.~
+organic~
+food S A
+4 4 0 0 0
+1 8 20 100
+#24197
+cherry pie~
+a {rc{Rherr{ry {yp{Ri{ye{x~
+A {rc{Rherr{ry {yp{Ri{ye{x has been left here.~
+organic~
+food S A
+5 5 0 0 0
+1 8 20 100
+#24198
+pumpkin pie~
+a {Ypu{Rmp{Ykin {ypie{x~
+A {Ypu{Rmp{Ykin {ypie{x has been left here.~
+organic~
+food S A
+3 3 0 0 0
+1 8 20 100
+#24199
+coconut cream pie~
+a {Wco{yc{Wonut {Wc{yre{Wam {ypie{x~
+A {Wco{yc{Wonut {Wc{yre{Wam {ypie{x has been left here.~
+organic~
+food S A
+4 4 0 0 0
+1 8 20 100
+#0
+
+
+
+#ROOMS
+#24100
+The Edge of Town~
+Cold stone roads that have been carefully laid here make an array of
+images on the walkways.  Small houses and shelters can be seen on either
+side of the street, which is only wide enough for 2 horses to squeeze by as
+their owners lead them to their stalls.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 24101
+S
+#24101
+A Road Near A Stable~
+The smell and sounds of horses drift out of the stable that 
+is to the east of this road. A sign above the stable depicts
+a man leading a horse. The local stablemaster is standing in 
+the doorway looking out onto the people that pass in front of
+his establishment.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24100
+D1
+~
+~
+1 1
+1 0 24120
+D2
+~
+~
+0 0
+0 0 24102
+S
+#24102
+In Front Of The Dancing Frog~
+To the east of this artistically decorated roadway is the local inn and
+tavern.  Music and laughter fill the air till early hours of the morning. 
+The building is painted with {Mb{Yr{Gi{Cg{Bh{mt{x colors.  The window sills and door are
+painted in a pure {Wwhite{x.  The sign above the door shows a crudely carved
+frog with a flute in its hands.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24101
+D1
+~
+~
+3 3
+1 0 24122
+D2
+~
+~
+0 0
+0 0 24103
+S
+#24103
+The River View~
+The road here gives an impressive view of the river that is crossed by
+the almost impossible bridges that lead to the wondrous city of Tar Valon. 
+Ships can be seen from time to time passing through this area between the
+island city and this township.  The river seems to speak as it flows along
+its natural course, the wind seems to sing as it crosses the river they
+blend in natural harmony.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24102
+D2
+~
+~
+0 0
+0 0 24104
+S
+#24104
+A Side Street~
+To the east of this road is a open blacksmith's forge with the sounds of
+hammers ringing on metal as it is formed into items that may one day save
+the lives of the people who have the knowledge, and the coin, to purchase
+the high quality equipment.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24103
+D1
+~
+~
+0 0
+0 0 24131
+D2
+~
+~
+0 0
+0 0 24105
+S
+#24105
+The Center of Town~
+A circle made of stone in many colors is in the center of the road here. 
+People pass over the design without looking at it.  If they did, they would
+see that the stones have been replaced many times over, to keep the colors
+of the stone consistent with the colors of the different Ajahs of the White
+Tower.  The main road here leads to the ancient home of the Aes Sedai and
+the people who travel there to become Aes Sedai themselves.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24104
+D1
+~
+~
+0 0
+0 0 24106
+D2
+~
+~
+0 0
+0 0 24113
+D3
+~
+~
+0 0
+0 0 24109
+S
+#24106
+Roadway to the Bridges of Tar Valon~
+Sounds of hammers hitting steel can be heard ringing through the air from
+the blacksmith's shop north of here.  Cracked cobblestone lies on the
+ground, forming a road that has been used for many years and will be used
+for many years in the future to travel to the great city of wonder, the city
+of Tar Valon.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24131
+D1
+~
+~
+0 0
+0 0 24107
+D3
+~
+~
+0 0
+0 0 24105
+S
+#24107
+Roadway to the Bridges of Tar Valon~
+Smells of steel being tempered in oil and water fill the air because to
+the weaponsmith shop to the north of this part of the roadway.  White stone
+crushed almost to the size of gravel covers the ground, once being the stone
+that formed the road.  People can be seen in the distance climbing a bridge
+that traverses the river between this town and Tar Valon.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 24132
+D1
+~
+~
+0 0
+0 0 24108
+D3
+~
+~
+0 0
+0 0 24106
+S
+#24108
+Roadway to the Bridges of Tar Valon~
+White cobblestone fills the roadway here, cracked after many years of use
+by people traveling to and from the island city.  The great spire of the
+White Tower that can be seen from miles around is ever present here, almost
+to the extent of being overbearing.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 24107
+D7
+~
+~
+0 0
+0 0 46228
+S
+#24109
+Roadway to the Bridges of Tar Valon~
+The worn road beneath the hooves of the horses and the feet of the people
+here is the same road that travels to and from the island city of Tar Valon.
+This road has seen rulers and attempted attackers pass on it, in hopes of
+ruling or defeating the great city.  A road older than the town that it
+passes through, almost as old as legends themselves.  This road has seen the
+victims of defeat as they leave the city, striped of their dignity and of
+their pride.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24105
+D3
+~
+~
+0 0
+0 0 24110
+S
+#24110
+Roadway to the Bridges of Tar Valon~
+This road is a small street, wide enough for two horses to pass side by
+side as their riders go to the city of legends, a city of beauty and of
+mystery.  Tar Valon, the home of the most powerful women known, Kings and
+Queens have been known to kneel to the leader of these women, the Amyrlin of
+the White Tower.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24109
+D3
+~
+~
+0 0
+0 0 24111
+S
+#24111
+The Roadway Outside the Guardhouse~
+Men bearing the flame of Tar Valon enter and exit the building to the
+south of this road brandishing a sword.  They have been taught to use this
+weapon to protect the lives of the men and women that live in this town, and
+to protect and patrol the bridge that crosses the river to the great island
+city of Tar Valon.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24110
+D2
+~
+~
+1 1
+1 0 24133
+D3
+~
+~
+0 0
+0 0 24112
+S
+#24112
+At The Foot of The Bridge~
+A bridge, magnificent and majestical in appearance, rises from this spot
+to cross the river between this town and the city of Tar Valon.  The bridge
+seems to have grown here, rather than been built.  It has a presence of the
+impossible to it.  The weight of the bridge and the stone that forms it
+should not be able to stand as it does, yet it performs the impossible and
+has for centuries gone by.  A very large, expensive looking inn has been
+built here.  It looks to be very popular because there are several people
+coming and going from it.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 24175
+D1
+~
+~
+0 0
+0 0 24111
+D3
+~
+~
+0 0
+0 0 24146
+S
+#24113
+A Small Road~
+This road leads to homes and smaller shops that may supply more uncommon
+items.  To the east of this road lies the office of the mayor of this town. 
+Small buildings made of stone and logs look as if they are new compared to
+the buildings that are possible to see in the background, such as the
+ancient White Tower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24105
+D1
+~
+~
+1 1
+1 0 24136
+D2
+~
+~
+0 0
+0 0 24114
+S
+#24114
+A Road in Front of the Mayor's House~
+A two story building is to the west of this road, made of stone that
+seems too big for a man to have moved to this location.  More important than
+the mayor's house, the Fountain of Peace lies to the east.  Smells of fresh
+flowers blooming are melded with the sounds of water flowing, bringing with
+it a sense of peacefulness.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24113
+D1
+~
+~
+0 0
+0 0 24142
+D2
+~
+~
+0 0
+0 0 24115
+D3
+~
+~
+1 1
+1 0 24137
+S
+#24115
+A Small Road~
+The road here leads to a more shady area of this town.  People of
+reputation frequent this area, but only in disguise, and hidden from the
+view of others that walk these streets.  Women in tightly clad clothing, and
+men with looks of greed in their eyes, make it obvious why they are here and
+what their occupation is.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24114
+D3
+~
+~
+0 0
+0 0 24116
+S
+#24116
+An Unlit Road~
+Dark and full of places to hide, people hesitate to travel into this area
+of the town without a sword at their side, and the knowledge of how to use
+it.  People here move quickly, bumping into one another at times making the
+atmosphere of this area seem even worse.  Tempers rise and weapons become
+loosed by the wearers to have them sheathed into the bodies of others.  
+~
+0
+AC 1
+D1
+~
+~
+0 0
+0 0 24115
+D2
+~
+~
+0 0
+0 0 24117
+S
+#24117
+A Small Road~
+To the south of this spot is a road that has been reputed to be the worst
+area of any of the towns that surround the island city of Tar Valon. It 
+is known for the frequency of muggings and improper propositions. Shops
+that run in this area are thought to have little to offer, still people of great 
+wealth still travel the risky road to go to these shops.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24116
+D2
+~
+~
+0 0
+0 0 24118
+D3
+~
+~
+3 3
+1 0 24143
+S
+#24118
+An Unlit Road~
+The roadway here is dark, with only a few slivers of light escaping from
+the shops and homes that line the street.  People seldom enter this area of
+town without a reason that should not be spoken of.  Rumors of the crimes
+and deeds that have been planned in years gone by in this area of the town
+can be heard in Gleeman's tails around the world.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 24117
+D1
+~
+~
+1 1
+1 0 24144
+D2
+~
+~
+0 0
+0 0 24119
+D3
+~
+~
+4609 4609
+1 0 24152
+S
+#24119
+The Outskirts of Town~
+The sounds of animals moving can be heard in the trees that surround this
+area.  Danger is said to float on the air in this part of the country.  Old
+men advise people that travel here to loosen their weapons in their sheaths
+to allow for quick access in the event that the stories of the danger in
+this area turn out to be more than just stories.  
+~
+0
+A 1
+D0
+~
+~
+0 0
+0 0 24118
+D3
+~
+~
+1 1
+1 0 24145
+S
+#24120
+The Stable of The Wandering Horse~
+Young men rush from horse to horse grooming and feeding them
+in their daily routine. Sounds of baying horses, and laughter
+from the groomsmen is always present as is the combination of
+the smells of hay and horses.
+~
+0
+CD 0
+D3
+~
+~
+1 1
+1 0 24101
+D4
+~
+~
+0 0
+0 0 24121
+S
+#24121
+Loft of The Wandering Horse~
+Bails of hay and sacks of oats are stacked neatly here in piles.
+Dust coats the floor and window sills, out of one window it is 
+possible to see the the river that supports this town. There are 
+rats running around on the floor trying to gather food for a meal.
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 24120
+S
+#24122
+Common Room of The Dancing Frog~
+A gleeman is here in the corner of the room, playing music while sitting
+on the edge of a makeshift stage of empty crates.  People at the tables seem
+to be enjoying their meal, or their drink, or for some, a combination of
+both.  A rotund woman stands along the wall watching for any disturbances in
+her establishment.  
+~
+0
+CD 0
+D1
+~
+~
+1 1
+1 0 24123
+D2
+~
+~
+0 0
+0 0 24126
+D3
+~
+~
+3 3
+1 0 24102
+S
+#24123
+Kitchen of The Dancing Frog~
+Pots boil over the many fires that are in this room, cooks scurry
+from pot to pot stirring them while a young lady rotates the spit
+of the rotisserie. A large pile of wood to stoke the fires is in 
+the far corner of this room neatly stacked. 
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 24124
+D3
+~
+~
+1 1
+1 0 24122
+S
+#24124
+Storage Room Off the Kitchen~
+The room here is filled with sacks of flour, beans and other necessary
+items that help keep this inn in operation.  Frequent travel makes it so
+that the floors look worn and old.  Even though it is cleaned daily, it is
+possible that from time to time a mouse or two may live in this room.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 24123
+D5
+~
+~
+0 0
+0 0 24125
+S
+#24125
+The Mud Room~
+Large racks of cured meat hang from the ceiling waiting to be used
+in a meal fit for a king. Bunches of vegetables and herbs are settled
+in carved out areas of the mud walls that are designed to keep this 
+room cold at all times. The occasional snake slithers from the shadows
+attempting not to be noticed.
+~
+0
+AD 0
+D4
+~
+~
+0 0
+0 0 24124
+S
+#24126
+Dicing Room~
+This room is filled with tables that have been supplied with dice so 
+that the patrons of this fine inn may have a form of distraction from 
+a long day's travel. A fireplace is along the far wall with a rug laid
+in front of it for people to sit by the fire and read, write a letter
+or talk about old times with a dear friend.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 24122
+D4
+~
+~
+0 0
+0 0 24127
+S
+#24127
+Top Floor of The Inn~
+Rooms branch off from the stairway here, one to the north and another to
+the east.  To the north is a door that is adorned with brass inlays and
+copper gilding.  To the east is a more simple reproduction of the other door
+with paint being used instead of metal.  The lighting in this hall comes
+from the many oil lanterns that hang on the walls.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 24128
+D1
+~
+~
+3 3
+1 0 24130
+D5
+~
+~
+0 0
+0 0 24126
+S
+#24128
+A Sitting Room~
+After walking past the gilded door, there is an obvious expectation of
+what would be in this room.  Walls with carvings of animals and of
+historical events cover the walls in an almost garish fashion.  In the
+corner of the room is a fireplace with comfortable chairs seated around it. 
+The focal point of the room is the hand-woven rug that lies on the floor.  
+~
+0
+D 0
+D1
+~
+~
+1 1
+1 0 24129
+D2
+~
+~
+3 3
+1 0 24127
+S
+#24129
+A Bedroom in The Dancing Frog~
+A tall, brass canopy bed is here in the center of the room, inviting to
+the eye, but uncomfortable to sleep in.  Many a merchant must have lost a
+good night's sleep to this uncomfortable bed.  An old fashioned clock stands
+proudly in the corner of the room with soft chimes being heard on the hour
+and with the quarters of the hour.  
+~
+0
+D 0
+D3
+~
+~
+1 1
+1 0 24128
+S
+#24130
+A Small Room~
+The small meager look of this room is forgotten as soon as a person sits
+on the bed that rests along the far wall.  Comfort, not rich adornment, was
+the reasoning behind the construction of this bed.  A small fireplace along
+another wall has a small pile of wood beside it.  Everything in this room is
+simple but necessary, and well used.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 24127
+S
+#24131
+The Blacksmith's Forge~
+The sound of hammers hitting iron can be heard ringing from this enclosed
+shelter.  With only two walls, the shop is walked through often by people
+who have no intention of buying the goods or paying for the services of the
+blacksmith here that specializes in armor.  Full body armor rests on stands,
+plate mail hangs from the walls and bracers of all sorts lay in baskets that
+rest on the ground.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 24106
+D3
+~
+~
+0 0
+0 0 24104
+S
+#24132
+A Weaponsmith's Shop~
+Swords of various shapes and sizes rest in racks here, ready for people
+to pick them up and evaluate them for their weight and balance.  The
+weaponsmith boasts that the weapons made here are the best there are - other
+than those that were forged in the Age of Legends.  It is a shame that the
+sign on the door reads "CLOSED."  It might be nice to purchase on of these
+weapons.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 24107
+S
+#24133
+The Guard House~
+Guards of the city of Tar Valon move about here going to and
+arriving from their appointed rounds of protecting the outlying
+towns around Tar Valon. The flame of The White Tower is ever 
+present on anything that can be seen. The floors of this building 
+are made of polished stone which have been worn even smoother from 
+years of people passing over these floors. 
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 24111
+D2
+~
+~
+0 0
+0 0 24135
+D4
+~
+~
+0 0
+0 0 24134
+S
+#24134
+The Quaters of The Guards~
+Beds line the walls here displaying the perfection expected of the
+men that live here and protect the people of this town. The floors
+are spotless and impossibly clean just like everything else that is
+in this room. Books rest in wooden bookcases ensuring that the men
+that are of this guard are as strong in mind as they are in body
+and spirit.
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 24133
+S
+#24135
+Training Yard~
+Young men move, almost dance with the sword here practicing and training
+for the day that they may need their skills to protect and defend this
+township.  With the grace of a cat and the courage of a lion, it is not
+unthinkable that any one of these men could, if they had to, kill a man and
+not think about what they have done as long as it was in the name of peace. 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24133
+S
+#24136
+The Mayor's Office~
+A desk sits here in the middle of the room with an ink well and a fresh
+quill extending from the jar beside it. An ornate box filled with sand 
+is also on the top of the desk resting on a stack of fresh parchment.
+Maps hang along the walls showing the limits of the rule of the mayor,
+and where his influence can be felt by the people. 
+~
+0
+CD 0
+D3
+~
+~
+1 1
+1 0 24113
+S
+#24137
+The House of The Mayor~
+Ornate pieces of furniture decorate the room here while maids and
+servants rush around making sure that everything is as perfect as 
+possible. Sounds of feet moving softly across the floor above and
+in the other rooms of the house can be softly heard throughout the
+house. A window to the west shows a wonderful view of the river that 
+supports the life of this town, without which the town would possibly
+die.
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 24138
+D1
+~
+~
+1 1
+1 0 24114
+D4
+~
+~
+0 0
+0 0 24140
+S
+#24138
+Kitchen of The Mayor's House~
+A single cook is here stirring a huge pot over a fire pit that has been
+built into the far wall of the room.  Smells of burning wood and of fresh
+vegetables cooking are floating on the air here.  There are bunches of
+vegetables soaking in a basin of water, washing off the dirt from the ground
+from which they were just picked.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 24137
+D3
+~
+~
+1 1
+1 0 24139
+S
+#24139
+A Vegetable Garden~
+Stalks of corn and the greens of underground vegetables can be seen here
+as well as a perfect view of the river that flows between the town and 
+the city of Tar Valon. Boats traveling the rivers are able to be watched
+from here if that is the desire of the person standing here. The White
+Tower is the most prominent feature that can be seen here drawing the eye
+of many of the people that harvest the few vegetables that grow here.
+~
+0
+0 2
+D1
+~
+~
+1 1
+1 0 24138
+S
+#24140
+Upstairs of the Mayor's House~
+From time to time, a servant rushes down the stairs that are here.  A
+door engraved with birds and roses along the edges is propped open and a
+fresh breeze off the river can be felt when it hits the building just right.
+Red carpets line the floor and tall vases with roses of many colors in them
+line the walls.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 24141
+D5
+~
+~
+0 0
+0 0 24137
+S
+#24141
+The Mayor's Bedroom~
+Many a politician and many a girl have lost their morals as they slept 
+in this very room. The traditional home of the mayor of this town has 
+ancient furnishings that have been used by the elected officials ever
+since the town was founded in hopes of benefiting from the presence of 
+the island city of Tar Valon.
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 24140
+S
+#24142
+Fountain of Peace~
+A statue of a {Wdove{x in flight is here carrying a pair of {rr{Ro{gs{Re{rs{x in its
+beak.  {BW{Ca{Wt{Ce{Br{x streams from under the bird in a steady flow into the basin
+beneath.  A {gga{Grd{gen{x of fresh {Mf{Yl{Wowe{Yr{Ms{x, dominated by {rr{Rose{rs{x of every color of
+the rainbow, surrounds the {gg{Grasse{gd{x area.  There are a few benches circling
+the {Wfountain{x where people can be found relaxing, taking in feel of peace or
+even at time proclaiming their love to their partner.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 24114
+S
+#24143
+A Citizen's House~
+The walls here are stained a brownish color from the years of constant
+exposure to the sunlight that passes through the windows.  Various pieces of
+furniture are sitting around the room including a table for eating, a stool
+for sitting by the fire, and a bed to sleep on.  This house was built for a
+simple person and has been lived in by such a person.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 24117
+S
+#24144
+Aura-Lynne's Herbal Shop~
+Plants and flowers hang from the rafters of this short building.  The
+smell of lilacs and roses is heavy in the air and bottles of extracts from
+the plants rest on the counter of the shop.  Patrons of this shop walk in
+and out quickly with the hoods of their cloaks drawn over their heads hiding
+their faces from those who might recognize them.  
+~
+0
+D 0
+D3
+~
+~
+1 1
+1 0 24118
+S
+#24145
+A Small Shelter~
+Straw lines the floor of what some may call a house but what
+really looks more like a run-down shack. Mice scurry and birds
+coo from their perch in the low timbers of the roof of this building. 
+Safety must not have been the main concern when this shelter was
+erected.
+~
+0
+AD 0
+D1
+~
+~
+1 1
+1 0 24119
+S
+#24146
+The Bridge to Tar Valon~
+The bridge that crosses the great river here seems to be made of living
+stone.  Grand white arches extend across a span wide enough for two boats to
+pass under with room to spare.  An intricate lacework of stone seems almost
+as if it would break as people pass to and from the great city of Tar Valon.
+Many great armies have passed over this bridge leaving to fight wars to
+protect people and those who live in the Light.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24112
+D4
+~
+~
+0 0
+0 0 24147
+S
+#24147
+The Bridge to Tar Valon~
+The wind increases as the bridge rises above the surface of the water
+below, the sound of the wind almost sounds like a natural harmony with the
+water that flows underneath.  Yelling can be heard as fishing boats and
+shallow bottom ships drift along the water, some of it not so pleasant, but
+there to be heard none the less.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 24148
+D5
+~
+~
+0 0
+0 0 24146
+S
+#24148
+The Bridge to Tar Valon~
+Colorful sails pass under the bridge below bearing the colors of the
+countries that they hail from.  People line the sides of the bridge watching
+in amazement as the faster ships race in an almost playful manner weaving in
+between those that are a bit slower.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24147
+D3
+~
+~
+0 0
+0 0 24149
+S
+#24149
+The Bridge from Tar Valon~
+Wind flows across the bridge blowing all but the largest people around as
+is they were almost nothing.  Occasionally a person riding a horse or
+guiding a cart passes by, either heading to a meeting or returning with all
+the wealth that they could manage.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24148
+D5
+~
+~
+0 0
+0 0 24150
+S
+#24150
+Climbing the Bridge~
+Sounds of the river below fill the ears of those who pass over this
+bridge that seems almost like an impossibility.  Hanging from nothingness,
+it is almost as if the bridge grew here rather than being built.  Years of
+wear and tear have worn the stones to a smooth polish with a gleam in the
+warm sunlight and making it slippery when wet.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 24151
+D4
+~
+~
+0 0
+0 0 24149
+S
+#24151
+Leaving Osenrein~
+Off to the east, it is almost impossible to look past the huge bridge
+that looms over the river.  To the west, the White Tower looks almost
+peaceful and gracious in a serene setting that makes it all the more
+omninous, and to some frightening.  The rocks that are at the foot of this
+bridge are either the last steps on a grand adventure into knowledge, or a
+final step as a life as it was known is ended.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 24150
+D3
+~
+~
+0 0
+0 0 14466
+S
+#24152
+A Hidden Cave~
+Inside this dark cave, there isn't much.  Maybe the sound of {Bw{Ca{Wt{Ce{Br{x
+dripping...  Or the squeaking of rats.  The ceiling and floor is covered
+with scratch marks and pocks.  
+~
+0
+ABDV 0
+D0
+~
+~
+12839 12839
+2 24134 24153
+D1
+~
+~
+4609 4609
+1 0 24118
+S
+#24153
+A Dark Room~
+This room is {Ddark{x and empty. Why would anyone go to all the effort of coming here?
+~
+0
+ABDV 0
+D2
+~
+~
+12839 12839
+2 24134 24152
+S
+#24173
+A Courtyard~
+This courtyard is carefully manicured so that no {gl{Gea{gf{x is out of place.  A
+carefully placed {Dco{wbb{Wles{wto{Dne{x path leads from the inn to the stables and
+curves around, providing a short walk for guests of the inn.  Decorating the
+edges of this path are beautifully sculpted {gbu{Gsh{ges{x carved to look like
+animals and prize winning {rr{Ros{re {gb{Gushe{gs{x that always seem to be in full bloom. 
+Beyond these decorations, large {yo{ga{yk t{gr{Gee{ys{x spread their {gl{Geaf{gy{x branches,
+providing just the right amount of shade on sunny days.  
+~
+0
+0 1
+D1
+~
+'double stable {ydoors{x'~
+1 1
+1 0 24177
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24176
+S
+#24174
+A Beautiful Balcony~
+This private balcony is protected by an intricately carved {Dwr{wou{Wght-{wir{Don{x
+rail.  Linking each rail together is a large fleur de lis, leafed in {yg{Yol{yd{x. 
+The {ysu{rng{Ywood{x floor is supported by two large {Wm{wa{Wr{wb{Wl{we{x columns stretching from
+the bottom, through the floor and then up to the overhanging roof.  Carved
+{Wv{wi{Wn{we{Ws{x twist up these columns, looking strikingly real.  The view of the city
+from here is breathtaking, and at night, with all the {Ws{wp{Wa{wr{Wk{wl{Wi{wn{Wg{x lights, it
+is surreal and beautiful.  
+~
+0
+0 0
+D0
+~
+'double {yf{cr{Cen{cc{yh{x doors'~
+1 1
+1 0 24198
+S
+#24175
+The {BJ{Re{Ys{Bt{Re{Yr{x's Folly Inn~
+This narrow entry room doesn't seem to be much of anything except {ywooden{x
+walls and a smooth {ywo{ro{yden{x floor.  From the beautiful building outside made
+of {D{wt{Wo{wn{De{x with {ywooden{x shutters, beautifully landscaped with large {Du{wr{Wn{Ds{x full of
+{cf{Cl{Wo{Yw{We{Cr{cs{x, you would expect more from the inside.  Hanging from the ceiling is
+a simple wooden chandelier, covered in {yg{Yol{yd{x leaf.  And, on the wall, is a
+small, framed sketch of the exterior of the inn and signed by its artist.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 24176
+D2
+~
+~
+1 1
+1 0 24112
+S
+#24176
+The Common Room~
+Entering the common room, one would forget any impression they had from
+the entry.  This room is massive and so beautifully grand!  Across the
+ceiling are large {ysu{rng{ywood{x beams, carved into elegant vines by skilled Ogier
+hands.  In between these beams, detailed {gfo{Gr{Ye{Gst{gs{x have been painted, looking
+so remarkably real.  The floors are well-polished {yha{rrd{ywood{x, covered with
+large handwoven {yr{Ru{rg{Ys{x.  Paned {cg{Clas{cs{x windows allow for a view of the outside,
+and can be closed by skillfully carved {ysu{rng{ywood{x shutters.  Everything in
+this room is top of the line - only the best for the {BJ{Re{Ys{Bt{Re{Yr{x's Folly.  
+~
+0
+D 0
+D0
+~
+'ornately carved, swinging {ysu{rng{ywood{x door'~
+3 3
+1 0 24179
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24173
+D2
+~
+~
+1 1
+1 0 24175
+D3
+~
+~
+0 0
+0 0 24178
+S
+#24177
+The Inn's Vast Stables~
+A very large stable has been built off of the inn's courtyard to house
+the animals of visitors.  It is made of beautiful {yc{re{ydar{x wood and smells like
+a combination of {ywood{x, {Yhay{x and {yho{Dr{yses{x.  Individual stalls have been built
+around the walls, and in the center of the room is plenty of space for the
+horses to walk, be groomed, or even for guests to hone their fighting
+skills.  This section of the stable has many purposes.  
+~
+0
+D 0
+D0
+~
+'{ygate{x'~
+3 3
+1 0 24180
+D3
+~
+'double stable {ydoors{x'~
+1 1
+1 0 24173
+D4
+~
+'{ytrap door{x'~
+3 3
+1 0 24181
+S
+#24178
+A Stairway~
+A wide staircase leads up to the rooms above the common room. 
+Beautifully carved {ysc{ro{ynces{x, covered in {yg{Yol{yd{x leaf, hold large {Wwhite{x candles
+to light your way.  Upon the ground is a beautiful rug that cascades down
+the stairs.  It has been woven from fine {Rr{re{Rd{x and {yg{Yol{yd{x silk, woven into a
+swirling pattern.  A {ysu{rng{ywood{x rail, carved in careful detail by an Ogier,
+has been attached to the wall.  
+~
+0
+C 0
+D0
+~
+~
+4096 4096
+0 0 24182
+D1
+~
+~
+0 0
+0 0 24176
+D4
+~
+~
+0 0
+0 0 24183
+S
+#24179
+A Very Large Kitchen~
+This kitchen is very modern, complete with all the latest conveniences. 
+Many spits are turning over {rf{Ri{Yr{Wep{Yi{Rt{rs{x built in the center of the room.  {yMe{Ra{yts{x
+of all kinds sizzle as their spices and juices drip into the flames below. 
+There is also running {Bw{Ca{Wt{Ce{Br{x into several large {Dsi{wnk{Ds{x, quite the convenience
+for any inn.  Many of the sinks overflow with fresh {gpr{Godu{gce{x waiting to be
+washed and prepared.  Everything in the kitchen is a frenzy, working to
+prepare top notch cuisine for those who can afford a stay at the {BJ{Re{Ys{Bt{Re{Yr{x's
+Folly.  
+~
+0
+D 0
+D1
+~
+'ornately carved, swinging {ysu{rng{ywood{x door'~
+3 3
+1 0 24182
+D2
+~
+'ornately carved, swinging {ysu{rng{ywood{x door'~
+3 3
+1 0 24176
+S
+#24180
+A Stall~
+A {ywooden{x gate leads into this rather large stall.  Wooden slats separate
+it from the stall next door.  Hanging from the gate is a large {ytr{Dou{ygh{x filled
+with {Yhay{x.  There is also a big {Dm{we{Wt{wa{Dl{x bucket filled with fresh {Bw{Ca{Wt{Ce{Br{x for the
+animals to drink.  Hay has been fluffed on the floor, making the stall and
+ideal place for animals to recover from their journey.  
+~
+0
+DJ 0
+D2
+~
+'{ygate{x'~
+3 3
+1 0 24177
+S
+#24181
+The Hay Loft~
+Inside this very nicely built stable is a small hay loft.  There are
+{Dg{we{Wa{wr{Ds{x and mechanisms housed here, made from {Wr{yo{Wpe{x and {Dh{wo{Wo{wk{Ds{x, that stable boys
+use to make it easier to maneuver the {Yhay{x where it is needed.  There is also
+a trap door that can be opened to allow the hay to be pitched down into the
+troughs below.  Two pitchforks hang neatly on the wall, ready to be used.  
+~
+0
+ADJ 0
+D5
+~
+'{ytrap door{x'~
+3 3
+1 0 24177
+S
+#24182
+A Large Pantry~
+This massive, walk-in pantry is lined with {yshelves{x on all sides.  The
+shelves are stacked with {yb{Do{wx{De{ys{x and {ycr{Yat{yes{x of non-perishable goods - which
+isn't that important since they will be used in a day and restocked the
+following.  {cG{Clas{cs{x jars hold perishable foods like {Rf{Gr{Yu{Gi{Rt{x and {Gve{gge{Gta{gbl{Ges{x that
+have already been prepared for quick meals ordered by guests in their rooms.
+The space is utilized completely, even the floor, which is covered by large
+{ys{Da{ycks{x of {Wflour{x and {ygr{Da{Wi{yns{x for bread and pasta preparation.  
+~
+0
+AD 0
+D2
+~
+~
+4096 4096
+0 0 24178
+D3
+~
+'ornately carved, swinging {ysu{rng{ywood{x door'~
+3 3
+1 0 24179
+S
+#24183
+A Hallway~
+{yG{Yo{Wld{Ye{yn{x scones holding {Wwhite{x candles burn so that you can see the length
+of the hall.  The inn's elaborate rooms begin here, one to the east.  From
+the west, the distinct scent of pipe {Ds{wm{Wo{wk{De{x seeps through the door way. 
+Beautifully woven {Rr{re{Rd{x and {yg{Yol{yd{x carpet stretches to more rooms to the north. 
+~
+0
+D 0
+E
+west~
+A {ybr{Ya{yss{x plague on the door reads "{WThe {RR{re{Rd{x {WRoom{x."
+~
+D0
+~
+~
+0 0
+0 0 24186
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24184
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+1 1
+1 0 24185
+D5
+~
+~
+0 0
+0 0 24178
+S
+#24184
+The Red Room~
+Taking one look at the room and the first thing that would come to mind
+would be a {Rs{ru{yn{Ys{re{Rt{x in breath-taking shades of {rr{Re{rd{x and {ro{yr{ra{yn{rg{ye{x.  The large bay
+window is opposite the door, with a window seat for those who wish to sit in
+the window and enjoy a real {Rs{ru{yn{Ys{re{Rt{x.  The {rr{Rub{ry{x {rr{Re{rd{x curtains billow in the
+gentle breeze.  
+
+A stunning {rch{Der{rry{x queen sized sleigh bed draws ones eye towards the left
+side of the room.  The {rs{Ril{rke{Rn{x sheets glimmer in the different types of {Yl{Wigh{Yt{x
+that grace the room.  A richly designed {rch{Der{rry{x dresser rests beside the
+door.  Atop the dresser rests a petite vase, holding a single {rr{Re{rd{x {rr{Ro{rs{Re{x 
+~
+0
+CD 0
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24183
+S
+#24185
+A Smokey Gambling Hall~
+This room has a very masculine feel to it.  The floor is a dark, rich
+{yha{rrd{ywood{x and the walls are painted a deep {rbu{Rrg{rundy{x.  Wooden beam molding
+runs the length of the ceiling in a grid pattern, leaving space for textured
+{yg{Yol{yd{x-leafing between the beams.  {yW{ro{yoden{x moldings hang on the wall in square
+shapes, large and small depending on their placement.  Many gamers play
+here, smoking pipes, and filling the room with a low hanging cloud of {Dg{wra{Dy{x. 
+~
+0
+CD 0
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+1 1
+1 0 24183
+S
+#24186
+A Hallway~
+The fragrant scent of {yb{Yat{yh o{Yil{ys{x drifts from the north, making the hall
+smell of {cf{Cl{Yow{Cer{cs{x.  Elaborate rooms can be rented to the east and west, both
+are unique and expensive.  In the hall, {ys{Yc{Won{Yce{ys{x on the walls light your way
+and a {Rr{re{Rd{x carpet staggers upstairs to the next level of the inn.  
+~
+0
+D 0
+E
+west~
+A {ybr{Ya{yss{x plague on the door reads "{WThe {GGr{gee{Gn{x {WRoom{x."
+~
+E
+east~
+A {ybr{Ya{yss{x plague on the door reads "{WThe {BB{bl{Bue{x {WRoom{x."
+~
+D0
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+1 1
+1 0 24189
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24187
+D2
+~
+~
+0 0
+0 0 24183
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24188
+D4
+~
+~
+0 0
+0 0 24191
+S
+#24187
+The Blue Room~
+Upon entering this room, one would feel drawn into the room for the
+relaxing shades of {bb{Blu{be{x that are everywhere.  The walls are {cp{bal{ce {bb{Blu{be{x, with
+hints of {Wwhite{x visible, giving the walls a wave like look.  There is a
+window on the eastern window, the elegant {broyal blue{x curtains billow in the
+breeze.  
+
+A canopied king size bed commands attention in the center of the room, the
+sheer {ba{Bz{mu{Br{be{x canopy flows around the bed in an alluring fashion.  A {Dblack{x
+laquered wardrobe is set out of the way.  A small {bblack{x laquered table sits
+near the door, with a vase full of an assortment of {Bf{bl{co{Cw{ce{br{Bs{x.  
+~
+0
+CD 0
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24186
+S
+#24188
+The Green Room~
+A subtle out of doors feeling, the upper half of the walls are painted to
+resemble {Gl{gea{Gve{gs{x, while the lower portion is painted to resemble the {yt{gre{ye{x
+{ytr{Dun{yks{x, even the ceiling is painted like {bmi{Dd{bni{Dg{bht{x there are even small
+{Ws{Di{Wl{Dv{We{Dr{Wy{x star like specks.  The open window on the west wall has the {ggr{Ge{gen{x
+curtains billowing, like that of falling {Gl{gea{Gv{ges{x.  
+
+An Ogier sized {ysun{Dgw{yood{x, four poster bed dominates a good portion of the
+room.  A {ysun{Dgw{yood{x wardrobe is set away from the bed.  A {ysun{Dgw{yood{x shelf is
+near the door and a small {gpo{ytt{ged f{Ger{gn{x sits in the center of the shelf.
+~
+0
+CD 0
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24186
+S
+#24189
+A Bathing Room~
+This room looks to be made entirely of {wm{Wa{wr{Wb{wl{We{x.  There are two {wm{Wa{wr{Wb{wl{We{x wash
+bins with running {Bw{Ca{Wt{Ce{B{x leading to them.  Hanging above each is a {yg{Yi{Wld{Ye{yd
+{cm{Cirro{cr{x.  The tiles on the walls and the floor are {wm{Wa{wr{Wb{wl{We{x as well.  {wM{Wa{wr{Wb{wl{We{x
+tubs, carved so that they have feet, are hidden behind changing {csc{Cr{We{Ce{cn{xs to
+allow for privacy.  At the foot of each is a plush {yg{Yo{Wld{Ye{yn{x floor rug so that
+guests do not slip.  On the far wall, a large {wm{Wa{wr{Wb{wl{We{x fireplace burns
+brightly, keeping the room at ideal temperature.  
+~
+0
+CD 0
+D2
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+1 1
+1 0 24186
+D5
+~
+'a plain {ysu{rn{ywood{x door, carved with a half moon'~
+3 3
+1 0 24190
+S
+#24190
+An Outhouse~
+This small room is rather plain.  It is made entirely of {ywood{x and is
+built a few steps away from the inn.  A door with a half moon carved into it
+ensures privacy.  
+~
+0
+AD 0
+D4
+~
+'a plain {ysu{rn{ywood{x door, carved with a half moon'~
+3 3
+1 0 24189
+S
+#24191
+A Hallway~
+{WWhite{x carpet with {yg{Yo{Wld{Ye{yn{x flecks stretches down this wide hallway, cleaned
+very frequently to keep it looking so pristine.  From the ceiling, candlelit
+{yg{Yol{yd{x and {cc{Cry{Ws{Cta{cl{x chandeliers burn brightly with {Wwhite{x candles to light your
+way.  There are beautiful {gm{yu{Wr{Da{yl{gs{x painted on the walls and on either side,
+just before the large {ysu{rng{ywood{x room doors, there are intricately carved
+{ysu{rng{ywood{x tables holding large {Wpo{wrc{We{wla{Win{x {cv{Case{cs{x exploding with tropical
+{rf{Rl{Yo{Ww{Ye{Rr{rs{x.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 24192
+D5
+~
+~
+0 0
+0 0 24186
+S
+#24192
+A Hallway~
+The scent of tropical {rf{Rl{Yowe{R{rs{x fill this hallway, coming from overflowing
+{cv{Case{cs{x that are placed on carved {ysu{rng{ywood{x tables near each room.  This hall
+houses the most expensive rooms at the inn, behind double {ysu{rng{ywood{x doors
+that lead to them.  {WWhite{x carpet stretches to the south, leading to these
+rooms.  Behind the doors here, are two very elaborate rooms, nicer than the
+ones on the floor below.  
+~
+0
+D 0
+E
+east~
+A {ybr{Ya{yss{x plague on the door reads "{WThe {yG{Yol{yd{x {WRoom{x."
+~
+E
+west~
+A {ybr{Ya{yss{x plague on the door reads "{WThe {WWhite{x {WRoom{x."
+~
+D0
+~
+~
+0 0
+0 0 24191
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24193
+D2
+~
+~
+0 0
+0 0 24195
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24194
+S
+#24193
+The Gold Room~
+The walls of this elegant room have a faint {ygo{Yld{yen{x sheen to them, when
+the light shines just the proper way, larger {ygo{Yld{yen{x swatches can be seen
+glimmering on the walls.  The eastern window has highly glossed {yo{Ya{yk{x
+shutters, which are closed, though the window appears to be open for the
+fresh air drifting around the room.  
+
+Dominating the center of the room is a four poster, highly glossed {yo{Ya{yk{x bed,
+{ysa{Yt{yin{x sheets grace the bed.  Beside the bed is a {yni{Ygh{yts{Yta{ynd{x to match the
+bed.  Finishing off the room decor is a {ywa{Yrd{yro{Ybe{x.
+~
+0
+CD 0
+D3
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24192
+S
+#24194
+The White Room~
+First impression says it all, it's like floating on a {Wpuffy white cloud{x. 
+The walls are painted in a fashion so the stark whiteness doesn't seem to be
+so harsh and is very mellow.  The window is open allowing a fresh air to
+blow through the room.  The {Wwhite cotton{x curtains seem to form into small
+clouds as they blow in the breeze.  
+
+The furnishings of the room are rather simple, the king sized sleigh bed is
+painted in shades to resemble daytime {cs{Wk{cy{x.  The {Wdowny white{x quilt is poofed
+on the bed, giving it a cloud like look as well.  The dresser resembles the
+{cb{We{cd'{Ws{x colouring, though it has small {Wwhite clouds{x painted on it.  Resting on
+the dresser is a vase, full of {Wwhite lillies{x.  
+~
+0
+CD 0
+D1
+~
+'heavy, ornately carved {ysu{rng{ywood{x door'~
+3 3
+1 0 24192
+S
+#24195
+A Hallway~
+The hall opens up into a large circle, ending at three sets of ornately
+carved double {yd{ro{yors{x.  Soft {Wwhite{x carpet with {yg{Yol{yd{x flecks holds an expensive
+{ysu{rng{ywood{x table in the center of this circle.  Upon the table rests a very
+large Seafolk {Wpo{wrc{We{wla{Win{x {gv{Gas{ge{x, filled to overflowing with birds of {rp{Ra{Yra{Wd{Yis{R{re{x,
+{Rr{ros{Res{x and {go{Gr{Wchi{Gd{gs{x.  Above the table hangs a massive {yg{Yol{yd{x and {cc{Cr{Wyst{Ca{cl{x
+chandelier, burning brightly with {yg{Yol{yd{x colored candles.  The chandelier is
+suspended from a muraled ceiling, painted to replicate the Mayene {cs{Ck{Wy{x.  
+~
+0
+D 0
+E
+south~
+A {ybr{Ya{yss{x plague on the door reads "{WThe {yHo{Yne{Wy{Ymo{yon{x {WSuite{x."
+~
+E
+west~
+A {ybr{Ya{yss{x plague on the door reads "{yL{Yu{Wxu{Yr{yy {WSuite 2{x."
+~
+E
+east~
+A {ybr{Ya{yss{x plague on the door reads "{yL{Yu{Wxu{Yr{yy {WSuite 1{x."
+~
+D0
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+0 0
+0 0 24192
+D1
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+3 3
+1 0 24196
+D2
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+3 3
+1 0 24198
+D3
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+3 3
+1 0 24197
+D4
+~
+~
+0 0
+0 0 24199
+S
+#24196
+A Luxury Suite~
+This expensive suite is decorated in {Rr{re{Rd{x, {yg{Yol{yd{x and {Wwhite{x.  The walls have
+been painted a light {yg{Yo{Wld{Ye{yn{x color and stamped with a {yg{Yol{yd{x leaf fleur de lis
+to add richness.  Upon the floor is a massive Tairen woven rug of rich {Rr{re{Rd{x
+and {Wwhite{x.  Sitting upon it is a large {Wwhite l{we{Wa{wt{Wh{weWr{x couch that faces a
+{Ds{wt{Wo{wn{De{x fireplace.  Above the mantle hangs a beautiful {ct{Ca{wp{Des{wt{Cr{cy{x of a large,
+{Wwhite{x palace surrounded by {gf{Go{yre{Gs{gt{x.  Tall {yg{Yol{yd{x pillar lamps, holding {Wwhite{x
+candles light the room, along with large open windows with sheer {Rr{re{Rd{x
+curtains that billow around them.  
+~
+0
+CDJ 0
+D3
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+3 3
+1 0 24195
+S
+#24197
+A Luxury Suite~
+This expensive suite is decorated in rich {yg{Yold{ys{x and {mpu{Mrp{mles{x.  The
+{yha{rrd{ywood{x floors are covered by lavishly woven rugs of {mpurple{x, with hints of
+{gg{Gre{gen{x, and edged in {yg{Yol{yd{x.  These rugs are placed in the sitting area and
+spread beneath the bed.  The walls are tinted a rich {mpu{Mr{mple{x hue, with {yg{Yol{yd{x
+leafed crown molding lining the ceiling and base boards on the floor.  A
+very large {ysu{rng{ywood{x fireplace has been built into one wall, carved with
+swirling vines and leaves that almost look like they grow.  Above the mantle
+is a beautiful portrait of a woman wearing a {yg{Yo{Wld{Ye{yn{x crown and {mp{Mu{mrple{x robes. 
+Her long, curling {yb{Ylond{ye{x hair cascades over her shoulders, a sharp contrast
+to the robe.  The furniture in the sitting area is covered in a floral
+{mbr{Mo{mcade{x, each piece is padded to excess so that the cushions engulf you when
+you sit.  Upon the {ytable{x centered in the sitting area is a large {cc{Cr{Wyst{Ca{cl{x
+bowl, filled mostly with {Bw{Ca{Wt{Ce{Br{x, with floating {Wga{Yrd{Wenias{x upon it.  These
+flowers fill the room with a sweet, inviting scent.  
+~
+0
+CDJ 0
+D1
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+3 3
+1 0 24195
+S
+#24198
+A Honeymoon Suite~
+Entering the most expensive and elegant room at the inn, you see why it
+is called the Honeymoon Suite.  Pristine, incredibly soft, {Wwhite{x carpet
+spreads all around the room, highlighted by expensive {yg{Yol{yd{x rugs in the
+sitting area that hold intricately carved {ysu{rng{ywood{x tables.  Around these
+tables sit silk {yb{Yro{W{Yad{ye{x covered furniture, the {ywood{x carved and scrolling. 
+There is a massive {Wwhite{x and {yg{Yol{yd{x {Wm{wa{Wr{wb{Wl{we{x fireplace on one end of the room,
+with plenty of silken {yp{Yi{Wllo{Yw{ys{x stacked in front of it, perfect for snuggling.
+The bedroom area of this suite sits two steps higher than the rest of the
+room, dominated by a huge {yb{We{yd{x surrounded by flowing {Wwhite{x curtains.  {yV{Ya{Ws{Ye{ys{x
+of {Wwhite{x roses fill the room with a warm, soft scent and a gentle breeze
+sweeps in from the open {cgl{Cas{cs{x french doors leading to the private balcony.  
+~
+0
+CDJ 0
+D0
+~
+'massive, ornately carved double {ysu{rng{ywood{x doors{x'~
+3 3
+1 0 24195
+D2
+~
+'double {yf{cr{Cen{cc{yh{x doors'~
+1 1
+1 0 24174
+S
+#24199
+The Roof of the Inn~
+The roof of the {RJ{Ye{Bs{Rt{Ye{Br{x's Folly Inn is clean and open, allowing for an
+incredible view of the city.  In the evenings, guests like to come here for
+drinks to sit and talk and enjoy the {Yst{War{Yry {Dnight{x sky.  
+~
+0
+C 0
+D5
+~
+~
+0 0
+0 0 24195
+S
+#0
+
+
+
+#SPECIALS
+M 24118 spec_thief
+M 24119 spec_thief
+M 24120 spec_blademaster
+M 24121 spec_gamemaster
+M 24183 spec_gamemaster
+S
+
+
+
+#RESETS
+D 0 24102 1 1
+D 0 24117 3 1
+D 0 24122 3 1
+D 0 24127 0 1
+D 0 24127 1 1
+D 0 24128 2 1
+D 0 24130 3 1
+D 0 24143 1 1
+D 0 24152 0 2
+D 0 24153 2 2
+D 0 24173 3 1
+D 0 24176 0 1
+D 0 24176 1 1
+D 0 24177 0 1
+D 0 24177 4 1
+D 0 24179 1 1
+D 0 24179 2 1
+D 0 24180 2 1
+D 0 24181 5 1
+D 0 24182 3 1
+D 0 24183 1 1
+D 0 24184 3 1
+D 0 24186 1 1
+D 0 24186 3 1
+D 0 24187 3 1
+D 0 24188 1 1
+D 0 24189 5 1
+D 0 24190 4 1
+D 0 24192 1 1
+D 0 24192 3 1
+D 0 24193 3 1
+D 0 24194 1 1
+D 0 24195 1 1
+D 0 24195 2 1
+D 0 24195 3 1
+D 0 24196 3 1
+D 0 24197 1 1
+D 0 24198 0 1
+M 0 24102 5 24100 3
+M 0 24113 10 24101 1
+M 0 24112 12 24101 2
+M 0 24112 12 24101 2
+M 0 24102 5 24101 2
+M 0 24101 1 24101 1
+M 0 24113 10 24102 1
+M 0 24112 12 24102 1
+M 0 24103 3 24103 3
+M 0 24114 5 24104 2
+M 0 24114 5 24104 2
+M 0 24114 5 24105 1
+M 0 24113 10 24105 2
+M 0 24113 10 24105 2
+M 0 24112 12 24105 2
+M 0 24112 12 24105 2
+O 0 24100 0 24105
+M 0 24116 3 24107 1
+E 0 24111 0 25
+M 0 24115 2 24107 2
+E 0 24111 0 25
+M 0 24115 2 24107 2
+M 0 24116 3 24108 1
+M 0 24116 3 24109 1
+M 0 24117 4 24111 2
+E 0 24115 0 20
+E 0 24113 0 13
+M 0 24117 4 24111 2
+E 0 24113 0 13
+E 0 24115 0 20
+M 0 24114 5 24113 1
+M 0 24113 10 24113 1
+M 0 24112 12 24113 1
+M 0 24119 4 24118 2
+M 0 24119 4 24118 2
+M 0 24119 4 24119 2
+M 0 24119 4 24119 2
+M 0 24104 3 24120 3
+M 0 24105 3 24120 3
+M 0 24105 3 24120 3
+M 0 24105 3 24120 3
+M 0 24104 3 24120 3
+M 0 24104 3 24120 3
+O 0 24103 0 24121
+O 0 24101 0 24121
+M 0 24107 1 24122 1
+G 0 24107 0
+G 0 24105 0
+G 0 24106 0
+M 0 24108 4 24122 4
+M 0 24108 4 24122 4
+M 0 24108 4 24122 4
+M 0 24108 4 24122 4
+M 0 24106 1 24122 1
+O 0 24104 0 24122
+M 0 24111 1 24123 1
+E 0 24112 0 20
+O 0 24109 0 24123
+M 0 24109 2 24124 2
+M 0 24109 2 24124 2
+M 0 24110 1 24125 1
+O 0 24108 0 24125
+O 0 24102 0 24125
+M 0 24121 1 24126 1
+O 0 24110 0 24126
+O 0 24116 0 24128
+O 0 24117 0 24129
+O 0 24118 0 24130
+M 0 24123 1 24131 1
+M 0 24124 2 24133 2
+M 0 24124 2 24133 2
+O 0 24120 0 24134
+P 0 24121 1 24120 1
+O 0 24119 0 24134
+M 0 24125 1 24136 1
+M 0 24126 2 24137 2
+M 0 24126 2 24137 2
+O 0 24123 0 24138
+O 0 24127 0 24139
+O 0 24126 0 24139
+O 0 24128 0 24141
+M 0 24114 5 24142 1
+M 0 24113 10 24142 2
+M 0 24113 10 24142 2
+M 0 24112 12 24142 2
+M 0 24112 12 24142 2
+O 0 24130 0 24142
+O 0 24129 0 24142
+O 0 24131 0 24143
+M 0 24127 1 24144 1
+G 0 24133 0
+G 0 24132 0
+M 0 24129 2 24145 2
+M 0 24128 2 24145 2
+M 0 24131 2 24147 2
+M 0 24130 2 24147 2
+M 0 24133 2 24149 2
+M 0 24132 2 24149 2
+M 0 24120 3 24152 3
+E 0 24135 0 20
+E 0 24134 0 19
+M 0 24120 3 24152 3
+E 0 24135 0 20
+M 0 24120 3 24152 3
+E 0 24135 0 20
+M 0 24118 1 24153 1
+E 0 24114 0 20
+O 0 24176 0 24173
+O 0 24175 0 24173
+O 0 24160 0 24174
+O 0 24160 0 24174
+O 0 24161 0 24174
+O 0 24162 0 24174
+M 0 24176 1 24175 1
+M 0 24177 1 24176 1
+G 0 24179 0
+G 0 24180 0
+G 0 24181 0
+G 0 24182 0
+G 0 24183 0
+O 0 24178 0 24176
+M 0 24174 1 24177 1
+M 0 24175 6 24179 6
+M 0 24175 6 24179 6
+M 0 24175 6 24179 6
+M 0 24175 6 24179 6
+M 0 24175 6 24179 6
+M 0 24175 6 24179 6
+O 0 24174 0 24180
+O 0 24174 0 24181
+M 0 24182 5 24183 1
+E 0 24171 0 20
+O 0 24151 0 24184
+O 0 24168 0 24185
+M 0 24185 1 24185 1
+G 0 24173 0
+M 0 24184 4 24185 4
+E 0 24169 0 20
+M 0 24184 4 24185 4
+M 0 24184 4 24185 4
+M 0 24184 4 24185 4
+M 0 24183 1 24185 1
+M 0 24182 5 24186 1
+E 0 24171 0 20
+O 0 24170 0 24187
+O 0 24167 0 24188
+O 0 24165 0 24189
+O 0 24166 0 24189
+O 0 24164 0 24190
+M 0 24182 5 24191 1
+E 0 24171 0 20
+M 0 24182 5 24192 1
+E 0 24171 0 20
+O 0 24149 0 24193
+O 0 24150 0 24194
+M 0 24182 5 24195 1
+E 0 24171 0 20
+M 0 24181 1 24195 1
+O 0 24153 0 24196
+O 0 24154 0 24196
+O 0 24152 0 24197
+O 0 24156 0 24198
+P 0 24155 1 24156 1
+O 0 24157 0 24198
+O 0 24158 0 24198
+O 0 24159 0 24198
+O 0 24163 0 24199
+S
+
+
+
+#SHOPS
+24107 17 19 0 0 0 100 100 1 23
+24127 26 13 0 0 0 100 100 1 23
+24177 17 0 0 0 0 100 100 1 23
+24178 19 0 0 0 0 100 100 1 23
+24179 17 0 0 0 0 100 100 1 23
+24180 19 0 0 0 0 100 100 1 23
+24185 17 0 0 0 0 100 100 1 23
+0
+
+
+
+#$

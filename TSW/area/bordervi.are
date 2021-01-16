@@ -1,0 +1,1181 @@
+#AREADATA
+Name Border Village~
+Builders None~
+VNUMs 32600 32700
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#32600
+desk~
+(no short description)~
+(no description)~
+(null)~
+furniture 0 0
+0 0 0 0 0
+0 0 0 100
+#32601
+dagger~
+Black hilted white bladed dagger~
+Black hilted white bladed dagger~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#32602
+leatherbound menu~
+A leatherbound menu~
+menu~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+E
+{waile~
+~
+E
+{gcu{gc{gum{gb{ger~
+{GCu{gc{Gum{gb{Ger {gcr{ye{gs{yt{ged {ycr{ru{ystac{re{yan{x
+{yBroiled poultry in {rSherry{D-{DMus{yhr{Doom S{ra{yu{rc{De{x
+{GGarden {gSalad{x
+{wC{yo{wn{yc{wh c{yh{wo{yw{wd{ye{wr{x
+{RPal{rmagr{Rante ch{rut{Rney{x
+{yPe{Wa{ych M{We{yl{Wb{ya{x
+~
+E
+{rl{yo{rb{ys{rt{ye{rr~
+{rL{yo{rb{ys{rt{ye{rr t{ya{ri{yl{rs{x with {Ylemon butter{x
+~
+E
+{rl{yo{rb{ys{rt{ye{rr~
+~
+#32603
+leatherbound menu~
+{wa {rl{yea{wt{yhe{rr{x-bound menu~
+A {rl{yea{wt{yhe{rr{x-bound menu lays here on the counter.~
+leather~
+trash 0 A
+0 0 0 0 0
+0 1 0 100
+E
+menu~
+~
+E
+banana~
+{YBanana {WMelba{x, a smooth banana custard draped with a rasberry sauce and a
+gentle rum.  Served aflamed.  
+~
+E
+palm~
+{RPal{Dma{rgra{Dn{rate Ch{yu{rnt{yn{rey{x , this unique dish is our chef's specialty.  Ripe
+palmagranates are slow steamed and softened in fruit juices, it is then
+macirated with apple pulp, blackberries and topped with a squeeze of lime.  
+~
+E
+broiled~
+{DBroiled {yPoultry{x in {rSherry{D-{yMushroom S{ra{Du{rc{ye{x, truely another one of the
+favored dishes with its full body richness.  
+~
+E
+crested~
+{GC{Gu{gc{Gu{gm{Gb{ge{Gr {DCrested {yCrustceans{x, delicate white lobster tail, encased in
+paper thin strips of cucumber.  Gently sauteed in lotus butter and brushed
+with a citrus and port glaze.  
+~
+E
+conch~
+{WC{yo{Wn{yc{Wh Ch{yo{Ww{yd{Wer{x, a thick cream soup made of conch, cream, and our special
+blend of spices.  
+~
+E
+conch~
+{WC{yo{Wn{yc{Wh Ch{yo{Ww{yd{Wer{x, a thick cream soup made of conch, cream, and our special
+blend od spices.  
+~
+E
+salad~
+{GTo{Gss{ged {GG{Ra{Grd{Re{Gn {gS{Ra{gl{Ra{gd{x with fresh spring vegetables lightly dressed with a
+almondine-walnut vinigrette.  
+~
+E
+salad~
+ed delete Salad {gTo{Gss{ged {GG{Ra{Grd{Re{Gn {gS{Ra{gl{Ra{gd{x with fresh spring vegetables lightly dressed with a almondine-walnut vinigrette.
+~
+E
+cucumber~
+{gc{Gu{gc{Gu{gm{Gb{ge{Gr {Dcrested {ycrustceans{x 
+~
+#32604
+wall~
+wall~
+{~
+cloth~
+furniture O 0
+0 0 0 0 0
+0 0 0 100
+E
+wall~
+{y<-- Prophecies Fortold -->{x
+ 
+ 
+ {R"{WTwice and twice shall he be marked{R,{x
+  {Wtwice to live, and twice to die{R.{x
+  {WOnce the heron{R,{W to set his path{R.{x
+  {WTwice the heron{R,{W to name him true{R.{x
+  {WOnce the Dragon{R,{W for rememberance lost{R.{x
+ {R"{WTwice the Dragon{R, {Wfor the price he must pay{R."{x
+ 
+ 
+ {W"{RTwice dawns the day when his blood is shed{W.{x
+  {ROnce for mourning{W, {Ronce for rebirth{W.{x
+  {RRed on {Dblack{W, {Rthe Dragon's blood stains the{W.{x
+    {Rrock of {DShayol Ghul{W.{x
+  {RIn the {DPit {Rof {DDhoom {Rshall his blood free men{W.{x
+    {Rfrom the {DShadow{W."{x
+ 
+ 
+~
+E
+wall~
+{y <-- Proverbs Fortold -->{x
+ {R"{WTwice and twice shall he be marked{R,{x
+   {Wtwice to live{R,{W and twice to die{R.{x
+   {WOnce the heron{R,{W to name him true{R.{x
+   {WTwice the heron{R,{W to name him true{R.{x
+   {WOnce the Dragon{R,{W for rememberance lost{R.{x
+   {R"{WTwice the Dragon{R,{W for the price he must pay{R.{x
+ 
+ 
+~
+E
+wall~
+{y <-- Proverbs Fortold -->{x
+ 
+ {R"{WTwice and twice shall he be marked{R,{x
+{Wtwice to live{R,{W and twice to die{R.{x
+{WOnce the heron{R,{W to set his path{R.{x
+{WTwice the heron{R,{W to name him true{R.{x
+{WOnce the Dragon{R,{W for rememberance lost{R.{x
+{R"{WTwice the Dragon{R, for the price he must pay{R.{x
+~
+E
+wall~
+{y-- Proverbs Fortold --{x
+ 
+~
+E
+wall~
+~
+E
+obj~
+"{WTwice and twice shall he be marked,
+{Wtwice to live,and twice to die.
+{WOnce the heron,to set his path.
+{WTwice the heron,to name him true.
+{WOnce the Dragon,for rememberance lost.
+"{WTwice the Dragon,for the price he must pay.{x"{x
+ 
+ 
+ 
+"{RTwice dawns the day when his blood is shed.
+{ROnce for mourning,once for birth.
+{RRed on black,the Dragon's blood stains the 
+{Rrock of Shayol Ghul.
+{RIn the Pit of Dhoom shall his blood free men
+{Rfrom the Shadow.
+ 
+ 
+~
+#0
+
+
+
+#ROOMS
+#32600
+{gWhimsical Walkway{x~
+An intricate interlacing of {Brose blossoms{x,{mafrican violets{x and {givy{x latice
+themselves up the {ggi{ynkg{go {ytr{gees{x.  The fanned out {gleaves{x looking like an
+outstreached childs hand, with thier fingers wiggling in the {Dshade{x.  The
+alluring {ya{Dr{co{Dm{ya{x tantilizes the senses,bringing forth a gradifying languor. 
+The canopy overhead lazily drapes its {Bsh{ma{gwl{x of {gbl{moo{Bms{x into the pathway,
+uncaring of those whom tred through its skirts as it tends to its {Dslumber{x. 
+The {ywarbler{x nesting in the {yt{gre{ye{x raises its own gamut to accompany the
+{Rso{Bng{Ybi{Wrd{Gs{x,whom are already conjoined in acapella dance of harmonic notes.  
+ 
+ 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32606
+D2
+~
+~
+0 0
+0 0 32605
+D3
+~
+~
+3 3
+1 0 32601
+S
+#32601
+set1,room2~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 32602
+D1
+~
+~
+3 3
+1 0 32600
+S
+#32602
+Restaurant~
+Upon opening the door, soft music fills the air.  The room is dimmly lit
+by candles that flicker and dance.  Several tables have been set around the
+room with stratigic accuracy so as to provide privacy.  The garcon shows you
+to your seat, offering the menus.  He fills the crystal water goblets,bows
+slightly and moves away so you can decide what you want.  
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 32606
+D2
+~
+~
+3 3
+1 0 32601
+S
+#32603
+{BL{Wo{cf{Bt{cy {BT{Wo{cw{Be{cr{x~
+{DFour stone walls bare of any artwork loom ten feet over your head.  On
+the south wall a small opening of a window peering out over the city.  In
+the northeast corner a small pallet with a worn out old woven blanket.  The
+large wooden door occupies the west wall along with a chest.  The only light
+that illuminates the room is combined from the window and a small oil lamp
+sitting on the chest.  
+{x
+{x
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 32604
+S
+#32604
+{BL{wo{cf{Bt{cy {BT{wo{cw{Be{cr {BS{wt{ca{Bi{cr{Bc{wa{cs{Be{x~
+{XA spiral-stone staircase leads you to and from the tower top.  Upon the
+{wwalls are {Wengravings{x of those whom have passed before you.  The {yprophecies{x
+{wthey have left settle you with thier gentle words yet profound meaning. 
+{RBu{rr{Yn{ri{Rng {rto{Rr{Yc{Rh{res{x inset in the wall alternate sides every ten steps.  A faint
+{cbreeze{x can be noticed by the flickering of the {Rf{rl{Yam{re{Rs{x.  
+ 
+ 
+~
+0
+0 0
+E
+wall~
+{y<-- Prophecies Foretold -->{x
+ 
+ 
+{R"{WTwice and twice shall he be marked{R,{x
+{Wtwice to live{R, {Wand twice to die{R.{x
+{WOnce the heron{R, {Wto set his path{R.{x
+{WTwice the heron{R, {Wto name him true{R.{x
+{WOnce the Dragon{R, {Wfor rememberance lost{R.{x
+{WTwice the Dragon{R, {Wfor the price he must pay{R.{x
+ 
+ 
+{W"{RTwice dawns the day when his blood is shed{W.{x
+{ROnce for mourning{W, {Ronce for rebirth{W.{x
+{RRed on {Dblack{W, {Rthe Dragon's blood stains the{x
+  {Rrock of {DShayol Ghul{W.{x
+{RIn the {DPit {Rof {DDhoom {Rshall his blood free men
+  {Rfrom the {DShadow{W."{x
+ 
+~
+E
+prophecies~
+{y<-- Prophecies Foretold -->{x
+ 
+ 
+{R"{WTwice and twice shall he be marked{R,{x
+{Wtwice to live{R, {Wand twice to die{R.{x
+{WOnce the heron{R, {Wto set his path{R.{x
+{WTwice the heron{R, {Wto name him true{R.{x
+{WOnce the Dragon{R, {Wfor rememberance lost{R.{x
+{WTwice the Dragon{R, {Wfor the price he must pay{R.{x
+ 
+{W"{RTwice dawns the day when his blood is shed{W.{x
+{ROnce for mourning{W, {Ronce for rebirth{W.{x
+{RRed on {Dblack{W, {Rthe Dragon's blood stains the{x
+  {Rrock of {DShayol Ghul{W.{x
+{RIn the {DPit {Rof {DDhoom {Rshall his blood free men
+  {Rfrom the {DShadow{W."{x
+ 
+~
+D1
+~
+~
+3 3
+1 0 32603
+D5
+~
+~
+1 1
+1 0 32605
+S
+#32605
+{BL{wo{cf{Bt{cy {BT{wo{cw{Be{cr {BF{wo{cu{Bn{ct{Ba{ci{Bn{x~
+As you come to the center of this tower, people drop thier voices into
+whispers.  The children slow from running to walk by, or pitch a coin into
+the fountian for luck.  Young maiden's sit in clustered groups here, eyes
+causiously looking you over, only to be followed through with a shy blushing
+smile.  There are four ways leading out of the tower's center, or are there
+five?  
+~
+0
+0 0
+E
+fountain~
+The tall black onyx statue is eary to say the least.  The reared
+stallion, pawing the air, stirs an air of wildness.  The three tiered base
+is sperated out to form a waterfall affect.  The top tier dispaying ivy in
+wreaths of latices.  Then next down waves rolling upon high seas.  The basin
+of the waterfalled fountain combines wolves, with thier amber insetted eyes,
+waves made of blue and white sapphires accented with aquamarine, and ivy
+vines of emerald and perdiot.  
+~
+D0
+~
+~
+0 0
+0 0 32600
+D3
+~
+~
+0 0
+0 0 32607
+D4
+~
+~
+1 1
+1 0 32604
+S
+#32606
+A huge garden~
+The {gweaping {ywillow{g in the forground, dangles its {yb{gr{ya{gnc{yh{ge{ys{g in front of
+the {ycobblestone {Barchway{g.  The new {Gbaby grass{g smell blends with
+{yfr{Dagr{yance{g of the other {Wflowers{g in the garden.  As you push aside the
+{ytwiggy{g curtain {Bbl{wu{Be r{wo{Bses{g, {Wlillies{g, {wda{Yi{ws{Yi{wes{g, {mpeonies{g, {Ybuttercups{g and
+{whoneysuckles{g seem to be blooming everywhere.  {X 
+ 
+ 
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 32600
+D3
+~
+~
+0 0
+0 0 32602
+S
+#32607
+~
+Along either side of the main road in Fal Dara are little shops and
+scattered homes.  Tall steel poles with oil lamps sitting on the top, dot
+the street on either side.  Both people and soldiers pace the road.  Some
+patrons stop here and there to chat with a friend or speak to a neighbor.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32605
+D3
+~
+~
+0 0
+0 0 32608
+S
+#32608
+~
+Along either side of the main road in Fal Dara are little shops and
+scattered homes.  Tall steel poles with oil lamps sitting on the top, dot
+the street on either side.  Both people and soldiers pace the road.  Some
+patrons stop here and there to chat with a friend or speak to a neighbor.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32607
+D3
+~
+~
+0 0
+0 0 32609
+S
+#32609
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32657
+D1
+~
+~
+0 0
+0 0 32608
+D2
+~
+~
+0 0
+0 0 32658
+D3
+~
+~
+0 0
+0 0 32610
+S
+#32610
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32655
+D1
+~
+~
+0 0
+0 0 32609
+D2
+~
+~
+0 0
+0 0 32656
+S
+#32611
+~
+~
+0
+C 0
+S
+#32612
+~
+~
+0
+C 0
+S
+#32613
+~
+~
+0
+C 0
+S
+#32614
+~
+~
+0
+C 0
+S
+#32625
+Dreaded Drawbridge~
+___________________________________________________________________
+   |{Y     ____________                              _____________   {x  |
+   |    {Y|___________|\                            /|___________|  {x   |
+   |    {D|==  ==   ==|{Y\ \     {BFal Dara Keep{Y      / /{D|==   ==  ==| {x    |
+   |    {D|==  ==   ==|{Y \|                       |/  {D|==   ==  ==|    {x |
+   |    {D|==  ==   ==|__|_______________________|___|==   ==  ==|  {x   |
+   |  {D  |===============|                     |================|  {x   |
+   |  {D  |===============|                     |================|  {x   |
+   |  {D  |===============|                     |================|  {x   |
+   |  {D  |===============|                     |================|  {x   |
+   |  {D  |===============|                     |================|  {x   |
+   |  {D  |===============|{Y_____________________{D|================| {x    |
+   |  {D  |==============={y////////////\\\\\\\\\\\\{D===============|\ {x   |
+   |  {D/ |============={y/////////////|\\\\\\\\\\\\\{D==============|^\ {x  |
+   |{D/{W ^ {D|============{y//////////////|\\\\\\\\\\\\\\{D=============|^ \{x  |
+   | {W^   ^ ^   ^{Y| |{W^{y//////////////|||\\\\\\\\\\\\\\\{Y| | {W^  ^   ^ ^ \{x |
+   | {W ^  ^  ^  ^{Y| |{y//////////////|||||\\\\\\\\\\\\\\{Y| |{W^  ^   ^ ^   \{x|
+   |{W^  ^   ^  ^                 {y |{DF{we{Di{y|                   {W^   ^   ^  ^{x|
+   |_________________________________________________________________|{x
+ 
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 32650
+D1
+~
+~
+0 0
+0 0 32626
+D3
+~
+~
+0 0
+0 0 32627
+S
+#32626
+Huge Right Guard~
+A huge {Wwhite marble statue{x stands facing the center of the drawbridge. 
+His thick arms raised overhead as he holds the tear shaped,{WFlame of Tar
+Valon{x part of the huge seal.  His large {Btwo-handed {Dsword{x is strapped to his
+back out of the way.  At his feet is a small {ychest{x that his one foot is
+propped up upon.  The thing that most catches your gaze is his {ye{Yye{ys{x, which
+have been inset with {yam{Yb{yer.  
+ 
+ 
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 32628
+D3
+~
+~
+0 0
+0 0 32625
+S
+#32627
+~
+A huge {Dblack granite statue {xstands facing the center of the drawbridge. 
+His thick arms raised overhead as he holds the black fang shaped,{DDragon's
+Fang{x part of the huge seal.  His large {Btwo-handed{D sword {xis strapped to his
+back out of the way.  At his feet is a {Dgranite rock{x that his one foot is
+propped up upon.  The thing that most catches your gaze is his {ye{Yye{ys{x, which
+have been inset with {yam{Yb{yer{x.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32625
+D3
+~
+~
+0 0
+0 0 32629
+S
+#32628
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the spikes brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32630
+D3
+~
+~
+0 0
+0 0 32626
+S
+#32629
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the spikes brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32627
+D3
+~
+~
+0 0
+0 0 32631
+S
+#32630
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the spikes brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32632
+D3
+~
+~
+0 0
+0 0 32628
+S
+#32631
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the spikes brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32629
+D3
+~
+~
+0 0
+0 0 32633
+S
+#32632
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the spikes brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32634
+D3
+~
+~
+0 0
+0 0 32630
+S
+#32633
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the spikes brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32631
+D3
+~
+~
+0 0
+0 0 32635
+S
+#32634
+~
+The north wall and east wall come together at thier corners.  Ivy winds
+its way around from both walls up and over the top edge.  Guards pace off as
+they continue their patrol of the outer walls of the Keep.  Over the top
+edge of the wall you can see the ever so tall towers of the inner Keep.  
+ 
+ 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32636
+D3
+~
+~
+0 0
+0 0 32632
+S
+#32635
+~
+The north wall and west wall come together at thier corners.  Ivy winds
+its way around from both walls up and over the top edge.  Guards pace off as
+they continue their patrol of the outer walls of the Keep.  Over the top
+edge of the wall you can see the ever so tall towers of the inner Keep.  
+ 
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32633
+S
+#32636
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the {yspikes{x brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  Small parts of the many {Yt{Bo{Ww{De{Br{Ys{X can be seen over the wall.  
+ 
+ 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32638
+D2
+~
+~
+0 0
+0 0 32634
+S
+#32637
+~
+~
+0
+C 0
+S
+#32638
+~
+The looming wall to the Keep is before you.  {X{gIvy{x winds its way up the
+seemless wall making an {gartwork{x all of its own.  The twenty foot
+wide,{Wp{Di{Wk{De{x inlayed trench, looks like at on time it could have held
+{cwater{x.  The glistening tips topping the {yspikes{x brings up a thought that
+maybe they are {rpo{Ds{wi{ron{x-{rbru{Ds{rhed{x.  Guards pace off thier rounds making sure
+that no one attempts to enter the Keep from anyplace other then the
+Drawbridge.  Small parts of the many {Yt{Bo{Ww{De{Br{Ys{X can be seen over the wall.  
+ 
+ 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32640
+D2
+~
+~
+0 0
+0 0 32636
+S
+#32639
+~
+~
+0
+C 0
+S
+#32640
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32642
+D2
+~
+~
+0 0
+0 0 32638
+S
+#32641
+~
+~
+0
+C 0
+S
+#32642
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 32640
+S
+#32643
+~
+~
+0
+C 0
+S
+#32644
+~
+~
+0
+C 0
+S
+#32645
+~
+~
+0
+C 0
+S
+#32646
+~
+~
+0
+C 0
+S
+#32647
+~
+~
+0
+C 0
+S
+#32648
+~
+~
+0
+C 0
+S
+#32649
+~
+~
+0
+C 0
+S
+#32650
+Outer Courtyard~
+Walking through the vast {Yar{wc{Dhw{wa{Yys{x and back out int the sun, the open
+courtyard buzzes with Guards.  In troops they stand at attention around {Wthe
+la{wrg{De seal{x, inlaid in the scuffed cobblestones.  A gate of reinforced
+{Wm{we{Dta{wl{Ws{x bars the way to the {rNorth{x.  To the immediate {BWest{x is a station for
+the guards to change hands.  To the immediate {gEast{x is a small building.  The
+guard posts eye you carefully as you make your way into the Keep.  
+ 
+~
+0
+0 0
+E
+seal~
+The large Tar Valon seal stands strong in the cobblestones.  It seems
+almost symbolic of the strength that the people stand on.  
+~
+E
+names~
+These names are the titles of the first elders of the city.  The founding
+fathers so to speak for the Fal Dara as it now is.  
+~
+E
+arch~
+Massive stoneworked archways loom over your head.  Looking closer you can
+see the {Dn{wa{Wm{we{Ds{x etched into the hard rock.  Names of Guards?  Lord?  Kings? 
+Who could these people have been to deserve such an honor?  
+~
+D0
+~
+~
+0 0
+0 0 32651
+D2
+~
+~
+0 0
+0 0 32625
+D3
+~
+~
+0 0
+0 0 32652
+S
+#32651
+~
+As you wall up the large steps you come to face a set of looming double
+doors.  Thier sheer massivness lends a reverant thought.  Two guards stand
+here, stone stiff with regiment as they watch over everything.  Large bushes
+are shaped in the likeness of several different animals.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32700
+D2
+~
+~
+0 0
+0 0 32650
+S
+#32652
+Walk to Garden~
+The walkway begins to narrow a bit as you move off towards the Garden. 
+More foliage appears the further you make your way along the path.  The
+whispery breeze swarms your shoulders with a warming gentleness.  Chattering
+voices drift off as you make your way towards pure serenity.  
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32650
+D3
+~
+~
+0 0
+0 0 32653
+S
+#32653
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32652
+S
+#32655
+Travel Provisions~
+The room hold a stank of new leather and polish.  Saddlebags, dried
+foods, and other supplies drape over the counters and shelves.  Everything
+one could need for travel is tucked within the tiny shop.  Master Lem stand
+off to the side with a pad and coal stick in hand waiting for the list of
+needs.  
+ 
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 32610
+S
+#32656
+Tower watch~
+The tall cylindrical tower provides a birds-eye view over the gates. 
+Muffled grunts and chuckles emit from the inside of the stone walls. 
+Numerous guards stand thier posts uniforms in pristine condition and perfect
+polished brightness.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32610
+S
+#32657
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 32609
+S
+#32658
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 32609
+S
+#32698
+Guard's Sitting Station~
+Stratigically placed in the keep are several guard's stations.  This one
+happens to be directly lined in eyes view of the visitor's lounge.  The
+chairs in the room look to be ordinary regimental guardsmen chairs, however
+when you sit in them you can tell someone spent a long time working out
+thier makings.  The back aids to give support but is ridged to provide a
+stationary massage.  The desk wide enough to do work on but not take up too
+much area in the room.  Guards move in and out of the room often, switching
+up on shifts.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 32700
+S
+#32699
+Visitors Lounge~
+The door closes behind you to give privacy while you await your
+announcing.  The room is brightly lit, providing tables and chairs for
+writting, as well as couches with plump pillows.  One wall is filled with a
+wide array books, manuscripts and such.  Clearly you are wanted to feel
+welcome and conforatable.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32700
+S
+#32700
+~
+The huge double door swing opan via aid of guards.  The white marble
+floor gleems with citrone streaks.  A huge latice gate lifts upwards from
+the floor allowing passage through It sets right back into place once you
+have passed its toothmarks in the floor, locking it down into place. 
+Mirrors, or secondglasses as they are called in this Keep line the hallway
+in different sizes and shapes, more for the purpose of casting light then
+vanity seeking.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 32698
+D2
+~
+~
+0 0
+0 0 32651
+D3
+~
+~
+0 0
+0 0 32699
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 32600 3 1
+D 0 32601 0 1
+D 0 32601 1 1
+D 0 32602 2 1
+D 0 32603 3 1
+D 0 32604 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

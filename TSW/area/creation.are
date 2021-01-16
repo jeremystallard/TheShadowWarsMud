@@ -1,0 +1,677 @@
+#AREADATA
+Name Creation~
+Builders Kitiara~
+VNUMs 35501 36499
+Credits None~
+Security 8
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#35501
+female apparition~
+a female {ca{Cpp{Warit{Cio{cn{x~
+A female {ca{Cpp{Warit{Cio{cn{x floats peacefully in the colorful {rch{Dao{rs{x.
+~
+Floating in the midst of the colorful chaos is a being of mist, an
+{ca{Cpp{Warit{Cio{cn{x of your mind.  With a soft smile she moves towards any who enter
+her realm.  
+~
+unique~
+AB T 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 0
+HK 0 medium 'air'
+M 'SPEECH' 35502 new~
+M 'SPEECH' 35514 school~
+M 'GREET' 35501 100~
+#35502
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35503 movement~
+#35503
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35504 objects~
+#35504
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35505 equipment~
+#35505
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35506 skills~
+#35506
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35507 combat~
+#35507
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35508 warrior~
+#35508
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35509 thief~
+#35509
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35510 channeling~
+#35510
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35511 shops~
+#35511
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35512 misc~
+#35512
+hidden mob~
+a hidden mob~
+A helpful hidden mobile.
+~
+~
+unique~
+AB BQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'nothing'
+M 'SPEECH' 35502 new~
+M 'SPEECH' 35514 school~
+#35513
+shopkeeper~
+a {CSh{Wo{Cpk{Wee{Cp{We{Cr{x~
+A {CSh{Wo{Cpk{Wee{Cp{We{Cr{x stands here, ready to sell his wares.
+~
+~
+andoran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 5000
+0 0 medium 'flesh bones'
+#0
+
+
+
+#OBJECTS
+#35501
+coins silver~
+a small pile of {Ds{wi{Wlv{we{Dr{x coins~
+A small pile of {Ds{wi{Wlv{we{Dr{x coins lay on the floor.~
+silver~
+money 0 A
+200 0 0 0 0
+0 0 0 100
+#35502
+loaf traveling bread~
+a loaf of traveling {ybr{Yea{yd{x~
+A loaf of traveling {ybr{Yea{yd{x has been left here.~
+yeast~
+food 0 A
+30 30 0 0 0
+1 1 5 100
+#35503
+newbie canteen~
+a {rN{Re{Wwb{Ri{re{x canteen~
+A small leather canteen rests here.~
+leather~
+drink 0 AO
+100 100 'water' 0 0
+1 10 10 100
+#35504
+bedroll~
+a small {Rb{We{Rdr{Wo{Rll{x~
+A small {Rb{We{Rdr{Wo{Rll{x rests on the ground.~
+cloth~
+furniture 0 A
+1 2000 EHK 175 175
+1 5 10 100
+#35505
+copper lantern~
+a {yc{Do{ypp{De{yr{x lantern~
+A small, {yc{Do{ypp{De{yr{x lantern is hanging here, giving off soft light.~
+copper~
+light 0 A
+0 0 200 0 0
+1 1 15 100
+#0
+
+
+
+#ROOMS
+#35501
+Chaos Of Colors~
+Colors {gs{Gw{Wi{Gr{gl{x all around, moving {cs{Cl{Wow{Cl{cy{x at first then {rs{Rpe{Wed{Rin{rg{x up before
+slowing down again.  Your feet try to find solid ground, instead they seem
+to {bfl{Boa{bt{x out from beneath you.  It's difficult to tell what direction you
+are facing or if you are really there at all.  
+
+If you are new to MUDding please say {Rnew{x.
+If you are experienced and wish to skip to the school, please say {Rschool{x.
+~
+0
+CD 0
+D3
+~
+~
+0 0
+0 0 35514
+S
+#35502
+Communication~
+Communication is an essential part of a MUD.  It is used for
+role-playing, asking for help or general chat.  Here is a list of the
+various communication channels available on The Shadow Wars.  
+ 
+{WChat{x     -    OOC channel used to speak to everyone on game.
+{gGame{x     -    OOC channel used to ask questions about the game.
+{rGdt{x      -    Channel used to speak with other members of your guild.
+{YOgdt{x     -    Channel used to speak with other members of your oguild.
+{CSgdt{x     -    Channel used to speak with other members of your subguild.
+{mSsgdt{x    -    Channel used to speak with other members of your subsubguild.
+{MNewbie{x   -    Channel for newbies to ask for help.
+{WPray{x     -    Channel to speak directly to the Immortals.
+{GGossip{x   -    Channel used to spread rumors throughout the lands.
+{RMusic{x    -    OOC channel used to share your favorite music.
+{BRt{x       -    Channel used to speak with other members of your race.
+{cSay{x      -    IC channel used to speak with other character in the room.
+{yOsay{x     -    OOC channel used to speak with other characters in the room.
+{gGt{x       -    Channel used to speak with members of your group.
+{bMt{x       -    Channel used to speak with members of your minion.
+{DDft{x      -    Channel used to speak with other darkfriends.
+{WBt{x       -    Channel used to communicate with your bonded.
+{rAuction{x  -    Channel used to buy/sell items with each other.
+ 
+To use one of these channels, simply type:
+{D<{Wchannel{D> <{Rwhat you wish to say{D>{x
+
+For example:
+chat I love Kitiara!
+
+Others will see:
+{D<{Wyour name{D>{x I love Kitiara!
+ 
+Next we will learn about how to move around the game.
+To continue, please say {Rmovement{x.
+~
+0
+CD 0
+S
+#35503
+Movement~
+Movement is the means by which you can get your character from one place
+to another on the game.  There are 6 basic movements on the game, North,
+East, South, West, Up, Down.  You can shorten these commands by simply
+typing the first letter, {WN, E, S, W, U, D{x.  To see the obvious exits from
+the room, simply type {WExits{x, remember that some rooms may have hidden exits,
+you will have to find these on your own.  Look is another useful command, it
+allows you to look at the room you are currently in, you can shorten this
+command by just typing {Wl{x.  
+
+We have implemented a vmap, or virtual map, as a means to travel between
+cities.  In order to leave a city and enter the vmap you have to find an
+exit, which will look like this: {gleave(Area){x.  Typing {Cleave{x, will allow you
+to exit the area.  When you see a city you wish to enter you will see this,
+{genter(n, e, s, w){x.  Typing {Center <dir>{x will allow you to enter the area.  
+
+To see a map of the world, type {ghelp map{x, it will give you an idea of where
+the cities are located.  To see what the vmap looks like, goto this link:
+{Whttp://www.shadowwars.org/atwain/map.html{x  the map on the left is the vmap.
+ 
+Next we will go over objects and how to use them.
+To continue, please say {Robjects{x.
+~
+0
+CD 0
+S
+#35504
+Objects And Their Uses~
+During your adventures you will find many objects, each having their own
+use in the game.  Some of these objects will be beneficial to your
+character, others may be harmful.  It is up to you to know how to use the
+objects, and how to find more information out about them.  
+ 
+Here are some basic commands you'll need in order to use objects in the
+game. 
+ 
+{CInventory{x             -   Will allow you to see the objects in your inventory.
+{Ci name{x                -   Will show the names of the objects in your inventory.
+{CGet {D<{Wobject{D>{x          -   Will allow you to pick up an object.
+{CDrop {D<{Wobject{D>{x         -   Will allow you to drop an object.
+{CExamine {D<{Wobject{D>{x      -   Will allow you to examine/look at an object.
+{CWear {D<{Wobject{D>{x         -   Will allow you to wear an object.
+{CSac {D<{Wobject{D>{x          -   Will allow you to sacrifice an object to the Creator.
+{CDonate {D<{Wobject{D>{x       -   Will allow you to donate an object to the less fortunate.
+{CShow {D<{Wobject{D>{x         -   Will allow you to show an object to others in the room.
+{COpen {D<{Wobject{D>{x         -   Will allow you to open a closed object.
+{CClose {D<{Wobject{D>{x        -   Will allow you to close an opened object.
+{CLook in {D<{Wobject{D>{x      -   Will allow you to look inside an object.
+{CGive {D<{Wobject{D> <{Gperson{D>{x   -   Will allow you to give an object to another person.
+ 
+Next we will learn about Equipment.
+To continue, please say {Requipment{x.
+~
+0
+CD 0
+S
+#35505
+Equipment~
+Equipment is the armor and weapons that your character will use to make
+his/her way through the game.  Equipment is very important as it will help
+protect your character from the foes they face during your adventures.  Some
+equipment with have added affects to them, adding to your stats or hitroll,
+these are the more desirable pieces of equipment to possess.  Other good
+pieces of equipment to own will be a light so you can see where you are, a
+canteen to drink from, food to eat, a bedroll to sleep upon, and a bag to
+carry items in.  
+ 
+Some useful commands:
+{CEquipment{x            -   Will show a list of objects you are wearing.
+{CWield {D<{Wweapon{D>{x       -   Will allow you to wield a weapon.
+{CSheath {D<{Wweapon{D>{x      -   Will allow you to sheath a wielded weapon.
+{CDraw {D<{Wweapon{D>{x        -   Will allow you to draw a sheathed weapon.
+{CCompare {D<{Wobject{D> <{Wobject{D>{x - Will allow you to compare an object in your inventory to an object in your equipment.
+{CLore {D<{Wobject{D>{x        -   Will allow you to learn more about an object.
+{CEat {D<{Wfood{D>{x           -   Will allow you to eat a food item.
+{CDrink {D<{Wcanteen{D>{x      -   Will allow you to drink from a drink container.
+{CWear {D<{Wlight{D>{x         -   Will allow you to wear a light item.
+{CSleep {D<{Wobject{D>{x       -   Will allow you to sleep on an item.
+{CPut {D<{Wobject{D> {Cinside {D<{Wbag{D>{x - Will allow you to place an object inside a bag.
+{CGet {D<{Wobject{D> {Cfrom {D<{Wbag{D>{x   - Will allow you to get an object from a bag.
+ 
+Next we will begin to learn about the skills used in the game during combat.
+To continue, please say {Rskills{x.
+~
+0
+CD 0
+S
+#35506
+Basic Skills Used In Combat~
+During your adventures you will need to gain skills to improve your
+abilities in combat.  To gain these skills you will need to find those with
+the ability to teach them.  Once you have learned a new skill, you will need
+to train them to improve them.  Some of those who can teach you a new skill
+will also train you in the skill.  Others will only train you in a skill if
+you already know it.  Some of the basic skills you will need to make your
+way through your adventures are: {Walertness{x, {Wawareness{x, {Wdodge{x, {Wenhanced
+damage{x, {Wfast healing{x, {Wlore{x, {Wmeditation{x, {Wobservation{x, {Wparry{x, {Wshield block{x,
+and a {Wweapon{x.  
+ 
+Some commands you will need to know:
+{CGain list{x            -   Will allow you to see a list of skills you can gain.
+{CTrain list{x           -   Will allow you to see a list of skills you can train.
+{CGain {D<{Wskill{D>{x         -   Will allow you to gain a skill.
+{CTrain {D<{Wskill{D>{x        -   Will allow you to train a skill you have gained.
+{CTrain {D<{W#{D> <{Wskill{D>{x    -   Will allow you to train a skill # times.
+ 
+Next we will learn about how fighting works.
+To continue, please say {Rcombat{x.
+~
+0
+C 0
+S
+#35507
+Combat~
+Combat is the means by which your character will gain levels and grow
+stronger as you make your way through the world.  Non-player characters on
+MUDs are generally known as mobiles, or mobs for short.  First, to see if
+there are any mobs around here.  Use the "{Cscan{x" command to scan the adjacent
+area for any life.  If the area you are scanning in is too dark to see or if
+a mobile or player is hidden, you will not be able to find them.  Once you
+have found your target, go to them and use the "{Cconsider {D<{Wtarget{D>{x" command
+to see if you stand a fair chance of defeating your foe.  "{CKill {D<{Wtarget{D>{x"
+will initiate combat, but if the going gets too tough "{Cflee{x" will allow you
+to attempt to run away from your attacker.  A very useful command to have
+set before combat starts is the wimpy command.  Wimpy allows you to
+automatically flee from combat when you get below a set hitpoint.  {CWimpy
+{D<{Whitpoint{D>{x will set this up, or simply typing wimpy will automatically set
+it to 20% of your total hitpoints.  
+
+Some mobs are weak and don't like to fight, these mobs will flee from the
+fight and you will have to chase them down to finish them off.  Other mobs
+are aggressive and will attack you as soon as you enter the room, and some
+mobiles will assist each other when you attack them.  
+
+Once you have killed a mob it is important that you get what items they may
+have been carrying, to assist you in your adventures.  To do this type, {Cget
+all corpse{x.  Once you have done this you can sacrifice the corpse to the
+Creator by typing {Csac corpse{x.  
+
+Next we will learn about the different classes available on TSW.  To
+continue, please say {Rwarrior{x.  
+~
+0
+CD 0
+S
+#35508
+Warriors~
+Warriors live for combat and the thrill of battle.  They are the best
+fighters of all the classes, but lack the subtle skills of thieves and the
+magical talents of channelers.  Warriors are best for those who don't mind
+taking the direct approach, even when another method might be called for.  
+
+Warriors have the ability to gain the masterform blademaster.  The
+blademaster skill represents the culmination of all a character's training
+in that they no longer simply uses a sword, but in that now their sword is a
+part of them, an extension of their will.  A Blademaster will utilize
+various attack routines also called "forms".  Each form has it's own
+properties and uses.  Some forms are used to create a spinning attack which
+leaves an opponent off balance, while others comprise of vicious attacks
+that penetrate an opponents defence.  Repeated usage of the Blademaster
+skill will cause for these forms to be used more often in combat, as well as
+a greater proficency with them.  
+ 
+Next we will learn about the thief class.
+To continue, please say {Rthief{x.
+~
+0
+CD 0
+S
+#35509
+Thieves~
+Thieves are a marginal class.  They do few things better than any other
+class, but have the widest range of skills available.  Thieves are
+specialists at thievery and covert actions, being capable of entering areas
+undetected where more powerful adventurers would fear to tread.  They are
+better fighters than channelers, but lack the wide weapon selection of
+warriors.  
+
+For some skilled thiefs, wielding and using their daggers has become a art
+much like the fine skilled warriors and their blademasters.  A master of the
+daggers will utilize various attack and defensive routines also called
+"forms".  Each form has it's own properties and uses.  Repeated usage of the
+duelling skill will cause the forms to be used more often in combat, as well
+as greater proficiency with them.  
+ 
+Next we will learn about the channeling class.
+To continue, please say {Rchanneling{x.
+~
+0
+CD 0
+S
+#35510
+Channeling~
+Since this mud is based on Robert Jordan's series Wheel of Time, there is
+no 'magic' system.  The system that we use here is the 'channeling' system
+which was incorporated into the series.  The people who wielded the ability
+to channel were known as channelers (aka channies in mud slang).  By
+'weaving' 5 'spheres', known as {CAir{D, {yEarth{D, {RFire{D, {BWater{x and {YSpirit{x, they are
+able to manipulate and control their environment in numerous ways.  
+
+First we will go over the basics of the ability to channel.  The Power which
+is used is known as the One Power, or True Source.  This Power is divided
+into two halves, {WSaidin{x and {WSaidar{x.  Saidin is the male half of the one
+power, and is known to be corrupt.  For more help on this corruption, see
+'{Chelp taint{x'.  The other half, Saidar, is the female half of the one power,
+which is not tainted or corrupted.  Great things were done in the Age of
+Legends, which is when both halves of the One Power could be safely used. 
+At this time, the last male Aes Sedai has been dead several thousand years. 
+It is said that the One Power, or True Power (which very little at all is
+known of), is what turns the Wheel of Time itself.  
+
+Weaving the one power is a complex thing to learn, requiring years of
+training for most young women to master.  By combining the five spheres, a
+channeler can cause a great many things to occur.  Each sphere has its
+strengths and weaknesses, yet when brought together they can have surprising
+results.  
+
+When you first create your character, their spheres will each be set at 1. 
+As you level the spheres will slowly rise, when they stop raising your
+character has reached their full potential.  In order to fill yourself with
+the One Power will you need to use the command appropriate to the sex of
+your character.  Females {Cembrace{x Saidar, while males {Cseize{x Saidin.  Also, to
+use a weave you learn: {Cchannel {D<{Wweave{D>{x; and to release the One Power,
+{Cunchannel{x.  
+ 
+Next we will learn about how to use the shops you will find.
+To continue, please say {Rshops{x.
+~
+0
+CD 0
+S
+#35511
+Shops & Shopkeepers~
+During your travels you will find that you need various items.  Shops are
+a good place to go to look for these items.  Shopkeepers in different areas
+will sell different types of items, some items you might find are food,
+equipment, sleeping rolls, lanters, and nicknacks.  
+ 
+Some useful commands:
+{CList{x          -   Will show you a list of items the shopkeeper sells.
+{CBuy {D<{Witem{D>{x    -   Will allow you to buy an item the shopkeeper sells.
+{CSell {D<{Witem{D>{x   -   Will allow you to sell an item in your inventory.
+{CValue {D<{Witem{D>{x  -   The shopkeeper will tell you how much they will buy the item for.
+ 
+Next we will learn some miscellaneous information that should be helpful
+in your travels.
+ 
+To continue, please say {Rmisc{x.
+~
+0
+CD 0
+S
+#35512
+Miscellaneous Information~
+Here are some more helpful hints before you continue on in your
+adventure: Type "{Wauto{x" for a status list of automatic functions your
+character can perform.  Typing the name of each function toggles them on and
+off.  "{WTitle{x" sets your title on the player list (type "{Wwho{x" to see who else
+is logged on the Mud).  "{WIctitle{x" sets your IC title, so remember to use
+something that is in character.  Type "{Wcommands{x" to give you a list of the
+commands used on this Mud and don't forget to check the help files if you
+want more information about them.  
+
+{WHelp weekly{x will give you a list of all the updates and changes put in
+place.  And most importantly, {WHelp Rules{x, you are responsible for reading
+them, knowing them, and playing by them.  
+
+If you are in need of further assistance, remember to use the "{Wnewbie{x"
+channel, or use "{WPray{x" to speak with the Immortals.  
+ 
+This ends the tutorial for MUDding.
+If you wish to go through the tutorial again, please say {Rnew{x.
+If you with to continue on to Newbie School, please say {Rschool{x.
+~
+0
+CD 0
+S
+#35513
+Wheel Of Time~
+The Wheel of Time turns, and Ages come and pass, leaving memories that
+become legend.  Legend fades to myth, and even myth is long forgotten when
+the Age that gave it birth comes again.  In one Age, called the Third Age by
+some, an Age yet to come, an Age long past, a wind rose in the Mountains of
+Mist.  The wind was not the beginning.  There are neither beginnings nor
+endings to the turning of the Wheel of Time.  But it was a beginning.  
+ 
+~
+0
+C 0
+S
+#35514
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 35501
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 35501 1 35501 1
+M 0 35502 1 35502 1
+M 0 35503 1 35503 1
+M 0 35504 1 35504 1
+O 0 35501 0 35504
+M 0 35505 1 35505 1
+M 0 35506 1 35506 1
+M 0 35507 1 35507 1
+M 0 35508 1 35508 1
+M 0 35509 1 35509 1
+M 0 35510 1 35510 1
+M 0 35511 1 35511 1
+M 0 35513 1 35511 1
+G 0 35502 0
+G 0 35503 0
+G 0 35504 0
+G 0 35505 0
+M 0 35512 1 35512 1
+S
+
+
+
+#SHOPS
+35513 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

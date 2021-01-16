@@ -1,0 +1,4044 @@
+#AREADATA
+Name Inner City Caemlyn~
+Builders Oniren~
+VNUMs 63000 63099
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#63000
+soldier queensguard guard~
+a soldier~
+A {Ds{wol{Wd{wie{Dr{x of the {rQu{Ree{Wnsg{Rua{rrd{x stands on guard at the gate.
+~
+~
+andoran~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEFKP 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 63000 10~
+#63001
+soldier queensguard guard~
+a soldier~
+A {Ds{wol{Wd{wie{Dr{x of the {rQu{Ree{Wnsg{Rua{rrd{x patrols the streets of the Inner City.
+~
+~
+andoran~
+AGT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEFKP 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 63000 10~
+#63002
+andoran lord~
+an {rA{Rn{Wdor{Ra{rn{x lord~
+A {rl{Ror{rd{x strolls along the street.
+~
+~
+andoran~
+AGT 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+K 0 0 0
+stand stand male 50
+0 0 medium 'unknown'
+M 'GREET' 63003 10~
+#63003
+andoran lady~
+an {rA{Rn{Wdor{Ra{rn{x lady~
+A {rl{Rad{ry{x glides gracefully along the street.
+~
+~
+andoran~
+AGT 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+K 0 0 0
+stand stand female 50
+0 0 medium 'unknown'
+M 'GREET' 63002 10~
+#63004
+outlander noble cairhienin~
+a {cC{Cai{yr{Yhi{ye{Cni{cn{x noble~
+An outlander {yn{Yobl{ye{x hurries down the street.
+~
+~
+cairhienin~
+AGS 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN 0 0 0
+stand stand either 50
+0 0 medium 'unknown'
+M 'GREET' 63001 10~
+#63005
+outlander noble murandian~
+a {bM{Bu{Wr{ra{Rn{rd{Wi{Ba{bn{x noble~
+An outlander {yn{Yobl{ye{x hurries down the street.
+~
+~
+murandian~
+AGS 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN 0 0 0
+stand stand either 50
+0 0 medium 'unknown'
+M 'GREET' 63004 10~
+#63006
+nobles servant~
+a {gs{Ger{Wv{Gan{gt{x~
+A {gn{Go{Wb{Gl{ge's s{Ger{Wv{Gan{gt{x scurries down the {Dr{woa{Dd{x.
+~
+~
+andoran~
+AGS 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#63007
+wealthy merchant~
+a {bm{Ber{Wch{Ban{bt{x~
+A {bw{Bea{Wl{Bth{by m{Ber{Wch{Ban{bt{x leisurely walks through the {WInner City{x.
+~
+~
+andoran~
+AGT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CK 0 0 0
+stand stand either 50
+0 0 medium 'unknown'
+#63008
+wide eyed traveler~
+a {ct{Cra{Wve{Cle{cr{x~
+A {cw{Ci{Wd{Ce{c-{Ce{Wy{Ce{cd t{Cra{Wve{Cle{cr{x stares in amazement at the sights of the {WInner City{x.
+~
+~
+andoran~
+AGS 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#63009
+hunter horn~
+a {WH{wun{Dte{Wr{x of the {WH{wo{Dr{Wn{x~
+A {WH{wun{Dte{Wr{x of the {WH{wo{Dr{Wn{x strides down the {Dr{woa{Dd{x, full of self importance.
+~
+~
+illianer~
+AGT 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+CEK 0 0 0
+stand stand either 50
+0 0 medium 'unknown'
+#63010
+street sweeper~
+a {Ds{wt{Wre{we{Dt s{wwe{We{wpe{Dr{x~
+A {Ds{wt{Wre{we{Dt s{wwe{We{wpe{Dr{x diligently cleans the area.
+~
+~
+andoran~
+AGS 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+M 'GREET' 63005 10~
+#63011
+wealthy citizen~
+a {yw{Yea{Wl{Yth{yy c{Yit{Wi{Yze{yn{x~
+A {yw{Yea{Wl{Yth{yy c{Yit{Wi{Yze{yn{x ambles down the busy {Dt{who{Dr{wough{Df{war{De{x.
+~
+~
+andoran~
+AGT 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+C 0 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#63012
+guard gateguard~
+a {cg{Cat{wegu{Car{cd{x~
+A {cg{Cat{wegu{Car{cd{x stands on guard at the {Wm{wa{Dn{wo{Wr g{wa{Dt{we{Ws{x.
+~
+~
+andoran~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEFKU 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 63000 5~
+#63013
+guard gateguard~
+a {gg{Gat{wegu{Gar{gd{x~
+A {gg{Gat{wegu{Gar{gd{x stands on guard at the {Wm{wa{Dn{wo{Wr g{wa{Dt{we{Ws{x.
+~
+~
+andoran~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEFKU 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 63000 5~
+#63014
+black stallion horse~
+a black stallion~
+A {Dblack horse{x is in a stall, quietly munching at some {ghay{x.
+~
+~
+rabbit~
+AB 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 charge
+0 0 0 0 0
+A
+2 2 2 2
+I 0 0 0
+stand stand male 0
+0 0 large 'unknown'
+F off FH
+#63015
+gardener~
+a {gg{Gar{wde{Gne{gr{x~
+A {gg{Gar{wde{Gne{gr{x is busy tending to the manor's garden.
+~
+~
+andoran~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 63005 10~
+#63016
+gardener~
+a {cg{Car{wde{Cne{cr{x~
+A {cg{Car{wde{Cne{cr{x is busy tending to the manor's garden.
+~
+~
+andoran~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 63005 10~
+#63017
+cook~
+a {cc{woo{ck{x~
+A {cc{woo{ck{x is preoccupied with baking {ybread{x.
+~
+~
+andoran~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#63018
+cook~
+a {gc{woo{gk{x~
+A {gc{woo{gk{x grumbles to herself as she cleans the kitchen.
+~
+~
+andoran~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#63019
+guard~
+a {cg{Cu{wa{Cr{cd{x~
+A smartly dressed {cg{Cu{wa{Cr{cd{x stands beside the manor house's entrance.
+~
+~
+andoran~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEFKU 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 63000 5~
+#63020
+servant~
+a {cs{Cer{wv{Can{ct{x~
+A {cs{Cer{wv{Can{ct{x scurries around the manor, carrying out their chores.
+~
+~
+andoran~
+AGT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#63021
+guard~
+a {gg{Gu{wa{Gr{gd{x~
+A smartly dressed {gg{Gu{wa{Gr{gd{x stands beside the manor house's entrance.
+~
+~
+andoran~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEFKU 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 63000 5~
+#63022
+servant~
+a {gs{Ger{wv{Gan{gt{x~
+A {gs{Ger{wv{Gan{gt{x scurries around the manor, carrying out their chores.
+~
+~
+andoran~
+AGT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#63023
+stableboy boy~
+a {Ds{wta{Wble{wbo{Dy{x~
+A {Ds{wta{Wble{wbo{Dy{x is busy mucking out the stables.
+~
+~
+andoran~
+ABS 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+FN 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#63024
+guard gateguard~
+a {Dg{wa{Wtegua{wr{Dd{x~
+A {Dg{wa{Wtegua{wr{Dd{x stands on guard here.
+~
+~
+andoran~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CEFKU 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 63000 5~
+#63025
+servant~
+a {Ds{we{Wrva{wn{Dt{x~
+A {Ds{we{Wrva{wn{Dt{x scurries around the palace, attending to their duties.
+~
+~
+andoran~
+AGT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#63026
+guard~
+a {Dg{wu{Wa{wr{Dd{x~
+A smartly dressed {Dg{wu{Wa{wr{Dd{x stands beside the palace's entrance.
+~
+~
+andoran~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CEFKU 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 63000 5~
+#63027
+chef~
+a {Dc{whe{Df{x~
+A {Dc{whe{Df{x grumbles to himself as he tidies up the kitchen.
+~
+~
+andoran~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#63000
+burnished steel visor~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl v{wi{Ws{wo{Dr{x~
+A burnished steel visor lies here.~
+steel~
+armor 0 AV
+19 19 19 13 0
+70 1 300 100
+A
+19 1
+A
+17 -10
+#63001
+burnished steel helmet~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Dh{we{Wlm{we{Dt{x~
+A burnished steel helmet lies here.~
+steel~
+armor 0 AE
+19 19 19 13 0
+70 4 300 100
+A
+4 1
+A
+17 -10
+#63002
+burnished steel breastplate~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Db{wr{We{wa{Ws{wt{Wp{wl{Wa{wt{De{x~
+A burnished steel breastplate lies here.~
+steel~
+armor 0 AD
+19 19 19 13 0
+70 7 300 100
+A
+5 1
+A
+17 -10
+#63003
+burnished steel backplate~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Db{wa{Wc{wk{Wp{wl{Wa{wt{De{x~
+A burnished steel backplate lies here.~
+steel~
+armor 0 AS
+19 19 19 13 0
+70 7 300 100
+A
+5 1
+A
+17 -10
+#63004
+red woolen cloak~
+{wa {rr{Re{rd w{Ro{rol{Re{rn c{Rl{ro{Ra{rk{w{x~
+A red woolen cloak has been left here.~
+wool~
+armor S AK
+19 19 19 13 0
+70 4 60 100
+A
+17 -5
+A
+19 1
+A
+18 1
+#63005
+queensguard plain pike~
+{wa {rQu{Ree{Wnsg{Rua{rrd{w {Dp{wik{De{x~
+A plain pike has been left here.~
+steel~
+weapon 0 AN
+polearm 8 13 'stab' F
+70 8 200 100
+A
+19 3
+#63006
+queensguard plain sword~
+{wa {rQu{Ree{Wnsg{Rua{rrd{w {Ds{wwor{Dd{x~
+A plain sword has been left here.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' 0
+70 5 200 100
+A
+18 2
+A
+19 1
+#63007
+burnished steel shield~
+a {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Ds{wh{Wie{wl{Dd{x~
+A burnished steel shield has been left here.~
+steel~
+armor 0 AJ
+19 19 19 13 0
+70 5 300 100
+A
+17 -15
+#63008
+blue wide brimmed hat~
+a {bb{Blu{be{x {bw{Bid{be br{Bimm{bed h{Ba{bt{x~
+A blue wide brimmed hat has been dropped here.~
+velvet~
+armor S AE
+18 18 18 13 0
+67 1 100 100
+A
+4 3
+#63009
+long blue coat~
+a {bl{Bon{bg b{Blu{be c{Boa{bt{x embroidered with {Ds{wilv{Wer{D t{whre{Wad{x~
+A long blue coat has been dropped here.~
+wool~
+armor S AD
+18 18 18 13 0
+67 4 60 100
+A
+5 3
+#63010
+black trousers~
+a pair of {Dblack trousers{x~
+A pair of black trousers has been dropped here.~
+wool~
+armor S AF
+18 18 18 13 0
+67 3 60 100
+A
+2 3
+#63011
+black leather boots~
+a pair of {Dblack leather boots{x worked with {Ds{wilv{Wer{D t{whre{Wad{x~
+A pair of black leather boots has been dropped here.~
+leather~
+armor S AG
+18 18 18 13 0
+67 2 85 100
+A
+18 2
+A
+17 -5
+#63012
+lavender silk dress~
+a {ml{Mav{men{Mde{mr s{Mil{mk d{Mr{me{Ms{ms{x~
+A lavender silk dress has been dropped here.~
+silk~
+armor S AD
+18 18 18 13 0
+67 4 200 100
+A
+3 3
+#63013
+purple cloak white fur~
+a {mpurple cloak{x trimmed with {Ww{wh{Wi{wt{We f{wu{Wr{x~
+A purple cloak has been dropped here.~
+fur~
+armor S AK
+18 18 18 13 0
+67 5 200 100
+A
+1 2
+A
+2 1
+#63014
+woven silver belt~
+a {Dw{wove{Wn{x-{Ds{wilv{Wer{x {Db{wel{Wt{x~
+A woven-silver belt has been dropped here.~
+silver~
+armor 0 AL
+18 18 18 13 0
+67 1 200 100
+A
+19 3
+#63015
+bales hay straw~
+a {gb{yal{ge{x of {ghay{x~
+Several {gb{yale{gs{x of {ghay{x and {ystraw{x have been stored here.~
+hay~
+furniture Sa P
+2 10000 EIL 100 100
+0 0 0 100
+#63016
+long blue cloak~
+a {cl{Con{cg b{Clu{ce c{Cloa{ck{x~
+A long blue cloak has been dropped here.~
+wool~
+armor S AK
+15 15 15 12 0
+57 4 60 100
+A
+5 1
+A
+17 -5
+#63017
+silvered helmet blue plumes~
+a {Ds{wi{Wlver{we{Dd{x {Dh{we{Wlm{we{Dt{x decorated with {cb{Clu{ce p{Clume{cs{x~
+A silvered helmet has been dropped here.~
+steel~
+armor 0 AE
+15 15 15 12 0
+57 4 300 100
+A
+4 1
+A
+17 -5
+#63018
+rounded blue shield crossed sword sigil~
+a {cr{Counde{cd b{Clu{ce s{Chiel{cd{x decorated with a {Dc{wr{Woss{we{Dd s{ww{Wo{wr{Dd s{wi{Wg{wi{Dl{x~
+A rounded blue shield has been dropped here.~
+steel~
+armor 0 0
+15 15 15 12 0
+57 5 300 100
+A
+1 1
+A
+17 -5
+#63019
+dark leather boots~
+{Dd{yar{Dk l{yea{Dt{yhe{Dr b{yoot{Ds{x~
+A pair of dark leather boots has been dropped here.~
+leather~
+armor KS AG
+15 15 15 12 0
+57 2 85 100
+A
+2 1
+A
+17 -5
+#63020
+dark leather belt~
+a {Dd{yar{Dk l{yea{Dt{yhe{Dr{x {Db{yel{Dt{x~
+A dark leather belt has been dropped here.~
+leather~
+armor KS AL
+15 15 15 12 0
+57 1 85 100
+A
+1 1
+A
+17 -5
+#63021
+silvered breastplate~
+a {Ds{wi{Wlver{we{Dd b{wr{Weastpla{wt{De{x~
+A silvered breastplate has been dropped here.~
+steel~
+armor K AD
+15 15 15 12 0
+57 7 300 100
+A
+13 20
+A
+17 -5
+#63022
+silvered backplate~
+a {Ds{wi{Wlver{we{Dd{x {Db{wa{Wckpla{wt{De{x~
+A silvered backplate has been dropped here.~
+steel~
+armor K AS
+15 15 15 12 0
+57 7 300 100
+A
+13 20
+A
+17 -5
+#63023
+silvered legplates~
+{Ds{wi{Wlver{we{Dd{x {Dl{we{Wgplat{we{Ds{x~
+A set of silvered legplates has been dropped here.~
+steel~
+armor K AF
+15 15 15 12 0
+57 3 300 100
+A
+1 1
+A
+17 -5
+#63024
+silvered armplates~
+{Ds{wi{Wlver{we{Dd{x {Da{wr{Wmplat{we{Ds{x~
+A set of silvered armplates has been dropped here.~
+steel~
+armor K AI
+15 15 15 12 0
+57 3 300 100
+A
+2 1
+A
+17 -5
+#63025
+half moon axe~
+{wa {Wh{wal{Wf-m{woo{Wn{w {Da{wx{De{w{x~
+A half-moon axe has been left here.~
+steel~
+weapon 0 AN
+axe 6 11 'cleave' 0
+57 6 300 100
+A
+19 1
+A
+18 1
+#63026
+long green cloak~
+a {gl{Gon{gg g{Gree{gn c{Gloa{gk{x~
+A long green cloak has been dropped here.~
+wool~
+armor S AK
+15 15 15 12 0
+57 4 60 100
+A
+4 1
+A
+17 -5
+#63027
+silvered helmet green plumes~
+a {Ds{wi{Wlver{we{Dd{x {Dh{we{Wlm{we{Dt{x decorated with{g g{Gree{gn p{Glume{gs{x~
+A silvered helmet has been dropped here.~
+steel~
+armor 0 AE
+15 15 15 12 0
+57 4 300 100
+A
+19 1
+A
+17 -5
+#63028
+rounded green shield running fox sigil~
+a{g r{Gounde{gd g{Gree{gn s{Ghiel{gd {xdecorated with a {Dr{wu{Wnni{wn{Dg {Wf{wo{Dx s{wi{Wg{wi{Dl{x~
+A rounded green shield has been dropped here.~
+steel~
+armor 0 AJ
+15 15 15 12 0
+57 5 300 100
+A
+19 1
+A
+18 1
+#63029
+steel spear~
+{wa {Ds{wt{We{we{Dl {wtipped {Ds{wp{We{wa{Dr{w{x~
+A steel tipped spear has been left here.~
+steel~
+weapon 0 AN
+spear 6 11 'stab' 0
+57 7 175 100
+A
+18 2
+#63030
+sickle~
+{wa {Ds{wickl{De{x~
+A sickle has been left here.~
+steel~
+weapon K AN
+axe 6 11 'cleave' 0
+55 4 170 100
+A
+18 2
+#63031
+shears~
+a pair of {Ds{wh{Wea{wr{Ds{x~
+A pair of shears has been left here.~
+steel~
+weapon K AN
+exotic 6 11 'chop' F
+55 2 150 100
+A
+19 1
+A
+18 1
+#63032
+silver key crossed swords~
+a {Ds{wi{Wlv{we{Dr {Wk{we{Dy{x engraved with {Wt{ww{Do c{wr{Woss{we{Dd s{ww{Wor{wd{Ds{x~
+A silver key has been dropped here.~
+silver~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#63033
+flowering shrubs~
+{gf{Glo{Yweri{Gn{gg s{Gh{Yru{Gb{gs{x~
+{gF{Glo{Yweri{Gn{gg s{Gh{Yru{Gb{gs{x grow either side of the {yg{wr{Dav{we{yl{x {yt{wr{Da{wc{yk{x.~
+flora~
+container Sa P
+10 0 0 1 100
+0 0 0 100
+#63034
+barrels crates sacks~
+some crates~
+There are numerous {yc{Dr{yat{De{ys{x, {yb{Da{yrrels{x and {ys{wack{ys{x being stored in this cellar.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#63035
+rolling pin~
+a {yrolling pin{x~
+A rolling pin has been dropped here.~
+wood~
+weapon KS AN
+mace 6 11 'smash' 0
+55 3 0 100
+A
+19 2
+#63036
+silver key running fox~
+a {Ds{wi{Wlv{we{Dr {Wk{we{Dy{x engraved with a {Dr{wu{Wnni{wn{Dg {Wf{wo{Dx{x~
+A silver key has been dropped here.~
+silver~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#63037
+grand staircase~
+a {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x~
+A {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x fitted with {bd{Ba{brk bl{Bu{be{x {bc{Ba{brp{Be{bt{x leads to the first floor of the manor house.~
+wood~
+furniture S P
+4 10000 BEH 100 100
+0 0 0 100
+#63038
+golden key crossed swords~
+a {yg{Yo{Wld{Ye{yn {Wk{Ye{yy {xengraved with {Wt{Yw{yo{D {yc{Yr{Woss{Ye{yd s{Yw{Wor{Yd{ys{x~
+A golden key has been dropped here.~
+gold~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#63039
+dining table padded chairs~
+a {ydi{Dni{yng ta{Db{yle{x~
+At the center of the room is a beautifully carved {ydi{Dni{yng ta{Db{yle{x surrounded by six {gp{Da{gdd{De{gd c{Dh{gai{Dr{gs{x.~
+wood~
+furniture S P
+6 10000 DGJ 100 100
+0 0 0 100
+#63040
+comfortable armchairs~
+a {mc{Mo{mmfortab{Ml{me a{Mr{mmcha{Mi{mr{x~
+A group of {ma{Mr{mmchai{Mr{ms{x have been placed around the fireplace.~
+wood~
+furniture S P
+4 10000 FIL 100 100
+0 0 0 100
+#63041
+grand staircase~
+a {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x~
+A {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x fitted with {bd{Ba{brk bl{Bu{be{x {bc{Ba{brp{Be{bt{x leads to the ground floor of the manor house.~
+wood~
+furniture S P
+4 10000 BEH 100 100
+0 0 0 100
+#63042
+blue silk sheets four poster bed~
+{bb{Bl{bue s{Bi{blk shee{Bt{bs{x spread on top of a {yfour-poster bed{x~
+{bB{Bl{bue s{Bi{blk shee{Bt{bs{x adorn this grandly carved {yfour-poster bed{x.~
+wood~
+furniture S P
+2 10000 IL 125 125
+0 0 0 100
+#63043
+red silk sheets four poster bed~
+{rr{Re{rd s{Ri{rlk shee{Rt{rs{x spread on top of a {yfour-poster bed{x~
+{rR{Re{rd s{Ri{rlk shee{Rt{rs{x adorn this grandly carved {yfour-poster bed{x.~
+wood~
+furniture S P
+2 10000 IL 125 125
+0 0 0 100
+#63044
+wardrobe~
+a {ywardrobe{x~
+A tall yet ornately carved {ywardrobe{x has been placed in the room.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+#63045
+comfortable armchairs~
+a {gc{Go{gmfortab{Gl{ge a{Gr{gmcha{Gi{gr{x~
+A group of {ga{Gr{gmchai{Gr{gs{x have been placed around the fireplace.~
+wood~
+furniture S P
+4 10000 FIL 100 100
+0 0 0 100
+#63046
+golden key running fox~
+a {yg{Yo{Wld{Ye{yn {Wk{Ye{yy{x engraved with a {yr{Yu{Wnni{Yn{yg{D {Wf{Yo{yx{x~
+A golden key has been dropped here.~
+gold~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#63047
+grand staircase~
+a {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x~
+A {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x fitted with {Dd{wa{Drk gr{wa{Dy{x {Dc{wa{Drp{we{Dt{x leads to the first floor of the manor house.~
+wood~
+furniture S P
+4 10000 EH 100 100
+0 0 0 100
+#63049
+dining table padded chairs~
+a {ydi{Dni{yng ta{Db{yle{x~
+At the center of the room is a beautifully carved {ydi{Dni{yng ta{Db{yle{x surrounded by six {rp{Da{rdd{De{rd c{Dh{rai{Dr{rs{x.~
+wood~
+furniture S P
+6 10000 DGJ 100 100
+0 0 0 100
+#63050
+plain writing desk chair~
+{wa{y p{Dl{yain writing de{Ds{yk{w{x~
+{wA {yp{Dl{yain writing de{Ds{yk{w and chair has been placed inside the room.{x~
+wood~
+furniture S P
+1 2000 DGJ 100 100
+0 0 0 100
+#63051
+tall bookcase~
+a {ytall bookcase{x~
+A {ytall bookcase{x has been placed against one wall.~
+wood~
+container S P
+100 0 0 100 100
+0 0 0 100
+#63052
+grand staircase~
+a {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x~
+A {yg{Dr{ya{Dn{yd{x {ys{Dt{yai{Dr{yca{Ds{ye{x fitted with {Dd{wa{Drk gr{wa{Dy{x {Dc{wa{Drp{we{Dt{x leads to the ground floor of the manor house.~
+wood~
+furniture S P
+4 10000 BEH 100 100
+0 0 0 100
+#63053
+black silk sheets four poster bed~
+{Db{wl{Dack s{wi{Dlk shee{wt{Ds{x spread on top of a {yfour-poster bed{x~
+{DB{wl{Dack s{wi{Dlk shee{wt{Ds{x adorn this grandly carved {yfour-poster bed{x.~
+wood~
+furniture S P
+2 10000 IL 125 125
+0 0 0 100
+#63054
+green silk sheets four poster bed~
+{gg{Gr{geen s{Gi{glk shee{Gt{gs{x spread on top of a {yfour-poster bed{x~
+{gG{Gr{geen s{Gi{glk shee{Gt{gs{x adorn this grandly carved {yfour-poster bed{x.~
+wood~
+furniture S P
+2 10000 IL 125 125
+0 0 0 100
+#63055
+pitchfork~
+{wa {Dp{wit{Wchf{wor{Dk{x~
+A pitchfork has been propped up against the wall.~
+steel~
+weapon K AN
+polearm 7 12 'stab' F
+60 8 150 100
+A
+18 2
+#63056
+black steel helmet golden plumes~
+a {Dbla{wc{Wk {Dste{we{Wl {Dhelm{we{Wt{x decorated with {yg{Yolde{yn p{Ylume{ys{x~
+A black steel helmet has been dropped here.~
+steel~
+armor 0 AE
+16 16 16 12 0
+60 4 300 100
+A
+17 -10
+#63057
+black steel breastplate~
+a {Dbla{wc{Wk {Dste{we{Wl {Dbrea{ws{Wt{Dpla{wt{We{x~
+A black steel breastplate has been dropped here.~
+steel~
+armor K AD
+16 16 16 12 0
+60 7 300 100
+A
+17 -10
+#63058
+black steel backplate~
+a {Dbla{wc{Wk {Dste{we{Wl {Dbac{wk{Wp{Dla{wt{We{x~
+A black steel backplate has been dropped here.~
+steel~
+armor K AS
+16 16 16 12 0
+60 7 300 100
+A
+17 -10
+#63059
+black steel visor~
+a {Dbla{wc{Wk {Dste{we{Wl {Dvis{wo{Wr{x~
+A black steel visor has been dropped here.~
+steel~
+armor K AV
+16 16 16 12 0
+60 1 300 100
+A
+17 -10
+#63060
+black steel legplates~
+{Dbla{wc{Wk {Dste{we{Wl{D le{wg{Wp{Dlat{we{Ws{D{x~
+A set of black steel legplates has been dropped here.~
+steel~
+armor K AF
+16 16 16 12 0
+60 3 300 100
+A
+17 -10
+#63061
+black steel armplates~
+{Dbla{wc{Wk {Dste{we{Wl{D ar{wm{Wp{Dlat{we{Ws{x~
+A set of black steel armplates has been dropped here.~
+steel~
+armor K AI
+16 16 16 12 0
+60 3 300 100
+A
+17 -10
+#63062
+black steel plated gauntlets~
+{Dbla{wc{Wk {Dste{we{Wl{D plat{we{Wd{D ga{wu{Wn{Dtle{wt{Ws{D{x~
+A pair of black steel plated gauntlets has been dropped here.~
+steel~
+armor K AH
+16 16 16 12 0
+60 2 300 100
+A
+17 -10
+#63063
+black steel lance~
+a {Dbla{wc{Wk {Dste{we{Wl {Dlan{wc{We{x~
+A black steel lance has been dropped here.~
+steel~
+weapon 0 AN
+lance 7 12 'thrust' 0
+60 8 300 100
+A
+19 2
+#63064
+rounded black shield double swan sigil~
+a {Dround{we{Wd{D bla{wc{Wk{D shie{wl{Wd{x decorated with a {yd{Youbl{ye s{Ywa{yn s{Yigi{yl{x~
+A rounded black shield has been dropped here.~
+steel~
+armor 0 AJ
+16 16 16 12 0
+60 5 300 100
+A
+17 -10
+#63065
+dark leather boots gold thread~
+{Dd{yar{Dk l{yea{Dt{yhe{Dr b{yoot{Ds{x worked with {yg{Yol{yd t{Yhrea{yd{x~
+A pair of dark leather boots has been dropped here.~
+leather~
+armor K AG
+16 16 16 12 0
+60 2 85 100
+A
+17 -10
+#63066
+dark leather belt gold thread~
+a {Dd{yar{Dk l{yea{Dt{yhe{Dr{w {Db{yel{Dt{x worked with {yg{Yol{yd t{Yhrea{yd{x~
+A dark leather belt has been dropped here.~
+leather~
+armor K AL
+16 16 16 12 0
+60 1 85 100
+A
+17 -10
+#63067
+dark leather bracer gold thread~
+a {Dd{yar{Dk l{yea{Dt{yhe{Dr{w {Db{yrace{Dr{x worked with {yg{Yol{yd t{Yhrea{yd{x~
+A dark leather bracer has been dropped here.~
+leather~
+armor K AM
+16 16 16 12 0
+60 1 100 100
+A
+17 -10
+#63068
+long black cloak~
+a {Dlo{wn{Wg{D bla{wc{Wk{D clo{wa{Wk{x~
+A long black cloak has been dropped here.~
+wool~
+armor S AK
+16 16 16 12 0
+60 4 60 100
+A
+17 -10
+#63069
+golden key running fox~
+a {yg{Yo{Wld{Ye{yn {Wk{Ye{yy{x engraved with two {ye{Yl{Wega{Yn{yt s{Yw{Wa{Yn{ys{x~
+A golden key has been dropped here.~
+gold~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#63070
+silver key two swans~
+a {Ds{wi{Wlv{we{Dr {Wk{we{Dy{x engraved with two {De{wl{Wega{wn{Dt s{ww{Wa{wn{Ds{x~
+A silver key has been dropped here.~
+silver~
+key K A
+0 0 0 0 0
+0 1 0 100
+#63071
+armchairs~
+an {ca{Dr{cmcha{Di{cr{x~
+A couple of old {ca{Dr{cmchai{Dr{cs{x have been arranged around the {Df{wi{Dr{we{Wp{wl{Da{wc{De{x.~
+wood~
+furniture S P
+4 10000 FIL 100 100
+0 0 0 100
+#63072
+bunk beds~
+a {ybu{Dn{yk b{De{yd{x~
+The quarters have been furnished with two sets of {ybu{Dn{yk b{De{yds{x.~
+wood~
+furniture S P
+4 10000 EHL 110 110
+0 0 0 100
+#63073
+footlockers~
+a {yfootlocker{x~
+Several {yfootlockers{x have been stashed underneath the {ybu{Dn{yk b{De{yds{x.~
+wood~
+container Sa P
+50 AC 0 25 100
+0 0 0 100
+#63074
+comfortable armchairs~
+a {bc{Bo{bmfortab{Bl{be a{Br{bmcha{Bi{br{x~
+A group of {ba{Br{bmchai{Br{bs{x have been placed around the fireplace.~
+wood~
+furniture S P
+4 10000 FIL 100 100
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#63000
+{WOrigan Gate{x~
+At this point the great {Wwhite wall{x that separates the New City from the
+more ancient Inner City can be seen close up and in its full splendor as a
+great achievement of Ogier craftsmanship.  The joins between the separate
+blocks of stone are almost impossible to detect with the naked eye.  Tall
+watchtowers at set intervals along the walls proudly fly {WWhite Lion{x banners.
+It is here that the New City and Inner City are linked by Origan Gate, a
+great {Wmarble arch{x approximately twenty feet in height that is built into the
+wall.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 62401
+D2
+~
+~
+0 0
+0 0 63001
+S
+#63001
+Ishara Road~
+Ishara Road is one of the main roads that lead through the Inner City of
+Caemlyn.  The road runs alongside a huge {Wwhite stone wall{x that effectively
+walls the upper class from the lower class citizens of the New City.  A
+second, much shorter thoroughfare leads northwards, linking Palace Road to a
+great arch built within the stone wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63000
+D1
+~
+~
+0 0
+0 0 63002
+D3
+~
+~
+0 0
+0 0 63020
+S
+#63002
+Ishara Road~
+This section of Ishara Road winds its way through the northern part of
+the Inner City, following the course of the {Wancient stone walls{x that
+encircle the area.  Beautiful Ogier-built structures can be seen along this
+road, ranging from elegant houses to beautiful {Wm{wa{Dno{wr{Ws{x and {Wpa{wl{Da{wc{Wes{x.  One
+particularly attractive example of these structures is a {Ww{wh{Di{wt{We d{wo{Dm{we{Wd p{wa{Dla{wc{We{x
+that can be seen on the north side of the road.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 63082
+D1
+~
+~
+0 0
+0 0 63003
+D3
+~
+~
+0 0
+0 0 63001
+S
+#63003
+Ishara Road~
+Beautifully constructed buildings made of gleaming white masonry flank
+Ishara Road.  The road is a broad thoroughfare that follows the path of the
+massive {Wwhite wa{wl{Wls{x that tower over and protect the Inner City.  Even from
+this location within city the {cw{Ca{Wtchtowe{Cr{cs{x built along the wall can be seen;
+each one is flying the banner of {rA{Rn{Wd{Ro{rr{x, the {WWhite Lion{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63004
+D3
+~
+~
+0 0
+0 0 63002
+S
+#63004
+Ishara Road~
+This section of Ishara Road winds its way through the northern part of
+the Inner City, following the course of the {Wancient stone walls{x that
+encircle the area.  Beautiful Ogier-built structures can be seen along this
+road, ranging from elegant houses to beautiful {Wm{wa{Dno{wr{Ws{x and {Wpa{wl{Da{wc{Wes{x.  Not one
+of them can compare to the splendor of the great domed building constructed
+in the heart of Caemlyn upon its highest hills, the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63005
+D3
+~
+~
+0 0
+0 0 63003
+S
+#63005
+Ishara Road~
+Ishara Road bends sharply at this point as leads through the Inner City. 
+The road runs alongside a huge {Wwhite stone wall{x that effectively walls the
+upper class from the lower class citizens of the New City.  There are many
+Ogier-crafted structures bordering this road; one particularly beautiful
+example of a {Ww{wh{Di{wt{We d{wo{Dm{we{Wd p{wa{Dla{wc{We{x can be seen on the north side of the bend.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 63069
+D2
+~
+~
+0 0
+0 0 63006
+D3
+~
+~
+0 0
+0 0 63004
+S
+#63006
+Ishara Road~
+Ishara Road is one of the main thoroughfares that lead through the Inner
+City of Caemlyn.  The road runs alongside a massive {Wwhite stone wall{x that
+effectively walls the upper class from the lower class citizens of the New
+City.  A second, much shorter thoroughfare leads eastwards, joining Palace
+Road to a great arch built within the stone wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63005
+D1
+~
+~
+0 0
+0 0 63007
+D2
+~
+~
+0 0
+0 0 63008
+S
+#63007
+{WMondel Gate{x~
+At this point the enormous {Wwhite wall{x that separates the New City from
+the more ancient Inner City is visible close up and in its full majesty as a
+great achievement of Ogier engineering.  The joins between the separate
+blocks of stone are almost impossible to detect with the naked eye.  Tall
+{cw{Ca{Wtchtowe{Cr{cs{x positioned along the walls proudly fly {WWhite Lion{x banners.  It
+is here that the New City and Inner City are linked by Mondel Gate, a great
+{Wmarble arch{x approximately twenty feet in height that is built into the wall.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62491
+D3
+~
+~
+0 0
+0 0 63006
+S
+#63008
+Ishara Road~
+Ishara Road bends at this point as the road follows the path of the massive
+{Wwhite s{wt{Wo{wn{We walls{x that protect the Inner City.  The white paving slabs of
+the road fit so neatly together that the joins between them are almost
+invisible to the human eye.  Like the rest of the Inner City, there are many
+beautiful examples of Ogier-crafted buildings such as houses and {Wpa{wl{Da{wc{Wes{x to
+be found nearby.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63006
+D3
+~
+~
+0 0
+0 0 63009
+S
+#63009
+Ishara Road~
+Ishara Road is a long yet wide thoroughfare that twists its way around
+the Inner City.  Narrower roads lead off from this point, winding their way
+around astounding examples of Ogier workmanship such as grand {Wm{wa{Dn{wo{Wr h{wo{Dus{we{Ws{x
+and beautiful {Wp{wl{Waz{wa{Ws{x that are decorated with ornate {Cf{Wo{Cu{Wn{Ct{Wa{Ci{Wn{Cs{x and {Dst{wa{Wt{wu{Des{x. 
+The Inner City walls can be seen from this point overlooking over the most
+of the structures within this vicinity apart for the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x that sits
+at the heart of Caemlyn upon its highest hill.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63008
+D3
+~
+~
+0 0
+0 0 63010
+S
+#63010
+Ishara Road~
+Ishara Road turns sharply at this point as it follows the massive {Wwhite
+s{wt{Wo{wn{We walls{x that protect the Inner City.  The white paving slabs of the road
+fit so closely together that the joins between them are almost hidden to the
+naked eye.  Like the rest of the Inner City, there are numerous beautiful
+examples of Ogier-crafted buildings to be found within the vicinity.  A
+second thoroughfare known as the Palace Road leads away westwards from this
+point along Ishara Road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63009
+D2
+~
+~
+0 0
+0 0 63034
+D3
+~
+~
+0 0
+0 0 63011
+S
+#63011
+Palace Road~
+This is the eastern end of Palace Road, a broad thoroughfare that passes
+through the Inner City past beautiful ornamental parks and clusters of grand
+Ogier-made buildings to the north.  To the south lies the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x,
+built upon the highest hill in Caemlyn.  A tall wall made of white stone,
+roughly hewn to look like a cliff separates the Palace grounds from the rest
+of the Inner City.  To the east lies Ishara Road and to the west lies the
+Oval Plaza, the huge {Dp{wi{Waz{wz{Da{x that lies before the main entrance into the
+Royal Palace.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63010
+D2
+~
+~
+4096 4096
+0 0 63014
+D3
+~
+~
+0 0
+0 0 63012
+S
+#63012
+{WThe Oval Plaza{x~
+This is the northern half of the Oval Plaza.  It is not difficult to see
+how the {Wp{wl{Wa{wz{Wa{x has earned its name; the {Wp{wl{Wa{wz{Wa{x is a huge oval area that has
+been paved with slabs of white stone.  The {Wp{wl{Wa{wz{Wa{x gives a wonderful view of
+the surrounding grand white stone buildings and beautiful tree-filled {gp{Gark{gs{x,
+all of which have been designed by Ogier.  The {Wp{wl{Wa{wz{Wa{x bisects a wide
+thoroughfare that is paved with the same type of stone as the {Wp{wl{Wa{wz{Wa{x and
+leads off to the east and west.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63011
+D2
+~
+~
+0 0
+0 0 63013
+D3
+~
+~
+0 0
+0 0 63015
+S
+#63013
+{WThe Oval Plaza{x~
+This is the southern half of the Oval Plaza, a huge oval-shaped {Wp{wl{Wa{wz{Wa{x
+paved with white stone.  The {Wp{wl{Wa{wz{Wa{x gives a wonderful view of the surrounding
+white stone buildings and tree-filled {gp{Gark{gs{x but all of these buildings pale
+in comparison to the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x that lies to the south; a sculpted
+masterpiece of white stone adorned with {ct{Ca{Wl{Cl {cs{Cp{Wir{Ce{cs{x and {yg{Yolde{yn d{Yome{ys{x.  There
+is a tall {Wwhite stone wall{x that encircles the Palace's grounds south of the
+Oval Plaza; built into the wall are a set of tall {yg{Yilde{yd g{Yate{ys{x that look
+into the Queen's Plaza.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 63012
+D2
+~
+gate~
+3 3
+1 0 63100
+S
+#63014
+The Hilltop Wall~
+This is a {gg{Grass{gy b{Gan{gk{x that rises from a paved street, steeply sloping
+upwards to a {Wwhite wall{x made of rough stone.  The wall is roughly two spans
+high and has been made to look like a natural {Wcl{wi{Wff f{wa{Wce{x but on closer
+inspection faint joins between individual blocks of stone are visible. 
+Several {gl{Geaf{gy t{Gre{ge l{Gimb{gs{x jut out over the top of the wall whilst the tops of
+other {gt{Gree{gs{x can be seen further away behind the wall.  
+~
+0
+C 2
+D0
+~
+~
+4096 4096
+0 0 63011
+D2
+~
+~
+4096 4096
+0 0 63121
+S
+#63015
+Palace Road~
+This is the western end of Palace Road, a broad thoroughfare that passes
+through the Inner City past beautiful ornamental {gp{Gark{gs{x and clusters of grand
+Ogier-made buildings to the north.  To the south lies the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x,
+built upon the highest hill in Caemlyn.  A tall wall made of white stone,
+roughly hewn so it looks like a cliff separates the Palace grounds from the
+rest of the Inner City.  To the west lies Ishara Road and to the east lies
+the Oval Plaza, the huge {Dp{wi{Waz{wz{Da{x that lies before the main entrance into the
+Royal Palace.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63012
+D2
+~
+~
+4096 4096
+0 0 63016
+D3
+~
+~
+0 0
+0 0 63017
+S
+#63016
+A Grassy Slope~
+This is a {gg{Grass{gy b{Gan{gk{x that rises from a paved thoroughfare, steeply
+sloping upwards to a {Wwhite wall{x made of {Wro{wu{Wgh st{wo{Wne{x.  The wall is
+approximately two spans high and has been made to look like a natural {Wcl{wi{Wff
+f{wa{Wce{x but on closer inspection faint joins between individual blocks of stone
+are visible.  A clump of {gl{Geaf{gy g{Gree{gn b{Gushe{gs{x grows here, obscuring the bottom
+part of the wall from view.  
+~
+0
+C 2
+D0
+~
+~
+4096 4096
+0 0 63015
+D2
+~
+gate~
+4099 4099
+1 0 63118
+S
+#63017
+Ishara Road~
+This is Ishara Road, one of the main roads in Caemlyn and runs alongside
+the huge stone walls that enclose the Inner City.  Wonderful examples of
+Ogier craftsmanship can be seen along this road such as luxurious {Wpa{wl{Da{wc{Wes{x
+and beautiful {Wp{wl{Waz{wa{Ws{x that are decorated with flamboyant {Dst{wa{Wt{wu{Des{x and
+{Cf{Wo{Cu{Wn{Ct{Wa{Ci{Wn{Cs{x.  None of them can compare to the magnificence of the great white
+stone structure built in the heart of Caemlyn upon its highest hill, the
+{yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  A second thoroughfare known as the Palace Road leads away
+eastwards from this point along Ishara Road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63018
+D1
+~
+~
+0 0
+0 0 63015
+D2
+~
+~
+0 0
+0 0 63021
+S
+#63018
+Ishara Road~
+Magnificently constructed buildings made of gleaming masonry overlook
+Ishara Road.  The road is a broad thoroughfare that follows the path of the
+enormous {Wwhite s{wt{Wo{wn{We walls{x that tower over and protect the Inner City.  Even
+from this location within city the {cw{Ca{Wtchtowe{Cr{cs{x built along the wall are
+visible; each one is flying the banner of {rA{Rn{Wd{Ro{rr{x, the {WWhite Lion{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63019
+D2
+~
+~
+0 0
+0 0 63017
+S
+#63019
+Ishara Road~
+Ishara Road turns sharply at this point as it follows the enormous {Wwhite
+s{wt{Wo{wn{We walls{x that protect the Inner City.  The white paving slabs of the road
+fit so closely together that the joins between them are almost hidden to the
+naked eye.  There are numerous Ogier-built structures bordering this road
+but none of them can compare to the splendor of the huge white stone
+structure built in the center of Caemlyn upon its highest hill, the {yR{Yo{Wy{Ya{yl
+P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63020
+D2
+~
+~
+0 0
+0 0 63018
+S
+#63020
+Ishara Road~
+Ishara Road is a long yet broad thoroughfare that winds its way around
+the Inner City.  Smaller roads lead off from this point, twisting their way
+around wondrous examples of Ogier craftsmanship such as grand {Wpa{wl{Da{wc{Wes{x and
+beautiful {Wp{wl{Waz{wa{Ws{x that are adorned with ornate sculptures and {Cf{Wo{Cu{Wn{Ct{Wa{Ci{Wn{Cs{x.  The
+great Inner City walls can be seen from this point towering over the
+majority of the buildings within this area apart for the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x that
+sits in the center of Caemlyn upon its highest hill.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63001
+D3
+~
+~
+0 0
+0 0 63019
+S
+#63021
+Ishara Road~
+Ishara Road is a long yet wide thoroughfare that twists its way around
+the Inner City.  Narrower roads lead off from this point, winding their way
+around amazing examples of Ogier craftsmanship such as luxurious {Wpa{wl{Da{wc{Wes{x and
+beautiful {Wp{wl{Waz{wa{Ws{x that are decorated with ornate {Dst{wa{Wt{wu{Des{x and {Cf{Wo{Cu{Wn{Ct{Wa{Ci{Wn{Cs{x.  The
+enormous Inner City walls can be seen from this point towering over the
+majority of the buildings within this area apart for the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x that
+sits at the heart of Caemlyn upon its highest hill.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63017
+D2
+~
+~
+0 0
+0 0 63022
+S
+#63022
+Ishara Road~
+This is Ishara Road, one of the main thoroughfares in Caemlyn.  The road
+runs alongside the {Wancient stone walls{x that encircle the Inner City. 
+Wonderful Ogier-built structures can be seen along this road, ranging from
+elegant houses to beautiful {Wm{wa{Dno{wr{Ws{x and {Wpa{wl{Da{wc{Wes{x.  None of them can compare to
+the beauty of the great white stone structure built in the heart of Caemlyn
+upon its highest hill, the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63021
+D2
+~
+~
+0 0
+0 0 63023
+S
+#63023
+Ishara Road~
+Ishara Road is one of the main thoroughfares that lead through the Inner
+City.  The road runs parallel to a huge {Wwhite stone wall{x that effectively
+walls the upper class from the lower class citizens of the New City.  There
+are dozens of Ogier-crafted structures built along this road; one
+particularly large yet beautiful example of a manor house can be seen on the
+west side of the road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63022
+D2
+~
+~
+0 0
+0 0 63024
+D3
+~
+~
+3 3
+1 0 63035
+S
+#63024
+Ishara Road~
+Beautifully constructed buildings made of gleaming white stone flank
+Ishara Road.  The road is a broad thoroughfare that follows the path of the
+great {Wwhite wa{wl{Wls{x that tower over and protect the Inner City.  Even from
+this point within city the towers built along the wall can be seen; each one
+is flying the banner of {rA{Rn{Wd{Ro{rr{x, the {WWhite Lion{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63023
+D2
+~
+~
+0 0
+0 0 63025
+S
+#63025
+Ishara Road~
+Ishara bends abruptly at this point as it runs alongside the huge {Wwhite
+s{wt{Wo{wn{We walls{x that enclose the Inner City.  The white paving slabs of the road
+fit so neatly together that the joins between them are almost invisible to
+the naked eye.  There are dozens of grand Ogier-built structures along this
+road but none of them can compare to the beauty of the great white stone
+structure built in the heart of Caemlyn upon its highest hill, the {yR{Yo{Wy{Ya{yl
+P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63024
+D1
+~
+~
+0 0
+0 0 63026
+S
+#63026
+Ishara Road~
+This is Ishara Road, one of the main roads in Caemlyn and runs alongside
+the huge {Wwhite s{wt{Wo{wn{We walls{x that enclose the Inner City.  Wonderful
+Ogier-built structures can be seen along this road, ranging from stylish
+houses to beautiful {Wm{wa{Dno{wr{Ws{x and {Wpa{wl{Da{wc{Wes{x.  None of them can compare to the
+magnificence of the great white stone structure built in the heart of
+Caemlyn upon its highest hill, the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63027
+D3
+~
+~
+0 0
+0 0 63025
+S
+#63027
+Ishara Road~
+Ishara Road is one of the main roads that lead through the Inner City. 
+The thoroughfare runs alongside an enormous {Wwhite stone wall{x that
+effectively walls the upper class from the lower class citizens of the New
+City.  Two other roads lead off from Palace Road at this point, the first
+road leads northwards to the South Stable Gate, one of the entrances into
+the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  The second thoroughfare leads southwards to a great arch
+built within the wall surrounded the Inner City.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 63113
+D1
+~
+~
+0 0
+0 0 63029
+D2
+~
+~
+0 0
+0 0 63028
+D3
+~
+~
+0 0
+0 0 63026
+S
+#63028
+{WLion Gate{x~
+At this point the vast {Wwhite wall{x that separates the New City from the
+older Inner City can be seen close up and in its full splendor as a great
+achievement of Ogier workmanship.  The joins between the individual blocks
+of stone are almost impossible to see with the naked eye.  Tall {cw{Ca{Wtchtowe{Cr{cs{x
+at set intervals along the walls proudly display {WWhite Lion{x banners.  It is
+here that the New City and Inner City are linked by Lion Gate, a great
+{Wmarble arch{x approximately twenty feet in height that is built into the wall.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63027
+D2
+~
+~
+0 0
+0 0 62417
+S
+#63029
+Ishara Road~
+Ishara Road is one of the main roads within Caemlyn.  The road is
+constructed from white paving slabs and runs parallel the ancient {Wwhite
+s{wt{Wo{wn{We walls{x that surround the Inner City.  Stunning Ogier-built structures
+can be seen along this road, ranging from stylish houses to beautiful {Wm{wa{Dno{wr{Ws{x
+and {Wpa{wl{Da{wc{Wes{x.  None of them can compare to the splendor of the huge white
+stone structure built in the heart of Caemlyn upon its highest hill, the
+{yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63030
+D3
+~
+~
+0 0
+0 0 63027
+S
+#63030
+Ishara Road~
+Ishara turns sharply at this point as it runs parallel to the enormous
+{Wwhite s{wt{Wo{wn{We walls{x that enclose the Inner City.  The white paving slabs of
+the road fit so neatly together that the joins between them are almost
+hidden to the naked eye.  There are numerous Ogier-built structures flanking
+this road but none of them can compare to the splendor of the huge white
+stone structure built in the center of Caemlyn upon its highest hill, the
+{yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63031
+D3
+~
+~
+0 0
+0 0 63029
+S
+#63031
+Ishara Road~
+Ishara Road is one of the main thoroughfares within Caemlyn.  The road is
+constructed from white paving slabs and runs parallel the {Wancient stone
+walls{x that encircle the Inner City.  Stunning Ogier-built structures can be
+seen along this road, ranging from elegant houses to beautiful {Wm{wa{Dno{wr{Ws{x and
+{Wpa{wl{Da{wc{Wes{x.  None of them can compare to the beauty of the great white stone
+structure built in the heart of Caemlyn upon its highest hill, the {yR{Yo{Wy{Ya{yl
+P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63032
+D2
+~
+~
+0 0
+0 0 63030
+S
+#63032
+Ishara Road~
+Ishara Road is one of the main roads that lead through the Inner City. 
+The road runs alongside a huge {Wwhite stone wall{x that effectively walls the
+upper class from the lower class citizens of the New City.  There are dozens
+of Ogier-crafted structures built along this road; one particularly large
+yet beautiful example of a manor house can be seen on the east side of the
+road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63033
+D1
+~
+gate~
+3 3
+1 0 63040
+D2
+~
+~
+0 0
+0 0 63031
+S
+#63033
+Ishara Road~
+This section of Ishara Road winds its way through the eastern part of the
+Inner City, following the course of the {Wancient stone walls{x that encircle
+the area.  Wonderful examples of Ogier craftsmanship can be seen along this
+road such as luxurious {Wpa{wl{Da{wc{Wes{x and beautiful {Wp{wl{Waz{wa{Ws{x that are decorated with
+flamboyant {Dst{wa{Wt{wu{Des{x and {Cf{Wo{Cu{Wn{Ct{Wa{Ci{Wn{Cs{x.  Not one of them can compare to the beauty
+of the great white stone structure built on in the heart of Caemlyn upon its
+highest hills, the {yR{Yo{Wy{Ya{yl P{Ya{Wla{Yc{ye{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63034
+D2
+~
+~
+0 0
+0 0 63032
+S
+#63034
+Ishara Road~
+Ishara Road is a long yet broad road that meanders its way around the
+Inner City.  Smaller streets lead off from this point, twisting their way
+around astonishing examples of Ogier craftsmanship such as magnificent
+{Wpa{wl{Da{wc{Wes{x and stunning {Wp{wl{Waz{wa{Ws{x that are adorned with ornate {Cf{Wo{Cu{Wn{Ct{Wa{Ci{Wn{Cs{x and
+sculptures.  The huge Inner City walls can be seen from this point towering
+over the majority of the buildings within this area apart for the {yR{Yo{Wy{Ya{yl
+P{Ya{Wla{Yc{ye{x that sits in the middle of Caemlyn upon its highest hill.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63010
+D2
+~
+~
+0 0
+0 0 63033
+S
+#63035
+A Small Courtyard~
+On the west side of this {Wc{wo{Wurtya{wr{Wd{x is a large {Wma{wn{Wor ho{wu{Wse{x that towers
+over the paved area, both the {Who{wu{Wse{x and {Wya{wr{Wd{x have been constructed out of
+white stone.  At the opposite side of the yard is a high {Ww{wal{Wl{x built from
+white stone that marks the perimeter of the property; a tall {Dg{wat{De{wwa{Dy{x
+provides a way past the {Ww{wal{Wl{x and onto the streets of the Inner City.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 63023
+D2
+~
+~
+0 0
+0 0 63036
+D3
+~
+~
+515 515
+1 63038 63055
+S
+#63036
+A Gravel Track~
+This is a {yt{wr{Da{wc{yk{x that runs parallel to a tall white stone {Ww{wal{Wl{x that marks
+the boundaries of the manor's grounds.  The {yt{wr{Da{wc{yk{x is just wide enough to
+allow a small wagon or carriage along although the gravel covering the route
+may prove to be a hindrance rather than a help to such vehicles.  The {yt{wr{Da{wc{yk{x
+is bordered on both sides by {gf{Glo{Yweri{Gn{gg s{Gh{Yru{Gb{gs{x which add a splash of color to
+this predominately gray area.  To the north of the {yt{wr{Da{wc{yk{x lies a {Wc{wo{Wurtya{wr{Wd{x
+whilst to the south is a much smaller {Wya{wr{Wd{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63035
+D2
+~
+~
+0 0
+0 0 63037
+S
+#63037
+A Small Yard~
+This is a {Wya{wr{Wd{x located in the grounds of one of the Inner City's {Wma{wn{Wor
+ho{wu{Wse{xs.  It is a small square area clad with slabs of pale gray stone.  An
+impressive stable made out of white stone has been built on the southern
+border of the {Wya{wr{Wd{x.  The {Wya{wr{Wd{x is linked by two gravel {yt{wr{Dac{wk{ys{x that lead north
+and west to other parts of the manor.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63036
+D2
+~
+~
+3 3
+1 0 63038
+D3
+~
+~
+0 0
+0 0 63045
+S
+#63038
+A Private Stable~
+The stable occupies a white stone building with a gently sloping gray
+tiled roof.  There are several stalls to accommodate horses along the west
+side of the stable whilst an area to store carriages has been left on the
+opposite side.  The far wall has been used to store various bits of
+equipment on racks and hooks such as tack, grooming equipment and tools.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 63037
+D4
+~
+~
+4096 4096
+0 0 63039
+S
+#63039
+A Hay Loft~
+This large hayloft occupies the upper level of the stable.  As with most
+other hay lofts, this one has been used to store bales of hay and straw.  It
+is a cramped and dusty area but it is also dry and is suitable for its
+purpose.  There is not much else to see within this area apart from a sturdy
+ladder leading back down to ground level.  
+~
+0
+AD 0
+D5
+~
+~
+4096 4096
+0 0 63038
+S
+#63040
+A Small Courtyard~
+On the east side of this small {Wc{wo{Wurtya{wr{Wd{x is a {Wma{wn{Wor ho{wu{Wse{x that looms over
+the paved area, both the {Who{wu{Wse{x and {Wya{wr{Wd{x have been built out of white stone. 
+At the opposite side of the {Wya{wr{Wd{x is a high {Ww{wal{Wl{x constructed from white stone
+that marks the border of the property; a tall {Dg{wat{De{wwa{Dy{x provides a way past
+the wall and onto the streets of the Inner City.  
+~
+0
+0 1
+D1
+~
+~
+515 515
+1 63046 63062
+D2
+~
+~
+0 0
+0 0 63041
+D3
+~
+gate~
+3 3
+1 0 63032
+S
+#63041
+A Narrow Track~
+This is a {yt{wr{Da{wc{yk{x that runs parallel to a tall white stone {Ww{wal{Wl{x that marks
+the boundaries of the manor's grounds.  The {yt{wr{Da{wc{yk{x is just wide enough to
+allow a small carriage or wagon along although the shingle covering the
+route may prove to be an obstruction rather than a help to such vehicles. 
+The {yt{wr{Da{wc{yk{x is bordered on both sides by {gf{Glo{Wweri{Gn{gg s{Gh{Wru{Gb{gs{x which add some color
+to this predominately gray area.  To the north of the path lies a {Wc{wo{Wurtya{wr{Wd{x
+whilst to the south is a much smaller {Wya{wr{Wd{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63040
+D2
+~
+~
+0 0
+0 0 63042
+S
+#63042
+A Small Yard~
+This is a {Wya{wr{Wd{x located in the grounds of a {Wma{wn{Wor ho{wu{Wse{x in the Inner City.
+It is a small square area paved with slabs of dull gray stone.  An
+impressive stable made out of white stone has been built on the southern
+border of the {Wya{wr{Wd{x.  The {Wya{wr{Wd{x is linked by two shingle {yt{wr{Dac{wk{ys{x that lead
+north and east to other parts of the manor.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63041
+D1
+~
+~
+0 0
+0 0 63047
+D2
+~
+~
+3 3
+1 0 63043
+S
+#63043
+A Private Stable~
+The stable occupies a white stone building with a gently sloping roof
+that is covered with light gray tiles.  There are several stalls to
+accommodate horses along the east side of the stable whilst an area to store
+carriages has been left on the opposite side.  The far wall has been used to
+store various bits of equipment on hooks and racks such as tack, grooming
+equipment and tools.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63042
+D4
+~
+~
+4096 4096
+0 0 63044
+S
+#63044
+A Hay Loft~
+This large hayloft occupies the upper level of the stable.  Like most
+other hay lofts, this one has been used to store bales of straw and hay.  It
+is a confined and dusty area but it is also dry and is suitable for its
+purpose.  There is not much else to see within this area except for a sturdy
+ladder leading back down to ground level.  
+~
+0
+AD 0
+D5
+~
+~
+4096 4096
+0 0 63043
+S
+#63045
+A Gravel Track~
+This is a {yt{wr{Da{wc{yk{x that runs parallel to a white stone {Ww{wal{Wl{x that marks the
+perimeter of the manor's grounds.  The {yt{wr{Da{wc{yk{x is just wide enough to allow a
+small carriage or wagon along although the gravel covering the route may
+prove to be a problem to such vehicles.  The {yt{wr{Da{wc{yk{x is flanked on both sides
+by {gf{Glo{Yweri{Gn{gg s{Gh{Yru{Gb{gs{x which add some color to this predominately gray area. 
+To the east of the track lies a small {Wya{wr{Wd{x whilst along the {yp{wa{Dt{yh{x to the west
+is a {gg{Ga{grd{Ge{gn{x.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 63037
+D3
+~
+~
+0 0
+0 0 63046
+S
+#63046
+A Vegetable Garden~
+This small section of land behind the {Wma{wn{Wor ho{wu{Wse{x is being used as a
+vegetable {gg{Ga{grd{Ge{gn{x.  Vegetables have been systematically planted in neat rows
+within the {gg{Ga{grd{Ge{gn{x, each row marked by a small wooden sign to say what grows
+there.  A narrow {yp{wa{Dt{yh{x covered with gravel winds its way along the edge of
+the area, ending at a door that leads inside the {Wma{wn{Wor ho{wu{Wse{x.  
+~
+0
+0 2
+D0
+~
+~
+515 515
+1 63032 63049
+D1
+~
+~
+0 0
+0 0 63045
+S
+#63047
+A Narrow Track~
+This is a {yt{wr{Da{wc{yk{x that runs parallel to a white stone {Ww{wal{Wl{x that marks the
+perimeter of the manor's grounds.  The {yt{wr{Da{wc{yk{x is just wide enough to allow a
+small wagon or carriage along although the shingle covering the route may
+prove to be a problem to such vehicles.  The {yt{wr{Da{wc{yk{x is flanked on both sides
+by {gf{Glo{Wweri{Gn{gg s{Gh{Wru{Gb{gs{x which add a splash of color to this predominately gray
+area.  To the west of the {yt{wr{Da{wc{yk{x lies a small {Wya{wr{Wd{x whilst along the {yp{wa{Dt{yh{x to
+the east is a {gg{Ga{grd{Ge{gn{x.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 63048
+D3
+~
+~
+0 0
+0 0 63042
+S
+#63048
+A Small Garden~
+This {gg{Ga{grd{Ge{gn{x is a small grassy area at the back of the {Wma{wn{Wor ho{wu{Wse{x,
+bordered by {gw{mi{Ml{Wd{Mflo{Ww{Me{mr{gs{x.  A narrow {yp{wa{Dt{yh{x covered with shingle winds its way
+through the {gg{Ga{grd{Ge{gn{x, ending at a door leading inside the manor.  Small {gt{Gr{ge{Ge{gs{x
+with wide spreading boughs loom over the {yp{wa{Dt{yh{x, bequeathing their shade to
+travelers that may use it.  
+~
+0
+0 2
+D0
+~
+~
+515 515
+1 63036 63052
+D3
+~
+~
+0 0
+0 0 63047
+S
+#63049
+A Servant's Hallway~
+This is narrow corridor whose white stone walls lack any type of
+decoration except for plain {Dl{wa{Wn{Yte{Wr{wn{Ds{x used to light up the area.  The floor
+has been clad with white tiles and covered dark blue {bc{Ba{brp{Be{bt{x to muffle the
+sound of footsteps as opposed to keeping this area warm.  There are several
+doorways along this corridor; almost all of them are identical apart from
+the door on the southern end of the hallway which has been reinforced with
+strips of iron.  
+~
+0
+D 0
+D0
+~
+~
+4099 4099
+1 0 63057
+D1
+~
+~
+4099 4099
+1 0 63056
+D2
+~
+~
+515 515
+1 63032 63046
+D3
+~
+~
+3 3
+1 0 63050
+S
+#63050
+A Kitchen~
+The kitchen occupies a large white stone chamber within the manor house. 
+A lot of the activity within this room is focused around the large {Df{wir{re{yp{rl{wac{De{x
+in the east wall.  Racks full of {Dp{wot{Ds{x and {Dp{wan{Ds{x hang from the ceiling between
+the {Dl{wa{Ym{wp{Ds{x that light up the area.  Speckled brown stone worktops line the
+northern side of the room; below them are a lot of cupboards and drawers
+whilst above the worktops are many shelves.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 63049
+D5
+~
+trapdoor~
+3 3
+1 0 63051
+S
+#63051
+A Large Cellar~
+This is a large cellar constructed from white stone.  The walls of this
+square room look seamless at a distance but on closer inspection the joins
+between the large blocks of stone can be seen.  The floor of the cellar is
+covered in plain white tiles.  A flight of stairs constructed from the same
+stone as the walls leads upwards towards a trapdoor set in the ceiling.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+3 3
+1 0 63050
+S
+#63052
+A Servant's Hallway~
+This is narrow corridor whose white stone walls lack any type of
+embellishment except for plain {wl{Wa{Ym{Wp{ws{x used to light up the area.  The floor
+has been clad with white tiles and covered dark gray {Dc{wa{Drp{we{Dt{x to muffle the
+sound of footsteps as opposed to keeping this area warm.  There are several
+doorways along this corridor; almost all of them are identical apart from
+the door on the southern end of the hallway which has been reinforced with
+strips of iron.  
+~
+0
+D 0
+D0
+~
+~
+4099 4099
+1 0 63061
+D1
+~
+~
+3 3
+1 0 63053
+D2
+~
+~
+515 515
+1 63036 63048
+D3
+~
+~
+4099 4099
+1 0 63063
+S
+#63053
+A Large Kitchen~
+The kitchen occupies a large white stone chamber within the manor house. 
+A lot of the activity within this room is focused around the large {Df{wir{re{yp{rl{wac{De{x
+in the east wall.  Racks full of {Dp{wot{Ds{x and {Dp{wan{Ds{x hang from the ceiling between
+the {wl{Wa{Ym{Wp{ws{x that light up the area.  Speckled brown stone worktops line the
+northern side of the room; below them are a lot of cupboards and drawers
+whilst above the worktops are many shelves.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 63052
+D5
+~
+trapdoor~
+3 3
+1 0 63054
+S
+#63054
+A Large Cellar~
+This is a large cellar built from white stone.  The walls of this square
+room look seamless from afar but on closer inspection the joins between the
+large blocks of stone can be seen.  The floor of the cellar is covered in
+white and gray tiles arranged in a checkered pattern.  A flight of stairs
+constructed from the same stone as the walls leads upwards towards a
+trapdoor set in the ceiling.  
+~
+0
+AD 0
+D4
+~
+trapdoor~
+3 3
+1 0 63053
+S
+#63055
+An Entrance Hall~
+The entrance hall of the manor house occupies this large chamber. 
+Blue-gray tiles cover the floor of the hall whilst the small gilded {yl{Yan{Wte{Yrn{ys{x
+have been attached to the walls that are ornately paneled with dark wood. 
+The wall space has been used to display a beautiful collection of {gt{Ga{Cp{ce{wst{cr{Ci{Ge{gs{x
+depicting hunting scenes.  The most impressive part of the hall is the tall
+doors that mark the manor's entrance, ornately carved with a pair of crossed
+swords.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63064
+D1
+~
+~
+515 515
+1 63038 63035
+D2
+~
+~
+3 3
+1 0 63056
+D3
+~
+~
+3 3
+1 0 63057
+D4
+~
+~
+0 0
+0 0 63058
+S
+#63056
+A Large Dining Room~
+This large room paneled with dark wood has been used as a dining room. 
+Dark green carpets have been layered over the tiled floor of the room whilst
+several large oil paintings adorn the walls.  The area is illuminated with a
+series of golden lamps fixed to the walls of the room, bathing the area
+under a golden glow.  A white marble sits at the south side of the room
+whilst the east is dominated by two tall arched window fitted with green
+curtains that look out into the manor's grounds.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63055
+D3
+~
+~
+4099 4099
+1 0 63049
+S
+#63057
+A Cozy Sitting Room~
+Despite its white stone walls, this sitting room is a rather cozy place. 
+Beautiful tapestries adorn the walls, their bright colors revealed by the
+gilded stand-lamps placed around the room to illuminate the area.  As well
+as a tall black marble fireplace there are thick violet carpets layered over
+the tiled floor to bring additional warmth to the sitting room.  There are
+three tall arched windows fitted with violet velvet drapes on the west side
+of the room, looking out into the gardens at the back of the manor house.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 63055
+D2
+~
+~
+4099 4099
+1 0 63049
+S
+#63058
+A Long Hallway~
+This is a long hallway within one of the Inner City's many manor houses. 
+Blue-gray tiles cover the floor of the hall whilst the small gilded lanterns
+have been attached to the walls that are ornately paneled with dark wood. 
+The wall space has been used to display a beautiful collection of tapestries
+depicting hunting scenes.  There are several identical doorways along the
+hall but there are no signs here to hint at what lies in each room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63059
+D2
+~
+~
+3 3
+1 0 63060
+D5
+~
+~
+0 0
+0 0 63055
+S
+#63059
+A Large Bedroom~
+The bedroom occupies a room that has been paneled with cherry wood.  A
+small fireplace carved from red marble has been built into the north end of
+the room whilst the east wall is dominated by an arched window fitted with
+dark blue drapes.  The thick rugs that are layered over the tiled floor of
+the room are also dark blue in color.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 63058
+S
+#63060
+The Master Bedroom~
+The master bedroom occupies a large room that has been paneled with
+cherry wood.  A wide fireplace carved from red marble has been built into
+the south end of the room whilst the east wall is dominated by two arched
+windows that are fitted with golden yellow curtains.  The thick carpets that
+are layered over the tiled floor of the room are also golden yellow in
+color.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63058
+S
+#63061
+A Cozy Sitting Room~
+Despite its white stone walls, this sitting room is a rather cozy place. 
+Stunning tapestries adorn the walls, their vivid colors revealed by the
+golden stand-lamps placed around the room to light up the area.  As well as
+a wide green marble fireplace there are plush green carpets layered over the
+tiled floor to bring additional warmth to the sitting room.  There are three
+tall arched windows fitted with green velvet drapes on the east side of the
+room, looking out into the gardens at the back of the manor house.  
+~
+0
+D 0
+D2
+~
+~
+4099 4099
+1 0 63052
+D3
+~
+~
+3 3
+1 0 63062
+S
+#63062
+An Entrance Hall~
+The entrance hall of the manor house occupies this large chamber.  White
+tiles cover the floor of the hall whilst the small gilded {yl{Ya{Wm{Yp{ys{x have been
+attached to the walls that are ornately paneled with cherry wood.  The wall
+space has been used to display a wonderful collection of {gt{Ga{Cp{ce{wst{cr{Ci{Ge{gs{x
+depicting battle scenes.  The most impressive part of the hall is the tall
+doors that mark the manor's entrance, ornately carved with a running fox.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63065
+D1
+~
+~
+3 3
+1 0 63061
+D2
+~
+~
+3 3
+1 0 63063
+D3
+~
+~
+515 515
+1 63046 63040
+D4
+~
+~
+0 0
+0 0 63066
+S
+#63063
+A Large Dining Room~
+This large chamber paneled with cherry wood has been used as a dining
+room.  Dark red carpets have been layered over the tiled floor of the room
+whilst a few colorful tapestries adorn the walls.  The area is lit up with a
+series of gilded lanterns fixed to the walls of the room, bathing the area
+under a golden glow.  A white marble sits at the south side of the room
+whilst the west is dominated by two tall arched window fitted with red
+drapes that look out into the manor's grounds.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 63062
+D1
+~
+~
+4099 4099
+1 0 63052
+S
+#63064
+A Small Study~
+This is a small study whose walls have been decked out with ornate
+paneling made of dark wood.  A gray-blue carpet has been used to cover the
+floor, complimenting the blue marble fireplace on the north side of the
+room.  On the east side of the room is a window fitted with long gray-blue
+drapes but the main source of the room's lighting are a set of gilded
+stand-lamps stood in the corners of the room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 63055
+S
+#63065
+A Small Study~
+This is a small study whose walls have been decorated with ornate
+paneling made of cherry wood.  A crimson carpet has been used to cover the
+floor, complimenting the red marble fireplace on the north side of the room.
+On the west side of the room is a window fitted with long crimson drapes but
+the main source of the room's illumination are a set of gilded stand-lamps
+stood in the corners of the room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 63062
+S
+#63066
+A Long Hallway~
+This is a long hallway within one of the Inner City's many manor houses. 
+White tiles cover the floor of the hall whilst the small gilded lamps have
+been attached to the walls that are ornately paneled with cherry wood.  The
+wall space has been used to display a wonderful collection of tapestries
+depicting battle scenes.  There are several identical doorways along the
+hall but there are no signs here to hint at what lies in each room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63067
+D2
+~
+~
+3 3
+1 0 63068
+D5
+~
+~
+0 0
+0 0 63062
+S
+#63067
+The Master Bedroom~
+The master bedroom occupies a large room that has been paneled with dark
+wood.  A tall fireplace ornately carved from gray marble has been built into
+the north end of the room whilst the east wall is dominated by two arched
+windows that are fitted with silvery gray curtains.  The thick carpets that
+are layered over the tiled floor of the bedroom are also silvery gray in
+color.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 63066
+S
+#63068
+A Large Bedroom~
+The bedroom occupies a room that has been paneled with dark wood.  A
+small fireplace carved from green marble has been built into the south end
+of the room whilst the east wall is dominated by an arched window fitted
+with dark green drapes.  The thick rugs that are layered over the tiled
+floor of the bedroom are also dark green in color.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63066
+S
+#63069
+A Grand Courtyard~
+This grand colonnaded {Wc{wo{Wurtya{wr{Wd{x spread out before a large {Wpalace{x to the
+north.  Both the {Wpalace{x and the {Wc{wo{Wurtya{wr{Wd{x have been constructed from snowy
+white stone.  The palace grounds are surrounded by a high {Wwall{x that is also
+constructed from white stone, a set of {yg{Yi{Wld{Ye{yd g{Ya{Wt{Ye{ys{x on the southern side of
+{Wc{wo{Wurtya{wr{Wd{x lead out into the streets of the Inner City.  
+~
+0
+0 1
+D0
+~
+~
+515 515
+1 63069 63074
+D1
+~
+~
+0 0
+0 0 63073
+D2
+~
+gate~
+3 3
+1 0 63005
+D3
+~
+~
+0 0
+0 0 63070
+S
+#63070
+A Stable Yard~
+This stable yard is a hive of activity within the grounds of the nearby
+{Wpalace{x.  It is a large square yard that has been paved with gray slabs of
+stone.  Apart from the {Wpalace{x that lies in the distance to the north, the
+nearest building is the stable that loom over the yard along its western
+edge.  A colonnaded {Wc{wo{Wurtya{wr{Wd{x can be seen to the east which is much larger
+than this area.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 63069
+D3
+~
+~
+3 3
+1 0 63071
+S
+#63071
+A Private Stable~
+The stable occupies a large white stone building with a gently sloping
+blue-gray tiled roof.  There are several stalls to house horses along the
+south side of the stable whilst an area to store carriages has been left on
+the opposite side.  The far wall has been used to store various bits of
+equipment on racks and hooks such as grooming equipment, tack and tools.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 63070
+D4
+~
+~
+0 0
+0 0 63072
+S
+#63072
+A Hay Loft~
+There is nothing out of the ordinary about this hay loft.  Like a lot of
+other hay lofts, this one has been used to store bales of straw and hay.  It
+is a confined and dusty area but it is also dry and is suitable for its
+purpose.  There is not much else to see within this area except for a sturdy
+ladder leading back down to ground level.  
+~
+0
+AD 0
+D5
+~
+~
+0 0
+0 0 63071
+S
+#63073
+An Ornate Floral Garden~
+This {cf{Cl{Wor{Ca{cl g{Ca{Wrd{Ce{cn{x stretches out before a large white stone {Wpalace{x.  A
+narrow {wp{Wat{wh{x paved with white stone winds its way through a large grassy
+expanse of land past explosions of color created by superbly tended
+{mf{Ml{Wowerbe{Md{ms{x and {gf{Gl{Coweri{Gn{gg s{Gh{Cru{Gb{gs{x.  As the path winds its way westwards it
+links up with a huge colonnaded {Wc{wo{Wurtya{wr{Wd{x.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 63069
+S
+#63074
+An Elaborate Entrance Hall~
+The entrance hall of the palace occupies this large chamber.  The floor
+has been clad with silvery-streaked tiles and colorful tapestries adorn the
+plain white stone walls.  Silvery stand-lamps have been placed around the
+hall, providing adequate lighting to this windowless area.  The most
+impressive part of the hall are the tall doors that mark the palace's
+entrance, ornately carved with a pair of elegant swans facing each other.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 63089
+D1
+~
+~
+0 0
+0 0 63075
+D2
+~
+~
+515 515
+1 63069 63069
+D3
+~
+~
+0 0
+0 0 63077
+S
+#63075
+A Wide Corridor~
+This is the eastern end of a wide corridor within the palace.  The floor
+has been covered with silvery-streaked tiles and colorful tapestries adorn
+the plain white stone walls of this hall.  Silvery stand-lamps have been
+placed along the corridor, providing adequate lighting to this windowless
+area.  There are several doorways along this corridor; each door has been
+elaborately carved from dark wood.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63076
+D3
+~
+~
+0 0
+0 0 63074
+S
+#63076
+A Private Library~
+The library is housed within a large chamber whose walls and tiled floor
+have been created from plain white stone.  The lower half of the walls has
+been paneled with dark wood, matching the wood used in the construction of
+the bookcases found in the library.  Hundreds of books ranging from simple
+cloth-bound ones to leather-bound books with gilded spines have been
+arranged systematically in the bookcases around the library.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 63075
+S
+#63077
+A Wide Corridor~
+This is the western end of a wide corridor within the palace.  The floor
+has been clad with silvery-streaked tiles and colorful wall-hangings adorn
+the plain white stone walls of this passageway.  Silvery stand-lamps have
+been placed along the length of this corridor, providing adequate
+illumination to this windowless area.  There are several doorways along this
+corridor; each door has been elaborately carved from dark wood.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63088
+D1
+~
+~
+0 0
+0 0 63074
+D3
+~
+~
+3 3
+1 0 63078
+S
+#63078
+A Grand Sitting Room~
+The sitting room is located in this large oblong chamber whose walls and
+tiled floor have been created from plain white stone.  Both the cornices and
+the dark wooden paneling that adorns the lower half of the room are worked
+with a wave-like pattern.  The deep blue carpets that have been layered over
+the tiled floor compliment the wave theme, as do the deep blue drapes that
+adorn the tall arched windows on the south side of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63079
+D1
+~
+~
+3 3
+1 0 63077
+S
+#63079
+A Narrow Corridor~
+This is the southern end of a narrow corridor whose white stone walls
+lack any type of embellishment except for plain lamps used to light up the
+area.  The floor has been clad with white tiles and covered with a long
+strip of gray carpet to muffle the sound of footsteps as opposed to keeping
+this area warm.  There are several doorways along this corridor, each one of
+them is identical making it difficult to gauge what lies behind each door.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 63084
+D1
+~
+~
+4099 4099
+1 0 63088
+D2
+~
+~
+3 3
+1 0 63078
+D3
+~
+~
+3 3
+1 0 63080
+S
+#63080
+The Palace Kitchen~
+The kitchen occupies a large white stone chamber within the palace.  Most
+of the activity within this room is centered on the grand fireplace in the
+north wall.  Racks full of pots and pans hang from the ceiling between the
+gilded lanterns that light up the area.  Speckled gray stone worktops line
+the western side of the room, below them are lots of cupboards and drawers
+whilst above the worktops are numerous shelves.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 63079
+D2
+~
+~
+519 519
+2 63070 63081
+D5
+~
+~
+3 3
+1 0 63083
+S
+#63081
+A Small Yard~
+This is a {Wya{wr{Wd{x located in the grounds of a {Wpalace{x.  It is a small square
+area paved with slabs of white stone.  The {Wya{wr{Wd{x is overshadowed by the
+Ogier-crafted {Wpalace{x; a side entrance into the building can be seen on the
+north side of the {Wya{wr{Wd{x.  The only other exit from this area is a wide {Dp{wat{Dh{x
+that leads southwards towards the southern edge of the palace's grounds.  
+~
+0
+0 1
+D0
+~
+~
+519 519
+2 63070 63080
+D2
+~
+~
+0 0
+0 0 63082
+S
+#63082
+A Wide Path~
+This is a {Dp{wat{Dh{x that has been built in the shadow of a large palace.  The
+{Dp{wat{Dh{x is relatively wide and has been paved with dull gray stone.  Small
+leafy {gr{Go{rs{Rebus{rh{Ge{gs{x flank the sides of the {Dp{wat{Dh{x as it cuts through the palace's
+grounds.  To the north lies a small {Wc{wo{Wurtya{wr{Wd{x whilst to the south is the
+white stone {Ww{wa{Wll{x that borders the grounds of the palace, the path leads to a
+wide {Di{wro{Dn g{wat{De{x set in the {Ww{wa{Wll{x that leads out into the streets of the Inner
+City.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 63081
+D2
+~
+gate~
+3 3
+1 0 63002
+S
+#63083
+A Wine Cellar~
+This is a large wine cellar constructed from white stone.  The walls of
+this square room look seamless at a distance but on closer inspection the
+joins between the large blocks of stone can be seen.  The floor of the
+cellar is covered in plain white tiles.  There are dozens of bottles of wine
+stored here in wooden racks upon the wall.  A flight of stairs constructed
+from the same stone as the walls leads upwards towards a trapdoor set in the
+ceiling.  
+~
+0
+AD 0
+D4
+~
+~
+3 3
+1 0 63080
+S
+#63084
+A Narrow Corridor~
+This is the northern end of a narrow corridor whose white stone walls
+lack any type of decoration except for plain lanterns used to illuminate the
+area.  The floor has been clad with white tiles and covered with a long
+strip of gray carpet to dull the sound of footsteps rather than to keep this
+area warm.  There are several doorways along this corridor, each one of them
+is identical making it difficult to gauge what lies behind each door.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63087
+D1
+~
+~
+3 3
+1 0 63086
+D2
+~
+~
+0 0
+0 0 63079
+D3
+~
+~
+3 3
+1 0 63085
+S
+#63085
+The Servants' Quarters~
+This is a large yet simple chamber whose white stone walls lack any type
+of embellishment.  The white tiled floor is layered with thick gray carpets
+to add to the warmth of the area.  A small fireplace has been built into the
+west wall of the chamber; upon its mantle are a few of the occupants'
+keepsakes.  The items of furniture within this room look quite old but
+sturdy.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 63084
+S
+#63086
+The Servants' Quarters~
+This is a large yet simple chamber whose white stone walls lack any type
+of adornment.  The white tiled floor is layered with thick gray carpets to
+add to the warmth of the area.  A small fireplace has been built into the
+east wall of the room; upon its mantle are a few of the occupants'
+keepsakes.  The items of furniture within these quarters look quite old but
+sturdy.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 63084
+S
+#63087
+A Storage Room~
+This is a large yet storage room whose white stone walls lack any type of
+adornment.  The floor of the chamber has been left as bare stone tiles that
+are white in color and gleam as if they have been recently cleaned.  There
+are crates and barrels tidily stored within this room as well as other
+smaller items that sit neatly on wooden shelves.  The only exit from this
+area is a door on the south side of the room.  
+~
+0
+AD 0
+D2
+~
+~
+3 3
+1 0 63084
+S
+#63088
+A Grand Dining Room~
+The dining room is located in this large oblong chamber whose walls and
+tiled floor have been created from plain white stone.  Both the cornices and
+the dark wooden paneling that adorns the lower half of the room are worked
+with a vine-like pattern.  The dark green carpets that have been layered
+over the tiled floor compliment the vine theme, as do the dark green drapes
+that adorn the tall arched windows on the east side of the room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 63077
+D3
+~
+~
+4099 4099
+1 0 63079
+S
+#63089
+A Grand Staircase~
+A grand staircase leading up to the first floor of the palace dominates
+this large chamber, created from white marble and fitted with a
+silvery-streaked marble balustrade.  The floor has been clad with
+silvery-streaked tiles and colorful tapestries adorn the plain white stone
+walls of the chamber.  Silvery stand-lamps have been placed around the room,
+providing adequate lighting to this windowless area.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 63074
+D4
+~
+~
+0 0
+0 0 63090
+S
+#63090
+A Grand Staircase~
+A grand staircase leading down to the ground floor of the palace
+dominates this large chamber, created from white marble and fitted with a
+silvery-streaked marble balustrade.  The floor has been clad with
+silvery-streaked tiles and colorful tapestries adorn the plain white stone
+walls of the chamber.  Silvery stand-lamps have been placed around the room,
+providing adequate lighting to this windowless area.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 63091
+D5
+~
+~
+0 0
+0 0 63089
+S
+#63091
+A Wide Corridor~
+This is the southern end of a wide corridor within the palace.  The floor
+has been covered with silvery-streaked tiles and vibrant tapestries adorn
+the plain white stone walls of this hall.  Silvery stand-lamps have been
+placed along the corridor, providing adequate lighting to this windowless
+area.  There are several doorways along this corridor; each door has been
+ornately carved from dark wood.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 63090
+D1
+~
+~
+3 3
+1 0 63093
+D2
+~
+~
+3 3
+1 0 63094
+D3
+~
+~
+3 3
+1 0 63092
+S
+#63092
+A Large Bedroom~
+The bedroom occupies a room that has been ornately paneled with dark
+wood.  A small fireplace carved from green marble has been built into the
+east end of the room whilst the south wall is dominated by an arched window
+fitted with olive green.  The plush rugs that are layered over the tiled
+floor of the bedroom are also olive green in color.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 63091
+S
+#63093
+A Large Bedroom~
+The bedroom occupies a room that has been decoratively paneled with dark
+wood.  A small fireplace carved from silver-streaked marble has been built
+into the west end of the room whilst the south wall is dominated by an
+arched window fitted with blue-gray drapes.  The plush carpets that are
+layered over the tiled floor of the room are also blue-gray in color.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 63091
+S
+#63094
+The Master Bedroom~
+The master bedroom occupies a large room that has been paneled with dark
+wood.  Two small fireplaces ornately carved from gray marble have been built
+into the east and west ends of the room whilst the south wall is dominated
+by three arched windows that are fitted with silvery gray curtains.  The
+thick carpets that are layered over the tiled floor of the bedroom are also
+silvery gray in color.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 63091
+S
+#0
+
+
+
+#SPECIALS
+M 63010 spec_janitor
+M 63020 spec_janitor
+S
+
+
+
+#RESETS
+D 0 63002 0 1
+D 0 63005 0 1
+D 0 63013 2 1
+D 0 63016 2 1
+D 0 63023 3 1
+D 0 63027 0 1
+D 0 63032 1 1
+D 0 63035 1 1
+D 0 63035 3 1
+D 0 63037 2 1
+D 0 63038 0 1
+D 0 63040 1 1
+D 0 63040 3 1
+D 0 63042 2 1
+D 0 63043 0 1
+D 0 63046 0 1
+D 0 63048 0 1
+D 0 63049 0 1
+D 0 63049 1 1
+D 0 63049 2 1
+D 0 63049 3 1
+D 0 63050 1 1
+D 0 63050 5 1
+D 0 63051 4 1
+D 0 63052 0 1
+D 0 63052 1 1
+D 0 63052 2 1
+D 0 63052 3 1
+D 0 63053 3 1
+D 0 63053 5 1
+D 0 63054 4 1
+D 0 63055 0 1
+D 0 63055 1 1
+D 0 63055 2 1
+D 0 63055 3 1
+D 0 63056 0 1
+D 0 63056 3 1
+D 0 63057 1 1
+D 0 63057 2 1
+D 0 63058 0 1
+D 0 63058 2 1
+D 0 63059 2 1
+D 0 63060 0 1
+D 0 63061 2 1
+D 0 63061 3 1
+D 0 63062 0 1
+D 0 63062 1 1
+D 0 63062 2 1
+D 0 63062 3 1
+D 0 63063 0 1
+D 0 63063 1 1
+D 0 63064 2 1
+D 0 63065 2 1
+D 0 63066 0 1
+D 0 63066 2 1
+D 0 63067 2 1
+D 0 63068 0 1
+D 0 63069 0 1
+D 0 63069 2 1
+D 0 63070 3 1
+D 0 63071 1 1
+D 0 63074 2 1
+D 0 63075 0 1
+D 0 63076 2 1
+D 0 63077 0 1
+D 0 63077 3 1
+D 0 63078 0 1
+D 0 63078 1 1
+D 0 63079 1 1
+D 0 63079 2 1
+D 0 63079 3 1
+D 0 63080 1 1
+D 0 63080 2 2
+D 0 63080 5 1
+D 0 63081 0 2
+D 0 63082 2 1
+D 0 63083 4 1
+D 0 63084 0 1
+D 0 63084 1 1
+D 0 63084 3 1
+D 0 63085 1 1
+D 0 63086 3 1
+D 0 63087 2 1
+D 0 63088 2 1
+D 0 63088 3 1
+D 0 63091 1 1
+D 0 63091 2 1
+D 0 63091 3 1
+D 0 63092 1 1
+D 0 63093 3 1
+D 0 63094 0 1
+M 0 63000 9 63000 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63000 9 63000 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63000 9 63000 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63010 4 63001 2
+M 0 63010 4 63001 2
+M 0 63007 4 63002 2
+M 0 63007 4 63002 2
+M 0 63011 10 63003 2
+M 0 63011 10 63003 2
+M 0 63002 4 63004 1
+E 0 63008 0 8
+E 0 63009 0 7
+E 0 63010 0 9
+E 0 63011 0 10
+M 0 63003 4 63004 1
+E 0 63012 0 7
+E 0 63013 0 15
+E 0 63014 0 16
+M 0 63001 10 63005 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63001 10 63005 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63008 6 63006 2
+M 0 63008 6 63006 2
+M 0 63000 9 63007 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63000 9 63007 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63000 9 63007 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63004 4 63008 1
+M 0 63005 4 63008 1
+M 0 63011 10 63009 2
+M 0 63011 10 63009 2
+M 0 63002 4 63010 1
+E 0 63008 0 8
+E 0 63009 0 7
+E 0 63010 0 9
+E 0 63011 0 10
+M 0 63003 4 63010 1
+E 0 63012 0 7
+E 0 63013 0 15
+E 0 63014 0 16
+M 0 63010 4 63011 2
+M 0 63010 4 63011 2
+M 0 63001 10 63012 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63001 10 63012 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63004 4 63015 1
+M 0 63005 4 63015 1
+M 0 63011 10 63017 2
+M 0 63011 10 63017 2
+M 0 63008 6 63018 2
+M 0 63008 6 63018 2
+M 0 63001 10 63019 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63001 10 63019 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63002 4 63020 1
+E 0 63008 0 8
+E 0 63009 0 7
+E 0 63010 0 9
+E 0 63011 0 10
+M 0 63003 4 63020 1
+E 0 63012 0 7
+E 0 63013 0 15
+E 0 63014 0 16
+M 0 63009 4 63021 2
+M 0 63009 4 63021 2
+M 0 63007 4 63022 2
+M 0 63007 4 63022 2
+M 0 63004 4 63023 1
+M 0 63005 4 63023 1
+M 0 63006 4 63024 2
+M 0 63006 4 63024 2
+M 0 63001 10 63025 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63001 10 63025 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63002 4 63026 1
+E 0 63008 0 8
+E 0 63009 0 7
+E 0 63010 0 9
+E 0 63011 0 10
+M 0 63003 4 63026 1
+E 0 63012 0 7
+E 0 63013 0 15
+E 0 63014 0 16
+M 0 63008 6 63027 2
+M 0 63008 6 63027 2
+M 0 63000 9 63028 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63000 9 63028 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63000 9 63028 3
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63005 0 20
+M 0 63009 4 63029 2
+M 0 63009 4 63029 2
+M 0 63001 10 63030 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63001 10 63030 2
+E 0 63000 0 25
+E 0 63001 0 8
+E 0 63002 0 7
+E 0 63003 0 14
+E 0 63004 0 15
+E 0 63006 0 20
+E 0 63007 0 13
+M 0 63004 4 63031 1
+M 0 63005 4 63031 1
+M 0 63011 10 63032 2
+M 0 63011 10 63032 2
+M 0 63011 10 63033 2
+M 0 63011 10 63033 2
+M 0 63006 4 63034 2
+M 0 63006 4 63034 2
+M 0 63012 3 63035 3
+E 0 63025 0 20
+E 0 63024 0 9
+E 0 63023 0 12
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63018 0 13
+E 0 63017 0 8
+E 0 63016 0 15
+M 0 63012 3 63035 3
+E 0 63025 0 20
+E 0 63024 0 9
+E 0 63023 0 12
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63018 0 13
+E 0 63017 0 8
+E 0 63016 0 15
+M 0 63012 3 63035 3
+E 0 63025 0 20
+E 0 63024 0 9
+E 0 63023 0 12
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63018 0 13
+E 0 63017 0 8
+E 0 63016 0 15
+M 0 63014 4 63038 2
+M 0 63014 4 63038 2
+O 0 63015 0 63039
+M 0 63013 3 63040 3
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63026 0 15
+E 0 63027 0 8
+E 0 63028 0 13
+E 0 63029 0 20
+M 0 63013 3 63040 3
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63026 0 15
+E 0 63027 0 8
+E 0 63028 0 13
+E 0 63029 0 20
+M 0 63013 3 63040 3
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63026 0 15
+E 0 63027 0 8
+E 0 63028 0 13
+E 0 63029 0 20
+M 0 63014 4 63043 2
+M 0 63014 4 63043 2
+O 0 63015 0 63044
+O 0 63033 0 63045
+P 0 63032 1 63033 1
+M 0 63016 2 63046 2
+E 0 63031 0 20
+M 0 63016 2 63046 2
+E 0 63030 0 20
+M 0 63015 2 63048 2
+E 0 63030 0 20
+M 0 63015 2 63048 2
+E 0 63031 0 20
+G 0 63036 0
+M 0 63017 2 63050 2
+E 0 63035 0 20
+M 0 63017 2 63050 2
+E 0 63035 0 20
+O 0 63034 0 63051
+M 0 63018 2 63053 2
+E 0 63035 0 20
+M 0 63018 2 63053 2
+E 0 63035 0 20
+O 0 63034 0 63054
+O 0 63037 0 63055
+M 0 63019 2 63055 2
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63016 0 15
+E 0 63017 0 8
+E 0 63018 0 13
+E 0 63025 0 20
+M 0 63019 2 63055 2
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63016 0 15
+E 0 63017 0 8
+E 0 63018 0 13
+E 0 63025 0 20
+G 0 63038 0
+O 0 63039 0 63056
+O 0 63040 0 63057
+O 0 63041 0 63058
+M 0 63020 2 63058 2
+M 0 63020 2 63058 2
+O 0 63044 0 63059
+O 0 63042 0 63059
+O 0 63044 0 63060
+O 0 63043 0 63060
+O 0 63045 0 63061
+O 0 63047 0 63062
+M 0 63021 2 63062 2
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63026 0 15
+E 0 63027 0 8
+E 0 63028 0 13
+E 0 63029 0 20
+M 0 63021 2 63062 2
+E 0 63024 0 12
+E 0 63023 0 9
+E 0 63022 0 14
+E 0 63021 0 7
+E 0 63020 0 16
+E 0 63019 0 10
+E 0 63026 0 15
+E 0 63027 0 8
+E 0 63028 0 13
+E 0 63029 0 20
+G 0 63046 0
+O 0 63049 0 63063
+O 0 63051 0 63064
+O 0 63050 0 63064
+O 0 63051 0 63065
+O 0 63050 0 63065
+O 0 63052 0 63066
+M 0 63022 2 63066 2
+M 0 63022 2 63066 2
+O 0 63044 0 63067
+O 0 63053 0 63067
+O 0 63044 0 63068
+O 0 63054 0 63068
+M 0 63024 6 63069 3
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+M 0 63024 6 63069 3
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+M 0 63024 6 63069 3
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+G 0 63069 0
+M 0 63023 3 63071 3
+E 0 63055 0 20
+M 0 63023 3 63071 3
+E 0 63055 0 20
+M 0 63023 3 63071 3
+E 0 63055 0 20
+O 0 63015 0 63072
+M 0 63026 2 63074 2
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+M 0 63026 2 63074 2
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+O 0 63074 0 63076
+O 0 63074 0 63078
+M 0 63027 2 63080 2
+M 0 63027 2 63080 2
+M 0 63024 6 63082 3
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+M 0 63024 6 63082 3
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+M 0 63024 6 63082 3
+E 0 63056 0 8
+E 0 63057 0 7
+E 0 63058 0 14
+E 0 63059 0 25
+E 0 63060 0 9
+E 0 63061 0 12
+E 0 63062 0 11
+E 0 63063 0 20
+E 0 63064 0 13
+E 0 63065 0 10
+E 0 63066 0 16
+E 0 63067 0 17
+E 0 63067 0 18
+E 0 63068 0 15
+G 0 63070 0
+O 0 63071 0 63085
+O 0 63072 0 63085
+O 0 63073 0 63085
+O 0 63071 0 63086
+O 0 63072 0 63086
+O 0 63073 0 63086
+O 0 63039 0 63088
+M 0 63025 4 63089 2
+M 0 63025 4 63089 2
+M 0 63025 4 63091 2
+M 0 63025 4 63091 2
+O 0 63044 0 63092
+O 0 63054 0 63092
+O 0 63044 0 63093
+O 0 63042 0 63093
+O 0 63044 0 63094
+O 0 63053 0 63094
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

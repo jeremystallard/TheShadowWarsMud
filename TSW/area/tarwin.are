@@ -1,0 +1,2236 @@
+#AREADATA
+Name Tarwin's gap~
+Builders None~
+VNUMs 1500 1599
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1542
+fleeing shienaran warrior~
+a {Bsh{Di{wena{Dr{Ban{w warrior~
+A very scared {Bsh{Di{wena{Dr{Ban{w warrior is here fleeing the terrors of the {Db{yl{ri{yg{Dht{w
+~
+A Shienarian warrior is here.  Blood and gore are spattered across his
+iron breastplate.  There is a crazed look in his eyes, as if he has seen
+evils beyond his imagination.  He pays no attention to his surrounding as he
+runs full speed towards the encampment to the south.  
+~
+shienaran~
+AHW Pa 100 0
+70 70 34d33+4200 0d0+0 9d8+35 charge
+0 0 0 0 0
+A
+2 5 3 2
+CDEFIJKNU B M 0
+stand stand none 50
+0 0 medium 'skin'
+#1547
+lurking fade darkone~
+A shadowy creation of the dark one~
+A lurking creation of the darkone
+~
+An ashen face devoid of eyes stares out from under a cowled hood.  Its
+gaze, if it can be called a gaze, scans the room.  Its movements are fluid
+as it moves about searching for whomever had distrubed its rest.  It draws a
+sword that seems to absorb the light from the room.  It hiss angerily as it
+moves to attack.  
+~
+fade~
+AFG CDac 1 0
+100 100 350d20+3000 0d0+0 12d12+75 wrath
+0 0 0 0 0
+A
+9 10 10 8
+ACEFGHIJKNOQVWX BLM EHIJ CJNP
+stand stand male 30
+C 0 medium 'evil flesh'
+F aff FP
+F res L
+F vul R
+#1599
+female dreadlord~
+a female dreadlord~
+A domani female dreadlord stands here
+~
+~
+domani~
+A FHOVc -100 0
+100 50 18d300+2000 16d320+2300 10d10+40 wrath
+0 0 0 0 0
+0
+5 8 7 10
+AFHKN 0 BCP N
+stand stand female 500
+C 0 small 'flesh'
+#0
+
+
+
+#OBJECTS
+#1500
+well~
+{wa small {Ws{Dt{wo{Dn{We {wwell{x~
+{wA small {Ws{Dt{wo{Dn{We {wwell set against the wall of the fort.{x~
+cloth~
+fountain O P
+-1 -1 'water' 0 0
+1 0 0 100
+#1537
+motionless black cloak~
+a {Dbla{wc{Dk c{wlo{Dak{w unaffected by the {Cw{ci{Cnd{w.~
+a {Dbla{wc{Dk c{wlo{Dak{w lies here motionless~
+unknown~
+armor CEGHJ AK
+30 30 25 35 0
+90 9 1 100
+A
+13 100
+A
+18 2
+A
+19 2
+A
+2 2
+A
+5 -2
+A
+4 -2
+A
+3 -2
+#1538
+aura fear~
+an {Ca{cu{Wr{Ca{w of {Rut{rte{Rr {Df{re{Ra{Dr{w~
+a strange glowing {Ca{cu{Wr{Ca{w floats here~
+aura~
+armor AGY AQ
+10 10 10 10 0
+70 1 1 100
+A
+2 1
+A
+13 25
+A
+5 -1
+#1539
+bitten shienaran shield~
+a {Bsh{Di{wena{Dr{Ban {Dsh{wie{Wl{Dd{w {rbi{Dt{wt{ren{w by a {Dtro{rl{Rl{Doc{w~
+a {Dsh{wie{Wl{Dd{w that looks to have been {rbi{Dt{wt{ren{w by a some beast lies here~
+iron banded wood~
+armor 0 AJ
+30 15 20 5 0
+70 8 110 100
+A
+13 25
+A
+18 1
+A
+5 1
+#1540
+tattered blue shienaran cloak~
+a {yta{wt{Dt{yered {Bb{bl{Bue {Bsh{Di{wena{Dr{Ban{w cloak~
+a {yta{wt{Dt{yered {Bb{bl{Bue{w cloak lies crumppled on the ground here~
+cloth~
+armor 0 AK
+10 25 15 20 0
+70 2 50 100
+A
+2 1
+#1541
+shienaran battle sword~
+a nicked {Bsh{Di{wena{Dr{Ban {Rb{Da{wt{Wt{wl{Re {Dswo{wr{Dd{w~
+a well used {Bsh{Di{wena{Dr{Ban {Dswo{wr{Dd{w lies here~
+iron~
+weapon Y AN
+sword 8 13 'slash' 0
+70 9 230 100
+A
+19 4
+#1542
+blood splattered breastplate~
+a {Dbr{we{Dast{Wp{wla{Dte{w splattered with {Rb{rloo{Rd{w~
+a well used {Dbr{we{Dast{Wp{wla{Dte{w covered in {Rb{rloo{Rd{w lies here~
+iron~
+armor Y AD
+15 25 20 10 0
+70 21 150 100
+A
+13 100
+#1543
+shienaran lance polearm~
+a {yba{Dt{rt{yer{re{yd {Bsh{Di{wena{Dr{Ban {Dl{wa{Wn{wc{De{w~
+a very {yba{Dt{rt{yer{re{yd{w looking {Dl{wa{Wn{wc{De{w is stuck in the ground here~
+cloth~
+weapon Y AN
+polearm 8 13 'charge' F
+70 12 315 100
+A
+19 4
+#1544
+dented shienaran leggings~
+a pair of {Dhea{wv{Wi{Dly {Wd{we{Dnt{we{Wd {Bsh{Di{wena{Dr{Ban {Dle{wg{Dgi{wn{Dgs{w~
+a pair of {Dle{wg{Dgi{wn{Dgs{w that are {Dhea{wv{Wi{Dly {Wd{we{Dnt{we{Wd{w lie here~
+iron~
+armor Y AF
+10 20 25 15 0
+70 14 135 100
+A
+2 1
+#1545
+iron dirty shienaran helmet~
+a {Bsh{Di{wena{Dr{Ban {Dhel{Wm{we{Dt{w covered in {ydi{Dr{yt{w and {Rg{ro{yr{re{w~
+an {Di{wr{Don hel{Wm{we{Dt{w covered in {ydi{Dr{yt{w and {Rg{ro{yr{re{w lies here forgotten~
+iron~
+armor Y AE
+5 5 25 35 0
+70 4 90 100
+A
+4 1
+A
+3 1
+A
+18 1
+#1546
+flowery sign~
+a small sign~
+a sign written in a strange language~
+wood~
+furniture Y P
+0 0 0 0 0
+1 0 0 100
+#1547
+fade blade sword light absorbing~
+s {Rfa{rde{D's {Wlight ab{wsor{Dbing{w blade~
+a long bladed sword lies here absorbing the light from the room~
+unknown metal~
+weapon CEHJY AN
+sword 12 16 'cleave' DFH
+90 15 1000 100
+A
+18 5
+A
+19 5
+A
+13 100
+#1548
+ring flower~
+a small ring of flowers~
+the flowers here have formed into a woven ring~
+woven flowers~
+armor GIY AB
+0 0 0 0 0
+85 2 100 100
+A
+13 50
+A
+20 5
+A
+5 1
+A
+2 1
+A
+19 2
+A
+18 2
+#1549
+bed of flowers~
+a lush bed of flowers~
+A bed of flowers covers the ground here~
+flowers~
+furniture O P
+4 200000 EHKNP 400 400
+1 0 0 100
+#1550
+patch brambles~
+a patch of brambles~
+a patch of brambles~
+brambles~
+container O P
+50 AC 0 0 0
+1 0 0 100
+#0
+
+
+
+#ROOMS
+#1500
+Approaching a Small Fortification~
+The road north out of Fal Dara comes to an end over the next rise.  A
+small guard post lays dirrectly ahead and men can be seen manning the
+ramparts of the castle-like structure.  Far off to the east and west, just
+within eyesight are fortresses just like the one to the north.  They span
+out along the entire Blight Border, acting as a first line against the
+shadow, sentinals proteting the land from the chaos of the trolloc armies. 
+To the south, the road leads back towards Fal Dara.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 1501
+D1
+~
+~
+0 0
+0 0 1567
+S
+#1501
+Before the gates of a small Fort.~
+Barred gates of a small guard post stand, blocking the way northward for
+any lost traveler.  The clamor of armor and sword can be heard, and the
+sight of a training battle can be seen through the steel cage of the
+entrance.  The gates periodically rise upwards to admit another returning
+patrol.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 1502
+D2
+~
+~
+0 0
+0 0 1500
+S
+#1502
+The Gates of a Small Fort~
+The wrought iron gates of the fort hang precariously above the heads of
+any who enter.  Men guard the entrance, keeping all those out whom are not
+allowed.  To the north is the parade field, where guards meet for formations
+and practices and to the east and west span the walls of this simple, yet
+sturdy stronghold.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1523
+D1
+~
+~
+0 0
+0 0 1503
+D2
+~
+~
+0 0
+0 0 1501
+D3
+~
+~
+0 0
+0 0 1521
+S
+#1503
+Along the Wall~
+Years of men walking the ramparts has caused the stone to wear smooth
+atop the fort, but the battlements are well kept and as sturdy as the day
+they were built.  Though not a very tall keep, the veiw from the wall spans
+for a number of miles outward, giving the guards here a good look of the
+land in front of them.  No trees can be seen around the fort, as they have
+all been removed to aide in the defense of the men living here.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 1504
+D3
+~
+~
+0 0
+0 0 1502
+S
+#1504
+Base of a Watchtower~
+Soft light filters in through the arrow-slit windows giving this room a
+calm glow.  Set up on the walls of the tower are racks hung with quivers
+bristling with the required ammunition for the sturdy longbows hung next to
+them.  Here and there on the walls opposite windows are gouges in the stone.
+It looks as if on rare occasions an enemy's arrow has made its mark.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 1506
+D3
+~
+~
+3 3
+1 0 1503
+D4
+~
+~
+0 0
+0 0 1505
+S
+#1505
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 1504
+S
+#1506
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1507
+D2
+~
+~
+3 3
+1 0 1504
+S
+#1507
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1508
+D2
+~
+~
+0 0
+0 0 1506
+S
+#1508
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1509
+D2
+~
+~
+0 0
+0 0 1507
+S
+#1509
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1508
+D3
+~
+~
+0 0
+0 0 1511
+D4
+~
+~
+0 0
+0 0 1510
+S
+#1510
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 1509
+S
+#1511
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1509
+D3
+~
+~
+0 0
+0 0 1512
+S
+#1512
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1522
+D1
+~
+~
+0 0
+0 0 1511
+D2
+~
+~
+0 0
+0 0 1529
+D3
+~
+~
+0 0
+0 0 1513
+S
+#1513
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1512
+D3
+~
+~
+0 0
+0 0 1514
+S
+#1514
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1513
+D2
+~
+~
+0 0
+0 0 1516
+D4
+~
+~
+0 0
+0 0 1515
+S
+#1515
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 1514
+S
+#1516
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1514
+D2
+~
+~
+0 0
+0 0 1517
+S
+#1517
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1516
+D2
+~
+~
+0 0
+0 0 1518
+S
+#1518
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1517
+D2
+~
+~
+0 0
+0 0 1519
+S
+#1519
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1518
+D1
+~
+~
+0 0
+0 0 1521
+D4
+~
+~
+0 0
+0 0 1520
+S
+#1520
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 1519
+S
+#1521
+Walls of the Fort~
+Years of men walking the ramparts has caused the stone to wear smooth
+atop the fort, but the battlements are well kept and as sturdy as the day
+they were built.  Though not a very tall keep, the veiw from the wall spans
+for a number of miles outward, giving the guards here a good look of the
+land in front of them.  No trees can be seen around the fort, as they have
+all been removed to aide in the defense of the men living here.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1502
+D3
+~
+~
+0 0
+0 0 1519
+S
+#1522
+Just past a small fort~
+The protection of the fort gives way to a barren waste.  The dirt road
+leading out of the fort slowly gives way to hard stone.  The Mountains of
+Dhoom slowly rise to the west.  Off in the distance to the east The Spine of
+the World can be seen.  Hot air can be felt eminating from inside the
+Tarwin's gap to the Northeast.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 1534
+D2
+~
+~
+0 0
+0 0 1512
+S
+#1523
+Inside the Gates~
+Another guard stands just inside the gates, insuring the protection of
+his fellow soldiers.  The well dug to provide the fort with water is just to
+the left of the entrance and fresh muddy footprints incircle the stone
+structure.  Off to the east the sounds of horses can be heard as well as the
+sound of a blacksmiths hammer and anvil.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1525
+D1
+~
+~
+0 0
+0 0 1524
+D2
+~
+~
+0 0
+0 0 1502
+S
+#1524
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1523
+S
+#1525
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1528
+D1
+~
+~
+0 0
+0 0 1526
+D2
+~
+~
+0 0
+0 0 1523
+D3
+~
+~
+0 0
+0 0 1530
+S
+#1526
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1527
+D3
+~
+~
+0 0
+0 0 1525
+S
+#1527
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1526
+S
+#1528
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1529
+D2
+~
+~
+0 0
+0 0 1525
+D3
+~
+~
+0 0
+0 0 1533
+S
+#1529
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1512
+D2
+~
+~
+0 0
+0 0 1528
+S
+#1530
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1525
+D2
+~
+~
+0 0
+0 0 1531
+D3
+~
+~
+0 0
+0 0 1532
+S
+#1531
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1530
+S
+#1532
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1530
+S
+#1533
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1528
+S
+#1534
+Approaching Tarwin's gap~
+The rocky terrain slowly begins to smooth.  The temperature here has
+become uncomfortably hot.  The Mountains of Dhoom now tower to the west. 
+The Spine of the World is now very close to the east.  Tarwin's gap can now
+be distinguished by the break where the two mountain ranges should meet to
+the north.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1535
+D3
+~
+~
+0 0
+0 0 1522
+S
+#1535
+The vast entrance to Tarwin's gap~
+The two mountain ranges begin curving north making the barriers to either
+side of the gap.  The ground is a permanent shade of red from years of
+battles.  The foul stench of old blood and corpses fills the air.  The gap
+continues on to the north.  The encampment has disappeared over the horizon
+to the south.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1536
+D2
+~
+~
+0 0
+0 0 1534
+S
+#1536
+Just inside the gap~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1538
+D1
+~
+~
+0 0
+0 0 1537
+D2
+~
+~
+0 0
+0 0 1535
+S
+#1537
+Along the Spine of the World~
+The ground in this almost quiet corner of the gap is its natural brown. 
+It is obvious that there has been little to no active here in some time. 
+The sounds of battle can still be vaguely heard even here.  The sheer rock
+face of the Spine of the World blocks out the sky to the south and east. 
+The rock face continues on far to the north.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1539
+D3
+~
+~
+0 0
+0 0 1536
+M 250 H 250
+S
+#1538
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1540
+D1
+~
+~
+0 0
+0 0 1539
+D2
+~
+~
+0 0
+0 0 1536
+S
+#1539
+Along the east wall of the gap~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1541
+D2
+~
+~
+0 0
+0 0 1537
+D3
+~
+~
+0 0
+0 0 1538
+S
+#1540
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1542
+D1
+~
+~
+0 0
+0 0 1541
+D2
+~
+~
+0 0
+0 0 1538
+S
+#1541
+Along the east wall of the gap~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1543
+D2
+~
+~
+0 0
+0 0 1539
+D3
+~
+~
+0 0
+0 0 1540
+S
+#1542
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1551
+D1
+~
+~
+0 0
+0 0 1543
+D2
+~
+~
+0 0
+0 0 1540
+D3
+~
+~
+0 0
+0 0 1544
+S
+#1543
+Along the east wall of the gap~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1550
+D2
+~
+~
+0 0
+0 0 1541
+D3
+~
+~
+0 0
+0 0 1542
+S
+#1544
+west wall of Tarwin's gap~
+The side of Tarwin's gap is a sheer rock face.  The rock wall has been
+worn smooth by the many years of weathering.  Hot air from the blight drifts
+down from the tops of the towering cliffs.  To the west is a large alcove
+that has been carved from the rock face.  Tarwin's gap continues on to the
+east.
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1552
+D1
+~
+~
+0 0
+0 0 1542
+D3
+~
+~
+0 0
+0 0 1545
+S
+#1545
+An alcove away from Tarwin's gap~
+The sheer walls of Tarwin's gap are broken here making an alcove.  The
+break seems to have been carved by someone or something long ago for reasons
+that are probably long since forgotten.  The hot air of the blight seems to
+have diminished slight from that in the gap.  The alcove continues on to the
+south were it ends in another sheer wall.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 1544
+D2
+~
+~
+0 0
+0 0 1546
+S
+#1546
+The back of a small alcove~
+A winding alcove ends here in a sheer rock face.  The hot air of the
+blight can be felt coming over the edge of the rock face.  A sign written in
+some unknown language, surrounded in flowers.  There is a small rectangular
+shape on the ground near that sign that appears as if it might open.  
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 1545
+D5
+~
+~
+4099 4099
+1 0 1547
+S
+#1547
+The back of a dark cave~
+A dark cavern drops sharply then ends abruptly here.  There is a small
+alcove off in the corner from which a rustling can be heard.  The soft sound
+of water dripping can be heard as a fade slowly slides out of the alcove
+drawing a blade that seems to absorb the light.  It hisses as it searches
+for what has disturbed its rest.  A small trickle of light seeps through a
+small crack in the alcove.  
+~
+0
+A 0
+D3
+~
+~
+4099 4099
+1 0 1548
+D4
+~
+~
+4099 4099
+1 0 1546
+M 100 H 300
+S
+#1548
+Inside a hidden passageway~
+A small part of the wall crumbles revealing a secret passageway.  Off in
+the distance can be seen a sliver of light.  The floor is covered with dirt
+instead of rock like the cavern outside was.  There is moss growing in the
+limited light.  
+~
+0
+A 0
+D1
+~
+~
+4099 4099
+1 0 1547
+D3
+~
+~
+0 0
+0 0 1549
+S
+#1549
+~
+Light pours through a gaping hole in the ceiling giving rise to a rare
+show of life in the blight.  Flowers of every kind have come to grow in this
+sanctuary from the cruel blight.  They form a bed that looks like a perfect
+place to take a nap.  Next to the bed of flowers a patch of brambles is also
+taking advantage of this rare sanctuary.  The middle of the patch of
+brambles looks as if it has grown over something.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1548
+S
+#1550
+Along the east wall of the gap~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1553
+D2
+~
+~
+0 0
+0 0 1543
+D3
+~
+~
+0 0
+0 0 1551
+S
+#1551
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1554
+D1
+~
+~
+0 0
+0 0 1550
+D2
+~
+~
+0 0
+0 0 1542
+D3
+~
+~
+0 0
+0 0 1552
+S
+#1552
+west wall of Tarwin's gap~
+The side of Tarwin's gap is a sheer rock face.  The rock wall has been
+worn smooth by the many years of weathering.  Hot air from the blight drifts
+down from the tops of the towering cliffs.  The ground here has been worn
+smooth by the many battles that have been fought upon it.  The sheer rock
+cliffs continue on to the north.  To the east the huge expanse of Tarwin's
+gap can be seen.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1555
+D1
+~
+~
+0 0
+0 0 1551
+D2
+~
+~
+0 0
+0 0 1544
+S
+#1553
+Along the east wall of the gap~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1558
+D2
+~
+~
+0 0
+0 0 1550
+D3
+~
+~
+0 0
+0 0 1554
+S
+#1554
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1557
+D1
+~
+~
+0 0
+0 0 1553
+D2
+~
+~
+0 0
+0 0 1551
+D3
+~
+~
+0 0
+0 0 1555
+S
+#1555
+west wall of Tarwin's gap~
+The side of Tarwin's gap is a sheer rock face.  The rock wall has been
+worn smooth by the many years of weathering.  Hot air from the blight drifts
+down from the tops of the towering cliffs.  The ground here has been worn
+smooth by the many battles that have been fought upon it.  The sheer rock
+cliffs continue on to the north.  To the east the huge expanse of Tarwin's
+gap can be seen.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1556
+D1
+~
+~
+0 0
+0 0 1554
+D2
+~
+~
+0 0
+0 0 1552
+S
+#1556
+west wall of Tarwin's gap~
+The side of Tarwin's gap is a sheer rock face.  The rock wall has been
+worn smooth by the many years of weathering.  Hot air from the blight drifts
+down from the tops of the towering cliffs.  The ground here has been worn
+smooth by the many battles that have been fought upon it.  The sheer rock
+cliffs continue on to the north.  To the east the huge expanse of Tarwin's
+gap can be seen.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1560
+D1
+~
+~
+0 0
+0 0 1557
+D2
+~
+~
+0 0
+0 0 1555
+S
+#1557
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1559
+D1
+~
+~
+0 0
+0 0 1558
+D2
+~
+~
+0 0
+0 0 1554
+D3
+~
+~
+0 0
+0 0 1556
+S
+#1558
+Along the east wall of the gap~
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 1553
+D3
+~
+~
+0 0
+0 0 1557
+S
+#1559
+~
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1562
+D2
+~
+~
+0 0
+0 0 1557
+D3
+~
+~
+0 0
+0 0 1560
+S
+#1560
+west wall of Tarwin's gap~
+The side of Tarwin's gap is a sheer rock face.  The rock wall has been
+worn smooth by the many years of weathering.  Hot air from the blight drifts
+down from the tops of the towering cliffs.  The ground here has been worn
+smooth by the many battles that have been fought upon it.  The sheer rock
+cliffs continue on to the north.  To the east the huge expanse of Tarwin's
+gap can be seen.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1561
+D1
+~
+~
+0 0
+0 0 1559
+D2
+~
+~
+0 0
+0 0 1556
+S
+#1561
+west wall of Tarwin's gap~
+The side of Tarwin's gap is a sheer rock face.  The rock wall has been
+worn smooth by the many years of weathering.  Hot air from the blight drifts
+down from the tops of the towering cliffs.  The ground here has been worn
+smooth by the many battles that have been fought upon it.  To the east the
+huge expanse of Tarwin's gap can be seen.  
+~
+0
+0 5
+D1
+~
+~
+0 0
+0 0 1562
+D2
+~
+~
+0 0
+0 0 1560
+S
+#1562
+~
+~
+0
+N 5
+D0
+~
+~
+0 0
+0 0 1566
+D1
+~
+~
+0 0
+0 0 1563
+D2
+~
+~
+0 0
+0 0 1559
+D3
+~
+~
+0 0
+0 0 1561
+S
+#1563
+~
+~
+0
+N 5
+D0
+~
+~
+0 0
+0 0 1564
+D3
+~
+~
+0 0
+0 0 1562
+S
+#1564
+~
+~
+0
+N 5
+D0
+~
+~
+0 0
+0 0 1565
+D2
+~
+~
+0 0
+0 0 1563
+D3
+~
+~
+0 0
+0 0 1566
+S
+#1565
+~
+~
+0
+N 5
+D0
+~
+~
+0 0
+0 0 1582
+D2
+~
+~
+0 0
+0 0 1564
+S
+#1566
+~
+~
+0
+N 5
+D1
+~
+~
+0 0
+0 0 1564
+D2
+~
+~
+0 0
+0 0 1562
+S
+#1567
+Along a Dirt Path~
+This short, dirt path off of the road is travel worn and hard packed from
+the thousands of soldiers and horses that have traversed it over time. 
+Leading off the main road, it ends shortly at the opening of a large base
+camp for the men who fight Tarwin's Gap every year.  The smell of cookfires
+and horse manure floats on the breeze from the east and the clamour of an
+army can be heard.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 1568
+D3
+~
+~
+0 0
+0 0 1500
+S
+#1568
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1581
+D1
+~
+~
+0 0
+0 0 1570
+D2
+~
+~
+0 0
+0 0 1569
+D3
+~
+~
+0 0
+0 0 1567
+S
+#1569
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1568
+D1
+~
+~
+0 0
+0 0 1571
+S
+#1570
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1575
+D2
+~
+~
+0 0
+0 0 1571
+D3
+~
+~
+0 0
+0 0 1568
+S
+#1571
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1570
+D1
+~
+~
+0 0
+0 0 1576
+D2
+~
+~
+0 0
+0 0 1572
+D3
+~
+~
+0 0
+0 0 1569
+S
+#1572
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1571
+D1
+~
+~
+0 0
+0 0 1577
+D2
+~
+~
+0 0
+0 0 1573
+S
+#1573
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1572
+S
+#1574
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1578
+D2
+~
+~
+0 0
+0 0 1575
+S
+#1575
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1574
+D2
+~
+~
+0 0
+0 0 1576
+D3
+~
+~
+0 0
+0 0 1570
+S
+#1576
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1575
+D2
+~
+~
+0 0
+0 0 1577
+D3
+~
+~
+0 0
+0 0 1571
+S
+#1577
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1576
+D1
+~
+~
+0 0
+0 0 1579
+D3
+~
+~
+0 0
+0 0 1572
+S
+#1578
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1574
+S
+#1579
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1580
+D3
+~
+~
+0 0
+0 0 1577
+S
+#1580
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1579
+S
+#1581
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1568
+S
+#1582
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1583
+D2
+~
+~
+0 0
+0 0 1565
+S
+#1583
+~
+~
+0
+N 1
+D1
+~
+~
+0 0
+0 0 1584
+D2
+~
+~
+0 0
+0 0 1582
+D3
+~
+~
+0 0
+0 0 1586
+S
+#1584
+~
+~
+0
+N 0
+D0
+~
+~
+0 0
+0 0 1588
+D1
+~
+~
+0 0
+0 0 1585
+D3
+~
+~
+0 0
+0 0 1583
+S
+#1585
+~
+~
+0
+N 0
+D0
+~
+~
+0 0
+0 0 1589
+D3
+~
+~
+0 0
+0 0 1584
+S
+#1586
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1587
+D1
+~
+~
+0 0
+0 0 1583
+S
+#1587
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1595
+D2
+~
+~
+0 0
+0 0 1586
+S
+#1588
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1593
+D1
+~
+~
+0 0
+0 0 1589
+D2
+~
+~
+0 0
+0 0 1584
+S
+#1589
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1592
+D1
+~
+~
+0 0
+0 0 1590
+D2
+~
+~
+0 0
+0 0 1585
+D3
+~
+~
+0 0
+0 0 1588
+S
+#1590
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1591
+D3
+~
+~
+0 0
+0 0 1589
+S
+#1591
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1598
+D2
+~
+~
+0 0
+0 0 1590
+D3
+~
+~
+0 0
+0 0 1592
+S
+#1592
+~
+~
+0
+N 1
+D1
+~
+~
+0 0
+0 0 1591
+D2
+~
+~
+0 0
+0 0 1589
+S
+#1593
+~
+~
+0
+N 1
+D2
+~
+~
+0 0
+0 0 1588
+D3
+~
+~
+0 0
+0 0 1594
+S
+#1594
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1597
+D1
+~
+~
+0 0
+0 0 1593
+D3
+~
+~
+0 0
+0 0 1595
+S
+#1595
+~
+~
+0
+N 1
+D0
+~
+~
+0 0
+0 0 1596
+D1
+~
+~
+0 0
+0 0 1594
+D2
+~
+~
+0 0
+0 0 1587
+S
+#1596
+~
+~
+0
+N 1
+D1
+~
+~
+0 0
+0 0 1597
+D2
+~
+~
+0 0
+0 0 1595
+S
+#1597
+~
+~
+0
+N 1
+D2
+~
+~
+0 0
+0 0 1594
+D3
+~
+~
+0 0
+0 0 1596
+S
+#1598
+~
+~
+0
+N 1
+D1
+~
+~
+3 3
+1 0 1599
+D2
+~
+~
+0 0
+0 0 1591
+S
+#1599
+The tent of a dreadlord~
+~
+0
+DN 0
+D3
+~
+~
+3 3
+1 0 1598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1503 1 1
+D 0 1504 0 1
+D 0 1504 3 1
+D 0 1506 2 1
+D 0 1546 5 1
+D 0 1547 3 1
+D 0 1547 4 1
+D 0 1548 1 1
+D 0 1598 1 1
+D 0 1599 3 1
+O 0 1500 0 1523
+M 0 1542 15 1542 3
+E 0 1540 0 14
+E 0 1542 0 7
+E 0 1541 0 20
+E 0 1539 0 13
+M 0 1542 15 1542 3
+E 0 1543 0 20
+E 0 1544 0 9
+E 0 1545 0 8
+E 0 1538 0 1
+O 0 1546 0 1546
+M 0 1547 1 1547 1
+E 0 1547 0 20
+E 0 1537 0 15
+O 0 1549 0 1549
+O 0 1550 0 1549
+P 0 1548 5 1550 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

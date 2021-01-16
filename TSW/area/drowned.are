@@ -1,0 +1,7183 @@
+#AREADATA
+Name Drowned Lands~
+Builders Kesin~
+VNUMs 3800 4199
+Credits None~
+Security 1
+Low 20
+High 45
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#3800
+red bellied watersnake~
+a {Rr{re{Rd{w-{rbellied{w watersnake~
+A {Rr{re{Rd{w-{rbellied{w watersnake moving gracefully through the water is here.
+~
+This fairly large snake moves gracefully through the water.  Bright
+orange and red {Rs{rc{Yal{re{Rs{w cover its belly, while it's back is covered in dark
+brown.  
+~
+snake~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 bite
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3801
+black racer gray~
+a long {Dslate gray{w racer~
+A long {Dslate gray{w racer slithers around here.
+~
+This long black racer snake is {Dslate gray{w with just a little bit of a
+{ggreenish{w tint.  The chin and throat are {Wwhite{w, while the belly is a flat
+{Dblack{w.  The long slender body is covered in smooth scales.  
+~
+snake~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3802
+banded water snake~
+a banded water snake~
+A {rba{Rnd{red{w water snake suns itself on a log here.
+~
+This light {ybrown{w snake has several dark {rred bands{w rising from its belly
+to its back.  Its light belly can be seen as it respositions itself on the
+sunny log.  
+~
+snake~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 bite
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3803
+green greenish rat snake~
+a {ggreen{yi{gsh{w rat snake~
+A {ggreen{yi{gsh{w rat snake hangs straight down from above.
+~
+This {ggreen{w snake has touches of {ybrown{w and {Yyellow{w.  As you watch it, it
+climbs straight up and starts to dangle down.  
+~
+snake~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3804
+forked tongue cottonmouth~
+a forked tongue c{yo{wtt{yo{wnmouth{w~
+A forked tongue c{yo{wtt{yo{wnmouth watches you intently.
+~
+This large {ybrown{w snake raises it's triangular shaped head and watches you
+intently.  The forked tongue flips out between the large fangs.  
+~
+snake~
+A 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 bite
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3805
+glossy black kingsnake~
+a {Dglossy black{w kingsnake~
+A {Dglossy black{w kingsnake with a series of {Wwhite{w chain-like rings is here.
+~
+This long glossy black snake has a series of white chain-like rings
+running the length of it's body.  
+~
+snake~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 bite
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3806
+yellow rat snake~
+a {Yyell{yo{Yw{w rat snake~
+A {Yyell{yo{Yw{w rat snake climbs up the brush.
+~
+This {Yyellow{w snake has a touch of {ggreen{w.  As you watch it, it climbs with
+amazing speed straight up the brush around you.  
+~
+snake~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3807
+brown water snake~
+a large {ybrown{w water snake~
+A large {ybrown{w water snake sits in the sawgrass.
+~
+A large {ybrown{w water snake is light {ytan{w with darker squarish brown
+blotches on it's back.  Dark squarish markings extend upwards from teh belly
+onto the sides of the body.  The belly of this creature is light-colored
+with darker blotches in the shape of half moons.  
+~
+snake~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 bite
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3808
+rainbow snake~
+a {rred{w and {Dblack{w rainbow snake~
+A {rred{w and {Dblack{w rainbow snake conceals itself near the path.
+~
+Black spots and speckles aer on every belly scale of this small {rred{w and
+{Dblack{w snake.  
+~
+snake~
+A 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3809
+large alligator~
+a large alligator~
+A large alligator rests just beneath the surface of the water.
+~
+It has a long, thick tail; four short legs; and large, power jaw.  It has
+a long, thick tail; four short legs; and a large, powerful jaw.  Resting
+just beneath the surface of the water, only the eyes, nostrils, and ears can
+clearly be seen.  
+~
+lizard~
+A 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+5 5 5 5
+MN 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3810
+small aligator~
+a small alligator~
+A small alligator suns itself on a log.
+~
+It has a long, thick tail; four short legs; and large, power jaw.  It has
+a long, thick tail; four short legs; and a large, powerful jaw.  Resting on
+a log it soaks up the sunlight.  
+~
+lizard~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 bite
+0 0 0 0 0
+A
+3 3 3 3
+MN 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3811
+one eyed alligator huge~
+a huge {Done-eyed{w {galligator{w~
+A huge {Done-eyed{w {galligator{w has a nasty {rsc{Da{rr{w where it once had a left eye.
+~
+It has a long, thick tail; four short legs; and a large, powerful jaw. 
+Resting in a small clearing, it watches you with its one remaining eye.  
+~
+lizard~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+A
+6 6 6 6
+CDHMN 0 0 0
+stand stand male 0
+0 0 large 'unknown'
+#3812
+large crocodile~
+a large {ycrocodile{w~
+A large {ycrocodile{w can be seen near here.
+~
+This large creature has a long v-shaped snout with many razor sharp
+teeth.  It has a long tail, four short legs and a powerful jaw.  It does not
+seem to be afraid of anything and makes no attempt to hide.  
+~
+lizard~
+A 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+5 5 5 5
+MN 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3813
+nedar tusked water pig~
+a nedar~
+A large {Wtusked{w water pig swims though the water.
+~
+A large water-pig, known as a nedar, weights nearly 200 pounds.  It has a
+furry coat of water proof fur and two large {Wtusks{w jutting up from its bottom
+jaw.  
+~
+pig~
+A 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+E 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3814
+nedar tusked water pig~
+a huge nedar~
+A huge {Wtusked{w water pig swims through the water.
+~
+A huge water-pig, known as a nedar, weights nearly 200 pounds.  It has a
+furry coat of water proof fur and two large {Wtusks{w jutting up from its bottom
+jaw.  
+~
+pig~
+A 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+A
+5 5 5 5
+E 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3815
+soetam great rat~
+a {Dsoetam{w~
+A very large {Drat{w moves easily through the {Dsw{ga{Dmp{w.
+~
+This Great {Drat{w is known as a soetam.  It weighs nearly ten stones, or
+close to 100 pounds.  It moves quickly and easily through this harsh
+environment.  A row of razor sharp teeth can be seen beneath two beady eyes.
+~
+cat~
+A J 0 0
+70 60 36d37+4900 70d10+100 8d8+35 slash
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+F aff Z
+#3816
+greenish gray swamp cat~
+a {Dsw{ga{Dmp cat{w~
+A {ggr{Gee{gnish{w-{Dgray sw{ga{Dmp cat{w treads water gracefully.
+~
+This large motled greenish-gray cat is known as the a swamp cat.  It is
+fairly large, weighing in at nearly one and a half hundredweight.  Unlike
+its land-bound cousins, these cats love to swim and are very good at it.  
+~
+cat~
+A J 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+F aff Z
+#3817
+greenish gray swamp cat~
+a massive {Dsw{ga{Dmp cat{w~
+A massive {ggr{Gee{gnish{w-{Dgray sw{ga{Dmp cat{w swims smoothly.
+~
+This large motled greenish-gray cat is known as the a swamp cat.  It is
+fairly large, weighing in at nearly two hundredweights.  Unlike its
+land-bound cousins, these cats love to swim and are very good at it.  
+~
+cat~
+A J 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F aff Z
+#3818
+spikehorn deer~
+a spikehorn~
+A small deer which is little more than knee-high has made a home here.
+~
+Sharp spike like horns extend from the head of this pint sized deer.  It
+should be remembered that the Spikehorn has thrived in this harsh
+environment and should not be taken lightly.  
+~
+dog~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+0
+2 2 2 2
+0 0 0 0
+stand stand none 0
+0 W small 'unknown'
+F off H
+F par UV
+#3819
+forkhorn deer~
+a spikehorn~
+A small deer which is little more than waist-high.
+~
+Sharp spike like horns extend from the head of this pint sized deer.  It
+should be remembered that the Forkhorn has thrived in this harsh
+environment and should not be taken lightly.  
+~
+dog~
+A 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 none
+0 0 0 0 0
+0
+2 2 2 2
+0 0 0 0
+stand stand none 0
+0 W small 'unknown'
+F off H
+F par UV
+#3820
+cricket frog rough warty~
+a {gcri{Yc{gket frog{w~
+A rough and warty {gcri{Yc{gket frog{w sits on a {glily{w pad.
+~
+A rough and warty {gcri{Yc{gket frog{w sits on a {glily{w pad and makes a clicking
+noise like two small stone being clicked together.  It's skin is a dark
+{ggreenish{w-{ybrown{w with a jagged {Yyellow{w stripe running down it's back.  
+~
+lizard~
+A 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F par QV
+#3821
+green bull frog~
+a dark {ggreen{w bull frog~
+A dark {ggreen{w bull frog is looking for flies.
+~
+A dark {ggreen{w bull frog looks for flies as it sits partially submerged.  
+~
+lizard~
+A 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F par QV
+#3822
+spotted leopard frog~
+a {Dspotted{w leopard {gfrog{w~
+A {Dspotted{w leopard {gfrog{w blends into the {gs{Dw{wa{Dm{gp{w water.
+~
+This small frog is a patch work of {ggreen{w and {ybrown{w with darker, almost
+{Dblack{w spots covering its body.  
+~
+lizard~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F par QV
+#3823
+tan pickerel frog~
+a {ytan{w pickerel frog~
+A {ytan{w frog with parallel rows of {Ddark{w squarish blotches running down the back.
+~
+Smooth-skinned, tan, with parallel rows of dark squarish blotches running
+down back.  Jaw has light stripe.  Dorsolateral folds yellow.  Belly and
+under surfaces of hind legs bright yellow to orange.  
+~
+lizard~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F par QV
+#3824
+gray spring peeper~
+a {Dgray{w spring peeper frog~
+A {Dgray{w spring peeper frog sits here.
+~
+A {Dgray{w spring peeper frog sits here with a strange {Ddark{w X on its back. 
+This small creature makes a high-pitched ascending whistle, sometimes with a
+short trill.  
+~
+lizard~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F par QV
+#3825
+red brown tree frog~
+a {rre{ydd{rish{w-{ybr{row{yn tree{w frog~
+A {rre{ydd{rish{w-{ybr{row{yn tree{w frog makes clicking sounds.
+~
+A {rre{ydd{rish{w-{ybr{row{yn tree{w frog makes clicking sounds as it sits in a low hanging
+{ybranch{w.  
+~
+lizard~
+A 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F par QV
+#3826
+bubble evil~
+a {CB{cu{Cb{cb{Cl{ce{w of {DEv{ri{Dl{w~
+A bubble of {Dev{ri{Dl{w warps the area.
+~
+~
+unique~
+A Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 wrath
+0 0 0 0 0
+A
+7 7 7 7
+FG 0 0 0
+stand stand none 0
+D 0 medium 'unknown'
+M 'RANDOM' 3826 50~
+#3827
+dragonfly~
+a silver dragonfly~
+A silver dragonfly hovers above the ground.
+~
+A small silver dragonfly beats its wings rapidly as it hovers above the
+ground.  
+~
+centipede~
+A DFJT 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+CFH L 0 S
+stand stand none 0
+0 DEFHJQ tiny 'unknown'
+F aff Z
+#3828
+fallen soldier~
+a fallen soldier~
+A fallen soldier from a forgetten army.
+~
+Many armies have foolishly attempted to cross through the Drowned Lands only to disappear.
+~
+seanchan~
+AO 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+CF 0 0 0
+stand stand male 20
+0 0 large 'unknown'
+#3829
+fallen sergeant~
+a fallen sergeant~
+A fallen sergeant watches his men.
+~
+Many armies have foolishly attempted to cross through the Drowned Lands only to disappear.
+~
+seanchan~
+ABO 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+CEF 0 0 0
+stand stand male 20
+0 0 large 'unknown'
+#3830
+walking dead~
+the walking dead~
+The walking dead roam the land.
+~
+Many armies have foolishly attempted to cross through the Drowned Lands only to disappear.
+~
+seanchan~
+AO 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CF 0 0 0
+stand stand male 20
+0 0 large 'unknown'
+#3831
+fallen general~
+a fallen general~
+A fallen general plans his next move.
+~
+Many armies have foolishly attempted to cross through the Drowned Lands only to disappear.
+~
+seanchan~
+ABOT H 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+CEFKW 0 0 0
+stand stand male 20
+0 0 large 'unknown'
+#3832
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3833
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3834
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3835
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3836
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3837
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3838
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3839
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#3840
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#3800
+light green moss~
+a light {ggreen{w moss~
+Light {ggreen{w moss covers the ground.~
+moss~
+pill 0 A
+90 'poison' 'blindness' 'haste' ''
+30 1 5 100
+#3801
+pale blue moss~
+a clump of pale {cblue{w moss~
+A clump of pale {cblue{w moss~
+moss~
+pill 0 A
+90 'poison' 'blindness' 'stone skin' ''
+30 1 5 100
+#3802
+slimy white mold~
+a handful of slimy {Wwhite{w mold~
+A handful of slimy {Wwhite{w mold.~
+moss~
+pill 0 A
+150 'poison' 'blindness' 'infravision' ''
+30 1 5 100
+#3803
+brown grass~
+a light {ggreen{w moss~
+Light {ggreen{w moss covers the ground.~
+moss~
+pill 0 A
+90 'poison' 'blindness' 'haste' ''
+30 1 5 100
+#3804
+bubble tear pattern~
+a {Dtear{w in the pattern~
+A {Dtear{w in the fabric of the pattern.~
+Evil~
+portal CE 0
+0 M A 3800 0
+0 0 0 100
+#3810
+simple twohanded sword~
+a simple two-handed sword~
+A simple two-handed sword~
+steel~
+weapon P AN
+sword 10 15 'slash' F
+90 10 20 100
+A
+19 4
+#3811
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#3812
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#3814
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#3815
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#4096
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4097
+D2
+~
+~
+0 0
+0 0 4093
+D3
+~
+~
+0 0
+0 0 4098
+S
+#4097
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4094
+D3
+~
+~
+0 0
+0 0 4096
+S
+#4098
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4096
+D2
+~
+~
+0 0
+0 0 4095
+S
+#4099
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4100
+D2
+~
+~
+0 0
+0 0 3898
+S
+#4100
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4101
+D2
+~
+~
+0 0
+0 0 4099
+S
+#4101
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4102
+D1
+~
+~
+0 0
+0 0 4109
+D3
+~
+~
+0 0
+0 0 4100
+S
+#4102
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4103
+D2
+~
+~
+0 0
+0 0 4101
+S
+#4103
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4104
+D2
+~
+~
+0 0
+0 0 4102
+S
+#4104
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4105
+D1
+~
+~
+0 0
+0 0 4106
+D3
+~
+~
+0 0
+0 0 4103
+S
+#4105
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4104
+S
+#4106
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4107
+D3
+~
+~
+0 0
+0 0 4104
+S
+#4107
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4106
+D2
+~
+~
+0 0
+0 0 4108
+S
+#4108
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4107
+D3
+~
+~
+0 0
+0 0 4109
+S
+#4109
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4108
+D3
+~
+~
+0 0
+0 0 4101
+S
+#4110
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4004
+D3
+~
+~
+0 0
+0 0 4111
+S
+#4111
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4110
+D2
+~
+~
+0 0
+0 0 4113
+D3
+~
+~
+0 0
+0 0 4112
+S
+#4112
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4111
+S
+#4113
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4111
+D2
+~
+~
+0 0
+0 0 4114
+S
+#4114
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4113
+D3
+~
+~
+0 0
+0 0 4115
+S
+#4115
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4114
+D3
+~
+~
+0 0
+0 0 4116
+S
+#4116
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4115
+D2
+~
+~
+0 0
+0 0 4119
+D3
+~
+~
+0 0
+0 0 4117
+S
+#4117
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4118
+D1
+~
+~
+0 0
+0 0 4116
+S
+#4118
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4117
+S
+#4119
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4116
+D2
+~
+~
+0 0
+0 0 4120
+S
+#4120
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4119
+S
+#4121
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4122
+D1
+~
+~
+0 0
+0 0 4123
+D2
+~
+~
+0 0
+0 0 4124
+D3
+~
+~
+0 0
+0 0 4125
+S
+#4122
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4124
+D1
+~
+~
+0 0
+0 0 4125
+D2
+~
+~
+0 0
+0 0 4121
+D3
+~
+~
+0 0
+0 0 4130
+S
+#4123
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4128
+D1
+~
+~
+0 0
+0 0 4128
+D2
+~
+~
+0 0
+0 0 4129
+D3
+~
+~
+0 0
+0 0 4121
+S
+#4124
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4121
+D1
+~
+~
+0 0
+0 0 4129
+D2
+~
+~
+0 0
+0 0 4127
+D3
+~
+~
+0 0
+0 0 4128
+S
+#4125
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4126
+D1
+~
+~
+0 0
+0 0 4121
+D2
+~
+~
+0 0
+0 0 4127
+D3
+~
+~
+0 0
+0 0 4125
+S
+#4126
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4127
+D1
+~
+~
+0 0
+0 0 4124
+D2
+~
+~
+0 0
+0 0 4125
+D3
+~
+~
+0 0
+0 0 4129
+S
+#4127
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4125
+D1
+~
+~
+0 0
+0 0 4122
+D2
+~
+~
+0 0
+0 0 4127
+D3
+~
+~
+0 0
+0 0 4121
+S
+#4128
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4128
+D1
+~
+~
+0 0
+0 0 4121
+D2
+~
+~
+0 0
+0 0 4123
+D3
+~
+~
+0 0
+0 0 4123
+S
+#4129
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4123
+D1
+~
+~
+0 0
+0 0 4122
+D2
+~
+~
+0 0
+0 0 4127
+D3
+~
+~
+0 0
+0 0 4127
+S
+#4130
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4130
+D2
+~
+~
+0 0
+0 0 4131
+D3
+~
+~
+0 0
+0 0 4130
+D1
+~
+~
+0 0
+0 0 4122
+S
+#4131
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4130
+D2
+~
+~
+0 0
+0 0 4132
+S
+#4132
+{DInside the B{ru{Dbb{rl{De{w~
+{DEvil permeates everything.  {w {DThe already nasty foulness of the swamplands
+{Dwithin the Drowned Lands takes on a whole new level.  {w {D Nature itself has
+{Dbeen tainted here.  {w {D The trees are withered and blackened as they reach up
+{Das if in agony from the filth of the swamp.  {w {D The water itself seems to be
+{Dmore acrid as it burns your nose and leaves your eyes watering.  {w {D Bubbles
+{Dslowly rise from beneath the surface in several places hinting at something
+{Dbelow.  {w 
+~
+0
+NV 16
+D0
+~
+~
+0 0
+0 0 4131
+S
+#3800
+{DDank {gS{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the east.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3801
+S
+#3801
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the east.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3802
+D3
+~
+~
+0 0
+0 0 3800
+S
+#3802
+Two {yMuddy{w Trails~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w path splits into two here.  Some solid
+looking {ymud{w continues to the east, while what might be another passible
+route heads south.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3803
+D2
+~
+~
+0 0
+0 0 3805
+D3
+~
+~
+0 0
+0 0 3801
+S
+#3803
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the east and west.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3808
+D3
+~
+~
+0 0
+0 0 3802
+S
+#3804
+{yMuddy Trail{w~
+The {ymuddy{w trail bends here and heads north and east.  The {ymud{w is less
+firm through here and is making moving through this section differcult. 
+Slight wet popping noises are made as you take each steps due to your feet
+{ysinking{w more with each step.  Several large {ytrees{w with swollen bases, that
+taper to a long, clear bole have sprawling root systems just beneath the
+surface.  The combination of {gweeds{w, {ytrees{w, and sprawling root systems make
+travelling through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3805
+D1
+~
+~
+0 0
+0 0 3806
+S
+#3805
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the north and south.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3802
+D2
+~
+~
+0 0
+0 0 3804
+S
+#3806
+{yMuddy Trail{w~
+The {ymuddy{w trail runs straight east and west.  You notice that the {ymud{w is
+less firm through here and is making moving through this section differcult.
+Slight wet popping noises are made as you take each steps due to your feet
+{ysinking{w more with each step.  Several large {ytrees{w with swollen bases, that
+taper to a long, clear bole have sprawling root systems just beneath the
+surface.  The combination of {gweeds{w, {ytrees{w, and sprawling root systems make
+travelling through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  A
+cluster of short trees with large bushy {gfan-shaped{w leaves obscures any view
+of what lies to the south.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3807
+D2
+large {gfan-shaped{w leaves
+~
+~
+4099 4099
+1 0 3822
+D3
+~
+~
+0 0
+0 0 3804
+S
+#3807
+The {DEnd{w of the {yTrail{w~
+The {ymuddy{w trail comes to an abrupt end at a cluster of large bushy
+{gfan-shaped{w leaves.  The {yground{w is less firm through here and is making
+moving through this section differcult.  Slight wet popping noises are made
+as you take each steps due to your feet {ysinking{w more with each step. 
+Several large {ytrees{w with swollen bases, that taper to a long, clear bole
+have sprawling root systems just beneath the surface.  The combination of
+{gweeds{w, {ytrees{w, and sprawling root systems make travelling through this {Ddank
+{gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  A cluster of short trees with
+large bushy {gfan-shaped{w leaves obscures any view of what lies to the south.  
+~
+0
+0 16
+D3
+~
+~
+0 0
+0 0 3806
+S
+#3808
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the west and north.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3809
+D3
+~
+~
+0 0
+0 0 3803
+S
+#3809
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the east and south.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3810
+D2
+~
+~
+0 0
+0 0 3808
+S
+#3810
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the north and west.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3811
+D3
+~
+~
+0 0
+0 0 3809
+S
+#3811
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the north and south.  A
+small raft of some type would allow you to go east.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3812
+D1
+~
+~
+0 0
+0 0 3815
+D2
+~
+~
+0 0
+0 0 3810
+S
+#3812
+{yMuddy{w Trail~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads off to the north and south.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3813
+D2
+~
+~
+0 0
+0 0 3811
+S
+#3813
+{yMuddy{w Trails End~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  A large {ytree{w
+with a swollen base looks climbable.  A {ymuddy{w trail runs to the south.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 3812
+D4
+~
+~
+4096 4096
+0 0 3814
+S
+#3814
+Overlooking the {gS{Dw{wa{Dm{gp{w~
+The {g{gs{Dw{wa{D{w{Dm{gp{w stretches out seemingly forever in all directions.  In some
+places an open patch of {gslimy{w water can be seen, with various creatures
+moving through the water with ease.  Other places tall {ggrass{w and {gweeds{w reach
+up and obscure the {gs{Dw{wa{Dm{gp{w from view.  In several other places the {gs{Dw{wa{Dm{gp{w takes
+on more of a jungle environment.  The tree wavers and threatens to drop you
+back to the ground.  
+~
+0
+0 16
+D5
+~
+~
+4096 4096
+0 0 3813
+S
+#3815
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D2
+~
+~
+0 0
+0 0 3816
+D3
+~
+~
+0 0
+0 0 3811
+S
+#3816
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D0
+~
+~
+0 0
+0 0 3815
+D2
+~
+~
+0 0
+0 0 3817
+S
+#3817
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D0
+~
+~
+0 0
+0 0 3816
+D1
+~
+~
+0 0
+0 0 3820
+D2
+~
+~
+0 0
+0 0 3818
+S
+#3818
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D0
+~
+~
+0 0
+0 0 3817
+D2
+~
+~
+0 0
+0 0 3819
+S
+#3819
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D0
+~
+~
+0 0
+0 0 3818
+S
+#3820
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D1
+~
+~
+0 0
+0 0 3821
+D3
+~
+~
+0 0
+0 0 3817
+S
+#3821
+In the Tall {gGr{Ga{gss{w~
+The tall {ggrass{w surrounds you and reaches high up into the sky making
+seeing anything difficult.  The stagnant water is deeper here and allows
+travel by a shallow bottomed boat, though the occasional {drock{w or {ystump{w means
+traveling with great care.  Several varieties of water snakes and large
+dangerous lizards dwell in water hidden in the tall grasses.  
+~
+0
+0 20
+D0
+~
+~
+0 0
+0 0 3881
+D2
+~
+~
+0 0
+0 0 3878
+D3
+~
+~
+0 0
+0 0 3820
+S
+#3822
+In a {gPalmetto{w Bush~
+Several short trees with large bushy {gfan-shaped{w leaves have formed a
+barrier here.  It looks as if someone has made a path through the {gpalmettos{w,
+but left it overgrown to keep the path hidden.  Even with this convenient
+path, the sharp blades of the {gpalmetto{w leaves scratch at you as you push
+your way through.  
+~
+0
+0 16
+D0
+~
+~
+4099 4099
+1 0 3806
+D2
+~
+~
+4099 4099
+1 0 3823
+S
+#3823
+{DIm{rpa{Rss{rab{Dle {gS{Dw{wa{Dm{gp{w~
+The {gs{Dw{wa{Dm{gp{w is about ankle deep here and smells like something has died.  A
+large clump of short trees with bushy {gfan-shaped{w leaves stretches across to
+the north.  To the east and west, tall {ggrass{w make a tangled mess that would
+be practically impossible to navigate through.  Though to the south someone
+has {rhacked{w a trail and constructed a makeshift {ybridge{w.  
+~
+0
+0 16
+D0
+~
+~
+4099 4099
+1 0 3822
+D2
+~
+~
+0 0
+0 0 3824
+S
+#3824
+A Makeshift {yBridge{w~
+The tall {ggrass{w has been cut away to make room for this makeshift {ybridge{w. 
+It has been cobbled together using roughly sawed planks and large {ylogs{w.  It
+creaks noticably as you stand on it, but seems to be sturdy enough to
+support several people at once.  The unknown builder even added a railing.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3823
+D2
+~
+~
+0 0
+0 0 3825
+S
+#3825
+A Makeshift {yBridge{w~
+The tall {ggrass{w has been cut away to make room for this makeshift {ybridge{w. 
+It has been cobbled together using roughly sawed planks and large {ylogs{w.  It
+creaks noticably as you stand on it, but seems to be sturdy enough to
+support several people at once.  The unknown builder even added a railing.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3824
+D2
+~
+~
+0 0
+0 0 3826
+S
+#3826
+A {yMound{w of {yDirt{w and {DR{wo{Dcks{w~
+A giant mound of dirt and rocks have been piled here to support the
+makeshift bridges that allow passage through this part of the swamp.  The
+sheer size of the task makes it seem nearly impossible that this could have
+been done in these condidtions.  Some of the rocks are too large to be
+carried by all but the strongest of men.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3825
+D1
+~
+~
+0 0
+0 0 3827
+S
+#3827
+A {yMound{w of {yDirt{w and {DR{wo{Dcks{w~
+A giant mound of dirt and rocks have been piled here to support the
+makeshift bridges that allow passage through this part of the swamp.  The
+sheer size of the task makes it seem nearly impossible that this could have
+been done in these condidtions.  Some of the rocks are too large to be
+carried by all but the strongest of men.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3828
+D3
+~
+~
+0 0
+0 0 3826
+S
+#3828
+A Makeshift {yBridge{w~
+The tall {ggrass{w has been cut away to make room for this makeshift {ybridge{w. 
+It has been cobbled together using roughly sawed planks and large {ylogs{w.  It
+creaks noticably as you stand on it, but seems to be sturdy enough to
+support several people at once.  The unknown builder even added a railing.  
+~
+0
+0 16
+D0
+~
+~
+4096 4096
+0 0 3831
+D1
+~
+~
+0 0
+0 0 3829
+D2
+~
+~
+4096 4096
+0 0 3832
+D3
+~
+~
+0 0
+0 0 3827
+S
+#3829
+A Makeshift {yBridge{w~
+The tall {ggrass{w has been cut away to make room for this makeshift {ybridge{w. 
+It has been cobbled together using roughly sawed planks and large {ylogs{w.  It
+creaks noticably as you stand on it, but seems to be sturdy enough to
+support several people at once.  The unknown builder even added a railing.  
+~
+0
+0 16
+D0
+~
+~
+4096 4096
+0 0 3833
+D1
+~
+~
+0 0
+0 0 3830
+D2
+~
+~
+4096 4096
+0 0 3834
+D3
+~
+~
+0 0
+0 0 3828
+S
+#3830
+A Makeshift {yBridge{w~
+The tall {ggrass{w has been cut away to make room for this makeshift {ybridge{w. 
+It has been cobbled together using roughly sawed planks and large {ylogs{w.  It
+creaks noticably as you stand on it, but seems to be sturdy enough to
+support several people at once.  The unknown builder even added a railing.  
+~
+0
+0 16
+D0
+~
+~
+4096 4096
+0 0 3835
+D1
+~
+~
+0 0
+0 0 3840
+D2
+~
+~
+4096 4096
+0 0 3836
+D3
+~
+~
+0 0
+0 0 3829
+S
+#3831
+Fallen from the {yBridge{w~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3833
+D2
+~
+~
+4096 4096
+0 0 3828
+D5
+~
+~
+4096 4096
+0 0 3837
+M 25 H 25
+S
+#3832
+Fallen from the {yBridge{w~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+4096 4096
+0 0 3828
+D1
+~
+~
+0 0
+0 0 3834
+M 25 H 25
+S
+#3833
+Fallen from the {yBridge{w~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3835
+D2
+~
+~
+4096 4096
+0 0 3829
+D3
+~
+~
+0 0
+0 0 3831
+M 25 H 25
+S
+#3834
+Fallen from the {yBridge{w~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+4096 4096
+0 0 3829
+D1
+~
+~
+0 0
+0 0 3836
+D3
+~
+~
+0 0
+0 0 3832
+M 25 H 25
+S
+#3835
+Fallen from the {yBridge{w~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D2
+~
+~
+4096 4096
+0 0 3830
+D3
+~
+~
+0 0
+0 0 3833
+M 25 H 25
+S
+#3836
+Fallen from the {yBridge{w~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+4096 4096
+0 0 3830
+D3
+~
+~
+0 0
+0 0 3834
+M 25 H 25
+S
+#3837
+{DBeneath{w the {gS{Dw{wa{Dm{gp{w~
+{gSl{Di{gmy s{Dw{wa{Dm{gp{w water covers you completely.  It oozes into your mouth and
+nose choking of the air.  The {cs{wa{clty{w mixture means certain death for anyone
+that lingers here too long.  
+~
+0
+X 16
+D4
+~
+~
+4096 4096
+0 0 3839
+M 10 H 10
+S
+#3838
+~
+~
+0
+C 0
+S
+#3839
+{DF{ri{Dghting{w for {CA{Wi{Cr{w~
+{gSl{Di{gmy s{Dw{wa{Dm{gp{w water covers you completely.  It oozes into your mouth and
+nose choking of the air.  The {cs{wa{clty{w mixture means certain death for anyone
+that lingers here too long.  It may be too late for you as you franticly
+{DF{ri{Dght{w for {A{CA{Wi{Cr{w.  
+~
+0
+X 16
+D4
+~
+~
+4096 4096
+0 0 3831
+D5
+~
+~
+4096 4096
+0 0 3837
+S
+#3840
+A {yMound{w of {yDirt{w and {DR{wo{Dcks{w~
+A giant mound of dirt and rocks have been piled here to support the
+makeshift bridges that allow passage through this part of the swamp.  The
+sheer size of the task makes it seem nearly impossible that this could have
+been done in these condidtions.  Some of the rocks are too large to be
+carried by all but the strongest of men.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3841
+D3
+~
+~
+0 0
+0 0 3830
+S
+#3841
+A {yMound{w of {yDirt{w and {DR{wo{Dcks{w~
+A giant mound of dirt and rocks have been piled here to support the
+makeshift bridges that allow passage through this part of the swamp.  The
+sheer size of the task makes it seem nearly impossible that this could have
+been done in these condidtions.  Some of the rocks are too large to be
+carried by all but the strongest of men.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3843
+D2
+~
+~
+0 0
+0 0 3845
+D3
+~
+~
+0 0
+0 0 3840
+S
+#3842
+~
+~
+0
+C 0
+S
+#3843
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3844
+D3
+~
+~
+0 0
+0 0 3841
+S
+#3844
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it differcult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 3843
+S
+#3845
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3841
+D2
+~
+~
+0 0
+0 0 3846
+S
+#3846
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3845
+D2
+~
+~
+0 0
+0 0 3847
+S
+#3847
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3846
+D1
+~
+~
+0 0
+0 0 3848
+D2
+~
+~
+0 0
+0 0 3849
+S
+#3848
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D3
+~
+~
+0 0
+0 0 3847
+S
+#3849
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3847
+D2
+~
+~
+0 0
+0 0 3850
+S
+#3850
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3849
+D3
+~
+~
+0 0
+0 0 3851
+S
+#3851
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3850
+D3
+~
+~
+0 0
+0 0 3852
+S
+#3852
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3851
+D2
+~
+~
+0 0
+0 0 3877
+D3
+~
+~
+0 0
+0 0 3853
+S
+#3853
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3854
+D1
+~
+~
+0 0
+0 0 3852
+D3
+~
+~
+0 0
+0 0 3857
+S
+#3854
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3855
+D2
+~
+~
+0 0
+0 0 3853
+S
+#3855
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 3854
+D3
+~
+~
+0 0
+0 0 3856
+S
+#3856
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3855
+S
+#3857
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3853
+D2
+~
+~
+0 0
+0 0 3858
+S
+#3858
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3857
+D2
+~
+~
+0 0
+0 0 3859
+S
+#3859
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3858
+D2
+~
+~
+0 0
+0 0 3860
+S
+#3860
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3859
+D1
+~
+~
+0 0
+0 0 3872
+D3
+~
+~
+0 0
+0 0 3861
+S
+#3861
+Ankle Deep~
+It is difficult to clearly see what is nearby due to the tall grass that
+reaches high above your head.  Constant noise from the multitude of unseen
+insects and other animals would be unsettling to many would be adventurers. 
+The ankle deep slimy swamp water is thick and makes it difficult to move. 
+The longer that you stand submerged in this filth, the deeper you feel
+yourself sink.  The mixture of slightly saline water, centuries of decaying
+rot, and some sort of unknown greenish sludge makes your eyes water.  Most
+travelers would find it difficult to fight back puking as they attempt to
+find their way out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3860
+D2
+~
+~
+4096 4096
+0 0 3864
+D3
+~
+~
+0 0
+0 0 3862
+S
+#3862
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3861
+D3
+~
+~
+0 0
+0 0 3863
+S
+#3863
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3862
+S
+#3864
+~
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 3861
+D2
+~
+~
+0 0
+0 0 3865
+S
+#3865
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3864
+D2
+~
+~
+0 0
+0 0 3866
+S
+#3866
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3865
+D2
+~
+~
+0 0
+0 0 3868
+D3
+~
+~
+0 0
+0 0 3867
+S
+#3867
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3866
+D2
+~
+~
+0 0
+0 0 3869
+D3
+~
+~
+0 0
+0 0 3871
+S
+#3868
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3866
+D3
+~
+~
+0 0
+0 0 3869
+S
+#3869
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3867
+D1
+~
+~
+0 0
+0 0 3868
+D3
+~
+~
+0 0
+0 0 3870
+S
+#3870
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3871
+D1
+~
+~
+0 0
+0 0 3869
+S
+#3871
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3867
+D2
+~
+~
+0 0
+0 0 3870
+S
+#3872
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3873
+D3
+~
+~
+0 0
+0 0 3860
+S
+#3873
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D1
+~
+~
+0 0
+0 0 3874
+D3
+~
+~
+0 0
+0 0 3872
+S
+#3874
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3875
+D3
+~
+~
+0 0
+0 0 3873
+S
+#3875
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D2
+~
+~
+0 0
+0 0 3874
+D3
+~
+~
+0 0
+0 0 3876
+S
+#3876
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3877
+D1
+~
+~
+0 0
+0 0 3875
+S
+#3877
+Waist Deep~
+Tall {ggrass{w reaches high above your head making it impossible to clearly
+see what is around you.  The waist deep {gsl{Di{gmy s{Dw{wa{Dm{gp{w water is thick and makes
+it difficult to move.  The longer that you stand submerged in this filth,
+the deeper you feel yourself sink.  Having your face this close to the {gs{Dw{wa{Dm{gp{w
+surface is unpleasant.  The mixture of slightly {csal{Wi{cne{w water, centuries of
+decaying {yrot{w, and some sort of unknown {ggr{Dee{gnish{D sludge{w makes your eyes
+water.  It is difficult to fight back puking as you attempt to find your way
+out of this mess.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 3852
+D2
+~
+~
+0 0
+0 0 3876
+S
+#3878
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3821
+D1
+~
+~
+0 0
+0 0 3879
+S
+#3879
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3880
+D3
+~
+~
+0 0
+0 0 3878
+S
+#3880
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3879
+S
+#3881
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3882
+D2
+~
+~
+0 0
+0 0 3821
+S
+#3882
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3883
+D1
+~
+~
+0 0
+0 0 3935
+D3
+~
+~
+0 0
+0 0 3881
+S
+#3883
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3933
+D2
+~
+~
+0 0
+0 0 3882
+S
+#3884
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3885
+D1
+~
+~
+0 0
+0 0 3887
+D2
+~
+~
+0 0
+0 0 3886
+D3
+~
+~
+0 0
+0 0 3934
+S
+#3885
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3888
+D2
+~
+~
+0 0
+0 0 3884
+S
+#3886
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3884
+D1
+~
+~
+0 0
+0 0 3889
+S
+#3887
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3888
+D2
+~
+~
+0 0
+0 0 3889
+D3
+~
+~
+0 0
+0 0 3884
+S
+#3888
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3892
+D2
+~
+~
+0 0
+0 0 3887
+D3
+~
+~
+0 0
+0 0 3885
+S
+#3889
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3887
+D1
+~
+~
+0 0
+0 0 3891
+D3
+~
+~
+0 0
+0 0 3886
+S
+#3890
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3892
+D1
+~
+~
+0 0
+0 0 3893
+D2
+~
+~
+0 0
+0 0 3891
+S
+#3891
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3890
+D3
+~
+~
+0 0
+0 0 3889
+S
+#3892
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3897
+D1
+~
+~
+0 0
+0 0 3894
+D2
+~
+~
+0 0
+0 0 3890
+D3
+~
+~
+0 0
+0 0 3888
+S
+#3893
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3894
+D1
+~
+~
+0 0
+0 0 3895
+D3
+~
+~
+0 0
+0 0 3890
+S
+#3894
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3896
+D2
+~
+~
+0 0
+0 0 3893
+D3
+~
+~
+0 0
+0 0 3892
+S
+#3895
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3896
+D1
+~
+~
+0 0
+0 0 3900
+D3
+~
+~
+0 0
+0 0 3893
+S
+#3896
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3899
+D2
+~
+~
+0 0
+0 0 3895
+D3
+~
+~
+0 0
+0 0 3894
+S
+#3897
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3898
+D2
+~
+~
+0 0
+0 0 3892
+S
+#3898
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4099
+D2
+~
+~
+0 0
+0 0 3897
+S
+#3899
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3901
+D2
+~
+~
+0 0
+0 0 3900
+D3
+~
+~
+0 0
+0 0 3896
+S
+#3900
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3899
+D3
+~
+~
+0 0
+0 0 3895
+S
+#3901
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3902
+D3
+~
+~
+0 0
+0 0 3899
+S
+#3902
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3903
+D2
+~
+~
+0 0
+0 0 3901
+S
+#3903
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3904
+D3
+~
+~
+0 0
+0 0 3902
+S
+#3904
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3905
+D2
+~
+~
+0 0
+0 0 3917
+D3
+~
+~
+0 0
+0 0 3903
+S
+#3905
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3907
+D1
+~
+~
+0 0
+0 0 3906
+D3
+~
+~
+0 0
+0 0 3904
+S
+#3906
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 3905
+S
+#3907
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3908
+D2
+~
+~
+0 0
+0 0 3905
+S
+#3908
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3909
+D2
+~
+~
+0 0
+0 0 3907
+S
+#3909
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3910
+D3
+~
+~
+0 0
+0 0 3908
+S
+#3910
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3911
+D3
+~
+~
+0 0
+0 0 3909
+S
+#3911
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3912
+D3
+~
+~
+0 0
+0 0 3910
+S
+#3912
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3913
+D3
+~
+~
+0 0
+0 0 3911
+S
+#3913
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3914
+D2
+~
+~
+0 0
+0 0 3912
+S
+#3914
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3915
+D3
+~
+~
+0 0
+0 0 3913
+S
+#3915
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3916
+D2
+~
+~
+0 0
+0 0 3914
+S
+#3916
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 3915
+S
+#3917
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3904
+D2
+~
+~
+0 0
+0 0 3918
+S
+#3918
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3917
+D1
+~
+~
+0 0
+0 0 3919
+S
+#3919
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3920
+D3
+~
+~
+0 0
+0 0 3918
+S
+#3920
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3919
+D4
+~
+~
+0 0
+0 0 3921
+S
+#3921
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3922
+D5
+~
+~
+0 0
+0 0 3920
+S
+#3922
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3921
+D5
+~
+~
+0 0
+0 0 3923
+S
+#3923
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3924
+D4
+~
+~
+0 0
+0 0 3922
+S
+#3924
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3923
+D3
+~
+~
+0 0
+0 0 3925
+S
+#3925
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3924
+D3
+~
+~
+0 0
+0 0 3926
+S
+#3926
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3925
+D3
+~
+~
+0 0
+0 0 3927
+S
+#3927
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3926
+D3
+~
+~
+0 0
+0 0 3928
+S
+#3928
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3927
+D2
+~
+~
+0 0
+0 0 3929
+S
+#3929
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3928
+D2
+~
+~
+0 0
+0 0 3930
+S
+#3930
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3929
+D1
+~
+~
+0 0
+0 0 3931
+S
+#3931
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3932
+D3
+~
+~
+0 0
+0 0 3930
+S
+#3932
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3931
+S
+#3933
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3934
+D3
+~
+~
+0 0
+0 0 3883
+S
+#3934
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3884
+D2
+~
+~
+0 0
+0 0 3933
+S
+#3935
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3936
+D3
+~
+~
+0 0
+0 0 3882
+S
+#3936
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3935
+D1
+~
+~
+0 0
+0 0 3937
+S
+#3937
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3938
+D3
+~
+~
+0 0
+0 0 3936
+S
+#3938
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3937
+D1
+~
+~
+0 0
+0 0 3940
+D2
+~
+~
+0 0
+0 0 3939
+S
+#3939
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3938
+S
+#3940
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3941
+D3
+~
+~
+0 0
+0 0 3938
+S
+#3941
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3942
+D3
+~
+~
+0 0
+0 0 3940
+S
+#3942
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3943
+D3
+~
+~
+0 0
+0 0 3941
+S
+#3943
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3942
+D2
+~
+~
+0 0
+0 0 3944
+S
+#3944
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3943
+D1
+~
+~
+0 0
+0 0 3945
+D2
+~
+~
+0 0
+0 0 3947
+S
+#3945
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3946
+D3
+~
+~
+0 0
+0 0 3944
+S
+#3946
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 3945
+S
+#3947
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3944
+D2
+~
+~
+0 0
+0 0 3948
+S
+#3948
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3947
+D1
+~
+~
+0 0
+0 0 3949
+D3
+~
+~
+0 0
+0 0 3972
+S
+#3949
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3950
+D3
+~
+~
+0 0
+0 0 3948
+S
+#3950
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3949
+D2
+~
+~
+0 0
+0 0 3951
+S
+#3951
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3950
+D1
+~
+~
+0 0
+0 0 3952
+S
+#3952
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3953
+D3
+~
+~
+0 0
+0 0 3951
+S
+#3953
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3952
+D2
+~
+~
+0 0
+0 0 3954
+S
+#3954
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3953
+D2
+~
+~
+0 0
+0 0 3955
+D3
+~
+~
+0 0
+0 0 3965
+S
+#3955
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3954
+D2
+~
+~
+0 0
+0 0 3956
+S
+#3956
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3955
+D3
+~
+~
+0 0
+0 0 3957
+S
+#3957
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3956
+D2
+~
+~
+0 0
+0 0 3958
+S
+#3958
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3957
+D2
+~
+~
+0 0
+0 0 3973
+D3
+~
+~
+0 0
+0 0 3959
+S
+#3959
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3960
+D1
+~
+~
+0 0
+0 0 3958
+S
+#3960
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3963
+D2
+~
+~
+0 0
+0 0 3959
+D3
+~
+~
+0 0
+0 0 3961
+S
+#3961
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3960
+D3
+~
+~
+0 0
+0 0 3962
+S
+#3962
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3961
+S
+#3963
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3964
+D2
+~
+~
+0 0
+0 0 3960
+S
+#3964
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3965
+D2
+~
+~
+0 0
+0 0 3963
+D3
+~
+~
+0 0
+0 0 3966
+S
+#3965
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3954
+D3
+~
+~
+0 0
+0 0 3964
+S
+#3966
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3967
+D1
+~
+~
+0 0
+0 0 3964
+S
+#3967
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3969
+D1
+~
+~
+0 0
+0 0 3968
+D2
+~
+~
+0 0
+0 0 3966
+S
+#3968
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 3967
+S
+#3969
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3971
+D2
+~
+~
+0 0
+0 0 3967
+D3
+~
+~
+0 0
+0 0 3970
+S
+#3970
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3969
+S
+#3971
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3972
+D2
+~
+~
+0 0
+0 0 3969
+S
+#3972
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3948
+D2
+~
+~
+0 0
+0 0 3971
+S
+#3973
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3958
+D1
+~
+~
+0 0
+0 0 3974
+S
+#3974
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3975
+D3
+~
+~
+0 0
+0 0 3973
+S
+#3975
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3976
+D2
+~
+~
+0 0
+0 0 3977
+D3
+~
+~
+0 0
+0 0 3974
+S
+#3976
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 3975
+S
+#3977
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3975
+D2
+~
+~
+0 0
+0 0 3978
+S
+#3978
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3977
+D2
+~
+~
+0 0
+0 0 3979
+S
+#3979
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3978
+D1
+~
+~
+0 0
+0 0 3980
+S
+#3980
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3981
+D3
+~
+~
+0 0
+0 0 3979
+S
+#3981
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3982
+D3
+~
+~
+0 0
+0 0 3980
+S
+#3982
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3983
+D1
+~
+~
+0 0
+0 0 3986
+D2
+~
+~
+0 0
+0 0 3987
+D3
+~
+~
+0 0
+0 0 3981
+S
+#3983
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3984
+D2
+~
+~
+0 0
+0 0 3982
+S
+#3984
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3985
+D3
+~
+~
+0 0
+0 0 3983
+S
+#3985
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3984
+S
+#3986
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3992
+D2
+~
+~
+0 0
+0 0 3989
+D3
+~
+~
+0 0
+0 0 3982
+S
+#3987
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3982
+D1
+~
+~
+0 0
+0 0 3989
+D2
+~
+~
+0 0
+0 0 3988
+S
+#3988
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3987
+D1
+~
+~
+0 0
+0 0 3990
+S
+#3989
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3986
+D1
+~
+~
+0 0
+0 0 3991
+D2
+~
+~
+0 0
+0 0 3990
+D3
+~
+~
+0 0
+0 0 3987
+S
+#3990
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3989
+D1
+~
+~
+0 0
+0 0 3993
+D2
+~
+~
+0 0
+0 0 4000
+D3
+~
+~
+0 0
+0 0 3988
+S
+#3991
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3992
+D1
+~
+~
+0 0
+0 0 3994
+D2
+~
+~
+0 0
+0 0 3993
+D3
+~
+~
+0 0
+0 0 3989
+S
+#3992
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3995
+D2
+~
+~
+0 0
+0 0 3991
+D3
+~
+~
+0 0
+0 0 3986
+S
+#3993
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3991
+D1
+~
+~
+0 0
+0 0 3996
+D3
+~
+~
+0 0
+0 0 3990
+S
+#3994
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3995
+D2
+~
+~
+0 0
+0 0 3996
+D3
+~
+~
+0 0
+0 0 3991
+S
+#3995
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3997
+D1
+~
+~
+0 0
+0 0 3998
+D2
+~
+~
+0 0
+0 0 3994
+D3
+~
+~
+0 0
+0 0 3992
+S
+#3996
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3994
+D2
+~
+~
+0 0
+0 0 4002
+D3
+~
+~
+0 0
+0 0 3993
+S
+#3997
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 3995
+S
+#3998
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 3999
+D3
+~
+~
+0 0
+0 0 3995
+S
+#3999
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 3998
+S
+#4000
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3990
+D1
+~
+~
+0 0
+0 0 4001
+D2
+~
+~
+0 0
+0 0 4003
+S
+#4001
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4002
+D3
+~
+~
+0 0
+0 0 4000
+S
+#4002
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 3996
+D2
+~
+~
+0 0
+0 0 4005
+D3
+~
+~
+0 0
+0 0 4001
+S
+#4003
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4000
+D2
+~
+~
+0 0
+0 0 4004
+S
+#4004
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4003
+D2
+~
+~
+0 0
+0 0 4110
+S
+#4005
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4002
+D1
+~
+~
+0 0
+0 0 4006
+S
+#4006
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4007
+D3
+~
+~
+0 0
+0 0 4005
+S
+#4007
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4010
+D2
+~
+~
+0 0
+0 0 4008
+D3
+~
+~
+0 0
+0 0 4006
+S
+#4008
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4007
+D2
+~
+~
+0 0
+0 0 4009
+S
+#4009
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4008
+S
+#4010
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4011
+D3
+~
+~
+0 0
+0 0 4007
+S
+#4011
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4012
+D2
+~
+~
+0 0
+0 0 4019
+D3
+~
+~
+0 0
+0 0 4010
+S
+#4012
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4013
+D2
+~
+~
+0 0
+0 0 4011
+S
+#4013
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4014
+D3
+~
+~
+0 0
+0 0 4012
+S
+#4014
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4013
+D3
+~
+~
+0 0
+0 0 4015
+S
+#4015
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4014
+D3
+~
+~
+0 0
+0 0 4016
+S
+#4016
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4015
+D3
+~
+~
+0 0
+0 0 4017
+S
+#4017
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4016
+D3
+~
+~
+0 0
+0 0 4018
+S
+#4018
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4017
+D3
+~
+~
+0 0
+0 0 3996
+S
+#4019
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4011
+D1
+~
+~
+0 0
+0 0 4020
+S
+#4020
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4021
+D3
+~
+~
+0 0
+0 0 4019
+S
+#4021
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4070
+D2
+~
+~
+0 0
+0 0 4022
+D3
+~
+~
+0 0
+0 0 4020
+S
+#4022
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4021
+D2
+~
+~
+0 0
+0 0 4023
+S
+#4023
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4022
+D1
+~
+~
+0 0
+0 0 4024
+S
+#4024
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4025
+D3
+~
+~
+0 0
+0 0 4023
+S
+#4025
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4026
+D3
+~
+~
+0 0
+0 0 4024
+S
+#4026
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4027
+D3
+~
+~
+0 0
+0 0 4025
+S
+#4027
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4026
+D1
+~
+~
+0 0
+0 0 4028
+S
+#4028
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4029
+D3
+~
+~
+0 0
+0 0 4027
+D4
+~
+~
+0 0
+0 0 4030
+S
+#4029
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4074
+D2
+~
+~
+0 0
+0 0 4028
+S
+#4030
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4031
+D5
+~
+~
+0 0
+0 0 4028
+S
+#4031
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4030
+D1
+~
+~
+0 0
+0 0 4032
+D5
+~
+~
+0 0
+0 0 4033
+S
+#4032
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4034
+D3
+~
+~
+0 0
+0 0 4031
+S
+#4033
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4040
+D4
+~
+~
+0 0
+0 0 4031
+S
+#4034
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4032
+D4
+~
+~
+0 0
+0 0 4035
+S
+#4035
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4037
+D4
+~
+~
+0 0
+0 0 4036
+D5
+~
+~
+0 0
+0 0 4034
+S
+#4036
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 4035
+S
+#4037
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4038
+S
+#4038
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4037
+D3
+~
+~
+0 0
+0 0 4043
+S
+#4039
+~
+~
+0
+C 0
+S
+#4040
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4033
+D2
+~
+~
+0 0
+0 0 4041
+S
+#4041
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4040
+D2
+~
+~
+0 0
+0 0 4042
+S
+#4042
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4041
+D2
+~
+~
+0 0
+0 0 4043
+D3
+~
+~
+0 0
+0 0 4047
+S
+#4043
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4042
+D1
+~
+~
+0 0
+0 0 4038
+D2
+~
+~
+0 0
+0 0 4044
+D3
+~
+~
+0 0
+0 0 4046
+S
+#4044
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4043
+D3
+~
+~
+0 0
+0 0 4045
+S
+#4045
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4046
+D1
+~
+~
+0 0
+0 0 4044
+D3
+~
+~
+0 0
+0 0 4049
+S
+#4046
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4047
+D1
+~
+~
+0 0
+0 0 4043
+D2
+~
+~
+0 0
+0 0 4045
+D3
+~
+~
+0 0
+0 0 4048
+S
+#4047
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4042
+D2
+~
+~
+0 0
+0 0 4046
+S
+#4048
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4046
+D2
+~
+~
+0 0
+0 0 4049
+S
+#4049
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4048
+D1
+~
+~
+0 0
+0 0 4045
+D5
+~
+~
+0 0
+0 0 4050
+S
+#4050
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4052
+D3
+~
+~
+0 0
+0 0 4051
+D4
+~
+~
+0 0
+0 0 4049
+S
+#4051
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4050
+D2
+~
+~
+0 0
+0 0 4059
+S
+#4052
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4050
+D2
+~
+~
+0 0
+0 0 4053
+D3
+~
+~
+0 0
+0 0 4059
+S
+#4053
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4052
+D1
+~
+~
+0 0
+0 0 4054
+D2
+~
+~
+0 0
+0 0 4056
+S
+#4054
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4055
+D3
+~
+~
+0 0
+0 0 4053
+S
+#4055
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 4054
+S
+#4056
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4053
+D4
+~
+~
+0 0
+0 0 4057
+S
+#4057
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4058
+D5
+~
+~
+0 0
+0 0 4056
+S
+#4058
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 4057
+S
+#4059
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4051
+D1
+~
+~
+0 0
+0 0 4052
+D2
+~
+~
+0 0
+0 0 4060
+S
+#4060
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4059
+D3
+~
+~
+0 0
+0 0 4061
+S
+#4061
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4060
+D2
+~
+~
+0 0
+0 0 4068
+D3
+~
+~
+0 0
+0 0 4062
+S
+#4062
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4061
+D3
+~
+~
+0 0
+0 0 4063
+S
+#4063
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4065
+D1
+~
+~
+0 0
+0 0 4062
+D3
+~
+~
+0 0
+0 0 4064
+S
+#4064
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4063
+S
+#4065
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4063
+D3
+~
+~
+0 0
+0 0 4066
+S
+#4066
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4067
+D1
+~
+~
+0 0
+0 0 4065
+S
+#4067
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4066
+S
+#4068
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4069
+S
+#4069
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4060
+S
+#4070
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4071
+D3
+~
+~
+0 0
+0 0 4021
+S
+#4071
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 4072
+D3
+~
+~
+0 0
+0 0 4070
+S
+#4072
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4071
+D1
+~
+~
+0 0
+0 0 4073
+S
+#4073
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4074
+D3
+~
+~
+0 0
+0 0 4072
+S
+#4074
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4075
+D2
+~
+~
+0 0
+0 0 4029
+D3
+~
+~
+0 0
+0 0 4073
+S
+#4075
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4076
+D3
+~
+~
+0 0
+0 0 4074
+S
+#4076
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4077
+D3
+~
+~
+0 0
+0 0 4075
+S
+#4077
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4080
+D1
+~
+~
+0 0
+0 0 4078
+D2
+~
+~
+0 0
+0 0 4076
+S
+#4078
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4079
+D3
+~
+~
+0 0
+0 0 4077
+S
+#4079
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 4078
+S
+#4080
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4081
+D2
+~
+~
+0 0
+0 0 4077
+S
+#4081
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4082
+D2
+~
+~
+0 0
+0 0 4080
+S
+#4082
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4083
+D3
+~
+~
+0 0
+0 0 4081
+S
+#4083
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail runs to the north and south.  
+~
+0
+AC 16
+D0
+~
+~
+0 0
+0 0 4084
+D2
+~
+~
+0 0
+0 0 4082
+S
+#4084
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads back to the south, though
+something doesn't seem right. 
+~
+0
+AC 16
+D2
+~
+~
+0 0
+0 0 4085
+S
+#4085
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail runs to the north and south.  
+~
+0
+AC 16
+D0
+~
+~
+0 0
+0 0 4086
+D2
+~
+~
+0 0
+0 0 4082
+S
+#4086
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail heads back to the south, though
+something doesn't seem right. 
+~
+0
+AC 16
+D2
+~
+~
+0 0
+0 0 4087
+S
+#4087
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail runs to the north and south.  
+~
+0
+AC 16
+D0
+~
+~
+0 0
+0 0 4088
+D2
+~
+~
+0 0
+0 0 4082
+S
+#4088
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail runs to the north and south.  
+~
+0
+AC 16
+D0
+~
+~
+0 0
+0 0 4089
+D2
+~
+~
+0 0
+0 0 4087
+S
+#4089
+Lost in the {DDank{g S{Dw{ya{Dm{gp{yl{wa{Dn{yd{w~
+{DDank {gs{Dw{ya{Dm{gp{yl{wa{Dn{yd{w stretches out before you in all directions.  The ground is
+a mixture of {gsl{yi{gmy{w water covered in a thick layer of {galgae{w, and substantial
+amounts of {ymud{w.  Tufts of long tangled {gweeds{w reach up through the {galgae{w and
+{gsl{yi{gme{w threaten to trip and snare anyone foolish enough to attempt to cross
+on foot.  Several large {ytrees{w with swollen bases, that taper to a long,
+clear bole have sprawling root systems just beneath the surface.  The
+combination of {gweeds{w, {ytrees{w, and sprawling root systems make travelling
+through this {Ddank {gs{Dw{ya{Dm{yp{yl{wa{Dn{yd{w nearly impossible in most places.  What could
+only loosely be called a {ymuddy{w trail runs to the north and south.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 4090
+D2
+~
+~
+0 0
+0 0 4088
+S
+#4090
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 4091
+D2
+~
+~
+0 0
+0 0 4089
+S
+#4091
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4092
+D3
+~
+~
+0 0
+0 0 4090
+S
+#4092
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4093
+D2
+~
+~
+0 0
+0 0 4091
+S
+#4093
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4096
+D1
+~
+~
+0 0
+0 0 4094
+D2
+~
+~
+0 0
+0 0 4092
+D3
+~
+~
+0 0
+0 0 4095
+S
+#4094
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4097
+D3
+~
+~
+0 0
+0 0 4093
+S
+#4095
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 4098
+D1
+~
+~
+0 0
+0 0 4093
+S
+#0
+
+
+
+#SPECIALS
+M 3804 spec_poison
+M 3829 spec_blademaster
+M 3831 spec_blademaster
+S
+
+
+
+#RESETS
+D 0 3806 2 1
+D 0 3822 0 1
+D 0 3822 2 1
+D 0 3823 0 1
+M 0 3828 5 4123 5
+R 0 4130 4
+M 0 3829 1 4130 1
+E 0 3810 0 20
+M 0 3831 1 4132 1
+M 0 3800 20 3800 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

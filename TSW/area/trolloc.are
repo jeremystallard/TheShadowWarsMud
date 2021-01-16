@@ -1,0 +1,1281 @@
+#AREADATA
+Name Trolloc Camp~
+Builders Kitiara Scarawl~
+VNUMs 27501 27600
+Credits None~
+Security 5
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#27501
+young trolloc~
+a {cy{Doun{cg{x trolloc~
+A {cy{Doun{cg{x trolloc is busily crunching away on a {Wf{we{Dm{wu{Wr{x.
+~
+~
+trolloc~
+AB 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+Hb 0 0 IQR
+stand stand either 0
+0 0 medium 'flesh'
+#27502
+mass vines~
+a mass of {gv{ri{yn{re{gs{x~
+A large mass of {gv{ri{yn{re{gs{x seem to crawl along the road.
+~
+~
+unique~
+AW 0 0 0
+82 72 42d43+6724 82d10+100 9d11+41 none
+0 0 0 0 0
+A
+5 5 5 5
+ENc 0 R FGHQ
+stand stand none 0
+0 0 medium 'vine'
+#27503
+dha'vrol dhavrol grunt trolloc~
+a D{Dh{wa'v{Do{wl{x grunt~
+A D{Dh{wa'v{Do{wl{x grunt is here, tossing wood onto the fire.
+~
+~
+unique~
+AB 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 R
+stand stand male 50
+0 0 medium 'flesh'
+#27504
+bansheen grunt tolloc~
+a {cBa{Dnshe{cen{x grunt ~
+A {cBa{Dnshe{cen{x grunt is fighting above the flames of the {Dc{wau{rld{wro{Dn{x.
+~
+~
+trolloc~
+AB 0 0 0
+84 74 43d44+7056 84d10+100 9d13+42 none
+0 0 0 0 0
+A
+5 5 5 5
+FI 0 B R
+stand stand male 200
+0 0 medium 'flesh'
+#27505
+treant large tree~
+a {gt{yrean{gt{x~
+A rather {gl{yarg{ge {gt{yre{ge{x stands off to the side, waving it's branches in the air.
+~
+~
+unique~
+ABW 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+BC BRX I HJ
+stand stand none 0
+E DNV medium 'bark'
+#27506
+ko'bal kobal soldier trolloc~
+a {rK{Ro{r'{Rb{ral {DS{wol{Wd{wie{Dr{x~
+A {rK{Ro{r'{Rb{ral {DS{wol{Wd{wie{Dr{x stands guard in front of the barn.
+~
+~
+trolloc~
+ABTW 0 0 0
+88 78 45d46+7744 88d10+100 9d17+44 none
+0 0 0 0 0
+A
+5 5 5 5
+IKR 0 0 BR
+stand stand male 150
+0 0 medium 'flesh'
+#27507
+desperate man~
+a {md{De{msp{De{mr{Da{mte{x man~
+A {md{De{msp{De{mr{Da{mte{x man is trying to {rc{Rla{rw{x his way through the boards of the barn.
+~
+~
+kandori~
+ACS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#27508
+sobbing woman~
+a {cs{Cob{Wb{Cin{cg{x woman~
+A {cs{Cob{Wb{Cin{cg{x woman is cowering in the corner of the barn.
+~
+~
+shienaran~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+F 0 R IQ
+stand stand female 25
+0 0 medium 'flesh'
+#27509
+crazed lunatic~
+a {rcr{Daz{red{x lunatic~
+A {rcr{Daz{red{x lunatic stands here, muttering to the walls.
+~
+~
+arafellin~
+AB 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 none
+0 0 0 0 0
+A
+2 2 2 2
+DJY 0 0 0
+stand stand male 75
+0 0 medium 'flesh'
+#27510
+tall pale man draghkar~
+a {Ddr{wa{Wgh{wk{Dar{x~
+A tall, pale-skinned man wearing a dark cloak is standing in the corner, singing eerily.
+~
+~
+unique~
+AB 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+A
+6 6 6 6
+GHK T BR HL
+stand stand male 200
+I BCDEFHIJKPUV medium 'flesh'
+#27511
+ko'bal kobal chieftain~
+a {rK{Ro{r'{Rb{ral {DCh{wi{Weft{wa{Din{x~
+A {rK{Ro{r'{Rb{ral {DCh{wi{Weft{wa{Din{x stands here, looking over his charges.
+~
+~
+trolloc~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+BDEGV 0 0 R
+stand stand male 500
+0 0 huge 'flesh'
+#27512
+ko'bal kobal trolloc warrior~
+a {rK{Ro{r'{Rb{ral {DWa{wr{Wr{wi{Dor{x~
+A {rK{Ro{r'{Rb{ral {DWa{wr{Wr{wi{Dor{x is sparring with another Trolloc.
+~
+~
+trolloc~
+AB 0 0 0
+83 73 42d42+6889 83d10+100 9d12+41 none
+0 0 0 0 0
+A
+5 5 5 5
+KUW 0 0 R
+stand stand male 250
+0 0 huge 'flesh'
+#27513
+bansheen warrior trolloc~
+a {cBa{Dnshe{cen{x warrior~
+A {cBa{Dnshe{cen{x warrior raises his weapon against his opponent.
+~
+~
+trolloc~
+ABT 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+A
+5 5 5 5
+JKN 0 E R
+stand stand male 100
+0 0 medium 'flesh'
+#27514
+bansheen chieftain trolloc~
+a {cBa{Dnshe{cen{x Chieftain~
+A {cBa{Dnshe{cen{x Chieftain oversees his clan.
+~
+~
+trolloc~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+BFJV 0 E R
+stand stand male 100
+0 0 medium 'flesh'
+#27515
+dhavol warrior trolloc~
+a {bD{Dha'vo{bl{x warrior~
+A {bD{Dha'vo{bl{x warrior growls at all he passes.
+~
+~
+trolloc~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+KO 0 E R
+stand stand male 100
+0 0 medium 'flesh'
+#27516
+dhavol chieftain trolloc~
+a {bD{Dha'vo{bl{x Chieftain~
+A {bD{Dha'vo{bl{x Chieftain sits lazily on a chair.
+~
+~
+trolloc~
+ABT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CEJ 0 E R
+stand stand male 100
+0 0 medium 'flesh'
+#27517
+ahffrait warrior trolloc~
+an {yAh{Df'fra{yit{x warrior~
+An {yAh{Df'fra{yit{x warrior swings his weapon around dangerously.
+~
+~
+trolloc~
+ABT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+CN 0 E R
+stand stand male 100
+0 0 medium 'flesh'
+#27518
+ahffrait chieftain trolloc~
+an {yAh{Df'fra{yit{x Chieftain~
+An {yAh{Df'fra{yit{x Chieftain gnaws on a bloody femur.
+~
+~
+trolloc~
+ABT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FJK 0 E R
+stand stand male 100
+0 0 medium 'flesh'
+#27519
+darkhound dog~
+a {Ddark{yh{Dou{ynd{x~
+A large, pony-sized dog prowls along the roads.
+~
+~
+dog~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+IMV 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#27520
+wolf headed trolloc~
+a wolf-headed trolloc~
+A wolf-headed trolloc towers above all who approach.
+~
+~
+trolloc~
+ABJb a 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+ACDEFGKMNV 0 E R
+stand stand male 200
+0 0 medium 'flesh'
+F gain A
+F train A
+V tlevel 75
+#27521
+fade figure~
+a {DFade{x~
+An {Deyeless{x figure wearing a {Dmotionless{x cloak moves around the area.
+~
+~
+unique~
+AT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+CFH Iac 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#27501
+dingy gray skull~
+a {Ds{wk{Wu{wl{Dl{x~
+A dingy {Dgr{wa{Dy s{wk{Wu{wl{Dl{x of a human child has been left here.~
+bone~
+drink ESYa AO
+5 5 'blood' 1 0
+1 1 50 100
+E
+skull~
+This {Ds{wk{Wu{wl{Dl{x is rather small, obviously that of a human child.  Spiderwebs
+cover it and mouse droppings are seen around and inside of it.  If you pick
+it up the sloshing of some sort of {rl{Ri{rq{Rui{rd{x inside can be heard.  
+~
+#27502
+knawed femur~
+a {Dkn{ra{Dw{re{Dd{x on {Wf{we{Dm{wu{Wr{x~
+A {Dkn{ra{Dw{re{Dd{x on {Wf{we{Dm{wu{Wr{x has been thrown aside here.~
+bone~
+weapon RSY AN
+exotic 6 11 'none' 0
+50 1 25 100
+A
+19 4
+#27503
+broken down wagon~
+a broken down {rw{Da{wg{Do{rn{x~
+An old broken down {rw{Da{wg{Do{rn{x has been left here.~
+wood~
+container 0 0
+40 F 0 10000 100
+1 40 0 100
+#27504
+rusty tin box small~
+a {rr{yust{ry{x tin box~
+A small, {rr{yust{ry{x tin box has been discarded here.~
+tin~
+container Ya AO
+1 AC 0 2 50
+10 1 45 100
+#27505
+pile gold coins~
+some {yg{Yol{Wd c{Yoi{yns{x~
+A small pile of {yg{Yol{Wd c{Yoi{yns{x have been left here.~
+gold~
+money 0 A
+0 15 0 0 0
+0 0 0 100
+#27506
+rotting corpse horse~
+a {Dr{ro{Rtti{rn{Dg{x corpse~
+A {Dr{ro{Rtti{rn{Dg{x corpse of a large horse has been left here to {Dd{we{Dc{wa{Dy{x.~
+cloth~
+npc_corpse 0 0
+0 0 0 0 0
+0 0 0 100
+#27507
+deep dark hole~
+a {Dd{ya{Drk {yh{wo{yle{x~
+A deep, {Dd{ya{Drk {yh{wo{yle{x in the ground gapes here.~
+cloth~
+container Ca 0
+0 F 0 100000 50
+0 0 0 100
+#27508
+pile old bones~
+a pile of {Db{wo{Wn{we{Ds{x~
+A pile of old {Db{wo{Wn{we{Ds{x have been tossed aside here.~
+bone~
+container PS A
+5 0 0 6 25
+0 5 0 100
+#27509
+filthy shirt~
+a {Df{mi{Mlt{mh{Dy{x shirt~
+A {Df{mi{Mlt{mh{Dy{x shirt, tattered and torn, is here.~
+cloth~
+armor K AD
+25 15 10 25 0
+75 1 250 100
+A
+18 5
+A
+2 3
+#27510
+large cauldron boiling~
+a boiling {Dc{wau{rld{wro{Dn{x~
+A large {Dc{wau{rld{wro{Dn{x is boiling above the {rf{Rl{Yam{Re{rs{x.~
+iron~
+container EY 0
+0 0 0 100000 10
+0 10 0 100
+#27511
+slimy piece human flesh~
+{yh{Yu{Wm{Ya{yn{x flesh~
+A slimy piece of {yh{Yu{Wm{Ya{yn{x flesh has been tossed aside here.~
+flesh~
+food 0 A
+20 20 0 0 0
+25 1 250 100
+#27512
+weather wore well old~
+an old well~
+A {cw{Dea{rt{Dhe{cr{x wore well is off the side of the road.~
+brick~
+fountain 0 0
+100000 100000 'water' 0 0
+0 0 0 100
+#27513
+double bladed axe~
+a {rd{Rou{rble{w-{rbl{Rad{red{x axe~
+A {rd{Rou{rble{w-{rbl{Rad{red{x axe with blood on the handle.~
+cloth~
+weapon 0 AN
+axe 11 16 'none' D
+100 3 250 100
+A
+19 4
+#27514
+broadsword~
+a {cbr{Doadswo{crd{x~
+A {cbr{Doadswo{crd{x with a double-handed hilt is here.~
+steel~
+weapon 0 AN
+sword 11 16 'none' D
+100 3 250 100
+A
+19 4
+#27515
+key wooden~
+an old {yw{Doo{yd{De{yn{x key~
+An old {yw{Doo{yd{De{yn{x key has been carelessly tossed aside here.~
+wood~
+key 0 A
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#27501
+Nearing A Border Village~
+The remains of what appears to be an old border village are nearby to the
+north.  The blight seems to be corrupting the peacefulness of the remains. 
+Its claws and tentacles creeping into its center and darkening any light
+that may shine inside.  Back off to the south is the safety of the mountains
+and other nearby villages.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27502
+S
+#27502
+Trail To The Border Village~
+A trail creeps forward through the overgrown bushes and trees in the
+area, heading towards the old village.  The closer you come the more you can
+see of the decaying vegetation clinging to the once tall and formidable
+Keep.  The sounds about you are almost absent as you make your way forth.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27503
+D2
+~
+~
+0 0
+0 0 27501
+S
+#27503
+Entrance To The Border Village~
+The trail continues up a short hill to the wall of the Border Village,
+The wall has crumbled and cracked excessively along this side, the gates
+barely hanging on their hinges.  The vegatation has grown thick with
+brambles, nearly covering the entrance to the Village, but it looks as
+though something rather large has forced its way through.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27504
+D2
+~
+~
+0 0
+0 0 27502
+S
+#27504
+Just Inside the Border Village~
+Obstacles lay in the road, tripping most who enter this way.  An old
+brick building is to the east, the door half ajar.  The road continues to
+the north towards what appears to have been the Keep.  Along the road on
+both sides are the remains of cottages and other building, possibly having
+housed shops at one time.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27506
+D1
+a {ybr{Do{yk{De{yn{x door hanging off it's {Dh{wi{Dng{we{Ds{x
+~
+~
+1025 1025
+1 0 27505
+D2
+~
+~
+0 0
+0 0 27503
+S
+#27505
+Guard Room~
+After pushing your way in through the doorway, you enter a dark, cold
+building.  The ground beneath is soft and slick, almost as if something had
+been spilled inside here.  A pile of broken furniture is laying in a corner
+of the room and strong stench of death permeates the air.  
+~
+0
+ADN 22
+D3
+a {ybr{Do{yk{De{yn{x door hanging off it's {Dh{wi{Dng{we{Ds{x
+~
+~
+1025 1025
+1 0 27504
+S
+#27506
+Further Along The Road~
+The road continues further into the village here.  The road is in poor
+repair, old ruts from wagons and many horses hooves are cut into the dried
+ground, making the way a bumpy one.  Old, run down cottages from the village
+people are off to both sides of the road, but the area is eerily quiet,
+missing the sounds of childrens laughter and women's chatter that would
+usually be found here.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27507
+D2
+~
+~
+0 0
+0 0 27504
+D3
+~
+~
+0 0
+0 0 27508
+S
+#27507
+Along The Road~
+Long vines grow along the rode here, climbing anything they come across. 
+An old building lays to the west, but is impossible to enter because of the
+mass of vines covering it, coming out of the windows and in under the eaves.
+Off toward the east a pillar of smoke can be seen climbing into the air and
+on to the north continues the road towards the Keep.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27511
+D1
+~
+~
+0 0
+0 0 27512
+D2
+~
+~
+0 0
+0 0 27506
+S
+#27508
+Further Along The Road~
+The road curves here, leading off the normal path.  To the north and
+south are the remains of cottages.  The roofs have either been blown off or
+tore down by some unknown means.  A strong stench begins to arise on the
+air, blowing on the wind from the cottage to the north.  Futher on the road
+to the west is a broke down wagon that has been left behind.  
+~
+0
+0 22
+D0
+~
+~
+1 1
+1 0 27509
+D1
+~
+~
+0 0
+0 0 27506
+D3
+~
+~
+0 0
+0 0 27510
+S
+#27509
+Inside A Cottage~
+Inside this cottage the air is heavy with stench and moisture.  The walls
+surrounding you are rotting and cracked, letting in just a little light. 
+The belongings of those who lived here have been strewn around on the floor,
+as if someone had been searching for something.  The sound of tiny feet
+scurrying across the wooden floor can be heard as well as the sound of
+something crunching on bone.  
+~
+0
+ADN 22
+D2
+~
+~
+1 1
+1 0 27508
+S
+#27510
+Broken Down Wagon~
+Resting in the middle of the road is an old wagon.  It appears as if
+pieces of it are missing, one of the tires, most of the wood, all that is
+left is the iron and strappings that at one time held it together.  Flies
+buzz in the air, surrounding what appears to be the remains of an old horse
+carcass.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27508
+S
+#27511
+Center Of The Village~
+The dirt packed road comes to a large, muddy clearing here.  The
+overgrown weeds seem to have been trampled back by a multitude of what
+appears to be human feet, goat hooves, wolf paws and a great many other
+prints that are too difficult to figure out.  In the center of the clearing
+is a couple of large cauldrons, rising from which is a stench of boiling
+flesh and bones.  Large fires roar around the cauldrons and huge creatures
+stand above, growling and howling in unision in anticipation of their feast
+to come.  
+~
+0
+KN 22
+D0
+~
+~
+0 0
+0 0 27514
+D2
+~
+~
+0 0
+0 0 27507
+D3
+~
+~
+0 0
+0 0 27515
+D5
+~
+~
+3 3
+1 0 40464
+S
+#27512
+A Large Hole~
+Smoke billows up in the air from a large fire just to the north, the
+smell of burning hay and wood strong on the air.  A large hole has been dug
+in the center of the road here, a strong stench rising from inside.  A
+tangle of weeds covers the sides of the roads, making passing off it almost
+impossible at this spot.  
+~
+0
+0 22
+E
+hole~
+A deep hole has been dug here, the closer you get the stronger the stench
+that arises from it.  
+~
+D0
+~
+~
+0 0
+0 0 27513
+D3
+~
+~
+0 0
+0 0 27507
+S
+#27513
+A Bonfire~
+The smell of smoke is almost pungent here, filling the air thickly with
+billowing waves of black.  In the middle of a small area is what at one time
+was a cottage, the roof almost completely ablaze, the walls blackened and
+scorched with fire.  A group of creatures stand around the blaze, cheering
+and howling in an eerie texture of sound.  
+~
+0
+0 22
+D2
+~
+~
+0 0
+0 0 27512
+S
+#27514
+Road To The Keep~
+Dust and smoke fill the air along this stretch of the road, making it
+difficult to breath as you move along the way.  The vines and brambles are
+thick off to the west, making the way in that direction an imposing task. 
+The sound of a muffled mix of moaning and crying seems to come from
+somewhere off to the east and further to the north lies the Keep, the closer
+you approach the more you can see of the dilapitated building.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27518
+D1
+~
+~
+0 0
+0 0 27517
+D2
+~
+~
+0 0
+0 0 27511
+S
+#27515
+A Muddy Road~
+The road continues here, moving away from the center of the village.  The
+road has become muddy from the trampling of many feet, most prints are
+unable to be taken to be animal or human.  Further to the west the sound of
+yelling and metal beating against metal.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27511
+D3
+~
+~
+0 0
+0 0 27527
+S
+#27516
+~
+~
+0
+C 0
+S
+#27517
+A Large Tree~
+A large tree branches out in the air here, looking oddly more alive than
+most anything else that isn't weed or bramble.  The scent of horse dung
+fills the air and something that might have once been a stable for the
+Keep's horses is close by to the east.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27519
+D3
+~
+~
+0 0
+0 0 27514
+S
+#27518
+Road To The Keep~
+The road continues to stretch out to the north and west here.  What
+appears to be a trail of dark liquid moves off to the west, where the sound
+of steel on steel can be heard.  The road is difficult to traverse here, the
+ruts and holes in it deep and hard, vines seem to snake out in front of
+passersby, wrapping around any feet that get too close.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27523
+D2
+~
+~
+0 0
+0 0 27514
+D3
+~
+~
+0 0
+0 0 27522
+S
+#27519
+Outside The Barn~
+A long, wooden building stretches out before you, the wide doors closed
+and barred from the outside.  Inside the sounds of whimpering and moaning
+can be heard and the stench of human filth and death can almost be felt on
+the air.  A multitude of flies buzz around the building, the stench rather
+strong the closer you approach it.  
+~
+0
+0 22
+D1
+~
+~
+263 263
+2 27515 27520
+D3
+~
+~
+0 0
+0 0 27517
+S
+#27520
+Inside The Barn~
+The room is dark and dreary, the air heavy and moist.  A low moaning
+sound is coming from a far corner where a group of women huddle close to
+each other, mourning their lost lives.  A crowd of people fill the muddied
+room, some wailing or screaming, others muttering to themselves, each of
+them seeming filled with terror at what they've seen lately and at what will
+happen to them.  
+~
+0
+AD 22
+D3
+~
+~
+263 263
+2 27515 27519
+D4
+~
+~
+4096 4096
+0 0 27521
+S
+#27521
+Moldy Hayloft~
+Piles of moldy hay cover the floor up in the hayloft, every step taken
+upon it kicking up mold spores that tickle the nose and throat of those
+susceptible to such things.  There are no windows up here, nothing to let in
+light or fresh air.  
+~
+0
+D 22
+D5
+~
+~
+4096 4096
+0 0 27520
+S
+#27522
+A Well~
+Off the side of the road here is a large, deep well, the bricks that once
+surrounded it either cracked and chipped or missing entirely.  It doesn't
+appear too safe to lean too heavily upon, but for those that are truly
+thirsty, the bucket hangs from a thin rope that can be let down into the
+depths below.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27518
+D3
+~
+~
+0 0
+0 0 27524
+S
+#27523
+Road To The Keep~
+Large holes in the ground make traveling along it rather difficult along
+this stretch.  Up north the Keep is coming closer.  It looks to be in very
+bad repair, stones crumbling down to the ground, thick vines growing along
+the surface, breaking to enter the building at various points.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27533
+D1
+~
+~
+0 0
+0 0 27530
+D2
+~
+~
+0 0
+0 0 27518
+S
+#27524
+The Road Ends Here~
+The road continues here, heading towards the sound of loud grunting,
+growling and other odd noises that seem to be coming from the south.  The
+thickets and overgrown weeds seem to be sprouting everywhere here, making
+passage very difficult in any direction except south and back to the east.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27522
+D2
+~
+~
+0 0
+0 0 27526
+D3
+~
+~
+4096 4096
+0 0 27525
+S
+#27525
+A Hidden Spot~
+Hidden behind the thicket and weeds is a little patch of grass.  This
+little piece of lonely land would be peaceful if it weren't for the huge
+creature towering over you.  His head is that of a wolf, his arms of a man,
+his feet are of a goat and a tail of a rooster.  This is by far the
+strangest creature you've seen here, but also the largest.  
+~
+0
+0 22
+D1
+~
+~
+4096 4096
+0 0 27524
+S
+#27526
+The Ko'ball Trollocs~
+Old cottages dot this area, one of the few signs that this used to be a
+well-lived in space at one time.  Now, instead of children running and
+playing, there are large beasts roaming the area, this one chewing on a
+human arm, that one cracking the skull of a human male.  Others are spending
+their time fighting over anything that happens to come to mind.  Standing in
+the midst of it all is a formidable creature, taller than the rest and
+broader across the shoulders.  Perhaps he holds some sort of sway over the
+others?  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27524
+S
+#27527
+A Muddy Road~
+The road continues here, moving away from the center of the village.  The
+road has become muddy from the trampling of many feet, most prints are
+unable to be taken to be animal or human.  Further to the west the sound of
+yelling and metal beating against metal.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27515
+D3
+~
+~
+0 0
+0 0 27528
+S
+#27528
+Muddy Road~
+The muddy road comes to an end here, turning south into what appears to
+be made into a camp.  The sound of steel clashing on steal is much louder
+here and strange creatures move about.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27527
+D2
+~
+~
+0 0
+0 0 27529
+S
+#27529
+Bansheen Clearing~
+The road opens up to a rather large clearing.  It doesn't appear to have
+been a clearing at first, but the creatures roaming around inside are very
+likely responsible for the destruction found here.  What used to be small
+village huts are now strewn off to the edge of the area.  Several of the
+creatures range out in a wide circle, darting in and out to throw swings of
+their weapons at each other.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27528
+S
+#27530
+Along The Road~
+Large vines have started to creep their way along this road, tripping
+those who pass by and trying to wrap themselves around any ankles that stop
+long enough.  The road continues to the east or back to the west towards the
+Keep.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27531
+D3
+~
+~
+0 0
+0 0 27523
+S
+#27531
+Along The Road~
+Large vines have started to creep their way along this road, tripping
+those who pass by and trying to wrap themselves around any ankles that stop
+long enough.  The road continues to the east or back to the west towards the
+Keep.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27534
+D2
+~
+~
+0 0
+0 0 27532
+D3
+~
+~
+0 0
+0 0 27530
+S
+#27532
+Dha'vol Tents~
+Many old cottages line this area, each seeming to be full of different
+creatures using them for sleep and other strange behaviors.  A group of
+Dha'vol warriors strut around, grunting and growling at each other as they
+await their promised rewards.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27531
+S
+#27533
+Outside the Keep~
+The Keep.  It once was a large building, intended to keep those within
+its wall safe, but time and the waste have wore the walls and its safety. 
+The doors leading inside have been made impassible by the broken stone and
+wood, the vines creeping their way in and out of every nook and crany.  
+~
+0
+0 22
+D2
+~
+~
+0 0
+0 0 27523
+S
+#27534
+Along The Road~
+Large vines have started to creep their way along this road, tripping
+those who pass by and trying to wrap themselves around any ankles that stop
+long enough.  The road continues to the north or back to the west towards the
+Keep.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 27535
+D3
+~
+~
+0 0
+0 0 27531
+S
+#27535
+Along The Road~
+The road continues to twist and turn here, moving from east to north to
+east again.  Large trees dot the sides of the road, some of them practically
+reaching out to grab those who pass nearby.  
+~
+0
+0 22
+D1
+~
+~
+0 0
+0 0 27536
+D2
+~
+~
+0 0
+0 0 27534
+S
+#27536
+Ahf'frait Tetnts~
+Many different creatures roam this area, each looking as different as the
+next.  Some have the body of a human and the head of some beast.  Others
+have the hooves of a goat, the tail of a wolf, or the beak of an eagle.  The
+area has been cleared out so that the inhuman creatures may move about more
+easily, some striking out at the other as they pass by.  
+~
+0
+0 22
+D3
+~
+~
+0 0
+0 0 27535
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 27511 5 1
+D 0 27519 1 2
+D 0 27520 3 2
+M 0 27505 10 27503 1
+O 0 27501 0 27505
+M 0 27502 10 27506 1
+M 0 27502 10 27507 1
+M 0 27501 5 27509 5
+M 0 27501 5 27509 5
+M 0 27501 5 27509 5
+M 0 27501 5 27509 5
+O 0 27503 0 27510
+P 0 27504 1 27503 1
+P 0 27505 1 27504 1
+O 0 27506 0 27510
+O 0 27510 0 27511
+P 0 27511 5 27510 5
+M 0 27504 5 27511 5
+O 0 27507 0 27512
+P 0 27508 1 27507 1
+P 0 27509 1 27507 1
+M 0 27503 5 27513 5
+M 0 27519 10 27514 2
+M 0 27505 1 27517 1
+M 0 27506 3 27519 3
+M 0 27507 1 27520 1
+M 0 27508 1 27520 1
+M 0 27509 1 27520 1
+M 0 27510 1 27521 1
+O 0 27512 0 27522
+M 0 27520 1 27525 1
+M 0 27511 1 27526 1
+E 0 27513 0 20
+G 0 27515 0
+M 0 27512 5 27526 5
+M 0 27519 10 27527 2
+M 0 27514 1 27529 1
+E 0 27514 0 20
+M 0 27513 5 27529 5
+M 0 27519 10 27530 2
+M 0 27516 1 27532 1
+M 0 27515 5 27532 5
+M 0 27521 6 27534 6
+M 0 27518 1 27536 1
+M 0 27517 5 27536 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

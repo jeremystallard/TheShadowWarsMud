@@ -1,0 +1,2231 @@
+#AREADATA
+Name Taien~
+Builders Matthew Kitiara~
+VNUMs 150 199
+Credits None~
+Security 2
+Low 30
+High 50
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#150
+sentry~
+a {bs{De{bnt{Dr{by{x~
+A {bs{De{bnt{Dr{by{x stands here, guarding the gate.
+~
+~
+unique~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 stab
+0 0 0 0 0
+A
+2 2 2 2
+U 0 0 R
+stand stand male 35
+0 0 medium 'flesh'
+#151
+female citizen~
+a female {cc{Cit{Wi{Cze{cn{x~
+A female {cc{Cit{Wi{Cze{cn{x walks purposefully along the streets.
+~
+~
+unique~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#152
+father man~
+a {bf{Ba{Wth{Be{br{x~
+This {bm{Ba{bn{x rises to his feet as you enter his home unbidden.
+~
+~
+unique~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#153
+mother woman~
+a {mm{Mo{Wth{Me{mr{x~
+A {mw{Mo{Wm{Ma{mn{x stands before the table, setting out the evening meal.
+~
+~
+unique~
+AB 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 13
+0 0 medium 'flesh'
+#154
+girl~
+a young {Mg{Wi{Mrl{x~
+A young {Mg{Wi{Mrl{x sits at the table, waiting for her dinner.
+~
+~
+unique~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 R
+stand stand female 5
+0 0 medium 'flesh'
+#155
+rumpled man~
+a {gr{wu{Dm{gp{Dl{we{gd{x man~
+Laying in a pile of rags, this {gm{Da{gn{x snores loudly.
+~
+~
+andoran~
+AT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 none
+0 0 0 0 0
+A
+2 2 2 2
+BCFK 0 E R
+stand stand male 25
+0 0 medium 'flesh'
+#156
+bartender~
+a {Wb{wa{Drt{we{Dnd{we{Wr{x~
+Standing behind the bar, this {Wman{x wears a dingy apron.
+~
+~
+unique~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 500
+0 0 medium 'flesh'
+#157
+gambler~
+a {Gg{gam{Db{gle{Gr{x~
+A {Gg{gam{Db{gle{Gr{x sits at a table, losing his money.
+~
+~
+unique~
+A 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 35
+0 0 medium 'flesh'
+#158
+brawler man~
+a {rbr{Dawl{rer{x~
+A {rm{Da{rn{x stands here, fighting with another.
+~
+~
+unique~
+A 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#159
+innkeeper man~
+the {RI{rnn{Dk{Ree{rp{Re{rr{x~
+The Innkeeper for the {rR{Re{rd R{Ra{Dv{Re{rn {RI{rnn{x stands here.
+~
+~
+unique~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+I ABI E QR
+stand stand male 400
+0 0 medium 'flesh'
+#160
+commoner~
+a {cc{Com{Wmo{Cne{cr{x~
+A {cc{Com{Wmo{Cne{cr{x walks along the roads, seeing to the days errands.
+~
+~
+unique~
+A 0 0 0
+36 26 19d20+1296 36d10+100 4d10+18 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 20
+0 0 medium 'flesh'
+#161
+patron~
+a {Bp{Da{Wtr{Do{Bn{x~
+A {Bp{Da{Wtr{Do{Bn{x sits at a table, laughing with his friends.
+~
+~
+unique~
+AB 0 0 0
+38 28 20d21+1444 38d10+100 4d12+19 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#162
+local~
+a {cl{Do{cc{Da{cl{x~
+Sitting at a table, a {cl{Do{cc{Da{cl{x sips his ale.
+~
+~
+unique~
+AB 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 18
+0 0 medium 'flesh'
+#163
+head cook~
+the head {Wcook{x~
+The head {Wcook{x supervises her underlings with a firm hand.
+~
+~
+unique~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+W 0 0 0
+stand stand female 550
+0 0 medium 'flesh'
+#164
+cook~
+a {Wc{woo{Wk{x~
+A {Wc{woo{Wk{x is busy stirring a large kettle of stew.
+~
+~
+unique~
+AB 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 30
+0 0 medium 'flesh'
+#165
+hooker woman redhead red head red-head~
+a {rh{Roo{rk{Re{Rr{x~
+A pretty {rr{Re{rd{D-{rh{Rea{rd{x sits on the bed, giggling with her friend.
+~
+~
+unique~
+ABC 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 stab
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 40
+0 0 medium 'flesh'
+#166
+hooker woman~
+a {gh{Go{Wok{Ge{gr{x~
+Laying across the bed, this young {gw{Go{Wm{Ga{gn{x giggles with her friend.
+~
+~
+unique~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#167
+bartender~
+a {yb{Ya{yrt{Ye{ynd{Ye{yr{x~
+A rather {yl{Ya{yrg{Ye {ym{Ya{yn{x stands behind the counter, serving drinks.
+~
+~
+unique~
+AB H 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+N 0 0 0
+stand stand male 500
+0 0 medium 'flesh'
+#168
+serving girl~
+a {Cs{We{Crv{Wi{Cng{x girl~
+A {Cs{We{Crv{Wi{Cng{x girl hurriedly waits on customers.
+~
+~
+unique~
+AB 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 34
+0 0 medium 'flesh'
+#169
+brewer~
+a {ybr{we{yw{we{yr{x~
+A {Dm{wu{Dsc{wu{Dl{wa{Dr{x man is here, stirring the ale.
+~
+~
+unique~
+AB 0 0 0
+53 43 27d27+2809 53d10+100 6d9+26 none
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand male 38
+0 0 medium 'flesh'
+#170
+customer~
+a {cc{Cus{Wto{Cme{cr{x~
+A {cc{Cus{Wto{Cme{cr{x sits at a table mulling over a mug of ale.
+~
+~
+unique~
+AB 0 0 0
+42 32 22d23+1764 42d10+100 5d7+21 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 25
+0 0 medium 'flesh'
+#171
+musician drummer~
+a {ydr{wu{ymm{we{yr{x~
+A {rm{Du{rs{Di{rc{Dia{rn{x stands on stage, happily beating his {ydr{wu{ym{x.
+~
+~
+unique~
+AB 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 40
+0 0 medium 'flesh'
+#172
+musician fiddle fiddler~
+a {Rf{Di{Rddl{De{Rr{x~
+Standing on stage, this {rm{Du{rs{Di{rc{Dia{rn{x plays her {Df{Ri{Ddd{Rl{De{x enthusiatically.
+~
+~
+unique~
+AB 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 40
+0 0 medium 'flesh'
+#173
+singer~
+a {Rs{Wi{Rng{We{Rr{x~
+A young woman stands on stage, {Rs{Wi{Rng{Wi{Rng{x folk songs.
+~
+~
+unique~
+AB 0 0 0
+34 24 18d19+1156 34d10+100 4d8+17 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 45
+0 0 medium 'flesh'
+#174
+dancer~
+a {Rd{Wa{Rnc{We{Rr{x~
+{RD{Wa{Rnc{Wi{Rng{x around the room, this young woman enjoys the music.
+~
+~
+unique~
+AB 0 0 0
+31 21 16d16+961 31d10+100 4d5+15 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#175
+urchin~
+an {Cu{Wr{Cch{Wi{Cn{x~
+An {Cu{Wr{Cch{Wi{Cn{x scampers through the streets.
+~
+~
+unique~
+AC 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 5
+0 0 medium 'flesh'
+#176
+sentry bored~
+a bored {Bs{De{Bnt{Dr{By{x~
+A bored {Bs{De{Bnt{Dr{By{x lounges around the room.
+~
+~
+unique~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+K 0 0 0
+stand stand male 35
+0 0 medium 'flesh'
+#177
+trainee~
+a {btr{Dai{bn{Dee{x~
+A {btr{Dai{bn{Dee{x is busy attacking a stuffed dummy.
+~
+~
+unique~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 0
+stand stand either 30
+0 0 medium 'flesh'
+#178
+tall man~
+a {btr{Dai{bn{De{br{x~
+A tall {bm{Da{bn{x stands over the trainee's, watching with a piercing gaze.
+~
+~
+unique~
+ABJTb HVa 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+A 0 0 R
+stand stand none 400
+0 0 medium 'flesh'
+F gain A
+F train A
+V tlevel 65
+#179
+florist young woman~
+a {gf{Gl{Yo{Wr{Yi{Gs{gt{x~
+A young {mw{Mo{Wm{Ma{mn{x busies herself arranging {gf{Gl{Yo{Ww{Ye{Gr{gs{x.
+~
+~
+unique~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 450
+0 0 medium 'flesh'
+#180
+jeweler~
+a {Cj{We{Cwel{We{Cr{x~
+A {Dgr{wea{Dsy{x-haired man with a crooked smile, greets his customers.
+~
+~
+unique~
+ABC HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+B 0 0 BPR
+stand stand male 650
+0 0 medium 'flesh'
+#181
+tailor~
+a {yt{Wai{yl{Wo{yr{x~
+A short, {yp{Du{ydgy{x man goes about taking measurements from a customer.
+~
+~
+cairhienin~
+ABK 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 450
+0 0 medium 'flesh'
+#182
+leatherworker leather worker man tanner~
+a leather {yw{Do{yrk{De{yr{x~
+A leather {yw{Do{yrk{De{yr{x is here, tanning hides.
+~
+~
+cairhienin~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 500
+0 0 medium 'flesh'
+#183
+apprentice~
+an {Wa{Dppr{We{Dnt{Wi{Dc{We{x~
+An {Wa{Dppr{We{Dnt{Wi{Dc{We{x blacksmith stands by the forge, pumping the bellows.
+~
+~
+cairhienin~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#184
+blacksmith~
+a {Dbl{ra{Dcksm{ri{Dth{x~
+A {Dbl{ra{Dcksm{ri{Dth{x stands behind the forge, heating a long piece of metal in its fires.
+~
+~
+cairhienin~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 600
+0 0 medium 'flesh'
+#185
+stallion horse~
+a {Dst{wa{Wll{wi{Don{x~
+A tall, black {Dst{wa{Wll{wi{Don{x stands here.
+~
+~
+unique~
+AIZ 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+AGV ACDEFJKQ medium 'flesh'
+#186
+handler man~
+a horse {yh{wa{yndl{we{yr{x~
+A short, {gst{Do{gcky{x man stands here, checking out a horses hoof.
+~
+~
+cairhienin~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 400
+0 0 medium 'flesh'
+#187
+scroungy horse~
+a {yscr{You{yngy{x horse~
+A {yscr{You{yngy{x looking horse stands here.
+~
+~
+unique~
+AIZ 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+AGV ACDEFJKQ medium 'flesh'
+#188
+sentry~
+a {bs{De{bnt{Dr{by{x~
+A {bs{De{bnt{Dr{by{x strides along the roads, keeping the peace.
+~
+~
+cairhienin~
+AT 0 0 0
+58 48 30d31+3364 58d10+100 6d14+29 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#189
+butcher~
+a {Wbu{Rt{rc{Rh{We{Wr{x~
+Standing behind the counter, this {Wb{ru{Wtch{re{Wr{x busily wraps the meat for sell.
+~
+~
+cairhienin~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 450
+0 0 medium 'flesh'
+#190
+butcher boy~
+a {Wbu{Rt{rc{Rh{Wer{x~
+Covered in {rbl{Roo{rd{x, this man carefully chops the meat.
+~
+~
+cairhienin~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#191
+mare~
+a {ym{ra{yre{x~
+A pretty little {ym{ra{yre{x stands here.
+~
+~
+unique~
+AIZ 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand female 0
+AGV ACDEFJKQ medium 'flesh'
+#192
+hawker~
+{Bh{Wa{Bwk{We{Br{x~
+A {Bh{Wa{Bwk{We{Br{x stands in the road calling out prices to passersby.
+~
+~
+unique~
+A 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#193
+merchant~
+a {mm{De{mrch{Da{mnt{x~
+A {mm{De{mrch{Da{mnt{x makes his way through the streets.
+~
+~
+andoran~
+A 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#194
+shopper~
+{Csh{Wo{Cpp{We{Cr{x~
+A {Csh{Wo{Cpp{We{Cr{x walks along the street, intent on the path before her.
+~
+~
+cairhienin~
+A 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#195
+pickpocket thief boy~
+a {gpi{Gck{Wpo{Gck{get{x~
+A young {gb{Go{gy{x bumps into people as he moves through the crowds.
+~
+~
+cairhienin~
+ACS 0 0 0
+42 32 22d23+1764 42d10+100 5d7+21 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#196
+herb~
+{gH{De{grb{x~
+{gH{De{grb{x stands here, rubbing his nose as he watches around himself.
+~
+~
+cairhienin~
+AT 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+A
+6 6 6 6
+CH 0 0 LPQR
+stand stand male 50
+0 0 medium 'flesh'
+#197
+common thug~
+a {Dco{wmm{Won {wth{Dug{x~
+A {Dco{wmm{Won {wth{Dug{x stands here with his hands in his pockets, eyeballing you suspiciously.
+~
+A tall, bulky, {yolive{x skinned man stands here.  He doesn't draw attention
+to himself, but he certainly doesn't fit into the crowd either.  He has dark
+{Dhair{x and dark {Deyes{x.  Everything about him seems dark and mysterious.  
+~
+andoran~
+A 0 1000 0
+100 90 51d52+10000 100d10+100 11d11+50 headbutt
+0 0 0 0 0
+A
+7 7 7 7
+CEFKLO ABb 0 PT
+stand stand male 0
+0 0 large 'flesh'
+#199
+short muscled muscle man~
+a short well-muscled man~
+A short well-muscled man watches everyone with a passive gaze.
+~
+A very suspicious looking character is here, his well worn coat and
+breeches having seen a better day with all the patches and stitching that
+has been done to it, not to mention the stains...  He eyes you out of the
+corner of his eye as your attention comes on him, not seeming too happy to
+be under your scrutiny almost as if he's up to something he doesn't want
+seen.  
+~
+andoran~
+A 0 0 0
+92 82 47d48+8464 92d10+100 10d12+46 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#150
+table~
+a table~
+A small wooden table sets in the center of the room.~
+wood~
+container S 0
+100 C 0 10 100
+0 0 0 100
+#151
+deck cards~
+a {Dd{re{Dck{x of {rca{Dr{rds{x~
+An old, worn deck of {rc{Dard{rs{x has been left here.~
+wood~
+treasure S AO
+0 0 0 0 0
+1 0 15 100
+#152
+cloak rags~
+a cloak of {yr{ra{ygs{x~
+A pile of smelly {yr{ra{ygs{x lays here.~
+cloth~
+armor S AK
+19 13 10 13 0
+55 1 85 100
+#153
+boots~
+a pair of {Db{woo{Dts{x~
+A pair of old leather {Db{woo{Dts{x, the toes worn out, rest here.~
+leather~
+armor S AG
+23 12 14 6 0
+55 1 45 100
+A
+12 15
+#154
+ale~
+a mug of {ra{yl{re{x~
+A chipped mug of ale rests here.~
+ale~
+drink S A
+10 10 'ale' 0 0
+20 0 20 100
+#155
+whiskey~
+some {ywh{Yi{ysk{Ye{yy{x~
+A shot glass filled with {ywh{Yi{ysk{Ye{yy{x sets here.~
+whiskey~
+drink S A
+5 5 'whisky' 0 0
+25 0 25 100
+#156
+bed~
+a lumpy {Bb{We{Bd{x~
+A small, bumpy {Bb{We{Bd{x with a blue quilt rests here.~
+cloth~
+furniture S 0
+2 1000 EHK 105 110
+0 5 0 100
+#157
+wine glass~
+a glass of {mr{re{md w{ri{mne{x~
+A long-stemmed glass of {mr{re{md w{ri{mne{x rests here.~
+wine~
+drink S A
+12 12 'red wine' 0 0
+30 0 30 100
+#158
+ale mug~
+a mug of {Dd{ya{Drk {ya{Dl{ye{x~
+A mug of {Dd{ya{Drk {ya{Dl{ye{x rests here.~
+ale~
+drink S A
+10 10 'dark ale' 0 0
+40 0 30 100
+#159
+tulip~
+a single {mt{Mu{Wl{Mi{mp{x~
+A pretty {mt{Mu{Wl{Mi{mp{x has been left here.~
+flower~
+trash S AO
+0 0 0 0 0
+1 0 10 100
+#160
+daisey daiseys~
+a bunch of {Wd{Yai{Ws{Ye{Wys{x~
+A small bunch of {Wd{Yai{Ws{Ye{Wys{x are here.~
+cloth~
+trash S A
+0 0 0 0 0
+1 0 10 100
+#161
+roses rose~
+a dozen long-stemmed {rr{Ro{rs{Re{rs{x~
+A dozen long-stemmed {rr{Ro{rs{Re{rs{x rest in a box.~
+cloth~
+trash S A
+0 0 0 0 0
+1 0 25 100
+#162
+pocketwatch watch~
+a {Yp{Wo{Yck{We{Ytw{Wa{Ytch{x~
+A {Yp{Wo{Yck{We{Ytw{Wa{Ytch{x dangles from a long gold chain.~
+gold~
+treasure 0 0
+0 0 0 0 0
+25 0 35 100
+#163
+tiara~
+a {Bs{Wa{Bpph{Wi{Br{We{Bs{x {Dt{wi{Wa{wr{Da{x~
+A silver {Dt{wi{Wa{wr{Da{x covered with {Bs{Wa{Bpph{Wi{Br{We{Bs{x has been left here.~
+silver~
+jewelry I AE
+0 0 0 0 0
+45 0 45 100
+#164
+ruby chain~
+a {rr{Ru{rby{x chain~
+A gold {ych{Yai{yn{x with a large {rr{Ru{rby{x is here.~
+cloth~
+jewelry 0 AC
+0 0 0 0 0
+10 0 25 100
+#165
+basket~
+a whicker {yb{ra{ysk{re{yt{x~
+A small, whicker {yb{ra{ysk{re{yt{x rests on the floor.~
+whicker~
+container S A
+1 0 0 10 100
+1 0 15 100
+#166
+needle~
+a sharp {Wn{Dee{Wdle{x~
+A thin, sharp {Wn{Dee{Wdle{x has been stuck here.~
+steele~
+trash 0 AO
+0 0 0 0 0
+1 0 5 100
+#167
+scissors~
+a pair of {Dsc{wi{Wss{wo{Drs{x~
+A pair of sharp {Dsc{wi{Wss{wo{Drs{x have been left here.~
+metal~
+weapon 0 AN
+dagger 3 8 'none' 0
+25 0 25 100
+A
+19 9
+#168
+spool thread~
+a spool of {rthr{Rea{rd{x~
+A spool of {rthr{Rea{rd{x has been left here.~
+thread~
+trash S A
+0 0 0 0 0
+1 0 5 100
+#169
+wool woolen shirt tailored~
+a {Ww{woo{Wl{we{Wn{x shirt~
+A nicely tailored {Ww{woo{Wl{we{Wn{x shirt has been folded here.~
+wool~
+armor S AD
+10 8 8 4 0
+30 1 60 100
+#170
+leather pants~
+snug, {Dl{yea{Dth{ye{Dr{x pants~
+A pair of snug, {Dl{yea{Dth{ye{Dr{x pants are here.~
+cloth~
+armor S AF
+8 10 8 4 0
+30 1 75 100
+#171
+cloak~
+a warm, flowing {ccl{Coa{ck{x~
+A warm, flowing {ccl{Coa{ck{x has been hung here.~
+wool~
+armor S AK
+8 8 10 4 0
+30 0 60 100
+#172
+sturdy leather boots~
+a pair of {Dl{yea{Dth{ye{Dr{x boots~
+A pair of sturdy {Dl{yea{Dth{ye{Dr{x boots rest here.~
+leather~
+armor S AG
+15 5 5 5 0
+30 0 75 100
+#173
+leather belt woven~
+a {Dl{yea{Dth{ye{Dr{x belt~
+A woven, {Dl{yea{Dth{ye{Dr{x belt with a metal clasp is here.~
+leather~
+armor S AL
+15 5 5 5 0
+30 0 75 100
+#174
+leather gloves~
+{Dl{yea{Dth{ye{Dr{x gloves~
+A pair of {Dl{yea{Dth{ye{Dr{x gloves have been laid here.~
+leather~
+armor S AH
+15 5 5 5 0
+30 0 75 100
+#175
+longsword sword shiny~
+a shiny {Dlo{wng{Ws{wwo{Drd{x~
+A shiny {Dlo{wng{Ws{wwo{Drd{x has been left here.~
+steel~
+weapon 0 AN
+sword 4 9 'none' 0
+30 2 90 100
+A
+19 4
+#176
+shiny shortsword sword~
+a shiny {Dsh{cor{Cts{cwo{Drd{x~
+A shiny {Dsh{cor{Cts{cwo{Drd{x has been left here.~
+steele~
+weapon 0 AN
+sword 4 9 'none' 0
+30 0 90 100
+A
+19 13
+A
+19 4
+#177
+axe~
+a double-headed {Da{rx{De{x~
+A double-headed {Da{rx{De{x has been left here.~
+steele~
+weapon 0 AN
+axe 4 9 'none' 0
+30 3 90 100
+A
+19 13
+A
+19 4
+#178
+shiny dagger~
+a shiny {Dd{ca{Dgg{ce{Dr{x~
+A small, shiny {Dd{ca{Dgg{ce{Dr{x rests here.~
+steele~
+weapon 0 AN
+dagger 4 9 'none' D
+30 1 90 100
+A
+19 4
+#179
+butcher knife~
+a blood-covered {yb{rut{Dc{rhe{yr{x knife~
+A blood-covered {yb{rut{Dc{rhe{yr{x knife has been left here.~
+steele~
+weapon 0 AN
+dagger 7 12 'none' D
+60 1 95 100
+A
+19 4
+#180
+pork slab food~
+a slab of {yp{ro{yrk{x~
+A slab of {yp{ro{yrk{x drips juice to the floor.~
+pork~
+food S A
+10 10 0 0 0
+1 0 25 100
+#181
+cow cows tongue food~
+a cows {rt{Do{rng{Du{re{x~
+A long, sticky cows {rt{Do{rng{Du{re{x has been left here.~
+tongue~
+food S A
+8 8 0 0 0
+1 0 15 100
+#182
+side beef food~
+a side of {Db{ree{Df{x~
+A side of {Db{ree{Df{x hangs here.~
+beef~
+food S A
+12 12 0 0 0
+1 0 20 100
+#183
+fountain~
+a {cf{Cou{Wnt{Cai{cn{x~
+A large, three tiered {cf{Cou{Wnt{Cai{cn{x with water flowing freely is here.~
+stone~
+fountain S 0
+10000 10000 'water' 0 0
+0 0 0 100
+#184
+wicked dagger~
+a wicked {Dd{wa{Wgg{we{Dr{x~
+A wicked looking {Dd{wa{Wgg{we{Dr{x is here.~
+steel~
+weapon 0 AN
+dagger 7 12 'none' 0
+60 1 90 100
+A
+19 4
+#185
+worn trousers~
+some worn {ytr{wou{ys{we{yrs{x~
+A pair of worn {ytr{wou{ys{we{yrs{x have been piled on the floor.~
+cloth~
+armor S AF
+20 20 20 0 0
+60 1 50 100
+#186
+worn coat~
+a worn {yc{woa{yt{x~
+An old, worn {yc{woa{yt{x has been left here.~
+cloth~
+armor S AD
+20 20 20 0 0
+60 1 65 100
+A
+17 2
+#187
+worn boots~
+worn {yb{Doo{yts{x~
+A pair of worn {yb{Doo{yts{x have been left here.~
+cloth~
+armor S AG
+20 20 20 0 0
+60 1 55 100
+#188
+pewter medallion~
+a {Dp{we{Wwt{we{Dr{x medallion~
+An old, {Dp{we{Wwt{we{Dr{x medallion has been left here.~
+cloth~
+armor E AC
+10 15 5 30 0
+60 0 0 100
+A
+2 2
+A
+18 2
+A
+5 -4
+#189
+worn leather belt~
+a worn {yb{De{ylt{x~
+A worn leather {yb{De{ylt{x has been left here.~
+leather~
+armor S AL
+20 20 30 0 0
+60 1 50 100
+#190
+sourdough bread food~
+{ys{You{Wrdo{Yug{yh{x bread~
+A steaming slice of {ys{You{Wrdo{Yug{yh{x bread rests on a plate.~
+dough~
+food S A
+5 5 0 0 0
+1 0 10 100
+#191
+peach cobbler food~
+peach {yc{Wo{Ybbl{We{yr{x~
+A slice of peach {yc{Wo{Ybbl{We{yr{x looks delicious.~
+peaches~
+food S A
+6 6 0 0 0
+1 0 10 100
+#192
+goat cheese food~
+goat {Ych{Wee{Yse{x~
+A hunk of smelly goat {Ych{Wee{Yse{x is here.~
+goats milk~
+food S A
+5 5 0 0 0
+1 0 10 100
+#193
+mug special ale~
+the house {Dsp{re{Dc{ria{Dl{x~
+A mug of the house {Dsp{re{Dc{ria{Dl{x is here.~
+cloth~
+drink 0 A
+5 5 'local specialty' 0 0
+25 0 30 100
+#0
+
+
+
+#ROOMS
+#150
+A Large Iron Gate~
+The large iron gate looming before you is doing exactly what it's
+supposed to...  Keep people out, but the guards at the top of the wall look
+down at you and quickly lose interest.  The defenses here seem to be more
+for show than practicality.  Just beyond the gates, you can see the
+stone-paved road lined with small businesses trying to make a living so far
+from civilization.  
+~
+0
+0 4
+D1
+~
+~
+1 1
+1 0 151
+D3
+~
+~
+0 0
+0 0 186
+S
+#151
+West Spine Way ~
+The stone paved street is pretty busy considering the size of the town. 
+You can see the signs of shops, inns, and taverns lining both sides.  The
+stone steps to the north lead up the the sentryroom where you can see a
+couple of sentries sitting outside.  
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 165
+D1
+~
+~
+0 0
+0 0 152
+D3
+~
+~
+1 1
+1 0 150
+S
+#152
+West Spine Way ~
+The street starts getting a little more crowded as you get closer to the
+town square.  A larger home to the north looks in suprisingly good
+condition, while just south of it resides an abandon house which looks
+rather dilapidated.  One of the larger buildings in town, a two story wood
+structure with a red painted roof, stick up out of the smaller shops around
+it toward the east.  
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 167
+D1
+~
+~
+0 0
+0 0 153
+D2
+~
+~
+3 3
+1 0 168
+D3
+~
+~
+0 0
+0 0 151
+S
+#153
+West Spine Way~
+The stone paved street is pretty busy considering the size of the town. 
+Signs to others shops, taverns, and inns can be seen further down the street
+as the street winds closer to the square, turning south.  Directly to the
+east is a the Red Raven Inn, its sign gently swaying in the wind.  To the
+north, a run-down one story building with pealing paint has the words "Madd
+Frog Gambling House" freshly painted over the other older coats of paint. 
+It looks rather uninviting.  
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 154
+D1
+~
+~
+3 3
+1 0 155
+D2
+~
+~
+0 0
+0 0 156
+D3
+~
+~
+0 0
+0 0 152
+S
+#154
+The Madd Frog Gambling House~
+The common room to the Madd Frog Gambling house looks more like a
+disaster than a room.  The walls are covered with graffiti from all the
+travelers who have frequented the Madd Frog.  Tables and chairs seem to have
+been tossed at random, and make it hard to walk around.  Dicing, cards,
+stones, and any other game or sport you can bet on are being played.  There
+seems to be a large crowd gathered around two men racing large rats along a
+long wooden table.  A short worn-looking bar against the west wall serves to
+happily take the winner's earnings in exchange for ale.  This appears to be
+a more shady establishment...  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 153
+S
+#155
+Common Room of The Red Raven Inn~
+This seems to be a rather well-kept inn considering its location. 
+Various local's sit together in small clumps, laughing and talking amongst
+themselves.  A few soldiers from the Cairhienin Garrison wander in from time
+to time to keep an eye on things and relax after a long day of worrying over
+the Aiel.  The hustle and bustle of the kitchen can be heard from then
+behind the bar to the north.  From time to time, the shattering of a dish or
+the clanking of pots pierces the low roar of the common room.  A spiril
+staircase on the eastern wall leads upstairs, presumably to rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 178
+D3
+~
+~
+3 3
+1 0 153
+D4
+~
+~
+0 0
+0 0 179
+S
+#156
+West Spine Way~
+The stone-paved road continues on north, leading to the west gate, and
+east toward the Town Square.  There appears to be a quite a few people out
+and about today.  A large wooden sign with a goose painted on it hangs in
+front of a closed door, reading "The Goose Tick Tavern".  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 153
+D1
+~
+~
+0 0
+0 0 157
+D3
+~
+~
+3 3
+1 0 188
+S
+#157
+West Spine Way~
+The stone-paved road continues on west, leading to the west gate, and
+east toward the Town Square.  There appears to be a quite a few people out
+and about today, the hawkers and merchants particularly loud.  A large
+wooden sign with a tree painted on it hangs in front of a closed door,
+reading "Three Trees".  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 158
+D2
+~
+~
+3 3
+1 0 189
+D3
+~
+~
+0 0
+0 0 156
+S
+#158
+Town Square~
+The heart of Taien...  Well, not really, but it has a big fountain!  This
+is the center of the village.  The crowd is thickest here, and people mill
+around various shops and stores.  The urchins are out in force as well, and
+they swarm on anyone who shows an interest in their goods.  West Spine Way
+continues east and west, while to the north it appears there is a Cairhienin
+outpost.  
+~
+0
+0 4
+D0
+~
+~
+3 3
+1 0 166
+D1
+~
+~
+0 0
+0 0 159
+D3
+~
+~
+0 0
+0 0 157
+S
+#159
+East Spine Way~
+The crowd from the swuare tends to thin out as you make your way along
+toward the East Gate.  There are still plenty of townsfolk about, but the
+seem more on edge.  Various shops and houses line the street as in wanders
+along further up toward the Spine's peaks.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 160
+D1
+~
+~
+3 3
+1 0 172
+D2
+~
+~
+3 3
+1 0 171
+D3
+~
+~
+0 0
+0 0 158
+S
+#160
+East Spine Road~
+A few hawkers wander the streets, not wanting to brave the competition of
+the Town Swuare.  The traffic of townsfolk is light, and a sweet aroumatic
+smell of flowers drifts on a constant but light breeze.  A few quaint shops
+nearby sell various knick-knacks and other home decorations.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 161
+D1
+~
+~
+1 1
+1 0 177
+D2
+~
+~
+0 0
+0 0 159
+D3
+~
+~
+1 1
+1 0 176
+S
+#161
+East Spine Road~
+The distinct smell of butchering tickles your nose.  The road nearly dead
+ends into "The Brother's Falco Butching and Meats" before it hangs a sharp
+right.  Apparently this particular shop is quite popular.  Further up the
+road, the tall iron East Gate stands, a last defence against the onslaught
+of Aiel warriors.  
+~
+0
+0 4
+D0
+~
+~
+1 1
+1 0 175
+D1
+~
+~
+0 0
+0 0 162
+D2
+~
+~
+0 0
+0 0 160
+S
+#162
+East Spine Road~
+The paved stone path continues along to the east and west.  Up toward the
+east, the large iron gates loom menicingly.  The townsfolk have lessened
+considerabally, and the traffic is sparse.  Looming like a giany skeletor,
+the Spine juts up high into the sky.  
+~
+0
+0 4
+D0
+~
+~
+1 1
+1 0 173
+D1
+~
+~
+0 0
+0 0 163
+D2
+~
+~
+1 1
+1 0 191
+D3
+~
+~
+0 0
+0 0 161
+S
+#163
+A Large Iron Gate~
+This gate is much more fortified than western gate.  Large metal hinges
+have been screwed into the sheer walls of the narrow pass, and hanging from
+them are two very tall metal gates.  The gate guards stand at strategic
+points everywhere, archers and footmen eyeing their surroundings more than
+the passing people.  There is a tension in the air you can almost reach out
+an touch.  
+~
+0
+0 4
+D1
+~
+~
+3 3
+1 0 164
+D3
+~
+~
+0 0
+0 0 162
+S
+#164
+Eastern Pass~
+The Eastern pass cuts into the mountain, high cliffs on either side of
+the path tower high above you.  From here, the path wanders eastward and up
+to the peeks of the Spine before ending somewhere on the other side in the
+Waste.  Back to the east, large iron gates keep the Cairhienin safe from any
+Aiel that may decide to wander this way again, or so it is assumed.  A few
+travelers, merchants mostly, quietly travel both ways.  They all look
+anxious, as if expecting an Aiel to appear at any moment.  
+~
+0
+0 4
+D3
+~
+~
+3 3
+1 0 163
+D7
+~
+~
+0 0
+0 0 46441
+S
+#165
+A Small Sentry House~
+A dimly lit room, this small shack represents the sentry's home while on
+duty.  Light filters in through two small windows, and a small oil lamp
+hangs from the ceiling by an old chain.  A small wooden table with chairs
+makes up the majority of furnishings.  It appears there is a regular amount
+of card playing here to pass the time.  A few swords and axes along with a
+shirt of chainmail hang near the door.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 151
+S
+#166
+Cairhienin Border Outpost~
+This is one of the larger buildings in Taien, but, still small none the
+less.  It appears that this acts as a recruiting center, city jail, and
+outpost for the Cairhienin.  A few cells, a few desks, and some guards fill
+this rather small room.  It is a dingy existence here, but it probably pays
+pretty well.  South, cvommotion of the Twon Swuare can be heard.  North, you
+can see some new recruits practicing and beating the tar out of a few
+practice dummies.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 187
+D2
+~
+~
+3 3
+1 0 158
+S
+#167
+A Large Sized House~
+The house you've just entered is fairly good sized.  The bedrooms appear
+to be sectioned off by heavy flowery curtians for privacy.  Everything is in
+it's place without a speck of dust anywhere.  The walls are lined with small
+paintings of the very same family that is watching you with puzzled looks on
+thier faces.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 152
+S
+#168
+An Abandoned House~
+This house looks almost abandoned except for the too fresh scraps eftover
+in the bowl on a table.  The floor is littered with old untensils, clothes,
+and broken dishes, and looks as if its been looted for anything of value.  A
+muffled snore comes from a pile of rags in the corner, probably a weary
+traveller finding a free roof to sleep under.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 152
+S
+#169
+A Plain Room~
+A bed, a small table and nightstand, two chairs, and a old armior are all
+this room offers in the way of comfort.  A small window overlooks West Spine
+Way, and you can see down its avenue all the way to the western gate.  A
+soft light filters through, illuminating room with a ambient red glow when
+the shades are drawn closed.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 180
+S
+#170
+A Plain Room~
+A bed, a small table and nightstand, two chairs, and a old armior are all
+this room offers in the way of comfort.  A small window affords it's viewer
+a look toward the Town Square and the bustle of the city's inhabitants.  A
+soft light filters through, illuminating room with a ambient red glow when
+the shades are drawn closed.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 180
+S
+#171
+Shop~
+Brightly colored bolts of cloth have been stacked up against the walls in
+this tiny shop.  A long, waist high table rests in the center of the room
+with various tailoring instruments strewn out on top.  A few woven baskets
+lay on the floor, filled with colored threads, steel needles, and thimbles. 
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 159
+S
+#172
+Shop~
+Large pelts of recently deceased animals have been stretched out and
+tacked to large boards which rest against the walls all around the room.  A
+couple of young boys stand at a table in the back of the shop, carefully
+working hides to soften them, and scrape off any pieces of flesh that are
+left on.  Many large barrels fill the center of the room, each filled with
+various things, some salt, others cool or lukewarm water.  Some of the
+barrels even have some of the hides in them, soaking, while an apprentice
+leatherworker uses a large paddle to stir the contents.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 159
+S
+#173
+Blacksmith Shop~
+Hot, humid air fills the large, dim room, and the loud sound of metal
+hitting metal can be heard ringing loudly.  One side of the room is covered
+with neat piles of iron rods, and three large, wooden barrels filled with
+various fluids set in the center of the room.  Two large stone forges have
+been placed at the back of the room, each set up with a bellow.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 162
+S
+#174
+The Stables~
+A multitide of flies can be heard buzzing around in the stables, probably
+drawn to the smell of the inevitable manure that can be found here.  Many
+stables line the walls of this building, most of them housing an animal of
+the four legged variety.  Piles of hay have been raked into the back of the
+building, and various stableboys are busy tending to their duties.  
+~
+0
+BC 2
+S
+#175
+The Brother's Falco Butchering and Meats~
+This little shop is packed with people, all of them pushing and nudging
+as they try and get some of the limited supply of beef and pork in town. 
+Two men who look middle-aged are fevorishly cutting hunks of carcass and
+wrapping it in paper as a steady stream of patrons give coin hand over fist
+to get their needs met.  The whole atmosphere is energetic and on edge, and
+it just seems a fight might break out over who gets the leftover cow
+tongue's.  Off behind the large wooden counter where the brothers work, you
+can hear the sound of animals being butchered from behind a door.
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 161
+S
+#176
+Jewelry Shop~
+Long counters line the walls within this small shop.  Various jewels
+cover the countertops, each shining in the light coming in through a lone
+window in the shop.  A small weasley nosed man stands just inside the shop
+door, rubbing his hands together and bowing as soon as anyone enters, very
+eager to make a sale.  
+~
+0
+D 0
+D1
+~
+~
+1 1
+1 0 160
+S
+#177
+Flower Shop~
+A strong floral scent floats on the air inside this tiny, open air shop. 
+A canvass tent has been set up over head to keep the suns rays off the
+delicate flowers, but lets the air flow through to keep the area cool. 
+Passersby stop to look at the various flowers, some even purchasing a few to
+take home to a loved one or brighten a room.  A young lady stands nearby,
+making an arrangement of tulips in a tall vase, perhaps she'd help you if
+asked nicely.  
+~
+0
+D 0
+D3
+~
+~
+1 1
+1 0 160
+S
+#178
+The Kitchen~
+Hot.  Humid.  Steamy.  This room is nearly impossible to see in.  The
+cool air of the mountains mixes with the hot water and air in this room,
+making a thick white fog.  A number of cooks scamper around with pots, pans,
+knifes, and other cutlery, all trying to do ten jobs at once.  One
+particularly large woman, looking more like a bear wrestler than a chef,
+barks orders like a Drill Sergeant.  Eye eyes you with a fierce expression
+and hollers "Get out of my kitchen!"  Better get hopping, or you may be the
+next one scrubbing pots in this dungeon.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 155
+S
+#179
+A Dim Stairwell~
+The second floor of the Red Raven is lit by a spare few oil lamps.  The
+halls are dim and shadowy, and you can make out a few rooms in either
+direction.  It is rather quiet up here, and the ruckus of the common room
+drifts lazily up the stairs, breaking the silence.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 181
+D1
+~
+~
+3 3
+1 0 185
+D2
+~
+~
+0 0
+0 0 180
+D3
+~
+~
+3 3
+1 0 184
+D5
+~
+~
+0 0
+0 0 155
+S
+#180
+A Dim Hallway~
+The faint sound of laughter can be heard drifting up from the stairs
+north of here.  The hallway is rather dark, and a lone lamp hangs twisting
+slightly in an unfelt air current.  The sound of voices and giggling can be
+heard behind one of the room's doors.  Better not interrupt.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 179
+D1
+~
+~
+3 3
+1 0 170
+D3
+~
+~
+3 3
+1 0 169
+S
+#181
+A Dim Hallway~
+The faint sound of laughter can be heard drifting up from the stairs
+south of here.  The hallway is rather dark, and a lone lamp hangs twisting
+slightly in an unfelt air current.  The sound of voices and giggling can be
+heard behind one of the room's doors.  Better not interrupt.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 183
+D2
+~
+~
+0 0
+0 0 179
+D3
+~
+~
+3 3
+1 0 182
+S
+#182
+A Plain Room~
+A bed, a small table and nightstand, two chairs, and a old armior are all
+this room offers in the way of comfort.  A small window overlooks West Spine
+Way, and you can see down its avenue all the way to the western gate.  A
+soft light filters through, illuminating room with a ambient red glow when
+the shades are drawn closed.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 181
+S
+#183
+A Plain Room~
+A bed, a small table and nightstand, two chairs, and a old armior are all
+this room offers in the way of comfort.  A small window affords it's viewer
+a look toward the Town Square and the bustle of the city's inhabitants.  A
+soft light filters through, illuminating room with a ambient red glow when
+the shades are drawn closed.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 181
+S
+#184
+A Plain Room~
+A bed, a small table and nightstand, two chairs, and a old armior are all
+this room offers in the way of comfort.  A small window overlooks West Spine
+Way, and you can see down its avenue all the way to the western gate.  A
+soft light filters through, illuminating room with a ambient red glow when
+the shades are drawn closed.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 179
+S
+#185
+A Plain Room~
+A bed, a small table and nightstand, two chairs, and a old armior are all
+this room offers in the way of comfort.  A small window affords it's viewer
+a look toward the Town Square and the bustle of the city's inhabitants.  A
+soft light filters through, illuminating room with a ambient red glow when
+the shades are drawn closed.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 179
+S
+#186
+Eastern Pass~
+You're approach toward Taien is a scenic.  Behind you, and much further
+down the mountains, the lush green of Cairhienin and the budding evergreens
+along the mountain'ss foothills make for a beautiful view.  The Eastern pass
+winds its way further up the Spine, and you can make out a large gate up
+ahead.  The view beyond is perhapse more daunting.  The wind-swept
+snow-covered summits jut up like pointy bone, and give the road ahead an
+uncomfortable feel.  Living up this high in the mountains must be difficult.
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 150
+D9
+~
+~
+0 0
+0 0 46441
+S
+#187
+A Small Practice Yard~
+Sparse on weapons and armor, this is just what its says it is: a -small-
+practice yard.  A few practice dummies stuffed with straw look like they are
+past due for replacement.  Apparently, this is also a place for the local
+garrison to hang out and talk.  Perhapse the thought of Aiel keep them away
+from their duties?  
+~
+0
+0 4
+D2
+~
+~
+1 1
+1 0 166
+S
+#188
+The Goose Tick Tavern~
+A large bar surrounds the entire perimeter of this building's one inside
+room.  A whole staff of serving girls and bartenders feed an endless stream
+of patrons who sit at the many barstools.  A large sign reading "Goose Tick
+Ale" hangs over a doorway where barrels of ale are constantly being brough
+out to replentish the empty casks at various stations around the bar. 
+Apparently, the Goose Tick brews it's own ale, and is boasted as 'the finest
+ale this side of the Spine' by quite a many staff and patrons alike.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 190
+D1
+~
+~
+3 3
+1 0 156
+S
+#189
+The Three Trees Pub~
+This is a particularly unique tavern.  Large and spacious, its common
+room can hold a significant number of people.  There is a band playing some
+local folk music, and a number of patrons are singing and dancing along
+happily.  The most unique feature is that in the center of the common room
+three large tree trunks come up out of the floor and through the ceiling. 
+Its almost as if this place was build around them.  How bizzare.  A pretty
+face winks at you as a long chain of dancers snakes through the common room.
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 157
+S
+#190
+The Brewing Room~
+This room has the distinct smell barley and hops, so much so that it is
+nearly overpowering.  Long rows of wooden casks line the walls, each with a
+marking on them to show the aging and fermentation process.  In the center
+of this large room is a complex ballet of work happening: Stirring,
+grinding, barrels being emptied and filled.  It looks like this is the very
+heart of the Goose Tick's brewing.  Maybe you can steal their recipe!  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 188
+S
+#191
+The Stables~
+A multitide of flies can be heard buzzing around in the stables, probably
+drawn to the smell of the inevitable manure that can be found here.  Many
+stables line the walls of this building, most of them housing an animal of
+the four legged variety.  Piles of hay have been raked into the back of the
+building, and various stableboys are busy tending to their duties.  
+~
+0
+DM 0
+D0
+~
+~
+1 1
+1 0 162
+S
+#192
+PETSHOP~
+~
+0
+BCD 0
+S
+#199
+~
+~
+0
+BC 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 151 0 1
+D 0 152 0 1
+D 0 152 2 1
+D 0 153 0 1
+D 0 153 1 1
+D 0 154 2 1
+D 0 155 3 1
+D 0 156 3 1
+D 0 157 2 1
+D 0 158 0 1
+D 0 159 1 1
+D 0 159 2 1
+D 0 163 1 1
+D 0 164 3 1
+D 0 165 2 1
+D 0 166 2 1
+D 0 167 2 1
+D 0 168 0 1
+D 0 169 1 1
+D 0 170 3 1
+D 0 171 0 1
+D 0 172 3 1
+D 0 179 1 1
+D 0 179 3 1
+D 0 180 1 1
+D 0 180 3 1
+D 0 181 1 1
+D 0 181 3 1
+D 0 182 1 1
+D 0 183 3 1
+D 0 184 1 1
+D 0 185 3 1
+D 0 188 1 1
+D 0 189 0 1
+M 0 199 10 150 2
+M 0 199 10 150 2
+M 0 150 5 151 5
+M 0 199 10 152 2
+M 0 199 10 152 2
+M 0 195 10 152 3
+M 0 195 10 152 3
+M 0 195 10 152 3
+M 0 160 10 153 2
+M 0 158 10 154 5
+M 0 157 10 154 5
+M 0 156 1 154 1
+G 0 154 0
+G 0 155 0
+M 0 161 10 155 5
+M 0 162 10 155 5
+M 0 159 1 155 1
+G 0 157 0
+G 0 158 0
+M 0 199 10 156 2
+M 0 199 10 156 2
+M 0 197 1 156 1
+M 0 194 10 157 2
+O 0 183 0 158
+M 0 193 10 158 2
+M 0 175 15 158 2
+M 0 199 10 160 2
+M 0 199 10 160 2
+M 0 192 10 160 3
+M 0 188 10 160 3
+M 0 199 10 163 2
+M 0 199 10 163 2
+O 0 150 0 165
+P 0 151 1 150 1
+M 0 176 10 166 5
+M 0 152 5 167 1
+M 0 153 5 167 1
+M 0 154 5 167 2
+M 0 155 1 168 1
+E 0 153 0 10
+E 0 152 0 15
+O 0 156 0 169
+O 0 156 0 170
+O 0 165 0 171
+P 0 166 1 165 1
+P 0 168 1 165 1
+P 0 167 1 165 1
+M 0 181 1 171 1
+G 0 169 0
+G 0 171 0
+M 0 182 1 172 1
+G 0 174 0
+G 0 173 0
+G 0 172 0
+M 0 183 10 173 5
+M 0 184 1 173 1
+G 0 175 0
+G 0 176 0
+G 0 177 0
+G 0 178 0
+M 0 190 10 175 5
+E 0 179 0 20
+M 0 189 1 175 1
+G 0 180 0
+G 0 181 0
+G 0 182 0
+M 0 180 1 176 1
+G 0 162 0
+G 0 163 0
+G 0 164 0
+M 0 179 1 177 1
+G 0 159 0
+G 0 160 0
+G 0 161 0
+M 0 164 10 178 5
+M 0 163 1 178 1
+O 0 156 0 182
+M 0 166 1 182 1
+M 0 165 1 182 1
+O 0 156 0 183
+M 0 196 1 183 1
+E 0 184 0 20
+E 0 185 0 9
+E 0 186 0 7
+E 0 187 0 10
+E 0 188 0 5
+E 0 189 0 16
+O 0 156 0 184
+O 0 156 0 185
+M 0 178 1 187 1
+M 0 177 5 187 5
+M 0 170 10 188 5
+M 0 168 10 188 5
+M 0 167 1 188 1
+G 0 190 0
+G 0 191 0
+G 0 192 0
+M 0 173 1 189 1
+M 0 172 5 189 3
+M 0 171 5 189 2
+M 0 169 10 190 5
+M 0 186 1 191 1
+M 0 187 1 192 1
+M 0 185 1 192 1
+S
+
+
+
+#SHOPS
+156 0 0 0 0 0 100 100 0 23
+159 0 0 0 0 0 100 100 0 23
+163 0 0 0 0 0 100 100 0 23
+167 0 0 0 0 0 100 100 0 23
+179 0 0 0 0 0 100 100 0 23
+180 0 0 0 0 0 100 100 0 23
+181 0 0 0 0 0 100 100 0 23
+182 0 0 0 0 0 100 100 0 23
+184 0 0 0 0 0 100 100 0 23
+189 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,5 @@
+AuthType basic
+AuthName user_id
+AuthUserFile /home/tsw/.htpasswd
+require valid-user
+

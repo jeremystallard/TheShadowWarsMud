@@ -1,0 +1,3802 @@
+#AREADATA
+Name Immortal~
+Builders Zandor Kitiara Uroshnor~
+VNUMs 9900 9999
+Credits {{All} Immortal Immortal Rooms~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#9900
+turkey~
+a {yplump{x, {Wsquacking{x turkey~
+A {yplump{x, {Wsquacking{x turkey is here, trying to fly away.
+~
+~
+water fowl~
+AB 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 peck
+0 0 0 0 0
+0
+0 0 0 0
+I 0 0 0
+stand stand male 0
+0 0 small 'none'
+F aff b
+F res R
+F for AGW
+F par ACDEFHKP
+#9901
+aiel warrior~
+an Aiel warrior~
+An Aiel warrior crouches here, ready to attack.
+~
+~
+aiel~
+A 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#9902
+aiel warrior~
+an Aiel warrior~
+An Aiel warrior crouches here, ready to attack.
+~
+~
+aiel~
+AT 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+0
+5 5 5 5
+FI 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#9903
+aiel maiden~
+an Aiel Maiden~
+An Aiel Maiden stands here with her spears at the ready.
+~
+~
+aiel~
+AT 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 stab
+0 0 0 0 0
+0
+4 4 4 4
+W 0 0 0
+stand stand female 200
+0 0 large 'flesh'
+#9904
+aile seia doon~
+a Seia Doon~
+A Seia Doon stands here, at the ready.
+~
+~
+aiel~
+AT 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+0
+5 5 5 5
+KN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#9905
+Canadian canada wild man woman~
+a wild {RC{ra{Wn{Ra{rd{Wi{Ra{rn{x~
+A wild {RC{ra{Wn{Ra{rd{Wi{Ra{rn{x
+~
+~
+saldaean~
+A 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+B ILMNPQRac ES GHJKO
+stand stand male 0
+EJc 0 medium 'flesh'
+#9906
+aiel shaeen mtaal shae'en m'taal~
+a Shae'en M'taal~
+An Shae'en M'taal holds his spear and buckler in readiness.
+~
+~
+aiel~
+AT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+0
+7 7 7 7
+HJ 0 0 0
+stand stand male 150
+0 0 medium 'flesh'
+#9907
+aiel chieftain~
+An Aiel chieftain~
+An Aiel chieftain stands here in his cadin'sor
+~
+~
+aiel~
+A 0 0 0
+250 105 58d58+13225 115d10+100 12d17+57 none
+0 0 0 0 0
+0
+8 8 8 8
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#9908
+president man~
+George W. {WBush{x Jr.~
+George W. {WBush{x Jr. is here.
+~
+~
+andoran~
+A 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+0
+5 5 5 5
+0 0 0 0
+stand stand male 50000
+0 0 medium 'flesh'
+#9909
+scoobie doo~
+{ySc{Doo{ybie D{Doo{x~
+{ySc{Doo{ybie D{Doo{x sits here, wagging his tail.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+GV ACDEFHJKQ medium 'tongue'
+M 'GREET' 9909 100~
+#9910
+witch quest~
+none~
+None
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 BKc BHK 0
+stand stand male 2000
+0 0 medium 'flesh'
+#9911
+serving wench playboybunny woman voluptuous~
+A voluptuous woman~
+A {Mvol{Ruptu{Mous{x woman wearing a {Wsheer{x, low-cut, short dress.
+~
+A small feminine hands reaches out and slaps you. "{MWhat are you looking at Perv{x"
+ 
+The lady then turns around and walks away to service the other guests.
+~
+unique~
+ABD BDFHIJ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+A
+6 6 6 6
+FGKW ABac 0 0
+stand stand female 1000
+0 0 medium 'stuffing'
+M 'SPEECH' 31001 food~
+M 'SPEECH' 9911 service~
+M 'SPEECH' 9910 Hello~
+M 'SPEECH' 9910 hello~
+M 'SPEECH' 9923 drink~
+#9912
+clone blonde man~
+a cloned {bD{Ba{Wri{Be{bn{x~
+{bD{Ba{Wri{Be{bn{x, A tall blonde man, wanders blindly around the world.
+~
+~
+unique~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 200
+0 0 medium 'DNA'
+#9913
+spider~
+a {Ds{wi{Wlv{we{Dry sp{ri{Dd{re{Dr{x~
+A {Ds{wi{Wlv{we{Dry sp{ri{Dd{re{Dr{x with a {rr{Re{rd d{Ro{rt{x on its back.
+~
+~
+unique~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 400
+0 0 tiny 'none'
+#9914
+white rabbit~
+a {Wwhite{x rabbit~
+A {Wwhite{x rabbit dressed in a {gw{Gai{gstc{Goa{gt{x rushes by.
+~
+~
+rabbit~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 Bc 0 0
+stand stand male 5000
+0 0 small 'fur'
+M 'GIVE' 9915 9937~
+M 'GREET' 9914 50~
+M 'SPEECH' 9918 hole~
+M 'GIVE' 9919 9953~
+M 'GIVE' 9919 9954~
+M 'GIVE' 9919 9955~
+M 'GIVE' 9919 9956~
+#9915
+none~
+none~
+None
+~
+~
+domani~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand none 5000
+0 0 medium 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9916
+hidden mob~
+none~
+A hidden mob.
+~
+~
+cat~
+A BGJ 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 KZ 0 0
+stand stand none 4000
+0 0 large 'stuffing'
+F aff Z
+F off FH
+F for AGV
+F par ACDEFHJKQUV
+M 'ACT' 9917 eat~
+M 'GREET' 9916 100~
+#9917
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand none 2000
+0 0 medium 'stuffing'
+#9918
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+FKN 0 0 0
+stand stand none 2000
+0 0 medium 'love'
+#9920
+Jiggy ferret~
+a {rm{Rea{rn{x mess of {Wteeth{x~
+A {ym{Yang{yy{x but lithe old {Df{we{Wrr{we{Dt{x lurks around here.
+~
+Calling this wretched old creature ugly would be an insult to the ugly
+people.  If a trolloc was ferret-headed, this is the head it'd have.  Large
+menacing {rfangs{x constantly drip a little with {Cslobber{x.  
+
+The beast prowls around on it's four feet, sometimes stopping to scratch at
+one of the many {rs{Rcab{rs{x it constantly sports from it's constant warring with
+neighbouring ferrets.  
+~
+unique~
+AIZ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+40 40 40 0
+BEFGHIKMNOVW BCEGJMOQRTZ 0 0
+stand stand male 0
+V GH small 'flesh'
+#9921
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#9923
+hellhound Athena hound Darkhound dog~
+A huge rabid dog~
+A {Dhuge{x and {Devil{x looking {Dhound{x stands here growling at you.
+~
+Standing a few hands taller than any regular dog or wolf, this solid
+black hound has an evil look in his eyes.  His fur is matted with dried
+blood and dirt from a recent fight.  As it opens it mouth to growl at you,
+the saliva has a slightly green tint to it.  You may want to run instead of
+fight.  
+~
+wolf~
+AST DFHJMVXc 0 0
+110 101 101d10+20000 101d10+10000 12d12+100 bite
+0 0 0 0 0
+A
+-70 -70 -70 -70
+AGKV Babc 0 0
+stand stand none 300
+0 0 huge 'unknown'
+F aff Z
+#9927
+tiny squirrel~
+a tiny {rsq{wu{Wir{wr{rel{x~
+A tiny {rsq{wu{Wir{wr{rel{x carries a nut in his mouth.
+~
+~
+unique~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+FHM 0 0 0
+stand stand either 0
+0 0 tiny 'flesh'
+#9930
+none~
+none~
+None
+~
+~
+mayener~
+A 0 1000 0
+0 0 1d2+0 0d10+100 1d1+0 slap
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9931
+none~
+none~
+None
+~
+~
+trolloc~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 beating
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 50000
+0 0 medium 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9932
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 drain
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'none'
+#9935
+lorge tiger~
+an abnormally large {DT{x{ri{x{Dg{x{re{x{Dr{x~
+An abnormally large {DT{x{ri{x{Dg{x{re{x{Dr{x follows and protects his {DMistress{x.
+~
+The {Dt{x{ri{x{Dg{x{re{x{Dr{x is about the size of a small horse, large enough for riding but
+still compact enough to not be seen when hunting.  Fierce {ggreen{x eyes watch
+everything, often the only part of him moving when sitting still.  When he
+yawns long {Wwhite{x teeth gleam brightly and when stretching his large {Wclaws{x
+extend from his enormous paws.  About his neck is a {Dblack{x collar, hanging
+from it is a tag reading "Cirawen".  
+~
+cat~
+ABIZ J 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 BEH FI
+stand stand male 0
+HZ GIPX large 'fur and muscle'
+F aff Z
+#9937
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#9941
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand none 500
+0 0 medium 'unknown'
+#9942
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand none 500
+0 0 medium 'unknown'
+#9943
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 digestion
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 giant 'none'
+#9944
+Leprechaun~
+an angry legrechaun~
+A very {Ra{rn{Rg{rr{Ry{x {Gle{gpr{Gec{gha{Gun{x is trying to get away from you
+~
+~
+unique~
+AHT DFJPQVc 0 0
+91 81 46d46+8281 91d10+100 10d11+45 pierce
+0 0 0 0 0
+A
+-30 -30 -30 -30
+FGHN Bc 0 0
+stand stand male 500
+0 0 medium 'unknown'
+F gain E
+#9945
+none~
+none~
+None
+~
+~
+unique~
+A HV 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+CFKNO 0 0 0
+stand stand none 500
+0 0 medium 'unknown'
+#9946
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 500
+0 0 medium 'unknown'
+#9947
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand male 4000
+0 0 medium 'flesh'
+#9948
+none~
+none~
+None
+~
+~
+seanchan~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+EFGHIJK 0 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#9949
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#9957
+none~
+none~
+None
+~
+~
+unique~
+ABRT 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 wrath
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 N
+stand stand none 0
+E 0 medium 'cloth'
+#9960
+none~
+none~
+None
+~
+~
+andoran~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 wrath
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 huge 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9961
+none~
+none~
+None
+~
+~
+andoran~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9964
+none~
+none~
+None
+~
+~
+dog~
+A 0 1000 1
+0 0 1d2+0 0d10+100 1d1+0 divine
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'none'
+F off H
+F for AGV
+F par ACDEFHJKUV
+#9969
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+G 0 medium 'unknown'
+#9970
+none~
+none~
+None
+~
+~
+andoran~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 wrath
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9980
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 punch
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'none'
+#9987
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 drain
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#9990
+none~
+none~
+None
+~
+~
+wolf~
+A J 0 0
+0 0 1d2+0 0d10+100 1d1+0 divine
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'noen'
+F aff Z
+F off FH
+F for AGV
+F par ACDEFJKQV
+#9993
+none~
+none~
+None
+~
+~
+andoran~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 beating
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'none'
+F for AHMV
+F par ABCDEFGHIJK
+#9997
+mob al'mitsudijaru'da'halkan'fahdi~
+{ral'Mitsudijaru'da'halkan'fahdi{w~
+{ral'Mitsudijaru'da'halkan'fahdi{c floats around on his {Wc{wl{Wo{wu{Wd{w
+~
+~
+unique~
+ABQRST BHJ 0 0
+0 100 100d100+12000 1000d100+12000 100d100+1000 none
+0 0 0 0 0
+0
+-1000 -1000 -1000 -1000
+CDEFHIJKLN ABCDEFGHIJKLMNOPQRTXYZ LQ R
+sit sit male 1000000
+0 0 small 'skin'
+#9998
+pet ange~
+Ange~
+Ange stands here with Verry in her arms, hes to lazy to walk.
+~
+~
+mayener~
+AIZ 0 0 0
+100 0 20d1+0 0d0+0 0d0+0 punch
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#9999
+laren girl aiel beautiful~
+Laren~
+A beautiful aiel girl named Laren stands before you.
+~
+~
+aiel~
+ABIRc P 0 0
+100 0 50d30+22600 1d12000+0 10d10+99 slap
+0 0 0 0 0
+0
+-9 -9 -9 -9
+BCEFIJKR 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#9900
+black cloak~
+{Da high-collared black cloak{x~
+{DA high-collared black cloak.{x~
+cloth~
+armor 0 AK
+10000 10000 10000 10000 16
+100 0 0 100
+A
+26 8000
+A
+27 8000
+A
+28 8000
+A
+29 8000
+A
+30 8000
+A
+18 999
+A
+19 999
+#9901
+over stuffed leather chair~
+A large, black leather overstuffed chair~
+A black leather overstuffed chair is here~
+leather~
+furniture Ob 0
+2 0 BEHK 50 50
+0 0 0 100
+#9902
+Halos halo~
+the {yg{Yol{yd {wp{Wolis{wh{x on {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x's {ys{Yurfac{ye{x~
+never you mind~
+Love~
+armor HYb AE
+10000 10000 10000 10000 50
+96 0 0 100
+A
+28 8000
+A
+29 8000
+A
+27 8000
+A
+30 8000
+A
+26 8000
+A
+26 8000
+A
+18 999
+A
+19 999
+A
+17 -31072
+#9903
+Lilith quest token~
+a {mL{Mi{Dli{mth {mQ{Mu{me{Ms{mt {mT{Mo{Dk{Me{mn{x~
+An {men{Mt{Dic{Mi{mng {ms{Mce{mn{Mt{x fills the air, {Mdra{mwing{x you towards it, asking you to {mposs{Mess{x it.~
+{ml{Mib{mi{Md{mo{x~
+token HMOYb AP
+0 0 0 0 0
+0 7 777 100
+#9904
+angenue quest token~
+an {bAn{Bgen{bue{x {Wquest token{x~
+A small {Dp{we{Wwt{we{Dr{x {Dcoin{x lies here on the ground. The side facing up has a handpainted figure of a woman dressed in {bb{Blu{be{x with long, {yb{Ylond{ye{x hair. It looks quite valuable.~
+metal~
+treasure HOb AOP
+0 0 0 0 0
+0 0 0 100
+#9905
+a zandor token~
+a {RZa{rnd{Ror{x token~
+a {RZa{rnd{Ror{x token~
+cloth~
+token b AO
+0 0 0 0 0
+1 1 1 100
+#9906
+pile treasure~
+a massive pile of {Ytr{ye{ba{Bs{Gu{Rr{re{x~
+A massive pile of {Ytr{ye{ba{Bs{Gu{Rr{re{x fills the cavern.~
+wood~
+container FOabd AP
+10000000 ABCD 9794 10000000 0
+0 10000 0 100
+#9907
+incense~
+Some fragrant incense, smelling strongly of {YFr{yan{Yki{ync{Yen{yse{x.~
+Some fragrant incense, smelling strongly of {YFr{yan{Yki{ync{Yen{yse{x lies here forgotten.~
+cloth~
+treasure AHb A
+A 0 0 CFG CFG
+0 0 0 100
+#9908
+censer~
+a simple {ygo{Yld{yen{x censer, suspended on chains~
+a simple {ygo{Yld{yen{x censer, with it's chains tangled together~
+metal~
+treasure AHb AO
+0 0 0 0 0
+1 0 0 100
+#9909
+crystal bell~
+a {Wpristine crystal{x bell~
+a {Wpristine crystal{x bell, lies here but isn't broken~
+crystal~
+treasure AHb AO
+0 0 0 0 0
+1 0 0 100
+#9910
+black cauldron~
+a three legged {Dblack{x cauldron~
+a three legged {Dblack{x cauldron, sits on the ground bubbling with something~
+cloth~
+treasure AHb A
+0 0 0 0 0
+1 0 0 100
+#9911
+coin chip token sc~
+A small {Dbe{Wtti{Dng{x {Rch{mip{x~
+A coin with {RS{x'&'{mC{x engraved on one side and a {Yna{Wk{yed{x lady on the other~
+Gold~
+token CEGHSb AO
+0 0 ABCFGHIJ 0 0
+1 0 1000 100
+#9912
+crystal~
+a focus {Wcrystal{x~
+a shiny {Wcrystal{x lies forgotten in the grass~
+crystal~
+treasure AHb AO
+BDEG ABEFH ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef
+1 0 0 100
+#9913
+chalice cup silver~
+a {Ds{Wi{Dl{Wv{De{Wr{x chalice, engraved with a {rd{Rr{rag{Ro{rn{x~
+a {Ds{Wi{Dl{Wv{De{Wr{x chalice, with a {rr{Re{rd{x engraving upon it~
+metal~
+treasure AHb AO
+0 ACDG ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef
+90 0 0 100
+#9914
+athame dagger~
+a {Dblack{x-handled knife, with symbols engraved on the blade~
+a {Dblack{x-handled knife, lays here forgotten~
+metal~
+treasure AHb AO
+C C 0 A 0
+1 0 0 100
+#9915
+besom broom~
+a {yb{Yeso{ym{x with {ybirch{x brush bristles~
+a {yb{Yeso{ym{x with {ybirch{x brush bristles, stands in the corner awaiting to be used.~
+wood~
+treasure AHb AO
+C C 0 0 0
+0 0 0 100
+#9916
+steel slim lance questitem~
+a slim, {Dst{ree{Dl{w-{Dt{ri{Dpp{re{Dd{x~
+A slim, {Dst{ree{Dl{w-{Dt{ri{Dpp{re{Dd{x lance has been set here.~
+iron~
+weapon b AN
+lance 10 15 'none' 0
+90 5 2500 100
+A
+19 10
+A
+18 10
+#9917
+mint iced cream~
+a heaping dish of lightly {cm{Gi{cnt{x flavored iced {Wcream{x~
+A heaping dish of lightly {cm{Gi{cnt{x flavored iced {Wcream{x.~
+cream~
+food 0 A
+3 3 0 0 0
+1 1 30 100
+#9918
+crepe strawberry strawberries~
+thin {yc{Yr{We{Yp{ye{x filled with fresh {rstr{Ra{rwb{Rer{Wr{Rie{rs{x and dusted with {Wpowdered{x sugar~
+A thin {yc{Yr{We{Yp{ye{x filled with fresh {rstr{Ra{rwb{Rer{Wr{Rie{rs{x and dusted with {Wpowdered{x sugar.~
+cloth~
+food 0 A
+2 2 0 0 0
+0 1 25 100
+#9919
+goblet~
+a wide-mouthed {mw{ri{mne{x goblet made of pure {Ws{wi{Dlv{we{Wr{x~
+A wide-mouthed {mw{ri{mne{x goblet made of pure {Ws{wi{Dlv{we{Wr{x.~
+silver~
+drink c AO
+5 5 'water' 0 0
+1 1 75 100
+#9920
+Pooh Token Quest~
+{YP{yoo{Yh{x {YQuest{x {RT{ro{Rk{re{Rn{x~
+A {yj{Ya{yr{x of {Yhoney{x~
+{WLife{x~
+token HOYb AE
+A 0 EH EGHIJK EGHIJK
+0 0 0 100
+#9921
+desk solid stone table~
+the smooth, {Wfossil{x-{Wm{wa{Drbl{we{Wd{x surface of the {Dd{wes{Dk{x~
+A solid {Dst{wo{Dne{x desk, seemingly cut from a single block.~
+stone~
+furniture 0 0
+10000 0 0 10000 10000
+95 100 0 100
+#9922
+fade blade sword poison~
+a {Dle{wth{Dal bl{wa{Wde{x of {Dblack m{we{Dt{wa{Dl{x~
+A {Dle{wth{Dal bl{wa{Wde{x of {Dblack m{we{Dt{wa{Dl{x should not be lying here.~
+wood~
+weapon MYbc AN
+sword 15 18 'pierce' DH
+90 4 1000000 100
+A
+1 15
+A
+19 50
+A
+18 50
+#9923
+dog collar~
+A {Ds{Wp{Dik{We{Dd{x dog collar~
+A {Ds{Wp{Dik{We{Dd{x dog collar has a small name tag on it.  You should return it to its owner.~
+leather~
+treasure ESZb AC
+BDEG ABCDG ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef
+10 0 0 100
+E
+tag~
+This collar belong to Uroshnor's little puppy.  If you find it, please
+return it to him.  
+~
+#9924
+dagger curved sapphire~
+a {bs{Bap{Wphi{Bre{bs{x bejeweled {Dd{wa{Wgg{we{Dr{x~
+A curved {Dd{wa{Wgg{we{Dr{x with {bs{Bap{Wphi{Bre{bs{x embedded in the hilt has been left here.~
+steel~
+weapon Hbc AN
+dagger 10 15 'none' D
+90 1 1000 100
+A
+19 4
+#9925
+toadstool~
+a {Cfl{Wuf{Cfy {mt{Moa{Wdst{Moo{ml{x~
+A large, almost {Cfl{Wuf{Cfy {mt{Moa{Wdst{Moo{ml{x rests amongst the {ytr{gee{ys{x.~
+softness~
+furniture G 0
+2 50000 EHK 500 500
+1 0 0 100
+#9926
+silver handled dagger~
+{Da {Wsi{Dl{Wver {Dha{Wndl{De{Wd {Ddagger{x~
+{DA {Wsi{Dl{Wver {Dha{Wndl{De{Wd {Ddagger with an {gem{Gera{gld{D set in the {Whi{Dl{Wt{x.~
+steal~
+weapon 0 AN
+dagger 10 15 'none' 0
+90 1 0 100
+A
+19 4
+#9927
+small hard shelled nut~
+a hard-shelled {yn{Du{yt{x~
+A small, hard-shelled {yn{Du{yt{x has been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+1 0 0 100
+#9928
+slim mace flames~
+a slim {Dm{wa{Dce{x, wreathed in blue {bf{Bla{Wm{Be{bs{x~
+A slim {Dm{wa{Dce{x, wreathed in blue {bf{Bla{Wm{Be{bs{x has been left here.~
+cloth~
+weapon Yc AN
+mace 10 15 'none' 0
+90 1 250 100
+A
+19 4
+E
+mace~
+Crafted from shinining {Wwh{wi{Wte{D-{Yg{Wo{Yld{x metal, this mace is utterly flawless. 
+Sprouting from the heavy sphere at the top, are wicked looking {Ds{wp{Wik{we{Ds{x, the
+edges of which appear to be sharpened dilligently.  Wrapped in soft blue
+{Bl{Wea{Bth{We{Br{x, the handle of this mace also bears a loop for the wearer to slip
+their hand through.  Bathed, this mace erupts in lurid blue {bf{Bl{Wam{Be{bs{x - a
+symbol of the wielder's ire.  
+~
+#9929
+bottle amadician white wine~
+a {cc{Chi{Wl{Cle{cd{x bottle of Amadician {Wwhite{x~
+A {cc{Chi{Wl{Cle{cd{x bottle of Amadician {Wwhite{x in a {Ws{wi{Dlv{we{Wr {Durn{x.~
+wine~
+food 0 AO
+50 50 0 0 0
+1 2 250 100
+#9930
+platinum quest token~
+a {Wplatinum{x embossed {cI{Cmm{Wor{Cta{cl {YQ{Wue{Yst {yT{Yo{Wk{Ye{yn{x~
+A {Wplatinum{x embossed {cI{Cmm{Wor{Cta{cl {YQ{Wue{Yst {yT{Yo{Wk{Ye{yn{x worth 100 normal tokens~
+platinum~
+treasure 0 A
+BDEG ADEF ADEF ADEF ADEF
+1 0 0 100
+#9931
+purple quest token~
+a {Dp{mu{Mrp{ml{De{x {cI{Cmm{Wor{Cta{cl {YQ{Wue{Yst {yT{Yo{Wk{Ye{yn{x~
+A {Dp{mu{Mrp{ml{De{x {cI{Cmm{Wor{Cta{cl {YQ{Wue{Yst {yT{Yo{Wk{Ye{yn{x worth 50 normal tokens~
+sugar~
+treasure 0 A
+CE CE 0 0 0
+1 0 0 100
+#9932
+trampoline~
+a large {Dtr{ra{Dmp{ro{Dl{ri{Dne{x~
+A large {Dtr{ra{Dmp{ro{Dl{ri{Dne{x rests in the center of the room.~
+elastic~
+furniture 0 A
+10 999999 BEHK 150 150
+1 0 0 100
+#9933
+gold token~
+a {Yg{Wo{Yld{x embossed {cI{Cmm{Wor{Cta{cl {YQ{Wue{Yst {yT{Yo{Wk{Ye{yn{x~
+A {Yg{Wo{Yld{x embossed {cI{Cmm{Wor{Cta{cl {YQ{Wue{Yst {yT{Yo{Wk{Ye{yn{x worth 10 normal tokens.~
+gold~
+treasure Ybc A
+0 0 0 0 0
+1 0 0 100
+#9934
+scrumptious piece chocolate~
+a {Dsc{rru{Rmpt{rio{Dus{x piece of chocolate~
+A {Dsc{rru{Rmpt{rio{Dus{x piece of chocolate in the shape of {mK{Di{wt{Wi{wa{Dr{ma{x.~
+chocolate~
+food 0 A
+75 75 0 0 0
+0 0 0 100
+#9935
+spider web token~
+a {Dsp{ri{Dd{re{Dr {Ww{De{Wb {Ct{co{Dk{ce{Cn{x~
+A shiny {Ds{wi{Wlv{we{Dr {Ct{co{Dk{ce{Cn{x with the appearance of a {Dsp{ri{Dd{re{Dr {Ww{De{Wb{x.~
+spider web~
+token 0 A
+CE CE 0 0 0
+0 0 0 100
+#9936
+head~
+{bD{Ba{Wri{Be{bn{x's head~
+{bD{Ba{Wri{Be{bn{x's head lays here, {yg{Yo{Wld{Ye{yn{x eyes staring blankly at you.~
+flesh~
+treasure 0 A
+0 0 0 0 0
+1 0 0 100
+#9937
+gold watch chain~
+a {yg{Yo{yld{x watch dangling on a long {yg{Yo{Wld{Ye{yn{x chain~
+A {yg{Yo{yld{x watch dangling on a long {yg{Yo{Wld{Ye{yn{x chain has been left here.~
+gold~
+treasure 0 A
+0 0 0 0 0
+0 0 5000 100
+#9938
+parchment invitation~
+a {mb{Mir{Wth{Mda{my{x invitation~
+Light {ml{Mav{Wen{Mda{mr{x parchment covered with {mp{Mu{mrple{x and {Ds{wi{Wlv{we{Dr{x butterflies.~
+wood~
+key 0 AO
+BDEG ABEFH DEF ABCDG ACDG
+0 1 100 100
+#9939
+dimensional back~
+{mL{Mi{Dli{mth{M'{ms {Wd{wi{Wmens{wi{Wonal {mpoc{Mket{x~
+An open {Dh{Wo{Dle{x, glowing {mlav{Mender{x is here, floating in the air.~
+{mc{Mo{Dsm{Mo{ms{x~
+container Hb APS
+100000 I 0 100000 0
+0 777 777 100
+#9940
+SWCL ID tag~
+A {DS{rW{WCL{D c{wo{Wmbata{wn{Dt{x ID tag.~
+This item will function as a quest token AFTER all bouts are fought, do not lose it!~
+{rL{Righ{rt{x~
+token Hb AC
+0 0 0 0 0
+90 1 0 100
+#9941
+Zytka Token~
+A {BZ{cy{Ct{ck{Ba{x {CQ{cu{Be{cs{Ct{x {BT{co{bk{ce{Bn{x~
+A {Bb{cl{Cu{Be{x rose.~
+stone~
+token HYb AO
+0 0 0 0 0
+0 0 0 100
+#9942
+pillow cushion~
+a {mf{Mluff{my {mcu{Ms{Dhi{Mo{mn{x ~
+A pile of {mf{Mluff{my {mcu{Ms{Dhi{Mo{mns{x of different shades of {mla{Mv{Den{Md{mer{x are here, in the center of the room.~
+fluffiness~
+furniture a P
+777 0 EHK 10000 10000
+0 777 777 100
+#9943
+hot potato~
+{RHot {RPo{rta{Rto{x~
+A {RHot {RPo{rta{Rto{x has been dropped here and the person who did it will be disqualified.~
+potato~
+treasure AH AP
+0 0 0 0 0
+0 0 0 100
+#9944
+mischan gem~
+a mischan {Bg{We{Bm{x~
+A mischan {Bg{We{Bm{x sparkles brightly.~
+idle gossip~
+treasure 0 A
+0 0 0 0 0
+1 0 0 100
+#9945
+overstuffed couch~
+an overstuffed couch~
+A black leather overstuffed couch sits here in front of the fireplace.~
+leather~
+furniture O 0
+4 0 EHK 100 100
+0 0 0 100
+#9946
+couch loveseat~
+An overstuffed leather couch~
+An overstuffed leather couch is here on the floor~
+wood~
+furniture H A
+4 0 BDEH 0 0
+0 50 50 100
+#9947
+arrow~
+a long, broad-headed arrow~
+a long, broad-headed arrow is here.~
+wood~
+weapon 0 AO
+arrow 50 50 'flame' ABCEGH
+90 1 20 100
+A
+19 4
+A
+19 4
+#9948
+kittytreat treat token~
+a {mK{Di{wt{Dt{my T{Dr{we{Da{mt{x~
+A {mK{Di{wt{Dt{my T{Dr{we{Da{mt{x has been carelessly tossed here, breaking {mK{Di{wt{Wi{wa{Dr{ma{x's heart.~
+onyx~
+token HOb A
+EIJKN 0 0 EIJKN EIJKN
+0 0 0 100
+#9949
+rp token~
+an {mRP{x token~
+A small coin in the shape of the wheel of the world.~
+cloth~
+treasure HMYb A
+0 0 0 0 0
+1 0 0 100
+E
+rp~
+This {mRP{x token is worth 1/4th of a level!  Collect four and turn them in
+to an Immortal for your level!  
+~
+#9950
+SWCL plastic toy tag~
+An {DS{rW{WCL{x {Dco{wm{Wb{wa{Dtant{x tag plastic replica, for newbies.~
+This is junk, you'll only need it to enter the fighting, afterwards you may do with it as you chose,~
+cheap plastic~
+treasure Hb AC
+0 0 0 0 0
+0 0 0 100
+#9951
+cake~
+a half-eaten piece of {yc{Da{yke{x~
+A piece of {ych{Do{ycol{Da{yte{x cake covered in {Wwhite{x chocolate icing is half-eaten.~
+chocolate~
+food a A
+1 1 0 0 0
+0 0 0 100
+#9952
+strange object~
+a strange object~
+A strange object lays here, giving off a soft {Mlav{Wen{Mdar{x glow.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#9953
+quest rolex fake watch~
+a {YRo{yl{Yex Wa{yt{Ych{x~
+What at first appears to be a very expensive wrist watch, but upon closer inspection has 'Made in China' stamped on it is here.~
+fools gold~
+treasure b AM
+0 0 0 0 0
+0 5 5000 100
+#9954
+quest watch pocketwatch pocket~
+a {Yg{yol{Yd po{yck{Yetwa{ytch{x ~
+A {Yg{yol{Yd po{yck{Yetwa{ytch{x has been stamped, "Made in Japan".~
+gold~
+treasure 0 AM
+0 0 0 0 0
+20 0 5000 100
+#9955
+quest watch mickey mouse watch~
+a {DMic{Wkey {DM{wo{Wu{ws{De{x watch~
+A {DMic{Wkey {DM{wo{Wu{ws{De{x watch complete with a leather band and wind up knob is here.~
+aluminum~
+treasure 0 AM
+0 0 0 0 0
+30 1 20000 100
+#9956
+quest seiko watch~
+a {Dblack{x watch~
+A {Dblack{x watch with the name SEIKO printed on it.  On closer inspection you notice that it has the number 0 through 9, a decimal point, and the +-, and other calculator buttons on it.~
+plastic~
+treasure 0 A
+0 0 0 0 0
+0 1 5000 100
+#9957
+partial token~
+a partial token~
+A partial token has been left here.~
+cloth~
+token Hb A
+0 0 0 0 0
+0 0 0 100
+E
+token~
+This token is worth 1/3 of a full token.
+~
+#9958
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9959
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9960
+quest gift present~
+a {Gwr{gapp{Ged pr{gese{Gnt{x~
+A {Gwr{gapp{Ged pr{gese{gnt{x lays here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 1 500 100
+#9961
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9962
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9963
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9964
+bed~
+{DA black bed{x~
+{DA soft, comfortable black bed with black sheets{x~
+soft material that is unkown~
+furniture ABC P
+100 1000000 EHK 1000 1000
+1 0 0 100
+#9965
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9966
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9967
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9968
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9969
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9970
+Bat Mobile~
+The {DBat{x {DM{wo{Wbi{wl{De{x~
+A sleek, armored 355 convertible {DFerrari S{wp{Wyd{we{Dr{x with black leather interior.~
+metal~
+container 0 0
+2 ABCF 0 2 1000
+0 0 270000 100
+E
+inside_description~
+A tight, {Dblack l{we{Wa{Dt{wh{We{Dr{x interior with the most up-to-date technical
+gadgets and gears.  Be careful not to press the {Rred{x button.  
+~
+E
+inside~
+A tight, {Dblack l{we{Wa{Dt{wh{We{Dr{x interior with the most up-to-date technical
+gadgets and gears.  Be careful not to press the {Rred{x button.  
+~
+#9971
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9972
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9973
+fluffy pillow~
+a very {Wsoft{x, {Wf{wl{Wu{wf{Wf{wy {yt{Ya{Wssl{Ye{yd {bpi{Bll{bow{x~
+Several very {Wsoft{x, {Wf{wl{Wu{wf{Wf{wy {yt{Ya{Wssl{Ye{yd {bpi{Bll{bows{x are scattered around inside the {cbo{Ctt{cle{x.~
+cloth~
+furniture 0 P
+10 100000 EHK 0 0
+0 0 0 100
+#9974
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9975
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9976
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9977
+pot gold token~
+a {Dpot{x of {Yg{yo{Yld{x~
+Turning in this token is worth a prize: 1 token = 200 exp.  3 tokens = 600 exp, or 100 quest points. 5 tokens = 1000 exp, or 200 quest points~
+gold~
+treasure AGHYb AO
+0 0 0 0 0
+1 0 0 100
+#9978
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9979
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9980
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9981
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9982
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9983
+none~
+none~
+none~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#9984
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#9985
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#9986
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#9987
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#9988
+needle~
+a small {Dm{we{Dt{wa{Dl{x {Wn{we{Dedle{x~
+A small {Dm{we{Dt{wa{Dl{x {Wn{we{Dedle{x filled with strange {Gli{gqu{Gid{x.~
+cloth~
+weapon EGN AOT
+arrow 10 1 'none' BG
+1 1 10 100
+A
+4 10
+A
+5 10
+A
+1 10
+A
+18 200
+#9989
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#9990
+key room 9990~
+a {Dk{we{Dy{x to room 9990~
+A {Dk{we{Dy{x to room 9990 should not be here.~
+metal~
+key 0 AO
+0 AC CD 0 0
+0 0 0 100
+#9991
+bubble evil portal~
+A {Wbu{xbb{Wle{x of {De{xv{Dil{x~
+A {Wbu{xbb{Wle{x of {De{xv{Dil{x has formed here creating {rh{Ra{rvok{x with the world~
+Space~
+portal CE A
+1000000 A AC 29201 0
+90 10000 0 100
+#9992
+mirror portal~
+a {yg{Yi{Wld{Ye{yd{x mirror~
+A floor length {yg{Yi{Wld{Ye{yd{x mirror, trimmed with {rma{yho{rga{yny{x, stands next to the wall.~
+cloth~
+portal 0 0
+0 0 0 12276 0
+0 0 0 100
+#9993
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#9994
+multi dragon pill good~
+a multi-{rc{bo{Rl{Bo{Rr{be{rd{x dragon pill~
+A multi-{rc{bo{Rl{Bo{Rr{be{rd{x dragon pill in the shape of a dragon.~
+plastic~
+pill I A
+100 'bless' 'stone skin' 'sanctuary' 'giant strength'
+0 0 0 100
+#9995
+multi dragon pill bad~
+a multi-{rc{bo{Rl{Bo{Rr{be{rd{x dragon pill~
+A multi-{rc{bo{Rl{Bo{Rr{be{rd{x dragon pill in the shape of a dragon.~
+plastic~
+pill CE A
+200 'slow' 'poison' 'demonfire' ''
+0 0 0 100
+#9996
+golden eyes light~
+{WA {gpa{Dir{g of {We{wv{ger {Dwa{gtc{wh{Wf{wu{gl {yg{Yo{Wld{Ye{yn {we{gye{Ds{x~
+{WA {gpa{Dir{g of {We{wv{ger {Dwa{gtc{wh{Wf{wu{gl {yg{Yo{Wld{Ye{yn {we{gye{Ds{x~
+cloth~
+light Ybc AQ
+0 0 999 0 0
+90 10 1000 100
+A
+13 100
+A
+19 5
+A
+18 5
+A
+4 2
+A
+3 2
+#9997
+ashandarei spear~
+an {De{wx{Wot{wi{Dc {Dblack{x {Ws{wp{De{wa{Wr{x with {Dravens{x engraved on it~
+A {Dblack{w-{Ws{wh{Daf{wt{Wed{x {Dspear br{Wa{Dcke{Wt{Ded{x by a pair of {Dblack {Db{wi{Wr{wd{Ds{x inlaid in metal even {Ddarker{x than wood, with another pair engraved on the {Dblade{x. There is a line of some strange cursive script that runs its length.~
+unknown~
+weapon GYbc AN
+exotic 10 15 'stab' 0
+90 20 1000 100
+A
+19 4
+A
+18 15
+A
+19 15
+A
+1 3
+A
+2 2
+A
+3 1
+A
+4 1
+A
+5 2
+E
+script~
+A line of a strange cursive script reads:
+ 
+"{DThus is our treaty written, thus is agreement made.
+{DThought is the arrow of time, memory never fades.{x
+{DWhat was asked is given. The price is paid.{x"
+~
+#9998
+bearded man angreal~
+a {Dbe{wa{Wrd{we{Dd{x man holding an {Da{wx{De{x~
+A {Dbe{wa{Wrd{we{Dd{x man holding an {Da{wx{De{x has been left here~
+angreal~
+angreal Yb AOP
+0 0 999 0 0
+90 30 10000 100
+A
+30 40
+A
+26 40
+A
+29 40
+A
+27 40
+A
+28 40
+#9999
+Uroshnor token quest~
+A token of {gUr{Go{Wsh{Gn{gor{x~
+A miniture statue of {gUr{Go{Wsh{Gn{gor{x hand-carved out of wood~
+wood~
+token HOYb AO
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#9900
+Code Central of {DSword{Bfish{x~
+A large console at the back of the room flash in the dim light.  On the
+screen several XEmacs windows seems to include todays latest update.  At the
+lower end on the console a mud seems to be running, reflecting every move
+you make. In another window a line is prepared at the prompt...
+ 
+> weave balefire
+~
+0
+0 0
+D0
+~
+~
+4099 4099
+1 0 9940
+S
+#9901
+Donna's office~
+~
+0
+CDJK 0
+D4
+~
+~
+0 0
+0 0 14000
+S
+#9902
+Meditation room~
+The walls are painted a {cp{Cal{ce{x {Bb{cl{Cu{Be{x, on one wall there is a {Dblack{x rose
+painted, encompassing much of the wall.  From the ceiling hangs {Bb{cl{Cu{Be{x, {Ds{Wi{Dl{Wv{De{Wr{x
+and {Dblack{x scarves, billowing in the breeze from an open window.  The open
+window reveals a beautiful {Bwa{ct{Cerf{ca{Bll{x in the distance.  
+
+Scattered about the room lay many {Bp{ci{Cl{Dl{Co{cw{Bs{x, leaving just a path around the
+room to walk to a pillow and be seated.  Along the walls are small shelves,
+on each shelf is a {Wca{Ynd{Wle{x, which always seems to be {Yl{ri{Yt{x, giving the room a
+{yw{rar{ym{x {Yg{Wlo{Yw{x of {Wl{Yigh{Wt{x, perfect for meditation 
+~
+0
+CJ 0
+E
+ceiling~
+The ceiling glows with the iridescent beauty of a midnight winter's sky. 
+The stars shine brightly!  
+~
+S
+#9903
+{rP{Ra{Yy{Rn{re{x's {DLabyrinth{x~
+Although you just entered this room, looking around so disorients you
+that you can't even remember which way you came from.  The vaulted walls of
+this room seem to continue upwards indefinitely, and free-floating
+staircases connect the numerous doors in a dizzying pattern, some even
+appearing to be upside-down.  From where you are standing, there are
+exits...well...everywhere.
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 9903
+D1
+~
+~
+0 0
+0 0 9903
+D2
+~
+~
+0 0
+0 0 9903
+D3
+~
+~
+0 0
+0 0 9903
+D4
+~
+~
+0 0
+0 0 9903
+D5
+~
+~
+0 0
+0 0 9903
+M 1000 H 1000
+S
+#9904
+{mL{Mi{Dli{mth{M'{ms{x {DD{wa{Drk {DCo{wr{Dner{x~
+{DShi{wm{Wm{wer{Ding{x {mla{Mv{Wen{Md{mer{x {Mdrap{meries{x of all sizes hang from the high {Dce{wi{Dling{x,
+some of them long enough to touch the {Dblack ma{wr{Dble{x floor with streaks of
+{Ds{Wi{Dl{Wv{De{Wr{x.  {DPo{wl{Wis{wh{Ded{x {Dbl{wa{Dck{x {Dco{wl{Dumns{x make surround the circular chamber, big
+{mf{Mluff{my {mcu{Ms{Dhi{Mo{mns{x of different shades of {mla{Mv{Den{Md{mer{x laying in the very center,
+with some of the {Mdrap{meries{x hanging around it to reveal only the silhouette
+of those within.  
+
+The {Dh{wi{Dgh {Dce{wi{Dling{x is a perfect reflection of a {Ddark {ys{Yt{Dar{Yr{yy {Dn{wi{Dght{x, with silver
+light stands being the only objects to offer any a {yf{Ya{Di{Yn{yt {Willum{wi{Wnat{wi{Won{x in the
+room.  A soft scent of {mr{Mose{ms{x hang in the {Wa{wi{Wr{x and stronger as it gets closer
+to the center, making the room feel even more {min{Mv{Dit{Mi{mng{x when combined with
+the dim lights.  
+~
+0
+CD 2
+D0
+~
+~
+4099 4099
+1 0 9947
+D1
+~
+~
+4097 4097
+1 0 9948
+O Alicia~
+S
+#9905
+Available~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 9909
+D2
+~
+~
+0 0
+0 0 9907
+S
+#9906
+A Large Cavern Deep Inside A Mountain~
+When first entering the massive cavern you are almost blinded it is so
+{Ybr{yi{Wg{Yht{x, as your eyes adjust all you see filling the cavern infront and all
+below the ledge is {Ygo{yl{Yd{x, {Rru{rbi{Res{x and other {gg{Ge{gms{x and {bje{Bwel{bs{x.  This isn't just
+a stash this is a hoard and nestled in the middle of that hoard is a large
+{Bb{Wl{Du{be{x dragon al curled up with its eyes focused right on you.
+~
+0
+C 0
+S
+#9907
+Available~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 9905
+S
+#9908
+Sariala's Home~
+Here's a room for Sariala to make all her own!  
+~
+0
+C 0
+S
+#9909
+Available~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 9905
+S
+#9910
+None~
+~
+0
+C 0
+S
+#9911
+The {RS{ri{Rn{x & {mC{Dl{Wov{De{mr{x {YCa{ys{Wi{Yno{x~
+Large doors swing open before you letting you take in the wondrous
+activities inside.  The place is crowded, people of every type are running
+around lost in their own joy.  Food and drink are carried around by thin
+voluptuous women wearing only a sheer low-cut, short dress.  A sexy looking
+lady wearing a sparkling tight dress is standing on the stage in the corner
+with the band singing jazz tunes.  The floor is made of thick marble with
+the casino's symbol scattered around on it.  Velvet curtains adorn the walls
+hidding from view the private dancing rooms.  Pictures of famous people fill
+the spots held vacant from the curtains.  
+~
+0
+C 0
+E
+otherroom~
+Amber 31001
+Jazzroom 31000
+Urosroom 9923
+~
+D4
+~
+~
+12327 12327
+2 0 9947
+O Tykhon~
+S
+#9912
+Available~
+~
+0
+C 0
+S
+#9913
+Available~
+~
+0
+C 0
+S
+#9914
+Available~
+~
+0
+C 0
+S
+#9915
+None~
+~
+0
+C 0
+S
+#9916
+Available~
+~
+0
+C 0
+S
+#9917
+Available~
+~
+0
+C 0
+S
+#9918
+Available~
+~
+0
+C 0
+S
+#9919
+Available~
+~
+0
+C 0
+S
+#9920
+C{Wlou{wd N{Win{we{x~
+{DThe immensity of the entire universe spreads before you, {Ddark{x {Dexcept for
+{rs{Rp{Yh{Re{rr{We{rs{x {Dof light.  Some are large, spinning on their axis, and covered with
+{Wc{Cl{Wou{Cd{Ws{x or {cr{Ci{wn{Cg{cs{x.  {DOthers are small and almost dark themselves, so far from
+{Dtheir light source they are.  Here, looking down on the world, one can see
+mortality...  Little characters running around like ants, with no concept of
+{Dthe all-knowing above them.  {WAmid the brightest, most beautiful s{Yt{Wa{Yr{Ws{W,
+{Win his own little corner of the cosmos, {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x {Wsurveys the world. 
+Large, billowy {Wwhite clouds{x {Wdisguise his domain from human eyes, and make it
+more comfortable for the immortal who resides here.  {x 
+~
+0
+CJV 0
+D0
+~
+'rounded pair of massive carved {yo{ga{yk doors{x~
+3 3
+1 0 9930
+D2
+~
+~
+4097 4097
+1 0 9940
+D5
+~
+'fluffy {Wwhite c{wl{Wo{wu{Wd{x'~
+3 3
+1 0 9990
+S
+#9921
+Available~
+~
+0
+C 0
+M 200 H 200
+S
+#9922
+{cK{Ce{We{Cn{ce{x's Office~
+~
+0
+C 0
+S
+#9923
+The {WTe{Dm{Wple{x of {GUr{go{Wsh{gn{Gor{x~
+Beautiful {Ggr{gee{wn{x marble has been laid on the floor with large {Wivory{x
+pillars reaching up into the sky.  An area near the front of the temple is
+filled with {Yc{Bo{Cl{Go{Rr{Wf{Mu{Yl{x cushions to sit and relax on.  Small {Wp{wedestal{Ws{x stand
+all over the temple holding different statues and objects that are rare
+enough that you have no idea what they are.  Transparent cloth with abstract
+pictures outlined on them in {Dsilver{x sway back and forth as the breezes make
+thier way through the temple.  
+~
+0
+CV 0
+D3
+~
+~
+8231 8231
+2 0 31004
+D5
+~
+~
+9249 42017
+1 0 31000
+S
+#9924
+A Dank Dungeon~
+Shadows cloak the room in darkness as small flames burn at specific
+points on the wall so you can barely see the shapes of those around you.  A
+bloodstained stone table lies in the center of the room, heavy leather
+straps at each end to bind people in place.  A rack of torture weapons lie
+along the wall next to the table.  Leather whips, and even a cat-o-nine
+tails hang there next to a hammer and a vice.  The air is stale, the scent
+of death heavy within it.  Pools of dried blood cover the floor and squish
+between the shoes and the stone.  There is a smoldering bowl of hot coals,
+with different sizes of pokers and branding irons stick out of it.  An iron
+maiden sits in the corner partially open, an arm hanging just outside of it,
+blood still dripping from the fingers.  
+~
+0
+CN 0
+S
+#9925
+Kitiara's Immortal Room~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 9950
+S
+#9926
+A Cottage inside a Spiders Web~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9927
+S
+#9927
+A Stately Mauseleum~
+If you had to describe the motif here in one word, it would be, 'bones'. 
+If you used a few more, you might use things like 'skulls', black', and
+'really depressing'.  This place is far bigger on the inside than it was
+outside, and space seems strangely skewed...  Nearby, a bony grandfather
+clock ticks, its pendulum in the shape of a scythe blade, slicing away the
+seconds for eternity...  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 9926
+S
+#9928
+Down The Rabbit Hole~
+The narrow hole leads deep down into the cold earth, widening at the end
+into a rather large room.  The walls and ceiling are all hard-packed dirt,
+the floor is covered with various weeds, flowers, and any other fluff the
+owner of this hole could find for a soft bed.  Oddly a small table and chair
+are in the corner of the room, atop the table rests some uneaten food.  
+~
+0
+ANV 0
+E
+table~
+Atop the wooden table are plates, cups, saucers, many many crumbs of some dark, spongy food.
+~
+D4
+~
+~
+4135 4135
+2 9938 972
+S
+#9929
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+C 0
+S
+#9930
+A Grand Entry~
+Opening a rounded set of massive, carved {yo{ga{yk doors{x, the entry room to
+{D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x's shrine presents itself.  It truly is a sight to behold, made
+entirely of smooth {Wwhite{x and {yg{Yol{yd{x {Wma{Yr{yb{Wle{x.  There is a curved staircase,
+lined with {yg{Yol{yd{x carpet, leading up the east wall, giving the room a rounded
+feel.  From the muraled ceiling with {yg{Yol{yd{x inlays, hangs a massive
+chandelier, covered in {cc{Cr{Wysta{Cl{cs{x.  
+~
+0
+DV 0
+D0
+~
+'large pair of carved {ysu{rng{ywood doors{x'~
+3 3
+1 0 9932
+D2
+~
+'rounded pair of massive carved {yo{ga{yk doors{x~
+3 3
+1 0 9920
+D4
+~
+~
+0 0
+0 0 9931
+S
+#9931
+A Balcony~
+This balcony over looks the entire entry, with a grand view of the
+{cc{Cr{Wyst{Ca{cl{x chandelier, hanging just above the {Wma{yr{Yb{Wle{x banister.  The scent of
+{ri{Rn{Yc{We{Yn{Rs{re{x from one of the halls below rises with the air, giving the upper
+floor of this shrine a pleasent smell.  
+~
+0
+CDV 1
+D0
+~
+'double {yg{Yol{yd{x-leafed {ydoors{x'~
+3 3
+1 0 9938
+D5
+~
+~
+0 0
+0 0 9930
+M 300 H 300
+S
+#9932
+A Portrait Hallway~
+Expensive {yg{Yol{yd{x carpet stretches down the hall, leading you into
+{D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x's portrait chamber.  This hallway is lighted with {yg{Yol{yd{x-leafed
+chandeliers that reflect and sparkle off of the smooth {Wma{yr{Yb{Wle{x walls. 
+Hanging on these walls are many portraits, all of {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x in his
+grandeur, surrounded by {ygi{Yld{yed{x frames.  One portrait of interest hangs in
+the center of the wall, lighted by its own chandelier to highlight its
+masterpiece.  Perhaps you should look at it...  
+~
+0
+CDV 0
+E
+portrait~
+A fabulous portrait of {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x hangs here.  It is a close-up
+portrait to emphasize his stunning eyes and handsome features.  One would
+remark not only on how amazing {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x is, but what a talented artist
+this must have been to capture his likeness so well...  Except for one
+thing: there are horns drawn on his head with permanent {Dmarker{x and a funny
+little mustache drawn under his nose.  Instead of an artist's signature,
+there is the word "CHEATER" scribbled in capital letters and signed with a
+heart, {bAn{Bgen{bue{x.  
+~
+D0
+~
+~
+0 0
+0 0 9934
+D2
+~
+'large pair of carved {ysu{rng{ywood doors{x'~
+3 3
+1 0 9930
+D3
+~
+'rounded {yma{rho{ygany{x door'~
+3 3
+1 0 9933
+S
+#9933
+A Sitting Room~
+The centerpiece to this room is a massive {Wma{yr{Yb{Wle{x cast fireplace.  Above
+its mantel hangs yet another portrait of your favorite person, and mine,
+{D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x.  The smooth {Wma{yr{Yb{Wle{x walls of the room are lit by three huge
+windows on the west wall.  They are kept open to view the {Wclouds{x passing and
+to allow the breeze to whip at the soft silken {Wcurtains{x that hang above
+them.  {yTa{Ype{Wst{Yri{yes{x decorate the walls and topiary carved {gp{Glant{gs{x add color and
+freshness.  The {ygo{Yld{yen{x carpet on the floor is so soft that walking barefoot
+on it, one could not help but breath in a sigh of pleasure.  
+~
+0
+DV 0
+D1
+~
+'rounded {yma{rho{ygany{x door'~
+3 3
+1 0 9932
+S
+#9934
+A Statuary~
+The statuary is lighted by golden candelabra's, neatly placed on handcarved
+{ytables{x between {Wm{wa{Wr{wb{Wl{we{x busts.  From the walls, small sconces hold sticks of
+burning {ri{Rn{Yc{We{Yn{Rc{re{x in {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x's favorite scent.  Lining the walls, each
+sitting on its own elaborately carved pedestal are busts of the TSW
+immortals: {bAn{Bgen{bue{x, {mK{wi{Dt{Wi{Da{wr{ma{x, {DSword{Bfish{x, {gUr{Go{Wsh{Gn{gor{x and {RZa{rnd{Ror{x.  And, of
+course, {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x, himself, has many statues in this hall, bust and full
+size to show him in his many states of grandeur.  {yGo{Yld{yen{x carpet on the floor
+leads to other areas of this shrine.  
+~
+0
+DV 0
+D0
+~
+'grand double {ydoors{x made of carved {rcherry{ywood{x'~
+1 1
+1 0 9936
+D1
+~
+'double glass {Wfrench{x doors'~
+1 1
+1 0 9935
+D2
+~
+~
+0 0
+0 0 9932
+S
+#9935
+A Lush Greenhouse~
+This all-glass room is filled with {gp{Glant{gs{x of all kinds and blooming
+{Rf{Yl{Wowe{Yr{Rs{x to fill the air with a warm scent.  It is very bright and inviting
+during the day - the perfect place for reading a book with tea.  Or, in the
+evening, to observe the starry {Dn{Wi{Dght{x sky.  From somewhere, the soft sound of
+a {Dsy{Wmp{Dhony{x orchestra is playing, adding to the drama, beauty and nature of
+this room.  
+~
+0
+CDV 0
+D3
+~
+'double glass {Wfrench{x doors'~
+1 1
+1 0 9934
+S
+#9936
+A Private Dining Chamber~
+Entering the private dining chamber, you are amazed by the immensity and
+beauty of this room.  Like the rest of the santuary, the walls are smooth
+{Wma{yr{Yb{Wle{x, gilded with {yg{Yol{yd{x.  The ceiling in this room is a grid of carved
+{ywooden{x beams, again, gilded with {yg{Yol{yd{x.  Between the grids are murals of the
+cosmos and skies, almost real in their artistry.  There is a massive
+fireplace in this room as well, above which hangs another portrait of
+{D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x, wearing a {Rred{x robe and {yc{Yrow{yn{x.  The walls are decorated with
+{yta{Ype{Wst{Yri{yes{x and statues of the richest design.  The north wall is one large
+open window, showing a brilliant blue {Csky{x with {Wclouds{x passing by.  And, upon
+the floor, a rug of the most plush, handwoven {yg{Yol{yd{x.  
+~
+0
+DV 0
+D2
+~
+'grand double {ydoors{x made of carved {rcherry{ywood{x'~
+1 1
+1 0 9934
+S
+#9937
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+C 0
+S
+#9938
+{D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x's Bedroom~
+The massive room is warm and masculine, with few windows on the north
+wall to light it.  It is {Wma{yr{Yb{Wle{x like the rest of the shrine, but decorated
+with dark {ywood{x accents along the hard{ywood f{rl{yoor{x and around the ceiling. 
+Spinning fans, made from dark {ywood{x are scattered on the ceiling and a large
+carpet, woven with swirling {ygo{Yld{yen{x designs covers the floor.  The furniture
+in the room is dark, eloquent and handcarved.  And, most notably, above the
+bed, there is painted a gaint portrait of the owner of this room.  
+~
+0
+CDV 0
+D1
+~
+'double glass {Wfrench d{yoo{Wrs{x'~
+3 3
+1 0 9939
+D2
+~
+'double {yg{Yol{yd{x-leafed {ydoors{x'~
+3 3
+1 0 9931
+D3
+~
+'solid, carved {yo{ga{yk door{x'~
+3 3
+1 0 9941
+S
+#9939
+A Private Indoor Pool~
+This very large indoor atrium was built with comfort and leisure in mind.
+The ceiling is entirely made of {cg{Clas{cs{x so that the {Ys{yu{Yn{x can shine in during
+the day or the {Ws{Dt{Wars{x can sparkle at night.  The rest of the room is made
+entirely of {Wma{yr{Yb{Wle{x and decorated with mastercrafted {Ws{wt{Wa{wt{Wu{we{Ws{x and spiraling
+{gju{Gnip{ger {gtr{Ge{ye{Gs{x.  It is very grecian and elegant in design.  Next to the pool,
+several comfortable {yl{Yo{Wun{Yg{ye chairs{x have been placed for tanning.  
+~
+0
+CDV 0
+D3
+~
+'double glass {Wfrench d{yoo{Wrs{x'~
+3 3
+1 0 9938
+S
+#9940
+A Long Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be.
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues. 
+~
+0
+0 0
+D0
+~
+~
+4097 4097
+1 0 9920
+D2
+~
+~
+4099 4099
+1 0 9900
+D3
+~
+~
+0 0
+0 0 9955
+S
+#9941
+A Large Closet~
+Inside this {yce{rd{yar{x closet, everything that is fashionable is housed.  All of
+{D-{y-{Y-{W={wH{Wal{Wo{W={Y-{y-{D-{x's favorite things hang from {ywooden{x hangers, neatly spaced so
+nothing is wrinkled.  On shelves, neatly spaced on the wall are rows of
+polished {Dshoes{x, for all occasions.  However, the worn ones that stand next
+to the door, ready to be used, are those that have the {gg{yu{gts{x of mortals stuck
+all over the bottom.  
+
+And, in case you were wondering, {D-{y-{Y-{W={wH{Wal{wo{W={Y-{y-{D-{x isn't married or homosexual...
+{bAn{Bgen{bue{x just keeps a whip handy for when the place gets a little messy.  
+~
+0
+DV 0
+D1
+~
+'solid, carved {yo{ga{yk door{x'~
+3 3
+1 0 9938
+S
+#9942
+Available~
+~
+0
+CKN 0
+S
+#9943
+Available~
+~
+0
+CKN 0
+S
+#9944
+Available~
+~
+0
+C 0
+S
+#9945
+Available~
+~
+0
+C 0
+S
+#9946
+Available~
+~
+0
+C 0
+S
+#9947
+A Study~
+A {Wglowing chandellier{S {xhangs here lighting the room in a friendly glow.
+The desk is positioned in the middle of the room in order to have light
+from both the windows on either side of the study and the chandellier 
+overhead.  A large leather chair sits behind the desk and a sofa sits 
+along the western wall.  A {Wshine{S {xcomes off of the walls and desk's well 
+polished surfaces.
+~
+0
+FGHIY 0
+D0
+~
+padded cell door~
+39 39
+2 0 9953
+D2
+~
+~
+4099 36867
+1 0 9904
+D3
+A white padded door
+~
+padded cell door~
+8195 8195
+1 0 9948
+S
+#9948
+{WPadded Cell{x~
+{WThe door behind you closes with a loud bang as you enter this room and
+{Wthe eerie feeling that you'll be stuck here for a long long time enters your
+{Wmind.  Everywhere you look is white, so much white that it seems to glare
+{Wfrom all around you, pushing in against you.  No matter which way you turn,
+{Wall you can see is the whiteness of the room, below your feet, above your
+{Whead, to each side of you, you turn and turn in the hopes of seeing some
+{Wlittle glimmer of color return to you.  Inside your head a panic begins to
+{Wrise, why have they left you in here so long, time seems to slow down and
+{Wcurve around you, dragging you slowly with it.  You have no idea which way
+{Wis up or down, are you standing or sitting, and slowly you begin to hear an
+{Weerie sound, something so lonely and agonizing it's the most painful sound
+{Wyou've ever heard and it takes only moments until you realize it's coming
+{Wfrom your own throat as you cry out!
+~
+0
+V 0
+D1
+~
+~
+8195 8195
+1 0 9947
+D3
+~
+~
+4097 4097
+1 0 9904
+S
+#9949
+Available~
+~
+0
+C 0
+S
+#9950
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+C 0
+D0
+~
+~
+1 1
+1 0 9925
+D1
+~
+~
+0 0
+0 0 9952
+D2
+~
+~
+3 3
+1 0 9965
+D3
+~
+~
+7 7
+2 0 9951
+S
+#9951
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, to the west is a closed
+forbidding looking door and the corridor continues in darkness to the east. 
+~
+0
+0 0
+D1
+~
+~
+7 7
+2 0 9950
+S
+#9952
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9970
+D1
+~
+~
+0 0
+0 0 9953
+D2
+~
+~
+551 551
+2 9990 9990
+D3
+~
+~
+0 0
+0 0 9950
+S
+#9953
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+I 0
+D1
+~
+~
+0 0
+0 0 9954
+D2
+~
+~
+39 39
+2 0 9947
+D3
+~
+~
+0 0
+0 0 9952
+S
+#9954
+A Long Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+G 0
+D1
+~
+~
+0 0
+0 0 9955
+D3
+~
+~
+0 0
+0 0 9953
+S
+#9955
+A Long Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+Z 0
+D1
+~
+~
+0 0
+0 0 9940
+D3
+~
+~
+0 0
+0 0 9954
+S
+#9956
+Available~
+~
+0
+CFG 0
+S
+#9957
+Available~
+~
+0
+C 0
+S
+#9958
+Available~
+~
+0
+C 0
+S
+#9959
+Available~
+~
+0
+C 0
+S
+#9960
+Available~
+~
+0
+C 0
+S
+#9961
+Available~
+~
+0
+C 0
+S
+#9962
+Available~
+~
+0
+C 0
+S
+#9963
+Available~
+~
+0
+C 0
+S
+#9964
+Available~
+~
+0
+CD 0
+S
+#9965
+{wA {GSh{Mag{Gad{Mel{Gic Pad{x~
+{wYou push apart floor length bead strings that cover the doorway and enter
+the most {Yg{Gr{Mo{Yo{Gv{My{x {wroom you have ever seen!  A {Dm{wir{Wro{wre{Dd{x {wdisco ball hangs from
+the ceiling and giant colored {Gf{Ml{Yowe{Mr{Gs{x {wcover the walls.  In the middle of the
+room, there is a large, circular rotating bed covered in an {Da{yn{Wi{Dm{ya{Wl {yskin{x
+{wprint and {Gsh{Mag{Gad{Mel{Gic{x {wpillows.  Two bedstands are here next to the bed with
+{Bl{Rav{Ba{x {wlamps decorating their tops.  The floor is covered in {Gsh{Mag{Ged{Mel{Gic{x
+{wcarpet, and there is a wetbar on the east side of the room.  If you lift the
+right bottle, a secret passage will open.  You hear the alluring sound of
+Burt Bacarach singing softly...  Yeah, baby, yeah... 
+ 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9950
+D3
+~
+~
+3 3
+1 0 9966
+S
+#9966
+{wA {GSh{Mag{Gad{Mel{Gic Closet{x~
+A very {Yg{Gr{Mo{Yo{Gv{My{x closet is here, filled with {Gsh{Mag{Gad{Mel{Gic{x clothes.
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 9965
+S
+#9967
+Available~
+~
+0
+C 0
+S
+#9968
+Available~
+~
+0
+C 0
+S
+#9969
+{gRi{yc{ca{yn{gin{x's Room~
+~
+0
+C 0
+S
+#9970
+{rFa{Rer{Ys{Rto{rrm's{  {DM{wa{Wnsi{wo{Dn{  {wof {DMystery{x~
+"You're traveling through another dimension.  A dimension not only of
+sight and sound but of mind; a journey into a wondrous land whose
+boundaries are that of imagination.  That's the signpost up ahead- your
+{wnext stop, the {DTw{wi{Wli{wg{Dht Z{Won{De!{x
+ 
+ 
+{DThe room you have just entered is very large and black, lit only by 
+{Dthe {Wphosphorescence{x {Dof stars that cover the walls, ceiling and 
+{Dfloor. You shiver as you hear doors slam around you in all directions. 
+{DWhich way to go? Your only hint is a signpost in the middle of the room.
+ 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 12399
+D2
+~
+~
+3 3
+1 0 9952
+D4
+~
+~
+0 0
+0 0 9991
+D5
+~
+~
+0 0
+0 0 9971
+S
+#9971
+{yTrap Door Room{x~
+You should have paid attention to the sign...  There is no way out!  As
+your eyes adjust to the darkness, you can see bones littering the floor. 
+You begin to panic as you realize that you have been trapped in
+{rFe{Rar{Ys{rto{Rrm's{x {DM{wa{Wnsi{wo{Dn{x {wof Mystery....  FOREVER!  
+~
+0
+CN 0
+S
+#9972
+{rFa{Rer{Ys{Rto{rrm's{  {DBat Cave{x~
+{wWelcome to the notorious Bat Cave!  Not many people are able to make
+their way here without falling prey to the many mysteries of
+{rFa{Rer{Ys{rto{Rrm's{x {wmansion.  As you look around, you see a huge, dark
+cave, with stalactites and hibernating bats hanging from the ceiling.  It
+smells rather musty.  On the south wall, you see an expanse of {wflashing
+lights and computer screens.  Many images appear on the monitors, including
+some of the more notable rooms on this mud.  You hear the faint sound of
+screeching bats and water dripping in the distance.  In the middle of the
+room, parked on a stone column, you see what this room was made for...  The
+{DBat M{wo{Wbi{wl{De{x.  {wIt is surrounded by steep, rocky trenches and can
+only be accessed by a metal bridge extending from the south wall to the
+column.  You feel a intense urge to go for a test drive.  
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9970
+S
+#9973
+Inside a {cB{Cottl{ce{x~
+Inside this clear {cg{Clas{cs b{Co{Wtt{Cl{ce{x is a brilliant abode.  Lacing up the sides
+of the glass, up to the neck, are swirling {yg{Yo{Wl{yd{x {yd{Ye{Wsig{Yn{ys{x that cast tinted
+shadows around the glass from the outside light shining in.  At the base of
+the bottle, tall {Wwr{wou{Wght-{wir{Don{x {Dca{wn{Wdl{Des{Wti{wc{Dks{x hold long, skinny {Wwhite{x candles
+that burn, filling the room with a soft {Wga{Yr{Wdenia{x scent.  Around these
+candlesticks are {bb{Blu{be{x {yt{Yas{Ws{Yle{yd{x pillows, made of {bs{Bil{bk{x, scattered everywhere. 
+As you sit in one, it engulfs you, swallowing you into a deep comfort that
+makes you want to stay here forever and relax with {bAn{Bgen{bue{x.  
+~
+0
+D 0
+D4
+~
+~
+3 3
+1 0 9990
+S
+#9974
+A Narrow Road In Front of a Bustling Shop~
+A narrow {Dco{wbb{Wles{wto{Dne{x road has been built here, almost out of nowhere.  It
+leads to the front of a carefully neutral store front with {Wcurtained{x
+windows.  An elaborate sign hanging out front reads "{yTS{YW I{Wmmo{Yrt{Wal{Ys, I{ync.  {x" 
+~
+0
+C 14
+D0
+~
+~
+1 1
+1 0 9975
+D8
+~
+~
+0 0
+0 0 47811
+S
+#9975
+{WTSW Immortals, Inc.{x - A Place to Own Your Own Piece of TSW~
+Inside this immaculately clean store, there is a little bit of something
+that represents each Immortal on TSW.  There are colorful {gpl{Gan{gts{x and
+{Rf{Yl{Wow{Yer{Rs{x, personalized furniture and an assortment of computer parts. 
+Several large windows light the store, reflecting off the {yh{rar{ydwood{x floor
+where a {Dki{Wt{wt{Den{x lies curled up.  Really the only thing that sets this room
+apart as a shop is a large {ycounter{x behind which an Immortal stands, ready to
+fulfill your personalization request.  
+
+There is a sign on the counter that reads "{RCLOSED{x", and the Immortal acts as
+though you are not really here.  
+~
+0
+C 0
+D2
+~
+~
+1 1
+1 0 9974
+S
+#9976
+~
+~
+0
+C 0
+S
+#9977
+Available~
+~
+0
+C 0
+M 200 H 200
+S
+#9978
+Available~
+~
+0
+C 0
+S
+#9979
+Available~
+~
+0
+C 0
+S
+#9980
+Available~
+~
+0
+C 0
+S
+#9981
+Available~
+~
+0
+C 0
+S
+#9982
+Available~
+~
+0
+C 0
+S
+#9983
+~
+~
+0
+C 0
+S
+#9984
+~
+~
+0
+C 0
+S
+#9985
+Available~
+~
+0
+C 0
+M 200 H 200
+S
+#9986
+~
+~
+0
+C 0
+S
+#9987
+~
+~
+0
+C 0
+S
+#9988
+~
+~
+0
+C 0
+S
+#9989
+~
+~
+0
+C 0
+S
+#9990
+{bAn{Bgen{bgue's{x {WDeluxe Apartment in the {CSky{x~
+{wSomehow you find yourself in a large room, far above the ground.  Giant
+bay windows line the south end of the room and soft chenille pillows rest on
+the window sills.  When you look out of the windows, you see fluffy {Wwhite{x
+{wclouds drifting by lazily.  The entire western wall of this room is lined
+with {ymahogany{x {wbookshelves that are decorated with leather bound classical
+books.  If you pull out "Great Expectations," by Charles Dickens, a secret
+passage opens to the west.  To the east, you see a pair of ornate double
+doors and a grand marble fireplace.  A warm {Rf{Yir{Re{x {wdances invitingly.  You
+look at the ceiling and see that it is inlaid with elegant {ymahogany{x {wwood
+work and frescos detailing the spaces between the wooden inlays.  The bare
+spots on the walls are covered with original Rembrandts in guilded frames.
+Rich, soft {rburgandy{x carpets cover the floor and expensive armchairs rest in
+the middle of the room.  A large {Dl{we{Wa{Dt{wh{We{Dr{x {wcouch sits here too, with an open
+book of Shakespearian poetry on it.  There is also a rather large {ymahogany{x
+{wdesk in the corner.
+ 
+~
+0
+V 0
+D0
+~
+~
+551 551
+2 9990 9952
+D1
+~
+~
+3 3
+1 0 9991
+D4
+~
+'fluffy {Wwhite c{wl{Wo{wu{Wd{x'~
+3 3
+1 0 9920
+D5
+~
+'{ycork{x'~
+3 3
+1 0 9973
+S
+#9991
+{bAn{Bgen{bgue's{x {WDeluxe Bedroom in the {CSky{x~
+Somehow you find yourself in a luxurious bedroom, far above the ground.
+Giant bay windows line the south end of the room and soft chenille pillows
+rest on the window sills.  When you look out of the windows, you see fluffy
+{Wwhite{x clouds drifting by lazily.  Everything about this room is soft,
+comfortable and inviting.  The first thing you notice is the giant canopy
+bed on the east side of the room.  It is covered in {bb{Blu{be{x sheets and pillows,
+enticing you to lay down and rest.  Soft, {bb{Blu{be{x chiffon curtains swing
+from the posts of the bed.  You also notice the giant {chot tub{x in the middle
+of the room, resting on a tiered {Dm{wa{Dr{wb{Dl{we{x platform.  The platform is surrounded
+by large {Dm{wa{Dr{wb{Dl{we{x columns that support a fresco painted ceiling.  Beautiful long
+stem, {Wwhite{x roses adorn the room in elegant crystal vases and a decorative
+dining {ytable{x stands in front of the bay windows. Rachmaninov plays softly in
+the background.
+ 
+~
+0
+V 0
+D0
+~
+~
+3 3
+1 0 9992
+D3
+~
+~
+3 3
+1 0 9990
+S
+#9992
+{bAn{Bgen{bgue's{x {WDeluxe Closet in the {CSky{x~
+You have just entered the biggest closet you have ever seen!  It is two
+stories tall and has a stair case that leads to the second level.  Rows and
+rows of clothes line the walls and hundreds of shoes line the shelves.
+Everything can be found here, from costumes for costume balls to elegant
+gowns for dinners with kings.  You begin to get a sense for {bAn{Bgen{bue{x's
+impeccable fashion sense.  No wonder she never wears the same outfit
+twice.  There is an ornate dresser here, but looking inside might make
+you {Mblush{x.  You hear Rachmaninov playing softly to the south.
+ 
+~
+0
+DV 0
+D2
+~
+~
+3 3
+1 0 9991
+S
+#9993
+Available~
+~
+0
+C 0
+S
+#9994
+~
+~
+0
+C 0
+S
+#9999
+Available~
+~
+0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+M 9907 spec_speardancer
+M 9923 spec_nasty
+M 9945 spec_channeler_offensive
+M 9948 spec_fido
+S
+
+
+
+#RESETS
+D 0 9900 0 1
+D 0 9904 0 1
+D 0 9911 4 2
+D 0 9920 0 1
+D 0 9920 5 1
+D 0 9923 3 2
+D 0 9928 4 2
+D 0 9930 0 1
+D 0 9930 2 1
+D 0 9931 0 1
+D 0 9932 2 1
+D 0 9932 3 1
+D 0 9933 1 1
+D 0 9938 1 1
+D 0 9938 2 1
+D 0 9938 3 1
+D 0 9939 3 1
+D 0 9940 2 1
+D 0 9941 1 1
+D 0 9947 0 2
+D 0 9947 2 1
+D 0 9947 3 1
+D 0 9948 1 1
+D 0 9950 2 1
+D 0 9950 3 2
+D 0 9951 1 2
+D 0 9952 0 1
+D 0 9952 2 2
+D 0 9953 2 2
+D 0 9965 0 1
+D 0 9965 3 1
+D 0 9966 1 1
+D 0 9970 2 1
+D 0 9973 4 1
+D 0 9990 0 2
+D 0 9990 1 1
+D 0 9990 4 1
+D 0 9990 5 1
+D 0 9991 0 1
+D 0 9991 3 1
+D 0 9992 2 1
+O 0 9942 0 9904
+R 0 9905 6
+R 0 9905 5
+R 0 9905 4
+R 0 9905 3
+R 0 9905 1
+R 0 9905 2
+R 0 9905 3
+M 0 9911 1 9911 1
+O 0 12763 0 9920
+O 0 9951 0 9928
+M 0 9916 1 9928 1
+O 0 12765 0 9930
+M 0 12765 1 9930 1
+O 0 12770 0 9931
+O 0 12767 0 9933
+O 0 12766 0 9933
+M 0 12768 1 9935 1
+O 0 12768 0 9935
+O 0 12769 0 9936
+O 0 12764 0 9938
+O 0 12772 0 9939
+O 0 12771 0 9939
+O 0 12224 0 9941
+O 0 9945 0 9947
+O 0 9946 0 9947
+O 0 9925 0 9948
+O 0 12228 0 9965
+O 0 12228 0 9965
+O 0 12227 0 9965
+M 0 12224 1 9965 1
+G 0 12298 0
+G 0 12299 0
+G 0 12300 0
+G 0 12301 0
+G 0 12303 0
+O 0 12226 0 9966
+O 0 12224 0 9966
+O 0 12225 0 9966
+O 0 12210 0 9966
+O 0 12209 0 9966
+O 0 12399 0 9970
+O 0 9970 0 9972
+O 0 9973 0 9973
+M 0 12472 1 9973 1
+O 0 12204 0 9990
+O 0 12216 0 9990
+O 0 12206 0 9990
+O 0 12203 0 9990
+M 0 12251 1 9990 1
+O 0 9992 0 9991
+O 0 12218 0 9991
+O 0 12220 0 9991
+O 0 12221 0 9991
+O 0 12213 0 9991
+O 0 12219 0 9991
+O 0 12211 0 9992
+P 0 12293 1 12211 1
+O 0 12217 0 9992
+O 0 12231 0 9992
+O 0 12396 0 9992
+O 0 12264 0 9992
+O 0 12297 0 9992
+S
+
+
+
+#SHOPS
+0
+
+
+
+#HELPS
+0 GUILD_IMMORTALS~
+Each guild as been assigned an immortal to assist with role play,
+problems, etc.  These immortals will guilded and on the guild list.  They
+should be included on notes that are immortal appropriate within that guild.
+ 
+The immortals for each guild are as follows:
+ 
+~
+
+0 Uroshnor~
+{GUr{go{Wsh{gn{Gor{x is the man behind the camera running around getting everyone to do
+{Rw{wil{Rd{x and {Yc{Rraz{Yy{x things for him.  No one knows wether he is {Yg{Woo{Yd{x or {Devil{x, as
+it changes from moment to moment.  He tries to be as helpfull as possible,
+even though it doesn't always end up as you {Cwi{Wsh{Ced{x.  
+ 
+{YCredits{x:
+Quests and RP
+Hunt for the Horn
+The Trolloc Cavern
+Help Files
+~
+
+0 plant~
+Level: 50
+
+Syntax: plant <item> <person>
+
+This skill enables an individual to "plant" an item on another person
+without them becoming aware they have received the item.  When done
+successfully, no one in the room is aware...  When done unsuccessfully,
+well, you'll see...  
+~
+
+0 rp award~
+In order to incentive more RP, The {DShadow {rWars{x has implemented a new
+rewarding system.  
+
+{R1.  {x{W The amount of people the character has RPed with during the week:{x It's
+important not only to RP, but also to seek RP with different characters that
+are in the same area that you are icly.  
+
+{R2.  {W The amount of hours the character had RPed compared to the amount of
+hours the character has been online during the week:{x We understand and
+respect people's different log times and availability.  
+
+{R3{x.  {WThe RPs that happened themselves:{x How much thought was put in the RP,
+how creative it was, if the person used of extra tools while RPing such as
+echo command, restrings, control of NPCs.  Also, if the RP generated other
+RPs afterwards.  
+
+The more your character fill these categories, the better your reward will
+be.  
+
+~
+
+0 9999~
+~
+
+0 kitiara~
+{mK{Di{wt{Wi{wa{Dr{ma{x is a lovable, cuddly kitten, ready to help all who call her name.
+In her free time she likes to build and be an RP faerie.  
+ 
+{RCREDITS:{x
+Newbie School
+Border Village
+Taien
+WT Hedge Maze
+Traveling Menagerie
+Maradon
+Trolloc Encampment
+~
+
+0 faceless~
+A faceless character is a temporary character created for RP purposes.  
+
+Upon creation, you will be asked if you wish to be a faceless character and
+if the answer is 'yes', a template of the class chosen will be created. 
+When the faceless character quits the game, the character is automatically
+deleted.  
+
+With a faceless character, you are not allowed to PK, teach, gain or train
+skills/weaves.  
+
+Please keep in mind that this is a RP tool and should be used with care. 
+Any abuse will be dealt with harshly.  
+~
+
+0 darkfriend dfjoin dfname~
+Syntax: dfjoin <your darkfriend name>
+ 
+Darkfriends are those that pledged themselves to the Dark One or how call
+him, The Great Lord of the Dark.  They do the Great Lord's bidding through
+high ranked darkfriends, dreadlords and the Forsaken.  The path of a
+darkfriend is a dangerous one so think carefully before you join the forces
+of the Dark because the command is irreversible.  Darkfriends don't
+advertise who they are to other people, doing so will most likely have the
+darkfriend killed by the local authorities.  
+ 
+When you choose the path of a darkfriend you need to choose a new name, your
+darkfriend name.  Remember that using the name of other players as your
+dfname is illegal and that using any unsuitable word or words that would
+cause you to get fined on public channels will result in punishment by the
+Immortals.  Your darkfriend name can be as colorful as you wish, just
+remember to close the color code.
+ 
+Your dfname will only be known to the Forsaken and maybe a very limited
+circle that has a higher rank than you.  Dfname will not show on the
+wholist. 
+~
+
+0 PK_RULES~
+{R-{x A PK fight will only be valid if the players are within 7 levels range of
+each other.  For example a level 14 PK will only get a valid kill if he
+attacks and kills someone in the level range 7-21. 
+ 
+{R- {xIf a PK is grouped with a non-PK and wins a fight they won't get a valid
+kill out of the fight.
+ 
+{R- {xAttacking a non-PK will not count as a valid PK kill and will not generate
+a corpse to be looted. 
+ 
+{R- {xIn a valid PK fight the winner has the right to loot the other player's
+corpse at the end of the fight.  
+ 
+{R- {xIn a PK fight the player that lost the fight will lose an amount of
+experience based on their level, that amount of experience will be
+automatically given to the one who killed the player.  If the player in
+question doesn't have any experience they will have to get extra experience
+to reach next level.
+ 
+{R-{x Engaging in a PK fight while a player is RPing is not acceptable and not
+allowed be the person a PK or not. 
+ 
+{R-{x PK, Quest Equipment and Tokens can't be looted. 
+ 
+{R-{x Non-PK are not allowed to loot a PK's corpse.  If you are not a PK and you
+find a PK's corpse on the ground leave it be.  Getting any items from such
+corpses will result on the non-PK being forced to become a PK by the
+Immortals. 
+
+{R-{x PK people can give looted items to non-PK people but they must give it
+instead of the non-PK person taking it from the corpse.  Taking anything
+from a corpse that is not yours will be considered looting.
+ 
+{R-{x Once a player is PKed they will be given a timer of 30 minutes in which
+they can look for their corpse or gather equipment without being attacked by
+another PK.  The timer will reset if the player quits and then logs on again
+before the 30 minutes are up.
+ 
+{R-{x If any players are found to be abusing the PK system to get their ranks
+higher and get the monthly prizes they will have their PK rank reset or set
+to negative up to the Immortal that catches them.
+ 
+Remember that the rules are set in place so everyone can have a good
+experience and have fun. 
+~
+
+0 pkrank~
+Syntax: pkrank
+ 
+It shows your score as a PK, the amount of times you have been killed as
+well as how many people you have killed. 
+~
+
+0 nobility merchant~
+If you are wishing to play a character with nobility or wealth, you must
+have the money to support your background.  
+
+For High Court Nobility, with direct line to any of the thrones in the WoT
+world, the head of the house (which must be a player) has to hav 90, 000
+gold in the bank and then send their background to guildadmin.  You will
+then be approved and notified of that approval.  
+
+For minor nobility, with no right to any of the Thrones, needs to have the
+head of the house (Again, this must be a player) have 60, 000 gold in the
+bank and then send in their background to guildadmin to go through the
+approval proccess.  
+
+For merchant status, the player must have 30, 000 gold in the bank and then
+submit their background for approval.  
+
+Each person who is head of house, or head merchant needs to maintain the
+gold amount in their back to keep their status.  If the amount of money
+drops below the required levels then they will have to accept the IC
+consequences to that character.  
+
+When you meet the requirements for your rank and status you will be given a
+free room/or vehicle here in the game.  Please keep them ic rooms to go with
+your ic titles.  You will have to come up with your own room descriptions. 
+
+To see the players that are nobles or merchants look at "help noble_list or
+merchant_list" 
+
+~
+
+0 noble~
+Nobles are allowed in the realms of the Shadow Wars.  Please read "help
+nobility" to see what you have to do to become a Noble.  
+~
+
+0 noble_list merchant_list~
+---***The Current {YNobles{x of the {DShadow{x {rWars{x are as follows***---
+ 
+Arianah {DL{wi{gn{Gd{wa{De{x, Queen of Altara
+Shista {CK{Bo{Gvi{Bc{Ch{x, Major Noble of Altara
+Maharette {GD{gu{mrr{ga{Gn{x, Queen of Andor
+
+Daton {DF{we{rn{Rt{wi{Da{x, Minor Noble of Altara
+Keely {bT{Ba{Ynob{Bi{bs{w, Minor Noble of Altara
+Neeraj {bT{Ba{Ynob{Bi{bs{x, Minor Noble of Altara
+Viktoriya {GS{Da{wsk{De{Gn{x, Minor Noble of Altara
+Wren {BAl{Gme{Bnta{x, Minor Noble of Altara
+
+Juliet {BTr{ba{Wk{ba{Bnd{x, X-daughter Heir of Andor ({RPoor{x, Lost Throne)
+
+
+---***The Current {BMerchants{x of the {DShadow{x {rWars{x are as follows***---
+ 
+Daneva {mV{co{mr{cs{mh{ct{mo{x, Merchant of Osenrien
+Izdren {CM{ca{Wld{ce{Cb{x, Traveling Merchant of Inn Services
+Gantret {rO{Dr{Rm{De{rd{x, Antiquities Merchant of Kandor
+~
+
+0 guild_commands~
+gdt     - lets you speak on guild channel
+gdth    - shows a history of the most recent tells on gdt
+glist   - shows a list of guild members online
+gl      - short for glist
+grecall - allows you to recall to your guild area
+gdonate - allows you to donate items to your guild
+ 
+SEE ALSO: GUILD, GUILDS, GUILD_LEADER
+~
+
+0 gleader_commands~
+join <player> - allows gleaders to join new members to the guild
+accept        - allows players to join the guild once offered
+refuse        - allows players to refuse to join a guild once it has been offered
+gtitle <guild member> - allows gleader to set a guild title
+gmute <guild member> - toggles mute on a guildmember
+ginvis        - allows gleaders to go invis to rest of guild
+gmembers      - shows a list of all members in the guild.  {RCaution{x: this can lag the MUD
+ 
+~
+
+97 codinglist~
+Player shops.
+Validation.
+lucky_number xp rolling.
+fix raedit
+fix raw damage maybe?
+put return after reward message
+fix plant
+~
+
+1 newbiehelper~
+Welcome to the ShadowWars.
+ 
+To become a {YNewbie{x {WHelper{x please read the requirements first.
+1. You must be over level 30
+2. You must have played with us activily for atleast 6 months.
+3. Be familiar with mobs and eq that are below 30, so you can help the newer players.
+4. Understand the rules of the game.
+ 
+If you can do all of those please send a note to admin in the immortal area for concideration to be a newbiehelper.
+ 
+ 
+Once you are a {YNewbie{x {WHelper{x there are a few things to follow.
+1. Do not validate names that are book names, or names that do not fit into the WoT world.
+2. Never validate your own alts.
+3. Never validate a player unless they have an approprate appearance.
+ 
+Using the command {Wreview (player){x will help you to see what you need before you validate them.
+
+Using the command {Wsetapp <player> <appearance>{x will let you
+change an unvalidated players appearance for them.
+ 
+For names, the restrictions of book names that do not fit in
+a wheel of time world are names like mat, Lan, Rand, Elayne, Batman,
+Skywalker, Vader, Scooby, and others of this sort.
+ 
+Names that are acceptable are any found in the Wheel of Time name
+generator at www.wotmud.org/names
+and most other names found in Real Life situations, although RJ has a 
+habit of not using the exact spelling on them.
+ 
+Robert Jordan has pulled in Asian names, European names, and more variations 
+than most can keep track of.  If it's reasonable 
+and you can find it with a google search and it's not a major character in a
+popular series/movie, accept it.
+~
+
+0 Harassment~
+Here on the ShadowWars we will not tolerate harassment of the players.  
+
+We have put rules in place that will help this from not happening, but it is
+each persons responsibility to know and understand the rules.  Just because
+you dont read them, does not give you a free pass to not follow them.  
+
+Some of the important help files to read are help pk, pkrules, pk_rules,
+help gopk
+
+Harassment is defined as someone that torments another person continuously. 
+What falls under harassment will be left up to the admin to discuss with you
+at the point that you think you are being harassed.  We want this place to
+be as for as many people as possible.  
+
+Harassment also does not come just in the form of being subdued.  Using
+weaves to harass people is just as bad as subbing them.  
+
+So if you think you are being harassed please come and talk to us.  We can
+then help make things better.  
+
+~
+
+0 vehicle~
+There are special items known as vehicles here on the ShadowWars.  They
+are obtainable when you reach either the Merchant or Noble status, and are
+approved for the role.  
+
+To enter a vehicle: enter (vehicle name)
+
+To leave a vehicle: leave
+
+((While in the vehicle))
+
+Drive the vehicle: drive (direction)
+
+Look out of vehicle: look out (vehicle name)
+
+-When you look out of a vehicle, it will only show you the open exits.  You
+will not see hidden, or closed exits from inside the vehicle.  
+
+Vehicles can not recall, or be summoned.  They can also not travel through
+gates.  So you must remember wher eyou leave them and drive there from one
+spot to another.  
+~
+
+0 novice_requirements novicerequirements~
+((((((((((NOVICE REQUIREMENTS))))))))))
+
+1.)  Etiquette: This requirement is met when you join the Tower and speak
+with the Mistress of Novices, or her designated Assistant, who will explain
+the rules and expectations that will be required from you during your time
+as an Initiate.  This is also when you will sign your name into the Novice
+Book.  
+
+2.)  The One Power: This is a class that will instruct you on the basics of
+the One Power, a little of it's history, the five flows, and the dangers of
+channeling this Power.  NOTE: You must have this requirement met before you
+can proceed to Embracing and Simple Weaves.  
+
+3.)  Embracing: This class will guide the Novice through their first
+official embracing.  Meditations are used by either Accepteds or Aes Sedai
+to accomplish this.  If you decide that your character has a block, or will
+otherwise not be able to embrace Saidar right away, then this requirement
+must be repeated until either the block is broken, or you decide that it is
+the right time for your character to channel.  
+
+4.)  Simple Weaves: Using each of the five flows, Earth, Fire, Air, Water,
+and Spirit, the Novice will learn a simple, one-flow weave in this class. 
+This is also a good opportunity to roleplay your character's strengths and
+weaknesses in the One Power, allowing you to further develop your character.
+
+
+5.)  The Seven Ajahs: This is a new addition to the Novice Requirements. 
+During this class, the Novice will learn about the Seven Ajahs that comprise
+the Aes Sedai, the characteristics of each one, and what each Ajah's purpose
+is.  After this class, the Novice should have a good idea of what Ajah she
+will want to consider joining.  
+
+5A) THe Seven Ajahs comes with an assignment.  You are required to meet with
+4 Sedai from different ajah and get their opinions of their Ajah, how it
+works, and what they focus on.  These 4 meetings can not count for the
+miscellaneous rps that you need, they are a part of the class.  
+
+((((((((((OTHER REQUIREMENTS))))))))))
+
+* Novices must complete one(1) chore, either in RP, or in a story.  If the
+chore is done through RP, at least two people involved, including the
+Novice, must write a note to the Mistress of Novices and her Assistant.  If
+done in a story, the story must be posted to all Initiates, the Mistress,
+and her Assistant.  
+
+* Before they are raised to Accepted, Novices must complete three(3) RP
+sessions that are not classes.  The purpose for this requirement is to help
+you develop your character more fully, during your time as an Initiate. 
+These RPs can be pranks, other chores, conversations, or anything else that
+would be appropriate.  (If you have a question on what would be appropriate
+for this requirement, ask the Mistress of Novices.)  This requirement is met
+when the Novice, and the others involved with the RP have posted notes
+describing briefly what the RP was about, and what happened, to the Mistress
+of Novices and her Assistant.  
+
+((((((((((MISCELLANEOUS))))))))))
+
+* IMPORTANT!!  Only one(1) requirement can be met per day, which is
+twenty-four(24) hours, beginning from 12:00 AM system time.  This is to
+ensure that you spend time as an Initiate, not only meeting your
+requirements, but developing your character to the fullest.  Exceptions to
+this rule must be approved by the Mistress of Novices.  
+
+* Please keep the following in mind!  Once you have completed your
+requirements, that does not mean that you are automatically eligible for
+raising.  You have done what is required of you by the rules, but that does
+not necessarily mean that your character has developed enough to face their
+fears and become Accepted.  If there is a problem, the Mistress of Novices
+will speak with you, and help you with whatever problems there might be.  
+~
+
+20 questtoken quest_token immtoken imm_token tokenrewards token_rewards~
+At different times you can earn what is called Quest Tokens.  These come
+from imms.  Normaly they are a very unique token.  You can not share tokens
+between alts.  And if you are found to string an obj that looks like one of
+these tokens, you will be deleted.  Below is the list of what these tokens
+are worth.  
+
+Stats:
+2 quest tokens each up to 18
+3 quest tokens each up to 20
+5 quest tokens each up to 21
+10 quest tokens each up to 22
+20 quest tokens each up to 23
+40 quest tokens each up to 24
+80 quest tokens each up to 25
+ 
+Diverse:
+10 quest tokens for an ever-flowing canteen
+15 quest tokens for a nosteal flag added to a backpack
+15 quest tokens for a no-burn flag added to a piece of eq
+30 quest tokens for a noremove flag added to a weapon
+5 quest tokens = 1 restrung angreal
+ 
+Skills: (Not master forms or special skills)
+If skill is below 95:
+1 quest token = 1 skill point
+If skill is 95 or above:
+10 quest token = 1 skill point
+ 
+Skills: (Master forms)
+If skill is below 95:
+20 quest token = 1 skill point
+If skill is 95 or above:
+30 quest token = 1 skill point
+ 
+Weaves: (Not talent/special weaves)
+If weave is below 95:
+1 quest token = 1 weave point
+If weave is 95 or above:
+10 quest token = 1 weave point
+ 
+Weaves: (Talent/special weaves)
+If weave is below 95:
+10 quest token = 1 weave point
+If weave is 95 or above:
+20 quest token = 1 weave point
+ 
+Quest Tokens to Quest Points:
+1 quest token = 100 quest points
+quest points cannot be transferred to quest tokens
+ 
+Flaws:
+50 quest token = can remove the illiterate flaw
+70 quest token = can remove the weak flaw
+ 
+Merits:
+80 quest token = can learn longwinded
+90 quest token = can learn acute_senses
+100 quest token = can learn ambidextrous
+100 quest token = can learn concentration
+100 quest token = can learn perfect_balance
+100 quest token = can learn stealthy
+ 
+Talents:
+Not avalaible to purchase at this time
+ 
+Special:
+After level 90 you can trade 500 trains for 500 quest points
+~
+
+0 MOTD~
+===================================================================
+September 13, 2016
+=================================================================== WELCOME
+to the archived MUD "THE SHADOW WARS" This game was active and played by
+several hundred people over a period of 15 years.  At the high points we had
+over 30 players online at any given time.  
+
+As time went on and text based games became less popular, the Admins grew
+older, and interest dwindled, the game closed its doors.  
+
+The code here is now used in other locations for other muds (Age of Illusion
+being the primary one).  It is brought up online here now and then for
+nastalgic purposes.  
+
+Enjoy yourself, but understand that there isn't much going on here at this
+point.  
+~
+
+-1 $~
+
+#$

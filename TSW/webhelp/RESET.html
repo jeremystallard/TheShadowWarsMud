@@ -1,0 +1,28 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>RESET RESETS</H1>Syntax: RESET <number> OBJ <vnum> <location on body>    - equips last mobile
+        RESET <number> OBJ <vnum> inside <obj vnum>     - store in container
+        RESET <number> OBJ <vnum> room                  - store in room
+        RESET <number> MOB <vnum> <maxarea> <maxroom>   - load a mobile
+        RESET <number> DELETE                           - delete a reset
+ 
+ 
+RESET alone will display the resets in the current room.  The <number> will
+be displayed with this list - meaning the order that the resets are in.  
+Typing '? wear-loc' will list possible locations for an object to be reset.  
+<maxarea> refers the maximum number of that vnum mob in your area.  Don't be
+skimpy if you mean to have many of the same type of mob prowling in your
+area.  <maxroom> refers to the maximum number of that vnum mob that can be
+in the room, be it from being reset or from wandering into the room.
+ 
+For resets to be successful make sure that you add them in a logical order.
+For example, if you are equiping a mobile, make the mob reset 1 and then 
+load all of the equipment as reset 2, 3, 4, etc. If you reset anything else 
+between the mob and its equipment, the reset will not work and the mob will 
+not be wearing anything. Or, if you are making a container, the container 
+will need to be reset 1 and the object inside the container needs to be reset
+2.
+ 
+If you wish to reset the room then use '</FONT><FONT COLOR="white">redit reset</FONT>'
+
+</FONT></B></PRE>
+</BODY>

@@ -1,0 +1,1254 @@
+50
+
+#RACE
+name unique~
+pc false
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form 0
+parts 0
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 100 100 100 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 13 13 13 13 13 @
+max_stats 18 18 18 18 18 @
+size tiny~
+#END
+
+#RACE
+name andoran~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Andoran~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name aiel~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Aiel ~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size large~
+#END
+
+#RACE
+name altaran~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Altaran~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name amadician~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Amadician~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name arafellin~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Arafellan~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name cairhienin~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Cairhienin~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name domani~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Domani~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name ghealdanin~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Ghealdanin~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name illianer~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Illianer~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name kandori~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 8
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Kandori~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name mayener~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Mayener~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name malkieri~
+pc true
+granted true
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 8
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Malkieri~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name murandian~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Murandian~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name ogier~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 0
+stat_points 12
+misc_points 150
+sphere 0 0 0 0 0 @
+class_mult 0 0 100 @
+who_name Ogier~
+skills fast healing~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size large~
+#END
+
+#RACE
+name saldaean~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Saldean~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name seanchan~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 8
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Seanchan~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name seafolk~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 8
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Seafolk~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name shienaran~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Shienaran~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name tairen~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Tairen~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name taraboner~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Taraboner~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name tarvaloner~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 8
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name TarValoner~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+#RACE
+name tuathan~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 8
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Tuath'an~
+skills ~ ~ ~ ~ ~ @~
+stats 15 15 15 15 15 @
+max_stats 24 24 24 24 24 @
+size medium~
+#END
+
+
+#RACE
+name trolloc~
+pc true
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 6
+sphere_points 0
+stat_points 10
+misc_points 150
+sphere 0 0 0 0 0 @
+class_mult 0 0 100 @
+who_name Trolloc~
+skills bash~ trip~ ~ ~ ~ @~
+stats 18 15 15 15 16 @
+max_stats 24 24 24 24 24 @
+size large~
+#END
+
+#RACE
+name fade~
+pc true
+granted true
+act 0
+aff FP
+off 0
+imm 0
+res L
+vuln R
+form AHMV
+parts ABCDEFGHIJ
+points 6
+sphere_points 0
+stat_points 14
+misc_points 150
+sphere 0 0 0 0 0 @
+class_mult 0 100 100 @
+who_name Fade~
+skills sneak~ hide~ blademaster~ shadowtravel~ ~ @~
+stats 16 16 16 16 16 @
+max_stats 25 25 25 25 25 @
+size large~
+#END
+
+#RACE
+name bat~
+pc false
+granted false
+act 0
+aff TZ
+off FH
+imm 0
+res 0
+vuln S
+form AGV
+parts ACDEFHJKP
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 100 100 100 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name bear~
+pc false
+granted false
+act 0
+aff 0
+off DEO
+imm 0
+res EI
+vuln 0
+form AGV
+parts ABCDEFHJKUV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name cat~
+pc false
+granted false
+act 0
+aff Z
+off FH
+imm 0
+res 0
+vuln 0
+form AGV
+parts ACDEFHJKQUV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name centipede~
+pc false
+granted false
+act 0
+aff Z
+off 0
+imm 0
+res FI
+vuln E
+form ABGO
+parts ACK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name dog~
+pc false
+granted false
+act 0
+aff 0
+off H
+imm 0
+res 0
+vuln 0
+form AGV
+parts ACDEFHJKUV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name doll~
+pc false
+granted false
+act 0
+aff 0
+off 0
+imm ILMNPQR
+res ES
+vuln GHJKO
+form EJMc
+parts ABCGHK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name dragon~
+pc false
+granted false
+act 0
+aff JT
+off 0
+imm 0
+res BEH
+vuln FI
+form AHZ
+parts ACDEFGHIJKPQUVX
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name fido~
+pc false
+granted false
+act 0
+aff 0
+off FR
+imm 0
+res 0
+vuln C
+form ABGV
+parts ACDEFHJKQV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name fox~
+pc false
+granted false
+act 0
+aff Z
+off FH
+imm 0
+res 0
+vuln 0
+form AGV
+parts ACDEFHJKQV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name goblin~
+pc false
+granted false
+act 0
+aff J
+off 0
+imm 0
+res Q
+vuln C
+form AHMV
+parts ABCDEFGHIJK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name hobgoblin~
+pc false
+granted false
+act 0
+aff J
+off 0
+imm 0
+res LQ
+vuln 0
+form AHMV
+parts ABCDEFGHIJKY
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name kobold~
+pc false
+granted false
+act 0
+aff J
+off 0
+imm 0
+res L
+vuln C
+form ABHMV
+parts ABCDEFGHIJKQ
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name lizard~
+pc false
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res L
+vuln I
+form AGXc
+parts ACDEFHKQV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name modron~
+pc false
+granted false
+act 0
+aff J
+off QR
+imm BMNPQ
+res HIK
+vuln 0
+form H
+parts ABCGHJK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name orc~
+pc false
+granted false
+act 0
+aff J
+off 0
+imm 0
+res Q
+vuln S
+form AHMV
+parts ABCDEFGHIJK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name pig~
+pc false
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res 0
+vuln 0
+form AGV
+parts ACDEFHJK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name rabbit~
+pc false
+granted false
+act 0
+aff 0
+off FH
+imm 0
+res 0
+vuln 0
+form AGV
+parts ACDEFHJK
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name school monster~
+pc false
+granted false
+act U
+aff 0
+off 0
+imm AB
+res 0
+vuln C
+form AMV
+parts ABCDEFHJKQU
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name snake~
+pc false
+granted false
+act 0
+aff 0
+off 0
+imm 0
+res L
+vuln I
+form AGXYc
+parts ADEFKLQVX
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name song bird~
+pc false
+granted false
+act 0
+aff T
+off FH
+imm 0
+res 0
+vuln 0
+form AGW
+parts ACDEFHKP
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name troll~
+pc false
+granted false
+act 0
+aff FJc
+off D
+imm 0
+res BE
+vuln HK
+form ABHMV
+parts ABCDEFGHIJKUV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name water fowl~
+pc false
+granted false
+act 0
+aff Tb
+off 0
+imm 0
+res R
+vuln 0
+form AGW
+parts ACDEFHKP
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name wolf~
+pc false
+granted false
+act 0
+aff Z
+off FH
+imm 0
+res 0
+vuln 0
+form AGV
+parts ACDEFJKQV
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name wyvern~
+pc false
+granted false
+act 0
+aff DFT
+off CFH
+imm L
+res 0
+vuln S
+form ABGZ
+parts ACDEFHJKQVX
+points 0
+sphere_points 0
+stat_points 0
+misc_points 0
+sphere 0 0 0 0 0 @
+class_mult 0 0 0 @
+who_name ~
+skills ~ ~ ~ ~ ~ @~
+stats 0 0 0 0 0 @
+max_stats 0 0 0 0 0 @
+size tiny~
+#END
+
+#RACE
+name gholam~
+pc true
+granted true
+act 0
+aff 0
+off 0
+imm ABCDEFGHIJKLMNOPQRSTUVWXYZaabbcc
+res 0
+vuln 0
+form AHMV
+parts ABCDEFGHIJK
+points 10
+sphere_points 15
+stat_points 10
+misc_points 150
+sphere 1 1 1 1 1 @
+class_mult 100 100 100 @
+who_name Gholam ~
+skills ~ ~ ~ ~ ~ @~
+stats 25 25 25 25 25 @
+max_stats 25 25 25 25 25 @
+size large~
+#END
+
+

@@ -1,0 +1,855 @@
+#AREADATA
+Name Limbo~
+Builders Yasmine Swordfish~
+VNUMs 1 49
+Credits none} Immor~
+Security 9
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#2
+rabbit bunny~
+a cute little bunny rabbit~
+A cute little bunny rabbit is here destroying the farmers crops
+~
+~
+rabbit~
+A 0 0 0
+5 0 3d3+25 2d2+30 1d6+2 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'RANDOM' 1 100~
+M 'RANDOM' 1 1~
+#5
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d0+30 1d1+0 none
+0 0 0 0 0
+0
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#7
+childofthelight legion whitecloak man soldier~
+A {WChild{x of the {YLi{yg{Yht{x~
+A large man wearing a {Wwhite{x {Ycl{yo{Yak{x over his heavy {Da{wr{Dm{wo{Dr{x is here.
+~
+Wo Standing average hight this man is dressed from head to toe in shiny
+armor.  A cloth tabard with a Sunburst is worn over his breastplate, and a
+heavy white cloak hangs off his neck with the same Sunburst symbol
+embroidered on it.  Swords sheaths hang off his waist, with a shield carried
+on his arm.  
+~
+amadician~
+ABT 0 0 0
+75 65 38d38+5625 225d225+30 8d13+37 slash
+0 0 0 0 0
+A
+0 0 0 0
+CFK 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#8
+trolloc legion shadowspawn soldier~
+A ram-headed trolloc~
+A ram-headed trolloc with beady eyes is here
+~
+Standing at about nine feet tall, this ram-headed trolloc is the basis
+for many nightmares and stories that parents tell to scare their kids into
+bed.  He has cloven hooves for feet, but his normal hands are large and
+strong.  He is armored in leather and mail and looks ready to rip someones
+head off.  
+~
+amadician~
+ABT 0 0 0
+25 15 13d13+625 25d25+30 3d8+12 slash
+0 0 0 0 0
+A
+1 1 1 1
+CFK 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#10
+golden eye eyed wolf~
+a {yg{Yo{Wld{Ye{yn{x-eyed {Dw{wo{yl{Df{x~
+A {yg{Yo{Wld{Ye{yn{x-eyed {Dw{wo{yl{Df{x stands here, bearing its {Wteeth{x.
+~
+A mean looking {Dw{yo{wl{Df{x stands here, looking you up and down to determine
+whether you are friend or foe.  It pauses for a moment and then the fur
+stands up on its back.  The wolf bears its {Wteeth{x and snarls fiercely.  
+~
+wolf~
+A Jc 0 0
+35 25 18d18+1225 46d46+30 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+F aff Z
+F for V
+#15
+smith~
+Mr. Smith~
+{DA man in a pitch black suite stands here.{x
+~
+~
+fade~
+AB 0 0 0
+500 130 71d72+19600 700d700+30 15d15+70 none
+200 200 200 200 200
+A
+-1 -1 -1 -1
+0 abc 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+money 0 A
+1 0 0 0 0
+0 10 0 100
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money 0 A
+0 1 0 0 0
+0 10 0 100
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 100
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+money 0 A
+0 0 0 0 0
+0 10 0 100
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+money 0 A
+0 0 0 0 0
+0 10 0 100
+#6
+coin token~
+a gold coin with a special mark~
+A gold coin with a special mark is laying here.~
+gold~
+token U A
+0 0 0 0 0
+1 0 0 100
+#7
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+money 0 A
+1 0 0 0 0
+0 10 0 100
+#8
+steak~
+a nice, thick, juicy steak~
+a nice, thick, juicy steak lies here~
+meat~
+food 0 A
+48 48 0 0 0
+1 0 20 100
+#9
+a testing sword~
+A sword made for testing~
+A sword made for testing (level 39) is here~
+steel~
+weapon 0 AN
+exotic 4 9 'none' 0
+39 0 0 100
+A
+19 13
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+npc_corpse 0 A
+0 0 0 A 0
+0 1000 0 25
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+meat~
+pc_corpse O A
+0 0 0 A 0
+0 1000 0 25
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+trash 0 A
+0 0 0 0 0
+0 50 0 25
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+food 0 A
+16 16 0 0 0
+0 20 0 25
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+food 0 A
+20 20 0 0 0
+0 50 0 25
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+food 0 A
+20 20 0 0 0
+0 50 0 25
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+food 0 A
+5 5 0 A 0
+0 20 0 25
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+food 0 A
+10 10 0 0 0
+0 20 0 25
+#18
+small quiver~
+a small leather quiver~
+a small leather quiver to hold arrows~
+leather~
+container 0 AS
+100 0 0 200 200
+1 0 0 100
+#19
+paper note notepaper~
+a piece of paper~
+a piece of paper~
+paper~
+notepaper 0 AO
+0 0 0 0 0
+90 1 5 100
+#20
+berry~
+a berry~
+A berry is laying beneath a shrub.~
+food~
+food 0 A
+8 8 0 0 0
+0 10 0 100
+#21
+small flame~
+a small {Rflame{x~
+A small {Rflame{x hovers here, giving off a soft light.~
+energy~
+light A A
+0 0 999 0 0
+0 0 0 100
+#22
+spring~
+a spring~
+A spring flows from the ground here.~
+water~
+fountain G 0
+100000 100000 'water' 0 0
+0 0 0 100
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container GMPUYZ AQ
+0 E 0 0 0
+0 0 0 100
+#24
+quest object~
+a $N~
+a $N lies here~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#25
+gate gateway portal~
+the gateway~
+{WAn open gateway leading elsewhere in the pattern.{x~
+shadow~
+portal GOT 0
+0 0 A 0 0
+0 0 0 100
+#26
+firewall wall~
+the wall of fire~
+none~
+fire~
+firewall GO 0
+0 0 0 0 0
+0 0 0 100
+#27
+airwall wall~
+the wall of air~
+none~
+air~
+airwall GO 0
+0 0 0 0 0
+0 0 0 100
+#28
+portal stone~
+a small dark stone~
+a small dark stone lies here~
+stone~
+warp_stone 0 AO
+CEFGHI 0 A 0 0
+1 5 500 100
+#29
+forsaken ring angreal~
+a {Ddark{x ring~
+a {Ddark{x ring lies here~
+unknown~
+angreal Sb AB
+0 0 999 0 0
+90 0 50 100
+A
+28 100
+A
+30 100
+A
+29 100
+A
+27 100
+A
+26 100
+A
+26 50
+A
+27 50
+A
+29 50
+A
+30 50
+A
+28 50
+#30
+portal stone~
+a small, smooth stone~
+a small, smooth stone lies here~
+~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+#31
+tent~
+a small tent~
+Someone has erected a small tent~
+chain~
+container 0 AO
+1 ABCFG 0 10000 0
+30 0 50 100
+#32
+perfect wooden arrow~
+a perfect {ywooden {Da{wr{Wr{wo{Dw{x~
+A perfect {ywooden {Da{wr{Wr{wo{Dw{x has been dropped on the ground.~
+wood~
+weapon 0 AO
+arrow 10 15 'stab' 0
+35 1 100 100
+A
+19 9
+#33
+balefire terangreal staff~
+a long white staff~
+a long white staff~
+unknown~
+wand 0 AO
+100 999 999 'balefire' 0
+96 10 1000 100
+#34
+man angreal flowing robe crystal globe~
+A small statue of a man in flowing robes holding a crystal globe upwards in his left hand~
+A small statue of a man in flowing robes holding a crystal globe upwards in his left hand stands here~
+unknown~
+angreal 0 AOW
+0 0 999 0 0
+1 1 1000000 100
+A
+27 5000
+A
+30 5000
+A
+28 5000
+A
+29 5000
+A
+26 5000
+#35
+woman angreal flowing robe crystal globe~
+A small statue of a woman in flowing robes holding aloft a crystal globe~
+A small statue of a woman in flowing robes holding aloft a crystal globe stands here~
+unknown~
+angreal 0 AOX
+0 0 999 0 0
+1 1 1000000 100
+A
+26 5000
+A
+30 5000
+A
+29 5000
+A
+28 5000
+A
+27 5000
+#36
+katana sword heron ichymojo~
+a {Dh{re{Dr{ro{Dn{x-{Dm{rar{Dk{re{Dd{W katana{x~
+A {Dh{re{Dr{ro{Dn{x-{Dm{rar{Dk{re{Dd{W katana{x.~
+power-wrought~
+weapon GHMbc AN
+sword 15 16 'slice' DF
+90 4 1000 100
+A
+1 3
+A
+2 3
+A
+5 1
+A
+4 1
+A
+3 1
+A
+18 20
+A
+19 20
+A
+17 -15
+#37
+vomit puke gross~
+some vomit~
+A puddle of vomit is here, stinking.~
+energy~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#38
+rose~
+a red rose~
+A red rose is lying on the ground.~
+oldstyle~
+treasure 0 AE
+BC 0 0 0 0
+0 80 0 100
+E
+rose~
+It's a beautiful {Rred rose{x, with a soft and romantic fragrance.
+~
+#39
+sharpening stone~
+sharpening stone~
+A small, round {Ds{wt{Wo{wn{De{x with a flat side rests here. ~
+stone~
+gem 0 AO
+0 0 0 0 0
+10 1 100000 50
+#40
+blade of flame~
+a blade of pure {rfire{x~
+none~
+fire~
+weapon Mc N
+sword 0 0 'slice' AD
+0 0 0 100
+#41
+katana sword heron ichymojo~
+a {Dh{re{Dr{ro{Dn{x-{Dm{rar{Dk{re{Dd{W katana{x~
+A {Dh{re{Dr{ro{Dn{x-{Dm{rar{Dk{re{Dd{W katana{x.~
+power-wrought~
+weapon GHMbc AN
+sword 15 16 'slice' D
+90 4 1000 100
+A
+19 20
+A
+18 20
+A
+3 1
+A
+4 1
+A
+5 1
+A
+2 3
+A
+1 3
+A
+17 -15
+#42
+spear raven~
+a {Dr{Ya{Dv{Ye{Dn{x-{Dm{Yar{Dk{Ye{Dd {Yspear{x~
+A odd {Dblack-hafter{x spear with {Dr{Ya{Dv{Ye{Dn {Dm{Yar{Dk{Yin{Dgs{x, slightly curved and single-{Wedged{x, is here.~
+power-wrought~
+weapon GHMbc AN
+spear 15 16 'slice' D
+90 4 1000 100
+A
+19 20
+A
+18 20
+A
+3 1
+A
+4 1
+A
+5 1
+A
+2 3
+A
+1 3
+#43
+angreal stone~
+a small stone~
+A small stone is here.~
+stone~
+angreal 0 AO
+0 0 999 0 0
+0 1 100 100
+#44
+black sphere angreal~
+a thin {Ds{wi{Wlv{we{Dr{x chain adorned with a {Dblack{x sphere~
+A small {Dblack{x sphere attached to a silver chain lies here, looking harmless.~
+unknown~
+angreal Sb AC
+0 0 999 0 0
+90 0 0 100
+A
+27 10
+A
+28 10
+A
+29 10
+A
+30 10
+A
+26 10
+#45
+potion yellow vial~
+a bright yellow potion~
+a bright yellow potion bubbles here in its vial~
+cloth~
+potion 0 A
+90 'detect hidden' 'detect invis' 'cure poison' ''
+1 0 0 100
+#46
+ichymojo dagger dragon~
+a {Ddr{ra{Dg{ro{Dn{w-{Dh{rea{Dd{re{Dd {Wdagger{x~
+a {Ddr{ra{Dg{ro{Dn{w-{Dh{rea{Dd{re{Dd {Wdagger{x~
+power-wrought~
+weapon GMYbc AN
+dagger 15 16 'slice' D
+90 4 1000 100
+A
+1 1
+A
+2 1
+A
+5 1
+A
+4 1
+A
+3 1
+A
+19 14
+A
+18 14
+#47
+whitecloak sword~
+A {Wlongsword{x with a {Ygold{yen{x {yh{Yilt{x~
+A {Wlongsword{x with a {Ygold{yen{x {yh{Yilt{x has been stuck in the ground here.~
+Metal~
+weapon MPUYZbc AN
+sword 8 13 'none' 0
+75 10 5 100
+A
+19 9
+#48
+sungwood staff~
+a long {gsu{yngwo{god{x staff~
+A long staff made of {gsu{yngwo{god{x looks to be in {Wpe{xrfe{Wct{x condition.~
+sungwood~
+weapon GHMYbc AN
+staff 15 16 'thwack' F
+90 4 1000 100
+A
+1 3
+A
+19 20
+A
+18 20
+A
+2 3
+A
+4 1
+A
+3 1
+A
+5 1
+#49
+short handled battle axe~
+a short {Dha{yndl{Ded{x {rb{Dattl{re{x axe~
+A curved {Dm{Woo{Dn{x shape blade {Wgl{Di{Wst{De{Wns{x in the light, attached to a short {Dha{ynd{Dle{x.~
+metal~
+weapon GHMYbc AN
+axe 15 16 'cleave' D
+90 4 1000 100
+A
+19 20
+A
+18 20
+A
+3 1
+A
+5 1
+A
+4 1
+A
+2 3
+A
+1 3
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+You are surrounded by bleak nothingness. Hard to say what
+you did to get here, but you don't want to stay here to long.
+Especially, since this pit of gloom has become the haunting
+grounds for the most wretched and offensive being of them all.
+~
+0
+C 0
+D5
+~
+~
+0 0
+0 0 3
+S
+#2
+The Void~
+The Void encompasses all.
+~
+0
+C 0
+D1
+~
+~
+39 39
+2 0 3
+D4
+~
+~
+0 0
+0 0 3
+M 100 H 2
+S
+#3
+~
+The void is here, surrounding you. No light comes from anywhere.
+~
+0
+0 0
+D3
+~
+~
+39 39
+2 0 2
+D4
+~
+~
+0 0
+0 0 1
+D5
+~
+~
+0 0
+0 0 2
+S
+#4
+Death Room : In Limbo~
+You are here because your character is now dead.  Please write any notes
+that you need to write before continueing.  
+
+From this point you have two options:
+
+1) Delete
+
+2) Use the 'acceptdeath' command.  Read the help file for full usage.  
+
+If you choose the acceptdeath method, I do not recommend getting subdued
+before you have used the experience granted you to get back up to 75% of
+your previous level.  
+
+NOW would be the time to contact an immortal about using a Death Certificate
+if you have one.  
+~
+0
+CKNSV 0
+S
+#5
+Timeout Room~
+You are here because you have done something wrong.  
+
+Most likely, it was for running a bot in order to level.  
+
+I would suggest coming up with a very good reason as to why we shouldn't
+drop you to level 1 or delete you while you try and get in contact with
+Tykhon.  
+ 
+~
+0
+CDKNSTUV 0
+S
+#6
+Botters Room~
+This is the room you get transferred to if you are caught botting without
+being at the keys.  If you are here, and have not been deleted, consider
+this a warning.  Repeat offenses will result in the loss of skills and/or
+levels, or possibly even your character.  
+
+Recall out of here after reading this message.  
+~
+0
+C 0
+S
+#7
+Punishment Room~
+This is the punishment room.  You are here until the Imm's decide what to
+do with you for cheating or other abuse.  Any attempt to leave this room
+other than by an imm transferring you out will result in immediate deletion.
+
+If you want to explain your actions in a note, this is your one chance.  
+~
+0
+CDKNSTUV 0
+M 0 H 0
+S
+#8
+A Charity For The Needy~
+A sense of tranquility washes over those who enter this place of safety
+from the horrors of the world outside.  A large chest is against a wall for
+those in need.  
+ 
+You can enter the newbie-school by the small staircase leading up.
+~
+0
+BCKV 0
+D4
+~
+~
+0 0
+0 0 3791
+D5
+~
+~
+0 0
+0 0 62308
+S
+#10
+{x{YY{yas{mmi{Wne{x and {x{RT{ro{Dre{ra{Rn{x's {x{YHa{yp{mp{Wy {RP{rl{Da{rc{Re{x~
+{x{CW{ca{Wt{ce{Cr{x crashes down onto the {x{Dr{wo{Dc{wk{Ds{x beneath the {x{Wt{ww{Wi{wn {x{CW{ca{Wt{ce{Cr{cf{wa{Cl{cl{Ws{x and seems to
+{x{Wg{wl{Wi{wm{Wm{we{Wr{x soft shades of {x{Mpinks{x, {x{Bblues{x, and {x{mpurples{x with the setting {x{Ys{yu{Yn{x.  A
+large field stretches out from the {x{Wc{wr{Wy{ws{Wt{wa{Wl c{wl{We{wa{Wr {x{Cr{ci{Wv{ce{Cr{x and the tall {x{Gg{gr{Ga{gs{Gs{x
+sways seductively in the warm, gentle {x{Wbr{Ce{We{Cz{We{x.  Tiny {x{Ybut{yter{mfli{Wes{x flit just
+above the blades, alighting occasionally to kiss the tips of the {x{Gg{gr{Ga{gs{Gs{x,
+while somewhere out of sight, a tiny orchestra of {x{Dcrickets{x play a sweet love
+song.  The {x{Cs{ck{Cy{x is painted with brilliant hues of pastels and the air is
+soft, and fresh.  
+~
+0
+CDJKT 0
+S
+#20
+{DThe Dark Void{x~
+{rA dark void that seems to be no where or no place.  There seams to be no
+end or direction, but still a sense of motion fills the void.  {x 
+~
+0
+CNTV 0
+S
+#0
+
+
+
+#SPECIALS
+M 15 spec_mr_smith
+S
+
+
+
+#RESETS
+D 0 2 1 2
+D 0 3 3 2
+O 0 4264 0 8
+O 0 5875 0 10
+O 0 5993 0 10
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

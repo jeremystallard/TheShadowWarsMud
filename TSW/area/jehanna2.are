@@ -1,0 +1,8981 @@
+#AREADATA
+Name City of Jehannah~
+Builders Torean~
+VNUMs 20200 20499
+Credits {{all}  Otarin     Jehannah~
+Security 2
+Low 0
+High 0
+Flags 1
+Version 2
+End
+
+
+
+#MOBILES
+#20200
+Civil Watch~
+A member of the Civil Watch~
+A member of the Civil Watch is here keeping the peace. 
+~
+A man stands before you wearing a round steel cap and a leather
+studded jerkin.  He carries his quarterstaff like he knows how to use
+it.
+~
+unique~
+ABGT 0 200 0
+25 0 5d10+600 15d9+100 4d6+9 pound
+0 0 0 0 0
+-10 -8 -12 0
+CT 0 B LQ
+stand stand male 2000
+0 0 medium '0'
+#20201
+maid~
+Betsy the bored bar maid~
+Betsy is here taking orders 
+~
+The Betsy curtsies to you.   She winks and then turns away and yawns.
+~
+unique~
+ABGV H 0 0
+60 0 50d10+9500 50d10+100 5d10+30 slap
+0 0 0 0 0
+0 0 0 0
+N ABCD 0 0
+stand stand female 0
+0 0 medium '0'
+#20202
+hunter~
+Hunter of the Horn~
+A Hunter stands here looking for a trail to the Horn.
+~
+The Horn Hunter does not look like someone to be trifled with.
+Two swords are strapped to his back and he looks like he knows
+how to use them.
+~
+unique~
+ABGT DFHc 0 0
+80 2 50d10+25000 50d10+200 8d8+80 pierce
+0 0 0 0 0
+-30 -30 -30 10
+DL LQ 0 0
+stand stand male 12472
+0 0 medium '0'
+#20203
+mistress~
+Mistress Amelissa~
+Mistress Amelissa the owner of The Quail.
+~
+Mistress Amelissa the owner of the inn stands here scanning the
+common room. She's thinking about all the money she is making.
+A smile comes to her face as she tells you "10 silver for a room
+my Lord"
+~
+unique~
+ABGT DFHc 0 0
+85 0 50d10+25000 50d10+1500 8d8+80 grep
+0 0 0 0 0
+-30 -30 -30 -30
+DL ABLQ 0 0
+stand stand female 10587
+0 0 medium '0'
+#20204
+Soldier~
+a soldier~
+A soldier in the Ghealdan army is here standing watch.
+~
+The soldier wears a rimmed steel helm and a scaled tunic.  A sword hangs
+at his hip and he has a spear in his hand.  He has very disturbing eyes.
+Too intent, almost feverish.
+~
+mayener~
+ABGT Z 200 20000
+45 1 25d10+3250 50d10+1 8d4+16 pierce
+0 0 0 0 0
+-15 -12 -16 30
+CDFHU B 0 0
+stand stand male 2000
+G QV medium '0'
+#20205
+ghealdan officer~
+An Officer of the Ghealdan Army~
+An officer of the Ghealdan army is here standing watch.
+~
+The soldier wears a rimmed steel helm and a scaled tunic.  A sword hangs
+at his hip. A knot of rank on his cloak marks him an officer.
+~
+unique~
+ABGT 0 200 20000
+60 0 50d10+6000 50d10+1 5d8+19 slash
+0 0 0 0 0
+-7 -7 -7 10
+CDFU 0 0 0
+stand stand male 5712
+0 0 medium '0'
+#20206
+General~
+The General of Ghealdans' Armies~
+The General is here leading the Queens armies.
+~
+He is a thick fellow with his head shaved except for a grizzled top
+knot.  He has a villainous look; with a long red scar sliced down his
+cheek, and a patch over his eye is painted with a scowling red replacement.
+He has a sword strapped to his back; its hilt sticking over his right
+shoulder. He looks like he can use his sword.
+~
+unique~
+ABGT DFHNV 200 20000
+130 2 1d1+29999 1d1+1499 20d20+40 slash
+0 0 0 0 0
+-1000 -1000 -1000 -500
+ACDFU B 0 0
+stand stand male 20000
+0 0 medium '0'
+#20207
+Personal Guard~
+One of the Queens Personal Guard~
+A member of the Queens Personal Guard is here standing watch.
+~
+The soldier wears a rimmed steel helm and a scaled tunic.  A sword hangs
+at his hip. Two knots of rank on his cloak mark him an officer.  The ring 
+on his finger marks him as one of the Queens Personal Guards, and one of the 
+best that the Ghealdan army has to offer.
+~
+unique~
+ABGT DF 200 20000
+80 2 50d10+25000 50d10+200 8d8+80 slash
+0 0 0 0 0
+-30 -30 -30 10
+CDLU 0 0 0
+stand stand male 12472
+0 0 medium '0'
+#20208
+Archer~
+An Archer of The Queens Armies~
+An Archer is here standing watch.
+~
+The soldier wears a rimmed steel helm and a scaled tunic.  A sword hangs
+at his hip and he has a crossbow in his hand.  He has very disturbing eyes.
+Too intent, almost feverish.
+~
+unique~
+ABGT 0 200 20000
+55 1 25d10+3250 50d10+1 8d4+16 none
+0 0 0 0 0
+-15 -12 -16 30
+CDU B 0 0
+stand stand male 2000
+0 0 medium '0'
+#20209
+Ambassador~
+An Ambassador from a foreign land~
+An Ambassador is here hoping to see the Queen.
+~
+This man looks quite rich, yet he respects the power the Queen has in
+that he cowers before her.  If she has the power to make someone as
+powerful as him do this, she must be very influential.
+
+~
+unique~
+ABGT 0 0 0
+40 0 25d10+1400 100d1+1 4d10+13 pound
+0 0 0 0 0
+-10 -7 -13 0
+EF 0 0 M
+stand stand either 6000
+0 0 medium '0'
+#20210
+Queen Alliandre~
+Queen Alliandre~
+Alliandre, Blessed of the Light, The Queen of Ghealdan is here. 
+~
+She wears an elegantly gold-embroidered blue silk gown.  She is just
+short of her middle years and quiet lovely despite a nose that is perhaps
+to long for beauty.  A simple blue net cap gathers her dark hair that spills almost to her waist.  She bears herself with stately reserve and grace.
+~
+unique~
+ABG HNV 0 20000
+70 0 50d10+15000 100d1+1 8d8+30 scratch
+0 0 0 0 0
+-30 -30 -30 0
+DLU AB C 0
+stand stand female 5761
+0 0 medium '0'
+#20211
+Dungeonmaster~
+The Dungeonmaster~
+The Dungeonmaster is here preparing to torture a captive.
+~
+This man is very large and looks to be very mean.  You wouldn't doubt
+that he serves as both the executioner and torturer when the need
+arises.
+~
+unique~
+ABGTV V 0 0
+100 2 70d10+25000 500d1+1 10d8+50 slash
+0 0 0 0 0
+-60 -60 -60 -20
+ACDHKT A CN 0
+stand stand male 26412
+0 0 medium '0'
+#20212
+Dungeon Guard~
+A Dungeon Guard~
+A Dungeon Guard is here looking bored.
+~
+This man looks very bored.  Obviously none of the prisoners ever
+escape so he doesn't have much to worry about.  He looks like
+he is fairly capable with his weapons though.
+~
+unique~
+ABGT 0 200 20000
+45 1 25d10+3250 50d10+1 8d4+16 pierce
+0 0 0 0 0
+-15 -12 -16 30
+CDU B 0 0
+stand stand male 2000
+0 0 medium '0'
+#20213
+Captain Watch~
+The Captain of the Civil Watch~
+The Captain of the Civil Watch is here doing paperwork.
+~
+He is a very big man.  He has acquired this station, not by brains or
+charm, but by brute strength.  He is a former member of the Queens
+Personal Guards and was appointed to this post by the Queen.
+He believes that everything has to be hard won to be kept, and that
+laxity is for the weak.
+~
+unique~
+ABGT DF 200 20000
+80 2 50d10+25000 50d10+200 8d8+80 slash
+0 0 0 0 0
+-30 -30 -30 10
+CDLU 0 0 0
+stand stand male 12472
+0 0 medium '0'
+#20214
+Mayor~
+The Mayor of Jehannah~
+The Mayor is here trying to get reelected.
+~
+The mayor definitely deserves the name "Slick Willy".  That is what
+most of the city folk call him.
+~
+unique~
+ABG 0 0 0
+25 0 3d9+333 100d1+1 2d8+5 slice
+0 0 0 0 0
+0 0 0 20
+KN A 0 FG
+stand stand male 1723
+0 0 medium '0'
+#20216
+Recruiter~
+Recruiter~
+A recruiter for the Army of Ghealdan is here.
+~
+The recruiter looks like a veteran.  Numerous scars line his body.  He
+is here trying to intice young men into ruining their lives by joining
+the army. He looks at you and says 'How would you like to see the world
+and get paid all at the same time.'
+~
+unique~
+ABGT 0 200 20000
+50 0 50d10+5000 50d10+1 5d8+19 slash
+0 0 0 0 0
+-7 -7 -7 10
+CDFU 0 0 0
+stand stand male 5712
+0 0 medium '0'
+#20217
+Cook~
+A Cook~
+A cook is here stirring her pot.
+~
+She is a round women with her hair in a bun.  A apron is at her waste.
+Her arms are covered in flour up to her elbows.  She looks up as you
+enter, smiles and goes back to stirring her pots.
+~
+unique~
+ABGTV c 0 0
+35 0 6d12+853 200d1+1 4d6+8 pierce
+0 0 0 0 0
+-10 -10 -10 10
+CDEK AB E C
+stand stand female 2461
+0 0 medium '0'
+#20218
+Servant~
+Servant~
+A Servant is here hurrying about its duties.
+~
+The servant rushes about its duties all but ignoring you.
+~
+unique~
+ABGV 0 0 0
+30 0 5d12+800 200d1+1 4d6+4 slap
+0 0 0 0 0
+0 0 0 20
+0 A HIJ EG
+stand stand either 0
+0 0 medium '0'
+#20219
+Lord~
+A Lord~
+A Lord is here wasting time.
+~
+He wears fine silk clothing, and holds himself aloof.  He thinks he is
+better than everyone else because of who he was born to.  He refuses to
+even acknowledge your presence.
+~
+unique~
+ABGT 0 200 0
+45 0 25d10+3250 50d10+1 8d4+16 scratch
+0 0 0 0 0
+-15 -12 -16 30
+CD B 0 0
+stand stand male 2000
+0 0 medium '0'
+#20220
+Lady~
+A Lady~
+A Lady is here wasting time.
+~
+She wears fine silk clothing, and holds herself aloof.  She thinks she is
+better than everyone else because of who she was born to.  She refuses to
+even acknowledge your presence.
+~
+unique~
+ABGT 0 200 0
+45 0 25d10+3250 50d10+1 8d4+16 scratch
+0 0 0 0 0
+-15 -12 -16 30
+CD B 0 0
+stand stand female 2000
+0 0 medium '0'
+#20221
+Mother Guenna~
+Mother Guenna~
+Mother Guenna is here helping the sick
+~
+The wise woman looks stout but you can tell by the way she moves that
+
+she has a lot of muscle underneath.  Her Gray hair is arraigned in curls
+that hang down below her neck.  Three aprons, each a slightly darker
+shade of green then the one below it but still pale, hang at her waste. 
+She looks up from brewing some concoction and says 'Can I help you?'
+~
+unique~
+ABGa DF 500 0
+150 2 50d10+25000 50d10+200 8d8+8 slap
+0 0 0 0 0
+-30 -30 -30 10
+CDL ABCD 0 0
+stand stand female 0
+0 0 medium '0'
+#20222
+Seamstress~
+A Seamstress~
+A Seamstress is here selling the latest fashion.
+~
+She is handsome rather than beautiful and just short of her middle years.
+Her dress is of a good green wool, well cut and well made to show her 
+skill, but not so ornate as to overshadow her patrons.  A small bristling 
+pincushion is strapped to her wrist.  She curtsies to you and says 'My shop
+is yours.  How may I serve you?'
+~
+unique~
+ABG DF 500 0
+80 2 50d10+5000 50d10+200 8d8+8 slap
+0 0 0 0 0
+-30 -30 -30 10
+CDL ABCD 0 0
+stand stand female 5000
+0 0 medium '0'
+#20223
+Paedrig~
+Paedrig~
+Paedrig is here changing coins.
+~
+Paedrig is a grotesquely fat man dressed in rich clothes.  Apparently the
+money changing business pays quite well in this busy city, or possibly
+the rumors of his fencing services are true...
+~
+unique~
+ABGd DF 500 0
+80 2 50d10+5000 50d10+200 8d8+8 slap
+0 0 0 0 0
+-30 -30 -30 10
+CDL ABCD 0 0
+stand stand male 0
+0 0 medium '0'
+#20224
+Antique's Dealer~
+An Antique's Dealer~
+An Antique's Dealer is here selling precious objects.
+~
+The Antique's Dealer looks up as you enter, frowns, and then asks you in
+a snooty voice 'May I help you?'
+~
+unique~
+ABG DF 500 0
+80 2 50d10+5000 50d10+200 8d8+8 slap
+0 0 0 0 0
+-30 -30 -30 10
+CDL ABCD 0 0
+stand stand male 20000
+0 0 medium '0'
+#20225
+baker~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker.
+~
+unique~
+ABV 0 900 0
+23 0 1d6+999 1d6+99 1d8+20 beating
+0 0 0 0 0
+-15 -15 -15 -15
+CDF ABCD 0 0
+stand stand male 500
+0 0 medium '0'
+#20226
+Shop Keeper~
+A Shop Keeper~
+The Shop Keeper stands at the counter, with a slightly impatient look on
+his face.
+~
+The tall man looks like a former adventurer.  He had many scars that 
+
+cover his face.
+~
+unique~
+ABV 0 900 0
+23 0 1d6+999 1d6+99 1d8+20 beating
+0 0 0 0 0
+-15 -15 -15 -15
+EFJ ABCD 0 0
+stand stand male 1300
+0 0 medium '0'
+#20227
+Maid~
+A Maid~
+A Maid is here pretending to work.
+~
+The slender full-lipped girl with smokey eyes looks back at you and
+smiles invitingly.
+~
+unique~
+ABGH 0 10 0
+15 0 3d9+208 2d6+99 2d8+2 slap
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand female 100
+0 0 medium '0'
+#20228
+gray man~
+a gray man~
+An ordinary looking man stands here.
+~
+He is an ordinary looking fellow.  Young and of a slender build with medium
+height.  He wears a plain gray coat.
+~
+unique~
+ABFGT DFOVZ -1000 0
+80 5 2d8+31000 5d10+1 8d9+212 wrath
+0 0 0 0 0
+-310 -310 -320 -280
+ABCDEFGHIJKN C D EY
+stand stand none 0
+0 0 medium '0'
+#20229
+Scullion~
+Scullion~
+A Scullion is here cleaning up a mess.
+~
+She is an old woman.  Bent and hobbled.  Ugly does not begin to describe 
+her. She has a bony pointed chin, an even pointer, and shaper noise, and
+there seems to be more hair growing from her face than there is face.
+~
+unique~
+ABGH 0 0 0
+15 0 3d9+208 1d1+99 2d8+2 slap
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand female 100
+0 0 medium '0'
+#20230
+Excise Man~
+An Excise Man~
+An Excise man stands here looking for someone to tax.
+~
+He is a stout man and wears a chain with a seal hanging on it.  His blue
+coat with a double row of wooden buttons makes him stand out from
+the rest of the crowd on the dock. He stands here watching the vessels
+unload.
+~
+unique~
+ABGH 0 0 0
+20 0 3d9+208 1d1+99 2d8+2 slap
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand female 100
+0 0 medium '0'
+#20231
+Merchant~
+Merchant~
+A Merchant stands here looking rich and important.
+~
+The pale skinny fellow with gangly arms and a massive beak of a noise
+regards you with distaste. Then turns away.  Apparently you are not 
+worthy of his attention.
+~
+unique~
+ABGT 0 200 20201
+45 0 25d10+3250 50d10+1 8d4+16 scratch
+0 0 0 0 0
+-15 -12 -16 30
+CDU B 0 0
+stand stand male 2000
+0 0 medium '0'
+#20232
+Merchant Guard~
+A Merchant's Guard~
+A Merchant's Guard stands here waiting for his master.
+~
+The bulky man leans on his spear and looks at you with an apparent lack
+of interest.  On second glance you realize that his heavy-lidded eyes
+see everything.
+~
+unique~
+ABGT 0 200 20201
+25 0 5d10+600 15d9+100 4d6+9 pound
+0 0 0 0 0
+-10 -8 -12 0
+CTU 0 B LQ
+stand stand male 2000
+0 0 medium '0'
+#20233
+Innkeeper~
+An Innkeeper~
+An Innkeeper is here ignoring his patrons.
+~
+A bony man with long, stringy hair to his shoulders turns to scowl at
+you as you walk in.  He says 'What do you want?' as he rubs his hands on his long greasy apron.  'Well speak up, buy a drink or get out, I'm not 
+running a raree show.'
+~
+unique~
+ABGT DFHc 0 0
+85 0 50d10+25000 50d10+1500 8d8+80 grep
+0 0 0 0 0
+-30 -30 -30 -30
+DL ABLQ 0 0
+stand stand male 10587
+0 0 medium '0'
+#20234
+Patron~
+A Patron~
+One of the customers of this establishment is here enjoying the entertainment.
+~
+~
+unique~
+ABGH 0 0 0
+15 0 3d9+208 1d1+99 2d8+2 slap
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand either 100
+0 0 medium '0'
+#20235
+Gleeman~
+A Gleeman~
+A white haired Gleeman is here performing.
+~
+His hair is as white as snow; he is lean and would be considered tall if 
+not for the stoop to his shoulders.  He moves in a spry fashion that seems 
+to beliy his apparent age.  His cloak is a mass of colorful patches in odd 
+shapes and sizes, fluttering with every breath of air.  Thick mustaches, as 
+snowy as his hair, quiver around his mouth.  His face is Gnarled like a tree 
+that has seen hard times.  Blues eyes peer out at you from under his bushy
+white
+eyebrows.
+~
+unique~
+ABGT 0 200 0
+45 0 25d10+3250 50d10+1 8d4+16 scratch
+0 0 0 0 0
+-15 -12 -16 30
+CDU B 0 0
+stand stand male 2000
+0 0 medium '0'
+#20236
+Bard~
+A Bard~
+A Bard stands here looking important.
+~
+The bard stares contemptuously around the room.  He strolls along 
+plucking his harp and sometimes stops to declaim in High Chant.
+~
+unique~
+ABGT 0 200 20001
+45 0 25d10+3250 50d10+1 8d4+16 scratch
+0 0 0 0 0
+-15 -12 -16 30
+CDU B 0 0
+stand stand male 2000
+0 0 medium '0'
+#20237
+Acrobat~
+An Acrobat~
+An Acrobat is here performing.
+~
+~
+unique~
+ABGH 0 0 0
+15 0 3d9+208 1d1+99 2d8+2 slap
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand either 100
+0 0 medium '0'
+#20238
+Peasant~
+A Peasant~
+A peasant stands here looking poor.
+~
+He sulks from corner to corner, doorway to doorway imitating the slat
+ribbed dogs that sometimes snarl from the alleys.  He hunches over his
+knife and there is no way to tell if he will run or stab.
+~
+unique~
+ABGH 0 0 0
+15 0 3d9+208 1d1+99 2d8+2 pierce
+0 0 0 0 0
+-2 -5 2 -5
+F 0 0 0
+stand stand female 100
+0 0 medium '0'
+#20239
+Peasant~
+A Peasant~
+A peasant is here looking arrogant.
+~
+She parades around in a ragged dress and brass jewelry.  She carries a
+knife at her belt and her bold dark eyes issue ten kinds of challenges.
+~
+unique~
+ABGH 0 0 0
+15 0 3d9+208 1d1+99 2d8+2 slap
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand female 100
+0 0 medium '0'
+#20240
+Urchin~
+A Street Urchin~
+A street Urchin is here begging for coins.
+~
+The urchin looks thin and hungry.  Grubby; it looks like it hasn't seen
+a bath in years.  Maybe you could spare some coin for it.
+~
+unique~
+ABGH 0 0 0
+12 0 2d10+150 1d1+99 1d10+3 pierce
+0 0 0 0 0
+0 -5 2 -15
+F 0 0 0
+stand stand either 100
+0 0 medium '0'
+#20241
+Gray Man~
+A dirty looking peasant~
+A Dirty peasant is here fingering his knife.
+~
+It looks quiet ordinary.  In fact you probably wouldn't notice it in a 
+crowd of two.  Your eyes seem to slide right past him and you have to
+concentrate on it not to lose it in the crowd.
+~
+unique~
+AGS BPQ -700 0
+50 0 50d10+4500 1d1+1 5d8+25 pierce
+0 0 0 0 0
+-15 -20 -18 -20
+BDEFKN 0 0 0
+stand stand either 0
+0 0 medium '0'
+#20242
+Bear~
+A Bear~
+A huge Grizzly Bear is here foraging for food.
+~
+The bear is huge with dark brown fur and a large hump on his back.  He 
+looms over you.  It might be a good idea to walk away quietly and swiftly.
+~
+bear~
+ABCGU 0 0 0
+30 0 6d12+1000 1d1+1 4d6+10 claw
+0 0 0 0 0
+-10 -10 -10 -20
+F 0 0 0
+stand stand either 0
+0 0 large '0'
+#20243
+deer~
+A deer~
+A deer is grazing here.
+~
+The deer has a dark brown coat and a white tail.  It seems unaware of
+you.
+~
+pig~
+ABGHU 0 0 0
+12 0 2d10+100 1d1+1 1d10+3 bite
+0 0 0 0 0
+0 0 0 0
+FIV 0 0 0
+stand stand either 0
+d 0 medium '0'
+#20244
+Wolf~
+A Wolf~
+A large Gray Wolf is here stalking its prey.
+~
+The wolf is large and looks ferocious.  Fortunately for you its also
+seems timid around humans.
+~
+dog~
+ABGHU 0 0 0
+30 0 6d12+1000 1d1+1 4d6+10 bite
+0 0 0 0 0
+-10 -10 -10 -20
+F 0 0 0
+stand stand either 0
+d 0 large '0'
+#20245
+Mountain Lion~
+A Mountain Lion~
+A Mountain Lion is here hunting for food.
+~
+The Mountain Lion is large with big teeth and sharp claws.
+~
+cat~
+ABGHU 0 0 0
+30 0 6d12+1000 1d1+1 4d6+10 claw
+0 0 0 0 0
+-10 -10 -10 -20
+0 0 0 0
+stand stand either 0
+0 0 large '0'
+#20246
+Raven~
+A Raven~
+One of the Dark Ones eyes flies high above you.
+~
+A large black bird flies above you.  It seems to be watching you.
+~
+song bird~
+ABFGH 0 -500 0
+20 0 3d9+300 1d1+1 2d8+2 peck
+0 0 0 0 0
+0 0 0 0
+R 0 0 0
+stand stand either 0
+d 0 small '0'
+#20247
+Dockworker~
+A dockworker~
+A strong dockworker walks by moving crates.
+~
+Although seemingly dull witted, this hulking mass carries the huge
+crates from the boats like so many lilies.
+~
+unique~
+ABGT 0 0 0
+12 0 2d10+150 6d9+100 1d10+3 none
+0 0 0 0 0
+0 0 0 8
+EFNU 0 0 0
+stand stand male 60
+0 0 medium '0'
+#20248
+Hunter Horn~
+A Hunter for the Horn~
+A Hunter of the Horn stands here looking for a clue.
+~
+She is a blocky woman in divided brown skirts.  Her unblinking eyes
+catch everything belying the apparent placidity of her round face, and
+so does the studded cudgel at her belt that also holds a knife heavy
+bladed enough to suit an Aiel.
+~
+unique~
+ABGT DFHc 0 0
+45 2 50d10+25000 50d10+200 8d8+80 pierce
+0 0 0 0 0
+-30 -30 -30 10
+DL LQ 0 0
+stand stand female 12472
+0 0 medium '0'
+#20249
+Blacksmith smith~
+A Blacksmith~
+A Blacksmith is here working the bellows.
+~
+The Blacksmith is huge and looks very skilled.  He turns to you and
+says 'Is there something I can do for you?'
+~
+unique~
+ABGT 0 200 0
+80 0 1d1+20000 1d1+1 6d8+40 pound
+0 0 0 0 0
+-20 -30 -40 -10
+CEFHK 0 0 0
+stand stand male 0
+0 0 medium '0'
+#20460
+nubile servant~
+(no short description)~
+(no long description)
+~
+~
+unique~
+Aa 0 3 0
+25 7 5d4+1 0d0+0 2d8+2 punch
+0 0 0 0 0
+-1 0 -2 0
+0 0 0 0
+stand stand either 0
+HMV ABCDEFGHIJK medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#20200
+scaled tunic~
+a scaled tunic~
+A shirt of scale mail lies here.~
+steel~
+armor 0 AD
+12 13 12 10 2
+45 10 50 100
+A
+18 2
+A
+19 3
+#20201
+steel cap~
+a round steel cap~
+A round steel cap with a flat rim rests here.~
+steel~
+armor 0 AE
+15 15 15 15 4
+60 5 92 100
+A
+19 3
+#20202
+leather jerkin~
+a studded leather jerkin~
+A pile of studded leather lies here.~
+leather~
+armor 0 AK
+14 11 10 10 1
+45 10 70 100
+A
+1 1
+A
+18 1
+#20203
+quarterstaff~
+a quarterstaff~
+A thick pole of wood has been abandoned here.~
+wood~
+weapon 0 AN
+exotic 5 8 'crush' F
+25 4 95 100
+#20204
+steal cap~
+a steel cap~
+A steel cap rests here.~
+Steel~
+armor 0 AE
+11 11 12 11 4
+45 5 25 100
+A
+18 1
+A
+19 1
+#20205
+blue pants~
+a pair of blue pants~
+A pile of blue cloth lies here.~
+Cloth~
+armor 0 AF
+12 11 11 10 0
+45 4 40 100
+A
+18 2
+#20206
+black boots~
+a pair of black leather boots~
+A pair of leather boots lies here.~
+Leather~
+armor 0 AG
+11 11 11 12 1
+45 6 60 100
+A
+18 2
+A
+13 40
+#20207
+black gloves~
+a pair of black leather gloves~
+A pair of leather gloves lies here.~
+Leather~
+armor 0 AH
+10 12 13 10 1
+45 5 50 100
+A
+18 2
+A
+19 2
+#20208
+steel sword~
+a slightly curved steel sword~
+A slightly curved sword lies here.~
+steel~
+weapon 0 AN
+sword 8 9 'slash' D
+60 6 65 100
+A
+18 3
+A
+19 3
+#20209
+sword belt~
+a leather sword belt~
+A leather belt lies here, with places to sheath a sword and a knife.~
+leather~
+container 0 AL
+100 A 0 50 90
+45 4 85 100
+A
+18 2
+A
+19 2
+#20210
+spear~
+a spear~
+A short piece of thin wood with a sharp point is sitting here.~
+wood~
+weapon 0 AN
+staff 4 15 'slash' 0
+45 4 55 100
+A
+18 1
+A
+19 1
+#20211
+single knot rank~
+a single golden knot of rank~
+A knot of golden thread lies here.~
+gold~
+armor 0 AR
+15 15 15 15 1
+60 1 200 100
+A
+18 2
+A
+19 2
+#20212
+two knot rank~
+two golden knots of rank~
+Two knots of golden thread lie here.~
+gold~
+armor 0 AR
+25 25 25 25 1
+100 2 250 100
+#20213
+general's knot rank~
+a general's golden knot of rank~
+Four knots of golden thread lie here.~
+gold~
+armor 0 AR
+15 15 12 12 1
+80 5 300 100
+A
+18 4
+A
+19 5
+A
+13 100
+#20214
+general's sword~
+a general's sword~
+A fancy sword with a heron on its hilt lies here.~
+steel~
+weapon 0 AN
+sword 8 5 'slash' DG
+80 20 500 100
+A
+18 6
+A
+19 6
+#20215
+horn hunter's hungers sword hunter~
+a horn hunter's sword~
+An engraved sword that looks like it has never been used rests here.~
+steel~
+weapon 0 AN
+sword 7 5 'slash' D
+80 20 500 100
+A
+18 4
+A
+19 4
+#20216
+scabbard~
+a scabbard~
+A scabbard lies here.~
+leather~
+container 0 AR
+100 A 0 50 90
+70 10 70 100
+A
+13 25
+A
+19 3
+A
+2 1
+A
+17 10
+#20217
+dagger~
+a dagger~
+An ornate dagger that seems to smoke lies here.~
+steel~
+weapon 0 AN
+exotic 5 6 'slash' AH
+50 10 50 100
+A
+18 4
+A
+19 4
+#20218
+crossbow~
+a crossbow~
+A crossbow lies here.~
+wood~
+weapon 0 AN
+exotic 5 6 'slash' H
+55 20 100 100
+A
+18 3
+A
+19 3
+#20219
+sheath~
+a sheath for a knife~
+A leather sheath rests here.~
+leather~
+container 0 AM
+20 B 0 20 90
+45 3 70 100
+#20220
+throwing knife~
+a throwing knife~
+A well-balanced knife lies here.~
+steel~
+weapon 0 AN
+exotic 4 15 'slash' 0
+45 2 45 100
+#20221
+blue coat~
+a blue coat with a double row of wooden buttons~
+A pile of blue silk is here.~
+silk~
+armor 0 AD
+5 5 5 5 1
+20 5 100 100
+#20222
+chain seal~
+a chain with the seal of the queen~
+A small chain lies here.~
+steel~
+armor 0 AC
+4 3 5 8 0
+20 2 100 100
+#20223
+ring sigil house maritha~
+a ring with the sigil of House Maritha~
+A ring with a strange symbol lies here.~
+gold~
+armor 0 AB
+25 25 25 25 1
+100 2 300 100
+#20224
+steel sword~
+a slightly curved steel sword~
+A slightly curved sword lies here.~
+steel~
+weapon 0 AN
+sword 5 6 'slash' D
+100 25 400 100
+A
+19 3
+A
+18 3
+#20225
+steel sword~
+a slightly curved steel sword~
+A slightly curved sword lies here.~
+steel~
+weapon 0 AN
+sword 5 6 'slash' D
+50 25 400 100
+A
+18 3
+A
+19 3
+#20226
+steel sword~
+a slightly curved steel sword~
+A slightly curved sword lies here.~
+steel~
+weapon 0 AN
+sword 5 6 'slash' D
+80 25 400 100
+A
+19 3
+A
+18 3
+#20227
+spear~
+a spear~
+A short piece of thin wood with a sharp point is sitting here.~
+wood~
+weapon 0 AN
+staff 4 7 'slash' 0
+25 20 800 100
+A
+19 1
+A
+18 1
+#20234
+hunter's ring hunters hunter~
+a ring with a hunter on it~
+A ring with a strange symbol lies here.~
+gold~
+armor 0 AB
+11 11 12 11 1
+45 1 400 100
+A
+18 3
+A
+19 3
+#20235
+blue shirt~
+a blue silk shirt~
+A pile of blue cloth lies here.~
+silk~
+armor 0 AD
+12 10 13 10 1
+45 2 45 100
+A
+18 3
+A
+19 3
+#20236
+cudgel~
+a studded cudgel~
+A studded piece of metal lies here.~
+iron~
+weapon 0 AN
+exotic 4 15 'crush' b
+45 7 7 100
+#20237
+blue gown~
+a sky blue gown~
+A piece of blue silk lies here.~
+silk~
+armor 0 AD
+15 15 14 10 0
+60 20 500 100
+A
+13 20
+A
+18 1
+A
+19 2
+#20238
+net hair blue~
+a blue hair net~
+A piece of blue mesh lies on the ground.~
+cloth~
+armor 0 AE
+16 17 14 14 0
+60 8 75 100
+A
+18 3
+A
+19 3
+A
+13 50
+#20239
+pearl necklace~
+a necklace of pearls~
+A string of pearls lies here.~
+pearl~
+armor 0 AC
+12 11 12 10 1
+45 2 750 100
+A
+18 3
+A
+19 3
+#20240
+diamond ring~
+A Diamond Ring~
+A ring with a shiny stone in it lies here~
+gold~
+armor 0 AB
+8 8 8 8 2
+45 5 50000 100
+A
+18 2
+A
+19 2
+#20241
+Eye patch~
+An Eye Patch with an evil looking red eye on it~
+A villainous looking red eye stares back at you~
+leather~
+armor 0 AE
+15 15 12 10 0
+80 5 1000 100
+A
+18 4
+A
+19 4
+A
+5 2
+#20242
+wool dress~
+A stout wool dress~
+A dress cut in the Ghleadan Style hangs here~
+wool~
+armor N AD
+10 10 7 0 0
+50 10 10000 100
+A
+3 2
+A
+4 1
+#20243
+Silk Dress~
+a fancy silk dress~
+A silk dress in a Ghealdan cut hangs here.~
+silk~
+armor NW AD
+10 13 14 8 0
+45 5 200 100
+#20244
+Cup Tea Flatwort~
+A Cup of Flatwort Tea~
+A cup of tea has been left here to cool~
+glass~
+potion N AO
+60 'refresh' '' '' ''
+0 8 1500 100
+#20245
+Cup Tea Chainleaf~
+A Cup of Chainleaf Tea~
+A cup of tea has been left here to cool~
+glass~
+potion N AO
+60 'heal' '' '' ''
+0 8 1500 100
+#20246
+Cup tea White Fennel~
+A Cup of  White Fennel Tea~
+A Cup of tea has been left here to cool~
+glass~
+potion N AO
+60 'cure poison' '' '' ''
+0 8 1500 100
+#20247
+Cup tea Marshwhite~
+A Cup of Marshwhite Tea~
+A Cup of tea has been left here to cool~
+glass~
+potion N AO
+60 'cure disease' '' '' ''
+0 8 1500 100
+#20248
+Sigil Ring~
+A ring with a strange Sigil on it~
+A fancy looking ring lies here abandoned~
+gold~
+armor N AB
+8 8 8 8 2
+40 5 50000 100
+A
+18 2
+A
+19 2
+#20249
+Piece Heartstone~
+A piece of Heartstone~
+A piece of odd looking metal lies here~
+heartstone~
+jewelry NW AO
+0 0 0 0 0
+1 5 10000 100
+#20250
+Stone Ring~
+A Stone flecked ring~
+A Stone ring with red and blue flecks on it~
+stone~
+armor N AB
+12 10 8 13 2
+70 5 50000 100
+A
+2 2
+A
+3 3
+A
+5 2
+#20251
+Lightstick~
+A Lightstick~
+A plain glass rod lie here~
+glass~
+light N A
+0 0 999 0 0
+0 10 100000 100
+A
+17 15
+A
+3 1
+A
+2 1
+A
+1 1
+A
+13 50
+#20252
+Ivory Carving~
+An Age Dark Ivory Carving~
+An Ivory carving of a man holding a sword~
+ivory~
+jewelry N AO
+0 0 0 0 0
+0 10 125000 100
+A
+17 15
+A
+13 100
+#20253
+Disc White Black~
+A Thin Black and White Disc~
+A disc about the size of a man's hand lies here.~
+heartstone~
+jewelry N AO
+0 0 0 0 0
+0 10 1000000 100
+A
+17 150
+A
+2 2
+A
+3 2
+A
+5 2
+#20254
+Cup tea forkroot~
+A Cup of Forkroot Tea~
+A Cup of tea has been left here to cool~
+glass~
+potion N AO
+60 '' '' '' ''
+0 8 5000 100
+#20255
+Chair~
+a well-made {ychair{x~
+A few well-made {ychairs{x are here, waiting for someone to sit in them.~
+wood~
+furniture N A
+4 4000 BEH 125 125
+0 50 10000 100
+#20256
+Table chair~
+a wooden chair~
+Several {ywooden{x tables are scattered around the room, surrounded by four chairs.~
+wood~
+furniture N A
+20 20000 BEH 125 125
+0 500 50000 100
+#20257
+Bed~
+A Large Bed~
+A Large bed with Silk bedding beckons you to sleep on it~
+wood~
+furniture N A
+2 8000 BEHK 200 200
+0 1000 5000 100
+#20258
+Bed~
+A Large Bed~
+A Large bed with dirty bedding takes up most of the room~
+wood~
+furniture N 0
+2 8000 BEHK 200 200
+0 1000 5000 100
+#20259
+Bed~
+A Large Bed~
+A Large bed with clean bedding takes up most of the room~
+wood~
+furniture N 0
+2 8000 BEHK 200 200
+0 1000 5000 100
+#20260
+Hot Tub~
+A Hot Tub~
+A Hot tub is here beckoning you to step in and relax in it~
+wood~
+furniture 0 0
+2 8000 BEHK 150 100
+0 1000 500000 100
+#20261
+Couch~
+Leather Couch~
+A Leather Couch is here~
+leather~
+furniture 0 0
+2 8000 BEHK 150 100
+0 1000 500000 100
+#20262
+Fire Place~
+A Fire place~
+A Fire Place is here {rWarming{w the room.~
+brick~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#20263
+Keg~
+A Keg of beer~
+A Keg of Guiness Stout is here waiting to be drunk.~
+wood~
+fountain 0 0
+10000 10000 'dark ale' 0 0
+0 0 0 100
+#20264
+Keg~
+A Keg of beer~
+A Keg of Bell's Pale Ale is here waiting to be drunk.~
+wood~
+fountain 0 0
+10000 10000 'ale' 0 0
+0 0 0 100
+#20265
+Statue Fountain~
+A Statue with a Fountain~
+A Statue is here pouring water into a Fountain.~
+stone~
+fountain 0 0
+10000 10000 'water' 0 0
+0 0 0 100
+#20266
+Throwing Knife~
+A Throwing Knife~
+A well balanced knife lies here~
+steel~
+weapon N AN
+exotic 7 6 'slash' 0
+50 10 5000 100
+A
+18 3
+A
+19 2
+#20267
+shadowsteel heron blade~
+a gently curving {Dshadowsteel{x blade, bearing a {rblood-red{x heron mark~
+A slender shadow lies upon the ground, with a gentle glint in the moonlight.~
+steel~
+weapon MN AN
+sword 50 4 'slash' CE
+40 25 12000 100
+A
+19 10
+A
+1 7
+A
+18 10
+A
+2 7
+#20268
+Scaled Tunic~
+A Scaled Tunic~
+A shirt of Scale mail lies here~
+steel~
+armor N AD
+14 12 14 10 2
+40 100 20000 100
+A
+13 10
+A
+18 2
+A
+19 3
+#20269
+Steel Cap~
+A Round Steel Cap~
+A Round Steel Cap with a flat rim rests here~
+steel~
+armor N AE
+10 9 11 5 4
+40 20 8000 100
+A
+5 2
+A
+19 3
+#20270
+Pile coins~
+a pile of coins~
+A small pile of coins lays here.~
+gold~
+money 0 A
+0 100 0 0 0
+0 0 0 100
+#20271
+Streith Gown~
+a {Dstreith{x coat~
+A pile of transparent {Dcloth{x lies here.~
+Streith~
+armor 0 AD
+20 20 20 20 0
+80 3 80 100
+#20272
+green stone~
+a {gg{Gree{gn{x stone~
+A {gg{Gree{gn{x stone with strange symbols floats here.~
+stone~
+armor 0 AQ
+20 20 20 20 0
+80 10 100 100
+#20273
+fancloth cape~
+a {gfa{Dnc{gl{Do{gth{x battle cape~
+A {gc{Da{gpe{x made of strange material is here.~
+fancloth~
+armor JLMPU AK
+20 15 25 20 0
+80 4 1000 100
+#20274
+fancloth sleeves~
+a pair of {gfa{Dnc{gl{Do{gth{x sleeves~
+A pair of {gsl{De{gev{De{gs{x made from a strange material is lying here.~
+fancloth~
+armor 0 AI
+24 22 15 19 0
+80 2 50 100
+#20275
+bottle~
+bottle of wine~
+A bottle of {Rred wine{w is on ice next to the bed~
+glass~
+fountain 0 0
+10000 10000 'red wine' 0 0
+0 0 0 100
+#20276
+mirror~
+mirror~
+A mirror is on the ceiling over the bed~
+glass~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#20277
+cheese~
+a hunk of cheese~
+A hunk of cheese lies here.~
+oldstyle~
+food N A
+5 5 0 0 0
+0 10 4 100
+#20279
+dry rations~
+some dry rations~
+Some dry rations lie here.~
+oldstyle~
+food N A
+15 20 0 0 0
+0 20 24 100
+#20280
+iron rations~
+some iron rations~
+A tin of iron rations lies here.~
+oldstyle~
+food N A
+18 30 0 0 0
+0 10 50 100
+#20281
+leg lamb~
+a leg of lamb~
+A leg of land lies here.~
+oldstyle~
+food N A
+10 12 0 0 0
+0 20 10 100
+#20282
+side beef~
+a side of beef~
+A side of beef lies here.~
+oldstyle~
+food N A
+15 15 0 0 0
+0 50 20 100
+#20283
+whole chicken~
+a whole chicken~
+A whole skinned chicken lies here.~
+oldstyle~
+food N A
+12 12 0 0 0
+0 30 12 100
+#20284
+herring salted~
+a salted herring~
+A salted herring lies here.~
+oldstyle~
+food N A
+8 8 0 0 0
+0 10 8 100
+#20285
+mussel~
+a mussel~
+A mussel lies here.~
+oldstyle~
+food N A
+4 4 0 0 0
+0 10 4 100
+#20286
+none~
+none~
+none~
+cloth~
+trash 0 0
+B B AC 0 0
+0 0 10 100
+#20287
+none~
+none~
+none~
+cloth~
+trash 0 0
+BC BC B 0 0
+0 0 0 100
+#20288
+bottle grog~
+a bottle of grog~
+A bottle lies here.~
+oldstyle~
+drink N A
+16 16 'ale' 0 0
+0 10 8 100
+#20291
+whisky shot~
+a shot~
+A shot of strong liquor lies here.~
+oldstyle~
+drink N A
+2 2 'whisky' 0 0
+0 10 12 100
+#20292
+barrel beer~
+a barrel of beer~
+A beer barrel has been left here.~
+wood~
+drink N A
+300 300 'beer' 0 0
+0 160 75 100
+#20293
+bottle beer Molson Ice~
+a bottle of Molson Ice~
+A beer bottle has been left here.~
+glass~
+drink N A
+16 16 'beer' 0 0
+0 10 5 100
+#20294
+bottle Bell's Pale~
+a bottle of Bell's Pale~
+A dark bottle of ale has been left here.~
+glass~
+drink N A
+16 16 'ale' 0 0
+0 20 6 100
+#20295
+bottle firebreather~
+a bottle of firebreather~
+A bottle of firebreather has been left here.~
+glass~
+drink N A
+12 12 'firebreather' 0 0
+0 10 25 100
+#20296
+none~
+none~
+none~
+cloth~
+trash 0 0
+CD CD C 0 0
+0 0 0 100
+#20297
+potpie pot pie~
+a big pot pie~
+A big pot pie has been left here.~
+food~
+food N A
+20 40 0 0 0
+0 20 22 100
+#20298
+bread~
+a bread~
+A loaf of bread is here. It doesn't look too stale.~
+food~
+food N A
+18 12 0 0 0
+0 10 9 100
+#20299
+cinnamon roll~
+a cinnamon roll~
+A piping hot cinnamon roll is here. It looks delicious!~
+food~
+food N A
+4 8 0 0 0
+0 10 16 100
+#20300
+cookies~
+a batch of Sara's cookies~
+A plate of chocolate chip cookies is here.~
+food~
+food N A
+8 10 0 0 0
+0 10 11 100
+#20301
+danish blueberry~
+a blueberry danish~
+A scrumptious blueberry danish is here.~
+food~
+food N A
+8 6 0 0 0
+0 10 5 100
+#20302
+bowl beef stew~
+a bowl of beef stew~
+A bowl of nice thick beef stew, with lots of vegetables, steams here.~
+food~
+food N A
+25 25 0 0 0
+0 30 14 100
+E
+stew bowl~
+This is Jasin's special stew, guaranteed to keep hunger pangs away for many
+hours.  Care for a bite?
+~
+#20303
+biscuit~
+a biscuit~
+A yummy biscuit, covered with butter, is here.~
+food~
+food N A
+4 3 0 0 0
+0 10 5 100
+E
+biscuit~
+A nice, soft biscuit with just enough butter.  Better buy two.
+~
+#20304
+beer bottle killian irish red~
+a bottle of George Killian's Irish Red~
+A dark-tinted bottle of beer is here.~
+glass~
+drink N A
+16 16 'beer' 0 0
+0 20 20 100
+E
+beer bottle~
+It's a fine beer for serious drinkers, complete with the famous horse head
+logo.  Worth every penny.
+~
+#20305
+skin water buffalo~
+a buffalo water skin~
+A bloated dead buffalo is on the floor.~
+leather~
+drink N A
+64 64 'water' 0 0
+0 10 50 100
+#20306
+oil lamp oillamp~
+an oil lamp~
+An oil lamp lies here~
+oldstyle~
+light N A
+0 0 100 0 0
+0 10 50 100
+#20307
+backpack back pack~
+a backpack~
+A backpack lies here~
+oldstyle~
+container N AR
+100 A 0 10 100
+0 40 50 100
+#20308
+Key~
+A Key to the Vault~
+A small key lies here~
+steel~
+key 0 A
+0 0 0 0 0
+0 5 0 100
+#20309
+Key~
+a key to the cells~
+A small key lies here.~
+steel~
+key 0 A
+0 0 0 0 0
+0 1 10 100
+#20310
+Key~
+A Key to the Jail Cell~
+A key lies on the ground here~
+steel~
+key 0 A
+0 0 0 0 0
+0 5 0 100
+#20311
+Key~
+A Key to the Palace~
+A large golden key~
+gold~
+key 0 A
+0 0 0 0 0
+0 5 0 100
+#20312
+waygate~
+The Waygate~
+~
+stone~
+portal 0 0
+50000 ABC ABC 4246 0
+0 5 0 100
+#20313
+Leaf Avendesora~
+The trefoil leaf of Avendesora~
+The trefoil leaf of Avendesora lays on the Waygate, as if part of the carving.~
+trefoil~
+key 0 A
+DEGIJKLO 0 0 0 0
+151 5 0 100
+E
+leaf avendesora~
+It seems like part of the Waygate which you took it off of.
+Please drop this Leaf after you have used it.
+
+~
+#20333
+statues dana blonde blue eyes~
+a statue of dana~
+A statue of a woman with blonde hair, blue eyes and large breasts is here.~
+unknown~
+armor 0 AD
+5000 5000 5000 5000 0
+100 0 0 100
+A
+19 50
+A
+18 50
+#20334
+angie~
+angie~
+A statue of a shorter woman with brunette hair and nice breasts poses for you naked.~
+unknown~
+trash 0 0
+0 0 0 0 0
+100 0 0 100
+#20460
+tanks oxygen metal~
+a large metal oxygen tank{W~
+A large metal tank of Oxygen that looks recently used.{w~
+unknown~
+armor MN AT
+-50 -50 -50 -50 0
+0 15 0 100
+#20461
+soap bar~
+a bar of soap~
+A bar of soap is lying here, tantalizing you to pick it up.~
+soap~
+treasure IN AO
+0 0 0 0 0
+10 5 10000 100
+#20470
+set dog dog's teeth Fido Fido's vicious teeth~
+a set of dog's teeth~
+(no description)~
+unknown~
+weapon ABCGI AN
+exotic 10000 1000 'slash' ABCDEH
+0 0 0 100
+A
+18 200
+A
+19 100
+#0
+
+
+
+#ROOMS
+#20200
+The Palace Wall~
+You are on the palace wall.  From here you can see most of the city. 
+The wall continues to the west and east.  A set of Stairs leads down
+from here.
+~
+0
+0 1
+D1
+You see the palace wall.
+~
+~
+0 0
+0 -1 20208
+D3
+You see the palace wall.
+~
+~
+0 0
+0 -1 20368
+D5
+A set of stairs leads down into the darkness.
+~
+~
+0 0
+0 -1 20399
+S
+#20201
+The Palace Wall~
+You are on the palace wall.  From here you can see most of the city. 
+The wall continues to the north and south.
+~
+0
+0 1
+D0
+You see the palace wall.
+~
+~
+0 0
+0 -1 20365
+D2
+You see the palace wall.
+~
+~
+0 0
+0 -1 20368
+S
+#20202
+The Palace Wall~
+You are on the palace wall.  From here you can see most of the city. 
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+You see the palace wall.
+~
+~
+0 0
+0 -1 20205
+D3
+You see the palace wall.
+~
+~
+0 0
+0 -1 20365
+S
+#20203
+Storage Room~
+You stand within the Northeast tower in the Jheda palace.  This room is
+packed with the food and equipment needed to survive a long siege.  The
+door of the tower can be bared from the inside.  To the east is a courtyard.
+A spiral staircase leads up from here.
+~
+0
+D 0
+D3
+You see a courtyard
+
+~
+door~
+3 3
+1 -1 20212
+D4
+You see a guard house.
+~
+~
+0 0
+0 -1 20204
+S
+#20204
+Guard House~
+Narrow beds stacked one atop another line one wall, and racked halberds
+line another.  Crossbows with barrels of arrows line a third. A heavy, 
+battered table ringed by stools is in the corner.  A spiral staircase 
+leads up to the palace wall and down to the storage room.
+~
+0
+D 0
+D4
+You see the Palace Wall.
+~
+~
+0 0
+0 -1 20205
+D5
+You see a storage room.
+~
+~
+0 0
+0 -1 20203
+S
+#20205
+Palace Wall~
+You stand on the Northeast corner of the palace wall.  The wall continues
+to the south and west.  Stairs lead down from here.
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 -1 20209
+D3
+~
+~
+0 0
+0 -1 20202
+D5
+You see the Guard House.
+~
+~
+0 0
+0 -1 20204
+S
+#20206
+Storage Room~
+~
+0
+D 0
+D3
+You see a courtyard
+~
+door~
+3 3
+1 -1 20210
+D4
+You see a guard house.
+~
+~
+0 0
+0 -1 20207
+S
+#20207
+Guard House~
+Narrow beds stacked one atop another line one wall, and racked halberds
+line another.  Crossbows with barrels of arrows line a third. A heavy, 
+battered table ringed by stools is in the corner.  A spiral staircase 
+leads up to the palace wall and down to the storage room.
+~
+0
+D 0
+D4
+You see the Palace Wall.
+~
+~
+0 0
+0 -1 20208
+D5
+You see a storage room.
+~
+~
+0 0
+0 -1 20206
+S
+#20208
+Palace Wall~
+You stand on the Southeast corner of the palace wall.  The wall continues
+to the north and west.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20209
+D3
+~
+~
+0 0
+0 -1 20200
+D5
+You see the Guard House.
+~
+~
+0 0
+0 -1 20207
+S
+#20209
+The Palace Wall~
+You stand on the palace wall.  From here you can see the entire city.
+The wall continues to the north and south.
+~
+0
+0 1
+D0
+You see the palace wall.
+~
+~
+0 0
+0 -1 20205
+D2
+You see the palace wall.
+~
+~
+0 0
+0 -1 20208
+S
+#20210
+A Courtyard~
+You are in a round courtyard.  Half the white paved circle cuts into the
+the structure rising three stories above you.  The other half is bounded
+by a stone semi-circle atop pale columns five paces high, sticking out
+into a garden, with shaded walks beneath low spreading tress.  Marble
+benches surround a pool with lilypads and fish gold and white and red.
+There is a hallway to the west.  A huge stone tower is to the east.  A
+garden is to the north.
+~
+0
+0 1
+D0
+You see a Garden.
+~
+~
+0 0
+0 -1 20211
+D1
+You see a large tower set into the wall of the palace.
+~
+door~
+3 3
+1 -1 20206
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20378
+S
+#20211
+Garden~
+Shaded walks beneath low spreading tress wind between rows of flowers
+and bushes.  Marble benches surround  pools with lilypads and fish gold
+and white and red.  There are round courtyards to the north and south.
+~
+0
+0 1
+D0
+You see a courtyard.
+~
+~
+0 0
+0 -1 20212
+D2
+You see a courtyard.
+~
+~
+0 0
+0 -1 20210
+S
+#20212
+A Courtyard~
+You are in a round courtyard.  Half the white paved circle cuts into the
+the structure rising three stories above you.  The other half is bounded 
+by a stone semi-circle atop pale columns five paces high, sticking out
+into a garden, with shaded walks beneath low spreading tress.  Marble
+benches surround a pool with lilypads and fish gold and white and red.
+There is a hallway to the west.  A huge stone tower is to the east.  A
+garden is to the south.
+~
+0
+0 1
+D1
+You see a large tower set into the wall of the palace.
+~
+door~
+3 3
+1 -1 20203
+D2
+You see a Garden.
+~
+~
+0 0
+0 -1 20211
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20376
+S
+#20213
+Secret Stairway~
+You are on a set of stairs that look like they haven't been used for 
+centuries. They creak as you stand on them and they don't sound like they
+can hold much more weight.  The stairs lead down into the darkness.  A door
+is to the south.
+~
+0
+AD 0
+D2
+You see a door.
+~
+door~
+3 3
+1 -1 20266
+D5
+Its to dark to tell.
+~
+~
+0 0
+0 -1 20214
+S
+#20214
+Before A Doorway~
+You are at the bottom of a set of stairs before a steel door.  There is a
+seal on the door so that the room beyond is protected from the elements. 
+There is no handle on the door, however it looks like the door can be opened
+by a wheel that is built into it.  The stairs lead up into the darkness.  A
+door is before you to the east.  
+~
+0
+AD 0
+D1
+You see a door.
+ ~
+wheel~
+3 3
+1 -1 20215
+D4
+You see a set of stairs leading up into the darkness
+~
+~
+0 0
+0 -1 20213
+S
+#20215
+In the Stasis Box~
+You stand in a room that has probably not seen anyone for years.  There
+is no dust here, in fact the room is completely sealed from the elements. 
+There seems to be useless piles of rubbish strewn all over the room. 
+There is a door to the west.  It looks sealed and you see no way to open 
+it.
+~
+0
+ADN 0
+D3
+You see a door.  It doesn't appear to be operable.
+~
+door~
+39 39
+2 -1 20214
+S
+#20216
+In the Bowels of the Castle~
+There is no worked plaster of fine tapestries here.  Only bare stone and
+plain wood. Light in the halls comes from rush torches, smoking the 
+ceiling and spread far enough apart that the light fades between them.
+Stairs lead up to the main floor of the palace.  A narrow hallway leads south.
+~
+0
+D 0
+D2
+You see a narrow hallway.
+~
+~
+0 0
+0 -1 20217
+D4
+You see a set of stairs.
+~
+~
+0 0
+0 -1 20378
+S
+#20217
+In the Bowels of the Castle~
+There is no worked plaster of fine tapestries here.  Only bare stone and 
+plain wood. Light in the halls comes from rush torches, smoking the ceiling
+and spread far enough apart that the light fades between them.  Stairs
+lead down into the dark from here.  The hallway continues to the north and 
+south.
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20216
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20218
+D5
+You see a set of stairs leading down into the dark.
+~
+~
+0 0
+0 -1 20220
+S
+#20218
+In the Bowels of the Castle~
+There is no worked plaster of fine tapestries here.  Only bare stone and 
+plain wood. Light in the halls comes from rush torches, smoking the 
+ceiling and spread far enough apart that the light faded between them.  
+There is a door to the south.  The hallway continues to the north.
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20217
+D2
+You see a door.
+~
+door~
+39 39
+2 20308 20219
+S
+#20219
+In the Palace Treasury~
+You are in a large vault.  This is where the wealth of the Queen on 
+Ghealdan is kept.  There isn't much here.  The Queen seems rather poor.
+There is a door to the north.
+~
+0
+AD 0
+D0
+You see a door.
+~
+door~
+39 39
+2 20308 20218
+S
+#20220
+Guard Room~
+You are in a guard room within the palace dungeon.  A long table is in 
+the middle of the room with chairs around it.  Whips in different sizes, 
+lengths and thickness', with a number of different tails, pincers and tongs, and
+clamps, and irons line the wall.  Things that look like metal boots, and gauntlets,
+and helmets with great screws all over them as if to tighten them down are in racks
+along another wall.  Other various instruments that you can only guess the use of
+ rest along yet another wall.  There is an inner door to the south that leads to
+the cells.  A set of stairs lead up into the darkness.
+~
+0
+AD 0
+D2
+You see door.
+~
+door~
+3 3
+1 -1 20221
+D4
+You see a set of stairs.
+~
+~
+0 0
+0 -1 20217
+S
+#20221
+Guard Room~
+You are in a hall in the dungeon.  Rough wooden doors line the walls. 
+Rush torches provide the only light.  There are doors to the south,
+west and east.  A door to the north leads to the guard room.
+~
+0
+AD 0
+D0
+You see a door. 
+~
+door~
+3 3
+1 -1 20220
+D1
+You see a door.
+~
+door~
+39 39
+2 20309 20222
+D2
+You see a door.
+~
+door~
+39 39
+2 20309 20223
+D3
+You see a door.
+~
+door~
+39 39
+2 20309 20224
+S
+#20222
+In a Cell~
+You are in a cell deep within the Jheda Palace. The floor is bare, and cold,
+and hard.  The door of rough planks, is splintered as if countless futile
+fingers have clawed at it.  It is the only break in the gray stone walls.
+A single rush torch provides the only light.  Messages are scratched into
+the walls like:
+"The light have mercy on my soul and let me die".
+The only exit is the door to the west.
+~
+0
+AD 0
+D3
+You see a door.
+~
+door~
+39 39
+2 20309 20221
+S
+#20223
+In a Cell~
+You are in a cell deep within the Jheda Palace. The floor is bare, and
+cold, and hard.  The door of rough planks, is splintered as if
+countless futile fingers have clawed at it.  It is the only break in
+the gray stone walls.  A single rush torch provides the only light.
+Messages are scratched into the walls like:
+       "The light have mercy on my soul and let me die".  
+The only exit is the door to the north.
+~
+0
+AD 0
+D0
+You see a door.
+~
+door~
+39 39
+2 20309 20221
+S
+#20224
+In a Cell~
+You are in a cell deep within the Jheda Palace. The floor is bare, and 
+cold, and hard.  The door of rough planks, is splintered as if countless
+futile fingers have clawed at it.  It is the only break in the gray stone 
+walls.  A single rush torch provides the only light.  Messages are scratched
+into the walls like: 
+          "The light have mercy on my soul and let me die".
+The only exit is the door to the east
+~
+0
+AD 0
+D1
+You see a door.
+~
+door~
+39 39
+2 20309 20221
+S
+#20225
+In the Bowels of the Castle~
+There is no worked plaster of fine tapestries here.  Only bare stone and 
+plain wood. Light in the halls comes from rush torches, smoking the 
+ceiling and spread far enough apart that the light fades between them.  
+Stairs lead up to the main floor of the palace.  A narrow hallway leads north.
+~
+0
+D 0
+D0
+You see a narrow hallway.
+~
+~
+0 0
+0 -1 20226
+D4
+You see a set of stairs.
+~
+~
+0 0
+0 -1 20376
+S
+#20226
+In the Bowels of the Castle~
+There is no worked plaster of fine tapestries here.  Only bare stone and 
+plain wood. Light in the halls comes from rush torches, smoking the 
+ceiling and spread far enough apart that the light fades between them.  The 
+hallway continues to the south.  There are doors to the north, west and east.
+~
+0
+D 0
+D0
+You see a door.
+~
+~
+3 3
+1 -1 20227
+D1
+You see a door.
+~
+door~
+3 3
+1 -1 20228
+D2
+You see a  hallway.
+~
+~
+0 0
+0 -1 20225
+D3
+You see a door
+~
+door~
+3 3
+1 -1 20229
+S
+#20227
+In the Kitchen~
+You are in the kitchen of the Jheda Palace.  The room is huge.  Roasts 
+turn on spits.  Cooks are everywhere.  Stringing pots, slicing bread,
+cutting vegetables. Girls run in and out with plates and bowls carrying
+the food to the queen and her guests above.  A large counter of polished
+bone white lines one end of the room.
+~
+0
+D 0
+D2
+You see a door.
+~
+door~
+3 3
+1 -1 20226
+S
+#20228
+Larder~
+You are in a larder deep within the stone walls of the Jheda Palace. 
+This room is small for a storage area and the walls are lined with sturdy
+wooden shelves.  Various kinds of perserved food products are stored here.  
+~
+0
+D 0
+D3
+You see a door
+~
+door~
+3 3
+1 -1 20226
+S
+#20229
+Larder~
+You are in a larder deep within the stone walls of the Jheda Palace. 
+This room is small for a storage area and the walls are lined with sturdy
+wooden shelves.  Various kinds of perserved food products are stored here.  
+~
+0
+D 0
+D1
+You see a door
+~
+door~
+3 3
+1 -1 20226
+S
+#20230
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west.  The palace wall is to the east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20365
+D3
+~
+~
+0 0
+0 -1 20231
+S
+#20231
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20230
+D3
+~
+~
+0 0
+0 -1 20232
+S
+#20232
+The City Wall~
+You stand on the Northwest corner of the city wall.  From here you can
+see the entire city.  The wall continues to the west and south.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20231
+D2
+~
+~
+0 0
+0 -1 20233
+S
+#20233
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the north and south.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20232
+D2
+~
+~
+0 0
+0 -1 20234
+S
+#20234
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the north and south.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20233
+D2
+~
+~
+0 0
+0 -1 20235
+S
+#20235
+The City Wall~
+You stand on the Southwest corner of the city wall.  From here you can
+see the entire city.  The wall continues to the north and east.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20234
+D1
+~
+~
+0 0
+0 -1 20236
+S
+#20236
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20237
+D3
+~
+~
+0 0
+0 -1 20235
+S
+#20237
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20238
+D3
+~
+~
+0 0
+0 -1 20236
+S
+#20238
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20239
+D3
+~
+~
+0 0
+0 -1 20237
+S
+#20239
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20240
+D3
+~
+~
+0 0
+0 -1 20238
+S
+#20240
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.  A set of stairs leads down
+from here.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20241
+D3
+~
+~
+0 0
+0 -1 20239
+D5
+You see a set of stairs leading down into the dark.
+~
+~
+0 0
+0 -1 20257
+S
+#20241
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20242
+D3
+~
+~
+0 0
+0 -1 20240
+S
+#20242
+The City Wall~
+You stand on the Southeast corner of the city wall.  From here you can 
+see the entire city.  The wall continues to the west and north.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20243
+D3
+~
+~
+0 0
+0 -1 20241
+S
+#20243
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the north and south.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20244
+D2
+~
+~
+0 0
+0 -1 20242
+S
+#20244
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the north and south.  Stairs lead down from here.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20245
+D2
+~
+~
+0 0
+0 -1 20243
+D5
+A set of stairs leads down into the darkness.
+~
+~
+0 0
+0 -1 20319
+S
+#20245
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the north and south.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20246
+D2
+~
+~
+0 0
+0 -1 20244
+S
+#20246
+The City Wall~
+You stand on the Northeast corner of the city wall.  From here you can 
+see the entire city.  The wall continues to the south and east.
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 -1 20245
+D3
+~
+~
+0 0
+0 -1 20247
+S
+#20247
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall continues to the west and east.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20246
+D3
+~
+~
+0 0
+0 -1 20248
+S
+#20248
+The City Wall~
+You stand on the city wall.  From here you can see the entire city.
+The wall end here at a large cliff to the east.  It continues to the 
+west.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20247
+S
+#20249
+On the Lugard Road~
+The road is hard packed dirt, lined by tress on either side.  It runs 
+through low hills; cuts right through them sometimes if the hills are wide
+enough to make the road go much out of its way and not so big that the
+digging through was to difficult.  The road appears to be straight to the
+eye, but it is apparent by the angle of the sun that it curves slowly
+southward as it heads east. To the west is the gate of a city.  The road
+continues to the east.  Untamed forest is to the north and south.
+~
+0
+0 1
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20250
+D1
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20251
+D2
+You see a forest.
+~
+~
+0 0
+0 -1 20402
+D3
+You see the entrance to a city.
+~
+~
+0 0
+0 -1 20320
+S
+#20250
+Ridge Line~
+You stand on a ridge line over looking the Boern River.  It is to steep
+to descend to the bank of the river.  The trees are scattered and tall,
+making for easy travel even in the forest.  Oak, Pine and Leatherleaf
+predominate here.  There is the wall of a city to the west.  A road is to
+the south.  
+~
+0
+0 3
+D2
+You see a road.
+~
+~
+0 0
+0 -1 20249
+S
+#20251
+On the Lugard Road~
+The road is hard packed dirt, lined by tress on one side and a canyon on 
+the other.  The canyon is to steep to descend effectively blocking all 
+travel to the north.  The road appears to be straight to the eye, but it is 
+apparent by the angle of the sun that it curves slowly southward as it heads
+east. The road continues to the west and east.  Untamed forest is to south.
+~
+0
+0 1
+D1
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20400
+D2
+You see a forest.
+~
+~
+0 0
+0 -1 20403
+D3
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20249
+S
+#20252
+The Amador Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha.  To the north is the city of Jehannah.  South is the 
+Amador Road.
+~
+0
+0 1
+D0
+You see a wide boulevard.
+~
+gate~
+3 3
+1 -1 20253
+D2
+You see a road through a rugged and hilly forest.
+~
+~
+0 0
+0 -1 20409
+S
+#20253
+Inside the Amador Gate~
+You stand along the Amador road near the southern gate of the city of
+Jehannahh.  A few carts move down the street pulled by horse, ox, donkey 
+or even men.  The soldiers barracks is to the west.  A Smithy is to
+the east.  A large square is to the North.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20254
+D1
+You see what appears to be a smithy
+~
+~
+0 0
+0 -1 20258
+D2
+You see the southern entrance of the city
+~
+gate~
+3 3
+1 -1 20252
+D3
+You see the recruiting office for the Ghealdan Army
+~
+~
+0 0
+0 -1 20255
+S
+#20254
+Common Square~
+You are in a large square paved with stones worn by generations of
+feet and passing wagon wheels.  The Lugard and Amador Roads intersect
+here making this square the center of commerce for Jehannah. The square
+continues to the north, west and east.  The Amador road is to the south.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20259
+D1
+~
+~
+0 0
+0 -1 20260
+D2
+You see a road
+~
+~
+0 0
+0 -1 20253
+D3
+~
+~
+0 0
+0 -1 20261
+S
+#20255
+Recruiting Office~
+This is the main housing and training ground for the members of
+the Ghealdan army stationed in Jehannah.  Recruiting posters line the 
+walls calling young men to defend their country against the threat of 
+White Cloak dog robbers.
+~
+0
+D 0
+D1
+You see the Jehannah Road.
+~
+~
+0 0
+0 -1 20253
+D3
+You see the practice yard.
+~
+~
+0 0
+0 -1 20256
+S
+#20256
+The Tournament and Practice Yard~
+Various implements of destruction rest on racks that line the walls.
+New recruits are paired off  practicing the forms of the sword.
+
+~
+0
+D 0
+D1
+You see the recruiting office.
+~
+~
+0 0
+0 -1 20255
+D2
+You see the recruits living quarters
+~
+~
+0 0
+0 1 20257
+S
+#20257
+Barracks~
+One barrack lines up against another.  A heavy, battered table ringed by
+stools is in the corner. North is the Practice yard.  Stairs lead up to
+the city wall.
+~
+0
+DK 0
+D0
+~
+~
+0 0
+0 -1 20256
+D4
+The stairs lead up to the city wall
+~
+~
+0 0
+0 -1 20240
+S
+#20258
+In the Smithy~
+You walk into the smithy.  Its all one floor with no back wall except for
+two long wooden doors that stand open on a yard for shoeing horses and
+oxen, complete with an ox sling.  Hammers rest in their stands, tongs of 
+various kinds and sizes hang on the exposed wall joists, buttresses and 
+hoof knives and other farrier's tools lay neatly arranged on wooden 
+benches with chisels and beak irons and swages and all the implements of 
+the blacksmith craft.  Bins hold various lengths of iron and steel in 
+various thickness'.  Five grinding wheels of different roughness stand 
+about the hard dirt floor, along with six anvils, and three stone-sided 
+forges with their bellows, only one currently holds coals.
+~
+0
+0 1
+D0
+You see the common square
+~
+~
+0 0
+0 -1 20260
+D3
+You see a road
+~
+~
+0 0
+0 -1 20253
+S
+#20259
+The Common Square ~
+People pass by talking to each other, or rest their weary bones on this
+grassy field. You can hear faint sounds of the river to the north of you
+as it passes through the city. Lugard road heads east, the Mountain
+road runs west from here and the soaring spires of the Jheda Palace
+can be seen in the distance to the north.  South lies the Amador Road
+and the southern gate.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20262
+D2
+You see the Amador Road.
+~
+~
+0 0
+0 -1 20254
+D3
+~
+~
+0 0
+0 -1 20321
+S
+#20260
+The Common Square~
+You are standing on the common square.  A large, peculiar looking
+statue is standing in the middle of the square. There are plenty of odd
+folk here.   Some of them stand out in the crowd.  People with skin to 
+dark or pale, or with coats of strange cut or bright colors.   The Lugard 
+Road is to the  north and the common square continues to the west, and a
+smithy to the south.
+~
+0
+0 1
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20262
+D1
+~
+~
+0 0
+0 -1 20263
+D2
+You see a Smithy
+~
+~
+0 0
+0 -1 20258
+D3
+You see a large open square
+~
+~
+0 0
+0 -1 20254
+S
+#20261
+The Common Square~
+You are standing on the common square.  A large, peculiar looking
+statue is standing in the middle of the square.   There are plenty of
+odd folk here.  Some of them stand out in the crowd.  People with
+skin to dark or pale, or with coats of strange cut or bright colors.
+The Mountain Road is to the north and the common square
+continues to the east.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20321
+D1
+You see a large open  square
+~
+~
+0 0
+0 -1 20254
+S
+#20262
+The Lugard Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a
+carriage, all vivid paint and gilt squeeze through the throng behind
+a four or six horse team.  There is an inn to the south, and the road
+leads east towards the Lugard Gate and west into a large square.
+~
+0
+0 1
+D1
+The wide boulevard continues
+~
+~
+0 0
+0 -1 20275
+D2
+You see the entrance of a large inn
+~
+~
+0 0
+0 -1 20260
+D3
+You see a large square
+~
+~
+0 0
+0 -1 20259
+S
+#20263
+Entrance to the Quail~
+You stand before a broad stone building with a sign over the door
+creaking in the wind.  A white bird on a blue background with
+a green border.  The Quail.  South is the common room of the inn.
+The stable yard is east.
+~
+0
+0 1
+D2
+You see a common room
+~
+~
+1 1
+1 -1 20264
+D3
+You see the common square.
+~
+~
+0 0
+0 -1 20260
+S
+#20264
+Common Room~
+The room is large and paneled with dark wood,  and fires on two
+hearths warm the room.  A serving maid stands here sweeping the floor,
+despite the fact that it is already clean, another is polishing the 
+candle sticks in the corner.  They both look up and smile at you as you
+walk in. Only a few of the dozen tables have people at them, and while none
+look excited to see you at least they look clean and sober.  The smells of 
+baking bread and roasting beef drift from the kitchen.  The kitchen is to
+the north. There is a library to the west.  Stairs lead to the rooms above.
+~
+0
+D 0
+D0
+You see an exit
+~
+~
+1 1
+1 -1 20263
+D1
+~
+~
+0 0
+0 0 20265
+D3
+You see a library
+~
+door~
+3 3
+1 -1 20267
+D4
+~
+~
+0 0
+0 -1 20268
+S
+#20265
+The Kitchen~
+The smells of fresh hot bread and beef almost overwhelms you.  Hunger
+knaws at your stomach as if you haven't had anything to eat in days.  
+The cook looks up from her pot smiles and go back to stirring.  The stable
+yard is to the north and east, around the building through the east door. 
+The common room is to the north.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 20266
+D1
+You see the stable yard
+~
+~
+0 0
+0 -1 20266
+D3
+~
+~
+0 0
+0 0 20264
+S
+#20266
+The Stable Yard~
+The horses of the inns patrons are kept here.  To the south and
+west around the building is the kitchen. To the west around the building
+is the front of the inn.
+~
+0
+0 1
+D0
+~
+secret~
+3 3
+1 -1 20213
+D2
+~
+~
+0 0
+0 0 20265
+S
+#20267
+Library~
+The shelves must hold three or four hundred books.  Clothbound, or
+leather with gilded spines.  Only a few have wooden covers.  There are
+titles such as 'The travels of Jain Farstrider',  'The Essays of Willim 
+of Maneches' and 'Voyages Among the Sea Folk'.  A small fire place is
+in the corner and two chairs and a stones board are in front of it. Large
+leather bound chairs fill the room.  In short it is the perfect place to 
+curl up and read.  The common room is to the south.
+~
+0
+D 0
+D1
+You see the common room
+~
+door~
+3 3
+1 -1 20264
+M 150 H 150
+S
+#20268
+In the Inn~
+You are in a hallway in the inn.  The hallway continues to the North.
+There are rooms to the east and the west.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 -1 20271
+D1
+~
+Door~
+1 1
+1 -1 20269
+D3
+~
+Door~
+1 1
+1 -1 20270
+D5
+You see the common room
+~
+~
+0 0
+0 -1 20264
+S
+#20269
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in
+the corner.  The door to the west leads back into the hall.
+~
+0
+D 0
+D3
+~
+door~
+1 1
+1 -1 20268
+S
+#20270
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in 
+the corner.  The door to the east leads back into the hall.
+~
+0
+D 0
+D1
+~
+door~
+1 1
+1 -1 20268
+S
+#20271
+In the Inn~
+You are in a hallway in the inn.  There are rooms to the north, east and
+the west.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 -1 20274
+D1
+~
+Door~
+1 1
+1 -1 20272
+D2
+~
+~
+0 0
+0 -1 20268
+D3
+~
+Door ~
+1 1
+1 -1 20273
+S
+#20272
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in
+the corner.  The door to the west leads back into the hall.
+~
+0
+D 0
+D3
+~
+door~
+1 1
+1 -1 20271
+S
+#20273
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in
+the corner.  The door to the east leads back into the hall.
+~
+0
+D 0
+D1
+~
+door~
+1 1
+1 -1 20271
+S
+#20274
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in
+the corner.  The door to the east leads back into the hall.
+~
+0
+D 0
+D2
+~
+door~
+1 1
+1 -1 20271
+S
+#20275
+The Lugard Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a 
+carriage, all vivid paint and gilt squeeze through the throng behind a
+four or six horse team. To the south you see a tavern , the road leads
+east towards the Lugard Gate and west into the city.
+~
+0
+0 1
+D1
+The wide boulevard continues
+~
+~
+0 0
+0 -1 20280
+D2
+You see the entrance to a tavern~
+~
+0 0
+0 -1 20276
+D3
+The wide boulevard continues
+~
+~
+0 0
+0 -1 20262
+S
+#20276
+The Fox and Goose~
+The busy pub is filled with patrons.  People are laughing and singing.
+A Gleeman plays his lute in another part of the pub, and a few people
+are even dancing.  Jasin the pubs owner, wanders around and checks
+to see that the needs of his customers are met.  The bar is to your 
+south.  East of you is another section of the pub.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 -1 20275
+D1
+You see another room in the pub.
+~
+~
+0 0
+0 -1 20277
+D2
+The bar is to the south of you.
+~
+~
+0 0
+0 -1 20278
+S
+#20277
+A Room in the Pub~
+This part of the pub is filled with dancing and singing.  A wandering
+minstrel is on a chair in a corner with his lute.  A busty red headed
+woman is standing near him and singing a tale of comedic heroism. Drunk
+men sit laughing at their tables and busy bar maids weave through the
+crowd with full mugs and horns of ale and mead.  Another part of the pub
+is located to your west. The bar is to the south.
+~
+0
+D 0
+D2
+The bar is to your south.
+~
+~
+0 0
+0 -1 20279
+D3
+Another room in the pub is to your west.
+
+~
+~
+0 0
+0 -1 20276
+S
+#20278
+The Bar~
+A long mahogany bar is set in the back of the pub.  Mugs line a shelf
+behind the bar.  Bottles of strong, nasty looking liquids decorate one
+of the lower shelves.  A large cask rests on a table behind the bar.  A
+strong but friendly-looking bartender stands next to the cask polishing
+glasses.  A couple of the bar maids are in a corner and throw the most
+inviting glances your way.  A sign is on the wall.
+~
+0
+D 0
+E
+sign~
+The sign says: Don't forget our dinner menu.
+~
+D0
+The pub proper is to the north.
+~
+~
+0 0
+0 -1 20276
+S
+#20279
+The Bar~
+A long mahogany bar is set in the back of the pub.  Mugs line a shelf
+behind the bar.  Bottles of strong, nasty looking liquids decorate one
+of the lower shelves.  A large cask rests on a table behind the bar.  A
+strong but friendly looking bartender stands next to the cask polishing
+glasses.  A couple of the bar maids are in a corner and throw the most
+inviting glances your way.
+~
+0
+D 0
+E
+sign~
+The sign says: Don't forget our dinner menu.
+~
+D0
+The pub proper is to the north.
+~
+~
+0 0
+0 -1 20277
+S
+#20280
+The Lugard Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a 
+carriage, all vivid paint and gilt squeeze through the throng behind a
+four or six horse team. To the north is a smaller road, south you see a
+bakery , the road leads east towards the Lugard Gate and west into the
+city.
+~
+0
+0 1
+D0
+You see a smaller road
+~
+~
+0 0
+0 -1 20282
+D1
+The wide boulevard continues
+~
+~
+0 0
+0 -1 20314
+D2
+You see the entrance to a bakery~
+~
+0 0
+0 -1 20281
+D3
+The wide boulevard continues
+~
+~
+0 0
+0 -1 20275
+S
+#20281
+The Bakery~
+You are standing inside the small bakery.  A sweet scent of Danish and
+fine bread fills the room.  The bread and Danish are arranged in fine 
+order on the shelves, and seem to be of the finest quality.
+~
+0
+D 0
+D0
+You see the Boulevard.
+~
+~
+0 0
+0 -1 20280
+S
+#20282
+Boern Road~
+You stand on a smaller side street in Jehannah.  Its narrower than the 
+boulevard but still wide.  The crowds are lighter here.  Men approach 
+you, furtive types who offer relics of the Prophet for sale with darting 
+eyes and feet set to run.  The Road continues north towards the Boern 
+River.  South is the Lugar Boulevard.  To the west is a small house with
+herbs hanging in the windows.
+~
+0
+0 -1
+D0
+The Boern Road continues
+~
+~
+0 0
+0 -1 20285
+D1
+You see the entrance to a house
+~
+~
+0 0
+0 -1 20283
+D2
+You see a wide boulevard
+~
+~
+0 0
+0 -1 20280
+S
+#20283
+Small Yard~
+You are in a small yard before a house.  It's fenced in by the buildings
+around it.  A line of stones laid in the ground make a path to the door.
+Various herbs grow in the well tended garden.
+~
+0
+0 1
+D1
+You see a small kitchen
+~
+door~
+3 3
+1 -1 20284
+D3
+You see the Boern Road
+~
+~
+0 0
+0 -1 20282
+S
+#20284
+In a Kitchen~
+The kitchen is neat, and small, with copper pots hanging on the wall,
+and dried herbs and sausages from the ceiling.  Several tall cupboards
+of pale wood have doors carved with some sort of tall grass.  The
+table is scrubbed almost bone white, and the backs of the chairs have
+flowers carved into them.  Dishes line the mantel, and more a neatly
+stacked on shelves to either side.  The floor looks clean enough to
+eat off.  There is a small yard to the west.
+~
+0
+D 0
+D3
+~
+door~
+3 3
+1 -1 20283
+S
+#20285
+On the Boern Road~
+You stand on a smaller side street in Jehannah.  Its narrower than the 
+boulevard but still wide.  The crowds are lighter here.  Men approach 
+you, furtive types who offer relics of the Prophet for sale with darting 
+eyes and feet set to run.  The road continues north towards the Boern 
+River.  To the north and south the Boern Road continues.   To the west is
+a seamstress.  To the east is a dry goods store.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20288
+D1
+You see a large shop
+~
+~
+0 0
+0 -1 20286
+D2
+~
+~
+0 0
+0 -1 20282
+D3
+You see a small shop
+~
+~
+0 0
+0 -1 20287
+S
+#20286
+Seamstress Shop~
+The interior of the shop is not large and every scrap of the wall is 
+taken up by shelves holding bolts of silk or finely woven wool, spools
+of piping and binding, and ribbon, and lace of every width and description.
+Dressmaker's dummies stand about the floor wearing garments ranging from
+half-made to  complete, from something suitable for a dance in embroidered
+green wool to a pearly silk gown that could have done very well at a court.
+At first glance the shop has the look of prosperity and activity, but you 
+can see dust on many of the dresses.  The only exit is to the west.
+~
+0
+0 1
+D3
+You see the Boern Road
+~
+~
+0 0
+0 -1 20285
+S
+#20287
+Dry Goods Store~
+You are inside the Dry Goods store.  All sorts of items are stacked on
+shelves behind the counter, safely out of your reach.  Many of the items
+are intended for travelers and the shop keeper seems to do good business
+with Merchants and their guards.
+~
+0
+0 1
+D1
+You see the Boern Road
+~
+~
+0 0
+0 -1 20285
+S
+#20288
+On the Boern Road~
+The road begins a steep descent here.  You can see the river Boern in the
+distance below you.   The Jheda place can be seen in the distance to the 
+west, and the Mountains of Mist still further to the west.  The tall
+buildings below you stand crowded together, blocky structures  with
+scabrous once white plaster gone in huge places revealing the red brick
+below.  The sun does not reach into the shadows of the buildings.  The
+road heads down nearly a hundred paces or continues to the south.
+~
+0
+0 1
+D2
+You see the Boern Road.
+~
+~
+0 0
+0 -1 20285
+D5
+You see the Boern Road.
+~
+~
+0 0
+0 -1 20289
+S
+#20289
+On the Boern Road~
+Dingy laundry hangs from every third window in the buildings that are
+actually occupied.  A sour sweet smell of decay permeates the air, from
+last months chamber pots and garbage that lays wherever it was flung. 
+The entire area is in the flood plane of the Boern river.  This is
+definitely not one of the nicer parts of the city.  The Boern Road
+heads up nearly a hundred paces from here or continues north towards
+the Boern.
+~
+0
+A 1
+D0
+You can't see that far into the darkness.
+~
+~
+0 0
+0 -1 20290
+D4
+The Boern Road heads up here.
+~
+~
+0 0
+0 -1 20288
+S
+#20290
+On the Boern Road~
+Dingy laundry hangs from every third window in the buildings that are
+actually occupied.  A sour sweet smell of decay permeates the air, from
+last months chamber pots and garbage that lays wherever it was flung.
+The entire area is in the flood plane of the Boern river.  This is 
+definitely not one of the nicer parts of the city.   There is an Inn to
+the east. The Boern Gate is to the south. The road continues to the south.
+~
+0
+A 1
+D0
+You see the Boern Gate.
+~
+~
+0 0
+0 -1 20303
+D1
+You see the entrance to an Inn
+~
+~
+0 0
+0 -1 20291
+D2
+You can't see that far into the darkness
+~
+~
+0 0
+0 -1 20289
+S
+#20291
+Entrance to the Thieving Lion~
+You stand before a broad stone building with a sign over the door
+creaking in the wind.  A Lion and a dagger on a white background
+with a red border.  The Thieving Lion.  North is the common room
+of the inn.  The stable yard is east.
+~
+0
+0 1
+D0
+You see a common room
+~
+~
+0 0
+0 -1 20292
+D1
+You see a stable yard
+~
+~
+0 0
+0 -1 20294
+D3
+You see a road.
+~
+~
+0 0
+0 -1 20290
+S
+#20292
+Common Room~
+The room is large with cracking walls,  and no fires on either of the
+hearths.   A serving maid stands here holding a broom, but not sweeping,
+despite the fact that the floor is filthy, another is sleeping in the 
+corner. Neither look up as you walk in. Only a few of the dozen tables have 
+people at them, most are drunk and dirty.  The smells of burnt fish and
+stale beer drift from the kitchen.  The kitchen is to the north.  There
+is a library to the west.  Stairs lead to the rooms above.
+~
+0
+D 0
+D0
+You see the kitchen.
+
+ ~
+~
+0 0
+0 -1 20293
+D2
+You see an exit.
+~
+~
+0 0
+0 -1 20291
+D3
+You see a library.
+~
+door~
+3 3
+1 -1 20295
+D4
+~
+~
+0 0
+0 -1 20296
+S
+#20293
+The Kitchen~
+The smell of burnt fish and stale beer almost overwhelms you.  You
+feel ready to empty your stomach.  The cook looks up from her pot
+picks her nose and go back to stirring.  The stable yard is to the 
+north. The common room is to the south.
+~
+0
+D 0
+D0
+You see the stable yard.
+~
+~
+0 0
+0 -1 20294
+D2
+You see the common room.
+~
+~
+0 0
+0 -1 20292
+S
+#20294
+The Stable Yard~
+The horses of the inns patrons are kept here.  To the south
+is the kitchen.  It doesn't look like the yard has been cleaned
+in years.  Of course it probably hasn't seen a horse in years
+either.  The entrance to the Inn is around the building to the
+west.
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 -1 20293
+D3
+~
+~
+0 0
+0 -1 20291
+S
+#20295
+Libary~
+The shelves are empty.   A small fire place is in the corner and two
+chairs and a stones board are in front of it.  Large wooden chairs fill
+the room.  What is even more suprising is that it is full of disreputable
+looking men.  You seem to have stumbled on the Theives Guild of
+Jehannah.  The common room is to the south.
+~
+0
+D 0
+D1
+You see the common room.
+~
+door~
+3 3
+1 -1 20292
+M 90 H 90
+S
+#20296
+In the Inn~
+You are in a hallway in the inn.  The hallway continues to the North.
+There are rooms to the east and the west.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 -1 20299
+D1
+~
+Door~
+1 1
+1 -1 20297
+D3
+~
+Door ~
+1 1
+1 -1 20298
+D5
+You see the common room.
+~
+~
+0 0
+0 -1 20292
+S
+#20297
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on
+small  tables beside the bed provide the only illumination.  A small
+washstand is in the corner.  The door to the west leads back into the
+hall.
+~
+0
+D 0
+D3
+~
+door~
+1 1
+1 -1 20296
+S
+#20298
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on
+small  tables beside the bed provide the only illumination.  A small
+washstand is in the corner.  The door to the east leads back into the
+hall.
+~
+0
+D 0
+D1
+~
+door~
+1 1
+1 -1 20296
+S
+#20299
+In the Inn~
+You are in a hallway in the inn.  There are rooms to the
+north, east and the west.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 -1 20302
+D1
+~
+Door~
+1 1
+1 -1 20300
+D2
+You see a hall in the Inn.
+~
+~
+0 0
+0 -1 20296
+D3
+~
+Door ~
+1 1
+1 -1 20301
+S
+#20300
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in the
+corner.  The door to the west leads back into the hall.
+~
+0
+D 0
+D3
+~
+door~
+1 1
+1 -1 20299
+S
+#20301
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on small tables
+beside the bed provide the only illumination.  A small washstand is in
+the corner.  The door to the east leads back into the hall.
+~
+0
+D 0
+D1
+~
+door~
+1 1
+1 -1 20299
+S
+#20302
+Room in the Inn~
+You are in a small windowless room.  A pair of oil lamps on
+small tables beside the bed provide the only illumination.  A small
+washstand is in the corner.  The door to the east leads back into the
+hall.
+~
+0
+D 0
+D2
+~
+door~
+1 1
+1 -1 20299
+S
+#20303
+The Boern Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha. . The Boern Road leads north  from here over the Boern
+river and to the city docks.  To the south the Boern Road heads into the 
+center of Jehannah.
+~
+0
+0 1
+D0
+You see a bridge
+~
+~
+0 0
+0 -1 20304
+D2
+~
+gate~
+1 1
+1 -1 20290
+S
+#20304
+On the Boern Road~
+You stand on a road just outside of the southern gate of  Jehannah.
+At the moment this road is under about 4 inches of water.  A bridge
+spans the Boern river to the north the entrance to the city is south.
+~
+0
+0 6
+D0
+You see a bridge.
+~
+~
+0 0
+0 -1 20305
+D2
+You see the entrance to a city.
+~
+~
+0 0
+0 -1 20303
+S
+#20305
+On a Bridge~
+You stand on a lofted stone bridge that spans the River Boern.  It is
+suspended between two red metal pillars.  Upstream you can see a
+large waterfall.  To the south is the city of Jehannah.  North is the
+Boern Road.
+~
+0
+0 1
+D0
+You see the Boern Road.
+~
+~
+0 0
+0 -1 20306
+D2
+You see the Boern Road.
+~
+~
+0 0
+0 -1 20304
+S
+#20306
+On the Boern Road~
+You stand on the Boern Road at the base of a bridge leading over the
+Boern River.  There is a stone quay with docks jutting out into the 
+river to the west.  A lumber mill is to the north.
+~
+0
+0 1
+D0
+You see a lumber mill.
+~
+~
+0 0
+0 -1 20308
+D2
+You see a bridge.
+~
+~
+0 0
+0 -1 20305
+D3
+You see a stone quay.
+~
+~
+0 0
+0 -1 20307
+S
+#20307
+The Stone Quay~
+You stand on a long stone quay that runs for about half the length of the
+city.  Gray docks stretch out into the river with ships of all kinds attached
+to them.  They rock with the wind and rub against the docks despite the bags
+stuffed with wool hung down between for fenders.  The stone Quay continues
+to the west.  Docks stretch out into the river to the south. The Boern
+Road is to the east.  North are the warehouses that receive the goods
+shipped by the river.
+~
+0
+0 1
+D0
+You see a warehouse.
+~
+~
+0 0
+0 -1 20309
+D1
+You see the Boern Road.
+~
+~
+0 0
+0 -1 20306
+D2
+You see a dock.
+~
+~
+0 0
+0 -1 20311
+D3
+You see the stone quay.
+~
+~
+0 0
+0 -1 20312
+S
+#20308
+The Lumber Mill~
+You are in a lumber mill.  Wood is the primary export of Ghealdan and this
+is the processing center for it before it is sent down river or over land.
+A large water wheel turns the blade that cuts the wood.  Stacks upon stacks
+of wood are here waiting to be transported to the docks to be shipped
+around the world.
+~
+0
+D 0
+D2
+You see the Boern Road.
+~
+~
+0 0
+0 -1 20306
+S
+#20309
+Warehouse~
+You are standing in a large room used to store the wood made in the
+lumber mill before it is shipped off.
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 -1 20307
+D3
+~
+~
+0 0
+0 -1 20310
+S
+#20310
+Warehouse~
+Men walk to and fro counting crates and writing down their findings. This
+area of the warehouse is used for storing the materials brought in
+from areas outside the city. These goods are then delivered to the various
+stores. The export area of the warehouses is to the south.
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 -1 20309
+D2
+~
+~
+0 0
+0 -1 20312
+S
+#20311
+On the Dock~
+You stand on a dock in the Boern River.  Its a bustle of activity. 
+Shirtless Crewmen are busy unloading their ships.  Specialized ships
+are being loaded with the wood for which  Ghealdan is famous .  In short
+its a mad house.
+~
+0
+0 1
+D0
+You see the Quay.
+~
+~
+0 0
+0 -1 20307
+S
+#20312
+The Stone Quay~
+You stand on a long stone quay that runs for about half the length of the
+city.  Gray docks stretch out into the river with ships of all kinds 
+attached to them.  They rock with the wind and rub against the docks
+despite the bags stuffed with wool hung down between for fenders.  
+The stone Quay continues to the east.  Docks stretch out into the river
+to the south. North are the warehouses that receive the goods shipped by
+the river.  A waterfall blocks all travel to the west.
+~
+0
+0 1
+D0
+You see a warehouse.
+~
+~
+0 0
+0 -1 20310
+D1
+You see a Stone Quay.
+~
+~
+0 0
+0 -1 20307
+D2
+You see a dock.
+~
+~
+0 0
+0 -1 20313
+S
+#20313
+On the Dock~
+You stand on a dock in the Boern River.  Its a bustle of activity. 
+Shirtless Crewmen are busy unloading their ships.  Specialized ships
+are being loaded with the wood for which  Ghealdan is famous.  In short
+its a mad house.
+~
+0
+0 1
+D0
+On the Quay.
+~
+~
+0 0
+0 -1 20312
+S
+#20314
+The Lugard Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a carriage,
+all vivid paint and gilt squeeze through the throng behind a four
+or six horse team. South is the Furniture Shop. The road leads east
+towards the Lugard Gate and west into the city.
+~
+0
+0 1
+D1
+The wide boulevard continues.
+~
+~
+0 0
+0 -1 20316
+D2
+You see the entrance to the Furniture Shop.
+~
+~
+0 0
+0 -1 20315
+D3
+The wide boulevard continues.
+~
+~
+0 0
+0 -1 20280
+S
+#20315
+The Furniture Shop~
+You are in the best furniture maker in all of Jehannah.  He takes raw wood
+processed at the mill and turns it into works of art.
+~
+0
+D 0
+D0
+You see the Boulevard.
+~
+~
+0 0
+0 -1 20314
+S
+#20316
+The Lugard Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a carriage,
+all vivid paint and gilt squeeze through the throng behind a four
+or six horse team. East is the Lugard Gate, west the Lugard Road
+continues, and  north is a Guard House.
+~
+0
+0 1
+D0
+You see a Guard House.
+~
+~
+0 0
+0 -1 20317
+D1
+You see the Lugard Gate.
+~
+~
+0 0
+0 -1 20320
+D3
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20314
+S
+#20317
+Guard House~
+This is a small resting area for the troops stationed at the Lugard
+Gate.  There is very little threat of an invasion from Lugard so the
+troops are lax in their duties.
+~
+0
+D 0
+D2
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20316
+D3
+You see the practice yard.
+~
+~
+0 0
+0 -1 20318
+S
+#20318
+The Tournament and Practice Yard~
+Various implements of destruction rest on racks that line the walls.
+New recruits are paired off, practicing the forms of the sword.
+~
+0
+D 0
+D1
+You see the Guard House.
+~
+~
+0 0
+0 -1 20317
+D2
+You see the Guard's living quarters.
+~
+~
+0 0
+0 -1 20319
+S
+#20319
+Barracks~
+Narrow beds stacked one atop another line one wall, and racked halberds
+line another.  A heavy, battered table ringed by stools is in the corner.
+South is the Practice yard.  Stairs lead up to the city wall.
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 1 20318
+D4
+The stairs lead up to the city wall.
+~
+~
+0 0
+0 -1 20244
+S
+#20320
+The Lugard Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha. . The Lugard Road leads east from here through thick
+rolling forests.  West the Road heads into the center of Jehannah.
+~
+0
+0 1
+D1
+You see the Lugard Road.
+~
+gate~
+3 3
+1 -1 20249
+D3
+You see the wide boulevard~
+~
+0 0
+0 -1 20316
+S
+#20321
+On the Mountain Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a
+carriage, all vivid paint and gilt squeeze through the throng behind
+a four or six horse team.  The Common Square is to the south and
+east.  The Mountain Road leads west towards the  Mountain Gate.
+~
+0
+0 1
+D1
+You see the Common Square.
+~
+~
+0 0
+0 -1 20259
+D2
+You see the Common Square.
+~
+~
+0 0
+0 -1 20261
+D3
+The Mountain Road Continues.
+~
+~
+0 0
+0 -1 20322
+S
+#20322
+On the Mountain Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.  People
+fill the streets.  Sedan chairs are everywhere, polemen pushing along
+with never a care for the people they push aside.  Occasionally a
+carriage, all vivid paint and gilt squeeze through the throng behind
+a four or six horse team.  The Mountain Road leads west towards the
+Mountain Gate and east towards the Common Square.
+~
+0
+0 1
+D1
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20321
+D3
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20323
+S
+#20323
+On the Mountain Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking.
+Occasionally a carriage, all vivid paint and gilt squeezes through
+the throng behind a four or six horse team.  The Mountain Road
+leads west towards the Mountain Gate and east towards the Common
+Square.  The Jheda Road leads north towards the palace and the
+houses of the Nobility.  South is the Office of the Civil Watch.
+
+~
+0
+0 1
+D0
+You see the Jheda Road.
+~
+~
+0 0
+0 -1 20335
+D1
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20322
+D2
+You see the Office of the Civil Watch.
+~
+door~
+3 3
+1 -1 20324
+D3
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20329
+S
+#20324
+Office of the Civil Watch~
+You are inside a tidy office.  A big desk made from dark wood is standing
+in the center of the room.
+~
+0
+D 0
+D0
+You see the Mountain Road.
+~
+door~
+3 3
+1 -1 20323
+D3
+You see a sign saying 'KEEP OUT'.
+~
+door~
+1 1
+1 -1 20325
+S
+#20325
+The Waiting Room~
+You are standing in the waiting room at the town hall.  Wooden chairs stand
+along the walls and a long desk is placed in the middle of the room.
+~
+0
+D 0
+D1
+It looks like some kind of office.
+~
+door~
+3 3
+1 -1 20324
+D2
+You see an office.
+~
+door~
+3 3
+1 -1 20327
+D3
+You see an office.  The sign of the Door says Mayors office.
+~
+door~
+3 3
+1 -1 20326
+S
+#20326
+The Mayor's Office~
+You are in the not very big office of the Mayor of Jehannah.  A large and
+polished but completely empty desk is standing in front of an armchair that
+looks so comfortable that it most of all resembles a bed with the head end
+raised slightly.
+~
+0
+D 0
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably as in a bed.  All lecture halls should be equipped with these things.
+~
+D1
+The waiting room is to the east.
+~
+door~
+3 3
+1 -1 20325
+S
+#20327
+Captain's Office~
+You are in the Office of the Captain of the Civil Watch.  A Coat of
+Arms is hanging on the west wall and a heavy steel door is to the east.
+~
+0
+D 0
+E
+arms~
+Although a bit dusty the Coat of Arms is an excellent piece of work.
+~
+D0
+You see a waiting room.
+~
+door~
+3 3
+1 -1 20325
+D1
+You see a Jail cell.
+~
+door~
+39 39
+2 20310 20328
+S
+#20328
+The Jail~
+You are in a dark and humid jail.  The dark stone walls are hard and cold
+to the touch.  A heavy steel door is to the north.
+~
+0
+D 0
+D3
+You see the heavy steel door.
+~
+door~
+39 39
+2 20310 20327
+S
+#20329
+On the Mountain Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   A hum lies on the city, the steady drone
+of hundreds of shops working, thousands of people talking. 
+Occasionally a carriage, all vivid paint and gilt squeezes through
+the throng behind a four or six horse team.  The Mountain Gate is
+to the west and the road continues east.
+~
+0
+0 1
+D1
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20323
+D3
+You see the Mountain Gate.
+~
+~
+0 0
+0 -1 20330
+S
+#20330
+The Mountain Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha. . The Mountain  Road leads west from here into the
+foothills of the Mountains of Mist.  To the east the road leads into the
+center of Jehannah
+~
+0
+0 1
+D1
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20329
+D3
+You see a road leading west into the foothills of the Mountains of Mist.
+~
+gate~
+3 3
+1 -1 20418
+S
+#20331
+Jarmon's Office~
+This room is a warm looking room, carved out of marble.  Red velvet
+drapes hang over the windows, and a plush red carpet covers the floor. 
+Several tallow candles are up over the room to provide light, and a warm
+fireplace is in the back.  A desk with a large comforatble chair behind it
+is oppisite the fireplace.  
+~
+0
+D 0
+D5
+The pleasure Palace continues.
+~
+~
+0 0
+0 -1 20332
+S
+#20332
+Jarmon's Pleasure Palace~
+~
+0
+D 0
+D1
+The Palace Continues.
+~
+~
+0 0
+0 -1 20333
+D3
+~
+~
+0 0
+0 0 20460
+D4
+The Pleasure Palace continues.
+~
+~
+0 0
+0 -1 20331
+S
+#20333
+Jarmon's Pleasure Palace~
+~
+0
+DJ 0
+D0
+The Palace Continues.
+~
+~
+0 0
+0 -1 20332
+D1
+~
+~
+0 0
+0 0 20462
+S
+#20334
+The Antigue's Shop~
+The shop is small but the wares are very, very rich.  The Antique Dealer 
+even has some heartstone on display.
+~
+0
+D 0
+D3
+You see a road.
+~
+~
+0 0
+0 -1 20335
+S
+#20335
+The Jheda Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   Its quiet here with only the occasional
+passing carriage breaking the silence.  There are few people here. 
+Most are dressed in silk.  The road continues to the north over
+rolling hills.  South is the mountain road.  West is Paedrig's shop.
+East is the Antique's Dealers.
+~
+0
+0 1
+D0
+The Road rises over a small hill.
+~
+~
+0 0
+0 -1 20337
+D1
+You see a shop.
+~
+~
+0 0
+0 -1 20334
+D2
+You see the Mountain Road.
+~
+~
+0 0
+0 -1 20323
+D3
+You see the Money changers.
+~
+~
+0 0
+0 -1 20336
+S
+#20336
+A Money Changer's Room~
+A few strategically placed lanterns keep this place well-lit in the
+absence of any windows.  The room is surprisingly well appointed with
+tapestries hanging on the walls.  You'd wager your life the moneylender's
+guards are behind them, as there are none here.  The moneylender himself
+works from behind a large desk, no doubt holding a fortune in gold and
+silver.  A smallish sign hangs on the wall, lettered in common.  
+~
+0
+D 0
+E
+tapestries walls~
+You think about peeking behind the tapestries, but think better of it.
+~
+E
+sign~
+Give me your coins, and I shall change them for you, taking but 1 in 20 for
+my fee.  --- Paedrig the Changer
+~
+D1
+You see the Jheda Road.
+~
+~
+0 0
+0 -1 20335
+S
+#20337
+The Jheda Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   Its quiet here with only the occasional
+passing carriage breaking the silence.  There are few people here. 
+Most are dressed in silk.  The road continues to the north into the
+Jheda Plaza.  South the Jheda Road Continues.  The Manor of
+a Lord is to the west.
+~
+0
+0 1
+D0
+The Road rises over a small hill.
+~
+~
+0 0
+0 -1 20344
+D2
+You see the Jheda  Road.
+~
+~
+0 0
+0 -1 20335
+D3
+You see the Manor of a Lord.
+~
+door~
+3 3
+1 -1 20338
+S
+#20338
+Entrance to a Lord's Manor~
+The Manor covers as much ground as a fortress,  with all its walls and
+outbuildings.  Its no fortress though with tall windows everywhere and
+lights, and the sounds of music drifting out.  Yet there are Guards roaming
+the tower tops and the roofwalks, and none of the windows are close to the
+ground.  Two very large wood doors make an entrance to the manor.
+~
+0
+0 1
+D1
+You see the Jheda Road.
+~
+door~
+3 3
+1 -1 20337
+D3
+You see a small outer hall for servants.
+~
+~
+0 0
+0 -1 20339
+S
+#20339
+Outer Hall~
+The outer hall holds only servants of the Lords and Ladies who are
+attending the ball.  To the west is the Great Room.  You can hear
+voices and music drifting from there.  The kitchens are below.
+~
+0
+D 0
+D0
+The Great Room.
+~
+~
+0 0
+0 -1 20340
+D1
+You see the Exit.
+~
+~
+0 0
+0 -1 20338
+D5
+You see the Kitchens.
+~
+~
+0 0
+0 -1 20342
+S
+#20340
+The Great Room~
+The room is filled with Nobles.  A juggler is performing at one end of
+the room and tumblers at the other.  The juggler is tossing hoops that
+almost hit the plaster worked ceiling 4 spans above.  The tumblers
+perform without an audience, the lords and ladies to involved in the
+Great Game to even notice. There is another Great Room to the West.  
+A hall for the servants is to the south.
+~
+0
+D 0
+D2
+You see the Servants Hall.
+~
+~
+0 0
+0 -1 20339
+D3
+You see a Great Room.
+~
+~
+0 0
+0 -1 20341
+S
+#20341
+Great Room~
+The room is filled with Nobles.  A juggler is performing at one end of
+the room and tumblers at the other.  The juggler is tossing hoops that
+almost hit the plaster worked ceiling 4 spans above.  The tumblers
+perform without an audience, the lords and ladies to involved in the
+Great Game to even notice. There is another Great Room to the east.  
+~
+0
+D 0
+D1
+You see a Great Room.
+~
+~
+0 0
+0 -1 20340
+S
+#20342
+The Kitchens~
+There is no worked plaster of fine tapestries here.  Only bare stone and 
+plain wood. Light in the halls comes from rush torches, smoking the ceiling
+and spread far enough apart that the light faded between them.  There is an
+exit to the south into a garden beyond
+~
+0
+D 0
+D2
+You see an exit to a garden.
+~
+~
+0 0
+0 -1 20343
+D4
+You see the stairs to the main floor.
+~
+~
+0 0
+0 -1 20339
+S
+#20343
+In the Garden~
+Walks made of bricks wind between the square flower beds.  Bushes
+display their bright flowers, and small pools dot the landscape.  Small
+benches are set between the beds for people to enjoy the view.  The
+entrance to the kitchens is to the north
+~
+0
+0 1
+D0
+You see the kitchens.
+~
+~
+0 0
+0 -1 20342
+S
+#20344
+Jheda Plaza~
+You are in an oval plaza in front of the Jheda Palace. A magnificently
+crafted gate made of Heartstone rises before you. The splendor of spiraling
+towers can be seen beyond the Gate. The Jheda Road continues to the
+north.  Large manors on rolling hills can be seen to the west.
+~
+0
+0 1
+D0
+You see the Jheda Road.
+~
+~
+0 0
+0 -1 20359
+D1
+You see a courtyard before a palace.
+~
+gate~
+39 39
+2 20311 20362
+D2
+You see the Jheda Road.
+~
+~
+0 0
+0 -1 20337
+D3
+You see a small road running through rolling hills.
+~
+~
+0 0
+0 -1 20345
+S
+#20345
+On a Small Road~
+You stand on a small road leading through rolling hills.  It hard to
+believe you are still in the same city.  Only the richest nobles live
+here.  Their manor houses are almost as ornate as the palace, and cover
+as much ground.  It is very easy to see where the true power in Ghealdan
+lies.  A manor house is to the South.  The Road continues to the west.
+
+~
+0
+0 1
+D1
+You see a large open area.
+~
+~
+0 0
+0 -1 20344
+D2
+You see the entrance to a Manor House.
+~
+~
+0 0
+0 -1 20346
+D3
+You see a winding road.
+~
+~
+0 0
+0 -1 20352
+S
+#20346
+Entrance to a Lord's Manor~
+The Manor covers as much ground as a fortress,  with all its walls and
+outbuildings.  Its no fortress though with tall windows everywhere and
+lights, and the sounds of music drifting out.  Yet there are Guards roaming
+the tower tops and the roofwalks, and none of the windows are close to the
+ground.  Two very large wood doors make an entrance to the manor.
+~
+0
+0 1
+D0
+You see a small winding road.
+~
+~
+0 0
+0 -1 20345
+D3
+You see a small outer hall for servants.
+~
+door~
+3 3
+1 -1 20347
+S
+#20347
+Outer Hall~
+The outer hall holds only servants of the Lords and Ladies who are
+attending the ball.  To the west is the Great Room.  You can hear
+voices and music drifting from there.  The kitchens are below.
+~
+0
+D 0
+D0
+The Great Room.
+~
+~
+0 0
+0 -1 20348
+D1
+You see the Exit.
+~
+door~
+3 3
+1 -1 20346
+D5
+You see the Kitchens.
+~
+~
+0 0
+0 -1 20350
+S
+#20348
+The Great Room~
+The room is filled with Nobles.  A juggler is performing at one end of
+the room and tumblers at the other.  The juggler is tossing hoops that
+almost hit the plaster worked ceiling 4 spans above.  The tumblers
+perform without an audience, the lords and ladies to involved in the
+Great Game to even notice. There is another Great Room to the West.  
+A hall for the servants is to the south.
+~
+0
+D 0
+D2
+You see the Servants Hall.
+~
+~
+0 0
+0 -1 20347
+D3
+You see a Great Room.
+~
+~
+0 0
+0 -1 20349
+S
+#20349
+Great Room~
+The room is filled with Nobles.  A juggler is performing at one end of
+the room and tumblers at the other.  The juggler is tossing hoops that
+almost hit the plaster worked ceiling 4 spans above.  The tumblers
+perform without an audience, the lords and ladies to involved in the
+Great Game to even notice. There is another Great Room to the East.  
+~
+0
+D 0
+D1
+You see a Great Room.
+~
+~
+0 0
+0 -1 20348
+S
+#20350
+The Kitchens~
+There is no worked plaster of fine tapestries here.  Only bare stone and 
+plain wood. Light in the halls comes from rush torches, smoking the 
+ceiling and spread far enough apart that the light faded between them. 
+There is an exit to the south into a garden beyond
+~
+0
+D 0
+D2
+You see an exit to a garden.
+~
+~
+0 0
+0 -1 20351
+D4
+You see the stairs to the main floor
+~
+~
+0 0
+0 -1 20347
+S
+#20351
+In the Garden~
+Walks made of bricks wind between the square flower beds.  Bushes
+display their bright flowers, and small pools dot the landscape.  Small
+benches are set between the beds for people to enjoy the view.  The
+entrance to the kitchens is to the north.
+~
+0
+0 1
+D0
+You see the kitchens.
+~
+~
+0 0
+0 -1 20350
+S
+#20352
+On a Winding Road~
+The road continues through the winding hills until it reaches the wall of
+the city.  The city park is to the North.  A small road heads through
+rolling hills to the east.
+~
+0
+0 1
+D0
+You see a large open area.
+~
+~
+0 0
+0 -1 20353
+D1
+You see a small road winding through rolling hills.
+~
+~
+0 0
+0 -1 20345
+S
+#20353
+The Garden Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha. This is no public park.  Maybe the guards will be to
+busy to bother with trespassers.  A slate paved walk meanders through
+the park. To the south is a small road.
+~
+0
+0 1
+D0
+The meandering walk continues.
+~
+~
+0 0
+0 -1 20355
+D2
+You see a small road.
+~
+~
+0 0
+0 -1 20352
+S
+#20355
+In the Garden~
+The paved walk meanders through flowering bushes.  A white stone bench
+is beside the path with a leafy arbor over it for shade.  Tress and bushes
+are everywhere.  Thick with leaves or fruit.  Lush vines cover arbors over
+the path.  Flowers and bushes spray the garden with color from purest white
+to deep, deep red.  A large hill rises here above the rest of the park.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20356
+D2
+You see a small path.
+~
+~
+0 0
+0 -1 20353
+S
+#20356
+In the Park~
+The large hill gives a spectacular view of the city of Jehannah.  The
+Blue and White banner of Ghealdan can be seen flying proudly on the
+towers of the palace.  The city seems to master its hills instead of
+flowing over them.  From here it looks harsh and shadowed.  The Boern
+River can be see in the distance to the north.  The Mountains of Mist
+are to the west.  The path leads east down the hill and into a grove
+of tress, the tops of which almost reach the hill, or west into a garden.
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 20355
+S
+#20357
+In the Grove~
+The Great Trees tower above you.  Their spreading tops a hundred spans
+and more in the air.  Oaks and Elms, Leather Leafs and firs are dwarfed
+beneath them.  A wall of sorts encompasses the grove, an endless series
+of spiraling stone arches five spans high and twice as wide.  The Grove
+has neither the tame look of a park nor the complete haphazardness of
+the forest depths.  Rather, it seems to be the ideal of nature; the perfect
+woods the most beautiful it could be. What seems like a wall of stone is
+deep in the Grove to the west.
+
+~
+0
+0 1
+D1
+You see the entrance to the park.
+~
+~
+0 0
+0 -1 20358
+D3
+What seems like a wall of stone is deep in the Grove that way.
+~
+~
+0 0
+0 -1 20449
+S
+#20358
+The Grove Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha.  This is no public park.  Maybe the guards will be to
+busy to bother with trespassers.  A slate paved walk meanders through
+the park. To the south is a wide boulevard.
+~
+0
+0 1
+D1
+The see a wide boulevard.
+~
+~
+0 0
+0 -1 20359
+D3
+You see the grove.
+~
+~
+0 0
+0 -1 20357
+S
+#20359
+The Jheda Road~
+You stand on a wide boulevard split down the middle by broad
+strips of grass and trees.   Its quiet here with only the occasional
+passing carriage breaking the silence.  There are few people here. 
+Most are dressed in silk.  The Jheda Gate is to the north.  The Jheda
+plaza is to the south.  An entrance to a park is to the west.
+~
+0
+0 1
+D0
+You see the Jheda Gate.
+~
+~
+0 0
+0 -1 20360
+D2
+You see a large open area.
+~
+~
+0 0
+0 -1 20344
+D3
+You see the entrance to a park.
+
+~
+~
+0 0
+0 -1 20358
+S
+#20360
+The Jheda Gate~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+House Maritha.  To the north is a bridge over the river Boern.  South
+is a wide boulevard leading into the heart of the city.
+~
+0
+0 1
+D0
+You see a bridge.
+~
+gate~
+3 3
+1 -1 20361
+D2
+You see a wide boulevard.
+~
+~
+0 0
+0 -1 20359
+S
+#20361
+On a Bridge~
+You stand on a lofted stone bridge that spans the River Boern.  It is
+suspended between two red metal pillars.  Downstream is a large
+waterfall.  To the south is the city of Jehannah.  North is a small
+path into The Forest of Shadows, or as men call it here The Great
+Blackwood.
+~
+0
+0 1
+D0
+You see the Forest of Shadows.
+~
+~
+0 0
+0 -1 20428
+D2
+You see the entrance to a city.
+~
+gate~
+3 3
+1 -1 20360
+S
+#20362
+Palace Courtyard~
+You are in a huge courtyard before the palace.  Four great spires,
+each with the banner of Ghealdan flying at the top, and a golden dome
+in the center make up the palace.  To the east broad gray stairs lead to
+the entrance of the palace.  West is the Jheda plaza.  To the north and 
+south are towers set in the walls of the castle.
+~
+0
+0 1
+D0
+You see the entrance to a tower.
+~
+door~
+3 3
+1 -1 20363
+D1
+You see the a hall.
+~
+~
+1 1
+1 20311 20369
+D2
+You see a tower.
+~
+door~
+3 3
+1 -1 20366
+D3
+You see a large plaza.
+~
+gate~
+39 39
+2 20311 20344
+S
+#20363
+Storage Room~
+You stand within the Northeast tower in the Jheda palace.  This room is
+packed with the food and equipment needed to survive a long siege.  The
+door of the tower can be bared from the inside.  The palace courtyard
+is to the south.  To the east is a courtyard. A spiral staircase leads 
+up from here.
+~
+0
+D 0
+D1
+You see a courtyard
+~
+door~
+3 3
+1 -1 20383
+D2
+You see the palace courtyard.
+~
+door~
+3 3
+1 -1 20362
+D4
+You see a guard house.
+~
+~
+0 0
+0 -1 20364
+S
+#20364
+Guard House~
+Narrow beds stacked one atop another line one wall, and racked halberds
+line another.  Crossbows with barrels of arrows line a third. A heavy, 
+battered table ringed by stools is in the corner.  A spiral staircase leads
+up to the palace wall and down to the storage room.
+~
+0
+D 0
+D4
+You see the Palace Wall.
+~
+~
+0 0
+0 -1 20365
+D5
+You see a storage room.
+~
+~
+0 0
+0 -1 20363
+S
+#20365
+Palace Wall~
+You stand on the Northwest corner of the palace wall.  The wall continues
+to the south and east.  The city wall is to the west.  Stairs lead down 
+from here.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 -1 20202
+D2
+~
+~
+0 0
+0 -1 20201
+D3
+~
+~
+0 0
+0 -1 20230
+D5
+You see the Guard House.
+~
+~
+0 0
+0 -1 20364
+S
+#20366
+Storage Room~
+You stand within the Southeast tower in the Jheda palace.  This room is
+packed with the food and equipment needed to survive a long siege.  The
+door of the tower can be bared from the inside.  The palace courtyard
+is to the north.  To the west is a courtyard.  A spiral staircase leads 
+up from here.
+~
+0
+D 0
+D0
+You see the palace courtyard.
+~
+door~
+3 3
+1 -1 20362
+D1
+You see a courtyard
+~
+door~
+3 3
+1 -1 20381
+D4
+You see a guard house.
+~
+~
+0 0
+0 -1 20367
+S
+#20367
+Guard House~
+Narrow beds stacked one atop another line one wall, and racked halberds
+line another.  Crossbows with barrels of arrows line a third. A heavy, 
+battered table ringed by stools is in the corner.  A spiral staircase
+leads up to the palace wall and down to the storage room.
+~
+0
+D 0
+D4
+You see the Palace Wall.
+~
+~
+0 0
+0 -1 20368
+D5
+You see a storage room.
+~
+~
+0 0
+0 -1 20366
+S
+#20368
+Palace Wall~
+You stand on the Southwest corner of the palace wall.  The wall continues 
+to the north and east.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 -1 20201
+D1
+~
+~
+0 0
+0 -1 20200
+D5
+You see the Guard House.
+~
+~
+0 0
+0 -1 20367
+S
+#20369
+Hallway~
+You are in a hallway just within the Jheda Palace.  The corridor has a
+dark, heavy feel to it despite the lighted lamp stands.  There is
+little color anywhere except for the occasional vase or tapestry.  
+There are broad gray stairs leading down into the courtyard to the west.
+A square columned colonnade is to the east.
+~
+0
+D 0
+D1
+You see a colonnade.
+~
+~
+0 0
+0 -1 20370
+D3
+You see a courtyard.
+~
+~
+0 0
+0 -1 20362
+S
+#20370
+Colonnade~
+You are in a square columned colonnade.  Four hallways intersect here and
+lead off in every direction.
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20371
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20380
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20379
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20369
+S
+#20371
+Hallway~
+You are in a hallway within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  There are doors to the
+east and west.  A square columned colonnade is to the south.  The hallway
+continues to the north.  
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20375
+D1
+You see a door.
+~
+door~
+3 3
+1 -1 20372
+D2
+You see a colonnade.
+~
+~
+0 0
+0 -1 20370
+D3
+You see a door.
+~
+door~
+3 3
+1 -1 20373
+S
+#20372
+Study~
+You are in a large room with a high worked plaster ceiling.  The
+fireplace and the walls are of a deep blue marble.  A massive table covered
+with papers and maps sits in the middle of the room.  There is a single
+carpet on the floor in flowerlike patterns of red and gold and blue.  There
+is a hallway to the west.  
+~
+0
+D 0
+D3
+You see a hallway.
+~
+door~
+3 3
+1 -1 20371
+S
+#20373
+Sitting Room~
+You are in a large room with ivory-inlaid chairs and small tables set on a
+patterned carpet of red and gold and green.  Tall windows let in plenty of
+light and look down on the garden below.  There is a door to the west
+leading into the bed chamber.  To the east is a hallway.
+~
+0
+D 0
+D1
+You see a hallway.
+~
+door~
+3 3
+1 -1 20371
+D3
+You see a bedroom.
+~
+door~
+3 3
+1 -1 20374
+S
+#20374
+Bedroom~
+You are in a huge room with canopied bed big enough for ten and a long
+marble balcony overlooking a fountained courtyard.  A gray marble fire
+place and a wardrobe with a gilt-framed mirror make up the rest of the
+contents of the room.  There is a sitting room to the east.
+~
+0
+D 0
+D1
+You see a sitting room.
+~
+door~
+3 3
+1 -1 20373
+S
+#20375
+Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  The hallway continues
+to the east and to the south.  A courtyard can be seen to the west.
+
+~
+0
+D 0
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20376
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20371
+D3
+You see a courtyard.
+~
+~
+0 0
+0 -1 20383
+S
+#20376
+Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  Stairs lead up into
+the living quarters and down into the bowels of the castle.  The Great
+Hall is to the south.  There is a hallway to the west.
+A courtyard is to the east.
+~
+0
+D 0
+D1
+You see a courtyard.
+~
+~
+0 0
+0 -1 20212
+D2
+You see a door.
+~
+door~
+3 3
+1 -1 20377
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20375
+D4
+You see a hallway.
+~
+~
+0 0
+0 -1 20384
+D5
+It is to dark to tell.
+~
+~
+0 0
+0 -1 20225
+S
+#20377
+The Grand Hall~
+You are in the throne room of the Jheda Palace.  You stand between
+columns of marble thick streaked with blue so deep its almost black.  The
+roof is a huge golden dome some fifty paces above you.  At the far end of
+the Hall sits a throne resting on a dais of deep blue marble.  There are
+exits to the west, north and south.  
+~
+0
+D 0
+D0
+You see a door.
+~
+door~
+3 3
+1 -1 20376
+D2
+You see a door.
+~
+door~
+1 1
+1 -1 20378
+D3
+You see a set of double doors with the sigil of house Maritha carved 
+into them.
+~
+door~
+3 3
+1 -1 20380
+S
+#20378
+Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  Stairs lead up into
+the living quarters and down into the bowels of the castle.  The Great Hall
+is to the north.  There is a hallway to the west.  A courtyard is to the
+east.  
+~
+0
+D 0
+D0
+You see a door.
+~
+door~
+3 3
+1 -1 20377
+D1
+You see a courtyard.
+~
+~
+0 0
+0 -1 20210
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20379
+D4
+You see a set of stairs leading up.
+~
+~
+0 0
+0 -1 20388
+D5
+It is to dark to tell.
+~
+~
+0 0
+0 -1 20216
+S
+#20379
+Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  The hallway continues
+to the east.  There is a colonnade to the north.  A courtyard can be seen to
+the west.  
+~
+0
+D 0
+D0
+You see a colonnade.
+~
+~
+0 0
+0 -1 20370
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20378
+D3
+You see a courtyard.
+~
+~
+0 0
+0 -1 20381
+S
+#20380
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  There is a set of
+double doors with the Sigil of House Maritha engraved on them to the east. 
+A colonnade is to the west.  
+~
+0
+D 0
+D1
+You see a set of double doors.
+~
+door~
+3 3
+1 -1 20377
+D3
+You see a colonnade.
+~
+~
+0 0
+0 -1 20370
+S
+#20381
+A Courtyard~
+You are in a round courtyard.  Half the white paved circle cuts into the 
+the structure rising three stories above you.  The other half is bounded 
+by a stone semi-circle atop pale columns five paces high, sticking out
+into a garden, with shaded walks beneath low spreading tress.  Marble
+benches surround a pool with lilypads and fish gold and white and red.
+There is a hallway to the east.  A huge stone tower is to the west.  A
+garden is to the north.
+~
+0
+0 1
+D0
+You see a Garden.
+~
+~
+0 0
+0 -1 20382
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20379
+D3
+You see a large tower set into the wall of the palace.
+~
+door~
+3 3
+1 -1 20366
+S
+#20382
+Garden~
+Shaded walks beneath low spreading tress wind between rows of flowers
+and bushes.  Marble benches surround  pools with lilypads and fish gold
+and white and red.  There are round courtyards to the north and south.
+~
+0
+0 1
+D0
+You see a courtyard.
+~
+~
+0 0
+0 -1 20383
+D2
+You see a courtyard.
+~
+~
+0 0
+0 -1 20381
+S
+#20383
+A Courtyard~
+You are in a round courtyard.  Half the white paved circle cuts into the 
+the structure rising three stories above you.  The other half is bounded 
+by a stone semi-circle atop pale columns five paces high, sticking out
+into a garden, with shaded walks beneath low spreading tress.  Marble
+benches surround a pool with lilypads and fish gold and white and red.
+There is a hallway to the east.  A huge stone tower is to the west.  A
+garden is to the south.
+~
+0
+0 1
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20375
+D2
+You see a Garden.
+~
+~
+0 0
+0 -1 20382
+D3
+You see a large tower set into the wall of the palace.
+~
+door~
+3 3
+1 -1 20363
+S
+#20384
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  From here you can look
+down into the Throne room some thirty paces below.  Stairs lead down from
+here.  The hall continues to the east.  
+~
+0
+D 0
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20385
+D5
+You see a set of stairs.
+~
+~
+0 0
+0 -1 20376
+S
+#20385
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  From here you can look
+down into the Throne room some thirty paces below.  There is a doorway to
+the east.  The hallway continues to the south and west.  
+~
+0
+D 0
+D1
+You see a door.
+~
+door~
+3 3
+1 -1 20389
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20386
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20384
+S
+#20386
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color any
+where except for the occasional vase or tapestry.  From here you can look
+down into the Throne room some thirty paces below.  The hallway continues to
+the north and south.  
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20385
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20387
+S
+#20387
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  From here you can look
+down into the Throne room some thirty paces below.  There is a doorway to
+the south.  The hallway continues to the north and west.  
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20386
+D2
+You see a door.
+~
+door~
+3 3
+1 -1 20396
+D3
+You see a hallway.
+~
+~
+0 0
+0 -1 20388
+S
+#20388
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  From here you can look
+down into the Throne room some thirty paces below.  There is a doorway to
+the east.  The hallway continues to the south and west.  
+~
+0
+D 0
+D1
+You see a hallway.
+~
+~
+0 0
+0 -1 20387
+D5
+You see a set of stairs.
+~
+~
+0 0
+0 -1 20378
+S
+#20389
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  The hallway continues
+to the north.  There is a door to the south 
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20390
+D3
+You see a door.
+~
+door~
+3 3
+1 -1 20385
+S
+#20390
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  In place of one of the
+walls are balustraded columns revealing the stone paved courtyard below. 
+The hallway continues to the north and south.  
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20391
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20389
+S
+#20391
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  There are doors to the
+north, west and east.  The hallway continues to the south.  
+~
+0
+D 0
+D0
+You see a door.
+~
+door~
+3 3
+1 -1 20395
+D1
+You see a door.
+~
+door~
+3 3
+1 -1 20392
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20390
+D3
+You see a door.
+~
+door~
+3 3
+1 -1 20393
+S
+#20392
+Study~
+You are in a large room with a high worked plaster ceiling.  The fireplace
+and the walls are of a deep blue marble.  A massive table covered with 
+paper and maps sits in the middle of the room.  There is a single carpet on 
+in flowerlike patterns of red and gold and blue.  There is a hallway to 
+the west.
+~
+0
+D 0
+D3
+You see a hallway.
+~
+door~
+3 3
+1 -1 20391
+S
+#20393
+Sitting Room~
+You are in a large room with ivory-inlaid chairs and small tables set on a
+patterned carpet of red and gold and green.  Tall windows let in plenty of
+light and look down on the garden below.  There is a door to the north
+leading into the bed chamber.  To the east is a hallway.
+~
+0
+D 0
+D0
+You see a bedroom.
+~
+door~
+3 3
+1 -1 20394
+D1
+You see a hallway.
+~
+door~
+3 3
+1 -1 20391
+S
+#20394
+Bedroom~
+You are in a huge room with canopied bed big enough for ten and a long
+marble balcony overlooking a fountained courtyard.  A gray marble fire place
+and a wardrobe with a gilt-framed mirror make up the rest of the contents of
+the room.  There is a sitting room to the south.  
+~
+0
+D 0
+D2
+You see a sitting room.
+~
+door~
+3 3
+1 -1 20393
+S
+#20395
+Square Chamber~
+You are in a square chamber about the size of the common room of an inn. 
+Its walls present hunting scenes carved in relief in stone of the purest
+white.  The tapestries between the carvings are gentle images of bright
+flowers and brilliantly plumaged hummingbirds except for two at the far
+end of the room where the Blue and White banner of Ghealdan stand taller
+than a man.  These two hang flanking a dais, and on the dais is a gilded
+throne.
+~
+0
+D 0
+D2
+You see a hallway.
+~
+door~
+3 3
+1 -1 20391
+S
+#20396
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  The hallway continues
+to the south.  There is a door to the north.  
+~
+0
+D 0
+D0
+You see a door.
+~
+door~
+3 3
+1 -1 20387
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20397
+S
+#20397
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  In place of one of the
+walls are balustraded columns revealing the stone paved courtyard below. 
+The hallway continues to the north and south.  
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20396
+D2
+You see a hallway.
+~
+~
+0 0
+0 -1 20398
+S
+#20398
+In a Hallway~
+You are in a hall within the Jheda Palace.  The corridor has a dark,
+heavy feel to it despite the lighted lamp stands.  There is little color
+anywhere except for the occasional vase or tapestry.  The hallway continues
+to the north.  There is a door to the south.  
+~
+0
+D 0
+D0
+You see a hallway.
+~
+~
+0 0
+0 -1 20397
+D2
+You see a door.
+~
+door~
+3 3
+1 -1 20399
+S
+#20399
+The Palace Barracks~
+Narrow beds stacked one atop another line one wall, and racked halberds
+line another.  A heavy, battered table ringed by stools is in the corner.
+~
+0
+D 0
+D0
+You see a door.
+~
+door~
+3 3
+1 -1 20398
+D4
+You see a set of stairs.
+~
+~
+0 0
+0 -1 20200
+S
+#20400
+On the Lugard Road~
+The road is hard packed dirt, lined by tress on one side and a canyon on
+the other.  The canyon is to steep to descend effectively blocking all
+travel to the north.  The road appears to be straight to the eye, but it is
+apparent by the angle of the sun that it curves slowly southward as it heads
+east.  The road continues to the west and east.  
+~
+0
+0 1
+D1
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20401
+D3
+You see the Lugard Road.
+~
+~
+0 0
+0 -1 20251
+S
+#20401
+On the Lugard Road~
+The road is hard packed dirt, lined by tress on one side and a canyon on
+the other.  The canyon is to steep to descend effectively blocking all
+travel to the north.  The road appears to be straight to the eye, but it is
+apparent by the angle of the sun that it curves slowly southward as it heads
+west.  
+~
+0
+0 15
+D3
+You see a road.
+~
+~
+0 0
+0 -1 20400
+D7
+~
+~
+0 0
+0 0 52635
+S
+#20402
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the forest.
+Oak and leatherleaf predominate here.  There is the wall of a city to the west.
+There is a road to the north.  The forest continues to the south and east.  
+~
+0
+0 3
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20249
+D1
+~
+~
+0 0
+0 0 20403
+D2
+You see a forest.
+~
+~
+0 0
+0 -1 20406
+S
+#20403
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and leatherleaf predominate here.  There is a road to the
+north.  The forest continues to the south, east and west.  
+~
+0
+0 3
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20251
+D1
+You see a forest.
+~
+~
+0 0
+0 -1 20405
+D2
+You see a forest.
+~
+~
+0 0
+0 -1 20407
+D3
+~
+~
+0 0
+0 0 20402
+S
+#20405
+On the Banks of the Boern~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and leatherleaf predominate here.  A river blocks all travel to
+the east.  A road is to the north.  The forest to the south is to thick to
+travel through however, you can go west.  
+~
+0
+0 3
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20400
+D3
+You see a forest
+~
+~
+0 0
+0 -1 20403
+S
+#20406
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and leatherleaf predominate here.  The forest continues to the
+east, west and north.  The forest to the south is to thick to walk into.  
+~
+0
+0 3
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20402
+D1
+You see a forest.
+~
+~
+0 0
+0 -1 20407
+D3
+You see a forest.
+~
+~
+0 0
+0 -1 20408
+S
+#20407
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and leatherleaf predominate here.  The forest continues to the
+west and north.  The forest to the east and south is impassable.  
+~
+0
+0 3
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20403
+D3
+You see a forest.
+~
+~
+0 0
+0 -1 20406
+S
+#20408
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and leatherleaf predominate here.  The forest continues to the
+east and south.  There is a road to the west.  The wall of a city is to the
+north.  
+~
+0
+0 3
+D1
+You see a forest.
+~
+~
+0 0
+0 -1 20406
+D2
+You see a forest.
+~
+~
+0 0
+0 -1 20411
+D3
+~
+~
+0 0
+0 0 20409
+S
+#20409
+On the Amador Road~
+The road is hard packed dirt, lined by tress on either side.  It runs
+through low hills; cuts right through them sometimes if the hills are wide
+enough to make the road go much out of its way and not so big that the
+digging through was to difficult.  To the north is the gate of a city.  The
+road continues to the south.  Untamed forest is to the east and west.  
+~
+0
+0 1
+D0
+You see the city of Jehannah.
+~
+~
+0 0
+0 -1 20252
+D1
+~
+~
+0 0
+0 0 20408
+D2
+You see the Amador Road
+~
+~
+0 0
+0 -1 20410
+D3
+You see a forest.
+~
+~
+0 0
+0 -1 20414
+S
+#20410
+On the Amador Road~
+The road is hard packed dirt, lined by tress on either side.  It runs
+through low hills; cuts right through them sometimes if the hills are
+wide enough to make the road go much out of its way and not so big
+that the digging through was to difficult.  The road continues to the
+north and south. Untamed forest is to the east and west.
+~
+0
+0 1
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20409
+D1
+You see a forest.
+~
+~
+0 0
+0 -1 20411
+D2
+You see a road.
+
+~
+~
+0 0
+0 -1 20412
+D3
+~
+~
+0 0
+0 0 20415
+S
+#20411
+In a Forest~
+You stomp your way through the underbrush.  The forest gets pretty thick
+here, and the branches high above your head are so thick that they block out
+all direct sunlight.  While it is much too thick to go further south or
+east, you might be able to make your way though the forest to the north. 
+There is a road to the west.  
+~
+0
+0 3
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20408
+D3
+You see a road.
+~
+~
+0 0
+0 -1 20410
+S
+#20412
+On the Amador Road~
+The road is hard packed dirt, lined by tress on either side.  It runs
+through low hills; cuts right through them sometimes if the hills are
+wide enough to make the road go much out of its way and not so big
+that the digging through was to difficult.  To the north is the gate
+of a city.  The road continues to the south.  The forest to the east
+and west is to thick to walk into.
+~
+0
+0 1
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20410
+D2
+You see a road.
+
+~
+~
+0 0
+0 -1 20413
+S
+#20413
+On the Amador Road~
+The road is hard packed dirt, lined by tress on either side.  It runs
+through low hills; cuts right through them sometimes if the hills are wide
+enough to make the road go much out of its way and not so big that the
+digging through was to difficult.  To the north is the gate of a city.  The
+road continues to the south.  The forest to the east and west is to thick to
+walk into.  
+~
+0
+0 15
+D0
+You see a road.
+~
+~
+0 0
+0 -1 20412
+D8
+~
+~
+0 0
+0 0 52635
+S
+#20414
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and Leatherleaf predominate here.  The forest continues to the
+west and south.  There is a road to the east.  The wall of a city is to the
+north.
+~
+0
+0 3
+D1
+You see a road.
+~
+~
+0 0
+0 -1 20409
+D2
+You see a forest.
+~
+~
+0 0
+0 -1 20415
+D3
+You see a forest.
+~
+~
+0 0
+0 -1 20416
+S
+#20415
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak, Pine and Leatherleaf predominate here.  The forest continues
+to the north.  It becomes impassable to the south and west.  There is a road
+to the east.  
+~
+0
+0 3
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20414
+D1
+~
+~
+0 0
+0 0 20410
+S
+#20416
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak, Pine and Leatherleaf predominate here.  The forest continues
+to the west and east.  The wall of a city is to the north.  
+~
+0
+0 3
+D1
+You see a forest
+~
+~
+0 0
+0 -1 20414
+D3
+You see a forest.
+~
+~
+0 0
+0 -1 20417
+S
+#20417
+In a Forest~
+The trees are scattered and tall, making for easy travel even in the
+forest.  Oak and leatherleaf predominate here.  The forest continues to the
+east.  The forest to the west is impassable.  There is a small road to the
+north.  
+~
+0
+0 3
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20418
+D1
+You see a forest.
+~
+~
+0 0
+0 -1 20416
+S
+#20418
+On a Small Road~
+The road, if it can be called that,  looks like it has been used for
+generations. It is barely big enough for a single cart and there is 
+little room between it and the trees on either side.  The road leads west 
+into the foothills of the  Mountains of Mist.  There is a city to the 
+east.  There is a huge hill to the north.
+~
+0
+0 1
+D0
+You see a forest.
+~
+~
+0 0
+0 -1 20419
+D1
+You see a city.
+~
+~
+0 0
+0 -1 20330
+D2
+You see a forest
+~
+~
+0 0
+0 -1 20417
+D3
+You see a small road.
+~
+~
+0 0
+0 -1 20421
+S
+#20419
+Base of Prophet Hill~
+You stand in a clearing at the base of a huge hill.  It towers over the
+city seeming to dwarf it. The hill is barren of all tress and plants
+except for grass.  Something seems to be at the very top of the hill but
+you cannot make out what it is from here. There is a small road to the
+south.  A path leads up the hill from here.
+~
+0
+0 2
+D2
+You see a small road.
+~
+~
+0 0
+0 -1 20418
+D4
+You see a path leading up the hill.
+~
+~
+0 0
+0 -1 20420
+S
+#20420
+On Prophet Hill~
+You stand on Prophet Hill.  From here you can see the entire city and the
+river valley that spreads out below the it.  There is a tower on the hill.
+It's purpose seems to be to warn the city of an immanent attack.  Large
+looking glasses make the job of the men who man the tower easier.
+~
+0
+0 4
+D5
+You see a path leading down the hill.
+~
+~
+0 0
+0 -1 20419
+S
+#20421
+On a Small Road~
+The road, if it can be called that,  looks like it has been used for
+generations.  It is barely big enough for a single cart.  Farms dot the
+landscape on either side of  the road.  Small farms growing corn, or
+wheat,  or beans.  This is how the city of Jehannah feeds itself.  To
+the west the foothills of the Mountains of Mist begin.  To the east
+the small road continues.
+~
+0
+0 1
+D1
+You see road.
+~
+~
+0 0
+0 -1 20418
+D3
+You see a small road.
+~
+~
+0 0
+0 -1 20422
+S
+#20422
+The Foothills of the Mountains of Mist~
+The hills are low, but the way is all up and down, with never a flat
+stretch.  Huge pines block out the sun and make the going dark and
+dangerous.  Undergrowth threatens to trip you, and branches lash out
+against your face and chest.  For every foot you travel forward you
+travel two feet up or down.  The hills continue to the north, south
+and west.  There is a road to the east.
+~
+0
+0 4
+D0
+You see hills.
+~
+~
+0 0
+0 -1 20423
+D1
+You see a small road.
+~
+~
+0 0
+0 -1 20421
+D2
+You see foothills.
+~
+~
+0 0
+0 -1 20426
+D3
+You see foothills.
+
+~
+~
+0 0
+0 -1 20425
+S
+#20423
+The Foothills of the Mountains of Mist~
+The hills are low, but the way is all up and down, with never a flat
+stretch.  Huge pines block out the sun and make the going dark and
+dangerous.  Undergrowth threatens to trip you, and branches lash out
+against your face and chest.  For every foot you travel forward you
+travel two feet up or down. There is a river to the north blocking all
+passage in that direction. Hills continue to the south and west.
+~
+0
+0 4
+D2
+You see hills.
+~
+~
+0 0
+0 -1 20422
+D3
+You see hills.
+~
+~
+0 0
+0 -1 20424
+S
+#20424
+The Foothills of the Mountains of Mist~
+The hills are larger here,  the way is all up and down, with never a flat
+stretch.  Huge pines block out the sun and make the going dark and
+dangerous.  Undergrowth threatens to trip you, and branches lash out
+against your face and chest.  For every foot you travel forward you travel
+two feet up or down.  There is a river to the north blocking all passage in
+that direction.  The hills to the west are to steep to climb.  The hills
+look  passable to the south and east and west. To the west, over a steep
+hill, lays a magestic canyon of the Mountains of Mist.
+~
+0
+0 4
+D1
+You see hills.
+~
+~
+0 0
+0 -1 20423
+D2
+You see hills.
+~
+~
+0 0
+0 -1 20425
+S
+#20425
+The Foothills of the Mountains of Mist~
+The hills are large,  the way is all up and down, with never a flat
+stretch.  Huge pines block out the sun and make the going dark and
+dangerous.  Undergrowth threatens to trip you, and branches lash out
+against your face and chest.  For every foot you
+travel forward you travel two feet up or down.  The hills to the west are
+to steep to climb.  The hills continue to the north, south and east.
+~
+0
+0 4
+D0
+You see hills.
+~
+~
+0 0
+0 -1 20424
+D1
+You see hills.
+~
+~
+0 0
+0 -1 20422
+D2
+You see hills.
+
+~
+~
+0 0
+0 -1 20427
+S
+#20426
+The Foothills of the Mountains of Mist~
+The hills are low, but the way is all up and down, with never a flat
+stretch.  Huge pines block out the sun and make the going dark and
+dangerous.  Undergrowth threatens to trip you, and branches lash out against
+your face and chest.  For every foot you t ravel forward you travel two feet
+up or down.  The hills continue to the north and west.  The forest to the
+south and east is to thick to enter.  
+~
+0
+0 4
+D0
+You see hills.
+~
+~
+0 0
+0 -1 20422
+D3
+You see hills.
+~
+~
+0 0
+0 -1 20427
+S
+#20427
+In the Foothills of the Mountains of Mist~
+The hills are low, but the way is all up and down, with never a flat
+stretch.  Huge pines block out the sun and make the going dark and
+dangerous.  Undergrowth threatens to trip you, and branches lash out against
+your face and chest.  For every foot you t ravel forward you travel two feet
+up or down.  The hills continue to the north and east.  The forest to the
+south is to thick to enter.  The hills to the west are to steep to climb.  
+~
+0
+0 4
+D0
+You see hills.
+~
+~
+0 0
+0 -1 20425
+D1
+You see hills.
+~
+~
+0 0
+0 -1 20426
+S
+#20428
+Outskirts of the Great Blackwood~
+The trees of Forest of Shadows are lush and green, hiding the evil that
+lurks in these woods.  The trees become too thick to the east, but you may
+go north.  A bridge leading over the Boern River and into the city of
+Jehannah is to the south.  There is a sign here.  
+~
+0
+0 3
+E
+Sign~
+The sign reads:
+ "Danger the Forest of Shadows is not safe to travel into. 
+Many have entered few have returned.  Travel at your own risk.  
+Alliandre blessed of the Light Queen of Ghealdan"
+~
+D0
+~
+~
+0 0
+0 0 20429
+D2
+You see a bridge.
+~
+~
+0 0
+0 -1 20361
+S
+#20429
+In the Forest of Shadows~
+You stomp your way through the underbrush.  The forest gets pretty thick
+here, and the branches high above your head are so thick that they block out
+all direct sunlight.  While it is much too thick to go east, you might be
+able to make your way though the forest to the north, west or south.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 20433
+D3
+~
+~
+0 0
+0 0 20431
+D2
+~
+~
+0 0
+0 0 20428
+D1
+~
+~
+0 0
+0 0 20430
+S
+#20430
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in every direction.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20434
+D3
+~
+~
+0 0
+0 0 20429
+S
+#20431
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in seemingly every direction.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20432
+D1
+~
+~
+0 0
+0 0 20429
+S
+#20432
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in every direction.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20437
+D2
+~
+~
+0 0
+0 0 20431
+D1
+~
+~
+0 0
+0 0 20433
+S
+#20433
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in every direction.
+~
+0
+AN 3
+D3
+~
+~
+0 0
+0 0 20432
+D2
+~
+~
+0 0
+0 0 20429
+D0
+~
+~
+0 0
+0 0 20436
+D1
+~
+~
+0 0
+0 0 20434
+S
+#20434
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in every direction.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20435
+D3
+~
+~
+0 0
+0 0 20433
+D2
+~
+~
+0 0
+0 0 20430
+S
+#20435
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in every direction.
+~
+0
+AN 3
+D2
+~
+~
+0 0
+0 0 20434
+D0
+~
+~
+0 0
+0 0 20441
+D3
+~
+~
+0 0
+0 0 20436
+S
+#20436
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+to the north, east, and south.
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20440
+D1
+~
+~
+0 0
+0 0 20435
+D3
+~
+~
+0 0
+0 0 20437
+D2
+~
+~
+0 0
+0 0 20433
+S
+#20437
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  To the east and west of
+you is to thick to travel into.  Your only possible exit is to the south.
+~
+0
+AN 3
+D1
+~
+~
+0 0
+0 0 20436
+D0
+~
+~
+0 0
+0 0 20439
+D2
+~
+~
+0 0
+0 0 20432
+S
+#20438
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles
+and Deathshead mushrooms dot the landscape.  Every leaf and creeper
+seems bloated; ready to burst with touch.  Flowers hang on trees
+and weeds mocking you with their beauty.  The sweet stench of decay
+fills the air making it taste like rotten meat.  The forest continues
+in every direction, except north, where the White River blocks your way.
+~
+0
+AN 3
+D1
+~
+~
+0 0
+0 0 20439
+S
+#20439
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in
+the deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with a touch.  Flowers hang on trees and weeds
+mocking you with their beauty.  The sweet stench of decay fills the air
+making it taste like rotten meat.  The forest is to thick to travel through
+to the south and east.  The white river flows to the north preventing
+all travel in that direction.  Your only alternative is to go west.
+~
+0
+AN 3
+D2
+~
+~
+0 0
+0 0 20437
+D0
+~
+~
+0 0
+0 0 20443
+D3
+~
+~
+0 0
+0 0 20438
+D1
+~
+~
+0 0
+0 0 20440
+S
+#20440
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  
+Every leaf and creeper seems bloated; ready to burst with touch.  Flowers
+hang on trees and weeds mocking you with their beauty.  The sweet stench of
+decay fills the air making it taste like rotten meat.  The forest continues
+in every direction.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20444
+D3
+~
+~
+0 0
+0 0 20439
+D2
+~
+~
+0 0
+0 0 20436
+D1
+~
+~
+0 0
+0 0 20441
+S
+#20441
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadow of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  E very leaf and creeper seems
+bloated; ready to burst with a touch.  Flowers hang on trees and weeds
+mocking you with their beauty.  The sweet stench of decay fills the air
+making it taste like rotten meat.  The forest continues in every direction
+except no rth were the forest becomes to thick to travel into.  
+~
+0
+AN 3
+D3
+~
+~
+0 0
+0 0 20440
+D1
+~
+~
+0 0
+0 0 20442
+D2
+~
+~
+0 0
+0 0 20435
+D0
+~
+~
+0 0
+0 0 20445
+S
+#20442
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with a touch.  Flowers hang on trees and weeds
+mocking you with their beauty.  The sweet stench of decay fills the air
+making it taste like rotten meat.  The forest becomes impassable to the
+south and e ast.  You can however, travel to the north and west.  
+~
+0
+AN 3
+D3
+~
+~
+0 0
+0 0 20441
+S
+#20443
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with touch.  Flowers hang on trees and weeds mocking
+you with their beauty.  The sweet stench of decay fills the air making it
+taste like rotten meat.  The forest continues in every direction, except
+north, where the White River blocks your way.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20446
+D1
+~
+~
+0 0
+0 0 20444
+D2
+~
+~
+0 0
+0 0 20439
+S
+#20444
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with touch.  Flowers hang on trees and weeds mocking
+you with their beauty.  The sweet stench of decay fills the air making it
+taste like rotten meat.  The forest continues in every direction, except
+north, where the White River blocks your way.  
+~
+0
+AN 3
+D0
+~
+~
+0 0
+0 0 20447
+D3
+~
+~
+0 0
+0 0 20443
+D1
+~
+~
+0 0
+0 0 20445
+D2
+~
+~
+0 0
+0 0 20440
+S
+#20445
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with touch.  Flowers hang on trees and weeds mocking
+you with their beauty.  The sweet stench of decay fills the air making it
+taste like rotten meat.  The forest continues in every direction, except
+north, where the White River blocks your way.  
+~
+0
+AN 3
+D3
+~
+~
+0 0
+0 0 20444
+D2
+~
+~
+0 0
+0 0 20441
+S
+#20446
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with a touch.  Flowers hang on trees and weeds
+mocking you with their beauty.  The sweet stench of decay fills the air
+making it taste like rotten meat.  The forest continues in every direction
+except west which is blocked by the white river.  
+~
+0
+AN 3
+D2
+~
+~
+0 0
+0 0 20443
+D1
+~
+~
+0 0
+0 0 20447
+S
+#20447
+In the Forest of Shadows~
+All the things that grow in dark places grow here, all the things with
+spores all the things that love the dank.  Fungus rings the trees in the
+deep shadows of the forest.  Lichens dig their roots in, nettles and
+Deathshead mushrooms dot the landscape.  Every leaf and creeper seems
+bloated; ready to burst with touch.  Flowers hang on trees and weeds mocking
+you with their beauty.  The sweet stench of decay fills the air making it
+taste like rotten meat.  The forest continues in every direction, except
+north, where the White River blocks your way.  
+~
+0
+AN 3
+D3
+~
+~
+0 0
+0 0 20446
+D0
+~
+~
+0 0
+0 0 20448
+D2
+~
+~
+0 0
+0 0 20444
+S
+#20448
+On a Log~
+You are on a log over the White River.  The water below you is moving
+extremely fast.  If you were to fall in you would drown.  You can see forest
+to the north and south.  
+~
+0
+A 3
+D2
+~
+~
+0 0
+0 0 20447
+S
+#20449
+Before A Waygate~
+You stand in a grove, with Great Trees towering above you.  What seems like
+a carved wall lays to the west, down a small decline.  Surrounded by trees
+and brush, you realize this is no wall.
+     {gYou suddenly stand before a huge slab of stone, like a wall, carved
+thickly with leaves and vines. No human could have made something so
+lifelike, this must be the work of a Ogier. How a {DW{Waygat{De{g could be
+forgotten is unknown to you, but time can play a large factor over many
+things. After further examination, you can see the precious {Gtrefoil
+leaf of Avendesora{g required to make all {DW{Waygate{Ds{g work. The leaves
+on the Waygate could ripple with the next breeze.{w
+~
+0
+A 0
+D1
+The grove continues, and the Grove Gate further to the west.
+~
+~
+0 0
+0 -1 20357
+S
+#20460
+The Breathing Room~
+There are large tanks of oxygen lying around spewing thier contents, thus making
+it very easy to breath in here. You feel your life rush into your lungs, filling
+you with strength.
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20332
+D4
+~
+~
+0 0
+0 0 20461
+S
+#20461
+The Resting Room~
+A small quiet room is here.  It is filled with sleeping slaves and
+servants, Most of them nude.  You have an overwhelming urge to join them in
+sleep, as you will need your strength soon.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 20460
+S
+#20462
+A Large Garden with Statues~
+A massive area of greenery and foilage has been built here to commemorate
+someone from the age of legends, or perhaps an entire army.  The garden is
+filled with blooming flowers, mostly pinks and reds, but there are also a
+few yellow flowers too that seem to attract small, yellow finches.  The
+statues are large and made of marble.  Their clothing is old, making you
+thing that they are legendary warriors.  They are very strong and almost
+fearful looking.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20333
+S
+#0
+
+
+
+#SPECIALS
+M 20236 spec_gamemaster
+S
+
+
+
+#RESETS
+D 0 20203 3 1
+D 0 20206 3 1
+D 0 20210 1 1
+D 0 20212 1 1
+D 0 20213 2 1
+D 0 20214 1 1
+D 0 20215 3 2
+D 0 20218 2 2
+D 0 20219 0 2
+D 0 20220 2 1
+D 0 20221 0 1
+D 0 20221 1 2
+D 0 20221 2 2
+D 0 20221 3 2
+D 0 20222 3 2
+D 0 20223 0 2
+D 0 20224 1 2
+D 0 20226 0 1
+D 0 20226 1 1
+D 0 20226 3 1
+D 0 20227 2 1
+D 0 20228 3 1
+D 0 20229 1 1
+D 0 20252 0 1
+D 0 20253 2 1
+D 0 20264 3 1
+D 0 20266 0 1
+D 0 20267 1 1
+D 0 20283 1 1
+D 0 20284 3 1
+D 0 20292 3 1
+D 0 20295 1 1
+D 0 20320 1 1
+D 0 20323 2 1
+D 0 20324 0 1
+D 0 20325 1 1
+D 0 20325 2 1
+D 0 20325 3 1
+D 0 20326 1 1
+D 0 20327 0 1
+D 0 20327 1 2
+D 0 20328 3 2
+D 0 20330 3 1
+D 0 20337 3 1
+D 0 20338 1 1
+D 0 20344 1 2
+D 0 20346 3 1
+D 0 20347 1 1
+D 0 20360 0 1
+D 0 20361 2 1
+D 0 20362 0 1
+D 0 20362 2 1
+D 0 20362 3 2
+D 0 20363 1 1
+D 0 20363 2 1
+D 0 20366 0 1
+D 0 20366 1 1
+D 0 20371 1 1
+D 0 20371 3 1
+D 0 20372 3 1
+D 0 20373 1 1
+D 0 20373 3 1
+D 0 20374 1 1
+D 0 20376 2 1
+D 0 20377 0 1
+D 0 20377 3 1
+D 0 20378 0 1
+D 0 20380 1 1
+D 0 20381 3 1
+D 0 20383 3 1
+D 0 20385 1 1
+D 0 20387 2 1
+D 0 20389 3 1
+D 0 20391 0 1
+D 0 20391 1 1
+D 0 20391 3 1
+D 0 20392 3 1
+D 0 20393 0 1
+D 0 20393 1 1
+D 0 20394 2 1
+D 0 20395 2 1
+D 0 20396 0 1
+D 0 20398 2 1
+D 0 20399 0 1
+M 0 20204 100 20201 1
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20202 1
+E 0 20200 0 7
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+O 0 20256 0 20204
+M 0 20205 100 20204 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20204 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20205 1
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+O 0 20256 0 20207
+M 0 20205 100 20207 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20207 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20209 1
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20218 100 20210 1
+M 0 20220 100 20210 1
+E 0 20240 0 3
+E 0 20243 0 7
+E 0 20239 0 5
+M 0 20248 100 20212 1
+E 0 20219 0 18
+G 0 20220 0
+E 0 20236 0 20
+E 0 20207 0 11
+E 0 20243 0 7
+E 0 20239 0 5
+E 0 20234 0 4
+M 0 20218 100 20212 1
+M 0 20228 4 20215 1
+E 0 20274 0 12
+E 0 20273 0 15
+E 0 20271 0 7
+E 0 20272 0 1
+M 0 20218 100 20216 1
+M 0 20227 100 20216 1
+M 0 20227 100 20218 1
+M 0 20205 100 20218 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20218 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+O 0 20270 0 20219
+M 0 20212 10 20220 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20211 1 20220 1
+E 0 20212 0 2
+G 0 20309 0
+E 0 20224 0 20
+E 0 20223 0 3
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20218 100 20225 1
+M 0 20227 100 20225 1
+M 0 20217 100 20227 3
+M 0 20229 100 20227 5
+O 0 20279 0 20228
+O 0 20277 0 20228
+O 0 20282 0 20228
+O 0 20283 0 20228
+O 0 20284 0 20228
+M 0 12208 4 20228 2
+O 0 20277 0 20229
+O 0 20279 0 20229
+O 0 20281 0 20229
+M 0 12208 4 20229 2
+M 0 20204 100 20230 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20205 100 20232 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20232 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20240 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20244 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20246 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20242 100 20250 1
+M 0 20244 100 20250 1
+M 0 20205 100 20252 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20252 5
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20200 100 20253 3
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20200 10 20255 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20216 1 20255 1
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20235 0 7
+E 0 20223 0 3
+E 0 20225 0 20
+M 0 20205 100 20256 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20256 6
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+O 0 20256 0 20257
+M 0 20249 1 20258 1
+G 0 20266 0
+G 0 20267 0
+G 0 20268 0
+G 0 20269 0
+M 0 20231 100 20259 1
+M 0 20232 100 20259 1
+E 0 20210 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20200 100 20259 1
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20240 100 20259 1
+O 0 20265 0 20259
+O 0 20265 0 20260
+M 0 20231 100 20262 1
+M 0 20232 100 20262 1
+E 0 20210 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20203 1 20264 1
+M 0 20234 30 20264 10
+O 0 20256 0 20264
+M 0 20217 20 20265 1
+M 0 20229 20 20265 2
+M 0 20227 20 20265 1
+O 0 20255 0 20267
+O 0 20261 0 20267
+O 0 20259 0 20269
+O 0 20259 0 20270
+O 0 20259 0 20272
+O 0 20259 0 20273
+O 0 20259 0 20274
+M 0 20240 50 20275 1
+M 0 20238 50 20275 1
+M 0 20239 50 20275 1
+M 0 20200 100 20275 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20234 30 20276 10
+M 0 20227 20 20276 2
+M 0 20201 5 20277 1
+G 0 20296 0
+G 0 20294 0
+G 0 20293 0
+G 0 20285 0
+G 0 20283 0
+G 0 20282 0
+G 0 20281 0
+M 0 20234 50 20277 10
+O 0 20256 0 20277
+M 0 20235 5 20277 1
+E 0 20220 0 20
+E 0 20219 0 18
+M 0 20227 20 20277 2
+M 0 20227 20 20278 2
+M 0 20234 30 20278 10
+M 0 20234 30 20279 10
+M 0 20227 20 20279 2
+M 0 20200 100 20280 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20231 100 20280 1
+M 0 20232 100 20280 2
+E 0 20210 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20225 1 20281 1
+G 0 20297 0
+G 0 20298 0
+G 0 20299 0
+G 0 20300 0
+M 0 20238 50 20282 2
+M 0 20240 50 20282 2
+M 0 20221 1 20284 1
+G 0 20244 0
+G 0 20245 0
+G 0 20254 0
+G 0 20246 0
+G 0 20247 0
+M 0 20238 50 20285 2
+M 0 20239 50 20285 2
+M 0 20240 50 20285 3
+M 0 20241 2 20285 1
+M 0 20222 1 20286 1
+G 0 20242 0
+G 0 20243 0
+M 0 20226 2 20287 1
+G 0 20279 0
+G 0 20277 0
+G 0 20279 0
+G 0 20305 0
+G 0 20306 0
+G 0 20307 0
+M 0 20232 100 20287 5
+E 0 20210 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20238 50 20288 4
+M 0 20239 50 20288 2
+M 0 20240 50 20288 2
+M 0 20241 2 20289 1
+M 0 20239 50 20289 4
+M 0 20238 50 20289 2
+M 0 20238 50 20290 5
+M 0 20239 50 20290 3
+M 0 20240 50 20290 2
+M 0 20227 20 20292 2
+M 0 20234 30 20292 5
+O 0 20256 0 20292
+M 0 20217 20 20293 1
+M 0 20229 20 20293 2
+M 0 20233 1 20295 1
+M 0 20234 30 20295 5
+O 0 20258 0 20297
+O 0 20258 0 20298
+O 0 20258 0 20299
+O 0 20258 0 20300
+O 0 20258 0 20301
+O 0 20258 0 20302
+M 0 20230 20 20307 1
+E 0 20221 0 7
+E 0 20222 0 5
+M 0 20247 40 20307 1
+M 0 20200 100 20310 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20247 40 20311 5
+M 0 20230 20 20311 1
+E 0 20221 0 7
+E 0 20222 0 5
+M 0 20230 20 20312 1
+E 0 20221 0 7
+E 0 20222 0 5
+M 0 20247 40 20312 1
+M 0 20247 40 20313 7
+M 0 20230 20 20313 1
+E 0 20221 0 7
+E 0 20222 0 5
+M 0 20200 100 20314 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20226 2 20315 1
+G 0 20257 0
+G 0 20256 0
+G 0 20255 0
+G 0 20261 0
+M 0 20200 100 20316 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20204 100 20317 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20205 100 20318 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20318 4
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20319 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20205 100 20320 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20320 4
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20200 100 20321 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20200 100 20323 4
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20200 100 20324 1
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+O 0 20255 0 20325
+O 0 20255 0 20325
+O 0 20255 0 20325
+M 0 20214 1 20326 1
+M 0 20213 1 20327 1
+E 0 20212 0 2
+G 0 20310 0
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+E 0 20223 0 3
+M 0 20200 100 20329 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20205 100 20330 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20330 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+O 0 20263 0 20331
+O 0 20264 0 20331
+O 0 20261 0 20332
+O 0 20260 0 20332
+O 0 20256 0 20332
+O 0 20262 0 20333
+O 0 20257 0 20333
+O 0 20265 0 20333
+O 0 20275 0 20333
+O 0 20276 0 20333
+M 0 20224 1 20334 1
+G 0 20249 0
+G 0 20250 0
+G 0 20251 0
+G 0 20252 0
+G 0 20253 0
+G 0 20248 0
+M 0 20200 100 20335 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20223 1 20336 1
+M 0 20202 5 20337 1
+E 0 20215 0 20
+E 0 20219 0 18
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+E 0 20234 0 3
+M 0 20220 10 20337 1
+E 0 20243 0 7
+E 0 20239 0 5
+E 0 20240 0 3
+M 0 20218 50 20338 2
+M 0 20218 50 20339 4
+M 0 20219 10 20340 2
+E 0 20221 0 7
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20240 0 3
+M 0 20218 30 20340 3
+M 0 20220 10 20340 2
+E 0 20243 0 7
+E 0 20239 0 5
+E 0 20240 0 3
+M 0 20235 5 20340 1
+M 0 20237 20 20340 4
+M 0 20220 10 20341 4
+E 0 20243 0 7
+E 0 20239 0 5
+M 0 20236 5 20341 1
+M 0 20237 20 20341 5
+M 0 20217 20 20342 5
+M 0 20229 20 20342 5
+M 0 20218 20 20342 3
+M 0 20205 100 20344 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20344 10
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20200 100 20345 4
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20218 20 20346 2
+M 0 20218 20 20347 4
+M 0 20219 10 20348 2
+E 0 20235 0 7
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20240 0 3
+M 0 20220 10 20348 2
+E 0 20243 0 7
+E 0 20239 0 5
+E 0 20240 0 3
+M 0 20218 20 20348 3
+M 0 20235 5 20348 1
+M 0 20237 20 20348 5
+M 0 20220 10 20349 4
+E 0 20243 0 7
+E 0 20239 0 5
+E 0 20240 0 3
+M 0 20236 5 20349 1
+M 0 20237 20 20349 5
+M 0 20217 20 20350 1
+M 0 20218 20 20350 2
+M 0 20229 20 20350 4
+M 0 20200 100 20352 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20200 100 20353 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20243 30 20357 4
+M 0 20200 100 20358 2
+E 0 20203 0 20
+E 0 20202 0 15
+E 0 20204 0 8
+M 0 20231 100 20359 3
+M 0 20205 100 20360 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20360 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20362 10
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+O 0 20256 0 20364
+M 0 20204 100 20364 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20204 100 20367 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20218 20 20369 2
+M 0 20218 20 20371 1
+M 0 20209 10 20371 1
+M 0 20204 100 20371 1
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20209 10 20372 1
+O 0 20256 0 20372
+O 0 20255 0 20373
+M 0 20204 100 20373 1
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20209 10 20374 1
+O 0 20257 0 20374
+M 0 20204 100 20376 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20209 10 20377 2
+M 0 20210 1 20377 1
+E 0 20238 0 8
+E 0 20237 0 7
+E 0 20239 0 5
+E 0 20240 0 3
+M 0 20207 4 20377 2
+E 0 20212 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+E 0 20203 0 3
+M 0 20206 1 20377 1
+E 0 20213 0 2
+E 0 20214 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20241 0 8
+E 0 20200 0 7
+E 0 20223 0 3
+M 0 20204 100 20378 2
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20205 100 20380 2
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+E 0 20218 0 20
+M 0 20208 20 20384 1
+E 0 20202 0 15
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20208 20 20385 1
+E 0 20218 0 20
+E 0 20202 0 15
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20208 20 20386 1
+E 0 20218 0 20
+E 0 20202 0 15
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20208 20 20387 1
+E 0 20218 0 20
+E 0 20202 0 15
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+O 0 20256 0 20392
+M 0 20209 10 20392 1
+O 0 20255 0 20393
+M 0 20209 10 20393 1
+O 0 20257 0 20394
+M 0 20207 4 20395 2
+E 0 20212 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20220 0 7
+E 0 20223 0 3
+M 0 20208 20 20399 2
+E 0 20218 0 20
+E 0 20202 0 15
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20205 100 20399 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20399 5
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20243 30 20402 3
+M 0 20242 20 20402 1
+M 0 20242 20 20403 1
+M 0 20244 20 20403 1
+M 0 20244 20 20405 3
+M 0 20243 30 20406 10
+M 0 20242 20 20408 1
+M 0 20242 20 20411 1
+M 0 20244 20 20411 1
+M 0 20243 30 20415 1
+M 0 20244 20 20416 1
+M 0 20244 20 20417 1
+M 0 20243 30 20417 2
+M 0 20205 100 20420 1
+E 0 20211 0 2
+E 0 20208 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20201 0 8
+E 0 20200 0 7
+M 0 20204 100 20420 3
+E 0 20210 0 20
+E 0 20209 0 16
+E 0 20202 0 15
+E 0 20207 0 11
+E 0 20206 0 10
+E 0 20205 0 9
+E 0 20204 0 8
+E 0 20200 0 7
+M 0 20243 30 20423 5
+M 0 20243 30 20424 5
+M 0 20242 20 20425 3
+M 0 20244 20 20426 3
+M 0 20242 20 20426 3
+M 0 20246 100 20426 12
+M 0 20246 200 20427 3
+R 0 20429 4
+M 0 20246 100 20429 10
+R 0 20430 2
+R 0 20431 2
+M 0 20246 100 20431 15
+R 0 20432 4
+M 0 20246 100 20432 21
+R 0 20433 4
+M 0 20246 100 20433 13
+R 0 20434 4
+R 0 20435 4
+M 0 20246 100 20435 9
+R 0 20436 4
+R 0 20437 4
+M 0 20246 100 20437 11
+R 0 20438 4
+R 0 20439 4
+R 0 20440 4
+R 0 20441 4
+M 0 20246 100 20441 2
+R 0 20442 4
+M 0 20246 100 20442 3
+R 0 20443 4
+M 0 20246 100 20443 12
+R 0 20444 4
+M 0 20246 100 20444 1
+R 0 20445 4
+M 0 20246 100 20445 9
+R 0 20446 4
+M 0 20246 100 20446 7
+R 0 20447 4
+M 0 20246 100 20447 5
+O 0 20312 0 20449
+O 0 20313 0 20449
+O 0 20460 0 20460
+O 0 20461 0 20461
+O 0 20461 0 20461
+S
+
+
+
+#SHOPS
+20201 0 0 0 0 0 125 75 0 23
+20221 10 0 0 0 0 125 75 0 23
+20222 11 9 0 0 0 125 75 0 23
+20224 8 33 1 12 0 125 75 0 23
+20225 0 0 0 0 0 125 75 0 23
+20226 1 12 15 33 0 125 75 0 23
+20249 5 9 0 0 0 125 75 0 23
+0
+
+
+
+#$

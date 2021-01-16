@@ -1,0 +1,7784 @@
+#AREADATA
+Name Ebou Dar~
+Builders Oniren~
+VNUMs 1200 1399
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1200
+shopkeeper grizzly man~
+the {Gshopkeeper{x~
+A {Ggrizzly-looking man{x stands behind the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1201
+captain~
+a captain~
+A captain is overseeing the loading of cargo aboard his ship.
+~
+~
+altaran~
+ABT 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1202
+sailor~
+a sailor~
+A sailor strolls up the gangplank of one of the ships, carrying a small {ycask{x.
+~
+~
+altaran~
+ABT 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+I AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1203
+dockworker~
+a dockworker~
+A dockworker is helping to load and offload one of the ships.
+~
+~
+altaran~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1204
+dockworker~
+a dockworker~
+This dockworker seems to be in a hurry to get to his next assignment.
+~
+~
+altaran~
+AGTW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1205
+dockworker~
+a dockworker~
+A dockworker is here wheeling a heavily loaded {ybarrow{x.
+~
+~
+altaran~
+AGSW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+N AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1206
+sailor~
+a sailor~
+A rough-looking sailor swaggers down the road.
+~
+~
+altaran~
+AGTW 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1207
+shipwright~
+a shipwright~
+A shipwright strolls down the road, carrying his {ybag{x of {Dt{wo{Wo{wl{Ds{x.
+~
+~
+altaran~
+AGTW 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1208
+merchant sedan chair~
+a merchant~
+The crowds part for this merchant traveling in a {msedan chair{x.
+~
+~
+altaran~
+AGSW 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+N AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#1209
+customs officer~
+a customs officer~
+A customs officer watches all the proceedings in this area with a hawk-like gaze.
+~
+~
+altaran~
+AGSW 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+N AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#1210
+civil watch~
+a member of the {bC{Bi{Dv{Bi{bl G{Bu{Da{Br{bd{x~
+A member of the {bC{Bi{Dv{Bi{bl G{Bu{Da{Br{bd{x stands on watch at the city gate.
+~
+~
+altaran~
+ABT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1211
+local man~
+a local man~
+A local man is strolling down the street at a casual pace.
+~
+~
+altaran~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1212
+local woman~
+a local woman~
+A local woman is hurrying along the road.
+~
+~
+altaran~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1213
+scruffy dog stray~
+a stray dog~
+A {yscruffy-looking dog{x is sniffing at the road as it hunts for scraps of food.
+~
+~
+dog~
+AGW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#1214
+grimy child~
+a {Dgrimy child{x~
+A {Dgrimy child{x is playing in the street with their friends.
+~
+~
+altaran~
+AGSW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand either 5
+0 0 small 'unknown'
+#1215
+elderly man~
+an elderly man~
+Tottering down the road is this elderly man.
+~
+~
+altaran~
+AGTW 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1216
+elderly lady~
+an elderly lady~
+An elderly lady mutters curses under her breath as she shuffles down the street.
+~
+~
+altaran~
+AGSW 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1217
+drunken man~
+a {cdrunken man{x~
+A {cdrunken man{x is bumping into people as he staggers along the road.
+~
+~
+altaran~
+AGTW 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1218
+rich merchant~
+a rich {mmerchant{x~
+A rich {mmerchant{x struts down the busy street.
+~
+~
+altaran~
+AGSW 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand either 50
+0 0 medium 'unknown'
+#1219
+merchants guard~
+a {gmerchant's guard{x~
+A {gmerchant's guard{x saunters down the road after his patron.
+~
+~
+altaran~
+AGTW 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1220
+tradesman~
+a {rtradesman{x~
+A {rtradesman{x stops to doff his cap to a fellow member of his guild.
+~
+~
+altaran~
+AGSW 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1221
+sedan chair burly bearers~
+a {ysedan chair{x bearer~
+The crowds make way for a {ysedan chair{x that is being carried by two burly bearers.
+~
+~
+altaran~
+AGTW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1222
+skinny youth~
+a skinny{b youth{x~
+A skinny{b youth{x slips casually through the crowds.
+~
+~
+altaran~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1223
+civil watch~
+a member of the {bC{Bi{Dv{Bi{bl G{Bu{Da{Br{bd{x~
+A member of the {bC{Bi{Dv{Bi{bl G{Bu{Da{Br{bd{x is patrolling this part of the city.
+~
+~
+altaran~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1224
+altaran lord~
+an {rA{Rl{Ytar{Ba{bn{x lord~
+An {rA{Rl{Ytar{Ba{bn{x lord barges his way though the crowds.
+~
+~
+altaran~
+AGTW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 150
+0 0 medium 'unknown'
+#1225
+altaran lady~
+an {rA{Rl{Ytar{Ba{bn{x lady~
+An {rA{Rl{Ytar{Ba{bn{x lady sniffs haughtily as she walks by.
+~
+~
+altaran~
+AGTW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand female 150
+0 0 medium 'unknown'
+#1226
+wealthy citizen~
+a {cwealthy citizen{x~
+A {cwealthy citizen{x is wandering the city's winding roads.
+~
+~
+altaran~
+AGTW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+CI AB 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#1227
+haughty woman~
+a haughty woman~
+A haughty woman looks down her nose at the locals.
+~
+~
+altaran~
+AGSW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+JN AB 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#1228
+arrogant man~
+a arrogant man~
+An arrogant man barges his way along the crowded street.
+~
+~
+altaran~
+AGSW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+JN AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1229
+servant~
+a {gservant{x~
+A {gservant{x scuttles along the road, trailing after their master.
+~
+~
+altaran~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CI AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1230
+peddler wagon~
+a peddler~
+A peddler is guiding their horse-drawn {ywagon{x down the road.
+~
+~
+altaran~
+AGSW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+JN AB 0 0
+stand stand either 100
+0 0 medium 'unknown'
+#1231
+civil watch~
+a member of the {bC{Bi{Dv{Bi{bl G{Bu{Da{Br{bd{x~
+A member of the {bC{Bi{Dv{Bi{bl G{Bu{Da{Br{bd{x keeps a watchful eye over the market.
+~
+~
+altaran~
+ABT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1232
+market stall owner scruffy man~
+a {bmarket stall owner{x~
+A {bscruffy-looking man{x is hawking merchandise at this market stall.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1233
+market stall owner gray haired woman~
+a {cmarket stall owner{x~
+This market stall is being run by a {cgray-haired woman{x.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1234
+gangly young man shopkeeper~
+a {Dshopkeeper{x~
+A gangly young man is arranging {Dc{wu{Wtle{wr{Dy{x on a stall outside of the shop.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1235
+portly man market stall owner~
+a {ymarket stall owner{x~
+A {yportly man{x is standing beside this market stall.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1236
+red haired woman market stall owner~
+a {mmarket stall owner{x~
+A {mwoman{x with long red hair is selling items at this stall.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1237
+citizen~
+a citizen~
+One of the citizens wandering around the market, browsing at the merchandise.
+~
+~
+altaran~
+AGSW 0 0 0
+62 52 32d33+3844 62d10+100 7d9+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 0
+stand stand either 4999
+0 0 medium 'unknown'
+#1238
+serving maid~
+a {mserving maid{x~
+This {mserving maid{x looks like she is rushed off of her feet as she serves her customers.
+~
+~
+altaran~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1239
+rowdy tavern patron~
+a {ctavern patron{x~
+A rowdy {ctavern patron{x is sat at one of the tables, drinking with his friends.
+~
+~
+altaran~
+ABS 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1240
+stern man banker changer~
+a banker~
+A stern-looking man is sitting behind the desk.
+~
+~
+altaran~
+ABDd 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#1241
+jeweler restringer~
+a {Rjeweler{x~
+The {Rjeweler{x watches over her shop with an eagle-like stare.
+~
+~
+altaran~
+ABK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1242
+tattoo artist burly man~
+a {Ctattoo artist{x~
+A {Cburly man{x is sweeping the floor of the parlor with a broom.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1243
+scrawny young man shopkeeper~
+a shopkeeper~
+A scrawny young man is standing behind the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1244
+young woman shopkeeper~
+a shopkeeper~
+A young woman covered in cat claw marks is standing behind the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABCb 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1245
+hamster furry critter~
+a {yha{Dm{yster{x~
+A small {yfu{Dr{yry cr{Ditt{yer{x scuttles across the ground.
+~
+~
+rabbit~
+AI 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 A 0 0
+stand stand either 0
+0 0 small 'unknown'
+#1246
+lizard scaly creature~
+a {gl{Di{wza{Dr{gd{x~
+A tiny {gs{Dc{wa{Dl{gy cr{De{wat{Du{gre{x runs along the ground.
+~
+~
+lizard~
+AI 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 A 0 0
+stand stand either 0
+0 0 small 'unknown'
+#1247
+bird canary~
+a {Ycanary{x~
+A brightly colored {Ybird{x chirps merrily as it flies around the area.
+~
+~
+song bird~
+AI 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 A 0 0
+stand stand either 0
+0 0 small 'unknown'
+#1248
+stripy gray cat silver tabby~
+a {Ds{wi{Wlv{we{Dr t{wa{Wb{wb{Dy c{wa{Dt{x~
+A stripy {Dg{wra{Dy c{wa{Dt{x is prowling around the area.
+~
+~
+cat~
+AI J 0 0
+85 75 43d43+7225 85d10+100 9d14+42 scratch
+0 0 0 0 0
+A
+5 5 5 5
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+#1249
+shopkeeper~
+a {Bshopkeeper{x~
+The {Bshopkeeper{x is dusting off his merchandise with an old rag.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1250
+bowyer~
+a {ybowyer{x~
+The {ybowyer{x stands in the corner of the room, rubbing his hands together in a greedy fashion.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1251
+cloth seller~
+a {Mcloth seller{x~
+The {Mcloth seller{x looks bored as she waits to serve her customers.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1252
+silversmith~
+a {Wsilversmith{x~
+The {Wsilversmith{x watches over his store with his arms folded in front of him.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1253
+pawn broker~
+a {rpawn broker{x~
+The {rpawn broker{x is sitting behind the shop's counter, counting his money.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABCb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#1254
+shopkeeper~
+a {yshopkeeper{x~
+The {yshopkeeper{x looks bored as he stands behind the counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1255
+dark haired lady shopkeeper~
+a shopkeeper~
+A dark-haired lady is sat behind the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1256
+dark haired man thieftaker~
+a {mThieftaker{x~
+A {mdark-haired man{x is standing at the end of the jetty, watching the boats sail by.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABCb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#1257
+woman ageless aes sedai healer~
+an {rAes Sedai{x~
+A woman with an ageless face is resting here.
+~
+~
+tarvaloner~
+ABQa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#1258
+seagull~
+a {Wse{wa{Dg{wu{Wll{x~
+A {Wse{wa{Dg{wu{Wll{x circles the air as it searches for scraps of food to eat.
+~
+~
+song bird~
+AGW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 peck
+0 0 0 0 0
+A
+3 3 3 3
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#1259
+scruffy lad gainer trainer~
+a {yscruffy lad{x~
+A {yscruffy lad{x is sitting upon the stone steps that connects the jetty with the streets.
+~
+~
+altaran~
+ABJb 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F gain B
+F train B
+V tlevel 65
+#1260
+warehouse worker~
+a {cwarehouse worker{x~
+A {cwarehouse worker{x is busy lugging heavy crates and barrels around the building.
+~
+~
+altaran~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1261
+warehouse worker~
+a {cwarehouse worker{x~
+One of the {cwarehouse workers{x is chasing a {ymouse{x around, trying to hit it with a broom.
+~
+~
+altaran~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1262
+tiny mouse~
+a {ymouse{x~
+A tiny {ymouse{x tries to scurry behind the crates and barrels.
+~
+~
+rabbit~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off FH
+#1263
+male pickpocket gangly man~
+a male {bp{Bick{Wpo{wcke{Dt{x~
+A gangly man drifts aimlessly through the crowds.
+~
+~
+altaran~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+JN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1264
+female pickpocket short skinny woman~
+a female {bp{Bick{Wpo{wcke{Dt{x~
+A short, skinny woman hurries down the busy street.
+~
+~
+altaran~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+JN AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1265
+cutpurse hawknosed man~
+a {rc{Rut{Wpu{wrs{De{x~
+A hawk-nosed man glances around himself in a curious manner.
+~
+~
+altaran~
+AGSW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+JN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1266
+smuggler rough sailor~
+a smuggler~
+A rough-looking {ys{wa{Wil{wo{yr{x saunters through the busy area.
+~
+~
+altaran~
+AGTW 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+CI AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1267
+thieftaker beady eyed man~
+a Thieftaker~
+Amongst the people in this crowded area is this beady-eyed man.
+~
+~
+altaran~
+AGTW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CI AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#1200
+long lance blue streamers~
+a {Dl{won{Wg la{wnc{De{x bearing {bb{Blu{be s{Btre{ba{Bmer{bs{x~
+A long lance bearing blue streamers.~
+steel~
+weapon 0 AN
+lance 8 13 'thrust' 0
+70 10 150 100
+A
+19 3
+#1201
+flanged flail~
+a {Df{wl{Wa{wn{Wg{we{Dd f{wl{Da{wi{Dl{x~
+A flanged flail has been left here.~
+steel~
+weapon 0 AN
+flail 8 13 'smash' 0
+70 5 150 100
+A
+19 3
+#1202
+curved dagger leather hilt~
+a {Dc{wur{Wv{we{Dd{x {Dd{wa{Wgg{we{Dr{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A curved dagger with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+dagger 8 13 'stab' 0
+70 2 150 100
+A
+19 3
+#1203
+bleached leather whip~
+a {yb{wl{Weach{we{yd l{we{Wather w{whi{yp{x~
+A bleached leather whip has been left here.~
+leather~
+weapon S AN
+whip 8 13 'beating' 0
+70 1 150 100
+A
+19 3
+#1204
+hurlbat throwing axe~
+a {Dh{wu{Wrlb{wa{Dt{x~
+A spiked throwing axe has been left here.~
+steel~
+weapon 0 AN
+axe 8 13 'cleave' 0
+70 3 150 100
+A
+19 3
+#1205
+longsword sword~
+a {Dlo{wngswo{Wrd{x~
+A longsword has been left here.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' F
+70 5 150 100
+A
+19 3
+#1206
+bamboo spear~
+a {ybamboo{x spear~
+A bamboo spear has been left here.~
+bamboo~
+weapon 0 AN
+spear 8 13 'stab' 0
+70 5 150 100
+A
+19 3
+#1207
+partisan polearm~
+a {Dp{war{Wti{wsa{Dn{x~
+A partisan has been left here.~
+steel~
+weapon 0 AN
+polearm 8 13 'stab' F
+70 6 150 100
+A
+19 3
+#1208
+white oak quarterstaff~
+a {yw{wh{Wite o{wa{yk q{wu{Wartersta{wf{yf{x~
+A white oak quarterstaff has been left here.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+70 4 150 100
+A
+19 3
+#1209
+iron morning star~
+an {Di{wro{Dn{x {Dm{wornin{Dg s{wta{Dr{x~
+An iron morning star has been left here.~
+iron~
+weapon 0 AN
+mace 8 13 'smash' 0
+70 5 150 100
+A
+19 3
+#1210
+heavy steel cutlass~
+a {Dh{we{Wa{wv{Dy s{wt{We{we{Dl c{wu{Wtla{ws{Ds{x~
+A heavy steel cutlass has been left here.~
+steel~
+weapon K AN
+sword 8 13 'slash' 0
+75 5 175 100
+A
+18 2
+A
+19 2
+#1211
+light steel cutlass~
+a {Dl{wi{Wg{wh{Dt s{wt{We{we{Dl c{wu{Wtla{ws{Ds{x~
+A light steel cutlass has been left here.~
+steel~
+weapon K AN
+sword 8 13 'slash' 0
+72 4 150 100
+A
+18 2
+A
+19 1
+#1212
+belt knife~
+a {cb{wel{Wt kn{wif{ce{x~
+A belt knife has been left here.~
+steel~
+weapon K AN
+dagger 8 13 'stab' 0
+70 1 150 100
+A
+18 2
+A
+19 1
+#1213
+yellow cloth sash~
+a {Yyellow cloth sash{x~
+A sash made of yellow cloth has been left here.~
+cloth~
+armor KS AL
+21 21 21 12 0
+75 1 45 100
+A
+4 2
+A
+5 2
+#1214
+blue cloth sash~
+a {Cblue cloth sash{x~
+A sash made of blue cloth has been left here.~
+cloth~
+armor KS AL
+20 20 20 12 0
+72 1 45 100
+A
+3 3
+#1215
+purple cloth sash~
+a {mpurple cloth sash{x~
+A sash made of purple cloth has been left here.~
+cloth~
+armor KS AL
+20 20 20 10 0
+70 1 45 100
+A
+1 3
+#1216
+heavy hammer hickory haft mace~
+a {Dh{we{Wavy hamm{we{Dr{x with a {rh{yi{wckory ha{yf{rt{x~
+A heavy hammer with a hickory haft has been left here.~
+iron~
+weapon K AN
+mace 8 13 'smash' 0
+72 6 150 100
+A
+19 3
+#1217
+steel breastplate blue coat~
+a {Ds{wt{Wee{Dl{x {Db{wre{Wastpl{wat{De{x worn over a {bb{Blu{be c{Boa{bt{x~
+A steel breastplate has been left here.~
+steel~
+armor 0 AD
+18 18 18 11 0
+65 6 300 100
+A
+17 -15
+#1218
+baggy white breeches~
+a pair of {Wbaggy{x {Wwhite breeches{x~
+A pair of baggy white breeches has been left here.~
+cloth~
+armor KS AF
+18 18 18 11 0
+65 2 45 100
+A
+5 3
+#1219
+black leather boots~
+a pair of {Dblack leather boots{x~
+A pair of black leather boots has been left here.~
+leather~
+armor KS AG
+18 18 18 11 0
+65 2 85 100
+A
+2 3
+#1220
+rimmed pot steel helmet~
+a rimmed, pot-like {Ds{wt{Wee{Dl{x {Dh{we{Wlm{we{Dt{x~
+A rimmed, pot-like steel helmet has been left here.~
+steel~
+armor 0 AE
+18 18 18 11 0
+65 3 300 100
+A
+4 3
+#1221
+wooden truncheon~
+a {yw{Do{yod{De{yn t{Dr{yunche{Do{yn{x~
+A wooden truncheon has been left here.~
+wood~
+weapon S AN
+mace 7 12 'smash' 0
+65 2 150 100
+A
+19 3
+#1222
+brass ferruled short staff~
+a {ybrass-ferruled{x short staff~
+A brass-ferruled short staff has been left here.~
+wood~
+weapon 0 AN
+staff 7 12 'smash' F
+65 3 150 100
+A
+18 3
+#1223
+curved dagger leather hilt~
+a {Dc{wur{Wv{we{Dd{x {Dd{wa{Wgg{we{Dr{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A curved dagger with a leather-wrapped hilt has been left here.~
+steel~
+weapon K AN
+dagger 6 11 'stab' 0
+55 2 150 100
+A
+18 2
+#1224
+walking stick~
+a {ywalking stick{x~
+A walking stick has been left here.~
+wood~
+weapon KS AN
+staff 6 11 'smash' F
+52 1 150 100
+A
+4 1
+#1225
+long narrow bladed sword~
+a {Dl{wo{Wng{w {Dn{warr{Wow{w {Db{wlad{Wed{w {Ds{wwo{Wrd{w{x~
+A long narrow bladed sword has been left here.~
+steel~
+weapon K AN
+sword 6 11 'slash' 0
+57 5 250 100
+A
+18 2
+#1226
+purple cloth kerchief~
+a {mpurple kerchief{x~
+A piece of purple cloth has been left here.~
+cloth~
+armor KS AC
+16 16 16 9 0
+57 1 45 100
+A
+4 2
+#1227
+silver ferruled cane~
+a {Ds{wi{Wlv{we{Dr{x-{Df{we{Wrrul{we{Dd{y cane{x~
+A silver-ferruled cane has been left here.~
+wood~
+weapon K AN
+staff 6 11 'smash' 0
+57 2 300 100
+#1228
+golden marriage dagger~
+a {yg{Yo{Wld{Ye{yn m{Yar{Wri{Yag{ye d{Ya{Wgg{Ye{yr{x~
+A golden marriage dagger has been left here.~
+gold~
+armor K AC
+19 19 19 10 0
+67 1 300 100
+A
+5 3
+#1229
+long green silk vest~
+a {glong green silk vest{x~
+long green silk vest has been left here.~
+silk~
+armor KS AD
+19 19 19 10 0
+67 2 150 100
+A
+2 3
+#1230
+rapier sword~
+a {Dr{wa{Wpi{we{Dr{x~
+A rapier has been left here.~
+steel~
+weapon K AN
+sword 7 12 'slash' 0
+67 3 225 100
+A
+18 3
+#1231
+green velvet slippers~
+a pair of {gg{Gr{ge{Ge{gn v{Ge{glv{Ge{gt sl{Gi{gpp{Ge{grs{x~
+green velvet slippers has been left here.~
+velvet~
+armor KS AG
+19 19 19 10 0
+67 1 150 100
+A
+4 1
+A
+5 1
+A
+3 1
+#1232
+gold hoop earring~
+a {yg{Yo{Wl{Yd {yh{Yo{Wo{Yp {ye{Yarri{Wn{Yg{x~
+A gold hoop earring has been left here.~
+gold~
+armor K AU
+17 17 17 11 0
+62 1 300 100
+A
+5 1
+A
+4 1
+#1233
+long lance red streamers~
+a {Dl{won{Wg la{wnc{De{x bearing {rr{Re{rd s{Rtre{ra{Rmer{rs{x~
+A long lance bearing red streamers.~
+steel~
+weapon 0 AN
+lance 8 13 'thrust' 0
+75 10 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1234
+spiked mace leather hilt~
+a {Ds{wp{Dik{we{Dd m{wac{De{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A spiked mace with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+mace 8 13 'smash' 0
+75 5 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1235
+heavy axe leather hilt~
+a {Dh{wea{Wvy a{wx{De{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A heavy axe with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+axe 8 13 'cleave' 0
+75 5 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1236
+leather whip long handle~
+a {Dl{yeathe{Dr w{yhi{Dp{x with a {yl{Yo{Wng hand{Yl{ye{x~
+A leather whip with a long handle has been left here.~
+leather~
+weapon S AN
+whip 8 13 'beating' 0
+75 1 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1237
+long dagger~
+a {Dl{won{Wg da{wgge{Dr{x~
+A long dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 8 13 'stab' 0
+75 1 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1238
+side sword~
+a {Ds{wi{Wde-swo{wr{Dd{x~
+This is a sword with a double-edged and tapered blade.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' 0
+75 5 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1239
+steel tipped hunting spear~
+a {Ds{wt{We{we{Dl{x-{Dt{wi{Wpp{we{Dd{x hunting spear~
+A steel-tipped hunting spear has been left here.~
+steel~
+weapon 0 AN
+spear 8 13 'stab' 0
+75 5 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1240
+bardiche polearm~
+a {Db{war{Wdi{wch{De{x~
+A bardiche has been left here.~
+steel~
+weapon 0 AN
+polearm 8 13 'slash' F
+75 6 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1241
+white oak long staff~
+a {yw{wh{Wite o{wa{yk l{wo{Wng sta{wf{yf{x~
+A white oak long staff has been left here.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+75 6 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1242
+leather slapjack lead~
+a {yl{De{wath{De{yr{x {ys{Dl{wapja{Dc{yk{x weighted with lead~
+A leather slapjack has been left here.~
+lead~
+weapon 0 AN
+flail 8 13 'smash' 0
+75 3 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1243
+composite flatbow bow~
+a {yc{womp{Wosite flat{wbo{yw{x~
+A composite flatbow has been left here.~
+wood~
+weapon S AN
+bow 8 13 'thwack' F
+75 2 300 100
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1244
+aura strength strange blue glow~
+an {ba{Bur{ba{x of {bs{Btrengt{bh{x~
+There is a strange blue glow in the air.~
+light~
+light S AQ
+0 0 500 0 0
+62 0 0 100
+A
+1 2
+#1245
+aura cunning strange red glow~
+an {ra{Rur{ra{x of {rc{Runnin{rg{x~
+There is a strange red glow in the air.~
+light~
+light S AQ
+0 0 500 0 0
+65 0 0 100
+A
+3 3
+#1246
+silver spoon~
+a {Ds{wi{Wlv{we{Dr{x {Ds{wp{Wo{wo{Dn{x~
+A silver spoon has been left here.~
+steel~
+weapon 0 AN
+mace 7 12 'smash' 0
+65 1 50 100
+A
+18 3
+#1247
+silver fork~
+a {Ds{wi{Wlv{we{Dr{x {Df{Wo{wr{Dk{x~
+A silver fork has been left here.~
+steel~
+weapon 0 AN
+exotic 7 12 'stab' 0
+65 1 50 100
+A
+18 3
+#1248
+silver knife~
+a {Ds{wi{Wlv{we{Dr{x {Dk{wn{Wi{wf{De{x~
+A silver knife has been left here.~
+steel~
+weapon 0 AN
+dagger 7 12 'stab' 0
+65 1 50 100
+A
+18 3
+#1249
+plain spoon~
+a plain {Ds{wp{Wo{wo{Dn{x~
+A plain spoon has been left here.~
+steel~
+weapon 0 AN
+mace 5 10 'smash' 0
+45 1 25 100
+A
+18 1
+#1250
+plain fork~
+a plain {Df{Wo{wr{Dk{x~
+A plain fork has been left here.~
+steel~
+weapon 0 AN
+exotic 5 10 'stab' 0
+45 1 25 100
+A
+18 1
+#1251
+plain knife~
+a plain {Dk{wn{Wi{wf{De{x~
+A plain knife has been left here.~
+steel~
+weapon 0 AN
+dagger 5 10 'stab' 0
+45 1 25 100
+A
+18 1
+#1252
+simple red kite~
+{wa {rr{Re{rd k{Rit{re{w with {yy{Yello{yw r{Yibbon{ys{w adorning its tail{x~
+A simple kite has been left here.~
+paper~
+armor S AQ
+24 24 24 13 0
+85 1 50 100
+A
+18 5
+#1253
+thick leather bracer~
+a {yt{Dh{yi{Dc{yk l{De{yath{De{yr b{Dr{yac{De{yr{x~
+A thick bracer made of leather.~
+leather~
+armor S AM
+24 24 24 13 0
+85 1 100 100
+A
+5 2
+A
+4 2
+A
+17 -5
+#1254
+blue arrow~
+a {bb{Blu{be{x-{bf{Bletche{bd{x {ya{Dr{wr{Do{yw{x~
+This is an arrow with blue fletchings.~
+wood~
+weapon 0 AO
+exotic 9 14 'none' 0
+85 1 2 100
+#1255
+steel plated bracer~
+a {Ds{wt{We{we{Dl{x-{Dp{wl{Wat{we{Dd{x {Db{yrace{Dr{x~
+A steel-plated bracer has been left here.~
+steel~
+armor 0 AM
+23 23 23 11 0
+80 2 300 100
+A
+17 -20
+#1256
+steel plated belt~
+a {Ds{wt{We{we{Dl{x-{Dp{wl{Wat{we{Dd{x {Db{yel{Dt{x~
+A steel-plated belt has been left here.~
+steel~
+armor 0 AL
+23 23 23 11 0
+80 2 300 100
+A
+17 -20
+#1257
+steel plated gauntlets~
+a pair of {Ds{wt{We{we{Dl{x-{Dp{wl{Wat{we{Dd{x {Dg{yauntlet{Ds{x~
+A pair of steel-plated gauntlets has been left here.~
+steel~
+armor 0 AH
+23 23 23 11 0
+80 2 300 100
+A
+17 -20
+#1258
+bronze plated bracer~
+a {yb{Yronz{ye{x-{yp{Ylate{yd{x {Db{yrace{Dr{x~
+A bronze-plated bracer has been left here.~
+bronze~
+armor 0 AM
+17 17 17 9 0
+60 2 250 100
+A
+17 -10
+#1259
+bronze plated belt~
+a {yb{Yronz{ye{x-{yp{Ylate{yd{x {Db{yel{Dt{x~
+A bronze-plated belt has been left here.~
+bronze~
+armor 0 AL
+17 17 17 9 0
+60 2 250 100
+A
+17 -10
+#1260
+bronze plated gauntlets~
+a pair of {yb{Yronz{ye{x-{yp{Ylate{yd{x {Dg{yauntlet{Ds{x~
+A pair of bronze-plated gauntlets has been left here.~
+bronze~
+armor 0 AH
+17 17 17 9 0
+60 2 250 100
+A
+17 -10
+#1261
+canvas bedroll~
+a {ycanvas bedroll{x~
+A canvas bedroll has been left here.~
+canvas~
+furniture S A
+1 1000 EHK 150 140
+0 1 200 100
+#1262
+canvas haversack~
+a {ycanvas haversack{x~
+A canvas haversack has been left here.~
+canvas~
+container S AS
+500 AC 0 500 100
+0 1 150 100
+#1263
+large canteen~
+a {Dl{war{Wge can{wtee{Dn{x~
+A large canteen has been left here.~
+tin~
+drink 0 A
+14 14 'water' 0 0
+0 1 120 100
+#1264
+hooded lantern~
+a {yh{Yo{Woded lant{Yer{yn{x~
+A hooded lantern has been left here.~
+brass~
+light 0 A
+0 0 5 0 0
+0 1 100 100
+#1265
+piece flatbread~
+a piece of {yflatbread{x~
+A piece of flatbread has been left here.~
+food~
+food S A
+6 6 0 0 0
+0 1 20 100
+#1266
+dusty cloak~
+a {yd{Du{ws{Dt{yy c{Dl{wo{Da{yk{x~
+A dusty cloak has been left here.~
+wool~
+armor KS AK
+15 15 15 10 0
+55 3 60 100
+A
+2 2
+#1267
+blue breeches~
+a pair of {bblue breeches{x~
+A pair of blue breeches has been left here.~
+wool~
+armor KS AF
+15 15 15 10 0
+55 3 60 100
+A
+18 2
+#1268
+long blue vest~
+a {clong blue vest{x~
+A long blue vest has been left here.~
+wool~
+armor KS AD
+15 15 15 10 0
+55 3 60 100
+A
+5 2
+A
+5 3
+#1269
+brass hoop earring~
+a {ybrass hoop earring{x~
+A brass hoop earring has been left here.~
+brass~
+armor K AU
+15 15 15 10 0
+55 1 85 100
+A
+19 1
+A
+18 1
+#1270
+curved duelling dagger~
+a {Dcu{wrv{Wed du{we{Dll{wi{Wng da{wgg{Der{x~
+A curved duelling dagger has been left here.~
+steel~
+weapon K AN
+dagger 6 11 'stab' 0
+55 1 150 100
+A
+2 2
+#1271
+thick leather belt~
+a {Dt{yhic{Dk{y {Dl{yeathe{Dr b{yel{Dt{x~
+A thick leather belt has been left here.~
+leather~
+armor KS AL
+15 15 15 10 0
+55 2 85 100
+A
+5 1
+A
+4 1
+#1272
+sign~
+a {Ysign{x~
+A small {Ysign{x has been placed upon the shop's counter.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+A small {Ysign{x has been placed upon the shop's counter.  The {Ysign{x reads:
+{W"Custom jewelery made to order here {x{W- See {CHELP RESTRING{W for more details."  {x
+~
+#1273
+golden marriage dagger~
+a {yg{Yo{Wld{Ye{yn m{Yar{Wri{Yag{ye d{Ya{Wgg{Ye{yr{x~
+A golden marriage dagger has been left here.~
+gold~
+armor 0 AC
+24 24 24 18 0
+90 1 300 100
+A
+3 -2
+A
+5 4
+A
+4 4
+#1274
+silver marriage dagger~
+a {Ds{wi{Wlv{we{Dr m{war{Wri{wag{De{w {Dd{wa{Wgg{we{Dr{x~
+A silver marriage dagger has been left here.~
+silver~
+armor 0 AC
+16 16 16 12 0
+60 1 225 100
+A
+3 -2
+A
+5 2
+A
+4 2
+#1275
+brass marriage dagger~
+a {yb{Dr{wa{Ds{ys ma{Dr{wri{Da{yge d{Da{wgg{De{yr{x~
+A brass marriage dagger has been left here.~
+brass~
+armor 0 AC
+8 8 8 6 0
+30 1 150 100
+A
+3 -2
+A
+5 1
+A
+4 1
+#1276
+howling wolf tattoo puddle ink~
+a {Dh{wow{Wl{win{Dg{w w{Wo{wl{Df {Dt{wa{Wtt{wo{Do{x~
+A puddle of ink has been left here.~
+ink~
+armor SUY AR
+24 24 24 18 0
+90 0 90 100
+A
+5 6
+#1277
+hunting fox tattoo puddle ink~
+a {rh{yun{wt{yin{rg{w f{yo{rx{x {rt{ya{wtt{yo{ro{x~
+A puddle of ink has been left here.~
+ink~
+armor SUY AR
+23 23 23 16 0
+85 0 85 100
+A
+4 5
+#1278
+ships anchor tattoo puddle ink~
+a {cs{Dh{wi{Dp{c's a{Dn{wch{Do{cr{x {ct{Da{wtt{Do{co{x~
+A puddle of ink has been left here.~
+ink~
+armor SUY AR
+20 20 20 15 0
+75 0 75 100
+A
+5 4
+#1279
+blue dolphin tattoo puddle ink~
+a {bb{Blu{be d{Bolphi{bn{x {bt{Batto{bo{x~
+A puddle of ink has been left here.~
+ink~
+armor SUY AR
+17 17 17 14 0
+65 0 65 100
+A
+4 3
+#1280
+crescent moon tattoo puddle ink~
+a {wcr{Wesc{went {Wm{wo{Wo{wn{x {Wt{wa{Wtt{wo{Wo{x~
+A puddle of ink has been left here.~
+ink~
+armor SUY AR
+15 15 15 10 0
+55 0 55 100
+A
+5 2
+#1281
+red eagle tattoo puddle ink~
+a {rr{Re{rd e{Ra{rg{Rl{re{x {rt{Ra{rtt{Ro{ro{x~
+A puddle of ink has been left here.~
+ink~
+armor SUY AR
+12 12 12 9 0
+45 0 45 100
+A
+4 1
+#1282
+wooden bench~
+a {ywooden bench{x~
+A tall {goak tree{x with spreading boughs grows here.~
+wood~
+furniture S P
+4 4000 EHK 200 200
+0 0 0 100
+E
+tall oak tree~
+A tall {goak tree{x with spreading boughs grows here.  Sheltering beneath the
+{goak tree{x is a {ywooden bench{x.  
+~
+#1283
+shrubbery~
+some {gshrubbery{x~
+Thick clumps of {gshrubbery{x is growing in the northwestern corner of the park.~
+wood~
+container Sa P
+100 0 0 100 100
+0 0 0 100
+#1284
+wooden trunk~
+a {yw{Do{yod{De{yn t{Dr{yu{Dn{yk{x~
+Tendrils of {gi{Gv{gy{x have grown up and around this hollow {yt{Dr{yee stu{Dm{yp{x.~
+wood~
+container Sa P
+10 ABCD 1285 10 100
+0 0 0 100
+E
+hollow trunk~
+Tendrils of {gi{Gv{gy{x have grown up and around this hollow {yt{Dr{yee stu{Dm{yp{x.  A small
+{yw{Do{yod{De{yn t{Dr{yu{Dn{yk{x has been stashed inside of the {yt{Dr{yee stu{Dm{yp{x.  
+~
+#1285
+bluish silver key~
+a {cb{wl{Wui{ws{ch-s{wi{Wlv{we{cr{W k{we{cy{x~
+A bluish-silver key has been left here.~
+silver~
+key 0 A
+0 0 0 0 0
+0 0 0 100
+#1286
+sack coins~
+a {ysack{x of {yc{Yo{Wi{Yn{ys{x~
+A sack of coins has been left here.~
+gold~
+money 0 A
+0 50 0 0 0
+0 1 0 100
+#1287
+stone fountain~
+a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x~
+At the center of this square is a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x upon which stands a {Ds{wt{Wat{wu{De{x of a woman.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+statue~
+The statue depicts Queen Nariene with one bare breast indicating that she
+was considered moderately honest.  Her uplifted hand points towards the sea,
+some say this is in reference to the sea's bounty whilst others see it as a
+warning of danger.  
+~
+#1288
+stone fountain~
+a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x~
+At the center of this square is a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x upon which stands a {Ds{wt{Wat{wu{De{x of a woman.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+statue~
+The statue depicts an unknown queen of Shiota scantily clad in armor; the
+crown of swords that rests upon her brow indicates that she was victorious
+in battle.  
+~
+#1289
+stone fountain~
+a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x~
+At the center of this square is a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x upon which stands a {Ds{wt{Wat{wu{De{x of a woman.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+statue~
+The statue depicts a dancer in strange flowing garments that consists of
+feathers and little more.  
+~
+#1290
+stone fountain~
+a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x~
+At the center of this square is a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x upon which stands a {Ds{wt{Wat{wu{De{x of a man.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+statue~
+The statue depicts a lancer on horseback, his steed rearing upwards as he
+prepares to charge.  
+~
+#1291
+stone fountain~
+a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x~
+At the center of this square is a {Ds{wt{Wo{wn{De f{wou{Wnt{wai{Dn{x upon which stands a {Ds{wt{Wat{wu{De{x of a man.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+statue~
+The statue depicts a soldier humbly kneeling with his hand resting upon
+the hilt of his sword in readiness.  
+~
+#1292
+iron kettle hat~
+an {Di{wro{Dn k{wettl{De h{wa{Dt{x~
+An iron kettle hat has been left here.~
+iron~
+armor 0 AE
+8 8 8 6 0
+30 2 300 100
+#1293
+brigandine blue velvet~
+a {ybr{Di{wgand{Di{yne{x covered with {bb{Blu{be v{Belve{bt{x~
+A brigandine covered with blue velvet has been left here.~
+iron~
+armor 0 AD
+8 8 8 6 0
+30 5 300 100
+#1294
+chainmail leggings~
+a set of {cc{Cha{winm{Cai{cl l{Ceg{wgi{Cng{cs{x~
+A set of chainmail leggings has been left here.~
+iron~
+armor 0 AF
+8 8 8 6 0
+30 4 250 100
+#1295
+chainmail sleeves~
+a set of {cc{Cha{winm{Cai{cl s{Cle{we{Cve{cs{x~
+A set of chainmail sleeves has been left here.~
+iron~
+armor 0 AI
+8 8 8 6 0
+30 4 250 100
+#1296
+dark leather bracer~
+a {Dd{yar{Dk l{yeathe{Dr b{yrace{Dr{x~
+A dark leather bracer has been left here.~
+leather~
+armor S AM
+8 8 8 6 0
+30 1 100 100
+#1297
+dark leather gloves~
+a pair of {Dd{yar{Dk l{yeathe{Dr g{ylove{Ds{x~
+A pair of dark leather gloves has been left here.~
+leather~
+armor S AH
+8 8 8 6 0
+30 1 100 100
+#1298
+dark leather boots~
+a pair of {Dd{yar{Dk l{yeathe{Dr b{yoot{Ds{x~
+A pair of dark leather boots has been left here.~
+leather~
+armor S AG
+8 8 8 6 0
+30 2 100 100
+#1299
+green blanket~
+a {ggreen{x blanket~
+A green blanket has been left here.~
+wool~
+furniture S A
+1 1000 EHK 180 180
+90 1 160 100
+#1300
+goat hide waterskin~
+a {yg{Do{wat hi{Dd{ye{x waterskin~
+A goat hide waterskin has been left here.~
+hide~
+drink S A
+12 12 'water' 0 0
+90 1 140 100
+#1301
+canvas haversack~
+a {wc{Wanva{ws{x haversack~
+A canvas haversack has been left here.~
+canvas~
+container S AS
+1000 AC 0 1000 100
+90 1 120 100
+A
+17 -30
+#1302
+mirrored lamp~
+a {Dm{wi{Wrror{we{Dd{x lamp~
+A mirrored lamp has been left here.~
+iron~
+light 0 A
+0 0 5 0 0
+90 1 100 100
+A
+17 -30
+#1303
+plain biscuit~
+a {yplain{x biscuit~
+A plain biscuit has been left here.~
+food~
+food S A
+4 4 0 0 0
+90 1 15 100
+#1304
+aura wisdom strange green glow~
+an {ga{Gur{ga{x of {gw{Gisdo{gm{x~
+There is a strange green glow in the air.~
+light~
+light S AQ
+0 0 999 0 0
+67 0 0 100
+A
+2 -3
+A
+4 6
+#1305
+crossbow gilded fittings~
+a {rc{Dr{wossb{Do{rw{x with {yg{Yi{Wld{Ye{yd f{Yit{Wti{Yng{ys{x~
+A crossbow with gilded fittings has been left here.~
+wood~
+weapon 0 AN
+bow 5 8 'thwack' F
+27 3 200 100
+#1306
+lightweight crossbow~
+a lightweight {yc{wr{Wossb{wo{yw{x~
+A lightweight crossbow has been left here.~
+wood~
+weapon 0 AN
+bow 5 7 'thwack' F
+17 2 150 100
+A
+18 1
+#1307
+large bolt blue silk~
+a {bb{Bol{bt{x of {bb{Bl{bu{Be{b s{Bi{bl{Bk{x~
+A large bolt of blue silk has been left here.~
+silk~
+treasure S AO
+0 0 0 0 0
+0 100 1250 100
+#1308
+large bolt green silk~
+a {gb{Gol{gt{x of {gg{Gr{ge{Ge{gn s{Gi{gl{Gk{x~
+A large bolt of green silk has been left here.~
+silk~
+treasure S AO
+0 0 0 0 0
+0 100 1250 100
+#1309
+silver ring yellow crystal~
+a {Dsi{wlv{Wer{w {Dr{win{Wg{x set with a {yy{Yello{yw c{Yrysta{yl{x~
+A silver ring set with a single crystal has been left here.~
+silver~
+armor 0 AB
+24 24 24 18 0
+90 1 180 100
+A
+3 2
+A
+5 2
+A
+4 2
+#1310
+silver ring green crystal~
+a {Dsi{wlv{Wer{w {Dr{win{Wg{x set with a {gg{Gree{gn c{Grysta{gl{x~
+A silver ring set with a single crystal has been left here.~
+silver~
+armor 0 AB
+23 23 23 16 0
+85 1 170 100
+A
+19 2
+A
+18 3
+#1311
+silver ring cyan crystal~
+a {Dsi{wlv{Wer{w {Dr{win{Wg{x set with a {cc{Cya{cn c{Crysta{cl{x~
+A silver ring set with a single crystal has been left here.~
+silver~
+armor 0 AB
+20 20 20 15 0
+75 1 150 100
+A
+1 2
+A
+2 2
+#1312
+silver ring blue crystal~
+a {Dsi{wlv{Wer{w {Dr{win{Wg{x set with a {bb{Blu{be c{Brysta{bl{x~
+A silver ring set with a single crystal has been left here.~
+silver~
+armor 0 AB
+17 17 17 14 0
+65 1 130 100
+A
+3 3
+#1313
+silver ring magenta crystal~
+a {Dsi{wlv{Wer{w {Dr{win{Wg{x set with a {mm{Magent{ma c{Mrysta{ml{x~
+A silver ring set with a single crystal has been left here.~
+silver~
+armor 0 AB
+15 15 15 10 0
+55 1 110 100
+A
+19 1
+A
+18 1
+#1314
+silver ring red crystal~
+a {Dsi{wlv{Wer{w {Dr{win{Wg{x set with a {rr{Re{rd c{Rrysta{rl{x~
+A silver ring set with a single crystal has been left here.~
+silver~
+armor 0 AB
+12 12 12 9 0
+45 1 90 100
+A
+4 1
+#1315
+wooden shutters~
+the {yw{wo{Wod{we{yn s{wh{Wutte{wr{ys{x~
+The {yw{wo{Wod{we{yn s{wh{Wutte{wr{ys{x have been pulled down, indicating that this shop is closed.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#1316
+sign~
+a {ysign{x~
+A {ysign{x has been nailed onto the shop's counter.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+A {ysign{x has been nailed onto the shop's counter.  The {ysign{x reads:
+{W"Welcome to the Old Ebou Dari Pawn Shop!  We offer among the most
+competitive prices for unwanted items of {x{Warmor and weapons."  {x 
+~
+#1317
+steel cutlass sharkskin~
+a {Ds{wte{Wel-bla{wde{Dd{x {Dc{wu{Wtla{ws{Ds{x with a {csh{Car{wk{Csk{cin{x grip~
+A steel-bladed cutlass has been left here.~
+steel~
+weapon Y AN
+sword 10 15 'slash' 0
+90 4 300 100
+A
+3 -6
+A
+19 8
+A
+18 8
+#1318
+sturdy leather bracer~
+a sturdy {yle{wath{yer br{wac{yer{x~
+A sturdy leather bracer has been left here.~
+leather~
+armor S AM
+3 3 3 1 0
+10 1 100 100
+#1319
+sturdy leather belt~
+a sturdy {yle{wath{yer b{wel{yt{x~
+A sturdy leather belt has been left here.~
+leather~
+armor S AL
+3 3 3 1 0
+10 1 100 100
+#1320
+sturdy leather tunic~
+a sturdy {yle{wath{yer tu{wn{yic{x~
+A sturdy leather tunic has been left here.~
+leather~
+armor S AD
+3 3 3 1 0
+10 3 100 100
+#1321
+sturdy leather cap~
+a sturdy {yle{wath{yer c{wa{yp{x~
+A sturdy leather cap has been left here.~
+leather~
+armor S AE
+3 3 3 1 0
+10 1 100 100
+#1322
+thin gold bracelet~
+a thin {yg{Yol{Wd bra{Ycele{yt{x~
+A thin gold bracelet has been left here.~
+gold~
+armor 0 AM
+6 6 6 7 0
+25 1 150 100
+A
+5 1
+A
+3 -1
+#1323
+thin gold chain~
+a thin {yg{Yol{Wd ch{Yai{yn{x~
+A thin gold chain has been left here.~
+gold~
+armor 0 AC
+6 6 6 7 0
+25 1 150 100
+A
+4 1
+A
+2 -1
+#1324
+sign~
+a {ysign{x~
+A crudely painted {ysign{x has been placed near the end of the jetty.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+A crudely painted {ysign {xhas been placed near the end of the jetty.  The
+{ysign{x reads:
+{W"The Guild of Thieftakers is looking for courageous citizens to assist the
+Guild with their ever expanding {x{Wendeavors.  See {CHELP QUEST{W for more
+details."  {x 
+~
+#1325
+narrow boat~
+a {gn{Gar{Yro{yw b{Yo{Ga{gt{x~
+A green and yellow {gn{Gar{Yro{yw b{Yo{Ga{gt{x sails gracefully along the water.~
+wood~
+portal S P
+10000 A A 1379 0
+0 0 0 100
+#1326
+cabin bed~
+a {ycabin bed{x concealed behind {ggreen curtains{x~
+Concealed behind {ggreen curtains{x is a comfy {ycabin bed{x.~
+wood~
+furniture Sa P
+2 2000 EHL 250 250
+0 0 0 100
+#1327
+small iron kettle~
+an {Di{wro{Wn ke{wttl{De{x~
+A small {Di{wro{Wn ke{wttl{De{x whistles as it boils upon a stove.~
+iron~
+fountain 0 P
+10000 10000 'tea' 0 0
+0 0 0 100
+#1328
+narrow boat~
+a {bn{Bar{Rro{rw b{Ro{Ba{bt{x~
+A blue and red {bn{Bar{Rro{rw b{Ro{Ba{bt{x sails gracefully along the water.~
+wood~
+portal S P
+10000 A A 1380 0
+0 0 0 100
+#1329
+cabin bed~
+a {ycabin bed{x concealed behind {bblue curtains{x~
+Concealed behind {bblue curtains{x is a cosy {ycabin bed{x.~
+wood~
+furniture Sa P
+2 2000 EHL 250 250
+0 0 0 100
+#1330
+green bottle~
+a {gg{Gree{gn b{Gottl{ge{x~
+A {gg{Gree{gn b{Gottl{ge{x has been left here, bobbing up and down in the water.~
+glass~
+container Sa P
+1 AC 0 1 100
+0 0 0 100
+#1331
+folded piece paper~
+a piece of paper~
+A folded piece of paper has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+E
+folded piece paper~
+A folded piece of paper has been left here.  A message on the piece of
+paper reads:
+{W"Help me!  I'm lost!  
+{x{bO{Bn{Wir{Re{rn{W"{x 
+~
+#1332
+narrow boat~
+a {gn{Gar{Cro{cw b{Co{Ga{gt{x~
+A green and blue {gn{Gar{Cro{cw b{Co{Ga{gt{x is moored along the north side of the canal.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#1333
+folded piece paper~
+a piece of paper~
+A folded piece of paper has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+E
+folded piece paper~
+A folded piece of paper has been left here.  A message on the piece of
+paper reads:
+{W"Don't ask me for a map or directions for Ebou Dar or the Rahad...  {x
+{bO{Bn{Wir{Re{rn{W"{x 
+~
+#1334
+tattered posters~
+one of the {yt{wa{Wtter{we{yd p{wo{Wste{wr{ys{x~
+There are several {yt{wa{Wtter{we{yd p{wo{Wste{wr{ys{x that are slowly peeling away from the wall which they have been pasted on.~
+paper~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+tattered posters~
+There are several {yt{wa{Wtter{we{yd p{wo{Wste{wr{ys{x that are slowly peeling away from the
+wall which they have been pasted on.  One of the {yt{wa{Wtter{we{yd p{wo{Wste{wr{ys{x reads:
+{W"Tarmon Gaidon is nigh and the Shadow is all around.  Do your bit to protect
+the ones that you love from {x{Wagents of the Dark One by joining the {yC{Yh{Wildr{Ye{yn{W
+of the {yL{Yi{Wg{Yh{yt{W.  See your local recruiter for more {x{Wdetails."  {x 
+~
+#1335
+tattered green cloak~
+a {gtattered green cloak{x~
+tattered green cloak has been left here.~
+wool~
+armor S AK
+19 19 19 18 0
+75 3 60 100
+A
+19 1
+A
+18 1
+A
+1 1
+A
+2 1
+#1336
+hooded cloak cloak~
+a {Dhooded cloak cloak{x~
+hooded cloak cloak has been left here.~
+wool~
+armor S AK
+21 21 21 12 0
+75 4 60 100
+A
+5 2
+A
+4 2
+#1337
+silver hoop earring~
+a {Ds{wi{Wlver {Dh{wo{Wop {De{wa{Wrring{x~
+silver hoop earring has been left here.~
+silver~
+armor 0 AU
+21 21 21 9 0
+72 1 100 100
+A
+5 1
+A
+4 1
+A
+3 1
+#1338
+gray silk sleeves~
+{Dg{wra{Dy s{wil{Dk s{wleeve{Ds{x~
+gray silk sleeves has been left here.~
+silk~
+armor S AI
+21 21 21 12 0
+75 2 150 100
+A
+19 2
+A
+18 2
+#1339
+overalls~
+a pair of {coveralls{x~
+overalls has been left here.~
+cloth~
+armor KS AD
+15 15 15 7 0
+52 4 45 100
+A
+5 1
+#1340
+wooden cudgel~
+a {yw{Do{yod{De{yn c{Du{ydg{De{yl{x~
+A wooden cudgel has been left here.~
+wood~
+weapon S AN
+mace 6 11 'smash' 0
+52 2 0 100
+A
+19 1
+#1341
+long red vest~
+a {Rlong red vest{x~
+A long red vest has been left here.~
+cloth~
+armor S AD
+14 14 14 10 0
+52 2 45 100
+A
+2 1
+#1342
+baggy red breeches~
+{rbaggy red breeches{x~
+A pair of baggy red breeches has been left here.~
+cloth~
+armor S AF
+14 14 14 10 0
+52 3 45 100
+A
+1 1
+#1343
+wide brimmed hat~
+a {ywide brimmed hat{x~
+A wide brimmed hat has been left here.~
+cloth~
+armor S AE
+16 16 16 12 0
+60 1 45 100
+A
+1 1
+A
+2 1
+#1344
+long brown vest~
+a {ylong brown vest{x~
+A long brown vest has been left here.~
+cloth~
+armor S AD
+16 16 16 12 0
+60 2 45 100
+A
+17 -10
+#1345
+yellow cloth sash~
+a {Yyellow cloth sash{x~
+A yellow cloth sash has been left here.~
+cloth~
+armor S AL
+16 16 16 12 0
+60 1 45 100
+A
+4 2
+#1346
+tall white collar~
+a {wt{Wal{wl w{Whit{we c{Wolla{wr{x~
+A tall white collar has been left here.~
+cloth~
+armor S AC
+15 15 15 12 0
+57 1 45 100
+A
+4 1
+A
+17 -5
+#1347
+wide white cuff~
+a {ww{Wid{we w{Whit{we c{Wuf{wf{x~
+A wide white cuff has been left here.~
+cloth~
+armor S AM
+15 15 15 12 0
+57 1 45 100
+A
+13 20
+A
+17 -5
+#1348
+long white sleeves~
+{wl{Won{wg w{Whit{we s{Wleeve{ws{x~
+Some long white sleeves has been left here.~
+cloth~
+armor S AI
+15 15 15 12 0
+57 1 45 100
+A
+4 2
+#1349
+curved duelling dagger~
+a {Dcu{wrv{Wed du{we{Dll{wi{Wng da{wgg{Der{x~
+A curved duelling dagger has been left here.~
+steel~
+weapon K AN
+dagger 7 12 'stab' 0
+60 1 150 100
+A
+19 1
+A
+18 1
+#1350
+slim bladed knife~
+a slim-bladed {Dk{wn{Wi{wf{De{x~
+slim-bladed knife has been left here.~
+steel~
+weapon 0 AN
+dagger 7 12 'stab' 0
+65 1 175 100
+A
+19 1
+A
+18 2
+#1351
+cutlass sword~
+a {Dc{wu{Wtla{ws{Ds{x~
+A cutlass has been left here.~
+steel~
+weapon K AN
+sword 7 12 'slash' 0
+67 4 175 100
+A
+19 3
+#1352
+quarterstaff white oak~
+a {yq{wu{Wartersta{wf{yf{x carved out of white oak~
+A quarterstaff carved out of white oak has been left here.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+70 4 200 100
+A
+19 6
+A
+18 -3
+#1353
+black bandana cloth~
+a {Dblack bandana{x~
+A piece of black cloth has been left here.~
+cloth~
+armor KS AE
+18 18 18 13 0
+67 1 45 100
+A
+3 3
+#1354
+black kerchief cloth~
+a {Dblack kerchief{x~
+A piece of black cloth has been left here.~
+cloth~
+armor KS AC
+18 18 18 13 0
+67 1 45 100
+A
+17 -5
+A
+2 1
+A
+1 1
+#1355
+long blue sleeves~
+{cl{Con{cg b{Clu{ce s{Cleeve{cs{x~
+Some long blue sleeves has been left here.~
+cloth~
+armor S AI
+16 16 16 12 0
+60 1 45 100
+A
+1 2
+#1356
+wide blue cuff~
+a {cw{Cid{ce b{Clu{ce c{Cuf{cf{x~
+A wide blue cuff has been left here.~
+cloth~
+armor S AM
+16 16 16 12 0
+60 1 45 100
+A
+3 1
+A
+4 1
+#1357
+tall blue collar~
+a {ct{Cal{cl b{Clu{ce c{Colla{cr{x~
+A tall blue collar has been left here.~
+cloth~
+armor S AC
+16 16 16 12 0
+60 1 45 100
+A
+13 40
+#1358
+black leather gloves~
+a pair of {Dblack leather gloves{x~
+A pair of black leather gloves has been left here.~
+leather~
+armor KS AH
+17 17 17 14 0
+65 1 85 100
+A
+2 3
+#1359
+black leather boots~
+a pair of {Dblack leather boots{x~
+A pair of black leather boots has been left here.~
+leather~
+armor KS AG
+17 17 17 14 0
+65 3 85 100
+A
+1 3
+#0
+
+
+
+#ROOMS
+#1200
+{bThe Dal Eira Gate{x~
+This is Dal Eira Gate, one of Ebou Dar's main city gates.  Built into the
+northern city wall, this wide gray stone archway marks the beginning of the
+Great North Road, the long road that leads north from Ebou Dar and inland
+towards the racetrack known as the Circuit of Heaven and beyond.  
+~
+0
+0 1
+D2
+~
+gate~
+3 3
+1 0 1201
+S
+#1201
+{WThe Intersection Of Dal Eira Road And Lugard Road{x~
+At this point two broad roads intersect each other.  Each of the roads is
+flanked by lots of white buildings that are either built from white stone or
+coated with white plaster.  The shining spires and domes of the city's
+palaces are visible beyond the forest of buildings that populate this
+region, adding bright splashes of gold, blue and red to what would have been
+a drab skyline.  To the north lies one of Ebou Dar's famous landmarks: Dal
+Eira Gate.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 1200
+D1
+~
+~
+0 0
+0 0 1248
+D2
+~
+~
+0 0
+0 0 1202
+D3
+~
+~
+0 0
+0 0 1247
+S
+#1202
+{WLugard Road{x~
+This is a wide paved thoroughfare that cuts through the city of Ebou Dar.
+The thoroughfare is lined by many white buildings that are either built from
+stone or coated with plaster.  The shining domes and spires of the city's
+palaces are visible beyond the forest of buildings that populate this
+district, adding bright splashes of gold, red and blue to what would have
+been a dreary skyline.  To the south the thoroughfare gives way to a stone
+bridge that spans one of the city's canals.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1201
+D2
+~
+~
+0 0
+0 0 1203
+S
+#1203
+{WLugard Bridge{x~
+This is a broad arched bridge built using gray stone that spans one of
+Ebou Dar's many canals, linking together the two halves of Lugard Road.  The
+Lugard Bridge is so wide that numerous houses have been constructed flanking
+the crossing so that they overhang the canal's waters, some of the houses
+have been built using white stone but some are just brick structures with
+white plaster adorning their external walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1202
+D2
+~
+~
+0 0
+0 0 1204
+S
+#1204
+{WLugard Road{x~
+This is a broad paved road that cuts through the city of Ebou Dar.  The
+street is flanked by numerous buildings that are either constructed from
+white stone or covered with white plaster.  To the north the street gives
+way to a stone bridge that spans one of the city's many canals while to the
+south lies one of Ebou Dar's famous landmarks: Mol Hara Square.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1203
+D2
+~
+~
+0 0
+0 0 1205
+S
+#1205
+{WMol Hara Square{x~
+Mol Hara Square could be considered to be the heart of Ebou Dar and a
+popular gathering place for its citizens.  This vast paved plaza is
+surrounded by huge buildings constructed from white stone although one
+structure in particular stands out from among the rest of them.  Graced with
+towering spires and golden domes, the Tarasin Palace looms over every other
+building within this vicinity.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1204
+D1
+~
+~
+0 0
+0 0 1219
+D2
+~
+~
+0 0
+0 0 1206
+D3
+~
+~
+0 0
+0 0 1218
+S
+#1206
+{WMarella Road{x~
+This is a wide paved road that cuts through the city of Ebou Dar.  The
+street is flanked by numerous white buildings that are either built from
+stone or covered with plaster.  To the south the street gives way to a stone
+bridge that crosses one of the city's canals while to the north is one of
+Ebou Dar's famous landmarks: Mol Hara Square.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1205
+D2
+~
+~
+0 0
+0 0 1207
+S
+#1207
+{WMarella Bridge{x~
+This is a wide arched bridge constructed using gray stone that spans one
+of Ebou Dar's many canals, connecting together the two halves of Marella
+Road.  The bridge is so wide that several houses have been built flanking
+the crossing so that they overhang the canal's waters.  In the distance to
+the south is one of Ebou Dar's numerous squares.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1206
+D2
+~
+~
+0 0
+0 0 1208
+S
+#1208
+{WA Grand Square{x~
+Ebou Dar has a lot of squares similar to this one within the limits of
+the city.  This plaza is vast area that has been paved and has its
+boundaries marked out by big and imposing buildings that are mostly elegant
+townhouses constructed using white stone.  The area is linked to the rest of
+the city's road network by four separate streets although the street to the
+north gives way to a stone bridge that spans a canal while the street on the
+south side of the square leads to the city docks.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1207
+D1
+~
+~
+0 0
+0 0 1268
+D2
+~
+~
+0 0
+0 0 1292
+D3
+~
+~
+0 0
+0 0 1267
+S
+#1209
+{bThe Three Towers Gate{x~
+The Three Towers Gate is the most unusual of Ebou Dar's main city gates. 
+Just like its name suggests, three towers built into the city wall marks the
+gateway, the center tower being the tallest and widest of the three.  A wide
+road leads westwards through the gate, out of the city and towards an area
+of hilly farmland and the Circuit of the Sun, one of Altara's famed
+horseracing tracks.  To the east is the inner city whose maze of streets and
+canals are often confusing for those unfamiliar with the city.  
+~
+0
+0 1
+D1
+~
+gate~
+3 3
+1 0 1210
+S
+#1210
+{WThe Intersection Of Amador Road And Three Towers Road{x~
+Two wide streets intersect each other at this point.  Each of the streets
+is flanked by lots of white buildings that are either built from white stone
+or covered with white plaster.  Oddly for a city there are shops and
+townhouses built between the much grander white stone palaces that grace
+this thoroughfare; the palace's red, blue and golden domes add a splash of
+color to this district.  To the west lies one of Ebou Dar's famous
+landmarks: The Three Towers Gate.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1236
+D1
+~
+~
+0 0
+0 0 1211
+D2
+~
+~
+0 0
+0 0 1235
+D3
+~
+gate~
+3 3
+1 0 1209
+S
+#1211
+{WAmador Road{x~
+This is Amador Road, one of the many paved roads that cut through Ebou
+Dar.  The road is bordered by many structures but the majority of the
+buildings that lie along this thoroughfare are grand town houses built from
+stone.  The glistening spires and domes of the city's palaces can be seen
+beyond the jungle of buildings that populate this region, adding bright
+splashes of gold, red and blue to what would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1212
+D3
+~
+~
+0 0
+0 0 1210
+S
+#1212
+{WAmador Road{x~
+This is the eastern end of Amador Road, one of the many paved roads that
+cut through Ebou Dar.  The street is bordered by numerous structures but
+most of the buildings that lie along this road are grand town houses built
+from stone.  To the east lies one of Ebou Dar's many squares.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1213
+D3
+~
+~
+0 0
+0 0 1211
+S
+#1213
+{WA Grand Square{x~
+Ebou Dar has a lot of squares like to this one within the limits of the
+city.  This plaza is a large area that has been paved and has its perimeter
+marked out by tall and imposing buildings that are mainly houses whose
+exterior walls have been covered with white plaster.  The area is connected
+to the rest of the city's road network by four separate streets.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1256
+D1
+~
+~
+0 0
+0 0 1214
+D2
+~
+~
+0 0
+0 0 1257
+D3
+~
+~
+0 0
+0 0 1212
+S
+#1214
+{WHigh Street{x~
+This is the western end of High Street, one of the many paved roads that
+cut through Ebou Dar.  The street is bordered by numerous structures but the
+majority of the buildings that lie along this thoroughfare are grand shops
+built from stone.  To the west lies one of Ebou Dar's many squares.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1367
+D1
+~
+~
+0 0
+0 0 1215
+D2
+~
+~
+3 3
+1 0 1363
+D3
+~
+~
+0 0
+0 0 1213
+S
+#1215
+{WHigh Street{x~
+This is a broad paved street that cuts through the city of Ebou Dar.  The
+street is flanked by numerous structures but the majority of the buildings
+that lie along this street are grand shops built from white stone.  To the
+east the street gives way to a gray stone bridge that spans one of the
+city's many canals.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1339
+D1
+~
+~
+0 0
+0 0 1216
+D2
+~
+~
+3 3
+1 0 1364
+D3
+~
+~
+0 0
+0 0 1214
+S
+#1216
+{WHigh Bridge{x~
+This is a wide arched bridge constructed using gray stone that spans one
+of Ebou Dar's many canals, joining together the two halves of High Street. 
+The High Bridge is so wide that numerous shops have been built flanking the
+crossing so that they hang over the canal's waters, some of the stores have
+been built using white stone but some are just brick structures with white
+plaster adorning their exterior walls.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1217
+D3
+~
+~
+0 0
+0 0 1215
+S
+#1217
+{WHigh Street{x~
+This is a broad paved street that cuts through the city of Ebou Dar.  The
+street is flanked by numerous structures but most of the buildings that lie
+along this street are grand shops built from white stone.  To the west the
+road gives way to a gray stone bridge that crosses one of the city's
+countless canals.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1370
+D1
+~
+~
+0 0
+0 0 1218
+D2
+~
+~
+3 3
+1 0 1377
+D3
+~
+~
+0 0
+0 0 1216
+S
+#1218
+{WHigh Street{x~
+This is the eastern end of High Street, one of the many paved roads that
+cut through the city.  The street is flanked by many structures but the
+majority of the buildings that lie along this street are grand shops built
+from stone.  To the east lies one of Ebou Dar's famous landmarks: Mol Hara
+Square.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1368
+D1
+~
+~
+0 0
+0 0 1205
+D2
+~
+~
+3 3
+1 0 1371
+D3
+~
+~
+0 0
+0 0 1217
+S
+#1219
+{WWest Street{x~
+This is a wide paved street that runs through Ebou Dar.  The street is
+overlooked along both sides by a collection of impressive shops and elegant
+houses.  To the north is a wide alley that links West Street to a wide stone
+ramp that leads downwards towards one of the city's canals while to the west
+lies one of Ebou Dar's famous landmarks: Mol Hara Square.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1276
+D1
+~
+~
+0 0
+0 0 1220
+D2
+~
+~
+3 3
+1 0 1365
+D3
+~
+~
+0 0
+0 0 1205
+S
+#1220
+{WWest Street{x~
+This is a broad paved road that cuts through Ebou Dar.  The road is
+overlooked along both sides by an assortment of elegant houses and grand
+shops.  The shining spires and domes of the city's palaces are visible
+beyond the jungle of buildings that populate this area, adding bright
+splashes of gold, blue and red to what would have been a drab skyline.  To
+the east lies one of Ebou Dar's many squares.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 1378
+D1
+~
+~
+0 0
+0 0 1221
+D3
+~
+~
+0 0
+0 0 1219
+S
+#1221
+{WA Grand Square{x~
+Ebou Dar has many squares similar to this one inside the limits of the
+city.  This plaza is a vast area that has been paved and has its boundaries
+marked out by lofty and looming buildings that are mostly stylish houses and
+impressive shops constructed using white stone.  The area is connected to
+the rest of the city's road network by four separate streets.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1271
+D1
+~
+~
+0 0
+0 0 1222
+D2
+~
+~
+4096 4096
+0 0 1272
+D3
+~
+~
+0 0
+0 0 1220
+S
+#1222
+{WEast Street{x~
+This is a broad paved thoroughfare that cuts through Ebou Dar.  The
+thoroughfare is flanked along both sides by an assortment of grand shops and
+elegant houses.  The shining domes and spires of the city's palaces can be
+seen beyond the jungle of buildings that populate this area, adding bright
+splashes of gold, blue and red to what would have been a dull skyline.  To
+the west lies one of Ebou Dar's many squares while the city's docks can be
+seen in the distance to the east from this point.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1283
+D3
+~
+~
+0 0
+0 0 1221
+S
+#1223
+{bThe Moldine Gate{x~
+This is Moldine Gate, one of Ebou Dar's main city gates.  Built into the
+southern city wall, this wide gray stone archway marks the start of the Bay
+Road, the thoroughfare that leads south from Ebou Dar and along the coast
+towards the Westpoint Lighthouse and the racetrack known as the Silver
+Circuit.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 1227
+S
+#1224
+{WMoldine Road{x~
+This is a wide street that follows the walls that surround the city of
+Ebou Dar.  The street is flanked by lots of white buildings that are either
+built from white stone or covered with white plaster.  Most of the buildings
+along this stretch of road are shops emblazoned with brightly painted signs
+although some of the stores are just open timber nooks with heavy plank
+shutters that can be let down to close them off after the sun sets.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1294
+D2
+~
+~
+0 0
+0 0 1375
+D3
+~
+~
+0 0
+0 0 1225
+S
+#1225
+{WThe Intersection Of Moldine Road And Brytan Street{x~
+Two broad streets intersect each other at this point.  Each of the
+streets is bordered by lots of white buildings that are either built from
+white stone or covered with white plaster.  Most of the buildings along this
+stretch of road are shops emblazoned with brightly painted signs although
+some of the stores are simply open wooden nooks with heavy plank shutters
+that can be let down to close them off at night.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1273
+D1
+~
+~
+0 0
+0 0 1224
+D3
+~
+~
+0 0
+0 0 1226
+S
+#1226
+{WMoldine Road{x~
+This is a broad street that follows the walls that encompass the city of
+Ebou Dar.  The street is bordered by many white buildings that are either
+built from white stone or covered with white plaster.  Most of the buildings
+along this way are shops emblazoned with brightly painted signs although
+some of the stores are just open wooden nooks with heavy plank shutters that
+can be let down to close them off after the sun sets.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1225
+D2
+~
+~
+0 0
+0 0 1372
+D3
+~
+~
+0 0
+0 0 1227
+S
+#1227
+{WMoldine Road{x~
+Two wide streets intersect each other at this point.  Each of the streets
+is bordered by lots of white buildings that are either constructed from
+white stone or coated with white plaster.  The shining spires and domes of
+the city's palaces are visible beyond the jungle of buildings that populate
+this district, adding bright splashes of gold, blue and red to what would
+have been a drab skyline.  To the south lies one of Ebou Dar's famous
+landmarks: Moldine Gate.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1226
+D2
+~
+gate~
+3 3
+1 0 1223
+D3
+~
+~
+0 0
+0 0 1228
+S
+#1228
+{WThe Intersection Of Moldine Road And Coramen Street{x~
+Two wide streets intersect each other at this point.  Each of the streets
+is bordered by many white buildings that are either built from white stone
+or covered with white plaster.  The majority of the buildings along this way
+are shops emblazoned with brightly painted signs although some of the stores
+are just open timber nooks with heavy plank shutters that can be let down to
+close them off after sundown.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1260
+D1
+~
+~
+0 0
+0 0 1227
+D2
+~
+~
+0 0
+0 0 1373
+D3
+~
+~
+0 0
+0 0 1229
+S
+#1229
+{WMoldine Road{x~
+This is a broad street that follows the walls that encircle the city of
+Ebou Dar.  The street is flanked by numerous white buildings that are either
+built from white stone or covered with white plaster.  Most of the buildings
+along this stretch of road are shops emblazoned with brightly painted signs
+although some of the stores are just open wooden nooks with heavy plank
+shutters that can be let down to close them off at night.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1374
+D1
+~
+~
+0 0
+0 0 1228
+D3
+~
+~
+0 0
+0 0 1230
+S
+#1230
+{WMoldine Road{x~
+This is a wide street that follows the walls that surround the city of
+Ebou Dar.  The street is flanked by numerous white buildings that are either
+built from white stone or covered with white plaster.  Most of the buildings
+along this stretch of road are shops emblazoned with brightly painted signs
+although some of the stores are just open timber nooks with heavy plank
+shutters that can be let down to close them off after sundown.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1229
+D2
+~
+~
+0 0
+0 0 1344
+D3
+~
+~
+0 0
+0 0 1231
+S
+#1231
+{WThe Intersection Of Moldine Road And Three Towers Road{x~
+At this point a broad road that follows the tall walls which surround
+Ebou Dar bends sharply.  The street is bordered by many white buildings that
+are either built from white stone or covered with white plaster.  Oddly for
+a city there are shops and townhouses built between the much grander white
+stone palaces that grace this thoroughfare; the palace's red, blue and
+golden domes add a splash of color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1232
+D1
+~
+~
+0 0
+0 0 1230
+S
+#1232
+{WThree Towers Road{x~
+This is a wide street that follows the towering walls which encircles the
+city.  The street is flanked by various white buildings that are either
+built from white stone or covered with white plaster.  Strangely for a city
+there are shops and townhouses built between the much grander white stone
+palaces that grace this road; the palace's red, blue and golden domes add a
+dash of color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1233
+D2
+~
+~
+0 0
+0 0 1231
+S
+#1233
+{WThe Intersection Of Scepter Street And Three Towers Road{x~
+Two wide streets intersect each other at this point.  Each of the streets
+is flanked by various white buildings that are either built from white stone
+or covered with white plaster.  Strangely for a city there are shops and
+townhouses built between the much grander white stone palaces that grace
+this thoroughfare; the palace's red, blue and golden domes add a splash of
+color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1234
+D1
+~
+~
+0 0
+0 0 1261
+D2
+~
+~
+0 0
+0 0 1232
+S
+#1234
+{WThree Towers Road{x~
+This is a broad road that follows the vast walls which surround Ebou Dar.
+The street is flanked by many white buildings that are either built from
+white stone or coated with white plaster.  Oddly for a city there are shops
+and townhouses built between the much more elaborate white stone palaces
+that grace this thoroughfare; the palace's blue, red and golden domes add a
+dash of color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1235
+D2
+~
+~
+0 0
+0 0 1233
+S
+#1235
+{WThree Towers Road{x~
+This is a broad street that follows the huge walls which surround the
+city.  The street is bordered by lots of white buildings that are either
+constructed from white stone or coated with white plaster.  Oddly for a city
+there are shops and townhouses constructed between the much grander white
+stone palaces that grace this thoroughfare; the palace's red, blue and
+golden domes add a dash of color to this district.  To the east is a wide
+alley that links Three Towers Road to a wide stone ramp which leads
+downwards towards one of the city's canals.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1210
+D1
+~
+~
+0 0
+0 0 1275
+D2
+~
+~
+0 0
+0 0 1234
+S
+#1236
+{WThree Towers Road{x~
+Here lies a broad road that follows the tall walls which surround the
+city of Ebou Dar.  The street is bordered by numerous white buildings that
+are either constructed from white stone or covered with white plaster. 
+Oddly for a city there are shops and townhouses constructed between the much
+grander white stone palaces that grace this thoroughfare; the palace's red,
+blue and golden domes add a dash of color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1237
+D2
+~
+~
+0 0
+0 0 1210
+S
+#1237
+{WThree Towers Road{x~
+Here lies a broad street that follows the tall walls which surround the
+city.  The street is bordered by many white buildings that are either
+constructed from white stone or coated with white plaster.  Oddly for a city
+there are shops and townhouses constructed between the much more elaborate
+white stone palaces that grace this thoroughfare; the palace's blue, red and
+golden domes add a splash of color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1238
+D2
+~
+~
+0 0
+0 0 1236
+S
+#1238
+{WThree Towers Road{x~
+This is a wide street that follows the huge walls which encircles Ebou
+Dar.  The street is flanked by lots of white buildings that are either built
+from white stone or covered with white plaster.  Strangely for a city there
+are shops and townhouses built between the much grander white stone palaces
+that grace this road; the palace's red, blue and golden domes add a dash of
+color to this district.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1239
+D2
+~
+~
+0 0
+0 0 1237
+S
+#1239
+{wThe Intersection Of Dal Eira Road And Three Towers Road{X~
+The wide street that follows the towering walls which surround Ebou Dar
+bends sharply at this point.  The street is bordered by numerous white
+buildings that are either built from white stone or coated with white
+plaster.  Oddly for a city there are shops and townhouses built between the
+much grander white stone palaces that grace this thoroughfare; the palace's
+red, blue and golden domes add a dash of color to this district.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1240
+D2
+~
+~
+0 0
+0 0 1238
+S
+#1240
+{WDal Eira Road{x~
+This is a wide street that follows the walls which encompass the city. 
+The street is flanked by lots of white buildings that are either built from
+white stone or covered with white plaster.  To the south is a wide alley
+that links Dal Eira Road to a wide stone ramp which leads downwards towards
+one of the city's canals.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1241
+D2
+~
+~
+0 0
+0 0 1274
+D3
+~
+~
+0 0
+0 0 1239
+S
+#1241
+{WDal Eira Park{x~
+Here lies a broad street that follows the towering walls which surround
+the city.  The street is bordered by many white buildings that are either
+constructed from white stone or coated with white plaster.  A large expanse
+of trees and grass can be seen along the north side of the road that has
+been enclosed by a tall wall made of white stone.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 1352
+D1
+~
+~
+0 0
+0 0 1242
+D3
+~
+~
+0 0
+0 0 1240
+S
+#1242
+{WThe Intersection Of Dal Eira Road And Remen Road{x~
+At this point a pair of wide streets intersects each other.  Both of the
+streets are flanked by lots of white buildings that are either constructed
+from white stone or coated with white plaster.  The shining domes and spires
+of the city's palaces are visible beyond the jungle of buildings that
+populate this area, adding bright splashes of gold, red and blue to what
+would have been a drab skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1243
+D2
+~
+~
+0 0
+0 0 1254
+D3
+~
+~
+0 0
+0 0 1241
+S
+#1243
+{WDal Eira Road{x~
+Here lies a wide road that follows the towering walls which encircles the
+city.  The road is bordered by numerous white buildings that are either
+constructed from white stone or coated with white plaster.  The glistening
+domes and spires of the city's palaces are visible beyond the forest of
+buildings that populate this district, adding bright splashes of gold, red
+and blue to what would have been a dreary skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1244
+D3
+~
+~
+0 0
+0 0 1242
+S
+#1244
+{WDal Eira Road{x~
+This is a wide road that follows the tall walls which encircles Ebou Dar.
+The thoroughfare is flanked by numerous white buildings that are either
+built from white stone or covered with white plaster.  The glistening spires
+and domes of the city's palaces can be seen beyond the jungle of buildings
+that populate this region, adding bright splashes of gold, red and blue to
+what would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1245
+D3
+~
+~
+0 0
+0 0 1243
+S
+#1245
+{WDal Eira Road{x~
+Here lies a broad street that follows the tall walls which encircles Ebou
+Dar.  The street is flanked by many white buildings that are either built
+from white stone or coated with white plaster.  The sparkling spires and
+domes of the city's palaces can be seen beyond the forest of buildings that
+populate this area, adding bright splashes of gold, blue and red to what
+would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1246
+D3
+~
+~
+0 0
+0 0 1244
+S
+#1246
+{WDal Eira Road{x~
+Here lies a broad road that follows the walls which encompass the city. 
+The thoroughfare is bordered by many white buildings that are either built
+from white stone or coated with white plaster.  The shining domes and spires
+of the city's palaces can be seen beyond the forest of buildings that
+populate this area, adding bright splashes of gold, blue and red to what
+would have been a drab skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1247
+D3
+~
+~
+0 0
+0 0 1245
+S
+#1247
+{WDal Eira Road{x~
+This is a broad road that follows the walls which surround the city.  The
+street is bordered by lots of white buildings that are either constructed
+from white stone or coated with white plaster.  The shining domes and spires
+of the city's palaces are visible beyond the forest of buildings that
+populate this district, adding bright splashes of gold, red and blue to what
+would have been a drab skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1201
+D3
+~
+~
+0 0
+0 0 1246
+S
+#1248
+{WDal Eira Road{x~
+This is a wide street that follows the towering walls which encompass the
+city.  The street is lined by many white buildings that are either
+constructed from white stone or covered with white plaster.  The glittering
+spires and domes of the city's palaces are visible beyond the jungle of
+buildings that populate this district, adding bright splashes of gold, red
+and blue to what would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1249
+D3
+~
+~
+0 0
+0 0 1201
+S
+#1249
+{WDal Eira Road{x~
+Here lies a wide thoroughfare that follows the huge walls which surround
+Ebou Dar.  The thoroughfare is flanked by numerous white buildings that are
+either built from white stone or coated with white plaster.  The glistening
+domes and spires of the city's palaces can be seen beyond the forest of
+buildings that populate this region, adding bright splashes of gold, blue
+and red to what would have been a dreary skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1250
+D3
+~
+~
+0 0
+0 0 1248
+S
+#1250
+{WThe Intersection Of Dal Eira Road And Eldar Road{x~
+At this point a pair of broad thoroughfares intersects each other.  Both
+of the thoroughfares are flanked by numerous white buildings that are either
+built from white stone or covered with white plaster.  The glittering domes
+and spires of the city's palaces can be seen beyond the forest of buildings
+that populate this district, adding bright splashes of gold, red and blue to
+what would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1251
+D2
+~
+~
+0 0
+0 0 1269
+D3
+~
+~
+0 0
+0 0 1249
+S
+#1251
+{WDal Eira Road{x~
+Here lies a broad street that follows the tall walls which encompass the
+city of Ebou Dar.  The street is bordered by numerous white buildings that
+are either built from white stone or coated with white plaster.  The
+glistening domes and spires of the city's palaces can be seen beyond the
+forest of buildings that populate this district, adding bright splashes of
+gold, red and blue to what would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1252
+D3
+~
+~
+0 0
+0 0 1250
+S
+#1252
+{WDal Eira Road{x~
+Here lies a broad road that follows the tall walls which surround the
+city of Ebou Dar.  The road is bordered by various white buildings that are
+either constructed from white stone or coated with white plaster.  The
+glistening spires and domes of the city's palaces can be seen beyond the
+forest of buildings that populate this region, adding bright splashes of
+gold, red and blue to what would have been a dreary skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1253
+D2
+~
+~
+3 3
+1 0 1361
+D3
+~
+~
+0 0
+0 0 1251
+S
+#1253
+{WDal Eira Road{x~
+This is a broad street that follows the walls that surround the city of
+Ebou Dar.  Along the south side of the street is a neat row of white
+buildings that are either built from white stone or covered with plaster but
+on the north side of the road the building give way to a colorful market
+place.  The city's docks can be seen in the distance to the east from this
+point.  
+~
+0
+0 1
+D0
+~
+~
+4096 4096
+0 0 1340
+D1
+~
+~
+0 0
+0 0 1277
+D3
+~
+~
+0 0
+0 0 1252
+S
+#1254
+{WRemen Road{x~
+This is a wide paved street that cuts through the city of Ebou Dar.  The
+street is bordered by many buildings that are either constructed from white
+stone or covered with white plaster.  To the south the street gives way to a
+gray stone bridge that crosses one of the city's numerous canals.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1242
+D2
+~
+~
+0 0
+0 0 1255
+S
+#1255
+{WRemen Bridge{x~
+This is a broad arched bridge made of gray stone that spans one of Ebou
+Dar's many canals, joining together the two halves of Remen Road.  The Remen
+Bridge is so wide that numerous houses have been built flanking the crossing
+so that they jut out over the canal's waters, some of the houses have been
+made using white stone but some are just brick structures with white plaster
+adorning their outer walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1254
+D2
+~
+~
+0 0
+0 0 1256
+S
+#1256
+{WRemen Road{x~
+This is a broad paved street that cuts through the city of Ebou Dar.  The
+street is bordered by numerous white buildings that are either constructed
+from stone or coated with plaster.  To the north the street gives way to a
+stone bridge that spans one of the city's canals while to the south is one
+of Ebou Dar's numerous squares.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1255
+D2
+~
+~
+0 0
+0 0 1213
+S
+#1257
+{WSalidar Road{x~
+This is a wide paved road that leads through the city of Ebou Dar.  The
+thoroughfare is bordered by lots of buildings that are either built from
+white stone or coated with white plaster.  To the south the street gives way
+to a stone bridge that crosses one of the city's canals while to the north
+the street leads to one of the city's many squares.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1213
+D2
+~
+~
+0 0
+0 0 1258
+S
+#1258
+{WSalidar Bridge{x~
+This is a wide arched bridge built using gray stone that spans one of
+Ebou Dar's many canals, linking together the two halves of Salidar Road. 
+The bridge is so wide that several houses have been constructed flanking the
+crossing so that they overhang the canal's waters.  In the distance to the
+south is one of Ebou Dar's numerous squares.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1257
+D2
+~
+~
+0 0
+0 0 1259
+S
+#1259
+{WA Grand Square{x~
+Ebou Dar has many squares like to this one inside the limits of the city.
+This plaza is a large area that has been paved and has its perimeter marked
+out by lofty and impressive buildings that are mostly stylish townhouses
+constructed using white stone.  The area is joined to the rest of the city's
+road network by four separate streets although the street to the north gives
+way to a stone bridge that crosses one of the city's many canals.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1258
+D1
+~
+~
+0 0
+0 0 1263
+D2
+~
+~
+0 0
+0 0 1260
+D3
+~
+~
+0 0
+0 0 1262
+S
+#1260
+{WCoramen Street{x~
+This is a broad thoroughfare that runs through the city of Ebou Dar.  The
+road is bordered by lofty houses that are either built from white stone or
+coated with white plaster.  Some of the houses in this area have been
+adorned with bright flower displays grown in window boxes.  To the north the
+street leads to one of the city's many squares.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1259
+D2
+~
+~
+0 0
+0 0 1228
+S
+#1261
+{WScepter Street{x~
+Scepter Street is bordered by a collection of lofty town houses.  Most of
+the buildings in this district have their exterior walls covered with a
+layer of white plaster but there are a few buildings here that are
+constructed using white stone instead.  Some of the houses have been
+decorated with colorful floral displays housed in window boxes.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1262
+D3
+~
+~
+0 0
+0 0 1233
+S
+#1262
+{WScepter Street{x~
+There are lots of tall town houses flanking this section of Scepter
+Street.  Most of the buildings in this district have their outer walls
+covered with a layer of white plaster but there are a few buildings here
+that are constructed using white stone instead.  Some of the houses have
+been adorned with colorful floral displays housed in window boxes.  To the
+east of this point Scepter Street meets with one of Ebou Dar's many squares.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1259
+D3
+~
+~
+0 0
+0 0 1261
+S
+#1263
+{WCrown Street{x~
+There are lots of tall town houses flanking this section of Crown Street.
+Most of the buildings in this area have their exterior walls coated with a
+layer of white plaster but there are a few buildings here that are built
+using white stone instead.  The floral displays housed in window boxes
+decorating some of these houses are almost as colorful as the distant domes
+and spires of the city's palaces.  To the west of this point Crown Street
+meets with one of Ebou Dar's many squares.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1264
+D3
+~
+~
+0 0
+0 0 1259
+S
+#1264
+{WCrown Street{x~
+Crown Street is flanked by a collection of lofty town houses.  The
+majority of the buildings in this area have their outer walls coated with a
+layer of white plaster but there are a few buildings here that are
+constructed using white stone instead.  The floral displays grown in window
+boxes adorning some of these houses are almost as colorful as the distant
+spires and domes of the city's palaces.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1265
+D3
+~
+~
+0 0
+0 0 1263
+S
+#1265
+{WThe Intersection Of Crown Street And Brytan Street{x~
+Two wide streets join each other at this point in the city.  Each of the
+streets is flanked by tall houses that are either constructed from white
+stone or covered with white plaster.  Some of the houses in this district
+have been adorned with bright floral displays grown in window boxes.  The
+glittering domes and spires of the city's palaces can be seen beyond the
+forest of buildings that populate this district, adding bright splashes of
+gold, red and blue to what would have been a dull skyline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1266
+D2
+~
+~
+0 0
+0 0 1273
+D3
+~
+~
+0 0
+0 0 1264
+S
+#1266
+{WCrown Street{x~
+There are lots of tall town houses flanking this section of Crown Street.
+Most of the buildings in this area have their outer walls covered with a
+layer of white plaster but there are a few buildings here that are
+constructed using white stone instead.  Some of the houses have been
+decorated with colorful floral displays housed in window boxes.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1267
+D3
+~
+~
+0 0
+0 0 1265
+S
+#1267
+{WCrown Street{x~
+Crown Street is bordered by a collection of lofty town houses.  Most of
+the buildings in this area have their exterior walls covered with a layer of
+white plaster but there are a few buildings here that are built using white
+stone instead.  Some of the houses have been decorated with colorful floral
+displays housed in window boxes.  To the east of this point Crown Street
+meets with one of Ebou Dar's many squares.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1208
+D3
+~
+~
+0 0
+0 0 1266
+S
+#1268
+{WHarbor Road{x~
+This is a wide paved road that runs through the city.  The street is
+bordered by a collection of shops whose outer walls have been covered with
+white plaster to mimic the grander stone buildings of the city.  To the west
+lies one of Ebou Dar's many squares while to the east are the city's docks. 
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1376
+D1
+~
+~
+0 0
+0 0 1289
+D3
+~
+~
+0 0
+0 0 1208
+S
+#1269
+{WEldar Road{x~
+This is a broad street that is paved with stone and cuts through the
+city.  The street is overlooked by numerous white buildings that are either
+constructed from stone or coated with plaster.  To the south the road gives
+way to a gray stone bridge that spans one of the city's many canals.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1250
+D2
+~
+~
+0 0
+0 0 1270
+S
+#1270
+{WEldar Bridge{x~
+Here lies a wide arched bridge made of gray stone that spans one of Ebou
+Dar's many canals, joining together the two halves of Eldar Road.  The Eldar
+Bridge is so wide that numerous houses have been built flanking the crossing
+so that they jut out over the canal's grayish waters; some of the houses
+have been constructed using white stone but some are just brick structures
+with white plaster adorning their exterior walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1269
+D2
+~
+~
+0 0
+0 0 1271
+S
+#1271
+{WEldar Road{x~
+This is a wide street that is paved with stone and cuts through the Ebou
+Dar.  The street is overlooked by many white buildings that are either
+constructed from stone or covered with plaster.  To the north the road gives
+way to a gray stone bridge that crosses one of the city's canals while to
+the south is one of Ebou Dar's numerous squares.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1270
+D2
+~
+~
+0 0
+0 0 1221
+S
+#1272
+{WA Wide Alley{x~
+Here lies a wide alleyway that cuts between two large white plaster
+covered buildings.  This route has been paved with slabs of stone that shows
+years of continuous wear by heavy wagons and carts.  Laundry hung from lines
+strung high up above the alley between the two buildings looks more like
+festive bunting.  The alleyway links one of Ebou Dar's many squares with the
+city's docks.  
+~
+0
+0 1
+D0
+~
+~
+4096 4096
+0 0 1221
+D2
+~
+~
+4096 4096
+0 0 1287
+S
+#1273
+{WBrytan Street{x~
+This is a broad thoroughfare that cuts through Ebou Dar.  The street is
+flanked by lofty houses that are either constructed from white stone or
+coated with white plaster.  Some of the houses in this district have been
+decorated with colorful flower displays housed in window boxes.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1265
+D2
+~
+~
+0 0
+0 0 1225
+S
+#1274
+{WA Wide Alley{x~
+This is a broad alley that cuts between two large white plaster covered
+buildings.  This route has been paved with slabs of stone that shows years
+of continuous wear by heavy wagons and carts.  The alleyway links one of the
+city's main roads to a wide ramp built from stone which leads downwards to a
+jetty built into the side of a canal.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1240
+D5
+~
+~
+0 0
+0 0 1301
+S
+#1275
+{WA Wide Alley{x~
+Here lies a wide alleyway that cuts between two large white stone
+buildings.  This route has been paved with slabs of stone that shows years
+of continuous wear by heavy wagons and carts.  The alley joins one of the
+city's main thoroughfares to a wide ramp built from stone which leads
+downwards to a jetty built into the side of a canal.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 1235
+D5
+~
+~
+0 0
+0 0 1323
+S
+#1276
+{WA Wide Alley{x~
+Here lies a wide alleyway that cuts between two large white stone
+buildings.  This route has been paved with slabs of stone that shows years
+of continuous wear by heavy wagons and carts.  The alley joins one of the
+city's main thoroughfares to a wide ramp built from stone which leads
+downwards to a jetty built into the side of a canal.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1219
+D5
+~
+~
+0 0
+0 0 1312
+S
+#1277
+{WEbou Dar Docks{x~
+This is the northern end of a long thoroughfare that snakes its way along
+the city docks.  Along one side of the road are numerous brick buildings
+whose exterior walls have been covered with white plaster.  At the other
+side of the road are gray stone docks that jut out into the bay.  There is
+an assortment of vessels moored at the docks or sailing the waters of the
+bay, many of them are fishing trawlers but there are numerous merchant and
+Sea Folk ships.  Also from this point a second road that leads to the west
+towards the heart of the city.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1295
+D2
+~
+~
+0 0
+0 0 1278
+D3
+~
+~
+0 0
+0 0 1253
+S
+#1278
+{WEbou Dar Docks{x~
+This is a long road that winds its way along the docks of Ebou Dar. 
+Along one side of the road are numerous brick buildings whose exteriors have
+been covered with white plaster.  Most of the buildings along this
+thoroughfare are taverns, workshops and warehouses.  At the other side of
+the road are gray stone docks that jut out into the bay.  There is an
+assortment of vessels moored at the docks or sailing the waters of the bay,
+many of them are fishing boats but there are numerous Sea Folk and merchant
+ships.  Also from this point the Rahad can be seen across the waters of the
+bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1277
+D2
+~
+~
+0 0
+0 0 1279
+D3
+~
+~
+3 3
+1 0 1358
+S
+#1279
+{WEbou Dar Docks{x~
+This is a long thoroughfare that winds its way along the city docks. 
+Along one side of the road are numerous brickwork buildings whose exteriors
+have been coated with white plaster.  Most of the buildings that look out
+over this road are workshops, taverns and warehouses.  At the opposite side
+of the road are the docks themselves, there are many jetties protruding into
+the bay and most of them have been built from drab gray stone.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1278
+D1
+~
+~
+0 0
+0 0 1297
+D3
+~
+~
+0 0
+0 0 1280
+S
+#1280
+{WEbou Dar Docks{x~
+This is a long road that twists its way along the city docks.  Along one
+side of the road are many brick buildings whose outer walls have been coated
+with white plaster.  Most of the buildings that overlook this road are
+taverns, workshops and warehouses.  At the other side of the road are the
+docks themselves, there are many gray stone jetties protruding into the bay.
+Also from this location the Rahad can be seen across the waters of the bay
+which is little more than a large sprawl of rundown buildings.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1279
+D3
+~
+~
+0 0
+0 0 1281
+S
+#1281
+{WEbou Dar Docks{x~
+This is a long road that twists its way along Ebou Dar's docks.  Along
+one side of the road are numerous brick buildings whose exteriors have been
+coated with white plaster.  Most of the buildings along this road are
+warehouses, workshops and taverns.  At the other side of the road are the
+docks where there are many gray stone jetties jutting out into the bay. 
+There is an assortment of vessels moored at the docks or sailing the waters
+of the bay, many of them are fishing vessels but there are some Sea Folk and
+merchant ships.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1280
+D2
+~
+~
+0 0
+0 0 1282
+S
+#1282
+{WEbou Dar Docks{x~
+This is a long thoroughfare that winds its way along the city docks. 
+Along one side of the road are many brickwork buildings whose exteriors have
+been covered with white plaster.  Most of the buildings that look out over
+this road are warehouses, workshops and taverns.  At the other side of the
+road are gray stone docks that jut out into the bay.  There is an assortment
+of vessels moored at the docks or sailing the waters of the bay, many of
+them are fishing trawlers but there are numerous Sea Folk and merchant
+ships.  Also from this point the Rahad can be seen across the waters of the
+bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1281
+D2
+~
+~
+0 0
+0 0 1283
+D3
+~
+~
+3 3
+1 0 1359
+S
+#1283
+{WEbou Dar Docks{x~
+This is a long road that winds its way along the city docks.  Along one
+side of the road are numerous brick buildings whose exterior walls have been
+covered with white plaster.  Most of the buildings that look out over this
+road are workshops, warehouses and taverns.  At the other side of the road
+are gray stone docks that jut out into the bay.  There is a mixture of
+vessels moored at the docks or sailing the waters of the bay, many of them
+are fishing vessels but there are numerous Sea Folk and merchant ships. 
+Also from this point a second road that leads to the west towards the heart
+of the city.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1282
+D1
+~
+~
+0 0
+0 0 1296
+D2
+~
+~
+0 0
+0 0 1284
+D3
+~
+~
+0 0
+0 0 1222
+S
+#1284
+{WEbou Dar Docks{x~
+This is a long road that winds its way along the docks of Ebou Dar. 
+Along one side of the road are numerous brickwork buildings whose outer
+walls have been coated with white plaster.  Most of the buildings that
+overlook this road are tavern, workshops and warehouses.  At the other side
+of the road are gray stone docks that protrude out into the bay.  There is
+an assortment of vessels moored at the docks or sailing the waters of the
+bay, many of them are fishing vessels but there are numerous merchant and
+Sea Folk ships.  Also from this point the Rahad can be seen across the
+waters of the bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1283
+D2
+~
+~
+0 0
+0 0 1285
+D3
+~
+~
+1 1
+1 0 1362
+S
+#1285
+{WEbou Dar Docks{x~
+This is a long road that snakes its way along the docks of Ebou Dar. 
+Along one side of the road are numerous buildings whose outer walls have
+been coated with white plaster.  Most of the buildings that look out over
+this road are taverns and warehouses although one or two workshops can be
+seen along this route.  At the other side of the road are the docks
+themselves, there are many stone jetties protruding into the bay.  Also from
+this location the Rahad can be seen across the waters of the bay which is
+little more than a large sprawl of rundown buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1284
+D1
+~
+~
+0 0
+0 0 1298
+D3
+~
+~
+0 0
+0 0 1286
+S
+#1286
+{WEbou Dar Docks{x~
+This is a long thoroughfare that winds its way along Ebou Dar's docks. 
+Along one side of the road are many buildings whose outer walls have been
+covered with white plaster.  Most of the buildings that look out over this
+thoroughfare are workshops, warehouses and taverns.  At the opposite side of
+the road are the docks themselves, there are many jetties jutting out into
+the bay.  There is an assortment of vessels moored at the docks or sailing
+the waters of the bay, many of them are fishing vessels but there are lots
+of Sea Folk and merchant ships.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1285
+D3
+~
+~
+0 0
+0 0 1287
+S
+#1287
+{WEbou Dar Docks{x~
+This is a long road that twists its way along Ebou Dar's docks.  Along
+one side of the road are numerous buildings whose exterior walls have been
+covered with white plaster.  At the other side of the road are the docks
+themselves, there are many gray stone jetties jutting out into the bay. 
+There is a variety of vessels moored at the docks or sailing the waters of
+the bay, many of them are fishing vessels but there are numerous merchant
+and Sea Folk ships.  
+~
+0
+0 1
+D0
+~
+~
+4096 4096
+0 0 1272
+D1
+~
+~
+0 0
+0 0 1286
+D3
+~
+~
+0 0
+0 0 1288
+S
+#1288
+{WEbou Dar Docks{x~
+This is a long road that twists its way along the docks of Ebou Dar. 
+Along one side of the road are many brick buildings whose exteriors have
+been coated with white plaster.  Most of the buildings that overlook this
+thoroughfare are warehouses, workshops and taverns.  At the other side of
+the road are gray stone docks that stick out into the bay.  There are many
+vessels moored at the docks or sailing the waters of the bay, many of them
+are fishing vessels but there are numerous merchant and Sea Folk ships. 
+Also from this point the Rahad can be seen across the waters of the bay.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1366
+D1
+~
+~
+0 0
+0 0 1287
+D2
+~
+~
+0 0
+0 0 1289
+S
+#1289
+{WEbou Dar Docks{x~
+This is a long thoroughfare that twists its way along the docks of Ebou
+Dar.  Along one side of the road are numerous brick buildings whose
+exteriors have been coated with white plaster.  Most of the buildings that
+overlook this thoroughfare are taverns, workshops and warehouses.  At the
+other side of the road are gray stone docks that protrude out into the bay. 
+There is a mixture of vessels moored at the docks or sailing the waters of
+the bay, many of them are fishing vessels but there are lots of merchant and
+Sea Folk ships.  Also from this point a second road that leads to the west
+towards the heart of the city.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1288
+D1
+~
+~
+0 0
+0 0 1299
+D2
+~
+~
+0 0
+0 0 1290
+D3
+~
+~
+0 0
+0 0 1268
+S
+#1290
+{WEbou Dar Docks{x~
+This is a long thoroughfare that winds its way along the city docks. 
+Along one side of the road are numerous brickwork buildings whose exteriors
+have been covered with white plaster.  Most of the buildings that look out
+over this road are warehouses, workshops and taverns.  At the other side of
+the road are gray stone docks that protrude into the bay.  There is an
+assortment of vessels moored at the docks or sailing the waters of the bay,
+the majority of them are fishing vessels but there are some Sea Folk and
+merchant ships.  Also from this point the Rahad can be seen across the
+waters of the bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1289
+D3
+~
+~
+0 0
+0 0 1291
+S
+#1291
+{WEbou Dar Docks{x~
+This is a long thoroughfare that twists its way along the city docks. 
+Along one side of the road are many brickwork buildings whose exterior walls
+have been covered with white plaster.  Most of the buildings that overlook
+this thoroughfare are warehouses, workshops and taverns.  At the opposite
+side of the road are the docks; there are many jetties jutting out into the
+bay that have been constructed from dull gray stone and have ships of shapes
+and sizes moored at them.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1290
+D3
+~
+~
+0 0
+0 0 1292
+S
+#1292
+{WEbou Dar Docks{x~
+This is a long road that snakes its way along the city docks.  Along one
+side of the road are numerous brick buildings whose exterior walls have been
+covered with white plaster.  Most of the buildings that look out over this
+thoroughfare are warehouses, taverns and workshops.  At the opposite side of
+the road are the docks themselves, there are many jetties jutting out into
+the bay and most of them have been built from dull gray stone.  Also from
+this location one of Ebou Dar's many squares can be seen to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1208
+D1
+~
+~
+0 0
+0 0 1291
+D3
+~
+~
+0 0
+0 0 1293
+S
+#1293
+{WEbou Dar Docks{x~
+This is a long thoroughfare that winds its way along the docks of Ebou
+Dar.  Along one side of the road are numerous brick buildings whose outer
+walls have been covered with white plaster.  Most of the buildings along
+this thoroughfare are warehouses and taverns although one or two workshops
+can be seen along this route.  At the other side of the road are the docks
+themselves, there are many jetties jutting out into the bay and most of them
+have been constructed from dull gray stone.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1292
+D2
+~
+~
+0 0
+0 0 1294
+D3
+~
+~
+3 3
+1 0 1360
+S
+#1294
+{WEbou Dar Docks{x~
+This is the southern end of a long road that snakes its way along the
+city docks.  Along one side of the road are brick buildings whose outer
+walls are covered with white plaster.  Most of the buildings that overlook
+this road are workshops, taverns and warehouses.  At the other side of the
+road are gray stone docks that jut out into the bay.  There is a mixture of
+vessels moored at the docks or sailing across the bay, many of them are
+fishing vessels but there are some merchant and Sea Folk ships.  Also from
+this point a second road that leads to the west towards the heart of the
+city.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1293
+D1
+~
+~
+0 0
+0 0 1300
+D3
+~
+~
+0 0
+0 0 1224
+S
+#1295
+{DA Stone Dock{x~
+This gray stone dock provides an excellent of the bay that lies between
+the Rahad to the east across the cold gray waters and city of Ebou Dar that
+lies nearby to the west.  Many ships and boats can be seen in the bay,
+either traveling along the grayish waters or moored at the jetties.  The
+majority of the boats within the bay appear to be local fishing vessels
+although there are also many cargo ships about.  Overlooking the docks are
+tall warehouses whose brick exterior walls are covered with white plaster
+mimicking the grander white stone buildings of the city.  
+~
+0
+C 1
+D3
+~
+~
+0 0
+0 0 1277
+S
+#1296
+{DA Stone Dock{x~
+This stone dock provides an excellent of the bay that lies between the
+Rahad to the east across the icy gray waters and city of Ebou Dar that lies
+nearby to the west.  Many ships and boats can be seen in the bay, either
+traveling along the grayish waters or moored at the jetties.  The majority
+of the boats in the bay appear to be local fishing vessels although there
+are also many cargo ships about.  Overlooking the docks are tall warehouses
+whose brick outer walls are covered with white plaster copying the grander
+white stone buildings of Ebou Dar.  
+~
+0
+C 1
+D3
+~
+~
+0 0
+0 0 1283
+S
+#1297
+{DA Stone Dock{x~
+This stone dock offers an excellent of the bay that lies between the
+Rahad to the east across the cold gray waters and city of Ebou Dar that lies
+close by to the west.  There are hundreds of boats and ships to be seen in
+the bay, either traveling along the grayish waters or moored at the jetties.
+The majority of the boats within the bay seem to be local fishing vessels
+although there are also many cargo ships about.  Overlooking the docks are
+large warehouses whose brick outer walls are covered with white plaster
+copying the grander white stone buildings of Ebou Dar.  
+~
+0
+C 1
+D3
+~
+~
+0 0
+0 0 1279
+D5
+~
+~
+4096 4096
+0 0 1319
+S
+#1298
+{DA Stone Dock{x~
+This gray stone dock offers an excellent of the bay that lies between the
+Rahad to the east across the icy gray waters and city of Ebou Dar that lies
+close by to the west.  Hundreds of boats and ships can be seen in the bay,
+either traveling along the grayish waters or moored at the jetties.  Most of
+the vessels within the bay appear to be local fishing trawlers although
+there are also many cargo ships about.  Overlooking the docks are large
+warehouses whose brick outer walls are covered with white plaster aping the
+grander white stone buildings of the city.  
+~
+0
+C 1
+D3
+~
+~
+0 0
+0 0 1285
+D5
+~
+~
+4096 4096
+0 0 1338
+S
+#1299
+{DA Stone Dock{x~
+This gray stone dock provides a good of the bay that lies between the
+Rahad to the east across the cold gray waters and city of Ebou Dar that lies
+close by to the west.  There are hundreds of boats and ships to be seen in
+the bay, either traveling along the grayish waters or moored at the jetties.
+Most of the boats within the bay seem to be local fishing trawlers although
+there are also many cargo ships about.  Overlooking the docks are tall
+warehouses whose brick exterior walls are covered with white plaster aping
+the grander white stone buildings of the city.  
+~
+0
+C 1
+D3
+~
+~
+0 0
+0 0 1289
+S
+#1300
+{DA Stone Dock{x~
+This stone dock provides a good of the bay that lies between the Rahad to
+the east across the icy gray waters and city of Ebou Dar that lies nearby to
+the west.  There are loads of ships and boats to be seen in the bay, either
+traveling along the murky gray waters or moored at the jetties.  Most of the
+boats in the bay seem to be local fishing vessels although there are also
+many cargo ships about.  Overlooking the docks are lofty warehouses whose
+brick exterior walls are covered with white plaster mimicking the grander
+white stone buildings of Ebou Dar.  
+~
+0
+C 1
+D3
+~
+~
+0 0
+0 0 1294
+S
+#1301
+{DA Long Stone Jetty{x~
+This is a long jetty made of dull gray stone that has been built along
+the north side of the Northern Canal.  Clustered around the jetty is a group
+of brightly painted vessels including cargo barges and rowing boats. 
+Linking this jetty with the streets of the city is a wide stone ramp that
+slops gently upwards towards the snowy white buildings built around the
+canal.  
+~
+0
+CK 1
+D2
+~
+~
+4096 4096
+0 0 1302
+D4
+~
+~
+0 0
+0 0 1274
+S
+#1302
+{CThe Northern Canal{x~
+This is the western end of the Northern Canal, one of the many waterways
+that cut through the forest of white buildings known as the city of Ebou
+Dar.  The canal is used by both cargo barges and passenger boats and is
+almost as busy as the city's roads.  There are several boats moored along a
+long stone jetty built along the north side of the canal.  
+~
+0
+B 7
+D0
+~
+~
+4096 4096
+0 0 1301
+D1
+~
+~
+0 0
+0 0 1303
+S
+#1303
+{CThe Northern Canal{x~
+This waterway is part of a network of canals that cross the city of Ebou
+Dar.  The canal is fairly wide, large enough for a couple barges to pass
+each other comfortably.  A forest of tall buildings overlooks the waterway,
+many of them are white plaster-covered structures but there are also a few
+grand buildings constructed out of white stone along this route.  To the
+east is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1304
+D3
+~
+~
+0 0
+0 0 1302
+S
+#1304
+{WBeneath Remen Bridge{x~
+This relatively wide waterway is part of Ebou Dar's network of canals
+that cross the city.  At this particular pint the channel is spanned by a
+tall arched bridge constructed from stone.  Beyond the bridge lies a forest
+of lofty buildings whose gleaming white exteriors contrast greatly from the
+dull gray stone used to construct the crossing.  
+~
+0
+BD 7
+D1
+~
+~
+0 0
+0 0 1305
+D3
+~
+~
+0 0
+0 0 1303
+S
+#1305
+{CThe Northern Canal{x~
+This canal is part of a network of channels that crisscross the city of
+Ebou Dar.  The canal is fairly wide, large enough for several barges to pass
+each other comfortably.  A forest of tall buildings overlooks the waterway,
+many of them are white plaster-covered structures but there are also a few
+impressive buildings constructed out of white stone along this route.  To
+the west is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1306
+D3
+~
+~
+0 0
+0 0 1304
+S
+#1306
+{CThe Northern Canal{x~
+Tall white buildings flank both sides of this long canal, one of many
+such waterways that cut through Ebou Dar.  The canal is used by both cargo
+barges and passenger boats and is almost as busy as the city's roads.  Built
+along each bank of the canal is a towpath used by horses to help pull some
+of the barges along the waters.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1307
+D3
+~
+~
+0 0
+0 0 1305
+S
+#1307
+{CWhere Two Canals Meet{x~
+The waterway forks at this location along the city's labyrinth-like canal
+network.  The channels are wide enough to allow for barges to pass each
+other with relative ease.  Grouped around the canals are tall white
+buildings, most of them look like plaster-covered structures but some of the
+more impressive buildings have been constructed out of stone.  Visible
+beyond the tiled rooftops of these buildings are the distant domes and
+spires of the city's palaces whose gold, blue and red colors stand out
+against the duller and less well-off districts of Ebou Dar.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1308
+D2
+~
+~
+0 0
+0 0 1320
+D3
+~
+~
+0 0
+0 0 1306
+S
+#1308
+{CThe Northern Canal{x~
+Lofty white buildings edge both sides of this long canal, one of many
+such waterways that cut through Ebou Dar.  The canal is utilized by both
+cargo barges and passenger boats and is almost as busy as the city's roads. 
+Built along each bank of the canal is a towpath used by horses to help pull
+some of the barges along the waters.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1309
+D3
+~
+~
+0 0
+0 0 1307
+S
+#1309
+{CThe Northern Canal{x~
+This waterway is part of a maze-like network of canals that crisscross
+the city of Ebou Dar.  The canal is fairly wide, large enough for several
+barges to pass each other with ease.  A forest of tall buildings overlooks
+the waterway, many of them are white plaster-covered structures but there
+are also a few impressive buildings constructed out of white stone along
+this route.  To the east is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1310
+D3
+~
+~
+0 0
+0 0 1308
+S
+#1310
+{WBeneath Lugard Bridge{x~
+This fairly wide waterway is part of Ebou Dar's network of canals that
+cross the city.  At this particular pint the channel is spanned by a tall
+arched bridge constructed from stone.  Beyond the bridge lies a forest of
+tall buildings whose shiny white exteriors contrast greatly from the drab
+gray stone used to build the crossing.  
+~
+0
+BD 7
+D1
+~
+~
+0 0
+0 0 1311
+D3
+~
+~
+0 0
+0 0 1309
+S
+#1311
+{CThe Northern Canal{x~
+Large white buildings have been built along both sides of this long
+canal, one of many such channels that cut through Ebou Dar.  The canal is
+used by both cargo barges and passenger boats and is almost as busy as the
+city's roads.  At this point along the Northern Canal are several boats
+moored along a long stone jetty built along the south side.  To the west is
+a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1313
+D2
+~
+~
+4096 4096
+0 0 1312
+D3
+~
+~
+0 0
+0 0 1310
+S
+#1312
+{DA Long Stone Jetty{x~
+This is a long jetty made of drab gray stone that has been built along
+the south side of the Northern Canal.  Bunched around the jetty is a group
+of brightly painted vessels including cargo barges and rowing boats. 
+Linking this jetty with the roads of the city is a wide stone ramp that
+slops gently upwards towards the snowy white buildings built around the
+canal.  
+~
+0
+C 1
+D0
+~
+~
+4096 4096
+0 0 1311
+D4
+~
+~
+0 0
+0 0 1276
+S
+#1313
+{CThe Northern Canal{x~
+This waterway is part of a network of canals that crisscross the city of
+Ebou Dar.  The canal is rather wide, large enough for several barges to pass
+each other comfortably.  A forest of tall buildings overlooks the waterway,
+many of them are white plaster-covered structures but there are also a few
+tall buildings constructed out of white stone along this route.  To the east
+is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1314
+D3
+~
+~
+0 0
+0 0 1311
+S
+#1314
+{WBeneath Eldar Bridge{x~
+This somewhat wide waterway is part of Ebou Dar's network of canals that
+traverse the city.  At this particular pint the channel is spanned by a tall
+arched bridge constructed from stone.  Beyond the bridge lies a jungle of
+tall buildings whose shiny white exteriors contrast greatly from the drab
+gray stone used to build the crossing.  
+~
+0
+BD 7
+D1
+~
+~
+0 0
+0 0 1315
+D3
+~
+~
+0 0
+0 0 1313
+S
+#1315
+{CThe Northern Canal{x~
+This channel is one of a series of canals that crisscross the city of
+Ebou Dar.  The canal is quite wide, large enough for several barges to
+easily pass each other.  A forest of tall buildings overlooks the waterway,
+many of them are white plaster-covered structures but there are also a few
+grand buildings constructed out of white stone along this route.  To the
+west is a large bridge that spans the waterway while to the east is a long
+gray stone tunnel.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1316
+D3
+~
+~
+0 0
+0 0 1314
+S
+#1316
+{DA Long Tunnel{x~
+This is the western end of a long tunnel that forms part of Ebou Dar's
+system of canals.  The stretch of waters that flows underneath this gray
+stone structure is wide enough to allow several barges to pass each other
+comfortably.  Built along either side of the canal are narrow ledges wide
+enough to allow horses to tow some of the cargo barges.  
+~
+0
+ABD 7
+D1
+~
+~
+0 0
+0 0 1317
+D3
+~
+~
+0 0
+0 0 1315
+S
+#1317
+{DA Long Tunnel{x~
+This long tunnel created out of gray stone is part of Ebou Dar's complex
+system of canals.  Built along either side of the canal are narrow ledges
+that have also been constructed from gray stone and are wide enough to allow
+horses to tow some of the cargo barges.  There is a salty tang in the air
+within the tunnel that appears to be coming from the east.  
+~
+0
+ABD 7
+D1
+~
+~
+0 0
+0 0 1318
+D3
+~
+~
+0 0
+0 0 1316
+S
+#1318
+{DA Long Tunnel{x~
+This is the eastern end of a long tunnel that forms part of Ebou Dar's
+network of canals.  The stretch of waters that runs below this gray stone
+structure is wide enough to allow several barges to pass each other with
+ease.  Built along either side of the canal are narrow ledges wide enough to
+allow horses to tow some of the cargo barges.  To the east the tunnel opens
+out into the waters of the bay that separates the city with the Rahad
+district.  
+~
+0
+ABD 7
+D1
+~
+~
+0 0
+0 0 1319
+D3
+~
+~
+0 0
+0 0 1317
+S
+#1319
+{cOpen Waters{x~
+This is the eastern end of a broad canal that has been constructed next
+to the docks of Ebou Dar even though they are almost entirely hidden by the
+dozens of tall warehouses and work yards in this area.  To the east beyond
+the canal's stone walls are the grayish waters of the bay that are bristling
+with ships of all shapes and sizes, some moving across the waters while
+others are moored at gray stone piers.  To the west beyond a lock is a stone
+tunnel built beneath the docks that provides access into the city via its
+canal system.  
+~
+0
+B 7
+D3
+~
+~
+0 0
+0 0 1318
+D4
+~
+~
+4096 4096
+0 0 1297
+S
+#1320
+{CThe Central Canal{x~
+Tall white buildings flank both sides of this long canal, one of many
+such channels that cut through Ebou Dar.  The canal is used by both
+passenger boats and cargo barges and is almost as busy as the city's roads. 
+Constructed along each bank of the canal is a towpath used by horses to help
+pull some of the barges along the waters.  To the south is a large bridge
+that spans the waterway.  
+~
+0
+B 7
+D0
+~
+~
+0 0
+0 0 1307
+D2
+~
+~
+0 0
+0 0 1321
+S
+#1321
+{WBeneath High Bridge{x~
+This fairly broad waterway is part of Ebou Dar's network of canals that
+cross the city.  At this particular pint the channel is spanned by a tall
+arched bridge constructed from stone.  Beyond the bridge lies a jungle of
+tall buildings whose gleaming white exteriors contrast greatly from the dull
+gray stone used to construct the crossing.  
+~
+0
+BD 7
+D0
+~
+~
+0 0
+0 0 1320
+D2
+~
+~
+0 0
+0 0 1322
+S
+#1322
+{CThe Central Canal{x~
+Tall white buildings flank both sides of this long canal, one of many
+such waterways that cut through Ebou Dar.  The canal is utilized by both
+cargo barges and passenger boats and is almost as busy as the city's
+thoroughfares.  To the north is a large bridge that spans the waterway.  
+~
+0
+B 7
+D0
+~
+~
+0 0
+0 0 1321
+D2
+~
+~
+0 0
+0 0 1329
+S
+#1323
+{DA Long Stone Jetty{x~
+This is a long jetty made of dull gray stone that has been built along
+the north side of the Southern Canal.  Grouped around the jetty is a
+collection of brightly painted vessels including rowing boats and cargo
+barges.  Linking this jetty with the thoroughfares of the city is a wide
+stone ramp that slops gently upwards towards the snowy white buildings built
+around the canal.  
+~
+0
+C 1
+D2
+~
+~
+4096 4096
+0 0 1324
+D4
+~
+~
+0 0
+0 0 1275
+S
+#1324
+{CThe Southern Canal{x~
+This is the western end of the Southern Canal, one of the many waterways
+that wind their way through the forest of white buildings known as Ebou Dar.
+The busy waterways are utilized by both cargo barges and passenger boats;
+most of the vessels are painted in bright and vivid colors.  At this point
+along the Southern Canal are several boats moored along a long stone jetty
+built along the north side.  
+~
+0
+B 7
+D0
+~
+~
+4096 4096
+0 0 1323
+D1
+~
+~
+0 0
+0 0 1325
+S
+#1325
+{CThe Southern Canal{x~
+This waterway is one of a series of channels that crisscross the city of
+Ebou Dar.  The canal is quite wide, large enough for a couple of barges to
+pass by each other comfortably.  A forest of tall buildings overlooks the
+waterway, many of them are white plaster-covered structures but there are
+also a few grand buildings constructed out of white stone along this route. 
+To the east is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1326
+D3
+~
+~
+0 0
+0 0 1324
+S
+#1326
+{WBeneath Salidar Bridge{x~
+This fairly broad waterway is part of Ebou Dar's network of canals that
+traverse the city.  At this particular pint the channel is spanned by a tall
+arched bridge constructed from stone.  Beyond the bridge lies a jungle of
+tall buildings whose gleaming white exteriors contrast greatly from the dull
+gray stone used to construct the crossing.  
+~
+0
+BD 7
+D1
+~
+~
+0 0
+0 0 1327
+D3
+~
+~
+0 0
+0 0 1325
+S
+#1327
+{CThe Southern Canal{x~
+This waterway is part of a network of canals that crisscross the city of
+Ebou Dar.  The canal is fairly wide, large enough for several barges to pass
+each other comfortably.  A forest of tall buildings overlooks the waterway,
+many of them are white plaster-covered structures but there are also a few
+tall buildings constructed out of white stone along this route.  To the west
+is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1328
+D3
+~
+~
+0 0
+0 0 1326
+S
+#1328
+{CThe Southern Canal{x~
+Tall white buildings flank both sides of this canal, one of numerous
+waterways that cut through Ebou Dar.  The canal is utilized by both cargo
+barges and passenger boats and is almost as busy as the city's roads. 
+Constructed along each bank of the canal is a towpath used by horses to help
+pull some of the barges along the waters.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1329
+D3
+~
+~
+0 0
+0 0 1327
+S
+#1329
+{CWhere Two Canals Meet{x~
+The waterway forks at this point along the city's maze-like canal system.
+The channels are wide enough to allow for barges to pass each other with
+relative ease.  Clustered around the canals are tall white buildings, most
+of them look like plaster-covered structures but some of the grander
+buildings have been built out of stone.  Visible beyond the tiled rooftops
+of these buildings are the distant domes and spires of the city's palaces
+whose gold, red and blue colors stand out against the drabber and less
+prosperous parts of Ebou Dar.  
+~
+0
+B 7
+D0
+~
+~
+0 0
+0 0 1322
+D1
+~
+~
+0 0
+0 0 1330
+D3
+~
+~
+0 0
+0 0 1328
+S
+#1330
+{CThe Southern Canal{x~
+Lofty white buildings have been constructed along both sides of this long
+canal, one of many such channels that cut through Ebou Dar.  The canal is
+used by both cargo barges and passenger boats and is almost as busy as the
+city's roads.  Constructed along each bank of the canal is a towpath used by
+horses to help pull some of the barges along the waters.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1331
+D3
+~
+~
+0 0
+0 0 1329
+S
+#1331
+{CThe Southern Canal{x~
+This waterway is one of a series of canals that cross the city of Ebou
+Dar.  The canal is fairly wide, large enough for several barges to pass each
+other comfortably.  A forest of tall buildings overlooks the waterway, many
+of them are white plaster-covered structures but there are also a few grand
+buildings constructed out of white stone along this route.  To the east is a
+large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1332
+D3
+~
+~
+0 0
+0 0 1330
+S
+#1332
+{WBeneath Marella Bridge{x~
+This rather broad waterway is part of Ebou Dar's network of canals that
+traverse the city.  At this particular pint the channel is spanned by a tall
+arched bridge constructed from stone.  Beyond the bridge lies a forest of
+big buildings whose gleaming white exteriors contrast greatly from the drab
+gray stone used to build the crossing.  
+~
+0
+BD 7
+D1
+~
+~
+0 0
+0 0 1333
+D3
+~
+~
+0 0
+0 0 1331
+S
+#1333
+{CThe Southern Canal{x~
+Big white buildings have been built along both sides of this long canal,
+one of many such waterways that cut through Ebou Dar.  The canal is used by
+both cargo barges and passenger boats and is almost as busy as the city's
+roads.  To the west is a large bridge that spans the waterway.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1334
+D3
+~
+~
+0 0
+0 0 1332
+S
+#1334
+{CThe Southern Canal{x~
+This canal is one of a series of channels that crisscross the city of
+Ebou Dar.  The canal is fairly wide, large enough for several barges to pass
+each other comfortably.  A forest of tall buildings overlooks the waterway,
+many of them are white plaster-covered structures but there are also a few
+splendid buildings constructed out of white stone along this route.  To the
+east is a long gray stone tunnel.  
+~
+0
+B 7
+D1
+~
+~
+0 0
+0 0 1335
+D3
+~
+~
+0 0
+0 0 1333
+S
+#1335
+{DA Long Tunnel{x~
+This is the western end of a long tunnel that is part of Ebou Dar's canal
+network.  The stretch of waters that flows under this gray stone structure
+is wide enough to allow several barges to pass each other comfortably. 
+Built along either side of the canal are narrow ledges wide enough to allow
+horses to tow some of the cargo barges.  
+~
+0
+ABD 7
+D1
+~
+~
+0 0
+0 0 1336
+D3
+~
+~
+0 0
+0 0 1334
+S
+#1336
+{DA Long Tunnel{x~
+This long tunnel created out of gray stone forms part of Ebou Dar's
+complex system of canals.  Built along either side of the canal are narrow
+ledges that have also been constructed from gray stone and are wide enough
+to allow horses to tow some of the cargo barges.  There is a salty tang in
+the air within the tunnel that seems to be coming from the east.  
+~
+0
+ABD 7
+D1
+~
+~
+0 0
+0 0 1337
+D3
+~
+~
+0 0
+0 0 1335
+S
+#1337
+{DA Long Tunnel{x~
+This is the eastern end of a long tunnel that forms part of Ebou Dar's
+network of canals.  The stretch of waters that runs beneath this gray stone
+structure is wide enough to allow several barges to pass each other with
+ease.  Built along either side of the canal are narrow ledges wide enough to
+allow horses to tow some of the cargo barges.  To the east the tunnel opens
+out into the waters of the bay that separates the city with the Rahad
+district.  
+~
+0
+ABD 7
+D1
+~
+~
+0 0
+0 0 1338
+D3
+~
+~
+0 0
+0 0 1336
+S
+#1338
+{cOpen Waters{x~
+This is the eastern end of a wide canal that has been built alongside the
+docks of Ebou Dar although they are almost entirely obscured by the dozens
+of tall warehouses and work yards in this area.  To the east beyond the
+canal's stone walls are the grayish waters of the bay that are bristling
+with ships of all shapes and sizes, some moving across the waters while
+others are moored at gray stone piers.  To the west beyond a lock is a stone
+tunnel built beneath the docks that provides access into the city via its
+canal network.  
+~
+0
+B 7
+D1
+~
+~
+4096 4096
+0 0 1347
+D3
+~
+~
+0 0
+0 0 1337
+D4
+~
+~
+4096 4096
+0 0 1298
+S
+#1339
+{GThe Ebou Dar Weapons Store{x~
+This is a fairly plain-looking shop whose wares are displayed on wooden
+racks fixed to the plaster walls.  The majority of the weapons being sold
+here are old and rusty but there are one or two useful items among the junk.
+At the north of the room is a roped-off staircase that leads to the upper
+levels of the building while a door on the opposite side leads out onto High
+Street.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1215
+S
+#1340
+{rDal Eira Market{x~
+This is the southern end of Dal Eira Market, a large paved plaza that
+lays within the shadow of Ebou Dar's towering city walls.  There are a lot
+of colorful stalls arranged around market place that advertise and sell all
+manner of items from old bits of junk to more expensive curios.  To the
+south a short street links the market place with one of the city's main
+thoroughfares.  
+~
+0
+BC 1
+D0
+~
+~
+0 0
+0 0 1341
+D1
+~
+~
+0 0
+0 0 1343
+D2
+~
+~
+4096 4096
+0 0 1253
+D3
+~
+~
+0 0
+0 0 1342
+S
+#1341
+{rDal Eira Market{x~
+This is the northern end of Dal Eira Market, a huge paved plaza that lays
+within the shadow of Ebou Dar's towering city walls.  There are many
+colorful stalls arranged either side of the market place that advertise and
+sell all manner of items from weapons and armor to wines and spices.  
+~
+0
+B 1
+D1
+~
+~
+0 0
+0 0 1346
+D2
+~
+~
+0 0
+0 0 1340
+D3
+~
+~
+0 0
+0 0 1345
+S
+#1342
+{rDal Eira Market{x - {bA Market Stall{x~
+This is one of the many colorful stalls that have been set up around the
+Dal Eira Market, a big paved plaza constructed by the northern city wall of
+Ebou Dar.  A bright red awning has been set up over a wooden table used to
+display the stall owner's wares which consists of a vast collection of
+weapons including swords, daggers and axes.  
+~
+0
+B 1
+D1
+~
+~
+0 0
+0 0 1340
+S
+#1343
+{rDal Eira Market{x - {cA Market Stall{x~
+This is one of the numerous colorful stalls that have been set up in Dal
+Eira Market, a large paved plaza constructed near Ebou Dar's northern city
+wall.  A bright yellow awning has been set up over a wooden table used to
+display the stall owner's wares which mostly consists of bric-a-brac and
+other miscellaneous items.  
+~
+0
+B 1
+D3
+~
+~
+0 0
+0 0 1340
+S
+#1344
+{DA Cutler's Shop{x~
+This is one of the numerous shops along Moldine Road that are just open
+wooden nooks with heavy plank shutters that can be let down at night. 
+Raised above the shutters is a large sign with a knife and a pair of
+scissors painted upon it which indicates that this store is owned by a
+member of the Cutlers' Guild.  
+~
+0
+BC 0
+D0
+~
+~
+0 0
+0 0 1230
+S
+#1345
+{rDal Eira Market {x- {yA Market Stall{x~
+Here lies one of the numerous colorful stalls that have been set up
+around the Dal Eira Market, a big paved plaza built next to the northern
+city wall of Ebou Dar.  A bright blue awning has been set up over a wooden
+table used to display the stall owner's wares which mainly consists of
+pieces of armor as well as shields.  
+~
+0
+B 1
+D1
+~
+~
+0 0
+0 0 1341
+S
+#1346
+{rDal Eira Market{x - {mA Market Stall{x~
+Here lies one of the countless colorful stalls that have been set up in
+Dal Eira Market, a large paved plaza built close to Ebou Dar's northern city
+wall.  A bright green awning has been set up over a wooden table used to
+display the stall owner's wares which generally consists of items useful for
+travelling with.  
+~
+0
+B 1
+D3
+~
+~
+0 0
+0 0 1341
+S
+#1347
+{cMurky Waters{x~
+This bay is a vast stretch of water where the River Eldar flows out into
+the Sea of Storms.  Situated along the western bank of the bay is the city
+of Ebou Dar, a large cluster of white shops, houses, halls and palaces
+although many of the larger buildings are crowned with towering spires and
+golden domes.  On the eastern bank of the bay is the Rahad, a contrasting
+area of slums with a name for corruption and greed.  
+~
+0
+BC 7
+D1
+~
+~
+0 0
+0 0 1348
+D3
+~
+~
+4096 4096
+0 0 1338
+S
+#1348
+{cMurky Waters{x~
+This bay is an enormous area of water where the River Eldar joins the Sea
+of Storms.  Situated along the western bank of the bay is the city of Ebou
+Dar, a large group of white shops, houses, halls and palaces although many
+of the larger buildings are crowned with towering spires and golden domes. 
+On the eastern bank of the bay is the Rahad, a contrasting area of slums
+with a reputation for greed and corruption.  
+~
+0
+BC 7
+D1
+~
+~
+0 0
+0 0 1349
+D3
+~
+~
+0 0
+0 0 1347
+S
+#1349
+{cMurky Waters{x~
+This bay is a huge expanse of water where the River Eldar flows out into
+the Sea of Storms.  Located along the western bank of the bay is the city of
+Ebou Dar, a large cluster of white shops, houses, halls and palaces although
+many of the bigger buildings are crowned with towering spires and golden
+domes.  On the opposite side of the bay is the Rahad, a contrasting area of
+slums with a reputation for corruption and greed.  
+~
+0
+BC 7
+D1
+~
+~
+0 0
+0 0 1350
+D3
+~
+~
+0 0
+0 0 1348
+S
+#1350
+{cMurky Waters{x~
+This area is an enormous stretch of water where the River Eldar connects
+to the Sea of Storms.  Situated along the western bank of the bay is Ebou
+Dar, a large cluster of white shops, houses, halls and palaces although many
+of the larger buildings are crowned with towering spires and golden domes. 
+On the eastern bank of the bay is the Rahad, a contrasting area of slums
+with a name for corruption and greed.  
+~
+0
+BC 7
+D1
+~
+~
+0 0
+0 0 1351
+D3
+~
+~
+0 0
+0 0 1349
+S
+#1351
+{cMurky Waters{x~
+This is the eastern bank of a vast bay where the River Eldar flows out
+into the Sea of Storms.  This area is the home to numerous gray stone docks
+where many ships are moored while more docks can be seen at the opposite
+side of the bay.  However unlike the clusters of dilapidated buildings that
+lie around the docks on the east side of the bay, the docks along the west
+side has pristine white structures built around it.  
+~
+0
+BC 7
+D3
+~
+~
+0 0
+0 0 1350
+D4
+~
+~
+4096 4096
+0 0 1500
+S
+#1352
+{GDal Eira Park{x~
+This is a huge area of greenery nestled between some of the tall white
+buildings and the defensive walls of the city.  There is a gray slate-tiled
+path winds its way past tall trees with low spreading boughs, shrubs and
+colorful flower beds towards the park's main entrance on the southern side
+of the grounds.  
+~
+0
+B 2
+D0
+~
+~
+0 0
+0 0 1353
+D1
+~
+~
+0 0
+0 0 1357
+D2
+~
+gate~
+3 3
+1 0 1241
+S
+#1353
+{GDal Eira Park{x~
+This is a vast area of greenery nestled between some of the tall white
+buildings and the defensive walls of the city.  There is a gray slate-tiled
+path winds its way past tall trees with low spreading boughs, shrubs and
+colorful flower beds towards an arched bridge made of timber that crosses a
+pond.  
+~
+0
+B 2
+D1
+~
+~
+0 0
+0 0 1354
+D2
+~
+~
+0 0
+0 0 1352
+S
+#1354
+{GDal Eira Park{x~
+This part of Dal Eira Park is a home to a small footbridge made of timber
+that arches over a pond.  The muddy banks of the pond are covered with tall
+reeds and densely growing shrubbery.  More clumps of reeds have sprung up at
+the center of the pond close to the bridge as well as brilliant green lily
+pads.  On either side of the bridge is a path made of gray slate that twists
+its way through the rest of the park.  
+~
+0
+B 2
+D1
+~
+~
+0 0
+0 0 1355
+D3
+~
+~
+0 0
+0 0 1353
+S
+#1355
+{GDal Eira Park{x~
+This is an enormous area of greenery which is nestled between some of the
+grand white buildings and the defensive walls of the city.  There is a gray
+slate-tiled path winds its way past tall trees, thorny shrubs and colorful
+flower beds towards a small arched bridge made of timber that crosses a
+pond.  
+~
+0
+B 2
+D2
+~
+~
+0 0
+0 0 1356
+D3
+~
+~
+0 0
+0 0 1354
+S
+#1356
+{GDal Eira Park{x~
+This is an enormous area of greenery that is nestled between some of the
+grand white buildings and the defensive walls of Ebou Dar.  At this point
+within the park is a long path made of gray slate tiles that winds its way
+past shrubs and flower beds whilst taking advantage of the shelter offered
+by the shady trees that grow here.  
+~
+0
+B 2
+D0
+~
+~
+0 0
+0 0 1355
+D3
+~
+~
+0 0
+0 0 1357
+S
+#1357
+{GDal Eira Park{x~
+This is a large area of greenery nestled between some of the grand white
+buildings and the defensive walls of the city.  There is a gray slate-tiled
+path that winds its way past tall trees, shrubs and colorful flower beds. 
+To the north is a large pond surrounded by reeds but there is no direct path
+to that body of water from this point.  
+~
+0
+B 2
+D1
+~
+~
+0 0
+0 0 1356
+D3
+~
+~
+0 0
+0 0 1352
+S
+#1358
+{DA Gray Stone Warehouse{x~
+This warehouse is an enormous gray stone structure that is approximately
+square in shape with a low sloping roof.  The floor of the enclosure has
+been paved with thick slabs of dull gray stone that are oddly shaped. 
+Hundreds of wooden barrels and casks of varying sizes have been stacked
+tidily within these four walls; each of the barrels appears to be branded
+with symbols that denote each barrel's owner and contents.  Maybe the only
+other thing of interest within this area is the pair of wide wooden doors at
+the east side of the room marking the exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1278
+S
+#1359
+{DA Gray Stone Warehouse{x~
+This warehouse is a big gray stone building that is roughly square in
+shape with a low sloping roof.  The floor of the enclosure has been paved
+with thick slabs of dull gray stone that are irregular in shape.  Hundreds
+of wooden barrels and casks of varying sizes have been arranged neatly
+within these four walls; each of the barrels appears to be branded with
+symbols that show their owner and contents.  Perhaps the only other thing of
+interest inside this area is the pair of wide wooden doors at the east side
+of the room marking the exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1282
+S
+#1360
+{DA Gray Stone Warehouse{x~
+This warehouse is a huge gray stone building that is roughly square in
+shape with a low sloping roof.  The floor of the area has been paved with
+thick slabs of dull gray stone that are oddly shaped.  Scores of wooden
+barrels and casks of varying sizes have been arranged neatly within these
+four walls; each of the barrels appears to be branded with symbols that show
+their owner and contents.  Maybe the only other thing of interest inside
+this area is the pair of wide wooden doors at the east side of the room
+marking the exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1293
+S
+#1361
+{YThe Queen's Head{x~
+Oil lamps swing from the low rafters of this common room, dimly
+illuminating the area with a spluttering golden glow.  There is nothing out
+of the ordinary about this particular establishment; barrels of wine and ale
+have been stack up behind the bar while the rest of the room has been
+furnished with tables and chairs.  Several scroll-carved doors mark the
+exits from the common room but the one of most interest is the exit on the
+north side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1252
+S
+#1362
+{BThe Jolly Sailor{x~
+Oil lanterns have been hung from the low rafters of this common room,
+dimly lighting up the area with a spluttering golden glow.  There is nothing
+out of the ordinary about this particular establishment; barrels of rum and
+ale have been stack up behind the bar while the rest of the room has been
+furnished with tables and benches.  Several scroll-carved doors mark the
+exits from the common room but the one of most interest is the exit on the
+east side that leads out to the docks.  
+~
+0
+D 0
+D1
+~
+~
+1 1
+1 0 1284
+S
+#1363
+{DThe Black Swan{x~
+Oil lanterns swing from the rafters of this common room, dimly
+illuminating the area with a spluttering golden light.  There is nothing out
+of the ordinary about this particular establishment; barrels of beer and
+wine have been stack up behind the bar while the rest of the room has been
+furnished with tables and benches.  Several scroll-carved doors mark the
+exits from the common room but the one of most interest is the doorway on
+the north side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1214
+S
+#1364
+{YHigh Street Bank{x~
+This is a rather austere-looking building made of white stone.  The small
+lanterns used to illuminate the area have left sooty marks upon the wood
+paneled walls.  A few items of decor have been placed around the room
+including a couple of paintings, a desk and a hat stand.  On the north side
+of this room is an iron-braced door leading out into a street.  
+~
+0
+BDK 0
+D0
+~
+~
+3 3
+1 0 1215
+S
+#1365
+{RA Jeweler's Shop{x~
+The interior of the jeweler's shop is as impressive as the carved white
+stone facade on the shops exterior.  Gilded lanterns reveal a wood paneled
+room whose gray flagstone floor has been adorned with plush red carpeting. 
+The jeweler's merchandise has been put on display in secure cabinets behind
+the shop counter at the far end of the room.  Apart from a doorway leading
+into the shopkeeper's workshop and quarters, the only visible exit from this
+area is a door on the north side.  
+~
+0
+BDK 0
+D0
+~
+~
+3 3
+1 0 1219
+S
+#1366
+{CA Tattoo Parlor{x~
+This is a rundown tattoo parlor built using brown bricks although the
+building's exterior walls have been coated with white plaster.  Thick timber
+beams used to help support this structure protrude from the internal walls;
+a few dented lanterns have been fitted to these beams to provide
+illumination for this area.  A few items of furniture have been placed
+inside this workshop including a workbench and some chairs.  There is a wide
+window on the south side of the parlor and a large door built next to it
+that provides an exit from the tattoo parlor.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1288
+S
+#1367
+{bAn Armor Shop{x~
+This is a rather dull-looking shop whose wares are displayed on wooden
+racks fixed to the plaster walls.  There is an assortment of items on sale
+here ranging from rusting chainmail to dented breastplates and shields.  At
+the far end of the room is a roped-off staircase that leads to the upper
+levels of the building while a door on the south side leads out onto High
+Street.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1214
+S
+#1368
+{YA Pet Shop{x~
+This is a shabby pet shop built using gray-brown bricks although the
+building's outer walls have been coated with white plaster.  Thick wooden
+beams used to help support this structure stick out from the interior walls;
+a few dented lamps have been fitted to these beams to provide illumination
+for this area.  A variety of furry critters have been housed in several
+cages and pens arranged around the shop.  On the south side of this room is
+an iron-braced door leading out into a street.  
+~
+0
+BDKM 0
+D2
+~
+~
+3 3
+1 0 1218
+S
+#1369
+Pet Storage Room~
+This room does not need a description.
+~
+0
+BCDK 0
+S
+#1370
+{BA General Store{x~
+This is a simple shop whose wares have been put out on display on wooden
+shelves and racks attached to the plaster walls.  At the far end of the room
+is a roped-off staircase that leads to the upper levels of the building
+while a door on the south side of the room leads out onto the city's
+streets.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1217
+S
+#1371
+{yA Bowyer's Shop{x~
+This is a simple shop whose wares are displayed on wooden racks fixed to
+the plaster walls.  A vast selection of bows and crossbows has been
+displayed in this shop.  At the far end of the room is a roped-off staircase
+that leads to the upper levels of the building while a doorway on the north
+side leads outside.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1218
+S
+#1372
+{MA Cloth Seller's Shop{x~
+This particular establishment is one of the numerous shops along Moldine
+Road that are really open timber nooks with heavy plank shutters that can be
+let down to close them off at night.  Raised above the shutters is a sign
+which indicates that this shop is owned by a cloth seller although the shop
+probably does not need the sign considering the many colorful bolts of cloth
+that have been placed on display here.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1226
+S
+#1373
+{WA Silversmith's Shop{x~
+This is one of the many shops along Moldine Road that are just open
+wooden nooks with heavy plank shutters that can be let down to close them
+off at night.  Raised above the shutters is a sign which indicates that this
+shop is owned by a silversmith.  Placed in trays along the shop's stall are
+the shopkeeper's wares, all of which are being carefully guarded by the
+shopkeeper's watchful eyes.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1228
+S
+#1374
+{RA Rugweaver's Shop{x~
+This is one of the numerous shops along Moldine Road that are just open
+wooden nooks with heavy plank shutters that can be let down at night. 
+Raised above the shutters is a large sign indicating that this store belongs
+to a rugweaver.  This particular store is a colorful sight to behold for
+there are many unrolled bright and vivid carpets spread across the tables
+that lie beneath awnings.  
+~
+0
+C 1
+D2
+~
+~
+0 0
+0 0 1229
+S
+#1375
+{cA Fishmonger's Shop{x~
+This particular establishment is one of the many shops along Moldine Road
+that are really open timber nooks with heavy plank shutters that can be let
+down to close them off at night.  Raised above the shutters is a
+weather-worn sign that has been painted with dozens of kinds of fish
+although the smell of this shop alone should be enough to mark it as a
+fishmonger's store.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1224
+S
+#1376
+{rA Pawn Broker{x~
+This is a dilapidated establishment built using red bricks although the
+building's external walls have been covered with white plaster.  Thick
+wooden beams used to help support this structure protrude from the inner
+walls; several small lanterns have been attached to these beams to provide
+light for this shop.  An odd assortment of items adorns the dust-covered
+shelves, most of them appear to be junk but there might be one or two useful
+objects among them.  On the south side of this shop is an iron-braced door
+leading out into a street.  
+~
+0
+BDK 0
+D2
+~
+~
+3 3
+1 0 1268
+S
+#1377
+{yA Leather Worker's Shop{x~
+A strong smell of leather hangs in the air within this small shop. 
+Numerous items made of leather have been put on display on wooden racks
+fixed to the plaster walls, most of the objects are pieces of armor.  At the
+south side of the room is a roped-off staircase that leads to the upper
+levels of the building while a door on the opposite side leads out onto High
+Street.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1217
+S
+#1378
+{YA Goldsmith's Store{x~
+The inside of the goldsmith's shop is as impressive as the carved white
+stone facade on the shops exterior.  Silver lamps shed light on a wood
+paneled room whose brownish-gray flagstone floor has been fitted with deep
+blue rugs trimmed with silver thread.  The goldsmith's wares have been put
+on display in secure cabinets behind the counter at the back of the room. 
+Apart from a door leading into the shopkeeper's quarters and workshop, the
+only visible exit from this area is a doorway on the south side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1220
+S
+#1379
+{gAboard A Narrow Boat{x~
+Despite its compact stature, this narrow boat is a cozy retreat cased in
+dark wood paneling.  Cabinets and drawers line much of the sides of the
+boat, each one marked with a subtle painted embellishment depicting vines of
+ivy.  Polished brass frames the circular portholes that look out over the
+waterway.  Apart from a hatchway in the floor leading to the hold, the only
+exit from this area is a stairway leading out onto the deck of the boat.  
+~
+0
+BDK 0
+D4
+~
+~
+0 0
+0 0 1333
+S
+#1380
+{bAboard A Narrow Boat{x~
+Regardless of its relatively slender shape, this narrow boat is a cozy
+retreat cased in light wood paneling.  Cupboards and drawers line much of
+the sides of the boat, each one marked with a subtle painted decoration
+depicting red roses in bloom.  Polished brass frames the circular portholes
+that look out over the waterway.  Apart from a trapdoor in the floor leading
+to the hold, the only exit from this area is a staircase leading out onto
+the deck of the boat.  
+~
+0
+BDK 0
+D4
+~
+~
+0 0
+0 0 1328
+S
+#0
+
+
+
+#SPECIALS
+M 1222 spec_thief
+M 1256 spec_questmaster
+M 1263 spec_thief
+M 1264 spec_thief
+M 1265 spec_thief
+S
+
+
+
+#RESETS
+D 0 1200 2 1
+D 0 1201 0 1
+D 0 1209 1 1
+D 0 1210 3 1
+D 0 1214 0 1
+D 0 1214 2 1
+D 0 1215 0 1
+D 0 1215 2 1
+D 0 1217 0 1
+D 0 1217 2 1
+D 0 1218 0 1
+D 0 1218 2 1
+D 0 1219 2 1
+D 0 1220 0 1
+D 0 1223 0 1
+D 0 1227 2 1
+D 0 1241 0 1
+D 0 1252 2 1
+D 0 1268 0 1
+D 0 1278 3 1
+D 0 1282 3 1
+D 0 1288 0 1
+D 0 1293 3 1
+D 0 1339 2 1
+D 0 1352 2 1
+D 0 1358 1 1
+D 0 1359 1 1
+D 0 1360 1 1
+D 0 1361 0 1
+D 0 1363 0 1
+D 0 1364 0 1
+D 0 1365 0 1
+D 0 1366 2 1
+D 0 1367 2 1
+D 0 1368 2 1
+D 0 1370 2 1
+D 0 1371 0 1
+D 0 1376 2 1
+D 0 1377 0 1
+D 0 1378 2 1
+M 0 1210 18 1200 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1200 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1210 18 1200 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1200 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1210 18 1200 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1200 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1213 7 1201 1
+M 0 1216 7 1201 1
+E 0 1224 0 20
+M 0 1214 7 1201 1
+M 0 1211 10 1201 1
+E 0 1223 0 20
+E 0 1267 0 9
+E 0 1268 0 7
+M 0 1213 7 1202 1
+M 0 1211 10 1202 1
+E 0 1223 0 20
+M 0 1218 7 1203 1
+E 0 1227 0 20
+M 0 1221 7 1203 1
+O 0 1287 0 1205
+M 0 1219 7 1205 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1212 10 1205 1
+E 0 1223 0 20
+M 0 1265 8 1205 1
+E 0 1350 0 20
+E 0 1358 0 11
+E 0 1359 0 10
+M 0 1224 7 1206 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1223 7 1206 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+O 0 1288 0 1208
+M 0 1225 7 1208 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1228 7 1208 1
+M 0 1267 8 1208 1
+E 0 1352 0 20
+M 0 1210 18 1209 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1209 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1210 18 1209 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1209 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1210 18 1209 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1209 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1214 7 1210 1
+M 0 1217 7 1210 1
+M 0 1214 7 1211 1
+M 0 1216 7 1211 1
+E 0 1224 0 20
+M 0 1213 7 1212 1
+M 0 1217 7 1212 1
+O 0 1290 0 1213
+M 0 1220 7 1213 1
+M 0 1222 7 1213 1
+M 0 1263 8 1213 1
+E 0 1349 0 20
+E 0 1355 0 12
+E 0 1356 0 18
+E 0 1356 0 17
+E 0 1357 0 5
+M 0 1219 7 1214 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1222 7 1214 1
+M 0 1226 7 1215 1
+E 0 1232 0 23
+M 0 1211 10 1215 1
+M 0 1211 10 1215 1
+M 0 1224 7 1216 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1230 7 1216 1
+M 0 1225 7 1217 1
+E 0 1304 0 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1228 7 1217 1
+M 0 1226 7 1218 1
+E 0 1232 0 23
+M 0 1223 7 1218 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1224 7 1219 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1211 10 1219 1
+M 0 1211 10 1219 1
+M 0 1225 7 1220 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1228 7 1220 1
+O 0 1291 0 1221
+M 0 1226 7 1221 1
+E 0 1232 0 23
+M 0 1229 7 1221 1
+E 0 1245 0 1
+M 0 1266 8 1221 1
+E 0 1351 0 20
+E 0 1353 0 8
+E 0 1354 0 5
+M 0 1227 7 1222 1
+M 0 1230 7 1222 1
+M 0 1210 18 1223 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1223 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1210 18 1223 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1223 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1210 18 1223 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1210 18 1223 6
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1220 7 1224 1
+M 0 1221 7 1224 1
+M 0 1215 7 1225 1
+E 0 1224 0 20
+M 0 1211 10 1225 1
+E 0 1223 0 20
+M 0 1213 7 1226 1
+M 0 1217 7 1226 1
+M 0 1214 7 1227 1
+M 0 1216 7 1227 1
+E 0 1224 0 20
+M 0 1215 7 1228 1
+E 0 1224 0 20
+M 0 1211 10 1228 1
+E 0 1223 0 20
+M 0 1214 7 1229 1
+M 0 1217 7 1229 1
+M 0 1219 7 1230 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1222 7 1230 1
+M 0 1218 7 1231 1
+E 0 1227 0 20
+M 0 1222 7 1231 1
+M 0 1264 8 1231 1
+E 0 1349 0 20
+M 0 1220 7 1232 1
+M 0 1212 10 1232 1
+E 0 1223 0 20
+M 0 1218 7 1233 1
+E 0 1227 0 20
+M 0 1221 7 1233 1
+M 0 1213 7 1234 1
+M 0 1216 7 1234 1
+E 0 1224 0 20
+M 0 1215 7 1235 1
+E 0 1224 0 20
+M 0 1211 10 1235 1
+E 0 1223 0 20
+M 0 1213 7 1236 1
+M 0 1217 7 1236 1
+M 0 1215 7 1237 1
+E 0 1224 0 20
+M 0 1217 7 1237 1
+M 0 1219 7 1238 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1222 7 1238 1
+M 0 1220 7 1239 1
+M 0 1212 10 1239 1
+E 0 1223 0 20
+M 0 1263 8 1239 1
+E 0 1349 0 20
+E 0 1355 0 12
+E 0 1356 0 18
+E 0 1356 0 17
+E 0 1357 0 5
+M 0 1224 7 1240 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1229 7 1240 1
+M 0 1225 7 1241 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1223 7 1241 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1227 7 1242 1
+M 0 1229 7 1242 1
+M 0 1226 7 1243 1
+E 0 1232 0 23
+M 0 1230 7 1243 1
+M 0 1218 7 1244 1
+E 0 1227 0 20
+M 0 1221 7 1244 1
+M 0 1219 7 1245 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1212 10 1245 1
+E 0 1223 0 20
+M 0 1267 8 1245 1
+E 0 1352 0 20
+M 0 1214 7 1246 1
+M 0 1216 7 1246 1
+E 0 1224 0 20
+M 0 1215 7 1247 1
+E 0 1224 0 20
+M 0 1211 10 1247 1
+E 0 1223 0 20
+M 0 1215 7 1248 1
+E 0 1224 0 20
+M 0 1217 7 1248 1
+E 0 1340 0 20
+E 0 1341 0 7
+E 0 1342 0 9
+M 0 1213 7 1249 1
+M 0 1216 7 1249 1
+E 0 1224 0 20
+M 0 1220 7 1250 1
+M 0 1221 7 1250 1
+E 0 1343 0 8
+E 0 1344 0 7
+E 0 1345 0 16
+M 0 1218 7 1251 1
+E 0 1227 0 20
+M 0 1222 7 1251 1
+M 0 1227 7 1252 1
+M 0 1211 10 1252 1
+M 0 1211 10 1252 1
+M 0 1224 7 1253 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1228 7 1253 1
+E 0 1244 0 1
+M 0 1266 8 1253 1
+E 0 1351 0 20
+E 0 1353 0 8
+E 0 1354 0 5
+M 0 1225 7 1254 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1229 7 1254 1
+M 0 1212 10 1255 1
+E 0 1223 0 20
+M 0 1230 7 1255 1
+M 0 1227 7 1256 1
+M 0 1229 7 1256 1
+M 0 1226 7 1257 1
+E 0 1232 0 23
+M 0 1223 7 1257 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1220 7 1258 1
+M 0 1212 10 1258 1
+E 0 1223 0 20
+O 0 1289 0 1259
+M 0 1220 7 1259 1
+M 0 1221 7 1259 1
+M 0 1264 8 1259 1
+E 0 1349 0 20
+M 0 1215 7 1260 1
+E 0 1224 0 20
+M 0 1216 7 1260 1
+E 0 1224 0 20
+M 0 1219 7 1261 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1212 10 1261 1
+E 0 1223 0 20
+M 0 1227 7 1262 1
+M 0 1230 7 1262 1
+M 0 1212 10 1263 1
+E 0 1223 0 20
+M 0 1223 7 1263 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1227 7 1264 1
+M 0 1228 7 1264 1
+M 0 1218 7 1265 1
+E 0 1227 0 20
+M 0 1222 7 1265 1
+M 0 1265 8 1265 1
+E 0 1350 0 20
+E 0 1358 0 11
+E 0 1359 0 10
+M 0 1224 7 1266 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1229 7 1266 1
+M 0 1225 7 1267 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1230 7 1267 1
+M 0 1212 10 1268 1
+E 0 1223 0 20
+M 0 1229 7 1268 1
+M 0 1218 7 1269 1
+E 0 1227 0 20
+E 0 1346 0 5
+E 0 1348 0 12
+E 0 1347 0 17
+E 0 1347 0 18
+M 0 1221 7 1269 1
+M 0 1227 7 1270 1
+E 0 1244 0 1
+M 0 1223 7 1270 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1226 7 1271 1
+E 0 1232 0 23
+M 0 1228 7 1271 1
+E 0 1244 0 1
+M 0 1226 7 1272 1
+E 0 1232 0 23
+M 0 1230 7 1272 1
+M 0 1219 7 1273 1
+E 0 1225 0 20
+E 0 1226 0 5
+M 0 1212 10 1273 1
+E 0 1223 0 20
+M 0 1224 7 1274 1
+E 0 1229 0 7
+E 0 1230 0 20
+M 0 1228 7 1274 1
+M 0 1214 7 1275 1
+M 0 1211 10 1275 1
+E 0 1223 0 20
+M 0 1225 7 1276 1
+E 0 1228 0 5
+E 0 1231 0 10
+M 0 1223 7 1276 1
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1222 0 20
+M 0 1204 6 1277 1
+E 0 1212 0 20
+M 0 1207 6 1277 1
+E 0 1216 0 20
+M 0 1205 6 1278 1
+E 0 1212 0 20
+M 0 1208 6 1278 1
+M 0 1206 6 1279 1
+E 0 1211 0 20
+M 0 1209 6 1279 1
+M 0 1204 6 1280 1
+E 0 1212 0 20
+M 0 1207 6 1280 1
+E 0 1216 0 20
+M 0 1205 6 1281 1
+E 0 1212 0 20
+M 0 1208 6 1281 1
+M 0 1206 6 1282 1
+E 0 1211 0 20
+M 0 1209 6 1282 1
+M 0 1204 6 1283 1
+E 0 1212 0 20
+M 0 1207 6 1283 1
+E 0 1216 0 20
+M 0 1205 6 1284 1
+E 0 1212 0 20
+M 0 1208 6 1284 1
+M 0 1206 6 1285 1
+E 0 1211 0 20
+E 0 1337 0 23
+M 0 1209 6 1285 1
+E 0 1336 0 15
+E 0 1338 0 12
+M 0 1204 6 1286 1
+E 0 1212 0 20
+M 0 1207 6 1286 1
+E 0 1216 0 20
+M 0 1205 6 1287 1
+E 0 1212 0 20
+M 0 1208 6 1287 1
+M 0 1206 6 1288 1
+E 0 1211 0 20
+M 0 1209 6 1288 1
+M 0 1204 6 1289 1
+E 0 1212 0 20
+M 0 1207 6 1289 1
+E 0 1216 0 20
+M 0 1205 6 1290 1
+E 0 1212 0 20
+M 0 1208 6 1290 1
+M 0 1206 6 1291 1
+E 0 1211 0 20
+M 0 1209 6 1291 1
+M 0 1204 6 1292 1
+E 0 1212 0 20
+M 0 1207 6 1292 1
+E 0 1216 0 20
+M 0 1205 6 1293 1
+E 0 1212 0 20
+M 0 1208 6 1293 1
+M 0 1206 6 1294 1
+E 0 1211 0 20
+M 0 1209 6 1294 1
+M 0 1201 6 1295 1
+E 0 1210 0 20
+E 0 1213 0 16
+M 0 1202 6 1295 1
+E 0 1211 0 20
+E 0 1214 0 16
+M 0 1203 6 1295 1
+E 0 1212 0 20
+E 0 1213 0 16
+M 0 1201 6 1296 1
+E 0 1210 0 20
+E 0 1213 0 16
+M 0 1202 6 1296 1
+E 0 1211 0 20
+E 0 1214 0 16
+M 0 1203 6 1296 1
+E 0 1212 0 20
+E 0 1213 0 16
+M 0 1201 6 1297 1
+E 0 1210 0 20
+E 0 1213 0 16
+M 0 1202 6 1297 1
+E 0 1211 0 20
+E 0 1214 0 16
+M 0 1203 6 1297 1
+E 0 1212 0 20
+E 0 1213 0 16
+M 0 1201 6 1298 1
+E 0 1210 0 20
+E 0 1213 0 16
+E 0 1335 0 15
+M 0 1202 6 1298 1
+E 0 1211 0 20
+E 0 1214 0 16
+M 0 1203 6 1298 1
+E 0 1212 0 20
+E 0 1213 0 16
+M 0 1201 6 1299 1
+E 0 1210 0 20
+E 0 1213 0 16
+M 0 1202 6 1299 1
+E 0 1211 0 20
+E 0 1214 0 16
+M 0 1203 6 1299 1
+E 0 1212 0 20
+E 0 1213 0 16
+M 0 1201 6 1300 1
+E 0 1210 0 20
+E 0 1213 0 16
+M 0 1202 6 1300 1
+E 0 1211 0 20
+E 0 1214 0 16
+M 0 1203 6 1300 1
+E 0 1212 0 20
+E 0 1213 0 16
+O 0 1324 0 1301
+M 0 1256 1 1301 1
+M 0 1258 10 1302 1
+O 0 1332 0 1303
+M 0 1258 10 1306 1
+M 0 1258 10 1309 1
+O 0 1334 0 1312
+M 0 1258 10 1313 1
+M 0 1258 10 1315 1
+M 0 1258 10 1320 1
+O 0 1330 0 1322
+P 0 1331 1 1330 1
+M 0 1258 10 1322 1
+M 0 1259 1 1323 1
+M 0 1258 10 1324 1
+O 0 1328 0 1328
+M 0 1258 10 1330 1
+O 0 1325 0 1333
+M 0 1258 10 1333 1
+M 0 1200 1 1339 1
+G 0 1200 0
+G 0 1201 0
+G 0 1202 0
+G 0 1203 0
+G 0 1204 0
+G 0 1205 0
+G 0 1206 0
+G 0 1207 0
+G 0 1208 0
+G 0 1209 0
+M 0 1231 2 1340 2
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1231 2 1340 2
+E 0 1217 0 7
+E 0 1218 0 9
+E 0 1219 0 10
+E 0 1220 0 8
+E 0 1221 0 20
+M 0 1237 6 1341 2
+M 0 1232 1 1342 1
+G 0 1233 0
+G 0 1234 0
+G 0 1235 0
+G 0 1236 0
+G 0 1237 0
+G 0 1238 0
+G 0 1239 0
+G 0 1240 0
+G 0 1241 0
+G 0 1242 0
+G 0 1243 0
+M 0 1233 1 1343 1
+G 0 1253 0
+G 0 1252 0
+G 0 1254 0
+M 0 1234 1 1344 1
+G 0 1246 0
+G 0 1247 0
+G 0 1248 0
+G 0 1249 0
+G 0 1250 0
+G 0 1251 0
+M 0 1235 1 1345 1
+G 0 1255 0
+G 0 1256 0
+G 0 1257 0
+G 0 1258 0
+G 0 1259 0
+G 0 1260 0
+M 0 1236 1 1346 1
+G 0 1261 0
+G 0 1262 0
+G 0 1263 0
+G 0 1264 0
+G 0 1265 0
+O 0 1330 0 1348
+P 0 1333 1 1330 1
+O 0 1282 0 1352
+O 0 1283 0 1353
+P 0 1285 1 1283 1
+O 0 1284 0 1357
+P 0 1286 1 1284 1
+M 0 1260 6 1358 2
+E 0 1339 0 7
+M 0 1260 6 1358 2
+E 0 1339 0 7
+M 0 1261 3 1358 1
+E 0 1339 0 7
+M 0 1262 6 1358 2
+M 0 1262 6 1358 2
+M 0 1260 6 1359 2
+E 0 1339 0 7
+M 0 1260 6 1359 2
+E 0 1339 0 7
+M 0 1261 3 1359 1
+E 0 1339 0 7
+M 0 1262 6 1359 2
+M 0 1262 6 1359 2
+M 0 1260 6 1360 2
+E 0 1339 0 7
+M 0 1260 6 1360 2
+E 0 1339 0 7
+M 0 1261 3 1360 1
+E 0 1339 0 7
+M 0 1262 6 1360 2
+M 0 1262 6 1360 2
+M 0 1238 6 1361 2
+M 0 1239 9 1361 3
+E 0 1266 0 15
+E 0 1267 0 9
+E 0 1268 0 7
+E 0 1269 0 23
+E 0 1270 0 20
+E 0 1271 0 16
+M 0 1238 6 1361 2
+M 0 1239 9 1361 3
+E 0 1266 0 15
+E 0 1267 0 9
+E 0 1268 0 7
+E 0 1269 0 23
+E 0 1270 0 20
+E 0 1271 0 16
+M 0 1238 6 1362 2
+M 0 1239 9 1362 3
+E 0 1266 0 15
+E 0 1267 0 9
+E 0 1268 0 7
+E 0 1269 0 23
+E 0 1270 0 20
+E 0 1271 0 16
+M 0 1238 6 1362 2
+M 0 1239 9 1362 3
+E 0 1266 0 15
+E 0 1267 0 9
+E 0 1268 0 7
+E 0 1269 0 23
+E 0 1270 0 20
+E 0 1271 0 16
+M 0 1238 6 1363 2
+M 0 1239 9 1363 3
+E 0 1266 0 15
+E 0 1267 0 9
+E 0 1268 0 7
+E 0 1269 0 23
+E 0 1270 0 20
+E 0 1271 0 16
+M 0 1238 6 1363 2
+M 0 1239 9 1363 3
+E 0 1266 0 15
+E 0 1267 0 9
+E 0 1268 0 7
+E 0 1269 0 23
+E 0 1270 0 20
+E 0 1271 0 16
+M 0 1240 1 1364 1
+O 0 1272 0 1365
+M 0 1241 1 1365 1
+G 0 1273 0
+G 0 1274 0
+G 0 1275 0
+M 0 1242 1 1366 1
+G 0 1276 0
+G 0 1277 0
+G 0 1278 0
+G 0 1279 0
+G 0 1280 0
+G 0 1281 0
+M 0 1243 1 1367 1
+G 0 1292 0
+G 0 1293 0
+G 0 1294 0
+G 0 1295 0
+G 0 1296 0
+G 0 1297 0
+G 0 1298 0
+M 0 1244 1 1368 1
+M 0 1248 1 1369 1
+M 0 1245 1 1369 1
+M 0 1246 1 1369 1
+M 0 1247 1 1369 1
+M 0 1249 1 1370 1
+G 0 1299 0
+G 0 1300 0
+G 0 1301 0
+G 0 1302 0
+G 0 1303 0
+M 0 1250 1 1371 1
+G 0 1305 0
+G 0 1306 0
+M 0 1251 1 1372 1
+G 0 1307 0
+G 0 1308 0
+M 0 1252 1 1373 1
+G 0 1309 0
+G 0 1310 0
+G 0 1311 0
+G 0 1312 0
+G 0 1313 0
+G 0 1314 0
+O 0 1315 0 1374
+O 0 1315 0 1375
+O 0 1316 0 1376
+M 0 1253 1 1376 1
+G 0 1317 0
+M 0 1254 1 1377 1
+G 0 1318 0
+G 0 1319 0
+G 0 1320 0
+G 0 1321 0
+M 0 1255 1 1378 1
+G 0 1322 0
+G 0 1323 0
+O 0 1326 0 1379
+O 0 1327 0 1379
+O 0 1329 0 1380
+O 0 1327 0 1380
+M 0 1257 1 1380 1
+S
+
+
+
+#SHOPS
+1200 5 0 0 0 0 450 53 0 23
+1232 5 0 0 0 0 525 50 0 23
+1233 13 8 1 9 5 500 50 0 23
+1234 5 0 0 0 0 125 25 0 23
+1236 1 17 19 15 12 200 50 0 23
+1241 9 32 33 8 0 500 50 0 23
+1242 9 0 0 0 0 500 1 0 23
+1243 9 0 0 0 0 500 50 0 23
+1249 17 15 12 1 19 100 100 0 23
+1250 5 0 0 0 0 750 50 0 23
+1251 13 8 0 0 0 150 75 0 23
+1252 9 0 0 0 0 250 50 0 23
+1253 5 9 0 0 0 32000 95 0 23
+1254 9 0 0 0 0 250 50 0 23
+1255 9 0 0 0 0 250 50 0 23
+0
+
+
+
+#$

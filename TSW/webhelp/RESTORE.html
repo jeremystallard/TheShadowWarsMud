@@ -1,0 +1,50 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>RESTORE</H1>Syntax: restore <character>
+	restore room
+</FONT>        restore all [!<name> <name>]
+</FONT>        restore mob
+</FONT>        restore guild <guildname>
+</FONT>        restore start <start-with-character>
+</FONT>        restore end <end-with-character>
+</FONT>        restore sex <male/female>
+{         restore random
+</FONT>        restore title
+{         restore rp
+{         restore whoinvis
+
+Restore restores full hit points, mana points, and movement points to the
+target character.  It also heals poison, plague, and blindness.
+
+Restore room (or restore with no argument) performs a restore on every player
+in the room, restore all does the same for all connected players. Restore all
+is only usable by creators and implementors.  Restore should be used sparingly
+or not at all.
+ 
+Restore all will restore all players that is logged on the mud. If combined with
+a '!' character, the name listed after it will be excluded.
+Example: restore all !Zandor
+ 
+Restore guild will restore all players that are logged in and is in that guild.
+ 
+Restore start will restore all players that are logged in and where the first character
+in the name start with the character you give.
+Example: restore start z
+ 
+Restore end will restore all players that are logged in and where the last character
+in the name end with the character you give.
+Example restore end n
+ 
+Restore sex will restore all players that are logged in and where the sex is either male
+or female, as defined.
+ 
+Restore title will restore all players that are logged in and has set a title.
+ 
+Restore random will select among all players that are online and random restore
+the random selected players.
+ 
+Restore rp will restore all players that are not in RP mode.
+ 
+Restore whoinvis will restore all players that are not whoinvis.
+
+</FONT></B></PRE>
+</BODY>

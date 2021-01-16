@@ -1,0 +1,35 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>PROMPT</H1>Syntax: prompt
+Syntax: prompt all
+Syntax: prompt <%*>
+ 
+PROMPT with out an argument will turn your prompt on or off.
+ 
+PROMPT ALL will give you the standard "[hp/max_hp end/max_end]" prompt.
+ 
+PROMPT <%*> where the %* are the various variables you may set yourself.
+ 
+        %h :  Display your current hits
+        %H :  Display your maximum hits
+        %m :  Display your current endurance
+        %M :  Display your maximum endurance
+        %x :  Display your current experience
+{         %p :  Display your current OP
+{         %P :  Display your maximum OP
+	%X :  Display experience to level
+        %g :  Display your gold held
+	%s :  Display silver carried
+        %a :  Display your alignment
+        %r :  Display the room name you are in
+	%e :  Display the exits from the room in NESWDU style
+	%c :  Display a carriage return (useful for multi-line prompts)
+        %R :  Display the vnum you are in (IMMORTAL ONLY)
+        %z :  Display the area name you are in (IMMORTAL ONLY)
+ 
+Example:  PROMPT <%hhp %mend>
+
+Will set your prompt to "<10hp 100end>"
+ 
+
+</FONT></B></PRE>
+</BODY>

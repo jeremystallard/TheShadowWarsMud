@@ -1,0 +1,362 @@
+28
+rom basics~
+0 0 0 
+scrolls~
+staves~
+wands~
+recall~
+End~
+
+channeler basics~
+0 -1 -1 
+dagger~
+End~
+
+thief basics~
+-1 0 -1 
+dagger~
+steal~
+End~
+
+warrior basics~
+-1 -1 0 
+sword~
+second attack~
+End~
+
+warrior faceless~
+-1 -1 0
+axe~
+flail~
+mace~
+spear~
+whip~
+dagger~
+lance~
+polearm~
+hand to hand~
+staff~
+sword~
+second attack~
+shield block~
+parry~
+dodge~
+bow~
+arrow~
+rescue~
+riding~
+lore~
+awareness~
+observation~
+alertness~
+bash~
+kick~
+dodge~
+parry~
+disarm~
+enhanced damage~
+guard~
+armor use~
+End~
+
+thief faceless~
+-1 0 -1
+axe~
+flail~
+mace~
+spear~
+whip~
+dagger~
+lance~
+polearm~
+hand to hand~
+staff~
+sword~
+sneak~
+pick lock~
+plant~
+steal~
+backstab~
+second attack~
+parry~
+dodge~
+bow~
+arrow~
+riding~
+lore~
+awareness~
+observation~
+alertness~
+dodge~
+parry~
+disarm~
+enhanced damage~
+End~
+
+channeler faceless~
+0 -1 -1
+axe~
+flail~
+mace~
+spear~
+whip~
+dagger~
+lance~
+polearm~
+hand to hand~
+staff~
+sword~
+parry~
+dodge~
+bow~
+arrow~
+riding~
+lore~
+awareness~
+observation~
+alertness~
+dodge~
+parry~
+seize~
+embrace~
+enhanced damage~
+create spring~
+create flame~
+grow berries~
+bar of fire~
+blast of air~
+flying rocks~
+stream of water~
+refresh~
+identify~
+pinch~
+levitate~
+fireball~
+waterball~
+lightning bolt~
+rolling ring~
+shielding~
+calm~
+End~
+
+channeler default~
+40 -1 -1 
+lore~
+beguiling~
+combat~
+detection~
+enhancement~
+illusion~
+maladictions~
+protective~
+transportation~
+weather~
+End~
+
+thief default~
+-1 40 -1 
+mace~
+dagger~
+sword~
+backstab~
+disarm~
+dodge~
+second attack~
+trip~
+hide~
+peek~
+pick lock~
+sneak~
+End~
+
+warrior default~
+-1 -1 40 
+weaponsmaster~
+shield block~
+bash~
+disarm~
+enhanced damage~
+parry~
+rescue~
+third attack~
+End~
+
+weaponsmaster~
+40 40 20 
+axe~
+dagger~
+flail~
+mace~
+polearm~
+spear~
+sword~
+whip~
+End~
+
+attack~
+5 -1 -1 
+demonfire~
+dispel evil~
+dispel good~
+earthquake~
+flamestrike~
+heat metal~
+ray of truth~
+End~
+
+beguiling~
+4 -1 -1 
+calm~
+charm person~
+sleep~
+End~
+
+benedictions~
+4 -1 -1 
+bless~
+calm~
+frenzy~
+holy word~
+remove curse~
+End~
+
+combat~
+6 -1 -1
+acid blast~
+burning hands~
+chain lightning~
+chill touch~
+colour spray~
+fireball~
+lightning bolt~
+magic missile~
+shocking grasp~
+End~
+
+creation~
+4 -1 -1
+continual light~
+create food~
+create spring~
+create water~
+create rose~
+floating disc~
+End~
+
+curative~
+4 -1 -1
+cure blindness~
+cure disease~
+cure poison~
+End~
+
+detection~
+4 -1 -1 
+detect evil~
+detect good~
+detect hidden~
+detect invis~
+detect magic~
+detect poison~
+farsight~
+identify~
+know alignment~
+locate object~
+End~
+
+draconian~
+8 -1 -1 
+acid breath~
+fire breath~
+frost breath~
+gas breath~
+lightning breath~
+End~
+
+enchantment~
+6 -1 -1 
+enchant armor~
+enchant weapon~
+fireproof~
+recharge~
+End~
+
+enhancement~
+5 -1 -1
+giant strength~
+haste~
+infravision~
+refresh~
+End~
+
+harmful~
+3 -1 -1 
+cause critical~
+cause light~
+cause serious~
+harm~
+End~
+
+healing~
+3 -1 -1 
+cure critical~
+cure light~
+cure serious~
+heal~
+mass healing~
+refresh~
+End~
+
+illusion~
+4 -1 -1 
+invis~
+mass invis~
+ventriloquate~
+End~
+
+maladictions~
+5 -1 -1
+blindness~
+change sex~
+curse~
+energy drain~
+plague~
+poison~
+slow~
+weaken~
+End~
+
+protective~
+4 -1 -1
+armor~
+cancellation~
+dispel magic~
+fireproof~
+protection evil~
+protection good~
+sanctuary~
+shield~
+stone skin~
+End~
+
+transportation~
+4 -1 -1
+fly~
+gate~
+nexus~
+pass door~
+portal~
+summon~
+teleport~
+word of recall~
+End~
+
+weather~
+4 -1 -1 
+call lightning~
+control weather~
+faerie fire~
+faerie fog~
+lightning bolt~
+End~
+

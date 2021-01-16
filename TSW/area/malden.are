@@ -1,0 +1,4580 @@
+#AREADATA
+Name Malden~
+Builders Keely~
+VNUMs 700 799
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#700
+samuel tall man tailor~
+{rSa{Rm{ru{Re{rl{x, the artistic tailor~
+A tall, arrogant man wearing {rs{Ri{rlky {Rc{rlo{Rth{res{x is here, helping his customers.
+~
+This man is wearing beautiful and expensive silky scarlet pants and dark
+red blouse buttoned on the front.  There is a white handkerchief tied to the
+shirt collar and tucked under his scarlet coat.  He looks very arrogant, but
+precise and professional.  
+~
+altaran~
+AGSY 0 0 0
+68 58 35d36+4624 68d10+100 7d15+34 punch
+0 0 0 0 0
+A
+3 3 3 3
+FKY ABKZb 0 0
+stand stand male 250
+0 0 medium 'unknown'
+#701
+stocky man rimal tailors assistant~
+{BR{bi{Bm{bal{x, the tailor's assistant~
+A stocky man wearing {bs{Bi{bl{Bk{by {Bb{blue {Bc{blo{Bt{bhes{x is here, assisting the tailor.
+~
+This man is of medium height, with matching silky clothes just like his
+master, but in blue.  He has a cyan handkerchief around his collar tucked
+under a dark blue coat.  He looks over his master constantly and tries to
+help however he can.  
+~
+altaran~
+AGSY 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+FHKRW 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#702
+mariah healer tall blond woman~
+{yM{Ya{Wr{Yi{yah{x, the Wisdom~
+A tall {yb{Yl{Wo{Yn{yd{x woman wearing a white apron is here, selling herbs and tending to people. 
+~
+This woman has a kind smile on her lips as she looks around and helps
+those who come in her shop.  She offers a different variety of herbs as well
+as medicines for common illnesses that may bother her fellow Altarans.  
+~
+altaran~
+AJab 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+FKW ABb L 0
+stand stand female 4999
+0 0 medium 'flesh'
+F gain B
+#703
+Malden resident~
+a {Wres{wi{Wdent{x of {bM{Ba{Yld{Be{bn{x~
+A dark-haired man that lives in {bM{Ba{Yld{Be{bn{x is here, walking along the streets and talking to people.
+~
+This man is tall, with dark hair and slightly tanned skin.  He is wearing
+simple, commoner's clothes and seems happy to be here.  He often stops and
+talks to people he knows, smiling and nodding sometimes to others.  
+~
+altaran~
+AGSW 0 0 0
+99 89 50d50+9801 99d10+100 10d19+49 punch
+0 0 0 0 0
+A
+6 6 6 6
+FKY ABb 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#704
+hawker languid man~
+a languid {Wh{wa{Dwk{we{Wr{x~
+A tall, languid {Wh{wa{Dwk{we{Wr{x is here, trying to find customers.
+~
+This man has a long coat where all his goods come from, making you wonder
+how much pocket space he has underneath it.  He has a knowing look in his
+eyes, like someone who has been in business for a while and someone that
+would be hard to win on a deal.  He has oily dark hair and three day
+stubble.  
+~
+kandori~
+AGSW 0 0 0
+79 69 40d40+6241 79d10+100 8d17+39 punch
+0 0 0 0 0
+A
+4 4 4 4
+FKW 0 G 0
+stand stand male 250
+0 0 medium 'flesh'
+#705
+small girl~
+a small {Mg{mi{Mrl{x with pigtails~
+A small {Mg{mi{Mrl{x with pigtails is here, giggling as she bounces along the streets.
+~
+~
+altaran~
+AGHSW 0 0 0
+53 43 27d27+2809 53d10+100 6d9+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand female 10
+0 0 small 'fles'
+#706
+grey dove~
+a small {Dgr{we{Wy{wi{Dsh{x {Wd{wo{Dv{We{x~
+A small {Dgr{we{Wy{wi{Dsh{x {Wd{wo{Dv{We{x is here, diving down to wash his belly on the water.
+~
+~
+song bird~
+ABW 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 0 small 'unknown'
+F off H
+#707
+tower guard malden~
+a {bM{Ba{Yld{Be{bn {Dt{wo{Ww{we{Dr{x guard~
+A tall man with a {bM{Ba{Yld{Be{bn{x guard uniform is here, watching the tower.
+~
+This man is wearing a guard uniform with the colors of Malden, yellow and
+blue, carefully watching the on going in and outside the city.  He has his
+sword ready in case he needs to use it and he also stands by the alarm ready
+if it needs to be sounded.  
+~
+altaran~
+ABT F 0 0
+98 88 50d51+9604 98d10+100 10d18+49 slash
+0 0 0 0 0
+A
+6 6 6 6
+FKTUW 0 0 0
+stand stand male 25
+0 0 large 'flesh'
+#708
+patrolling guard man~
+a {bpa{Btr{Yol{Bli{bng{x guard~
+A {bpa{Btr{Yol{Bli{bng{x guard is here, strolling along the streets with his sword ready.
+~
+A tall man is here, wearing a guard uniform and patrolling the streets of
+Malden to make sure everyone stays out of trouble.  He stands with a firm
+posture, nodding his head to the residents and passerbys.  
+~
+altaran~
+AGTW 0 0 0
+97 87 49d49+9409 97d10+100 10d17+48 slash
+0 0 0 0 0
+A
+6 6 6 6
+FKRW 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#709
+guard gateguard man~
+a {bg{Bat{Yeg{Bua{brd{x~
+A {bg{Bat{Yeg{Bua{brd{x is here, standing in attention.
+~
+This guard stands here, with his eyes making sure that no unwanted people
+are welcome.  He nods at those coming in and sometimes stops unfamiliar or
+suspicious looking figures to inquire of their wishes and businesses in
+Malden.  
+~
+altaran~
+ABT 0 0 0
+97 87 49d49+9409 97d10+100 10d17+48 slash
+0 0 0 0 0
+A
+6 6 6 6
+FKRW 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#710
+Brigmarie woman plump~
+{yB{Yr{yid{Ym{yar{Yi{ye{x, the Jeweler~
+{yB{Yr{yid{Ym{yar{Yi{ye{x, the Jeweler is here, showing expensive and beautiful pieces to her customers.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slap
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 4999
+0 0 medium 'flesh'
+#711
+Zurya flower woman~
+{mZ{Mu{Wr{My{ma{w the florist{x~
+A {mbe{Ma{wu{Wt{wi{Mf{mul{x dark-haired woman is here, selling flowers to her customers.
+~
+This young woman has long dark hair with soft curls and she is wearing a
+simple magenta dress with an apron that has dirty spots from working with
+her flowers and plants.  
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FKW 0 0 0
+stand stand female 4999
+0 0 medium 'flesh'
+#712
+guard prison~
+a {Dpr{wi{Dson {bg{Bu{Ya{Br{bd{x~
+A {Dpr{wi{Dson {bg{Bu{Ya{Br{bd{x is here, watching over the prison.
+~
+~
+altaran~
+ABT 0 0 0
+76 66 39d40+5776 76d10+100 8d14+38 slash
+0 0 0 0 0
+A
+4 4 4 4
+FKe 0 G 0
+stand stand male 25
+0 0 medium 'flesh'
+#713
+off duty guard~
+an off-duty {bg{Bu{Ya{Br{bd{x~
+An off-duty {bg{Bu{Ya{Br{bd{x is here, sitting on his bunk and chatting with his companions.
+~
+This man is not wearing the traditional guard uniform from Malden,
+instead, wearing loose breeches and a simple shirt.  He is having a good
+time talking to his companions and enjoying his off duty time.  
+~
+altaran~
+ABT 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+FHKOe 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#714
+sparring guard~
+a {Bspa{br{Br{bi{Bng{x guard~
+A guard is here, {Bspa{br{Br{bi{Bng{x and practicing with his fellow guards.
+~
+~
+altaran~
+AB 0 0 0
+58 48 30d31+3364 58d10+100 6d14+29 punch
+0 0 0 0 0
+A
+2 2 2 2
+FKe 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#715
+stallion white~
+a regal {Wwh{wi{Wte {Ws{wt{Wal{wl{Wi{won{x~
+A {Wwh{wi{Wte {Ws{wt{Wal{wl{Wi{won{x regally stands here, waiting for his master.
+~
+This white stallion is very well-taken care of and remains with a unique
+posture of an animal that belongs to the Royalty.  
+~
+altaran~
+AZ 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 charge
+0 0 0 0 0
+A
+4 4 4 4
+FKe 0 0 0
+stand stand male 0
+0 0 large 'flesh'
+#716
+blacksmith aerelus man muscular~
+Aerelus, a {Dmu{ws{Dcular{x {Dbl{wa{Dck{ws{Dmith{x~
+A tall, {Dmu{ws{Dcular{x man wearing a thick {Dr{wu{Dbbe{wr{Dy{x apron is here
+~
+This man is very tall, with broad shoulders and very muscular biceps and
+chest.  He has a constant glisten on his skin from sweat and dirt all over
+his body.  He is wearing dark pants and a thick rubbery apron while working
+on swords and other weapons that must be made or repaired.  
+~
+altaran~
+ABK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FKOW 0 G 0
+stand stand male 155
+0 0 medium 'flesh'
+#717
+maid dark hair woman~
+a dark-haired {Wma{wi{Wd{x~
+A dark-haired woman wearing a {Wma{wi{Wd{x {Wun{wi{Wform{x is here, running errands.
+~
+This woman looks young and lively as she runs around and busies herself
+with errands.  She is wearing a simple blue and yellow dress to symbolize
+Malden's colors and a apron.  She has her hair tied in a bun with a net
+around it.  
+~
+altaran~
+AGSY 0 0 0
+82 72 42d43+6724 82d10+100 9d11+41 punch
+0 0 0 0 0
+A
+5 5 5 5
+FKY 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#718
+first maid plump ashelia~
+Ashelia, the {bF{Bi{Yr{Bs{bt {bM{Ba{Yi{bd{x~
+A short, plump woman is here, wearing the {bF{Bi{Yr{Bs{bt {bM{Ba{Yi{bd{x uniform
+~
+This woman has a very commanding aura about her, someone used to giving
+out orders and keeping everything under control.  She is short and plump,
+with a different Altaran complexity than most women.  Her hair is dark
+brown, tied to a long braid that reaches her bottom.  Her eyes are piercing
+blue that dig through the maids she finds not doing their jobs.  
+~
+altaran~
+AGY 0 0 0
+96 86 49d50+9216 96d10+100 10d16+48 punch
+0 0 0 0 0
+A
+6 6 6 6
+DFKW 0 CF 0
+stand stand female 25
+0 0 medium 'flesh'
+#719
+tanned tall Rhenus man~
+Master {yR{Yhenu{ys{x~
+A tanned, {yb{Ylond{ye{x man is sitting here, playing cards with his companions.
+~
+This man is tall and tanned from the sun.  He is wearing nice breeches
+and an expensive blue shirt that goes well with his dark blue eyes.  His
+seems very concentrated on his cards and the game, with eyes burning with
+competitiveness.  
+~
+altaran~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slash
+0 0 0 0 0
+A
+7 7 7 7
+FKY 0 0 0
+sit stand male 250
+0 0 medium 'flesh'
+#720
+Master Tuner man stocky~
+Master {DT{wu{Dner{x~
+A stocky man with long {Dd{wa{Drk {Dh{wa{Dir{x is here, playing cards.
+~
+This man is short and stocky, with long dark hair that goes a little
+below his shoulders.  He looks very laid back leaning against his chair
+while he plays cards and smokes his cigarette.  He is wearing dark brown
+breeches and a silk tan shirt.  
+~
+tairen~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slash
+0 0 0 0 0
+A
+7 7 7 7
+FKY 0 0 0
+sit stand male 250
+0 0 medium 'flesh'
+#721
+Master Veros~
+Master {gV{Ge{gr{Go{gs{x~
+A {gs{Gki{gn{Gn{gy{x blond man is here, craddling his cards close to him.
+~
+This man is short and skinny, looking like he needs to be feed for a
+couple days to gain some weight.  He dresses like a merchant and has two
+earrings on his left ear.  His blond hair and he has a forked beard.  
+~
+kandori~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 pierce
+0 0 0 0 0
+A
+7 7 7 7
+DFKe 0 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#722
+maid gossiping woman~
+a gossiping {Wm{wa{Wid{x~
+A gossiping {Wm{wa{Wid{x is here, giggling with her friends.
+~
+This maid has a sparkle in her eyes as she listens to the newest rumors
+and gossips.  She giggles whenever it begins to get interesting and leans
+forward to ask more question of her friends or have them guess what she
+knows.  She is wearing her maid uniform but without the apron, probably
+enjoying her break.  
+~
+altaran~
+AGSY 0 0 0
+59 49 30d30+3481 59d10+100 6d15+29 punch
+0 0 0 0 0
+A
+2 2 2 2
+FK 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#723
+Chief cook Remington chubby man~
+Chief {WC{wo{Wok{x {DRe{wm{Win{wg{Dton{x~
+A tall and chubby man wearing the {DC{wh{Wi{we{Df {WC{wo{Wok{x uniform is here, coordinating the meals.
+~
+This man is over 6 feet tall and 300 pounds, but does not look very much
+out of shape.  He has a glisten about his cheek from being so close to the
+heat of the kitchen and stoves.  He is wearing the chief cook uniform and
+hat, with his short hair wrapped by a net to make sure everything remains
+clean.  
+~
+cairhienin~
+ABT ad 0 0
+66 56 34d35+4356 66d10+100 7d13+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+DFKOW 0 0 0
+stand stand male 25
+0 0 large 'flesh'
+#724
+prospective merchant man~
+a prospective {bM{Ba{Yld{Be{bn {ym{Yer{ych{Ya{ynt{x~
+A prospective {bM{Ba{Yld{Be{bn {ym{Yer{ych{Ya{ynt{x is here, waiting for his audience with the Lord.
+~
+This man is tall and strong looking.  He has dark brown hair and a three
+day stubble and looks like he has been on the road for a while by the worn
+out look on his face.  He is wearing well-kept merchant clothes but he looks
+slightly impatient, tapping his foot on the floor while waiting for his
+audience with the Lord of Malden.  
+~
+ghealdanin~
+ABS 0 0 0
+77 67 39d39+5929 77d10+100 8d15+38 pierce
+0 0 0 0 0
+A
+4 4 4 4
+FKb 0 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#725
+assistant cook~
+a busy {Das{wsi{Ws{wta{Dnt{x {Wc{wo{Wok{x~
+A busy {Das{wsi{Ws{wta{Dnt{x {Wc{wo{Wok{x is here, following the Chief Cook's orders.
+~
+This little man runs around the kitchen like he was possessed by the Dark
+One, non stop.  He keeps following the Chief Cook's orders and executing
+them as fast as he can.  His uniform is like the Chief Cook but without the
+hat.  He too has a net wrapped around his head to keep the kitchen clean.  
+~
+cairhienin~
+AGY 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+FKRW 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#726
+dorothea nurse large~
+{yDo{Yro{Wth{Ye{ya{x, the kind {Wn{wu{Wrse{x~
+A large {yw{Yo{Wm{Ya{yn{x is here, wearing a {Wwh{wi{Wte {Wdress{x and {Wa{wp{Wron{x while tending to the injured and ill.
+~
+This woman is as kind as she is nice.  She takes care of those in need of
+her assistance and smiles at them, listening patiently to their complaints
+about pain and life.  She is wearing a clean white dress and apron, with her
+hair tied to a thick braid that goes until the middle of her back.  
+~
+altaran~
+ABQ b 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+400 400 400 400 400
+A
+6 6 6 6
+FKW 0 C 0
+stand stand female 25
+0 0 large 'flesh'
+#727
+injured guard~
+an {Wi{wn{Wjured{x guard~
+An {Wi{wn{Wjured{x guard is here, resting on a white cot while he recovers from his injury.
+~
+This man has a bandage and a splinter around his left arm, along with
+some scratches on his legs and face.  He has dark brown hair and tired brown
+eyes.  He also looks very bored, even if obediently staying on his cot and
+resting.  
+~
+altaran~
+AGY d 0 0
+79 69 40d40+6241 79d10+100 8d17+39 punch
+0 0 0 0 0
+A
+4 4 4 4
+DFKR 0 0 0
+rest stand male 15
+0 0 medium 'flesh'
+#728
+tobeas boy stable hand~
+{yTo{Yb{yeas{x, the {ws{Wt{yab{Wl{ye{x hand~
+A short youth that is the {ws{Wt{yab{Wl{ye{x hand is here, helping taking care of the horses.
+~
+This young boy is here, wearing worn clothes that are partially covered
+in hay while he tends to the horses.  He has boyish blue eyes and tanned
+skin with curly brown hair.  There is a strong smell of horse dung around
+him and on his clothes.  
+~
+cairhienin~
+AB 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+FKe 0 0 0
+stand stand male 15
+0 0 small 'flesh'
+#729
+canary bird~
+a {Wbeaut{wi{Wful {cb{Cl{cue {cc{Cana{cry{x~
+A {Wbeaut{wi{Wful {cb{Cl{cue {cc{Cana{cry{x is flying here and singing.
+~
+This beautiful blue canary flies around the garden and dives his belly on
+the cool water of the pond as he spends his day enjoying himself and taking
+care of his family.  
+~
+unique~
+AGW T 0 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+1 1 1 1
+FK 0 0 0
+stand stand male 0
+0 0 small 'feather'
+#730
+father dark man~
+a simple {bf{Bathe{br{x~
+A dark-skinned man wearing simple clothes is here, playing with the small boy.
+~
+This simple dark-skinned man is standing here, playing with his son as
+they sit on the floor of the house.  He is wearing worn clothes but he has a
+happy look on his face.  
+~
+altaran~
+ABT 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 punch
+0 0 0 0 0
+A
+5 5 5 5
+FK 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#731
+son boy~
+a {Wsk{wi{Wnny{x happy {bs{Bo{bn{x~
+A {Wsk{wi{Wnny{x happy {bb{Bo{by{x is here, playing with his father.
+~
+This boy looks underfed with his skinny body that make him look much
+younger than he truly is.  His skin is tanned from the sun and he is too
+wearing simple clothes like his father, but smiling happily.  
+~
+altaran~
+AGSY 0 0 0
+53 43 27d27+2809 53d10+100 6d9+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+FK 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#732
+Balthier peddler charming man~
+Balthier, the {yc{Yh{wa{Wr{wm{Yin{yg{x {ypeddler{x~
+A {yc{Yh{wa{Wr{wm{Yin{yg{x tanned man is here, selling his wares to the customers with a dashing smile.
+~
+This man has his tanned skin smooth and matching the light brown color of
+his eyes and curly short hair.  He is wearing merchant clothes even though
+his wares denominates him as a peddler only.  His ears are pierced with
+pearl earrings that add to his charm and all the women that approach to his
+shop are received with a charming smile.  
+~
+kandori~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FK 0 0 0
+stand stand male 4999
+0 0 medium 'flesh'
+#733
+brown white mare~
+a {ybrown{x and {Wwh{wi{Wte {Wm{ya{Wr{ye{x~
+A {ybrown{x and {Wwh{wi{Wte {Wm{ya{Wr{ye{x is here, eating hay happily.
+~
+This mare is cute and cuddly, making you want to pet her and brush her
+mane.  She is brown and white, smaller than most other mares of her type and
+with beautiful hair.  
+~
+unique~
+AZ 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+DFKY 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#734
+teleus man owner~
+Teleus, the {rw{Ri{rne {Ws{wh{Wop{x owner~
+A bald, blue-eyed man is standing behind the counter, ready to attend his customers.
+~
+This bald man has a pouch belly from probably all the wine tasting.  His
+cheeks are naturally plump and red and he is wearing clothes you would
+expect of a senior citizen and not a middle-aged man.  He has a half empty
+glass of wine on his hand and now and then sips at it while watching his
+customers.  
+~
+ghealdanin~
+AB 0 0 0
+88 78 45d46+7744 88d10+100 9d17+44 punch
+0 0 0 0 0
+A
+5 5 5 5
+CFKW 0 0 0
+stand stand male 4999
+0 0 medium 'flesh'
+#735
+patron man~
+a regular {bp{Batr{bon{x~
+A {bp{Batr{bon{x who is a regular customer of the Pub is here, enjoying his drink.
+~
+This man sits at the same table every night he comes to the pub.  He also
+orders the same drinks and winks to all the serving girls.  He is well-known
+for spending a lot of money regularly and well-treated by those who work at
+the pub.  
+~
+altaran~
+ABT 0 0 0
+99 89 50d50+9801 99d10+100 10d19+49 punch
+0 0 0 0 0
+A
+6 6 6 6
+FKN 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#736
+curvacious woman serving~
+a {rc{Rurva{rc{Rio{rus {Ws{we{Wrving{x woman~
+A {rc{Rurva{rc{Rio{rus{x woman is here, {Ws{we{Wrving{x the tables with a charismatic attitude.
+~
+Even though this woman is wearing a very plain dress, the cleavage draws
+the attention of even young boys.  With a square neckline and snug waist
+designed to enhance her curves, she walks around the tables with a nice sway
+on her hips.  
+~
+altaran~
+AGSY 0 0 0
+79 69 40d40+6241 79d10+100 8d17+39 slap
+0 0 0 0 0
+A
+4 4 4 4
+FJK 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#737
+cook skinny man~
+a {ysk{Yinn{yy{x cook~
+A {ysk{Yinn{yy{x cook is here, preparing fast meals to the customers.
+~
+This cook looks very skinny and languid.  He is wearing nice clean
+clothes but his hair is oily and poorly kept.  He has a tattoo on both arms
+of large sea fish swimming opposite directions.  
+~
+altaran~
+AB 0 0 0
+56 46 29d30+3136 56d10+100 6d12+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FK 0 0 0
+stand stand male 4999
+0 0 medium 'flesh'
+#738
+gambler man fanatic~
+a fanatic {yg{ra{ymbl{re{yr{x~
+A {yg{ra{ymbl{re{yr{x is here, spending all his money in a game of cards.
+~
+This man stares at his cards unblinkingly and judging by the large bags
+under his eyes, he hasn't gotten much sleep lately.  He has two empty mugs
+by him and another four on the floor where he is sitting.  He glances at the
+other men around the table and bites his lips nervously.  
+~
+altaran~
+ABS 0 0 0
+69 59 35d35+4761 69d10+100 7d16+34 punch
+0 0 0 0 0
+A
+3 3 3 3
+CDFK 0 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#739
+acrobatic dancer woman~
+an {Re{rn{Rt{ric{Ri{rng {rd{Rance{rr{x~
+An female {rd{Rance{rr{x wearing a very {Re{rn{Rt{ric{Ri{rng{x outfit is here, performing at the small stage in the center.
+~
+This woman is wearing a very snug and inviting outfit with small coins
+dangling on her skirt to attract the attention to her hips as they move in
+the pace of the music playing.  She is very acrobatic, performing jumps and
+leaps in the middle of the dance that draws the eyes of those watching her
+not only for her beauty but also for her show.  
+~
+saldaean~
+ABQ 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 punch
+300 300 300 300 300
+A
+3 3 3 3
+CFK 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#740
+Ureos man glass blower~
+Ureos, the {Wg{wl{Wass {Db{wl{Wo{ww{Der{x~
+A tall and {Dmu{ws{Wcu{wl{Dar{x man wearing stained clothes is here, working with {Wg{wl{Wass{x using the furnace.
+~
+This man is tall and thick with muscles.  He is wearing stained clothes
+and dripping sweat as he stays close the the furnace while using a long
+wooden stick and glass to shape into the beautiful objects he makes.  
+~
+saldaean~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 crush
+0 0 0 0 0
+A
+7 7 7 7
+CFKNOW 0 0 0
+stand stand male 4999
+0 0 medium 'flesh'
+#741
+master ghunter old man~
+Master {yG{Wh{yunter{x, the crafter~
+An old and {yb{Wa{ylding{x man is here, wearing simple {ybrown{x clothes and crafting something in a piece of wood.
+~
+~
+altaran~
+ABT d 0 0
+53 43 27d27+2809 53d10+100 6d9+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+FK 0 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#742
+woman elegant blond~
+{mT{Mh{we{Wr{we{Mz{ma{x, the shopkeeper~
+An elegant, blond {mw{Mo{Wm{Ma{mn{x is here, smiling as she shows her wares to her customers.
+~
+This woman is not only beautiful, but also very elegant.  She moves with
+enormous grace and has a charismatic smile that attracts looks to her just
+like her beauty.  She has light makeup on and her long blond hair is done
+very nicely, with ringlets falling down on her neck.  She is wearing golden
+jewelry around her neck and in her ears, which add a lot to her appearance. 
+~
+domani~
+AB 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 punch
+0 0 0 0 0
+A
+4 4 4 4
+FKa 0 0 0
+stand stand female 4999
+0 0 medium 'flesh'
+#743
+on duty guard~
+an on-duty {bg{Bu{Ya{Br{bd{x~
+An on-duty {bg{Bu{Ya{Br{bd{x is here, sitting on a stool while watching the gates from the Guard House.
+~
+This man yawns continuously as he stands here, watching the gates and
+sometimes chatting with the gateguards.  He is wearing the guard uniform and
+sitting on the wooden stool that comes with the package of his duty.  
+~
+altaran~
+ABT 0 0 0
+84 74 43d44+7056 84d10+100 9d13+42 slash
+0 0 0 0 0
+A
+5 5 5 5
+CFKNW 0 FG 0
+sit stand male 25
+0 0 medium 'flesh'
+#744
+kid bouncy~
+a {cb{Cou{cncy{x kid~
+A {cb{Cou{cncy{x kid is here, playing with his friends on the grassy field.
+~
+This kid is running around in a bouncy way with a grin on his face.  As
+his friends try to catch him, he dodges them and giggles .  His knees are
+bruised from falling and his shoes are dirty, but not as much as the rest of
+his body and clothes.  
+~
+altaran~
+ABS 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 punch
+0 0 0 0 0
+A
+3 3 3 3
+FJKY 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#745
+dreaming merchant~
+a {Wdre{Dami{Wng{x merchant~
+A {Wdre{Dami{Wng{x merchant is here, dreaming about more and more money.
+~
+This man isn't aware that he is dreaming as he wanders around his room,
+piles and piles of gold appearing and disappearing before him.  He smiles
+with a hazy look in his eyes and hugs the gold as if it was a pet.  He is
+wearing a fancy merchant outfit that he could not normally afford otherwise.
+~
+altaran~
+ABT DHJNVa 0 0
+100 90 200d100+30000 100d52+30000 20d15+60 slash
+0 0 0 0 0
+B
+7 7 7 7
+ACDEFHIJKNOVW EHJNOPac CFGZ 0
+stand stand male 250
+0 0 giant 'flesh'
+F par ABCDEFGHIJK
+#746
+Myiryan peculiar tall woman~
+Myiryan, the {Wpe{wc{Dul{wi{War{x shopkeeper~
+A very tall and {Wpe{wc{Dul{wi{War{x-looking woman is here, tending to her pets and customers.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FKW 0 0 0
+stand stand female 4999
+0 0 large 'flesh'
+#747
+squirrel~
+a {rc{Rut{re {Walb{wi{Wno{x squirrel~
+A {rc{Rut{re{x squirrel is here, with {Wsnowy{w-{Wwh{wi{Wte{x fur and {rbr{Ri{rght {rr{Re{rd{x eyes.
+~
+This squirrel is very unique with its snowy-white fur that encompasses
+his body and tail.  He looks very cuddly like a bunny rabbit until the light
+reflect against his bloody red eyes.  
+~
+cat~
+AI J 0 0
+16 6 9d10+256 16d10+100 2d8+8 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+F aff Z
+#748
+canary black~
+a {Dblack {Dc{wa{Dnary{x with {yg{Yolde{yn{x eyes~
+A {Dblack {Dc{wa{Dnary{x with {yg{Yolde{yn{x eyes is here, singing a beautiful melody.
+~
+This canary is very unique in the color of his feather and eyes.  The
+feathers are a midnight black and the eyes are a sickly yellow that stand
+out in the sun.  
+~
+song bird~
+AI 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 peck
+0 0 0 0 0
+A
+0 0 0 0
+Kc 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#749
+wild dog~
+a wild {Dblack {Dd{wo{Dg{x~
+A wild {Dblack {Dd{wo{Dg{x is here, running after the birds that land on the grass.
+~
+This dog is barking continuously as he chases off the birds and animals
+around the grassy field.  He has a collar and on it says the name "Zussy". 
+His fur is well-taken care of, but his behavior is lacking.  
+~
+dog~
+AB 0 0 0
+66 56 34d35+4356 66d10+100 7d13+33 bite
+0 0 0 0 0
+A
+3 3 3 3
+CFKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#750
+sheep~
+a {Wsn{wo{Wwy{w-{Wwh{wi{Wte{x sheep~
+A {Wsn{wo{Wwy{w-{Wwh{wi{Wte{x sheep is here, idling eating {gg{Gr{gass{x.
+~
+This sheep looks very cuddly with its snowy-white coat and soft Baaaing noise. It is of average size and idly eats grass here, sometimes walking over to a shade.
+~
+dog~
+AB 0 0 0
+76 66 39d40+5776 76d10+100 8d14+38 bite
+0 0 0 0 0
+A
+4 4 4 4
+FKb 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+F par UV
+#751
+horse~
+a {Dd{wa{Drk {Dg{Wr{Dey{x horse~
+A {Dd{wa{Drk {Dg{Wr{Dey{x horse is here, drinking water from the trough.
+~
+This horse is dark grey colored with some light gray stripes that are of
+different widths and sizes.  The horse has a curve on his back, which
+reveals his age is too old to be mounted anymore or to carry too much
+weight.  
+~
+dog~
+AB 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 bite
+0 0 0 0 0
+A
+3 3 3 3
+FKOW 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+F par UV
+#752
+mare~
+a {Wwh{wi{Wte{x, {ybrown{W-{ym{Wa{yned{x mare~
+A {Wwh{wi{Wte{x, {ybrown{W-{ym{Wa{yned{x mare is here, galloping around the fenced area.
+~
+This mare is white colored with a long and beautiful brown mane and tail.
+Different widths and sizes.  The mare has a curve on his back, which reveals
+his age is too old to be mounted anymore or to carry too much weight.  
+~
+dog~
+AB 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 bite
+0 0 0 0 0
+A
+3 3 3 3
+FKOW 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+F par UV
+#753
+Arius innkeeper man stocky~
+{WA{yrius{x, the innkeeper~
+A short, {Ws{ytocky{x man is here, standing behind the counter.
+~
+This man is short and stocky looking, but his features are very much
+Altaran.  He is wearing nice clothes, but they do not look too expensive. 
+He has a constant little frown above his forehead of worry and anxiety.  
+~
+altaran~
+ABT 0 0 0
+92 82 47d48+8464 92d10+100 10d12+46 punch
+0 0 0 0 0
+A
+6 6 6 6
+FJKY 0 0 0
+stand stand male 250
+0 0 medium 'flesh'
+#754
+bartender man tall unusual~
+Demien, the unusually tall {bb{Ba{wr{Dt{we{Bnd{ber{x~
+An unusually tall {bb{Ba{wr{Dt{we{Bnd{ber{x is here, standing behind the counter.
+~
+This man is taller than most around the city, but he moves with
+unexpected grace, making the height look flowing in him.  He is wearing a
+white shirt with a bowtie and black pants, with a small rag constantly on
+his hand while he keeps the counter clean.  
+~
+altaran~
+ABT 0 0 0
+92 82 47d48+8464 92d10+100 10d12+46 punch
+0 0 0 0 0
+A
+6 6 6 6
+FJKY 0 0 0
+stand stand male 250
+0 0 large 'flesh'
+#755
+cook John chubby man~
+John, the {Dc{wh{Wub{wb{Dy{x cook~
+A {Dc{wh{Wub{wb{Dy{x cook is here, preparing the meals for the customers.
+~
+This man has pudgy cheeks that makes anyone wish to tweak them like
+grandma would.  They are naturally reddish and always with a thin layer of
+sweat on them as well as around his face and neck.  This man is wearing a
+cook's outfit and he seems busy running around coordinating the meals 
+~
+altaran~
+ABT 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 punch
+0 0 0 0 0
+A
+6 6 6 6
+FJKY 0 0 0
+stand stand male 25
+0 0 large 'flesh'
+#756
+wary traveler~
+a wary {ct{Cr{wa{Wv{we{Cl{cer{x~
+A wary {ct{Cr{wa{Wv{we{Cl{cer{x is here, sitting at a table.
+~
+This man looks wary all his directions, as if expecting something to
+happen or running from someone.  He has tired, red-shot eyes and his hair is
+untidy.  He is wearing traveling clothes and has a large case by the empty
+chair on his side.  
+~
+altaran~
+ABS 0 0 0
+97 87 49d49+9409 97d10+100 10d17+48 punch
+0 0 0 0 0
+A
+6 6 6 6
+DFKNW 0 0 0
+sit stand male 25
+0 0 medium 'unknown'
+#757
+giggly maid woman~
+a giggly {Dm{Wa{Di{Wd{x~
+A {Dm{Wa{Di{Wd{x is here, giggling as she eavesdrops on conversations.
+~
+This maid is wearing a dark grey dress with a white apron that is kept
+clean and stainless.  She has her hair up in a bun and wears no jewelry. 
+While she serves tables and runs tasks, she is often leaning closer than she
+should to overhear the customers' talks.  
+~
+altaran~
+AGSY 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 punch
+0 0 0 0 0
+A
+6 6 6 6
+CFKNW 0 0 0
+sit stand female 15
+0 0 medium 'unknown'
+#758
+busy maid~
+a busy {Dm{Wa{Di{Wd{x~
+A busy {Dm{Wa{Di{Wd{x is here, walking in a fast pace as she keeps the place tidy.
+~
+This maid has a small frown on her face as she walks in a steady, almost
+fast pace around the Inn, going from the hallways to the bedrooms and to the
+kitchen while doing her tasks.  Her hair is held in a bun and she is wearing
+a light grey dress with a white well-kept apron.  
+~
+altaran~
+AGSY 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 scratch
+0 0 0 0 0
+A
+6 6 6 6
+CFKNW 0 0 0
+sit stand female 15
+0 0 medium 'unknown'
+#759
+farmer McKinney well built man~
+Farmer {rM{Rc{YKin{Rn{rey{x~
+A {rf{Ra{Yrm{Re{rr{x is here, taking a lunch break before returning to his work.
+~
+This man looks like your average farmer, wearing faded and stained
+clothes with a large hat to keep the sun from burning his face.  His neck is
+red from sun exposure and his arms are much more tanned than his chest or
+face.  He looks friendly even if he is missing a couple teeth when he
+smiles.  
+~
+altaran~
+AB 0 0 0
+94 84 48d49+8836 94d10+100 10d14+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+FHJKY 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#760
+farmer huge McRelland~
+Farmer {bM{Bc{wR{Wel{wl{Ban{bd{x~
+A {bf{Ba{wr{Wm{Be{br{x is here, resting on his arm-chair before returning to work.
+~
+This man looks like your average farmer, wearing faded and stained
+clothes with a large hat to keep the sun from burning his face.  His neck is
+red from sun exposure and his arms are much more tanned than his chest or
+face.  He looks friendly even if he is missing a couple teeth when he
+smiles.  
+~
+altaran~
+ABT 0 0 0
+94 84 48d49+8836 94d10+100 10d14+47 punch
+0 0 0 0 0
+A
+6 6 6 6
+FHJKY 0 0 0
+stand stand male 15
+0 0 huge 'flesh'
+#0
+
+
+
+#OBJECTS
+#700
+stuffed loveseat~
+a {rs{Rca{rrl{Re{rt{R-{rc{Rol{ror{Re{rd{x velvet {rlo{Rv{We{Rse{rat{x~
+An expensive, {rs{Rca{rrl{Re{rt{R-{rc{Rol{ror{Re{rd{x velvet {rlo{Rv{We{Rse{rat{x is here, for customers to enjoy.~
+cloth~
+furniture 0 0
+3 0 EHK 145 145
+0 0 0 100
+#701
+tulip~
+a {rr{Re{rd {rt{Ru{rl{Ri{rp{x {wb{Wouq{wu{We{wt{x~
+A {rr{Re{rd {rt{Ru{rl{Ri{rp{x {wb{Wouq{wu{We{wt{x has been left here.~
+cloth~
+trash 0 AH
+0 0 0 0 0
+0 3 500 100
+#702
+alarm gong~
+an {ya{Yl{yarm{x gong~
+An {ya{Yl{yarm{x gong is here, ready to be sounded in case of trouble.~
+tin~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#703
+diamond silver necklace~
+a sparkling {Ds{Wi{Dl{Wv{De{Wr{x {Dne{wc{Wkl{wa{Dce{x with a large {Wd{wi{Wamond{x~
+A sparkling {Ds{Wi{Dl{Wv{De{Wr{x {Dne{wc{Wkl{wa{Dce{x with a large {Wd{wi{Wamond{x has been left here.~
+silver~
+jewelry 0 AC
+0 0 0 0 0
+0 10 7500 100
+#704
+emerald ring~
+a thick {yg{Yo{yld{Ye{yn {yr{Yi{yng{x with {Gt{ghree {Ge{gm{Ge{gr{Ga{gl{Gd{gs{x~
+A thick {yg{Yo{yld{Ye{yn {yr{Yi{yng{x with {Gt{ghree {Ge{gm{Ge{gr{Ga{gl{Gd{gs{x has been left here.~
+cloth~
+jewelry 0 AB
+0 0 0 0 0
+0 3 6000 100
+#705
+earring emerald~
+a thick {yg{Yo{yld{Ye{yn {yh{Yoo{yp{x with {Gt{ghree {Ge{gm{Ge{gr{Ga{gl{Gd{gs{x~
+A thick {yg{Yo{yld{Ye{yn {yh{Yoo{yp{x with {Gt{ghree {Ge{gm{Ge{gr{Ga{gl{Gd{gs{x has been left here~
+cloth~
+jewelry 0 AU
+0 0 0 0 0
+0 5 6500 100
+#706
+golden necklace sapphire~
+a thin {yg{Yo{yl{Yde{yn {yn{Yec{yk{Yla{yce{x with a {Bl{ba{Brg{be {Bs{bap{Bphi{bre{x~
+A thin {yg{Yo{yl{Yde{yn {yn{Yec{yk{Yla{yce{x with a {Bl{ba{Brg{be {Bs{bap{Bphi{bre{x has been left here.~
+gold~
+jewelry 0 AC
+0 0 0 0 0
+0 11 8000 100
+#707
+bouquet roses~
+{rr{Re{rd {rr{Ro{rs{Re{rs{x {wb{Wouq{wu{We{wt{x~
+A {rr{Re{rd {rr{Ro{rs{Re{rs{x {wb{Wouq{wu{We{wt{x has been left here.~
+cloth~
+trash 0 AH
+0 0 0 0 0
+0 5 450 100
+#708
+white roses bouquet~
+{Wwh{wi{Wte {wr{Wo{ws{We{ws{x {Wbou{wq{Wuet{x~
+A {Wwh{wi{Wte {wr{Wo{ws{We{ws{x {Wbou{wq{Wuet{x has been left here.~
+cloth~
+trash 0 AH
+0 0 0 0 0
+0 11 450 100
+#709
+colorful daisies bouquet~
+a {wb{Wou{wq{Wuet{x of {mc{Mo{Rl{ro{Wr{Bf{bu{Gl {gd{Ga{ri{Rs{yi{Ye{ys{x~
+A {wb{Wou{wq{Wuet{x of {mc{Mo{Rl{ro{Wr{Bf{bu{Gl {gd{Ga{ri{Rs{yi{Ye{ys{x has been left here.~
+cloth~
+trash 0 AH
+0 0 0 0 0
+0 11 200 100
+#710
+conference table~
+an elegant mahogany table~
+An elegant {Rm{ra{Rho{rga{Rn{ry{x {Rc{ron{Rf{reren{Rc{re{x table stands here in the middle of the room.~
+wood~
+furniture 0 0
+6 0 EN 100 100
+0 100 0 100
+#711
+overstuffed chair~
+an overstuffed {Rl{rea{Rt{rh{Re{rr{x chair~
+An overstuffed {Rl{rea{Rt{rh{Re{rr{x chair is here, pushed up to the conference table.~
+leather~
+furniture 0 0
+6 0 EH 100 100
+0 0 100 100
+#712
+gaming table~
+a {yg{ra{ymi{rn{yg{x table~
+A round {yg{ra{ymi{rn{yg{x table is here, with cards spread on it.~
+cloth~
+furniture 0 0
+0 0 0 0 0
+0 0 0 100
+#713
+comfortable wooden chair~
+a {Wcom{wf{Wortable {yw{ro{yod{re{yn{x arm-chair~
+Six {Wcom{wf{Wortable {yw{ro{yod{re{yn{x arm-chairs are here, around the gaming table.~
+cloth~
+furniture 0 0
+6 0 EH 122 122
+0 0 0 100
+#714
+wooden cabinet~
+{yw{ro{yod{re{yn{x {ycab{Yi{ynet{x~
+A wide {yw{ro{yod{re{yn{x {ycab{Yi{ynet{x is here, resting against the wall.~
+wood~
+container 0 0
+5000 AC 0 0 0
+0 0 0 100
+#715
+chewing tobacco~
+{Wfl{wa{Wvo{wrful {ychew{Yi{yng {yt{Yo{yba{Yc{yco{x~
+A small bag of {Wfl{wa{Wvo{wrful {ychew{Yi{yng {yt{Yo{yba{Yc{yco{x is here, on the cabinet shelf.~
+tobacco~
+potion 0 A
+75 'refresh' 'refresh' 'refresh' ''
+0 3 1000 100
+#716
+marble mahogany dinning table~
+a mahogany dinning table with white black marble top~
+A {Rma{rh{Ro{rga{Rn{ry{x dinning table with {Dblack {Dm{wa{Drble {Dt{wo{Dp{x is here, with fourteen arm-chairs around it.~
+cloth~
+furniture 0 0
+0 0 0 0 0
+0 10000 16000 100
+#717
+chair arm-chair~
+a tall {Rma{rh{Ro{rga{Rn{ry{x arm-chair with inlaid {Wp{wo{Dlis{wh{Wed{x {Dblack {Dm{wa{Drble{x~
+Fourteen tall {Rma{rh{Ro{rga{Rn{ry{x arm-chairs with inlaid {Wp{wo{Dlis{wh{Wed{x {Dblack {Dm{wa{Drble{x are here, pushed against the dinning table.~
+marble wood~
+furniture 0 0
+14 0 EH 170 170
+0 4000 10000 100
+#718
+bunk bed maids~
+a bunk bed with plain {Wwh{wi{Wte {Ws{wh{We{we{Wts{x~
+Two sets of {Db{wu{Dnk{x {Wb{we{Wds{x are here, bolted to perpendicular walls.~
+cloth~
+furniture 0 0
+4 0 EH 100 100
+0 0 0 100
+#719
+sink~
+a polished {Wwh{wi{Wte {Wm{wa{Dr{wb{Wle {Ws{wi{Wnk{x~
+A wide {Wwh{wi{Wte {Wm{wa{Dr{wb{Wle {Ws{wi{Wnk{x is here, standing against the wall.~
+metal~
+container 0 0
+10000 I 0 1000 10
+0 8000 8000 100
+#720
+glass wine~
+a half-full {rr{Re{rd {rw{Ri{rne{x glass~
+A half-full {rr{Re{rd {rw{Ri{rne{x glass is here in the sink, waiting to be washed.~
+glass~
+drink 0 A
+10 10 'red wine' 0 0
+0 7 10 100
+#721
+ice box~
+an {ci{Cc{ce {Dm{we{Dtal {Db{wo{Dx{x~
+A tall {ci{Cc{ce {Dm{we{Dtal {Db{wo{Dx{x standing by the kitchen sink.~
+cloth~
+container 0 0
+20000 ACI 0 2000 10
+0 0 0 100
+#722
+bottle red wine~
+a {cc{Chi{cl{Cl{ced{x bottle of aged {Rr{re{Rd {rw{Ri{rne{x~
+A {cc{Chi{cl{Cl{ced{x bottle of aged {Rr{re{Rd {rw{Ri{rne{x has been left here.~
+glass~
+drink 0 AH
+60 60 'red wine' 0 0
+0 18 100 100
+#723
+chilled brandy bottle~
+a {cc{Chi{cl{Cl{ced{x bottle of {yb{Yr{yandy{x~
+A {cc{Chi{cl{Cl{ced{x bottle of {yb{Yr{yandy{x has been left here.~
+glass~
+drink 0 AH
+40 40 'brandy' 0 0
+0 14 88 100
+#724
+raw steak package~
+a {cc{Chi{cl{Cl{ced{x package of {Rr{ra{Rw {rs{Rt{ye{ra{Rk{rs{x~
+A {cc{Chi{cl{Cl{ced{x package of {Rr{ra{Rw {rs{Rt{ye{ra{Rk{rs{x has been left here~
+meat~
+food 0 A
+60 60 0 0 0
+0 60 400 100
+#725
+cheese~
+a {Wth{wi{Wck{x block of {yc{Yh{ye{Yes{ye{x~
+A {Wth{wi{Wck{x block of {yc{Yh{ye{Yes{ye{x has been left here~
+cheese~
+food 0 A
+44 44 0 0 0
+0 55 120 100
+#726
+bowl metal~
+a large {Dmetal {Db{wo{Dwl{x~
+A large {Dmetal {Db{wo{Dwl{x filled with a variety of {Bf{Rr{ru{Gi{gt{Ys{x is here, on the center of the dinning table.~
+metal~
+container 0 A
+44 I 0 1000 100
+0 40 8 100
+#727
+strawberry~
+a {Wdel{wi{Wc{wi{Wous{x-looking {Rst{rr{Ra{rwb{Rer{rr{Ry{x~
+A {Wdel{wi{Wc{wi{Wous{x-looking {Rst{rr{Ra{rwb{Rer{rr{Ry{x has been left here~
+fruit~
+food 0 A
+5 5 0 0 0
+0 0 0 100
+#728
+pineapple~
+a large {Wp{wi{Wece{x of {yp{Yin{ye{Yap{yp{Yle{x~
+A large {Wp{wi{Wece{x of {yp{Yin{ye{Yap{yp{Yle{x has been left here~
+fruit~
+food 0 A
+5 5 0 0 0
+0 7 8 100
+#729
+cherry~
+a {Rd{ra{Rr{rk-r{Re{rd {rc{Rh{rer{Rr{ry{x~
+A {Rd{ra{Rr{rk-r{Re{rd {rc{Rh{rer{Rr{ry{x has been left here.~
+fruit~
+food 0 A
+5 5 0 0 0
+0 9 10 100
+#730
+grape~
+a bunch of {Mg{mr{Ma{mpes{x~
+A bunch of {Mg{mr{Ma{mpes{x has been left here.~
+fruit~
+food 0 A
+5 5 0 0 0
+0 9 10 100
+#731
+whipped cream~
+a bowl of {Wfresh {Ww{wh{Wipped {Wc{wr{Weam{x~
+A bowl of {Wfresh {Ww{wh{Wipped {Wc{wr{Weam{x has been left here.~
+cloth~
+food 0 A
+10 10 0 0 0
+0 16 30 100
+#732
+glass champagne~
+a {Wc{wry{Ws{wt{Wal{x glass of {Wsparkl{wi{Wng{x {yc{Yha{ymp{Ya{ygne{x~
+A {Wc{wry{Ws{wt{Wal{x glass of {Wsparkl{wi{Wng{x {yc{Yha{ymp{Ya{ygne{x has been left here.~
+glass~
+drink 0 A
+12 12 'champagne' 0 0
+0 9 40 100
+#733
+red wine barrel~
+a large {Rr{re{Rd {rw{Ri{rne{x {yb{Ya{yrrel{x~
+A large {Rr{re{Rd {rw{Ri{rne{x {yb{Ya{yrrel{x is here, with a thick layer of dust around it.~
+wood~
+fountain 0 0
+-1 -1 'red wine' 0 0
+0 8000 10000 100
+#734
+white wine barrel~
+a large {Wwh{wi{Wte {Ww{wi{Wne{x {yb{Ya{yrrel{x~
+A large {Wwh{wi{Wte {Ww{wi{Wne{x {yb{Ya{yrrel{x is here, with a thick layer of dust around it.~
+cloth~
+fountain 0 0
+-1 -1 'white wine' 0 0
+0 8000 10000 100
+#735
+rum barrel~
+a large {yrum {yb{Ya{yrrel{x~
+A large {yrum {yb{Ya{yrrel{x is here, with a thick layer of dust around it.~
+rum wood~
+fountain 0 0
+-1 -1 'rum' 0 0
+0 8000 10000 100
+#736
+imperial desk~
+an imperial mahogany desk~
+An imperial {rm{Ra{rho{Rg{rany{x desk with {Dblack {Dma{wr{Dble {Dt{wo{Dp{x is here, with stacks of papers neatly arranged on it.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 10000 13000 100
+#737
+tall chair arm-chair leather~
+a tall {Dleather {Da{wr{Dm{w-{Dcha{wi{Dr{x~
+A tall {Dleather {Da{wr{Dm{w-{Dcha{wi{Dr{x is here, pushed behind the mahogany desk.~
+wood~
+furniture 0 0
+1 0 EH 180 180
+0 22 1000 100
+#738
+velvet stuffed chair~
+a {Dblack {Dv{we{Dlvet{x stuffed {Dcha{wi{Dr{x~
+Two {Dblack {Dv{we{Dlvet{x stuffed {Dcha{wi{Drs{x are here, standing before the mahogany desk.~
+velvet~
+furniture 0 0
+2 0 EH 110 110
+0 11 0 100
+#739
+drink cabinet~
+a {rm{Rah{roga{Rn{ry{x {Wd{wr{Di{wn{Wk {rcab{Ri{rnet{x~
+A {rm{Rah{roga{Rn{ry{x {Wd{wr{Di{wn{Wk {rcab{Ri{rnet{x is standing against the corner with empty glasses set on top of it on a tray.~
+wood~
+container 0 0
+400 ACI 0 100 100
+0 400 100 100
+#740
+bottle firebreather~
+a bottle of {rfi{Rre{Ybr{yea{Rth{rer{x~
+A bottle of {rfi{Rre{Ybr{yea{Rth{rer{x has been left here~
+glass~
+drink 0 A
+20 20 'firebreather' 0 0
+50 10 100 100
+#741
+whisky bottle~
+a bottle of {yAlt{Ya{yran {ywh{Yi{ysky{x~
+A bottle of {yAlt{Ya{yran {ywh{Yi{ysky{x has been left here~
+glass~
+drink 0 A
+20 20 'whisky' 0 0
+50 13 11 100
+#742
+bottle abisinthe~
+a bottle of {ma{Mb{msin{Mt{mhe{x~
+A bottle of {ma{Mb{msin{Mt{mhe{x has been left here.~
+cloth~
+drink 0 A
+20 20 'absinthe' 0 0
+0 14 100 100
+#743
+drawer~
+a wide {rma{Rh{roga{Rn{ry{x drawer~
+A wide {rma{Rh{roga{Rn{ry{x drawer is here, closed on the desk.~
+cloth~
+container a 0
+5000 AC 0 100 100
+0 0 0 100
+#744
+silver sparkling key~
+a {Wsparkl{wi{Wng {Ds{Wi{Dl{Wv{De{Wr{Dy{x key~
+A {Wsparkl{wi{Wng {Ds{Wi{Dl{Wv{De{Wr{Dy{x key has been left here.~
+silver~
+key 0 A
+0 0 0 0 0
+90 5 5 100
+#745
+silver gold inlaid key~
+a {Ds{Wi{Dl{Wv{De{Wr{x and {yg{Yo{yld{x inlaid key~
+A {Ds{Wi{Dl{Wv{De{Wr{x and {yg{Yo{yld{x inlaid key has been left here.~
+gold silver~
+key 0 A
+0 0 0 0 0
+90 8 8 100
+#746
+drawer~
+night stand drawer~
+A night stand drawer is here.~
+wood~
+container a 0
+100 ACI 0 100 100
+0 9 10 100
+#747
+copper key~
+a large {rc{Ro{ypp{Re{rr{x key~
+A large {rc{Ro{ypp{Re{rr{x key has been left here.~
+cloth~
+key 0 A
+0 0 0 0 0
+0 5 10 100
+#748
+tub ~
+a large {Dm{wa{Drble {Dt{wu{Db{x with hot {Wb{wu{Wbbly {cw{Ca{cter{x~
+A large and round {Dm{wa{Drble {Dt{wu{Db{x is here, recessed into the {Wwh{wi{Wte {Wm{wa{Wrble{x floor.~
+marble~
+furniture 0 0
+4 0 FI 200 200
+0 0 0 100
+#749
+glass cabinet~
+a {Wg{wl{Wass{x cabinet with {Wv{wi{Wnes {We{wt{Wched{x on it~
+A {Wg{wl{Wass{x cabinet with {Wv{wi{Wnes {We{wt{Wched{x on it is here, standing against the wall.~
+glass~
+container 0 0
+1000 AC 0 100 100
+0 1000 1000 100
+#750
+towel~
+a {Wl{wi{Wght {bb{Blu{be {bt{Bo{bw{Be{bl{x with an {bM{x embroidered on it~
+A {Wl{wi{Wght {bb{Blu{be {bt{Bo{bw{Be{bl{x with an {bM{x embroidered on it has been left here.~
+cloth~
+armor 0 AD
+10 10 10 10 0
+90 11 11 100
+A
+13 100
+A
+18 5
+#751
+rose bath oil~
+{mr{Mo{mse{M-{msc{Men{mt{Me{md{x {Wbath {Wo{wi{Wl{x~
+A {mr{Mo{mse{M-{msc{Men{mt{Me{md{x {Wbath {Wo{wi{Wl{x has been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 8 100 100
+#752
+lilac body cream~
+a {ml{Mi{mlac{M-{mscen{Mt{med {Wbody {Wc{wr{Weam{x~
+A {ml{Mi{mlac{M-{mscen{Mt{med {Wbody {Wc{wr{Weam{x has been left here.~
+cream~
+trash 0 A
+0 0 0 0 0
+0 10 200 100
+#753
+bathtub~
+a large {Wporcela{wi{Wn {Wb{wa{Wtht{wu{Wb{x with {ch{Co{ct {cw{Ca{ct{Ce{cr{x~
+A large and expensive {Wporcela{wi{Wn {Wb{wa{Wtht{wu{Wb{x is here, standing in the middle of the room.~
+cloth~
+furniture 0 0
+2 0 FI 100 100
+0 1000 1000 100
+#754
+king bed~
+a {Wk{wi{Wng{w-{Ws{wi{Wzed {rm{Ra{rho{Rg{rany{x bed with {Bb{bl{Bue {bs{Bi{blk {Bs{bh{Be{bets{x~
+A {Wk{wi{Wng{w-{Ws{wi{Wzed {rm{Ra{rho{Rg{rany{x bed is here, with translucent {bl{Bigh{bt {bb{Blu{be {bd{Bra{bpes{x hanging from its four posters.~
+wood~
+furniture 0 0
+4 0 EHK 150 150
+0 8000 8000 100
+#755
+drape~
+translucent {bl{Bigh{bt {bb{Blu{be {bd{Bra{bpes{x~
+Translucent {bl{Bigh{bt {bb{Blu{be {bd{Bra{bpes{x hanging from the four posters on the bed.~
+cloth~
+container a 0
+0 A 0 0 0
+0 7 7 100
+#756
+bed queen~
+a queen-sized {yo{Ya{yk {Wb{we{Wd{x with a beautiful {bb{Blu{be {bc{Bov{be{Brl{bet{x inlaid in {yg{Yol{yd{x~
+A queen-sized {yo{Ya{yk {Wb{we{Wd{x with a beautiful {bb{Blu{be {bc{Bov{be{Brl{bet{x inlaid in {yg{Yol{yd{x is here against a wall.~
+cloth~
+furniture 0 0
+3 0 EHK 100 100
+0 7000 7000 100
+#757
+bed queen oak~
+a queen-sized {yo{Ya{yk {Wb{we{Wd{x with a beautiful {rr{Re{rd {rc{Rov{re{Rrl{ret{x inlaid in {yg{Yol{yd{x~
+A queen-sized {yo{Ya{yk {Wb{we{Wd{x with a beautiful {rr{Re{rd {rc{Rov{re{Rrl{ret{x inlaid in {yg{Yol{yd{x is here against a wall.~
+cloth~
+furniture 0 0
+3 0 EHK 100 100
+0 7000 7000 100
+#758
+bench iron~
+a {Dw{wr{Dou{wg{Dh{wt{W-{wi{Dro{wn{x bench with inlaid {Wm{wa{Wrble{x~
+A {Dw{wr{Dou{wg{Dh{wt{W-{wi{Dro{wn{x bench with inlaid {Wm{wa{Wrble{x is here, overlooking the small pond in the garden.~
+iron~
+furniture 0 0
+4 0 EH 110 110
+0 1000 0 100
+#759
+peach tree~
+a tall {yp{Yeac{yh{x {gt{Gr{gee{x~
+A tall {gt{Gr{gee{x is here with {yr{Yi{ype {yp{Yeac{yhes{x on its branches.~
+wood~
+container 0 0
+0 I 0 100 100
+0 100 5 100
+#760
+ripe peach~
+a {Wdel{wi{Wc{wi{Wous {yr{Yi{ype {yp{Yeac{yh{x~
+A {Wdel{wi{Wc{wi{Wous {yr{Yi{ype {yp{Yeac{yh{x has been left to rot on the ground.~
+fruit~
+food 0 A
+33 33 0 0 0
+30 11 11 100
+#761
+apple tree~
+a full {ra{Rppl{re {gt{Gr{gee{x~
+A {gt{Gr{gee{x is here with {rr{Ri{rpe {ra{Rppl{res{x on its branches.~
+cloth~
+container 0 0
+0 I 0 100 100
+0 1000 11 100
+#762
+apple ripe~
+a {wl{Wa{wrge {rr{Ri{rpe {ra{Rppl{re{x~
+A {wl{Wa{wrge {rr{Ri{rpe {ra{Rppl{re{x has been left to rot on the ground.~
+fruit~
+food 0 A
+11 11 0 0 0
+10 5 6 100
+#763
+sliding tube~
+a thick {Dsl{wi{Dd{wi{Dng{x {Wt{wu{Db{We{x with {cr{Cun{cn{Ci{cng {cw{Ca{cter{x~
+A thick {Dsl{wi{Dd{wi{Dng{x {Wt{wu{Db{We{x with {cr{Cun{cn{Ci{cng {cw{Ca{cter{x is here, leading down towards the cistern.~
+cloth~
+portal 0 0
+0 0 0 754 0
+0 10000 10000 100
+#764
+cedar bed queen~
+a large {Yc{ye{rd{ya{Yr{x bed with a {yy{Yello{yw{x and {bb{Blu{be {bq{Bu{Yi{Bl{bt{x~
+A large {Yc{ye{rd{ya{Yr{x bed with a {yy{Yello{yw{x and {bb{Blu{be {bq{Bu{Yi{Bl{bt{x is here, standing against a wall.~
+cloth~
+furniture 0 0
+2 0 EHK 100 100
+0 1000 1000 100
+#765
+queen bed canopy~
+a {Wq{wu{Ween{w-{Ws{wi{Wzed{w {yfour{Y-{ypo{Ys{yter{x bed with expensive {rr{Re{rd{R-{rs{Ri{rlk {rc{Rov{re{Rrl{ret{x~
+A {Wq{wu{Ween{w-{Ws{wi{Wzed{w {yfour{Y-{ypo{Ys{yter{x bed with beautiful {yw{Yo{yoden {yetch{Yi{yngs{x on its posts is here against a wall.~
+cloth~
+furniture 0 0
+4 0 EHK 150 150
+0 1000 8000 100
+#766
+queen bed canopy~
+a large {wc{Wano{wp{Wy{x bed with {bb{Blu{be{B-{bs{Bi{blk {bc{Bov{be{Brl{bet{x~
+A large {wc{Wano{wp{Wy{x bed with {bb{Blu{be{B-{bs{Bi{blk {bc{Bov{be{Brl{bet{x is here standing against a wall.~
+cloth~
+furniture 0 0
+3 0 EHK 110 110
+0 1000 1000 100
+#767
+white cot~
+a {Wwh{wi{Wte{x cot~
+Three rows of {Wwh{wi{Wte{x cots are here against the walls.~
+cloth~
+furniture 0 0
+6 0 EH 100 100
+0 100 88 100
+#768
+rusty iron key~
+a {Dr{yus{Dty {Diron{x key~
+A {Dr{yus{Dty {Diron{x key has been left here.~
+cloth~
+key 0 A
+0 0 0 0 0
+80 8 8 100
+#769
+rusty bucket empty~
+an empty {Dr{yust{Dy {Db{wu{Wc{wke{Dt{x~
+An empty {Dr{yust{Dy {Db{wu{Wc{wke{Dt{x is here against the corner.~
+iron~
+trash 0 A
+0 0 0 0 0
+11 20 9 100
+#770
+tattered mat~
+a {wt{Wa{ytte{Wr{wed {Wmat{x~
+A {wt{Wa{ytte{Wr{wed {Wmat{x is here, resting on the floor to serve as a bed.~
+cloth~
+furniture 0 0
+1 0 EHK 100 100
+0 11 11 100
+#771
+hay pile~
+a {Wp{wi{Wle{x of {yh{Ya{yy{x~
+A large {Wp{wi{Wle{x of {yh{Ya{yy{x is here.~
+cloth~
+furniture 0 0
+3 0 EHK 100 100
+0 0 0 100
+#772
+old paintings~
+stacked old paintings~
+A pile of stacked {Dold {ypa{Yi{ynt{Yi{yngs{x from the former Lord of {bM{Ba{Yld{Be{bn{x~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#773
+empty boxes~
+{Ddusty{x, empty {ybox{x~
+Many {Ddusty{x {yboxes{x are here, of different sizes and depths, filled with old junk.~
+cloth~
+container 0 0
+0 ACI 0 100 100
+0 0 0 100
+#774
+ragged doll~
+old {Wragged {Ddoll{x~
+A old {Wragged {Ddoll{x has been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 3 0 100
+#775
+polished wooden bench~
+a {Wpol{wi{Wshed {ywooden{x bench with {yl{Ye{yopa{Yr{yds{x etched on it~
+A {Wpol{wi{Wshed {ywooden{x bench with {yl{Ye{yopa{Yr{yds{x etched on it is here, overlooking the city.~
+cloth~
+furniture 0 0
+3 0 EH 100 100
+0 11 111 100
+#776
+stuffed chair~
+a {bs{Btu{bf{Bfe{bd {bb{Blu{be{x chair~
+A study {yo{Ya{yk {Wd{we{Wsk{x is here, with a {bs{Btu{bf{Bfe{bd {bb{Blu{be{x chair up to it.~
+wood~
+furniture 0 0
+1 0 EH 100 100
+0 16 11 100
+#777
+privacy screen~
+a {bl{Bigh{bt b{Blu{be {bch{Ba{bng{Bin{bg{x screen~
+A {bl{Bigh{bt b{Blu{be {bch{Ba{bng{Bin{bg{x {Ws{wc{Wreen{x is here by the wardrobe, for changing clothes.~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 9 8 100
+#778
+vanity dressing table chair~
+a {bl{Bigh{bt b{Blu{be {bs{Btu{bf{Bf{bed {Wcha{wi{Wr{x~
+A {rm{Ra{rho{Rg{rany{x {rvan{Ri{rty{x dressing table with a large round {Wm{wi{Wrror{x and a {bl{Bigh{bt b{Blu{be {bs{Btu{bf{Bf{bed {Wcha{wi{Wr{x pushed up to it.~
+cloth~
+furniture 0 0
+1 0 EH 100 100
+0 1000 4000 100
+#779
+changing screen~
+a {Rr{re{Rd{x and {Wwh{wi{Wte{x changing {rs{Rc{rre{Re{rn{x~
+A {Rr{re{Rd{x and {Wwh{wi{Wte{x changing {rs{Rc{rre{Re{rn{x is here by the wardrobe to offer the guest some privacy.~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 11 110 100
+#780
+study desk chair~
+a {bs{Btu{bf{Bfe{bd {bb{Blu{be {bs{Bto{bol{x~
+A large {yo{Ya{yk {Ws{wt{Wud{wy{x desk with a beautiful {yg{Yolde{yn {yl{Ya{ymp{x on top of it and a {bs{Btu{bf{Bfe{bd {bb{Blu{be {bs{Bto{bol{x pushed up to it.~
+cloth~
+furniture 0 0
+1 0 EH 100 100
+0 11 8 100
+#781
+wardrobe oak~
+an {yo{Ya{yk {Wwar{wd{Wrobe{x with {yi{Ynl{yaid {yg{Yo{yl{Yd{yen{x doors~
+An {yo{Ya{yk {Wwar{wd{Wrobe{x with {yi{Ynl{yaid {yg{Yo{yl{Yd{yen{x doors is here, against the wall.~
+cloth~
+container 0 0
+1000 ACI 0 100 100
+0 990 889 100
+#782
+nightgown black~
+an expensively {Dbe{wa{Duti{wf{Dul {Dn{wi{Dght gown{x~
+An expensively {Dbe{wa{Duti{wf{Dul {Dn{wi{Dght gown{x has been left here~
+cloth~
+armor 0 AD
+5 8 5 0 0
+77 11 1000 100
+A
+13 10
+#783
+arm-chair chair table~
+an {ro{Rver{rstu{Rf{rfed{x {yarm{Y-{ycha{Yi{yr{x~
+A round {rma{Rh{rog{Ra{rny {rt{Ra{rble{x with a {Wg{wl{Wass{x top and four {Rc{rh{Ra{rirs{x around it is here in the middle of the room.~
+cloth~
+furniture 0 0
+4 0 EH 100 100
+0 1000 888 100
+#784
+bookshelves~
+inbuilt bookshelves~
+Beautiful {rma{Rh{rog{Ra{rny {yboo{Yk{ycases{x in-built on the walls surrounding the hexagonal library, filled with a wide variety of {Db{Wo{wo{Wk{Ds{x.~
+cloth~
+container 0 0
+0 0 0 0 0
+0 14464 1000 100
+#785
+sofa comfortable~
+a comfortable {Dblack {Dl{we{Dather{x {Ws{wo{Df{Wa{x~
+A comfortable {Dblack {Dl{we{Dather{x {Ws{wo{Df{Wa{x is here, resting against the wall.~
+leather~
+furniture 0 0
+3 0 EH 100 100
+0 8000 10000 100
+#786
+center table~
+a wide {rm{Rah{rog{Ran{ry{x center table with {Wg{wl{Wass{x {Wtop{x~
+A wide {rm{Rah{rog{Ran{ry{x center table with {Wg{wl{Wass{x {Wtop{x is here, with a {Wv{wa{Wse{x of {mr{Mo{ms{Me{ms{x in the center.~
+cloth~
+container 0 0
+1000 E 0 1000 100
+0 400 100 100
+#787
+loveseat leather~
+a comfortable {Dblack {Dl{we{Dather {Dlo{wv{Wes{we{Dat{x~
+A comfortable {Dblack {Dl{we{Dather {Dlo{wv{Wes{we{Dat{x is here, resting against a wall.~
+cloth~
+furniture 0 0
+3 0 EH 100 100
+0 1000 500 100
+#788
+piano stool~
+a stuffed {Dblack {Dle{wa{Dther{x {Ds{wt{Wo{wo{Dl{x at the {Dblack {Dg{wr{Dand {Dp{wi{Dano{x~
+A beautifully {Wpo{wl{Dis{wh{Wed {Dblack {Dg{wr{Dand {Dp{wi{Dano{x with a {Dblack {Dle{wa{Dther{x {Ds{wt{Wo{wo{Dl{x pushed up to it.~
+cloth~
+furniture 0 0
+1 0 EH 100 100
+0 8000 10000 100
+#789
+trunk large~
+a large {yw{Yo{rod{Ye{yn trunk{x~
+A large {yw{Yo{rod{Ye{yn trunk{x is here, with a padlock keeping it tightly shut.~
+cloth~
+container 0 0
+1000 ACD 790 100 100
+0 130 100 100
+#790
+simple silver key~
+a simple {Ds{Wi{Dl{Wv{De{Wr{x {Dkey{x~
+A simple {Ds{Wi{Dl{Wv{De{Wr{x {Dkey{x has been left here.~
+silver~
+key 0 A
+0 0 0 0 0
+0 5 11 100
+#791
+shelf shelves~
+a {yc{Ye{rd{Ya{yr{x {yshelf{x~
+Wide {yc{Ye{rd{Ya{yr{x {yshelves{x built on the walls of this vault.~
+cloth~
+container 0 0
+1000 EI 0 100 100
+0 50 11 100
+#792
+money gold~
+a pile of gold coins~
+A pile of gold coins has been left here.~
+gold~
+money 0 A
+0 50 0 0 0
+0 100 100 100
+#793
+sapphire earring silver~
+a {mp{Mi{mnk {Ms{map{Mp{mh{Mi{mre {Wsparkl{wi{Wng {Ds{Wi{Dl{Wv{De{Wr {Dea{wr{Wri{wn{Dg{x~
+A {mp{Mi{mnk {Ms{map{Mp{mh{Mi{mre {Wsparkl{wi{Wng {Ds{Wi{Dl{Wv{De{Wr {Dea{wr{Wri{wn{Dg{x has been left here.~
+cloth~
+jewelry 0 AU
+0 0 0 0 0
+0 3 1000 100
+#794
+medicine cabinet~
+a wooden {yme{Yd{wi{Wc{wi{Yn{ye{x {yc{Ya{ybinet{x~
+A wooden {yme{Yd{wi{Wc{wi{Yn{ye{x {yc{Ya{ybinet{x is here, standing against the wall by the nurse's desk.~
+wood~
+container 0 0
+1000 ACI 0 100 100
+0 100 100 100
+#795
+bandage~
+a clean {Wwh{wi{Wte {Wb{wa{Wndage{x~
+A clean {Wwh{wi{Wte {Wb{wa{Wndage{x has been left here.~
+cloth~
+pill 0 A
+70 'heal' 'heal' '' ''
+50 5 0 100
+#796
+pink sack powder~
+a sack of {Wc{wru{Dsh{we{Wd{x light {mp{Mi{mnk {mp{Mo{mwder{x~
+A sack of {Wc{wru{Dsh{we{Wd{x light {mp{Mi{mnk {mp{Mo{mwder{x has been left here.~
+cloth~
+potion 0 A
+80 'refresh' 'refresh' '' ''
+80 10 78 100
+#797
+herb sac dark green powder~
+a sack with {gdark green {gp{Go{Dwd{Ge{gr{x~
+A sack with {gdark green {gp{Go{Dwd{Ge{gr{x has been left here~
+cloth~
+potion 0 A
+77 'frenzy' '' '' ''
+77 16 66 100
+#798
+pigeon cage~
+a large {Dm{we{Wt{wa{Dl {Dc{wa{Dg{we{x~
+A large {Dm{we{Wt{wa{Dl {Dc{wa{Dg{we{x with three slim {Dp{ri{Dge{ro{Dns{x is here, at the hay loft corner.~
+metal~
+container 0 0
+1000 AC 0 100 100
+0 50 44 100
+#799
+pigeon~
+a {Ddark {Dg{wr{Dey {Dp{yi{Dge{yo{Dn{x~
+A {Ddark {Dg{wr{Dey {Dp{yi{Dge{yo{Dn{x is flying here.~
+bird~
+notepaper U A
+0 0 0 0 0
+40 40 100 100
+#0
+
+
+
+#ROOMS
+#700
+Malden Entrance~
+The main road leads out through the gates of the city to the west, or on
+towards the fortress to the east.  It intersects here with the north-south
+running east wall road which follows the city wall from one end of the city
+to the other.  The road is kept in good repair as are the city walls. 
+Soldiers patrol the wall overhead throughout day and night.  Their numbers
+may not be large, but they are vigilant.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 721
+D1
+~
+~
+0 0
+0 0 716
+D2
+~
+~
+0 0
+0 0 722
+D3
+~
+~
+3 3
+1 0 757
+S
+#701
+South Wall~
+The tall southern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and west, following the southern wall.  Small shops open their
+doors onto the street from the north.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 702
+D3
+~
+~
+0 0
+0 0 720
+S
+#702
+South Wall~
+The southern wall of the city towers high overhead.  Guards occasionally
+patrol along the top of the walls, keeping an eye out for trouble.  The
+paving stones are well worn, but solidly set here, providing smooth passage
+for those travelling along the stretch of road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 742
+D1
+~
+~
+0 0
+0 0 703
+D3
+~
+~
+0 0
+0 0 701
+S
+#703
+South Wall~
+The southern road follows the southern wall stretching about 400 meters
+from it's far western point to its far eastern point.  Several shops and
+houses open their doors from the northern side of the road, while the
+southern side of the road follows the wall without anything blocking it.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 866
+D1
+~
+~
+0 0
+0 0 718
+D3
+~
+~
+0 0
+0 0 702
+S
+#704
+Southeast Tower~
+The southern wall meets the eastern wall at this intersection.  The
+stones come together to form a nearly seemless corner, built together to
+form a strong protection for the city.  Two hundred meters to the north lies
+the cities cistern, a large pool of water 50 meters long by almost 100
+meters wide and several meters deep.  An aqueduct from the lake five miles
+to the east keeps the cistern full and provides running water to the cities
+population.  
+
+The guard tower rises up above the wall, providing protection for the guards
+who patrol the walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 705
+D3
+~
+~
+0 0
+0 0 717
+D4
+~
+'a {ytrap{x door'~
+3 3
+1 0 733
+S
+#705
+East Wall~
+A small side road meets up with the eastern wall road at this point,
+providing access deeper into the city itself.  The roads are all paved with
+flat stones, fitted together to make a solid surface for travel upon.  The
+eastern wall rises high overhead shading the street in the early morning
+hours.  The city cistern is down the street to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 706
+D2
+~
+~
+0 0
+0 0 704
+D3
+~
+~
+0 0
+0 0 743
+S
+#706
+East Wall~
+The road follows the eastern wall north and south.  To th enorth it
+approaches the cities cistern which is kept full by the aqueduct bringing
+water from the lake five miles to the east.  The city itself rises off to
+the west, a tangle of houses and shops mixed together in a 400 meter by 400
+meter city.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 712
+D2
+~
+~
+0 0
+0 0 705
+S
+#707
+East Wall~
+The road follows the foretresses western wall The road follows the
+fortresses wall to the north and south.  A small residential area is located
+to the west, spreading out for several blocks.  The fortress walls rise
+almost as high as the city walls themselves and are patrolled almost as
+much.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 708
+D2
+~
+~
+0 0
+0 0 711
+D3
+~
+~
+3 3
+1 0 749
+S
+#708
+Northeast Tower~
+The Northwall continues on to the east, but the Fortress wall prevents
+much more travel in that direction.  A guard tower rises overhead, spaced
+evenly with others along the wall in order to provide shelter for the guards
+who patrol the wall.  A narrow alley goes along the northern patr of the
+fortress wall, not very deep, but wide enough for deliveries to be made.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 739
+D2
+~
+~
+0 0
+0 0 707
+D3
+~
+~
+0 0
+0 0 725
+D4
+~
+'a {ytrap{x door'~
+3 3
+1 0 734
+S
+#709
+North Wall~
+The commercial district gives way to a residential district with houses
+rising up on the southern side of the street.  The road itself follows the
+northern road, but is kept clear of obstacles to allow easy transit to
+Malden's residents and guards.  The wall rises high in the air overhead, and
+the houses rise two stories up, made of stone with a slate roof.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 726
+D2
+~
+~
+3 3
+1 0 750
+D3
+~
+~
+0 0
+0 0 710
+S
+#710
+North Wall~
+The road stretches from the western wall to the fortress wall in the
+east.  It is kept swept clean and well maintained by the locals.  Each
+paving stone is perfectly smooth and fit together with the others to provide
+a flat surface to travel on.  The northern city wall rises overhead and the
+occasional guard can be heard as he walks along the top of it keeping an eye
+on things.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 709
+D2
+~
+~
+3 3
+1 0 894
+D3
+~
+~
+0 0
+0 0 727
+S
+#711
+{bM{Ba{Yld{Be{bn{B'{bs {yL{Yeo{ypar{Yd{ys{x Fountain~
+A {Wbe{wa{Dut{wi{Wful {Wfounta{wi{Wn{x was built in the middle of this intersection with
+{yl{Ye{yopa{Yr{yds{x and their {yc{Yu{ybs{x sculpted on the {Wwh{wi{Wte{x stone.  {cW{Cate{cr{x spills from the
+cubs' mouths as they cuddle against their parents.  The intersection is
+large with east leading towards the thick {Ws{wt{Do{wn{We{x walls and gates of the
+Fortress of {bM{Ba{Yld{Be{bn{x.  The road continues the other directions leading to
+different parts of town.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 707
+D1
+~
+~
+0 0
+0 0 729
+D2
+~
+~
+0 0
+0 0 712
+D3
+~
+~
+0 0
+0 0 713
+S
+#712
+By the Cistern~
+As the road continues, there it becomes more crowded with the Fortress of
+{bM{Ba{Yld{Be{bn{x approaching to north and the beautiful fountain of Malden close the
+same direction.  To east, a large artificial {Dres{we{Dr{wv{Doir{x stands tall, offering
+the city security for days before a siege would be effective.  A large
+amount of birds fly around the cistern, enjoying the {cc{Coo{cl {cw{Cat{cer{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 711
+D1
+~
+~
+0 0
+0 0 728
+D2
+~
+~
+0 0
+0 0 706
+S
+#713
+Main Road~
+The fortress to the east is significantly closer than the city gates to
+the west from this location on the main road through town.  A fountain can
+be seen in front of the fortress.  Stone buildings with slate roofs rise up
+along the main road, doorways opening out into the city.  Most of the
+buildings off of the main road appear to be shops of one sort or another.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 711
+D3
+~
+~
+0 0
+0 0 714
+S
+#714
+Main Road~
+The main road travels east and west.  It is about three hundred meters
+long and stretches between the city gates to the west and the fortress to
+the east.  The paving stones are worn completely smooth here in front of the
+Stell Gazelle Pub.  Noises come from the pub all hours of day and night as
+people gather together for a drink or just to socialize.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 863
+D1
+~
+~
+0 0
+0 0 713
+D3
+~
+~
+0 0
+0 0 715
+S
+#715
+Main Road~
+The main street through Malden runs east and west.  The gates to the city
+are off in the distance to the west, while the gates to the fortress are off
+to the east.  The road appears to be about three hundred meters long from
+the city gates to the fortress gates.  The stone buildings with slate roofs
+rise up two and three stories high to each side of the main road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 714
+D3
+~
+~
+0 0
+0 0 716
+S
+#716
+Main Road~
+The main street through Malden runs east and west.  The gates to the city
+are off in the distance to the west, while the gates to the fortress are off
+in the distance to the east.  Shops line this street offering local items
+for sale.  The paving stones are well placed and mortared in order to
+provide a smooth road for the travelers.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 867
+D1
+~
+~
+0 0
+0 0 715
+D3
+~
+~
+0 0
+0 0 700
+S
+#717
+South Wall~
+A small, simple neightborhood has grown up in this part of the town.  The
+road seperates the cities southern wall from the small homes of the
+neighborhood.  Like those in the wealthier parts of the city, the houses are
+made of stone with slate roofs, but there is an occasional cracked window or
+shutter hanging askew.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 893
+D1
+~
+~
+0 0
+0 0 704
+D3
+~
+~
+0 0
+0 0 718
+S
+#718
+South Wall~
+The tall southern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and the west, following the southern wall.  There are a few paving
+stones that have been worked loose here.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 717
+D3
+~
+~
+0 0
+0 0 703
+S
+#719
+West Wall~
+The western city wall rises high overhead, casting a shadow on the
+street.  The Twin Leapord's Inn's doors stand open, inviting guests to enter
+and enjoy the festivities in the common room.  The street is swept clean,
+free of garbage and litter.  The occasional cat prowls down the side of the
+street looking for rats.  
+ 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 722
+D1
+~
+~
+3 3
+1 0 878
+D2
+~
+~
+0 0
+0 0 723
+S
+#720
+Southwest Tower~
+The west wall meets the south wall at this point and a guard tower stands
+high overhead offering protection to the guards who patrol the top of the
+walls.  The road follows the western wall to the north for about 400 meters
+before it ends at the northern wall, and it follows the southern wall
+stretching about 400 meters to the east until it reaches the eastern wall. 
+The street is kept clean and the buildings and walls are in excellent
+repair.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 723
+D1
+~
+~
+0 0
+0 0 701
+D4
+~
+'a {ytrap{x door'~
+3 3
+1 0 736
+S
+#721
+West Wall~
+The great stone wall of the city borders the western side of the street,
+towering overhead.  Each stone of the wall is placed perfectly in line with
+the others, forming a nearly smooth surface clear to the top where the
+guards patrol.  Some small shops are built close to the wall, but in most
+places the road runs right up to the street.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 724
+D1
+~
+~
+3 3
+1 0 895
+D2
+~
+~
+0 0
+0 0 700
+S
+#722
+West Wall~
+The great stone wall of the city borders the western side of the street,
+towering overhead.  Each stone of the wall is placed perfectly in line with
+the others, forming a nearly smooth surface clear to the top where the
+guards patrol.  Some small shops are built close to the wall, but in most
+guards patrol.  The street runs right next to the wall, following it to the
+north and south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 700
+D2
+~
+~
+0 0
+0 0 719
+S
+#723
+West Wall~
+The stable doors to the Twin Leopards Inn are made of a solid wood and
+hung perfectly.  They fit into the stone walls of the stable perfectly, and
+are kept greased to avoid squeaking.  The western wall rises overhead, and
+the occasional guard on the walls above can be heard tending to his patrol. 
+The occasional guest wanders into the Inn, or leaves to tend to business
+elsewhere.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 719
+D1
+~
+~
+3 3
+1 0 891
+D2
+~
+~
+0 0
+0 0 720
+S
+#724
+Northwest Tower~
+The Northwest guard tower rises up above the all, giving the guards a
+place to shelter on the wall and keep an eye on the surrounding country (and
+the city for that matter).  The city walls are well maintained without any
+missing stones on the inside or the outside.  The road is paved with smooth
+stones, making travel relatively comfortable.  The road bends, follwing the
+western wall to the south, and following the northern wall to the east.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 727
+D2
+~
+~
+0 0
+0 0 721
+D4
+~
+'a {ytrap{x door'~
+3 3
+1 0 735
+S
+#725
+North Wall~
+The northern wall rises high overhead, bordering the northern side of the
+street.  A converted home has been turned into a frilly taylor's shop to the
+south, the pair of men who run it making quite the name for themselves in
+fashion design.  The road is kept in excellent condition, each paving stone
+laid perfectly with the others to create a smooth surface for travel.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 708
+D2
+~
+~
+3 3
+1 0 753
+D3
+~
+~
+0 0
+0 0 726
+S
+#726
+North Wall~
+The tall northern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and west, following the northern wall.  Large merchant's homes with
+their two story stone walls and slate covered roofs open their doors onto
+the street from the south.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 725
+D2
+~
+~
+3 3
+1 0 870
+D3
+~
+~
+0 0
+0 0 709
+S
+#727
+North Wall~
+The tall northern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and west, following the northern wall.  Small shops open their
+doors onto the street from the south.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 889
+D1
+~
+~
+0 0
+0 0 710
+D2
+~
+~
+3 3
+1 0 869
+D3
+~
+~
+0 0
+0 0 724
+S
+#728
+In the Cistern~
+The cities cistern is two meters deep or more by 100 meters long and 50
+meters wide.  Cool, clear water fills the cistern, providing an adequate
+water supply to city in times of drought or war.  Pipes lead from the
+aqueduct and cistern into the fortress and into the city, providing running
+water to those houses equipped for it.  
+~
+0
+0 24
+D1
+~
+~
+0 0
+0 0 754
+D3
+~
+~
+0 0
+0 0 712
+S
+#729
+Fortress of {bM{Ba{Yld{Be{bn{B's {DG{wa{Dtes{x~
+Large {Dd{wo{Duble {Di{wr{Don {Dg{wa{Dtes{x stand before the thick {Ws{wt{Do{wn{We{x walls that continue
+as far as the eye can see.  By the north and south wall of the gate, there
+are two {bf{Blag{bs{x of {bM{Ba{Yld{Be{bn{x hung against it.  The gates remain closed with
+guards before it standing in attention and inquiring strangers about their
+business.  There are large {Wt{wo{Dwe{wr{Ws{x along each side of the stone walls where
+guards are also seen, watching over the city.  
+~
+0
+0 1
+D1
+~
+'{Dd{wo{Duble i{wr{Don {Dg{wa{Dtes{x'~
+3 3
+1 0 732
+D3
+~
+~
+0 0
+0 0 711
+S
+#730
+Fortress' Service Entrance~
+The Fortress wall meets up with the city wall at this point.  A sturdy
+oaken door is here admitting the servants and deliveries for the fortress
+itself.  It has a pair of guards tending to it and it appears to be quite
+able to be barred from the inside.  The occasional guard can be heard
+overhead traversing the wall and keeping an eye on things.  
+~
+0
+AC 1
+D1
+~
+'a heavy {Dmetal{x door with a {Dp{we{Weph{wo{Dle{x'~
+3 3
+1 0 731
+D3
+~
+~
+0 0
+0 0 739
+S
+#731
+Kitchen~
+{WB{wu{Ds{Wy{x is not a word that does justice to describe the kitchen.  It buzzes
+with people and noise.  The {Yt{yile{Yd{x {yf{Yl{yoor{x has small {cp{Co{cols{x from {cw{Ca{cter{x that has
+dripped or formed around the {Dm{we{Dtal {ci{Cc{ce {Db{wo{Dx{x.  The sink is made with a {Wwh{wi{Wte
+{Wm{wa{Drb{wl{We{x and has some plates and glasses in it waiting to be washed.  The
+{Wt{wi{Wled{x walls have {yg{Wr{ye{Wa{yse{x marks and {cold water {cs{Dta{cins{x.  The assistant cooks run
+from one side to the other, between the south door to the pantry where the
+food is stored and the large brick {rs{Rt{Yo{Rv{re{x.  The maids try to keep everything
+clean while the men make a mess.  
+~
+0
+D 0
+D0
+~
+'solid {ywooden{x door'~
+3 3
+1 0 766
+D2
+~
+'{ysolid{x door'~
+3 3
+1 0 789
+D3
+~
+'a heavy {Dmetal{x door with a {Dp{we{Weph{wo{Dle{x'~
+3 3
+1 0 730
+D5
+~
+'{ytrap{x door'~
+3 3
+1 0 862
+S
+#732
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x begins in a square shape around the {Dthick
+{Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and trimmed,
+with a {Wf{wl{Wower{x bed surrounding each of the two tall {gt{Gr{gees{x that are present in
+this part of the courtyard, A simple {Wwh{wi{Wte {Ws{wt{Wone {Wp{wa{Wth{x leads west towards the
+Fortress' gates, with {Bb{bl{Bu{be {bf{Blowe{brs{x planted on each side and continues east
+towards the Manor entrance.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 755
+D1
+~
+~
+0 0
+0 0 756
+D3
+~
+'{Dd{wo{Duble i{wr{Don {Dg{wa{Dtes{x'~
+3 3
+1 0 729
+S
+#733
+Southeast Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+0 0
+D5
+~
+'a {ytrap{x door'~
+3 3
+1 0 704
+S
+#734
+Northeast Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+0 0
+D5
+~
+'a {ytrap{x door'~
+3 3
+1 0 708
+S
+#735
+Northwest Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+0 0
+D5
+~
+'a {ytrap{x door'~
+3 3
+1 0 724
+S
+#736
+Southwest Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+0 0
+D5
+~
+'a {ytrap{x door'~
+3 3
+1 0 720
+S
+#737
+Farm Yard~
+A {gg{Gr{gassy {gf{Gi{geld{x extends far into the view to all directions with a simple
+{yw{Yo{yoden{x fence surrounding the property.  A gravel path leads the way for
+{yw{Ya{yg{Yo{yn{Ys{x and {yhorses{x towards the simple house north.  There is a wide vineyard
+filled with ripe {rr{Re{rd{x and {gg{Gr{geen{x grapes to south, that is an area fenced by
+{Dw{wi{Dre{x and apart from the main farm land.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 738
+D1
+~
+~
+0 0
+0 0 758
+D2
+~
+~
+0 0
+0 0 761
+S
+#738
+Farmer's house~
+This house is simple but very spacious.  It has a small mesanine where a
+large bedroom is and the stairs are in a {Wsp{wi{Wral{x leading towards the living
+room and kitchen.  Between the kitchen and the living room there is a
+half-sized wall with a wide {Wc{wo{Dun{wt{Wer{x on top where stools are pushed up to it
+and serves the family as a nice dinning table.  There is a large {rfi{Rre{Ypl{Ra{rce{x
+to keep the house warm close to the two {yl{We{yather {ya{Wr{ym{W-{ycha{Wi{yrs{x in the living
+room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 737
+S
+#739
+A Narrow Alley~
+This alley is kept swept clean and appears to see a decent amount of
+travel.  It is just wide enough for a wagon to travel in one direction. 
+Further into the alley is the servant's entrance to the fortress, and to the
+west, the alley meets the street.  The northern wall rises high overhead,
+and the fortress wall rises to an equivelant height.  
+~
+0
+AC 1
+D1
+~
+~
+0 0
+0 0 730
+D3
+~
+~
+0 0
+0 0 708
+S
+#740
+Farm Yard~
+A {gg{Gr{gassy {gf{Gi{geld{x extends far into the view to all directions with a simple
+{yw{Yo{yoden{x fence surrounding the property.  A gravel path leads the way for
+{yw{Ya{yg{Yo{yn{Ys{x and {yhorses{x towards the simple house north or the animal pens to east
+and south.  The faint sound of {yhorses{x and {Ws{wh{Weep{x can be heard in the
+southeast area when the kids aren't giggling and screaming.  A few {gt{Gr{gees{x are
+spread in the area with a abandoned wagon northwards close to the barn.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 741
+D1
+~
+~
+0 0
+0 0 759
+D2
+~
+~
+0 0
+0 0 760
+D3
+~
+~
+0 0
+0 0 758
+S
+#741
+Farmer's house~
+This house is simple but very spacious.  It has a small mesanine where a
+large bedroom is and the stairs are in a {Wsp{wi{Wral{x leading towards the living
+room and kitchen.  Between the kitchen and the living room there is a
+half-sized wall with a wide {Wc{wo{Dun{wt{Wer{x on top where stools are pushed up to it
+and serves the family as a nice dinning table.  There is a large {rfi{Rre{Ypl{Ra{rce{x
+to keep the house warm close to the two {yl{We{yather {ya{Wr{ym{W-{ycha{Wi{yrs{x in the living
+room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 740
+S
+#742
+Balthier's Junk Shop~
+Small, yet roomy, this shop brings a wide variety of {Wjunk{x.  Of all {cs{Chape{cs{x
+and {gf{Go{grms{x, it sits on the display shelves with signs saying where they were
+{yi{Wm{yport{Ye{yd{x from.  The quality of the wares is very doubtful and some of it
+seems to be already mended with some sort of {Wglue{x.  The {yp{Ye{wd{Wd{wl{Ye{yr{x approaches
+all the customers that walk through his door, offering his charming smile
+and sales speech.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 702
+S
+#743
+Side Road~
+This narrow road looks more crowded than the rest, due to the limited
+amount of space and the same number of people circulating.  The walls of the
+buildings are standing against each other, looking crammed and tight.  The
+road continues west where it his a dead-end and east where it meets a bigger
+road.  There is a door north that leads to a small crafts shop and south to
+the women's accessories shop.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 744
+D1
+~
+~
+0 0
+0 0 705
+D2
+~
+~
+3 3
+1 0 745
+D3
+~
+~
+0 0
+0 0 746
+S
+#744
+Small Crafts Shop~
+This shop is rather simple, with {Dc{wo{Dncr{we{Dte{x walls and {Df{wl{Woo{wr{Ding{x that have
+{Wwh{wi{Wte{x paint stains on it.  The ceiling looks half-painted in {Wwh{wi{Wte{x, seeming
+like there was not enough paint to actually continue the job.  There are
+simple {ywooden{x tables with his displays resting against the walls.  All of
+his {ycrafts{x are also made of wood and most of it are sculpted statues of
+animals and faces.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 743
+S
+#745
+Women's Accessories Shop~
+A {mf{Ml{wo{Ww{we{Mr{my{x wallpaper was applied to the walls and {Wd{wi{Wamond{w-{Wpa{wt{Wtern{x tiles
+covers the wide shop.  There are small hexagonal {Wglass{x displays evenly
+spread along the room holding delicate pieces of {yj{Ye{ww{We{wl{Yr{yy{x varying from
+{yh{Yairpi{yns{x to other herlooms.  A separate session of the shop is reserved for
+a large cloth hanger with stockings, pettycoats and night gowns.  In a
+corner, at first hidden from those coming from the entrance is a more
+{ri{Rn{rti{Rm{rat{Re{x session with daring night clothes and shifts.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 743
+S
+#746
+Side Road~
+This road is narrow, with tall buildings surrounding it on every
+direction but where it continues.  To west there is a large orange-painted
+sign that says Mrs.  Maniara's Restaurant with a white-painted door below
+it.  The road ends by the restaurant and the only alternatives are the way
+you came from or the small park that begins as the road goes north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 747
+D1
+~
+~
+0 0
+0 0 743
+D3
+~
+~
+3 3
+1 0 748
+S
+#747
+{WSmall {gP{Ga{grk{x~
+This small park is kept green in the middle of the stone city.  A small
+fountain flows in the center of the park and a few trees line the edge of
+the park.  A {Wgazebo{x stands in the middle of the park with benches to sit on
+and rest.  The grass is kept neatly cut and children occasionally run
+through playing their different games.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 746
+S
+#748
+{rM{Rr{rs. {rM{Ra{Yni{ya{Rr{ra{R'{rs{x {WRestaurant{x~
+The walls of this restaurant are painted with {rv{Ri{Ybr{Ra{ynt {ro{Rr{Ya{yn{Rg{re{x and the
+floor is covered in oak wood, adding a very exotic contrast between them. 
+The chairs and tables are painted in {Wwh{wi{Wte{x, with {yo{Yr{Ra{Yn{Rg{ye{x and {gg{Gre{gen{x beads
+wrapped around the back of the chairs in decoration.  There is a small {Dr{wo{Wu{wn{Dd
+{yl{Yam{yp{x on each table, offering a {rr{Rom{ra{Rn{rtic{x atmosphere for those wishing to
+spend the time with their loved ones.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 746
+S
+#749
+A Simple House~
+This small house is very simple, with a single room that offers barely
+enough space to fit two single beds, a brick {rs{Rt{Yo{Rv{re{x and a small table.  The
+two chairs on the {ytable{x look worn and the {Dco{wn{Dcrete{x floor needs a bit of
+cleaning as dirt stains are noticeable all over it.  By the two beds there
+is a small {rt{ya{rtter{ye{rd {rr{Re{rd{r r{Ru{rg{x to avoid the termic shock from the warm bed to
+the {Wcold {wf{Wl{wo{Wo{wr{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 707
+S
+#750
+Living Room~
+The walls are paneled with {yo{Ya{yk {Ww{woo{Wd{x up about two feet tall before the
+walls become smooth painted in light {Dg{wre{Dy{x.  There are small {Ds{Wi{Dl{Wv{De{Wr{x lamps
+bolted to the walls and a wide {cs{Cilk{cy {ct{Ca{wp{Wes{Ctr{cy{x hung from the ceiling against
+the wall with a {Dblack sofa{x below it.  A small center table stands a feet
+from the sofa, with {Dl{We{Dad {Dfi{wg{Durines{x of animals sitting on top of it.  There
+is a door south leading to the bedroom.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 709
+D1
+~
+~
+0 0
+0 0 752
+D2
+~
+~
+3 3
+1 0 751
+S
+#751
+Large Bedroom~
+Intricate silvery streaks run along the {Wwh{wi{Wte {Wpa{wi{Wnted{x wall and washed {Dg{wre{Dy
+{Ds{wto{Dne{x floor.  There is a large window made with an exotic tower-like shape
+at the same wall where the large {ycanopy{x bed is resting on.  A comfortable
+{bo{Bverstuff{bed {ba{Br{bm{B-{bc{Bha{bir{x stands by the fireplace, with a thick-furred rug on
+the floor between them.  There are a few articles of man's clothing spread
+on the bed and the floor, looking like someone left in a hurry.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 750
+S
+#752
+Kitchen~
+Large grey tiles cover the floor and the walls up to the faded white
+ceiling.  There is a brick {rs{Rt{Yo{Rv{re{x on the wall east that occupies most of the
+space there, made to cook for more than four people.  A thick and tall {Dmetal
+{Db{wo{Dx{x sits on the corner by the doorway leading to the living room and a small
+round dinning {ytable{x stands centered in the room, with three chairs pushed up
+to it.  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 750
+S
+#753
+Samuel's Tailoring Art Shop~
+Fancy and fashionable, this shop has beautiful and {rs{Rilk{ry {rd{Rr{rapes{x hung from
+the ceiling and on the walls.  {yW{Yo{yoden {ym{Yanequi{yns{x are wearing the tailor's
+newest creations for dresses and acessories.  There is a comfortable velvet
+{rlo{Rv{We{Rse{rat{x by the east wall close to where the north door going to the
+dressing room is.  There is a soft {Wme{wl{Do{wd{Wic{x {Dmus{wi{Dc{x on the background followed
+by an out of tune hum from the {rt{Ra{rilor{x.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 725
+D2
+~
+{Rr{re{Rd{r-{Rp{ra{Ri{rn{Rt{red{x swinging doors~
+3 3
+1 0 868
+S
+#754
+In the Cistern~
+The cities cistern is two meters deep or more by 100 meters long and 50
+meters wide.  Cool, clear water fills the cistern, providing an adequate
+water supply to city in times of drought or war.  Pipes lead from the
+aqueduct and cistern into the fortress and into the city, providing running
+water to those houses equipped for it.  
+~
+0
+0 24
+D3
+~
+~
+0 0
+0 0 728
+S
+#755
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x continues in a square shape around the
+{Dthick {Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and
+trimmed, with a {Wf{wl{Wower{x bed surrounding each of the two tall {gt{Gr{gees{x that are
+present in this part of the courtyard, A simple {Wwh{wi{Wte {Ws{wt{Wone {Wp{wa{Wth{x leads west
+towards the entrance to the Manor, with {Bb{bl{Bu{be {bf{Blowe{brs{x planted on each side. 
+A small building west leads to the {yin{Yfi{wr{Wm{wa{Yr{yy{x.  
+~
+0
+0 2
+D0
+~
+'double {rma{Rh{rog{Ra{rny{x doors'~
+3 3
+1 0 764
+D1
+~
+~
+0 0
+0 0 796
+D2
+~
+~
+0 0
+0 0 732
+D3
+~
+~
+3 3
+1 0 788
+S
+#756
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x continues in a square shape around the
+{Dthick {Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and
+trimmed, with a {Wf{wl{Wower{x bed surrounding each of the two tall {gt{Gr{gees{x that are
+present in this part of the courtyard, A simple {Wwh{wi{Wte {Ws{wt{Wone {Wp{wa{Wth{x splits in a
+Y, south leading towards the Blacksmith and east leading towards the
+Stables.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 796
+D1
+~
+~
+3 3
+1 0 762
+D2
+~
+~
+3 3
+1 0 851
+D3
+~
+~
+0 0
+0 0 732
+S
+#757
+Malden's gates~
+Guards stand at the gates checking on everyone that enters the city..  C
+The gates to the city are located in the northern section of the western
+city wall.  Peering through the gates you can see the main road through town
+stretching out towards the fortress in the east.  The walls rise high
+overhead and guards patrol atop of it.  Here at the main gates the soldiers
+stand guard, welcoming friends and visitors, but asking each stranger their
+business in the city.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 892
+D1
+~
+~
+3 3
+1 0 700
+D2
+~
+~
+0 0
+0 0 758
+S
+#758
+Road to Malden~
+The walled city of Malden is to the north.  It's walls are high, and
+about 400 meters long per side.  The city is nestled at the base of a hill
+with an aqueduct bringing water from a remote lake visible on the eastern
+side of the city.  Guards walk the city walls and check people in at the
+gates on the western side of the city.  Farms stretch out all about the city
+and provide the city with the food needed to supply the citizens and keep
+the city running.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 757
+D1
+~
+~
+0 0
+0 0 740
+D3
+~
+~
+0 0
+0 0 737
+D8
+~
+~
+0 0
+0 0 54056
+S
+#759
+Sheep Pen~
+A half-eaten {gg{Gr{gassy {gf{Gi{geld{x extends far into view with a square {yfence{x
+around it where {Db{wa{Drbed {Dw{Wi{Dre{x was used.  The pleasant sound of {Wsn{wo{Wwy{w-{Wwh{wi{Wte{x
+sheep baaaing is carried by a gentle breeze.  There is a large {cw{Cate{cr {Wtrough{x
+against the fenced area closer to the farm house, with fresh water for the
+animals.  Tall {yc{re{yd{ra{yr{x trees offer a welcome shade during the hot days.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 740
+S
+#760
+Horse Pen~
+This part of the farm is fenced with {ysolid dark wood{x to keep the animals
+from wandering off.  On the fence, a wide {cw{Cate{cr {Dt{Wr{Do{Wugh{x is mounted holding
+fresh water as well as a {yhay {Dt{Wr{Do{Wugh{x that is currently empty.  There are many
+different type horses standing on the field, but most of them look too old
+to be mounted.  Tall {yc{re{yd{ra{yr{x trees are planted to offer a welcome shade during
+hot days 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 740
+S
+#761
+Vineyard~
+Long {Dw{wi{Wre{w-{Dfenced{x rows stretch as far as the eye can see with {gv{Gi{gnes{x
+wrapped around the wires and {ywooden{x posts where beautiful {mg{Mr{mapes{x easily
+catch the eye.  The grapes seem about ripe and ready to be harvested, and by
+glancing at them at least two types can be identified, the most common ones
+that are {rr{Re{rd{x and {gg{Gr{geen{x.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 737
+S
+#762
+Stables~
+Entering the {Ws{yt{Wa{ybl{We{ys{x, the distinct smell of {yh{Dor{ys{De{ys{x begin to fill the air.
+Tucked in a corner, there is a plain {yw{Yo{yoden {yl{Ya{ydder{x that leads up to the {yh{Ya{yy
+{yl{Yof{yt{x where the hay is stacked.  An {De{wm{Dpty {Db{wu{Wc{wke{Dt{x with a {Dbrush{x to clean the
+horses is sitting by the corner parallel to the ladder and both north and
+south there are small doors to {ystalls{x.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 794
+D2
+~
+~
+3 3
+1 0 896
+D3
+~
+~
+3 3
+1 0 756
+D4
+~
+~
+0 0
+0 0 795
+S
+#764
+Lobby~
+This entrance is in a pentagonal shape with {Wwh{wi{Wte {Wm{wa{Wrble{x floor and vaulted
+ceiling.  There is a large {Ds{Wi{Dl{Wv{De{Wr {Wch{wa{Wndel{wi{Wer{x in the center and below it a
+very expensive and beautiful {Dblack {Dg{wr{Dand {Dp{wi{Dano{x.  Much further north a double
+stairway is noticeable while to east there is a large dinning room and west
+is the living room.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 767
+D1
+~
+~
+0 0
+0 0 765
+D2
+~
+'double {rma{Rh{rog{Ra{rny{x doors'~
+3 3
+1 0 755
+D3
+~
+~
+0 0
+0 0 780
+S
+#765
+Dinning Room~
+A large {Ww{wi{Wndow{x that is as wide as the wall extends across the room on the
+southern part of the dinning room, offering plenty of {Wl{wi{Wght{x during daytime
+hours and a beautiful view of the {gco{Gur{gty{Ga{grd{x.  Centered and occupying most of
+the room there is a long {rma{Rh{rog{Ra{rny{x dinning table with {Dblack m{wa{Drble {Dt{wo{Dp{x and
+fourteen chairs around it.  {yGo{Ylde{yn{Y-{yfr{Yam{yed {yp{Yai{yn{Yt{yings{x adorn the walls where a
+window or a door is not present.  Servants often come out of the door to the
+east and a buzzing noise of dishes become louder everytime the door opens.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 766
+D3
+~
+~
+0 0
+0 0 764
+S
+#766
+Servants' Hallway~
+This hallway is narrow and busy with servants coming back and forth
+between the three doors that surround it.  The floor is made with simple
+{yt{Yil{ying{x and the walls are painted in a {yl{Wi{wg{Wh{yt {yt{Ya{yn{x color.  To the north, the
+door leads to the servants' sleeping quarters while south leads to the
+kitchen and west to the dinning room.  There is a {yt{Yo{rr{Yc{yh {yl{Yi{yt{x and held by an
+{Diron {Db{wr{Dacket{x on the wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 779
+D2
+~
+'solid {ywooden{x door'~
+3 3
+1 0 731
+D3
+~
+~
+3 3
+1 0 765
+S
+#767
+Hallway~
+Wide and long, this hallway's floor is covered in the same {Wwh{wi{Wte {Wm{wa{Wrble{x
+from the lobby.  There are two large oak doors, one to the east and one to
+the west that leads to a meeting room and gambling room respectively. 
+Beautiful paintings of the {bA{Blt{Ya{Br{ban{x {yw{Yil{yder{Yn{yess{x with {yg{Yold{yen{x {yl{Ya{ymps{x
+strategically placed to shine against them give a little touch to the
+tan-colored paint on the walls.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 769
+D1
+~
+~
+3 3
+1 0 768
+D2
+~
+~
+0 0
+0 0 764
+D3
+~
+~
+3 3
+1 0 787
+S
+#768
+Large Meeting Room~
+This room has large {Ww{wi{Wndow{x on the west wall where the chair of the Lord
+stays.  Other than this {Wl{wi{Wght{x offered by the window, there are only two
+{ylu{Ymi{Dna{Yri{yes{x on each corner that provide dim {Wl{wi{Wghts{x during the night. 
+Occupying most of the room is a large {Rm{ra{Rho{rga{Rn{ry {Rc{ron{Rf{reren{Rc{re{x table with ten
+overstuffed {Rl{rea{Rt{rh{Re{rr{x chairs pushed up to it.  On the center of the table
+rests a small {Ds{Wi{Dl{Wv{De{Wr{x {Dt{wr{Day{x with clean {Wg{wl{Wasses{x and a chilled {cw{Ca{ct{Ce{cr{x {Cp{ci{Ct{ccher{x for
+those wishing a refreshment.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 767
+S
+#769
+Double Stairway~
+At the end of the hallway a slightly {Wc{wu{Wrved{x in an X shape double {Ws{wt{Dai{wr{Wway{x
+leads to the second and third floor of the manor, its round {Ds{Wi{Dl{Wv{De{Wr {Dban{Wi{Dster{x
+{Ws{wp{Warkle{x as the second {Ds{Wi{Dl{Wv{De{Wr {Wch{wa{Wndel{wi{Wer{w'{Ws{x lights from the vaulted ceiling
+reflects on it.  Two round {rma{Rh{rog{Ra{rny {rt{Rab{rl{Re{rs{x with {cf{Cl{cow{Ce{cr {Wv{wa{Wses{x sit at the end
+of each banister on all the floors, adding a slight feminine touch the the
+decoration of the house.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 767
+D4
+~
+~
+0 0
+0 0 770
+S
+#770
+Double Stairway~
+The double stairway continues further up with its stairs becoming {Ww{wi{Wder{x
+after it had been slightly more narrow at the beginning of the second floor.
+There are two small round {rma{Rh{rog{Ra{rny {rt{Rab{rl{Re{rs{x with {cf{Cl{cow{Ce{cr {Wv{wa{Wses{x set atop before
+the hallway that goes north and south towards the guest bedrooms of the
+Manor.  The view of below offers rich details of the {Ds{Wi{Dl{Wv{De{Wr {Wch{wa{Wndel{wi{Wer{x and a
+overview of the hallway, lobby and entrance.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 771
+D2
+~
+~
+0 0
+0 0 772
+D4
+~
+~
+0 0
+0 0 773
+D5
+~
+~
+0 0
+0 0 769
+S
+#771
+Hallway~
+Paneled {yo{Ya{yk {Ww{wa{Wlls{x offer an {We{wx{Do{wt{Wic{x touch to the {ywe{Yl{yl{D-l{Yi{yt{x hallway. 
+Contrasting with the walls, a {rd{Ra{rrk {rr{Red{rdi{Rs{rh{x {rw{Ro{rod{x was used on the floor, the
+same type that the doors east and west, leading to the guest bedrooms, were
+made.  Small framed {yp{Yai{yn{Ytin{ygs{x are the only adornments that draw attention to
+the {yw{Yoode{yn{x panels.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 784
+D1
+~
+~
+3 3
+1 0 782
+D2
+~
+~
+0 0
+0 0 770
+D3
+~
+~
+3 3
+1 0 783
+S
+#772
+Hallway~
+Paneled {yo{Ya{yk{x {Ww{wa{Wlls{x offer an {We{wx{Do{wt{Wic{x touch to the {ywe{Yl{yl{D-{Dl{Yi{yt{x hallway. 
+Contrasting with the walls, a {rd{Ra{rrk {rr{Red{rdi{Rs{rh {rw{Ro{rod{x was used on the floor, and
+the doors leading east towards a guest bedroom and south towards a sitting
+room were made by the same material.  {yG{Yolde{yn {yf{Yi{ygur{Yi{ynes{x are hung on the wall
+before the stairway adding to the decoration.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 770
+D1
+~
+~
+3 3
+1 0 786
+D2
+~
+~
+3 3
+1 0 785
+S
+#773
+Top floor~
+The top floor of the double stairway begins with the {Wsparkl{wi{Wng {Ds{Wi{Dl{Wv{De{Wr
+{Wban{wi{Wster{x sliding left and right in a rounded open {Wb{wal{Dc{wo{Wny{x.  There are two
+small round {rma{Rh{rog{Ra{rny {rt{Rab{rl{Re{rs{x with {cf{Cl{cow{Ce{cr {Wv{wa{Wses{x set atop before the hallway
+that goes north towards the Lord's family bedrooms.  A small {ywooden{x trap
+door above the stairs lead to the attic, with dust gathered around the {Dw{wo{Drn
+{ywood{x.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 774
+D4
+~
+'{ywooden{x trap door'~
+3 3
+1 0 856
+D5
+~
+~
+0 0
+0 0 770
+S
+#774
+Hallway~
+This hallway is well-lit by beautiful {yg{Yolde{yn {ylu{Ymi{Dna{Yri{yes{x present every
+three feet on alternating sides.  At the center of the hallway, there are
+two doors, one leading east to the young master's bedroom and the other one
+leading west to the young lady's bedroom.  As the hallway ends, double
+{rma{Rh{rog{Ra{rny{x doors with a {yl{Yeo{yp{Ya{yrd{x etched on each opens to the master bedroom,
+where the Lord of {bM{Ba{Yld{Be{bn{x sleeps.  Luxurious {Rr{ru{Rg{rs{x are hung on the walls with
+embroidered patterns in {yg{Yo{yld{x and {Ds{Wi{Dl{Wv{De{Wr{x.  
+~
+0
+D 0
+D0
+~
+~
+8231 8231
+2 886 898
+D1
+~
+~
+3 3
+1 0 854
+D2
+~
+~
+0 0
+0 0 773
+D3
+~
+~
+3 3
+1 0 855
+S
+#775
+None~
+~
+0
+BCDJV 0
+S
+#776
+Lord & Lady's Bathing Room~
+About the same size of a large guest bedroom, this bathing room matches
+the master bedroom's floor with {Dpol{Wi{Dshed {Wwh{wi{Wte {Wm{wa{Wrble{x streaked in {yg{Yo{yld{x.  The
+walls are painted in a {wl{Di{wght {Dg{wre{Dy{x with {Dd{wa{Drk {Dg{wr{Dey {Dt{we{Dxture{x that adds an {De{wx{Wot{wi{Dc{x
+yet {Wrela{wx{Wing{x look to the place.  In the center of the room, there is a round
+{Dm{wa{Drble {Dt{wu{Db{x recessed into the floor that could easily fit up to four people
+comfortably.  The entire wall south of the tub is {Wm{wi{Wrrored{x, reflecting the
+double vanity {Ds{wi{Wn{Dk{x on the opposite wall.  By the sink, there is a large
+{Wg{wl{Wass{x cabinet with {Wv{wi{Wnes {We{wt{Wched{x on its doors.  
+~
+0
+DV 0
+D1
+~
+~
+3 3
+1 0 898
+S
+#777
+Hidden passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wsp{wi{Wral{x walls of the
+staircase leading downwards.  The stairs and the walls are {Wn{wa{Drr{wo{Ww{x, making it
+hard to climb down without an accident if one is not careful enough.  The
+{yd{Dus{yt{x feels thick in the damp air and even the smallest noise echoes along
+the walls.  
+~
+0
+AD 0
+D2
+~
+~
+12327 12327
+2 744 898
+D5
+~
+~
+0 0
+0 0 778
+S
+#778
+Hidden passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wsp{wi{Wral{x walls of the
+staircase leading both up and downwards.  The stairs and the walls are
+{Wn{wa{Drr{wo{Ww{x, making it hard to climb it without an accident if one is not careful
+enough.  There is a narrow entrance towards west, leading to a small passage
+before another hidden door that will lead somewhere within the Manor.  
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 853
+D4
+~
+~
+0 0
+0 0 777
+D5
+~
+~
+0 0
+0 0 793
+S
+#779
+Servants' Bedroom~
+This room is very simple and rather small.  The walls are {Wpa{wi{Wnted {Wwh{wi{Wte{x,
+just like the floor and door.  The bunk beds are {Dbo{wl{Dted{x to the walls on a
+ninety degree angle with large {Dmetal {Db{wo{Dlts{x but the sheets and pillows are
+{Wwh{wi{Wte{x.  There is a low giggling and buzzling sound coming from the {Wma{wi{Wds{x
+that sit on their beds while they talk.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 766
+S
+#780
+Living Room~
+Thick slabs of {Wwh{wi{Wte {wm{Wa{wr{Wbl{we{x cover the living room floor except around the
+center area where a beautiful and intricately designed rug with the {bA{Bl{Yta{Br{ban
+{yle{Yo{yp{Yar{yds{x is.  Resting against the wall, is a large and very comfortable
+{Dblack {Dl{we{Dather {Ws{wo{Df{Wa{x with a {bs{Bce{bn{Ber{by{x painting on the wall above it.  Facing the
+sofa is {Wfi{wr{Dep{wl{Wace{x with an in-built {rma{Rh{rog{Ra{rny{x shelf on its {Dg{wr{De{wy{D-{wc{Dol{wo{Wr{Ded{x {wb{Dr{wicks{x
+decorated with {Wca{wnd{Dleh{wol{Wders{x and {Wcr{wy{Wstal {Wf{wi{Wgur{wi{Wnes{x 
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 790
+D1
+~
+~
+0 0
+0 0 764
+D3
+~
+'{Ws{Wl{Wid{wi{Wng {Wglass{x door'~
+3 3
+1 0 781
+S
+#781
+A Beautiful Garden~
+The warm {Wr{wa{Wys{x of {Wl{yi{Wght{x from the {ys{Yu{yn{x {ys{Yh{yine{x against the beautiful {gt{Gr{gees{x and
+{gp{Gl{gants{x that grow in this garden.  It is very nicely kept by the Manor
+{Ws{we{Wrvants{x with {bf{Blowe{brs{x of different {yc{Yolo{yrs{x and {Wb{we{Daut{wi{Wes{x.  There are also a
+unique variety of {gt{Gr{gees{x containing flowers and diverse {rf{Rrui{rts{x.  A small path
+made of {Dgr{wa{Dvel{x leads west towards a small {cp{Con{cd{x.  
+~
+0
+0 2
+D1
+~
+'{Ws{Wl{Wid{wi{Wng {Wglass{x door'~
+3 3
+1 0 780
+D3
+~
+~
+0 0
+0 0 852
+S
+#782
+A Luxurious Guest Room~
+{WL{wi{Wght {yy{Yello{yw{x {yp{Yaintin{yg{x with {yd{Ya{yrk {yy{Ye{yllow{x {yt{Ye{yxture{x cover the walls and a {Ddark
+grey thick{w-{Dfurred {Dc{wa{Drpet{x extends across the room with diamond patterns on
+it.  There is a large queen-sized four-poster bed on the north wall of the
+room, the {yw{Yo{yod{x is {ye{Yt{yched{x with {gl{Ge{gaves{x and {gw{Gi{gnes{x that run along each poster in
+an expensive decoration.  {rS{Ri{rlk {rr{Re{rd {rs{Rhe{rets{x cover the comfortable mattress of
+the bed and a matching changing screen stands by the wardrobe to the left of
+the bed.  
+~
+0
+D 0
+D1
+~
+'a hidden {Ddoor{x on the wall'~
+4099 4099
+1 0 853
+D3
+~
+~
+3 3
+1 0 771
+S
+#783
+A Luxurious Guest Room~
+{bD{Ba{brk {bb{Bl{bue {bc{Bar{bpet{x extends across the room with different square sizes as a
+pattern on it where the {bf{Bu{br{x is trimmed.  The walls are {cp{Ca{cin{Ct{ced{x a very {cl{Ci{Wg{Ch{ct
+{cb{Cl{Wu{ce{x, that could be confused with {Wwh{wi{Wte{x under the night light.  A large
+{wc{Wa{wn{Wo{wp{Wy{x bed stands against the west wall, with a nightstand on each side of
+it where a {cc{Chi{cl{Cl{ced{x {cp{Ci{ctcher{x of water and clean glass is.  By the northeast
+corner, there is a large {yo{Ya{yk {Ws{wt{Wud{wy{x desk with a {yg{Yolde{yn {yl{Ya{ymp{x and a feather
+{Dquill{x on it.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 771
+S
+#784
+Bathing Room~
+Expensive {Wwh{wi{Wte{x and {Dg{wr{Dey{x {Dt{Wi{Dl{We{Ds{x cover the floor in a {Dc{Wh{De{Wc{Dk{We{Dr{We{Dd{x pattern and
+the walls are painted with a different {gs{Ghade{gs{x of {Gg{gre{Ge{gn{x with texture.  There
+is a large {Wpo{wr{Wce{wl{Wain{x tub in the center of the room by a small {Wg{wl{Wass{x table
+where {cb{Cat{ch {co{Cil{cs{x and {Ws{wo{Waps{x are.  A small {Dm{we{Wt{wa{Dl{x rack is bolted to the wall,
+with clean towels hung.  There is a beautiful square {Wm{wi{Wrror{x by where the
+tiled vanity sink is.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 771
+S
+#785
+Private Sitting Room~
+A {rd{Ra{rrk {rr{Red{rdi{Rs{rh {rw{Ro{rod{x covers the floor, matching the beautiful {rm{Rah{rog{Ran{ry{x
+center table with {Wg{wl{Wass top{x that sits at the center of the room, parallel to
+the {Dblack {Dl{we{Dather {Dlo{wv{Wes{we{Dat{x resting against the south wall.  The walls are
+adorned with embroidered rugs where {Wf{wl{Wags{x of different countries were
+portrayed.  A large window offers an overview of the {bc{Biste{br{Bn{x and the city to
+the east.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 772
+S
+#786
+Large Guest Room~
+Smaller than most other rooms in the Manor, this bedroom stands simple
+compared to the {Wl{wu{Dxu{wr{Wy{x seen everywhere else.  The walls are paneled with
+{Yc{ye{rd{ya{Yr{x, and a large {yb{Ye{yd{x made with the same wood stands against the east wall
+with a {yy{Yello{yw{x and {bb{Blu{be {bq{Bu{Yi{Bl{bt{x covering it to symbolize the colors of {bM{Ba{Yld{Be{bn{x. 
+A large {Ww{wi{Wndow{x offers a nice view of town and the floor is made of the same
+dark reddish wood from the hallway.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 772
+S
+#787
+Gambling Room~
+This room has a single {yl{Yi{yght{x in the center hung by a {Ds{Wi{Dl{Wv{De{Wr {Dcha{Wi{Dn{x from
+the ceiling, leaving the only spot with good {yill{Yum{Dina{Yt{yion{x around the round
+{yg{ra{ymi{rn{yg{x table below it.  The floor is of a dark {yr{red{ydi{rs{yh{x wood with many
+scratch marks on it from the arm-chairs that are placed around the table. 
+Half-full {cw{Ce{ct {Wg{wl{Wass{x stains are also seen on the dark wood where the players
+set their drinks.  A strong smell of {yt{Yo{yba{Yc{yco{x comes from the small {ycab{Yi{ynet{x
+against the furthest wall from the door.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 767
+S
+#788
+A Modest Infirmary~
+This simple square building is {Wpa{wi{Wnted {Wwh{wi{Wte{x with a {Wc{wo{Dl{Wd {Wb{wr{Di{wc{Wk {Wfloor{x. 
+The place is kept very clean, with no signs of dust or {ys{Dtai{yns{x.  On each
+wall, there is a small row of {Wwh{wi{Wte {Wcots{x where the patients rest and
+perpendicular to the door, the nurse has her own {ywooden {yd{Ye{ysk{x where she keeps
+papers and quills and medicine {yc{Ya{ybinet{x with first aid materials and herbs.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 755
+S
+#789
+Pantry~
+Small and stuffy, this room is {Ddark{x, with an empty {Diron b{wr{Dacket{x on the
+wall perpendicular to the door.  There are many shelves along the walls made
+of metal, with {yboxes{x of {yf{Wo{yod{x stocked up on them.  The pantry is kept {Wc{wl{Wean{x
+but a faint scent of {Ddust{x clings in the {Wa{wi{Wr{x mixed with {Ws{wu{Wgar{x and {Wf{wl{Wour{x.  
+~
+0
+AD 0
+D0
+~
+'{ysolid{x door'~
+3 3
+1 0 731
+S
+#790
+Library~
+In a hexagonal shape, this room has a in-built {rma{Rh{rog{Ra{rny {yboo{Yk{ycase{x on each
+of the six walls, that go from the bottom of the floor and end where the
+{wva{Wu{Dl{Wt{wed{x ceiling and the wall meet.  There are three {yl{Yarg{ye {yc{Yha{yndel{Yie{yrs{x
+hanging low from the ceiling that offer good enough light for evening
+reading.  A round {rma{Rh{rog{Ra{rny{x table with {Wg{wl{Wass{x top stands in the center of the
+room, with small {ys{Yt{yudy {yl{Yamp{ys{x by each of the four chairs that are around it. 
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 780
+D3
+~
+~
+7 7
+2 747 791
+S
+#791
+Lord's Study~
+Smaller, but with the same {wva{Wu{Dl{Wt{wed{x ceiling found in the library, this
+room holds a much more {Dser{wi{Dous{x and {Dq{wu{Wi{we{Dt{x atmosphere than most others in the
+Manor.  There is a wide {yboo{Yk{ycase{x against the western wall, with a more
+limited selection of books, most dealing with business transactions and the
+world.  An imperial {rma{Rh{rog{Ra{rny{x desk with {Dblack {Dma{wr{Dble {Dt{wo{Dp{x sits by the north
+wall, with a {Dleather {Da{wr{Dm{w-{Dcha{wi{Dr{x pushed behind it.  On the desk, business
+papers and contracts are neatly arranged on piles by an expensive {Wq{wu{Will{x and
+{Dink bottle{x.  
+~
+0
+D 0
+D0
+~
+'a hidden {Ddoor{x on the wall'~
+12807 12807
+2 745 792
+D1
+~
+~
+7 7
+2 747 790
+D3
+~
+'a hidden {Ddoor{x behind the {yboo{Yk{ycase{x'~
+12327 12327
+2 744 793
+S
+#792
+Secret Vault~
+The walls and floor of this compact room are made of {yc{Ye{rd{Ya{yr {yw{Yo{yoden{x boards.
+Lacking any openings other than the secret square door on the {yboo{Yk{ycase{x,
+there is a noticeable difference in temperature compared to the other room,
+much {rw{Rar{rmer{x and more {Wh{wu{Wmid{x.  {yC{Ye{rd{Ya{yr{x shelves are built on the three walls
+surrounding the entrance where some {Dvelvet {gj{Ge{gwe{Gl{gry {Dcases{x are kept, along
+with other expensive items.  On the northern wall, there is a large {yt{rr{yunk{x
+with a big {Dpa{wd{Wl{wo{Dck{x on it.  
+~
+0
+D 0
+D2
+~
+'a hidden {Ddoor{x on the wall'~
+12807 12807
+2 745 791
+S
+#793
+Hidden Passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wsp{wi{Wral{x walls of the
+staircase leading both upwards.  The stairs and the walls are {Wn{wa{Drr{wo{Ww{x, making
+it hard to climb up without an accident if one is not careful enough.  There
+is a narrow metal door east, leading to somewhere within the Manor.  
+~
+0
+AD 0
+D1
+~
+'a hidden {Ddoor{x behind the {yboo{Yk{ycase{x'~
+12327 12327
+2 744 791
+D4
+~
+~
+0 0
+0 0 778
+S
+#794
+Stall~
+Small and perhaps comfortable to a horse, this stall stands tall to hold
+even a {BSa{bl{Dda{be{Ban{x warhorse.  There is damp {yh{Ya{yy{x spread on the floor and mostly
+by the {cw{Cate{cr {Db{wu{Wck{we{Dt{x where the {yhorse{x drinks his water.  The stallion in this
+stall looks regal and expensive while enjoying his stay.  
+~
+0
+0 2
+D2
+~
+~
+3 3
+1 0 762
+S
+#795
+Hay Loft~
+The strong smell of {yh{Ya{yy{x lingers in the air as the small {yw{Yo{yoden {yl{Ya{ydder{x
+ends.  There is a large {Dm{we{Wt{wa{Dl{x {Dc{wa{Dg{we{x by the hay with three {Dp{ri{Dge{ro{Dns{x inside
+which are used to send {Wm{we{Wssages{x across the continent.  The {yh{Ya{yy{x is stacked in
+neat square piles along the loft and against its wall with a thin stray
+{yl{Yay{yer{x covering the wooden boards on the floor.  
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 762
+S
+#796
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x continues in a square shape around the
+{Dthick {Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and
+trimmed, with three large {Dtarget {Ddu{wm{Wm{wi{Des{x in the center of this area
+designated for the guards to practice.  A small building in an L shape is
+noticeable at the northeast corner where the Barracks and Prison are.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 797
+D1
+~
+~
+8711 8711
+2 768 798
+D2
+~
+~
+0 0
+0 0 756
+D3
+~
+~
+0 0
+0 0 755
+S
+#797
+Guard's Barracks~
+Simple concrete floor and brick walls surround this bedroom which has a
+strong {ym{Wa{ysc{Wu{yli{Wn{ye {yscent{x of {Ws{ww{De{wa{Wt{x and sleep.  {DB{wo{Dlted{x to the walls there are
+two sets of {Db{wu{Dnk {Wb{we{Wds{x with {Wwh{wi{Wte{x sheets and pillows that are a complete
+mess.  Some {Wunderwear{x articles and dirty breeches are spread along the room
+and the floor has {ydirt {yfo{Dot{yprin{Dt{ys{x all over it.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 796
+S
+#798
+Malden's Small Prison~
+A small corridor with grey brick walls and thick {Dmetal {Dd{wo{Dors{x is here. 
+The room is {yl{Yi{yt{x by {rt{Ror{Ych{Re{rs{x bolted to the walls with {Diron {Db{wr{Dackets{x and it
+smells like old and {Dd{yi{Dr{yt{Dy{x.  There is a small {ystool{x for the punished guard on
+duty to sit on even though this place seems to have been {We{wmpt{Wy{x for years.  
+~
+0
+D 0
+D0
+~
+{Dw{wr{Dought {Dm{we{Dtal{x door~
+8711 8711
+2 768 799
+D3
+~
+{Wth{Di{Wck {Diron{x door~
+8711 8711
+2 768 796
+D5
+~
+~
+12327 12327
+2 884 897
+S
+#799
+Unused Prison Cell~
+{DGr{we{Dyish {Dbr{wi{Dcks{x walls surround this small square room that a small {Dba{wr{Dred{x
+{Ww{Din{wd{Wow{x as the only light coming within.  The {Di{wr{Don {Db{Wr{wa{Wck{Det{x to hold a torch
+bolted to the wall is empty and rusted.  The only furniture of this room is
+a tattered old mat that is used by the prison's inhabitants as a bed.  There
+is a small {Db{wu{Wc{wk{Det{x with something disgusting growing within and a {Df{yo{Dul{x smell
+coming from it.  
+~
+0
+D 0
+D2
+~
+~
+8711 8711
+2 768 798
+S
+#0
+
+
+
+#SPECIALS
+M 726 spec_channeler_defensive
+M 745 spec_duelling
+S
+
+
+
+#RESETS
+D 0 700 3 1
+D 0 702 0 1
+D 0 703 0 1
+D 0 704 4 1
+D 0 707 3 1
+D 0 708 4 1
+D 0 709 2 1
+D 0 710 2 1
+D 0 714 0 1
+D 0 716 0 1
+D 0 717 0 1
+D 0 719 1 1
+D 0 720 4 1
+D 0 721 1 1
+D 0 723 1 1
+D 0 724 4 1
+D 0 725 2 1
+D 0 726 2 1
+D 0 727 0 1
+D 0 727 2 1
+D 0 729 1 1
+D 0 730 1 1
+D 0 731 0 1
+D 0 731 2 1
+D 0 731 3 1
+D 0 731 5 1
+D 0 732 3 1
+D 0 733 5 1
+D 0 734 5 1
+D 0 735 5 1
+D 0 736 5 1
+D 0 737 0 1
+D 0 738 2 1
+D 0 740 0 1
+D 0 741 2 1
+D 0 742 2 1
+D 0 743 0 1
+D 0 743 2 1
+D 0 744 2 1
+D 0 745 0 1
+D 0 746 3 1
+D 0 748 1 1
+D 0 749 1 1
+D 0 750 0 1
+D 0 750 2 1
+D 0 751 0 1
+D 0 753 0 1
+D 0 753 2 1
+D 0 755 0 1
+D 0 755 3 1
+D 0 756 1 1
+D 0 756 2 1
+D 0 757 1 1
+D 0 762 0 1
+D 0 762 2 1
+D 0 762 3 1
+D 0 764 2 1
+D 0 765 1 1
+D 0 766 0 1
+D 0 766 2 1
+D 0 766 3 1
+D 0 767 1 1
+D 0 767 3 1
+D 0 768 3 1
+D 0 771 0 1
+D 0 771 1 1
+D 0 771 3 1
+D 0 772 1 1
+D 0 772 2 1
+D 0 773 4 1
+D 0 774 0 2
+D 0 774 1 1
+D 0 774 3 1
+D 0 776 1 1
+D 0 777 2 2
+D 0 779 2 1
+D 0 780 0 1
+D 0 780 3 1
+D 0 781 1 1
+D 0 782 1 1
+D 0 782 3 1
+D 0 783 1 1
+D 0 784 2 1
+D 0 785 0 1
+D 0 786 3 1
+D 0 787 1 1
+D 0 788 1 1
+D 0 789 0 1
+D 0 790 2 1
+D 0 790 3 2
+D 0 791 0 2
+D 0 791 1 2
+D 0 791 3 2
+D 0 792 2 2
+D 0 793 1 2
+D 0 794 2 1
+D 0 796 0 1
+D 0 796 1 2
+D 0 797 2 1
+D 0 798 0 2
+D 0 798 3 2
+D 0 798 5 2
+D 0 799 2 2
+M 0 704 12 700 1
+M 0 705 10 700 1
+M 0 703 20 701 4
+M 0 703 20 701 4
+M 0 703 20 701 4
+M 0 703 20 701 4
+M 0 704 12 702 3
+M 0 703 20 704 1
+M 0 705 10 704 1
+M 0 708 13 705 2
+M 0 708 13 705 2
+M 0 704 12 706 2
+M 0 703 20 707 2
+M 0 705 10 707 1
+M 0 704 12 708 2
+M 0 708 13 708 2
+M 0 708 13 708 2
+M 0 708 13 709 1
+M 0 705 10 710 1
+O 0 851 0 711
+M 0 705 10 711 2
+M 0 708 13 713 2
+M 0 708 13 713 2
+E 0 881 0 1
+M 0 704 12 714 2
+M 0 703 1 714 1
+M 0 708 13 716 2
+M 0 705 10 718 2
+M 0 703 20 719 2
+M 0 703 20 721 1
+M 0 708 13 722 1
+M 0 704 12 723 1
+M 0 704 12 725 2
+M 0 703 20 725 3
+M 0 703 20 727 2
+M 0 708 13 727 2
+M 0 706 3 728 2
+M 0 709 10 729 4
+M 0 709 10 729 4
+M 0 709 10 729 4
+M 0 709 10 729 4
+O 0 721 0 731
+P 0 731 1 721 1
+P 0 725 1 721 1
+P 0 724 2 721 2
+P 0 723 2 721 2
+P 0 722 2 721 2
+O 0 719 0 731
+P 0 732 1 719 1
+P 0 720 2 719 2
+M 0 723 1 731 1
+M 0 717 20 731 2
+M 0 725 2 731 2
+M 0 707 8 733 2
+M 0 707 8 733 2
+O 0 702 0 733
+M 0 707 8 734 2
+M 0 707 8 734 2
+O 0 702 0 734
+M 0 707 8 735 2
+M 0 707 8 735 2
+O 0 702 0 735
+M 0 707 8 736 2
+M 0 707 8 736 2
+O 0 702 0 736
+M 0 749 1 737 1
+M 0 760 1 738 1
+M 0 744 3 740 3
+M 0 759 1 741 1
+M 0 732 1 742 1
+G 0 852 0
+G 0 853 0
+G 0 854 0
+M 0 705 10 743 2
+M 0 741 1 744 1
+M 0 742 1 745 1
+G 0 874 0
+G 0 875 0
+M 0 703 20 746 1
+O 0 872 0 748
+M 0 730 2 749 1
+M 0 731 2 749 1
+E 0 882 0 11
+O 0 700 0 753
+M 0 700 1 753 1
+M 0 701 1 753 1
+M 0 706 3 754 1
+M 0 717 20 755 2
+M 0 709 10 755 2
+M 0 703 20 757 2
+M 0 709 10 757 4
+M 0 709 10 757 4
+M 0 709 10 757 4
+M 0 709 10 757 4
+E 0 880 0 20
+M 0 750 4 759 4
+M 0 752 2 760 2
+M 0 751 2 760 2
+M 0 728 1 762 1
+O 0 788 0 764
+M 0 718 1 764 1
+E 0 887 0 8
+M 0 717 20 764 2
+E 0 888 0 16
+O 0 717 0 765
+O 0 716 0 765
+M 0 717 20 765 2
+O 0 726 0 765
+P 0 727 5 726 5
+P 0 730 3 726 3
+P 0 729 3 726 3
+P 0 728 3 726 3
+M 0 717 20 766 2
+M 0 724 1 768 1
+E 0 891 0 11
+O 0 711 0 768
+O 0 710 0 768
+M 0 717 20 769 2
+M 0 717 20 771 2
+M 0 717 20 773 2
+E 0 888 0 16
+O 0 749 0 776
+O 0 748 0 776
+P 0 750 2 749 2
+P 0 752 1 749 1
+P 0 751 1 749 1
+O 0 718 0 779
+M 0 722 3 779 3
+O 0 786 0 780
+O 0 785 0 780
+O 0 759 0 781
+P 0 760 6 759 6
+O 0 761 0 781
+P 0 762 6 761 6
+O 0 758 0 781
+M 0 717 20 781 2
+O 0 765 0 782
+O 0 779 0 782
+O 0 780 0 783
+O 0 766 0 783
+O 0 753 0 784
+O 0 786 0 785
+O 0 787 0 785
+O 0 764 0 786
+O 0 714 0 787
+P 0 715 10 714 10
+O 0 713 0 787
+O 0 712 0 787
+M 0 719 1 787 1
+M 0 720 1 787 1
+M 0 721 1 787 1
+O 0 794 0 788
+P 0 797 2 794 2
+P 0 796 2 794 2
+P 0 795 5 794 5
+M 0 726 1 788 1
+M 0 727 1 788 2
+O 0 767 0 788
+O 0 783 0 790
+M 0 717 20 790 1
+O 0 784 0 790
+O 0 743 0 791
+P 0 745 1 743 1
+P 0 744 1 743 1
+O 0 739 0 791
+P 0 742 1 739 1
+P 0 741 1 739 1
+P 0 740 1 739 1
+O 0 738 0 791
+O 0 737 0 791
+O 0 736 0 791
+O 0 791 0 792
+P 0 892 1 791 1
+P 0 792 1 791 1
+P 0 793 1 791 1
+P 0 792 1 791 1
+O 0 789 0 792
+P 0 792 1 789 1
+M 0 717 20 793 2
+M 0 715 1 794 1
+O 0 798 0 795
+P 0 799 3 798 3
+O 0 771 0 795
+M 0 712 3 796 1
+G 0 768 0
+M 0 714 3 796 3
+E 0 885 0 7
+E 0 889 0 20
+M 0 713 3 797 3
+O 0 718 0 797
+M 0 712 3 798 2
+G 0 884 0
+O 0 770 0 799
+O 0 769 0 799
+S
+
+
+
+#SHOPS
+702 0 0 0 0 0 144 111 7 17
+710 33 0 0 0 0 130 134 10 19
+711 13 0 0 0 0 130 130 9 17
+732 0 0 0 0 0 160 175 0 23
+734 0 0 0 0 0 133 133 9 21
+737 19 0 0 0 0 100 100 15 2
+740 0 0 0 0 0 180 190 7 17
+742 0 0 0 0 0 100 100 0 23
+746 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

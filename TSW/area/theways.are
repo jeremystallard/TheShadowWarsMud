@@ -1,0 +1,5499 @@
+#AREADATA
+Name The Ways~
+Builders Angenue~
+VNUMs 58400 58580
+Credits None~
+Security 5
+Low 80
+High 100
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#58400
+machin shin black wind~
+{DMachin Shin, the Black Wind{x~
+{DThe Black Wind whistles through the Ways, hunting for victims.{x
+~
+{DMachin Shin is a cold wind that howls with voices of death and decay.  It
+blows through the Ways where no wind should stir.  Whatever its origin, this
+Black Wind steals minds and souls, leaving the survivors as empty, living
+husks.  {x 
+ 
+~
+unique~
+AFO BDFGJMNPQVY 0 0
+100 90 51d52+10000 100d10+100 11d11+50 drain
+0 0 0 0 0
+A
+7 7 7 7
+CDEFGHKR ABD AB 0
+stand stand none 0
+IK 0 medium 'unknown'
+M 'GREET' 58400 100~
+#58401
+myrddraal~
+{Da myrddraal{x~
+{DA myrddraal wanders the Ways, leading a group of trollocs.{x
+~
+{DThis being is tall, muscular and coldly handsome.  He moves with sinuous
+grace beyond the capability of any human, and strikes with the speed of a
+serpent.  His skin, instead of being pink, is the dead fishbelly white of a
+slug, while the blood that runs beneath it is corrosive, and black as the
+Lord he serves.  Black hair, lacking all hint of human gloss or texture,
+covers only his head, leaving his pale face bare.  Perhaps the most chilling
+difference between humans and this half-man is in his face, so like a human
+face but for the complete lack of eyes.  {x 
+ 
+~
+unique~
+A DFJNV 0 0
+90 80 46d47+6548 90d10+100 9d10+45 slice
+0 0 0 0 0
+A
+6 6 6 6
+CDEFGHIKNR AB AB 0
+stand stand male 0
+V ABCDEFGHIJ medium 'flesh'
+M 'GREET' 58402 100~
+#58402
+fade~
+{Da fade{x~
+{DA fade travels through the Ways, waiting to kill.{x
+~
+{DThis being is tall, muscular and coldly handsome.  He moves with sinuous
+grace beyond the capability of any human, and strikes with the speed of a
+serpent.  His skin, instead of being pink, is the dead fishbelly white of a
+slug, while the blood that runs beneath it is corrosive, and black as the
+Lord he serves.  Black hair, lacking all hint of human gloss or texture,
+covers only his head, leaving his pale face bare.  Perhaps the most chilling
+difference between humans and this half-man is in his face, so like a human
+face but for the complete lack of eyes.  {x 
+ 
+~
+unique~
+A DFJNV 0 0
+90 80 46d47+6548 90d10+100 9d10+45 slice
+0 0 0 0 0
+A
+6 6 6 6
+CDEFGHIKNR AB AB 0
+stand stand male 0
+V ABCDEFGHIJ medium 'flesh'
+M 'GREET' 58402 100~
+#58403
+padin fain wiry small man~
+{DPadin Fain{x~
+{DA small, wiry man with furtive eyes leads a group of shadowspawn.{x
+~
+{DThis small man is doing the impossible - leading a group of fades and
+trollocs through the Ways.  His small, merchant like form is not
+intimidating, and yet, he must be very powerful to be here, unharmed.  {x 
+~
+andoran~
+AH DFJKNPQ 0 0
+90 80 46d47+6548 90d10+100 9d10+45 scratch
+0 0 0 0 0
+A
+6 6 6 6
+CEFIN AB AB JLR
+stand stand male 25
+0 0 medium 'flesh'
+#58404
+soulless ogier~
+{Da soulless Ogier{x~
+{DAn Ogier with wide, empty eyes wanders aimlessly through the Ways.{x
+~
+{DThis male Ogier stands ten feet tall, when he is standing with correct
+posture.  However, now, he wanders hopelessly through the Ways, his back
+arched and his arms dangling at his sides.  The long tufts on his ears droop
+so that he looks sadder than any Ogier ever has.  His once bright, blue eyes
+are now dim and lifeless.  The only noise he makes is a sniffle from his
+broad nose.  {x 
+ 
+~
+ogier~
+AH d 0 0
+30 20 16d17+833 30d10+100 5d6+15 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 large 'flesh'
+#58405
+boar face trolloc faced~
+{Da boar-faced trolloc{x~
+{DA boar-faced trolloc patrols with his axe in ready position.{x
+~
+{DThis trolloc is certainly large and powerful.  He stands nine feet tall,
+with the body of an overly large, extremely muscular man, and he is very
+strong and fast.  Vicious by nature, he manifests plenty of ferocity,
+killing for no other reason than the pure pleasure of it.  His towering
+course-haired bulky form looms over any human, with intelligent human eyes
+glaring evilly out from a tusked face.  {x 
+~
+trolloc~
+A DFJNVa 0 0
+80 70 41d42+5220 80d10+100 8d10+50 slash
+0 0 0 0 0
+A
+0 0 0 0
+CDEFHIJKR AB 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 58402 100~
+#58406
+bear face faced trolloc~
+{Da bear-faced trolloc{x~
+{DA bear-faced trolloc pauses briefly and growls at the air.{x
+~
+{DThis trolloc is certainly large and powerful.  He stands nine feet tall,
+with the body of an overly large, extremely muscular man, and he is very
+strong and fast.  Vicious by nature, he manifests plenty of ferocity,
+killing for no other reason than the pure pleasure of it.  His towering
+course-haired bulky form looms over any human, with intelligent human eyes
+{Dglaring evilly out from a muzzle full of gnashing teeth.  He even has thick
+paws in place of feet.  {x 
+~
+trolloc~
+A DFJNVa 0 0
+80 70 41d42+5220 80d10+100 8d10+50 claw
+0 0 0 0 0
+A
+0 0 0 0
+CDEFHIJKR AB 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 58402 100~
+#58407
+wolf face faced trolloc~
+{Da wolf-faced trolloc{x~
+{DA wolf-faced trolloc folds his ears back and howls loudly.{x
+~
+{DThis trolloc is certainly large and powerful.  He stands nine feet tall,
+with the body of an overly large, extremely muscular man, and he is very
+strong and fast.  Vicious by nature, he manifests plenty of ferocity,
+killing for no other reason than the pure pleasure of it.  His towering
+course-haired bulky form looms over any human, with intelligent human eyes
+{Dglaring evilly out from a muzzle full of gnashing teeth.  He even has sharp
+claws in place of feet.  {x 
+~
+trolloc~
+A DFJNVa 0 0
+80 70 41d42+5220 80d10+100 8d10+50 chomp
+0 0 0 0 0
+A
+0 0 0 0
+CDEFHIJKR AB 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 58402 100~
+#58408
+goat face faced trolloc~
+{Da goat-faced trolloc{x~
+{DA goat-faced trolloc ducks his head, prepared to charge at any moment.{x
+~
+{DThis trolloc is certainly large and powerful.  He stands nine feet tall,
+with the body of an overly large, extremely muscular man, and he is very
+strong and fast.  Vicious by nature, he manifests plenty of ferocity,
+killing for no other reason than the pure pleasure of it.  His towering
+course-haired bulky form looms over any human, with intelligent human eyes
+{Dglaring evilly out from a furry face, topped with short, sharp horns.  He
+even has the hind legs of a goat, with hooves in place of feet.  {x 
+~
+trolloc~
+A DFJNVa 0 0
+80 70 41d42+5220 80d10+100 8d10+50 pierce
+0 0 0 0 0
+A
+0 0 0 0
+CDEFHIJKR AB 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 58402 100~
+#58409
+ram face faced trolloc~
+{Da ram-faced trolloc{x~
+{DA ram-faced trolloc grunts and stops briefly to paw at the stone floor.{x
+~
+{DThis trolloc is certainly large and powerful.  He stands nine feet tall,
+with the body of an overly large, extremely muscular man, and he is very
+strong and fast.  Vicious by nature, he manifests plenty of ferocity,
+killing for no other reason than the pure pleasure of it.  His towering
+course-haired bulky form looms over any human, with intelligent human eyes
+{Dglaring evilly out from a thick-haired face, topped with large, curving
+horns.  He even has the hind legs of a ram, with hooves instead of feet.  {x 
+~
+trolloc~
+A DFJNVa 0 0
+80 70 41d42+5220 80d10+100 8d10+50 thrust
+0 0 0 0 0
+A
+0 0 0 0
+CDEFHIJKR AB 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 58402 100~
+#58410
+eagle face faced trolloc~
+{Dan eagle-faced trolloc{x~
+{DAn eagle-faced trolloc turns his head, using his excellent vision to survey the Ways.{x
+~
+{DThis trolloc is certainly large and powerful.  He stands nine feet tall,
+with the body of an overly large, extremely muscular man, and he is very
+strong and fast.  Vicious by nature, he manifests plenty of ferocity,
+killing for no other reason than the pure pleasure of it.  His towering
+course-haired bulky form looms over any human, with intelligent human eyes
+{Dglaring evilly out from a feathered face with a snapping, sharp beak.  {x 
+~
+trolloc~
+A DFJNVa 0 0
+80 70 41d42+5220 80d10+100 8d10+50 peck
+0 0 0 0 0
+A
+0 0 0 0
+CDEFHIJKR AB 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 58402 100~
+#0
+
+
+
+#OBJECTS
+#58400
+soul sucking tentacle~
+{Da soul-sucking tentacle{x~
+{DA soul-sucking tentacle writhes on the ground.{x~
+unknown~
+weapon EHJMP N
+exotic 12 16 'none' H
+100 2 0 100
+#58401
+motionless cloak~
+{Da motionless cloak{x~
+{DA motionless cloak lays still on the ground.{x~
+cloth~
+armor CP AK
+25 25 25 25 0
+90 5 5000 100
+#58402
+eyeless glare~
+{Dan eyeless glare{x~
+{DAn eyeless glare shouldn't be here.{x~
+unknown~
+armor CP AE
+22 23 22 23 0
+90 2 0 100
+#58403
+black articulated plate shirt~
+{Da black, articulated plate shirt{x~
+{DA black, articulated plate shirt with multiple over lapping strips lays on the ground.{x~
+metal~
+armor CP AD
+25 25 25 20 0
+90 10 200 100
+#58404
+black articulated plate breeches~
+{Da pair of black, articulated plate breeches{x~
+{DA pair of black, articulated plate breeches lays on the ground.{x~
+metal~
+armor CP AF
+25 25 25 20 0
+90 10 150 100
+#58405
+myrddraal sword~
+{Da tainted myrddraal sword{x~
+{DA tainted myrddraal sword lays on the ground.{x~
+metal~
+weapon CMPb AN
+sword 15 16 'slice' H
+90 3 100 100
+#58406
+lethal dagger~
+{Da lethal dagger{x~
+{DA lethal looking dagger lies on the ground.{x~
+metal~
+weapon BEGJPY N
+dagger 8 10 'none' DH
+90 1 1500 100
+#58407
+signpost sign post pock column stone~
+{Da signpost{x~
+{DA pock-marked column of stone marks the entrance to the bridge.{x~
+stone~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+E
+column~
+{DThe metal writings on this signpost are covered with pox, making them
+hard to read.  As you study them closer, you realize the symbols are in a
+language you do not understand.  {x 
+~
+E
+sign~
+{DThe metal writings on this signpost are covered with pox, making them
+hard to read.  As you study them closer, you realize the symbols are in a
+language you do not understand.  {x 
+~
+E
+signpost~
+{DThe metal writings on this signpost are covered with pox, making them
+hard to read.  As you study them closer, you realize the symbols are in a
+language you do not understand.  {x 
+~
+#58408
+crude crudely mace~
+{Da crudely-made mace{x~
+{DA crudely-made mace has been dropped here.{x~
+metal~
+weapon E AN
+mace 6 19 'none' E
+80 8 50 100
+#58409
+heavy round shield~
+{Da heavy, round shield{x~
+{DA heavy shield lies upturned on the ground.{x~
+metal~
+armor E AJ
+20 20 20 20 0
+80 15 50 100
+#58410
+hooded axe~
+{Da hooked axe{x~
+{DA hooked axe lies on the ground.{x~
+metal~
+weapon E AN
+axe 6 19 'none' DF
+80 6 60 100
+#58411
+scythe sword~
+{Da scythe-sword{x~
+{DA scythe-sword is half-sheathed on the ground.{x~
+metal~
+weapon EP AN
+sword 6 19 'none' DF
+80 8 50 100
+#58412
+trolloc tattoo skull crossbones~
+{Da trolloc tattoo of a skull and crossbones{x~
+{DA scrap of furry skin lies on the ground.{x~
+skin~
+armor 0 AR
+20 20 20 20 0
+80 1 50 100
+#58413
+bone necklace~
+{Da bone necklace{x~
+{DSeveral finger bones are threaded on a rope here.{x~
+bone~
+armor E AC
+20 20 20 20 0
+80 2 50 100
+#58414
+crude chainmail shirt~
+{Da crude chainmail shirt{x~
+{DA pile of crude chainmail is piled on the ground.{x~
+metal~
+armor E AD
+20 20 20 20 0
+80 15 50 100
+#58415
+crude leather vest~
+{Da crude leather vest{x~
+{DA piece of torn leather lies on the ground.{x~
+leather~
+armor E AD
+20 20 20 20 0
+80 3 50 100
+#58416
+guiding pock marked stone~
+{Da guiding{x~
+{DA pock-marked piece of stone seems to grow from the ground.{x~
+stone~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+E
+stone~
+{DThe metal writings upon this stone are covered with pox, making them hard
+to read.  As you study them closer, you realize that the language is foreign
+to you.  {x 
+~
+E
+guiding~
+{DThe metal writings upon this stone are covered with pox, making them hard
+to read.  As you study them closer, you realize that the language is foreign
+to you.  {x 
+~
+#58417
+signpost sign post pock column stone~
+{Da signpost{x~
+{DA pock-marked column of stone marks the entrance to the ramp.~
+stone~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+E
+signpost~
+{DThe metal writings on this signpost are covered with pox, making them
+hard to read.  As you study them closer, you realize the symbols are in a
+language you do not understand.  {x 
+~
+E
+sign~
+{DThe metal writings on this signpost are covered with pox, making them
+hard to read.  As you study them closer, you realize the symbols are in a
+language you do not understand.  {x 
+~
+E
+column~
+{DThe metal writings on this signpost are covered with pox, making them
+hard to read.  As you study them closer, you realize the symbols are in a
+language you do not understand.  {x 
+~
+#58418
+sign post shattered stone~
+{Da shattered signpost{x~
+{DA signpost lays shattered into a thousand pieces at the end of the bridge. It is unreadable.{x~
+stone~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#58419
+trolloc torso upper stone pocked~
+{Da stone-pocked trolloc{x~
+{DThe upper torso of a trolloc rises from the ground, forever snarling in stone.{x~
+stone~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#58420
+pock eaten trolloc frozen charging snarling~
+{Da pock-marked trolloc{x~
+{DA pock-eaten trolloc is forever frozen in charging position.~
+stone~
+container 0 P
+5 I 0 0 0
+0 0 0 100
+#58421
+emerald large~
+a rather large {ge{Gme{gr{Gal{gd{x~
+A rather large {ge{Gme{gr{Gal{gd{x lies on the ground.~
+emerald~
+gem A A
+0 0 0 0 0
+75 1 5000 100
+#58422
+coins~
+a few {yg{Yol{yd{x coins~
+A few {yg{Yol{yd{x coins lie here.~
+gold~
+money 0 A
+5 100 0 0 0
+0 0 0 100
+#58423
+paw sharp claws~
+a {ypaw{x with sharp {Dc{wl{Daws{x~
+A {ypaw{x with sharp {Dc{wl{Daws{x lies {rbl{Reedi{rng{x on the ground.~
+organic~
+armor 0 AH
+30 30 30 0 0
+90 1 10 100
+A
+2 1
+A
+3 1
+A
+19 5
+A
+18 5
+#58424
+black scaled bracer~
+a {Dblack s{wc{Wal{we{Dd b{wra{Dc{we{Dr{x~
+A {Dblack s{wc{Wal{we{Dd b{wra{Dc{we{Dr{x has been dropped on the ground.~
+organic~
+armor 0 AM
+30 30 30 0 0
+90 1 10 100
+A
+19 5
+A
+18 5
+A
+1 2
+#58425
+grizzly trolloc snout~
+a {ygrizzly{x-looking {ytr{Do{wl{Dl{yoc s{Dno{yut{x~
+A {ygrizzly{x-looking {ytr{Do{wl{Dl{yoc s{Dno{yut{x has been dropped on the ground.~
+organic~
+armor 0 AV
+20 20 20 30 0
+90 1 0 100
+A
+3 1
+A
+18 4
+A
+17 -3
+#58580
+none~
+none~
+none~
+none~
+trash 0 A
+0 ABFN A 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#58400
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+~
+0
+ACD 0
+D1
+~
+~
+0 0
+0 0 58455
+D2
+~
+~
+4615 4615
+2 144 135
+S
+#58401
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+~
+0
+ACD 0
+D0
+~
+'waygate'~
+4647 4647
+2 12549 12640
+D2
+~
+~
+0 0
+0 0 58402
+S
+#58402
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58401
+D2
+~
+~
+0 0
+0 0 58403
+S
+#58403
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58423
+D2
+~
+~
+0 0
+0 0 58404
+D0
+~
+~
+0 0
+0 0 58402
+S
+#58404
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58403
+D2
+~
+~
+0 0
+0 0 58437
+S
+#58405
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58433
+D2
+~
+~
+0 0
+0 0 58406
+D0
+~
+~
+0 0
+0 0 58560
+D1
+~
+~
+0 0
+0 0 58409
+S
+#58406
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58405
+D2
+~
+~
+0 0
+0 0 58407
+S
+#58407
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58406
+D2
+~
+~
+0 0
+0 0 58408
+S
+#58408
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58407
+S
+#58409
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58561
+D3
+~
+~
+0 0
+0 0 58405
+D4
+~
+~
+0 0
+0 0 58493
+S
+#58410
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58411
+D0
+~
+~
+0 0
+0 0 58415
+D3
+~
+~
+0 0
+0 0 58564
+S
+#58411
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58412
+D3
+~
+~
+0 0
+0 0 58410
+S
+#58412
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58413
+D3
+~
+~
+0 0
+0 0 58411
+S
+#58413
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58414
+D3
+~
+~
+0 0
+0 0 58412
+S
+#58414
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58428
+D3
+~
+~
+0 0
+0 0 58413
+S
+#58415
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58416
+D2
+~
+~
+0 0
+0 0 58410
+S
+#58416
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58417
+D2
+~
+~
+0 0
+0 0 58415
+S
+#58417
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58418
+D2
+~
+~
+0 0
+0 0 58416
+D4
+~
+~
+0 0
+0 0 58456
+S
+#58418
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58419
+D2
+~
+~
+0 0
+0 0 58417
+S
+#58419
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58420
+D2
+~
+~
+0 0
+0 0 58418
+S
+#58420
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58421
+D2
+~
+~
+0 0
+0 0 58419
+D3
+~
+~
+0 0
+0 0 58427
+S
+#58421
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58422
+D2
+~
+~
+0 0
+0 0 58420
+S
+#58422
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+
+{DIf you are looking for the avendesora leaf that will open this waygate to
+the outside world, is seems to be missing.  {x 
+~
+0
+ACD 0
+D2
+~
+~
+0 0
+0 0 58421
+S
+#58423
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58424
+D3
+~
+~
+0 0
+0 0 58403
+S
+#58424
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58425
+D3
+~
+~
+0 0
+0 0 58423
+S
+#58425
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58426
+D3
+~
+~
+0 0
+0 0 58424
+S
+#58426
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58427
+D3
+~
+~
+0 0
+0 0 58425
+D4
+~
+~
+0 0
+0 0 58468
+S
+#58427
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58420
+D3
+~
+~
+0 0
+0 0 58426
+S
+#58428
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58429
+D3
+~
+~
+0 0
+0 0 58414
+S
+#58429
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58430
+D3
+~
+~
+0 0
+0 0 58428
+S
+#58430
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58431
+D3
+~
+~
+0 0
+0 0 58429
+D4
+~
+~
+0 0
+0 0 58473
+S
+#58431
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58432
+D3
+~
+~
+0 0
+0 0 58430
+S
+#58432
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+
+{DIf you are looking for the Avendesora leaf that will open this Waygate, you
+are out of luck.  It seems to be missing.  {x 
+~
+0
+CD 0
+D0
+~
+~
+12839 12839
+2 30397 30476
+D3
+~
+~
+0 0
+0 0 58431
+S
+#58433
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58405
+D3
+~
+~
+0 0
+0 0 58434
+S
+#58434
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58433
+D3
+~
+~
+0 0
+0 0 58435
+D5
+~
+~
+0 0
+0 0 58500
+S
+#58435
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58434
+D3
+~
+~
+0 0
+0 0 58436
+S
+#58436
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58446
+D1
+~
+~
+0 0
+0 0 58435
+S
+#58437
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58404
+D2
+~
+~
+0 0
+0 0 58558
+S
+#58438
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58439
+D2
+~
+~
+0 0
+0 0 58446
+S
+#58439
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58438
+D3
+~
+~
+0 0
+0 0 58440
+D5
+~
+~
+0 0
+0 0 58519
+S
+#58440
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58444
+D1
+~
+~
+0 0
+0 0 58439
+D0
+~
+~
+0 0
+0 0 58447
+D3
+~
+~
+0 0
+0 0 58441
+S
+#58441
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58440
+D3
+~
+~
+0 0
+0 0 58442
+S
+#58442
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58441
+D3
+~
+~
+0 0
+0 0 58443
+S
+#58443
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58442
+S
+#58444
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58440
+D2
+~
+~
+0 0
+0 0 58445
+S
+#58445
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58444
+D1
+~
+~
+0 0
+0 0 58446
+S
+#58446
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58438
+D2
+~
+~
+0 0
+0 0 58436
+D3
+~
+~
+0 0
+0 0 58445
+S
+#58447
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58448
+D2
+~
+~
+0 0
+0 0 58440
+S
+#58448
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58449
+D2
+~
+~
+0 0
+0 0 58447
+S
+#58449
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58450
+D2
+~
+~
+0 0
+0 0 58448
+D5
+~
+~
+0 0
+0 0 58506
+S
+#58450
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58453
+D1
+~
+~
+0 0
+0 0 58451
+D3
+~
+~
+0 0
+0 0 58452
+D2
+~
+~
+0 0
+0 0 58449
+S
+#58451
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58450
+S
+#58452
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58450
+D3
+~
+~
+0 0
+0 0 58454
+S
+#58453
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58450
+S
+#58454
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58452
+D3
+~
+~
+0 0
+0 0 58455
+S
+#58455
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58454
+D3
+~
+~
+0 0
+0 0 58400
+S
+#58456
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58457
+D2
+~
+~
+0 0
+0 0 58484
+D5
+~
+~
+0 0
+0 0 58417
+S
+#58457
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58458
+D2
+~
+~
+0 0
+0 0 58456
+S
+#58458
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+ACD 0
+D0
+~
+~
+0 0
+0 0 58459
+D2
+~
+~
+0 0
+0 0 58457
+S
+#58459
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58460
+D2
+~
+~
+0 0
+0 0 58458
+D3
+~
+~
+0 0
+0 0 58462
+D0
+~
+~
+0 0
+0 0 58461
+S
+#58460
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58464
+D3
+~
+~
+0 0
+0 0 58459
+S
+#58461
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58463
+D2
+~
+~
+0 0
+0 0 58459
+S
+#58462
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58459
+D3
+~
+~
+0 0
+0 0 58476
+S
+#58463
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58461
+S
+#58464
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58465
+D3
+~
+~
+0 0
+0 0 58460
+S
+#58465
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58464
+D0
+~
+~
+0 0
+0 0 58466
+D1
+~
+~
+0 0
+0 0 58468
+D2
+~
+~
+0 0
+0 0 58467
+S
+#58466
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58469
+D2
+~
+~
+0 0
+0 0 58465
+S
+#58467
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58465
+D2
+~
+~
+0 0
+0 0 58470
+S
+#58468
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58465
+D5
+~
+~
+0 0
+0 0 58426
+S
+#58469
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58466
+S
+#58470
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58467
+D2
+~
+~
+0 0
+0 0 58471
+S
+#58471
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58470
+D2
+~
+~
+0 0
+0 0 58472
+S
+#58472
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58471
+D2
+~
+~
+0 0
+0 0 58473
+S
+#58473
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58472
+D3
+~
+~
+0 0
+0 0 58565
+D2
+~
+~
+0 0
+0 0 58474
+D5
+~
+~
+0 0
+0 0 58430
+S
+#58474
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58473
+D2
+~
+~
+0 0
+0 0 58475
+S
+#58475
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+
+{DIf you are looking for the Avendesora leaf to open the Waygate, it must be
+missing.  You better hurry along before Machin Shin finds you.  {x 
+~
+0
+ACD 0
+D0
+~
+~
+0 0
+0 0 58474
+S
+#58476
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58462
+D3
+~
+~
+0 0
+0 0 58477
+S
+#58477
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58478
+D1
+~
+~
+0 0
+0 0 58476
+D2
+~
+~
+0 0
+0 0 58479
+S
+#58478
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58481
+D2
+~
+~
+0 0
+0 0 58477
+S
+#58479
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58477
+D2
+~
+~
+0 0
+0 0 58480
+S
+#58480
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58479
+S
+#58481
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58482
+D2
+~
+~
+0 0
+0 0 58478
+S
+#58482
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58483
+D2
+~
+~
+0 0
+0 0 58481
+S
+#58483
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+~
+0
+ACD 0
+D2
+~
+~
+0 0
+0 0 58482
+S
+#58484
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58456
+D2
+~
+~
+0 0
+0 0 58485
+S
+#58485
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58484
+D3
+~
+~
+0 0
+0 0 58567
+D2
+~
+~
+0 0
+0 0 58486
+D1
+~
+~
+0 0
+0 0 58566
+S
+#58486
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58485
+D2
+~
+~
+0 0
+0 0 58487
+S
+#58487
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58486
+D2
+~
+~
+0 0
+0 0 58488
+S
+#58488
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58487
+D2
+~
+~
+0 0
+0 0 58489
+S
+#58489
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58488
+D2
+~
+~
+0 0
+0 0 58490
+S
+#58490
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58489
+D2
+~
+~
+0 0
+0 0 58491
+D3
+~
+~
+0 0
+0 0 58574
+D1
+~
+~
+0 0
+0 0 58575
+S
+#58491
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58490
+D2
+~
+~
+0 0
+0 0 58492
+S
+#58492
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58491
+D2
+~
+~
+0 0
+0 0 58493
+S
+#58493
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58492
+D3
+~
+~
+0 0
+0 0 58495
+D2
+~
+~
+0 0
+0 0 58496
+D1
+~
+~
+0 0
+0 0 58494
+D5
+~
+~
+0 0
+0 0 58409
+S
+#58494
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58493
+S
+#58495
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58493
+S
+#58496
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58493
+D2
+~
+~
+0 0
+0 0 58497
+S
+#58497
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58496
+D2
+~
+~
+0 0
+0 0 58498
+S
+#58498
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58497
+D2
+~
+~
+0 0
+0 0 58499
+S
+#58499
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+~
+0
+ACD 0
+D0
+~
+~
+0 0
+0 0 58498
+D2
+~
+'{Dwaygate{x'~
+4647 4647
+2 14595 14521
+S
+#58500
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58551
+D0
+~
+~
+0 0
+0 0 58501
+D2
+~
+~
+0 0
+0 0 58517
+D1
+~
+~
+0 0
+0 0 58534
+D4
+~
+~
+0 0
+0 0 58434
+S
+#58501
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58502
+D2
+~
+~
+0 0
+0 0 58500
+S
+#58502
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58503
+D2
+~
+~
+0 0
+0 0 58501
+S
+#58503
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58504
+D1
+~
+~
+0 0
+0 0 58505
+D2
+~
+~
+0 0
+0 0 58502
+S
+#58504
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58506
+D2
+~
+~
+0 0
+0 0 58503
+S
+#58505
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58503
+S
+#58506
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58507
+D2
+~
+~
+0 0
+0 0 58504
+D3
+~
+~
+0 0
+0 0 58508
+D4
+~
+~
+0 0
+0 0 58449
+S
+#58507
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58509
+D2
+~
+~
+0 0
+0 0 58506
+S
+#58508
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58506
+S
+#58509
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58510
+D2
+~
+~
+0 0
+0 0 58507
+S
+#58510
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58513
+D0
+~
+~
+0 0
+0 0 58511
+D2
+~
+~
+0 0
+0 0 58509
+D1
+~
+~
+0 0
+0 0 58512
+S
+#58511
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58514
+D2
+~
+~
+0 0
+0 0 58510
+S
+#58512
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58510
+S
+#58513
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58510
+S
+#58514
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58515
+D2
+~
+~
+0 0
+0 0 58511
+S
+#58515
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58516
+D2
+~
+~
+0 0
+0 0 58514
+S
+#58516
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+
+{DThe Avendesora leaf key that would unlock this Waygate seems to be missing! 
+{x 
+~
+0
+ACD 0
+D2
+~
+~
+0 0
+0 0 58515
+S
+#58517
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58500
+D2
+~
+~
+0 0
+0 0 58518
+S
+#58518
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58517
+D2
+~
+~
+0 0
+0 0 58519
+S
+#58519
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58521
+D2
+~
+~
+0 0
+0 0 58520
+D0
+~
+~
+0 0
+0 0 58518
+D4
+~
+~
+0 0
+0 0 58439
+S
+#58520
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58519
+D2
+~
+~
+0 0
+0 0 58522
+S
+#58521
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58519
+S
+#58522
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58520
+D2
+~
+~
+0 0
+0 0 58523
+D3
+~
+~
+0 0
+0 0 58524
+S
+#58523
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58522
+D2
+~
+~
+0 0
+0 0 58525
+S
+#58524
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58522
+S
+#58525
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58523
+D2
+~
+~
+0 0
+0 0 58526
+S
+#58526
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58525
+D2
+~
+~
+0 0
+0 0 58527
+S
+#58527
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58530
+D1
+~
+~
+0 0
+0 0 58528
+D3
+~
+~
+0 0
+0 0 58529
+D0
+~
+~
+0 0
+0 0 58526
+S
+#58528
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58527
+S
+#58529
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58527
+S
+#58530
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58527
+D2
+~
+~
+0 0
+0 0 58531
+S
+#58531
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58530
+D2
+~
+~
+0 0
+0 0 58532
+S
+#58532
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58531
+D2
+~
+~
+0 0
+0 0 58533
+S
+#58533
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+~
+0
+ACD 0
+D0
+~
+~
+0 0
+0 0 58532
+S
+#58534
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58535
+D3
+~
+~
+0 0
+0 0 58500
+S
+#58535
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58536
+D3
+~
+~
+0 0
+0 0 58534
+S
+#58536
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58538
+D1
+~
+~
+0 0
+0 0 58540
+D3
+~
+~
+0 0
+0 0 58535
+S
+#58537
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58541
+D0
+~
+~
+0 0
+0 0 58542
+D2
+~
+~
+0 0
+0 0 58543
+D3
+~
+~
+0 0
+0 0 58540
+S
+#58538
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58539
+D2
+~
+~
+0 0
+0 0 58536
+S
+#58539
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58540
+D3
+~
+~
+0 0
+0 0 58538
+S
+#58540
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58539
+D1
+~
+~
+0 0
+0 0 58537
+D3
+~
+~
+0 0
+0 0 58536
+S
+#58541
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58544
+D3
+~
+~
+0 0
+0 0 58537
+S
+#58542
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58537
+S
+#58543
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58537
+S
+#58544
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58545
+D3
+~
+~
+0 0
+0 0 58541
+S
+#58545
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58546
+D3
+~
+~
+0 0
+0 0 58544
+S
+#58546
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58547
+D3
+~
+~
+0 0
+0 0 58545
+S
+#58547
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58548
+D3
+~
+~
+0 0
+0 0 58546
+S
+#58548
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58549
+D3
+~
+~
+0 0
+0 0 58547
+S
+#58549
+{DWithin the Ways{x~
+{DThe edges of your light catch stone work within the Ways, and what
+appears to be stone-walled bridges arcing off into the darkness.  You also
+see gently sloping ramps without railings of any kind, leading up and down. 
+Between the bridges and the ramps runs a chest-high balustrade.  However,
+falling is a danger here at any rate.  Plain {Wwhite{x {Dstone marks the
+balustrade, in simple curves and rounds fitted together in complex patterns.
+{DThe wide, {Wwhite{x {Dline continues across the floor, guiding you farther into
+the Ways.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58550
+D3
+~
+~
+0 0
+0 0 58548
+S
+#58550
+{DEntering the Ways{x~
+{DAs you enter the the Ways, something {cicy {Dslides across your skin, as if
+you are passing through a wall of cold water.  Time stretches out; the cold
+enveloping you one hair at a time, shivering over your clothes thread by
+thread.  
+
+{DAbruptly, the chill bursts like a bubble and you pause to catch your breath.
+All around you is blackness that seems to stretch forever.  Your lantern
+makes a small pool of light around you, but too small, as if something is
+pressing back the light.  
+
+{DLooking back on the way you came, you see a dull shimmer, as if looking
+through a large piece of smoked glass set in the blackness.  Under your
+feet, the once smooth floor is pitted now, and marked with a broad strip of
+{Wwhite{x.  
+
+{DThe Avendesora leaf key that opens this Waygate seems to be missing.  You
+best hurry back before Machin Shin finds you.  {x 
+~
+0
+ACD 0
+D3
+~
+~
+0 0
+0 0 58549
+S
+#58551
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58557
+D1
+~
+~
+0 0
+0 0 58500
+D3
+~
+~
+0 0
+0 0 58552
+S
+#58552
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58551
+D0
+~
+~
+0 0
+0 0 58554
+D3
+~
+~
+0 0
+0 0 58553
+S
+#58553
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58552
+S
+#58554
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58555
+D2
+~
+~
+0 0
+0 0 58552
+S
+#58555
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58556
+D2
+~
+~
+0 0
+0 0 58554
+S
+#58556
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 58557
+D3
+~
+~
+0 0
+0 0 58555
+S
+#58557
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58556
+D2
+~
+~
+0 0
+0 0 58551
+S
+#58558
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58437
+D2
+~
+~
+0 0
+0 0 58559
+S
+#58559
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58558
+D2
+~
+~
+0 0
+0 0 58560
+S
+#58560
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58559
+D2
+~
+~
+0 0
+0 0 58405
+S
+#58561
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58562
+D3
+~
+~
+0 0
+0 0 58409
+S
+#58562
+{DWithin the Ways - Another Island{x~
+{DYou have heard that it was always daylight within the Ways.  The islands
+themselves were once lushly planted with carpets of thick, green grass and a
+variety of fruit trees.  Ranging in size from fifty to well over one hundred
+paces in diameter, these islands varied in shape from long ovals to
+perfectly round circles.  Each verdant isle had railings grown around the
+perimeter, perhaps to keep the wary traveler from accidently falling over
+the side.  This island is only a reminant of what it once was, covered in
+pox and lifeless stone.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58563
+D3
+~
+~
+0 0
+0 0 58561
+S
+#58563
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58564
+D3
+~
+~
+0 0
+0 0 58562
+S
+#58564
+{DMore of the Ways{x~
+{DThe bridges and ramps lead up and down and across.  Sometimes a {Wwhite{x
+{Dline runs off into the dark from a guiding, just like the original line you
+followed.  For the first time, your light allows you a view of the
+nothingness.  Blackness below as blackness above, shearing off the light. 
+If there is a bottom, it could be a thousand feet down.  Or never.  At a
+bridge to the left, because it is so close, you can see what is under the
+bridge, holding it up.  Nothing.  Less than a span in thickness, and
+absolutely nothing underneath.  You divert your eyes to another bridge, and
+another.  There is a Waygate at the end of them, somewhere, a gate back to
+the world, where there is sun and sky and wind.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58410
+D3
+~
+~
+0 0
+0 0 58563
+S
+#58565
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58473
+D3
+~
+~
+0 0
+0 0 58566
+S
+#58566
+{DDeterioration of the Ways{x~
+{DFor thousands of years, the Ways provided safe transit for Ogier and
+human alike.  Then, during the War of the Hundred Years, they began to
+change, gradually growing dank and dim.  The change was so slow that few
+noticed it until darkness enveloped the bridges.  Not all who went in came
+out again.  Some who did come out had been driven mad...  Perhaps by Machin
+Shin, a presence that watched from the shadows.  These paths that you now
+follow are dark and soiled.  Any whisper of wind should remind you to run!  {x
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58565
+D3
+~
+~
+0 0
+0 0 58485
+S
+#58567
+{DWalking Through the Ways{x~
+{DOgier Elders would not be pleased to find you here.  They have banned
+everyone from traveling the Ways, for the darkness, and the creature that
+roams them have made them deadly.  Few, like you, have dared to travel the
+Ways and can relate that the organic stone, once beautiful and smooth, is
+now pitted and broken, sometimes to the point of crumbling when you touch
+it.  The trees and grass that once graced the islands are long gone, and the
+darkness is thick, deeper than night, and resistant to all light brought
+against it.  Rumor has it that the Ways were grown from the One Power by
+male Aes Sedai, and therefore, with Saidin.  The deterioration that you see
+is almost certainly a result of the taint from Saidin seeping into that
+which was made from it.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58485
+D3
+~
+~
+0 0
+0 0 58568
+S
+#58568
+{DAn Island{x~
+{DThis island that you stand on is marked with pox and is decrepid and old.
+Those who are educated know that once things grew on these islands.  Things
+told about in books.  There was green grass to sleep on, soft as any feather
+bed.  Fruit trees to spice the food you'd brought with an apple or a pear or
+a bellfruit, sweet and crisp and juicy whatever the time of year outside. 
+Now, nothing remains of a once beautiful landscape.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58567
+D2
+~
+~
+0 0
+0 0 58569
+S
+#58569
+{DAt the Foot of a Bridge{x~
+{DAt the foot of this bridge, a horrifying sight awaits you.  Frozen shapes
+of trollocs rear, caught flailing about them with hooked axes and
+scythe-swords.  Gray and pitted like the stone, the huge bodies are
+half-sunken in the swollen, bubbled surface.  Some of the bubbles have
+burst, revealing more snouted faces, forever snarling with fear.  Even for
+trollocs, this had been a horrible way to die.  Only a few feet beyond the
+trollocs, the bridge ends.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58568
+D2
+~
+~
+0 0
+0 0 58570
+S
+#58570
+{DA Crossing{x~
+{DThe broad, {Wwhite{x {Dline continues across the pock-marked floor, leading
+across the bridge into the precarious dungeon.  As you walk, an object
+appears out of the dark a few feet away.  It is a tall slab of stone,
+standing on end.  The broad {Wwhite{x {Dline stops at its base.  It is covered
+with sinuous curves of metal inlaid on the wide surface, and graceful lines
+like vines and leaves.  Discolored pocks mark the stone and metal alike. 
+Perhaps these imprints can tell you where to go now...  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58569
+D2
+~
+~
+0 0
+0 0 58571
+S
+#58571
+{DLost in the Ways{x~
+{DLooking around in the darkness, you realize that the Ways clearly exist
+outside the normal confines of time and space through the One Power. 
+Normal, physical rules do not apply to the network of the Ways.  Ramps,
+islands and bridges seem to hang free within a vast emptiness, sometimes one
+over another with no apparent means of support.  Directions such as north or
+south, up or down, have no real meaning in the Ways, and paths often spiral
+above or below for no obvious reason.  A day's walk may bring you to a
+destination more than one hundred or even five-hundred miles distant from
+your starting point, depending on which path you take.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58570
+D2
+~
+~
+0 0
+0 0 58572
+S
+#58572
+{DA Bridge{x~
+{DCrossing a bridge, you wonder what holds it up.  Your boots make a gritty
+sound beneath your feet, as if bits of stone flake off at every step. 
+Everything you can see is covered with shallow holes, some tiny pin pricks,
+others shallow, rough-edged craters a stride across, as if there has been a
+rain of acid, or the stone is rotting.  The guard rail shows cracks and
+holes too.  In places it is gone altogether for as much as a span.  For all
+you know, the bridge could be a solid stone all the way to the center of the
+earth, but what you see makes you hope that it will stand long enough for
+you to reach the other end.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58571
+D2
+~
+~
+0 0
+0 0 58573
+S
+#58573
+{DAn Island{x~
+{DThe bridge you trod does end eventually, in a place that looks no
+different from its beginning.  All you can see is what your little pool of
+light touches, but you get the impression that it is a large space, like a
+flat-topped hill, with bridges and ramps leaving all around it.  The pox in
+the ground are deep enough here to twist your ankle, or even break your leg,
+so walk carefully.  {x 
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 58572
+D1
+~
+~
+0 0
+0 0 58574
+S
+#58574
+{DA Ramp{x~
+{DStudying this ramp as it continues, you see it curving up and up.  After
+an interminable climb, curving continuously, the ramp leads off onto another
+island, just like the one at the beginning.  The pock-marked ground
+stretches, arching over bridges and wide mazes of paths within the Ways. 
+The only way you hve to tell where you are going is to follow the broken
+{Wwhite{x {Dline beneath your feet because you no longer have any idea which
+direction you are traveling in.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58490
+D3
+~
+~
+0 0
+0 0 58573
+S
+#58575
+{DContinuing Through the Ways{x~
+{DIn your small collection of light in the darkness, one bridge looks
+exactly like another, except that some have breaks in the guardrails and
+some do not.  Only the degree of damage to the Guidings gives any difference
+to the islands.  It is so easy to lose track of time here, that you are not
+even sure how many bridges you have crossed or how many ramps you have
+traveled.  {x 
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 58576
+D3
+~
+~
+0 0
+0 0 58490
+S
+#58576
+{DThe End of a Bridge{x~
+{DThe Ways seem almost boring because you have been walking and searching
+for hours.  The silence is only broken from time to time by a startling,
+soft wind -- maybe the dreaded Machin Shin.  Presently worse, however, is
+that you are standing in the middle of a bridge, and only a few feet ahead
+of you, it ends in a jagged gap.  The light of your lantern stretches just
+far enough to touch the other side, thrusting out of the dark like a giant's
+broken tooth.  A loose stone bounces across the ground into the dead black
+below.  If there is any sound of it striking bottom, you do not hear it. 
+You must turn back.  {x 
+~
+0
+AD 0
+D3
+~
+~
+0 0
+0 0 58575
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 58400 2 2
+D 0 58401 0 2
+D 0 58432 0 2
+D 0 58499 2 2
+O 0 144 0 58400
+O 0 12549 0 58401
+R 0 58403 4
+O 0 58416 0 58403
+R 0 58405 4
+O 0 58416 0 58405
+O 0 58417 0 58409
+R 0 58410 4
+O 0 58416 0 58410
+M 0 58404 20 58410 1
+O 0 58416 0 58411
+O 0 58416 0 58411
+O 0 58420 0 58413
+P 0 58425 1 58420 1
+P 0 58421 1 58420 1
+O 0 58419 0 58413
+O 0 58407 0 58413
+O 0 58416 0 58414
+O 0 58417 0 58417
+M 0 58400 20 58418 1
+E 0 58400 0 20
+O 0 58416 0 58418
+O 0 58407 0 58419
+R 0 58420 4
+O 0 58416 0 58420
+O 0 58417 0 58424
+O 0 58416 0 58425
+O 0 58407 0 58427
+O 0 58407 0 58429
+M 0 58402 20 58430 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58430 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58430 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58430 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58430
+O 0 30397 0 58432
+O 0 58417 0 58433
+M 0 58400 20 58434 1
+E 0 58400 0 20
+M 0 58400 20 58436 1
+E 0 58400 0 20
+O 0 58416 0 58436
+M 0 58404 20 58439 1
+O 0 58417 0 58439
+R 0 58440 4
+M 0 58402 20 58440 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58440 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58440 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58440 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+M 0 58401 20 58440 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58407 20 58440 1
+E 0 58423 0 11
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58406 20 58440 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58405 20 58440 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58440
+M 0 58400 1 58440 1
+O 0 58416 0 58441
+O 0 58416 0 58442
+O 0 58417 0 58444
+M 0 58402 20 58445 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58445 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58445 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58445 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+M 0 58400 20 58445 1
+E 0 58400 0 20
+M 0 58404 20 58446 1
+M 0 58400 20 58448 1
+E 0 58400 0 20
+O 0 58417 0 58449
+R 0 58450 4
+O 0 58416 0 58450
+M 0 58400 20 58451 1
+E 0 58400 0 20
+O 0 58407 0 58452
+M 0 58400 20 58453 1
+E 0 58400 0 20
+O 0 58416 0 58454
+O 0 58416 0 58456
+O 0 58420 0 58458
+P 0 58422 1 58420 1
+O 0 58419 0 58458
+O 0 58407 0 58458
+R 0 58459 4
+M 0 58404 20 58459 1
+O 0 58416 0 58459
+O 0 58417 0 58464
+R 0 58465 4
+O 0 58416 0 58465
+M 0 58401 20 58468 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58407 20 58468 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58406 20 58468 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58405 20 58468 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58417 0 58468
+M 0 58400 20 58469 1
+E 0 58400 0 20
+M 0 58400 20 58470 1
+E 0 58400 0 20
+O 0 58417 0 58470
+O 0 58416 0 58471
+M 0 58404 20 58472 1
+O 0 58407 0 58472
+R 0 58473 4
+O 0 58416 0 58473
+R 0 58477 4
+O 0 58416 0 58477
+O 0 58407 0 58478
+O 0 58420 0 58480
+O 0 58419 0 58480
+O 0 58407 0 58480
+O 0 58416 0 58481
+M 0 58402 20 58485 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58485 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58485 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58485 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+R 0 58485 4
+M 0 58402 20 58486 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58486 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58486 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58486 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58486
+O 0 58416 0 58488
+R 0 58490 4
+M 0 58402 20 58490 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58490 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58490 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58490 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+M 0 58401 20 58490 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58407 20 58490 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58406 20 58490 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58405 20 58490 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+M 0 58403 1 58490 1
+E 0 58406 0 20
+O 0 58417 0 58492
+R 0 58493 4
+O 0 58416 0 58493
+M 0 58400 20 58494 1
+E 0 58400 0 20
+M 0 58400 20 58495 1
+E 0 58400 0 20
+O 0 58407 0 58496
+O 0 58416 0 58497
+O 0 14595 0 58499
+R 0 58500 4
+M 0 58404 20 58500 1
+O 0 58416 0 58500
+O 0 58416 0 58503
+O 0 58420 0 58505
+O 0 58419 0 58505
+O 0 58407 0 58505
+O 0 58416 0 58506
+M 0 58400 20 58508 1
+E 0 58400 0 20
+O 0 58417 0 58509
+R 0 58510 4
+M 0 58402 20 58510 1
+E 0 58424 0 18
+E 0 58424 0 17
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58510 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58510 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58510 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+M 0 58401 20 58510 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58407 20 58510 1
+E 0 58423 0 11
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58406 20 58510 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58405 20 58510 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58510
+O 0 58416 0 58511
+M 0 58400 20 58512 1
+E 0 58400 0 20
+M 0 58400 20 58513 1
+E 0 58400 0 20
+O 0 58416 0 58514
+R 0 58519 4
+O 0 58416 0 58519
+O 0 58420 0 58521
+P 0 58422 1 58420 1
+O 0 58419 0 58521
+O 0 58407 0 58521
+M 0 58401 20 58522 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58407 20 58522 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58406 20 58522 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58405 20 58522 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58522
+O 0 58417 0 58526
+R 0 58527 4
+O 0 58416 0 58527
+M 0 58400 20 58528 1
+E 0 58400 0 20
+M 0 58400 20 58529 1
+E 0 58400 0 20
+O 0 58407 0 58530
+O 0 58416 0 58531
+O 0 58416 0 58536
+R 0 58537 4
+M 0 58402 20 58537 1
+E 0 58424 0 17
+E 0 58424 0 18
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58537 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58537 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58537 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58537
+O 0 58420 0 58539
+O 0 58419 0 58539
+O 0 58407 0 58539
+M 0 58400 20 58542 1
+E 0 58400 0 20
+M 0 58400 20 58543 1
+E 0 58400 0 20
+O 0 58417 0 58545
+O 0 58416 0 58546
+O 0 58407 0 58547
+O 0 58416 0 58548
+R 0 58552 4
+O 0 58416 0 58552
+O 0 58417 0 58555
+O 0 58416 0 58556
+O 0 58417 0 58558
+O 0 58407 0 58562
+O 0 58407 0 58563
+O 0 58417 0 58565
+M 0 58402 20 58567 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58410 20 58567 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58409 20 58567 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58408 20 58567 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58416 0 58568
+O 0 58407 0 58569
+O 0 58420 0 58569
+P 0 58422 1 58420 1
+O 0 58419 0 58569
+O 0 58407 0 58572
+M 0 58401 20 58573 1
+E 0 58405 0 20
+E 0 58404 0 9
+E 0 58403 0 7
+E 0 58402 0 8
+E 0 58401 0 15
+M 0 58407 20 58573 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58411 0 20
+M 0 58406 20 58573 1
+E 0 58415 0 7
+E 0 58413 0 5
+E 0 58409 0 13
+E 0 58410 0 20
+M 0 58405 20 58573 1
+E 0 58414 0 7
+E 0 58412 0 2
+E 0 58409 0 13
+E 0 58408 0 20
+O 0 58407 0 58573
+O 0 58417 0 58574
+M 0 58400 20 58576 1
+E 0 58400 0 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

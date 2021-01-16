@@ -1,0 +1,2235 @@
+#AREADATA
+Name Kore Springs~
+Builders Oniren~
+VNUMs 1800 1899
+Credits None~
+Security 8
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1800
+small mouse~
+a {Ds{ymal{Dl m{yous{De{x~
+There is a {Ds{ymal{Dl m{yous{De{x scurrying around the crates and barrels.
+~
+This is just a {Ds{ymal{Dl m{yous{De{x with big ears, a long tail and soft brown fur.  
+~
+rabbit~
+AGY 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#1801
+small mouse~
+a {Ds{ymal{Dl m{yous{De{x~
+A {Ds{ymal{Dl m{yous{De{x is nibbling a hole in one of the sacks.
+~
+This is just a {Ds{ymal{Dl m{yous{De{x with big ears, a long tail and soft brown fur.  
+~
+rabbit~
+AGY 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#1802
+sparrow little bird~
+a {ys{Dp{warr{Do{yw{x~
+A little bird hops around the garden, searching the garden for food.
+~
+There is not anything out of the ordinary about this little {ys{Dp{warr{Do{yw{x.  
+~
+song bird~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 ABb 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff T
+F off FH
+#1803
+young boy~
+a {Cy{co{Du{wn{Wg{w b{Co{cy{x~
+A {Cy{co{Du{wn{Wg{w b{Co{cy{x stoops down to collect some bugs in a jar.
+~
+Dressed in plain yet pratical woolen clothing, there does not appear to
+be anything out of the ordinary about this {Cy{co{Du{wn{Wg{w b{Co{cy{x.  
+~
+andoran~
+AGW 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1804
+young girl~
+a {My{mo{Du{wn{Wg{w {Wg{wi{Mr{ml{x~
+A {My{mo{Du{wn{Wg{w {Wg{wi{Mr{ml{x is skipping merrily along the road.
+~
+Dressed in plain yet pratical woolen clothing, there does not appear to
+be anything out of the ordinary about this {My{mo{Du{wn{Wg{w {Wg{wi{Mr{ml{x.  
+~
+andoran~
+AGW 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#1800
+large key engraved 1~
+a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {r'{R#1{r'{x~
+This is a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {r'{R#1{r'{x.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 100 100
+#1801
+large key engraved 2~
+a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {m'{M#2{m'{x~
+This is a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {m'{M#2{m'{x.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 100 100
+#1802
+large key engraved 3~
+a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {g'{G#3{g'{x~
+This is a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {g'{G#3{g'{x.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 100 100
+#1803
+large key engraved 4~
+a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {b'{B#4{b'{x~
+This is a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {b'{B#4{b'{x.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 100 100
+#1804
+large key engraved 5~
+a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {y'{Y#5{y'{x~
+This is a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {y'{Y#5{y'{x.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 100 100
+#1805
+large key engraved 6~
+a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {c'{C#6{c'{x~
+This is a {Dl{wa{Wr{wg{De{W k{we{Dy{x engraved with {c'{C#6{c'{x.~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 100 100
+#0
+
+
+
+#ROOMS
+#1800
+{cOutside K{Co{Wr{Ce Sp{Wr{wi{Wn{Cg{cs{x~
+The Tar Valon Road is a dusty yet well travelled thoroughfare that passes
+by thickly growing forests.  There are a few farms dotted around the
+landscape that are almost entirely concealed by trees but to the east the
+thickly growing vegetation gives way to a small red brick settlement built
+around a gushing spring.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 1801
+S
+#1801
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Tar Valon Road seems to be the only street within the village of Kore
+Springs.  Although the road has been paved with gray stone the area is so
+dusty that even a gentle breeze is adequate enough to create a cloud of
+dust.  On either side of the road are red brick cottages of varying shapes
+and sizes that have been roofed with thatch.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1802
+D3
+~
+~
+0 0
+0 0 1800
+S
+#1802
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+An assortment of red brick buildings have been constructed along both
+sides of Tar Valon Road as it passes through the village of Kore Springs. 
+Most of the structures are cottages but the larger ones seem to be the
+workplaces of local tradesmen.  Even though the road has been paved with
+gray stone the area is dusty, even a subtle breeze is strong enough to kick
+up a dust cloud.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1840
+D1
+~
+~
+0 0
+0 0 1803
+D3
+~
+~
+0 0
+0 0 1801
+S
+#1803
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Red brick buildings of varying shapes and sizes are lined up along both
+sides of Tar Valon Road as it passes through the village of Kore Springs. 
+The majority of the structures are cottages but the bigger ones appear to be
+the workplaces of local tradesmen.  Although the road has been paved with
+gray stone the area is dusty, even a gentle gust of winds is enough to kick
+up a cloud of dust.  The row of buildings on the north side of the road is
+split by a narrow lane leading up a gentle grassy incline.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1820
+D1
+~
+~
+0 0
+0 0 1804
+D3
+~
+~
+0 0
+0 0 1802
+S
+#1804
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Tar Valon Road is the only street within the village of Kore Springs. 
+Although the road has been paved with gray stone the area is dusty, even a
+gentle gust of wind is enough to kick up a cloud of dust.  There are red
+brick buildings along both sides of the road, a few of them are cottages but
+there is the odd shop to be seen along here.  To the east lies the Village
+Green, one of the main focal points of Kore Springs.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1841
+D1
+~
+~
+0 0
+0 0 1805
+D3
+~
+~
+0 0
+0 0 1803
+S
+#1805
+{GThe Village Green{x~
+The heart of the village of Kore Springs is marked by this large area of
+grassy land.  A broad paved road known as the Tar Valon Road follows the
+southern edge of the green.  Overlooking the entire area from the south side
+of the road is a large red brick building that appears to be an inn; a large
+stretch of muddy ground at the front of the building has been reserved for
+the carts and wagons of the inn's patrons.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 1806
+D2
+~
+~
+0 0
+0 0 1811
+D3
+~
+~
+0 0
+0 0 1804
+S
+#1806
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Red brick cottages of varying shapes and sizes flank either side of Tar
+Valon Road as it passes through the village of Kore Springs.  Although the
+road has been paved with gray stone the area is dusty, even a gentle gust of
+wind is enough to kick up a cloud of dust.  To the west lies the Village
+Green, one of the main focal points of Kore Springs.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1807
+D3
+~
+~
+0 0
+0 0 1805
+S
+#1807
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Tar Valon Road appears to be the only street within the village of Kore
+Springs.  Although the road has been paved with gray stone the area is
+dusty, even a gentle breeze is enough to kick up a cloud of dust.  On either
+side of the road are red brick cottages of varying shapes and sizes that
+have been roofed with thatch.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1808
+D3
+~
+~
+0 0
+0 0 1806
+S
+#1808
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Tar Valon Road is the only street within the village of Kore Springs. 
+Although the road has been paved with gray stone it is dusty, even a gentle
+breeze is enough to kick up a cloud of dust.  There are a few cottages built
+along both sides of the road, each one has been constructed from red brick
+and has a thatched roof.  The row of cottages on the south side of the road
+is split by a narrow lane leading down a gentle grassy incline.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1809
+D2
+~
+~
+0 0
+0 0 1823
+D3
+~
+~
+0 0
+0 0 1807
+S
+#1809
+{wT{Wa{wr V{Walo{wn R{Woa{wd{x~
+Red brick cottages of varying shapes and sizes flank either side of Tar
+Valon Road as it passes through the village of Kore Springs.  Although the
+road has been paved with gray stone the area is dusty, even a gentle breeze
+is enough to kick up a cloud of dust.  A small cluster of cottages can be
+seen to the south but there is no direct route to them from this point.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1810
+D3
+~
+~
+0 0
+0 0 1808
+S
+#1810
+{cOutside K{Co{Wr{Ce Sp{Wr{wi{Wn{Cg{cs{x~
+This is a dusty yet well travelled thoroughfare that passes by thickly
+growing forests.  In the distance a few small farms can be seen, almost
+entirely concealed by trees.  To the west the thickly growing woodland and
+vegetation gives way to a small red brick settlement built around a gushing
+spring at its heart.  
+~
+0
+0 14
+D3
+~
+~
+0 0
+0 0 1809
+S
+#1811
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yA Muddy Yard{x~
+This is a stretch of muddy ground located at the front of a tall red
+brick inn with a thatched roof.  Ruts and grooves scoring the surface of the
+earth betray this land's use as a place for people to park their carts and
+wagons.  The Tar Valon Road lies north of this makeshift yard and beyond the
+road is the Village Green.  
+~
+0
+C 2
+D0
+~
+~
+0 0
+0 0 1805
+D1
+~
+~
+0 0
+0 0 1812
+D2
+~
+~
+3 3
+1 0 1813
+S
+#1812
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yA Muddy Yard{x~
+This is a large area of muddy ground located at the front of a tall red
+brick inn with a thatched roof.  Potholes and grooves scoring the surface of
+the earth reveal this land's use as a place for people to park their carts
+and wagons.  A wooden railing built around the yard seperates this area from
+a paved street that lies north of it.  
+~
+0
+C 2
+D2
+~
+~
+3 3
+1 0 1814
+D3
+~
+~
+0 0
+0 0 1811
+S
+#1813
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Reception{x~
+Some people may consider this building to be unusually large for a
+village inn but it lies along one of the main trade routes between Tar Valon
+and Caemlyn.  This is the inn's reception, a plain and somber room with
+white plaster walls and dark wooden floor boards.  The west wall is
+dominated by a wide fireplace made from rounded stones with a small brass
+cased clock placed centrally upon the mantelpiece.  Two tall oblong windows
+flank the main entrance on the north side of the room and look out over the
+Tar Valon Road and the Village Green.  There is a steep staircase built
+along the east side of the reception that leads to the guest rooms as well
+as a door on the south side of the room.  
+~
+0
+CD 0
+D0
+~
+~
+3 3
+1 0 1811
+D1
+~
+~
+3 3
+1 0 1814
+D2
+~
+~
+3 3
+1 0 1816
+D4
+~
+~
+0 0
+0 0 1831
+S
+#1814
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Kitchen{x~
+The kitchen within this red brick inn is quite big.  Numerous cupboards,
+racks and shelves line the walls of the room except for the east side where
+a large stove and fireplace has been built.  At the center of the kitchen is
+a large counter topped with polished white stone where food is prepared. 
+The only exit of real interest is a door on the north side of the room that
+leads out into a muddy yard.  
+~
+0
+CD 0
+D0
+~
+~
+3 3
+1 0 1812
+D1
+~
+~
+3 3
+1 0 1815
+D2
+~
+~
+3 3
+1 0 1817
+D3
+~
+~
+3 3
+1 0 1813
+D5
+~
+trapdoor~
+4099 4099
+1 0 1827
+S
+#1815
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Pantry{x~
+The pantry is a small red brick room that has been constructed with
+numerous stone shelves.  It is generally a cold and dark area with an icy
+gray flagstone floor and no windows allowing light into this room from
+outside.  The only exit from this room is a hefty wooden door built into the
+west wall that leads back into the kitchen.  
+~
+0
+ACD 0
+D3
+~
+~
+3 3
+1 0 1814
+S
+#1816
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Common Room{x~
+This is the common room belonging to the Good Queen's Justice.  Thick
+wooden beams help support the ceiling of this large square room that has
+been built using red brick.  A thin layer of sawdust has been scattered
+across the wooden floorboards, masking many of the scrape marks caused by
+the furniture being moved around from time to time.  On the north side of
+the room is a hefty wooden door that leads into the inn's reception.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1813
+D1
+~
+~
+0 0
+0 0 1817
+D2
+~
+~
+0 0
+0 0 1818
+S
+#1817
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Common Room{x~
+This is the common room belonging to the Good Queen's Justice.  Thick
+timber beams help support the ceiling of this large square room that has
+been made mainly using red brick.  A thin layer of sawdust has been spread
+across the wooden floorboards, concealing many of the scrape marks caused by
+the furniture being moved around from time to time.  There are several tall
+oblong windows framed with gray curtains along the east side of the common
+room provides a view of a large area of overgrown grassland that has a few
+red brick cottages built along its far side whilst on the north side of the
+room is a hefty wooden door that leads into the inn's kitchen.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1814
+D2
+~
+~
+0 0
+0 0 1819
+D3
+~
+~
+0 0
+0 0 1816
+S
+#1818
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Common Room{x~
+This is the Good Queen's Justice's common room.  Thick timber beams
+support the ceiling of this large square room that has been built mainly
+using red brick.  A thin layer of sawdust has been spread across the timber
+floorboards, masking many of the scrape marks caused by the furniture being
+moved around from time to time.  The main focal point of the common room is
+the long red brick hearth that has been built along the southern wall.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1816
+D1
+~
+~
+0 0
+0 0 1819
+S
+#1819
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Common Room{x~
+This is the Good Queen's Justice's common room.  Thick timber beams help
+support the ceiling of this large square room that has been built using red
+brick.  A thin layer of sawdust has been scattered across the timber
+floorboards, hiding many of the scrape marks caused by the furniture being
+moved around from time to time.  There are several tall oblong windows
+framed with gray curtains along the east side of the room offers a view of a
+large area of overgrown grassland that has a few red brick cottages built
+along its far side.  The main focal point of the common room is the long red
+brick hearth that has been built along the southern wall.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1817
+D3
+~
+~
+0 0
+0 0 1818
+S
+#1820
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a narrow lane that winds its way along a gentle grassy incline. 
+The path passes by some thatched buildings, the ones along the bottom part
+of the slope appear to be shops whilst the ones further up the hill are
+cottages.  To the south at the bottom of the incline the lane joins a broad
+nevertheless dusty road that has been paved with slabs of stone.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1821
+D2
+~
+~
+0 0
+0 0 1803
+S
+#1821
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+Here lies a narrow footpath that leads along a gentle grassy hill.  The
+lane passes by a neat row of thatched cottages built using red brick; each
+of the houses has a small plot of land at its front that has been fenced
+off.  The land on the west side of the lane is rather unkempt as it has
+become overgrown with tall grass and weeds.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1822
+D1
+~
+gate~
+3 3
+1 0 1863
+D2
+~
+~
+0 0
+0 0 1820
+S
+#1822
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is the northern end of a narrow lane leading along a gentle grassy
+slope.  The lane passes by a row of thatched cottages constructed using red
+brick; each of the houses has a small plot of land at its front that has
+been fenced off.  The land on the west side of the lane is rather untidy as
+it has become overgrown with tall grass and weeds.  
+~
+0
+0 1
+D1
+~
+gate~
+3 3
+1 0 1857
+D2
+~
+~
+0 0
+0 0 1821
+S
+#1823
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a narrow lane that winds its way along a gentle grassy incline. 
+The path passes by a few thatched cottages constructed using red brick; each
+of the houses possesses a small plot of land at its front that has been
+enclosed by a knee-high wooden fence.  To the north at the top of the
+incline the lane joins a broad nevertheless dusty thoroughfare that has been
+paved with slabs of stone.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1808
+D1
+~
+gate~
+3 3
+1 0 1851
+D2
+~
+~
+0 0
+0 0 1824
+S
+#1824
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+Here lies a narrow footpath that leads along a gentle grassy hill.  The
+lane passes by a neat row of thatched cottages constructed using red brick;
+each of the houses has a small plot of land at its front that has been
+fenced off.  The land on the west side of the lane is rather untidy as it
+has become overgrown with tall grass and weeds.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1823
+D1
+~
+gate~
+3 3
+1 0 1869
+D2
+~
+~
+0 0
+0 0 1825
+S
+#1825
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a narrow lane leading along a gentle grassy slope.  The lane
+passes by a row of thatched cottages constructed using red brick; each of
+the houses has a small plot of land at its front that has been fenced off. 
+The land on the west side of the lane is rather unkempt as it has become
+overgrown with tall grass and weeds.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1824
+D1
+~
+gate~
+3 3
+1 0 1875
+D2
+~
+~
+0 0
+0 0 1826
+S
+#1826
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a narrow footpath that winds its way along a gentle grassy slope.
+The lane passes by a row of red brick cottages with thatched roofs; each of
+the houses has a small plot of land at its front that has been fenced off
+from the rest of the area.  The land on the west side of the lane looks
+rather unkempt as it has become overgrown with weeds and tall grass.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1825
+D1
+~
+gate~
+3 3
+1 0 1881
+D2
+~
+~
+0 0
+0 0 1842
+S
+#1827
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Cellar{x~
+This is a red brickwork chamber built beneath the inn.  The room has been
+used to store a multitude of items including casks, barrels, crates and
+sacks.  The only exit from this room is a trapdoor set in the ceiling that
+can be accessed via a staircase that is also made from red bricks.  There is
+a thick layer of dust over many of the items in the cellar but scrape marks
+and dusty footprints show that this room is often accessed.  
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 1828
+D3
+~
+~
+0 0
+0 0 1830
+D4
+~
+trapdoor~
+4099 4099
+1 0 1814
+S
+#1828
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Cellar{x~
+This is a huge red brickwork chamber constructed underneath the inn.  The
+underground room has been used to store a massive amount of items including
+casks, barrels, sacks and crates.  There is a thick layer of dust covering
+many of the items inside the cellar but scrape marks and dusty footprints
+show that this room is frequently accessed.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 1827
+D3
+~
+~
+0 0
+0 0 1829
+S
+#1829
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Cellar{x~
+This is a large red brickwork chamber constructed underneath the inn. 
+The underground room has been used to store a huge amount of items including
+barrels, casks, crates and sacks.  There is a thick layer of dust covering
+numerous items within the cellar but scrape marks and dusty footprints show
+that this room is regularly accessed.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 1830
+D1
+~
+~
+0 0
+0 0 1828
+S
+#1830
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yThe Cellar{x~
+This is a large red brickwork chamber built underneath the inn.  The
+underground room has been used to store a huge number of items including
+barrels, casks, sacks and crates.  There is a thick layer of dust over many
+of the items within the old cellar but scrape marks and dusty footprints
+show that this room is frequently accessed.  
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 1827
+D2
+~
+~
+0 0
+0 0 1829
+S
+#1831
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yA Landing{x~
+This is the north end of a somewhat bland-looking landing located
+somewhere on the first floor of the inn.  The walls have been left as bare
+white plaster and nothing has been used to cover the wooden floorboards. 
+Several small brass lanterns hung from the ceiling illuminate the area and
+reveal several doorways along the corridor.  At the end of the landing is a
+steep wooden staircase leading down to the reception.  
+~
+0
+D 0
+D1
+~
+~
+8231 8231
+2 1801 1835
+D2
+~
+~
+0 0
+0 0 1832
+D3
+~
+~
+8231 8231
+2 1800 1834
+D5
+~
+~
+0 0
+0 0 1813
+S
+#1832
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yA Landing{x~
+This is a fairly bland-looking room located somewhere on the first floor
+of the Good Queen's Justice.  The walls have been left as bare white plaster
+and nothing has been used to cover the timber floorboards.  A few small yet
+rather plain brass lanterns attached to the ceiling illuminate the area and
+reveal several doorways along the corridor that all look identical.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1831
+D1
+~
+~
+8231 8231
+2 1803 1837
+D2
+~
+~
+0 0
+0 0 1833
+D3
+~
+~
+8231 8231
+2 1802 1836
+S
+#1833
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {yA Landing{x~
+This is the south end of a rather bland-looking landing located somewhere
+on the first floor of the inn.  The walls have been left as bare white
+plaster and nothing has been used to cover the timber floorboards.  A few
+small brass lanterns suspended from the ceiling illuminate the area and
+reveal several doorways along the corridor that all look the same.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1832
+D1
+~
+~
+8231 8231
+2 1805 1839
+D3
+~
+~
+8231 8231
+2 1804 1838
+S
+#1834
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {rRoom {R#1{x~
+This is a large yet neat bedroom located in the Good Queen's Justice,
+Kore Spring's only inn.  Although the room has bare plaster walls a splash
+of color has been added to the room with is a large rug made of scarlet red
+wool spread across the timber floorboards and matching drapes attached to
+the window on the west side of the room.  There is only one exit from this
+room, a sturdy door on the east side.  
+~
+0
+BD 0
+D1
+~
+~
+8231 8231
+2 1800 1831
+S
+#1835
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{x - {mRoom {M#2{x~
+This is a large yet tidy bedroom located in the Good Queen's Justice,
+Kore Spring's only inn.  Even though the room has bare plaster walls a dash
+of color has been added to the room with is a large mat made of violet wool
+spread across the wooden floorboards and matching drapes fitted to the
+window on the east side of the room.  There is only one exit from this room,
+a sturdy door on the west side.  
+~
+0
+BD 0
+D3
+~
+~
+8231 8231
+2 1801 1831
+S
+#1836
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{w {x- {gRoom {G#3{x~
+This is a small bedroom situated in the Good Queen's Justice, Kore
+Spring's only inn.  Even though the room has bare plaster walls a dash of
+color has been added to the room with is a large rug woven using dark green
+wool spread across the wooden floorboards and matching curtains fitted to
+the window on the west side of the room.  There is only one exit from this
+room, a sturdy door on the east side.  
+~
+0
+BD 0
+D1
+~
+~
+8231 8231
+2 1802 1832
+S
+#1837
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{w {x- {bRoom {B#4{x~
+This is a tidy little bedroom situated in the Good Queen's Justice, Kore
+Spring's only inn.  Although the room has bare plaster walls a splash of
+color has been added to the room with is a large rug made of dark blue wool
+spread across the timber floorboards and matching curtains fitted to the
+window on the east side of the room.  There is only one exit from this room,
+a robust door on the west side.  
+~
+0
+BD 0
+D3
+~
+~
+8231 8231
+2 1803 1832
+S
+#1838
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{w {x- {yRoom {Y#5{x~
+This is a tidy little bedroom located in the Good Queen's Justice, Kore
+Spring's only inn.  Although the room has bare plaster walls a splash of
+color has been added to the room with is a large mat woven using bright
+yellow wool spread across the wooden floorboards and matching curtains
+fitted to the window on the west side of the room.  There is only one exit
+from this room, a robust door on the east side.  
+~
+0
+BD 0
+D1
+~
+~
+8231 8231
+2 1804 1833
+S
+#1839
+{rT{Rh{we{r G{Ro{wo{Wd Qu{we{Re{rn's J{Ru{ws{Wt{wi{Rc{re{w {x- {cRoom {C#6{x~
+This is a small bedroom situated in the Good Queen's Justice, Kore
+Spring's only inn.  Even though the room has bare plaster walls a dash of
+color has been added to the room with is a large rug woven using bright blue
+wool spread across the timber floorboards and matching drapes attached to
+the window on the east side of the room.  There is only one exit from this
+room, a robust door on the west side.  
+~
+0
+BD 0
+D3
+~
+~
+8231 8231
+2 1805 1833
+S
+#1840
+{bK{Bor{be S{Bpring{bs S{Bmith{by{x~
+A reddish clay floor dulls the sound from anything hitting the ground
+within this blacksmith's workshop.  The majority of the building has been
+constructed from red brick apart from the northern part of the building
+where the forge is.  Big blocks of gray stone have been used instead to
+create the monstrously large furnace that the blacksmith uses to shape and
+weld their creations.  
+~
+0
+BD 0
+D2
+~
+~
+3 3
+1 0 1802
+S
+#1841
+{yK{Yor{ye S{Ypring{ys B{Yaker{yy{x~
+The smell of freshly baked bread, cakes and pastries fills the entire
+space within this quaint village bakery.  All manner of goods have been laid
+out on display on shelves behind the shop's counter and also in the window. 
+Apart from a small door at the back of the shop that probably leads into the
+baker's workshop, the only exit from this room is the front door that lies
+on the south side.  
+~
+0
+BD 0
+D2
+~
+~
+3 3
+1 0 1804
+S
+#1842
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a small region of land that is heavily overgrown with tall grass
+and clusters of weeds.  The terrain is relatively level here although to the
+north the land gently inclines.  There is a narrow, muddy lane along the
+slope that bends sharply to the east as it reaches the level plateau.  A few
+buildings can be seen in the distance to the south and to the northeast but
+they cannot be reached directly from this point.  
+~
+0
+C 14
+D0
+~
+~
+0 0
+0 0 1826
+D1
+~
+~
+0 0
+0 0 1843
+S
+#1843
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a narrow lane that leads through an overgrown area.  The terrain
+is relatively level with tall grass scattered with weeds growing throughout
+this area.  The lane is rather muddy, churned up by the wheels of wagons and
+carts that pass through here.  A couple of red brick cottages can be seen to
+the north but there is no direct route to them from this point.  
+~
+0
+0 14
+D2
+~
+~
+0 0
+0 0 1844
+D3
+~
+~
+0 0
+0 0 1842
+S
+#1844
+{yA N{Da{wr{Dr{wo{yw L{wa{Dn{ye{x~
+This is a narrow lane that cuts through an overgrown region of grassy
+land.  The lane is rather muddy, churned up by the wheels of wagons and
+carts that travel through this area.  A couple of red brick buildings can be
+seen to the north whilst to the south there are more crudely constructed
+buildings made from timber.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 1843
+D2
+~
+~
+0 0
+0 0 1845
+S
+#1845
+{rK{yor{re S{ypr{Di{yng{rs Br{yic{Dkw{yor{rks{x - {yA Yard{x~
+This is a large yard that is overlooked by several thatched buildings. 
+The area is crisscrossed by furrows left by the wheels of wagons and carts
+that have used this area over many years.  The largest of the buildings
+overlooking the muddy yard have been constructed using timber but there are
+one or two smaller ones that have been built using stone.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 1844
+D1
+~
+~
+0 0
+0 0 1846
+D3
+~
+~
+0 0
+0 0 1847
+S
+#1846
+{rK{yor{re S{ypr{Di{yng{rs Br{yic{Dkw{yor{rks{x - {yThe Clay Deposits{x~
+It is difficult to tell where the yard belonging to the Kore Spring
+Brickworks ends and where the clay excavation site begins.  This is a vast
+area of muddy ground although a closer inspection reveals the top layers of
+soil have been removed, exposing a layer of reddish-brown clay beneath. 
+Unused tools litter the area as well as potholes and rut marks left from the
+many wagons and carts that transport goods through the area.  Beyond the
+excavation site is a large area of overgrown grassy field that probably one
+day will succumb to the works.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 1845
+S
+#1847
+{rK{yor{re S{ypr{Di{yng{rs Br{yic{Dkw{yor{rks{x - {yA Yard{x~
+This is the west side of a large muddy yard that belongs to Kore Springs
+Brickworks.  There are two tall buildings constructed from timber and roofed
+with thatch built along the west and south sides of the yard.  Several carts
+have been parked beside the buildings, each one either being loaded with
+bricks or offloaded with sacks of sand.  A third, much smaller building can
+be seen on the north side of the yard; the building looks quite odd as it is
+build from gray stone and has a tiled roof unlike the rest of the buildings
+in the area.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 1848
+D1
+~
+~
+0 0
+0 0 1845
+D2
+~
+~
+3 3
+1 0 1849
+D3
+~
+~
+3 3
+1 0 1850
+S
+#1848
+{rK{yor{re S{ypr{Di{yng{rs Br{yic{Dkw{yor{rks{x - {yA Workshop{x~
+This small workshop is one of the only buildings within the Brickworks
+that have been constructed using stone.  Rounded river stones have been used
+to construct the majority of this building apart from the kiln where more
+precisely cut gray stone blocks have been used instead.  The only exit from
+this workshop is a door on the south side of the room opposite the kiln.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1847
+S
+#1849
+{rK{yor{re S{ypr{Di{yng{rs Br{yic{Dkw{yor{rks{x - {yA Large Warehouse{x~
+This is a very large warehouse that has been constructed using roughly
+hewn timber.  Thick wooden pillars have been placed at set intervals within
+the building to support the domed thatched roof.  Stored within this
+warehouse are large hessian sacks that have been filled to capacity with
+sand and arranged neatly in stacks.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1847
+S
+#1850
+{rK{yor{re S{ypr{Di{yng{rs Br{yic{Dkw{yor{rks{x - {yA Large Warehouse{x~
+This is a very large warehouse that has been constructed using roughly
+hewn timber.  Thick wooden pillars have been placed at set intervals within
+the building to support the domed thatched roof.  Stored within this
+warehouse are red and brown bricks that have been stacked in neat piles
+throughout the building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1847
+S
+#1851
+{gT{Gh{ge W{Gi{Ysd{Go{gm's C{Go{Ytta{Gg{ge{x - {WA Small Garden{x~
+The air here is filled with a sweet yet pungent smell of herbs growing
+within this small garden belonging to a nearby cottage.  The majority of the
+herbs grow in small orderly plots around the outer edge of the garden,
+almost totally obscuring a small white-painted fence used to mark the area's
+perimeter.  A small gravel path winds its way through the middle of the
+garden past terracotta pots filled with more flowering herbs, linking the
+cottage to the garden gate that lies on the opposite side.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 1852
+D3
+~
+gate~
+3 3
+1 0 1823
+S
+#1852
+{gT{Gh{ge W{Gi{Ysd{Go{gm's C{Go{Ytta{Gg{ge{x - {WA Living Room{x~
+Although this living room is small it is also very cozy.  At the north
+end of the room is a steep wooden staircase that leads up and at the
+opposite side of the room is red brick fireplace.  At either end of the room
+are doorways although the one on the west side of the room is flanked by a
+pair of windows that have been fitted with lacy curtains.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1853
+D3
+~
+~
+3 3
+1 0 1851
+D4
+~
+~
+0 0
+0 0 1854
+S
+#1853
+{gT{Gh{ge W{Gi{Ysd{Go{gm's C{Go{Ytta{Gg{ge{x - {WA Kitchen{x~
+Although the white plaster walls and gray flagstone floor of this kitchen
+seem rather plain, plenty of color has been used on the furniture within the
+room.  The room has been fitted with several cabinets and drawers that have
+all been made out of oak and has a pretty pink rose border design painted
+upon them.  At the center of the room is a large counter topped with dark
+gray stone while at the south side of the room is a small iron stove that
+looks old and well used.  Although there is a smell of freshly cooked food
+hanging in the air, it is almost totally overpowered by the pungent smell of
+herbs that have been hung in the kitchen window to dry.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1852
+S
+#1854
+{gT{Gh{ge W{Gi{Ysd{Go{gm's C{Go{Ytta{Gg{ge{x - {WA Landing{x~
+The landing is a rather plain area with white plaster walls and timber
+floorboards that have turned gray with age.  A small purple rug with a pink
+flower design along its borders has been placed across the floor.  At the
+north end of the landing is a particularly steep and narrow looking wooden
+staircase that leads down.  At the opposite side of the room is a small
+window adorned with pink lacy curtains that look out onto another thatched
+cottage.  There are a couple of doorways along this landing but none of the
+doors have any markings to show what lies behind each of them.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1856
+D3
+~
+~
+3 3
+1 0 1855
+D5
+~
+~
+0 0
+0 0 1852
+S
+#1855
+{gT{Gh{ge W{Gi{Ysd{Go{gm's C{Go{Ytta{Gg{ge{x - {WA Bedroom{x~
+There are a few items of furniture placed within this small bedroom which
+give it a homely feel.  As well as a comfortable bed scattered with colorful
+pillows, a small oaken chest has been placed against the north wall.  A
+plain writing desk and matching chair has been placed against the opposite
+wall near a tall wardrobe carved with a rose design.  There is a small
+window on the west side of the room that overlooks a narrow lane which winds
+its way down a gentle grassy slope that looks a little overgrown.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1854
+S
+#1856
+{gT{Gh{ge W{Gi{Ysd{Go{gm's C{Go{Ytta{Gg{ge{x - {WA Bedroom{x~
+There are a few items of furniture placed within this small bedroom which
+give it a homely feel.  As well as a comfortable bed scattered with tasseled
+pillows, a small oaken chest has been placed against the north wall.  A
+dressing table and matching stool has been placed against the opposite wall
+next to a chest of drawers; numerous items have been left scattered across
+the tabletop including a mirror, a hairbrush and a makeup box.  There is a
+small window on the east side of the room looks out over the woodland that
+surrounds Kore Springs.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1854
+S
+#1857
+{rT{Rh{re M{Ra{Yy{Ro{rr's H{Ro{Yu{Rs{re{x - {WA Large Garden{x~
+This is a large square plot of land that has been fenced off, located at
+the front of a large red brick cottage that is covered with thatch.  Beyond
+the white picket fence is a narrow yet well used muddy lane that leads along
+a grassy slope that is overgrown in places, the lane can be accessed via the
+gate on the west side of the garden.  The garden itself has been arranged in
+an orderly manner with decorative flowerbeds bordering a neatly trimmed
+lawn.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 1858
+D3
+~
+gate~
+3 3
+1 0 1822
+S
+#1858
+{rT{Rh{re M{Ra{Yy{Ro{rr's H{Ro{Yu{Rs{re{x - {WA Living Room{x~
+Although this living room is rather small it is comfortable.  At the
+north end of the room is a steep wooden staircase that leads up whilst at
+the opposite side of the room is wide red brick fireplace.  At either end of
+the room are doorways although the one on the west side of the room is
+flanked by a pair of windows that looks out over a large floral garden.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1859
+D3
+~
+~
+3 3
+1 0 1857
+D4
+~
+~
+0 0
+0 0 1860
+S
+#1859
+{rT{Rh{re M{Ra{Yy{Ro{rr's H{Ro{Yu{Rs{re{x - {WA Kitchen{x~
+This is a rather plain room with white plaster walls and a gray flagstone
+floor.  The room is illuminated by several lamps suspended from the timber
+ceiling beams.  The room has been fitted with several cabinets and drawers
+that have all been made out of plain wood.  At the center of the room is a
+stone-topped counter while at the south side of the room is a small iron
+stove.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1858
+S
+#1860
+{rT{Rh{re M{Ra{Yy{Ro{rr's H{Ro{Yu{Rs{re{x - {WA Landing{x~
+This is a rather plain room with white plaster walls.  A small rug has
+been placed across the timber floorboards.  At the north end of the landing
+is a steep wooden staircase that leads down while at the opposite side of
+the room is a small window that looks out onto a thatched cottage.  At
+either end of the room are doorways.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1862
+D3
+~
+~
+3 3
+1 0 1861
+D5
+~
+~
+0 0
+0 0 1858
+S
+#1861
+{rT{Rh{re M{Ra{Yy{Ro{rr's H{Ro{Yu{Rs{re{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the room
+is quite comfortable.  A few plainly-made items have been used to furnish
+this room including a bed, a table, a chair and a wardrobe.  A window on the
+west side of the room overlooks a narrow lane that winds its way down a
+gentle grassy slope.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1860
+S
+#1862
+{rT{Rh{re M{Ra{Yy{Ro{rr's H{Ro{Yu{Rs{re{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the area
+is rather comfy.  A few plainly-made items have been used to furnish this
+bedroom including a bed, a table, an armchair and a wardrobe.  A window on
+the east side of the room looks out over the woodland that surrounds the
+little village of Kore Springs.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1860
+S
+#1863
+{DA S{wm{Wa{wl{Dl C{wot{Wt{wag{De{x - {WA Small Garden{x~
+This is a small square plot of land that has been fenced off, situated at
+the front of a quaint little red brick cottage that is roofed with thatch. 
+Beyond the garden fence is a narrow yet well used muddy lane that leads down
+a grassy slope, the lane can be accessed via the gate on the west side of
+the garden.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 1864
+D3
+~
+gate~
+3 3
+1 0 1821
+S
+#1864
+{DA S{wm{Wa{wl{Dl C{wot{Wt{wag{De{x - {WA Living Room{x~
+Although this living room is small it is also very cozy.  At the north
+end of the room is a narrow staircase that leads up and at the opposite side
+of the room is red brick fireplace.  At either end of the room are doorways
+although the one on the west side of the room is flanked by a pair of
+windows that looks out over a tiny garden.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1865
+D3
+~
+~
+3 3
+1 0 1863
+D4
+~
+~
+0 0
+0 0 1866
+S
+#1865
+{DA S{wm{Wa{wl{Dl C{wot{Wt{wag{De{x - {WA Kitchen{x~
+This is a fairly plain room with white plaster walls and a dull gray
+flagstone floor.  The room is lit up by several lanterns suspended from the
+timber ceiling beams.  The room has been fitted with several cabinets and
+drawers that have all been made out of plain wood.  At the center of the
+room is a stone-topped counter while at the south side of the room is a
+small iron stove.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1864
+S
+#1866
+{DA S{wm{Wa{wl{Dl C{wot{Wt{wag{De{x - {WA Landing{x~
+This is a rather plain room with white plaster walls.  A small rug has
+been placed across the timber floorboards.  At the north end of the landing
+is a narrow staircase that leads down while at the opposite side of the room
+is a small window that looks out onto a thatched cottage.  At either end of
+the room are doorways that lead into the bedrooms.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1868
+D3
+~
+~
+3 3
+1 0 1867
+D5
+~
+~
+0 0
+0 0 1864
+S
+#1867
+{DA S{wm{Wa{wl{Dl C{wot{Wt{wag{De{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the room
+is fairly comfy.  A few bland items have been used to furnish this room
+including a bed, a table, a chair and a large chest.  A window on the west
+side of the room overlooks a narrow lane that winds its way down a gentle
+grassy slope.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1866
+S
+#1868
+{DA S{wm{Wa{wl{Dl C{wot{Wt{wag{De{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the area
+is rather comfy.  A few plainly-made items have been used to furnish this
+bedroom including a bed, a table, an armchair and a wardrobe.  A window on
+the east side of the room looks out over the woodland that surrounds the
+little village of Kore Springs.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 1866
+S
+#1869
+{yA L{wi{Wtt{wl{ye C{wo{Wtta{wg{ye{x - {WA Small Garden{x~
+This garden is just a small square plot of land that has been fenced off,
+located at the front of a quaint little red brick cottage that is covered
+with thatch.  Beyond the garden fence is a narrow yet well used muddy
+footpath that leads down a grassy slope, the lane can be accessed via the
+gate on the west side of the garden.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 1870
+D3
+~
+gate~
+3 3
+1 0 1824
+S
+#1870
+{yA L{wi{Wtt{wl{ye C{wo{Wtta{wg{ye{x - {WA Living Room{x~
+Although this living room is small it is also very cozy.  At the north
+end of the room is a steep staircase that leads up and at the opposite side
+of the room is wide, red brick fireplace that looks particularly sooty.  At
+either end of the room are doorways although the one on the west side of the
+room is flanked by a pair of oblong windows that looks out over a tiny
+garden.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1871
+D3
+~
+~
+3 3
+1 0 1869
+D4
+~
+~
+0 0
+0 0 1872
+S
+#1871
+{yA L{wi{Wtt{wl{ye C{wo{Wtta{wg{ye{x - {WA Kitchen{x~
+This is a rather plain room with white plaster walls and a gray flagstone
+floor.  The room is illuminated by several lamps hung from the timber
+ceiling beams.  The room has been fitted with several cabinets and drawers
+that have all been made out of plain wood.  At the center of the room is a
+stone-topped counter while at the south side of the room is a black iron
+stove.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1870
+S
+#1872
+{yA L{wi{Wtt{wl{ye C{wo{Wtta{wg{ye{x - {WA Landing{x~
+The landing is a rather plain room with white plaster walls that are
+almost completely bare save for some framed charcoal sketches.  A small
+brown rug has been placed across the timber floorboards.  At the north end
+of the landing is a steep staircase that leads down while at the opposite
+side of the room is a small window that looks out onto a thatched cottage. 
+At either end of the room are doorways which lead into other parts of the
+building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1874
+D3
+~
+~
+3 3
+1 0 1873
+D5
+~
+~
+0 0
+0 0 1870
+S
+#1873
+{yA L{wi{Wtt{wl{ye C{wo{Wtta{wg{ye{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the room
+is quite comfortable.  A few plainly-made items have been used to furnish
+this room including a narrow bed, a table, a chair and a wardrobe.  A window
+on the west side of the room overlooks a lane that snakes its way down a
+gentle grassy slope.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1872
+S
+#1874
+{yA L{wi{Wtt{wl{ye C{wo{Wtta{wg{ye{x - {WA Bedroom{x~
+Although this bedroom is small in size, it is quite comfortable.  A few
+plainly-made items have been used to furnish this bedroom including a large
+bed, a desk, a chair and a tall wardrobe.  There is a window on the east
+side of the room that looks out over the woodland that surrounds the village
+of Kore Springs.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1872
+S
+#1875
+{cA T{win{cy C{wottag{ce{x - {WA Tiny Garden{x~
+This is a tiny flower garden situated at the front of an almost equally
+tiny red brick cottage that is roofed with thatch.  Beyond the garden fence
+is a narrow yet well used muddy lane that leads down a grassy slope, the
+lane can be accessed via the gate on the west side of the garden.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 1876
+D3
+~
+gate~
+3 3
+1 0 1825
+S
+#1876
+{cA T{win{cy C{wottag{ce{x - {WA Living Room{x~
+Although this living room is small it is also very cozy.  At the north
+end of the room is a narrow flight of stairs that leads up and at the
+opposite side of the room is wide fireplace made of red bricks.  At either
+end of the room are doorways although the one on the west side of the room
+is flanked by a pair of windows that looks out over a tiny garden.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1877
+D3
+~
+~
+3 3
+1 0 1875
+D4
+~
+~
+0 0
+0 0 1878
+S
+#1877
+{cA T{win{cy C{wottag{ce{x - {WA Kitchen{x~
+This kitchen is rather plain with its white plaster walls and a gray
+flagstone floor.  The room is lit up by several lanterns suspended from the
+timber ceiling beams.  The room has been furnished with several cabinets and
+drawers that have all been made out of plain wood.  At the center of the
+room is a stone-topped counter while at the south side of the room is a
+small iron stove.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1876
+S
+#1878
+{cA T{win{cy C{wottag{ce{x - {WA Landing{x~
+This is a rather plain room with white plaster walls.  A small rug has
+been placed across the timber floorboards.  At the north end of the landing
+is a steep wooden staircase that leads down while at the opposite side of
+the room is a small window that looks out onto a thatched cottage.  At
+either end of the room are doorways.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1880
+D3
+~
+~
+3 3
+1 0 1879
+D5
+~
+~
+0 0
+0 0 1876
+S
+#1879
+{cA T{win{cy C{wottag{ce{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the room
+is quite comfortable.  A few plainly-made items have been used to furnish
+this room including a bed, a table, a chair and a wardrobe.  A window on the
+west side of the room overlooks a narrow lane that winds its way down a
+gentle grassy slope.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1878
+S
+#1880
+{cA T{win{cy C{wottag{ce{x - {WA Bedroom{x~
+This small room is being used as a bedroom but despite its size, the area
+is rather comfy.  A few plainly-made items have been used to furnish this
+bedroom including a bed, a table, an armchair and a wardrobe.  A window on
+the east side of the room looks out over the woodland that surrounds the
+little village of Kore Springs.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1878
+S
+#1881
+{mA C{wo{Dm{wf{my C{wot{Dt{wag{me{x - {WA Small Vegetable Garden{x~
+Row upon row of vegetables are growing here within this small garden,
+located at the front of a quaint little red brick cottage that is roofed
+with thatch.  Beyond the garden fence is a narrow yet well used muddy
+footpath that leads down a grassy slope, the lane can be accessed via the
+gate on the west side of the garden.  
+~
+0
+0 2
+D1
+~
+~
+3 3
+1 0 1882
+D3
+~
+gate~
+3 3
+1 0 1826
+S
+#1882
+{mA C{wo{Dm{wf{my C{wot{Dt{wag{me{x - {WA Living Room{x~
+Although this living room is quite small it is also very cozy.  At the
+north end of the room is a steep staircase that leads up and at the other
+side of the room is wide fireplace constructed using red bricks.  At either
+end of the room are doorways although the one on the west side of the room
+is flanked by a pair of windows that looks out over a small vegetable
+garden.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1883
+D3
+~
+~
+3 3
+1 0 1881
+D4
+~
+~
+0 0
+0 0 1884
+S
+#1883
+{mA C{wo{Dm{wf{my C{wot{Dt{wag{me{x - {WA Kitchen{x~
+This is a rather plain room with white plaster walls and a dull gray
+flagstone floor.  The room is illuminated by several lamps hung from the
+timber ceiling beams.  The room has been fitted with numerous cupboards and
+drawers that have all been made out of plain wood.  At the center of the
+room is a stone-topped counter while at the south side of the room is a
+little iron stove.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1882
+S
+#1884
+{mA C{wo{Dm{wf{my C{wot{Dt{wag{me{x - {WA Landing{x~
+This is a rather plain landing with white plaster walls although a little
+splash of color has been added using a small strip of dusky pink carpet that
+has been spread across the entire length of the room.  At the north end of
+the landing is a steep wooden staircase that leads down to the ground floor
+of the cottage while at the opposite side of the room is a small window that
+looks out over a narrow lane leading through an area of overgrown grassy
+land.  At either end of the landing are doorways that lead into other parts
+of the building but there is not much here to hint at what lies beyond each
+portal.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1886
+D3
+~
+~
+3 3
+1 0 1885
+D5
+~
+~
+0 0
+0 0 1882
+S
+#1885
+{mA C{wo{Dm{wf{my C{wot{Dt{wag{me{x - {WA Bedroom{x~
+This small bedroom is a rather bland area with not much to see in it. 
+The furniture is rather drab looking including a narrow bed that looks
+rather pitiful and a wardrobe that is equally as bleak in appearance.  A few
+small mementos have been placed around the bedroom including some ornaments
+and books but generally this bedroom is boring and the only exciting thing
+about it is the exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1884
+S
+#1886
+{mA C{wo{Dm{wf{my C{wot{Dt{wag{me{x - {WA Bedroom{x~
+A few plainly made items of furniture have been placed within the
+bedchamber.  Below the window on the east side of the room is a narrow bed
+accompanied with a small bedside table.  At the opposite side of the room is
+a large chest of drawers with no paintwork, carving or other adornments to
+brighten it up.  A washstand has been left in a corner of the room along
+with a large jug and a neatly folded towel.  The only other item of interest
+within this bedroom is the exit on the west side.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1884
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1802 0 1
+D 0 1804 0 1
+D 0 1811 2 1
+D 0 1812 2 1
+D 0 1813 0 1
+D 0 1813 1 1
+D 0 1813 2 1
+D 0 1814 0 1
+D 0 1814 1 1
+D 0 1814 2 1
+D 0 1814 3 1
+D 0 1814 5 1
+D 0 1815 3 1
+D 0 1816 0 1
+D 0 1817 0 1
+D 0 1821 1 1
+D 0 1822 1 1
+D 0 1823 1 1
+D 0 1824 1 1
+D 0 1825 1 1
+D 0 1826 1 1
+D 0 1827 4 1
+D 0 1831 1 2
+D 0 1831 3 2
+D 0 1832 1 2
+D 0 1832 3 2
+D 0 1833 1 2
+D 0 1833 3 2
+D 0 1834 1 2
+D 0 1835 3 2
+D 0 1836 1 2
+D 0 1837 3 2
+D 0 1838 1 2
+D 0 1839 3 2
+D 0 1840 2 1
+D 0 1841 2 1
+D 0 1847 0 1
+D 0 1847 2 1
+D 0 1847 3 1
+D 0 1848 2 1
+D 0 1849 0 1
+D 0 1850 1 1
+D 0 1851 1 1
+D 0 1851 3 1
+D 0 1852 1 1
+D 0 1852 3 1
+D 0 1853 3 1
+D 0 1854 1 1
+D 0 1854 3 1
+D 0 1855 1 1
+D 0 1856 3 1
+D 0 1857 1 1
+D 0 1857 3 1
+D 0 1858 1 1
+D 0 1858 3 1
+D 0 1859 3 1
+D 0 1860 1 1
+D 0 1860 3 1
+D 0 1861 1 1
+D 0 1862 3 1
+D 0 1863 1 1
+D 0 1863 3 1
+D 0 1864 1 1
+D 0 1864 3 1
+D 0 1865 3 1
+D 0 1866 1 1
+D 0 1866 3 1
+D 0 1867 1 1
+D 0 1868 3 1
+D 0 1869 1 1
+D 0 1869 3 1
+D 0 1870 1 1
+D 0 1870 3 1
+D 0 1871 3 1
+D 0 1872 1 1
+D 0 1872 3 1
+D 0 1873 1 1
+D 0 1874 3 1
+D 0 1875 1 1
+D 0 1875 3 1
+D 0 1876 1 1
+D 0 1876 3 1
+D 0 1877 3 1
+D 0 1878 1 1
+D 0 1878 3 1
+D 0 1879 1 1
+D 0 1880 3 1
+D 0 1881 1 1
+D 0 1881 3 1
+D 0 1882 1 1
+D 0 1882 3 1
+D 0 1883 3 1
+D 0 1884 1 1
+D 0 1884 3 1
+D 0 1885 1 1
+D 0 1886 3 1
+M 0 1803 10 1800 1
+M 0 1804 10 1800 1
+M 0 1803 10 1805 1
+M 0 1804 10 1805 1
+M 0 1803 10 1810 1
+M 0 1804 10 1810 1
+M 0 1803 10 1822 1
+M 0 1804 10 1822 1
+M 0 1803 10 1826 1
+M 0 1804 10 1826 1
+M 0 1800 8 1827 2
+M 0 1800 8 1827 2
+M 0 1801 8 1827 2
+M 0 1801 8 1827 2
+M 0 1800 8 1828 2
+M 0 1800 8 1828 2
+M 0 1801 8 1828 2
+M 0 1801 8 1828 2
+M 0 1800 8 1829 2
+M 0 1800 8 1829 2
+M 0 1801 8 1829 2
+M 0 1801 8 1829 2
+M 0 1800 8 1830 2
+M 0 1800 8 1830 2
+M 0 1801 8 1830 2
+M 0 1801 8 1830 2
+M 0 1802 6 1863 2
+M 0 1802 6 1863 2
+M 0 1802 6 1869 2
+M 0 1802 6 1869 2
+M 0 1802 6 1875 2
+M 0 1802 6 1875 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

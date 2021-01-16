@@ -1,0 +1,3141 @@
+#AREADATA
+Name Tar Valon~
+Builders Raine~
+VNUMs 23800 24000
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 1
+Version 2
+End
+
+
+
+#MOBILES
+#23800
+seagull~
+A small {WSeagull{w~
+A small {WSeagull{w noisily flies above.
+~
+~
+unique~
+ACGW TWd 0 0
+10 2 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 tiny 'unknown'
+#23801
+guard~
+A {Wtower guard{w~
+A {WWhite Tower{w guard stands before you
+~
+~
+andoran~
+ABT HV 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+3 3 3 3
+CEK 0 B 0
+stand stand male 1500
+0 0 medium 'unknown'
+#23802
+Aether~
+{YAether{w~
+{YAether{w, a Malkier warrior
+~
+~
+Malkier~
+ABb HJ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+0 0 0 0
+0 0 LQ R
+stand stand male 0
+0 0 large 'unknown'
+F gain A
+#23803
+Bol~
+Bol~
+Bol, an ogier in battle gear
+~
+~
+ogier~
+ABJ 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+-1 -1 -1 -1
+0 0 HI JP
+stand stand male 0
+0 0 large 'unknown'
+#23866
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#23902
+sailor~
+A sailor ~
+A sailor stands here, flirting with the ladies
+~
+~
+andoran~
+AGHTc 0 25 0
+15 5 8d8+255 15d10+100 2d7+7 none
+0 0 0 0 0
+1 1 1 1
+0 0 0 0
+stand stand male 25
+0 0 tiny 'unknown'
+#23910
+harley~
+A Big, {DBlack{w and {WChrome{w Harley~
+A Big, {DBlack{w and {WChrome{w Harley
+~
+~
+unique~
+AZ HSV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+10 10 10 10
+CD 0 QX HO
+stand stand female 0
+J 0 medium 'Steel'
+#23985
+bob~
+The {GGreat Lizard{w~
+Bob, The {GGreat Lizard{w
+~
+~
+lizard~
+ABJ H 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 large 'unknown'
+F train A
+V tlevel 50
+#0
+
+
+
+#OBJECTS
+#23800
+crate~
+A {ywooden{w crate~
+A large {ywooden{w crate sits here.~
+cloth~
+container 0 0
+2000 AF 0 10 100
+1 0 0 100
+#23801
+banana~
+A bunch of {YBanana's{w~
+A bunch of {YBanana's{w, perfectly ripened~
+banana~
+food 0 A
+2 2 0 0 0
+1 1 5 100
+#23802
+longsword~
+a fine longsword~
+A Fine Longsword Etched with WT~
+steel~
+weapon 0 AN
+sword 5 8 'slice' D
+25 10 1000 100
+#23866
+test~
+sword of gods~
+none~
+Adamantium~
+weapon 0 AN
+sword 10 15 'slice' C
+90 0 0 100
+A
+19 4
+A
+1 8
+A
+2 8
+A
+3 12
+A
+5 12
+A
+4 8
+#23900
+cloak~
+a {DBlack{w, silk cloak~
+a {DBlack{w, silk cloak with a {BBlue{w lining~
+Silk~
+armor ABHIY AD
+15000 15000 15000 15000 5
+1 1 15000 100
+#23901
+coke~
+A can of {rC{Ro{Wk{we~
+A normal 12oz can of {rC{Ro{Wk{we~
+(null)~
+fountain H AO
+100 100 'coke' 0 0
+1 0 1 100
+#23902
+flask~
+A {WS{wi{Wl{wv{We{wr Flask~
+A {WS{wi{Wl{wv{We{wr Flask~
+silver~
+drink 0 AO
+1500 1500 'whisky' 0 0
+1 1 500 100
+#23903
+boots~
+plain boots~
+A pair of plain black boots~
+Steel~
+armor AB AG
+-10 -10 -10 -10 0
+1 1 150 100
+#23904
+bag~
+{DA{wt{Wri{wo{Dn's{w magic {YBag of Holding{w~
+{DA{wt{Wri{wo{Dn's{w magic {YBag of Holding{w~
+burlap~
+container 0 AS
+10000 ABF 0 15000 5
+1 1 150 100
+#23910
+sword~
+An {DAdamantium{w {DK{wa{Wta{wn{Da{w~
+An {DAdamantium{w {DK{wa{Wta{wn{Da{w~
+Adamantium~
+weapon EHIM AN
+sword 10 20 'drain' E
+90 15 100000 100
+#23911
+exoskeleton~
+An {DAdamantium{w exoskeleton~
+An {DAdamantium{w exoskeleton~
+cloth~
+armor HIK AD
+1000 1000 1000 1000 0
+90 15 15000 100
+#23912
+pants~
+A pair of {Dblack{w pants infused with {YKevlar{D({Wtm{D){w~
+A pair of {Dblack{w pants infused with {YKevlar{D({Wtm{D){w~
+Black Kevlar~
+armor HY AF
+1000 1000 1000 1000 0
+0 15 15000 100
+#23913
+helmet~
+A {Dblack{w motorcycle helmet~
+A {Dblack{w motorcycle helmet with a {Dsmoked{w visor~
+PVC~
+armor H AE
+1000 1000 1000 1000 0
+90 15 15000 100
+#23914
+maglight~
+A {Dblack{w 6-D {DMaglight{w({Wtm{w)~
+A {Dblack{w 6-D {DMaglight{w({Wtm{w) etched with the words, "{RLocal Badass{w"~
+Aircraft Aluminum~
+light 0 AQ
+0 0 100 0 0
+90 5 15000 100
+#23915
+collar~
+A {DBlack Leather{w Spiked Collar~
+A {DBlack Leather{w Spiked Collar~
+leather~
+armor 0 AC
+1000 1000 1000 1000 0
+90 2 15000 100
+#23916
+boots~
+{DBlack{w Leather and {YKevlar{w({Wtm{w) Jungle Boots~
+{DBlack{w Leather and {YKevlar{w({Wtm{w) Jungle Boots~
+Kevlar and Leather~
+armor H AG
+1000 1000 1000 1000 0
+0 4 15000 100
+#23917
+barbell~
+A {WSilver{w barbell in his tongue~
+A {WSilver{w barbell in his tongue~
+Silver~
+jewelry 0 AT
+0 0 0 0 0
+90 1 10 100
+#23998
+fireplace~
+A Beautiful {rBrick{w {rF{Ri{Yr{We{wp{Wl{Ya{Rc{re{w~
+A Beautiful {rBrick{w {rF{Ri{Yr{We{wp{Wl{Ya{Rc{re{w~
+Brick~
+container 0 0
+20000 ACH 0 150 1
+90 5000 25 100
+#23999
+key~
+Atrion's key~
+Keys to the Swank Bachelor Pad~
+adamantium~
+key 0 A
+0 0 0 0 0
+90 0 15000 100
+#0
+
+
+
+#ROOMS
+#23800
+Southharbor Main Docks~
+Seagulls fill the air and a few ships are docked in the famous Southharbor of Tar Valon.  
+A few servants, clothed in White Tower garb oversee the loading of carriages to bring 
+goods and supplies to the Tower
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 23803
+D1
+~
+~
+0 0
+0 0 23802
+D3
+~
+~
+0 0
+0 0 23801
+S
+#23801
+Southharbor West Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23800
+D3
+~
+~
+0 0
+0 0 23805
+S
+#23802
+Southharbor East Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23806
+D3
+~
+~
+0 0
+0 0 23800
+S
+#23803
+Southharbor Road~
+In this southern port of the city of Tar Valon several merchants are to
+be seen loading their wares off of barges.  They pack these wares into small
+carts.  Dominating the view to the north is the enormous White Tower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23804
+D2
+~
+~
+0 0
+0 0 23800
+S
+#23804
+Southharbor Road~
+In this southern port of the city of Tar Valon several merchants are to
+be seen loading their wares off of barges.  They pack these wares into small
+carts.  Dominating the view to the north is the enormous White Tower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23811
+D2
+~
+~
+0 0
+0 0 23803
+S
+#23805
+Southharbor West Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23801
+D2
+~
+~
+0 0
+0 0 23807
+S
+#23806
+Southharbor East Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 23809
+D3
+~
+~
+0 0
+0 0 23802
+S
+#23807
+Southharbor West Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23805
+D2
+~
+~
+0 0
+0 0 23808
+S
+#23808
+Southharbor West Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23807
+S
+#23809
+Southharbor East Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23806
+D2
+~
+~
+0 0
+0 0 23810
+S
+#23810
+Southharbor East Docks~
+Seagulls fill the air and a few ships are docked in the famous
+Southharbor of Tar Valon.  A few servants, clothed in White Tower garb
+oversee the loading of carriages to bring goods and supplies to the Tower 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23809
+S
+#23811
+Southharbor Road~
+In this southern port of the city of Tar Valon several merchants are to
+be seen loading their wares off of barges.  They pack these wares into small
+carts.  Dominating the view to the north is the enormous White Tower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23812
+D1
+~
+~
+0 0
+0 0 23952
+D2
+~
+~
+0 0
+0 0 23804
+D3
+~
+~
+0 0
+0 0 23949
+S
+#23812
+Southharbor Road~
+In this southern port of the city of Tar Valon several merchants are to
+be seen loading their wares off of barges.  They pack these wares into small
+carts.  Dominating the view to the north is the enormous White Tower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23813
+D2
+~
+~
+0 0
+0 0 23811
+S
+#23813
+A Crossroads~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23848
+D1
+~
+~
+0 0
+0 0 23814
+D2
+~
+~
+0 0
+0 0 23812
+D3
+~
+~
+0 0
+0 0 23815
+S
+#23814
+Eastern Circuit Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23816
+D3
+~
+~
+0 0
+0 0 23813
+S
+#23815
+Western Circuit Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23813
+D3
+~
+~
+0 0
+0 0 23817
+S
+#23816
+Eastern Circuit Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23818
+D3
+~
+~
+0 0
+0 0 23814
+S
+#23817
+Western Circuit Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23819
+D1
+~
+~
+0 0
+0 0 23815
+S
+#23818
+Eastern Circuit Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23820
+D2
+~
+~
+0 0
+0 0 23816
+S
+#23819
+Western Circuit Road~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 23817
+D3
+~
+~
+0 0
+0 0 23821
+S
+#23820
+Eastern Circuit Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23822
+D3
+~
+~
+0 0
+0 0 23818
+S
+#23821
+Western Circuit Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23823
+D1
+~
+~
+0 0
+0 0 23819
+S
+#23822
+Cairhein - East Circuit Market~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23844
+D1
+~
+~
+0 0
+0 0 23824
+D2
+~
+~
+0 0
+0 0 23820
+S
+#23823
+Caemlyn - West Circuit Market~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23845
+D2
+~
+~
+0 0
+0 0 23821
+D3
+~
+~
+0 0
+0 0 23825
+S
+#23824
+~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23840
+D1
+~
+~
+0 0
+0 0 23850
+D3
+~
+~
+0 0
+0 0 23822
+S
+#23825
+Caemlyn - West Circuit Market~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23841
+D1
+~
+~
+0 0
+0 0 23823
+D3
+~
+~
+0 0
+0 0 23827
+S
+#23826
+Cairhein Bridge Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23828
+S
+#23827
+~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23825
+D3
+~
+~
+0 0
+0 0 23829
+S
+#23828
+Cairhein Bridge Road~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 23830
+D3
+~
+~
+0 0
+0 0 23826
+S
+#23829
+~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23827
+D2
+~
+~
+0 0
+0 0 23831
+S
+#23830
+Cairhein Bridge Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23828
+D1
+~
+~
+0 0
+0 0 23832
+S
+#23831
+Caemlyn Bridge Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23829
+D3
+~
+~
+0 0
+0 0 23833
+S
+#23832
+Cairhein Bridge Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23834
+D3
+~
+~
+0 0
+0 0 23830
+S
+#23833
+Caemlyn Bridge Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23831
+D3
+~
+~
+0 0
+0 0 23835
+S
+#23834
+Cairhein Bridge Road~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 23836
+D3
+~
+~
+0 0
+0 0 23832
+S
+#23835
+Caemlyn Bridge Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23833
+D2
+~
+~
+0 0
+0 0 23837
+S
+#23836
+Cairhein Bridge~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23834
+D1
+~
+~
+0 0
+0 0 23838
+S
+#23837
+Caemlyn Bridge~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23835
+D3
+~
+~
+0 0
+0 0 23839
+S
+#23838
+Cairhein Bridge~
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 23836
+S
+#23839
+Caemlyn Bridge~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23837
+S
+#23840
+Cairhein - Eastern Circuit Market~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23857
+D2
+~
+~
+0 0
+0 0 23824
+D3
+~
+~
+0 0
+0 0 23844
+S
+#23841
+Caemlyn - West Circuit Market~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23843
+D1
+~
+~
+0 0
+0 0 23845
+D2
+~
+~
+0 0
+0 0 23825
+S
+#23842
+Eastern Circuit Road~
+~
+0
+C 1
+S
+#23843
+Western Circuit Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23932
+D2
+~
+~
+0 0
+0 0 23841
+S
+#23844
+Cairhein - East Circuit Market~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23840
+D2
+~
+~
+0 0
+0 0 23822
+D3
+~
+~
+0 0
+0 0 23846
+S
+#23845
+Caemlyn - West Circuit Market~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23847
+D2
+~
+~
+0 0
+0 0 23823
+D3
+~
+~
+0 0
+0 0 23841
+S
+#23846
+South Eastern White Tower Approach~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 23844
+S
+#23847
+Southwest White Tower Approach~
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 23845
+S
+#23848
+Southern White Tower Approach~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 23849
+D2
+~
+~
+0 0
+0 0 23813
+S
+#23849
+Outside Tarlomen's Gate~
+Standing outside one of the four entrances to the white tower grounds,
+several guards keep watch on the Southharbor District while also allowing no
+one to pass through their gate without authority.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 23848
+S
+#23850
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23851
+D3
+~
+~
+0 0
+0 0 23824
+S
+#23851
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23852
+D3
+~
+~
+0 0
+0 0 23850
+S
+#23852
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23851
+D1
+~
+~
+0 0
+0 0 23853
+S
+#23853
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23854
+D3
+~
+~
+0 0
+0 0 23852
+S
+#23854
+Fal Moran Road and East Circuit Road~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 23855
+D3
+~
+~
+0 0
+0 0 23853
+S
+#23855
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23854
+D1
+~
+~
+0 0
+0 0 23856
+S
+#23856
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23855
+S
+#23857
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23858
+D2
+~
+~
+0 0
+0 0 23840
+S
+#23858
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23866
+D1
+~
+~
+0 0
+0 0 23861
+D2
+~
+~
+0 0
+0 0 23857
+D3
+~
+~
+0 0
+0 0 23859
+S
+#23859
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23858
+D3
+~
+~
+0 0
+0 0 23860
+S
+#23860
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23859
+S
+#23861
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23862
+D3
+~
+~
+0 0
+0 0 23858
+S
+#23862
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23863
+D3
+~
+~
+0 0
+0 0 23861
+S
+#23863
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23864
+D3
+~
+~
+0 0
+0 0 23862
+S
+#23864
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23865
+D3
+~
+~
+0 0
+0 0 23863
+S
+#23865
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23864
+S
+#23866
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23867
+D2
+~
+~
+0 0
+0 0 23858
+S
+#23867
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23868
+D2
+~
+~
+0 0
+0 0 23866
+S
+#23868
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23869
+D2
+~
+~
+0 0
+0 0 23867
+S
+#23869
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23870
+D2
+~
+~
+0 0
+0 0 23868
+S
+#23870
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23871
+D2
+~
+~
+0 0
+0 0 23869
+S
+#23871
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23872
+D2
+~
+~
+0 0
+0 0 23870
+S
+#23872
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23882
+D1
+~
+~
+0 0
+0 0 23873
+D2
+~
+~
+0 0
+0 0 23871
+S
+#23873
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23874
+D3
+~
+~
+0 0
+0 0 23872
+S
+#23874
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23875
+D2
+~
+~
+0 0
+0 0 23873
+S
+#23875
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23876
+D3
+~
+~
+0 0
+0 0 23874
+S
+#23876
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23877
+D2
+~
+~
+0 0
+0 0 23875
+S
+#23877
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23878
+D3
+~
+~
+0 0
+0 0 23876
+S
+#23878
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23879
+D2
+~
+~
+0 0
+0 0 23877
+S
+#23879
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23880
+D3
+~
+~
+0 0
+0 0 23878
+S
+#23880
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23881
+D2
+~
+~
+0 0
+0 0 23879
+S
+#23881
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23880
+S
+#23882
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23883
+D2
+~
+~
+0 0
+0 0 23872
+S
+#23883
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23884
+D2
+~
+~
+0 0
+0 0 23882
+S
+#23884
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23885
+D2
+~
+~
+0 0
+0 0 23883
+S
+#23885
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23886
+D2
+~
+~
+0 0
+0 0 23884
+S
+#23886
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23887
+D2
+~
+~
+0 0
+0 0 23885
+S
+#23887
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23886
+D3
+~
+~
+0 0
+0 0 23888
+S
+#23888
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23889
+D1
+~
+~
+0 0
+0 0 23887
+S
+#23889
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23890
+D2
+~
+~
+0 0
+0 0 23888
+S
+#23890
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23891
+D2
+~
+~
+0 0
+0 0 23889
+S
+#23891
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23890
+D3
+~
+~
+0 0
+0 0 23892
+S
+#23892
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23893
+D1
+~
+~
+0 0
+0 0 23891
+S
+#23893
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23894
+D2
+~
+~
+0 0
+0 0 23892
+S
+#23894
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23895
+D2
+~
+~
+0 0
+0 0 23893
+D3
+~
+~
+0 0
+0 0 23897
+S
+#23895
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23896
+D2
+~
+~
+0 0
+0 0 23894
+S
+#23896
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23895
+S
+#23897
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23894
+D3
+~
+~
+0 0
+0 0 23898
+S
+#23898
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23897
+D2
+~
+~
+0 0
+0 0 23899
+D3
+~
+~
+0 0
+0 0 23900
+S
+#23899
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23898
+D2
+~
+~
+0 0
+0 0 23940
+S
+#23900
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23898
+D3
+~
+~
+0 0
+0 0 23901
+S
+#23901
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23902
+D1
+~
+~
+0 0
+0 0 23900
+D2
+~
+~
+0 0
+0 0 23904
+S
+#23902
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23903
+D2
+~
+~
+0 0
+0 0 23901
+S
+#23903
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23902
+S
+#23904
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23901
+D2
+~
+~
+0 0
+0 0 23905
+S
+#23905
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23904
+D3
+~
+~
+0 0
+0 0 23906
+S
+#23906
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23905
+D2
+~
+~
+0 0
+0 0 23907
+S
+#23907
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23906
+D2
+~
+~
+0 0
+0 0 23908
+S
+#23908
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23907
+D2
+~
+~
+0 0
+0 0 23909
+S
+#23909
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23908
+D3
+~
+~
+0 0
+0 0 23910
+S
+#23910
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23909
+D2
+~
+~
+0 0
+0 0 23911
+S
+#23911
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23910
+D2
+~
+~
+0 0
+0 0 23912
+S
+#23912
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23911
+D1
+~
+~
+0 0
+0 0 23953
+D2
+~
+~
+0 0
+0 0 23913
+S
+#23913
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23912
+D2
+~
+~
+0 0
+0 0 23914
+S
+#23914
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23913
+D2
+~
+~
+0 0
+0 0 23915
+S
+#23915
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23914
+D2
+~
+~
+0 0
+0 0 23916
+S
+#23916
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23915
+D2
+~
+~
+0 0
+0 0 23926
+D3
+~
+~
+0 0
+0 0 23917
+S
+#23917
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23918
+D1
+~
+~
+0 0
+0 0 23916
+S
+#23918
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23917
+D3
+~
+~
+0 0
+0 0 23919
+S
+#23919
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23920
+D1
+~
+~
+0 0
+0 0 23918
+S
+#23920
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23919
+D3
+~
+~
+0 0
+0 0 23921
+S
+#23921
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23922
+D1
+~
+~
+0 0
+0 0 23920
+S
+#23922
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23921
+D3
+~
+~
+0 0
+0 0 23923
+S
+#23923
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23924
+D1
+~
+~
+0 0
+0 0 23922
+S
+#23924
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23923
+D3
+~
+~
+0 0
+0 0 23925
+S
+#23925
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23924
+S
+#23926
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23916
+D2
+~
+~
+0 0
+0 0 23927
+S
+#23927
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23926
+D2
+~
+~
+0 0
+0 0 23928
+S
+#23928
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23927
+D2
+~
+~
+0 0
+0 0 23929
+S
+#23929
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23928
+D2
+~
+~
+0 0
+0 0 23930
+S
+#23930
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23929
+D2
+~
+~
+0 0
+0 0 23931
+S
+#23931
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23930
+D2
+~
+~
+0 0
+0 0 23932
+S
+#23932
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23931
+D1
+~
+~
+0 0
+0 0 23933
+D2
+~
+~
+0 0
+0 0 23843
+D3
+~
+~
+0 0
+0 0 23935
+S
+#23933
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23934
+D3
+~
+~
+0 0
+0 0 23932
+S
+#23934
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23933
+S
+#23935
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23932
+D3
+~
+~
+0 0
+0 0 23936
+S
+#23936
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23935
+D3
+~
+~
+0 0
+0 0 23937
+S
+#23937
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23936
+D3
+~
+~
+0 0
+0 0 23938
+S
+#23938
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23937
+D3
+~
+~
+0 0
+0 0 23939
+S
+#23939
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23938
+S
+#23940
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23899
+D2
+~
+~
+0 0
+0 0 23941
+S
+#23941
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23940
+D2
+~
+~
+0 0
+0 0 23942
+S
+#23942
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23941
+D2
+~
+~
+0 0
+0 0 23943
+S
+#23943
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23942
+D2
+~
+~
+0 0
+0 0 23944
+S
+#23944
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23943
+D2
+~
+~
+0 0
+0 0 23945
+S
+#23945
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23944
+D2
+~
+~
+0 0
+0 0 23946
+S
+#23946
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23945
+D2
+~
+~
+0 0
+0 0 23947
+S
+#23947
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23946
+D2
+~
+~
+0 0
+0 0 23948
+S
+#23948
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23947
+D2
+~
+~
+0 0
+0 0 23950
+S
+#23949
+Aether's Training Grounds~
+Before you stands a very large man.  To challenge him would surely be fatal. 
+But he is not here to be challanged, you can tell from those students patiently
+watching him that his job is to help people {Wgain{w a handle on their abilities
+~
+0
+CK 0
+D1
+~
+~
+0 0
+0 0 23811
+S
+#23950
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23948
+D2
+~
+~
+0 0
+0 0 23951
+S
+#23951
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23950
+S
+#23952
+Trainer~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23811
+S
+#23953
+Osendrille Camio Inn~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23954
+D3
+~
+~
+0 0
+0 0 23912
+S
+#23954
+Osendrille Camio Inn~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 23955
+D3
+~
+~
+0 0
+0 0 23953
+S
+#23955
+Osendrille Camio Inn~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23956
+D3
+~
+~
+0 0
+0 0 23954
+S
+#23956
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23955
+D2
+~
+~
+0 0
+0 0 23957
+D3
+~
+~
+0 0
+0 0 23963
+S
+#23957
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23956
+D2
+~
+~
+0 0
+0 0 23958
+D3
+~
+~
+0 0
+0 0 23962
+S
+#23958
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23957
+D2
+~
+~
+0 0
+0 0 23959
+D3
+~
+~
+0 0
+0 0 23961
+S
+#23959
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23958
+D3
+~
+~
+0 0
+0 0 23960
+S
+#23960
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23961
+D1
+~
+~
+0 0
+0 0 23959
+D3
+~
+~
+0 0
+0 0 23967
+S
+#23961
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23962
+D1
+~
+~
+0 0
+0 0 23958
+D2
+~
+~
+0 0
+0 0 23960
+D3
+~
+~
+0 0
+0 0 23966
+S
+#23962
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23963
+D1
+~
+~
+0 0
+0 0 23957
+D2
+~
+~
+0 0
+0 0 23961
+D3
+~
+~
+0 0
+0 0 23965
+S
+#23963
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23956
+D2
+~
+~
+0 0
+0 0 23962
+D3
+~
+~
+0 0
+0 0 23964
+S
+#23964
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23963
+D2
+~
+~
+0 0
+0 0 23965
+S
+#23965
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23964
+D1
+~
+~
+0 0
+0 0 23962
+D2
+~
+~
+0 0
+0 0 23966
+S
+#23966
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23965
+D1
+~
+~
+0 0
+0 0 23961
+D2
+~
+~
+0 0
+0 0 23967
+S
+#23967
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23966
+D1
+~
+~
+0 0
+0 0 23960
+D4
+~
+~
+0 0
+0 0 23968
+S
+#23968
+~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 23967
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 23800 0 23800
+P 0 23801 1 23800 1
+M 0 23902 25 23800 10
+M 0 23800 30 23800 10
+M 0 23801 8 23849 8
+E 0 23802 0 20
+M 0 23802 1 23949 1
+M 0 23803 1 23952 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

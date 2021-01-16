@@ -1,0 +1,8935 @@
+#AREADATA
+Name Falme~
+Builders Myre Dhiammara~
+VNUMs 8400 8600
+Credits None~
+Security 2
+Low 30
+High 80
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#8400
+dark haired man~
+a dark {yha{Dir{yed{x man named John Xenir~
+A dark {yha{Dir{yed{x man wanders the inn greeting patrons.
+~
+Tall and lean this man be, with dark {yh{Dai{yr{x and piercing {bb{Blu{be{x eyes the
+color of the sea.  His frame is lean and lithe but there is no doubt this
+man can handle himself in any situation.  His clothing is that of the local
+people, a full-sleeved {bblue{x shirt is tucked into a pair of {Dblack{x baggy
+trousers, while on his feet he wears a pair of sturdy {Dblack{x boots.  Over all
+he wears a knee-length vest made of {ysh{Weepsk{yin{x, the {Wwooly{x part turned in to
+keep him warm.  A {ybelt{x encircles his waist, its sole purpose to hold the
+{Dsheath{x to his slender sword.
+~
+domani~
+AG 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 slice
+0 0 0 0 0
+A
+6 6 6 6
+CEKe 0 0 0
+stand stand male 1000
+0 M medium 'flesh bones hair'
+#8401
+bouncer hefty~
+a {Dhefty{x bouncer named Sam~
+A {Dhefty{x bouncer named Sam guards the main entrance to the room.
+~
+Large, gigantic, huge, all good words that would describe this hulk of a
+man well.  Standing at well over 6' and with muscles to match, Sam is
+defiantely a force to be reckoned with.  His {Dblack{x hair has been cut very
+short so that his {Dpie{wrc{Ding{x gaze has no obstruction, his {Dg{wre{Dy{x eyes hold much
+more intelligence then one might expect of hired muscle.  His clothing is of
+the local people, a full-sleeved {Wwhite{x shirt is tucked into a pair of {Dblack{x
+baggy trousers matched up with a pair of sturdy {Dblack{x boots and a
+knee-length {ysh{Weepsk{yin{x vest over all.  
+~
+domani~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 pound
+0 0 0 0 0
+A
+6 6 6 6
+CIO 0 0 0
+stand stand male 100
+0 M large 'flesh bones hair'
+#8402
+huge burly bouncer~
+a huge and burly bouncer~
+A huge and {Dburly{x bouncer named Max guards the entrance to the private room.
+~
+This man easily dwarfs the other two bouncers present at the inn, his
+height is easily over 6'5" and his huge frame easily fills up the entire
+door way to the private gambling room.  His hair is non-existant, having
+been shaved completely off but judging by his bushy {rred{x eyebrows one can
+only assume his hair color was the same.  From beneath the bushy brows one
+can see a pair of dark {ybrown{x eyes watching all within the room carefully and
+whenever someone argues too loudly his gaze flicks over to the offending
+person.  His clothing is of the local people, a full-sleeved {Wwhite{x shirt is
+tucked into a pair of {Dblack{x baggy trousers matched up with a pair of sturdy
+{Dblack{x boots and a knee-length {ysh{Weepsk{yin{x vest over all, one gets the feeling
+a lot of sheep were killed for that vest.  
+~
+domani~
+AB 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 crush
+0 0 0 0 0
+A
+6 6 6 6
+CIKO 0 0 0
+stand stand none 50
+0 0 huge 'flesh bones hair'
+#8403
+large bouncer~
+a large bouncer named Tom~
+A large bouncer named Tom keeps an eye on the patrons.
+~
+Reaching a height of 6'2" this large man keeps an eye on all that goes on
+in the common room.  His {ybrown{x hair has been cropped short to keep clear of
+his {ggreen{x eyes, showing clearly a square jaw and thickly muscled neck.  His
+clothing is of the local people, a full-sleeved {Wwhite{x shirt is tucked into a
+pair of {Dblack{x baggy trousers matched up with a pair of sturdy {Dblack{x boots
+and a knee-length {ysh{Weepsk{yin{x vest over all.  He carries no weapons but
+considering his size and the way the patrons behave its easy to say he
+handles himself quite well.  
+~
+domani~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 pound
+0 0 0 0 0
+A
+6 6 6 6
+CI 0 0 0
+stand stand male 50
+0 M large 'flesh bones hair'
+#8404
+card dealer~
+a {Wc{Ra{Dr{Wd{x dealer~
+A {Wc{Ra{Dr{Wd{x dealer swiftly deals out the cards to the players.
+~
+~
+domani~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+JK 0 0 0
+stand stand male 100
+0 M medium 'flesh bones hair'
+#8405
+wench serving~
+a serving woman~
+A serving woman moves about the tables gracefully.
+~
+~
+domani~
+AB 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 slap
+0 0 0 0 0
+A
+3 3 3 3
+JK 0 0 0
+stand stand male 5
+0 0 medium 'flesh bones hair'
+#8406
+bartender scarred man~
+a scarred man~
+A scarred man stands behind the bar serving drinks.
+~
+~
+domani~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand male 1000
+0 0 medium 'flesh bones hair'
+#8407
+slutty wench serving~
+a slutty serving wench~
+A slutty serving wench named Sandra moves about the tables.
+~
+~
+domani~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 slap
+0 0 0 0 0
+A
+4 4 4 4
+CI 0 0 0
+stand stand female 5
+0 0 small 'flesh bones hair'
+#8408
+maid pleasant~
+a pleasant maid~
+A pleasant maid busies herself with the cleaning.
+~
+~
+domani~
+AG 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+IJ 0 0 0
+stand stand female 5
+0 0 medium 'flesh bones hair'
+#8409
+cook woman busy~
+a busy cook named Lilith~
+A busy cook bustles around and shouts orders to those that work for her.
+~
+~
+domani~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+CI 0 0 0
+stand stand female 5000
+0 0 medium 'flesh bones hair'
+#8410
+crazed woman~
+a crazed woman named Clarice~
+A crazed looking woman is curled up on the blankets.
+~
+{yBr{Do{ywn{x hair all in a tangle, fierce {Gg{gr{Ge{ge{Gn{x eyes devoring all in their gaze.
+Her body smeared with {yd{Dir{yt{x as is her {Wtorn{x and {Dshredded{x {yd{bres{ys{x.  Her build is
+lithe and muscular but curvy and inviting.  
+~
+domani~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 bite
+0 0 0 0 0
+A
+4 4 4 4
+CIN 0 0 0
+rest rest female 30
+0 0 medium 'flesh bones hair'
+#8411
+dirty plump woman~
+a dirty plump woman named Alyssa~
+A dirty plump woman is stretched out on the bed in a seductive pose.
+~
+Curly {Ybl{Won{Yde{x hair enshrouds the woman's somewhat pudgy face, her features
+are almost cheribic with her bright {yh{Waze{yl{x eyes and full {rlips{x.  She
+constantly changes her gowns and their all elegant looking and made of the
+gauziest material.  
+~
+domani~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 slap
+0 0 0 0 0
+A
+4 4 4 4
+IN 0 0 0
+stand stand female 30
+0 0 medium 'flesh bones hair'
+#8412
+domani girl woman~
+a Domani woman named Sue~
+A Domani woman dressed like a {rsl{Rut{rty{x school girl beckons you closer to her.
+~
+Neither pretty nor ugly this older woman relies on her talents to bring
+in the customers.  Her pale {Wwh{Di{Wte{x hair is done up in pigtails on either side
+of her head, her face has a lot of makeup on to cover up the wrinkles at the
+corners of her {ybrown{x eyes.  Her sagging breasts are pushed up with a {mpurple{x
+bustier and corset.  A {Dblack{x skirt that has been cut until its at her
+mid-thigh while long stockings cover her legs.  Over all she wears a flimsy,
+see-through {Dblack{x robe.  
+~
+domani~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 slap
+0 0 0 0 0
+A
+4 4 4 4
+IN 0 0 0
+stand stand female 5
+0 0 medium 'flesh bones hair'
+#8413
+domani woman beautiful~
+a beautiful Domani named Lamia~
+A beautiful Domani dressed in {Dleathers{x cracks her whip with authority.
+~
+Long, fire {rr{Re{rd{x hair flows freely down her shoulders and back, making her
+{Wpale{x skin seem even paler.  Her bright {Mvi{mol{Met{x eyes never stray from her
+'visitors', her dominance over them unwavering even when she is the one in
+{Dch{Wa{Dins{x.  Her {Dblack{x silk top flow freely about her, its neckline plunging to
+her navel, is laced very loosely from her waist to just beneath her breasts
+with a blood {rred{x ribbon.  The {Dshirt{x is tucked into a pair of tight {Dleather{x
+breeches which are in turn tucked into a pair of knee-high {Dblack{x boots. 
+Encircled around her waist is a long, leather {Dwhip{x.  
+~
+domani~
+AB 0 0 0
+79 69 40d40+6241 79d10+100 8d17+39 beating
+0 0 0 0 0
+A
+4 4 4 4
+CIN 0 0 0
+stand stand female 50
+0 0 medium 'skin flesh bones'
+#8414
+Linda woman receptionist~
+a recruitment receptionist named Linda~
+The receptionist sits behind her desk running things with strict order.
+~
+~
+domani~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+sit stand female 0
+0 0 medium 'flesh bones hair'
+#8415
+Cyrstal woman receptionist stern~
+a stern receptionist named Crystal~
+A stern receptionist runs her office with an {Diron{x fist.
+~
+~
+domani~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+stand stand female 0
+0 0 medium 'flesh bones hair'
+#8416
+mother woman loving~
+a {rloving{x mother~
+A {rloving{x mother moves about her home.
+~
+This woman does her best to keep up with the fashions of the town. 
+Dressed in a long dress decorated with brightly {Bco{Rlor{Ged{x embrodery on the
+chest in varying spirals.  When out about town she wears a long {ysheepskin{x
+coat with the {Wfleece{x on the inside to keep her warm.  
+~
+taraboner~
+AG 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+INR 0 0 0
+stand stand female 0
+0 0 medium 'flesh bones'
+#8417
+father caring man~
+a {bcaring{x father~
+A {bcaring{x father tends to the needs of his family.
+~
+Dressed in the typical fashion of those living on the Plains he wears a
+full-length {Wwhite{x shirt tucked into a pair of baggy {Dtrousers{x, a knee length
+vest over all.  
+~
+taraboner~
+AG 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CINR 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8418
+boy girl child~
+a {by{Boun{bg{x child~
+A {by{Boun{bg{x child runs about playing happily.
+~
+Running about in a carefree manner this child seems to think about
+nothing but having fun and enjoying life.  If only adults took the time to
+do this every so often perhaps the world would be a less stressful place.  
+~
+taraboner~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand either 25
+0 0 small 'flesh bones'
+#8419
+lord man~
+a {gwe{Galt{ghy{x Lord~
+A {gwe{Galt{ghy{x Lord struts about proudly.
+~
+Dressed in all of his best finery this Lord walks about like he owns all
+he sees.  His head held high with his nose slightly in the air so that he is
+constantly looking down on everyone.  
+~
+domani~
+AG 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 punch
+0 0 0 0 0
+A
+5 5 5 5
+IN 0 0 0
+stand stand male 80
+0 0 medium 'flesh bones'
+#8420
+lady woman~
+a {gwe{Galt{ghy{x Lady~
+A {gwe{Galt{ghy{x Lady parades about like a peacock.
+~
+Dressed in all of her most beautiful clothes and jewels this Lady parades
+about like a peacock so all may behold her beauty.  Her head held high with
+her nose slightly in the air so that she is constantly looking down on
+everyone.  
+~
+domani~
+AG 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+IN 0 0 0
+stand stand female 80
+0 0 medium 'flesh bones'
+#8421
+servant quiet~
+a quiet {Wservant{x~
+A {Wservant{x moves about quietly, eyes downcast.
+~
+~
+taraboner~
+AG 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+stand stand either 10
+0 0 medium 'flesh bones'
+#8422
+mayor falme~
+Ardon the {DM{Wayo{Dr{x~
+The {DM{Wayo{Dr{x of Falme holds his head up proudly.
+~
+Dressed in a fine suit the {DM{Wayo{Dr{x tends to the business of the town.  His
+large girth stretches the {Wwhite{x full-sleeved shirt and the knee-length {Dblack{x
+vest to the extremes of the material.  He tends to waddle more then he does
+walk but none would dare say so for this man can be ruthless as needed, his
+big form and proud smile hiding his true nature.  
+~
+taraboner~
+AG 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slice
+0 0 0 0 0
+A
+6 6 6 6
+CIN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8423
+sailor gruff~
+a {yg{Druf{yf{x looking sailor~
+A {yg{Druf{yf{x looking sailor walks with a rolling gait.
+~
+~
+illianer~
+AG 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN 0 0 0
+stand stand male 20
+0 0 medium 'flesh bones'
+#8424
+sailor stocky~
+a {Wst{Doc{Wky{x sailor~
+A {Wst{Doc{Wky{x sailor ambles about.
+~
+~
+tairen~
+AG 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+CIN 0 0 0
+stand stand male 20
+0 0 medium 'flesh bones'
+#8425
+drunk sailor~
+a {Ddrunk{x sailor~
+A {Ddrunk{x sailor slurs his words as he stumbles about.
+~
+~
+taraboner~
+AG 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+stand stand male 15
+0 0 medium 'flesh bones'
+#8426
+sailor gambling~
+a {ggambling{x sailor~
+A sailor {ggambles{x all his earnings away.
+~
+~
+taraboner~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CINU 0 0 0
+sit sit male 25
+0 0 medium 'flesh bones'
+#8427
+sailor grabby~
+a {rg{Rrabb{ry{x sailor~
+A sailor goes about {rgr{Rabbi{rng{x the serving wenches behinds.
+~
+~
+seafolk~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CIN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8428
+harbormaster harbor master~
+the {bHa{Brb{Do{Wrm{Da{Bst{ber{x~
+The {bHa{Brb{Do{Wrm{Da{Bst{ber{x sits behind his desk working hard.
+~
+Short {ybrown{x hair is starting to go {Dgray{x on this aging sailor.  Once on
+the seas along with the rest of the men that pass through his office daily
+he now sits behind a desk processing goods as well as people day after day. 
+Dressed simply in a {Wwhite{x full-sleeved shirt and a pair of {Dbaggy{x trousers he
+often foregoes wearing a vest unless outside.  
+~
+seafolk~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slice
+0 0 0 0 0
+A
+6 6 6 6
+CEIN 0 0 0
+sit sit male 100
+0 0 medium 'flesh bones'
+#8429
+guard watcher~
+a {BWa{Dt{Wc{Dh{Ber{x~
+A {BWa{Dt{Wc{Dh{Ber{x remains always vigilant while on duty.
+~
+~
+taraboner~
+AG 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 stab
+0 0 0 0 0
+A
+5 5 5 5
+CIN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8430
+lighthouse keeper light house~
+the {Wli{Ygh{Dth{You{Wse{x Keeper~
+The {Wli{Ygh{Dth{You{Wse{x Keeper shuffles about while he works.
+~
+Age has slightly bent this man's back, causing him to shuffle as he walks
+but he still proudly tends to the lighthouse.  Carrying wood upstairs on his
+own and tending to the flame each night.  
+~
+seafolk~
+AG 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+CIJN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8431
+merchant~
+a {bmerchant{x~
+A {bmerchant{x walks the streets trying to sell their wares.
+~
+~
+domani~
+AG 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand either 25
+0 0 medium 'flesh bones'
+#8432
+artist~
+an {ba{mr{gt{ri{Bs{Mt{x~
+An {ba{mr{gt{ri{Bs{Mt{x does her best to get some business.
+~
+Carrying rolls of parchment, a sketchboard and various chalks and pencils
+for drawing, this colorfully dressed Domani woman does her best to draw
+people to her so she can earn some money.  
+~
+domani~
+AG 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN 0 0 0
+stand stand female 10
+0 0 medium 'flesh bones'
+#8433
+watcher trainee~
+a {BWa{Dt{Wc{Dh{Ber{x trainee~
+A {BWa{Dt{Wc{Dh{Ber{x trainee does his best to act like the full guards.
+~
+~
+taraboner~
+AG 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 stab
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8434
+domani man woman~
+a {rDomani{x~
+A {rDomani{x walks the streets, glaring at any {BTaraboners{x.
+~
+~
+domani~
+AG 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+stand stand either 25
+0 0 medium 'flesh bones'
+#8435
+taraboner man woman~
+a {BTaraboner{x~
+A {BTaraboner{x walks the streets, glaring at any {rDomani{x.
+~
+~
+taraboner~
+AG 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+IN 0 0 0
+stand stand either 0
+0 0 medium 'flesh bones'
+#8436
+woman local falme~
+a woman of Falme~
+A local woman of Falme goes about her business.
+~
+~
+unique~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand female 25
+0 ABCDEFGHIJK medium 'flesh bones'
+#8437
+man falme local~
+a man of Falme~
+A local man of Falme goes about his business.
+~
+~
+taraboner~
+AG 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CIN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8438
+hostler~
+Mark the {DHostler{x~
+Mark the {DHostler{x stands behind the counter speaking with each customer.
+~
+Mark is the hostler of Falme, dressed like the local he is he tends to
+the customers with a hearty welcome and a big grin.  He's a large man but
+its obviously muscle, time spent working with the horses both here and at
+his home just outside the city.  
+~
+tairen~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8439
+blacksmith~
+Bruce the {Dblacksmith{x~
+Bruce the {Dblacksmith{x works hard over his anvil.
+~
+Dressed in a pair of tight {Dblack{x breeches and no shirt with an {Dapron{x
+covering most of his front torso Bruce works hard beating the metal into
+shape.  Soot and sweat covering his naked back and arms while his long {ybrown{x
+hair has been tied back out of his face, the sweat kept from his eyes with a
+headband.  
+~
+shienaran~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+IN 0 0 0
+stand stand male 2000
+0 0 medium 'flesh bones'
+#8440
+blacksmith wife~
+Janice the repairer~
+Janice works at repairing pieces no longer whole.
+~
+With long {Dblack{x hair tied back out of her face, Janice works just as hard
+as her husband but focuses more on the finer things such as jewelry and
+detailing on armor and the like.  She is dressed in a simple {Dblack{x dress
+with elaborate embrodery in the style of the local women.  
+~
+shienaran~
+ABE 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN 0 0 0
+stand stand female 1000
+0 0 medium 'flesh bones'
+#8441
+wisdom woman healer~
+the local {gW{Gi{Wsd{Go{gm{x~
+The local {gW{Gi{Wsd{Go{gm{x tends to everyone with a gentle hand and soft voice.
+~
+~
+taraboner~
+AGa b 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+100 100 100 100 100
+A
+6 6 6 6
+0 0 0 0
+stand stand female 0
+0 0 medium 'skin flesh bones'
+M 'RANDOM' 8441 20~
+#8442
+domani woman~
+a sultry {rDo{Rma{rni{x woman~
+A sultry {rDo{Rma{rni{x woman stands behind the counter.
+~
+~
+domani~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 10000
+0 0 medium 'flesh muscle bone'
+#8443
+armorer leather~
+Jim the {yleather{x worker~
+Jim the {yleather{x worker works hard to fill each and every order.
+~
+Having worked at forming leather into proper armor Jim's a well-muscled
+man.  Short and stocky this obvious Arafellin man stands out from the locals
+with his {rred{x hair that is tied into two braids with little bells woven into
+them.  His broad shoulders and thick arms flex beneath a tight {yleather{x vest
+of his own making, intricate metal work displays an image of a rearing
+stallion.  
+~
+unique~
+ABE 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 10000
+0 0 medium 'skin flesh bones'
+#8444
+carpenter~
+Edward the carpenter~
+Edward the carpenter stands behind the counter covered in {ywood{x chips.
+~
+~
+taraboner~
+A 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand male 60
+0 0 medium 'skin flesh bones'
+#8445
+potter woman dishelved~
+a potter named Sally~
+A dishelved woman named Sally sits at the pottery wheel.
+~
+~
+taraboner~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 10000
+0 0 medium 'flesh skin bones'
+#8446
+watcher duty~
+an off-duty {BWa{Dt{Wc{Dh{Ber{x~
+An off-duty {BWa{Dt{Wc{Dh{Ber{x takes the chance to relax.
+~
+~
+taraboner~
+AG 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 slice
+0 0 0 0 0
+A
+4 4 4 4
+CIN 0 0 0
+stand stand male 25
+0 0 medium 'flesh bones'
+#8447
+glass blower~
+a glassblower named Susan~
+Susan the glassblower works hard behind the counter.
+~
+~
+domani~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 10000
+0 0 medium 'skin flesh bones'
+#8448
+captain watcher~
+Steve the {WCa{Dp{Bt{Da{Win{x of the {BWa{Dt{Wc{Dh{Ber{x's~
+Steve the {WCa{Dp{Bt{Da{Win{x of the {BWa{Dt{Wc{Dh{Ber{x's sits behind his desk.
+~
+~
+taraboner~
+ABJb 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 0
+0 0 medium 'skin flesh bones'
+F gain A
+#8449
+patron drunk~
+a {ydr{Du{ynk{Da{yrd{x~
+A {ydr{Du{yn{Dk{yen{x patron stumbles about wildly.
+~
+~
+domani~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+CI 0 0 0
+stand stand male 5
+0 0 medium 'flesh bones'
+#8450
+gambler patron~
+a {ggam{Gb{gler{x ~
+A {ggam{Gb{gler{x happily spends all of his money.
+~
+~
+unique~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+CN 0 0 0
+stand stand male 100
+0 0 medium 'skin flesh bones'
+#8451
+wealthy gambler~
+a {Gwe{galt{Ghy{x gambler~
+A {Gwe{galt{Ghy{x gambler carefully eyes the other players.
+~
+~
+unique~
+AB 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+CIJ 0 0 0
+stand stand male 200
+0 0 medium 'skin flesh bones'
+#8452
+patron~
+a patron~
+A patron sits chatting with those at his table.
+~
+~
+altaran~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CN 0 0 0
+stand stand male 20
+0 0 medium 'flesh skin bones'
+#8453
+wanna watcher~
+a wanna-be {BWa{Dt{Wc{Dh{Ber{x~
+A wanna-be {BWa{Dt{Wc{Dh{Ber{x waits for his turn.
+~
+~
+taraboner~
+AB 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+CI 0 0 0
+stand stand male 10
+0 0 medium 'skin flesh bones'
+#8454
+cook~
+Bill the cook~
+A cook named Bill works at the stove.
+~
+~
+taraboner~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 10000
+0 0 medium 'skin flesh bones'
+#8455
+captain merchant man~
+the {WCa{Dp{bt{Da{Win{x~
+The {WCa{Dp{bt{Da{Win{x of the {WSi{Dlv{Wer{x Mark works behind his desk.
+~
+~
+domani~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slice
+0 0 0 0 0
+A
+7 7 7 7
+CDIJKN 0 0 0
+sit sit male 500
+0 0 medium 'skin flesh bones'
+#8456
+second mate man~
+the {WSe{Dco{bn{Dd-m{Wate{x of the {WSi{Dlv{Wer{x Mark~
+The {WSe{Dco{bn{Dd-m{Wate{x of the {WSi{Dlv{Wer{x Mark stands behind the wheel.
+~
+~
+domani~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 slice
+0 0 0 0 0
+A
+5 5 5 5
+CI 0 0 0
+stand stand male 100
+0 0 medium 'flesh skin bones'
+#8457
+crew man sailor~
+a member of the {Wc{br{Wew{x~
+A member of the {Wc{br{Wew{x moves about the ship.
+~
+~
+domani~
+AG 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CI 0 0 0
+stand stand male 30
+0 0 medium 'skin flesh bones'
+#8458
+cook galley~
+the Galley cook~
+The galley {WCook{x toils over the hot stove.
+~
+~
+domani~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 1000
+0 0 medium 'skin flesh bones'
+#8459
+jack sparrow captain eccentric pirate~
+Captain Jack Sparrow~
+An {Bec{Dc{Rent{Dr{Bic{x looking pirate stands behind the {ywheel{x.
+~
+This eccentricly dressed pirate walks with a stumbling gait, his hands
+help up in an odod gesture as he goes.  Long {ybrown{x hair formed into
+dreadlocks is held down with a {Rr{re{Rd{x bandana on his head along with a {Dblack{x
+hat.  His face is slightly gaunt looking, his thin {ylong{x beard that is neatly
+trimmed and twisted down from his chin only heightens this look.  His
+piercing {ybrown{x eyes hold a shimmer of amusement but also a deadly gleam.
+Secured on his belt is a curved cutlass.  
+~
+seafolk~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slice
+0 0 0 0 0
+A
+7 7 7 7
+CEFI 0 0 0
+stand stand male 500
+0 0 medium 'skin flesh bones blood guts'
+M 'GREET' 8459 80~
+#8460
+will turner confident man~
+Will Turner~
+A {rcon{Rfid{rent{x young man sits talking with his companion.
+~
+Tall and lanky, this young man walks with an air of youthful confidence. 
+His wavy, shoulder length {ybrown{x hair is tied back against the nape of his
+neck with a {Dblack{x cord of leather.  Light brown eyes watch the world around
+him from a slender yet handsome face.  He is dressed rather plainly in an
+off {Wwh{Di{Wte{x shirt and a pair of {ybrown{x breeches.  Sheathed at his hip is a
+sword that looks to be of fine quality, almost looks out of place except
+that he seems quite confident in its use.  
+~
+seafolk~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slice
+0 0 0 0 0
+A
+7 7 7 7
+CEFIK A 0 0
+sit sit male 100
+0 0 medium 'skin flesh bones'
+M 'GREET' 8460 80~
+#8461
+elizabeth swan woman beauty~
+Elizabeth Swan~
+A {mse{bnsu{mal{x beauty sits talking with her companion.
+~
+Sensual beauty gracess this young woman in all aspects.  Her long, wavy
+{ybrown{x hair cascades down her back and over her shoulders, framing a delicate
+face with bright {ybrown{x eyes and full {rpouty{x lips.  Her body is curvy and
+slender, a fact which is accentuated by her clothes, or lack thereof.  Her
+clothing consists of her {Wnightgown{x and nothing else aside from a pair of
+{Dslippers{x on her feet.  Why she is sailing around in her nighty is hard to
+guess but the rest of the crew don't seem to mind.  
+~
+seafolk~
+AB 0 0 0
+83 73 42d42+6889 83d10+100 9d12+41 punch
+0 0 0 0 0
+A
+5 5 5 5
+CIN 0 0 0
+sit sit female 200
+0 0 medium 'skin flesh bones'
+M 'GREET' 8461 80~
+#8462
+pirate scoundrel~
+a scoundrel of a pirate~
+A {Dsco{yund{Drel{x of a pirate does his tasks with a grudging air.
+~
+~
+seafolk~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+CI 0 0 0
+stand stand male 3
+0 0 medium 'skin flesh bones'
+#8463
+psychotic monkey~
+a psychotic monkey~
+A {Rpsychotic{x looking monkey screeches inside of its cage.
+~
+A {Ddirty{x, {gsm{yel{gly{x little monkey screeches and leaps around inside his cage.
+His fur is all spiky looking and is clumped with {ydirt{x.  Around his neck a
+small {Wsi{Dlv{Wer{x chain hangs, dangling from it is an {Diron{x key.  
+~
+goblin~
+AB Vac 0 0
+100 90 51d52+10000 100d10+100 11d11+50 chomp
+0 0 0 0 0
+A
+7 7 7 7
+DFHIJKMN AB 0 AB
+stand stand male 5
+0 0 small 'fur flesh bones'
+F aff J
+F vul C
+M 'GREET' 8463 80~
+#8464
+crazed man Barbossa pirate prisoner~
+a {Rcr{raz{Red{x looking man~
+A {Rcr{raz{Red{x looking man is hunkered in the back of his cell, his hat over his face.
+~
+A large {Dblack{x hat throws this man's face even further into the shadows of
+the cell.  His long stringy {Dblack{x hair is all tangled beneath the hat.  A
+grin can be seen slowly forming as he leans forward a little into the light
+of your lantern.  Best keep your distance, it looks like he hasn't eaten in
+awhile.  
+~
+unique~
+ABIJOb b 0 0
+75 65 38d38+5625 75d10+100 8d13+37 slap
+0 0 0 0 0
+A
+4 4 4 4
+I A A 0
+stand stand male 0
+0 0 medium 'skin flesh bones'
+F gain B
+F train B
+V tlevel 80
+M 'GREET' 8464 80~
+#8465
+grungy pirate fake eye~
+a pirate with a fake-{yeye{x~
+A grungy looking pirate with a fake-{yeye{x shuffles about.
+~
+{yDirt{x seems to cover every inch of this scrawyn man.  Mangled {Yt{We{ye{Wt{Yh{x fill
+his mouth while scars and scabs cover his body.  His clothing is also very
+{ydirty{x but their very plain looking.  The most odd thing about this man are
+his eyes, or eye as the case may be.  One eye is a crystal {Cb{Blu{Ce{x while the
+other is a fake {ywooden{x one.  
+~
+unique~
+AB 0 0 0
+87 77 44d44+7569 87d10+100 9d16+43 slice
+0 0 0 0 0
+A
+5 5 5 5
+CIK 0 0 0
+stand stand male 10
+0 0 medium 'flesh skin bones'
+M 'GREET' 8465 100~
+#8466
+squat ugly pirate~
+a squat {Dug{yl{Dy{x pirate~
+A squat {Dug{yl{Dy{x pirate mutters to himself while mopping the deck.
+~
+Mangled {Yt{ye{We{yt{Yh{x, balding {rhe{Ma{rd{x, sored and scars are the things that stick
+out on this grotesque looking man, his dark {rre{Md{rdish{x skin make his scars all
+the more noticable.  His eyes are {Yyellowy{x {ybrown{x, making him look ill.  How
+this man is still alive is a question which may never be answered, the only
+one that seems able to tolerate his {yst{De{Wn{ych{x is the one-eyed pirate.  Still,
+with the cutlass at his hip one wouldn't want to make him mad.  
+~
+unique~
+AB 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 slice
+0 0 0 0 0
+A
+5 5 5 5
+CI 0 0 0
+stand stand male 10
+0 0 medium 'skin bones flesh'
+M 'GREET' 8466 100~
+#8467
+man stern~
+a stern looking man~
+A stern looking man moves about with an easy gait.
+~
+Long {ybrown{x hair has been pulled back to the nape of his neck and tied
+with a {Dblack{x leather cord, his features are almost hawkish looking with his
+sharp nose and narrow eyes, his skin the color of {ysand{x when wet.  His
+clothing is simple and is that of the local folk but he carries himself with
+an almost noble bearing.  
+~
+seanchan~
+AG 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 beating
+0 0 0 0 0
+A
+6 6 6 6
+CDIJNR 0 0 0
+stand stand male 100
+0 0 medium 'skin flesh bones'
+#8468
+man local sturdy~
+a sturdy man~
+A sturdy man dressed in the local fashion makes his way through town.
+~
+~
+seanchan~
+AG 0 0 0
+86 76 44d45+7396 86d10+100 9d15+43 uppercut
+0 0 0 0 0
+A
+5 5 5 5
+CDIJR 0 0 0
+stand stand male 40
+0 0 medium 'skin flesh bones'
+#8469
+indescript man~
+an indescript man~
+An indescript man goes about his task quietly.
+~
+~
+seanchan~
+AG 0 0 0
+86 76 44d45+7396 86d10+100 9d15+43 smash
+0 0 0 0 0
+A
+5 5 5 5
+CDI 0 0 0
+stand stand male 10
+0 0 medium 'skin flesh bones'
+#8470
+plainly dressed local~
+a plainly dressed local~
+A plainly dressed local goes about his business.
+~
+~
+seanchan~
+AG 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+CDR 0 0 0
+stand stand male 10
+0 0 medium 'skin flesh bones'
+#8471
+large man guard~
+a large man~
+A large man sits on a {ychair{x watching the ladder intently.
+~
+~
+taraboner~
+ABCS 0 0 0
+89 79 45d45+7921 89d10+100 9d18+44 stab
+0 0 0 0 0
+A
+5 5 5 5
+CFK 0 0 0
+stand stand male 40
+0 0 medium 'flesh skin bones'
+#8472
+leader thief man~
+the leader of the {DThi{We{Dves{x~
+The leader of the {DThi{We{Dves{x is going over reports.
+~
+~
+taraboner~
+ACS 0 0 0
+83 73 42d42+6889 83d10+100 9d12+41 slice
+0 0 0 0 0
+A
+5 5 5 5
+CIJ 0 0 0
+stand stand male 500
+0 0 medium 'skin flesh bones'
+#8473
+cook scrawny man~
+a {Dscr{Wa{Dwny{x man~
+A {Dscr{Wa{Dwny{x man works to cook up the meals.
+~
+~
+taraboner~
+ACS 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 stab
+0 0 0 0 0
+A
+4 4 4 4
+CJ 0 0 0
+stand stand male 100
+0 0 medium 'skin bones flesh'
+#8474
+trainer slender tall man~
+a tall {Dsle{Wn{Dder{x man~
+A tall {Dsle{Wn{Dder{x man watches over the trainees.
+~
+~
+taraboner~
+AJb 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh skin bones'
+F gain A
+F train A
+V tlevel 80
+#8475
+large guard dog~
+a large {Dblack{x guard dog~
+A large {Dblack{x guard dog is stretched out on the floor.
+~
+~
+dog~
+A 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 chomp
+0 0 0 0 0
+A
+5 5 5 5
+NR 0 0 0
+rest rest male 0
+0 0 medium 'flesh bones skin'
+#8476
+cook assistant~
+an assistant cook~
+An assistant cook works hard at their task.
+~
+~
+domani~
+AB 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+CI 0 0 0
+stand stand either 10
+0 0 medium 'flesh bones'
+#8477
+busty woman~
+a {bb{Dust{by{x woman~
+A {bb{Dust{by{x woman lounges patiently on the bed for her next customer.
+~
+~
+domani~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN 0 0 0
+rest rest female 10
+0 0 medium 'flesh bones'
+#8478
+slender woman~
+a {msl{Wend{mer{x woman~
+A {msl{Wend{mer{x woman lounges idly on the bed while waiting for the next customer.
+~
+~
+domani~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IJ 0 0 0
+rest rest female 10
+0 0 medium 'flesh bones'
+#8479
+stout woman~
+a {gst{Bo{gut{x woman~
+A {gst{Bo{gut{x woman hums happily while she performs her daily tasks.
+~
+~
+taraboner~
+AG 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CJ 0 0 0
+stand stand female 100
+0 0 medium 'flesh skin bones hair'
+#8480
+massive bull~
+a massive {Dblack{x bull~
+A massive {Dblack{x bull stomps the ground while snorting loudly.
+~
+{rFu{Rr{ry{x incarnate best describes this beast of a bull.  Its long glistening
+{Wwhite{x horns flow from the top of its massive thick head, the tips of the
+horns quite sharp.  Its short {Dblack{x fur is marred here and there by the
+occasional scar but their few and very small indeed.  Its short legs are
+very muscular and its thick hooves mar the dirt floor as it moves.  {WSteam{x
+seems to rise from its nostrils as it snorts loudly, his head lowering in
+challenge to all that trespass into its domain.  
+~
+bear~
+AF a 0 0
+100 90 51d52+10000 100d10+100 11d11+50 crush
+0 0 0 0 0
+A
+7 7 7 7
+FHKMY 0 B 0
+stand stand male 0
+H GIQ large 'skin flesh bones'
+F res I
+F par UV
+#8481
+mare brown stocky dappled~
+a stocky {ybr{Wo{ywn{x dappled mare~
+A stocky {ybr{Wo{ywn{x dappled mare munches on some hay.
+~
+~
+wolf~
+AIZ J 0 0
+60 50 31d32+3600 60d10+100 7d7+30 chomp
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh bones hair'
+F aff Z
+F par V
+#8482
+stallion old~
+an old {Dst{Wal{Dli{Won{x~
+An old {Dst{Wal{Dli{Won{x idly chews on some hay.
+~
+~
+wolf~
+AIZ J 0 0
+70 60 36d37+4900 70d10+100 8d8+35 chomp
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 0
+0 0 medium 'bones flesh hair'
+F aff Z
+F par V
+#8483
+chicken plump~
+a plump {Wchicken{x~
+A plump {Wchicken{x pecks and scratches at the ground.
+~
+~
+water fowl~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 peck
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand female 0
+0 0 medium 'flesh bones feathers'
+F aff Tb
+F res R
+#8484
+fat pig~
+a fat {Mp{Wi{Mg{x~
+A fat {Mp{Wi{Mg{x roots around in the dirt.
+~
+~
+pig~
+AG 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 chomp
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand either 0
+0 0 medium 'flesh skin bones meat'
+#8485
+cat small~
+a small {Dc{ya{Dt{x~
+A small {Dc{ya{Dt{x runs away on lithe feet.
+~
+~
+cat~
+AG J 0 0
+45 35 23d23+2025 45d10+100 5d10+22 scratch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh bones fur'
+F aff Z
+#8486
+farm dog~
+a large farm {Wd{Do{Wg{x~
+A large farm {Wd{Do{Wg{x stomps about the farm.
+~
+~
+dog~
+AG 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 0
+0 0 medium 'skin bones fur'
+#8487
+thief training trainee~
+a training {Dth{Wi{Def{x~
+A {Dth{Wi{Def{x in training works diligently.
+~
+~
+taraboner~
+ACS 0 0 0
+63 53 32d32+3969 63d10+100 7d10+31 stab
+0 0 0 0 0
+A
+3 3 3 3
+CIJR 0 0 0
+stand stand either 50
+0 0 medium 'skin flesh bones'
+#8488
+hungry thief~
+a hungry {Dth{Wi{Def{x~
+A hungry {Dth{Wi{Def{x eats quickly.
+~
+~
+taraboner~
+ACS 0 0 0
+64 54 33d34+4096 64d10+100 7d11+32 slice
+0 0 0 0 0
+A
+3 3 3 3
+CJR 0 0 0
+stand stand either 50
+0 0 medium 'skin flesh bones'
+#8489
+resting thief~
+a resting {Dth{Wi{Def{x~
+A resting {Dth{Wi{Def{x stretched out on a bunk.
+~
+~
+taraboner~
+ACS 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+CJR 0 0 0
+rest rest either 100
+0 0 medium 'flesh bones skin'
+#8490
+quiet man~
+a {Dqu{Wi{Det{x man~
+A {Dqu{Wi{Det{x man walks around, minding his own business.
+~
+~
+taraboner~
+ACGS 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 slice
+0 0 0 0 0
+A
+4 4 4 4
+CIJ 0 0 0
+stand stand male 200
+0 0 medium 'skin flesh bones'
+#8491
+eldest son boy~
+the {gel{Gde{gst{x son~
+The {gel{Gde{gst{x son polietly helps the customers while being attentative to his father's orders.
+~
+~
+domani~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IJ 0 0 0
+stand stand male 10
+0 0 medium 'skin flesh bones'
+#8492
+youngest son boy~
+the {Gyo{gunge{Gst{x son~
+The {Gyo{gunge{Gst{x son squirms his way between customers as he fetches things for his father.
+~
+~
+domani~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+IN 0 0 0
+stand stand male 3
+0 0 medium 'skin flesh bones'
+#8493
+spunky little pony~
+a spunky little {yp{Won{yy{x~
+A spunky little {yp{Won{yy{x trots about happily.
+~
+~
+wyvern~
+AIZ 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 chomp
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand either 1
+V 0 medium 'skin flesh bones'
+F aff DFT
+F imm L
+F for BZ
+F par VX
+#8494
+donkey grotesque~
+a grotesque looking {Ddonkey{x~
+A grotesque looking {Ddonkey{x plods along.
+~
+This grotesque {Ddonkey{x looks like it has seen better days.  Its left ear
+is half missing, almost as if it was bitten off.  His {Dgrey{x coat is shabby
+and is all growing in patches like someone took a razor too him in places
+but didn't do all of his coat.  His tail is completely missing, not even a
+little stub has been left behind.  One can't help but pity this beast as he
+plods along after his master.  
+~
+unique~
+AIZ 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 chomp
+0 0 0 0 0
+A
+4 4 4 4
+CI 0 0 0
+stand stand male 0
+AGV CDFJK medium 'skin flesh bones'
+#8495
+stallion medium muscled~
+a well-muscled {Dst{Wal{yli{Don{x~
+A well-muscled {Dst{Wal{yli{Don{x easily keeps pace with those around him.
+~
+Although of medium size for a horse this stallion makes up for it in
+muscle and the desire to please.  He easily keeps the pace set to him by his
+rider or those around him and is also as content pulling plows or wagons. 
+His multi-colored coat is kept at a nice healthy sheen and he is attentive
+and alert to what is going on around him.  
+~
+unique~
+AIZ 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 chomp
+0 0 0 0 0
+A
+5 5 5 5
+CHI 0 0 0
+stand stand male 0
+AGV ACDEFJKLMQ medium 'skin flesh bones'
+#8496
+filly frisky~
+a frisky {Wf{ri{Dl{Wl{ry{x~
+A frisky {Wf{ri{Dl{Wl{ry{x tosses her head defiantly.
+~
+Nostrils flaring, {Ceyes{x wide, {Dhooves{x stamping the ground, {rmane{x tossing
+back and forth with the movement of her head.  Her coat is glossy and
+healthy, her skin taunt over her slender yet muscled frame.  This filly
+screams untameable with her every defiant movement and yet somehow her owner
+has command of her, guiding her with a firm hand.  Though built more for
+speed she seems up to a good fight.  
+~
+unique~
+AIZ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 chomp
+0 0 0 0 0
+A
+6 6 6 6
+CDFHIW 0 E 0
+stand stand female 0
+AGV ACDEFJKMQ medium 'flesh skin bones'
+#8497
+sailor stocky~
+A {Dst{yoc{Dky{x sailor~
+A {Dst{yoc{Dky{x sailor moves with a rolling gait.
+~
+~
+domani~
+AG 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI 0 0 0
+stand stand male 0
+0 0 medium 'skin flesh bones'
+#8498
+seafolk sailor~
+a {Cse{Ba{mf{Bo{Clk{x sailor~
+A {Cse{Ba{mf{Bo{Clk{x sailor moves with a graceful swaying gait.
+~
+~
+seafolk~
+AG 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+CI 0 0 0
+stand stand either 50
+0 0 medium 'skin flesh bones'
+#8499
+man old sailor~
+an old sailor~
+An old {Dsa{bi{Dlor{x sits behind the counter repairing fishnets while serving customers.
+~
+~
+seafolk~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 1000
+0 0 medium 'skin flesh bones'
+#8500
+middle strong man~
+a strong middle-aged man~
+A strong middle-{yaged{x man sits behind the desk doing paperwork while waiting on customers.
+~
+~
+seafolk~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+sit sit male 50000
+0 0 medium 'skin flesh bones'
+#8501
+woman plain~
+a plain looking woman~
+A plain looking woman sits at the desk writing.
+~
+Long {Dblack{x hair is neatly drawn back into a simple {Wsi{Dlv{Wer{x hair clip at
+the back of her head, leaving the rest to hang down her back to just below
+her shoulders.  Her dress is the same as the local fashion but her narrow
+eyes and lighter skin suggest she's not entirely from here.  
+~
+seanchan~
+A 0 0 0
+79 69 40d40+6241 79d10+100 8d17+39 claw
+0 0 0 0 0
+A
+4 4 4 4
+CIJ 0 0 0
+sit sit female 50
+0 0 medium 'skin flesh bones'
+#8502
+sailor drunken~
+a drunken sailor~
+A drunken sailor stumbles about.
+~
+~
+unique~
+ABG 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CN 0 0 0
+stand stand male 4
+0 0 medium 'skin flesh bones'
+#8503
+lady mistress~
+the {mMi{rstre{mss{x of the House~
+The {mMi{rstre{mss{x of the House greets the clients warmly.
+~
+~
+domani~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 scratch
+0 0 0 0 0
+A
+6 6 6 6
+CJN 0 0 0
+stand stand female 2000
+0 0 medium 'flesh bones'
+#8504
+fishmonger~
+a stocky fisherman~
+A stocky fisherman serves customers while his partner does the fishing.
+~
+~
+seafolk~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 1000
+0 0 medium 'skin flesh bones'
+#8505
+banker sturdily man~
+a sturdily built man~
+A small but sturidly built man handles all the transactions.
+~
+~
+ghealdanin~
+ABDd H 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+AFIKN 0 0 0
+stand stand male 20000
+0 0 medium 'skin flesh bones'
+#8506
+lord father man~
+the {gLord{x of the manor~
+The {gLord{x of the manor wanders his home quietly.
+~
+~
+taraboner~
+AG 0 0 0
+66 56 34d35+4356 66d10+100 7d13+33 slap
+0 0 0 0 0
+A
+3 3 3 3
+CI 0 0 0
+stand stand male 0
+0 0 medium 'flesh bones'
+#8507
+lady woman mother~
+the {GLady{x of the manor~
+The {GLady{x of the manor sits on a chair by the window looking out at the town.
+~
+~
+taraboner~
+A 0 0 0
+56 46 29d30+3136 56d10+100 6d12+28 slap
+0 0 0 0 0
+A
+2 2 2 2
+I 0 0 0
+sit sit female 40
+0 0 medium 'skin flesh bones'
+#8508
+child young girl~
+a young {gg{Gir{gl{x~
+A young {gg{Gir{gl{x plays with some toys in the middle of the room.
+~
+~
+taraboner~
+A 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 slap
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 0
+stand stand female 2
+0 0 medium 'skin flesh bones'
+#8509
+nanny maid woman~
+the nanny~
+The nanny stands quietly in the hallway while staring at the southern door from time to time.
+~
+~
+taraboner~
+AB 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 slap
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 0
+stand stand female 20
+0 0 medium 'skin flesh bones'
+#8510
+woman pleasant~
+a pleasant woman~
+A pleasant woman sits behind the desk.
+~
+~
+taraboner~
+AB 0 0 0
+66 56 34d35+4356 66d10+100 7d13+33 punch
+0 0 0 0 0
+A
+3 3 3 3
+CIJ 0 0 0
+stand stand female 500
+0 0 medium 'skin flesh bones'
+#8511
+echo mob~
+wine rack echo mob~
+Wine rack echo mob
+~
+~
+domani~
+AB BGHPQ 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 b 0 0
+stand stand none 0
+0 0 medium 'skin flesh bones'
+M 'ACT' 8511 get~
+#8512
+large mutt dog~
+a large {ym{Dut{yt{x of a dog~
+A large {ym{Dut{yt{x of a dog eyes you from beside the safe.
+~
+Large {Wteeth{x are bared in a 'come on I dare you' sort of snarl while dark
+{ybrown{x eyes narrow on you.  This mutt was obviously trained well for anyone
+that gets too close to the desk or the safe gets growled at.  Around his
+neck on a metal chain is a large {ybrass{x key.  Best step back while you still
+have all your limbs.  
+~
+dog~
+A Vac 0 0
+200 100 56d57+12100 110d10+100 12d12+55 chomp
+0 0 0 0 0
+A
+8 8 8 8
+CDFMNOV AJb A 0
+stand stand male 0
+0 0 medium 'skin flesh bones'
+#8513
+cook head woman~
+the head cook~
+The head cook toils away in the kitchen.
+~
+~
+taraboner~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 0
+stand stand female 2
+0 0 medium 'skin flesh bones'
+#8542
+sturdy guard~
+a sturdy guard~
+A sturdy guard remains constantly vigilant.
+~
+~
+unique~
+A 0 0 0
+79 69 40d40+6241 79d10+100 8d17+39 thwack
+0 0 0 0 0
+A
+4 4 4 4
+CFI 0 0 0
+stand stand male 40
+0 0 medium 'skin flesh bones'
+#0
+
+
+
+#OBJECTS
+#8400
+bathtub bath tub~
+one of three large {Wbathtubs{x~
+One of three large {Wbathtubs{x placed in a circle within the room.~
+ceramic~
+furniture 0 0
+10 20000 CFI 110 110
+5 0 0 100
+#8401
+cabinet1 linen~
+a {yca{rbin{yet{x of linen~
+A {yca{rbin{yet{x of linen sits against one of the walls.~
+wood~
+container 0 0
+1000 ACI 0 10 4
+1 100 0 100
+#8402
+towel fluffy~
+a big, fluffy {Wwhite{x towel~
+A big, fluffy {Wwhite{x towel folded neatly.~
+cotton~
+armor S ADK
+3 2 2 3 0
+10 3 5 100
+#8403
+robe luxurious silk~
+a luxurious robe of {Dblack{x silk~
+A luxurious robe of {Dblack{x silk pools gently on the floor.~
+cloth~
+armor S AK
+3 2 2 3 0
+10 3 5 100
+#8404
+cabinet2 toiletries~
+a {yca{rbin{yet{x of toiletries~
+A {yca{rbin{yet{x of toiletries rests against one of the walls.~
+wood~
+container 0 0
+10 ACI 0 100 4
+5 10 0 100
+#8405
+soap bar~
+a bar of foamy {Ms{Woa{Mp{x~
+A bar of foamy {Ms{Woa{Mp{x sits waiting for use.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+2 3 1 100
+#8406
+bubblebath bottle~
+a bottle of {mbu{Wbbleba{mth{x~
+A bottle of {mbu{Wbbleba{mth{x waiting to be used.~
+glass~
+trash 0 AO
+0 0 0 0 0
+2 2 2 100
+#8407
+scrub brush wooden~
+a {ywooden{x scrub brush~
+A {ywooden{x scrub brush lays here waiting to be used.~
+wood~
+trash 0 AO
+0 0 0 0 0
+2 2 4 100
+#8408
+hair brush~
+a {ywo{rod{yen{x hair brush~
+A {ywo{rod{yen{x hair brush sits here.~
+wood~
+trash 0 AO
+0 0 0 0 0
+2 2 3 100
+#8409
+cabinet glass~
+an open {yca{rbin{yet{x of candles~
+An open {yca{rbin{yet{x containing scented objects.~
+wood~
+container 0 0
+100 I 0 12 10
+10 10 0 100
+#8410
+candle strawberry red~
+a {rr{Re{rd{x candle~
+A {rr{Re{rd{x candle that smells of strawberries sits here.~
+wax~
+light 0 AOQ
+0 0 10 0 0
+5 3 5 100
+#8411
+candle blue blueberries~
+a {bb{Blu{be{x candle~
+A {bb{Blu{be{x candle that smells of blueberries.~
+wax~
+light 0 AOQ
+0 0 10 0 0
+5 3 5 100
+#8412
+candle purple grapes~
+a {mp{Murpl{me{x candle~
+A {mp{Murpl{me{x candle that smells like grapes is here.~
+wax~
+light 0 AOQ
+0 0 10 0 0
+5 3 5 100
+#8413
+candle green apples~
+a {gg{Gree{gn{x candle~
+A {gg{Gree{gn{x candle that smells of apples sits here.~
+wax~
+light 0 AOQ
+0 0 10 0 0
+5 3 5 100
+#8414
+bottle lavender incense~
+a bottle of {mla{Wv{wen{Wd{mer{x incense~
+A bottle of {mla{Wv{wen{Wd{mer{x incense sits here.~
+glass~
+trash 0 AO
+0 0 0 0 0
+2 2 5 100
+#8415
+bottle vanilla incense~
+a bottle of {Yva{Wn{wi{Wl{Yla{x incense~
+A bottle of {Yva{Wn{wi{Wl{Yla{x incense sits here.~
+glass~
+trash 0 AO
+0 0 0 0 0
+2 3 5 100
+#8416
+water pump~
+a {bwa{Wt{ber{x pump~
+A {bwa{Wt{ber{x pump in the corner of the room.~
+wood metal~
+fountain 0 0
+-1 -1 'water' 0 0
+1 0 0 100
+#8417
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {yg{Yol{yd{x silk sheets.~
+wood silk~
+furniture 0 0
+3 20000 EHK 100 100
+2 10 0 100
+#8418
+arm chair large~
+one of two large {yar{Ymchai{yrs{x~
+Two large, comfortable {yar{Ymchai{yrs{x near the fireplace.~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+2 0 0 100
+#8419
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {Wsi{Dlv{Wer{x silk sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+1 0 0 100
+#8420
+large arm chair~
+one of two large {War{Dmchai{Wrs{x~
+Two large, comfortable {War{Dmchai{Wrs{x near the fireplace~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+0 0 0 100
+#8421
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {Dbl{wa{Dck{x silk sheets.~
+cloth~
+furniture 0 0
+2 2000 EHK 100 100
+0 0 0 100
+#8422
+large arm chair~
+one of two large {Dar{wmchai{Drs{x~
+Two large, comfortable {Dar{wmchai{Drs{x near the fireplace.~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+0 0 0 100
+#8423
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {cc{Cya{cn{x silk sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8424
+arm chair large~
+one of two large {car{Dmchai{crs{x~
+Two large, comfortable {car{Dmchai{crs{x near the fireplace.~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+0 0 0 100
+#8425
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {bb{Blu{be{x silk sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+1 0 0 100
+#8426
+arm chair large~
+one of two large {bar{Dmchai{brs{x~
+Two large, comfortable {bar{Dmchai{brs{x near the fireplace~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+0 0 0 100
+#8427
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {rr{Re{rd{x silk sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8428
+large arm chair~
+one of two large {rar{Dmchai{rrs{x~
+Two large, comfortable {rar{Dmchai{rrs{x near the fireplace.~
+cloth~
+furniture 0 0
+2 20000 0 100 100
+0 0 0 100
+#8429
+mahogancy bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {gg{Gree{gn{x silk sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8430
+large arm chair~
+one of two large {gar{Dmchai{grs{x~
+Two large, comfortable {gar{Dmchai{grs{x near the fireplace.~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+0 0 0 100
+#8431
+mahogany bed~
+a {ymahogany{x bed~
+A {ymahogany{x bed with {mp{Murpl{me{x silk sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8432
+large arm chair~
+one of two large {mar{Dmchai{mrs{x~
+Two large, comfortable {mar{Dmchai{mrs{x near the fireplace.~
+cloth~
+furniture 0 0
+2 20000 EH 100 100
+0 0 0 100
+#8433
+small bed~
+a small {ybed{x~
+A small {ybed{x with {bblue{x sheets sits against one wall.~
+cloth~
+furniture 0 0
+2 10000 EHK 100 100
+0 0 0 100
+#8434
+small bed~
+a {ysmall{x bed~
+A {ysmall{x bed with {Dblack{x sheets.~
+cloth~
+furniture 0 0
+2 10000 EHK 100 100
+0 0 0 100
+#8435
+hay matress~
+a {yhay{x filled matress~
+A {yhay{x filled matress lays on the floor.~
+cloth~
+furniture 0 0
+2 2000 EHK 100 100
+0 0 0 100
+#8436
+large bed~
+a large {yo{ra{yk{x bed~
+A large {yo{ra{yk{x, four post bed with {bblue{x sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8437
+large bed~
+a large {yo{ra{yk{x bed~
+A large {yo{ra{yk{x, four post bed with blood {rred{x sheets.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8438
+hidden drain~
+a hidden {Ddrain{x~
+A hidden {Ddrain{x in the bathroom with a metal cup insert.~
+cloth~
+container a 0
+300 ACI 0 100 10
+0 10 0 100
+#8439
+soiled coins~
+a pile of {ysoiled{x {Wc{Doin{Ws{x~
+A pile of {ysoiled{x {Wc{Doin{Ws{x in the bottom of the cup.~
+cloth~
+money 0 A
+300 2 0 0 0
+0 0 0 100
+#8440
+blue key~
+a {bblue{x key~
+A {bblue{x key dangles from a chain.~
+metal~
+key 0 AO
+0 0 0 0 0
+1 1 100 100
+#8441
+red key~
+a {rred{x key~
+A {rred{x key dangles from a chain.~
+cloth~
+key 0 AO
+0 0 0 0 0
+1 2 100 100
+#8442
+sign instructions~
+a {ysign{x near the tub~
+The {ysign{x reads: {DDear Bather, Provided are buckets, a stove, a tub and soap. Using the buckets head outside to the water pump, fill the buckets and come back. Light the stove and pour the water into the pots, let the water heat while you go fetch more. Once tub is full of water bath, once finished your bath tell one of the maids. Thank you and enjoy your bath. Management.~
+cloth~
+trash a 0
+0 0 0 0 0
+1 0 0 100
+#8443
+bucket large~
+a large {ybucket{x for water~
+A large {ybucket{x for hauling water.~
+cloth~
+drink 0 AO
+13 13 'water' 0 0
+0 5 5 100
+#8444
+large metal tub~
+a large {Dmetal{x washing tub~
+A large {Dmetal{x washing tub in one corner of the room.~
+cloth~
+furniture 0 0
+2 20000 CFI 100 100
+0 10 0 100
+#8445
+shelf small~
+a small {yshelf{x~
+A small {yshelf{x with bars of soap.~
+cloth~
+container 0 0
+10 0 0 2 0
+0 0 0 100
+#8446
+bar soap~
+a bar of {ggreen{x soap~
+A bar of {ggreen{x soap sits here.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+1 2 3 100
+#8447
+chair wooden~
+a {ywooden{x chair~
+A {ywooden{x chair beneath the small shelf.~
+wood~
+furniture 0 0
+1 10000 E 100 100
+0 0 0 100
+#8448
+table chairs~
+one of two gambling {ytables{x~
+Two gambling {ytables{x with six {ychairs{x each.~
+wood~
+furniture 0 0
+12 60000 DE 100 100
+0 0 0 100
+#8449
+chair table~
+one of numerous {ychairs{x~
+Numerous gambling {ytables{x with six {ychairs{x a piece fill the room.~
+wood~
+furniture 0 0
+30 100000 DE 100 100
+1 0 0 100
+#8450
+wooden bench~
+one of two {ywooden{x benches~
+Two {ywooden{x benches sit beneath the large windows.~
+wood~
+furniture 0 0
+4 50000 EHK 100 100
+0 0 0 100
+#8451
+cheese slice~
+a plate of sliced {Wcheese{x~
+A plate of sliced {Wcheese{x sits here.~
+cheese~
+food 0 AO
+10 5 0 0 0
+1 2 10 100
+#8452
+sliced bread~
+a plate of sliced {ybread{x~
+A plate of sliced {ybread{x sits here.~
+wheat~
+food 0 AO
+15 10 0 0 0
+1 3 10 100
+#8453
+bowl stew~
+a bowl of {ys{rt{ge{yw{x~
+A bowl of delicious smelling {ys{rt{ge{yw{x sits here.~
+cloth~
+food 0 AO
+30 25 0 0 0
+1 4 20 100
+#8454
+steak slab~
+a hearty {rsteak{x~
+A hearty slab of {rsteak{x sits on a large plate.~
+cloth~
+food 0 AO
+20 15 0 0 0
+1 5 20 100
+#8455
+fire breather bottle~
+a bottle of {rfi{Rre{Wbrea{Rth{rer{x~
+A bottle of {rfi{Rre{Wbrea{Rth{rer{x waiting to be drunk.~
+glass~
+drink 0 AO
+12 12 'firebreather' 0 0
+1 3 15 100
+#8456
+mug ale~
+a {ymug{x of ale~
+A {ymug{x of frothy ale.~
+cloth~
+drink 0 AO
+8 8 'ale' 0 0
+1 2 40 100
+#8457
+wine bottle red~
+a bottle of {rred{x wine~
+A bottle of {rred{x wine sits here.~
+cloth~
+drink 0 AO
+10 10 'red wine' 0 0
+1 3 90 100
+#8458
+cup tea~
+a {Wcup{x of {ytea{x~
+A steaming {Wcup{x of {ytea{x sits here.~
+cloth~
+drink 0 AO
+3 3 'tea' 0 0
+1 2 5 100
+#8459
+bottle white wine~
+a bottle of {Wwhite{x wine~
+A bottle of {Wwhite{x wine sits here.~
+cloth~
+drink 0 AO
+10 10 'white wine' 0 0
+1 3 90 100
+#8460
+stool bar~
+one of the {ystools{x at the bar~
+Numerous {ystools{x line the length of the {ybar{x.~
+cloth~
+furniture 0 0
+7 70000 E 100 100
+1 0 0 100
+#8461
+table chair~
+a {ychair{x at one of the {ytables{x~
+Numerous {ytables{x and {ychairs{x placed about the room.~
+cloth~
+furniture 0 0
+30 300000 D 100 100
+1 0 0 100
+#8462
+platform stage~
+a small {yplatform{x~
+A small {yplatform{x takes up the space in front of the large bay window.~
+wood~
+furniture 0 0
+5 50000 BEH 100 100
+0 0 0 100
+#8463
+bed large~
+a large queen sized {ybed{x~
+a large queen sized {ybed{x with {mpurple{x sheets takes up most of the room.~
+cloth~
+furniture 0 0
+2 20000 EHK 120 120
+1 0 0 100
+#8464
+loose floor board~
+a loose floor {yboard{x~
+A loose floor {yboard{x creaks softly when pulled up.~
+wood~
+container a 0
+4 AC 0 1 0
+1 0 0 100
+#8465
+metal key large~
+a large {Dmetal{x key~
+A large {Dmetal{x key hangs from a string.~
+cloth~
+key 0 AO
+0 0 0 0 0
+1 2 10 100
+#8466
+couch chair armchair~
+a seat on either the {gcouch{x or an {garmchair{x~
+A large {ggreen{x couch with matching {garmchairs{x on one side of the room.~
+cloth~
+furniture 0 0
+6 60000 EHK 100 100
+1 0 0 100
+#8467
+table chair chairs~
+a {ychair{x at the {ytable{x~
+A {ytable{x with a set of {ychairs{x around it in another corner of the room.~
+wood~
+furniture 0 0
+4 40000 D 100 100
+1 0 0 100
+#8468
+large pot~
+a large {Dmetal{x pot~
+A large {Dmetal{x pot hangs outside the stove.~
+cloth~
+fountain 0 0
+-1 -1 'water' 0 0
+1 0 0 100
+#8469
+trunk old~
+an {yo{Dl{yd{x trunk~
+An {yo{Dl{yd{x trunk sits under a {Wwhite{x sheet.~
+wood~
+container a 0
+10 AC 0 4 4
+1 20 0 100
+#8470
+silver key chain~
+a {Wsi{Dlv{Wer{x key on a chain~
+A {Wsi{Dlv{Wer{x key on a chain lays here.~
+cloth~
+key 0 AO
+0 0 0 0 0
+1 2 15 100
+#8471
+pouch coins~
+a {ypouch{x~
+A {ypouch{x filled with coins.~
+cloth~
+money 0 A
+500 50 0 0 0
+1 5 10 100
+#8472
+goblet pair~
+a pair of {Ygo{yble{Yts{x~
+A pair of gold {Ygo{yble{Yts{x stashed amoungst the loot.~
+gold metal~
+treasure a AO
+0 0 0 0 0
+40 6 1000 100
+#8473
+sword slender~
+a slender {Wsw{Do{Wrd{x~
+A slender {Wsw{Do{Wrd{x worn at the hip.~
+metal~
+weapon Y ANO
+sword 9 14 'slash' 0
+80 3 200 100
+A
+19 4
+#8474
+crossbow cross bow~
+a {ywooden{x crossbow~
+A {ywooden{x crossbow lays here with its quiver.~
+wood~
+weapon 0 ANO
+bow 9 14 'pierce' 0
+85 4 150 100
+A
+19 9
+A
+19 4
+#8475
+bunk bunks~
+one of numerous {ybunks{x~
+Numerous {ybunks{x fill as much space as possible.~
+cloth~
+furniture 0 0
+30 300000 EHK 100 100
+1 0 0 100
+#8476
+practice dagger~
+a practice {ydagger{x~
+A practice {ydagger{x sits in the weapons rack.~
+wood metal~
+weapon 0 ANO
+dagger 8 13 'slash' 0
+70 3 70 100
+A
+19 4
+#8477
+heavy mace~
+a heavy {Dmace{x~
+A heavy {Dmace{x sits here.~
+wood~
+weapon 0 AN
+mace 9 14 'smash' 0
+85 4 150 100
+A
+19 9
+A
+19 4
+#8478
+rusted key~
+a slightly {rru{yst{red{x key~
+A slightly {rru{yst{red{x key lays here.~
+metal~
+key 0 AO
+CFG ACD BCEIN BD 0
+1 5 10 100
+#8479
+square key~
+a square headed {Dkey{x~
+A square headed {Dkey{x hangs from a chain.~
+metal~
+key 0 AO
+0 0 0 0 0
+1 2 10 100
+#8480
+practice sword~
+a practice {ysword{x~
+A practice {ysword{x with a dull edge.~
+wood metal~
+weapon 0 ANO
+sword 7 12 'stab' 0
+60 3 70 100
+A
+19 4
+#8481
+pile manure~
+a pile of {ymanure{x~
+A pile of {ymanure{x lays on the ground of the stall.~
+wood~
+container a A
+100 AC 0 100 0
+1 4 1 100
+#8482
+table chair~
+a {ychair{x at one of the {ytables{x~
+{yTables{x and {ychairs{x fill up every available space.~
+wood~
+furniture 0 0
+20 200000 EG 100 100
+0 0 0 100
+#8483
+drawer hidden~
+a hidden {ydrawer{x~
+A hidden {ydrawer{x in the desk.~
+wood~
+container a 0
+10 ACD 8492 4 0
+0 0 0 100
+#8484
+bed small~
+a small {Wbed{x~
+A small bed with {Wwhite{x sheets sits to one side of the room.~
+cloth~
+furniture 0 0
+2 20000 EHK 100 100
+0 0 0 100
+#8488
+chest~
+a small {ych{We{yst{x~
+A small {ych{We{yst{x sits at the foot of the bed.~
+wood~
+container 0 0
+1000 ACD 8489 5 0
+0 0 0 100
+#8489
+key lead~
+a {Dlead{x key~
+A {Dlead{x key sits here.~
+lead~
+key 0 AO
+0 0 0 0 0
+1 2 40 100
+#8490
+pitchfork pitch fork~
+a {ypitch{Dfork{x~
+A {ypitch{Dfork{x stabbed into a pile of hay.~
+wood metal~
+weapon 0 ANO
+spear 9 14 'stab' 0
+80 4 100 100
+A
+19 4
+#8491
+short sword~
+a simple short {Wsw{Do{Wrd{x~
+A simple short {Wsw{Do{Wrd{x on its sheath.~
+metal~
+weapon Y ANO
+sword 9 14 'slash' 0
+85 4 150 100
+A
+19 9
+#8492
+small key~
+a small {Wk{De{Wy{x~
+A small {Wk{De{Wy{x tucked in a pocket.~
+cloth~
+key 0 AO
+0 0 0 0 0
+1 2 10 100
+#8493
+trunk toy chest~
+a large {ytrunk{x~
+A large {ytrunk{x barely used to store toys.~
+cloth~
+container 0 0
+100 AC 0 10 0
+0 0 0 100
+#8494
+pouch marbles~
+a {Dpouch{x of marbles~
+A {Dpouch{x of marbles long forgotten.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+60 4 100 100
+A
+2 1
+#8495
+cutlass sharp sword~
+a sharp edged {Dc{Wu{Dtla{Ws{Ds{x~
+A sharp edged {Dc{Wu{Dtla{Ws{Ds{x sits in it's sheath.~
+steel~
+weapon KY ANO
+sword 9 14 'slash' 0
+85 4 100 100
+A
+19 9
+#8496
+box compass~
+a small {ywooden{x box~
+A small {ywooden{x box with a compass that doesn't point north inside of it.~
+wood metal~
+treasure 0 AO
+0 0 0 0 0
+80 3 200 100
+#8497
+medallion gold~
+a {Ygo{yld{Yen{x medallion~
+A {Ygo{yld{Yen{x medallion with a skull engraved on it hangs from a simple {Yg{yol{Yd{x chain.~
+gold~
+jewelry Y AO
+0 0 0 0 0
+80 3 1000 100
+A
+3 2
+A
+13 100
+#8498
+dirty night gown nighty~
+a slightly {yd{Dirt{yy{x {Wnightgown{x~
+A slightly {yd{Dirt{yy{x {Wnightgown{x hangs down past the knees.~
+cloth~
+jewelry S AD
+0 0 0 0 0
+80 3 40 100
+#8499
+cutlass blade sword~
+a sharp {De{Wd{Dg{We{Dd{x cutlass~
+A sharp {De{Wd{Dg{We{Dd{x cutlass sits in its sheath.~
+iron~
+weapon Y AN
+sword 10 15 'slash' 0
+90 3 200 100
+A
+19 4
+A
+1 1
+A
+19 4
+A
+18 6
+A
+12 40
+A
+13 40
+#8500
+small iron key chain~
+a small {Diron{x key around a {Wsi{Dlv{Wer{x chain~
+A small {Diron{x key around a {Wsi{Dlv{Wer{x chain hangs here.~
+metal~
+key P ACO
+0 0 0 0 0
+90 2 150 100
+#8501
+large black hat~
+A large {Dblack{x hat and stringy {Dblack{x hair cover his face.~
+A large {Dblack{x hat with a worn {mf{Deathe{mr{x in it.~
+cloth~
+trash K E
+0 0 0 0 0
+1 1 0 100
+#8502
+smell rotting dead~
+a {Dd{rea{Dd{x {yro{Dtti{yng{x smell that lingers in the air~
+A {Dd{rea{Dd{x {yro{Dtti{yng{x smell that lingers in the air.~
+cloth~
+armor KS AQ
+10 10 10 10 0
+40 1 1 100
+#8503
+scars~
+numerous {rscars{x hidden amongst the dirt~
+Numerous {rscars{x hidden amongst the dirt~
+cloth~
+trash K AR
+0 0 0 0 0
+1 0 0 100
+#8504
+rings~
+tarnished rings of {Yg{yol{Yd{x~
+A set of tarnished rings made of {Yg{yol{Yd{x sit here.~
+cloth~
+jewelry KY AB
+0 0 0 0 0
+10 0 300 100
+#8505
+bling ~
+numerous pieces of old {Ybl{yin{Yg b{yli{Yng{x~
+Numerous pieces of old {Ybl{yin{Yg b{yli{Yng{x hang around his neck.~
+cloth~
+jewelry KY AC
+0 0 0 0 0
+1 1 25 100
+#8506
+shirt~
+a {Ddi{yr{Dty{x and worn shirt~
+A {Ddi{yr{Dty{x and worn shirt hang from his frail frame.~
+cloth~
+trash K AD
+0 0 0 0 0
+1 2 25 100
+#8507
+breeches~
+a pair of torn {Dblack{x breeches~
+A pair of torn {Dblack{x breeches cover skinny old legs.~
+cloth~
+trash K AF
+0 0 0 0 0
+1 1 35 100
+#8508
+feet bare~
+a pair of {Ddi{yr{Dty{x bare feet are tucked beneath him~
+A pair of {Ddi{yr{Dty{x bare feet are tucked beneath him.~
+cloth~
+trash K AG
+0 0 0 0 0
+1 1 25 100
+#8509
+hands~
+worn, {Dd{yir{Dty{x and {Wfrail{x looking hands~
+Worn, {Ddi{yr{Dty{x and {Wfrail{x looking hands rubs themselves together.~
+cloth~
+trash K AH
+0 0 0 0 0
+1 1 25 100
+#8510
+sleeves~
+a pair of torn {Dsl{yeev{Des{x hang off his skinny arms~
+A pair of torn {Dsl{yeev{Des{x hang off his skinny arms.~
+cloth~
+trash K AI
+0 0 0 0 0
+1 2 25 100
+#8511
+belt~
+a {Dleather{x belt just keeps his breeches up~
+A {Dleather{x belt just barely keeps his breeches from falling down.~
+cloth~
+trash K AL
+0 0 0 0 0
+1 2 25 100
+#8512
+cuff~
+a worn {Dsl{yee{Dve{x cuffs hangs loose~
+A worn and torn cuff to his {Dsl{yee{Dve{x hangs loose around his small wrist.~
+cloth~
+trash K AM
+0 0 0 0 0
+1 1 25 100
+#8513
+small dagger~
+a small {Ddagger{x hidden up the sleeve~
+A small {Ddagger{x hidden up the sleeve.~
+steele~
+weapon KY AN
+dagger 10 15 'stab' 0
+90 15 120 100
+A
+19 5
+A
+19 4
+#8514
+earrings~
+more tarnished {Ybl{yin{Yg b{yli{Yng{x hang from his ears~
+More tarnished {Ybl{yin{Yg b{yli{Yng{x hang from his ears.~
+cloth~
+trash K AU
+0 0 0 0 0
+1 1 15 100
+#8515
+face~
+a {Dgrimy{x face with {Yyellow{x eyes~
+A {Dgrimy{x face with {Yyellow{x eyes.~
+cloth~
+trash K AV
+0 0 0 0 0
+0 1 35 100
+#8516
+wire cage~
+a {Dwire{x cage~
+A {Dwire{x cage hangs from the ceiling.~
+cloth~
+container a 0
+3000 ACFGHIJ 288 40 10
+1 1 0 100
+#8517
+cache small coins~
+a small cache of {Yc{Wo{Di{Wn{Ys{x~
+A small cache of {Yc{Wo{Di{Wn{Ys{x hidden in the stone.~
+cloth~
+money 0 A
+50 10 0 0 0
+1 3 0 100
+#8518
+marker green ball~
+a {ggreen{x ball~
+A {ggreen{x ball floats on top of the water, moving with the waves.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+1 1 0 100
+#8519
+loose stone~
+a loose {Dstone{x~
+A loose {Dstone{x in the floor beneath the rocking chair.~
+cloth~
+container a 0
+100 ACD 0 100 10
+1 0 0 100
+#8520
+fishing pole~
+a fishing {ypole{x~
+A fishing {ypole{x sits waiting for use.~
+wood~
+trash 0 AO
+0 0 0 0 0
+5 2 10 100
+#8521
+fishing net~
+a fishing {Dnet{x~
+A fishing {Dnet{x lays neatly folded.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+5 5 25 100
+#8522
+fishing hook~
+a long steel fishing {Dhook{x~
+A long steel fishing {Dhook{x looks very sharp.~
+steel~
+weapon 0 AN
+dagger 5 10 'none' 0
+40 2 175 100
+A
+19 4
+A
+19 4
+#8523
+oar oars~
+a single {yoar{x~
+A single {yoar{x waiting for use.~
+wood~
+trash 0 AO
+0 0 0 0 0
+5 3 100 100
+#8524
+rowboat boat sturdy~
+a sturdy {yrow{Wb{yoat{x~
+A sturdy {yrow{Wb{yoat{x waits to be used.~
+wood~
+boat 0 A
+0 0 0 0 0
+50 10 1000 100
+#8525
+mangled teeth~
+a pair of mangled {Yt{ye{We{yt{Yh{x~
+A pair of mangled {Yt{ye{We{yt{Yh{x sometimes cause a lisp.~
+ivory~
+jewelry S AV
+0 0 0 0 0
+85 2 5 100
+A
+5 1
+#8526
+fake wooden eye~
+a fake {ywooden{x eye~
+A fake {ywooden{x eye rolls about randomly.~
+wood~
+jewelry S AV
+0 0 0 0 0
+85 1 3 100
+A
+2 -1
+#8527
+mass curly blonde hair~
+a mass of curly {Ybl{Won{Yde{x hair~
+A mass of curly {Ybl{Won{Yde{x hair bounces with each movement.~
+hair~
+armor S AE
+2 1 1 1 0
+5 2 3 100
+A
+5 2
+#8528
+torn gown~
+a {Dtorn{x and {yd{Dirt{yy{x {yd{bres{ys{x~
+A {Dtorn{x and {yd{Dirt{yy{x {yd{bres{ys{x barely covers anything.~
+silk~
+armor S AD
+1 2 1 1 0
+5 1 1 100
+#8529
+eyes violet~
+a pair of {Mvi{mol{Met{x eyes~
+A pair of {Mvi{mol{Met{x eyes watch everything intently.~
+flesh~
+jewelry S AV
+0 0 0 0 0
+75 2 2 100
+A
+5 1
+#8530
+whip long leather~
+a long {Dleather{x whip~
+A long {Dleather{x whip lays coiled here.~
+leather~
+weapon 0 AN
+whip 8 13 'none' 0
+75 4 150 100
+A
+19 9
+#8531
+black robe see through~
+a see-through {Dblack{x robe~
+A see-through {Dblack{x robe pools on the floor like water.~
+silk~
+armor S AK
+1 1 2 1 0
+5 2 50 100
+#8532
+small sailing ship~
+a small {Wsailing{x {yship{x~
+A small {Wsailing{x {yship{x glides through the water.~
+wood~
+boat 0 A
+0 0 0 0 0
+70 15 2000 100
+#8533
+large sailing ship~
+a large {Wsai{Dl{Wing{x {yship{x~
+A large {Wsai{Dl{Wing {yship{x rides on top of the waves easily.~
+wood~
+boat 0 A
+0 0 0 0 0
+90 30 3000 100
+#8534
+elegant sword~
+an {Wel{Ye{yg{Ya{Wnt{x sword~
+An {Wel{Ye{yg{Ya{Wnt{x sword rests in its sheath.~
+steel~
+weapon Y AN
+sword 9 14 'slice' 0
+80 75 1200 100
+A
+19 4
+#8535
+short sword~
+a short {Wsword{x~
+A short {Wsword{x rests here.~
+steel~
+weapon Y AN
+sword 8 13 'slice' 0
+75 75 400 100
+A
+19 9
+#8536
+hearty bowl stew~
+a bowl of hearty {ys{rt{yew{x~
+A bowl of hearty {ys{rt{yew{x sends up a waft of steam.~
+cloth~
+food 0 A
+10 5 0 0 0
+10 2 20 100
+#8537
+mug ale~
+a {ymug{x of ale~
+A {ymug{x of ale waiting to be drunk.~
+wood ale~
+drink 0 AO
+5 5 'ale' 0 0
+10 2 10 100
+#8538
+loaf bread~
+a warm loaf of {ybread{x~
+A warm loaf of {ybread{x with some butter on the side.~
+flour~
+food 0 AO
+15 10 0 0 0
+10 0 20 100
+#8539
+plate steamed fish~
+a plate of steamed {Wfi{Ds{Wh{x~
+A plate of steamed {Wfi{Ds{Wh{x sits here.~
+fish~
+food 0 A
+10 5 0 0 0
+10 3 14 100
+#8540
+beef~
+a plate of roasted {rbe{ye{rf{x~
+A plate of roasted {rbe{ye{rf{x sits here.~
+cloth~
+food 0 A
+20 15 0 0 0
+10 4 30 100
+#8541
+bunk bed~
+one of numerous bunk {ybeds{x~
+One of numerous bunk {ybeds{x filling the room.~
+cloth~
+furniture a 0
+2 10000 EHK 100 100
+0 0 0 100
+#8542
+swinging hammock~
+one of many swinging {Whammocks{x~
+One of many swinging {Whammocks{x about the room.~
+cloth~
+furniture 0 0
+2 10000 FIL 100 100
+1 0 0 100
+#8543
+large bed~
+a large bed~
+A large bed in one corner of the room.~
+cloth~
+furniture 0 0
+3 30000 EHK 100 100
+1 0 0 100
+#8544
+desk large~
+a large {ydesk{x~
+A large {ydesk{x at the back of the room.~
+cloth~
+furniture 0 0
+1 1000 DG 100 100
+1 0 0 100
+#8545
+drawer~
+a drawer in the {ydesk{x~
+a drawer in the {ydesk{x~
+wood~
+container a 0
+5 AC 0 5 0
+1 0 0 100
+#8546
+pouch~
+a small {Dpouch{x of coins~
+A small {Dpouch{x of coins sits here.~
+cloth~
+money 0 A
+100 2 0 0 0
+10 4 0 100
+#8547
+fat dirty key~
+a fat {ydi{Dr{yty{x key~
+A fat {ydi{Dr{yty{x key hangs from a {Dblack{x ribbon.~
+steel~
+key 0 AO
+0 0 0 0 0
+10 2 150 100
+#8548
+thin scratched key~
+a thin scratched {Dk{We{Dy{x~
+A thin scratched {Dk{We{Dy{x hangs from some string.~
+steel~
+key 0 AO
+0 0 0 0 0
+10 2 200 100
+#8549
+heavy silver key~
+a heavy {Wsi{Dlv{Wer{x key~
+A heavy {Wsi{Dlv{Wer{x key on a {mpurple{x ribbon with perfume on it.~
+cloth~
+key 0 AO
+0 0 0 0 0
+10 5 250 100
+#8550
+black key red ribbon~
+a {Dblack{x key on a {rred{x ribbon~
+A {Dblack{x key on a {rred{x ribbon sits here.~
+steel~
+key 0 AO
+0 0 0 0 0
+10 3 300 100
+#8551
+rock large moss~
+a large rock covered in {Gmoss{x~
+A large rock covered in {Gmoss{x bears faint markings beneath its {Gcushy{x covering.~
+cloth~
+furniture 0 0
+1 2000 EGJ 130 130
+90 200 0 100
+#8552
+package salted salmon~
+a package of salted {Msa{Wlm{Mon{x~
+A package of salted {Msa{Wlm{Mon{x sits here.~
+fish~
+food 0 A
+15 10 0 0 0
+10 2 40 100
+#8553
+package salted herring~
+a package of salted {Dhe{Wrri{Dng{x~
+A package of salted {Dhe{Wrri{Dng{x sits here.~
+cloth~
+food 0 A
+15 10 0 0 0
+10 3 60 100
+#8554
+large package lobster meat~
+a large package of {rlo{Wbst{rer{x meat~
+A large package of {rlo{Wbst{rer{x meat sits here.~
+cloth~
+food 0 A
+15 15 0 0 0
+10 6 100 100
+#8556
+squid meat package~
+a package of rare {Wsquid{x meat~
+A package of rare {Wsquid{x meat sits here.~
+cloth~
+food 0 A
+35 30 0 0 0
+10 6 200 100
+#8557
+bed comfortable~
+one of many comfortable {Wbeds{x~
+Numerous comfortable {Wbeds{x for the patients.~
+cloth~
+furniture 0 0
+10 100000 EHK 120 120
+1 0 0 100
+#8558
+safe~
+a large {Dsafe{x~
+A large {Dsafe{x sits behind the desk.~
+cloth~
+container 0 0
+1000 ABCD 8560 100 0
+50 0 0 100
+#8559
+stacks coins~
+stacks of {Wc{Yo{yi{Yn{Ws{x~
+Stacks of {Wc{Yo{yi{Yn{Ws{x placed neatly in the safe.~
+cloth~
+money 0 A
+1000 1 0 0 0
+1 4 0 100
+#8560
+solid brass key~
+a solid {ybrass{x key~
+a solid {ybrass{x key~
+brass~
+key 0 AO
+0 0 0 0 0
+10 3 100 100
+#8561
+teddy bear~
+a {Ddusty{x {yteddy{x bear~
+A {Ddusty{x {yteddy{x bear long forgotten.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+70 2 100 100
+A
+3 1
+A
+4 1
+A
+5 1
+#8562
+cradle~
+an old cradle~
+An old cradle sits in the middle of the room.~
+wood~
+container a 0
+100 0 0 2 0
+1 0 0 100
+#8563
+large armchair~
+a comfortable {garmchair{x~
+A comfortable {garmchair{x sits here waiting to be used.~
+cloth~
+furniture a 0
+2 10000 EH 100 100
+1 0 0 100
+#8564
+plain chest~
+a plain {ychest{x~
+A plain {ychest{x sits amidst the other cargo.~
+cloth~
+container a 0
+100 ABCD 8570 1 0
+0 0 0 100
+#8565
+large trunk~
+a large {ytrunk{x~
+A large {ytrunk{x admist the other cargo.~
+cloth~
+container a 0
+100 ABCD 8571 1 0
+0 0 0 100
+#8566
+crate~
+a {ycrate{x~
+A {ycrate{x admist the other cargo.~
+cloth~
+container a 0
+100 ABCD 8572 1 0
+0 0 0 100
+#8567
+sturdy box~
+a sturdy {Db{yo{Dx{x~
+A sturdy {Db{yo{Dx{x amidst the cargo.~
+cloth~
+container a 0
+100 ABCD 8573 1 0
+0 0 0 100
+#8568
+leather bag~
+a locked {Dleather{x bag~
+A locked {Dleather{x bag amidst the other cargo.~
+cloth~
+container a 0
+100 ABCD 8574 1 0
+0 0 0 100
+#8569
+waterlogged chest~
+a slightly waterlogged {ychest{x~
+A slightly waterlogged {ychest{x bobs in the water.~
+cloth~
+container 0 0
+100 ABCD 8575 1 0
+0 0 0 100
+#8570
+red key~
+a {Rred{x key~
+A {Rred{x key hangs from a keychain.~
+cloth~
+key P A
+0 0 0 0 0
+90 1 100 100
+#8571
+blue key~
+a {Bblue{x key~
+A {Bblue{x key all by its lonesome.~
+cloth~
+key PV A
+0 0 0 0 0
+90 1 100 100
+#8572
+purple key~
+a {mpurple{x key~
+A {mpurple{x key all by its lonesome~
+cloth~
+key P A
+0 0 0 0 0
+90 2 100 100
+#8573
+green key~
+a {ggreen{x key~
+A {ggreen{x key all by its lonesome.~
+cloth~
+key P A
+0 0 0 0 0
+90 2 100 100
+#8574
+white key~
+a {Wwhite{x key~
+A {Wwhite{x key all by its lonesome.~
+cloth~
+key P A
+0 0 0 0 0
+90 2 100 100
+#8575
+gold key~
+a {Ygo{yld{Yen{x key~
+A {Ygo{yld{Yen{x key all by its lonesome.~
+cloth~
+key P A
+0 0 0 0 0
+90 2 100 100
+#8577
+sheepskin coat~
+a {Wshe{yeps{Wkin{x coat~
+A {Wshe{yeps{Wkin{x coat hangs here.~
+sheep skin~
+armor 0 AK
+8 9 9 8 0
+35 4 170 100
+A
+13 10
+#8578
+sheepskin vest~
+a {Wshe{yeps{Wkin{x vest~
+A {Wshe{yeps{Wkin{x vest hangs here.~
+cloth~
+armor 0 AK
+10 10 10 10 0
+40 4 180 100
+#8579
+silk white shirt~
+a {Wwhite{x silk shirt~
+A {Wwhite{x silk shirt neatly folded.~
+cloth~
+armor 0 AD
+11 11 11 11 0
+45 2 190 100
+#8580
+sturdy boots~
+a pair of {ysturdy{x boots~
+A pair of {ysturdy{x boots sit here.~
+cloth~
+armor 0 AG
+12 12 12 14 0
+50 2 200 100
+A
+12 50
+#8581
+studded leather bracers~
+a pair of {Dstudded{x {yleather{x bracers~
+A pair of {Dstudded{x {yleather{x bracers sit here.~
+cloth~
+armor 0 AM
+15 14 13 13 0
+55 2 210 100
+#8582
+baggy leather breeches~
+a pair of baggy {yleather{x breeches~
+A pair of baggy {yleather{x breeches are folded here.~
+cloth~
+armor 0 AF
+15 15 15 15 0
+60 2 220 100
+A
+13 15
+#8583
+studded leather vest~
+a {Dstudded{x {yleather{x vest~
+A {Dstudded{x {yleather{x vest sits here.~
+leather~
+armor 0 AD
+16 16 17 16 0
+65 4 250 100
+A
+1 1
+A
+13 30
+#8584
+cutlass simple~
+a simple {Wcut{Dl{Wass{x~
+A simple {Wcut{Dl{Wass{x sits in its sheath.~
+steel~
+weapon 0 AN
+sword 4 9 'slice' 0
+30 115 100 100
+A
+19 4
+#8585
+simple dagger~
+a simple {Wda{Dgg{Wer{x~
+A simple {Wda{Dgg{Wer{x lays here sheathed.~
+cloth~
+weapon Y AN
+dagger 4 9 'stab' 0
+35 35 120 100
+A
+19 9
+#8586
+short bow~
+a short {ybow{x~
+A short {ybow{x ready for use.~
+wood~
+weapon 0 AN
+bow 5 10 'pierce' 0
+40 2 140 100
+A
+19 4
+#8587
+arrow barbed~
+a {Dbarbed{x arrow~
+A {Dbarbed{x arrow sits waiting to be used.~
+cloth~
+weapon 0 AO
+arrow 5 10 'pierce' 0
+45 2 40 100
+A
+19 9
+#8588
+spear long~
+a long {yspear{x~
+A long {yspear{x sharp and ready for use.~
+wood~
+weapon 0 AN
+spear 6 11 'stab' 0
+50 2 160 100
+A
+19 4
+#8589
+shield sturdy~
+a sturdy {Ds{yhiel{Dd{x~
+A sturdy {Ds{yhiel{Dd{x with a comfortable leather arm strap.~
+cloth~
+armor Y AJ
+13 15 13 13 0
+55 2 170 100
+A
+19 9
+#8590
+parchment piece~
+a piece of {Wparchment{x~
+A piece of blank {Wparchment{x lays here.~
+paper~
+notepaper 0 AO
+0 0 0 0 0
+1 1 1 100
+#8591
+plain waterskin~
+a plain {ywaterskin{x~
+A plain {ywaterskin{x bulges out with water.~
+cloth~
+drink 0 AO
+12 12 'water' 0 0
+30 2 135 100
+#8592
+bedroll comfortable~
+a comfortable {gbe{Gd{Dr{Go{gll{x~
+A comfortable {gbe{Gd{Dr{Go{gll{x lays here.~
+cloth~
+furniture 0 A
+1 1000 EHK 100 100
+35 2 50 100
+#8593
+lantern hooded~
+a {Dho{Wod{Ded{x lantern~
+A {Dho{Wod{Ded{x lantern gives off a dim light.~
+cloth~
+light 0 A
+0 0 999 0 0
+30 2 100 100
+#8594
+pack salted fish~
+a pack of {Wsalted{x fish~
+A pack of {Wsalted{x fish is perfect for when travelling.~
+fish~
+food 0 A
+15 10 0 0 0
+10 2 30 100
+#8595
+earthen jug~
+an {yearthen{x jug~
+An {yearthen{x jug sits here.~
+clay~
+drink 0 AO
+15 15 'water' 0 0
+50 5 200 100
+#8596
+clay plate~
+a {ycl{ra{yy{x plate~
+A {ycl{ra{yy{x plate with a glossy finish.~
+clay~
+treasure 0 AO
+0 0 0 0 0
+40 3 50 100
+#8597
+clay cat figurine~
+a painted {Dfi{rg{Wur{ri{Dne{x of a cat~
+A painted {Dfi{rg{Wur{ri{Dne{x of a cat sits here on its haunches.~
+clay~
+treasure 0 AO
+0 0 0 0 0
+45 3 150 100
+A
+3 1
+#8598
+vase glass~
+a {Cgl{Wa{Css{x vase~
+An intricate {Cgl{Wa{Css{x vase twists upwards to the sky.~
+glass~
+treasure 0 AO
+0 0 0 0 0
+20 2 50 100
+#8599
+glass hummingbird~
+a beautiful {Cg{Wlas{Cs{x {Bhu{Gmm{ging{Gbi{Brd{x~
+A beautiful {Cg{Wlas{Cs{x {Bhu{Gmm{ging{Gbi{Brd{x is in flight on its little stand.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+30 2 70 100
+#8600
+dancing ballerina~
+a dancing {Cba{Wlleri{Cna{x~
+A dancing {Cba{Wlleri{Cna{x twirls about with her arms raised up and her left leg out behind her.~
+glass~
+treasure 0 AO
+0 0 0 0 0
+50 3 100 100
+A
+2 1
+#0
+
+
+
+#ROOMS
+#8400
+A Crossroads~
+Meeting and somehow blending together the {ydirt{x road from the south
+mingles into the {Dco{wbb{Wles{wto{Dne{x roads that spread out in either direction.  The
+cliffs that begin to form and flow upwards along the south road stretches
+out along the eastern and western roads as well, acting like a buffer
+between the town and the ocean.  All the buildings that start at the corners
+of the roads and spread out have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x
+walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8401
+D1
+~
+~
+0 0
+0 0 8481
+D2
+~
+~
+0 0
+0 0 8411
+D3
+~
+~
+0 0
+0 0 8482
+S
+#8401
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8402
+D2
+~
+~
+0 0
+0 0 8400
+S
+#8402
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings as does the occassional side road.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8403
+D2
+~
+~
+0 0
+0 0 8401
+D3
+~
+~
+0 0
+0 0 8440
+S
+#8403
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings as does the occassional side road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8404
+D1
+~
+~
+0 0
+0 0 8437
+D2
+~
+~
+0 0
+0 0 8402
+S
+#8404
+The Main Road~
+The main road continues along south from the center of Falme, the
+cobblestones extending in both directions.  On the western side of the road
+a building made of stone sits.  Much like the inn further north there is an
+{We{by{We{x above the door but along side the {We{by{We{x is the image of a set of {bwaves{x. 
+The only window is on the right side of the building and inside a figure can
+be seen sitting behind a desk with chairs all about the room.  Other
+buildings sit on either side of the road, all with the same {Dslate{x roofs that
+can be found throughout the village.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8405
+D2
+~
+~
+0 0
+0 0 8403
+D3
+~
+~
+3 3
+1 0 8532
+S
+#8405
+Center of Town~
+The center of the large town is in constant motion, day or night, as the
+general populace and visitors move from place to place.  Sailors often
+swagger through on their way to one of the stores, Domani merchants
+gracefully make their way through the crowd as they go about their business.
+In the middle of the square is a medium sized well, one big enough that two
+or more people can fetch water at the same time as the water comes almost
+flush to the top of the grey blocks that make up the portion of the well
+seen above the ground.  The road here is made of cobblestones, like the rest
+of the roads in town, and extends in either direction.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8406
+D1
+~
+~
+0 0
+0 0 8447
+D2
+~
+~
+0 0
+0 0 8404
+D3
+~
+~
+0 0
+0 0 8455
+S
+#8406
+The Main Road~
+The main road continues north from the center of the town and is lined by
+houses on either side.  To one side of this section of the road though is a
+large building with a sign hanging above its door of an {We{by{We{x and beneath the
+eye in letters are the words {DTh{we W{Wat{wch{Der{x.  Large bay windows on either side
+of the sturdy wood door allow passersby to see into the foyer of the inn. 
+The atmosphere inside seems warm and welcoming and many travelers stop here
+to rest themselves before continuing on wether by foot, horse or by ship. 
+Perhaps a quick drink is in order before you continue on your journey.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8407
+D2
+~
+~
+0 0
+0 0 8405
+D3
+~
+~
+3 3
+1 0 8453
+S
+#8407
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings as does the occassional side road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8408
+D2
+~
+~
+0 0
+0 0 8406
+D3
+~
+~
+0 0
+0 0 8432
+S
+#8408
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings as does the occassional side road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8409
+D1
+~
+~
+0 0
+0 0 8423
+D2
+~
+~
+0 0
+0 0 8407
+S
+#8409
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8410
+D1
+~
+~
+3 3
+1 0 9795
+D2
+~
+~
+0 0
+0 0 8408
+D3
+~
+~
+3 3
+1 0 9796
+S
+#8410
+A Main Road into Town~
+A {ydirt{x road meets the {Dco{wbb{Wles{wto{Dne{x road of the town and can be seen
+snaking a path through the long grass heading away from the town.  A couple
+of the Watchers are always present to keep an eye on the comings and goings
+of residents and visitors alike. The familiar {Dslate{x roofs and dark {Dst{wo{Dne{x
+walls of the buildings are broken apart by the road as it heads into Town.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8465
+D2
+~
+~
+0 0
+0 0 8409
+D3
+~
+~
+0 0
+0 0 8464
+D6
+~
+~
+0 0
+0 0 48755
+S
+#8411
+A Winding Road~
+The {Dcliff{x walls actually begin to narrow gradually in a downward slope,
+revealing more sky bit by bit.  During the day the sun provides the light
+but at night lanterns hang from {ywooden{x posts placed at intervals along the
+road.  There are fewer birds along this stretch and the sound of the ocean
+has long left the echoing walls.  The road bends once more but instead of
+another turn being seen up ahead the beginning of the streets of Falme can
+be seen.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 8400
+D3
+~
+~
+0 0
+0 0 8412
+S
+#8412
+A Winding Road~
+The {Dcliff{x walls actually begin to narrow gradually in a downward slope,
+revealing more sky bit by bit.  During the day the sun provides the light
+but at night lanterns hang from {ywooden{x posts placed at intervals along the
+road.  There are fewer birds along this stretch and the sound of the ocean
+has long left the echoing walls.  The road continues in either direction,
+twisting and turning so the end of the road can never be seen.  A stone
+building sits to one side of the road, the clamouring sounds of drinking and
+shouting can be heard.  
+~
+0
+0 14
+D0
+~
+~
+3 3
+1 0 8557
+D1
+~
+~
+0 0
+0 0 8411
+D3
+~
+~
+0 0
+0 0 8413
+S
+#8413
+A Winding Road~
+The {Dcliff{x walls actually begin to narrow gradually in a downward slope,
+revealing more sky bit by bit.  During the day the sun provides the light
+but at night lanterns hang from {ywooden{x posts placed at intervals along the
+road.  There are fewer birds along this stretch and the sound of the ocean
+has long left the echoing walls.  The road continues in either direction,
+twisting and turning so the end of the road can never be seen.  A small shop
+sits to one side of the road, the door open during the day lets the smell of
+fish waft out.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 8412
+D2
+~
+~
+1 1
+1 0 8585
+D3
+~
+~
+0 0
+0 0 8414
+S
+#8414
+A Winding Road~
+The {Dcliff{x walls actually begin to narrow gradually in a downward slope,
+revealing more sky bit by bit.  During the day the sun provides the light
+but at night lanterns hang from {ywooden{x posts placed at intervals along the
+road.  There are fewer birds along this stretch and the sound of the ocean
+has long left the echoing walls.  The road continues in either direction,
+twisting and turning so the end of the road can never be seen.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 8413
+D3
+~
+~
+0 0
+0 0 8415
+S
+#8415
+A Winding Road~
+The {Dcliff{x walls continue to stretch far into the sky above, the sun
+providing the only light during the day but at night lanterns hang from
+{ywooden{x posts placed at intervals along the road.  Birds fly around between
+the two walls of the cliff, their nests can be seen on stone outcroppings in
+the walls.  The road continues in either direction, twisting and turning so
+the end of the road can never be seen.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 8414
+D2
+~
+~
+0 0
+0 0 8416
+S
+#8416
+A Winding Road~
+The {Dcliff{x walls continue to stretch far into the sky above, the sun
+providing the only light during the day but at night lanterns hang from
+{ywooden{x posts placed at intervals along the road.  Birds fly around between
+the two walls of the cliff, their nests can be seen on stone outcroppings in
+the walls.  The road continues in either direction, twisting and turning so
+the end of the road can never be seen.  {GMoss{x and {gvines{x cover the wall along
+one section, stretching from the middle of the cliff down to the base.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 8415
+D1
+~
+~
+0 0
+0 0 8417
+D3
+~
+~
+4099 4099
+1 0 8558
+S
+#8417
+A Winding Road~
+The {Dcliff{x walls continue to stretch far into the sky above, the sun
+providing the only light during the day but at night lanterns hang from
+{ywooden{x posts placed at intervals along the road.  Birds fly around between
+the two walls of the cliff, their nests can be seen on stone outcroppings in
+the walls.  The road continues in either direction, twisting and turning so
+the end of the road can never be seen.  A large {Dstone{x building has been
+built against the cliff wall, covered windows letting out a bit of light. 
+There are no markings on the building at all and the only people that go in
+are sailors, all men.  
+~
+0
+0 14
+D0
+~
+~
+3 3
+1 0 9722
+D1
+~
+~
+0 0
+0 0 8418
+D3
+~
+~
+0 0
+0 0 8416
+S
+#8418
+A Winding Road~
+The {Dcliff{x walls continue to stretch far into the sky above, the sun
+providing the only light during the day but at night lanterns hang from
+{ywooden{x posts placed at intervals along the road.  Birds fly around between
+the two walls of the cliff, their nests can be seen on stone outcroppings in
+the walls.  The road continues in either direction, twisting and turning so
+the end of the road can never be seen.  Built out of stone a small building
+takes up a portion of the wide road, light streaming through its windows at
+all hours of the day and night.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 8419
+D2
+~
+~
+3 3
+1 0 8586
+D3
+~
+~
+0 0
+0 0 8417
+S
+#8419
+A Winding Road~
+The {Dcliff{x walls continue to stretch far into the sky above, the sun
+providing the only light during the day but at night lanterns hang from
+{ywooden{x posts placed at intervals along the road.  {WBirds{x fly around between
+the two walls of the cliff, their nests can be seen on stone outcroppings in
+the walls.  The road continues in either direction, twisting and turning so
+the end of the road can never be seen.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 8420
+D3
+~
+~
+0 0
+0 0 8418
+S
+#8420
+Nearing the Harbor~
+The {Dcliffs{x don't seem to ever end but down the road open sky can be seen
+as the smell of the ocean and the sound of the waves crash through into this
+section of the cliffs.  Birds fly around up above and if one looks closely
+enough their nests can be seen in the rocks high above.  Not far off a {Dstone{x
+building can be seen just before the docks.  
+~
+0
+0 14
+D2
+~
+~
+0 0
+0 0 8426
+D3
+~
+~
+0 0
+0 0 8419
+S
+#8421
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8445
+D3
+~
+~
+0 0
+0 0 8422
+S
+#8422
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8421
+D2
+~
+~
+3 3
+1 0 8572
+D3
+~
+~
+0 0
+0 0 8423
+S
+#8423
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9797
+D1
+~
+~
+0 0
+0 0 8422
+D3
+~
+~
+0 0
+0 0 8408
+S
+#8424
+A Side Road~
+~
+0
+C 0
+S
+#8425
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8446
+D3
+~
+~
+0 0
+0 0 8433
+S
+#8426
+The Harbor~
+The {ywooden{x planks gradually end and gradually turn into {yd{Dir{yt{x, marking the
+road that leads too and from the harbor into Falme.  The only building along
+the first stretch through the cliffs has two signs, a pictured of a ship
+with a whip across it on one and the words "{DHarbor Master{x" on the other.  A
+ways down the road is seen verring suddenly, the high cliffs blocking any
+view of Falme though.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 8420
+D1
+~
+~
+3 3
+1 0 8566
+D2
+~
+~
+0 0
+0 0 8427
+S
+#8427
+Along the Docks~
+Rocking with the motion of the water the {ywooden{x dock leads off in either
+direction along the edge of Falme.  Jutting out from the dock are piers that
+usually have at least one ship anchored at them.  The piers go far out into
+the water so that the ships will have no fear of running a ground on the
+rocks deep below the water.  Sailors move along the docks with their rolling
+gait, not having any problems with the rocking of the docks but those that
+don't spend time down here obviously are having problems walking as they
+often stumble, their faces looking very green.  To the north the {ywood{x planks
+turn to dirt as the road heads into Falme itself.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8426
+D1
+~
+~
+0 0
+0 0 8431
+D3
+~
+~
+0 0
+0 0 8428
+S
+#8428
+Along the Docks~
+Rocking with the motion of the water the {ywooden{x dock leads off in either
+direction along the edge of Falme.  Jutting out from the dock are piers that
+usually have at least one ship anchored at them.  The piers go far out into
+the water so that the ships will have no fear of running a ground on the
+rocks deep below the water.  Sailors move along the docks with their rolling
+gait, not having any problems with the rocking of the docks but those that
+don't spend time down here obviously are having problems walking as they
+often stumble, their faces looking very green.  To the north a solid looking
+{ywood{x building has been built and tied up along the front of the docks are
+numerous row boats and various other seafaring crafts.  A sign on the
+building shows an image of a mark and a boat.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 8587
+D1
+~
+~
+0 0
+0 0 8427
+D3
+~
+~
+0 0
+0 0 8429
+S
+#8429
+Along the Docks~
+Rocking with the motion of the water the {ywooden{x dock leads off in either
+direction along the edge of Falme.  Jutting out from the dock are piers that
+usually have at least one ship anchored at them.  The piers go far out into
+the water so that the ships will have no fear of running a ground on the
+rocks deep below the water.  Sailors move along the docks with their rolling
+gait, not having any problems with the rocking of the docks but those that
+don't spend time down here obviously are having problems walking as they
+often stumble, their faces looking very green.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8428
+D2
+~
+~
+0 0
+0 0 8490
+D3
+~
+~
+0 0
+0 0 8430
+S
+#8430
+Along the Docks~
+The {ywooden{x planks that make up the dock are on sturdier ground here and
+do not rock with the water as the only water beneath the wood is what washes
+up with the waves.  At the end of the planks is a solid looking {ywood{x door
+with a {Dmetal{x door handle, looking up the door seems to lead too a tall tower
+that sits high up on top of the cliffs.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8429
+D3
+~
+~
+3 3
+1 0 8441
+S
+#8431
+Along the Docks~
+Rocking with the motion of the water the {ywooden{x dock leads off in either
+direction along the edge of Falme.  Jutting out from the dock are piers that
+usually have at least one ship anchored at them.  The piers go far out into
+the water so that the ships will have no fear of running a ground on the
+rocks deep below the water.  Sailors move along the docks with their rolling
+gait, not having any problems with the rocking of the docks but those that
+don't spend time down here obviously are having problems walking as they
+often stumble, their faces looking very green.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8434
+D2
+~
+~
+0 0
+0 0 8493
+D3
+~
+~
+0 0
+0 0 8427
+S
+#8432
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8407
+D3
+~
+~
+0 0
+0 0 8438
+S
+#8433
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals. One house
+along the road stands out, though the stone and slate is the same the
+difference is in the armed guards standing on either side of the front door,
+the lush {ggreen{x lawn with its {mflowers{x and the {Wstone{x pathway leading from the
+road to the front door.  For those that know it this is the Mayor's house
+and those that don't quickly learn.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8425
+D2
+~
+~
+3 3
+1 0 8535
+D3
+~
+~
+0 0
+0 0 8437
+S
+#8434
+Along the Docks~
+Rocking with the motion of the water the {ywooden{x dock leads off in either
+direction along the edge of Falme.  Jutting out from the dock are piers that
+usually have at least one ship anchored at them.  The piers go far out into
+the water so that the ships will have no fear of running a ground on the
+rocks deep below the water.  Sailors move along the docks with their rolling
+gait, not having any problems with the rocking of the docks but those that
+don't spend time down here obviously are having problems walking as they
+often stumble, their faces looking very green.  A door to the north leads
+into a {ywood{x building, the image of a fish hangs above the door.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 8451
+D1
+~
+~
+0 0
+0 0 9735
+D3
+~
+~
+0 0
+0 0 8431
+S
+#8435
+The Bottom of a Staircase~
+The sound of the waves echo in the staircase that has been carved
+directly into the stone of the cliff, slowly winding upwards to the
+{Wligh{Dth{Wouse{x above.  There is a mat on the stone floor before the steps for
+wiping ones feet so that no one slips on the way up from wet shoes.  Even
+from down here the {Wli{Cg{Wht{x from the beacon lights the way.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 9735
+D4
+~
+~
+0 0
+0 0 8568
+S
+#8436
+The Lighthouse~
+The large room of the {Wligh{Dth{Wouse{x is designed to keep the elements like
+the wind and rain out so that the large fire built in the center can burn
+without problems.  The firepit is surrounded with glass to keep the smoke
+from filling the room and up near the ceiling of the lighthouse a grate with
+holes lets the smoke escape but keeps water out.  The only hole in the glass
+is on the far side of the stairs, some smoke escapes from it but not enough
+to make a person choke.  The room has no chairs but is instead filled with
+dry wood so that whoever tends to this large fire can keep it going when it
+is needed.  The walls of the room are not made with wood but instead of
+metal and glass, whoever built this was far more advanced in thinking then
+most people that reside in Falme.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 8569
+S
+#8437
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8433
+D3
+~
+~
+0 0
+0 0 8403
+S
+#8438
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8432
+D2
+~
+~
+3 3
+1 0 8533
+D3
+~
+~
+0 0
+0 0 8439
+S
+#8439
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8438
+D3
+~
+~
+0 0
+0 0 8460
+S
+#8440
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8402
+D2
+~
+~
+3 3
+1 0 9731
+D3
+~
+~
+0 0
+0 0 8443
+S
+#8441
+The Bottom of a Staircase~
+A set of stairs carved into the very rock of the cliff start on their way
+up through the cliff.  The sound of waves crashing against the rocks outside
+seem louder in here then outside as if the entire stairwell echos the sound.
+The only way to go from here is either back through the door to the docks or
+up.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8430
+D4
+~
+~
+0 0
+0 0 8567
+S
+#8442
+Top of a Watch Tower~
+The view from the top of the Watch Tower is spectacular.  In one
+direction miles upon miles of sparkling blue ocean is seen and in the other
+is Falme and the land beyond that.  From here one can also see the harbor
+far below and on the other side the large lighthouse that guides the ships
+away from the rocks that would rip them asunder.  The watch tower itself is
+made out of the same grey rock that forms the cliffs but has been made
+smooth both by the builder and the winds that howl around the building.  
+~
+0
+0 4
+D5
+~
+~
+3 3
+1 0 8567
+S
+#8443
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8440
+D3
+~
+~
+0 0
+0 0 8444
+S
+#8444
+A Side Road~
+Along the narrower road one almost feels like the looming {Dst{wo{Dne{x buildings
+are closing in despite the {Wlan{Cte{Wrns{x placed at regular intervals.  The same
+{Dco{wbb{Wles{wto{Dne{x makes up the road here and when walking along here at the more
+quiet times the sound of ones footsteps echos between the rows of buildings.
+The buildings seem to be mostly houses but occasionally a store or pub are
+tucked away amidst them, the only thing to separate them is the sign hanging
+above the door.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9734
+D1
+~
+~
+0 0
+0 0 8443
+D3
+~
+~
+0 0
+0 0 8486
+S
+#8445
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  A small side
+road heads further into town, the looming {Dst{wo{Dne{x buildings making it look
+gloomy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8473
+D2
+~
+~
+0 0
+0 0 8470
+D3
+~
+~
+0 0
+0 0 8421
+S
+#8446
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  A small side
+road heads further into town, the looming {Dst{wo{Dne{x buildings making it look
+gloomy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8474
+D2
+~
+~
+0 0
+0 0 8475
+D3
+~
+~
+0 0
+0 0 8425
+S
+#8447
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 8537
+D1
+~
+~
+0 0
+0 0 8448
+D3
+~
+~
+0 0
+0 0 8405
+S
+#8448
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+One building has a wide open set of barn doors and a sign with the symbol of
+a hammer and an anvil let people know that this is the blacksmiths
+workplace.  The sound of hammering can be heard constantly during the day
+and during the night it is almost eerily quiet when the blacksmith isn't
+working.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9761
+D1
+~
+~
+0 0
+0 0 8449
+D2
+~
+~
+3 3
+1 0 8538
+D3
+~
+~
+0 0
+0 0 8447
+S
+#8449
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9799
+D1
+~
+~
+0 0
+0 0 8472
+D3
+~
+~
+0 0
+0 0 8448
+S
+#8450
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8486
+D1
+~
+~
+3 3
+1 0 9787
+D2
+~
+~
+0 0
+0 0 8485
+S
+#8451
+Fishing Supplies~
+There are no windows in this shop as protection against the wind, water
+and anything else that might come flying at the building.  The walls of the
+shop are covered with everything from fishing rods to nets, hooks, fishing
+line, boots, bait and anything and everything that has to do with fishing. 
+A counter at the back of the shop also displays various items except for a
+section that is kept clear so purchases can be made.  The place smells of
+salt, water and fish while the sound of the ocean outside beats against its
+walls.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8434
+S
+#8452
+The Main Deck~
+Never is there a quiet moment on this deck for every sailor has his
+duties, wether its swabbing the deck or tending to the sails this place is
+one of constant motion.  Stretched out before you is almost the full length
+of the ship, from the main mast to the hatch to the hold, the fore mast and
+at its end the forecastle.  Just behind is the door to the Captain's
+quarters and above that the Quarter deck.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8492
+D2
+~
+~
+3 3
+1 0 8594
+D4
+~
+~
+0 0
+0 0 9742
+D5
+~
+~
+4096 4096
+0 0 9800
+S
+#8453
+The Foyer of The Watcher~
+The foyer is kept cleaned, despite the number of dirty boots that tramp
+across its floor on a daily basis, and well lit.  The furniture here is kept
+to a minimum except for a pair of {ywooden{x benches beneath each of the large
+bay windows that look out into the world.  To the south the sounds of
+chatter can be heard from the common room, the place sounds full but the
+atmosphere is one of joviality.  To the north the muted sounds of dice
+striking wood and soft banter can be heard behind the door marked "{DGames
+{DRoom{x" while to the west a hallway can be seen leading deeper into the inn.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8496
+D1
+~
+~
+3 3
+1 0 8406
+D2
+~
+~
+0 0
+0 0 8498
+D3
+~
+~
+0 0
+0 0 8500
+S
+#8454
+The Eastern Gates~
+~
+0
+C 1
+S
+#8455
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9798
+D1
+~
+~
+0 0
+0 0 8405
+D3
+~
+~
+0 0
+0 0 8456
+S
+#8456
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  A large set of {ydoors{x allow the earthy smell of earth, hay and
+horses out onto the street, the sounds of horses inside as well as the sign
+of one above the door let passersby know this is a farrier.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8455
+D2
+~
+~
+0 0
+0 0 9759
+D3
+~
+~
+0 0
+0 0 8457
+S
+#8457
+The Main Road~
+The wide {Dco{wbb{Wles{wto{Dne{x road that splits the town cleanly down the middle is
+able to traffic people in either direction with ease and is wide enough to
+let two wagons pass each other if needed.  People come and go all day long
+as they run errands, heading for the various stores that populate the road. 
+{WW{cin{Cd{co{Wws{x and {Wlan{wte{Wrns{x provide welcome breaks against the stark {Dst{wo{Dne{x of the
+buildings.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8456
+D3
+~
+~
+0 0
+0 0 8458
+S
+#8458
+A Main Road into Town~
+A {ydirt{x road meets the {Dco{wbb{Wles{wto{Dne{x road of the town and can be seen
+snaking a path through the long grass heading away from the town.  A couple
+of the Watchers are always present to keep an eye on the comings and goings
+of residents and visitors alike. The familiar {Dslate{x roofs and dark {Dst{wo{Dne{x
+walls of the buildings are broken apart by the road as it heads into Town.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8459
+D1
+~
+~
+0 0
+0 0 8457
+D2
+~
+~
+0 0
+0 0 8488
+D9
+~
+~
+0 0
+0 0 48755
+S
+#8459
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8460
+D1
+~
+~
+3 3
+1 0 9791
+D2
+~
+~
+0 0
+0 0 8458
+S
+#8460
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  A small side road heads further into town,
+the looming {Dst{wo{Dne{x buildings making it look gloomy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8461
+D1
+~
+~
+0 0
+0 0 8439
+D2
+~
+~
+0 0
+0 0 8459
+S
+#8461
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8489
+D1
+~
+~
+3 3
+1 0 9792
+D2
+~
+~
+0 0
+0 0 8460
+S
+#8462
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  The last building on the corner marks the
+turn between the southern road and the eastern one.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8463
+D2
+~
+~
+0 0
+0 0 8489
+S
+#8463
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8464
+D2
+~
+~
+3 3
+1 0 9711
+D3
+~
+~
+0 0
+0 0 8462
+S
+#8464
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8410
+D2
+~
+~
+3 3
+1 0 9794
+D3
+~
+~
+0 0
+0 0 8463
+S
+#8465
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8466
+D2
+~
+~
+3 3
+1 0 9778
+D3
+~
+~
+0 0
+0 0 8410
+S
+#8466
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8467
+D2
+~
+~
+3 3
+1 0 9779
+D3
+~
+~
+0 0
+0 0 8465
+S
+#8467
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8468
+D2
+~
+~
+3 3
+1 0 8531
+D3
+~
+~
+0 0
+0 0 8466
+S
+#8468
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  The last building on the corner marks the
+turn between the southern road and the western one.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 8473
+D3
+~
+~
+0 0
+0 0 8467
+S
+#8469
+A Cobblestone Road~
+~
+0
+C 0
+S
+#8470
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8445
+D2
+~
+~
+0 0
+0 0 8471
+D3
+~
+~
+3 3
+1 0 9781
+S
+#8471
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8470
+D2
+~
+~
+0 0
+0 0 8472
+D3
+~
+~
+3 3
+1 0 9782
+S
+#8472
+A Main Road into Town~
+A {ydirt{x road meets the {Dco{wbb{Wles{wto{Dne{x road of the town and can be seen
+snaking a path through the long grass heading away from the town.  A couple
+of the Watchers are always present to keep an eye on the comings and goings
+of residents and visitors alike. The familiar {Dslate{x roofs and dark {Dst{wo{Dne{x
+walls of the buildings are broken apart by the road as it heads into Town.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8471
+D2
+~
+~
+0 0
+0 0 8474
+D3
+~
+~
+0 0
+0 0 8449
+D7
+~
+~
+0 0
+0 0 48755
+S
+#8473
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8468
+D2
+~
+~
+0 0
+0 0 8445
+D3
+~
+~
+3 3
+1 0 9780
+S
+#8474
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8472
+D2
+~
+~
+0 0
+0 0 8446
+D3
+~
+~
+3 3
+1 0 9783
+S
+#8475
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8446
+D2
+~
+~
+0 0
+0 0 8476
+D3
+~
+~
+3 3
+1 0 9784
+S
+#8476
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  All the buildings along the western side
+of the road have the typical {Dslate{x roofs and dark {Dst{wo{Dne{x walls.  On one of
+the houses a sign hangs above the doorway with the symbol of a mortar and
+pestle, marking the house as that of a {gW{Gi{Wsd{Go{gm{x.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8475
+D2
+~
+~
+0 0
+0 0 8478
+D3
+~
+~
+3 3
+1 0 8534
+S
+#8477
+A Cobblestone Road~
+~
+0
+C 0
+S
+#8478
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself
+heading westward but the road continues north even as the cliff continues on
+to the east.  The {Dcliff{x spreads out along the southern side of the road,
+acting like a buffer between the town and the ocean.  Out to the east and
+along the road to the north a huge stretch of long {ggreen{x grass sways slowly
+in the breeze, the occassional {gtr{yee{x breaking up the affect of an unending
+sea of grass.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8476
+D3
+~
+~
+0 0
+0 0 8479
+S
+#8479
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself
+heading east and west.  The {Dcliff{x spreads out along the southern side of the
+road, acting like a buffer between the town and the ocean.  All the
+buildings along the northern side of the road have the typical {Dslate{x roofs
+and dark {Dst{wo{Dne{x walls.  The stretch of building with its seamless wall on the
+north side of the road is only broken up by a single door and a window every
+few feet.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9719
+D1
+~
+~
+0 0
+0 0 8478
+D3
+~
+~
+0 0
+0 0 8480
+S
+#8480
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself
+heading east and west.  The {Dcliff{x spreads out along the southern side of the
+road, acting like a buffer between the town and the ocean.  All the
+buildings along the northern side of the road have the typical {Dslate{x roofs
+and dark {Dst{wo{Dne{x walls.  The stretch of building with its seamless wall on the
+north side of the road is only broken up by a single door and a window every
+few feet.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9720
+D1
+~
+~
+0 0
+0 0 8479
+D3
+~
+~
+0 0
+0 0 8481
+S
+#8481
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself
+heading east and west.  The {Dcliff{x spreads out along the southern side of the
+road, acting like a buffer between the town and the ocean.  All the
+buildings along the northern side of the road have the typical {Dslate{x roofs
+and dark {Dst{wo{Dne{x walls.  A sign hanging from one of the buildings reads
+"Rental Office".  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9721
+D1
+~
+~
+0 0
+0 0 8480
+D3
+~
+~
+0 0
+0 0 8400
+S
+#8482
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself,
+heading eastward back into the town but also north.  Long {ggrass{x and a few
+trees can be seen spreading out westward as does the cliff.  A long stretch
+of {Dst{wo{Dne{x buildings can be seen along the other side of the road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9785
+D1
+~
+~
+0 0
+0 0 8400
+D3
+~
+~
+0 0
+0 0 8483
+S
+#8483
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself,
+heading eastward back into the town but also north.  Long {ggrass{x and a few
+trees can be seen spreading out westward as does the cliff.  A long stretch
+of {Dst{wo{Dne{x buildings can be seen along the other side of the road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 8536
+D1
+~
+~
+0 0
+0 0 8482
+D3
+~
+~
+0 0
+0 0 8484
+S
+#8484
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself,
+heading eastward back into the town but also north.  Long {ggrass{x and a few
+trees can be seen spreading out westward as does the cliff.  A long stretch
+of {Dst{wo{Dne{x buildings can be seen along the other side of the road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 9786
+D1
+~
+~
+0 0
+0 0 8483
+D3
+~
+~
+0 0
+0 0 8485
+S
+#8485
+A Cobblestone Road~
+A {Dco{wbb{Wles{wto{Dne{x road cuts a path between the cliffs and the town itself,
+heading eastward back into the town but also north.  Long {ggrass{x and a few
+trees can be seen spreading out westward as does the cliff.  A long stretch
+of {Dst{wo{Dne{x buildings can be seen along the other side of the road stretching
+out to the north and east.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8450
+D1
+~
+~
+0 0
+0 0 8484
+S
+#8486
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  A small side road heads further into town,
+the looming {Dst{wo{Dne{x buildings making it look gloomy.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8487
+D1
+~
+~
+0 0
+0 0 8444
+D2
+~
+~
+0 0
+0 0 8450
+S
+#8487
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8488
+D1
+~
+~
+3 3
+1 0 9788
+D2
+~
+~
+0 0
+0 0 8486
+S
+#8488
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  Small homes make up the majority of the
+buildings in the town, giving the people that chose to live here a place to
+call their own.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8458
+D1
+~
+~
+3 3
+1 0 9789
+D2
+~
+~
+0 0
+0 0 8487
+S
+#8489
+A Cobblestone Road~
+Throughout the town {Dco{wbb{Wles{wto{Dne{x is used on the roads, though the town has
+no walls people are still expected to enter on the main roads leading into
+it.  Looking away from the buildings long swaying {ggrass{x dotted with trees
+stretches out in all directions.  A {ydirt{x road heads away from the town and
+looking out over the grass once can see a couple of buildings with faint
+smoke rising up from the top of one of them.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8462
+D1
+~
+~
+3 3
+1 0 9793
+D2
+~
+~
+0 0
+0 0 8461
+D3
+~
+~
+0 0
+0 0 8542
+S
+#8490
+Along a Pier~
+Connected to the dock the pier bobs up and down on the waves even more
+then the docks themselves do.  Walking this takes practice but even during
+storms it can be hard to get across as the water makes the {ywood{x planks very
+slippery.  Further down the end of the pier can be seen jutting farther into
+the ocean so the ships have an easier time of anchoring with no fear of
+hitting rocks.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8429
+D2
+~
+~
+0 0
+0 0 8491
+S
+#8491
+Along a Pier~
+Connected to the dock the pier bobs up and down on the waves even more
+then the docks themselves do.  Walking this takes practice but even during
+storms it can be hard to get across as the water makes the {ywood{x planks very
+slippery.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8490
+D5
+~
+~
+4096 4096
+0 0 9747
+S
+#8492
+The Main Deck of the Silver Mark~
+{WWhite{x sails snap in the wind, the creak of the {ywood{x as the ship rocks
+back and forth with the waves.  Never is there a quiet moment on this deck
+for every sailor has his duties, wether its swabbing the deck or tending to
+the sails this place is one of constant motion.  Too and fro the men move,
+pushing cargo down below, supplies and other necessaties of living on the
+high seas.  Not far from here is the forcastle of the ship, where the crew
+live, and to the rear is the quarter deck and the Captain's quarters.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 8593
+D2
+~
+~
+0 0
+0 0 8452
+D3
+~
+~
+0 0
+0 0 8494
+D4
+~
+~
+0 0
+0 0 9741
+D5
+~
+~
+0 0
+0 0 8596
+S
+#8493
+A Pier~
+Connected to the dock the pier bobs up and down on the waves even more
+then the docks themselves do.  Walking this takes practice but even during
+storms it can be hard to get across as the water makes the {ywood{x planks very
+slippery.  Further down the end of the pier can be seen jutting farther into
+the ocean so the ships have an easier time of anchoring with no fear of
+hitting rocks.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8431
+D2
+~
+~
+0 0
+0 0 8494
+S
+#8494
+A Pier~
+Connected to the dock the pier bobs up and down on the waves even more
+then the docks themselves do.  Walking this takes practice but even during
+storms it can be hard to get across as the water makes the {ywood{x planks very
+slippery.  A gang plank up onto a ship is connected from the ship to the
+dock and has been secured for the moment with ropes.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8493
+D1
+~
+~
+0 0
+0 0 8492
+S
+#8495
+The Main Deck of The Black Pearl~
+{DBlack{x sails snap in the wind, the creak of the {ywood{x as the ship rocks
+back and forth with the waves.  Never is there a quiet moment on this deck
+for every sailor has his duties, wether its swabbing the deck or tending to
+the sails this place is one of constant motion.  Too and fro the men move,
+pushing cargo down below, supplies and other necessaties of living on the
+high seas.  Not far from here is the forcastle of the ship, where the crew
+live, and to the rear is the quarter deck and the Captain's quarters.  Best
+not be staying long though for the crew doesn't look like a very friendly
+lot.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 8588
+D2
+~
+~
+0 0
+0 0 8589
+D4
+~
+~
+0 0
+0 0 8595
+D5
+~
+~
+3 3
+1 0 8592
+S
+#8496
+The Games Room~
+The games room is large and takes up the majority of the northern half of
+the ground floor.  {yTables{x take up as much space as possible as well as six
+{ychairs{x for each table.  Space is left between the tables enough for people
+to move around them, such as the servants that carry drinks and
+occassionally food to the players.  Anyone is welcome to play here, the only
+requirement is that you have some sort of money on hand for this is a
+gambling room, those that wish to play for fun can find a game in the common
+room.  The people here are generally of good spirits though the occasional
+argument does occur but there is a nice hefty bouncer standing near each set
+of doors to keep them from getting out of hand.  The second bouncer near the
+door heading into a different room from the foyer is guarding said door and
+is also one of two people that carry a key for it.  So come and sit and play
+a game or two but once you run out of money please make room for the next
+person but do return when you do have some money.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8453
+D3
+~
+~
+7 7
+2 9709 8497
+S
+#8497
+A Private Games Room~
+Only a select few individuals are permitted within this room, generally
+those with a lot of money or who are special guests or visitors and that
+have been given permission to play here.  There are only two {ytables{x with up
+to six {ychairs{x at each, both are spaced an equal distance apart from both
+each other and the walls.  A {ywooden{x cabinet is against one of the far walls
+and beside it a servant sits waiting to serve those inside whatever drinks
+they so desire. The room is generally quiet except for the occasional talk
+and the sounds of either the cards or the dice as their tossed.  The smell
+of tabacoo, of drink and generally of unwashed bodies seem to permeate the
+room on a permanent basis.  
+~
+0
+0 0
+D1
+~
+~
+7 7
+2 9709 8496
+S
+#8498
+The Common Room~
+The common room is much like any other common room found in the world. 
+The bustle of activity ranges from customers talking, eating and playing
+games to serving wenches running around serving food and drinks. 
+Occasionally there is live entertainment, normally in the form of a gleeman
+or a bard, they generally play on a small platform set up infront of the
+large bay window that looks outside.  Tables fill almost all four corners of
+the room except along the west wall where a large bar and a door leading
+into the kitchen are.  A large {rf{Rire{Yp{Rlac{re{x sits in the middle of the southern
+wall and easily keeps the room warm on those cold days.  The patrons are
+generally well behaved but still on hand is a large bouncer that usually is
+leaning up against the wall beside the door leading into the foyer.  So come
+on in, take a seat, warm your feet and fill your belly for {DTh{we W{Wat{wch{Der{x is
+always open and glad to have ya.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8453
+D3
+~
+~
+3 3
+1 0 8499
+S
+#8499
+The Kitchen~
+{rH{Rea{rt{x from the ovens keeps the kitchen constantly hot, causing all that
+work here to sweat constantly.  The {bs{Bmel{bl{x of the various dishes cooking and
+breads being baked permiates the room causing mouths to water.  The cooks
+and serving wenches move about in an almost graceful sort of dance, the
+servers avoiding the cooks and the cooks expecting the servers to move as
+they each go about their tasks.  The head cook supervises everything, a
+ladel held in one hand as if it was a weapon but instead she uses it to stir
+soups or to wave menacingly at a cook or server who isn't moving quickly
+enough.  The quietest this kitchen gets is during the hours between midnight
+and close to dawn when most people are sleeping, there is usually only a few
+people in here cleaning, preparing dough for baking and getting things ready
+for the next day.  Perhaps if you asked nicely the head cook would give you
+a plate of food before she tosses you out of her kitchen screaming about
+people getting in the way.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8498
+S
+#8500
+A Staircase~
+The small hallway ends in a staircase leading upwards into the inn.  The
+staircase is wide and can easily hold two large men side to side and seems
+to require it as people are constantly going up and down them.  The noise
+level only seems to increase as you go upwards and you get the feeling its
+going to be crowded.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8453
+D4
+~
+~
+0 0
+0 0 8501
+S
+#8501
+A Busy Hallway~
+The hallway here is almost as busy as the common room is downstairs with
+the amount of people going back and forth at times.  A varying assortment of
+people spend their nights and occassionally their days as well up here on
+the second floor of the inn.  There is a carpet on the floor that once looks
+to have been a nice shade of {ggreen{x but now its more a {ybrownish{x {ggreen{x with
+the amount of shoes that walk on it daily.  The discolored carpet extends
+down all three hallways that spread out from this point.  Simple enclosed
+{Wlan{Yte{Wrns{x are hung at intervals along the hallway, generally between the rows
+of doors.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8502
+D1
+~
+~
+0 0
+0 0 8528
+D2
+~
+~
+0 0
+0 0 8508
+D5
+~
+~
+0 0
+0 0 8500
+S
+#8502
+A Hallway~
+The hallway continues in either direction and on either side is a door,
+{Wlan{Yte{Wrns{x light up the area around the doors, providing enough light to see
+by but not enough light to blind the customers.  The ugly blotched carpet
+seems to serve some purpose as it softens the tread of even the loudest of
+walkers, making it so that those within the rooms are less disturbed then
+they would be if people were allowed to clop up and down the bare wooden
+floor of the hallway.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8505
+D1
+~
+~
+3 3
+1 0 8503
+D2
+~
+~
+0 0
+0 0 8501
+D3
+~
+~
+3 3
+1 0 8504
+S
+#8503
+A Cheap Bedroom~
+This room is furnished with only what is needed to sleep on for the
+night.  A {yhay{x filled matress sits along one wall with a trunk not far for
+storing some clothes, a small table sits against one wall with a small
+{Wmi{Crr{Wor{x hanging up above it so one can shave if needed while on the table
+itself a clay bowl and pitcher sit.  There are windows to let in natural
+light but at night only a simple {Wla{Ynte{Wrn{x is available to see with, there are
+two hooks in the room for where it can be hung, one by the door for when a
+person firsts enters and another a few feet from the bed so there is no
+chance of a fire being started.  Though the room is cheap and simple it
+serves its purpose for the sailors that want a warm place to sleep for the
+night.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8502
+S
+#8504
+A Cheap Bedroom~
+This room is furnished with only what is needed to sleep on for the
+night.  A {yhay{x filled matress sits along one wall with a trunk not far for
+storing some clothes, a small table sits against one wall with a small
+{Wmi{Crr{Wor{x hanging up above it so one can shave if needed while on the table
+itself a clay bowl and pitcher sit.  There are windows to let in natural
+light but at night only a simple {Wla{Ynte{Wrn{x is available to see with, there are
+two hooks in the room for where it can be hung, one by the door for when a
+person firsts enters and another a few feet from the bed so there is no
+chance of a fire being started.  Though the room is cheap and simple it
+serves its purpose for the sailors that want a warm place to sleep for the
+night.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8502
+S
+#8505
+A Hallway~
+The hallway ends here and on either side is a locked door, {Wlan{Yte{Wrns{x light
+up the area around the doors providing enough light to see by but not enough
+light to blind the customers.  The ugly {gbl{yot{gch{yed{x carpet seems to serve some
+purpose as it softens the tread of even the loudest of walkers, making it so
+that those within the rooms are less disturbed then they would be if people
+were allowed to clop up and down the bare wooden floor of the hallway.  
+~
+0
+0 0
+D1
+~
+~
+519 519
+2 8440 8506
+D2
+~
+~
+0 0
+0 0 8502
+D3
+~
+~
+519 519
+2 8441 8507
+S
+#8506
+Lady of the Night~
+Behind the locked door is a room of soft {wlig{Dht{wing{x, soft {Bpe{brfu{Bme{x and soft
+{rf{Rles{rh{x.  The biggest focus in the room is the large {yo{ra{yk{x, four post bed
+covered in midnight {bblue{x sheets with gauzy {Wwhite{x drapes drapped around. 
+Numerous {Wca{Yndl{Wes{x sit at intervals along the walls in candle holders,
+illuminating the edges of the room but managing to keep the bed in soft
+shadowy lightning.  A {yca{rbin{yet{x sits against one of the walls and a {ydresser{x
+sits not far from it, a small {rf{Rir{Yepl{Rac{re{x rests against the far with with a
+set of comfortable {barmchairs{x infront of it.  
+~
+0
+0 0
+D3
+~
+~
+519 519
+2 8440 8505
+S
+#8507
+Lady of the Night~
+Behind the locked door is a room of soft {wlig{Dht{wing{x, soft {mpe{Mrfu{mme{x and soft
+{rf{Rles{rh{x.  The biggest focus in the room is the large {yo{ra{yk{x, four post bed
+covered in blood {rred{x sheets with gauzy {Wwhite{x drapes drapped around. 
+Numerous {Wca{Yndl{Wes{x sit at intervals along the walls in candle holders,
+illuminating the edges of the room but managing to keep the bed in soft
+shadowy lightning.  A {yca{rbin{yet{x sits against one of the walls and a {ydresser{x
+sits not far from it, a small {rf{Rir{Yepl{Rac{re{x rests against the far with with a
+set of comfortable {marmchairs{x infront of it.  
+~
+0
+0 0
+D1
+~
+~
+519 519
+2 8441 8505
+S
+#8508
+A Hallway~
+The hallway continues in either direction and on either side is a door,
+{Wla{Ynter{Wns{x light up the area around the doors, providing enough light to see
+by but not enough light to blind the customers.  The ugly {gbl{yot{gch{yed{x carpet
+seems to serve some purpose as it softens the tread of even the loudest of
+walkers, making it so that those within the rooms are less disturbed then
+they would be if people were allowed to clop up and down the bare wooden
+floor of the hallway. 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8501
+D1
+~
+~
+3 3
+1 0 8511
+D2
+~
+~
+0 0
+0 0 8509
+D3
+~
+~
+3 3
+1 0 8512
+S
+#8509
+A Hallway~
+The hallway continues in either direction and on either side is a door,
+{Wla{Ynter{Wns{x light up the area around the doors, providing enough light to see
+by but not enough light to blind the customers.  The ugly {gbl{yot{gch{yed{x carpet
+seems to serve some purpose as it softens the tread of even the loudest of
+walkers, making it so that those within the rooms are less disturbed then
+they would be if people were allowed to clop up and down the bare wooden
+floor of the hallway.  A {gcarpeted{x staircase leads up to the third floor of
+the inn at the end of the hall.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8508
+D1
+~
+~
+3 3
+1 0 8513
+D3
+~
+~
+3 3
+1 0 8514
+D4
+~
+~
+0 0
+0 0 8510
+S
+#8510
+Stairs to a Quiet Hallway~
+Two flights of stairs later one reaches the top floor of the building,
+one could almost feel bad for the servants that have to carry luggage and
+buckets of water up this high.  Compared to the rest of the inn this floor
+is very quiet, only the occassional sound of boots treading on the soft
+plush {bc{Barpe{bt{x or the sound of a door opening is heard along with the
+occassional sound of voices.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8515
+D5
+~
+~
+0 0
+0 0 8509
+S
+#8511
+A Cheap Bedroom~
+This room is furnished with only what is needed to sleep on for the
+night.  A small bed with a well stuffed matress and {Dblack{x sheets sits along
+one wall with a small dresser not far for storing some clothes, a medium
+sized table sits against one wall with a small {Wmi{Crr{Wor{x hanging up above it so
+one can shave if needed while on the table itself a clay bowl and pitcher
+sit.  There are windows to let in natural light and at night two {Wla{Ynte{Wrn{x are
+available to see with, there are two hooks in the room for where both can be
+hung, one by the door for when a person firsts enters and another a few feet
+from the bed so there is no chance of a fire being started.  Though the room
+is cheap and simple it serves its purpose for the sailors that want a warm
+place to sleep for the night.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8508
+S
+#8512
+A Cheap Bedroom~
+This room is furnished with only what is needed to sleep on for the
+night.  A small bed with a well stuffed matress and {Dblack{x sheets sits along
+one wall with a small dresser not far for storing some clothes, a medium
+sized table sits against one wall with a small {Wmi{Crr{Wor{x hanging up above it so
+one can shave if needed while on the table itself a clay bowl and pitcher
+sit.  There are windows to let in natural light and at night two {Wla{Ynte{Wrn{x are
+available to see with, there are two hooks in the room for where both can be
+hung, one by the door for when a person firsts enters and another a few feet
+from the bed so there is no chance of a fire being started.  Though the room
+is cheap and simple it serves its purpose for the sailors that want a warm
+place to sleep for the night.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8508
+S
+#8513
+A Cheap Bedroom~
+This room is a bit better furnished then the others, made for those
+willing to pay a little extra for their comfort.  A bed with a well stuffed
+matress and {bblue{x sheets sits along one wall with a {ydresser{x not far for
+storing some clothes, a table sits against one wall with a large {Wmi{Crr{Wor{x
+hanging up above it so one can shave if needed while on the table itself a
+clay bowl and pitcher sit.  There are windows to let in natural light and at
+night two {Wla{Ynte{Wrn{x are available to see with, there are two hooks in the room
+for where both can be hung, one by the door for when a person firsts enters
+and another a few feet from the bed so there is no chance of a fire being
+started.  Though small the room serves its purpose for the sailors that want
+a warm place to sleep for the night.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8509
+S
+#8514
+A Cheap Bedroom~
+This room is a bit better furnished then the others, made for those
+willing to pay a little extra for their comfort.  A bed with a well stuffed
+matress and {bblue{x sheets sits along one wall with a {ydresser{x not far for
+storing some clothes, a table sits against one wall with a large {Wmi{Crr{Wor{x
+hanging up above it so one can shave if needed while on the table itself a
+clay bowl and pitcher sit.  There are windows to let in natural light and at
+night two {Wla{Ynte{Wrn{x are available to see with, there are two hooks in the room
+for where both can be hung, one by the door for when a person firsts enters
+and another a few feet from the bed so there is no chance of a fire being
+started.  Though small the room serves its purpose for the sailors that want
+a warm place to sleep for the night.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8509
+S
+#8515
+A Quiet Hallway~
+The soft {bc{Barpe{bt{x continues down the hallway, silencing the foot falls so
+that no one within the rooms that line the hallway are disturbed.  Each door
+has simple but elegant {Dcarvings{x done into the {ywood{x some depict scenes of
+sailing while others are of flowers and plants and others of animals, at
+about eye level on each door a small hole has been drilled into the wood. 
+Elegant looking {Wla{Dnter{Wns{x hang on either side of the doors, lightning up
+around the doors so those within can so who is outside.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8516
+D1
+~
+~
+3 3
+1 0 8526
+D2
+~
+~
+0 0
+0 0 8510
+D3
+~
+~
+3 3
+1 0 8527
+S
+#8516
+A Quiet Hallway~
+The soft {bc{Barpe{bt{x continues down the hallway, silencing the foot falls so
+that no one within the rooms that line the hallway are disturbed.  Each door
+has simple but elegant {Dcarvings{x done into the {ywood{x some depict scenes of
+sailing while others are of flowers and plants and others of animals, at
+about eye level on each door a small hole has been drilled into the wood. 
+Elegant looking {Wla{Dnter{Wns{x hang on either side of the doors, lightning up
+around the doors so those within can so who is outside.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8517
+D1
+~
+~
+3 3
+1 0 8524
+D2
+~
+~
+0 0
+0 0 8515
+D3
+~
+~
+3 3
+1 0 8525
+S
+#8517
+A Quiet Hallway~
+The soft {bc{Barpe{bt{x continues down the hallway, silencing the foot falls so
+that no one within the rooms that line the hallway are disturbed.  Each door
+has simple but elegant {Dcarvings{x done into the {ywood{x some depict scenes of
+sailing while others are of flowers and plants and others of animals, at
+about eye level on each door a small hole has been drilled into the wood. 
+Elegant looking {Wla{Dnter{Wns{x hang on either side of the doors, lightning up
+around the doors so those within can so who is outside.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8518
+D1
+~
+~
+3 3
+1 0 8522
+D2
+~
+~
+0 0
+0 0 8516
+D3
+~
+~
+3 3
+1 0 8523
+S
+#8518
+A Quiet Hallway~
+The soft {bc{Barpe{bt{x ends here at the end of the hall, silencing the foot
+falls so that no one within the rooms that line the hallway are disturbed. 
+Each door has simple but elegant {Dcarvings{x done into the {ywood{x some depict
+scenes of sailing while others are of flowers and plants and others of
+animals, at about eye level on each door a small hole has been drilled into
+the wood.  Elegant looking {Wla{Dnter{Wns{x hang on either side of the doors,
+lightning up around the doors so those within can so who is outside.  The
+door to the north has a {Dmetal{x knocker attached to it and a sign above it
+reads "{DBa{wth{Wing {wRo{Dom{x".
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8519
+D1
+~
+~
+3 3
+1 0 8520
+D2
+~
+~
+0 0
+0 0 8517
+D3
+~
+~
+3 3
+1 0 8521
+S
+#8519
+A Fancy Bathing Room~
+Much like the other rooms on this floor this one is filled with the same
+elegence and expense.  Sparkling {Wwhite{x tiles with designs of softly colored
+{bfl{mowe{brs{x show no dirt or grime on the floor.  Three large {Wbathtubs{x are placed
+within the room in strategic points with screens set up around them that can
+be moved to surround the tub if desired. In the middle of the room and in
+the middle of the trio of tubs is a fire pit large enough to hold three pots
+at once to heat water for the bathtubs, in one corner of the room a water
+pump has been installed that allows one to actually get water this high up. 
+Cabinets line the rooms, one holding towels and washclothes, another holding
+soaps, bubble bath oil and scrub brushes while the third contains candles
+and scented oils.  Numerous elegant, enclosed {Wla{Dnter{Wns{x provide soft lighting
+about the room, enough to see by but not enough to ruin the relaxed mood of
+the room.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8518
+S
+#8520
+The Silver Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in sensual {Wsi{Dlve{Wrs{x cover the room from the drapes over the windows
+to the silk {Wsh{Dee{Wts{x on the {ymahogany{x bed.  A large dresser lines one wall
+while an elegant dressing table with an elegant mixture of {ywood{x work and
+{Dmetal{x work combined sits across from it with a large full length {Wmi{Crr{Wor{x
+along side of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room,
+two large comfortable looking {War{Dmchai{Wrs{x sit not far from it with a small
+{ytable{x placed between them to set drinks on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8518
+S
+#8521
+The Gold Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in glorious {yg{Yold{ys{x cover the room from the drapes over the windows to
+the silk {ysh{Yee{yts{x on the mahogany bed. A large dresser lines one wall while
+an elegant dressing table with an elegant mixture of {ywood{x work and {Dmetal{x
+work combined sits across from it with a large full length {Wmi{Crr{Wor{x along side
+of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room, two large
+comfortable looking {yar{Ymchai{yrs{x sit not far from it with a small {ytable{x placed
+between them to set drinks on.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8518
+S
+#8522
+The Cyan Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in decandent {ccyans{x cover the room from the drapes over the windows
+to the silk {csh{Cee{cts{x on the {ymahogany{x bed. A large dresser lines one wall
+while an elegant dressing table with an elegant mixture of {ywood{x work and
+{Dmetal{x work combined sits across from it with a large full length {Wmi{Crr{Wor{x
+along side of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room,
+two large comfortable looking {car{Dmchai{crs{x sit not far from it with a small
+{ytable{x placed between them to set drinks on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8517
+S
+#8523
+The Black Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in satin {Dblack{x cover the room from the drapes over the windows to
+the silk {Dsh{wee{Dts{x on the {ymahogany{x bed.  A large dresser lines one wall while
+an elegant dressing table with an elegant mixture of {ywood{x work and {Dmetal{x
+work combined sits across from it with a large full length {Wmi{Crr{Wor{x along side
+of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room, two large
+comfortable looking {Dar{wmchai{Drs{x sit not far from it with a small {ytable{x placed
+between them to set drinks on.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8517
+S
+#8524
+The Red Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in crimson {rreds{x cover the room from the drapes over the windows to
+the silk {rsh{Ree{rts{x on the {ymahogany{x bed.  A large dresser lines one wall while
+an elegant dressing table with an elegant mixture of {ywood{x work and {Dmetal{x
+work combined sits across from it with a large full length {Wmi{Crr{Wor{x along side
+of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room, two large
+comfortable looking {rar{Dmchai{rrs{x sit not far from it with a small {ytable{x placed
+between them to set drinks on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8516
+S
+#8525
+The Green Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in forest {ggreens{x cover the room from the drapes over the windows to
+the silk {gsh{Gee{gts{x on the {ymahogany{x bed.  A large dresser lines one wall while
+an elegant dressing table with an elegant mixture of {ywood{x work and {Dmetal{x
+work combined sits across from it with a large full length {Wmi{Crr{Wor{x along side
+of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room, two large
+comfortable looking {gar{Dmchai{grs{x sit not far from it with a small {ytable{x placed
+between them to set drinks on.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8516
+S
+#8526
+The Blue Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in midnight {bblues{x cover the room from the drapes over the windows
+decorated with {Wstars{x to the silk {bsh{Bee{bts{x on the {ymahogany{x bed.  A large
+dresser lines one wall while an elegant dressing table with an elegant
+mixture of {ywood{x work and {Dmetal{x work combined sits across from it with a
+large full length {Wmi{Crr{Wor{x along side of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a
+corner section of the room, two large comfortable looking {bar{Dmchai{brs{x sit not
+far from it with a small {ytable{x placed between them to set drinks on.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8515
+S
+#8527
+The Purple Room~
+Money was obviously not worried about when this room was decorated.  Rich
+fabrics in royal {mpurples{x cover the room from the drapes over the windows to
+the silk {msh{Mee{mts{x on the {ymahogany{x bed.  A large dresser lines one wall while
+an elegant dressing table with an elegant mixture of {ywood{x work and {Dmetal{x
+work combined sits across from it with a large full length {Wmi{Crr{Wor{x along side
+of it.  A large {rf{Rir{Yepl{Rac{re{x takes up a corner section of the room, two large
+comfortable looking {mar{Dmchai{mrs{x sit not far from it with a small {ytable{x placed
+between them to set drinks on.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8515
+S
+#8528
+A Hallway~
+This hallway is a bit quieter then the one just west of here, the carpet
+is still {gdi{ysc{gol{yor{ged{x though and also has many dark {Dgrey{x splotches amoungst
+the {ggreen{x and {ybrown{x.  There are no doors along this stretch but further down
+in the light of a lantern a door can be made out.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8529
+D3
+~
+~
+0 0
+0 0 8501
+S
+#8529
+A Hallway~
+The small hallway ends here as does the ugly ruined carpet, which appears
+to be fraying along the edges in this section.  By the light of an enclosed
+{Wla{Ynte{Wrn{x hanging by the door one can make out that the darker splotches on
+the carpet have become more frequent, the door has no handle but can be
+pushed over easily with ones foot and the hinges tend to squeek rather
+badly.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8530
+D3
+~
+~
+0 0
+0 0 8528
+S
+#8530
+A Cheap Bathing Room~
+Two enclosed {Wlan{Yte{Wrns{x reveal a small room, it's wood floor is starting to
+warp and is badly {Dstained{x from all the water and soap that gets splashed and
+spilt onto it on a regular basis, with a large metal washing tub in one of
+the corners and a {Dmetal{x wood burning stove opposite the tub but away from
+the walls with a few simple tiles beneath it so the wood does not catch
+fire.  Ontop of the {Dstove{x are two pots while beside the stove are two large
+buckets, not far from the stove is a chair for placing clothing onto and
+above that is a shelf with a few bars of soap.  There is no source of water
+in the room and judging by the buckets, the pots and the stove one is
+expected to prepare your own bath instead of someone doing it for you. 
+There is also a {ysign{x hanging up near the tub that seem to contain
+instructions.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8529
+S
+#8531
+A Small Home~
+Sparcely furnished the living room consists of a {blarge{x couch and a couple
+of {ywooden{x chairs.  A small {Df{ri{Rr{Yepl{Ra{rc{De{x sits in one corner and keeps the room
+heated during the cold weather.  Through the door frame to the east a bed
+can just be made out while to the west the smell of baking bread can be
+smelt coming from the kitchen. 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8467
+D1
+~
+~
+0 0
+0 0 9708
+D3
+~
+~
+0 0
+0 0 9707
+S
+#8532
+The Watchers Over The Waves Headquarters~
+The main room to the headquarters is always a bustle of activity as
+guards go to and fro from the barracks portion of the building to the
+village outside.  Message runners also dash in and out, heading in either
+direction to what look like offices on either side of the building.  The
+occassional sailor also saunters in, heading north into the only office with
+a window.  The stone floors and walls have very little wood on them and have
+no decoration either, the only exception is the wood flooring.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9700
+D1
+~
+~
+3 3
+1 0 8404
+D2
+~
+~
+0 0
+0 0 9701
+S
+#8533
+The Foyer to a Large Home~
+Lavish would be the one word that best describes the foyer to this home. 
+From the rich, lush {bblue{x rug with its intricate {mdetailing{x to the paintings
+and sculptures on display around the room are used as both a display of
+wealth but also of power and influence.  An {yoak{x door across the room from
+the main door has both the smells and sounds of the kitchen eminating from
+it while to the right is the doorway to the living room.  To the left a set
+of beautiful {yoak{x stairs leads up to the second floor of the house.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8438
+D1
+~
+~
+0 0
+0 0 8571
+D2
+~
+~
+3 3
+1 0 8573
+D4
+~
+~
+0 0
+0 0 8574
+S
+#8534
+A Wisdom's Home~
+{rWarm{x and {bwelcoming{x the Wisdom's home smells of {Dh{gerb{Ds{x and {mfl{bowe{mrs{x.  The
+place is kept very neat and tidy despite the amount of traffic that comes in
+on a daily basis.  Comfortable {Darmchairs{x sit near the {Df{ri{Rr{Yepl{Ra{rc{De{x while three
+cots are lined up in the middle of the room for those needing immediate
+attention.  {yWooden{x chairs are set up as well for those that need minor
+attention and are able to wait to be seen.  To the north a closed door keeps
+the noise from bothering those in the recovery room.  
+~
+0
+K 0
+D0
+~
+~
+3 3
+1 0 9716
+D1
+~
+~
+3 3
+1 0 8476
+S
+#8535
+The Main Foyer~
+The foyer is tasteful in its decoration, the paintings those of the
+harbor and countryside of Falme, there are also busts of the former Mayors
+along one wall along with a painting of each above that.  Across from the
+main entrance is a door heading towards the back of the house but that
+remains locked most of the time and a guard placed near the entrance makes
+sure it remains that way.  To the left is the doorway to the waiting room of
+the Mayor's office.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8433
+D1
+~
+~
+0 0
+0 0 8581
+D2
+~
+~
+3 3
+1 0 9712
+S
+#8536
+A Simple Home~
+Sparcely furnished the living room consists of a large {mcouch{x and a couple
+of {ywooden{x chairs.  A small {Df{ri{Rr{Yepl{Ra{rc{De{x sits in one corner and keeps the room
+heated during the cold weather.  Through the door frame to the north a bed
+can just be made out while to the east the smell of baking bread can be
+smelt coming from the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9717
+D1
+~
+~
+0 0
+0 0 9718
+D2
+~
+~
+3 3
+1 0 8483
+S
+#8537
+A General Store~
+Various items fill the walls and tables throughout the room, from fishing
+rods to pots and pans, to quills and parchment this store seems to carry the
+every day needs of the town, except for food.  Despite all the merchandise
+though the store is kept well organized and neat from the entrance all the
+way back to the large counter in the back of the store behind which stands a
+very obvious Domani woman.  Best to keep an eye on your pouch or she may
+take you for more money then you have on you.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8447
+S
+#8538
+A Blacksmiths Shop~
+{rH{Rea{rt{x fills the room in an almost oppressive manner and it all boils forth
+from the large {Dh{re{Rar{rt{Dh{x on the farside of the room.  Not far from the hearth
+are anvils of various sizes and not far from that is a large bucket of
+water.  Piles of neatly stacked metals of various kinds sit away from the
+hearth.  The ringing sound of a hammer on metal fills the Blacksmiths shop
+all day as the man works hard to create that which is asked of him but is
+always well paid for.  The {Dh{re{Rar{rt{Dh{x is kept hot by the constant wood thrown
+into it by the Blacksmiths apprentice.  Through the door to the right more
+hammering can be heard but not the loud hammering of metal being pounded
+into form but something more precise and delicate.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8448
+D1
+~
+~
+0 0
+0 0 8541
+S
+#8539
+leftover~
+~
+0
+C 0
+S
+#8540
+A Stables~
+~
+0
+C 0
+S
+#8541
+The Repair Shop~
+Smaller in size then the previous room this one is not as hot for the
+{Dh{re{Rar{rt{Dh{x is smaller and not kept quite as hot for the reforming of metal isn't
+really needed here so much as the repairing of it is.  Armor is fixed as are
+tools, swords and anything else metal in nature, all skillfully reshaped and
+made whole by the blacksmiths wife who works just as hard as her husband but
+works in the more intricate details, relying on precision and patience
+rather then brute strength to reshape her work.  Sitting between the hearth
+and a bucket is an anvil and by that a wooden stool for sitting, the rest of
+the room has one side with broken pieces to be fixed and the other has those
+fixed and waiting to be claimed.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8538
+S
+#8542
+A Dirt Road~
+Through the long {ggrass{x a winding {ydirt{x road makes its way towards what
+looks like a farm in the distance.  As the wind blows the {ggrass{x makes a soft
+swishing sound and sways back and forth much like the ocean on the other
+side of the town does. Occasionally the sound of a cricket chirps from
+somewhere in the grass, making the sea of grass seem all the more lonely.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 8489
+D3
+~
+~
+0 0
+0 0 8543
+S
+#8543
+A Dirt Road~
+Through the long {ggrass{x a winding {ydirt{x road makes its way towards what
+looks like a farm in the distance.  As the wind blows the {ggrass{x makes a soft
+swishing sound and sways back and forth much like the ocean on the other
+side of the town does. Occasionally the sound of a cricket chirps from
+somewhere in the grass, making the sea of grass seem all the more lonely.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8544
+D1
+~
+~
+0 0
+0 0 8542
+S
+#8544
+A Dirt Road~
+Through the long {ggrass{x a winding {ydirt{x road makes its way towards what
+looks like a farm in the distance.  As the wind blows the {ggrass{x makes a soft
+swishing sound and sways back and forth much like the ocean on the other
+side of the town does. Occasionally the sound of a cricket chirps from
+somewhere in the grass, making the sea of grass seem all the more lonely.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8545
+D2
+~
+~
+0 0
+0 0 8543
+S
+#8545
+A Dirt Road~
+The farm is just up ahead and the sea of {ggrass{x finally begins to reach
+its end.  Back down the road the town of Falme is still easily seen but
+instead of just seeing buildings close up you can now see its majestic
+beauty from afar, its dark {Dslate{x roofs taking away the glare of the sun.  Up
+ahead the sounds of a farm can be hear, the crickets more numerous here add
+to the noise.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 8544
+D3
+~
+~
+3 3
+1 0 8546
+S
+#8546
+A Large Front Yard~
+The {ydirt{x road ends in a large {Gy{gar{Gd{x, the farmhouse sits directly across
+from the entrance to the road while a large {ybarn{x is to the north.  To one
+side of the road a sign reads "{DHostler{x" and judging by the sounds of
+neighing coming from the barn this place sells horses.  
+~
+0
+0 1
+D0
+~
+~
+7 7
+2 8478 8550
+D1
+~
+~
+3 3
+1 0 8545
+D3
+~
+~
+3 3
+1 0 8547
+S
+#8547
+A Large Room~
+Furnished in a simple manner the main portion of the house consists of
+both dining room and living room.  The living room portion has a large
+comfortable looking {ggreen{x couch with matching {garmchairs{x, the dining room
+portion has a large {ytable{x with {ychairs{x placed around it.  A large {Df{ri{Rr{Yepl{Ra{rc{De{x
+takes up the back wall and provides both heat and light to the room.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8548
+D1
+~
+~
+3 3
+1 0 8546
+D2
+~
+~
+0 0
+0 0 8549
+D3
+~
+~
+0 0
+0 0 9758
+D4
+~
+~
+8231 8231
+2 8465 8554
+S
+#8548
+A Kitchen~
+The small kitchen consists of lots of counter space and a large oven
+along the eastern wall.  The oven seems to be always lit even when nothing
+is cooking or baking but keeps the room a nice warm temperature.  Pots hang
+along the walls along with shelves holding spices and other cooking items. 
+There is no table in here but there is a stool for sitting on when a rest is
+needed.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 8547
+S
+#8549
+A Simple Bedroom~
+Plainly decorated the bedroom is large enough for two people, a queen sized
+{ybed{x takes up most of the room and is covered with {mpurple{x sheets.  A large
+{ydre{rs{yser{x sits beneath one of the windows along the west wall, the window is
+covered with a {bblue{x curtain but when open reveals a beautiful view of the
+countryside.  The squeaky floorboards makes it difficult to walk quietly in
+this room.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8547
+S
+#8550
+A Large Barn~
+The floor of the large barn is covered with {yhay{x and the occasional horse
+dropping.  Stalls line the walls and almost every stall has a horse within
+it except for a large stall at the end of the barn.  From behind the stall
+door the sound of snorting and stomping can be heard, best not go there for
+safety's sake.  A ladder near the door leads up into the hayloft.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8551
+D1
+~
+~
+3 3
+1 0 8552
+D2
+~
+~
+7 7
+2 8478 8546
+D3
+~
+~
+3 3
+1 0 8553
+D4
+~
+~
+0 0
+0 0 8555
+D5
+~
+~
+12807 12807
+2 8479 8556
+S
+#8551
+A Stall~
+Residing in this large stall is a big {Dblack{x bull, he takes up most of the
+space and the rest is taken up by the feed bag and water bucket.  Hay covers
+the floor as well as some rather smelly {ybrown{x piles that are obviously left
+by the large bull.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8550
+S
+#8552
+A Set of Stalls~
+Stalls line this side of the wall, the majority of them have horses of
+various breeds, sizes and colors.  The stalls are all pretty clean and fresh
+hay is laid down each day when the stalls are cleaned and the horses are fed
+and taken out for exercise.  Each stall has a lock placed onto it and
+considering that the barn itself was locked one can only assume these horses
+are special to the owner.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8550
+S
+#8553
+A Set of Stalls~
+Stalls line this side of the wall, the majority of them have horses of
+various breeds, sizes and colors.  The stalls are all pretty clean and fresh
+hay is laid down each day when the stalls are cleaned and the horses are fed
+and taken out for exercise.  Each stall has a lock placed onto it and
+considering that the barn itself was locked one can only assume these horses
+are special to the owner.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8550
+S
+#8554
+The Attic~
+The attic holds the owners most precious possessions, things like family
+heirlooms and items acquired from trading horses fill most of the space up
+here.  The place is pretty dust free and the items are covered with {Wwhite{x
+sheets just incase.  Here and there trunks sit, some locked and some not,
+one can only assume more heirlooms are kept within.  
+~
+0
+0 0
+D5
+~
+~
+8231 8231
+2 8465 8547
+S
+#8555
+A Hay Loft~
+Like every other hayloft in the world this loft is filled with hay and
+looking over the edge gives a view of most of the barn below as well as a
+clear view of the door.  A pitchfork has been stabbed into one of the bales
+of hay and it stands upright, waiting to be used once more.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 8550
+S
+#8556
+A Hidden Room~
+Heading down the ladder from the barn the room is kept dimly lit except
+for a single hooden {Yla{Dnte{Yrn{x that hangs down beside the ladder.  The four
+doors in this room are kept closed but {Wli{Dg{Wht{x can be seen beneath each door,
+filtering into the room to provide light across the floor.  Besides the
+ladder and the lantern the room is pretty empty except for a large man
+sitting near the southern door with a crossbow in his hand and a quiver
+beside him.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9737
+D1
+~
+~
+3 3
+1 0 9745
+D2
+~
+~
+3 3
+1 0 9746
+D3
+~
+~
+3 3
+1 0 9744
+D4
+~
+~
+12807 12807
+2 8479 8550
+S
+#8557
+A Pub~
+The pub is boisterous and noisy and consists of a single room filled with
+tables and chairs, a long bar takes up the back wall except for at either
+end where serving wenches can go behind and get drinks as needed.  Large
+barrels line the wall behind the bar, most likely filled with some cheap
+ale.  Sailors make up most of the patronage here, spending most of their
+money drinking and gambling, while guards from the city also come to spend
+some time here.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8412
+S
+#8558
+A Tunnel Through the Cliff~
+Very little light seeps in through the {gvines{x that block the entrance into
+the cavern.  There are rocks strewn all over the narrow path that leads
+deeper into the cliffs.  There is just enough space for one person to move
+along, although a taller or heavier set person would have some difficulty
+with the naturally worn looking path.  
+~
+0
+0 0
+D1
+~
+~
+4099 4099
+1 0 8416
+D3
+~
+~
+0 0
+0 0 8559
+S
+#8559
+The Tunnel Continues~
+The soft sound of dripping water fills the otherwise silent void in this
+place, with barely any light one must be careful to not trip on any of the
+rocks strewn all over the narrow path that leads deeper into the cliffs. 
+There is just enough space for one person to move along, although a taller
+or heavier set person would have some difficulty with the naturally worn
+looking path.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8558
+D2
+~
+~
+0 0
+0 0 8560
+S
+#8560
+The Tunnel Starts Rising~
+The path starts to rise slowly and after a few feet suddenly stops, light
+floods the space from above.  What looks like naturally worn in grooves in
+the wall allow a person to climb up towards the opening in the cliff high
+above.  It looks like a tight squeeze but it can be done if one takes their
+time.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8559
+D4
+~
+~
+0 0
+0 0 8561
+S
+#8561
+Going Up~
+Bit by bit the opening at the top gets closer, the way up isn't easy
+going but eventually you near the top.  The foot and hand holds become fewer
+and far between the higher you go but just as the last couple foot holds
+disappear the edge is finally within your grasp.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 8562
+D5
+~
+~
+0 0
+0 0 8560
+S
+#8562
+On the Top of the Cliffs~
+Fresh cool air blows across the top of the cliff, {Gmoss{x is the only thing
+that seems to grow up here and covers the ground so that its spongy to walk
+around.  Here and there a birds nest can be seen but not many as its far too
+windy up here to nest properly.  Towards one end of the cliff a large rock
+can be seen, its the largest thing up here by the looks of it.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8564
+D2
+~
+~
+0 0
+0 0 8563
+D3
+~
+~
+0 0
+0 0 8565
+D5
+~
+~
+0 0
+0 0 8561
+S
+#8563
+On the Cliff~
+Fresh cool air blows across the top of the cliff, {Gmoss{x is the only thing
+that seems to grow up here and covers the ground so that its spongy to walk
+around.  Here and there a birds nest can be seen but not many as its far too
+windy up here to nest properly.  The large rock sits here, covered in {Gmoss{x
+and other growths, abscuring its surface completely.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 8562
+S
+#8564
+On the Cliff~
+Fresh cool air blows across the top of the cliff, {Gmoss{x is the only thing
+that seems to grow up here and covers the ground so that its spongy to walk
+around.  Here and there a birds nest can be seen but not many as its far too
+windy up here to nest properly.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8562
+S
+#8565
+On the Cliff~
+Fresh cool air blows across the top of the cliff, {Gmoss{x is the only thing
+that seems to grow up here and covers the ground so that its spongy to walk
+around.  Here and there a birds nest can be seen but not many as its far too
+windy up here to nest properly.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8562
+S
+#8566
+The Harbormaster's Office~
+The {Dstone{x building has wood floors and a couple of small windows in the
+front on either side of the door.  Numerous {ywooden{x chairs line the walls for
+those waiting their turn at the large desk at the back of the room. 
+Numerous enclosed shelves line the back wall, kept closed so the items
+within remain unharmed.  This room is usually very busy and there is always
+a light on even in the middle of the night for one never knows when someone
+might need to dock for the night.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 8426
+S
+#8567
+More Stairs~
+Onwards and upwards along the never ending staircase that flows up
+through the cliffs.  The walls have been carved smooth around the spiraling
+staircase except for hand sized notches that are spaced in the wall, there
+to provide a hand hold for those that need it as they walk.  Soon the sound
+of howling wind enters the staircase and not long after a wooden door and a
+ceiling appear above.  
+~
+0
+0 0
+D4
+~
+~
+3 3
+1 0 8442
+D5
+~
+~
+0 0
+0 0 8441
+S
+#8568
+Lots of Stairs~
+Onwards and upwards along the never ending staircase that flows up
+through the cliffs.  The walls have been carved smooth around the spiraling
+staircase except for hand sized notches that are spaced in the wall, there
+to provide a hand hold for those that need it as they walk.  The sound of
+the waves echos less the higher you go and as the sound decreases the amount
+of {Wli{Cg{Wht{x gradually increases.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 8569
+D5
+~
+~
+0 0
+0 0 8435
+S
+#8569
+Still More Stairs~
+The stairs seem to just keep going in a never ending spiral through the
+cliff.  The walls have been carved smooth around the spiraling staircase
+except for hand sized notches that are spaced in the wall, there to provide
+a hand hold for those that need it as they walk.  The sound of the waves is
+non-existant now and the {Wli{Cg{Wht{x is almost too blindingly bright.  Eventually
+a ceiling appears where the stairs end, leading up into a square hole where
+the {Wli{Cg{Wht{x is definately the brightest.  
+~
+0
+0 0
+D3
+~
+~
+4099 4099
+1 0 9736
+D4
+~
+~
+0 0
+0 0 8436
+D5
+~
+~
+0 0
+0 0 8568
+S
+#8570
+Animal Storage~
+~
+0
+C 0
+S
+#8571
+The Living Room~
+Much like the foyer the living room is a display of wealth as well. 
+Expensive furniture in a mix of {ymah{rogh{yany{x wood and plush {rred{x velvet are set
+up in a central seating area infront of a large {Df{Ri{rr{Yepl{ra{Rc{De{x.  Paintings and
+sculptures once again seem to line the walls around the room but in a
+tasteful display.  The same {bblue{x carpeting in the foyer continues on into
+this room, adding a soft cushion beneath the feet as one walks.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8533
+S
+#8572
+A Pub~
+Loud and boisterous the pub is open from the hours of 9pm until 6am the
+next day and serves mostly ale and grog.  Those that come here spend their
+time drinking and playing games until its time to close.  The owner stands
+behind the {ybar{x that lines the back wall while the serving wenches weave
+their way amoungst the tables serving drinks.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8422
+D5
+~
+~
+4099 4099
+1 0 9762
+S
+#8573
+The Kitchen~
+Busy only before meal time this kitchen holds every modern day
+convenience available.  The head cook keeps everything in order, from the
+pots and pans being hung up properly after their washed down to the counters
+being cleaned to a sheen after every meal.  The smell of baking bread is the
+most common here but during the dinner hour other delicious smells waft
+about, such as roast lamb, curried chicken and numerous other wonderful
+dishes.  The door separating the kitchen from the rest of the house is in
+constant motion during meal time and occassionally is just propped open on
+more busy occassions.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8533
+S
+#8574
+Top of the Stairs~
+At the top of the stairs a hallway stretches along, lit by partially hooded
+{Wlan{Dte{Wrns{x that provide enough light to see by but not too blind.  This floor
+is also carpeted but with a plush {mpurple{x carpeting that allows people to
+move along the hall without making too much noise.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8575
+D3
+~
+~
+0 0
+0 0 8576
+D5
+~
+~
+0 0
+0 0 8533
+S
+#8575
+A Hallway~
+The hallway ends just a short distance from the stairs, a window letting
+in both some light as well as a nice breeze occassionally, the few that of
+the town and the country side beyond.  On either side of the hallway are two
+doors, both with delicate engravings in intricate but meaningless designs.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8579
+D2
+~
+~
+3 3
+1 0 8580
+D3
+~
+~
+0 0
+0 0 8574
+S
+#8576
+A Hallway~
+The hallway ends just a short distance from the stairs, a window letting
+in both some light as well as a nice breeze occassionally, the few that of
+the town and the country side beyond.  On either side of the hallway are two
+doors, the one on the left side is left cracked open a bit, light spilling
+out into the hallway while the one on the right is closed and locked, it
+doesn't seem to get much use.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8577
+D1
+~
+~
+0 0
+0 0 8574
+D2
+~
+~
+7 7
+2 9710 8578
+S
+#8577
+A Child's Bedroom~
+Toys of every type and nature cover the floor, shelves and furniture in
+this room.  The small {ybed{x in one corner is dwarfed by all the cuddly types
+of toys that are strewn over it, the bed seems to remain in a permanent
+state of mess as if the servants have given up on making it.  Amidst the
+toys a set of bookshelves can be seen but there are only a few books on it,
+the rest of the space is also taken up by toys.  The {mpurple{x carpeting can
+just be made out amidst the mess on the floor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8576
+S
+#8578
+An Empty Nursery~
+{DDarkness{x fills this room, the drapes drawn tight, no candles or lanterns
+are lit.  In the {Dgloom{x of the room one can make out an old cradle near the
+middle of the room and inside of it what looks to be a dusty old {yteddy{x bear
+laid neatly inside of it.  A rocking chair sits in one corner near one of
+the closed windows, occassionally rocking back and forth as if in memory of
+times long past.  There are very few decorations in this room other then two
+paintings in the room sitting on an old dressing table.  One looks to be
+drawn by a child but one can make out the forms of four people, two big and
+two little.  The other is a more formal painting of a small baby with wisps
+of red hair and bright green eyes dressed in a cute little {bblue{x suit.  A
+general feeling of sadness fills this room and one can only wonder what
+happened to the little baby in the blue suit.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 9710 8576
+S
+#8579
+A Study~
+The windows to the study have heavy {ggreen{x drapes covering them at almost
+all times of the day, leaving just the {Wca{Dndl{Wes{x to bathe a soft glow about
+the room.  Dark, {Dg{wre{Dy{x carpeting aborbs a fair bit of the light though, as
+much as it absorbs the soft sound of footfalls.  The study walls are lined
+with bookshelves from the ceiling to the floor and in the middle of the room
+is a large {yoak{x desk with a large comfortable looking {ggreen{x armchair behind
+it and one infront of it as well.  Unlike the rest of the house there are no
+paintings, sculptures or any other works of art or displays here.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8575
+S
+#8580
+The Master Bedroom~
+The focus of the master bedroom is the large, four-post {yoak{x bed with its
+{rred{x silk sheets and gauzy {Wwhite{x drapes.  The wood posts have carvings of
+animals in them, each one different then the other.  Compared to the bed the
+rest of the room is plain but tasteful, the funiture all made of {yoak{x but
+with little to no detailing.  The windows here are kept open wide to let in
+fresh air, their {bblue{x drapes tied too either side.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8575
+S
+#8581
+The Waiting Room~
+Chairs fill most of the room except for the back wall where a large desk
+and a staircase sit.  The chairs are occupied by those wishing to speak with
+the Mayor, the topics ranging from fishing to crops to anything and
+everything a person could talk about.  A sturdy guard stands at the railing
+of the stairs and infront of him is the desk and the receptionist that sits
+behind it, both keeping order in their own ways.  Once chosen to see the
+Mayor the guard lets you pass up onto the stairs and up into the second
+story of the house.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8535
+D4
+~
+~
+0 0
+0 0 8582
+S
+#8582
+Top of the Staircase~
+The {ywooden{x stairs creak slightly with seemingly each step, giving the
+Mayor ample time to be ready for the next visitor.  At the top of the stairs
+yet another guard stands, he eyes you over then knocks on the door gently
+and when the call of enter is heard he opens the door and motions you
+inside.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 8583
+D5
+~
+~
+0 0
+0 0 8581
+S
+#8583
+The Mayor's Office~
+The office is much like the foyer, plain in decorations but filled with
+maps of the countryside and flags of both Tanchico and Bandar Eban hung on
+the walls on opposite sides of the room.  A desk sits in the middle of the
+room and comfortable chairs have been placed infront of it while a large
+armchair sits behind it for the Mayor.  Shelves sit where there is space,
+filled almost overflowing with books on various subjects.  To one side of
+the door is another sturdy looking guard who watches the goings on with an
+alert but almost blank expression.  
+~
+0
+0 0
+D2
+~
+~
+4099 4099
+1 0 8584
+D3
+~
+~
+3 3
+1 0 8582
+S
+#8584
+The Master Bedroom~
+Comfort was the main concern in the bedroom, the floor is carpeted in a
+cushy {bb{Blu{be{x carpet that covers every inch of the floor.  A large comfortable
+looking bed with {ggreen{x blankets fills most of the room with a night stand
+beside it, a dressing table against one wall, a wardrobe not far from that. 
+In one corner a comfortable armchair with a hanging lantern near it and a
+bookshelf filled with books sit for easy reading.  A small set of stairs
+lead down into what looks to be a library and unlike the stairs going into
+the waiting room these are quiet to walk on.  
+~
+0
+0 0
+D0
+~
+~
+4099 4099
+1 0 8583
+D5
+~
+~
+0 0
+0 0 9713
+S
+#8585
+Fish Shop~
+{gF{Bis{gh{x of every kind, shape and size is brought in here daily by the local
+fishermen to be sold to the general public that comes here to purchase fish.
+Some of the fish has been salted and wrapped and places on tables to either
+side of the shop while the fresher stuff sits near the counter at the back
+of the store where a couple of the local fishermen run the shop.  This place
+seems to be pretty busy until well into the night when the shop closes until
+the next morning.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 8413
+S
+#8586
+A Pub~
+The pub is boisterous and noisy and consists of a single room filled with
+tables and chairs, a long bar takes up the back wall except for at either
+end where serving wenches can go behind and get drinks as needed.  Large
+barrels line the wall behind the bar, most likely filled with some cheap
+ale.  Sailors make up the entire patronage here, spending most of their
+money drinking and gambling.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8418
+S
+#8587
+Boat Rentals~
+The building has no windows and the door is thick and secure, everyone
+that lives here seems prepared for the weather at all times.  To make up for
+the lack of windows the walls are covered with charts, maps and drawings of
+the surrounding land and water.  A few {ywooden{x chairs have been placed here
+and there but the main focus seems to be for the large desk at the back of
+the shop with neat piles of paper stacked on it as well as closed cupboards
+behind it.  A wall hanging on the back wall reads "{DBoat Rentals{x."  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 8428
+S
+#8588
+The Forecastle~
+The forecastle is often just as busy as the rest of the ship for here is
+where the crew eat and sleep, tasks which take up the rest of their time
+when not working or on shore.  To one side the sounds of loud talk and the
+smell of food wafts out into the corridor while the other side has the
+sounds of snoring and soft mutterings coming from it.  In the middle of the
+forecastle is part of the fore mast, it comes up through the floor from down
+in the hold and goes straight up through to the forecastle deck and the sky
+above.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8598
+D2
+~
+~
+3 3
+1 0 8495
+D3
+~
+~
+0 0
+0 0 8599
+S
+#8589
+The Main Deck~
+{DBlack{x sails snap in the wind, the creak of the {ywood{x as the ship rocks
+back and forth with the waves.  Never is there a quiet moment on this deck
+for every sailor has his duties, wether its swabbing the deck or tending to
+the sails this place is one of constant motion.  Stretched out before you is
+almost the full length of the ship, from the main mast to the hatch to the
+hold, the fore mast and at its end the forecastle.  Just behind is the door
+to the Captain's quarters and above that the Quarter deck.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 8495
+D2
+~
+~
+3 3
+1 0 8590
+D4
+~
+~
+0 0
+0 0 8597
+D5
+~
+~
+0 0
+0 0 9757
+S
+#8590
+Captain's Quarters~
+No expense was spared in the furnishing of this room, from rich {rlush{x
+carpeting on the floor to the expensive paintings and wall hangings, even a
+large {Wchan{Cde{Wlair{x hangs from the ceiling where it sways slowly with the
+rocking of the ship.  {rMah{Dog{rany{x funiture takes up most of the space, from the
+tables and chairs to the bed surrounded with {Ddrapes{x, all the furniture
+except the chairs have been nailed to the floor so they do not move.  On a
+large {rd{Des{rk{x maps, charts, lists and other various pieces of parchment are
+neatly stacked or rolled, all held in place with weights or nails so nothing
+is lost.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8589
+S
+#8591
+Quarter Deck~
+~
+0
+C 0
+S
+#8592
+The Hold~
+{WLi{Dg{Wht{x from the hatch spills down into the hold, providing some light but
+past the square there is nothing but {Ddarkness{x.  The creaking of the {ywood{x and
+the sound of the {bwater{x against the sides of the ship fill this space with a
+constant thrum of noise.  Cargo fills most of the space down here, lashed
+securely in place with ropes.  Just outside the light a cage can be seen
+hanging from the ceiling and from within it animal like sounds can be heard.
+There is also the soft sound of what could be someone groaning but it can be
+hard to make out against the other noises that fill the hold.  
+~
+0
+0 0
+D2
+~
+~
+8231 8231
+2 8500 9740
+D4
+~
+~
+3 3
+1 0 8495
+S
+#8593
+The Forecastle~
+The forecastle is often just as busy as the rest of the ship for here is
+where the crew eat and sleep, tasks which take up the rest of their time
+when not working or on shore.  To one side the sounds of loud talk and the
+smell of food wafts out into the corridor while the other side has the
+sounds of snoring and soft mutterings coming from it.  In the middle of the
+forecastle is part of the fore mast, it comes up through the floor from down
+in the hold and goes straight up through to the forecastle deck and the sky
+above.
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8600
+D2
+~
+~
+3 3
+1 0 8492
+D3
+~
+~
+0 0
+0 0 9739
+S
+#8594
+The Captain's Cabin~
+No expense was spared in the furnishing of this room, from rich lush
+{bcarpeting{x on the floor to the expensive paintings and wall hangings, even a
+large {Wchan{Dde{Wlair{x hangs from the ceiling where it sways slowly with the
+rocking of the ship.  {rMah{yog{rany{x funiture takes up most of the space, from the
+tables and chairs to the bed surrounded with {mdrapes{x, all the furniture
+except the chairs have been nailed to the floor so they do not move.  On a
+large {rd{yes{rk{x maps, charts, lists and other various pieces of parchment are
+neatly stacked or rolled, all held in place with weights or nails so nothing
+is lost.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 8452
+S
+#8595
+Forecastle Deck~
+The forecastle deck supports the fore mast and all its {Dsails{x, lookouts
+spend most of their time around this part of the ship, wether up in the
+sails or clinging to the bowsprite to keep an eye on the water so they ship
+doesn't hit anything or run aground in shallow water.  Along the hull of the
+ship is a figurehead of a beautiful {Wa{mnge{Wl{x, her arm outstretched and her hand
+open as she releases a snowy {Wwhite{x dove.  The figurehead slices easily
+through the water, guiding it safely to its destination.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 8495
+S
+#8596
+The Hold~
+Inside the hold hooded {Wlan{Dte{Wrns{x hang from the ceiling in a straight line
+down the middle of the ship, providing light for those that carry the
+supplies and other cargo down here.  Everything looks neat and organized,
+each section of cargo roped off and tied together, this merchant ship is
+obviously well run.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 8492
+S
+#8597
+Quarter Deck~
+Here is where the Captain and his first mate deal out the duties, here is
+where the men of power do their duties.  A large {ywheel{x is manned by someone
+at all times, wether by the Captain himself or someone he appoints, to not
+keep hold of this wheel could mean the fate of both ship and crew.  Below
+this deck is the Captain's quarters and over head is the large, {Dblack{x main
+sail of the ship, billowing in the breeze.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 8589
+S
+#8598
+Crew Quarters~
+{WHammocks{x hang all over this room, from the walls to the beams, some high
+some low almost like bunk beds.  Each sailor has a hammock and in it he can
+secure any extra clothes or belongings if he wishes too, as few as those
+belongings might be.  Very rarely during the day are any of the sailors
+sleeping, except for maybe those on night duty, this is their time to sleep
+and they do so rather noisily, their snores filling up the room.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 8588
+S
+#8599
+The Galley~
+Loud and smelly are two words perfect for this part of the ship.  The men
+seem to like to talk loudly while eating and drinking while the smell of the
+'food' the galley cook is making fills the rest of the void.  {yTables{x and
+{ybenches{x have been nailed to the floor in the space that the cook doesn't
+need for his stores and the stove.  In the kitchen section a large {Dpot{x sits
+simmering over a {rf{Rl{Ya{Rm{re{x, the bubbling ooze seems to contain carrots, potatoes
+and meat, if the chunks that are floating in it can be called that.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 8588
+S
+#8600
+The Crew Quarters~
+Bunk beds take up every available space in the quarters, nailed down onto
+the floor and into the beams between each set so that no accidents occur. 
+Each sailor has his own bed, a place to sleep and also to keep extra clothes
+tucked safely beneath warm {Dwoolen{x blankets.  Although the quarters are
+nothing fancy its still comfortable and as roomy as possible.  Here and
+there in their bunks men can be seen dozing, mostly the night watchmen.  
+~
+0
+C 0
+D3
+~
+~
+0 0
+0 0 8593
+S
+#0
+
+
+
+#SPECIALS
+M 8404 spec_gamemaster
+M 8460 spec_blademaster
+S
+
+
+
+#RESETS
+D 0 8404 3 1
+D 0 8406 3 1
+D 0 8409 1 1
+D 0 8409 3 1
+D 0 8412 0 1
+D 0 8416 3 1
+D 0 8417 0 1
+D 0 8418 2 1
+D 0 8422 2 1
+D 0 8423 0 1
+D 0 8426 1 1
+D 0 8428 0 1
+D 0 8430 3 1
+D 0 8433 2 1
+D 0 8434 0 1
+D 0 8435 3 1
+D 0 8438 2 1
+D 0 8440 2 1
+D 0 8441 1 1
+D 0 8442 5 1
+D 0 8444 0 1
+D 0 8447 0 1
+D 0 8448 0 1
+D 0 8448 2 1
+D 0 8449 0 1
+D 0 8450 1 1
+D 0 8451 2 1
+D 0 8452 2 1
+D 0 8453 0 1
+D 0 8453 1 1
+D 0 8455 0 1
+D 0 8459 1 1
+D 0 8461 1 1
+D 0 8463 2 1
+D 0 8464 2 1
+D 0 8465 2 1
+D 0 8466 2 1
+D 0 8467 2 1
+D 0 8470 3 1
+D 0 8471 3 1
+D 0 8473 3 1
+D 0 8474 3 1
+D 0 8475 3 1
+D 0 8476 3 1
+D 0 8479 0 1
+D 0 8480 0 1
+D 0 8481 0 1
+D 0 8482 0 1
+D 0 8483 0 1
+D 0 8484 0 1
+D 0 8487 1 1
+D 0 8488 1 1
+D 0 8489 1 1
+D 0 8492 0 1
+D 0 8495 0 1
+D 0 8495 5 1
+D 0 8496 2 1
+D 0 8496 3 2
+D 0 8497 1 2
+D 0 8498 3 1
+D 0 8499 1 1
+D 0 8502 1 1
+D 0 8502 3 1
+D 0 8503 3 1
+D 0 8504 1 1
+D 0 8505 1 2
+D 0 8505 3 2
+D 0 8506 3 2
+D 0 8507 1 2
+D 0 8508 1 1
+D 0 8508 3 1
+D 0 8509 1 1
+D 0 8509 3 1
+D 0 8511 3 1
+D 0 8512 1 1
+D 0 8513 3 1
+D 0 8514 1 1
+D 0 8515 1 1
+D 0 8515 3 1
+D 0 8516 1 1
+D 0 8516 3 1
+D 0 8517 1 1
+D 0 8517 3 1
+D 0 8518 0 1
+D 0 8518 1 1
+D 0 8518 3 1
+D 0 8519 2 1
+D 0 8520 3 1
+D 0 8521 1 1
+D 0 8522 3 1
+D 0 8523 1 1
+D 0 8524 3 1
+D 0 8525 1 1
+D 0 8526 3 1
+D 0 8527 1 1
+D 0 8529 0 1
+D 0 8530 2 1
+D 0 8531 0 1
+D 0 8532 1 1
+D 0 8533 0 1
+D 0 8533 2 1
+D 0 8534 0 1
+D 0 8534 1 1
+D 0 8535 0 1
+D 0 8535 2 1
+D 0 8536 2 1
+D 0 8537 2 1
+D 0 8538 0 1
+D 0 8545 3 1
+D 0 8546 0 2
+D 0 8546 1 1
+D 0 8546 3 1
+D 0 8547 1 1
+D 0 8547 4 2
+D 0 8550 0 1
+D 0 8550 1 1
+D 0 8550 2 2
+D 0 8550 3 1
+D 0 8550 5 2
+D 0 8551 2 1
+D 0 8552 3 1
+D 0 8553 1 1
+D 0 8554 5 2
+D 0 8556 0 1
+D 0 8556 1 1
+D 0 8556 2 1
+D 0 8556 3 1
+D 0 8556 4 2
+D 0 8557 2 1
+D 0 8558 1 1
+D 0 8566 3 1
+D 0 8567 4 1
+D 0 8569 3 1
+D 0 8572 0 1
+D 0 8572 5 1
+D 0 8573 0 1
+D 0 8575 0 1
+D 0 8575 2 1
+D 0 8576 0 1
+D 0 8576 2 2
+D 0 8577 2 1
+D 0 8578 0 2
+D 0 8579 2 1
+D 0 8580 0 1
+D 0 8582 1 1
+D 0 8583 2 1
+D 0 8583 3 1
+D 0 8584 0 1
+D 0 8586 0 1
+D 0 8587 2 1
+D 0 8588 2 1
+D 0 8589 2 1
+D 0 8590 0 1
+D 0 8592 2 2
+D 0 8592 4 1
+D 0 8593 2 1
+D 0 8594 0 1
+M 0 8436 10 8400 1
+M 0 8437 10 8400 1
+M 0 8424 10 8401 1
+M 0 8423 10 8401 1
+M 0 8434 10 8402 2
+M 0 8435 10 8402 2
+M 0 8425 10 8403 2
+M 0 8434 10 8404 1
+M 0 8418 10 8404 1
+M 0 8433 10 8404 1
+O 0 9703 0 8405
+M 0 8433 10 8405 1
+M 0 8490 5 8405 5
+E 0 8476 0 20
+M 0 8420 10 8405 1
+M 0 8419 10 8405 1
+M 0 8433 10 8406 1
+M 0 8423 10 8407 1
+M 0 8424 10 8407 1
+M 0 8431 10 8408 3
+M 0 8418 10 8408 1
+M 0 8468 1 8409 1
+M 0 8470 10 8409 2
+M 0 8437 10 8411 1
+M 0 8436 10 8411 1
+M 0 8435 10 8411 1
+M 0 8433 10 8411 1
+M 0 8434 10 8411 1
+M 0 8502 30 8414 5
+M 0 8423 10 8415 1
+M 0 8424 10 8415 1
+M 0 8424 10 8417 1
+M 0 8429 30 8420 1
+M 0 8498 6 8420 1
+M 0 8429 30 8427 1
+M 0 8498 6 8427 1
+M 0 8497 10 8428 1
+M 0 8429 30 8429 1
+M 0 8498 6 8429 1
+M 0 8497 10 8430 1
+M 0 8429 30 8431 1
+M 0 8497 10 8431 1
+M 0 8429 30 8434 1
+M 0 8498 6 8434 1
+M 0 8430 1 8436 1
+M 0 8429 30 8442 3
+M 0 8437 10 8443 1
+M 0 8436 10 8443 1
+M 0 8420 10 8445 1
+M 0 8419 10 8445 1
+M 0 8432 10 8447 1
+M 0 8431 10 8447 1
+M 0 8418 10 8448 1
+M 0 8470 10 8448 2
+M 0 8419 10 8449 1
+M 0 8420 10 8449 1
+M 0 8499 1 8451 1
+G 0 8520 0
+G 0 8521 0
+G 0 8523 0
+G 0 8522 0
+M 0 8457 10 8452 1
+M 0 8400 1 8453 1
+G 0 8440 0
+G 0 8441 0
+O 0 8450 0 8453
+M 0 8437 10 8456 1
+M 0 8436 10 8456 1
+M 0 8435 10 8456 1
+M 0 8418 10 8457 1
+M 0 8432 10 8457 1
+M 0 8435 10 8459 1
+M 0 8436 10 8459 1
+M 0 8434 10 8459 1
+M 0 8420 10 8459 1
+M 0 8470 10 8460 2
+M 0 8490 5 8462 5
+E 0 8476 0 20
+M 0 8420 10 8462 1
+M 0 8419 10 8462 1
+M 0 8418 10 8463 1
+M 0 8490 5 8468 5
+E 0 8476 0 20
+M 0 8470 10 8471 2
+M 0 8490 5 8478 5
+E 0 8476 0 20
+M 0 8418 10 8483 1
+M 0 8490 5 8485 5
+E 0 8476 0 20
+M 0 8424 10 8486 1
+M 0 8423 10 8486 1
+M 0 8420 10 8487 1
+M 0 8419 10 8487 1
+M 0 8437 10 8488 1
+M 0 8436 10 8488 1
+M 0 8435 10 8488 1
+M 0 8434 10 8488 1
+M 0 8433 10 8488 1
+M 0 8432 10 8488 1
+M 0 8431 10 8488 1
+M 0 8498 6 8490 1
+M 0 8457 10 8492 1
+M 0 8498 6 8493 1
+M 0 8465 1 8495 1
+E 0 8526 0 25
+E 0 8495 0 20
+M 0 8466 1 8495 1
+E 0 8495 0 20
+E 0 8525 0 25
+M 0 8404 6 8496 2
+M 0 8401 1 8496 1
+M 0 8402 1 8496 1
+G 0 9709 0
+O 0 8449 0 8496
+E 0 8477 0 20
+M 0 8450 4 8496 4
+M 0 8404 6 8497 2
+O 0 8448 0 8497
+M 0 8451 6 8497 6
+M 0 8405 3 8498 3
+M 0 8407 1 8498 1
+M 0 8403 1 8498 1
+M 0 8406 1 8498 1
+G 0 8455 0
+G 0 8457 0
+G 0 8459 0
+G 0 8456 0
+G 0 8458 0
+O 0 8460 0 8498
+O 0 8461 0 8498
+O 0 8462 0 8498
+M 0 8449 2 8498 2
+M 0 8452 3 8498 3
+M 0 8476 5 8499 5
+M 0 8409 1 8499 1
+G 0 8451 0
+G 0 8452 0
+G 0 8453 0
+G 0 8454 0
+M 0 8408 5 8501 1
+M 0 8449 10 8502 1
+O 0 8435 0 8503
+O 0 8435 0 8504
+M 0 8408 5 8505 1
+O 0 8436 0 8506
+M 0 8477 1 8506 1
+O 0 8437 0 8507
+M 0 8478 1 8507 1
+M 0 8449 10 8508 1
+O 0 8434 0 8511
+O 0 8434 0 8512
+O 0 8433 0 8513
+O 0 8433 0 8514
+M 0 8408 5 8515 1
+M 0 8408 5 8517 1
+O 0 8400 0 8519
+O 0 8401 0 8519
+P 0 8402 2 8401 2
+P 0 8403 2 8401 2
+O 0 8404 0 8519
+P 0 8405 2 8404 2
+P 0 8406 2 8404 2
+P 0 8407 2 8404 2
+P 0 8408 2 8404 2
+O 0 8409 0 8519
+P 0 8410 2 8409 2
+P 0 8411 2 8409 2
+P 0 8412 2 8409 2
+P 0 8413 2 8409 2
+P 0 8414 2 8409 2
+P 0 8415 2 8409 2
+O 0 8416 0 8519
+O 0 8438 0 8519
+P 0 8439 1 8438 1
+O 0 8419 0 8520
+O 0 8420 0 8520
+O 0 8417 0 8521
+O 0 8418 0 8521
+O 0 8423 0 8522
+O 0 8424 0 8522
+O 0 8421 0 8523
+O 0 8422 0 8523
+O 0 8427 0 8524
+O 0 8428 0 8524
+O 0 8429 0 8525
+O 0 8430 0 8525
+O 0 8425 0 8526
+O 0 8426 0 8526
+O 0 8431 0 8527
+O 0 8432 0 8527
+M 0 8408 5 8528 1
+M 0 8449 10 8529 1
+O 0 8442 0 8530
+O 0 8443 0 8530
+O 0 8444 0 8530
+O 0 8445 0 8530
+P 0 8446 1 8445 1
+O 0 8447 0 8530
+M 0 8417 10 8531 1
+M 0 8418 1 8531 1
+M 0 8441 1 8534 1
+M 0 8421 5 8535 1
+M 0 8542 5 8535 1
+M 0 8417 10 8536 1
+M 0 8442 1 8537 1
+G 0 8590 0
+G 0 8594 0
+G 0 8592 0
+G 0 8593 0
+G 0 8591 0
+M 0 8439 1 8538 1
+G 0 8587 0
+G 0 8584 0
+G 0 8585 0
+G 0 8586 0
+G 0 8588 0
+G 0 8589 0
+M 0 8440 1 8541 1
+M 0 8483 4 8546 4
+M 0 8484 4 8546 4
+M 0 8485 1 8546 1
+M 0 8486 1 8546 1
+O 0 8466 0 8547
+O 0 8467 0 8547
+M 0 8479 1 8548 1
+O 0 8468 0 8548
+O 0 8463 0 8549
+O 0 8464 0 8549
+P 0 8465 4 8464 1
+O 0 8481 0 8551
+P 0 8479 1 8481 1
+M 0 8480 1 8551 1
+M 0 8481 20 8552 1
+M 0 8482 20 8553 1
+O 0 8469 0 8554
+P 0 8478 30 8469 1
+M 0 8471 1 8556 1
+E 0 8491 0 20
+G 0 8474 0
+G 0 8479 0
+M 0 8502 30 8557 5
+O 0 8551 0 8563
+M 0 8428 1 8566 1
+E 0 8495 0 20
+O 0 8544 0 8566
+O 0 8545 0 8566
+P 0 8546 1 8545 1
+M 0 8506 1 8571 1
+M 0 8502 30 8572 5
+M 0 8513 1 8573 1
+M 0 8509 1 8576 1
+M 0 8508 1 8577 1
+O 0 8562 0 8578
+P 0 8561 1 8562 1
+O 0 8563 0 8579
+M 0 8507 1 8580 1
+G 0 9710 0
+M 0 9700 1 8581 1
+M 0 8542 5 8581 1
+M 0 8542 5 8582 1
+M 0 8422 1 8583 1
+M 0 8542 5 8583 1
+M 0 8504 1 8585 1
+G 0 8552 0
+G 0 8553 0
+G 0 8554 0
+G 0 8556 0
+M 0 8502 30 8586 5
+M 0 8500 1 8587 1
+G 0 8524 0
+G 0 8532 0
+G 0 8533 0
+M 0 8462 5 8588 1
+E 0 8495 0 20
+M 0 8462 5 8589 1
+E 0 8495 0 20
+M 0 8461 1 8590 1
+E 0 8498 0 7
+E 0 8497 0 5
+M 0 8460 1 8590 1
+E 0 8499 0 20
+M 0 8463 1 8592 1
+E 0 8500 0 5
+O 0 8516 0 8592
+M 0 8457 10 8593 1
+M 0 8455 1 8594 1
+E 0 8534 0 20
+G 0 9701 0
+G 0 8570 0
+M 0 8462 5 8595 1
+E 0 8495 0 20
+O 0 8564 0 8596
+P 0 8571 1 8564 1
+O 0 8565 0 8596
+P 0 8572 1 8565 1
+O 0 8566 0 8596
+P 0 8573 1 8566 1
+O 0 8567 0 8596
+P 0 8574 1 8567 1
+O 0 8568 0 8596
+P 0 8575 1 8568 1
+M 0 8459 1 8597 1
+E 0 8495 0 20
+E 0 8496 0 19
+M 0 8462 5 8598 1
+E 0 8495 0 20
+O 0 8542 0 8598
+M 0 8462 5 8599 1
+E 0 8495 0 20
+M 0 8457 10 8600 2
+O 0 8541 0 8600
+S
+
+
+
+#SHOPS
+8400 0 0 0 0 0 100 100 0 23
+8406 0 0 0 0 0 100 100 0 23
+8409 0 0 0 0 0 100 100 0 23
+8438 0 0 0 0 0 100 100 0 23
+8439 0 0 0 0 0 100 100 0 23
+8440 0 0 0 0 0 100 100 0 23
+8442 0 0 0 0 0 100 100 0 23
+8443 0 0 0 0 0 100 100 0 23
+8445 0 0 0 0 0 100 100 0 23
+8447 0 0 0 0 0 100 100 0 23
+8454 0 0 0 0 0 100 100 0 23
+8458 0 0 0 0 0 100 100 0 23
+8499 0 0 0 0 0 100 100 0 23
+8500 0 0 0 0 0 100 100 0 23
+8503 0 0 0 0 0 100 100 0 23
+8504 0 0 0 0 0 100 100 0 23
+8511 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

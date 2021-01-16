@@ -1,0 +1,351 @@
+#
+# An unexpected error has been detected by Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x051b0880, pid=27924, tid=3086755520
+#
+# Java VM: IcedTea Client VM (1.7.0-b21 mixed mode linux-x86)
+# Problematic frame:
+# C  [libgtk-x11-2.0.so.0+0x148880]
+#
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x08c37400):  JavaThread "main" [_thread_in_native, id=27924, stack(0xbf9ed000,0xbfa3d000)]
+
+siginfo:si_signo=SIGSEGV: si_errno=0, si_code=1 (SEGV_MAPERR), si_addr=0x00000008
+
+Registers:
+EAX=0x00000000, EBX=0x054a2dd8, ECX=0x00000000, EDX=0x00000000
+ESP=0xbfa3a080, EBP=0xbfa3a108, ESI=0x00000000, EDI=0x08c147d8
+EIP=0x051b0880, CR2=0x00000008, EFLAGS=0x00210246
+
+Top of Stack: (sp=0xbfa3a080)
+0xbfa3a080:   00000000 053edf5e 00000018 00000000
+0xbfa3a090:   bfa3a0b8 00000000 08d37bd0 003159e1
+0xbfa3a0a0:   00000001 054a2dd8 00000018 00000018
+0xbfa3a0b0:   08c84380 08c83c80 00000000 00000018
+0xbfa3a0c0:   00000018 00390218 bfa3a0e8 002e6a09
+0xbfa3a0d0:   08c84380 08c83c80 bfa3a108 051b0526
+0xbfa3a0e0:   00000000 00000000 00000000 00000000
+0xbfa3a0f0:   00000000 00000018 08d2d938 08c31410 
+
+Instructions: (pc=0x051b0880)
+0x051b0870:   b2 41 00 00 89 45 dc 83 7d dc 00 75 4b 8b 45 b0
+0x051b0880:   8b 50 08 8b 45 08 8b 40 04 89 54 24 10 89 44 24 
+
+Stack: [0xbf9ed000,0xbfa3d000],  sp=0xbfa3a080,  free space=308k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [libgtk-x11-2.0.so.0+0x148880]
+C  [libgtk-x11-2.0.so.0+0x148ac4]
+C  [libgtk-x11-2.0.so.0+0x148d63]  gtk_icon_set_render_icon+0x189
+C  [libgtk-x11-2.0.so.0+0x323d2d]  gtk_widget_render_icon+0x189
+C  [libgtk-x11-2.0.so.0+0x16763e]
+C  [libgtk-x11-2.0.so.0+0x16778a]
+C  [libgobject-2.0.so.0+0x15a79]  g_cclosure_marshal_VOID__BOXED+0x59
+C  [libgobject-2.0.so.0+0x7779]
+C  [libgobject-2.0.so.0+0x906c]  g_closure_invoke+0x20c
+C  [libgobject-2.0.so.0+0x1991a]
+C  [libgobject-2.0.so.0+0x1a997]  g_signal_emit_valist+0x8c7
+C  [libgobject-2.0.so.0+0x1b97e]  g_signal_emit_by_name+0xee
+C  [libgtk-x11-2.0.so.0+0x228380]
+C  [libgtk-x11-2.0.so.0+0x228802]
+C  [libgtk-x11-2.0.so.0+0x31db62]  gtk_widget_size_request+0xc1
+C  [libgtk-x11-2.0.so.0+0x13ca94]
+C  [libgobject-2.0.so.0+0x15a79]  g_cclosure_marshal_VOID__BOXED+0x59
+C  [libgobject-2.0.so.0+0x7779]
+C  [libgobject-2.0.so.0+0x906c]  g_closure_invoke+0x20c
+C  [libgobject-2.0.so.0+0x1991a]
+C  [libgobject-2.0.so.0+0x1a997]  g_signal_emit_valist+0x8c7
+C  [libgobject-2.0.so.0+0x1b97e]  g_signal_emit_by_name+0xee
+C  [libgtk-x11-2.0.so.0+0x228380]
+C  [libgtk-x11-2.0.so.0+0x228802]
+C  [libgtk-x11-2.0.so.0+0x31db62]  gtk_widget_size_request+0xc1
+C  [libgtk-x11-2.0.so.0+0x311efc]
+C  [libgobject-2.0.so.0+0x15a79]  g_cclosure_marshal_VOID__BOXED+0x59
+C  [libgobject-2.0.so.0+0x7779]
+C  [libgobject-2.0.so.0+0x906c]  g_closure_invoke+0x20c
+C  [libgobject-2.0.so.0+0x1991a]
+C  [libgobject-2.0.so.0+0x1a997]  g_signal_emit_valist+0x8c7
+C  [libgobject-2.0.so.0+0x1b97e]  g_signal_emit_by_name+0xee
+C  [libgtk-x11-2.0.so.0+0x228380]
+C  [libgtk-x11-2.0.so.0+0x228802]
+C  [libgtk-x11-2.0.so.0+0x31db62]  gtk_widget_size_request+0xc1
+C  [libgtk-x11-2.0.so.0+0x333aa2]
+C  [libgobject-2.0.so.0+0x15a79]  g_cclosure_marshal_VOID__BOXED+0x59
+C  [libgobject-2.0.so.0+0x7779]
+C  [libgobject-2.0.so.0+0x8f83]  g_closure_invoke+0x123
+C  [libgobject-2.0.so.0+0x1991a]
+C  [libgobject-2.0.so.0+0x1a997]  g_signal_emit_valist+0x8c7
+C  [libgobject-2.0.so.0+0x1b97e]  g_signal_emit_by_name+0xee
+C  [libgtk-x11-2.0.so.0+0x228380]
+C  [libgtk-x11-2.0.so.0+0x228802]
+C  [libgtk-x11-2.0.so.0+0x31db62]  gtk_widget_size_request+0xc1
+C  [libgtk-x11-2.0.so.0+0x335328]
+C  [libgtk-x11-2.0.so.0+0x332bbe]
+C  [libgobject-2.0.so.0+0x16409]  g_cclosure_marshal_VOID__VOID+0x49
+C  [libgobject-2.0.so.0+0x7779]
+C  [libgobject-2.0.so.0+0x8f83]  g_closure_invoke+0x123
+C  [libgobject-2.0.so.0+0x1991a]
+C  [libgobject-2.0.so.0+0x1a997]  g_signal_emit_valist+0x8c7
+C  [libgobject-2.0.so.0+0x1ab59]  g_signal_emit+0x29
+C  [libgtk-x11-2.0.so.0+0x31c214]  gtk_widget_show+0xfc
+C  [libgtk-x11-2.0.so.0+0xdfba7]  gtk_dialog_run+0x13f
+C  [eclipse_1017a.so+0x7f20]  displayMessage+0xae
+C  [eclipse_1017a.so+0x4c94]  run+0x17c4
+C  [eclipse+0x177e]
+C  [libc.so.6+0x16390]  __libc_start_main+0xe0
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x08caac00 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=27931, stack(0x008eb000,0x0093c000)]
+  0x08ca7c00 JavaThread "CompilerThread0" daemon [_thread_blocked, id=27930, stack(0x0086a000,0x008eb000)]
+  0x08ca6400 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=27929, stack(0x00819000,0x0086a000)]
+  0x08c95000 JavaThread "Finalizer" daemon [_thread_blocked, id=27927, stack(0x00787000,0x007d8000)]
+  0x08c90800 JavaThread "Reference Handler" daemon [_thread_blocked, id=27926, stack(0x00736000,0x00787000)]
+=>0x08c37400 JavaThread "main" [_thread_in_native, id=27924, stack(0xbf9ed000,0xbfa3d000)]
+
+Other Threads:
+  0x08c8d000 VMThread [stack: 0x006b5000,0x00736000] [id=27925]
+  0x08cad000 WatcherThread [stack: 0x035eb000,0x0366c000] [id=27932]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ def new generation   total 2880K, used 1872K [0x9fd50000, 0xa0060000, 0xa1100000)
+  eden space 2624K,  61% used [0x9fd50000, 0x9fee41c0, 0x9ffe0000)
+  from space 256K, 100% used [0x9ffe0000, 0xa0020000, 0xa0020000)
+  to   space 256K,   0% used [0xa0020000, 0xa0020000, 0xa0060000)
+ tenured generation   total 37824K, used 2054K [0xa1100000, 0xa35f0000, 0xafd50000)
+   the space 37824K,   5% used [0xa1100000, 0xa1301a50, 0xa1301c00, 0xa35f0000)
+ compacting perm gen  total 12288K, used 8583K [0xafd50000, 0xb0950000, 0xb7d50000)
+   the space 12288K,  69% used [0xafd50000, 0xb05b1c18, 0xb05b1e00, 0xb0950000)
+No shared spaces configured.
+
+Dynamic libraries:
+00110000-00111000 r-xp 00110000 00:00 0          [vdso]
+00111000-0014f000 r-xp 00000000 08:03 6630955    /usr/lib/libpango-1.0.so.0.1800.4
+0014f000-00151000 rwxp 0003e000 08:03 6630955    /usr/lib/libpango-1.0.so.0.1800.4
+00151000-0015a000 r-xp 00000000 08:03 9240737    /usr/lib/eclipse/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_1.0.0.v20070606/eclipse_1017a.so
+0015a000-0015b000 rwxp 00008000 08:03 9240737    /usr/lib/eclipse/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_1.0.0.v20070606/eclipse_1017a.so
+0015b000-00165000 r-xp 00000000 08:03 21168236   /lib/libnss_files-2.7.so
+00165000-00166000 r-xp 00009000 08:03 21168236   /lib/libnss_files-2.7.so
+00166000-00167000 rwxp 0000a000 08:03 21168236   /lib/libnss_files-2.7.so
+00167000-0016b000 r-xp 00000000 08:03 6882005    /usr/lib/gtk-2.0/2.10.0/loaders/libpixbufloader-bmp.so
+0016b000-0016c000 rwxp 00003000 08:03 6882005    /usr/lib/gtk-2.0/2.10.0/loaders/libpixbufloader-bmp.so
+0016c000-00172000 r-xp 00000000 08:03 6980857    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/native_threads/libhpi.so
+00172000-00173000 rwxp 00006000 08:03 6980857    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/native_threads/libhpi.so
+00173000-0017f000 r-xp 00000000 08:03 6980854    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libverify.so
+0017f000-00180000 rwxp 0000b000 08:03 6980854    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libverify.so
+00180000-001a2000 r-xp 00000000 08:03 6980835    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libjava.so
+001a2000-001a4000 rwxp 00022000 08:03 6980835    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libjava.so
+001a4000-001b3000 r-xp 00000000 08:03 6980855    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libzip.so
+001b3000-001b5000 rwxp 0000e000 08:03 6980855    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libzip.so
+001b5000-001c8000 r-xp 00000000 08:03 6980847    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libnet.so
+001c8000-001c9000 rwxp 00012000 08:03 6980847    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libnet.so
+001c9000-001d0000 r-xp 00000000 08:03 6980848    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libnio.so
+001d0000-001d1000 rwxp 00006000 08:03 6980848    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/libnio.so
+001d1000-001f8000 r-xp 00000000 08:03 24150260   /usr/lib/libfontconfig.so.1.2.0
+001f8000-00200000 rwxp 00027000 08:03 24150260   /usr/lib/libfontconfig.so.1.2.0
+00202000-00232000 r-xp 00000000 08:03 6631202    /usr/lib/libpangoft2-1.0.so.0.1800.4
+00232000-00233000 rwxp 0002f000 08:03 6631202    /usr/lib/libpangoft2-1.0.so.0.1800.4
+00233000-002bb000 r-xp 00000000 08:03 24150259   /usr/lib/libfreetype.so.6.3.16
+002bb000-002bf000 rwxp 00087000 08:03 24150259   /usr/lib/libfreetype.so.6.3.16
+002bf000-002c2000 r-xp 00000000 08:03 9045081    /usr/lib/eclipse/configuration/org.eclipse.osgi/bundles/4/1/.cp/libswt-gtk-3346.so
+002c2000-002c3000 rwxp 00003000 08:03 9045081    /usr/lib/eclipse/configuration/org.eclipse.osgi/bundles/4/1/.cp/libswt-gtk-3346.so
+002c6000-00390000 r-xp 00000000 08:03 21168294   /lib/libglib-2.0.so.0.1400.6
+00390000-00391000 rwxp 000ca000 08:03 21168294   /lib/libglib-2.0.so.0.1400.6
+00393000-00416000 r-xp 00000000 08:03 6631197    /usr/lib/libcairo.so.2.11.7
+00416000-00418000 rwxp 00082000 08:03 6631197    /usr/lib/libcairo.so.2.11.7
+0041a000-004b9000 r-xp 00000000 08:03 6631322    /usr/lib/libgdk-x11-2.0.so.0.1200.5
+004b9000-004bc000 rwxp 0009f000 08:03 6631322    /usr/lib/libgdk-x11-2.0.so.0.1200.5
+004bc000-004c1000 rwxp 004bc000 00:00 0 
+004c1000-0053c000 rwxp 004c1000 00:00 0 
+0053c000-0053e000 rwxp 0053c000 00:00 0 
+0053e000-00545000 rwxp 0053e000 00:00 0 
+00545000-00559000 rwxp 00545000 00:00 0 
+00559000-005bc000 rwxp 00559000 00:00 0 
+005bc000-005c2000 rwxp 005bc000 00:00 0 
+005c2000-005fc000 rwxp 005c2000 00:00 0 
+005fc000-00610000 rwxp 005fc000 00:00 0 
+00610000-00674000 rwxp 00610000 00:00 0 
+00674000-0067b000 rwxp 00674000 00:00 0 
+0067b000-006b5000 rwxp 0067b000 00:00 0 
+006b5000-006b6000 --xp 006b5000 00:00 0 
+006b6000-00736000 rwxp 006b6000 00:00 0 
+00736000-00739000 --xp 00736000 00:00 0 
+00739000-00787000 rwxp 00739000 00:00 0 
+00787000-0078a000 --xp 00787000 00:00 0 
+0078a000-007d8000 rwxp 0078a000 00:00 0 
+007d8000-007dc000 r-xp 00000000 08:03 21169657   /lib/libgthread-2.0.so.0.1400.6
+007dc000-007dd000 rwxp 00003000 08:03 21169657   /lib/libgthread-2.0.so.0.1400.6
+007dd000-007e2000 r-xp 00000000 08:03 6631210    /usr/lib/libXtst.so.6.1.0
+007e2000-007e3000 rwxp 00004000 08:03 6631210    /usr/lib/libXtst.so.6.1.0
+007f9000-00814000 r-xp 00000000 08:03 6625574    /usr/lib/libxcb.so.1.0.0
+00814000-00815000 rwxp 0001a000 08:03 6625574    /usr/lib/libxcb.so.1.0.0
+00817000-00818000 r-xp 00000000 08:03 6625719    /usr/lib/libxcb-xlib.so.0.0.0
+00818000-00819000 rwxp 00000000 08:03 6625719    /usr/lib/libxcb-xlib.so.0.0.0
+00819000-0081c000 --xp 00819000 00:00 0 
+0081c000-0086a000 rwxp 0081c000 00:00 0 
+0086a000-0086d000 --xp 0086a000 00:00 0 
+0086d000-008eb000 rwxp 0086d000 00:00 0 
+008eb000-008ee000 --xp 008eb000 00:00 0 
+008ee000-0093c000 rwxp 008ee000 00:00 0 
+00975000-00977000 r-xp 00000000 08:03 6631316    /usr/lib/libXinerama.so.1.0.0
+00977000-00978000 rwxp 00001000 08:03 6631316    /usr/lib/libXinerama.so.1.0.0
+0097a000-00995000 r-xp 00000000 08:03 21169667   /lib/ld-2.7.so
+00995000-00996000 r-xp 0001a000 08:03 21169667   /lib/ld-2.7.so
+00996000-00997000 rwxp 0001b000 08:03 21169667   /lib/ld-2.7.so
+00999000-00aec000 r-xp 00000000 08:03 21169668   /lib/libc-2.7.so
+00aec000-00aee000 r-xp 00153000 08:03 21169668   /lib/libc-2.7.so
+00aee000-00aef000 rwxp 00155000 08:03 21169668   /lib/libc-2.7.so
+00aef000-00af2000 rwxp 00aef000 00:00 0 
+00af4000-00b1b000 r-xp 00000000 08:03 21169672   /lib/libm-2.7.so
+00b1b000-00b1c000 r-xp 00026000 08:03 21169672   /lib/libm-2.7.so
+00b1c000-00b1d000 rwxp 00027000 08:03 21169672   /lib/libm-2.7.so
+00b1f000-00b22000 r-xp 00000000 08:03 21169669   /lib/libdl-2.7.so
+00b22000-00b23000 r-xp 00002000 08:03 21169669   /lib/libdl-2.7.so
+00b23000-00b24000 rwxp 00003000 08:03 21169669   /lib/libdl-2.7.so
+00b26000-00b3b000 r-xp 00000000 08:03 21169670   /lib/libpthread-2.7.so
+00b3b000-00b3c000 r-xp 00014000 08:03 21169670   /lib/libpthread-2.7.so
+00b3c000-00b3d000 rwxp 00015000 08:03 21169670   /lib/libpthread-2.7.so
+00b3d000-00b3f000 rwxp 00b3d000 00:00 0 
+00b45000-00b47000 r-xp 00000000 08:03 24150244   /usr/lib/libXau.so.6.0.0
+00b47000-00b48000 rwxp 00001000 08:03 24150244   /usr/lib/libXau.so.6.0.0
+00b4a000-00c42000 r-xp 00000000 08:03 6626246    /usr/lib/libX11.so.6.2.0
+00c42000-00c46000 rwxp 000f7000 08:03 6626246    /usr/lib/libX11.so.6.2.0
+00c48000-00c57000 r-xp 00000000 08:03 6631315    /usr/lib/libXext.so.6.4.0
+00c57000-00c58000 rwxp 0000e000 08:03 6631315    /usr/lib/libXext.so.6.4.0
+00c5a000-00c5e000 r-xp 00000000 08:03 6631319    /usr/lib/libXfixes.so.3.1.0
+00c5e000-00c5f000 rwxp 00003000 08:03 6631319    /usr/lib/libXfixes.so.3.1.0
+00c61000-00c63000 r-xp 00000000 08:03 6631321    /usr/lib/libXcomposite.so.1.0.0
+00c63000-00c64000 rwxp 00001000 08:03 6631321    /usr/lib/libXcomposite.so.1.0.0
+00c66000-00c6b000 r-xp 00000000 08:03 24150245   /usr/lib/libXdmcp.so.6.0.0
+00c6b000-00c6c000 rwxp 00004000 08:03 24150245   /usr/lib/libXdmcp.so.6.0.0
+00c6e000-00c80000 r-xp 00000000 08:03 21169671   /lib/libz.so.1.2.3
+00c80000-00c81000 rwxp 00011000 08:03 21169671   /lib/libz.so.1.2.3
+00c83000-00cc2000 r-xp 00000000 08:03 21168313   /lib/libgobject-2.0.so.0.1400.6
+00cc2000-00cc3000 rwxp 0003f000 08:03 21168313   /lib/libgobject-2.0.so.0.1400.6
+00cc5000-00ccd000 r-xp 00000000 08:03 6631317    /usr/lib/libXi.so.6.0.0
+00ccd000-00cce000 rwxp 00007000 08:03 6631317    /usr/lib/libXi.so.6.0.0
+00cd0000-00cd8000 r-xp 00000000 08:03 6630962    /usr/lib/libXrender.so.1.3.0
+00cd8000-00cd9000 rwxp 00007000 08:03 6630962    /usr/lib/libXrender.so.1.3.0
+00cdb000-00cde000 r-xp 00000000 08:03 21169673   /lib/libgmodule-2.0.so.0.1400.6
+00cde000-00cdf000 rwxp 00002000 08:03 21169673   /lib/libgmodule-2.0.so.0.1400.6
+00ce1000-00ce7000 r-xp 00000000 08:03 6631318    /usr/lib/libXrandr.so.2.1.0
+00ce7000-00ce8000 rwxp 00005000 08:03 6631318    /usr/lib/libXrandr.so.2.1.0
+00cea000-00cf3000 r-xp 00000000 08:03 6631320    /usr/lib/libXcursor.so.1.0.2
+00cf3000-00cf4000 rwxp 00008000 08:03 6631320    /usr/lib/libXcursor.so.1.0.2
+00cf6000-00d12000 r-xp 00000000 08:03 6628369    /usr/lib/libgdk_pixbuf-2.0.so.0.1200.5
+00d12000-00d13000 rwxp 0001b000 08:03 6628369    /usr/lib/libgdk_pixbuf-2.0.so.0.1200.5
+00d15000-00d1e000 r-xp 00000000 08:03 6631313    /usr/lib/libpangocairo-1.0.so.0.1800.4
+00d1e000-00d1f000 rwxp 00008000 08:03 6631313    /usr/lib/libpangocairo-1.0.so.0.1800.4
+00d21000-00d3b000 r-xp 00000000 08:03 6630960    /usr/lib/libatk-1.0.so.0.2009.1
+00d3b000-00d3d000 rwxp 0001a000 08:03 6630960    /usr/lib/libatk-1.0.so.0.2009.1
+00d3d000-00d40000 rwxp 00d3d000 00:00 0 
+00d40000-00d8e000 rwxp 00d40000 00:00 0 
+00d8e000-00db3000 r-xp 00000000 08:03 6627017    /usr/lib/libpng12.so.0.22.0
+00db3000-00db4000 rwxp 00025000 08:03 6627017    /usr/lib/libpng12.so.0.22.0
+00db6000-00dbd000 r-xp 00000000 08:03 21169677   /lib/librt-2.7.so
+00dbd000-00dbe000 r-xp 00007000 08:03 21169677   /lib/librt-2.7.so
+00dbe000-00dbf000 rwxp 00008000 08:03 21169677   /lib/librt-2.7.so
+00dc1000-00de0000 r-xp 00000000 08:03 21168315   /lib/libexpat.so.1.5.2
+00de0000-00de2000 rwxp 0001f000 08:03 21168315   /lib/libexpat.so.1.5.2
+00de2000-011ae000 r-xp 00000000 08:03 6980817    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/client/libjvm.so
+011ae000-011cd000 rwxp 003cc000 08:03 6980817    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/client/libjvm.so
+011cd000-015eb000 rwxp 011cd000 00:00 0 
+015eb000-016fb000 rwxp 015eb000 00:00 0 
+016fb000-035eb000 rwxp 016fb000 00:00 0 
+035eb000-035ec000 --xp 035eb000 00:00 0 
+035ec000-0366c000 rwxp 035ec000 00:00 0 
+03d66000-03d7b000 r-xp 00000000 08:03 21169688   /lib/libnsl-2.7.so
+03d7b000-03d7c000 r-xp 00014000 08:03 21169688   /lib/libnsl-2.7.so
+03d7c000-03d7d000 rwxp 00015000 08:03 21169688   /lib/libnsl-2.7.so
+03d7d000-03d7f000 rwxp 03d7d000 00:00 0 
+05068000-0549f000 r-xp 00000000 08:03 6631324    /usr/lib/libgtk-x11-2.0.so.0.1200.5
+0549f000-054a5000 rwxp 00437000 08:03 6631324    /usr/lib/libgtk-x11-2.0.so.0.1200.5
+054a5000-054a6000 rwxp 054a5000 00:00 0 
+06b66000-06b69000 rwxp 06b66000 00:00 0 
+06b69000-06bb7000 rwxp 06b69000 00:00 0 
+07246000-07249000 rwxp 07246000 00:00 0 
+07249000-07297000 rwxp 07249000 00:00 0 
+078ef000-07945000 r-xp 00000000 08:03 9045083    /usr/lib/eclipse/configuration/org.eclipse.osgi/bundles/4/1/.cp/libswt-pi-gtk-3346.so
+07945000-07947000 rwxp 00055000 08:03 9045083    /usr/lib/eclipse/configuration/org.eclipse.osgi/bundles/4/1/.cp/libswt-pi-gtk-3346.so
+07947000-07948000 rwxp 07947000 00:00 0 
+08048000-0804b000 r-xp 00000000 08:03 9045174    /usr/lib/eclipse/eclipse
+0804b000-0804d000 rwxp 00002000 08:03 9045174    /usr/lib/eclipse/eclipse
+08c08000-08f79000 rwxp 08c08000 00:00 0 
+9fa00000-9fa21000 rwxp 9fa00000 00:00 0 
+9fa21000-9fb00000 --xp 9fa21000 00:00 0 
+9fb8a000-9fb98000 r-xs 000ce000 08:03 8620006    /usr/share/eclipse/plugins/org.eclipse.osgi_3.3.0.v20070530.jar
+9fb98000-9fb9c000 r-xs 00079000 08:03 6980864    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/jsse.jar
+9fb9c000-9fb9d000 r-xs 00009000 08:03 8620000    /usr/share/eclipse/plugins/org.eclipse.equinox.launcher_1.0.0.v20070606.jar
+9fb9d000-9fba6000 r-xs 00065000 08:03 6980799    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/ext/gnome-java-bridge.jar
+9fba6000-9fbd6000 rwxp 9fba6000 00:00 0 
+9fbd6000-9fd50000 r-xs 035c6000 08:03 6980873    /usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/rt.jar
+9fd50000-a0060000 rwxp 9fd50000 00:00 0 
+a0060000-a1100000 rwxp a0060000 00:00 0 
+a1100000-a35f0000 rwxp a1100000 00:00 0 
+a35f0000-afd50000 rwxp a35f0000 00:00 0 
+afd50000-b0950000 rwxp afd50000 00:00 0 
+b0950000-b7d50000 rwxp b0950000 00:00 0 
+b7d5f000-b7dc2000 rwxp b7d5f000 00:00 0 
+b7dc2000-b7fc2000 r-xp 00000000 08:03 6622405    /usr/lib/locale/locale-archive
+b7fc2000-b7fcb000 rwxp b7fc2000 00:00 0 
+b7fd7000-b7fdf000 rwxs 00000000 08:03 11599897   /tmp/hsperfdata_tsw/27924
+b7fdf000-b7fe0000 rwxp b7fdf000 00:00 0 
+b7fe0000-b7fe1000 r-xp b7fe0000 00:00 0 
+bf9ed000-bf9f0000 --xp bf9ed000 00:00 0 
+bf9f0000-bfa3d000 rwxp bffb2000 00:00 0          [stack]
+
+VM Arguments:
+jvm_args: -Xms40m -Xmx256m -XX:MaxPermSize=128m -Dosgi.sharedConfiguration.area=/usr/lib/eclipse/configuration 
+java_command: <unknown>
+Launcher Type: generic
+
+Environment Variables:
+PATH=/usr/kerberos/bin:/usr/lib/ccache:/usr/local/bin:/bin:/usr/bin:/home/tsw/bin
+LD_LIBRARY_PATH=/usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386/client::/usr/lib/jvm/java-1.7.0-icedtea-1.7.0.0/jre/lib/i386::/usr/lib/firefox-2.0.0.12:/usr/lib/firefox-2.0.0.12
+SHELL=/bin/bash
+
+Signal Handlers:
+SIGSEGV: [libjvm.so+0x3715e0], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGBUS: [libjvm.so+0x3715e0], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGFPE: [libjvm.so+0x2a1710], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGPIPE: [libjvm.so+0x2a1710], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGXFSZ: [libjvm.so+0x2a1710], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGILL: [libjvm.so+0x2a1710], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGUSR1: SIG_DFL, sa_mask[0]=0x00000000, sa_flags=0x00000000
+SIGUSR2: [libjvm.so+0x2a3a00], sa_mask[0]=0x00000000, sa_flags=0x10000004
+SIGHUP: [libjvm.so+0x2a2b70], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGINT: [libjvm.so+0x2a2b70], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGTERM: [libjvm.so+0x2a2b70], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+SIGQUIT: [libjvm.so+0x2a2b70], sa_mask[0]=0x7ffbfeff, sa_flags=0x10000004
+
+
+---------------  S Y S T E M  ---------------
+
+OS:Fedora release 8 (Werewolf)
+
+uname:Linux 2.6.23.15-137.fc8 #1 SMP Sun Feb 10 17:48:34 EST 2008 i686
+libc:glibc 2.7 NPTL 2.7 
+rlimit: STACK 10240k, CORE 0k, NPROC 8159, NOFILE 1024, AS infinity
+load average:0.16 0.04 0.01
+
+CPU:total 1 (1 cores per cpu, 1 threads per core) family 6 model 8 stepping 10, cmov, cx8, fxsr, mmx, sse
+
+Memory: 4k page, physical 513132k(55688k free), swap 1020116k(1016936k free)
+
+vm_info: IcedTea Client VM (1.7.0-b21) for linux-x86 JRE (1.7.0-b21), built on Oct 15 2007 16:06:03 by "kojibuilder" with gcc 4.1.2 20070925 (Red Hat 4.1.2-31)
+
+time: Sat Mar  1 15:17:30 2008
+elapsed time: 10 seconds
+

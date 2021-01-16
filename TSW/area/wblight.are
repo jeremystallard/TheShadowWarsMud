@@ -1,0 +1,6076 @@
+#AREADATA
+Name Western Blight~
+Builders Oniren~
+VNUMs 1600 1799
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1600
+yellow vine~
+a {yy{Yello{yw v{Yin{ye{x~
+A {yy{Yello{yw v{Yin{ye{x hangs loosely from the branch of a nearby {gt{yre{ge{x.
+~
+~
+unique~
+ABF DFJQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 whip
+0 0 0 0 0
+A
+6 6 6 6
+AEFHNOU ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1601
+green vine~
+a {gg{Gree{gn v{Gin{ge{x~
+A {gg{Gree{gn v{Gin{ge{x is coiled around the trunk of a {gt{yre{ge{x.
+~
+~
+unique~
+ABF DFJQ 0 0
+90 85 46d47+8100 90d10+100 10d10+45 whip
+0 0 0 0 0
+A
+6 6 6 6
+AEFHNOU ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1602
+claw branch~
+a {Dc{yla{ww-l{yik{De b{yr{wan{yc{Dh{x~
+A {Dc{yla{ww-l{yik{De b{yr{wan{yc{Dh{x appears to lash out at anything that moves.
+~
+~
+unique~
+ABF DFJQ 0 0
+95 85 48d48+9025 95d10+100 10d15+47 claw
+0 0 0 0 0
+A
+6 6 6 6
+EFHNO ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1603
+spindly branch~
+a {ys{wp{Wind{wl{yy-l{wo{Woki{wn{yg b{wr{Wan{wc{yh{x~
+A {ys{wp{Wind{wl{yy-l{wo{Woki{wn{yg b{wr{Wan{wc{yh{x protrudes from the vegetation.
+~
+~
+unique~
+ABF DFJQ 0 0
+95 90 48d48+9025 95d10+100 10d15+47 claw
+0 0 0 0 0
+A
+6 6 6 6
+EFHNO ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1604
+tree roots~
+some {yt{wr{Wee roo{wt{ys{x~
+There are sinuous {yt{wr{Wee roo{wt{ys{x slithering beneath the dense {yundergrowth{x.
+~
+~
+unique~
+ABF DFJQ 0 0
+95 87 48d48+9025 95d10+100 10d15+47 whip
+0 0 0 0 0
+A
+6 6 6 6
+EFHNO ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1605
+speckled black vine~
+a {Db{yl{Da{yc{Dk v{yi{Dn{ye{x~
+A {Ds{yp{De{yck{Dl{ye{Dd b{yl{Da{yc{Dk v{yi{Dn{ye{x is dangling precariously from a {gt{yre{ge{x.
+~
+~
+unique~
+ABF DFJQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 whip
+0 0 0 0 0
+A
+6 6 6 6
+AEFHNOU ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1606
+yellow vine~
+a {yy{Yello{yw v{Yin{ye{x~
+A {yy{Yello{yw v{Yin{ye{x is snaked around the ruins of a {Ds{wt{Wo{wn{De b{wu{Wildi{wn{Dg{x.
+~
+~
+unique~
+ABF DFJQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 whip
+0 0 0 0 0
+A
+6 6 6 6
+AEFHNOU ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1607
+speckled black vine~
+a {Db{yl{Da{yc{Dk v{yi{Dn{ye{x~
+Stuck to one of the stone walls is a {Ds{yp{De{yck{Dl{ye{Dd b{yl{Da{yc{Dk v{yi{Dn{ye{x.
+~
+~
+unique~
+ABF DFJQ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 whip
+0 0 0 0 0
+A
+6 6 6 6
+AEFHNOU ABbcd CL 0
+stand stand none 0
+0 0 medium 'unknown'
+#1608
+saldaean scout~
+a {bS{Ba{wl{Wda{we{Ba{bn{x {DS{wc{Wo{wu{Dt{x~
+A {Ds{wc{Wo{wu{Dt{x is checking the surrounding area for signs of trouble.
+~
+~
+saldaean~
+AGSW DFJPQ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+BEFJKNR ABbcd 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1609
+saldaean cavalryman~
+a {bS{Ba{wl{Wda{we{Ba{bn{x {DC{wav{Walry{wma{Dn{x~
+A {Dc{wav{Walry{wma{Dn{x is guiding his horse along the {Dr{yuine{Dd r{yoa{Dd{x.
+~
+~
+saldaean~
+AGTW DFJ 0 0
+100 95 51d52+10000 100d10+100 11d11+50 charge
+0 0 0 0 0
+A
+7 7 7 7
+CFILR ABbcd 0 0
+stand stand male 100
+0 0 medium 'unknown'
+#1610
+slimy leech~
+a {Ds{wli{Wmy le{wec{Dh{x~
+A {Ds{wli{Wmy le{wec{Dh{x is here, awaiting its next meal.
+~
+~
+unique~
+AB DFJQd 0 0
+85 75 43d43+7225 85d10+100 9d14+42 suction
+0 0 0 0 0
+A
+5 5 5 5
+0 ABbcd CL 0
+stand stand none 0
+G F tiny 'unknown'
+#1611
+swarm bitemes~
+a swarm of {rb{Di{wtem{De{rs{x~
+A swarm of {rb{Di{wtem{De{rs{x is hovering over the murky waters of the {yr{cive{yr{x.
+~
+~
+centipede~
+AFGW DFJT 0 0
+85 75 43d43+7225 85d10+100 9d14+42 bite
+0 0 0 0 0
+A
+5 5 5 5
+F ABbcd CL 0
+stand stand none 0
+0 P tiny 'unknown'
+F aff Z
+#1612
+darkhound~
+a {Dda{rr{Rkho{ru{Dnd{x~
+A {Dda{rr{Rkho{ru{Dnd{x sniffs at the ground as it hunts for something or someone.
+~
+~
+dog~
+AB DFJc -100 0
+100 100 56d57+12100 110d10+100 12d12+55 bite
+0 0 0 0 0
+A
+-5 -5 -5 -5
+ACDFQW ABbcd CL 0
+stand stand either 0
+0 0 large 'unknown'
+#1613
+ram trolloc horned~
+a {Wr{wa{Wm{x-horned {yt{Dr{woll{Do{yc{x~
+A horned-{yt{Dr{woll{Do{yc{x snarls angrily as it entangles itself in some {gv{Gine{gs{x.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 91 51d51+10201 101d10+100 11d12+50 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1614
+goat trolloc hoofed~
+a {Dg{wo{Wat{x-horned {yt{Dr{woll{Do{yc{x~
+A {yt{Dr{woll{Do{yc{x with hoofed feet trudges its way through the {Dv{gegetatio{Dn{x.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1615
+boar trolloc tusks~
+a {yb{Doa{yr{x-tusked {yt{Dr{woll{Do{yc{x~
+A {yt{Dr{woll{Do{yc{x with tusks looks lost as it blunders through the area.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 91 51d51+10201 101d10+100 11d12+50 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1616
+hawk trolloc beady eyed~
+a {yh{wa{Ww{wk{x-billed {yt{Dr{woll{Do{yc{x~
+A beady-eyed {yt{Dr{woll{Do{yc{x glares around itself as it moves through the {Dj{gu{Gng{gl{De{x.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 91 51d51+10201 101d10+100 11d12+50 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1617
+wolf trolloc hulking~
+a {Dw{wol{Df{x-muzzled {yt{Dr{woll{Do{yc{x~
+A hulking {yt{Dr{woll{Do{yc{x stops to sniff the {Ca{Wi{Cr{x as it hunts.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1618
+pale skinned man fade myrddraal~
+a {Dmyrddraal{x~
+A {wp{Wal{we-s{Wkinne{wd{x {wm{Wa{wn{x appears to be searching for something amongst the {rr{Du{wi{Dn{rs{x.
+~
+~
+fade~
+AGTW DJc -100 0
+100 95 53d53+11025 105d10+100 11d16+52 punch
+0 0 0 0 0
+A
+-5 -5 -5 -5
+ACDEFGHIJKNOQR ABbcd C 0
+stand stand male 0
+0 0 large 'unknown'
+F aff F
+F res L
+#1619
+silhouette draghkar~
+a {Ddr{wa{Wgh{wk{Dar{x~
+An oddly-shaped {Dsilhouette{x streaks across the sky.
+~
+~
+andoran~
+AFGSW DFJPQTc -100 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+AFHJKNQ ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1620
+tattered clothing man runaway darkfriend~
+a {mr{runawa{my{x {DDarkfriend{x~
+Cowering behind the {Dr{wu{Wbb{wl{De{x is a man dressed in {mt{rattere{md c{rlothin{mg{x.
+~
+~
+andoran~
+ABS DFJPQ 0 0
+100 95 53d53+11025 105d10+100 11d16+52 punch
+0 0 0 0 0
+A
+-2 -2 -2 -2
+ABEFJKN ABbcd CL 0
+stand stand male 100
+0 0 medium 'unknown'
+#1621
+twig insect stick~
+a {DS{ytic{Dk{x~
+A small {Dt{ywi{Dg-l{yik{De{x insect is crawling along a branch on a nearby {Dt{gre{De{x.
+~
+~
+centipede~
+AGW DFJPQ 0 0
+85 75 43d43+7225 85d10+100 9d14+42 bite
+0 0 0 0 0
+A
+5 5 5 5
+F ABbcd CL 0
+stand stand either 0
+0 0 tiny 'unknown'
+F aff Z
+#1622
+stray trolloc~
+a stray {yt{Dr{woll{Do{yc{x~
+A stray {yt{Dr{woll{Do{yc{x is here rampaging through the {Db{gli{Ggh{gte{Dd j{gu{Gng{gl{De{x.
+~
+~
+trolloc~
+AGTW DFJ -100 0
+100 93 52d52+10609 103d10+100 11d14+51 punch
+0 0 0 0 0
+A
+-2 -2 -2 -2
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1623
+darkhound~
+a {Dda{rr{Rkho{ru{Dnd{x~
+A {Dda{rr{Rkho{ru{Dnd{x has drifted away from its pack and is prowling around this area.
+~
+~
+dog~
+AFGW DFJc -100 0
+100 100 56d57+12100 110d10+100 12d12+55 bite
+0 0 0 0 0
+A
+-5 -5 -5 -5
+ACDFQW ABbcd CL 0
+stand stand either 0
+0 0 large 'unknown'
+#1624
+lone raven~
+a lone {Draven{x~
+A lone {Draven{x peers precariously around itself as it is perched upon an overhanging {yr{woc{yk{x.
+~
+~
+song bird~
+AB DFJ 0 0
+80 70 41d42+6400 80d10+100 9d9+40 peck
+0 0 0 0 0
+A
+5 5 5 5
+0 ABbcd CL 0
+stand stand either 0
+0 0 small 'unknown'
+#1625
+lone raven~
+a sly {Draven{x~
+A sly {Draven{x peers intently from its perch high on the {Db{yranc{Dh{x of a tree.
+~
+~
+song bird~
+AB DFJ 0 0
+80 70 41d42+6400 80d10+100 9d9+40 peck
+0 0 0 0 0
+A
+5 5 5 5
+0 ABbcd CL 0
+stand stand either 0
+0 0 small 'unknown'
+#1626
+green snake~
+a {gg{Gree{gn s{Gnak{ge{x~
+A {gg{Gree{gn s{Gnak{ge{x slithers through the densely packed undergrowth.
+~
+~
+snake~
+AB DFJPQ 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+5 5 5 5
+R ABbcd C 0
+stand stand either 0
+0 0 small 'unknown'
+F res L
+#1627
+hawk trolloc archer~
+a {yh{wa{Ww{wk{x-billed {yt{Dr{woll{Do{yc{x~
+A {yt{Dr{woll{Do{yc{x {ra{Drche{rr{x is fast asleep in one of the {Dw{yat{wchtow{yer{Ds{x.
+~
+~
+trolloc~
+AFGTW DFJ -100 0
+100 91 51d51+10201 101d10+100 11d12+50 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+sleep sleep male 0
+0 0 large 'unknown'
+#1628
+tall black horse~
+a {Dtall black horse{x~
+A {Dtall black horse{x has been tethered to a {ywooden hitching post{x beside the {wb{Dlac{wk c{Danva{ws {x{wt{Den{wt{x.
+~
+~
+dog~
+AB DFJ -100 0
+90 80 46d47+8100 90d10+100 10d10+45 charge
+0 0 0 0 0
+A
+3 3 3 3
+FI ABbcd CL 0
+stand stand either 0
+0 0 large 'unknown'
+#1629
+dark hooded figure dreadlord~
+a {DDreadlord{x~
+A {Ddark hooded figure{x is sitting cross-legged beside the {wb{Dlac{wk c{Danva{ws t{Den{wt{x.
+~
+~
+amadician~
+ABFQ FJVc -100 0
+100 95 53d53+11025 105d10+100 11d16+52 punch
+50 75 200 150 25
+A
+-2 -2 -2 -2
+EFJKNQ ABbcd CL 0
+sit sit male 150
+0 0 medium 'unknown'
+#1630
+prisoner~
+a {cp{wr{Wison{we{cr{x~
+A {cp{wr{Wison{we{cr{x has been gagged and bound to a {Dw{yoode{Dn p{yos{Dt{x that is stuck in the ground.
+~
+~
+saldaean~
+ABS DFJOY 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+F ABbcd 0 0
+sit sit either 0
+0 0 medium 'unknown'
+#1631
+scrawny trolloc~
+a scrawny {yt{Dr{woll{Do{yc{x~
+A scrawny-looking {yt{Dr{woll{Do{yc{x is adding more fuel to the fire beneath the {Dc{wookin{Dg p{wo{Dt{x.
+~
+~
+trolloc~
+ABFHT DFJ 0 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1632
+slobbering trolloc~
+a slobbering {yt{Dr{woll{Do{yc{x~
+Crouched next to the {cp{wr{Wisone{wr{cs{x is a slobbering {yt{Dr{woll{Do{yc{x sharpening an {Da{wx{We{x.
+~
+~
+trolloc~
+ABFT DFJ 0 0
+100 91 51d51+10201 101d10+100 11d12+50 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1633
+pale skinned man fade myrddraal~
+a {Dmyrddraal{x~
+A {wp{Wal{we-s{Wkinne{wd m{Wa{wn{x dressed in black is preoccupied with saddling the {Dhorse{x.
+~
+~
+fade~
+ABFT DJ -100 0
+100 95 53d53+11025 105d10+100 11d16+52 punch
+0 0 0 0 0
+A
+-5 -5 -5 -5
+ACDEFGHIJKNOQR ABbcd C 0
+stand stand male 0
+0 0 large 'unknown'
+F aff F
+F res L
+#1634
+wolf trolloc aggressive~
+a {Dw{wol{Df{x-muzzled {yt{Dr{woll{Do{yc{x~
+A particularly aggressive {yt{Dr{woll{Do{yc{x lashes out at its comrades.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1635
+ram trolloc greedy~
+a {Wr{wa{Wm{x-horned {yt{Dr{woll{Do{yc{x~
+A greedy {yt{Dr{woll{Do{yc{x scours the campsite for leftover scraps of food.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 91 51d51+10201 101d10+100 11d12+50 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1636
+boar trolloc angry~
+a {yb{Doa{yr{x-tusked {yt{Dr{woll{Do{yc{x~
+An angry-looking {yt{Dr{woll{Do{yc{x growls as it bears its sharp teeth.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-2 -2 -2 -2
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1637
+slimy beast~
+a {Ds{gl{Gimy bea{gs{Dt{x~
+A {Ds{gl{Gimy bea{gs{Dt{x is slithering through the murky {cr{yive{cr{x.
+~
+~
+unique~
+ABF DFJPQ -100 0
+100 95 53d53+11025 105d10+100 11d16+52 bite
+0 0 0 0 0
+A
+-5 -5 -5 -5
+EFHNOQR ABbcd CL 0
+stand stand either 0
+AGQ ADEFKQV large 'unknown'
+#1638
+long tentacle~
+a {Dl{go{Gng tentac{gl{De{x~
+A {Dl{go{Gng tentac{gl{De{x lashes out from the watery depths.
+~
+~
+unique~
+AB DFJ -100 0
+100 91 51d51+10201 101d10+100 11d12+50 whip
+0 0 0 0 0
+A
+-1 -1 -1 -1
+EHNOQR ABbcd CL 0
+stand stand none 0
+AGQ 0 large 'unknown'
+#1639
+venomous spider~
+a {Dv{re{Rnomo{ru{Ds s{rp{Rid{re{Dr{x~
+A {Ds{rp{Rid{re{Dr{x scurries along the ground.
+~
+~
+centipede~
+AGY DFJPQ 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+5 5 5 5
+0 ABbcd CL 0
+stand stand either 0
+0 0 tiny 'unknown'
+F aff Z
+#1640
+sickly bat~
+a {Ds{wic{Wkly-look{win{Dg{x {Wb{wa{Dt{x~
+A {Ds{wic{Wkly-look{win{Dg{x {Wb{wa{Dt{x hangs upside-down from the tunnel's ceiling.
+~
+~
+bat~
+AGY DFJ 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+5 5 5 5
+0 ABbcd CL 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+#1641
+bear trolloc scars scarred~
+a {Db{we{Wa{Dr{x-faced {yt{Dr{woll{Do{yc{x~
+A mass of {rs{Rc{ra{Rr{rs{x mar the face and body of this huge {yt{Dr{woll{Do{yc{x.
+~
+~
+trolloc~
+AFGHTW DFJ -100 0
+100 93 52d52+10609 103d10+100 11d14+51 punch
+0 0 0 0 0
+A
+-3 -3 -3 -3
+ACDEFHIJKNOQR ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#1642
+silhouette draghkar~
+a {Ddr{wa{Wgh{wk{Dar{x~
+An oddly-shaped {Dsilhouette{x can be seen soaring high above the canopy of the {Db{gli{Ggh{gte{Dd{x {Dj{gu{Gng{gl{De{x.
+~
+~
+andoran~
+AFGSW DFJPQTc -100 0
+100 92 52d53+10404 102d10+100 11d13+51 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+AFHJKNQ ABbcd CL 0
+stand stand male 0
+0 0 large 'unknown'
+#0
+
+
+
+#OBJECTS
+#1600
+longsword sword serpentine blade~
+a {Dl{won{Wgsw{wor{Dd{x with a {Ds{yer{wpent{yin{De{x {Db{wl{Wa{wd{De{x~
+A longsword with a serpentine blade has been left here.~
+steel~
+weapon 0 AN
+sword 10 15 'slash' 0
+90 5 300 100
+A
+18 4
+A
+19 2
+#1601
+dagger serpentine blade~
+a dagger with a {Ds{yer{wpent{yin{De{x {Db{wl{Wa{wd{De{x~
+A dagger with a serpentine blade has been left here.~
+steel~
+weapon K AN
+dagger 10 15 'stab' 0
+90 2 300 100
+A
+19 4
+A
+18 2
+#1602
+dull steel helmet~
+a {Dd{wu{Wl{wl{D s{wte{We{wl{D h{welm{We{wt{x~
+A dull steel helmet has been left here.~
+steel~
+armor 0 AE
+28 28 28 6 0
+90 3 300 100
+A
+17 -10
+A
+13 40
+A
+12 40
+#1603
+short gray coat~
+a {Ds{whor{Dt g{wra{Dy c{woa{Dt{x~
+A short gray coat has been left here.~
+wool~
+armor S AD
+28 28 28 6 0
+90 4 60 100
+A
+13 20
+A
+12 20
+A
+18 1
+A
+19 1
+A
+5 2
+#1604
+high gray collar~
+a {Dh{wig{Dh g{wra{Dy c{wolla{Dr{x~
+A high gray collar has been left here.~
+wool~
+armor KS AC
+28 28 28 6 0
+90 1 60 100
+A
+18 2
+A
+19 2
+A
+4 1
+A
+5 1
+#1605
+baggy black trousers~
+a pair of {Dbaggy black trousers{x~
+A pair of baggy black trousers has been left here.~
+wool~
+armor KS AF
+28 28 28 6 0
+90 5 60 100
+A
+1 3
+A
+2 3
+#1606
+long gray cloak~
+a {Dl{won{Dg g{wra{Dy c{wloa{Dk{x~
+A long gray cloak has been left here.~
+wool~
+armor KS AK
+28 28 28 6 0
+90 5 60 100
+A
+17 -30
+#1607
+dull steel facebars~
+a set of {Dd{wu{Wl{wl{D s{wte{We{wl{D fa{wceb{War{ws{x~
+A set of dull steel facebars has been left here.~
+steel~
+armor K AV
+26 26 26 12 0
+90 1 300 100
+A
+17 -15
+A
+18 1
+A
+19 1
+A
+1 1
+#1608
+wide leather bracer~
+a {Dw{yid{De l{yeathe{Dr b{yrace{Dr{x~
+A wide leather bracer has been left here.~
+leather~
+armor S AM
+23 23 23 21 0
+90 1 100 100
+A
+4 1
+A
+3 1
+A
+5 1
+A
+1 1
+A
+2 1
+A
+17 -5
+#1609
+wide leather belt~
+a {Dw{yid{De l{yeathe{Dr b{yel{Dt{x~
+A wide leather belt has been left here.~
+leather~
+armor KS AL
+23 23 23 21 0
+90 1 85 100
+A
+13 20
+A
+12 20
+A
+18 1
+A
+19 1
+A
+5 1
+A
+4 1
+#1610
+knotted piece silver cord~
+a {Dk{wnott{Wed p{wiec{De{x of {Ds{wilv{Wer c{wor{Dd{x~
+A knotted piece of silver cord has been left here.~
+cloth~
+armor KS 0
+23 23 23 21 0
+90 1 45 100
+A
+18 6
+#1611
+knotted piece golden cord~
+a {yk{Ynott{Wed p{Yiec{ye{x of {yg{Yold{Wen c{Yor{yd{x~
+A knotted piece of golden cord has been left here.~
+cloth~
+armor KS AI
+23 23 23 21 0
+90 1 45 100
+A
+19 6
+#1612
+leather riding boots~
+a pair of {Dl{yeathe{Dr r{yidin{Dg b{yoot{Ds{x~
+A pair of leather riding boots has been left here.~
+leather~
+armor S AG
+23 23 23 21 0
+90 3 85 100
+A
+17 -30
+#1613
+leather riding gloves~
+a pair of {Dl{yeathe{Dr r{yidin{Dg g{ylove{Ds{x~
+A pair of leather riding gloves has been left here.~
+leather~
+armor KS AH
+23 23 23 21 0
+90 1 85 100
+A
+17 -30
+#1614
+darkhounds fang metallic~
+a {Dda{rr{Rkho{ru{Dnd{x's {wf{Wa{wn{Dg{x~
+Something with a metallic gleam has been left here.~
+unknown~
+armor Yb AO
+23 23 23 21 0
+90 1 0 100
+A
+19 5
+A
+18 5
+#1615
+pawprints flagstones~
+some {Dpa{rw{Rpri{rn{Dts{x~
+The {Dpa{rw{Rpri{rn{Dts{x of a huge dog-like animal are imbedded into some of the {Df{wl{Wagston{we{Ds{x.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+pawprints flagstones~
+The {Dpa{rw{Rpri{rn{Dts{x of a huge dog-like animal are imbedded into some of the
+{Df{wl{Wagston{we{Ds{x.  There is also a faint odor of {ys{Yulfu{yr{x in the air.  
+~
+#1616
+large rusty iron key~
+a {yl{Da{wr{Dg{ye r{Du{ws{Dt{yy{x {yi{Dr{wo{Dn{w k{De{yy{x~
+A large rusty iron key has been left here.~
+iron~
+key Pa A
+0 0 0 0 0
+90 0 0 100
+#1617
+treasure chest~
+a {yt{Dr{yeasu{Dr{ye c{Dh{ye{Ds{yt{x~
+There is a {yt{Dr{yeasu{Dr{ye c{Dh{ye{Ds{yt{x buried beneath the {Ds{wt{Wone rubb{wl{De{x.~
+wood~
+container Sa P
+500 ABCD 1616 500 100
+90 0 0 100
+#1618
+sack golden coins~
+a {ysack{x of {yg{Yo{Wld{Ye{yn c{Yo{Wi{Yn{ys{x~
+A sack of coins has been left here.~
+gold~
+money 0 A
+0 500 0 0 0
+90 10 0 100
+#1619
+sack silver coins~
+a {ysack{x of {Ds{wi{Wlv{we{Dr c{wo{Wi{wn{Ds{x~
+A sack of coins has been left here.~
+silver~
+money 0 A
+2500 0 0 0 0
+90 10 0 100
+#1620
+leather trousers~
+a pair of {Dl{yeathe{Dr t{yrouser{Ds{x~
+A pair of leather trousers has been left here.~
+leather~
+armor KS AF
+22 22 22 24 0
+90 6 85 100
+A
+17 -15
+A
+2 1
+A
+1 1
+A
+5 1
+#1621
+leather boots~
+a pair of {Dl{yeathe{Dr b{yoot{Ds{x~
+A pair of leather boots has been left here.~
+leather~
+armor KS AG
+22 22 22 24 0
+90 3 85 100
+A
+17 -15
+A
+1 1
+A
+5 1
+A
+2 1
+#1622
+black chainmail tunic~
+a {wb{Dl{wa{Dc{wk{x {Dc{wh{Da{wi{Dn{wm{Da{wi{Dl {wt{Du{wn{Di{wc{x~
+A black chainmail tunic has been left here.~
+iron~
+armor K AD
+22 22 22 24 0
+90 6 250 100
+A
+17 -30
+#1623
+black chainmail sleeves~
+a set of {wb{Dl{wa{Dc{wk{x {Dc{wh{Da{wi{Dn{wm{Da{wi{Dl {ws{Dl{we{De{Wv{De{ws{x~
+A set of black chainmail sleeves has been left here.~
+iron~
+armor K AI
+22 22 22 24 0
+90 3 250 100
+A
+17 -30
+#1624
+leather bracer metal spikes~
+a {Dl{yeathe{Dr{x {Db{yrace{Dr{x adorned with {cm{De{wt{Da{cl s{Dp{wik{De{cs{x~
+A leather bracer has been left here.~
+leather~
+armor KS AM
+22 22 22 24 0
+90 2 100 100
+A
+2 3
+A
+1 3
+#1625
+scythe sword~
+a {ys{Dc{wyt{Dh{ye-{Dl{wi{Dk{ye s{Dwor{yd{x~
+A scythe-like sword has been left here.~
+steel~
+weapon 0 AN
+sword 10 15 'slash' F
+90 6 150 100
+A
+19 6
+#1626
+heavy spear~
+a {rh{De{wa{Dv{ry s{Dp{we{Da{rr{x~
+A heavy spear has been left here.~
+steel~
+weapon 0 AN
+spear 10 15 'stab' 0
+90 6 150 100
+A
+19 6
+#1627
+spiked battleaxe axe~
+a {cs{Dp{wik{De{cd b{Da{wttlea{Dx{ce{x~
+A spiked battleaxe has been left here.~
+steel~
+weapon 0 AN
+axe 10 15 'cleave' F
+90 6 150 100
+A
+19 6
+#1628
+long black cloak~
+a {Dlong black cloak{x~
+A long black cloak has been left here.~
+wool~
+armor KS AK
+22 22 22 24 0
+90 5 60 100
+A
+2 2
+A
+1 2
+A
+18 2
+A
+19 2
+#1629
+deep black cowl~
+a {Ddeep black cowl{x~
+A deep black cowl has been left here.~
+wool~
+armor KS AE
+22 22 22 24 0
+90 2 60 100
+A
+18 3
+A
+19 3
+A
+3 2
+#1630
+black leather boots~
+a pair of {Dblack leather boots{x~
+A pair of black leather boots has been left here.~
+leather~
+armor KS AG
+22 22 22 24 0
+90 3 100 100
+A
+17 -10
+A
+2 2
+A
+13 40
+#1631
+black leather trousers~
+a pair of {Dblack leather trousers{x~
+A pair of black leather trousers has been left here.~
+leather~
+armor KS AF
+22 22 22 24 0
+90 6 100 100
+A
+12 120
+#1632
+black leather bracer~
+a {Dblack leather bracer{x~
+A black leather bracer has been left here.~
+leather~
+armor KS AM
+22 22 22 24 0
+90 1 100 100
+A
+13 40
+A
+12 40
+A
+18 2
+A
+19 2
+#1633
+black leather whip~
+a {Dblack leather whip{x~
+A black leather whip has been left here.~
+leather~
+weapon KSb AN
+whip 10 15 'beating' 0
+90 1 100 100
+A
+18 4
+A
+19 4
+A
+17 -10
+#1634
+black leather belt~
+a {Dblack leather belt{x~
+A black leather belt has been left here.~
+leather~
+armor KS AL
+22 22 22 24 0
+90 1 100 100
+A
+17 -30
+#1635
+black armor overlapping scales~
+a set of {Dblack armor{x with {Doverlapping scales{x~
+A set of black armor has been left here.~
+steel~
+armor K AD
+22 22 22 24 0
+90 4 250 100
+A
+17 -30
+#1636
+black scalemail sleeves~
+a set of {Dblack scalemail sleeves{x~
+A set of black scalemail sleeves has been left here.~
+steel~
+armor K AI
+22 22 22 24 0
+90 8 250 100
+A
+17 -20
+A
+18 1
+A
+19 1
+#1637
+black bladed longsword sword~
+a {Dblack-bladed{x {Dlo{wng{Ws{wwo{Drd{x~
+A black-bladed longsword has been left here.~
+steel~
+weapon 0 AN
+sword 10 15 'slash' F
+90 5 250 100
+A
+3 -2
+A
+18 4
+A
+19 4
+A
+1 2
+A
+2 2
+#1638
+black tunic~
+a {Dblack tunic{x~
+A black tunic has been left here.~
+wool~
+armor KS AD
+22 22 22 24 0
+90 3 60 100
+A
+18 2
+A
+19 2
+A
+13 20
+A
+12 20
+#1639
+black breeches~
+a pair of {Dblack breeches{x~
+A pair of black breeches has been left here.~
+wool~
+armor KS AF
+22 22 22 24 0
+90 5 60 100
+A
+2 1
+A
+1 1
+A
+13 40
+A
+12 40
+#1640
+eerie shadows~
+{Deerie shadows{x~
+There are some eerie-looking shadows here.~
+unknown~
+armor KS AQ
+22 22 22 24 0
+90 0 0 100
+A
+18 3
+A
+19 3
+A
+17 -20
+#1641
+dark oaken staff ravens~
+a {rd{Dar{rk o{Dake{rn s{Dtaf{rf{x engraved with {Dravens{x~
+A dark oaken staff has been left here.~
+wood~
+weapon S AN
+staff 10 15 'smash' F
+90 8 300 100
+A
+18 3
+A
+19 3
+A
+17 -20
+#1642
+thick red headband~
+a {rthick red headband{x~
+A thick red headband has been left here.~
+cloth~
+armor KS AE
+21 21 21 27 0
+90 1 45 100
+A
+3 3
+A
+4 3
+#1643
+twisted rope belt~
+a {yt{ww{Wist{we{yd r{wo{Wpe be{wl{yt{x~
+A twisted rope belt has been left here.~
+cloth~
+armor KS AL
+21 21 21 27 0
+90 1 45 100
+A
+13 60
+A
+12 60
+#1644
+tattered red breeches~
+{rtattered red breeches{x~
+A pair of tattered red breeches has been left here.~
+cloth~
+armor KS AF
+21 21 21 27 0
+90 3 45 100
+A
+5 3
+A
+1 3
+#1645
+hoop earring silver~
+a {Dh{wo{Wo{wp{D e{wa{Wr{wri{Wn{wg{x made of {Ds{wi{Wl{wv{We{wr{x~
+A hoop earring has been left here.~
+silver~
+armor K AU
+21 21 21 27 0
+90 1 250 100
+A
+5 1
+A
+4 1
+A
+3 1
+A
+2 1
+A
+1 1
+A
+17 -5
+#1646
+plain band silver~
+a {Dp{wla{Wi{wn{D b{wa{Wn{wd{x made of {Ds{wi{Wl{wv{We{wr{x~
+A plain band has been left here.~
+silver~
+armor K AB
+21 21 21 27 0
+90 1 250 100
+A
+18 2
+A
+19 2
+A
+17 -10
+#1647
+plain chain silver~
+a {Dp{wla{Wi{wn{x {Dc{wha{Wi{wn{x made of {Ds{wi{Wl{wv{We{wr{x~
+A plain chain has been left here.~
+silver~
+armor K AC
+21 21 21 27 0
+90 1 250 100
+A
+18 5
+A
+19 5
+#1648
+stone marker~
+a {Ds{wt{Wo{wn{De m{wa{Wrk{we{Dr{x~
+A {Ds{wt{Wo{wn{De m{wa{Wrk{we{Dr{x is partially hidden amongst one of the clumps of {ybrown grass{x.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+clumps brown grass~
+A {Ds{wt{Wo{wn{De m{wa{Wrk{we{Dr{x is partially hidden amongst one of the clumps of {ybrown
+grass{x.  
+~
+E
+stone marker~
+A {Ds{wt{Wo{wn{De m{wa{Wrk{we{Dr{x is partially hidden amongst one of the clumps of {ybrown{x {y
+grass{x.  There is some engraving upon the {Ds{wt{Wo{wn{De m{wa{Wrk{we{Dr{x, much of it has
+weathered away but the name '{WB{Ya{Wrsi{Yn{We{x' remains clear.  
+~
+#1649
+cloth saldaean banner~
+a {bS{Ba{wl{Wda{we{Ba{bn{x {Wb{wa{Dn{Bne{br{x~
+A folded piece of cloth has been left here.~
+cloth~
+armor KS AQ
+21 21 21 27 0
+90 0 45 100
+A
+18 3
+A
+19 2
+A
+1 1
+#1650
+bloodied scar flesh~
+a {Db{rlo{Rodi{red s{Rc{ra{Dr{x~
+Eww! A piece of flesh has been left here.~
+flesh~
+armor KS AV
+21 21 21 27 0
+90 1 0 100
+A
+18 3
+A
+19 3
+A
+17 -15
+A
+1 1
+#1651
+pawprints flagstones~
+some {Dpa{rw{Rpri{rn{Dts{x~
+The {Dpa{rw{Rpri{rn{Dts{x of a huge dog-like animal are imbedded into some of the {rs{Dt{wo{Dn{re{w {x{rb{Dl{woc{Dk{rs{x.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+pawprints stone slabs~
+The {Dpa{rw{Rpri{rn{Dts{x of a huge dog-like animal are imbedded into some of the {rs{Dt{wo{Dn{re{w
+{x{rb{Dl{woc{Dk{rs{x.  There is also a faint odor of {ys{Yulfu{yr{x in the air.  
+~
+#1652
+darkhounds claw black large~
+a {Dda{rr{Rkho{ru{Dnd{x's {Dc{wla{Dw{x~
+A large black claw has been left here.~
+unknown~
+armor KSb AO
+21 21 21 27 0
+90 1 0 100
+A
+4 2
+A
+5 2
+A
+19 6
+#1653
+tattered brown cloak~
+a {Dt{yattere{Dd b{yrow{Dn c{yloa{Dk{x~
+A tattered brown cloak has been left here.~
+wool~
+armor KS AK
+28 28 28 6 0
+90 5 60 100
+A
+18 6
+#1654
+grubby eyepatch~
+a {yg{wr{Dub{wb{yy e{wye{Dpa{wtc{yh{x~
+A grubby eyepatch has been left here.~
+cloth~
+armor KS AV
+28 28 28 6 0
+90 1 45 100
+A
+18 2
+A
+5 2
+A
+19 2
+A
+4 2
+#1655
+human skull wooden stake~
+a {yh{wu{Wman sku{wl{yl{x placed on top of {yw{Do{yod{De{yn s{Dt{ya{Dk{ye{x~
+There is a {yh{wu{Wman sku{wl{yl{x placed on top of {yw{Do{yod{De{yn s{Dt{ya{Dk{ye{x which has been imbedded into ground beside the {cs{ytrea{cm{x.~
+wood~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+human skull wooden stake~
+There is a {yh{wu{Wman sku{wl{yl{x placed on top of {yw{Do{yod{De{yn s{Dt{ya{Dk{ye{x which has been
+imbedded into ground beside the {cs{ytrea{cm{x.  Painted onto the {yh{wu{Wman sku{wl{yl{x is a
+{rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x, the symbol for the {rK{Rno'mo{rn{x band of {yt{Dr{wollo{Dc{ys{x.  
+~
+#1656
+human skull wooden stake~
+a {yh{wu{Wman sku{wl{yl{x placed on top of {yw{Do{yod{De{yn s{Dt{ya{Dk{ye{x~
+There is a {yh{wu{Wman sku{wl{yl{x placed on top of {yw{Do{yod{De{yn s{Dt{ya{Dk{ye{x which has been imbedded into ground beside the {Dt{yrai{Dl{x.~
+wood~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+human skull wooden stake~
+There is a {yh{wu{Wman sku{wl{yl{x placed on top of {yw{Do{yod{De{yn s{Dt{ya{Dk{ye{x which has been
+imbedded into ground beside the {Dt{yrai{Dl{x.  Painted onto the {yh{wu{Wman sku{wl{yl{x is a
+{rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x, the symbol for the {rK{Rno'mo{rn{x band of {yt{Dr{wollo{Dc{ys{x.  
+~
+#1657
+flatbow bow~
+a {Df{ylatbo{Dw{x~
+A flatbow has been left here.~
+wood~
+weapon S AN
+bow 10 15 'thwack' F
+90 3 150 100
+A
+17 -10
+A
+19 3
+A
+18 3
+#1658
+barbed arrow~
+a {rb{ya{rr{yb{re{yd {Da{wr{Wr{wo{Dw{x~
+A barbed arrow has been left here.~
+wood~
+weapon 0 AO
+arrow 10 15 'pierce' 0
+90 0 8 100
+#1659
+black canvas tent~
+a {wb{Dlac{wk c{Danva{ws t{Den{wt{x~
+This {wb{Dlac{wk c{Danva{ws t{Den{wt{x stands out from the other more crudely constructed {Ds{yhelter{Ds{x.~
+canvas~
+furniture S P
+5 5000 CFIL 500 500
+0 0 0 100
+#1660
+blue metal band runes~
+a {cb{Cl{Wu{we{c m{Cet{Wa{wl{c b{Ca{Wn{wd{x engraved with {cr{Cu{wn{Ce{cs{x~
+A blue metal band has been left here.~
+metal~
+armor K AB
+28 28 28 6 0
+90 1 300 100
+A
+17 -50
+#1661
+blood red cowl~
+a {rb{Rloo{rd-r{Re{rd c{Row{rl{x~
+A blood-red cowl has been left here.~
+wool~
+armor KS AE
+27 27 27 9 0
+90 1 60 100
+A
+2 3
+A
+4 3
+#1662
+blood red cloak~
+a {rb{Rloo{rd-r{Re{rd c{Rloa{rk{x~
+A blood-red cloak has been left here.~
+wool~
+armor KS AK
+27 27 27 9 0
+90 4 60 100
+A
+1 3
+A
+5 3
+#1663
+huge cooking pot~
+a {Dc{wookin{Dg p{wo{Dt{x~
+A huge {Dc{wookin{Dg p{wo{Dt{x has been hung over a blazing {Df{ri{Rre p{ri{Dt{x.~
+iron~
+fountain 0 P
+10000 10000 'water' 0 0
+0 0 0 100
+#1664
+wolf fang earring~
+a {Dw{wo{Wlf fa{wn{Dg e{wa{Wrri{wn{Dg{x~
+An earring made from a wolf's fang has been left here.~
+unknown~
+armor KS AU
+27 27 27 9 0
+90 1 0 100
+A
+17 -5
+A
+1 1
+A
+2 1
+A
+5 1
+A
+3 1
+A
+4 1
+#1665
+ball light~
+a {Db{wa{Wll{x of {Wlig{wh{Dt{x~
+A ball of light hovers in the air.~
+light~
+light KS A
+0 0 5 0 0
+90 1 0 100
+A
+18 6
+#1666
+razor sharp barb~
+a {Dr{wa{Wzor-sha{wr{Dp b{war{Db{x~
+A razor-sharp barb has been left here.~
+unknown~
+weapon KSU AN
+exotic 10 15 'stab' 0
+90 1 0 100
+A
+19 3
+A
+18 3
+#1667
+leathery hide piece~
+a piece of {Dl{ge{Gathery hi{gd{De{x~
+A piece of leathery hide has been left here.~
+hide~
+armor KS AJ
+27 27 27 9 0
+90 6 0 100
+A
+18 5
+A
+17 -25
+#1668
+razor sharp claws~
+a set of {Dr{wa{Wzor-sha{wr{Dp{x {Dc{wl{Wa{ww{Ds{x~
+A set of razor-sharp claws has been left here.~
+unknown~
+armor KSb AH
+27 27 27 9 0
+90 1 0 100
+A
+1 3
+A
+2 3
+#1669
+hide buckler~
+a {yh{wi{Wd{we b{Wuckl{we{yr{x~
+A hide buckler has been left here.~
+hide~
+armor KS AJ
+25 25 25 15 0
+90 5 100 100
+A
+12 60
+#1670
+rubble debris~
+some {Dru{wbb{Wle{x and {Wde{wbr{Dis{x~
+The area at the base of the {Dwa{wtc{Wht{wow{Der{x is littered with {Dru{wbb{Wle{x and {Wde{wbr{Dis{x.~
+stone~
+container Sa P
+100 0 0 100 100
+0 0 0 100
+#1671
+horned helmet horns~
+a {Dh{yor{wne{Wd h{wel{yme{Dt{x~
+Left here is a helmet decorated with two large horns.~
+steel~
+armor 0 AE
+25 25 25 15 0
+90 4 300 100
+A
+4 3
+A
+13 60
+#1672
+large rock~
+a {Dl{war{Wg{we r{Wo{wc{Dk{x~
+There is nothing out of the ordinary about this large rock.~
+stone~
+weapon S AN
+exotic 9 14 'smash' 0
+85 3 0 100
+A
+19 10
+A
+18 -5
+#1673
+short sword~
+a {ys{wh{Wo{wr{Dt s{ww{Wo{wr{yd{x~
+The remnants of a {ys{wh{Wo{wr{Dt s{ww{Wo{wr{yd{x lie half-buried in the {ydirt{x.~
+steel~
+trash a P
+0 0 0 0 0
+0 0 0 100
+E
+short sword~
+The remnants of a {ys{wh{Wo{wr{Dt s{ww{Wo{wr{yd{x lie half-buried in the {ydirt{x.  There is
+nothing worth salvaging from the {ys{wh{Wo{wr{Dt s{ww{Wo{wr{yd{x.  
+~
+#1674
+stone statue~
+a {rs{Dt{wo{Dn{re s{Dt{wat{Du{re{x~
+On the north side of the street are the shattered remnants of a {rs{Dt{wo{Dn{re s{Dt{wat{Du{re{x which lie entangled with {gv{Gine{gs{x.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+stone statue~
+On the north side of the street are the shattered remnants of a {rs{Dt{wo{Dn{re
+s{Dt{wat{Du{re{x which lie entangled with {gv{Gine{gs{x.  The pieces of stone that litter the
+ground around the statue's plinth suggest that the statue was of a robed
+figure carrying a sword.  
+~
+#1675
+trolloc runes~
+some {yt{Dr{woll{Do{yc r{Du{wn{De{ys{x~
+{yT{Dr{woll{Do{yc r{Du{wn{De{ys{x have been painted onto the walls of a nearby {Db{wuildin{Dg{x.~
+paint~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+blood stained fist~
+The {rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x is the symbol for the {rK{Rno'mo{rn{x band of {yt{Dr{wollo{Dc{ys{x.  {w {x 
+~
+E
+trolloc runes~
+It is almost impossible to decipher the {yt{Dr{woll{Do{yc r{Du{wn{De{ys{x that have been
+painted onto the {Db{wuildin{Dg{x without the assistance of a scholar.  What is
+noticeable is that the image of a {rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x has been used a lot
+throughout the writings.  
+~
+#1676
+silver coin~
+a {Ds{wi{Wlve{wr c{Wo{wi{Dn{x~
+Something {Ds{wm{Wal{wl{x and {ws{Whi{wn{Dy{x is imbedded in the dirt beneath the {yundergrowth{x.~
+silver~
+money a A
+1 0 0 0 0
+0 0 0 100
+E
+silver coin~
+The {Ds{wi{Wlve{wr c{Wo{wi{Dn{x has been stamped with the crest of {yJ{Ya{Wrami{Yd{ye{x, one of the
+{DT{we{Wn{D Na{wti{Wons{x that existed during the {DT{yr{woll{yo{Dc W{wa{yr{Ds{x.  
+~
+E
+small shiny~
+The {Ds{wm{Wal{wl{x and {ws{Whi{wn{Dy{x object is a {Ds{wi{Wlve{wr c{Wo{wi{Dn{x.  
+~
+#1677
+mottled brown vines~
+some {ym{Dot{ytl{De{yd b{Dr{yo{Dw{yn v{Di{yn{De{ys{x~
+{yM{Dot{ytl{De{yd b{Dr{yo{Dw{yn v{Di{yn{De{ys{x have grown up and around the {Wg{wat{De{wwa{Wy{x.~
+flora~
+container Sa P
+100 0 0 100 100
+0 0 0 100
+#1678
+green berries handful~
+a handful of {gg{Gr{Ye{Ge{gn b{Ger{Yr{Gie{gs{x~
+A handful of green berries has been left here.~
+flora~
+food Sa A
+2 2 0 A 0
+0 1 0 100
+#1679
+abandoned stone structures~
+an {Da{wbandone{Dd s{wton{De s{wtructur{De{x~
+There is part of a {csteeply sloping roof{x still remaining over one of the {Da{wbandone{Dd s{wton{De {x{Ds{wtructure{Ds{x.~
+stone~
+furniture Sa P
+6 6000 CFIL 125 125
+0 0 0 100
+E
+steeply sloping roof~
+There is part of a {csteeply sloping roof{x still remaining over one of the
+{Da{wbandone{Dd s{wton{De {x{Ds{wtructure{Ds{x.  
+~
+#1680
+sturdy catchpole~
+a {ys{wt{Wur{wd{yy c{wa{Wtchpo{wl{ye{x~
+A sturdy catchpole has been left here.~
+steel~
+weapon 0 AN
+polearm 10 15 'slash' F
+90 6 150 100
+A
+17 -30
+#1681
+hide trousers~
+a pair of {yh{wid{ye{x {yt{wro{yus{wer{ys{x~
+A pair of hide trousers has been left here.~
+leather~
+armor KS AF
+28 28 28 6 0
+90 6 85 100
+A
+5 4
+A
+3 -2
+A
+1 2
+A
+2 2
+#1682
+rusty chainmail tunic~
+a {yr{wu{Ws{wt{yy c{wha{Winm{wai{yl t{wu{Wn{wi{yc{x~
+A rusty chainmail tunic has been left here.~
+iron~
+armor K AD
+28 28 28 6 0
+90 6 250 100
+A
+1 3
+A
+5 3
+A
+19 2
+A
+18 2
+A
+3 -2
+A
+4 -2
+#1683
+simple black cloth mask~
+a {Dblack cloth mask{x~
+A simple mask made of black cloth has been left here.~
+cloth~
+armor KS AV
+27 27 27 9 0
+90 1 45 100
+A
+5 6
+A
+2 5
+A
+1 5
+A
+4 -10
+#1684
+puddle blue ink strange symbols~
+{cs{Ct{Wran{Cg{ce s{Cy{Wmbo{Cl{cs{x crudely drawn in {cb{Clu{ce i{Cn{ck{x~
+A puddle of blue ink lies here.~
+ink~
+armor KSUY AR
+27 27 27 9 0
+90 0 0 100
+A
+19 3
+A
+18 3
+A
+12 100
+A
+13 100
+A
+3 -10
+#1685
+tree roots~
+a mass of {yt{wr{Wee roo{wt{ys{x~
+A mass of {yt{wr{Wee roo{wt{ys{x protrude from the surface of the ground.~
+flora~
+container Sa P
+100 0 0 10 100
+0 0 0 100
+#1686
+patch yellow mushrooms toadstools~
+some {ys{Yi{Wckly-yell{Yo{yw m{Yu{Wshro{Yom{ys{x~
+A patch of {ys{Yi{Wckly-yell{Yo{yw m{Yu{Wshro{Yom{ys{x grows here.~
+flora~
+food S A
+2 2 0 A 0
+0 1 0 100
+#1687
+spiked plated gauntlets spikes~
+a pair of {Ds{wp{Wik{we{Dd g{wau{Wntl{wet{Ds{x~
+This is a set of plated gauntlets that have been adorned with spikes.~
+steel~
+armor K AH
+27 27 27 9 0
+90 3 300 100
+A
+17 -30
+#1688
+bloodied images violence reddish haze~
+{Db{rl{Roodi{re{Dd i{rm{Rag{re{Ds{x of {Dv{ri{Rolen{rc{De{x~
+There is a reddish haze in the air.~
+light~
+armor KS AQ
+27 27 27 9 0
+90 0 0 100
+A
+19 6
+A
+18 6
+A
+3 -3
+A
+4 -3
+#1689
+trollocs skull~
+a {yt{Dr{woll{Do{yc{x's {ws{Wkul{wl{x~
+There is a {yt{Dr{woll{Do{yc{x's {ws{Wkul{wl{x imbedded in the earth along the {Dr{yiverban{Dk{x.~
+bone~
+container Sa P
+10 0 0 1 100
+0 0 0 100
+#1690
+trollocs tooth~
+a {yt{Dr{woll{Do{yc{x's {wt{Woot{wh{x~
+A trolloc's tooth has been left here.~
+bone~
+armor S AO
+27 27 27 9 0
+90 1 0 100
+A
+19 6
+#1691
+rocky debris pile~
+a pile of {Dr{yo{wc{yk{Dy d{ye{wbr{yi{Ds{x~
+The ground around the base of the cliff is littered with {Dr{yo{wc{yk{Dy d{ye{wbr{yi{Ds{x.~
+stone~
+container Sa P
+100 0 0 100 100
+0 0 0 100
+#1692
+star pendant~
+a {Ds{wt{Wa{wr {Dp{we{Wnda{wn{Dt{x~
+Left here is a small silver pendant in the shape of a five-pointed star.~
+silver~
+armor 0 AC
+27 27 27 9 0
+90 1 300 100
+A
+5 6
+#1693
+blackened remains tree~
+the {Dr{we{Dmai{wn{Ds{x of a {Dt{yre{De{x~
+Imbedded in the ground beside the {ymuddy track{x are the {Db{wl{Dacken{we{Dd r{we{Dmai{wn{Ds{x of a {Dt{yre{De{x.~
+wood~
+container S P
+100 E 0 100 100
+0 0 0 100
+#1694
+charred branch~
+a {Dc{wh{Darr{we{Dd b{wr{Dan{wc{Dh{x~
+A charred branch has been left here.~
+wood~
+weapon SU AN
+mace 9 14 'smash' 0
+85 4 0 100
+A
+19 5
+#1695
+rusty helmet~
+a {yr{Du{wsty helm{De{yt{x~
+A {yr{Du{wsty helm{De{yt{x has been left abandoned at the roadside.~
+iron~
+trash a P
+0 0 0 0 0
+0 0 0 100
+E
+rusty helmet~
+A few pieces of {Di{wro{Dn{x are all that is left of this {yr{Du{wsty helm{De{yt{x.  
+~
+#1696
+crudely drawn trolloc runes puddle black ink~
+crudely drawn {yt{Dr{woll{Do{yc{x {yr{Du{wn{De{ys{x~
+A puddle of black ink lies here.~
+ink~
+armor KS AR
+27 27 27 9 0
+90 0 0 100
+A
+19 5
+A
+18 5
+A
+3 -4
+#1697
+shaggy black fur pile~
+some {Ds{wh{Dag{wg{Dy b{wl{Da{wc{Dk f{wu{Dr{x~
+A pile of shaggy black fur has been left here.~
+fur~
+armor KS AD
+27 27 27 9 0
+90 4 0 100
+A
+18 6
+#1698
+rusted remnants pick axe~
+a {yp{Di{wck a{Dx{ye{x~
+The rusted remnants of a {yp{Di{wck a{Dx{ye{x have been left here.~
+iron~
+trash a P
+0 0 0 0 0
+0 0 0 100
+E
+rusted remnants pick axe~
+The {yp{Di{wck a{Dx{ye{x is of no value or use anymore.  
+~
+#1699
+antique lantern old~
+an {ya{Yn{Wtiq{Yu{ye{x {yl{Ya{Wnte{Yr{yn{x~
+A very old {yl{Ya{Wnte{Yr{yn{x has been abandoned here.~
+brass~
+light a A
+0 0 5 0 0
+90 1 100 100
+A
+4 6
+#1700
+black leather gloves~
+a pair of {Dblack leather gloves{x~
+A pair of black leather gloves has been left here.~
+leather~
+armor KS AH
+27 27 27 9 0
+90 1 100 100
+A
+19 2
+A
+18 2
+A
+1 3
+A
+2 3
+#1701
+tattered banner blood stained~
+a {Db{rl{Ro{ro{Dd-s{rt{Rain{re{Dd{x {Db{ra{Rnn{re{Dr{x~
+Left here is a tattered banner covered in blood stains.~
+cloth~
+armor KS AQ
+25 25 25 15 0
+90 1 45 100
+A
+13 120
+#1702
+sharp tusk~
+a {Ds{wh{Warp {Dt{wu{Wsk{x~
+A sharp tusk has been left here.~
+tusk~
+armor KSb AO
+25 25 25 15 0
+90 1 0 100
+A
+5 1
+A
+1 5
+#1703
+heap old bones~
+a heap of {Do{wl{Wd{D b{wo{Wnes{x~
+There is a heap of {Do{wl{Wd{D b{wo{Wnes{x lying discarded by the perimeter wall of the encampment.~
+bone~
+container Sa P
+25 0 0 5 100
+0 0 0 100
+#1704
+human skull~
+a {yh{wu{Wman sku{wl{yl{x~
+A human skull has been discarded here.~
+bone~
+armor S AO
+25 25 25 15 0
+90 1 0 100
+A
+12 120
+#1705
+large speckled feather~
+a {Ds{yp{we{Wck{wl{ye{Dd f{ye{wa{Wt{wh{ye{Dr{x~
+A large speckled feather has been left here.~
+feather~
+armor KSb AO
+25 25 25 15 0
+90 1 0 100
+A
+1 3
+A
+2 3
+A
+19 3
+A
+18 3
+A
+4 -3
+A
+3 -3
+#1706
+branch tree~
+a branch of a nearby {Dt{yre{De{x~
+There are some squishy {rr{Re{rd f{Rrui{rt{x hanging from the branch of a nearby {Dt{yre{De{x.~
+wood~
+container Sa P
+100 E 0 100 100
+0 0 0 100
+#1707
+squishy red rotten fruit~
+some {Dr{ro{Rtten fru{ri{Dt{x~
+This fruit is red, round and rotting.~
+flora~
+food S A
+4 4 0 A 0
+0 1 0 100
+#1708
+crudely made banner~
+a {Db{ra{Rnn{re{Dr{x~
+Flying from the apex of the {wb{Dlac{wk c{Danva{ws t{Den{wt{x is a crudely-made {Db{ra{Rnn{re{Dr{x.~
+cloth~
+trash Sa P
+0 0 0 0 0
+0 0 45 100
+E
+crudely made banner~
+The banner consists of an image of a red, {rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x crudely
+stitched on to a piece of {Dblack cloth{x.  
+~
+E
+blood stained fist knomon symbol~
+The {rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x upon the crudely-made {Db{ra{Rnn{re{Dr{x is the symbol for the
+{rK{Rno'mo{rn{x band of {yt{Dr{wollo{Dc{ys{x.  
+~
+#1709
+crudely made banners~
+a {Db{ra{Rnn{re{Dr{x~
+Large, crudely-made {Db{ra{Rnne{rr{Ds{x have been hung from the tops of the {Dw{yat{wchtow{yer{Ds{x.~
+cloth~
+trash Sa P
+0 0 0 0 0
+0 0 45 100
+E
+crudely made banners~
+Each banner consists of an image of a red, {rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x crudely
+stitched on to a large sheet of {Dblack cloth{x.  
+~
+E
+blood stained fist knomon symbol~
+The {rb{Rloo{rd-s{Rtaine{rd f{Ris{rt{x upon the crudely-made {Db{ra{Rnne{rr{Ds{x is the symbol for the
+{rK{Rno'mo{rn{x band of {yt{Dr{wollo{Dc{ys{x.  
+~
+#1710
+battered buckler hide~
+a {yb{Da{wt{Wtered buck{wl{De{yr{x~
+Left here is a battered buckler made of hide.~
+hide~
+armor KS AJ
+25 25 25 15 0
+90 6 100 100
+A
+1 6
+#0
+
+
+
+#ROOMS
+#1600
+The Blight Border~
+Even without the {DBo{wrd{Werst{won{Des{x marking the border the edge of the Blight's
+border is both plainly visible and felt.  The green lands of the south
+abruptly give way to diseased and twisted landscapes corrupted by the Dark
+One.  Regardless of the time of year the air here is has an {Ci{Wc{Cy{x bite to it,
+a distinct difference to the tales of almost unbearable {rh{Rea{rt{x and humidity of
+the Blighted Lands.  
+~
+0
+BCV 22
+D0
+~
+~
+0 0
+0 0 1601
+S
+#1601
+Into the Blight~
+The steeply sloping hills would have made any attempt of travelling in
+this area difficult if it were not for the remnants of an old {yroad{x
+zigzagging through the desolate landscape.  There is very little of the
+road's original paving remains but the track does make it significantly
+easier to head towards the {Dmo{wun{Wt{wai{Dns{x that lie to the north.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1602
+D2
+~
+~
+0 0
+0 0 1600
+S
+#1602
+A Deserted Road~
+There are very little indications along this ancient road to suggest
+where it once led to, only the sight of {gg{Gree{gn h{Gill{gs{x along the southern
+horizon and mountainous peaks to the north.  A few of the road's original
+paving slabs remain although the road is now little more than a wide {ymuddy
+track{x scoring the hill's surface.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1603
+D3
+~
+~
+0 0
+0 0 1601
+S
+#1603
+A Steep Gradient~
+The remnants of a wide paved {yroad{x slope steeply at this point as it winds
+its way around the hilly landscape.  The skeletal-like remains of old {gs{yh{Dru{yb{gs{x
+that once grew along the roadside gradually crumble and splinter away into
+dust in the wind.  A sprawl of {gg{Gree{gn {x{gh{Gill{gs{x can be seen along the southern
+horizon and steep mountainous peaks are visible in the opposite direction
+although there are no direct routes from this point to either of the two
+places.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1604
+D3
+~
+~
+0 0
+0 0 1602
+S
+#1604
+A Steep Embankment~
+The old road is overshadowed by an embankment to the east.  There are loose
+{Dg{wra{Dy r{wock{Ds{x and clumps of brown grass jutting out of the bank's {ymuddy
+surface{x.  A lot of the road's original paving remains at this point; it was
+a wide thoroughfare used by heavy wheeled vehicles, maybe carts and wagons. 
+Alas there are no signs here to suggest where this road leads to in either
+direction.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1603
+D3
+~
+~
+0 0
+0 0 1605
+S
+#1605
+A Winding Road~
+This was once a grand road but all that remains now of the thoroughfare
+are a few worn paving slabs embedded in the {ydirt{x.  The view to the south is
+blocked by the steep hill around which this road winds whilst to the north
+is a vast mountain range whose jagged peaks resemble broken teeth.  Almost
+everything that can be seen from this point has been touched by the Dark
+One's corruption, from the {Dd{yea{Dd t{yree{Ds{x that still stand upon the hillside to
+the clumps of brown grass although the effects become more apparent
+westwards along the road.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1604
+D3
+~
+~
+0 0
+0 0 1606
+S
+#1606
+A Vast Plateau~
+This is vast plateau surrounded by hilly land that stretches out almost
+as far as the eye can see.  What was once a forest of fir trees growing in
+this area is now piles of fallen tree trunks, stripped bare of limbs and
+needles and left to rot.  A wide {yroad{x winds its way along the plateau
+although several {gr{yottin{gg t{yrunk{gs{x lay across it.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1605
+D3
+~
+~
+0 0
+0 0 1607
+S
+#1607
+A Vast Plateau~
+This area was once a large evergreen forest but now it is a tangled mess
+of fallen trees that have been left to {Dd{we{Dc{wa{Dy{x over many years.  New
+vegetation has sprouted up from beneath the {Dr{yottin{Dg t{yimbe{Dr{x, sickly yellowing
+shrubs mottled with black and brown flecks which add to the stanch of decay
+within this area.  The remnants of a road are still visible here although
+all that remains of it is a wide {ymuddy track{x scoring the surface of the
+earth.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1608
+D1
+~
+~
+0 0
+0 0 1606
+S
+#1608
+A Broken Bridge~
+This is the southern side of a {rb{Dr{wok{De{rn b{Dr{wid{Dg{re{x that once crossed a great
+river.  All that remains of the waterway is a slow moving stream tainted
+with brown sludge from decaying vegetation.  The bridge's stone abutments
+have been worn down significantly that they could almost be mistaken for
+natural rock formations apart from their reddish color that marks them out
+from the local {Dg{wra{Dy r{woc{Dk{x.  To the north lies the other end of the bridge but
+appears to be no way of reaching it from this point.  
+~
+0
+BCV 22
+D2
+~
+~
+0 0
+0 0 1607
+D5
+~
+~
+4096 4096
+0 0 1609
+S
+#1609
+A Muddy Embankment~
+This is a muddy river embankment located underneath the abutments of a
+{rb{Dr{wok{De{rn b{Dr{wid{Dg{re{x.  The other half of the bridge can be seen across the water to
+the north.  The water level of the river used to be much higher than it is
+now so much of the area is covered in sickly {yyellow vegetation{x.  The slow
+moving river looks like a thick goopy mixture of silt, rotting vegetative
+matter and water making it impossible to see how deep the river really is.  
+~
+0
+BCV 22
+D3
+~
+~
+4096 4096
+0 0 1610
+D4
+~
+~
+4096 4096
+0 0 1608
+S
+#1610
+The South Bank~
+This is the southern embankment of a slow moving river.  There is a
+strong stench of decaying vegetation in this area, both from the sludgy
+brown river and the sickly yellow flora that has infested the {ymuddy slopes{x
+flanking the waterway.  A {Dd{yea{Dd t{yre{De{x has fallen over across the river,
+providing a precarious route over the murky river.  The remnants of a {rb{Dr{wid{Dg{re{x
+can be seen nearby to the east, the ancient red masonry looks odd against
+its blight-riddled backdrop.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1611
+D1
+~
+~
+4096 4096
+0 0 1609
+S
+#1611
+A Makeshift Bridge~
+A long-dead tree provides a precarious route over the blighted river. 
+Although the river's current is slow, the agitated {Ds{wil{Dt{x and {yr{Do{ytti{Dn{yg d{De{ybr{Di{ys{x
+in the water makes it impossible to gauge the depth of the river or what
+creatures live there.  There are steep muddy embankments on either side of
+the river; both have amassed a tangled web of sickly twisted plant life.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1612
+D2
+~
+~
+0 0
+0 0 1610
+S
+#1612
+The North Bank~
+This is the northern embankment of a slow moving river.  The stench of
+rotting foliage is heightened by the warm and humid atmosphere around this
+area.  The main source of the smell is not the sickly undergrowth that grows
+around the river bank but the river itself that is a thick brown soup of
+{Ds{wil{Dt{x and decomposing plant life.  A {Dd{yea{Dd t{yre{De{x has fallen over across the
+river, providing a wobbly way over the cloudy waterway.  The remnants of a
+{rb{Dr{wid{Dg{re{x is visible nearby to the east, the ancient red masonry looks odd
+against its blight-riddled backdrop.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1613
+D2
+~
+~
+0 0
+0 0 1611
+S
+#1613
+A Muddy Embankment~
+This is a muddy river embankment located beneath the red stone abutments
+of a {rb{Dr{wok{De{rn b{Dr{wid{Dg{re{x.  A sprawl of {yyellowing vegetation{x has sprung up around
+the bridge and the embankment but the lay of the land suggest that the water
+level of the river was much higher than it is now.  The {Ds{wil{Dt{x and {Dr{gottin{Dg
+p{glant{Ds{x that pollutes the river makes the water look thick and goopy as well
+as disguises the truth depth of the river.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1612
+D4
+~
+~
+0 0
+0 0 1614
+S
+#1614
+A Broken Bridge~
+This is the northern side of a {rb{Dr{wok{De{rn b{Dr{wid{Dg{re{x that once spanned a great
+river.  All that is left of the waterway is a slow moving stream thick with
+agitated {Ds{wil{Dt{x and decaying plant matter.  Centuries seem to have taken their
+toll on the bridge's stone abutments for they are worn down until they could
+almost be mistaken for natural rock formations.  To the south lies the other
+end of the bridge but appears to be no direct route to it.  
+~
+0
+BCV 22
+D0
+~
+~
+0 0
+0 0 1615
+D5
+~
+~
+0 0
+0 0 1613
+S
+#1615
+Death and Decay~
+The remnants of a wide paved {yroad{x cuts its way through a landscape
+chocked by sickly yellow vines and mottled brambles.  All that remains of
+the road is a wide track scoring the ground, littered with old {rp{Da{wvi{Dn{rg
+s{Dt{won{De{rs{x.  The air is hot and humid making the stench of decay ever more
+apparent.  The remnants of a {rb{Dr{wid{Dg{re{x can be seen nearby to the south, a
+suggestion that this area was once populated by humans.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1616
+D2
+~
+~
+0 0
+0 0 1614
+S
+#1616
+A Fork in the Road~
+Here lies the remains of an ancient {yroad{x that winds its way through a
+diseased landscape of {yt{gwiste{yd t{gree{ys{x and blotchy undergrowth.  The muddy
+track forks at this point but there are no clues to suggest what lies down
+each route.  There is something unnatural about the trees that grow in this
+area, they seem more alive than normal trees and aware of their
+surroundings.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1617
+D1
+~
+~
+0 0
+0 0 1678
+D2
+~
+~
+0 0
+0 0 1615
+D3
+~
+~
+0 0
+0 0 1620
+S
+#1617
+A Tangled Mess~
+A few towering trees have escaped the choking effects of the {Dv{yine{Ds{x that
+proliferate through this area.  Despite the vines' domination over this area
+no plant is unscathed from the effects of the Dark One.  There is no
+greenery in sight in this jungle, just a tangled mass of shriveled yellowing
+plants mottled with red and brown patches.  Even the {Df{rr{yu{ri{Dt{x growing upon the
+trees is stunted and rotting whilst they hang.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1618
+D1
+~
+~
+0 0
+0 0 1619
+D2
+~
+~
+0 0
+0 0 1616
+S
+#1618
+Where the Sun Does Not Shine~
+The tangled mass of {Dt{gree{Ds{x and {Dv{yine{Ds{x grow very densely in this area of the
+Blight, blotting out the sky above and lashing out at anything that ventures
+within their domain.  A sickly sweet smell of decay comes from the trees
+where branches laden with {Df{mr{ru{mi{Dt{x have succumbed to the Dark One's influence. 
+The air is so hot and humid in this region that it would make to difficult
+for any normal person to comfortably breathe.  
+~
+0
+ABV 22
+D2
+~
+~
+0 0
+0 0 1617
+S
+#1619
+Twisted~
+The land and the plants and animals that dwell here are all twisted by
+the Dark One's evil.  A stench of {Dd{we{Dc{wa{Dy{x fills the air, not just from the
+rotting vegetation that lies upon the floor of this jungle-like area but
+from the trees themselves whose {Df{mr{ru{mi{Dt{x rot as they hang from their limbs. 
+Despite their sickly appearances, the {Dt{gree{Ds{x and {Dv{yine{Ds{x that grow in abundance
+in this area seem almost sentient as they whip and lash out at anything that
+tries to move past them.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1617
+S
+#1620
+Infestation~
+The blighted vegetation that suffocates this area has failed to prevail
+over this {yroad{x.  The road meanders its way around the tree-infested hillside
+along the gentlest of the slops.  It is difficult to gauge exactly how old
+this road is but the amount of weathering and erosion on the {rp{Da{wvi{Dn{rg s{Dt{won{De{rs{x
+it can be estimated that this route is more than a few centuries in age.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1616
+D4
+~
+~
+0 0
+0 0 1621
+S
+#1621
+The Hillside Road~
+The remains of an abandoned {yroad{x lie beneath the sickly yellow-brown
+undergrowth.  The weathering upon the stone paving slabs suggests that this
+road is hundreds of years old but it was well used in its day by narrow
+wheeled vehicles, probably carts and wagons.  The {Dt{gree{Ds{x that grow in this
+area are surprising tall for those tainted by the {DDark One's{x corruption and
+effectively screen this hillside road.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1622
+D5
+~
+~
+0 0
+0 0 1620
+S
+#1622
+A Road Unveiled~
+The remnants of ancient yet once well used {yroad{x winds its way up along a
+steep incline that is overgrown with vegetation.  The majority of the road's
+original paving which lies imbedded in the {Dd{yir{Dt{x is despite densely packed
+{gu{yndergrowt{gh{x in this area.  The plant life looks sickly and weak with much of
+it showing signs of discoloration and mottling.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1623
+D1
+~
+~
+0 0
+0 0 1621
+S
+#1623
+A Hidden Road~
+The sickly yellow vegetation that has taken over most of this area has
+failed to hide the remnants of an ancient road.  Large slabs of stone can be
+felt beneath the thick {gu{yndergrowt{gh{x, their deep ruts and groves suggest that
+this road was a well used one long ago.  No clues can be seen from this
+point to suggest where this road may lead to, or at least nothing can be
+seen amongst the {Dc{gor{Grup{gte{Dd j{gu{Gng{gl{De{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1624
+D2
+~
+~
+0 0
+0 0 1622
+S
+#1624
+A Steeply Sloping Ditch~
+Despite the thickly growing {Dj{gu{Gng{gl{De{x that has encompassed much of this area
+and concealing behind a sickly yellow veil of {yfoliage{x, the remnants of an
+ancient paved {yroad{x are visible and end abruptly at this steep sloping {yd{wi{Dt{wc{yh{x.
+The brown and red mottled undergrowth has spread so thickly within the ditch
+it has made it near impossible to gauge how deep it really is.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1623
+D5
+~
+~
+4096 4096
+0 0 1625
+S
+#1625
+Forgotten~
+A tangled mass of sickly yellow vines and mottled undergrowth as spreads
+along this face of what at first appears to be a steep hill.  There are
+signs of civilization even this far into the {DB{gl{yig{gh{Dt{x although what once lay
+here has now been forgotten over time.  Some ruins lay amongst the twisted
+{gvegetation{x, the jagged tooth-like remains of the foundations of a once great
+{rb{Dr{wid{Dg{re{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1626
+D4
+~
+~
+4096 4096
+0 0 1624
+S
+#1626
+No-man's-land~
+This point lies between what appears to be two steep hills, each one
+covered in a forest of {yblighted flora{x.  The sickly sweet stench of decay
+permeated the hot and humid air within the twisted jungle.  Signs of human
+or {DT{rr{woll{ro{Dc{x activity can be seen here as the remains of huge {rr{yu{wst{ye{rd s{yp{wik{ye{rs{x
+that appear to be the part of some form of defensive feature jut out amongst
+the vegetation.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1628
+D1
+~
+~
+4096 4096
+0 0 1627
+D2
+~
+~
+0 0
+0 0 1625
+S
+#1627
+A Narrow Gully~
+This is a narrow gulley almost completely shrouded in thick {yblighted
+vegetation{x that lies between two steep hills.  A trickle of {ybrownish water{x
+still flows here although the {DDark {x{DOne's{x touch upon the land has probably
+rendered this waterway undrinkable.  The vegetation becomes too thick to
+pass at this point in any direction other than westwards.  
+~
+0
+BV 22
+D3
+~
+~
+4096 4096
+0 0 1626
+S
+#1628
+The Blighted Jungle~
+The almost intoxicating reek of decaying vegetation hangs in the hot and
+humid air of this {Db{gli{Ggh{gte{Dd{x {Dj{gu{Gng{gl{De{x.  The land slopes steeply at this point,
+at the bottom of the hill are the remains of {rs{Dt{wo{Dn{re f{Do{wun{Dd{ra{Dt{wio{Dn{rs{x but very
+little can be seen what lies on the top of the hill through all the {ym{wo{yttl{we{yd
+v{we{ygetat{wio{yn{x.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1626
+D4
+~
+~
+4096 4096
+0 0 1629
+S
+#1629
+Decay~
+This is a large stretch of {Db{gli{Ggh{gte{Dd{x {Dj{gu{Gng{gl{De{x that appears to lie on the
+crest of a steep hill.  Both the trees and undergrowth that inhabits this
+region are sickly shades of yellow, green and brown with much of the
+fruiting {Dt{gree{Ds{x giving off a pungent stench of decay from the {Df{mr{ru{mi{Dt{x rotting
+on their boughs.  The remnants of a broad {yroad{x can be found here with large
+slabs of {rs{Dt{wo{Dn{re{x embedded deep into the earth, some of them bearing the marks
+of carts and wagons.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1630
+D5
+~
+~
+4096 4096
+0 0 1628
+S
+#1630
+The Southern City Gate~
+Towering {Dt{gree{Ds{x overshadow the remnants of a huge {Dc{wit{Wy g{wat{De{x.  What was
+once a great stone arch is now two {Db{wr{Wok{we{Dn p{wi{Wlla{wr{Ds{x that teeter on the brink
+of collapse.  The gate appears to form part of a much larger defensive
+feature as the jagged remains of dark gray stone walls stretch off to the
+east and two the west.  A broad {yroad{x that once led through the city gate now
+lies amongst the blighted {yundergrowth{x as the odd worn paving slab can be
+seen embedded deep into rocky earth.  
+~
+0
+AV 22
+D0
+~
+~
+0 0
+0 0 1631
+D2
+~
+~
+0 0
+0 0 1629
+S
+#1631
+A Deserted City~
+A few broken {rs{Dt{wo{Dn{re{x {rs{Dl{wa{Db{rs{x scarred with the rut marks of wagon wheels are
+all that remains of a grand avenue.  The area is choked up with {yt{gwiste{yd
+t{gree{ys{x and densely growing foliage that look sickly and stink of {Dd{we{Dc{wa{Dy{x.  The
+plant life growing in this area fails to conceal the remnants of large {Dg{wra{Dy
+s{wton{De b{wuilding{Ds{x flanking the thoroughfare although there is very little of
+these structures remaining to show what their original uses were.  To the
+south lie the remains of what was once an impressive {Dc{wit{Wy g{wat{De{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1632
+D2
+~
+~
+0 0
+0 0 1630
+S
+#1632
+The Veil of the Blight~
+Dense jungle-like {yundergrowth{x as almost entirely consumed the remains of
+a broad paved avenue that leads north/south.  Tall and twisted {yt{gree{ys{x tainted
+by the {DDark One's{x hold over the lands have grown up in and around the {Dg{wra{Dy
+s{wton{De{x husks of large buildings flanking the thoroughfare.  In the distance
+to the south are the remains of a large {Dg{wa{Wtew{wa{Dy{x that look like it is on the
+brink of collapsing in on itself.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1633
+D2
+~
+~
+0 0
+0 0 1631
+S
+#1633
+A Broken Street~
+This was once a busy street that teemed with traffic but all that remains
+of the thoroughfare are broken {rs{Dl{wa{Db{rs{x of {rs{Dt{wo{Dn{re{x embedded in dirt.  Blighted
+vegetation has tried to take over this area but has failed to take root
+because of the poor soil.  The empty {Dg{wra{Dy s{wton{De{x shells of once grand
+buildings stand forlornly as they flank the road.  To the south lie the
+remains of an avenue that leads to what was once an impressive {Dc{wit{Wy g{wat{De{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1640
+D2
+~
+~
+0 0
+0 0 1632
+D3
+~
+~
+0 0
+0 0 1634
+S
+#1634
+Empty Shells~
+The leafy yet mottled vegetation that usually seems so prevalent in the
+{DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x has failed to take root in much of this area.  The remnants
+of a wide road paved with {rs{Dt{wo{Dn{re{x can see seen here flanked by the broken and
+empty shells of old {Dg{wra{Dy s{wton{De b{wuilding{Ds{x.  The road follows the course of
+what was once a grand city wall although the structure is now just a few
+jagged remnants poking through thick blighted flora.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1635
+D1
+~
+~
+0 0
+0 0 1633
+S
+#1635
+A Fork in the Road~
+There are once grand buildings constructed from dark gray stone that lie
+in ruins surrounded by blighted {gv{yegetatio{gn{x and the jagged remnants of a {Dc{wit{Dy
+w{wal{Dl{x.  A wide {yroad{x that was once paved winds its way between the buildings
+although all that remains of the road are a few paving slabs implanted into
+the dirt.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 1636
+D2
+~
+~
+0 0
+0 0 1634
+D3
+~
+~
+0 0
+0 0 1641
+S
+#1636
+The Dark One's Advance~
+The uneven stumps of {Da{wncien{Dt b{wuilding{Ds{x lay half shrouded amongst a
+yellowish-brown {Dj{yu{wng{yl{De{x that stinks of rotting plant matter.  The remnants of
+a broad paved street cuts its way through the forested area, the deep rut
+marks in the {rs{Dl{wa{Db{rs{x of {rs{Dt{wo{Dn{re{x suggest that this was once a busy area that had
+a lot of heavy carts and wagons traversing it.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1637
+D2
+~
+~
+0 0
+0 0 1635
+S
+#1637
+Beyond the Trees~
+The air within this hot and humid jungle of blighted plant life is thick
+with the stench of decay as {Df{gr{yu{gi{Dt{x rots while it still grows upon the trees
+and bushes that dominate this area.  Poking precariously through the {Ds{yickly
+flor{Da{x are the remains of a city, clusters of {Dg{wra{Dy s{wton{De b{wuilding{Ds{x that flank
+a once grand thoroughfare.  In the distance to the north a large {Dg{wra{Dy s{wton{De{x
+{Ds{wtructur{De{x can be seen but it is difficult to tell exactly what it is from
+here through all of the trees.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1649
+D1
+~
+~
+0 0
+0 0 1638
+D3
+~
+~
+0 0
+0 0 1636
+S
+#1638
+Among the Trees~
+Ailing {yt{gree{ys{x and {Ds{yhrub{Ds{x have grown up inside and around the empty husks
+of dark {Dg{wra{Dy s{wton{De {x{Db{wuilding{Ds{x that border the remains of this once great
+thoroughfare.  All that remains of this road now are a few broken {rs{Dl{wa{Db{rs{x of
+{rs{Dt{wo{Dn{re{x embedded in hard packed earth.  Nothing stands out among the buildings
+in this vicinity for they all appear to have been shops or houses.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1639
+D3
+~
+~
+0 0
+0 0 1637
+S
+#1639
+The Great Lord's Embrace~
+A putrid odor of decaying vegetation appears to be coming from the
+densely populated plant life that has grown around some city ruins.  A
+{Db{wrok{Wen w{wal{Dl{x surrounds the empty stone husks of once inhabited buildings that
+flank a broad paved street.  Much of the stonework is covered with
+{Db{yrownis{Dh-y{yello{Dw v{yine{Ds{x that have been corrupted by the {DDark One's{x grasp over
+this land.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1638
+D1
+~
+~
+0 0
+0 0 1645
+D2
+~
+~
+0 0
+0 0 1640
+S
+#1640
+Isolation~
+This used to be a broad street that ran parallel to a tall city wall made
+of dark gray stone.  All that remains of the thoroughfare are a few paving
+slabs embedded deep within the dirt making gaps in the{g m{co{gttl{ce{gd v{ce{ggetati{co{gn{x
+that prevails here.  Part of the city wall remains visible although much of
+the jagged stone structure has been overgrown with {Ds{yp{De{yck{Dl{ye{Dd {x{Db{yl{Da{yc{Dk v{yi{Dn{ye{Ds{x.  On
+either side of the road are the empty gray stone shells of buildings that
+may have once been houses or possibly shops.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1639
+D3
+~
+~
+0 0
+0 0 1633
+S
+#1641
+Remnants of a Bygone Era~
+The remnants of shops, taverns and houses lie in ruins among a thick
+{Dj{gu{Gng{gl{De{x of blighted vegetation.  Some of the gray stone structures still bear
+signs of what led to their destruction for there still blackened {Dscorch
+marks{x in areas sheltered from the rain.  The air here is heavy with the
+repugnant odor of rotting vegetable matter as sickly-looking {Df{gr{yu{gi{Dt{x decays as
+fast as it grows upon the boughs of the trees.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1635
+D2
+~
+~
+4096 4096
+0 0 1642
+D3
+~
+~
+0 0
+0 0 1643
+S
+#1642
+An Empty Shell~
+Part of the gray stone walls and flagstone floors is all that remains of
+this building.  Brown vines from the surrounding {Df{yores{Dt{x have covered most of
+these ruins but a few stone surfaces remain visible.  There is a stench of
+{Dd{we{Dc{wa{Dy{x in the air that is coming from the peculiar {rr{Re{rd b{Rerrie{rs{x growing upon
+the {Dv{yine{Ds{x which are rotting where they hang.  
+~
+0
+BCDV 22
+D0
+~
+~
+4096 4096
+0 0 1641
+S
+#1643
+A Dead End?~
+What used to be a narrow paved street is now just a hard packed dirt
+track littered with a few broken {rs{Dl{wa{Db{rs{x of {rs{Dt{wo{Dn{re{x.  The empty husks of gray
+stone buildings marked what used to be the residents of some of the citizens
+who lived here although blackened {Dscorch marks{x hint that these structures
+came to a fiery and abrupt end.  The buildings were once overlooked by a
+tall {Dc{wit{Dy w{wal{Dl{x but all that remains of that structure is jagged pieces of
+stone poking through the {gm{co{gttl{ce{gd v{ce{ggetati{co{gn{x although one of the {Dwa{wtc{Whto{wwe{Drs{x
+at the west end of the road appears to be relatively intact.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1641
+D3
+~
+~
+4096 4096
+0 0 1644
+S
+#1644
+An Abandoned Watchtower~
+This was once a grand {Dwa{wtc{Wht{wow{Der{x built into the defensive wall that
+surrounded this ruined city.  All that remains of the entrance is a {Ds{wto{Wne{D
+{Warc{whwa{Dy{x but pieces of {rc{yorr{woded ir{yo{rn{x litter the ground beneath it hinting
+that perhaps the doorway was reinforced with metal.  The walls of this
+structure look sound despite the {Dsooty black marks{x streaking the surface of
+the stone.  The spiraling {Ds{wto{Wne stai{wrcas{De{x that leads to the upper level of
+the watchtower looks less stable.  
+~
+0
+BCDV 22
+D1
+~
+~
+4096 4096
+0 0 1643
+S
+#1645
+A Leafy Labyrinth~
+This was once a busy street overlooked by shops and houses but all that
+remains now are a few empty shells of {Dg{wra{Dy s{wton{De b{wuilding{Ds{x overgrown with
+sickly {yyellow foliage{x.  A few broken slabs of stone is all that remains of
+the highway as it follows parallel to a jagged {Ds{wton{De{x {Dw{wal{Dl{x that marks the
+perimeter of this abandoned settlement.  
+~
+0
+BV 22
+D0
+~
+~
+4096 4096
+0 0 1646
+D1
+~
+~
+0 0
+0 0 1647
+D3
+~
+~
+0 0
+0 0 1639
+S
+#1646
+The Rot Sets In...~
+Part of the gray stone walls and the stone-tiled floors is all that is
+left of this building.  Brown vines from the surrounding {Df{yores{Dt{x have covered
+most of these ruins but a few stone surfaces remain visible.  There is a
+stench of {Dd{we{Dc{wa{Dy{x in the air that is coming from the odd {rr{Re{rd b{Rerrie{rs{x growing
+upon the {Dv{yine{Ds{x which are rotting where they hang.  
+~
+0
+BCDV 22
+D2
+~
+~
+4096 4096
+0 0 1645
+S
+#1647
+A Glimpse of The Past~
+The {Db{gli{ygh{gte{Dd j{gu{yng{gl{De{x gives way to the remains of an ancient road that
+passes between the jagged dark gray stone remnants of buildings that were
+probably shops or houses.  The road runs parallel to a tall {Dc{wit{Wy w{wal{Dl{x that
+is in as equally a bad shape as the structures that it encircles.  The only
+structure within this vicinity that looks stable is a {Dwa{wtc{Wht{wow{Der{x that was
+built into the {Dc{wit{Wy w{wal{Dl{x down the east end of the road.  
+~
+0
+BV 22
+D1
+~
+~
+4096 4096
+0 0 1648
+D3
+~
+~
+0 0
+0 0 1645
+S
+#1648
+An Abandoned Watchtower~
+A broken {Dar{wche{Wd do{worw{Day{x leads into this {Dwa{wtc{Wht{wow{Der{x, one of several
+similar structures that probably existed on the boundaries of this city. 
+The stone looks old and weathered from centuries of exposure to the elements
+but there are some sheltered areas here that still bear the blackened {Dscorch
+marks{x of a fire.  There was once a spiraling stone {Dst{wai{Wr{wca{Dse{x but it is now a
+pile of rubble at the base of the tower leaving no safe route upwards to the
+top.  
+~
+0
+BCDV 22
+D3
+~
+~
+4096 4096
+0 0 1647
+S
+#1649
+An Overgrown Avenue~
+A few shattered paving slabs are all that remains of a once grand avenue.
+The area is choked up with gnarled trees and densely growing {yfoliage{x that
+look sickly and stink of {Dd{we{Dc{wa{Dy{x.  The {yvegetation{x growing in this area fails
+to hide the remnants of large {Dg{wra{Dy s{wton{De b{wuilding{Ds{x but there is very little
+of these structures remaining to indicate what their original purposes were.
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1650
+D2
+~
+~
+0 0
+0 0 1637
+S
+#1650
+An Overgrown Avenue~
+The {Db{gli{ygh{gte{Dd j{gu{yng{gl{De{x has failed to consume this once great city entirely. 
+Broken paving slabs embedded deep in the earth mark out the path of what
+used to be a wide avenue.  Tall {gtrees{x and bushy {yplants{x grow around and even
+out of the empty shells of {Dg{wra{Dy s{wton{De b{wuilding{Ds{x that border the
+thoroughfare.  In the distance to the north is a large {Dg{wra{Dy s{wton{De{x {Ds{wtructur{De{x
+but it is too difficult to tell exactly what the building was through all of
+the vegetation at this point.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1651
+D2
+~
+~
+0 0
+0 0 1649
+S
+#1651
+The Twisted Jungle~
+The air within this hot and humid jungle of blighted plant life reeks
+with the stench of {Dd{we{Dc{wa{Dy{x as {Df{gr{yu{gi{Dt{x rots while it still grows upon the trees
+and bushes.  Poking precariously through the ailing vegetation are the
+remains of an abandoned city with clusters of {Dg{wra{Dy s{wton{De b{wuilding{Ds{x flanking
+a once grand thoroughfare.  In the distance to the north parts of a great
+gray stone structure can be seen through the {Db{gli{ygh{gte{Dd{x {Df{go{yre{gs{Dt{x but it is
+tricky to tell exactly what the structure is.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1652
+D2
+~
+~
+0 0
+0 0 1650
+D3
+~
+~
+0 0
+0 0 1658
+S
+#1652
+A Forgotten Thoroughfare~
+Sickly-looking vegetation has grown up inside and around the empty husks
+of dark {Dg{wra{Dy s{wton{De b{wuilding{Ds{x that flank the remains of this once great road.
+All that remains of this thoroughfare now are a few broken {rs{Dl{wa{Db{rs{x of {rs{Dt{wo{Dn{re{x
+embedded in hard packed {yearth{x.  Nothing stands out among the buildings in
+this vicinity for they all appear to have been houses or shops.  In the
+distance to the north parts of a large gray stone structure can be seen
+through the {gflora{x but it is difficult to tell exactly what the structure is.
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1653
+D3
+~
+~
+0 0
+0 0 1651
+S
+#1653
+A Lost World~
+A putrid odor of decaying vegetation seems to be coming from the densely
+populated {Dp{gla{ynt l{gif{De{x that has grown around some city ruins.  A broken wall
+surrounds the empty {Dst{won{We h{wus{Dks{x of once inhabited buildings that flank a
+broad paved street.  Much of the stonework is covered with {Dy{yellowis{Dh-b{yrow{Dn
+v{yine{Ds{x that have been tainted by the {DDark One's{x grasp over this terrain.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1654
+D2
+~
+~
+0 0
+0 0 1652
+S
+#1654
+Which Way Now?~
+The broken remnants of {Da{wncien{Dt{x {Db{wuilding{Ds{x lay half shrouded amongst a
+brownish-yellow {Dj{gu{yng{gl{De{x that stinks of rotting plant matter.  The remnants of
+a broad paved street cuts its way through the forested area, the deep rut
+marks in the {rs{Dl{wa{Db{rs{x of {rs{Dt{wo{Dn{re{x suggest that this was once a busy area that had
+a lot of heavy carts and wagons traversing it.  In the distance to the north
+parts of a vast {Dg{wra{Dy s{wton{De{x {Ds{wtructur{De{x can be seen through the vegetation but
+it is difficult to tell exactly what the structure is.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1653
+D3
+~
+~
+0 0
+0 0 1655
+S
+#1655
+A Broken Road~
+The remnants of a once great street paved with stone now partially
+concealed beneath a blanket of {gundergrowth{x.  Thickly growing {ytrees{x have
+sprouted in and around the ruins of shops and houses.  North is a great {Dg{wra{Dy
+s{wton{De{x {Ds{wtructur{De{x that looks like the ruins of a fort.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1670
+D1
+~
+~
+0 0
+0 0 1654
+D3
+~
+~
+0 0
+0 0 1656
+S
+#1656
+Amid the Ruins~
+Ailing shrubs and trees have sprouted in and around the {De{wmpt{Wy h{wus{Dks{x of dark
+{Dg{wra{Dy s{wton{De b{wuilding{Ds{x that border the remains of this once great
+thoroughfare.  All that remains of this road now are a few shattered {rs{Dl{wa{Db{rs{x
+of {rs{Dt{wo{Dn{re{x firmly implanted in hard packed soil.  Not much stands out among
+the buildings along this road for they all appear to have been shops or
+houses.  Parts of a big {Dg{wra{Dy s{wton{De{x {Ds{wtructur{De{x can be seen through the
+{gvegetation{x to the north but it is difficult to tell what the building is
+from this point.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1655
+D2
+~
+~
+0 0
+0 0 1657
+S
+#1657
+Civilization amid the Chaos?~
+There are once grand buildings constructed from dark gray stone that lie
+in ruins surrounded by blighted {gvegetation{x and the jagged remnants of a {Dc{wit{Wy
+w{wal{Dl{x.  A wide road that was once paved winds its way between the buildings
+although all that remains of the road are a few paving slabs implanted into
+the {ydirt{x.  To the west lie the remains of what was once an impressive {Dc{wit{Wy
+g{wat{De{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1656
+D2
+~
+~
+0 0
+0 0 1658
+D3
+~
+~
+0 0
+0 0 1659
+S
+#1658
+As the Rot Sets In~
+The dilapidated husks of old buildings lay half hidden amongst a mottled
+jungle that stinks of {cr{Do{wtti{Dn{cg{x plant matter.  The remnants of a broad paved
+street cuts its way through the forested area, the deep rut marks in the
+{rs{Dl{wa{Db{rs{x of {rs{Dt{wo{Dn{re{x suggest that this was once a busy area that had a lot of
+heavy wagons and carts using it.  In the distance to the north parts of a
+big {Dg{wra{Dy s{wton{De{x {Ds{wtructur{De{x can be seen through the {yvegetation{x but it is
+difficult to tell exactly what the structure is.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1657
+D1
+~
+~
+0 0
+0 0 1651
+S
+#1659
+The Western City Gate~
+{yG{Dn{warled tre{De{ys{x loom over the shattered remains of what was once a {Dt{wa{Wll
+g{wat{De{x built into the walls that surrounded this abandoned city.  Some slabs
+still remain, marking the {yroad{x that once led through the gateway.  Thick
+vegetation lies on the west side of the gate while on the opposite side the
+{cf{goliag{ce{x gives way to more stone remains.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1657
+D3
+~
+~
+0 0
+0 0 1660
+S
+#1660
+A Broken Bridge~
+Big trees and dense scrub corrupted by the {DDark One's{x influence grow in
+abundance on this steep slope.  Some broken paving slabs scattered amongst
+the {yvegetation{x is all that is left of a road that was built here.  The road
+ends at the top of the hill where the remnants of a {Dw{wid{We br{widg{De{x crossing a
+{yd{Dry moa{yt{x; the bridge is broken in two and there seems to be no direct route
+to the other side from this point.  Jutting out of the {Dj{gu{Gng{gl{De{x to the east at
+the bottom of the road are the remains of a tall {Ds{wton{We a{wrc{Dh{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1659
+D5
+~
+~
+4096 4096
+0 0 1661
+S
+#1661
+Beneath a Bridge~
+These are the remains of a {yd{Dry moa{yt{x with the remnants of a {Dw{wid{We {x{Wbr{widg{De{x
+above.  The bottom of the moat is choked up with weeds and other blighted
+{gvegetation{x although the rusty remnants of {rs{yp{wik{ye{rs{x can still be seen.  The
+sides of the moat are slope steeply at this point but {yr{wo{Wo{wt{ys{x provide enough
+footing to scale it.  
+~
+0
+BCV 22
+D3
+~
+~
+0 0
+0 0 1662
+D4
+~
+~
+4096 4096
+0 0 1660
+S
+#1662
+A Dry Moat~
+Here lie the remains of a {yd{Dry moa{yt{x with the ruins of an {Do{wl{Wd br{widg{De{x above.
+The bottom of the moat is choked up with weeds and other blighted {yvegetation{x
+although the corroded remnants of {rs{yp{wik{ye{rs{x can still be seen.  The moat's are
+steeply inclined but {yr{wo{Wo{wt{ys{x provide enough footing to scale it at this point.
+~
+0
+BCV 22
+D1
+~
+~
+0 0
+0 0 1661
+D4
+~
+~
+4096 4096
+0 0 1663
+S
+#1663
+A Broken Bridge~
+Tall trees and thick undergrowth twisted by the {DDark One's{x influence
+populate this steep incline.  A few broken paving slabs dotted amongst the
+{gvegetation{x is all that remains of a thoroughfare that was constructed here. 
+The road ends at the top of the incline where the remnants of a {Dw{wid{We br{widg{De{x
+crossing a {yd{Dry {x{Dmoa{yt{x; the bridge is broken in two and there appears to be no
+direct route to the other side from this point.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1664
+D5
+~
+~
+4096 4096
+0 0 1662
+S
+#1664
+Abandoned River Docks~
+Here lies the jumbled up remains of a paved thoroughfare that runs
+parallel to the course of a wide {cr{yive{cr{x.  The road splits off at intervals,
+connecting to the remnants of {Ds{wt{Wo{wn{De j{wet{Wt{wie{Ds{x that protrude out into the
+waters although what remains of the waterway is a {ysludgy brown soup{x that
+reeks of decaying plant matter.  A wide street leads off through the {Dt{gree{Ds{x
+to the east from this point towards another set of stone ruins that look
+like a {Wbr{widg{De{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1666
+D1
+~
+~
+0 0
+0 0 1663
+D2
+~
+~
+0 0
+0 0 1668
+D3
+~
+~
+0 0
+0 0 1665
+S
+#1665
+An Old Stone Jetty~
+This is an exceptionally hot and humid part of the {Db{gli{ygh{gte{Dd j{gu{yng{gl{De{x that
+has been made worse by the stench of the nearby {cr{yive{cr{x.  At this point are
+the remains of a stone jetty that has crumbled away into the {ymurky brown
+waters{x.  More {Dt{gree{Ds{x can be seen lining the opposite bank of the river but
+unlike this side there are no man-made ruins visible beyond the leafy veil. 
+To the east the remnants of a road lead off towards the ruins of an
+{Dabandoned city{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1664
+S
+#1666
+The Old River Docks~
+Found here are the shattered remains of an old thoroughfare that runs
+parallel to the course of a wide {cr{yive{cr{x.  A wild expanse of {ysickly flora{x has
+encroached over the ruins of once tall warehouses, taverns and shops that
+were built along the road.  Nearby to the west are a series of {Ds{wt{Wo{wn{De j{wet{Wt{wie{Ds{x
+that lie crumbling among the {gblighted vegetation{x.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1664
+D3
+~
+~
+0 0
+0 0 1667
+S
+#1667
+An Old Stone Jetty~
+This is an extremely hot and humid part of the {Db{gli{ygh{gte{Dd j{gu{yng{gl{De{x that has
+been made worse by the stench of the nearby {cr{yive{cr{x.  At this spot are the
+remains of a {Ds{wt{Wo{wn{De{x {Dj{we{Wt{wt{Dy{x that has fallen apart into the {ymurky brown waters{x. 
+Many more trees can be seen lining the opposite bank of the river but unlike
+this side there are no man-made ruins that can be seen beyond the
+vegetation.  To the east the remnants of a road lead off towards the ruins
+of an {Dabandoned city{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1666
+S
+#1668
+The Old River Docks~
+Here lies the shattered remains of an old thoroughfare that runs parallel
+to the course of a wide {cr{yive{cr{x.  A wild stretch of {ysickly vegetation{x has
+grown over the ruins of once big warehouses, shops and taverns that were
+built along the road.  Nearby to the west are several {Ds{wt{Wo{wn{De j{wet{Wt{wie{Ds{x that lie
+crumbling among the {gblighted flora{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1664
+D3
+~
+~
+0 0
+0 0 1669
+S
+#1669
+An Old Stone Jetty~
+The air in this part of the {Db{gli{cgh{gte{Dd f{go{cre{gs{Dt{x is thick with the stench of
+decaying plant matter that is festering in a nearby {cr{yive{cr{x.  At this location
+are the remnants of a {Ds{wt{Wo{wn{De{x {Dj{we{Wt{wt{Dy{x that has disintegrated into the {ymurky
+brown waters{x.  More trees can be growing along the opposite side of the
+river but unlike this side there are no man-made ruins visible beyond the
+foliage.  To the east the remains of a road lead off towards the ruins of an
+{Dabandoned city{x.  
+~
+0
+BCV 22
+D1
+~
+~
+0 0
+0 0 1668
+S
+#1670
+The End of the Road~
+The shattered remains of an ancient paved {ystreet{x leads southwards away
+from a {yh{Duge trenc{yh{x that was dug around a large fort-like structure.  The
+fort is nothing more than ruins partially consumed by the {Db{gli{ygh{gte{Dd j{gu{yng{gl{De{x
+that envelopes this area.  Dark streaks upon the gray walls of the fort look
+more like {Dsmoke {x{Ddamage{x than natural patterning of the stone.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1655
+D5
+~
+~
+4096 4096
+0 0 1671
+S
+#1671
+Abandoned Entrenchments~
+These are the remains of a {yd{Dry moa{yt{x with the remnants of a {Dw{wid{We {x{Wbr{widg{De{x
+above.  The bottom of the moat is choked up with weeds and other {yblighted
+vegetation{x although the rusty remnants of {rs{yp{wik{ye{rs{x are still visible.  The
+sides of the moat are slope steeply at this point but {yr{wo{Wo{wt{ys{x provide enough
+footing to scale it.  
+~
+0
+BCV 22
+D1
+~
+~
+0 0
+0 0 1672
+D4
+~
+~
+4096 4096
+0 0 1670
+S
+#1672
+Suffocated by the Blight~
+Here lie the remains of a {yd{Dry moa{yt{x with the remnants of a {Dw{wid{We {x{Wbr{widg{De{x
+above.  The bottom of the moat has been choked up with {gweeds{x and other
+blighted vegetation although the corroded leftovers of the {ri{yro{wn sp{yike{rs{x that
+were used to bolster the moat's defenses can still be seen.  
+~
+0
+0 22
+D0
+~
+~
+0 0
+0 0 1673
+D3
+~
+~
+0 0
+0 0 1671
+S
+#1673
+An Abandoned Moat~
+These are the remains of a {yd{Dry moa{yt{x with the remnants of a {Dw{wid{We {x{Wbr{widg{De{x
+above.  The floor of the moat is choked up with weeds and other {yblighted
+vegetation{x although the corroded leftovers of {ri{yro{wn sp{yike{rs{x are still visible.
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1672
+D3
+~
+~
+0 0
+0 0 1674
+S
+#1674
+A Dry Moat~
+Here lie the remains of a {yd{Dry moa{yt{x with the remnants of a {Dw{wid{We {x{Wbr{widg{De{x
+above.  The bottom of the moat is choked up with {gweeds{x and other blighted
+vegetation although the rusty remnants of {rs{yp{wik{ye{rs{x can still be seen.  The
+sides of the moat are slope steeply at this point but {yr{wo{Wo{wt{ys{x provide enough
+footing to scale it.  
+~
+0
+BCV 21
+D1
+~
+~
+0 0
+0 0 1673
+D4
+~
+~
+4096 4096
+0 0 1675
+S
+#1675
+Ancient Ruins~
+Here lays the toppled remains of a grand {Den{wtr{Wanc{wew{Day{x that lead into a
+vast fort-like complex which is encircled by a {yd{Dry moa{yt{x.  There is very
+little left of the original structure apart from the {Do{wu{Wt{we{Dr w{wa{Wl{wl{Ds{x and parts
+of the {Dt{wo{Wwe{wr{Ds{x.  The structures look like they are made of gray stone at a
+distance but a closer inspection reveals them to have been constructed from
+{Wsnowy {x{Wwhite stone{x that has gathered {Ddirt{x over time.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1676
+D5
+~
+~
+4096 4096
+0 0 1674
+S
+#1676
+A Broken Courtyard~
+The blighted vegetation of the surrounding {Dj{gu{Gng{gl{De{x has failed to take root
+within the remains of this large {wc{Wourtyar{wd{x.  All that is left of this area
+are broken slabs of stone imbedded in rock hard mud.  Grimy {Ds{wt{Wo{wn{De{w {Dw{wa{Wl{wl{Ds{x and
+the broken remnants of the {Dt{wo{Wwe{wr{Ds{x of a fort-like structure surround the
+square.  Parts of the surrounding building have collapsed, spilling over
+onto the courtyard.  There is {yg{Yil{Wd{Yin{yg{x on some parts of the rubble which
+suggest that this building once had {yg{Yo{Wld{Ye{yn{x {ys{Yp{Wir{Ye{ys{x and was not a typical
+{bB{Bor{Dd{werla{Dn{Bde{br{x fortress.  
+~
+0
+BV 22
+D1
+~
+~
+4096 4096
+0 0 1677
+D2
+~
+~
+0 0
+0 0 1675
+S
+#1677
+The East Tower~
+The remains of a {Ds{wpi{Wraling stairc{was{De{x surrounded by a broken stone husk
+are all that remains of this cylindrical {Dt{wo{Ww{we{Dr{x.  The heap of {Wr{wu{Dbb{wl{We{x upon the
+floor still bears the marks of {Df{rir{De d{ramag{De{x where the elements have failed to
+reach them.  On the west side of the chamber is an arched {Dd{wo{Worw{wa{Dy{x minus its
+door that appears to be the only exit.  
+~
+0
+BCDV 22
+D3
+~
+~
+4096 4096
+0 0 1676
+S
+#1678
+A Twisted Jungle~
+Trees seem to reach out over the road and claw blindly at anything that
+passes them.  The tangled mass of {yyellowing undergrowth{x mottled with {rred{x and
+{Db{yrow{Dn{x patches seem to holds the area in a choking grasp far tighter than the
+trees do.  Only the remnants of an ancient {yroad{x scoring the earth provide
+relatively safe passage through the {Dt{gw{yist{ge{Dd j{gu{yng{gl{De{x of blighted vegetation.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1679
+D3
+~
+~
+0 0
+0 0 1616
+S
+#1679
+A Steep Hillside~
+Traveling through this area is made more difficult by the steepening of
+the gradient of the land as well as the {gvegetation{x that encroaches upon it. 
+The remains of an ancient {Dt{yhoroughfar{De{x are visible here, snaking its way
+around the hilly land.  A {yr{cive{yr{x can be seen down the south side of the hill,
+the {ybrown waters{x look far from inviting.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1680
+D3
+~
+~
+0 0
+0 0 1678
+S
+#1680
+Overlooking a River~
+The hot and humid atmosphere of the {Db{gli{Ggh{gte{Dd j{gu{Gng{gl{De{x makes traversing this
+area difficult for the average person.  Brownish-yellow {Dv{yine{Ds{x seem to
+squeeze the life out of the trees which they cling on to whilst the {gt{yree{gs{x
+seem to retaliate by lashing their {Dg{yn{warl{ye{Dd b{yr{wanch{ye{Ds{x blindly at anything that
+passes.  Despite the perils that the local flora and fauna may hold, the
+land itself slopes gently downwards to the east, following the course of a
+{ysluggish brown river{x at the bottom of the valley.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1679
+D1
+~
+~
+0 0
+0 0 1681
+S
+#1681
+The Dark One's Touch~
+The hot and sticky atmosphere within this {Db{gli{Ggh{gte{Dd j{gu{Gng{gl{De{x seems to
+enhance the putrid stench of {Dd{we{Dc{wa{Dy{x here.  Although there is more than a few
+centuries' worth of plant life choking up the area there are clear signs
+that this area was once inhabited by humans.  Despite the {DDark One's{x touch
+apparent on the {Df{yl{go{yr{Da{x and {yf{waun{ya{x of this area, the remains of an ancient {yroad{x
+it still visible as it cuts its way through the jungle.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1683
+D2
+~
+~
+4096 4096
+0 0 1682
+D3
+~
+~
+0 0
+0 0 1680
+S
+#1682
+Surrounded By Blight~
+It may seem strange to some that a clearing could exist within a {Dj{gu{yng{gl{De{x
+twisted by the {DDark One's{x touch.  The roughly ellipse-shaped area is
+surrounded by {Dg{yn{warl{ye{Dd{x {Dt{yr{we{ye{Ds{x whose oddly-formed boughs look like they have
+taken a life of their own as their reach out to snag anything that brushes
+past them.  The clearing itself is a rocky area that appears to have been
+part of an {Dex{wca{Wva{wtion s{Wi{wt{De{x or a place where rocky soil too poor to maintain
+plant life has been dumped in a short but wide {Dheap{x.  
+~
+0
+BCV 22
+D0
+~
+~
+4096 4096
+0 0 1681
+S
+#1683
+A Deadly Viewpoint~
+The land becomes increasingly rockier as it slopes downwards to the east,
+making it more difficult for the {yblighted vegetation{x to take root.  Despite
+the gradient of the land, the remnants of an ancient {yroadway{x slinking its
+way cross-country are still visible.  The land to the south of the path
+gives way to a sheer {Dr{wo{Wc{wky cl{Wi{wf{Df{x of approximately 100 feet in height; at the
+bottom of the cliff is a river of {ybrown sludge{x bordered by yellowing
+vegetation.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1684
+D3
+~
+~
+0 0
+0 0 1681
+S
+#1684
+A Desolate Valley~
+The Breaking of the World was responsible for many strange land
+formations but there are not many as strange as this one.  The gray rocky
+land has been concertinaed in a series of narrow valleys and jagged peaks
+that are reminiscent of {Db{wr{Woken tee{wt{Dh{x.  This point overlooks a relatively
+shallow valley that is divided in two by a {ybrown sludgy waterway{x.  A
+relatively safe path down the side of the valley leads northwards, marked
+out by a series of square {rs{Dt{wo{Dn{re s{Dl{wa{Db{rs{x embedded into the earth.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1685
+D3
+~
+~
+0 0
+0 0 1683
+S
+#1685
+A Sharp Incline~
+The remnants of an ancient {yroadway{x lead along the side of a sheer rocky
+valley.  Despite this path been so steep, it is much safer to traverse than
+straying from it.  No trees grow here, only the odd smattering of tiny
+{ybrownish-yellow plants{x has managed to take root in this area.  Even the
+river that lies at the bottom of the valley is void of any plant life
+growing nearby it at this point; the {ysludgy brown waters{x are unable sustain
+life in this wilderness.  
+~
+0
+BV 5
+D2
+~
+~
+0 0
+0 0 1684
+D5
+~
+~
+0 0
+0 0 1686
+S
+#1686
+A Sharp Incline~
+Here lies the remains of a steep yet wide road that leads along the side
+of a sheer rocky {Dv{ya{wll{ye{Dy{x.  A few scrubby-looking {gp{ylant{gs{x have managed to take
+root in this harsh environment although they are all twisted and tainted by
+the {DDark One's{x corruption.  The air here is unnaturally hot and humid,
+enhancing the stench of decomposition emanating from the {ysludgy brown river{x
+at the bottom of the valley.  
+~
+0
+BCV 5
+D4
+~
+~
+0 0
+0 0 1685
+D5
+~
+~
+0 0
+0 0 1687
+S
+#1687
+An Ancient Road~
+The lofty slopes of the {Dv{ya{wll{ye{Dy{x would have been almost impossible to scale
+if it were not for this ancient road carved into its side.  The original
+{rs{Dt{wo{Dn{re{x {rb{Dl{woc{Dk{rs{x used to pave the road still remain imbedded in the ground; the
+deep ruts in the stonework hint that this route was used often and by heavy
+wagons or carts despite the road's steep gradient.  A stench of {Dd{we{Dc{wa{Dy{x drifts
+in from the east, the source of the odor is the {ysludgy {x{ybrown river{x that
+flows along the bottom of the valley.  
+~
+0
+BV 5
+D0
+~
+~
+0 0
+0 0 1688
+D1
+~
+~
+4096 4096
+0 0 1698
+D4
+~
+~
+0 0
+0 0 1686
+S
+#1688
+The Great Lord's Touch~
+Here lies an ancient {yroad{x built from large slabs of {rs{Dt{wo{Dn{re{x follows the
+edge of the {Dv{ya{wll{ye{Dy{x.  Humans may have once inhabited these lands but the
+unnatural warmth and humidity of this area is a constant reminder that this
+place is now deep within the Blight.  Very little {yv{ge{ygetati{go{yn{x has managed to
+take root in this area, the rocky soil is not fertile enough even for the
+{DDark {x{DOne's{x twisted creations.  A putrid stench of decay emanated from the
+east, the source appears to be a slow flowing {cr{yive{cr{x whose waters look murky
+and uninviting.  
+~
+0
+BV 5
+D0
+~
+~
+0 0
+0 0 1689
+D1
+~
+~
+4096 4096
+0 0 1697
+D2
+~
+~
+0 0
+0 0 1687
+S
+#1689
+A Change in Direction~
+The ancient road that was built along the floor of the {Dv{ya{wll{ye{Dy{x changes
+direction at this point as it follows the curvature of the {Dr{yo{wc{yk{Dy o{yut{wcr{yop{Ds{x. 
+The air here is hot, sticky and filled with the putrid stench of {Dd{we{Dc{wa{Dy{x that
+originates from the sludgy brown {cr{yive{cr{x that lies to the east.  There are
+very few {gp{ylant{gs{x growing in this area; the land appears to be too poor and
+{Ws{wt{Do{wn{Wy{x to support even the {DDark One's{x warped creations.  
+~
+0
+BV 5
+D1
+~
+~
+0 0
+0 0 1696
+D2
+~
+~
+0 0
+0 0 1688
+S
+#1690
+Beside a River~
+Here lies the remains of an old paved {yroad {xthat meanders through a
+predominately rocky area at the base of a deep {Dv{ya{wll{ye{Dy{x.  The road follows the
+course of a {cr{yive{cr{x although the shape of the land suggests that the waterway
+was much deeper than it is now.  {DO{ype{wnw{Work mi{wn{yin{Dg{x along this side of the
+river has exposed much of the valley's strata but the worn and weathered
+condition of the stone shows that this area was abandoned many centuries
+ago.  The {rh{Ro{rt{x and {ch{Cumi{cd{x atmosphere within this valley clearly indicates that
+this area is deep within the Blight despite the lack of vegetation growing
+around here.  
+~
+0
+BV 5
+D0
+~
+~
+0 0
+0 0 1693
+D1
+~
+~
+0 0
+0 0 1691
+D3
+~
+~
+0 0
+0 0 1695
+S
+#1691
+A Beginning or an End?~
+Depending on how one views the world, the ancient remains of a paved {yroad{x
+start or possibly end at this point.  The road follows the course of a wide
+{cr{yive{cr{x that flows though the v-shaped {Dv{ya{wll{ye{Dy{x.  Extensive {Dm{yin{win{Wg w{wo{yr{Dk{x has made
+its mark along this side of the valley whilst the land on the opposite side
+of the river remains untouched.  
+~
+0
+BV 5
+D0
+~
+~
+0 0
+0 0 1692
+D3
+~
+~
+0 0
+0 0 1690
+S
+#1692
+The Abandoned Mine~
+This is the east end of a large {Dex{yca{wva{yti{Don{x into the side of the {Dv{ya{wll{ye{Dy{x. 
+The valley was originally v-shaped but the extensive {Dm{yin{win{Wg w{wo{yr{Dk{x in this
+area has hollowed out the rocky cliff face and exposed the strata.  The
+widespread weathering and erosion upon the cliff face suggest that this area
+was {Dabandoned{x centuries ago.  To the south lies the remnants of a road and
+beyond that a sluggish {cr{yive{cr{x that divides the valley neatly in two.  
+~
+0
+BFV 5
+D2
+~
+~
+0 0
+0 0 1691
+D3
+~
+~
+0 0
+0 0 1693
+S
+#1693
+Strata~
+Years of {Do{ype{wnw{Work mi{wn{yin{Dg{x have cut away at this side of the {Dv{ya{wll{ye{Dy{x,
+hollowing it out and exposing the valley's strata.  The days of mining have
+long since gone as the valley and the lands that surround it have all been
+claimed by the {DB{gl{Gig{gh{Dt{x.  The hot and sticky atmosphere filled with the putrid
+stench of {Dd{we{Dc{wa{Dy{x act as a permanent reminded to what was lost to the {DShadow{x. 
+~
+0
+BGV 5
+D1
+~
+~
+0 0
+0 0 1692
+D2
+~
+~
+0 0
+0 0 1690
+D3
+~
+~
+0 0
+0 0 1694
+S
+#1694
+Towering Rocks~
+The west side of the valley has been hollowed out like a bowl from the{D
+o{ype{wnw{Work mi{wn{yin{Dg{x that used to occur here.  Despite the years of digging that
+must have happened here, the majority of the cliff's surface has smoothened
+out somewhat by hundreds of years of {De{wr{Wosi{wo{Dn{x.  The {rh{Ro{rt{x and {ch{Cumi{cd{x atmosphere
+is a constant reminded that the area is deep within the {DB{gl{Gig{gh{Dt{x and under the
+{DDark One's{x influence.  
+~
+0
+BGV 5
+D1
+~
+~
+0 0
+0 0 1693
+D2
+~
+~
+0 0
+0 0 1695
+S
+#1695
+An Openwork Mine~
+Here lies the remains of an ancient {yroad{x that follows the course of a wide
+{cr{yive{cr{x along the floor of a {Dv{ya{wll{ye{Dy{x.  The rock formations south of this point
+show the valley's original v-shaped structure but to the north the valley
+hollows out.  The change in shape is attributed to {Do{ype{wnw{Work mi{wn{yin{Dg{x along the
+base of the valley although the worn and weathered appearances of the
+exposed rock surfaces show that mining in this area ceased hundreds of years
+ago.  
+~
+0
+BFV 5
+D0
+~
+~
+0 0
+0 0 1694
+D1
+~
+~
+0 0
+0 0 1690
+D2
+~
+~
+0 0
+0 0 1696
+S
+#1696
+The Lie of the Land~
+Despite the lack of vegetation growing in this v-shaped {Dv{ya{wll{ye{Dy{x, there are
+signs that {Wlife{x once existed here.  The remnants of a {yroad{x follows the west
+bank of the {cr{yive{cr{x that flows through the valley although now the river is a
+now a sludgy brown soup that stinks of {Dd{yecayin{Dg v{yegetatio{Dn{x.  The rock
+formations to the north changes abruptly, although the rocks are smoothed
+with centuries of erosion, the layout of the land suggests that some form of
+{Dqu{wa{Wrry{wi{Dng{x or {Wmi{wn{yin{Dg{x has happened there.  
+~
+0
+BV 5
+D0
+~
+~
+0 0
+0 0 1695
+D2
+~
+~
+4096 4096
+0 0 1697
+D3
+~
+~
+0 0
+0 0 1689
+S
+#1697
+Something Of Value?~
+The view from the {gr{ci{yverba{cn{gk{x is not the most pleasant of sights.  The
+{Dv{ya{wll{ye{Dy{x is a vast area of desolate wasteland whose soil is too rocky and
+unfertile to support anything but the hardiest of flora.  Despite the lack
+of plants humans must have found something of value within the valley for
+the remains of an ancient {yroad{x lay close by.  
+~
+0
+BCV 7
+D0
+~
+~
+4096 4096
+0 0 1696
+D2
+~
+~
+0 0
+0 0 1698
+D3
+~
+~
+4096 4096
+0 0 1688
+S
+#1698
+Saidin's Mark~
+This spot beside the river provides a decent view of this v-shaped
+{Dv{ya{wll{ye{Dy{x.  The dramatic folding of the rock formations show that much of the
+valley's form was created during the Breaking of the World.  The {cr{yive{cr{x that
+flows along here looks sluggish and the rotting vegetative matter floating
+within it fills the air with a {Dp{ru{Rtr{ri{Dd s{rt{Ren{rc{Dh{x.  The {Dl{war{Wge ro{wck{Ds{x that litter
+the ground indicate that the river was once much deeper and stronger than it
+is now.  The valley is overshadowed by a mountain range to the northeast
+whilst hills lie to the south and {Db{gli{ygh{gte{Dd j{gu{yng{gl{De{x to the west.  
+~
+0
+BCV 7
+D0
+~
+~
+0 0
+0 0 1697
+D1
+~
+~
+0 0
+0 0 1699
+D3
+~
+~
+4096 4096
+0 0 1687
+S
+#1699
+Crossing the River~
+Perhaps in centuries past this area was a great {cr{yive{cr{x but now it is a
+sluggish channel of rotting vegetable matter suspended in water.  The air is
+strangely hotter and more humid towards the center of the waterway than it
+is north the riverbanks.  The river is flanked on both sides by steeply
+sloping cliffs that form a v-shaped {Dv{ya{wll{ye{Dy{x although some of the rock faces
+appear to have been dug away further downstream.  
+~
+0
+BV 7
+D1
+~
+~
+0 0
+0 0 1700
+D3
+~
+~
+0 0
+0 0 1698
+S
+#1700
+The Riverbank~
+The land that makes up this{g r{ci{yverba{cn{gk{x slopes steeply as it nears the
+muddy brown waters of the {cr{yive{cr{x but it is not as steep as the almost sheer
+rock faces that make up the v-shaped {Dv{ya{wll{ye{Dy{x that this area occupies.  Signs
+of mining can be seen on the far side of the river but on this side the rock
+face appears virtually untouched.  
+~
+0
+BV 5
+D2
+~
+~
+0 0
+0 0 1701
+D3
+~
+~
+0 0
+0 0 1699
+S
+#1701
+A Narrow Path~
+This is a narrow path that follows the bank of a sluggish {cr{yive{cr{x at the
+bottom of a large, v-shaped {Dv{ya{wll{ye{Dy{x.  The path closely follows the contours
+of the {ws{Whee{wr c{Wlif{wf f{Wac{we{x on this side of the river although rubble and debris
+from past rock falls litter the ground and make it a precarious path.  
+~
+0
+BV 5
+D0
+~
+~
+0 0
+0 0 1700
+D4
+~
+~
+0 0
+0 0 1702
+S
+#1702
+A Narrow Path~
+Here lies a narrow path that follows the contours of a {ws{Whee{wr c{Wlif{wf{x that
+forms one half of a v-shaped {Dg{yo{wr{yg{De{x that has a sluggish {cr{yive{cr{x flowing along
+its base.  The path is littered with rubble from the unstable rock face that
+has tumbled down over the course of many years.  The path ends at the mouth
+of a {Wt{wu{Dnn{we{Wl{x that looks like it has been dug out rather than naturally
+formed.  
+~
+0
+BCV 5
+D1
+~
+~
+4096 4096
+0 0 1703
+D5
+~
+~
+0 0
+0 0 1701
+S
+#1703
+Into the Light?~
+This is a long yet narrow {Wt{wu{Dnn{we{Wl{x that has been dug though dark gray rock.
+It is impossible to say how old this tunnel is, there are no signs of
+erosion by the elements leaving the tool marks along the tunnel's walls very
+pronounced.  To the west the tunnel opens out into a large {Dv{ya{wll{ye{Dy{x while to
+the east the tunnel disappears into the {Ddarkness{x.  
+~
+0
+ABCDV 5
+D1
+~
+~
+0 0
+0 0 1704
+D3
+~
+~
+4096 4096
+0 0 1702
+S
+#1704
+A Narrow Tunnel~
+This is a narrow {Wt{wu{Dnn{we{Wl{x that winds its way through dark gray stone.  It
+is plain to see that the tunnel was not naturally formed for the surface of
+the tunnel is scared with {Dt{woo{Wl m{wark{Ds{x.  Even though this area is underground
+the air in here feels hot and humid like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDIV 5
+D2
+~
+~
+0 0
+0 0 1705
+D3
+~
+~
+0 0
+0 0 1703
+D4
+~
+~
+0 0
+0 0 1723
+S
+#1705
+An Abandoned Mine~
+This is one of many narrow {Wt{wu{Dnne{wl{Ws{x that winds their way through dark gray
+stone and forming a network.  It is obvious that the tunnel was not
+naturally created for the surface of the tunnel is pitted with{D t{woo{Wl m{wark{Ds{x. 
+Even though this area is underground the air in here feels hot and humid
+like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDV 5
+D0
+~
+~
+0 0
+0 0 1704
+D2
+~
+~
+0 0
+0 0 1706
+S
+#1706
+Twists and Turns~
+This is one of numerous narrow {Wt{wu{Dnne{wl{Ws{x that winds their way through dark
+gray stone and forming a network.  It is plain to see that the tunnel was
+not naturally formed for the surface of the tunnel is scared with {Dt{woo{Wl
+m{wark{Ds{x.  Even though this area is underground the air in here feels hot and
+humid like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDV 5
+D0
+~
+~
+0 0
+0 0 1705
+D1
+~
+~
+0 0
+0 0 1708
+D3
+~
+~
+0 0
+0 0 1707
+S
+#1707
+A Dead End~
+This is the end of one of many narrow {Wt{wu{Dnne{wl{Ws{x that winds their way
+through dark gray stone.  It is plain to see that the tunnel was not
+naturally formed for the surface of the tunnel is scared with {Dt{woo{Wl m{wark{Ds{x. 
+Although this area is underground the air in here feels hot and humid like
+the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDVY 5
+D1
+~
+~
+0 0
+0 0 1706
+S
+#1708
+Twists and Turns~
+This is one of many narrow {Wt{wu{Dnne{wl{Ws{x that twist their way through dark gray
+stone and forming a network.  It is plain to see that the tunnel was not
+naturally formed for the surface of the tunnel is scared with {Dt{woo{Wl m{wark{Ds{x. 
+Even though this area is underground the air in here feels hot and humid
+like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDV 5
+D0
+~
+~
+0 0
+0 0 1709
+D2
+~
+~
+0 0
+0 0 1710
+D3
+~
+~
+0 0
+0 0 1706
+S
+#1709
+A Dead End~
+This is the end of one of numerous narrow {Wt{wu{Dnne{wl{Ws{x that twists their way
+through dark gray stone.  It is plain to see that the tunnel was not
+naturally formed for the surface of the tunnel is scared with {Dt{woo{Wl m{wark{Ds{x. 
+Even though this area is underground the air in here feels hot and humid
+like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDVZ 5
+D2
+~
+~
+0 0
+0 0 1708
+S
+#1710
+Twists and Turns~
+This is one of numerous {Wt{wu{Dnne{wl{Ws{x that winds their way through dark gray
+stone and forming a network.  It is plain to see that the tunnel was not
+naturally formed for the surface of the tunnel is scared with {Dt{woo{Wl m{wark{Ds{x. 
+Although this area is beneath the surface, the air in here feels hot and
+humid like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDV 5
+D0
+~
+~
+0 0
+0 0 1708
+D3
+~
+~
+0 0
+0 0 1711
+S
+#1711
+Twists and Turns~
+This is one of many narrow {Wt{wu{Dnne{wl{Ws{x that winds their way through dark gray
+stone and forming a network.  It is plain to see that the tunnel was not
+naturally formed for the surface of the tunnel is scared with {Dt{woo{Wl m{wark{Ds{x. 
+Even though this area is underground the air in here feels hot and humid
+like the rest of the {DB{gli{Ggh{gte{Dd L{ga{Gn{gd{Ds{x.  
+~
+0
+ABDV 5
+D1
+~
+~
+0 0
+0 0 1710
+D2
+~
+~
+0 0
+0 0 1712
+S
+#1712
+A Narrow Tunnel~
+This is a long yet narrow {Wt{wu{Dnn{we{Wl{x that has been dug though dark gray rock.
+It is very difficult to say how old this tunnel is, there are no signs of
+erosion by the elements leaving the {Dt{woo{Wl m{wark{Ds{x along the tunnel's walls very
+pronounced.  To the east the tunnel opens out into a large area of {Df{go{Gre{gs{Dt{x
+while to the north the tunnel disappears into complete {Ddarkness{x.  
+~
+0
+ABCDV 5
+D0
+~
+~
+0 0
+0 0 1711
+D1
+~
+~
+0 0
+0 0 1713
+S
+#1713
+Surrounded by Decay~
+This is a large area of {Dr{yo{wc{yk{Dy g{yr{wou{yn{Dd{x that is surrounded by oddly formed
+{Dt{gr{Ge{ge{Ds{x and discolored {Du{ynd{ge{yrgr{go{ywt{Dh{x.  Twisted tree {yr{wo{Wo{wt{ys{x protrude from the
+surface of the earth as if trying to ensnare anything that moves close to
+them.  The plants thin out to the west where the land becomes rockier and
+less hospitable.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1715
+D2
+~
+~
+0 0
+0 0 1714
+D3
+~
+~
+0 0
+0 0 1712
+S
+#1714
+A Leafy Veil~
+A dense veil of blotchy {Du{ynd{ge{yrgr{go{ywt{Dh{x has managed to take root in this
+rocky land.  There are a few twisted {Dt{gr{Ge{ge{Ds{x growing here but they pale in
+comparison to the great trees that lie eastwards.  The vegetation thins out
+to the north where the {ysoil{x becomes gradually less hospitable to sustain
+life.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1713
+D1
+~
+~
+0 0
+0 0 1716
+S
+#1715
+Twisted Vegetation~
+A thick veil of blotchy {Db{yr{wu{yshw{wo{yo{Dd{x has managed to take root in this rocky
+land.  A few twisted {Dt{gr{Ge{ge{Ds{x grow here but they pale in comparison to the
+great trees that lie eastwards.  The vegetation thins out to the west where
+the {ysoil{x becomes steadily less hospitable to sustain life.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1722
+D3
+~
+~
+0 0
+0 0 1713
+S
+#1716
+At the Foot of a Hill~
+This is the foot of a hill that slopes steeply upwards.  Despite the
+gradient of the land there is plenty of {yv{geg{yetat{gio{yn{x growing here although it
+all looks sickly and yellow.  There is a sweet yet putrid stench hanging in
+the humid air where the fruit on nearby {Dt{gr{Ge{ge{Ds{x are rotting on the {Db{yranche{Ds{x.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1714
+D4
+~
+~
+0 0
+0 0 1717
+S
+#1717
+Blighted Lands~
+This is part of the side of a hill that slopes very steeply.  Despite the
+gradient of the land there is plenty of {gve{ygetati{gon{x growing here although it
+all looks sickly and yellow.  There is a sweet yet putrid stench hanging in
+the humid air where the fruit on nearby {Dt{gr{ce{ge{Ds{x are rotting on the {Db{yranche{Ds{x.  
+~
+0
+BV 22
+D4
+~
+~
+0 0
+0 0 1718
+D5
+~
+~
+0 0
+0 0 1716
+S
+#1718
+On the Crest of a Hill~
+This is the crest of a hill that slopes steeply downwards.  Despite the
+gradient of the land there is plenty of vegetation growing here although it
+all looks sickly and yellow.  There is a sweet yet {cp{gu{ytr{gi{cd{x stench hanging in
+the humid air where the fruit on nearby {Dt{gr{ce{ge{Ds{x are rotting on the {Db{yranche{Ds{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1719
+D5
+~
+~
+0 0
+0 0 1717
+S
+#1719
+Upon a Sharp Incline~
+This is an area of hilly land somewhere within the Blight.  Despite the
+gradient of the land there is plenty of {yv{geg{yetat{gio{yn{x growing here although it
+all looks sickly and yellow.  There is a sweet yet {cp{gu{ytr{gi{cd{x stench hanging in
+the humid air where the fruit on nearby {Dt{gr{ye{ge{Ds{x are rotting on the {Db{yranche{Ds{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1720
+D3
+~
+~
+0 0
+0 0 1718
+S
+#1720
+At the Top of a Hill~
+This is the top of a hill that slopes sharply downwards.  Despite the
+gradient of the land there is plenty of {gve{ygetati{gon{x growing here although it
+all looks sickly and yellow.  There is a sweet yet {gp{cu{wtr{ci{gd{x stench hanging in
+the humid air where the {Df{rr{mu{ri{Dt{x on nearby {Dt{gr{ye{ge{Ds{x are rotting on the {Db{yranche{Ds{x.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1719
+D5
+~
+~
+0 0
+0 0 1721
+S
+#1721
+Upon a Steep Slope~
+This is part of the side of a steeply sloping hill.  Despite the gradient
+of the land there is plenty of {yv{geg{yetat{gio{yn{x growing here although it all looks
+sickly and yellow.  A foul stench permeates through the air which comes from
+{Df{rr{mu{ri{Dt{x rotting on nearby {Dt{gr{ye{ge{Ds{x.  
+~
+0
+BV 22
+D4
+~
+~
+0 0
+0 0 1720
+D5
+~
+~
+0 0
+0 0 1722
+S
+#1722
+A Steep Incline~
+This is the base of a hill that slopes steeply upwards.  Despite the
+gradient of the land there is plenty of plant life growing here although it
+all looks {ysickly{x and {Dm{wo{Dt{wt{Dl{we{Dd{x.  A foul stench permeates through the air which
+comes from {Df{rr{mu{ri{Dt{x rotting on nearby {Dt{gr{Ge{ge{Ds{x.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1715
+D4
+~
+~
+0 0
+0 0 1721
+S
+#1723
+Path of Darkness~
+This is a long yet narrow {Wt{wu{Dnn{we{Wl{x that has been carved through dark gray
+rock.  The tunnel slopes steeply at this point as it descends into pitch
+black {Ddarkness{x.  Towards the opposite end of the passageway the tunnel opens
+up into what appears to be a {Dj{gu{yng{gl{De{x area although the mottled and twisted
+plant forms still indicate the {DDark One's{x touch upon the land.  
+~
+0
+ABCDV 5
+D0
+~
+~
+0 0
+0 0 1724
+D5
+~
+~
+0 0
+0 0 1704
+S
+#1724
+Buried Treasure?~
+The sickly and twisted {Dj{gu{yng{gl{De{x thins out at this point to form a large
+clearing.  There is a lot of {Dr{wo{Wc{wk{Dy d{we{Wbr{wi{Ds{x scattered around the edges of the
+area much of the stone has succumbed to partial erosion from the elements. 
+At the south side of the clearing is the source of the rubble, a narrow
+{Wt{wu{Dnn{we{Wl{x that slops downwards into the earth.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1725
+D2
+~
+~
+0 0
+0 0 1723
+S
+#1725
+Twisting Trails~
+Partially concealed by the blighted {yundergrowth{x that has infested this
+area is a winding {Dt{yrai{Dl{x.  The trail twists its way past {Dg{yna{wrled tr{yee{Ds{x whose
+limbs resemble outstretched claws ready and waiting to tear apart anything
+that ventures near.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1726
+D3
+~
+~
+0 0
+0 0 1724
+S
+#1726
+A Bend in the Path~
+{yT{wre{We r{woot{ys{x and tangled {Dv{yine{Ds{x lie beneath the canopy of blighted
+{yundergrowth{x like snares waiting to be sprung.  Twisted trees grow in
+abundance in this area although they thin out in some areas as a narrow
+{Dt{yrai{Dl{x winds its way around them.  Despite its location deep within the
+{DB{gl{Gig{gh{Dt{x, the trail appears to have been used recently which leaves the
+question: what or whom has been using the trail?  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1727
+D2
+~
+~
+0 0
+0 0 1725
+S
+#1727
+The Blighted Trail~
+A narrow {Dt{yrai{Dl{x snakes its way through the blighted {Dj{gu{yng{gl{De{x.  The trail has
+been used recently and no attempts have been made to conceal that fact. 
+There are a few broken branches and unearthed rocks the ground is too choked
+up with {Dv{yine{Ds{x and {yr{wo{Wo{wt{ys{x for any distinguishable tracks to be left.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1728
+D3
+~
+~
+0 0
+0 0 1726
+S
+#1728
+At the Top of a Steep Slope~
+This is an enormous area of {Df{go{Gre{gs{Dt{x populated by sickly-looking {yplants{x. 
+The ground steeply inclines at this point.  A narrow {Dt{yrai{Dl{x winds its way
+along the slope; at the top of the slope are more trees while a {cs{ytrea{cm{x lies
+at the foot of the hill.  
+~
+0
+BV 22
+D3
+~
+~
+0 0
+0 0 1727
+D5
+~
+~
+0 0
+0 0 1729
+S
+#1729
+Following a Shallow Stream~
+This is a vast area of forest filled with sickly-looking plants.  A shallow
+{cs{ytrea{cm{x flows through here but the water looks brown and stinks of {yd{Decayin{yg
+v{Degetatio{yn{x.  The ground slopes steeply upwards on either side of the stream.
+A narrow {Dt{yrai{Dl{x winds its way along the west slope but strangely there does
+not appear to be a trail on the opposite slope.  
+~
+0
+BCV 22
+D2
+~
+~
+4096 4096
+0 0 1730
+D4
+~
+~
+0 0
+0 0 1728
+S
+#1730
+Beside a Shallow Stream~
+This is an immense area of forest filled with sickly-looking plants that
+have been corrupted by the {DDark One's{x hold over the land.  A shallow {cs{ytrea{cm{x
+flows through here but the water looks brown and stinks of decaying
+vegetation.  The ground slopes steeply upwards on either side of the stream.
+A {Dt{yrai{Dl{x lies partially concealed beneath yellowing {yundergrowth{x, split by the
+little waterway.  
+~
+0
+BCV 22
+D0
+~
+~
+4096 4096
+0 0 1729
+D4
+~
+~
+0 0
+0 0 1731
+S
+#1731
+A Change in Gradient~
+This is a vast area of {Df{go{Gre{gs{Dt{x filled with blighted plants.  The ground
+steeply inclines at this point.  A narrow {Dt{yrai{Dl{x winds its way along the
+slope; at the top of the slope are more trees while a {cs{ytrea{cm{x lies at the
+foot of the hill.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1732
+D5
+~
+~
+0 0
+0 0 1730
+S
+#1732
+Along a Muddy Path~
+Here lies a muddy {Dt{yrai{Dl{x winds its way through the blighted {Dj{gu{yng{gl{De{x.  This
+route has been used recently and no attempts have been made to conceal that
+fact.  There are a few broken branches and unearthed rocks the ground is too
+cluttered up with {Dv{yine{Ds{x and {yr{wo{Wo{wt{ys{x for any distinguishable tracks to be left.
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1733
+D3
+~
+~
+0 0
+0 0 1731
+S
+#1733
+A Winding Trail~
+This is a narrow {Dt{yrai{Dl{x that winds its way through the blighted {Dj{gu{yng{gl{De{x. 
+This path has been used recently and no attempts have been made to conceal
+that fact.  There are a few broken branches and unearthed rocks the ground
+is too choked up with {Dv{yine{Ds{x and {yr{wo{Wo{wt{ys{x for any distinguishable tracks to be
+left.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1732
+D1
+~
+~
+0 0
+0 0 1734
+S
+#1734
+A Narrow Trail~
+Here lies a narrow {Dt{yrai{Dl{x that twists its way through the blighted {Dj{gu{yng{gl{De{x.
+This route has been used recently and no attempts have been made to conceal
+that fact.  There are a few broken branches and unearthed {Dr{wo{Wc{wk{Ds{x the ground
+is too choked up with {Dv{yine{Ds{x and {yr{wo{Wo{wt{ys{x for any distinguishable tracks to be
+left.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1735
+D3
+~
+~
+0 0
+0 0 1733
+S
+#1735
+At the Foot of a Steep Slope~
+Sickly yellow vegetation grows in thickly packed clumps in this rocky
+area of the {DB{gl{Gig{gh{Dt{x.  The ground slopes steeply at this point and although a
+few {Dt{gr{ye{ge{Ds{x grow upon the incline there are signs that someone or something
+has been cutting down the trees here.  Beneath the {yundergrowth{x is a faint
+{Dt{yrai{Dl{x that snakes its way through the mottled {Dj{gu{yng{gl{De{x.  
+~
+0
+BV 22
+D2
+~
+~
+0 0
+0 0 1734
+D4
+~
+~
+0 0
+0 0 1736
+S
+#1736
+Cutting a Path?~
+Sickly yellow flora grows in densely packed clumps in this rocky area of
+the {DB{gl{Gig{gh{Dt{x.  The ground slopes steeply at this point and although a few
+{Dt{gr{ye{ge{Ds{x grow upon the incline there are signs that someone or something has
+been cutting down the trees here.  Beneath the {cu{gndergrowt{ch{x is a faint {Dt{yrai{Dl{x
+that snakes its way through the mottled {Dj{gu{yng{gl{De{x.  
+~
+0
+BV 22
+D4
+~
+~
+0 0
+0 0 1737
+D5
+~
+~
+0 0
+0 0 1735
+S
+#1737
+Clearing a Path?~
+Pale yellow {yvegetation{x grows in densely packed clumps in this stony area
+of the {DB{cl{gig{ch{Dt{x.  Although blotchy leafed plants dominate this area, much of
+this area has been cleared of trees.  Parts of a {Dt{yrai{Dl{x can be seen beneath
+the {yundergrowth{x as it follows the incline of a steep slope although what
+lies at the bottom of the hill is concealed by vegetation.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1738
+D5
+~
+~
+0 0
+0 0 1736
+S
+#1738
+Trees, Trees and More Trees~
+This is a region of thickly growing {gj{Gun{Ygl{We{x that is populated by sickly
+plants.  Tall {Dt{gr{ye{ge{Ds{x loom over yellowing undergrowth that partially hides a
+{Dm{yudd{Dy t{yrac{Dk{x beneath it.  The trees start to thin out to the south from this
+point.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1739
+D2
+~
+~
+0 0
+0 0 1737
+S
+#1739
+Death and Decay~
+This is an area of densely growing {Df{gores{Dt{x that is caught within the grasp
+of yellow {Dv{yine{Ds{x and other sickly plants.  Tall {yt{gree{ys{x loom over discolored
+undergrowth that partially conceals a muddy track beneath it.  The air here
+is hot, humid and reeks of decaying vegetation.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1740
+D2
+~
+~
+0 0
+0 0 1738
+S
+#1740
+Upon a Winding Trail~
+This is a region of thickly growing {Df{gores{Dt{x that is populated by {Ws{Yi{wc{ykly
+pla{wn{Yt{Ws{x.  Tall trees loom over yellowing undergrowth that partially conceals
+a {Dm{yudd{Dy t{yrac{Dk{x beneath it.  The air here is hot and humid but the stink of
+rotting plants is overpowered by stronger stench of {Danimal waste{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1741
+D3
+~
+~
+0 0
+0 0 1739
+S
+#1741
+A Glimmer of Civilization?~
+This is an area of thickly growing {gj{Gun{Ygl{We{x that is populated by sickly
+plants.  Lofty {Dt{gr{ye{ge{Ds{x loom over yellowing undergrowth that partially hides a
+{Dm{yudd{Dy t{yrac{Dk{x beneath it.  The air here is hot and humid but the stink of
+rotting plants is overpowered by stronger stench of {Danimal waste{x.  A strange
+{ystructure{x made from {ylogs{x can just be seen through the leafy veil to the
+north but it is too difficult to fathom out what it is from here.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1742
+D3
+~
+~
+0 0
+0 0 1740
+S
+#1742
+Crude Fortifications~
+The ground gives way below to a {Dmassive ditch{x that has been dug around
+crudely made timber {Df{yort{wificat{yion{Ds{x.  Massive {yw{wo{Wod{we{yn{x {ys{wp{Wik{we{ys{x protrude from the
+bottom of the ditch providing a rather grim end to anyone unfortunate enough
+to fall inside.  A {yw{wo{Wod{we{yn{x {yd{wra{Wwbri{wdg{ye{x spans the {yd{Dry moa{yt{x, flanked by wooden
+{Dw{yat{wchtow{yer{Ds{x that look out over the spiked log walls of the fort.  
+~
+0
+BCV 22
+D0
+~
+~
+0 0
+0 0 1743
+D2
+~
+~
+0 0
+0 0 1741
+S
+#1743
+A Crude Encampment~
+This is a well-used {Dt{yrac{Dk{x that follows around the inside of the {yl{wo{Wg {x{Wwa{wl{yl{x
+defenses of a camp site.  Despite how much work that has gone into creating
+the defensive walls, the structures within the camp are little more than
+stretched {Dh{yide awning{Ds{x with wooden support posts lashed together using
+sinew.  The entrance into the camp lies to the south, marked by a timber
+{yd{wra{Wwbri{wdg{ye{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1744
+D1
+~
+~
+0 0
+0 0 1748
+D2
+~
+~
+0 0
+0 0 1742
+D3
+~
+~
+0 0
+0 0 1749
+S
+#1744
+At the Center of the Campsite~
+Crude tent-like structures encircle this large clearing at the center of
+the camp.  The {Dt{ye{wn{yt{Ds{x are in turn encircled by timber fortifications
+comprising of spiked walls tall {Dw{yat{wchtow{yer{Ds{x.  The air in this area is hot,
+humid and reeks of animal waste and rotting vegetation.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1745
+D1
+~
+~
+0 0
+0 0 1747
+D2
+~
+~
+0 0
+0 0 1743
+D3
+~
+~
+0 0
+0 0 1750
+S
+#1745
+A Crude Encampment~
+This is a {Dm{yudd{Dy p{yat{Dh{x that follows around the inside of the timber
+{Df{yort{wificat{yion{Ds{x of a camp site.  Despite how much work that has gone into
+creating the defensive walls, the structures within the camp are little more
+than stretched {Dh{yide awning{Ds{x with wooden support posts lashed together using
+sinew.  The air in this area is hot, humid and reeks of {Danimal waste{x and
+rotting vegetation.  
+~
+0
+BCV 22
+D1
+~
+~
+0 0
+0 0 1746
+D2
+~
+~
+0 0
+0 0 1744
+D3
+~
+~
+0 0
+0 0 1751
+S
+#1746
+A Crude Encampment~
+Here lies a well-used path that follows around the inside of the wooden
+defenses of a {yc{wa{Wmp si{wt{ye{x.  Despite how much work that has gone into creating
+the defensive walls, the structures within the camp are little more than
+stretched {Dh{yide awning{Ds{x with wooden support posts lashed together using
+sinew.  
+~
+0
+BCV 22
+D2
+~
+~
+0 0
+0 0 1747
+D3
+~
+~
+0 0
+0 0 1745
+S
+#1747
+A Crude Encampment~
+This is a well-used {Dp{yat{Dh{x that follows around the inside of the log wall
+{Df{yort{wificat{yion{Ds{x of a camp site.  Despite how much work that has gone into
+creating the defensive walls, the structures within the camp are little more
+than stretched {Dh{yide awning{Ds{x with timber support posts lashed together using
+{ys{wi{Wne{ww{x.  
+~
+0
+BCV 22
+D0
+~
+~
+0 0
+0 0 1746
+D2
+~
+~
+0 0
+0 0 1748
+D3
+~
+~
+0 0
+0 0 1744
+S
+#1748
+A Crude Encampment~
+Here lies a {Dm{yudd{Dy p{yat{Dh{x that follows around the inside of the log wall
+{Df{yort{wificat{yion{Ds{x of a camp site.  Despite how much work that has gone into
+creating the defensive walls, the structures within the camp are little more
+than stretched hide awnings with timber {Ds{yu{wppo{yr{Dt p{yo{ws{yt{Ds{x lashed together using
+{ys{wi{Wne{ww{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1747
+D3
+~
+~
+0 0
+0 0 1743
+S
+#1749
+A Crude Encampment~
+Here lies a well-used {Dp{yat{Dh{x that follows around the inside of the wooden
+fortifications of a camp site.  Despite how much work that has gone into
+creating the defensive walls, the structures within the camp are little more
+than stretched hide awnings with wooden {Ds{yu{wppo{yr{Dt p{yo{ws{yt{Ds{x lashed together using
+{ys{wi{Wne{ww{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1750
+D1
+~
+~
+0 0
+0 0 1743
+S
+#1750
+A Crude Encampment~
+This is a well-used path that follows around the inside of the timber
+defenses of a {yc{wa{Wmp si{wt{ye{x.  Despite how much work that has gone into creating
+the defensive walls, the structures within the camp are little more than
+stretched hide awnings with timber {Ds{yu{wppo{yr{Dt p{yo{ws{yt{Ds{x lashed together using
+sinew.  The air in this area is hot, humid and reeks of animal waste and
+{gr{Do{ytti{Dn{gg {x{gve{Dg{yetat{Di{gon{x.  
+~
+0
+BV 22
+D0
+~
+~
+0 0
+0 0 1751
+D1
+~
+~
+0 0
+0 0 1744
+D2
+~
+~
+0 0
+0 0 1749
+S
+#1751
+A Crude Encampment~
+Here lies a {Dm{yudd{Dy{x {Dt{yrac{Dk{x that follows around the inside of the log wall
+fortifications of a {yc{wa{Wmp si{wt{ye{x.  Despite how much work that has gone into
+creating the defensive walls, the structures within the camp are little more
+than stretched {Dh{yide awning{Ds{x with wooden{D s{yu{wppo{yr{Dt p{yo{ws{yt{Ds{x held together using
+{ys{wi{Wne{ww{x.  
+~
+0
+BV 22
+D1
+~
+~
+0 0
+0 0 1745
+D2
+~
+~
+0 0
+0 0 1750
+S
+#0
+
+
+
+#SPECIALS
+M 1605 spec_poison
+M 1607 spec_poison
+M 1609 spec_blademaster
+M 1612 spec_poison
+M 1618 spec_blademaster
+M 1619 spec_nasty
+M 1620 spec_duelling
+M 1621 spec_poison
+M 1623 spec_poison
+M 1624 spec_nasty
+M 1626 spec_poison
+M 1627 spec_archer
+M 1629 spec_channeler_hard
+M 1633 spec_blademaster
+M 1636 spec_nasty
+M 1637 spec_poison
+M 1639 spec_poison
+M 1640 spec_poison
+M 1642 spec_nasty
+S
+
+
+
+#RESETS
+O 0 1693 0 1602
+P 0 1694 1 1693 1
+O 0 1695 0 1603
+O 0 1648 0 1604
+M 0 1609 3 1605 1
+E 0 1600 0 20
+E 0 1602 0 8
+E 0 1603 0 7
+E 0 1604 0 5
+E 0 1605 0 9
+E 0 1606 0 15
+E 0 1607 0 25
+E 0 1609 0 16
+E 0 1611 0 12
+E 0 1612 0 10
+E 0 1613 0 11
+M 0 1608 6 1605 1
+E 0 1600 0 20
+E 0 1601 0 21
+E 0 1602 0 8
+E 0 1603 0 7
+E 0 1604 0 5
+E 0 1605 0 9
+E 0 1606 0 15
+E 0 1607 0 25
+E 0 1608 0 17
+E 0 1608 0 18
+E 0 1609 0 16
+E 0 1610 0 12
+M 0 1609 3 1606 1
+E 0 1600 0 20
+E 0 1602 0 8
+E 0 1603 0 7
+E 0 1604 0 5
+E 0 1605 0 9
+E 0 1606 0 15
+E 0 1607 0 25
+E 0 1609 0 16
+E 0 1611 0 12
+E 0 1612 0 10
+E 0 1613 0 11
+M 0 1608 6 1606 1
+E 0 1600 0 20
+E 0 1601 0 21
+E 0 1602 0 8
+E 0 1603 0 7
+E 0 1604 0 5
+E 0 1605 0 9
+E 0 1606 0 15
+E 0 1607 0 25
+E 0 1608 0 17
+E 0 1608 0 18
+E 0 1609 0 16
+E 0 1610 0 12
+M 0 1609 3 1607 1
+E 0 1649 0 1
+E 0 1600 0 20
+E 0 1602 0 8
+E 0 1603 0 7
+E 0 1604 0 5
+E 0 1605 0 9
+E 0 1606 0 15
+E 0 1607 0 25
+E 0 1609 0 16
+E 0 1611 0 12
+E 0 1612 0 10
+E 0 1613 0 11
+M 0 1608 6 1607 1
+E 0 1600 0 20
+E 0 1601 0 21
+E 0 1602 0 8
+E 0 1603 0 7
+E 0 1604 0 5
+E 0 1605 0 9
+E 0 1606 0 15
+E 0 1607 0 25
+E 0 1608 0 17
+E 0 1608 0 18
+E 0 1609 0 16
+E 0 1610 0 12
+O 0 1689 0 1609
+P 0 1690 1 1689 1
+M 0 1611 9 1610 3
+M 0 1610 3 1611 3
+M 0 1611 9 1612 3
+M 0 1600 8 1615 2
+M 0 1621 14 1616 2
+M 0 1601 8 1617 2
+M 0 1601 8 1618 2
+M 0 1602 8 1618 2
+M 0 1601 8 1619 2
+M 0 1621 14 1619 2
+M 0 1625 1 1621 1
+M 0 1621 14 1622 2
+M 0 1600 8 1625 2
+M 0 1626 3 1627 3
+O 0 1674 0 1633
+M 0 1613 10 1634 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1634 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1634 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+M 0 1613 10 1636 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1636 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1636 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+O 0 1675 0 1638
+M 0 1613 10 1638 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1638 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1638 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+M 0 1606 6 1639 3
+M 0 1607 6 1640 2
+M 0 1613 10 1640 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1640 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1640 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+O 0 1673 0 1641
+M 0 1607 6 1642 2
+M 0 1613 10 1643 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1643 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1643 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+O 0 1670 0 1644
+P 0 1672 1 1670 1
+M 0 1620 1 1644 1
+E 0 1641 0 20
+E 0 1642 0 8
+E 0 1643 0 16
+E 0 1644 0 9
+E 0 1645 0 23
+E 0 1646 0 3
+E 0 1647 0 5
+M 0 1607 6 1646 2
+M 0 1613 10 1647 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1647 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1647 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+E 0 1669 0 13
+O 0 1670 0 1648
+P 0 1671 1 1670 1
+M 0 1618 1 1651 1
+E 0 1628 0 15
+E 0 1629 0 8
+E 0 1630 0 10
+E 0 1631 0 9
+E 0 1632 0 18
+G 0 1633 0
+E 0 1634 0 16
+E 0 1635 0 7
+E 0 1636 0 12
+E 0 1637 0 20
+M 0 1613 10 1652 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1652 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1652 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+M 0 1606 6 1653 3
+M 0 1613 10 1654 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+E 0 1669 0 13
+M 0 1615 10 1654 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1654 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+O 0 1679 0 1655
+M 0 1613 10 1656 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1656 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1656 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+M 0 1613 10 1658 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+M 0 1615 10 1658 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1614 10 1658 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+O 0 1677 0 1659
+P 0 1678 1 1677 1
+O 0 1676 0 1660
+M 0 1604 12 1661 2
+M 0 1604 12 1662 2
+M 0 1619 1 1665 1
+E 0 1638 0 7
+E 0 1639 0 9
+E 0 1640 0 1
+M 0 1638 6 1669 6
+E 0 1666 0 20
+M 0 1638 6 1669 6
+E 0 1666 0 20
+M 0 1638 6 1669 6
+E 0 1666 0 20
+M 0 1638 6 1669 6
+E 0 1666 0 20
+M 0 1638 6 1669 6
+E 0 1666 0 20
+M 0 1638 6 1669 6
+E 0 1666 0 20
+M 0 1637 1 1669 1
+E 0 1667 0 13
+M 0 1604 12 1671 2
+M 0 1604 12 1672 2
+O 0 1616 0 1673
+M 0 1604 12 1673 2
+M 0 1604 12 1674 2
+O 0 1615 0 1676
+O 0 1617 0 1677
+P 0 1618 1 1617 1
+P 0 1619 1 1617 1
+M 0 1612 1 1677 1
+G 0 1614 0
+G 0 1668 0
+M 0 1603 6 1680 2
+M 0 1600 8 1680 2
+M 0 1622 1 1682 1
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1627 0 20
+E 0 1650 0 25
+E 0 1696 0 2
+O 0 1651 0 1687
+O 0 1651 0 1688
+O 0 1691 0 1692
+O 0 1691 0 1694
+P 0 1692 1 1691 1
+M 0 1623 2 1696 1
+G 0 1652 0
+E 0 1697 0 7
+M 0 1611 9 1699 3
+M 0 1624 1 1702 1
+M 0 1639 4 1704 1
+M 0 1640 4 1704 1
+M 0 1623 2 1706 1
+G 0 1668 0
+E 0 1697 0 7
+O 0 1698 0 1707
+M 0 1639 4 1707 1
+M 0 1640 4 1707 1
+O 0 1699 0 1709
+M 0 1639 4 1709 1
+M 0 1640 4 1709 1
+M 0 1639 4 1711 1
+M 0 1640 4 1711 1
+M 0 1621 14 1713 2
+M 0 1602 8 1716 2
+M 0 1603 6 1717 2
+M 0 1602 8 1718 2
+M 0 1603 6 1719 2
+M 0 1642 1 1719 1
+E 0 1638 0 7
+E 0 1639 0 9
+E 0 1700 0 11
+M 0 1602 8 1720 2
+M 0 1621 14 1721 2
+M 0 1601 8 1726 2
+M 0 1605 8 1727 2
+O 0 1655 0 1730
+M 0 1621 14 1731 2
+M 0 1605 8 1732 2
+O 0 1656 0 1733
+M 0 1605 8 1733 2
+M 0 1605 8 1734 2
+M 0 1617 3 1736 1
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1625 0 20
+E 0 1653 0 15
+E 0 1687 0 11
+M 0 1616 6 1736 2
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1627 0 20
+E 0 1654 0 25
+O 0 1685 0 1738
+P 0 1686 1 1685 1
+M 0 1617 3 1738 1
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1625 0 20
+E 0 1653 0 15
+E 0 1710 0 13
+M 0 1616 6 1738 2
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1627 0 20
+E 0 1654 0 25
+E 0 1710 0 13
+M 0 1600 8 1739 2
+M 0 1617 3 1740 1
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1625 0 20
+E 0 1653 0 15
+E 0 1710 0 13
+M 0 1616 6 1740 2
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1627 0 20
+E 0 1654 0 25
+E 0 1710 0 13
+O 0 1706 0 1741
+P 0 1707 4 1706 4
+M 0 1621 14 1741 2
+O 0 1709 0 1742
+M 0 1627 4 1742 4
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1682 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1657 0 20
+E 0 1658 0 19
+M 0 1627 4 1742 4
+E 0 1681 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1657 0 20
+E 0 1658 0 19
+G 0 1705 0
+M 0 1636 4 1743 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1641 4 1743 1
+E 0 1681 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1680 0 20
+M 0 1634 4 1744 1
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1627 0 20
+M 0 1635 4 1744 1
+E 0 1681 0 9
+E 0 1682 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1625 0 20
+O 0 1708 0 1745
+O 0 1659 0 1745
+M 0 1633 1 1745 1
+E 0 1628 0 15
+E 0 1629 0 8
+E 0 1630 0 10
+E 0 1631 0 9
+E 0 1632 0 18
+E 0 1634 0 16
+E 0 1635 0 7
+E 0 1636 0 12
+E 0 1637 0 20
+M 0 1628 1 1745 1
+M 0 1631 1 1746 1
+E 0 1625 0 20
+M 0 1632 1 1746 1
+E 0 1627 0 20
+E 0 1664 0 23
+M 0 1630 3 1746 3
+M 0 1630 3 1746 3
+M 0 1630 3 1746 3
+O 0 1663 0 1746
+O 0 1659 0 1747
+M 0 1629 1 1747 1
+E 0 1660 0 4
+E 0 1661 0 8
+E 0 1662 0 15
+E 0 1665 0 0
+E 0 1683 0 25
+E 0 1684 0 2
+E 0 1688 0 1
+M 0 1634 4 1748 1
+E 0 1620 0 9
+E 0 1621 0 10
+E 0 1682 0 7
+E 0 1623 0 12
+E 0 1625 0 20
+M 0 1635 4 1748 1
+E 0 1620 0 9
+E 0 1682 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+O 0 1703 0 1749
+P 0 1704 1 1703 1
+M 0 1636 4 1749 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+G 0 1702 0
+M 0 1641 4 1749 1
+E 0 1681 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1680 0 20
+O 0 1659 0 1750
+M 0 1636 4 1750 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1626 0 20
+M 0 1641 4 1750 1
+E 0 1681 0 9
+E 0 1621 0 10
+E 0 1682 0 7
+E 0 1623 0 12
+E 0 1680 0 20
+E 0 1701 0 1
+M 0 1634 4 1751 1
+E 0 1681 0 9
+E 0 1621 0 10
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1625 0 20
+M 0 1635 4 1751 1
+E 0 1620 0 9
+E 0 1622 0 7
+E 0 1623 0 12
+E 0 1624 0 18
+E 0 1627 0 20
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

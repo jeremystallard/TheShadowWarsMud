@@ -1,0 +1,474 @@
+#HELPS
+94 ALIST 'ALIST VNUM' 'ALIST NAME' 'ALIST INFO'~
+Syntax: ALIST
+Syntax: ALIST VNUM
+Syntax: ALIST NAME
+Syntax: ALIST INFO
+
+This command gives you a listing of all the areas along with their
+vnum assignments and the builder(s) assigned to editing them.
+ 
+ALIST VNUM sorts the alist based on vnum.
+ 
+ALIST NAME sorts the alist based on area name.
+ 
+ALIST INFO give a info page about all areas.
+~
+
+0 AEDIT~
+Syntax: edit area	 -Enters the editor for the current area.
+Syntax: edit area <vnum> -Enters the editor for the selected area.
+
+The follow commands are available from within the AEDITOR:
+
+age <number>        - set the age of the area
+builder <player>    - toggle that builder's access
+commands            - prints a list of possible commands
+create              - create a brand new area and switch to it
+done                - exits the area editor and returns to normal play
+filename <filename> - change the file name for the area (be careful)
+name <name>         - change the 'AREAS' name of this area
+reset               - resets the current area
+security <rating>   - set the security rating for this area
+show                - hitting return, or 'show' shows the area stats
+vnum <lower> <upper>- set the lower and upper vnum's
+lvnum <lower>       - set the lower vnum
+uvnum <upper>       - set the upper vnum
+<flags>             - area flags, type ? AREA for a list
+~
+
+0 REDIT~
+Syntax: edit room		-Enters the editor for the current room.
+
+The following commands are available from within the REDITOR:
+
+commands            - prints a list of possible commands
+create <vnum>       - creates a room with a certain vnum
+desc                - edit description of room
+done                - exists the room editor and returns to normal play
+ed                  - type this command for additonal extra-description help
+format              - format(wordwrap) the room description
+name <room title>   - changes the room title
+show                - hitting return, or 'show' shows the room stats
+oshow <vnum>        - shows an object with given vnum
+olist               - lists objects in this area.
+mshow <vnum>        - shows a mobile with given vnum
+mlist               - lists mobiles in this area.
+room <flags>        - room attributes, type ? ROOM for a list
+sector <type>       - terrain of room, type ? SECTOR for a list
+<direction>         - see help EXIT, or type <dir> ?
+~
+
+0 EXIT~
+For exits, type the direction (north/s/e/w) followed by:
+
+dig <vnum>         - creates the room and makes a two way link
+link <room vnum>   - make a two way link
+room <room vnum>   - make a one way link (use with caution)
+key <object vnum>  - makes specified object the vnum of the key required
+name <door name>   - makes the door's name/keywords = to the given name
+desc               - edit the description of the exit
+delete             - delete this exit
+<exit-flags>       - type ? EXIT for a list(make exit door, locked etc.)
+
+The exit flags are presented in the following manner.  The capitalized
+flags are ones not included in the reset info.  i.e. closed is due to
+a player closing the door and not due to the door being set to be closed.
+
+-South to [ 3744] Key: [   -1] Exit flags: [door CLOSED bashed pickproof]
+~
+
+0 OEDIT~
+Syntax: edit object <vnum>	-Enters the editor for the selected object.
+
+The following commands are available from within the OEDITOR:
+
+addaffect           - applies an affect to an object, no args for help
+delaffect           - removes an affect to an object, no args for help
+commands            - prints a list of possible commands
+cost <gold>         - sets the gold value of the object
+create <vnum>       - creates object with specified vnum
+done                - exits the object editor and returns to normal play
+ed                  - type this for info on adding/editing extended descripts
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an object
+short <desc>        - sets the 'name' of an object (a sword, a fish etc)
+show                - hitting return, or 'show' shows the object stats
+v0 <num>            - sets the value '0' on the object
+v1 <num>            - sets the value '1' on the object
+v2 <num>            - sets the value '2' on the object
+v3 <num>            - sets the value '3' on the object
+v4 <num>            - sets the value '4' on the objcet
+weight <num>        - sets the weight of the object
+type         	    - type of object, type ? TYPE for a list
+extra		    - attributes of object, type ? EXTRA for a list
+wear                - where object is worn, type ? WEAR for a list
+material            - material the object is made from
+~
+
+0 MEDIT~
+Syntax: medit <vnum>		-Enters the editor for the selected mobile.
+
+The following commands are available from within the MEDITOR:
+
+alignment <value>   - set the mobile's alignment
+commands            - prints a list of possible commands
+create <vnum>       - creates mobile with specified vnum
+desc                - edit the mobile's description (when looked at)
+done                - exits the mobile editor and returns to normal play
+level <level>       - set the mobile's level
+long                - edit long description (the one in the room)
+name <keywords>     - sets the keywords on an mobile
+shop                - type this command for further information
+short <desc>        - sets the 'name' of an mobile (a sword, a fish etc)
+show                - hitting return, or 'show' shows the mobile stats
+spec                - sets a mobiles spec proc, type ? SPEC for a list
+sex                 - set the mobile's sex, type ? SEX for a list
+act                 - mobiles actions, type ? ACT for a list
+affect              - mobile affects, type ? AFFECT for a list
+ac		    - set the mobile's ac, type ? AC for a list
+form		    - mobiles body-form, type ? FORM for a list
+part		    - mobiles bodyparts, type ? PART for a list
+imm		    - mobile is immune to, type ? IMM for a list
+res		    - mobile is resistant to, type ? RES for a list
+vuln		    - mobile is vulnerable to, type ? VULN for a list
+material	    - material mobile is made from, type ? MATERIAL for a list
+off		    - offensive behaviour, type ? OFF for a list
+size		    - size, type ? SIZE for a list
+hitdice		    - dice to toss to get mobile's hitpoints
+manadice	    - dice to toss to get mobile's mana
+damdice		    - dice to toss to get mobile's hand to hand damage
+
+type 'help HITDICE', 'help MANADICE', 'help DAMDICE' for lists of reasonable dice 
+combinations on different levels.
+~
+
+94 HITDICE~
+Level   Hitdice         Level   Hitdice
+1       1d2+6           51      27d27+2219
+2       1d4+14          52      27d28+2301
+3       1d7+23          53      28d28+2385
+4       2d5+33          54      28d29+2471
+5       3d5+45          55      29d29+2558
+6       4d5+59          56      29d30+2646
+7       4d6+74          57      30d30+2736
+8       5d6+90          58      30d31+2828
+9       6d6+108         59      31d31+2921
+10      6d7+128         60      31d32+3015
+11      7d7+149         61      32d32+3111
+12      7d8+171         62      32d33+3209
+13      8d8+195         63      33d33+3308
+14      8d9+221         64      33d34+3408
+15      9d9+248         65      34d34+3510
+16      9d10+276        66      34d35+3614
+17      10d10+306       67      35d35+3719
+18      10d11+338       68      35d36+3825
+19      11d11+371       69      36d36+3933
+20      11d12+405       70      36d37+4043
+21      12d12+441       71      37d37+4154
+22      12d13+479       72      37d38+4266
+23      13d13+518       73      38d38+4380
+24      13d14+558       74      38d39+4496
+25      14d14+600       75      39d39+4613
+26      14d15+644       76      39d40+4731
+27      15d15+689       77      40d40+4851
+28      15d16+735       78      40d41+4973
+29      16d16+783       79      41d41+5096
+30      16d17+833       80      41d42+5220
+31      17d17+884       81      42d42+5346
+32      17d18+936       82      42d43+5474
+33      18d18+990       83      43d43+5603
+34      18d19+1046      84      43d44+5733
+35      19d19+1103      85      44d44+5865
+36      19d20+1161      86      44d45+5999
+37      20d20+1221      87      45d45+6134
+38      20d21+1283      88      45d46+6270
+39      21d21+1346      89      46d46+6408
+40      21d21+1410      90      46d47+6548
+41      22d22+1476      91      47d47+6689
+42      22d23+1544      92      47d48+6831
+43      23d23+1613      93      48d48+6975
+44      23d24+1683      94      48d49+7121
+45      24d24+1755      95      49d49+7268
+46      24d25+1829      96      49d50+7416
+47      25d25+1904      97      50d50+7566
+48      25d26+1980      98      50d51+7718
+49      26d26+2058      99      51d51+7871
+50      26d27+2138     100      51d52+8025
+
+To make your mobs stronger, either increase the number of dice, or the
+modifier, or increase the type of dice. Changing any one of these
+variables will alter the mean of the mob and thus, change its hitpoints.
+~
+
+94 ENDURANCEDICE~
+Level     Endurance Dice  Level     Endurance Dice
+1         1d10+100        51        51d10+100
+2         2d10+100        52        52d10+100
+3         3d10+100        53        53d10+100
+4         4d10+100        54        54d10+100
+5         5d10+100        55        55d10+100
+6         6d10+100        56        56d10+100
+7         7d10+100        57        57d10+100
+8         8d10+100        58        58d10+100
+9         9d10+100        59        59d10+100
+10        10d10+100       60        60d10+100
+11        11d10+100       61        61d10+100
+12        12d10+100       62        62d10+100
+13        13d10+100       63        63d10+100
+14        14d10+100       64        64d10+100
+15        15d10+100       65        65d10+100
+16        16d10+100       66        66d10+100
+17        17d10+100       67        67d10+100
+18        18d10+100       68        68d10+100
+19        19d10+100       69        69d10+100
+20        20d10+100       70        70d10+100
+21         21d10+100      71        71d10+100 
+22         22d10+100      72        72d10+100 
+23         23d10+100      73        73d10+100 
+24         24d10+100      74        74d10+100 
+25         25d10+100      75        75d10+100 
+26         26d10+100      76        76d10+100 
+27         27d10+100      77        77d10+100 
+28         28d10+100      78        78d10+100 
+29         29d10+100      79        79d10+100 
+30         30d10+100      80        80d10+100 
+31         31d10+100      81        81d10+100 
+32         32d10+100      82        82d10+100 
+33         33d10+100      83        83d10+100 
+34         34d10+100      84        84d10+100 
+35         35d10+100      85        85d10+100 
+36         36d10+100      86        86d10+100 
+37         37d10+100      87        87d10+100 
+38         38d10+100      88        88d10+100 
+39         39d10+100      89        89d10+100 
+40         40d10+100      90        90d10+100 
+41         41d10+100      91        91d10+100 
+42         42d10+100      92        92d10+100 
+43         43d10+100      93        93d10+100 
+44         44d10+100      94        94d10+100 
+45         45d10+100      95        95d10+100 
+46         46d10+100      96        96d10+100 
+47         47d10+100      97        97d10+100 
+48         48d10+100      98        98d10+100 
+49         49d10+100      99        99d10+100 
+50         50d10+100      100      100d10+100
+~
+
+94 DAMDICE~
+Level   Dam Dice      Level   Dam Dice
+1       1d2+0         51      5d10+26
+2       1d2+1         52      4d13+26
+3       1d3+2         53      5d11+27
+4       1d4+2         54      5d11+27
+5       2d3+3         55      5d11+28
+6       2d3+3         56      7d8+28
+7       2d4+4         57      8d7+29
+8       2d4+4         58      5d12+29
+9       2d5+5         59      5d12+30
+10      2d5+5         60      6d10+30
+11      3d4+6         61      6d10+31
+12      3d4+6         62      6d10+31
+13      3d4+7         63      7d9+32
+14      3d5+7         64      8d8+32
+15      3d5+8         65      5d13+33
+16      4d4+8         66      6d11+33
+17      3d6+9         67      6d11+34
+18      3d6+9         68      6d11+34
+19      3d6+10        69      5d14+35
+20      4d5+10        70      7d10+35
+21      3d7+11        71      7d10+36
+22      4d5+11        72      6d12+36
+23      4d6+12        73      6d12+37
+24      4d6+12        74      5d15+37
+25      5d5+13        75      5d15+38
+26      5d5+13        76      7d11+38
+27      3d9+14        77      7d11+39
+28      4d7+14        78      11d7+39
+29      4d7+15        79      8d10+40
+30      5d6+15        80      8d10+40
+31      5d6+16        81      9d9+41
+32      4d8+16        82      9d9+41
+33      3d11+17       83      7d12+42
+34      5d7+17        84      7d12+42
+35      5d7+18        85      12d7+43
+36      4d9+18        86      7d13+43
+37      6d6+19        87      8d11+44
+38      3d13+19       88      8d11+44
+39      5d8+20        89      11d8+45
+40      5d8+20        90      9d10+45
+41      5d8+21        91      7d13+46
+42      6d7+21        92      7d13+46
+43      7d6+22        93      9d10+47
+44      4d11+22       94      9d10+47
+45      5d9+23        95      5d19+48
+46      5d9+23        96      8d12+48
+47      6d8+24        97      8d12+49
+48      6d8+24        98      12d8+49
+49      7d7+25        99      9d11+50
+50      5d10+25      100      10d10+50
+~
+
+94 RESET RESETS~
+Syntax: RESET <number> OBJ <vnum> <location on body>    - equips last mobile
+        RESET <number> OBJ <vnum> inside <obj vnum>     - store in container
+        RESET <number> OBJ <vnum> room                  - store in room
+        RESET <number> MOB <vnum> <maxarea> <maxroom>   - load a mobile
+        RESET <number> DELETE                           - delete a reset
+ 
+ 
+RESET alone will display the resets in the current room.  The <number> will
+be displayed with this list - meaning the order that the resets are in.  
+Typing '? wear-loc' will list possible locations for an object to be reset.  
+<maxarea> refers the maximum number of that vnum mob in your area.  Don't be
+skimpy if you mean to have many of the same type of mob prowling in your
+area.  <maxroom> refers to the maximum number of that vnum mob that can be
+in the room, be it from being reset or from wandering into the room.
+ 
+For resets to be successful make sure that you add them in a logical order.
+For example, if you are equiping a mobile, make the mob reset 1 and then 
+load all of the equipment as reset 2, 3, 4, etc. If you reset anything else 
+between the mob and its equipment, the reset will not work and the mob will 
+not be wearing anything. Or, if you are making a container, the container 
+will need to be reset 1 and the object inside the container needs to be reset
+2.
+ 
+If you wish to reset the room then use '{Wredit reset{x'
+~
+
+94 MOB_AC~
+The values ROM generates for a merc format mob is:
+
+   level      pierce    bash    slash   exotic
+     1          95       95       95      95
+     5          70       70       70      85
+    10          40       40       40      70
+    15           5        5        5      55
+    20         -25      -25      -25      40
+    25         -55      -55      -55      20
+    30         -90      -90      -90       5
+    35        -120     -120     -120     -10
+    40        -150     -150     -150     -25
+    45        -180     -180     -180     -40
+    50        -215     -215     -215     -55
+    55        -245     -245     -245     -70
+    60        -275     -275     -275     -90
+    65        -305     -305     -305    -105
+    70        -340     -340     -340    -120
+    80        -400     -400     -400    -150
+
+These values are 10 times what you would put in an area file. This
+is because the server multiplies what it reads from file with 10.
+~
+
+94 ITEM_LIGHT~
+.   value 0    unused
+   value 1    unused
+   value 2    hours of light available, 0 is dead, -1 or 999 is infinite            
+   value 3    unused
+   value 4    unused
+~
+
+94 ITEM_STAFF_WAND~
+.   value 0    level
+   value 1    max charges
+   value 2    current charges
+   value 3    spell name
+   value 4    unused
+
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+0 ITEM_SCROLL_POTION_PILL~
+.   value 0    level
+   value 1    spell name 1
+   value 2    spell name 2
+   value 3    spell name 3
+   value 4    unused
+
+An up-to-date list of spells can be obtained by typing:
+? SPELLS [ignore/attack/defend/self/object/all]
+~
+
+94 ITEM_ARMOR~
+.   value 0    ac pierce
+   value 1    ac bash
+   value 2    ac slash
+   value 3    ac exotic (magic)
+   value 4    unused
+~
+
+94 ITEM_WEAPON~
+.   value 0    weapon class.
+   value 1    number of dice to roll.
+   value 2    type of dice to roll.
+   value 3    weapon type.
+   value 4    special weapon type.
+
+An up-to-date list of values can be obtained by typing
+? WCLASS
+help WEAPON_DICE
+? WEAPON
+? WTYPE
+~
+
+94 WEAPON_DICE~
+These are the values the server generates automatically when
+converting a merc-format mobile to ROM format.  A higher
+number of dice gives less variance in damage.  There is no
+dice-bonus on weapon dice.
+
+      level:   dice 
+        1:     1d8
+        2:     2d5
+        3:     2d5
+        5:     2d6
+       10:     4d5
+       20:     5d5
+       30:     5d7
+       50:     5d11
+~
+
+94 ITEM_CONTAINER~
+.   value 0    weight capacity
+   value 1    flags: closeable, pickproof, closed, locked            
+   value 2    key vnum
+   value 3    unused
+   value 4    unused
+
+An up-to-date list of flags can be obtained by typing
+? CONTAINTER
+~
+
+0 ITEM_DRINK~
+.   value0    capacity
+   value 1    current quantity
+   value 2    liquid type
+   value 3    poisoned?
+   value 4    unused
+
+An up-to-date list of liquid types can be obtained by typing
+? LIQUID
+~
+
+94 ITEM_FOOD~
+.   value 0    hours of food value
+   value 1    unused
+   value 2    unused
+   value 3    poisoned?
+   value 4    unused
+~
+
+94 ITEM_MONEY~
+.   value 0    value in gold pieces
+   value 1    unused
+   value 2    unused
+   value 3    unused
+   value 4    unused
+~
+
+-1 $~
+
+#$

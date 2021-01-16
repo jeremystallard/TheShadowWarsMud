@@ -1,0 +1,3511 @@
+#AREADATA
+Name Caemlyn~
+Builders None~
+VNUMs 13000 13299
+Credits Eldoran~
+Security 2
+Low 0
+High 90
+Flags 36
+Version 2
+End
+
+
+
+#MOBILES
+#13000
+banker~
+a {ybanker{x~
+A {ybanker{x is here, ready to serve you.
+~
+~
+andoran~
+ABUd DFJ 0 0
+1 0 2d6+10 1d10+100 1d4+0 none
+0 0 0 0 0
+0
+9 9 9 9
+0 ABCDEFGHJMNOPQRTXYZ 0 0
+stand stand male 0
+0 QU medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#13000
+fireplace fire~
+a large {Dstone{x {rfi{Rre{Yp{Rla{rce{x~
+A large {Dstone{r fi{Rre{Yp{Rla{rce{x is here, its {rf{Rl{Ya{Rm{re{x spreading revitalizing warmth.~
+cloth~
+furniture AO P
+999 16777215 ADGJ 200 200
+91 32767 0 100
+#13001
+fountain marble~
+a {Bg{cu{Br{cg{Bl{ci{Bn{cg{W mar{Db{Wle{x fountain~
+A large {Wmar{Db{Wle{x fountain stands here, {Bg{cu{Br{cg{Bl{ci{Bn{cg{B water{x splashing forth.~
+cloth~
+fountain 0 P
+-1 -1 'water' 0 0
+0 10000 0 100
+#13002
+table tables chair chairs~
+a {ytable{x~
+A number of {ytables{x and {ychairs{x fills the room.~
+wood~
+furniture O P
+50 20000 DGJ 125 125
+0 0 0 100
+#13003
+marble fountain~
+a massive {Wmar{Db{Wle{x fountain~
+A massive {Bg{cu{Br{cg{Bl{ci{Bn{cg{W mar{Db{Wle{x fountain stands grandly here.~
+marble~
+fountain OSY P
+-1 -1 'water' 0 0
+0 0 0 100
+#13128
+oven stone~
+a {Dmassive{x stone oven~
+A {Dmassive{x stone oven is here, radiating {Rheat{x throughout the kitchen.~
+stone~
+container O P
+10000 A 0 10 100
+0 0 0 100
+#13138
+chest~
+a small chest~
+A small chest is here, resting unobtrustively in the corner.~
+cloth~
+container Ca A
+5000 AC 0 5000 1
+10 32767 0 100
+#13139
+cabinet wooden~
+a {ywooden{x cabinet~
+A {ywooden{x cabinet stands near the door.~
+cloth~
+container a P
+5000 AC 0 5000 1
+10 32767 0 100
+#13299
+wooden sign~
+an odd sign~
+A wooden sign with arrows pointing in all directions floats here.~
+wood~
+trash CIY P
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+Floating in the midst of chaos, this wooden sign seems very out of place.
+Numerous arrows pointing in all directions are nailed onto it, and flowing
+script can be seen written on each:
+
+North -> Caemlyn North Gate
+South -> Stedding Tsofu
+East -> Caemlyn East Gate
+West -> Caemlyn West Gate
+Up -> Caemlyn Palace
+Down -> Main Street Caemlyn
+~
+#0
+
+
+
+#ROOMS
+#13000
+The Crossroads~
+Eddies of time and space swirl about you as you float in the endless void
+of chaos.  Incoherent flashes of light and color fill your view and
+disappear in the blink of an eye.  This is what must have existed before the
+Gods created the Universe.  Oddly enough, a large wooden sign floats before
+you with arrows nailed onto it pointing in all directions.  A vaguely
+familiar flowing script adorns each.  Perhaps you should look closer...  
+~
+0
+CDKP 0
+E
+sign~
+Floating in the midst of chaos, this wooden sign seems very out of place.
+Numerous arrows pointing in all directions are nailed onto it, and flowing
+script can be seen written on each:
+North -> Caemlyn North Gate
+South -> Stedding Tsofu
+East -> Caemlyn East Gate
+West -> Caemlyn West Gate
+Up -> Caemlyn Palace
+Down -> Main Street Caemlyn
+~
+M 500 H 500
+S
+#13001
+Intersection of South and West Wall Roads~
+The South and West Wall roads meet here at the southwest corner of
+Caemlyn.  The immense form of the Palace dominates your view to the
+northeast, and the city continues beyond it.  A great stone wall stands high
+to the west and south, protecting the city in times of war.  The cobblestone
+street leads east and north from here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13060
+D1
+~
+~
+0 0
+0 0 13002
+S
+#13002
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13003
+D3
+~
+~
+0 0
+0 0 13001
+S
+#13003
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13004
+D3
+~
+~
+0 0
+0 0 13002
+S
+#13004
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13005
+D3
+~
+~
+0 0
+0 0 13003
+S
+#13005
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13006
+D3
+~
+~
+0 0
+0 0 13004
+S
+#13006
+Before the South Gate~
+Standing tall and majestic, the great South Gate of Caemlyn opens
+southward.  Flanked by great stone towers, the vaulting archway in the stone
+of the South Wall stands tall enough that ten giants abreast could walk
+through it.  Massive, iron-reinforced oaken doors stand open, allowing
+travellers and merchants into the city under the watchful eyes from the
+guard towers.  The South Wall road leads to the east and west from here, and
+the South Gate stands open onto the South Road, leading to Far Madding and
+beyond.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13007
+D2
+~
+~
+65 65
+1 0 13150
+D3
+~
+~
+0 0
+0 0 13005
+S
+#13007
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13008
+D3
+~
+~
+0 0
+0 0 13006
+S
+#13008
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13009
+D3
+~
+~
+0 0
+0 0 13007
+S
+#13009
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13010
+D3
+~
+~
+0 0
+0 0 13008
+S
+#13010
+South Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13011
+D3
+~
+~
+0 0
+0 0 13009
+S
+#13011
+Intersection of South and West Wall Roads~
+The South and East wall roads meet here at the southeast corner of
+Caemlyn.  The immense form of the Palace rises immediately to the southwest
+from here, and the city of Caemlyn stretches beyond it.  A great stone wall
+rises to the east and south of the road, protecting the city from invaders
+in times of war.  The cobblestone road continues to the north and west from
+here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13012
+D3
+~
+~
+0 0
+0 0 13010
+S
+#13012
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13013
+D2
+~
+~
+0 0
+0 0 13011
+S
+#13013
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13014
+D2
+~
+~
+0 0
+0 0 13012
+S
+#13014
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13015
+D2
+~
+~
+0 0
+0 0 13013
+S
+#13015
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13016
+D2
+~
+~
+0 0
+0 0 13014
+S
+#13016
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13017
+D2
+~
+~
+0 0
+0 0 13015
+S
+#13017
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13018
+D2
+~
+~
+0 0
+0 0 13016
+S
+#13018
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13019
+D2
+~
+~
+0 0
+0 0 13017
+S
+#13019
+Intersection of East Wall Road and New City Crossing~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13020
+D2
+~
+~
+0 0
+0 0 13018
+D3
+~
+~
+0 0
+0 0 13125
+S
+#13020
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13021
+D2
+~
+~
+0 0
+0 0 13019
+S
+#13021
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13022
+D2
+~
+~
+0 0
+0 0 13020
+S
+#13022
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13023
+D2
+~
+~
+0 0
+0 0 13021
+S
+#13023
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13024
+D2
+~
+~
+0 0
+0 0 13022
+D3
+~
+~
+0 0
+0 0 13159
+S
+#13024
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13025
+D2
+~
+~
+0 0
+0 0 13023
+S
+#13025
+Before the East Gate~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13026
+D1
+~
+~
+1 1
+1 0 13149
+D2
+~
+~
+0 0
+0 0 13024
+D3
+~
+~
+0 0
+0 0 13073
+S
+#13026
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13027
+D2
+~
+~
+0 0
+0 0 13025
+S
+#13027
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13028
+D2
+~
+~
+0 0
+0 0 13026
+S
+#13028
+Intersection of East Wall Road and Queen~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13029
+D2
+~
+~
+0 0
+0 0 13027
+D3
+~
+~
+0 0
+0 0 13086
+S
+#13029
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13030
+D2
+~
+~
+0 0
+0 0 13028
+S
+#13030
+East Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13031
+D2
+~
+~
+0 0
+0 0 13029
+S
+#13031
+Intersection of South and East Wall Roads~
+The North and East Wall roads meet here at the northeast corner of
+Caemlyn.  The rising buildings of the city can be seen to the south and west
+from here, and in the distance the immense form of the Palace rises in the
+horizon to the southwest.  A great stone wall stands high to your immediate
+north and east, protecting the city from intruders.  The cobblestone street
+continues south and west from here.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 13030
+D3
+~
+~
+0 0
+0 0 13032
+S
+#13032
+North Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13031
+D3
+~
+~
+0 0
+0 0 13033
+S
+#13033
+North Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13032
+D3
+~
+~
+0 0
+0 0 13034
+S
+#13034
+Intersection of East Wall Road and Lion~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13033
+D2
+~
+~
+0 0
+0 0 13088
+D3
+~
+~
+0 0
+0 0 13035
+S
+#13035
+North Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13034
+D3
+~
+~
+0 0
+0 0 13036
+S
+#13036
+Before the North Gate~
+~
+0
+0 1
+D0
+~
+~
+65 65
+1 0 13151
+D1
+~
+~
+0 0
+0 0 13035
+D3
+~
+~
+0 0
+0 0 13037
+S
+#13037
+North Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13036
+D3
+~
+~
+0 0
+0 0 13038
+S
+#13038
+Intersection of East Wall Road and Rose~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13037
+D2
+~
+~
+0 0
+0 0 13090
+D3
+~
+~
+0 0
+0 0 13039
+S
+#13039
+North Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13038
+D3
+~
+~
+0 0
+0 0 13040
+S
+#13040
+North Wall Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13039
+D3
+~
+~
+0 0
+0 0 13041
+S
+#13041
+Intersection of South and West Wall Roads~
+The North and West Wall roads meet here at the northwest corner of
+Caemlyn.  The rising buildings of the city can be seen to the south and east
+from here, and in the distance the immense form of the Palace rises in the
+horizon to the southeast.  A great stone wall stands high to your immediate
+north and west, protecting the city from intruders.  The cobblestone street
+continues south and east from here.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13040
+D2
+~
+~
+0 0
+0 0 13042
+S
+#13042
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13041
+D2
+~
+~
+0 0
+0 0 13043
+S
+#13043
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13042
+D2
+~
+~
+0 0
+0 0 13044
+S
+#13044
+Intersection of West Wall Road and Queen~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13043
+D1
+~
+~
+0 0
+0 0 13078
+D2
+~
+~
+0 0
+0 0 13045
+S
+#13045
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13044
+D2
+~
+~
+0 0
+0 0 13046
+S
+#13046
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13045
+D2
+~
+~
+0 0
+0 0 13047
+S
+#13047
+Before the West Gate~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13046
+D1
+~
+~
+0 0
+0 0 13061
+D2
+~
+~
+0 0
+0 0 13048
+D3
+~
+~
+1 1
+1 0 13142
+S
+#13048
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13047
+D2
+~
+~
+0 0
+0 0 13049
+S
+#13049
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13048
+D2
+~
+~
+0 0
+0 0 13050
+S
+#13050
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13049
+D2
+~
+~
+0 0
+0 0 13051
+S
+#13051
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13050
+D2
+~
+~
+0 0
+0 0 13052
+S
+#13052
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13051
+D2
+~
+~
+0 0
+0 0 13053
+S
+#13053
+Intersection of West Wall Road and New City Crossing~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13052
+D1
+~
+~
+0 0
+0 0 13124
+D2
+~
+~
+0 0
+0 0 13054
+S
+#13054
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13053
+D2
+~
+~
+0 0
+0 0 13055
+S
+#13055
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13054
+D2
+~
+~
+0 0
+0 0 13056
+S
+#13056
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13055
+D2
+~
+~
+0 0
+0 0 13057
+S
+#13057
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13056
+D2
+~
+~
+0 0
+0 0 13058
+S
+#13058
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13057
+D2
+~
+~
+0 0
+0 0 13059
+S
+#13059
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13058
+D2
+~
+~
+0 0
+0 0 13060
+S
+#13060
+West Wall Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13059
+D2
+~
+~
+0 0
+0 0 13001
+S
+#13061
+Main Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13062
+D3
+~
+~
+0 0
+0 0 13047
+S
+#13062
+Main Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13063
+D3
+~
+~
+0 0
+0 0 13061
+S
+#13063
+Intersection of Rose and Main~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13074
+D1
+~
+~
+0 0
+0 0 13066
+D2
+~
+~
+0 0
+0 0 13064
+D3
+~
+~
+0 0
+0 0 13062
+S
+#13064
+Rose Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13063
+D1
+~
+~
+0 0
+0 0 13188
+D2
+~
+~
+0 0
+0 0 13065
+S
+#13065
+Rose Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13064
+D2
+~
+~
+0 0
+0 0 13108
+S
+#13066
+Main Street~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13158
+D1
+~
+~
+0 0
+0 0 13067
+D3
+~
+~
+0 0
+0 0 13063
+S
+#13067
+Main Street~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13127
+D1
+~
+~
+0 0
+0 0 13068
+D3
+~
+~
+0 0
+0 0 13066
+S
+#13068
+Main Street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13069
+D2
+~
+~
+0 0
+0 0 13157
+D3
+~
+~
+0 0
+0 0 13067
+S
+#13069
+Intersection of Lion and Main~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13084
+D1
+~
+~
+0 0
+0 0 13072
+D2
+~
+~
+0 0
+0 0 13070
+D3
+~
+~
+0 0
+0 0 13068
+S
+#13070
+Lion Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13069
+D2
+~
+~
+0 0
+0 0 13071
+S
+#13071
+Lion Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13070
+D2
+~
+~
+0 0
+0 0 13104
+S
+#13072
+Main Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13073
+D3
+~
+~
+0 0
+0 0 13069
+S
+#13073
+Main Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13025
+D3
+~
+~
+0 0
+0 0 13072
+S
+#13074
+Rose Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13075
+D2
+~
+~
+0 0
+0 0 13063
+D3
+~
+~
+0 0
+0 0 13156
+S
+#13075
+Rose Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13076
+D1
+~
+~
+0 0
+0 0 13153
+D2
+~
+~
+0 0
+0 0 13074
+S
+#13076
+Intersection of Rose and Queen~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13089
+D1
+~
+~
+0 0
+0 0 13079
+D2
+~
+~
+0 0
+0 0 13075
+D3
+~
+~
+0 0
+0 0 13077
+S
+#13077
+Queen Street~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13166
+D1
+~
+~
+0 0
+0 0 13076
+D3
+~
+~
+0 0
+0 0 13078
+S
+#13078
+Queen Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13077
+D3
+~
+~
+0 0
+0 0 13044
+S
+#13079
+Queen Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13080
+D3
+~
+~
+0 0
+0 0 13076
+S
+#13080
+Queen Street~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13163
+D1
+~
+~
+0 0
+0 0 13081
+D3
+~
+~
+0 0
+0 0 13079
+S
+#13081
+Queen Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13082
+D3
+~
+~
+0 0
+0 0 13080
+S
+#13082
+Intersection of Lion and Queen~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13087
+D1
+~
+~
+0 0
+0 0 13085
+D2
+~
+~
+0 0
+0 0 13083
+D3
+~
+~
+0 0
+0 0 13081
+S
+#13083
+Lion Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13082
+D1
+~
+~
+0 0
+0 0 13155
+D2
+~
+~
+0 0
+0 0 13084
+S
+#13084
+Lion Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13083
+D2
+~
+~
+0 0
+0 0 13069
+S
+#13085
+Queen Street~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13154
+D1
+~
+~
+0 0
+0 0 13086
+D3
+~
+~
+0 0
+0 0 13082
+S
+#13086
+Queen Street~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13028
+D3
+~
+~
+0 0
+0 0 13085
+S
+#13087
+Lion Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13088
+D2
+~
+~
+0 0
+0 0 13082
+S
+#13088
+Lion Avenue~
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 13034
+D2
+~
+~
+0 0
+0 0 13087
+S
+#13089
+Rose Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13090
+D2
+~
+~
+0 0
+0 0 13076
+S
+#13090
+Rose Avenue~
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 13038
+D2
+~
+~
+0 0
+0 0 13089
+S
+#13091
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13114
+D1
+~
+~
+0 0
+0 0 13092
+S
+#13092
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13187
+D1
+~
+~
+0 0
+0 0 13093
+D3
+~
+~
+0 0
+0 0 13091
+S
+#13093
+New City Boulevard~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13094
+D3
+~
+~
+0 0
+0 0 13092
+S
+#13094
+Intersection of Palace and New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13115
+D1
+~
+~
+0 0
+0 0 13095
+D2
+~
+~
+0 0
+0 0 13126
+D3
+~
+~
+0 0
+0 0 13093
+S
+#13095
+New City Boulevard~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13096
+D3
+~
+~
+0 0
+0 0 13094
+S
+#13096
+New City Boulevard~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13097
+D3
+~
+~
+0 0
+0 0 13095
+S
+#13097
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13098
+D3
+~
+~
+0 0
+0 0 13096
+S
+#13098
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13099
+D2
+~
+~
+0 0
+0 0 13097
+S
+#13099
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13100
+D2
+~
+~
+0 0
+0 0 13098
+S
+#13100
+Intersection of New City Crossing and Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13101
+D1
+~
+~
+0 0
+0 0 13125
+D2
+~
+~
+0 0
+0 0 13099
+D3
+~
+~
+0 0
+0 0 13119
+S
+#13101
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13102
+D2
+~
+~
+0 0
+0 0 13100
+D3
+~
+~
+0 0
+0 0 13183
+S
+#13102
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13103
+D2
+~
+~
+0 0
+0 0 13101
+S
+#13103
+New City Boulevard~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 13102
+D3
+~
+~
+0 0
+0 0 13104
+S
+#13104
+Intersection of New City Boulevard and Lion~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13071
+D1
+~
+~
+0 0
+0 0 13103
+D3
+~
+~
+0 0
+0 0 13105
+S
+#13105
+New City Boulevard~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13104
+D3
+~
+~
+0 0
+0 0 13106
+S
+#13106
+Intersection of New City Boulevard and Palace~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13105
+D2
+~
+~
+0 0
+0 0 13121
+D3
+~
+~
+0 0
+0 0 13107
+S
+#13107
+New City Boulevard~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13106
+D3
+~
+~
+0 0
+0 0 13108
+S
+#13108
+Intersection of New City Boulevard and Rose~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13065
+D1
+~
+~
+0 0
+0 0 13107
+D3
+~
+~
+0 0
+0 0 13109
+S
+#13109
+New City Boulevard~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13108
+D2
+~
+~
+0 0
+0 0 13110
+S
+#13110
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13109
+D2
+~
+~
+0 0
+0 0 13111
+S
+#13111
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13110
+D1
+~
+~
+0 0
+0 0 13185
+D2
+~
+~
+0 0
+0 0 13112
+S
+#13112
+Intersection of New City Crossing and Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13111
+D1
+~
+~
+0 0
+0 0 13123
+D2
+~
+~
+0 0
+0 0 13113
+D3
+~
+~
+0 0
+0 0 13124
+S
+#13113
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13112
+D2
+~
+~
+0 0
+0 0 13114
+S
+#13114
+New City Boulevard~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13113
+D2
+~
+~
+0 0
+0 0 13091
+S
+#13115
+Palace Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13116
+D2
+~
+~
+0 0
+0 0 13094
+S
+#13116
+Palace Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13117
+D2
+~
+~
+0 0
+0 0 13115
+S
+#13117
+Intersection of Palace and New City Crossing~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13120
+D1
+~
+~
+0 0
+0 0 13118
+D2
+~
+~
+0 0
+0 0 13116
+D3
+~
+~
+0 0
+0 0 13122
+S
+#13118
+New City Crossing~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13184
+D1
+~
+~
+0 0
+0 0 13119
+D3
+~
+~
+0 0
+0 0 13117
+S
+#13119
+New City Crossing~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13100
+D3
+~
+~
+0 0
+0 0 13118
+S
+#13120
+Palace Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13121
+D2
+~
+~
+0 0
+0 0 13117
+S
+#13121
+Palace Avenue~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13106
+D2
+~
+~
+0 0
+0 0 13120
+S
+#13122
+New City Crossing~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13117
+D2
+~
+~
+0 0
+0 0 13152
+D3
+~
+~
+0 0
+0 0 13123
+S
+#13123
+New City Crossing~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13122
+D3
+~
+~
+0 0
+0 0 13112
+S
+#13124
+New City Crossing~
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 13112
+D3
+~
+~
+0 0
+0 0 13053
+S
+#13125
+New City Crossing~
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 13019
+D3
+~
+~
+0 0
+0 0 13100
+S
+#13126
+Before the Palace Gates~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13094
+S
+#13127
+Common Room of the Queen's Blessing~
+Large and paneled with dark wood, the common room of the Queen's Blessing
+Inn welcomes you with comforting warmth.  Circular oaken tables with
+accompanying chairs fills the room, bustling with patrons.  Serving girls
+weave their way through the crowd, arms loaded with food and drink, and one
+smiles at you warmly.  A swinging door to the east leads to the kitchen, a
+wooden door to the west opens into the stables, and to the north you can see
+a warmly lit hallway leading deeper into the inn.  
+~
+0
+DK 0
+D0
+~
+~
+0 0
+0 0 13129
+D1
+~
+~
+0 0
+0 0 13128
+D2
+~
+~
+0 0
+0 0 13067
+D3
+~
+~
+3 3
+1 0 13158
+S
+#13128
+The Kitchen~
+Stepping into the bustling kitchen, the delicious smells of baking bread,
+sizzling meats, spices, and other foods fills your senses.  The heat of the
+massive stone oven warms your face even as a scullion girl frowns at you for
+the intrusion.  A state of ordered chaos fills the room as a number of cooks
+ply their trade, and you are only in the way.  The common room is to the
+west.  
+~
+0
+DK 0
+D3
+~
+~
+0 0
+0 0 13127
+S
+#13129
+A Warmly Lit Hallway~
+Dark paneled wood and the occasional lamp mounted on the wall filling the
+air with golden light give this narrow hallway a warm ambiance that is very
+relaxing.  Doors to the east and west from here open into a pair of private
+dining rooms for high-profile guests.  The hall continues northward and to
+the south the sound of music and the buzz of a crowd can be heard from the
+common room.  
+~
+0
+DK 0
+D0
+~
+~
+0 0
+0 0 13130
+D1
+~
+~
+3 3
+1 0 13133
+D2
+~
+~
+0 0
+0 0 13127
+D3
+~
+~
+3 3
+1 0 13134
+S
+#13130
+A Warmly Lit Hallway~
+Dark paneled wood and the occasional lantern mounted on the wall filling
+the air with golden light give this narrow hallway a warm ambiance that is
+very relaxing.  Doors to the east and west from here open into a pair of
+private dining rooms for high-profile guests.  The hall continues northward
+where a staircase can be seen leading up into the second floor of the inn,
+and to the south the sound of faint music can be heard.  
+~
+0
+DK 0
+D0
+~
+~
+0 0
+0 0 13131
+D1
+~
+~
+3 3
+1 0 13135
+D2
+~
+~
+0 0
+0 0 13129
+D3
+~
+~
+3 3
+1 0 13136
+S
+#13131
+A Warmly Lit Hallway~
+The hallway ends here at a large staircase leading up into the second
+floor of the inn.  To the east, you catch the faint smell of books, and a
+small door to the west leads into what appears to be a storage room.  The
+hallway leads southward from here, where the sound of faint music can be
+heard.  
+~
+0
+DK 0
+D0
+~
+~
+7 7
+2 0 13132
+D1
+~
+~
+3 3
+1 0 13137
+D2
+~
+~
+0 0
+0 0 13130
+D3
+~
+~
+1 1
+1 0 13138
+D4
+~
+~
+0 0
+0 0 13139
+S
+#13132
+The Innkeeper's Room~
+~
+0
+0 0
+D2
+~
+~
+7 7
+2 0 13131
+S
+#13133
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the west leads back into the warmly lit hallway.  
+~
+0
+CDJK 0
+D3
+~
+~
+3 3
+1 0 13129
+S
+#13134
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the east leads back into the warmly lit hallway.  
+~
+0
+CDJK 0
+D1
+~
+~
+3 3
+1 0 13129
+S
+#13135
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the west leads back into the warmly lit hallway.  
+~
+0
+CDJK 0
+D3
+~
+~
+3 3
+1 0 13130
+S
+#13136
+A Private Dining Room~
+Paneled in dark wood, this private dining room is quiet and comfortable.
+A large rectangular table sits in the middle of the room, surrounded by a
+number of wooden chairs padded with dark green cushions.  Lamps hanging from
+the walls fill the room with a comfortable golden light, making this room
+ideal for a quiet meal away from the bustle of the common room.  A small
+door to the east leads back into the warmly lit hallway.  
+~
+0
+CDJK 0
+D1
+~
+~
+3 3
+1 0 13130
+S
+#13137
+A Small Library~
+Shelves lining the walls filled with books marks this room as the library
+of the Queen's Blessing.  Clothbound, leatherbound with gilded spines, even
+a few with wooden covers, your eyes pick out well known titles among the
+hundreds of books in the room.  The smell of old paper, characteristic of
+all libraries, fills the air.  A small door to the west leads back into the
+warmly lit hallway.  
+~
+0
+CDK 0
+D3
+~
+~
+3 3
+1 0 13131
+S
+#13138
+A Storage Room~
+Barrels and boxes leaning against the wall crowd the floor of this
+storage room.  A small wooden cabinet stands against the door, and in the
+far corner a chest covered in a thin layer of dust rests unobtrusively.  A
+small window on the north wall fills the room with a single bar of sunlight.
+A small door leads east back into the warmly lit hallway.  
+~
+0
+DK 0
+D1
+~
+~
+1 1
+1 0 13131
+S
+#13139
+A Warmly Lit Hallway~
+~
+0
+DK 0
+D1
+~
+~
+3 3
+1 0 13143
+D2
+~
+~
+0 0
+0 0 13140
+D3
+~
+~
+3 3
+1 0 13144
+D5
+~
+~
+0 0
+0 0 13131
+S
+#13140
+A Warmly Lit Hallway~
+~
+0
+DK 0
+D0
+~
+~
+0 0
+0 0 13139
+D1
+~
+~
+3 3
+1 0 13145
+D2
+~
+~
+0 0
+0 0 13141
+D3
+~
+~
+3 3
+1 0 13146
+S
+#13141
+A Warmly Lit Hallway~
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 13140
+D1
+~
+~
+3 3
+1 0 13147
+D3
+~
+~
+3 3
+1 0 13148
+S
+#13142
+Outside the West Gate~
+Standing tall and spanning to the north and south as far as your eye can
+see, the grey city walls of Caemlyn stand tall and impenitrable.  A great
+vaulting archway in the wall, the Western Gate, stands open to merchants and
+travellers alike.  A wall of noise buffets you from inside the city, and
+tall, slender towers peeking over the city walls shine in the sunlight - the
+Palace.  The city of Caemlyn is to the east.  
+~
+0
+0 15
+D1
+~
+~
+1 1
+1 0 13047
+S
+#13143
+A Small Room~
+~
+0
+DJK 0
+D3
+~
+~
+3 3
+1 0 13139
+S
+#13144
+A Large, Richly-Furnished Room~
+~
+0
+DJK 0
+D1
+~
+~
+3 3
+1 0 13139
+S
+#13145
+A Large Room~
+~
+0
+DJK 0
+D3
+~
+~
+3 3
+1 0 13140
+S
+#13146
+A Small Room~
+~
+0
+DJK 0
+D1
+~
+~
+3 3
+1 0 13140
+S
+#13147
+A Small Room~
+~
+0
+DJK 0
+D3
+~
+~
+3 3
+1 0 13141
+S
+#13148
+A Large Well-Appointed Room~
+~
+0
+DJK 0
+D1
+~
+~
+3 3
+1 0 13141
+S
+#13149
+Outside the East Gate~
+~
+0
+0 15
+D3
+~
+~
+1 1
+1 0 13025
+S
+#13150
+Outside the South Gate~
+~
+0
+0 15
+D0
+~
+~
+65 65
+1 0 13006
+S
+#13151
+Outside the North Gate~
+~
+0
+0 15
+D2
+~
+~
+65 65
+1 0 13036
+S
+#13152
+Katrina's Shop of Jewellery~
+Large {Wglass{x cases filled with {Ws{Cp{Wa{Cr{Wk{Cl{Wi{Cn{Wg{x {Wdiamonds{x and {rf{Ri{Yr{Re{ry{x {rrubies{x and
+other jewels entice your eyes as you stroll into Celin's Jewellery Shop. 
+Large {Diron{x locks bar your twitching fingers and a pair of large men lounging
+unobtrusively in the corner keep a wary eye on you, discouraging any
+licentious thoughts.  A short woman with {ydark{x hair, freckles, and a ready
+smile greets you from behind a large {Wglass{x counter.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13122
+S
+#13153
+The Armourer~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 13075
+S
+#13154
+The Weaponsmith~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13085
+S
+#13155
+The General Store~
+A large array of items lining the walls catches your attention as you
+step into the General Store.  Items ranging from saddles to backpacks to
+lanterns hang off hooks, their prices neatly marked on a large board above
+the wooden counter.  The shopkeeper greets you with a warm smile, ready to
+sell you whatever you may need.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 13083
+S
+#13156
+The Leather Shop~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13074
+S
+#13157
+The Bakery~
+The smell of baking bread and sweet pastries fills your nose as you step
+into this bakery.  A large glass counter dominates the room, and the
+tantalizing sight of pastries, cakes, and other baked goods can be seen
+within.  Eyeing you expectantly, a rail-thin man wearing a white apron
+awaits your order.  To the north, an open door leads onto Main Street.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13068
+S
+#13158
+The Stables of the Queen's Blessing~
+The smell of hay and manure fill the air as you stroll into the stables
+of the Queen's Blessing.  Half a dozen stalls line the north and west walls,
+a few of which are occupied by the horses of the inn's patrons.  To the
+south a large door leads out onto the Main Street of Caemlyn, and to the east
+the sounds of music and the buzz of a crowd wafts through a narrow door
+leading into the common room.  
+~
+0
+DK 0
+D1
+~
+~
+3 3
+1 0 13127
+D2
+~
+~
+0 0
+0 0 13066
+S
+#13159
+The Bloody Dagger~
+A bar.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13023
+S
+#13160
+The City Park~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13161
+D2
+~
+~
+0 0
+0 0 13163
+D3
+~
+~
+0 0
+0 0 13165
+S
+#13161
+The City Park~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 13162
+D3
+~
+~
+0 0
+0 0 13160
+S
+#13162
+The City Park~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13161
+D3
+~
+~
+0 0
+0 0 13163
+S
+#13163
+The City Park~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13160
+D1
+~
+~
+0 0
+0 0 13162
+D2
+~
+~
+0 0
+0 0 13080
+D3
+~
+~
+0 0
+0 0 13164
+S
+#13164
+The City Park~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 13165
+D1
+~
+~
+0 0
+0 0 13163
+S
+#13165
+The City Park~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 13160
+D2
+~
+~
+0 0
+0 0 13164
+S
+#13166
+Common Room of the Stag and the Lion~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 13168
+D2
+~
+~
+0 0
+0 0 13077
+D3
+~
+~
+0 0
+0 0 13169
+D4
+~
+~
+0 0
+0 0 13170
+S
+#13168
+A Private Dining Room~
+~
+0
+DJK 0
+D2
+~
+~
+0 0
+0 0 13166
+S
+#13169
+The Kitchen~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13166
+S
+#13170
+A Narrow Hallway~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13171
+D3
+~
+~
+0 0
+0 0 13173
+D5
+~
+~
+0 0
+0 0 13166
+S
+#13171
+A Narrow Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13180
+D1
+~
+~
+0 0
+0 0 13172
+D2
+~
+~
+3 3
+1 0 13179
+D3
+~
+~
+0 0
+0 0 13170
+S
+#13172
+A Narrow Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13182
+D2
+~
+~
+3 3
+1 0 13181
+D3
+~
+~
+0 0
+0 0 13171
+S
+#13173
+A Narrow Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13178
+D1
+~
+~
+0 0
+0 0 13170
+D2
+~
+~
+3 3
+1 0 13177
+D3
+~
+~
+0 0
+0 0 13174
+S
+#13174
+A Narrow Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13176
+D1
+~
+~
+0 0
+0 0 13173
+D2
+~
+~
+3 3
+1 0 13175
+S
+#13175
+A Large, Well-Appointed Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13174
+S
+#13176
+A Small Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13174
+S
+#13177
+A Cramped Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13173
+S
+#13178
+A Large Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13173
+S
+#13179
+A Cozy Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13171
+S
+#13180
+A Small Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13171
+S
+#13181
+A Storage Closet~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 13172
+S
+#13182
+A Large, Comfortable Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 13172
+S
+#13183
+The Library~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 13101
+S
+#13184
+Rael's Exotic Weapon Shop~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13118
+S
+#13185
+Celin's Pet Store~
+The sound of {ydogs{x barking, {Dcats{x meowing, and other animals fills the air
+as you walk into Celin's Pet Store.  A large {Wwhite{x bird perched on the
+counter greets you with a loud squack and tries to bite your finger when you
+get too close.  A short woman with {rred{x hair and {cgrey-blue{x eyes steps out
+from the back and welcomes you with a smile.  
+~
+0
+M 0
+D3
+~
+~
+0 0
+0 0 13111
+S
+#13186
+Celin's Pet Store Mobs~
+Unless you're an imm, you shouldn't be here.  *whap*
+
+This room holds the pets for the pet store.  
+~
+0
+CP 0
+S
+#13187
+Leah's Cafe~
+The warm and cheery atmosphere of this cute little cafe immediately makes
+you feel welcome.  Small, round {ytables{x each with a matching set of chairs
+beckons you to sit, and a passing waitress smiles warmly to you in greeting.
+A large {Wwindow{x fills the cafe with warm {Ysunlight{x, and a spectacular view of
+the Palace to the south nearly takes your breath away.  Sit and relax; the
+waitress will be with you shortly.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 13092
+S
+#13188
+The Bank of Caemlyn~
+A well-dressed man wearing an ocular eyes you apprasingly as you step
+into the Bank of Caemlyn.  Painted with stoic white, the room has the feel
+of professionalism.  A large glass counter dominates the room, and a huge
+iron-bound door bearing a large iron lock stands imposingly behind it.  Two
+large, burly men stand in the corner trying to appear unobtrusive, obviously
+the bank's guards.  To the west, a door opens onto Rose Avenue.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 13064
+S
+#13199
+~
+~
+0
+C 0
+S
+#13299
+~
+~
+0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 13127 3 1
+D 0 13129 1 1
+D 0 13129 3 1
+D 0 13130 1 1
+D 0 13130 3 1
+D 0 13131 0 2
+D 0 13131 1 1
+D 0 13132 2 2
+D 0 13133 3 1
+D 0 13134 1 1
+D 0 13135 3 1
+D 0 13136 1 1
+D 0 13137 3 1
+D 0 13139 1 1
+D 0 13139 3 1
+D 0 13140 1 1
+D 0 13140 3 1
+D 0 13141 1 1
+D 0 13141 3 1
+D 0 13143 3 1
+D 0 13144 1 1
+D 0 13145 3 1
+D 0 13146 1 1
+D 0 13147 3 1
+D 0 13148 1 1
+D 0 13158 1 1
+D 0 13171 0 1
+D 0 13171 2 1
+D 0 13172 0 1
+D 0 13172 2 1
+D 0 13173 0 1
+D 0 13173 2 1
+D 0 13174 0 1
+D 0 13174 2 1
+D 0 13175 0 1
+D 0 13176 2 1
+D 0 13177 0 1
+D 0 13178 2 1
+D 0 13179 0 1
+D 0 13180 2 1
+D 0 13181 0 1
+D 0 13182 2 1
+O 0 13003 0 13117
+O 0 13000 0 13127
+O 0 13002 0 13127
+O 0 13128 0 13128
+O 0 13138 0 13138
+O 0 13139 0 13138
+O 0 13001 0 13160
+S
+
+
+
+#SHOPS
+13000 32 20 0 0 0 100 100 0 24
+0
+
+
+
+#$

@@ -1,0 +1,2624 @@
+#AREADATA
+Name Low Caemlyn~
+Builders Oniren~
+VNUMs 62200 62299
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#62200
+stray cat~
+a stray cat~
+{wA {ys{Dt{yr{Da{yy c{Da{yt{w slinks its way along the road.{x
+~
+~
+cat~
+AGW J 0 0
+1 0 1d1+1 1d10+100 1d2+0 scratch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+M 'GREET' 62205 5~
+#62201
+stray dog~
+a stray dog~
+{wA {ystray dog{w sniffs at the litter scattered upon the ground, searching for scraps of food.{x
+~
+~
+dog~
+AGW 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 bite
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+M 'GREET' 62200 5~
+#62202
+young girl~
+a young girl~
+{wA {Myoung girl{w plays in the street with her friends.{x
+~
+~
+andoran~
+AGSW 0 0 0
+2 0 2d3+4 2d10+100 1d3+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 small 'unknown'
+#62203
+young boy~
+a young boy~
+{wA {Byoung boy{w appears to be up to some mischief.{x
+~
+~
+andoran~
+AGSW 0 0 0
+2 0 2d3+4 2d10+100 1d3+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 5
+0 0 small 'unknown'
+#62204
+citizen man male~
+a citizen~
+{wA {Wcitizen{w of Low Caemlyn goes about his daily business.{x
+~
+~
+andoran~
+AGSW 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62205
+citizen woman female~
+a citizen~
+{wA {Wcitizen{w of Low Caemlyn attends to her daily business.{x
+~
+~
+andoran~
+AGSW 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#62206
+citizen~
+a citizen~
+{wA {Wcitizen{w of Low Caemlyn wanders around the streets, looking bored.{x
+~
+~
+andoran~
+AGSW 0 0 0
+3 0 2d2+9 3d10+100 1d4+1 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#62207
+farmer~
+a farmer~
+{wA {yfarmer{w guides his horse-drawn cart along the street.{x
+~
+~
+andoran~
+AGTW 0 0 0
+4 0 3d4+16 4d10+100 1d5+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62208
+traveler~
+a traveler~
+{wA weary {ctraveler{w trudges along the road.{x
+~
+~
+andoran~
+AGTW 0 0 0
+4 0 3d4+16 4d10+100 1d5+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#62209
+smartly dressed man merchant~
+a merchant~
+{wA {msmartly dressed man{w strolls down the street, trying to avoid the locals.{x
+~
+~
+murandian~
+AGTW 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 25
+0 0 medium 'unknown'
+M 'GREET' 62201 5~
+#62210
+suspicious man pickpocket thief~
+a thief~
+{wA {Dsuspicious-looking man{w stands on the street corner, eyeing passersby.{x
+~
+~
+andoran~
+AGSW 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62211
+shopper~
+a shopper~
+{wA {bshopper{w moseys around Low Caemlyn, looking for any bargains.{x
+~
+~
+andoran~
+AGSW 0 0 0
+5 0 3d3+25 5d10+100 1d6+2 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#62212
+patron~
+a patron~
+{wA {cpatron{w of the tavern sits at one of the tables, supping on his tankard of ale.{x
+~
+~
+andoran~
+ABT 0 0 0
+6 0 4d5+36 6d10+100 1d7+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62213
+patron~
+a patron~
+{wA {cpatron{w of the inn sits at one of the tables, supping on his tankard of ale.{x
+~
+~
+andoran~
+ABT 0 0 0
+6 0 4d5+36 6d10+100 1d7+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62214
+elderly woman~
+an elderly woman~
+{wAn {melderly woman{w is knitting something as she sits in a rocking chair near the kitchen fireplace.{x
+~
+~
+andoran~
+AGTY 0 0 0
+6 0 4d5+36 6d10+100 1d7+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 20
+0 0 medium 'unknown'
+#62215
+grumpy old man~
+an old man~
+{wA {cgrumpy old man{w paces up and down the room, mumbling to himself.{x
+~
+~
+andoran~
+AGY 0 0 0
+6 0 4d5+36 6d10+100 1d7+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#62216
+cat~
+a cat~
+{wA {Dc{wa{Wt{w prowls stealthily around the inn as it hunts mice.{x
+~
+~
+cat~
+AGY J 0 0
+6 0 4d5+36 6d10+100 1d7+3 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+M 'GREET' 62205 5~
+#62217
+serving maid~
+a serving maid~
+{wA {Wserving maid{w deftly weaves her way through the tables as she serves her customers.{x
+~
+~
+andoran~
+AGSY 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#62218
+maid~
+a maid~
+{wOne of the inn's {Ymaids{w is here, sweeping the floor with a broom.{x
+~
+~
+andoran~
+AGSY 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#62219
+cook~
+a cook~
+{wA {Wcook{w is hard at work within the inn's kitchen.{x
+~
+~
+andoran~
+AGTY 0 0 0
+7 0 4d4+49 7d10+100 1d8+3 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+M 'GREET' 62204 5~
+#62220
+bouncer~
+a bouncer~
+{wA hawk-eyed {mbouncer{w stands beside the doorway with his arms folded.{x
+~
+~
+andoran~
+ABT 0 0 0
+8 0 5d6+64 8d10+100 1d9+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 62202 5~
+#62221
+groom~
+a groom~
+{wA {ygroom{w leans on his pitchfork as he chats to some of his colleagues.{x
+~
+~
+andoran~
+ABT 0 0 0
+8 0 5d6+64 8d10+100 1d9+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62222
+owner tavern~
+the owner of the tavern~
+{wThe {mtavern's owner{w wanders around the common room, chatting to some of his patrons.{x
+~
+~
+andoran~
+ABT 0 0 0
+8 0 5d6+64 8d10+100 1d9+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#62223
+innkeeper~
+the innkeeper~
+{wThe {minnkeeper{w appears preoccupied with barking out orders to her serving maids.{x
+~
+~
+andoran~
+ABT 0 0 0
+8 0 5d6+64 8d10+100 1d9+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#62224
+blacksmith apprentice~
+the blacksmith's apprentice~
+{wThe {bblacksmith's apprentice{w stands by the side of the forge, working the bellows.{x
+~
+~
+andoran~
+ABT 0 0 0
+8 0 5d6+64 8d10+100 1d9+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 62203 5~
+#62225
+wisdom apprentice~
+the wisdom's apprentice~
+{wThe {gWisdom's apprentice{w sighs to herself as she sweeps the floor.{x
+~
+~
+andoran~
+ABS 0 0 0
+8 0 5d6+64 8d10+100 1d9+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#62226
+warehouse worker~
+a worker~
+{wA {rwarehouse worker{w is busy staking crates and boxes.{x
+~
+~
+andoran~
+ABT 0 0 0
+9 0 5d5+81 9d10+100 1d10+4 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 62203 5~
+#62227
+soldier queensguard~
+a soldier~
+{wA {Ds{wol{Wd{wie{Dr{w of the {rQu{Ree{Wnsg{Rua{rrd{w patrols Low Caemlyn.{x
+~
+~
+andoran~
+AGTW 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#62228
+blacksmith~
+the blacksmith~
+{wThe sound of metal clashing rings through the room as the {bblacksmith{w toils on this latest creation.{x
+~
+~
+andoran~
+ABE 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#62229
+wisdom~
+the wisdom~
+{wThe {gWisdom{w is relaxing in an armchair placed next to the fireplace, reading a book.{x
+~
+~
+andoran~
+ABa 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#62200
+flat cap~
+{wa {yflat cap{x~
+A flat cap made of cloth has been left here.~
+wool~
+armor S AE
+1 1 1 0 0
+3 1 60 100
+#62201
+brown coat~
+{wa {ybrown coat{x~
+A brown coat has been left here.~
+wool~
+armor S AD
+1 1 1 0 0
+3 3 60 100
+#62202
+brass hoop earring~
+{wa {yb{Yras{ys h{Yoo{yp ea{Yrri{yng{x~
+A brass hoop earring has been left here.~
+brass~
+armor 0 AU
+1 1 1 0 0
+3 1 45 100
+#62203
+brass ring~
+{wa {yb{Yras{ys{w {yr{Yin{yg{x~
+A brass ring has been left here.~
+brass~
+armor 0 AB
+1 1 1 0 0
+3 1 45 100
+#62204
+straw hat~
+{wa {ys{Yt{yr{Ya{yw h{Ya{yt{x~
+A straw hat has been left here.~
+straw~
+armor S AE
+1 1 1 1 0
+4 1 45 100
+#62205
+dusty cloak~
+{wa {Dd{wust{Dy c{wloa{Dk{x~
+A dusty cloak has been left here.~
+wool~
+armor S AK
+1 1 1 1 0
+4 4 60 100
+#62206
+gold chain~
+{wa {Ygo{Wl{Yd ch{Wa{Yin{x~
+A gold chain has been left here.~
+gold~
+armor K AC
+1 1 1 2 0
+5 1 175 100
+#62207
+velvet cap~
+{wa {mvelvet cap{x~
+A velvet cap has been left here.~
+velvet~
+armor S AE
+1 1 1 2 0
+5 1 60 100
+#62208
+leather coin purse~
+{wa {yleather coin purse{x~
+A leather coin purse has been left here.~
+leather~
+money K A
+0 5 0 0 0
+5 1 0 100
+#62209
+walking stick~
+{wa {ywalking stick{x~
+A walking stick has been left here.~
+wood~
+weapon KS AN
+staff 5 5 'smash' F
+6 1 150 100
+#62210
+leather collar~
+{wa {Dl{yeathe{Dr c{yolla{Dr{x~
+A leather collar has been left here.~
+leather~
+armor S AC
+2 2 2 0 0
+6 1 85 100
+#62211
+white apron~
+{wa {Wwhite apron{x~
+A white apron has been left here.~
+cloth~
+armor KS AL
+2 2 2 1 0
+7 1 45 100
+#62212
+meat cleaver~
+{wa {Dm{wea{Dt c{wleave{Dr{x~
+A meat cleaver has been left here.~
+steel~
+weapon 0 AN
+axe 5 5 'cleave' 0
+7 2 150 100
+#62213
+wooden cudgel~
+{wa {ywooden cudgel{x~
+A wooden cudgel has been left here.~
+wood~
+weapon S AN
+mace 5 5 'smash' 0
+8 1 150 100
+#62214
+dark leather bracer~
+{wa {mdark leather bracer{x~
+A dark leather bracer has been left here.~
+leather~
+armor S AM
+2 2 2 2 0
+8 1 85 100
+#62215
+leather vest~
+{wa {yleather vest{x~
+A leather vest has been left here.~
+leather~
+armor S AD
+2 2 2 2 0
+8 3 85 100
+#62216
+pitchfork~
+{wa {Dp{wit{Wchf{wor{Dk{x~
+A pitchfork has been left here.~
+steel~
+weapon 0 AN
+polearm 5 5 'stab' F
+8 8 150 100
+#62217
+heavy leather boots~
+{Dh{weav{Dy le{wath{Der b{woot{Ds{x~
+A pair of heavy leather boots has been left here.~
+leather~
+armor KS AG
+2 2 2 3 0
+9 3 85 100
+#62218
+baggy blue breeches~
+{bbaggy blue breeches{x~
+A pair of baggy blue breeches has been left here.~
+wool~
+armor KS AF
+2 2 2 3 0
+9 3 60 100
+#62219
+burnished steel visor~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl v{wi{Ws{wo{Dr{x~
+A burnished steel visor lies here.~
+steel~
+armor 0 AV
+3 3 3 1 0
+10 1 300 100
+#62220
+burnished steel helmet~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Dh{we{Wlm{we{Dt{x~
+A burnished steel helmet lies here.~
+steel~
+armor 0 AE
+3 3 3 1 0
+10 4 300 100
+#62221
+burnished steel breastplate~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Db{wr{We{wa{Ws{wt{Wp{wl{Wa{wt{De{x~
+A burnished steel breastplate lies here.~
+steel~
+armor 0 AD
+3 3 3 1 0
+10 7 300 100
+#62222
+burnished steel backplate~
+{wa {Db{wu{Wr{wn{Wi{ws{Wh{we{Dd s{wt{We{we{Dl{w {Db{wa{Wc{wk{Wp{wl{Wa{wt{De{x~
+A burnished steel backplate lies here.~
+steel~
+armor 0 AS
+3 3 3 1 0
+10 7 300 100
+#62223
+red woolen cloak~
+{wa {rr{Re{rd w{Ro{rol{Re{rn c{Rl{ro{Ra{rk{w{x~
+A red woolen cloak has been left here.~
+wool~
+armor S AK
+3 3 3 1 0
+10 4 60 100
+#62224
+queensguard plain sword~
+{wa {rQu{Ree{Wnsg{Rua{rrd{w {Ds{wwor{Dd{x~
+A plain sword has been left here.~
+steel~
+weapon 0 AN
+sword 5 7 'slash' 0
+10 5 200 100
+#62225
+queensguard plain dagger~
+{wa {rQu{Ree{Wnsg{Rua{rrd{w {Dd{wagge{Dr{w{x~
+A plain dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 5 7 'stab' 0
+10 1 200 100
+#62226
+small bed~
+{wa {ys{Dm{yall b{De{yd{x~
+{wA {ys{Dm{yall b{De{yd{w has been placed on either side of the window.{x~
+wood~
+furniture S P
+2 1000 EHL 110 110
+0 0 0 100
+#62227
+brick fireplace~
+{wa {rfi{Dr{repl{Da{rce{w{x~
+{wOn the north side of the common room is a {rfi{Dr{repl{Da{rce{w made of bricks.{x~
+brick~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#62228
+brick fireplace~
+{wa {rfi{Dr{repl{Da{rce{x~
+{wOn the south side of the common room is a {rfi{Dr{repl{Da{rce{w made of bricks.{x~
+brick~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#62229
+tables benches~
+{wa {yt{Da{yb{Dl{ye{x~
+{wThere are several {yt{Da{ybl{De{ys{w and {yb{De{ynch{De{ys{w arranged around the room.{x~
+wood~
+furniture S P
+8 10000 DG 100 100
+0 0 0 100
+#62230
+wooden barrels ale~
+{wa {yb{Da{yrr{De{yl{w of {yale{x~
+{wNumerous {yw{Do{yod{De{yn b{Da{yrre{Dl{ys{w have been stacked up against the wall.{x~
+wood~
+fountain S P
+10000 10000 'ale' 0 0
+0 0 0 100
+#62231
+brick fireplace~
+{wa {rfi{Dr{repl{Da{rce{w{x~
+{wOn the west side of the kitchen is a {rfi{Dr{repl{Da{rce{w made of bricks.{x~
+brick~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#62232
+cupboards drawers~
+a cupboard~
+{wThe kitchen has been fitted with numerous {ycupboards{w and {ydrawers{w.{x~
+wood~
+container S P
+100 AC 0 50 100
+0 0 0 100
+#62233
+dirty bandages~
+{wa set of {Wd{wirt{Wy ba{wndag{Wes{w{x~
+Someone has abandoned this set of dirty bandages.~
+cloth~
+armor S AI
+1 1 1 2 0
+5 1 45 100
+#62234
+leather gloves~
+{wa pair of {yleather gloves{x~
+Someone has abandoned this pair of leather gloves.~
+leather~
+armor S AH
+1 1 1 2 0
+5 1 85 100
+#62235
+white candle~
+{wa {Wwhite candle{w{x~
+A white candle has been left here.~
+wax~
+light S A
+0 0 2 0 0
+0 1 40 100
+#62236
+canvas backpack pack~
+{wa {ycanvas backpack{w{x~
+This is a sturdy backpack made of canvas.~
+canvas~
+container S AS
+50 AC 0 50 100
+5 3 100 100
+#62237
+tin canteen~
+{wa {Dt{wi{Dn ca{wnte{Den{w{x~
+This is a canteen made of tin.~
+tin~
+drink 0 A
+5 5 'water' 0 0
+0 1 60 100
+#62238
+beef jerky~
+{wsome {rbeef jerky{w{x~
+A piece of beef jerky has been left here.~
+meat~
+food S A
+4 4 0 0 0
+0 1 15 100
+#0
+
+
+
+#ROOMS
+#62200
+Caemlyn Road~
+This is a broad yet simple cobblestoned thoroughfare that looks well worn
+from years of usage by travelers.  The road cuts through Low Caemlyn, a
+great sprawl of buildings that lays outside of the gray city walls that
+encompass Caemlyn.  The area is like a tall forest of brick and stone
+structures, a hodgepodge of houses, taverns and warehouses all clustered
+together within a network of narrow streets and alleys.  The Caemlyn Road
+continues westwards from this point through a vast expanse of Andoran
+countryside towards the town of Fourkings.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62201
+S
+#62201
+Caemlyn Road~
+This is a wide yet simple cobblestoned thoroughfare that looks well worn
+from years of usage by travelers.  The road passes through Low Caemlyn, a
+great sprawl of buildings that lies outside of Caemlyn's city walls.  The
+area is like a tall forest of brick and stone structures, a hodgepodge of
+houses, taverns and warehouses all clustered together within a network of
+narrow streets and alleys.  A second, much narrower thoroughfare joins
+Caemlyn Road at this point, leading northwards into the maze of buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62205
+D1
+~
+~
+0 0
+0 0 62202
+D3
+~
+~
+0 0
+0 0 62200
+S
+#62202
+Caemlyn Road~
+This is a wide yet simple cobblestoned thoroughfare that is potholed and
+rutted from many years of use.  The road passes through Low Caemlyn, a great
+expanse of buildings that lies outside of Caemlyn's city walls.  The area is
+like a jungle of tall brick and stone structures, a jumble of houses,
+taverns and warehouses all clustered together within a network of narrow
+streets and alleys.  A second, much narrower thoroughfare joins Caemlyn Road
+at this point, leading southwards into the maze of buildings.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62203
+D2
+~
+~
+0 0
+0 0 62208
+D3
+~
+~
+0 0
+0 0 62201
+S
+#62203
+Caemlyn Road~
+Caemlyn Road is a wide cobblestoned thoroughfare that is potholed and
+rutted from many years of use.  At this point the road passes through Low
+Caemlyn, a large expanse of buildings that lies outside of Caemlyn's city
+walls.  The majority of the brickwork structures that flank this route
+appear to be houses although several rundown taverns and shops can also be
+seen around here.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62204
+D3
+~
+~
+0 0
+0 0 62202
+S
+#62204
+Caemlyn Road~
+Caemlyn Road is a wide yet simple cobblestoned road that leads through a
+maze-like network of buildings and narrow streets known as Low Caemlyn.  The
+majority of the structures along this route appear to be houses although
+several inns and taverns can be seen around here.  To the east lies one of
+the gates that lead through the wall that encompasses the main city; it is
+approximately fifty feet in height and tower over every other building close
+by.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62300
+D3
+~
+~
+0 0
+0 0 62203
+S
+#62205
+A Narrow Street~
+This is a narrow cobblestoned street that snakes its way through Low
+Caemlyn, the great sprawl of buildings that lies outside of the main city. 
+There are numerous buildings towering over the narrow street although most
+of them in this area are warehouses.  The narrow street joins a much wider
+thoroughfare a short distance away to the south.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 62201
+D3
+~
+~
+3 3
+1 0 62206
+S
+#62206
+A Large Warehouse~
+This building is one of the many large warehouses located within the vast
+brick sprawl known as Low Caemlyn.  The building has been constructed from a
+heard wearing gray stone and reinforced with thick timber beams.  There are
+scores of crates and barrels stored within this warehouse, the many items
+are neatly arranged in rows so that the warehouse workers can easily access
+them.  A wide set of doors on the east side of the building mark the exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62205
+D3
+~
+~
+0 0
+0 0 62207
+S
+#62207
+A Large Warehouse~
+This the western end of a very large building that is being used as a
+warehouse.  The warehouse has been constructed from a heard wearing gray
+stone and reinforced with thick timber beams.  There are scores of crates
+and barrels stored within this warehouse, the many items are neatly arranged
+in rows so that the warehouse workers can easily access them.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 62206
+S
+#62208
+A Narrow Street~
+This is the northern end of a narrow cobblestoned street that meanders
+its way through Low Caemlyn, the great sprawl of buildings that lies outside
+of the main city.  There are many brickwork buildings looming over the
+narrow street although the majority of them in this area appear to be
+houses.  The narrow street joins a much wider thoroughfare a short distance
+away to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62202
+D1
+~
+~
+3 3
+1 0 62216
+D2
+~
+~
+0 0
+0 0 62209
+D3
+~
+~
+3 3
+1 0 62215
+S
+#62209
+A Narrow Street~
+This is a narrow cobblestoned street that snakes its way through Low
+Caemlyn, the great sprawl of buildings that lies outside of the main city. 
+There are many brickwork buildings looming over the narrow street although
+the majority of them in this area appear to be houses.  Visible beyond the
+row of houses on the east side of the road is the enormous gray stone wall
+that surrounds New Caemlyn with each of the wall's huge watchtowers flying
+the White Lion banner of Andor.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62208
+D1
+~
+~
+3 3
+1 0 62214
+D2
+~
+~
+0 0
+0 0 62210
+D3
+~
+~
+3 3
+1 0 62213
+S
+#62210
+A Narrow Street~
+This is the southern end of a narrow cobblestoned street that cuts its
+way through Low Caemlyn, the great sprawl of buildings that lies outside of
+the main city.  There are numerous buildings towering over the narrow street
+although most of them in this area are houses or taverns.  Visible beyond
+the row of houses on the east side of the road is the massive gray stone
+wall that surrounds New Caemlyn with each of the wall's huge watchtowers
+flying the White Lion banner of Andor.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62209
+D1
+~
+~
+3 3
+1 0 62212
+D3
+~
+~
+3 3
+1 0 62211
+S
+#62211
+A Small Tavern~
+This tavern is a rather small establishment located in Low Caemlyn.  The
+common room looks rundown as the brickwork walls seem to be crumbling in
+some places.  The items of furniture within this establishment look so old
+and rickety that woodworms would probably reject them.  There are several
+large barrels of ale and wine neatly lined up against the common room's west
+wall.  A small flight of wooden steps on the east side of the room lead up
+towards the tavern's exit.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62210
+S
+#62212
+A Ramshackle House~
+This house is one of the many tall buildings located in Low Caemlyn.  It
+is a rather ramshackle place built of gray bricks and timber.  The rooms
+within this dwelling are plainly decorated and sparsely furnished with
+rickety furniture and a few personal knickknacks and curios belonging to the
+house's owner.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62210
+S
+#62213
+A Dilapidated House~
+This house is one of the many tall buildings dotted around the Low
+Caemlyn area.  It is a dilapidated place constructed from gray stone and
+timber.  The rooms inside this home are drably decorated and meagerly
+furnished with a few items of rickety furniture.  Some of the house owner's
+personal possessions can also been seen around the house.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62209
+S
+#62214
+A Rundown House~
+This house is one of the numerous tall buildings located in Low Caemlyn. 
+It is a particularly old and rundown place constructed from red bricks and
+timber.  The rooms within this house are meagerly furnished with a few items
+of rickety furniture and personal mementoes belonging to the house's owner. 
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62209
+S
+#62215
+A Dilapidated House~
+This house is one of the many tall buildings scattered around the Low
+Caemlyn area.  It is a dilapidated place constructed from gray bricks and
+timber.  The rooms inside this home are plainly decorated and scantily
+furnished with a few items of battered and rickety furniture and some of the
+house owner's personal belongings.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62208
+S
+#62216
+A Rundown House~
+This house is one of the scores of tall buildings located in Low Caemlyn.
+It is a rather rundown place constructed from red bricks and timber.  The
+rooms within the abode are plainly decorated and meagerly furnished with a
+few items of rickety furniture and personal mementoes belonging to the
+house's owner.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62208
+S
+#62217
+Aringill Road~
+This is a broad yet simple cobblestoned road that looks well worn from
+years of usage by travelers.  The road cuts through Low Caemlyn, a large
+sprawl of buildings that lays outside of the gray city walls that enclose
+Caemlyn.  The area is like a tall forest of brick and stone structures, a
+jumble of houses, taverns and warehouses all bunched together within a
+network of narrow streets and alleys.  The road continues eastwards from
+this point through a vast expanse of countryside towards Aringill and the
+River Erinin.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 62218
+S
+#62218
+Aringill Road~
+Aringill Road is a long yet simple cobblestoned road that looks rutted
+from many years of use.  The road passes through Low Caemlyn, a sprawl of
+buildings that lies outside of the gray city walls that surround Caemlyn. 
+The assortment of houses and taverns built along this road look old and
+rundown with many of them in need of repair.  A second thoroughfare joins
+Aringill Road at this point, leading northwards and deeper within the warren
+of buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62222
+D1
+~
+~
+0 0
+0 0 62217
+D3
+~
+~
+0 0
+0 0 62219
+S
+#62219
+Aringill Road~
+Aringill Road is a gray cobblestoned road that is potholed and rutted
+from years of use by carts and wagons.  The road passes through Low Caemlyn,
+a large sprawl of buildings that lies outside of the city walls that
+encompass Caemlyn.  The area is like a jungle of tall brick and stone
+structures, a mishmash of houses, taverns and warehouses all bunched
+together within a network of narrow streets and alleys.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62218
+D3
+~
+~
+0 0
+0 0 62220
+S
+#62220
+Aringill Road~
+Aringill Road is a long yet simple cobblestoned road that looks rutted
+from years of use.  The road cuts through Low Caemlyn, a large sprawl of
+buildings that lays outside of the gray city walls that enclose Caemlyn. 
+The houses and taverns built along this road look old and rundown with many
+of them in need of repair.  A second thoroughfare joins Aringill Road at
+this point, leading southwards and deeper into the labyrinth of houses.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 62228
+D1
+~
+~
+0 0
+0 0 62219
+D2
+~
+~
+0 0
+0 0 62229
+D3
+~
+~
+0 0
+0 0 62221
+S
+#62221
+Aringill Road~
+Aringill Road is a broad yet simple cobblestoned road that leads through
+a maze-like network of buildings and narrow streets on the outskirts of
+Caemlyn, known as Low Caemlyn.  The majority of the structures along this
+route appear to be houses although there are several inns and taverns dotted
+around the vicinity.  To the west lies one of the gates that lead through
+the wall that encompasses the main city; it is approximately fifty feet in
+height and tower over every other building close by.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62220
+D3
+~
+~
+0 0
+0 0 62319
+S
+#62222
+A Narrow Street~
+This is a narrow cobblestoned street that meanders its way through Low
+Caemlyn, the great sprawl of buildings that lies outside of the main city. 
+Numerous brickwork buildings flank the street; many of them are houses that
+are either three or four stories in height.  The narrow street joins a much
+wider thoroughfare a short distance away to the south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62223
+D1
+~
+~
+3 3
+1 0 62227
+D2
+~
+~
+0 0
+0 0 62218
+D3
+~
+~
+3 3
+1 0 62226
+S
+#62223
+A Narrow Street~
+This is the northern end of a narrow cobblestoned street that meanders
+its way through Low Caemlyn, the great sprawl of buildings that lies outside
+of the main city.  There are many brickwork buildings overshadowing the
+street; the majority of the buildings in this area appear to be old
+warehouses.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 62222
+D3
+~
+~
+3 3
+1 0 62224
+S
+#62224
+A Large Warehouse~
+This is the eastern end of a warehouse located within Low Caemlyn.  The
+building is a particularly large structure made of brownish-red bricks and
+reinforced with thick timber beams.  There are dozens of crates, barrels,
+casks and sacks arranged neatly in rows within the warehouse making it
+easier for the staff to access the items that they require.  A wide door
+braced with iron set in the eastern wall of the warehouse appears to be the
+only way out.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62223
+D3
+~
+~
+0 0
+0 0 62225
+S
+#62225
+A Large Warehouse~
+This is the western end of a warehouse located within Low Caemlyn.  The
+building is a rather large structure made of brownish-red bricks and
+reinforced with thick timber beams.  There are scores of crates, boxes,
+barrels and sacks arranged neatly in rows within the warehouse making it
+simpler for the staff to access the items that they require.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 62224
+S
+#62226
+A Wisdom's House~
+Unlike a lot of the houses within Low Caemlyn, this particular residence
+is well maintained and tidily kept.  The most notable of the rooms within
+this house is the kitchen that is located on the ground floor; it is a cozy
+area with brick walls, a small fireplace and a few items of furniture and
+personal possessions.  The most unusual thing about this room though is a
+wooden rack upon from the ceiling at the center of the room which is being
+used to dry various herbs.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62222
+S
+#62227
+A Shabby House~
+This house is one of the numerous tall buildings found in Low Caemlyn. 
+It is a particularly shabby place constructed from gray bricks and timber. 
+The rooms within this house are scantily furnished with a few items of
+battered and rickety furniture and some personal mementoes belonging to the
+house's owner.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62222
+S
+#62228
+A Rundown Tavern~
+This tavern is one of the many drinking establishments to be found in Low
+Caemlyn.  The common room looks rundown as the brickwork walls seem to be
+crumbling in some places.  The items of furniture within the common room
+look so old and battered that they might fall to pieces anytime soon.  There
+are several large barrels of ale and wine neatly lined up against the common
+room's north wall.  A small flight of wooden steps on the south side of the
+room lead up towards the tavern's exit.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 62220
+S
+#62229
+A Narrow Street~
+This is a narrow cobblestoned street that snakes its way through Low
+Caemlyn, the large sprawl of buildings that lies outside of the main city. 
+Numerous brickwork buildings flank the street; many of them are houses that
+are either three or four stories in height.  The narrow street joins a much
+wider thoroughfare a short distance away to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62220
+D1
+~
+~
+3 3
+1 0 62231
+D3
+~
+~
+3 3
+1 0 62230
+S
+#62230
+A Ramshackle House~
+This house is one of the many tall buildings located in Low Caemlyn.  It
+is a particularly old and ramshackle place built of red bricks and timber
+that has seen better days.  The rooms are sparsely furnished with rickety
+furniture and a few personal knickknacks and curios belonging to the house's
+owner.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62229
+S
+#62231
+A Shabby House~
+This house is one of the many tall buildings found in Low Caemlyn.  It is
+a rather shabby place constructed from gray bricks and timber.  The rooms
+within this home are plainly decorated and scantily furnished with a few
+items of battered and rickety furniture and some personal mementoes
+belonging to the house's owner.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62229
+S
+#62232
+Far Madding Road~
+This is a wide yet simple cobblestoned thoroughfare that looks well worn
+from years of usage by travelers.  The road cuts through Low Caemlyn, a
+great sprawl of buildings that lays outside of the gray city walls that
+surround the city of Caemlyn.  The area is like a tall forest of stone and
+brick structures, a mixture of houses, inns and warehouses; one particularly
+large inn is visible nearby on the east side of the road.  The road
+continues southwards from this point through a huge expanse of countryside
+towards Far Madding.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62233
+D1
+~
+~
+3 3
+1 0 62265
+S
+#62233
+Far Madding Road~
+Far Madding Road is a wide cobblestoned thoroughfare that is potholed and
+rutted from many years of use.  At this point the road passes through Low
+Caemlyn, a large expanse of buildings that lies outside of Caemlyn's city
+walls.  The majority of the brickwork structures that flank this route
+appear to be houses although several rundown taverns and shops can also be
+seen around here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62234
+D2
+~
+~
+0 0
+0 0 62232
+S
+#62234
+Far Madding Road~
+Far Madding Road is a long cobblestoned road that looks rutted and
+potholed from years of use.  The road cuts through Low Caemlyn, a large
+sprawl of brickwork buildings that lays outside Caemlyn's city walls.  The
+houses and taverns built along this road look old and shabby with many of
+them in need of repair.  Two much narrower streets lead off from Far Madding
+Road at this point, one to the west and the other to the east.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62235
+D1
+~
+~
+0 0
+0 0 62248
+D2
+~
+~
+0 0
+0 0 62233
+D3
+~
+~
+0 0
+0 0 62237
+S
+#62235
+Far Madding Road~
+Far Madding Road is a broad cobblestoned road that leads through the
+southern section of Low Caemlyn.  The road cuts though the market area which
+is much brighter than the other parts of Low Caemlyn.  Brick markets line
+the wide road, their bright awnings adding color to a predominately gray
+district.  The market area is surrounded by clusters of tall buildings,
+mainly houses and taverns although there are a few warehouses nearby.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62236
+D1
+~
+~
+0 0
+0 0 62247
+D2
+~
+~
+0 0
+0 0 62234
+D3
+~
+~
+0 0
+0 0 62244
+S
+#62236
+Far Madding Road~
+Far Madding Road is a wide yet simple cobblestoned road that leads
+through the southern section of Low Caemlyn.  The road passes though the
+market area which is much more colorful than the other parts of Low Caemlyn.
+Brick markets line the wide road, their bright awnings adding color to a
+predominately gray district.  To the north lies one of the gates that lead
+through the wall that encompasses the main city; it is approximately fifty
+feet in height and tower over every other building close by.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62422
+D1
+~
+~
+0 0
+0 0 62246
+D2
+~
+~
+0 0
+0 0 62235
+D3
+~
+~
+0 0
+0 0 62245
+S
+#62237
+A Narrow Street~
+This is the eastern end of a narrow cobblestoned street that cuts its way
+through Low Caemlyn, the great sprawl of buildings that lies outside of the
+main city.  There are many buildings looming over the narrow street; most of
+them are houses, inns or warehouses and have been built from brick or stone.
+The narrow street joins a much wider thoroughfare a short distance away to
+the east.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62234
+D3
+~
+~
+0 0
+0 0 62238
+S
+#62238
+A Narrow Street~
+This is a narrow cobblestoned street that meanders its way through Low
+Caemlyn, the great sprawl of buildings that lies outside of the main city. 
+There are numerous buildings towering over the narrow street; most them are
+houses, inns or warehouses and have been constructed from brick or stone. 
+Visible beyond the row of buildings on the north side of the road is the
+massive gray stone wall that surrounds New Caemlyn with each of the wall's
+huge watchtowers flying the White Lion banner of Andor.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62237
+D3
+~
+~
+0 0
+0 0 62239
+S
+#62239
+A Narrow Street~
+This the western end of a narrow cobblestoned street that meanders its
+way through Low Caemlyn, the great sprawl of buildings that lies outside of
+the main city.  Numerous brickwork buildings, many of them are either three
+or four stories in height, cast gloomy shadows over the street.  There are
+mainly warehouses in this area although there are no signs on the outside of
+the buildings to suggest what exactly is being stored inside of them.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 62240
+D1
+~
+~
+0 0
+0 0 62238
+D2
+~
+~
+3 3
+1 0 62242
+S
+#62240
+A Large Warehouse~
+This building is one of the many big warehouses located within the large
+brick sprawl known as Low Caemlyn.  The building has been constructed from
+red brick and reinforced with thick wooden beams.  There are dozens of
+crates, barrels and hessian sacks stored within this warehouse, the items
+have been neatly arranged in rows so that they can be accessed easily.  A
+wide set of doors on the south side of the building mark the exit.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 62241
+D2
+~
+~
+3 3
+1 0 62239
+S
+#62241
+A Large Warehouse~
+This the northern end of a very large building that is being used as a
+warehouse.  The warehouse has been built from red brick and reinforced with
+thick timber beams.  There are dozens of crates, barrels and hessian sacks
+stored within this warehouse; all of the items have been neatly arranged in
+rows so that they can be accessed easily.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 62240
+S
+#62242
+A Large Warehouse~
+This building is one of the many large warehouses located within the vast
+brick sprawl known as Low Caemlyn.  The building has been constructed from
+red brick and reinforced with thick wooden beams.  There are scores of
+barrels, crates and hessian sacks stored within this warehouse, the many
+items are neatly arranged in rows so that they can be easily accessed.  A
+wide set of doors on the north side of the building mark the exit.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62239
+D2
+~
+~
+0 0
+0 0 62243
+S
+#62243
+A Large Warehouse~
+This the southern end of a very large building that is being used as a
+warehouse.  The warehouse has been constructed from red brick and reinforced
+with thick wooden beams.  There are scores of barrels, crates and hessian
+sacks stored within this warehouse, the many items are neatly arranged in
+rows so that they can be easily accessed.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 62242
+S
+#62244
+Low Caemlyn Market~
+Low Caemlyn Market is a big sprawl of brick stalls, decorated with
+brightly colored awnings that have been built along the edges of Far Madding
+Road.  The area is in turn surrounded by a cluster of tall buildings built
+from brick and stone to the west and south, whilst the northern market
+border is marked by the city wall.  The gray stone wall on its own could be
+considered as gigantic but the tall watchtowers built along the wall add to
+that effect.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 62245
+D1
+~
+~
+0 0
+0 0 62235
+S
+#62245
+Low Caemlyn Market~
+Low Caemlyn Market is a large sprawl of brick stalls, decorated with
+brightly colored awnings that flank Far Madding Road.  The area is in turn
+surrounded by a cluster of tall buildings built from brick and stone to the
+west and south, whilst to the north of the market is the city wall.  The
+gray stone wall on its own could be considered as colossal but the tall
+watchtowers built along the wall add to that effect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62236
+D2
+~
+~
+0 0
+0 0 62244
+S
+#62246
+Low Caemlyn Market~
+Low Caemlyn Market is a big sprawl of brick stalls, decorated with
+multicolored awnings that have been built along the edges of Far Madding
+Road.  The area is in turn surrounded by a cluster of tall buildings built
+from stone and brick to the east and south, whilst the northern border of
+the market is marked by the city wall.  The gray stone wall on its own could
+be considered as enormous but the tall watchtowers built along the wall add
+to that effect.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 62247
+D3
+~
+~
+0 0
+0 0 62236
+S
+#62247
+Low Caemlyn Market~
+Low Caemlyn Market is a large sprawl of brick stalls, decorated with
+multicolored awnings that flank Far Madding Road.  The area is in turn
+surrounded by a cluster of tall buildings built from stone and brick to the
+east and south, whilst market's northern edge is marked by the city wall. 
+The gray stone wall on its own could be considered as massive but the tall
+watchtowers built along the wall add to that effect.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 62246
+D3
+~
+~
+0 0
+0 0 62235
+S
+#62248
+A Narrow Street~
+This is the western end of a narrow cobblestoned street that snakes its
+way through Low Caemlyn, the great sprawl of buildings that lies outside of
+the main city.  Numerous brickwork buildings, many of them are either three
+or four stories in height, cast gloomy shadows over the street.  The narrow
+street joins a much wider thoroughfare a short distance away to the west.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62249
+D3
+~
+~
+0 0
+0 0 62234
+S
+#62249
+A Narrow Street~
+This is a narrow cobblestoned street that meanders its way through Low
+Caemlyn, the great sprawl of brickwork structures that lies outside of the
+main city.  Numerous brickwork buildings, many of them are either three or
+four stories in height, cast gloomy shadows over the street.  Tucked between
+the shadowy buildings on the south side of the road is a stable yard.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 62250
+D2
+~
+~
+3 3
+1 0 62252
+D3
+~
+~
+0 0
+0 0 62248
+S
+#62250
+A Narrow Street~
+This is the eastern end of a narrow cobblestoned street that meanders its
+way through Low Caemlyn, the great sprawl of buildings that lies outside of
+the main city.  Numerous brickwork buildings, many of them are either three
+or four stories in height, overshadow the street.  To the south lies a
+particularly large and impressive building that appears to be a blacksmith's
+workshop.  
+~
+0
+0 1
+D2
+~
+~
+3 3
+1 0 62251
+D3
+~
+~
+0 0
+0 0 62249
+S
+#62251
+Low Caemlyn Smithy~
+This smithy is unusually large compared to the other workshops in Low
+Caemlyn.  Although this workshop is used to create goods, a small stall
+placed outside the front of the building has been used to display
+merchandise that is readily available.  There are two exits from this
+smithy, a large door on the north side and a wide pair of doors on the west
+side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62250
+D3
+~
+~
+3 3
+1 0 62252
+S
+#62252
+A Stable Yard~
+This stable yard is tucked inside a cluster of shadowy buildings. 
+Despite its dark location, the yard is quite tidy and well maintained.  The
+actual stable lies on the east side of the yard; it is a squat red brick
+structure that is roofed with dark gray tiles.  Despite the number of
+buildings that flank this yard, only two of them have entrances that can be
+accessed from this point, a tall red brick structure on the south side and a
+smaller one made of gray bricks on the east side.  
+~
+0
+0 1
+D0
+~
+gate~
+3 3
+1 0 62249
+D1
+~
+~
+3 3
+1 0 62251
+D2
+~
+~
+3 3
+1 0 62255
+D3
+~
+~
+3 3
+1 0 62253
+S
+#62253
+A Stable~
+This squat structure built from red bricks serves as a stable.  Despite
+its apparent rundown exterior, the interior of this building is quite warm
+and cozy, especially for horses.  Several stalls have been built within the
+stable to accommodate the animals.  The air here is a little dusty as straw
+has been used to cover the floor of the building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62252
+D4
+~
+~
+4096 4096
+0 0 62254
+S
+#62254
+A Hay Loft~
+There is not much to see in this hay loft.  The loft has been constructed
+high above a set of stable stalls used to accommodate horses.  It is a dark
+and cramped area used to store the straw and feed for the animals that
+inhabit this stable.  A long rickety ladder appears to be the only exit from
+this loft to the ground below 
+~
+0
+AD 0
+D5
+~
+~
+4096 4096
+0 0 62253
+S
+#62255
+A Large Kitchen~
+This large room within the Queen's Arms serves as the kitchens.  Although
+this room has bare brick walls like the rest of the building, the kitchen
+floor is clad with gray stone tiles.  There are a pair of small windows on
+the east side of the room provide adequate illuminate during the day,
+several small lanterns fixed to the walls help to light up the room at other
+times.  There are two main exits from this room, a small door on the south
+side of the kitchen and a much more robust door on the opposite side of the
+room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62252
+D2
+~
+~
+3 3
+1 0 62256
+S
+#62256
+A Narrow Hallway~
+This is a narrow hallway located in one of Low Caemlyn's many inns. 
+Small lanterns fixed along the walls reveal this inn to be an old and
+rundown establishment.  The walls have been left as bare brick although a
+tattered piece of brown carpet has been used to cover the wooden
+floorboards.  The ceiling within this hallway is quite low but the thick
+timber support beams give the illusion of constriction within this area. 
+There is a steep wooden staircase leading up to the first floor of the inn
+as well as several identical doorways leading off from this hall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62255
+D1
+~
+~
+3 3
+1 0 62257
+D2
+~
+~
+3 3
+1 0 62258
+D3
+~
+~
+3 3
+1 0 62264
+D4
+~
+~
+0 0
+0 0 62259
+S
+#62257
+A Private Dining Room~
+This room within the Queen's Arms serves as a private dining room.  Just
+like the rest of the inn, the walls of this room have been left as bare
+brick whilst the floorboards look gray with dirt.  Small lanterns fixed to
+the walls of this room are able to illuminate this area with a bright glow. 
+There is a small arched window on the south side of the room and a small
+brick fireplace built into the opposite wall.  The only exit from this room
+appears to be the door on the west side of the room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62256
+S
+#62258
+The Innkeeper's Quarters~
+This room within the Queen's Arms serves as the innkeeper's quarters. 
+Just like the rest of the inn, the walls of this room have been left as bare
+brick whilst the floorboards look gray with dirt.  There is a small window
+on the east side of the room and a small brick fireplace built into the
+opposite wall.  The only exit from this room appears to be the door on the
+north side of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62256
+S
+#62259
+A Narrow Landing~
+This is a narrow landing located in one of Low Caemlyn's many inns. 
+Small lamps attached to the walls reveal this inn to be a rough, rundown
+establishment.  The walls have been left as bare brick although a tattered
+piece of brown carpet has been used to cover the wooden floorboards.  The
+room's ceiling is quite low but the thick timber support beams give the
+illusion of constriction within this area.  There is a steep wooden
+staircase leading up to the ground floor of the inn as well as several
+identical doorways leading off from this landing.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62260
+D1
+~
+~
+3 3
+1 0 62261
+D2
+~
+~
+3 3
+1 0 62262
+D3
+~
+~
+3 3
+1 0 62263
+D5
+~
+~
+0 0
+0 0 62256
+S
+#62260
+A Small Room~
+This is one of the Queen's Arm's small guest rooms.  Just like the rest
+of the inn, the walls of this room have been left as bare brick whilst the
+floorboards look gray with dirt.  A small window on the north side of the
+room looks out into the narrow streets of Low Caemlyn.  There is only one
+exit from this room, a door at the south side of the room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 62259
+S
+#62261
+A Small Room~
+This is one of the Queen's Arm's small guest rooms.  Just like the rest
+of the inn, the walls of this room have been left as bare brick whilst the
+floorboards look gray with dirt.  A small window on the east side of the
+room gives a good view of the narrow streets of Low Caemlyn.  The only exit
+from this room appears to be the door on the west side of the room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 62259
+S
+#62262
+A Small Room~
+This is one of the Queen's Arm's small guest rooms.  Just like the rest
+of the inn, the walls of this room have been left as bare brick whilst the
+floorboards look gray with grime.  A small window on the south side of the
+room provides a good view of the narrow streets of Low Caemlyn.  There is
+only one exit from this room, a door at the north side of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 62259
+S
+#62263
+A Small Room~
+This is one of the Queen's Arm's small guest rooms.  Just like the rest
+of the inn, the walls of this room have been left as bare brick whilst the
+floorboards look gray with grime.  A small window on the west side of the
+room looks out into the narrow streets of Low Caemlyn.  The only exit from
+this room appears to be the door on the east side of the room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 62259
+S
+#62264
+The Common Room~
+This is the southern end of a large common room belonging to the Queen's
+Arms, one of Low Caemlyn's inns.  Small lamps and well positioned candles
+dimly illuminate this rough establishment, revealing the ceiling's low
+timber beams and rough brick walls.  The floorboards of the common room have
+been covered with a thin smattering of wood shavings to hide bloodstains
+from past barroom fights.  There is a rickety wooden door on the east side
+of the room that leads out into a hallway.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 62265
+D1
+~
+~
+3 3
+1 0 62256
+S
+#62265
+The Queen's Arms~
+This is the northern end of a large common room belonging to the Queen's
+Arms, one of Low Caemlyn's inns.  Small lanterns and well positioned candles
+dimly illuminate this rough establishment, revealing the ceiling's low
+timber beams and coarse brickwork walls.  The floorboards of the common room
+have been covered with a thin sprinkling of wood shavings to hide
+bloodstains from past barroom brawls.  On the west side of the common room
+is a small flight of wooden steps leading up to a heft wooden door.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 62264
+D3
+~
+~
+3 3
+1 0 62232
+S
+#0
+
+
+
+#SPECIALS
+M 62210 spec_thief
+S
+
+
+
+#RESETS
+D 0 62205 3 1
+D 0 62206 1 1
+D 0 62208 1 1
+D 0 62208 3 1
+D 0 62209 1 1
+D 0 62209 3 1
+D 0 62210 1 1
+D 0 62210 3 1
+D 0 62211 1 1
+D 0 62212 3 1
+D 0 62213 1 1
+D 0 62214 3 1
+D 0 62215 1 1
+D 0 62216 3 1
+D 0 62220 0 1
+D 0 62222 1 1
+D 0 62222 3 1
+D 0 62223 3 1
+D 0 62224 1 1
+D 0 62226 1 1
+D 0 62227 3 1
+D 0 62228 2 1
+D 0 62229 1 1
+D 0 62229 3 1
+D 0 62230 1 1
+D 0 62231 3 1
+D 0 62232 1 1
+D 0 62239 0 1
+D 0 62239 2 1
+D 0 62240 2 1
+D 0 62242 0 1
+D 0 62249 2 1
+D 0 62250 2 1
+D 0 62251 0 1
+D 0 62251 3 1
+D 0 62252 0 1
+D 0 62252 1 1
+D 0 62252 2 1
+D 0 62252 3 1
+D 0 62253 1 1
+D 0 62255 0 1
+D 0 62255 2 1
+D 0 62256 0 1
+D 0 62256 1 1
+D 0 62256 2 1
+D 0 62256 3 1
+D 0 62257 3 1
+D 0 62258 0 1
+D 0 62259 0 1
+D 0 62259 1 1
+D 0 62259 2 1
+D 0 62259 3 1
+D 0 62260 2 1
+D 0 62261 3 1
+D 0 62262 0 1
+D 0 62263 1 1
+D 0 62264 1 1
+D 0 62265 3 1
+M 0 62208 4 62200 1
+E 0 62205 0 15
+M 0 62209 3 62200 1
+E 0 62206 0 5
+E 0 62207 0 8
+G 0 62208 0
+M 0 62227 6 62200 1
+E 0 62219 0 25
+E 0 62220 0 8
+E 0 62221 0 7
+E 0 62222 0 14
+E 0 62223 0 15
+E 0 62224 0 20
+E 0 62225 0 21
+M 0 62204 6 62201 1
+E 0 62200 0 8
+E 0 62201 0 7
+M 0 62207 4 62201 1
+E 0 62204 0 8
+M 0 62205 3 62202 1
+E 0 62202 0 24
+M 0 62208 4 62202 1
+E 0 62205 0 15
+M 0 62204 6 62203 1
+E 0 62200 0 8
+E 0 62201 0 7
+M 0 62210 4 62203 1
+M 0 62227 6 62204 1
+E 0 62219 0 25
+E 0 62220 0 8
+E 0 62221 0 7
+E 0 62222 0 14
+E 0 62223 0 15
+E 0 62224 0 20
+E 0 62225 0 21
+M 0 62200 8 62205 1
+M 0 62206 3 62205 1
+E 0 62203 0 3
+M 0 62226 8 62206 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62226 8 62207 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62200 8 62208 1
+M 0 62202 4 62208 1
+M 0 62201 8 62209 1
+M 0 62203 4 62209 1
+M 0 62200 8 62210 1
+M 0 62203 4 62210 1
+O 0 62229 0 62211
+M 0 62222 2 62211 1
+M 0 62217 4 62211 1
+E 0 62211 0 16
+M 0 62220 4 62211 1
+E 0 62213 0 20
+E 0 62214 0 17
+E 0 62214 0 18
+M 0 62212 4 62211 2
+M 0 62212 4 62211 2
+M 0 62214 8 62212 1
+M 0 62215 8 62212 1
+E 0 62209 0 20
+M 0 62214 8 62213 1
+M 0 62215 8 62213 1
+E 0 62209 0 20
+M 0 62214 8 62214 1
+M 0 62215 8 62214 1
+E 0 62209 0 20
+M 0 62214 8 62215 1
+M 0 62215 8 62215 1
+E 0 62209 0 20
+M 0 62214 8 62216 1
+M 0 62215 8 62216 1
+E 0 62209 0 20
+M 0 62208 4 62217 1
+E 0 62205 0 15
+M 0 62209 3 62217 1
+E 0 62206 0 5
+E 0 62207 0 8
+G 0 62208 0
+M 0 62227 6 62217 1
+E 0 62219 0 25
+E 0 62220 0 8
+E 0 62221 0 7
+E 0 62222 0 14
+E 0 62223 0 15
+E 0 62224 0 20
+E 0 62225 0 21
+M 0 62204 6 62218 1
+M 0 62205 3 62219 1
+E 0 62202 0 23
+M 0 62204 6 62220 1
+E 0 62200 0 8
+E 0 62201 0 7
+M 0 62207 4 62220 1
+E 0 62204 0 8
+M 0 62227 6 62221 1
+E 0 62219 0 25
+E 0 62220 0 8
+E 0 62221 0 7
+E 0 62222 0 14
+E 0 62223 0 15
+E 0 62224 0 20
+E 0 62225 0 21
+M 0 62201 8 62222 1
+M 0 62203 4 62222 1
+M 0 62200 8 62223 1
+M 0 62206 3 62223 1
+E 0 62203 0 3
+M 0 62226 8 62224 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62226 8 62225 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62229 1 62226 1
+M 0 62225 1 62226 1
+M 0 62214 8 62227 1
+M 0 62215 8 62227 1
+E 0 62209 0 20
+O 0 62229 0 62228
+M 0 62222 2 62228 1
+M 0 62217 4 62228 1
+E 0 62211 0 16
+M 0 62220 4 62228 1
+E 0 62213 0 20
+E 0 62214 0 17
+E 0 62214 0 18
+M 0 62212 4 62228 2
+M 0 62212 4 62228 2
+M 0 62200 8 62229 1
+M 0 62202 4 62229 1
+M 0 62214 8 62230 1
+M 0 62215 8 62230 1
+E 0 62209 0 20
+M 0 62214 8 62231 1
+M 0 62215 8 62231 1
+E 0 62209 0 20
+M 0 62208 4 62232 1
+E 0 62205 0 15
+M 0 62209 3 62232 1
+E 0 62234 0 11
+E 0 62206 0 5
+E 0 62207 0 8
+G 0 62208 0
+M 0 62227 6 62232 1
+E 0 62219 0 25
+E 0 62220 0 8
+E 0 62221 0 7
+E 0 62222 0 14
+E 0 62223 0 15
+E 0 62224 0 20
+E 0 62225 0 21
+M 0 62204 6 62233 1
+M 0 62207 4 62233 1
+M 0 62204 6 62234 1
+E 0 62200 0 8
+E 0 62201 0 7
+M 0 62207 4 62234 1
+M 0 62205 3 62235 1
+E 0 62202 0 23
+M 0 62206 3 62235 1
+E 0 62203 0 4
+M 0 62227 6 62236 1
+E 0 62219 0 25
+E 0 62220 0 8
+E 0 62221 0 7
+E 0 62222 0 14
+E 0 62223 0 15
+E 0 62224 0 20
+E 0 62225 0 21
+M 0 62201 8 62237 1
+M 0 62203 4 62237 1
+M 0 62201 8 62238 1
+M 0 62202 4 62238 1
+M 0 62200 8 62239 1
+M 0 62210 4 62239 1
+M 0 62226 8 62240 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62226 8 62241 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62226 8 62242 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62226 8 62243 1
+E 0 62217 0 9
+E 0 62218 0 10
+M 0 62201 8 62244 1
+M 0 62211 4 62244 1
+M 0 62201 8 62245 1
+M 0 62211 4 62245 1
+M 0 62201 8 62246 1
+M 0 62211 4 62246 1
+M 0 62210 4 62247 1
+E 0 62234 0 11
+M 0 62211 4 62247 1
+M 0 62200 8 62248 1
+M 0 62202 4 62248 1
+M 0 62201 8 62249 1
+M 0 62210 4 62249 1
+M 0 62200 8 62250 1
+M 0 62228 1 62251 1
+M 0 62224 1 62251 1
+M 0 62221 3 62253 3
+E 0 62215 0 7
+E 0 62216 0 20
+M 0 62221 3 62253 3
+E 0 62215 0 7
+E 0 62216 0 20
+M 0 62221 3 62253 3
+E 0 62215 0 7
+E 0 62216 0 20
+O 0 62232 0 62255
+P 0 62233 1 62232 1
+O 0 62231 0 62255
+M 0 62216 2 62255 1
+E 0 62210 0 5
+M 0 62219 2 62255 2
+E 0 62212 0 20
+E 0 62211 0 16
+M 0 62219 2 62255 2
+E 0 62212 0 20
+E 0 62211 0 16
+M 0 62218 2 62256 1
+E 0 62211 0 16
+M 0 62216 2 62258 1
+E 0 62210 0 5
+M 0 62218 2 62259 1
+E 0 62211 0 16
+O 0 62226 0 62260
+O 0 62226 0 62261
+O 0 62226 0 62262
+O 0 62236 0 62262
+P 0 62235 1 62236 1
+P 0 62237 1 62236 1
+P 0 62238 1 62236 1
+O 0 62226 0 62263
+O 0 62229 0 62264
+O 0 62228 0 62264
+O 0 62230 0 62264
+M 0 62217 4 62264 1
+E 0 62211 0 16
+M 0 62220 4 62264 1
+E 0 62213 0 20
+E 0 62214 0 17
+E 0 62214 0 18
+M 0 62213 4 62264 2
+M 0 62213 4 62264 2
+O 0 62229 0 62265
+O 0 62227 0 62265
+M 0 62223 1 62265 1
+M 0 62217 4 62265 1
+E 0 62211 0 16
+M 0 62220 4 62265 1
+E 0 62213 0 20
+E 0 62214 0 17
+E 0 62214 0 18
+M 0 62213 4 62265 2
+M 0 62213 4 62265 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,2379 @@
+#AREADATA
+Name Kitiara's Questing Area~
+Builders Kitiara Lilith~
+VNUMs 29201 29399
+Credits None~
+Security 5
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#29201
+cupid~
+{rC{Ru{Wp{Ri{rd{x~
+A funny-looking man with wings growing from his back, carries a bow and arrow.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+0
+7 7 7 7
+FKN 0 0 0
+stand stand male 2000
+0 0 medium 'love'
+#29202
+brainey smurf~
+Brainy Smurf~
+Brainy Smurf is here, smurfing into other smurf's business.
+~
+~
+unique~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 500
+0 0 medium 'unknown'
+#29203
+hefty smurf~
+Hefty Smurf~
+Hefty smurf is here, smurfing.
+~
+~
+unique~
+A 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand male 500
+0 0 medium 'unknown'
+#29204
+handy smurf~
+Handy smurf~
+Handy smurf is happily smurfing along.
+~
+~
+unique~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 500
+0 0 medium 'unknown'
+#29205
+smurfette smurf~
+Smurfette~
+Smurfette is here, smurfing along happily.
+~
+~
+unique~
+A HV 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+CFKNO 0 0 0
+stand stand none 500
+0 0 medium 'unknown'
+#29206
+papa smurf~
+Papa smurf~
+Papa Smurf is here, grinning and smurfing.
+~
+~
+unique~
+A 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 500
+0 0 medium 'unknown'
+#29207
+pirate dreaful~
+a {rp{Di{rr{Da{rte{x~
+A dreadful looking {rp{Di{rr{Da{rte{x stands here with a {yp{De{yg{x leg.
+~
+~
+unique~
+A 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+0
+1 1 1 1
+0 0 0 0
+stand stand male 4000
+0 0 medium 'flesh'
+#29208
+lookalike woman~
+a {mK{Di{wt{Wi{wa{Dr{ma{x look-a-like~
+A {mK{Di{wt{Wi{wa{Dr{ma{x look-a-like is wandering around, looking confused.
+~
+~
+seanchan~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+EFGHIJK 0 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#29209
+harry potter~
+{yH{ra{yrry {mP{Do{mtt{De{mr{x~
+{yH{ra{yrry {mP{Do{mtt{De{mr{x is standing here, wearing glasses and holding a wand.
+~
+~
+andoran~
+A b 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+A 0 0 QR
+stand stand male 200
+0 0 medium 'flesh bones'
+#29210
+lionhearted bear lion~
+{rL{yio{rnh{yea{rrt{ye{rd{x bear~
+{rL{yio{rnh{yea{rrt{ye{rd{x bear stands here, beaming a proud smile at all.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29210 100~
+#29211
+sunshine bear~
+{YS{Wu{Ynsh{Wi{Yne{x bear~
+{YS{Wu{Ynsh{Wi{Yne{x bear stands here, glowing from rays of sun.
+~
+~
+unique~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'DEATH' 29210 100~
+#29212
+grumpy bear~
+{BGr{Du{Bmpy{x bear~
+{BGr{Du{Bmpy{x bear is here, giving you a sour look.
+~
+~
+unique~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+M 'DEATH' 29210 100~
+#29213
+share bear~
+{YSh{Ra{Yre{x bear~
+{YSh{Ra{Yre{x bear is here, trying to share is STD's.
+~
+~
+unique~
+A 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 400
+0 0 medium 'stuffing'
+M 'DEATH' 29210 100~
+#29214
+tender hearted bear~
+{rT{Re{rnd{Re{rr h{Rea{rrt{Re{rd{x bear~
+{rT{Re{rnd{Re{rr h{Rea{rrt{Re{rd{x bear is here, ripping his heart out.
+~
+~
+unique~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand none 5000
+0 0 medium 'stuffing'
+M 'DEATH' 29210 100~
+#29215
+bedtime bear~
+{bB{Bed{Wt{Bim{be{x bear~
+{bB{Bed{Wt{Bim{be{x bear is snuggled up in his blanky.
+~
+~
+domani~
+A 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand none 5000
+0 0 medium 'stuffing'
+F for AHMV
+F par ABCDEFGHIJK
+M 'DEATH' 29210 100~
+#29216
+wish bear~
+{gW{Gis{gh{x bear~
+{gW{Gis{gh{x bear is here, granting evildoers wishes
+~
+~
+cat~
+A J 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand none 4000
+0 0 large 'stuffing'
+F aff Z
+F off FH
+F for AGV
+F par ACDEFHJKQUV
+M 'DEATH' 29210 100~
+#29217
+friend bear~
+{GFr{Yie{Gnd{x bear~
+{GFr{Yie{Gnd{x bear is busy pissing off all of her friends.
+~
+~
+unique~
+A 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand none 2000
+0 0 medium 'stuffing'
+M 'DEATH' 29210 100~
+#29218
+hermoine~
+{yH{Ye{yrm{Yoi{yne{x~
+{yH{Ye{yrm{Yoi{yne{x, a girl with bushy brown hair, is reading a book.
+~
+~
+andoran~
+A b 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+I 0 0 QR
+stand stand female 100
+0 0 medium 'flesh bones'
+#29219
+ron weasley~
+{rR{Ro{rn W{Rea{rsl{Re{ry{x~
+{rR{Ro{rn W{Rea{rsl{Re{ry{x is shaking his wand in the air, trying to figure out how it works.
+~
+~
+andoran~
+A 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+J 0 0 QR
+stand stand male 100
+0 0 medium 'flesh bones'
+#29220
+beast~
+{bB{Bea{bst{x~
+An unusually large {bb{Bea{bst{x covered with blue fur crouches here, looking ready to pounce.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+DH 0 0 0
+stand stand male 0
+0 0 huge 'flesh fur'
+#29221
+cyclops~
+{DC{ryc{Rl{rop{Ds{x~
+A brown-haired man wearing a {yg{Yo{yld{x visor over his {re{Ry{res{x.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FK 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#29222
+gambit~
+{yG{ra{Rmb{ri{yt{x~
+A tall {yC{ra{Rj{ru{yn{x man wearing a {ytrench{x coat, playing with a deck of {Wc{Ra{Wrds{x.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+EN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#29223
+phoenix~
+the {rPh{Roe{rn{Ri{rx{x~
+A woman surrounded by {rfl{Ra{rm{Re{rs{x floats in the air.
+~
+~
+unique~
+A T 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+F 0 0 0
+stand stand female 0
+0 0 medium 'fire'
+#29224
+jubilee~
+{YJu{Rb{Wi{Rl{Yee{x~
+A funky young woman wearing a yellow {Ytrenchcoat{x and hoop earrings.
+~
+~
+unique~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+H 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#29225
+magneto~
+{rMa{Dg{Wn{De{rto{x~
+A tall, silver-haired man wearing a red {rh{De{rlm{De{rt{x.
+~
+~
+unique~
+AT T 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#29226
+blue mutant~
+{bMy{Bs{cti{Bq{bue{x~
+A {rred{D-{rhaired{x woman with {bblue{x skin and {Yyellow{x, pupilless eyes.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+IN 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#29227
+nightcrawler~
+{DN{big{Bh{ctcra{Bw{ble{Dr{x~
+Hanging from the walls, this {bblue{D-{bsk{Binn{bed{x man has a pointed tail.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+MN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#29228
+xavier professor~
+{WProfessor {DX{wa{Wvi{we{Dr{x~
+A bald man sitting in a floating device.
+~
+~
+unique~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+H 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#29229
+rogue~
+{rR{Ro{Wg{Ru{re{x~
+A lone woman with {Wwhite{x streaks in her {ybrown{x hair.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FJ 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#29230
+sabertooth~
+{YS{yabe{Yr{Dt{Woo{Dth{x~
+A large, {yb{Yea{ystly{x man with tufted {yh{Yai{yr{x and long pointy {Dt{Wee{Dth{x.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+OV 0 0 0
+stand stand male 0
+0 0 huge 'flesh'
+#29231
+storm~
+{WSt{Do{Wrm{x~
+A dark-skinned woman with {Wwhite{x hair floats in the air.
+~
+~
+unique~
+AT T 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+F 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#29232
+wolverine~
+{DW{Yo{Dlv{ye{Dr{Yi{Dne{x~
+A tall, dark-haired man with metal knives coming from his hands.
+~
+~
+unique~
+AT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FGK 0 0 0
+stand stand male 0
+0 0 medium 'flesh adamantium'
+#29233
+disfigured warebear~
+a disfigured {Dw{ra{Rre{rb{Dear{x~
+A disfigured {Dw{ra{Rre{rb{Dear{x bares its {Wfangs{x at you!
+~
+~
+unique~
+AFT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FIV 0 0 0
+stand stand either 200
+GMV ABCDEFGHJKV medium 'stuffing'
+#29234
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29234 100~
+#29235
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29235 100~
+#29236
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29236 100~
+#29237
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29237 100~
+#29238
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29238 100~
+#29239
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29239 100~
+#29240
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29240 100~
+#29241
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29241 100~
+#29242
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29242 100~
+#29243
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29243 100~
+#29244
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29244 100~
+#29245
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29245 100~
+#29246
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29246 100~
+#29247
+man gray ordinary~
+a {DGr{wa{Dy M{wa{Dn{x~
+A very ordinary looking man seems to blend into the walls.
+~
+~
+unique~
+A 0 0 0
+1 0 1d1+1 1d10+100 1d2+0 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'DEATH' 29247 100~
+#29248
+hair monster underwear~
+the underwear {gm{Go{gnst{Ge{gr{x~
+An overly large, hairy {gm{Go{gnst{Ge{gr{x is here, collecting underwear.
+~
+~
+trolloc~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+V 0 0 0
+stand stand either 0
+0 0 large 'flesh'
+#29249
+caterpillar blue~
+a {bbl{Bue{x caterpillar~
+A {bbl{Bue{x caterpillar rests atop a {ym{Yu{yshr{Yoo{ym{x.
+~
+~
+unique~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 small 'slime'
+M 'GIVE' 29250 29288~
+M 'GREET' 29249 100~
+#29250
+cheshire cat~
+the {YCh{Re{Ysh{Ri{Yre{x cat~
+A rather large, {Yf{Ra{Yt c{Ra{Yt{x sits atop the tree limb.
+~
+~
+cat~
+AB BJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'fur'
+F aff Z
+M 'SPEECH' 29253 50~
+M 'SPEECH' 29253 3850~
+M 'SPEECH' 29252 zero~
+M 'SPEECH' 29252 0~
+M 'GREET' 29251 100~
+#29251
+hatter~
+the {DHa{rtt{Der{x~
+Sitting at the head of the table is a very odd {Dfe{rll{Dow{x wearing a large top hat.
+~
+~
+unique~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GIVE' 29258 29291~
+M 'GIVE' 29257 29294~
+M 'GIVE' 29256 29292~
+M 'GIVE' 29291 29293~
+M 'GIVE' 29255 29290~
+M 'GREET' 29254 100~
+#29252
+dodo bird~
+a {cD{Co{cd{Co{x bird~
+A {cD{Co{cd{Co{x bird proudly struts around, ruffling his feathers.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#29253
+lory~
+a {rL{Ro{rry{x ~
+A {rL{Ro{rry{x stands here, preening her feathers.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#29254
+eaglet~
+an {yE{ra{ygl{re{yt{x~
+An {yE{ra{ygl{re{yt{x rests in his nest here, begging to be fed.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#29255
+bill lizard~
+Bill the {gLi{Gza{grd{x ~
+Bill the {gLi{Gza{grd{x is relaxing against the building here.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#29256
+griffin~
+a {yG{Yri{Df{Yfi{yn{x~
+A {yG{Yri{Df{Yfi{yn{x stands here in a proud manner.
+~
+~
+unique~
+A 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#29201
+missing sock~
+Sheina's missing{W sock{x~
+Sheina's missing{W sock{x has been carelessly laid here.~
+cloth~
+container 0 A
+1 0 0 100 100
+0 1 10 100
+#29202
+golden easter egg~
+a {yg{Yo{Wld{Ye{yn{x easter egg~
+A {yg{Yo{Wld{Ye{yn{x easter egg has been place here.~
+yolk~
+treasure AMb AO
+0 0 0 0 0
+1 0 0 100
+#29203
+silver easter egg~
+a {Ds{wi{Wlv{we{Dr{x easter egg~
+A {Ds{wi{Wlv{we{Dr{x easter egg has been place here.~
+yolk~
+treasure AMb AO
+0 0 0 0 0
+1 0 0 100
+#29204
+bronze easter egg~
+a {ybr{wo{ynze{x easter egg~
+A {ybr{wo{ynze{x easter egg has been place here.~
+cloth~
+treasure AMb AO
+0 0 0 0 0
+1 0 0 100
+#29205
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#29206
+colorful easter egg~
+a {bc{Bol{Wor{Bfu{bl{x easter egg~
+A {bc{Bol{Wor{Bfu{bl{x easter egg has been placed here.~
+cloth~
+pill 0 AO
+90 'major heal' '' '' ''
+1 0 0 100
+#29207
+colorful easter egg~
+a {mc{Mol{Wor{Mfu{ml{x easter egg~
+A {mc{Mol{Wor{Mfu{ml{x easter egg has been placed here.~
+cloth~
+pill 0 AO
+0 'refresh' '' '' ''
+90 0 0 100
+#29208
+colorful easter egg~
+a {rc{Rol{Wor{Rfu{rl{x easter egg~
+A {rc{Rol{Wor{Rfu{rl{x easter egg has been set here.~
+yolk~
+food 0 AO
+4 4 0 A 0
+1 0 0 100
+#29209
+easter egg~
+a {Yc{Wo{Rl{Wor{Rf{Wu{Yl{x easter egg~
+A {Yc{Wo{Rl{Wor{Rf{Wu{Yl{x easter egg has been left here.~
+yolk~
+food 0 AO
+4 4 0 0 0
+0 0 0 100
+#29210
+scrubs~
+some {cs{Cc{Wru{Cb{cs{x~
+A set of nursing {cs{Cc{Wru{Cb{cs{x have been tossed here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+1 0 0 100
+#29211
+butterfly gummy~
+a butterfly {rg{Ru{rmmy{x~
+A butterfly {rg{Ru{rmmy{x has been left here.~
+cloth~
+pill 0 A
+75 'heal' '' '' ''
+10 0 0 100
+#29212
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#29213
+plague pill chance~
+{rK{Di{wt{Wi{wa{Dr{ra{x's pill of chance.~
+{rK{Di{wt{Wi{wa{Dr{ra{x's pill of chance.~
+death~
+pill P A
+90 'plague' '' '' ''
+10 0 0 100
+#29214
+sanctuary pill chance~
+{rK{Di{wt{Wi{wa{Dr{ra{x's pill of chance.~
+{rK{Di{wt{Wi{wa{Dr{ra{x's pill of chance.~
+glee~
+pill P A
+90 'sanctuary' '' '' ''
+10 0 0 100
+#29215
+mulberry bush~
+a lonely {mmu{Ml{Wbe{Mr{mry{x bush~
+A lonely {mmu{Ml{Wbe{Mr{mry{x bush grows here.~
+mulberries~
+container 0 A
+10 0 0 100 10
+1 0 0 100
+#29216
+christmas package~
+a christmas {gp{Gac{Wk{Gag{ge{x~
+A small christmas {gp{Gac{Wk{Gag{ge{x tied with a big red {rr{Ri{Wbb{Ro{rn{x.~
+paper~
+container 0 AO
+1 AC 0 100 50
+1 0 0 100
+#29217
+mistletoe~
+a piece of {gm{Gis{Rt{rl{Re{Gto{ge{x~
+A piece of {gm{Gis{Rt{rl{Re{Gto{ge{x has been hung up here.~
+plant~
+pill 0 AO
+90 'heal' 'heal' 'heal' 'heal'
+1 0 0 100
+#29218
+candycane~
+a {Rc{Wa{Rnd{Wy{Rca{Wn{Re{x~
+A large {Rc{Wa{Rnd{Wy{Rca{Wn{Re{x tied with a pretty {gr{Gi{Wbb{Go{gn{x sits here.~
+sugar~
+food 0 A
+20 20 0 0 0
+1 0 0 100
+#29219
+gingerbread man~
+a {yg{Yi{yng{We{yrbr{Ye{yad{x man~
+A {yg{Yi{yng{We{yrbr{Ye{yad{x man smelling of {yg{Yi{yng{Ye{yr{x and {rc{Ri{rnn{Ra{rm{Ro{rn{x is here.~
+flour~
+food 0 A
+20 20 0 0 0
+1 0 0 100
+#29220
+plush stuffed doll~
+a plush {rK{Di{wt{Wi{wa{Dr{ra{x doll~
+A plush, stuffed {rK{Di{wt{Wi{wa{Dr{ra{x that giggles when you squeeze it.~
+cloth~
+treasure Mb AO
+0 0 0 0 0
+1 0 0 100
+#29221
+box chocolates heart~
+a {rh{Rea{rrt{D-{rs{Rh{Wap{Re{rd{x box~
+A {rh{Rea{rrt{D-{rs{Rh{Wap{Re{rd{x box of {Dch{yo{Dc{yo{Dl{ya{Dt{ye{Ds{x has been left here for somebody's lover.~
+chocolate~
+container 0 A
+1 0 0 100 100
+0 0 0 100
+#29222
+chocolate caramel~
+a {Dch{yo{Dc{yo{Dl{ya{Dt{ye{x~
+A {Dch{yo{Dc{yo{Dl{ya{Dt{ye{x covered {yc{Ya{yr{Ya{ym{Ye{yl{x has been set here.~
+sugar~
+food 0 A
+20 20 0 0 0
+0 0 0 100
+#29223
+heart shaped arrow~
+an {rh{Rea{rrt{W-{rsh{Rap{red{x arrow~
+A long arrow with a {rh{Rea{rrt{W-{rsh{Rap{red{x point.~
+love~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#29224
+bleeding heart flesh~
+a bleeding {rh{Rea{rrt{x~
+A large mass of {rfl{Re{rsh{x lies here, beating of its own accord.~
+blood~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29225
+anatomy book~
+a heavy {RAn{Wa{Rt{Wo{Rmy{x text book~
+A very heavy {RAn{Wa{Rt{Wo{Rmy{x text book has been thrown here.~
+wood~
+pill 0 AO
+90 'major heal' 'haste' 'sanctuary' 'refresh'
+0 1 100 100
+#29226
+lionheart head~
+Lionheart's {rbl{Roo{rdy{x head.~
+Lionheart's {rbl{Roo{rdy{x head.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29227
+sunshine head~
+Sunshine bear's {rbl{Roo{rdy{x head~
+Sunshine bear's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29228
+grumpy head~
+Grumpy bear's {rbl{Roo{rdy{x head~
+Grumpy bear's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29229
+Sharebear head~
+Share bear's {rbl{Roo{rdy{x head~
+Share bear's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29230
+tenderheart head~
+Tender heart's {rbl{Roo{rdy{x head~
+Tender heart's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29231
+bedtime head~
+Bedtime bear's {rbl{Roo{rdy{x head~
+Bedtime bear's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29232
+wishbear wish head~
+Wish bear's {rbl{Roo{rdy{x head~
+Wish bear's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29233
+friend head~
+Friend bear's {rbl{Roo{rdy{x head~
+Friend bear's {rbl{Roo{rdy{x head~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29234
+lionheart leftarm~
+Lionheart's {ml{Me{mft{x arm~
+Lionheart's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29235
+sunshine leftarm~
+Sunshine bear's {ml{Me{mft{x arm~
+Sunshine bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29236
+grumpy leftarm~
+Grumpy bear's {ml{Me{mft{x arm~
+Grumpy bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29237
+share leftarm~
+Share bear's {ml{Me{mft{x arm~
+Share bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29238
+tender leftarm~
+Tender hearted bear's {ml{Me{mft{x arm~
+Tender hearted bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29239
+bedtime leftarm~
+Bedtime bear's {ml{Me{mft{x arm~
+Bedtime bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29240
+wish leftarm~
+Wish bear's {ml{Me{mft{x arm~
+Wish bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29241
+friend leftarm~
+Friend bear's {ml{Me{mft{x arm~
+Friend bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29242
+lionheart rightarm~
+Lionheart's {Wright{x arm~
+Lionheart's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29243
+sunshine rightarm~
+Sunshine bear's {Wright{x arm~
+Sunshine bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29244
+grumpy rightarm~
+Grumpy bear's {Wright{x arm~
+Grumpy bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29245
+share rightarm~
+Share bear's {Wright{x arm~
+Share bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29246
+tender rightarm~
+Tender hearted bear's {Wright{x arm~
+Tender hearted bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29247
+bedtime rightarm~
+Bedtime bear's {Wright{x arm~
+Bedtime bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29248
+wish rightarm~
+Wish bear's {Wright{x arm~
+Wish bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29249
+friend rightarm~
+Friend bear's {Wright{x arm~
+Friend bear's {Wright{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29250
+friend rightleg~
+Friend bear's {Bright{x leg~
+Friend bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29251
+wish rightleg~
+Wish bear's {Bright{x leg~
+Wish bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29252
+bedtime rightleg~
+Bedtime bear's {Bright{x leg~
+Bedtime bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29253
+tender rightleg~
+Tender hearted bear's {Bright{x leg~
+Tender hearted bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29254
+share rightleg~
+Share bear's {Bright{x leg~
+Share bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29255
+grumpy rightleg~
+Grumpy bear's {Bright{x leg~
+Grumpy bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29256
+sunshine rightleg~
+Sunshine bear's {Bright{x leg~
+Sunshine bear's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29257
+lionheart rightleg~
+Lionheart's {Bright{x leg~
+Lionheart's {Bright{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29258
+friend leftleg~
+Friend bear's {Dleft{x leg~
+Friend bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29259
+wish leftleg~
+Wish bear's {Dleft{x leg~
+Wish bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29260
+lionheart leftleg~
+Lionheart's {Dleft{x leg~
+Lionheart's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29261
+sunshine leftleg~
+Sunshine bear's {Dleft{x leg~
+Sunshine bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29262
+grumpy leftleg~
+Grumpy bear's {Dleft{x leg~
+Grumpy bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29263
+share leftleg~
+Share bear's {Dleft{x leg~
+Share bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29264
+tender leftleg~
+Tender hearted bear's {Dleft{x leg~
+Tender hearted bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29265
+bedtime leftleg~
+Bedtime bear's {Dleft{x leg~
+Bedtime bear's {Dleft{x leg~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29266
+grumpy leftarm~
+Grumpy bear's {ml{Me{mft{x arm~
+Grumpy bear's {ml{Me{mft{x arm~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29267
+lionheart torso~
+Lionheart's {gtorso{x~
+Lionheart's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29268
+sunshine torso~
+Sunshine's {gtorso{x~
+Sunshine's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29269
+grumpy torso~
+Grumpy's {gtorso{x~
+Grumpy's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29270
+sharebear share {gtorso{x~
+Sharebear's {gtorso{x~
+Sharebear's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29271
+tender torso~
+Tender heart's {gtorso{x~
+Tender heart's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29272
+bedtime torso~
+Bedtime bear's {gtorso{x~
+Bedtime bear's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29273
+wish torso~
+Wish bear's {gtorso{x~
+Wish bear's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29274
+friend torso~
+Friend bear's {gtorso{x~
+Friend bear's {gtorso{x~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29275
+silver signet ring~
+a {Ds{wi{Wlv{we{Dr {Ds{gi{Ggn{ge{Dt{x ring~
+A {Ds{wi{Wlv{we{Dr {Ds{gi{Ggn{ge{Dt{x ring with "{WI belong to Gilshalos{x" inscripted inside.~
+silver~
+armor Ybc AB
+15 15 15 15 0
+60 1 250 100
+#29276
+van~
+a big {Wwhite{x van~
+A big {Wwhite{x van with {rr{Re{rd l{Ri{Wgh{Rt{rs{x flashing and {cs{Ci{Wre{Cn{cs{x blaring is surrounded by men wearing {Wwhite{x jackets.~
+insanity~
+vehicle Yb A
+-1 AB A 29276 0
+0 0 0 100
+#29277
+disfigured head~
+the disfigured {gh{Gea{gd{x of a {Dw{ra{Rre{rb{Dear{x~
+The disfigured {gh{Gea{gd{x of a {Dw{ra{Rre{rb{Dear{x has been discarded here.~
+flesh~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#29278
+guildchest donation gilded chest~
+a large {yg{Yi{Wld{Ye{yd{x chest~
+Resting behind the {rW{bi{Rn{Bd{YT{yh{Br{Ro{bn{re{x is a large {yg{Yi{Wld{Ye{yd{x chest.~
+wood~
+container 0 0
+1000 A 0 1000 0
+10 0 0 100
+#29279
+long sword longsword~
+a double-edged long {Ds{ww{Wo{wr{Dd{x~
+A double-edged long {Ds{ww{Wo{wr{Dd{x with a {yl{rea{yth{re{yr{x wrapped hilt.~
+steel~
+weapon Ybc AN
+sword 10 15 'none' 0
+90 1 0 100
+A
+19 4
+#29280
+flatwort~
+some {rfl{ya{rt{Dw{Wo{Drt{x~
+A small package of {rfl{ya{rt{Dw{Wo{Drt{x.~
+flatwort~
+pill 0 A
+90 'refresh' 'refresh' 'refresh' ''
+1 0 0 100
+#29281
+dogwort~
+some {yd{ro{ygw{ro{yrt{x~
+A small package of {yd{ro{ygw{ro{yrt{x for knitting flesh.~
+dogwort~
+pill 0 A
+90 'heal' 'heal' 'heal' ''
+1 0 0 100
+#29282
+unidentified herbs~
+unidentified {gh{re{grbs{x~
+A small package of unidentified {gh{re{grbs{x.~
+herbs~
+pill 0 A
+90 'haste' 'sanctuary' '' ''
+1 0 0 100
+#29283
+leather satchel~
+a small leather {Dsa{ytch{Del{x~
+A small piece of {Dle{yath{Der{x tied tightly around its contents.~
+cloth~
+container Sb A
+1 AC 0 100 10
+1 0 0 100
+#29284
+stiletto~
+a ra{Wz{xor th{Wi{xn {Dst{wi{Wle{wt{Dto w{Wi{xth an {ge{Gm{Wera{Gl{gd{W-{gi{Gn{Wla{Gi{gd{x h{Wi{xlt~
+A ra{Wz{xor th{Wi{xn {Dst{wi{Wle{wt{Dto w{Wi{xth an {ge{Gm{Wera{Gl{gd{W-{gi{Gn{Wla{Gi{gd{x h{Wi{xlt.~
+metal~
+weapon Ybc AN
+dagger 10 15 'none' D
+90 0 0 100
+A
+19 4
+A
+18 5
+A
+19 5
+A
+1 1
+A
+2 1
+#29285
+pair thong panties~
+a pair of {mK{Di{wt{Wi{wa{Dr{ma{x's {cs{Ci{clk{x panties~
+A pair of {cs{Ci{clk{x thong panties with {mK{Di{wt{Wi{wa{Dr{ma{x embroidered on the front.~
+silk~
+treasure 0 AO
+0 0 0 0 0
+1 0 0 100
+#29286
+boxer shorts~
+a pair of {DT{my{rkh{mo{Dn{x's {bb{Bo{Wx{Be{br{x shorts~
+A pair of men's {bb{Bo{Wx{Be{br{x shorts with {DT{my{rkh{mo{Dn{x printed on the arse.~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#29287
+pair spandex bikini underwear~
+a pair of {rZandor{x's bikini underwear~
+A pair of {Rred{x spandex bikini underwear with {rZandor{x printed on the arse~
+cloth~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#29288
+glass hookah~
+a glass {bh{Boo{bk{Ba{bh{x ~
+A large, glass {bh{Boo{bk{Ba{bh{x has been left here.~
+glass~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#29289
+mushroom~
+a {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x mushroom ~
+A large, {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x mushroom rests here.~
+cloth~
+container a 0
+1 0 0 100 0
+0 0 0 100
+#29290
+quest gift present~
+a {Gwr{gapp{Ged pr{gese{Gnt{x~
+A {Gwr{gapp{Ged pr{gese{gnt{x lays here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 1 500 100
+#29291
+gift box~
+a gift box {mwr{Ma{Wp{Mp{med{x with a pretty {mb{Mo{mw{x~
+A gift box {mwr{Ma{Wp{Mp{med{x with a pretty {mb{Mo{mw{x has been left here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 0 500 100
+#29292
+box silver gift~
+a {Ds{wi{Wlv{we{Dr{x wrapped {Wbox{x~
+A tiny {Wbox{x wrapped in {Ds{wi{Wlv{we{Dr{x paper is here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 0 500 100
+#29293
+gold box gift~
+a humongous {yg{Yo{yld{x wrapped {rb{Ro{rx{x~
+A humongous {rb{Ro{rx{x wrapped in {yg{Yo{yld{x rests here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 0 500 100
+#29294
+oddly shaped gift~
+an oddly shaped {bg{Bi{bft{x~
+An oddly shaped {bg{Bi{bft{x has been set here.~
+paper~
+treasure 0 AO
+0 0 0 0 0
+0 0 500 100
+#29295
+party favor~
+a {rp{Rar{rty f{Ra{rv{Ro{rr{x ~
+A {rp{Rar{rty f{Ra{rv{Ro{rr{x has carelessly been left here.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+favor~
+Thank you for attending Kitiara's birthday party!!  Please give this to
+Kitiara for your gift.  
+~
+#29296
+party favor~
+a {Dp{wa{Wr{wt{Dy f{wa{Wv{wo{Dr{x ~
+A {Dp{wa{Wr{wt{Dy f{wa{Wv{wo{Dr{x has carelessly been left here.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+favor~
+Thank you for attending Kitiara's birthday party!!  Please give this to
+Kitiara for your gift.  
+~
+#29297
+party favor~
+a {bp{Ba{br{Bt{by f{Ba{bv{Bo{br{x ~
+A {bp{Ba{br{Bt{by f{Ba{bv{Bo{br{x has carelessly been left here.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 100
+#29298
+party favor~
+a {gp{Ga{gr{Gt{gy f{Ga{gv{Go{gr{x~
+A {gp{Ga{gr{Gt{gy f{Ga{gv{Go{gr{x has carelessly been left here.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+favor~
+Thank you for attending Kitiara's birthday party!!  Please give this to
+Kitiara for your gift.  
+~
+#29299
+party favor~
+a {mp{Ma{Wr{Mt{my f{Ma{Wv{Mo{mr{x~
+A {mp{Ma{Wr{Mt{my f{Ma{Wv{Mo{mr{x has carelessly been left here.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+favor~
+Thank you for attending Kitiara's birthday party!!  Please give this to
+Kitiara for your gift.  
+~
+#29333
+Golden Egg~
+A {Ygolden{x {Wegg{x~
+A small {Ygolden{x {Wegg{x is hidding in the dirt here.~
+cloth~
+treasure Ca A
+0 0 0 0 0
+0 0 0 100
+#29334
+Easter Egg~
+a {Gco{Ylo{Brf{Rul{Wl{x {Cea{Mst{Per{x {Wegg{x~
+A {Gco{Ylo{Brf{Rul{Wl{x {Cea{Mst{Per{x {Wegg{x is here in the dirt.~
+egg~
+treasure 0 A
+0 0 0 0 0
+0 0 0 100
+#29335
+rotten easter egg~
+a {gr{yo{Dtt{ye{gn{x {mea{cst{Der{x {Wegg{x~
+A {gr{yo{Dtt{ye{gn{x {mea{cst{Der{x {Wegg{x is hidden here in the dirt.~
+cloth~
+potion Ca A
+100 'poison' 'slow' 'weaken' ''
+0 0 0 100
+#29340
+white belt~
+a pure {Wwhite{x belt~
+A pure {Wwhite{x belt has been left here~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29385
+pair white tennis shoes~
+a pair of {Wwhite{x tennis shoes~
+A pair of {Wwhite{x tennis shoes have been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+1 0 0 100
+#29386
+pair white clam diggers~
+a pair of {Wwhite{x clam diggers~
+A pair of {Wwhite{x clam diggers have been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+1 0 0 100
+#29387
+pure white tank top~
+a pure {Wwhite{x tank top~
+A pure {Wwhite{x tank top has been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29388
+white straw hat~
+a {Wwhite{x straw hat~
+A {Wwhite{x straw hat has been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#29389
+pair white sunglasses~
+a pair of {Wwhite{x sunglasses~
+A pair of {Wwhite{x sunglasses have been left here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#29201
+The {rW{bi{Rn{Bd{YT{yh{Br{Ro{bn{re{x recall~
+This room is somewhat small, located somewhere up toward the higher
+reaches of the {Yt{yh{Br{Ro{bn{re{x {rr{bo{Ro{Bm{x.  One wall has been cleverly latticed to blend
+with the wall patterns, and those in the room below cannot even tell that
+this room exists.  It is a perfect place for {YN{yo{bb{rl{ye{Ys{x to spy on the goings on
+beneath them, or for servants to await their masters' commands.  A few
+{Rc{ru{Ys{Gh{gi{Bo{bn{ms{x have been scattered about for seating, and a large {yc{Yh{we{Ys{yt{x dominates
+the very center of the room.
+~
+0
+CDK 0
+S
+#29202
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29203
+D1
+~
+~
+4096 4096
+0 0 29213
+S
+#29203
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 29210
+D2
+~
+~
+4096 4096
+0 0 29202
+D3
+~
+~
+4096 4096
+0 0 29204
+S
+#29204
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 29203
+D2
+~
+~
+4096 4096
+0 0 29205
+S
+#29205
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29204
+D2
+~
+~
+4096 4096
+0 0 29206
+S
+#29206
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29205
+D1
+~
+~
+4096 4096
+0 0 29207
+S
+#29207
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D2
+~
+~
+4096 4096
+0 0 29208
+D3
+~
+~
+4096 4096
+0 0 29206
+S
+#29208
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29207
+D3
+~
+~
+4096 4096
+0 0 29209
+S
+#29209
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 29208
+S
+#29210
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 29211
+D3
+~
+~
+4096 4096
+0 0 29203
+S
+#29211
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D2
+~
+~
+4096 4096
+0 0 29212
+D3
+~
+~
+4096 4096
+0 0 29210
+S
+#29212
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29211
+S
+#29213
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 29214
+D2
+~
+~
+4096 4096
+0 0 29218
+D3
+~
+~
+4096 4096
+0 0 29202
+S
+#29214
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D1
+~
+~
+4096 4096
+0 0 29215
+D3
+~
+~
+4096 4096
+0 0 29213
+S
+#29215
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D2
+~
+~
+4096 4096
+0 0 29216
+D3
+~
+~
+4096 4096
+0 0 29214
+S
+#29216
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29215
+D2
+~
+~
+4096 4096
+0 0 29217
+S
+#29217
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29216
+S
+#29218
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29213
+D1
+~
+~
+4096 4096
+0 0 29219
+S
+#29219
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D2
+~
+~
+4096 4096
+0 0 29220
+D3
+~
+~
+4096 4096
+0 0 29218
+S
+#29220
+Through the Forest~
+A narrow {gp{ya{gthw{ya{gy{x leads through a large forest which looms high overhead. 
+The canopy of the {gl{Gea{gves{x on the trees blocks out most of the sunlight,
+giving the area an almost {Dgl{woo{Dmy{x feeling.  All around the sounds of forests
+animals and insects can be heard, in some places so loud to almost be
+deafening.  Everything about you seems somehow much much larger than it
+should be.  Indeed, the nearby mushrooms come up to your knees, each very
+colorful and {Mp{Yo{Gl{Rk{Wa{D-{Wd{Ro{Gt{Yt{Med{x.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 29219
+S
+#29221
+A Clearing~
+You find yourself in a large clearing with a tall oak tree in the center.
+Tall grass covers the ground, bright wild flowers blooming in the warm
+spring days.  The sky is dark all around, only a few stars shinning
+brightly.  Oddly, a sliver of the moon seems to be smiling at you from the
+tree.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 29224
+S
+#29222
+Questroom1~
+~
+0
+C 0
+S
+#29223
+Questroom2~
+~
+0
+C 0
+S
+#29224
+The Cheshire Cat~
+As you move along the clearing the oak tree seems to loom over you.  The
+odd moon almost seems to grow to a half moon and hovers just over a low
+branch in the tree.  The sound of insects is the only thing that can be
+heard, no birds are to be seen or heard nearby.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 29221
+S
+#29225
+The Birthday Party~
+You suddenly find yourself in a large garden, big beautiful flowers
+blooming all around you, the scent of roses heavy on the air.  In the center
+of the garden is a long, rectangular table.  Dozens of wooden chairs line
+the table, some are filled by other people from the Shadow Wars, others by
+odd characters.  Most odd is a tiny man with a rather large head and an even
+larger black top hat upon his head.  Gifts line the table, along with a
+large birthday cake, buckets of ice cream, and of course, a tea pot.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29226
+S
+#29226
+A Grassy Field~
+A large grassy field spreads out before you, stretching for what seems
+miles in every direction.  Somewhere off to the south a blurry, dark haze
+can be seen, the closer you approach the more it becomes clear, shapes
+taking form.  The more you move towards it, the scent of roses becomes thick
+in the air, and a white picket fence can be seen.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 29225
+S
+#29227
+A Dank Dungeon~
+Shadows cloak the room in darkness as small flames burn at specific
+points on the wall so you can barely see the shapes of those around you.  A
+bloodstained stone table lies in the center of the room, heavy leather
+straps at each end to bind people in place.  A rack of torture weapons lie
+along the wall next to the table.  Leather whips, and even a cat-o-nine
+tails hang there next to a hammer and a vice.  The air is stale, the scent
+of death heavy within it.  Pools of dried blood cover the floor and squish
+between the shoes and the stone.  There is a smoldering bowl of hot coals,
+with different sizes of pokers and branding irons stick out of it.  An iron
+maiden sits in the corner partially open, an arm hanging just outside of it,
+blood still dripping from the fingers.  
+~
+0
+CN 0
+S
+#29276
+Inside The White Van~
+You enter the {Wvan{x from the double doors at back only to find yourself
+inside a {Wpadded{x area.  A large stretcher takes up the center of the area,
+thick {rr{Re{rd{x straps used for strapping people down are open and waiting for the
+next {cv{Ci{Wct{Ci{cm{x to enter the van.  Small cupboards are along one side of the
+van, inside are little vials of {bs{Be{Wr{Bu{bm{x to help you relax and enjoy the ride. 
+~
+0
+CD 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 29278 0 29201
+O 0 29289 0 29209
+P 0 29288 1 29289 1
+M 0 29249 1 29217 1
+M 0 29250 1 29224 1
+M 0 29251 1 29225 1
+S
+
+
+
+#SHOPS
+29252 0 0 0 0 0 100 100 0 23
+29253 0 0 0 0 0 100 100 0 23
+29254 0 0 0 0 0 100 100 0 23
+29255 0 0 0 0 0 100 100 0 23
+29256 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

@@ -1,0 +1,70 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>BUILD_TYPES</H1></FONT><FONT COLOR="white">OTHER INFORMATION ABOUT TYPES</FONT>
+
+When you select certain types, more code will come up, asking you to supply
+more information about the obj you are creating.  The following is a guide
+to help you with this information.  
+
+Type</FONT><FONT COLOR="white"> light</FONT>: v2 = light hours.  A light that never goes out should be set
+with a value of -1.  
+
+Type</FONT><FONT COLOR="white"> scroll</FONT>: v0 = level; v1, v2, v3, v4 = spells (Each one can be set with a
+different spell.  Up to four different spells can go off with one scroll.) 
+
+
+Type</FONT><FONT COLOR="white"> wand</FONT>: v0 = level; v1 = charges total; v2 = charges left; v3 = spell
+Type </FONT>staff</FONT>: v0 = level; v1 = charges total; v2 = charges left; v3 = spell
+
+Type </FONT><FONT COLOR="white">weapon</FONT>: v0 = weapon class ("?  Wclass" for available weapons); v1 =
+number of dice ("help weapons_g1" for TSW standard); v2 = type of dice
+("help weapons_g1" for TSW standard); v3 = ?  Damtype for options; v4 =
+special type ("?  Wtype" for available weapon types.  Please use these
+sparingly.)  
+
+Type </FONT><FONT COLOR="white">armor</FONT>: v0 = ac pierce; v1 = ac bash; v2 = ac slash; v3 = ac exotic. 
+For standard armor, you have a number of points equal to the level of the
+armor to spread between the four ac values.  (i.e. A level 20 piece of armor
+has a value of 20 to distribute.  So, pierce 5, bash 5, slash 5, exotic 5. 
+Or, pierce 10, bash 5, slash 5, exotic 0.  Or, pierce 0, bash 10, slash 10,
+exotic 0.  Etc.)  
+
+Type </FONT><FONT COLOR="white">potion</FONT>: v0 = level; v1, v2, v3, v4 = spells (Each one can be set with a
+different spell.  Up to four different spells can go off with one potion.) 
+
+
+Type </FONT><FONT COLOR="white">furniture</FONT>: v0 = max people allowed on furniture; v1 = max weight
+allowed on furniture; v2 = furniture flags (type "?  Furniture" for
+availability); v3 = heal (how many hp the furniture will heal a player when
+they use it); v4 = endur (how much endurance the furniture will heal a
+player when they use it.)  
+
+Type </FONT><FONT COLOR="white">container</FONT>: v0 = weight (if you are going to put an obj in the
+container, make sure the weight of the container is more than the weight of
+the obj you are putting into it); v1 = flags (type "?  Container" for
+availability); v2 = key (the vnum of a key that opens your container if you
+plan to have it lock); v3 = capacity (number of objs/people allowed in the
+container); v4 = weight mult.  Type drinkcontainer: v0 = liquid total
+(100000 if you never want it to run out.  Use this number sparingly); v1 =
+liquid left; v2 = liquid (type "?  Liquid" for different types); v3 =
+poisoned (your options are yes or no).  
+
+Type</FONT><FONT COLOR="white"> food</FONT>: v0 = food hours (how many ticks the food will last before player
+sees hunger); v1 = full hours (how many ticks the player will be full for. 
+This number should be greater than the v0 value); v3 = poisoned (your
+options are yes or no.)  
+
+Type </FONT><FONT COLOR="white">money</FONT>: v0 = gold, v1 = silver.  
+
+Type </FONT><FONT COLOR="white">fountain</FONT>: v0 = liquid total (100000 if you never want it to run out);
+v1 = liquid left; v2 = liquid (type "?  Liquid" for availability.)  
+
+Type </FONT><FONT COLOR="white">pill</FONT>: v0 = level: v1, v2, v3, v4 = spells (Each one can be set with a
+different spell.  Up to four different spells can go off with one pill.)  
+
+Type </FONT><FONT COLOR="white">portal</FONT>: v0 = charges (number of times it can be used); v1 = exit flags
+(type "?  Exit" for availability); v2 = portal flags (type "?  Portal" for
+availability"); v3 = goes to vnum; v4 = key vnum (to be used if a key
+triggers or unlocks the portal.)  
+
+</FONT></B></PRE>
+</BODY>

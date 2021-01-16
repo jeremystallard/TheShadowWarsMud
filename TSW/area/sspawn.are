@@ -1,0 +1,519 @@
+#AREADATA
+Name Shadow Spawn Encampment~
+Builders None~
+VNUMs 26400 26600
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#26400
+chosen forsaken~
+Chosen Ishamael~
+A well-dressed man lounges here in a high-backed chair.
+~
+~
+unique~
+A HVbc 0 0
+75 0 39d39+4613 0d0+0 5d15+38 none
+0 0 0 0 0
+A
+0 0 0 0
+FHIK 0 0 0
+stand stand male 0
+D 0 medium 'unknown'
+M 'GREET' 26400 100~
+#26401
+human woman~
+A poor human woman~
+A woman in tattered, blood-stained clothing regards you with pleading eyes
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+M 'GREET' 26401 100~
+M 'GREET' 26401 100~
+#26402
+fade lurk halfman figure myrddraal fetch eyeless~
+A Myrddraal~
+A tall, cloaked figure regards you distainfully with its eyeless gaze.
+~
+~
+fade~
+A D 0 0
+40 0 0d0+0 0d0+0 0d0+0 slash
+0 0 0 0 0
+A
+0 0 0 0
+0 0 HI JP
+stand stand male 0
+0 0 large 'unknown'
+F aff FP
+F res L
+F vul R
+F for H
+#26403
+trolloc beast~
+a Tro{rll{xoc sentry~
+A rat-faced Tro{rll{xoc is here, sleeping in the bushes.
+~
+~
+unique~
+A 0 0 0
+30 0 0d0+0 0d0+0 0d0+0 crush
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+sleep stand male 0
+0 0 medium 'unknown'
+M 'GREET' 26403 100~
+#26404
+man human haggard~
+A haggard-looking human man~
+A haggard-looking man is here sobbing silently into his hands
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#26405
+child~
+An orphaned child~
+A small child is here, starring blankly at you
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#26400
+blade trolloc wicked blood stained~
+{Da dark, power-wrought blade of pure evil{x~
+A blood-stained blade lies here on the ground~
+Power~
+weapon ABFGIPQUY ANP
+sword 100 100 'none' H
+94 1 1 100
+#26401
+chair~
+a high-backed chair~
+A well-crafted, high-backed chair~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 100
+#26402
+cookpot pot~
+The Trolloc's Cookpot~
+A massive, cast-iron cookpot atop a roaring bonfire~
+cloth~
+container 0 P
+0 0 0 0 0
+0 0 0 100
+#26403
+sword heron blade~
+an elaborate {CH{ce{Cr{co{Cn{x-{Cm{ca{Crk{ce{Cd{x blade inlaid with {Wi{xv{Wory{x and {yg{Yo{yld{x~
+A sword of fine craftsmanship rests here, leaning against the wall.~
+Steel~
+weapon 0 AN
+sword 6 15 'none' 0
+75 200 0 100
+#0
+
+
+
+#ROOMS
+#26400
+Nearing an Encampment~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26401
+S
+#26401
+Following the Trail~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26403
+D1
+~
+~
+0 0
+0 0 26402
+D2
+~
+~
+0 0
+0 0 26400
+S
+#26402
+A {gP{Gatc{gh{x of {gT{Ghor{gn{x Bushes~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 26401
+S
+#26403
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26404
+D2
+~
+~
+0 0
+0 0 26401
+S
+#26404
+Before the Bonfire~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26406
+D1
+~
+~
+0 0
+0 0 26405
+D2
+~
+~
+0 0
+0 0 26403
+D3
+~
+~
+0 0
+0 0 26412
+S
+#26405
+Beside the Bonfire~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26407
+D3
+~
+~
+0 0
+0 0 26404
+S
+#26406
+{rInside the Cookpot!{x~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 26409
+D1
+~
+~
+0 0
+0 0 26407
+D2
+~
+~
+0 0
+0 0 26404
+D3
+~
+~
+0 0
+0 0 26411
+S
+#26407
+Beside the Bonfire~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26408
+D1
+~
+~
+0 0
+0 0 26415
+D2
+~
+~
+0 0
+0 0 26405
+D3
+~
+~
+0 0
+0 0 26406
+S
+#26408
+Beside the Bonfire~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 26407
+D3
+~
+~
+0 0
+0 0 26409
+S
+#26409
+Around the Bonfire~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26413
+D1
+~
+~
+0 0
+0 0 26408
+D2
+~
+~
+0 0
+0 0 26406
+D3
+~
+~
+0 0
+0 0 26410
+S
+#26410
+Beside the Bonfire~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 26409
+D2
+~
+~
+0 0
+0 0 26411
+S
+#26411
+Beside the Bonfire~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26410
+D1
+~
+~
+0 0
+0 0 26406
+D2
+~
+~
+0 0
+0 0 26412
+S
+#26412
+Beside the Bonfire~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26411
+D1
+~
+~
+0 0
+0 0 26404
+S
+#26413
+A Quiet Trail~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 26414
+D2
+~
+~
+0 0
+0 0 26409
+S
+#26414
+Before a Large Tent~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 26416
+D2
+~
+~
+0 0
+0 0 26413
+S
+#26415
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 26417
+D3
+~
+~
+0 0
+0 0 26407
+S
+#26416
+Inside a Large Tent~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 26414
+S
+#26417
+~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 26418
+D3
+~
+~
+0 0
+0 0 26415
+S
+#26418
+Tro{rll{xoc Food~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 26417
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 26414 0 1
+D 0 26416 2 1
+M 0 26403 2 26402 1
+O 0 26402 0 26406
+M 0 26402 1 26414 1
+M 0 26400 1 26416 1
+E 0 26403 0 20
+M 0 26401 5 26418 1
+M 0 26404 2 26418 1
+M 0 26405 2 26418 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,6578 @@
+#AREADATA
+Name Immortal Rooms~
+Builders Zandor Kitiara Verrin~
+VNUMs 9900 9999
+Credits {{All} Immortal Immortal Rooms~
+Security 1
+Low 0
+High 0
+Flags 1
+Version 2
+End
+
+
+
+#MOBILES
+#9900
+Penguin~
+A waddling penguin~
+{CA {Gwaddling {Cpenguin {Gplays {Cin {Ga {Cpuddle.{X
+~
+A furry black penguin, with a white belly.
+It is quite stupid!
+~
+water fowl~
+AIWa J 0 0
+10 5 2d7+121 2d7+242 2d4+2 peck
+0 0 0 0 0
+0 0 0 0
+0 0 Q R
+stand stand male 0
+HMV BGIJ small 'furry'
+F res R
+#9901
+butler servant~
+A short man in a tuxedo~
+The butler stands here waiting to serve
+~
+~
+andoran~
+ABGS 0 0 0
+90 10 20d20+20 0d0+0 20d20+20 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand male 100
+0 0 medium 'person'
+M 'SPEECH' 9903 hello~
+M 'DELAY' 9901 12~
+M 'ACT' 101 drops~
+M 'BRIBE' 9901 100~
+M 'GIVE' 9901 bribe 100~
+#9902
+Jeeves man butler tall middle age~
+Jeeves the {ws{Wilve{wr{W-{wh{Waire{wd{x butler~
+A tall, fine-limbed man of middle-age welcomes you to the palace.
+~
+~
+andoran~
+A 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#9903
+insane man~
+an insane man~
+An insane man wearing a sign that says "{Gbeat me up{x"
+~
+~
+hobgoblin~
+A 0 2 0
+0 3000 30d500+5000 30d500+5000 2d10+1 digestion
+0 0 0 0 0
+0 0 0 0
+DFHJKMOV 0 ABCDEFGHIJKMNOPRTXYZ 0
+stand stand male 1000
+ES L giant 'pattern'
+F for V
+#9905
+artist~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#9915
+{BR{Cy{Wsh{Ce{Br{x~
+A tall, Domani man~
+A tall, Domani man is here.
+~
+~
+domani~
+A 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#9916
+lorge tiger~
+an abnormally large {DT{x{ri{x{Dg{x{re{x{Dr{x~
+An abnormally large {DT{x{ri{x{Dg{x{re{x{Dr{x follows and protects his {DMistress{x.
+~
+The {Dt{x{ri{x{Dg{x{re{x{Dr{x is about the size of a small horse, large enough for riding but
+still compact enough to not be seen when hunting.  Fierce {ggreen{x eyes watch
+everything, often the only part of him moving when sitting still.  When he
+yawns long {Wwhite{x teeth gleam brightly and when stretching his large {Wclaws{x
+extend from his enormous paws.  About his neck is a {Dblack{x collar, hanging
+from it is a tag reading "Cirawen".  
+~
+cat~
+ABIZ J 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+0 0 0 0
+0 0 BEH FI
+stand stand male 0
+HZ GIPX large 'fur and muscle'
+#9920
+Jiggy ferret~
+a {rm{Rea{rn{x mess of {Wteeth{x~
+A {ym{Yang{yy{x but lithe old {Df{we{Wrr{we{Dt{x lurks around here.
+~
+Calling this wretched old creature ugly would be an insult to the ugly
+people.  If a trolloc was ferret-headed, this is the head it'd have.  Large
+menacing {rfangs{x constantly drip a little with {Cslobber{x.  
+
+The beast prowls around on it's four feet, sometimes stopping to scratch at
+one of the many {rs{Rcab{rs{x it constantly sports from it's constant warring with
+neighbouring ferrets.  
+~
+unique~
+AIZ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+40 40 40 0
+BEFGHIKMNOVW BCEGJMOQRTZ 0 0
+stand stand male 0
+V GH small 'flesh'
+#9921
+none~
+none~
+none
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#9930
+Stephanie woman~
+Stephanie~
+A tall, slim young woman is here, moving about gracefully.
+~
+Moving about the room with simple grace, the young woman known simply as
+Stephanie smiles warmly to you in greeting.  Dressed in a loose fitting
+blouse and pants, her tall, slim figure reflects a vibrant energy found only
+in youth.  Blonde-streaked auburn hair frames her beautiful face, and you
+find yourself unable to think coherantly when she locks her large blue eyes
+onto your own.  A fair-skinned hand touches your arm and a smile alights her
+face as she welcomes you.  Even in this simple act you are again struck by
+her simple, yet elegant beauty.  
+~
+mayener~
+ABCJKRb DFHNOVb 1000 0
+90 100 100d100+20000 1d1+20000 10d20+150 slap
+0 0 0 0 0
+-30 -30 -30 -30
+CDEFHIJKN ABCELQ DFGHIJKOPTXYZ 0
+stand stand female 0
+0 0 medium 'unknown'
+M 'GREET' 9904 100~
+#9931
+Goulash trolloc~
+{BGoulash{x~
+{BGoulash{x the Pathetic is here, grumbling under his breath.
+~
+This must be the most unusual trolloc you have ever seen.  He is short,
+slightly rotund, and very hairy.  He has a face of a goat, but the body of a
+dwarf.  He seems to be grumbling under his breath about the injustice of the
+Gods, giving him such a pathetic body.  Poor fellow...  Hee hee!  
+~
+trolloc~
+ABCHRTZc DFJOVc -1000 0
+75 80 50d10+9500 75d19+100 50d10+28 beating
+0 0 0 0 0
+-30 -30 -30 -27
+CEFHIN 0 BE 0
+stand stand male 50000
+0 0 medium 'unknown'
+#9932
+Machin Shin black wind~
+{DMachin Shin{x~
+Machin Shin, the {DBlack Wind{x, is here, seeking to consume your soul.
+~
+Black as night and radiating evil beyond imagination, this outgrowth of
+the taint of Saidin wanders the Ways looking for life to consume.
+Voices begin to whisper in your head, a thousand jibbering mad voices
+clawing inside your skull.  {rBitter blood.  Blood so bitter.  Drink
+{rthe blood and crack the bone.  Crack the bone and suck the marrow.
+{rBitter marrow, sweet the screams.  Singing screams.  Sing the screams.
+{rTiny souls.  Acrid souls.  Gobble them down.  So sweet the pain...{x
+It appears to be coming towards you...
+ 
+~
+unique~
+AO DEFOTUVZc -1000 0
+90 100 50d10+9500 100d22+100 50d10+28 drain
+0 0 0 0 0
+-30 -30 -30 -27
+A ABCDEFGHIKLMOPQRTXYZ 0 N
+stand stand none 0
+CK 0 medium 'unknown'
+M 'DELAY' 9903 100~
+M 'GRALL' 9902 100~
+#9943
+grolm~
+big scary~
+Big scary
+~
+Big scary
+~
+unique~
+AJKQRSVZa DEFHJOPQTUVabc 1 0
+94 300 10000d1+10000 10000d1+10000 666d666+666 digestion
+0 0 0 0 0
+-66 -66 -66 -66
+ABCDEFGHIJKLMNOQVW ABCDEFGHIJKLMNOPQRTXYZ 0 0
+stand stand none 50000
+CEJKZc ABCDEFGHIJKMNPQUVWXY giant 'evil flesh'
+#9957
+A shadow creature~
+{Da shadow creature{x~
+{DSomething in the shadows{x
+~
+{DShadar Logoth produced many new creatures.  One of them seems to have
+been taken or found it's way here.  While it can't be seen, you can feel it
+constantly watching you, waiting.  It's voice is thick and rasp, and it
+deffinitly appears deadly.  {X 
+~
+unique~
+ABRT BPQVc 0 0
+90 1000 100d100+1000 100d100+1000 100d100+1000 wrath
+0 0 0 0 0
+-3000 -3000 -3000 -3000
+CEFHIKNO ABCDEFGHJKLMOPQRTXYZ 0 N
+stand stand none 0
+E 0 medium 'unknown'
+#9960
+dungeonmaster~
+{DThe {rDungeonmaster{w~
+{DThe {rDungeonmaster{D is here, contemplating your demise.{w
+~
+A very large man is here in the shadows, holding something very large and very sharp.
+~
+andoran~
+A V -1000 0
+100 0 10000d10000+10000 0d0+0 10000d10000+10000 wrath
+0 0 0 0 0
+9 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 huge 'unknown'
+#9961
+Man~
+{rJ{Ra{Weh{Ra{rn{x ~
+{rJ{Ra{Weh{Ra{rn{x is here, looking devilishly handsome in a {Dblack t{w{Wuxe{wd{Do{x  
+~
+~
+andoran~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 large 'unknown'
+#9964
+Dog hellhound Siphor~
+A large black dog~
+{DA large black dog with {Rblood red eyes{D is here, with a collar on his neck reading "Siphor".{x
+~
+{DA dog with black fur so dark that it seems to absorb light around it is
+here.  {Rblood red eyes{D glow softly showing it not to be a normal dog.  It
+seems very intelligent, perhaps as intelligent as a human if not more.  It
+is large, for a dog, and looks something like a wolf.  {x {DA thin collar
+wraps around it's neck with a tag saying "Siphor".  
+{x
+~
+dog~
+ACGT 0 1000 1
+95 200 1d5000+100 5000d6+100 1d250+0 divine
+0 0 0 0 0
+-20 -20 -20 -20
+CDEFIKMQV CHIJKLNQRYZ 0 0
+stand stand male 0
+0 0 medium 'hard skin'
+#9969
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+G 0 medium 'unknown'
+#9970
+man~
+{rJ{Ra{Weh{Ra{rn{x~
+{rJ{Ra{Weh{Ra{rn{x {wis here, looking devilishly handsome in a {Dblack t{Wuxed{Do{x
+~
+~
+andoran~
+A 0 0 0
+95 0 10000d10000+10000 0d0+0 10000d10000+10000 wrath
+0 0 0 0 0
+0 0 0 0
+0 0 ABCDEFGHIKLMNOPQRTXYZ 0
+stand stand male 1000000
+0 0 large 'unknown'
+#9980
+Juggler~
+A juggler~
+A male juggler wearing a {Wwhite{x shirt
+~
+Shoulderlength {ybrown{x hair and a bright smile go together for a nice
+appearance with this man.  His hands move quickly to keep a couple of
+colored ball rotating.  
+~
+unique~
+AG 0 0 0
+15 5 9d9+248 15d10+100 3d5+8 punch
+0 0 0 0 0
+0 0 0 5
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#9987
+none~
+none~
+None
+~
+~
+unique~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 drain
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#9990
+none~
+none~
+none
+~
+~
+wolf~
+A 0 0 0
+0 0 1d2+0 0d10+100 1d1+0 divine
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'noen'
+F aff Z
+F off FH
+F for AGV
+F par ACDEFJKQV
+#9993
+spectator~
+a spectator~
+A female spectator
+~
+~
+andoran~
+AB 0 0 0
+10 0 6d7+128 10d10+100 2d5+5 beating
+0 0 0 0 0
+4 4 4 7
+Y 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#9997
+mob al'mitsudijaru'da'halkan'fahdi~
+{ral'Mitsudijaru'da'halkan'fahdi{w~
+{ral'Mitsudijaru'da'halkan'fahdi{c floats around on his {Wc{wl{Wo{wu{Wd{w
+~
+~
+cairhienan~
+ABQRST BH 0 0
+0 100 100d100+12000 1000d100+12000 100d100+1000 none
+0 0 0 0 0
+-1000 -1000 -1000 -1000
+CDEFHIJKLN ABCDEFGHIJKLMNOPQRTXYZ 0 0
+sit sit male 1000000
+0 0 small 'skin'
+#9998
+pet ange~
+Ange~
+Ange stands here with Verry in her arms, hes to lazy to walk.
+~
+~
+mayener~
+AIZ 0 0 0
+100 0 20d1+0 0d0+0 0d0+0 punch
+0 0 0 0 0
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#9999
+laren girl aiel beautiful~
+Laren~
+A beautiful aiel girl named Laren stands before you.
+~
+~
+aiel~
+ABIRc 0 0 0
+100 0 50d30+22600 1d12000+0 10d10+99 slap
+0 0 0 0 0
+-9 -9 -9 -9
+BCEFIJKR 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+F res B
+F vul Z
+#0
+
+
+
+#OBJECTS
+#9900
+spoon~
+a small {Dm{we{Wt{wa{Dl{x spoon~
+A small {Dm{we{Wt{wa{Dl{x spoon lies here.~
+metal~
+weapon HM AN
+sword 50 20 'none' E
+1 0 0 100
+#9901
+over stuffed leather chair~
+A large, black leather overstuffed chair~
+A black leather overstuffed chair is here~
+leather~
+furniture O 0
+2 0 BEHK 50 50
+0 0 0 100
+#9902
+overstuffed couch~
+An overstuffed couch~
+A black leather overstuffed couch sits here in front of the fireplace~
+leather~
+furniture O 0
+4 0 EHK 50 50
+0 0 0 100
+#9903
+jukebox~
+A small jukebox~
+A small jukebox sits in a corner here~
+wood~
+jukebox 0 0
+0 0 0 0 0
+1 10 10 100
+#9904
+desk~
+a {ypolished wooden{x desk~
+A {ypolished wooden{O desk sits here.~
+(null)~
+furniture O 0
+4 9999 EH 0 0
+0 50 50 100
+#9905
+balloon~
+A {Rbright red{p balloon~
+A {Rbright red{p balloon is floating here~
+latex~
+treasure SY AQ
+0 0 0 0 0
+0 0 0 100
+#9906
+Shower Stall~
+A {Wmarble tiled{p shower stall~
+A {Wmarble tiled{p shower stall is here in the corner~
+(null)~
+container 0 0
+0 AF 0 0 0
+0 0 0 100
+E
+inside_description~
+{WSilver{p and {YGold{p faucets glisten here in the lamplight.  The
+{Wsilver{p showerhead hangs here ready to wash you cleanly.  {YBrass{P bars
+run along the wall to allow you to grab hold and keep your balance while the
+{WMarble{p tiles are kept scrubbed perfectly clean.  
+~
+#9907
+silk rope ropes silken~
+A long, soft {Ysilk{p rope~
+A long, soft {Ysilk{p rope is here~
+silk~
+armor 0 AH
+0 0 0 0 0
+90 10 0 100
+#9908
+test widget~
+a widget~
+a test widget lies here~
+cloth~
+jewelry 0 AO
+0 0 0 0 0
+0 0 0 100
+#9909
+Liaya's Wings~
+{BBl{Wu{Be fl{Wa{Bming {Bf{Wea{Bther {Bwi{Wn{Bgs{x~
+{BBl{Wu{Be fl{Wa{Bming {Bf{Wea{Bther {Bwi{Wn{Bgs {wthat hold {Dsecret {wtreasures.{x~
+{Bf{Wea{Bthers {Wengulfed{x in {Bfl{Wa{Bmes{X yet seem not to {Rburn{x~
+container ABGY AKP
+90 ACIJKLMNOPQRSTUVWXYZabcdef -1 50 0
+90 0 0 100
+#9910
+sword mahdi far bekkar black~
+a long thin rapier~
+{DAfter resting in Shadar Logoth since the city fell, this horribly tainted deathly black sword has finally fallen into the hands of a warrior.  It's double-edged blade makes a thin diamond shape at the beginning, then goes straight to make the blade.  The hilt is shaped like a black dragon with round wings to make the handguard, and the body for the handle, while the head swallows the beginning of the blade.{x~
+tainted steel~
+weapon ACEY ANP
+sword 100 100 'slice' D
+94 0 0 100
+#9911
+Field plate~
+{Da suit of tainted black field plate{x~
+{DA suit of tainted black field plate.{x~
+tainted steel~
+armor ACEY ADP
+10000 10000 10000 10000 0
+94 20 0 100
+#9912
+glowing black clear gem~
+{Da glowing black, clear gem set into his wrist{x~
+{DA glowing black, clear gem set into his wrist.{x~
+gem~
+portal ACESY AMP
+-1 0 0 9964 0
+90 0 0 100
+#9913
+black pearl wrist~
+{Da black pearl set into his wrist{x~
+{DA black pearl set into his wrist.{x~
+pearl~
+room_key ACESY AMP
+0 0 0 0 0
+90 0 0 100
+#9914
+black belt pearls~
+{Da black belt lined with small black pearls{x~
+{DA black leather belt lined with small black pearls.{x~
+leather belt pearls~
+container ACEY ALP
+1000000 E 0 10000000 10000000
+90 0 0 100
+#9915
+Fei's long, high-collared black trench coat~
+{Da long, high-collared black trench coat{x~
+{DA long, high-collared black trench coat.{x~
+unknown~
+armor ACEY AKP
+100000 100000 100000 100000 0
+95 0 0 100
+#9916
+a twist in the pattern~
+{Da simple twist in the pattern{x~
+{DA simple twist in the pattern.{x~
+cloth~
+armor CEGY AJP
+100000 100000 100000 100000 0
+95 0 0 100
+#9917
+tainted black metal plates~
+{Dtainted black metal arm plates{x~
+{DTainted black metal arm plates.{x~
+tainted steel plate~
+armor ACEY AIP
+10000 10000 10000 10000 0
+95 0 0 100
+#9918
+tainted black gloves~
+{Dblack gloves with st{wee{Dl claws and spurs{x~
+{DLong black gloves with tainted st{wee{Dl claws and spurs.{x~
+unknown/steel claws and spurs~
+weapon ACEY AHP
+exotic 20 30 'claw' DG
+90 0 0 100
+#9919
+boots tainted steel black~
+{Dtainted knee-high black steel boots{x~
+{DTainted knee-high black steel boots.{x~
+tainted steel~
+weapon ACEY AGP
+exotic 40 40 'crush' DG
+95 0 0 100
+#9920
+baggy silk pants~
+{Dbaggy silk pants that tuck into his boots{x~
+{DBaggy silk pants that tuck into his boots.{x~
+tainted silk~
+container ACEY AFP
+10000 0 0 100000 100000
+90 0 0 100
+#9921
+Fei's dragon wings~
+{Dlong, black, rounded wings{x~
+{DLong, black, rounded wings.{x~
+black scales~
+container ACEY AS
+10000 0 0 10000 10000
+95 0 0 100
+#9922
+hair~
+{Dshort black hair{x~
+{DShort black hair.{x~
+black hair~
+jewelry ACEY AEP
+0 0 0 0 0
+0 0 0 100
+#9923
+tube black~
+{Da thin black tube leading into his coat{x~
+{DA thin black tube leading into his coat.{x~
+tube~
+fountain ACEY ACP
+2147483647 2147483647 'water' 0 0
+95 0 0 100
+#9924
+high collar~
+{Dthe high collar of his long coat{x~
+{DThe high collar of his long coat.{x~
+unknown (tainted)~
+armor ACEY ACP
+1000 1000 1000 1000 0
+90 0 0 100
+#9925
+Fei's wedding band~
+{wa {Dth{wi{Dck bl{wa{Dck w{we{Ddd{wi{Ding b{wa{Dnd{x~
+{wA {Dth{wi{Dck bl{wa{Dck w{we{Ddd{wi{Ding b{wa{Dnd.{x~
+unknown~
+treasure ACGIY ABP
+0 0 0 0 0
+95 0 0 100
+#9926
+dark coldness~
+{Da dark coldness about him{x~
+{DA dark coldness about him.{x~
+N/A~
+treasure ACEY APQ
+0 0 0 0 0
+90 0 0 100
+#9927
+hakama pants~
+{Da pair of sable hakama pants, the {rD{Rr{yag{Ro{rn{D's tail coiled about the left leg{w ~
+Somebody's sweet Japanese-looking pants are in a rumpled heap on the floor.~
+cloth~
+armor GKY AF
+-20000 -20000 -20000 -20000 0
+0 0 10000 100
+#9928
+Glowing White Rose~
+A White {RRose{X~
+A beautiful white rose, giving off a faint white glow.~
+flower~
+light A AO
+0 0 999 0 0
+1 0 0 100
+#9929
+Giant Falcon Wings~
+{CGiant {GFalcon {CWings{X~
+Beautiful giant wings, that resemble those of a falcon.~
+Feathers~
+container AGIY AOS
+0 0 0 0 0
+0 0 0 100
+#9930
+bed~
+Eldoran's bed~
+Eldoran's massive unmade bed is here, looking extremely comfortable.~
+cloth~
+furniture GIO A
+2 50000 BEHLO 1000 1000
+1 20000 0 100
+#9931
+desk oaken~
+a large oaken desk~
+A large oaken desk is here, covered completely with assorted objects.~
+oak~
+furniture GIO 0
+1 1000000 ADGNO 150 150
+1 0 0 100
+#9932
+hot water bottle~
+A nice, hot, hot water bottle~
+A nice, pink, hot watter bottle emitting a warm heat is here~
+rubber~
+armor 0 AE
+0 0 0 0 0
+0 0 0 100
+#9933
+box chocolates wrapped present~
+a {Gpr{get{Gty {RWr{rap{Rped {BBox{x~
+A {GPr{get{Gty {RWr{rap{Rped {BBox {p with a {RRi{rbb{Ron {p rests here~
+cardboard~
+container 0 A
+0 AC 0 50 0
+94 0 0 100
+#9934
+chocolate ball~
+A {WWr{wapp{Wed {DC{yh{Do{yc{Do{Dl{Ya{Dt{ye {DBall{p~
+A {WWr{wapp{Wed {DC{yh{Do{yc{Do{Dl{Ya{Dt{ye {DBall{p is here, just ready to be eaten~
+chocolate~
+food 0 A
+1 0 0 0 0
+0 0 0 100
+#9935
+mirror silver~
+a large {Wsilver{x mirror~
+A large {Wsilver{x mirror stands here, reflecting someplace else.~
+silver~
+portal AGI P
+999999 AK AK 13000 0
+96 5 0 100
+E
+mirror~
+A large, {Wsilver{x mirror stands here against one wall, reflecting the image
+of a large, bustling city.  The scene looks so real that you can almost hear
+the loud buzz of thousands of people and feel the hot breeze against your
+face.  It's like you could touch the mirror and find yourself on the other
+side.  But then, you never know until you give it a try...  
+~
+#9936
+kodachi ornate Skie sword~
+the ornate kodachi, {cSkie{x~
+An ornate kodachi lies here, emanating an eerie {cbluish{x light.~
+steel~
+weapon AGIY ANP
+sword 100 5 'slash' DEG
+96 5 0 100
+A
+18 50
+A
+19 50
+E
+skie~
+Glowing before you lies the legendary {cSkie{x, the mighty blade of the God
+of Lightning.  Shafts of pure electricity flow up and down the blade, and
+upon grabbing its hilt, your hand experiences a sharp, tingling sensation. 
+You are suprised when it greets you telepathically, its magic imbuing it
+with intelligence and power.  With this blade under your control, little
+could stand in your way.  
+~
+#9937
+none~
+none~
+none~
+cloth~
+trash 0 0
+AC 0 FI 0 0
+0 0 0 100
+#9938
+flogger leather deerskin~
+a deerskin flogger in {ggr{Ge{gen{x and {Dblack{x leather~
+A deerskin flogger in {ggr{Ge{gen{x and {Dblack{x leather hangs from a belt loop.~
+cloth~
+weapon 0 ANP
+exotic 0 0 'none' 0
+0 0 0 100
+#9939
+none~
+none~
+none~
+cloth~
+trash 0 0
+C 0 EH 0 0
+0 0 0 100
+#9940
+small wooden box~
+a small wooden {rbox{x~
+A small wooden {rbox{x in the shape of a {Rh{re{Ra{rr{Rt{x~
+hardwood~
+container a AO
+1 A 0 5 100
+1 3 0 100
+#9941
+Drugar's happy item~
+none~
+none~
+cloth~
+key A N
+0 0 0 0 0
+0 0 0 100
+#9942
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+E
+(null)~
+~
+#9943
+trolloc beatin stick~
+a {rt{Rr{wo{Wl{wl{Ro{rc {Gb{Ce{Ma{Wt{Yi{Rn{x stick~
+a {rt{Rr{wo{Wl{wl{Ro{rc {Gb{Ce{Ma{Wt{Yi{Rn{x stick lies here~
+cuendillar~
+weapon ABCEGHLSYa ANP
+sword 666 666 'thwack' ABCDEGH
+94 100 666 100
+A
+18 50
+A
+19 50
+A
+13 1000
+A
+12 1000
+A
+20 10
+#9944
+black leather couch~
+{Da large black leather couch that circles the room along the wall{x~
+{DA large black leather couch that circles the room along the wall.{x~
+(null)~
+furniture CY P
+50 100000 EHK 1000 1000
+0 20 0 100
+#9945
+sword light-weight light steel katana~
+a light-weight {Wsteel{x katana~
+A narrow, extremely sharp {Wsteel{x blade lies here.~
+steel~
+weapon BCGY AN
+dagger 75 5 'slice' BDE
+96 1 100000 100
+A
+19 50
+A
+18 50
+#9946
+endless cup milk~
+the Endless Cup of Milk~
+A small cup of milk lies here, waiting for you to drink out of it.~
+cloth~
+fountain H A
+-1 -1 'milk' 0 0
+1 1 0 100
+#9947
+Flame Sword~
+a {Dsw{wo{Drd{x forged from {RF{Yi{Rr{Ye{x~
+A {Dsw{wo{Drd{x forged from {RF{Yi{Rr{Ye{x.~
+Fire~
+weapon AGKY AN
+sword 100 100 'flame' A
+90 20 0 100
+#9948
+swordrack sword rack~
+{Da black sword rack, containing various swords{x~
+{DA black sword rack, containing various swords.{x~
+(null)~
+container ACGKY P
+10000 0 0 10000 10000
+0 0 0 100
+#9949
+Soul Reaver~
+{DS{bo{Du{bl {DR{be{Da{bv{De{br{x~
+{DA glowing, black, kryss shaped sword with a horned skull hilt{x~
+Souls~
+weapon ACEGY AN
+sword 250 1 'cleave' CDEF
+95 0 0 100
+#9950
+ring storage crate~
+a Ring of Storage~
+A ring with a large {ywooden{x crate on it is here.~
+cloth~
+container CGY AB
+1 JKN 0 1000 1
+10 1 1000 100
+#9951
+kiti~
+a {gc{Do{wl{Wo{wr{W-{ws{Dh{wif{Dti{gng{x cloak, marking the owner a {DG{wa{Wid{wi{Dn{x to {rK{Di{wt{Wi{wa{Dr{ra{x~
+A {gc{Do{wl{Wo{wr{W-{ws{Dh{wif{Dti{gng{x cloak, marking the owner a {DG{wa{Wid{wi{Dn{x to {rK{Di{wt{Wi{wa{Dr{ra{x~
+fancloth~
+armor ABIMY AK
+25 25 25 25 0
+100 1 10000 100
+#9953
+Fei's office couch~
+{Da large, black leather couch{x~
+{DA large, black leather couch.{x~
+(null)~
+furniture CSY P
+4 10000 EHK 100 100
+0 0 0 100
+#9954
+Fei's office chairs chair~
+{Da padded black chair{x~
+{DA padded black chair.{x~
+(null)~
+furniture CY P
+1 10000 FIL 100 100
+0 0 0 100
+#9955
+Fei's chair~
+{Da large, thickly padded, black leather chair{x~
+{DA large, thickly padded, black leather chair{x.~
+(null)~
+furniture ACIY P
+2 10000 FIL 1000 1000
+90 10 0 100
+#9956
+Picture of Liaya~
+a picture of a beautiful woman "{CL{ci{wa{cy{Ca{x"~
+A picture of a beautiful woman "{CL{ci{wa{cy{Ca{x".~
+(null)~
+treasure IOY AP
+0 0 0 0 0
+90 0 0 100
+#9957
+Fei's Desk~
+{DA large black desk, covered with various things{x~
+{DA large black desk, covered with various things.{x~
+(null)~
+container ACOY P
+100000000 AC 0 100000 100
+90 50 0 100
+#9958
+none~
+none~
+none~
+cloth~
+trash 0 P
+BD 0 CFILO EIJKN EIJKN
+0 0 0 100
+#9959
+lotus ring~
+{Da {yteakwood{D ring engraved with a {Wl{wo{Wt{wu{Ws {wb{Wl{wo{Ws{ws{Wo{wm~
+{DA {yteakwood{D ring engraved with a {Wl{wo{Wt{wu{Ws {wb{Wl{wo{Ws{ws{Wo{Dm lies here.{w~
+cloth~
+armor 0 AB
+-1 -1 -1 -1 0
+90 1 1000 100
+#9960
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 AEFIKMNO 0 0
+0 0 0 100
+#9961
+none~
+none~
+none~
+cloth~
+trash 0 0
+B 0 F 0 0
+0 0 0 100
+#9962
+none~
+none~
+non~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 100 100 100
+#9963
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 ABFGHNO 0
+0 0 0 100
+#9964
+bed~
+{DA black bed{x~
+{DA soft, comfortable black bed with black sheets{x~
+soft material that is unkown~
+furniture ABC P
+100 1000000 EHK 1000 1000
+1 0 0 100
+#9965
+none~
+none~
+none~
+cloth~
+trash 0 0
+CFG CFG BDE 0 0
+1 0 0 100
+#9966
+none~
+none~
+none~
+cloth~
+trash 0 0
+CFG CFG D 0 0
+10 0 0 100
+#9967
+none~
+none~
+none~
+cloth~
+trash 0 0
+CE CE ACDE 0 0
+0 0 0 100
+#9968
+none~
+none~
+none~
+cloth~
+trash 0 0
+AC AC BDE A 0
+0 0 10 100
+#9969
+Bat Mobile~
+The {DBat{x {DM{wo{Wbi{wl{De{x~
+A sleek, armored 355 convertible {DFerrari S{wp{Wyd{we{Dr{x with black leather interior.~
+metal~
+container 0 0
+2 ABCF 0 2 1000
+0 0 270000 100
+E
+inside~
+dfjlkj@
+~
+E
+inside_description~
+A tight, {Dblack l{we{Wa{Dt{wh{We{Dr{x {winterior with the most up-to-date technical
+gadgets and gears.  Be careful not to press the {Rred{x {wbutton.  
+~
+#9970
+bench seat seats~
+A comfortable bench seat~
+Three bench seats that fold out into a bed~
+cloth~
+furniture 0 0
+9 9999 BEHK 50 50
+0 0 0 100
+#9971
+bucket seat~
+A nice, soft bucket seat~
+Two comfortable bucket seats are in the front of the van~
+(null)~
+furniture 0 0
+2 9999 EH 0 0
+0 0 0 100
+#9972
+van~
+A {blarge {pvan~
+A {blarge {pvan is parked here~
+metal~
+container 0 0
+50 ABCF 9974 6 0
+0 0 0 100
+E
+inside_description~
+Car lights can be seen driving by looking for an empty parking spot.
+The van is carpeted nicely inside and clean.  The front seats are 
+two nice swivel seats, while the back seats are bench seats that can
+be folded out into a bed.
+~
+#9973
+bench seat benchseat~
+A {rred bech seat{x~
+A {rred bench seat{x is incredibly clean~
+cloth~
+furniture 0 0
+4 2000 EHKP 50 50
+0 0 0 100
+#9974
+key sedankey~
+A small metal key~
+zandor~
+metal~
+key 0 AO
+0 0 0 0 0
+0 0 0 100
+#9975
+car sedan~
+A large {Wwhite{x sedan~
+A large {Wwhite{x sedan with tinted windows is parked here~
+metal~
+container 0 0
+0 ACF 9974 6 0
+100 0 11000 100
+E
+inside_description~
+{rRed cloth{x bench seats and a sparkling clean carpet and 
+dashboard stand out beyond anything else.  The inside of the
+car is very clean and warm.  The car is built for a quiet ride
+so everything is quiet, and the tinted windows make things nice and warm.
+~
+#9976
+lake pool water~
+{Da vast, clean, underground {Bl{bak{Be{x~
+{DA vast, clean, underground {Bl{bak{Be{x.~
+water~
+furniture CGIOY P
+100 100000000 FILO 2147483647 2147483647
+0 0 0 100
+#9977
+test couch cushion container~
+A test couch~
+A testing couch sits here, ready to be sit on.~
+velvet~
+furniture SXY P
+10 2147483647 EHJP 100 100
+90 1 1 100
+#9978
+fountain cascade liquid~
+A huge, multi-tiered fountain~
+The sound of the bubbling fountain permiates the area about it, as does it's internally lit liquid.  It gives everything a warm, golden glow, and almost makes one feel a warm touch to the skin, without even ... sampling ... the contents.~
+(null)~
+drink ABMSY P
+2147483647 2147483647 'brandy' 0 0
+90 -31072 2147483647 100
+#9980
+super soaker~
+a {Ysu{Gpe{Yr s{Coa{Gk{Yer {B3{R0{M0{C0{w~
+a super soaker lies here~
+plastic~
+weapon ABHIYZ AN
+sword 20 20 'digestion' BEFH
+1 1 5000 100
+A
+18 10
+A
+19 10
+A
+13 100
+A
+12 100
+#9982
+Bed~
+A circular canopy {ywaterbed{x, perfectionaryily covered with a {Wcomforter{x.~
+A circular canopy {ywaterbed{x, perfectionarily covered with a {Wcomforter{x.~
+cloth~
+furniture AMY 0
+2 5000 BEHK 150 100
+0 0 0 100
+E
+skylight~
+~
+E
+canopy~
+A whispery sheer {Bmaterial{x conceals the bed.  The long strips billowed
+romantically around the posts.  Each has a golden braided, {Ysilk cord{x to tie
+it back with.  
+~
+E
+comforter~
+A soft {Wsatin comforter{x is draped luxuriously over the bed.  Delicatly
+stitched into the center of the blanket is a larger intricate {Bblue rose{x.  
+~
+E
+comforter~
+~
+E
+bed~
+A circular canopy {ywaterbed{x, perfectionarily covered with a {Wcomforter{x. 
+The {Bcanopy{x is split in four parts, abling it to be dropped to conceal the
+actual bed.  Top is open to allow access to seeing out the {Bskylight
+ceiling{x.  Around the base are different {yjointed lines{x.  
+~
+#9985
+bed~
+A wooden bed~
+A {ywooden{x bed with a {Yst{gr{Yaw{x matress~
+wood~
+furniture 0 0
+2000 0 D 50 50
+2 100 2 100
+#9988
+chair deskchair~
+a plain, {ywo{Yo{yden{x chair behind his {Dd{wes{Dk{x~
+A {Dblackboard{x on the back wall is covered with sloppily written text in an unknown language.~
+stone~
+furniture 0 0
+1 200 EH 2000 2000
+96 20 0 100
+#9989
+Forest Staff~
+{CForest {GStaff{X~
+A glowing staff made of cedar wood.  It has magical ability!~
+Cedar Wood~
+staff AI AO
+94 1000 1000 'create rose' 0
+94 0 0 100
+#9990
+riding crop~
+a long handled {Dle{wa{Dt{wh{Der{x riding crop~
+A long handled {Dle{wa{Dt{wh{Der{x riding crop~
+leather~
+weapon 0 AN
+exotic 5 12 'none' 0
+70 10 0 100
+#9991
+diamond teardrop necklace~
+a sparkling {cd{Ci{camo{Cn{cd{x in the shape of a teardrop on a long {Ws{wi{Dlv{we{Wr{x chain rests between her rounded breasts~
+A sparkling {cd{Ci{camo{Cn{cd{x in the shape of a teardrop on a long {Ws{wi{Dlv{we{Wr{x chain rests between her rounded breasts~
+diamond~
+jewelry 0 AC
+0 0 0 0 0
+70 0 0 100
+#9992
+mirror portal~
+a {yg{Yi{Wld{Ye{yd{x mirror~
+A floor length {yg{Yi{Wld{Ye{yd{x mirror, trimmed with {rma{yho{rga{yny{x, stands next to the wall.~
+cloth~
+portal 0 0
+0 0 0 12276 0
+0 0 0 100
+#9993
+large bed~
+A comfortable bed~
+A comfortable bed stands in a corner of the room~
+featers~
+furniture 0 0
+2 20000 DH 0 0
+0 0 0 100
+#9994
+Forest Green Robes~
+{CForest {GGreen {CRobes{X~
+A beautiful forest green robe.~
+silk~
+armor A ADO
+0 0 0 0 0
+94 0 0 100
+#9995
+desk solid stone table~
+the smooth, {Wfossil{D-{Wm{wa{Drbl{we{Wd{x surface of the {Dd{wes{Dk{x~
+A solid {Dst{wo{Dne{x desk, seemingly cut from a single block.~
+stone~
+furniture 0 0
+2 1000 DJ 1000 1000
+96 100 0 100
+#9997
+Da Peace Pipe~
+{YD{ya {rP{ce{wa{cc{re{y P{Di{yp{De{w~
+{YD{ya {rP{ce{wa{cc{re{y P{Di{yp{De{w is here, BUT DON"T TOUCH IT!!~
+(null)~
+weapon ABFY AN
+mace 1000 100000 'divine' 0
+90 0 0 100
+A
+17 -1000
+#9998
+silver key~
+A {Wsi{Dlv{Wer{x key~
+A small {Wsi{Dlv{Wer{x key hanging from a {yle{Ya{Dt{Yh{yer{x string~
+silver~
+key 0 AT
+0 0 0 0 0
+2 3 5 100
+#9999
+hammock~
+a {Wcanvas hammock{x~
+{wA comfortable {Wcanvas{x {yhammock{x {wis here, hanging between two {gt{yr{ge{ye{x {ytrunks{x, {wswinging gently in the breeze~
+(null)~
+furniture 0 0
+2 0 FIL 20 40
+0 1 0 100
+#0
+
+
+
+#ROOMS
+#9900
+Code Central of {DSword{Bfish{x~
+A large console at the back of the room flash in the dim light.  On the
+screen several XEmacs windows seems to include todays latest update.  At the
+lower end on the console a mud seems to be running, reflecting every move
+you make. In another window a line is prepared at the prompt...
+ 
+> weave balefire
+~
+0
+0 0
+D0
+~
+~
+4099 4099
+1 0 9940
+S
+#9901
+Available~
+~
+0
+CDK 0
+S
+#9902
+Available~
+~
+0
+C 0
+E
+ceiling~
+The ceiling glows with the iridescent beauty of a midnight winter's sky. 
+The stars shine brightly!  
+~
+S
+#9903
+Available~
+~
+0
+C 0
+M 1000 H 1000
+S
+#9904
+Available~
+~
+0
+C 0
+S
+#9905
+Available~
+~
+0
+C 0
+S
+#9906
+Available~
+~
+0
+C 0
+E
+floor~
+The floor is smooth as black obsidian
+~
+S
+#9907
+Available~
+~
+0
+C 0
+S
+#9908
+Sariala's Home~
+Here's a room for Sariala to make all her own!  
+~
+0
+C 0
+S
+#9909
+Available~
+~
+0
+C 0
+S
+#9910
+Matthew's {rD{Ru{rnge{Ro{rn~
+Matthew's Room!  When he gets done doing what he should, he may drop by
+to do what he shouldn't.  
+~
+0
+C 0
+E
+katana~
+~
+S
+#9911
+Available~
+~
+0
+C 0
+S
+#9912
+Available~
+~
+0
+C 0
+S
+#9913
+Available~
+~
+0
+C 0
+S
+#9914
+Available~
+~
+0
+C 0
+S
+#9915
+Airak's Launchpad~
+~
+0
+C 0
+S
+#9916
+{DCirawen's{x {rOffice{x~
+The {Ddark{x and gloom of this office is only broken up by the faint glow of
+candle {Wli{x{Cg{x{Wht{x.  The walls and ceiling have been painted {Dblack{x, the large
+balcony window is covered with {Dblack{x blinds during the day so no light may
+enter.  A large {rmah{x{yog{x{rany{x desk rests near the back of the room, a large
+{Dleather{x char sits behind it.  Infront of the desk are two small {ywooden{x
+stools, in one corner of the room some more comfortable chairs are seen. 
+The {ywooden{x floor is mostly covered by a blood {rred{x rug, with closed cabinets
+at it's edge on either side of the room.  Hanging delicately from one of the
+cabinet's doors is a long {Dwhip{x, coiled and waiting to be used.  
+
+Little imps and small demons are often seen going in and out of the office,
+dropping off papers, presents and the like.  Usually seen sleeping on the
+rug near the door is an abnormally large {DT{x{ri{x{Dg{x{re{x{Dr{x.  
+~
+0
+CD 0
+S
+#9917
+Available~
+~
+0
+C 0
+S
+#9918
+Available~
+~
+0
+C 0
+S
+#9919
+Available~
+~
+0
+C 0
+S
+#9920
+{rI{yn{Yd{ry{x's Office.~
+The room you've just entered is likely quite large, but an extremely
+large collection of miscellaneous junk does shrink the number of open
+surfaces.  Large quantities of {ge{Gx{Yot{Gi{gc {Dw{we{Wapo{wn{Ds{x dominate the western wall, all
+nailed up in neat rows with descriptive {yg{Yol{yd{x placques attached below each
+variation.  
+~
+0
+CJ 0
+D2
+~
+~
+4097 4097
+1 0 9940
+S
+#9921
+Available~
+~
+0
+C 0
+M 200 H 200
+S
+#9931
+{DA{wt{Wri{wo{Dn{w'{Ds{w {rS{Rw{Wa{Rn{rk{w Bachelor Pad~
+~
+0
+K 0
+D0
+~
+~
+0 0
+0 0 23800
+D1
+~
+~
+103 103
+2 23999 9932
+M 300 H 300
+S
+#9932
+{DA{wt{Wri{wo{Dn{w'{Ds{w {YD{yanger{YR{yoom{w({WTM{w)~
+~
+0
+AN 0
+S
+#9935
+Available~
+~
+0
+CD 0
+O tristan~
+S
+#9937
+Available~
+~
+0
+C 0
+S
+#9938
+Available~
+~
+0
+C 0
+S
+#9939
+Available~
+~
+0
+C 0
+S
+#9940
+A long corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be.
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues. 
+~
+0
+0 0
+D0
+~
+~
+4097 4097
+1 0 9920
+D2
+~
+~
+4099 4099
+1 0 9900
+D3
+~
+~
+0 0
+0 0 9955
+S
+#9942
+Available~
+~
+0
+CKN 0
+S
+#9943
+Available~
+~
+0
+CKN 0
+S
+#9944
+Available~
+~
+0
+C 0
+S
+#9945
+Available~
+~
+0
+C 0
+S
+#9946
+Available~
+~
+0
+C 0
+S
+#9947
+A Study~
+A {Wglowing chandellier{S hangs here lighting the room in a friendly glow.
+The desk is positioned in the middle of the room in order to have light
+from both the windows on either side of the study and the chandellier 
+overhead.  A large leather chair sits behind the desk and a sofa sits 
+along the western wall.  A {Wshine{S comes off of the walls and desk's well 
+polished surfaces.
+~
+0
+CJO 0
+S
+#9949
+Available~
+~
+0
+C 0
+S
+#9950
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+C 0
+D0
+~
+~
+3 3
+1 0 9999
+D1
+~
+~
+0 0
+0 0 9952
+D2
+~
+~
+3 3
+1 0 9965
+D3
+~
+~
+0 0
+0 0 9951
+S
+#9951
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, to the west is a closed
+forbidding looking door and the corridor continues in darkness to the east. 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9967
+D1
+~
+~
+0 0
+0 0 9950
+S
+#9952
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9960
+D1
+~
+~
+0 0
+0 0 9953
+D2
+~
+~
+3 3
+1 0 9990
+D3
+~
+~
+0 0
+0 0 9950
+S
+#9953
+Long Quiet Corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9954
+D3
+~
+~
+0 0
+0 0 9952
+S
+#9954
+A long corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9955
+D2
+~
+~
+1 1
+1 0 9964
+D3
+~
+~
+0 0
+0 0 9953
+S
+#9955
+A long corridor~
+Darkness fills this long corridor as you walk along in the silence that
+surrounds you.  The material of the walls, floor and ceiling appears to be
+made of a single stone, no seams or joints are visible to the eye.  A
+coolness seems to permeate the area and the air is like a chill on your
+skin, as if there were a slight breeze running through the corridor with
+you.  Set into the stone of the wall are small white candles, the flame
+flickering lightly in the breeze.  To the north and south are closed doors
+that seem to blend into the walls of the corridor, and to the east and west
+the darkness continues.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9940
+D3
+~
+~
+0 0
+0 0 9954
+S
+#9956
+Available~
+~
+0
+CFG 0
+S
+#9957
+Available~
+~
+0
+C 0
+S
+#9958
+Available~
+~
+0
+C 0
+S
+#9959
+Available~
+~
+0
+C 0
+S
+#9960
+Available~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 9952
+S
+#9961
+Available~
+~
+0
+C 0
+S
+#9962
+Available~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9963
+S
+#9963
+Available~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 9962
+S
+#9964
+Available~
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 9954
+D1
+~
+~
+3 3
+1 0 9970
+S
+#9965
+{wA {GSh{Mag{Gad{Mel{Gic Pad{x~
+{wYou push apart floor length bead strings that cover the doorway and enter
+the most {Yg{Gr{Mo{Yo{Gv{My{x {wroom you have ever seen!  A {Dm{wir{Wro{wre{Dd{x {wdisco ball hangs from
+the ceiling and giant colored {Gf{Ml{Yowe{Mr{Gs{x {wcover the walls.  In the middle of the
+room, there is a large, circular rotating bed covered in an {Da{yn{Wi{Dm{ya{Wl {yskin{x
+{wprint and {Gsh{Mag{Gad{Mel{Gic{x {wpillows.  Two bedstands are here next to the bed with
+{Bl{Rav{Ba{x {wlamps decorating their tops.  The floor is covered in {Gsh{Mag{Ged{Mel{Gic{x
+{wcarpet, and there is a wetbar on the east side of the room.  If you lift the
+right bottle, a secret passage will open.  You hear the alluring sound of
+Burt Bacarach singing softly...  Yeah, baby, yeah... 
+ 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9950
+D1
+~
+door2~
+0 0
+0 0 9990
+D3
+~
+~
+3 3
+1 0 9966
+S
+#9966
+{wA {GSh{Mag{Gad{Mel{Gic Closet{x~
+{wA very {Yg{Gr{Mo{Yo{Gv{My{x {wcloset is here, filled with {Gsh{Mag{Gad{Mel{Gic{x {wclothes{x
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 9965
+S
+#9967
+{rFa{Rer{Ys{Rto{rrm's{  {DM{wa{Wnsi{wo{Dn{  {wof {DMystery{x~
+"You're traveling through another dimension.  A dimension not only of
+sight and sound but of mind; a journey into a wondrous land whose
+boundaries are that of imagination.  That's the signpost up ahead- your
+{wnext stop, the {DTw{wi{Wli{wg{Dht Z{Won{De!{x
+ 
+ 
+{DThe room you have just entered is very large and black, lit only by 
+{Dthe {Wphosphorescence{x {Dof stars that cover the walls, ceiling and 
+{Dfloor. You shiver as you hear doors slam around you in all directions. 
+{DWhich way to go? Your only hint is a signpost in the middle of the room.
+ 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 12399
+D2
+~
+~
+3 3
+1 0 9951
+D4
+~
+~
+0 0
+0 0 9991
+D5
+~
+~
+0 0
+0 0 9971
+S
+#9968
+{rFa{Rer{Ys{Rto{rrm's{  {DBat Cave{x~
+{wWelcome to the notorious Bat Cave!  Not many people are able to make
+their way here without falling prey to the many mysteries of
+{rFa{Rer{Ys{rto{Rrm's{x {wmansion.  As you look around, you see a huge, dark
+cave, with stalactites and hibernating bats hanging from the ceiling.  It
+smells rather musty.  On the south wall, you see an expanse of {wflashing
+lights and computer screens.  Many images appear on the monitors, including
+some of the more notable rooms on this mud.  You hear the faint sound of
+screeching bats and water dripping in the distance.  In the middle of the
+room, parked on a stone column, you see what this room was made for...  The
+{DBat M{wo{Wbi{wl{De{x.  {wIt is surrounded by steep, rocky trenches and can
+only be accessed by a metal bridge extending from the south wall to the
+column.  You feel a intense urge to go for a test drive.  
+ 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 9967
+D4
+~
+~
+0 0
+0 0 12398
+S
+#9969
+None~
+~
+0
+C 0
+S
+#9970
+Available~
+~
+0
+AD 0
+D3
+~
+~
+3 3
+1 0 9964
+S
+#9971
+{yTrap Door Room{x~
+You should have paid attention to the sign...  There is no way out!  As
+your eyes adjust to the darkness, you can see bones littering the floor. 
+You begin to panic as you realize that you have been trapped in
+{rFe{Rar{Ys{rto{Rrm's{x {DM{wa{Wnsi{wo{Dn{x {wof Mystery....  FOREVER!  
+~
+0
+CN 0
+S
+#9972
+~
+~
+0
+C 0
+S
+#9974
+~
+~
+0
+C 0
+S
+#9975
+Parking Garage~
+~
+0
+CJO 0
+S
+#9976
+~
+~
+0
+C 0
+S
+#9977
+{gW{Bo{yr{Bl{gd{W Cre{wat{Wion {gCh{Ga{wm{Gb{ger{x~
+You stand amidst a field of holographic, {Bla{Ys{Ber{x projected
+maps and images of various pieces of the world.  People of many
+different nationalities, certain diverse objects, and even odd,
+and {Wbe{wa{Wu{wt{Wi{wf{Wul{x landforms decorate the many screens before you.
+As you walk through the maze of {yi{Gm{yag{Ge{ys{x, you begin to
+faintly make out a large, circular {Bo{bbjec{Bt{x on a platform near the
+center of the room.  Like everything else that is not {Wshining{x
+upon the screens, the object is tinted in {Bb{bl{Bu{be{x, with faint, {Yyellow{x
+lines circumscribing and highlightning it's curvature.  The
+screens {Pdim{x a bit as you near the platform, and, looking up, you
+see that the object is not a sphere, but instead a {Bseat{x whose
+sides encompass whomever sits within it's huge, {mr{Be{mg{Ba{ml{x, cushioned
+comfort.  Like a lord amongst his serfs, the person that is
+seated there would have near, godlike control over this {Bblue{x room,
+it's innumerable screens, and those {Wi{Gm{yag{Ge{Ws{x within those screens 
+that the {Wcreator{x of them has so carefully constructed and created
+with love and pride.
+     As you finally manage up to the {Bblue{x {bci{Yt{ba{Yd{bel{x, with
+the chair at your side, you see many scenes before you, all
+facing that spherical seat; scenes from the Aiel {yWaste{x, from 
+some sort of ruined city with a {Yg{Wo{Yl{Wd{Ye{Wn{x glow above it,
+a small villiage with many sloping-{yro{Rof{yed{x houses and {Wsh{wim{Wme{wri{Wng{x
+{Wsnow{x upon the ground, a street bustling with hawkers and peddlers
+yelling of their wares, and even a small child playing in the {ym{Pu{yd{x.
+     You can tell that here is where parts of the world is born.
+     Downward, you can see a part of the western waste.
+     To the east, you see a room that is in a sort of flux.
+~
+0
+DJKP 0
+D1
+~
+~
+0 0
+0 0 9979
+D5
+A small hole opens downward, dropping anyone who enters to the
+waste.
+~
+~
+1 1
+1 0 25000
+M 200 H 200
+S
+#9978
+{xAn {WImaginary {GG{ga{wrd{ge{Gn{x with Real {GT{go{Ga{gd{Gs{x~
+A central walkway leads you in a circular path around this
+odd, if not down right unbelievable, garden.  There are benches
+littering the walkway, but other than that, this place looks wholey
+of the mind of a twisted individual.  There is a layer of thin, brittle
+looking {Ggreen{x grass covering the floor of this place, (or is
+it the floor?)  From it, twisted trees that seem to double over and
+touch the ground seem to be a favorite, too.  Little abstract birdies
+fly overhead, twittering rock music from another world, and, being
+two dimensional, they look unreal.  Vines writhe up from the ground,
+touching the luminescant ceiling and providing the whole garden with
+their {Gph{Yosp{Whore{Ysce{Gnt{x light and casting an eerie, but comforting glow
+throughout the garden, and shedding light on a little {gtoad{x, that looks
+quite real, sitting upon a lilly-pad amidst a clear pool, near the
+pool's tiny waterfall.
+~
+0
+CKL 0
+S
+#9979
+Available~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 9977
+S
+#9980
+Available~
+~
+0
+C 0
+D3
+~
+~
+3 3
+1 0 9981
+S
+#9981
+{BBe{cl{wo{cv{Bed Cr{ca{wv{ci{Bngs{x ~
+The huge room is bordered with walls lined with shelves.  On these
+shelves are any type of food you could imagine.  On the north and south
+walls are coolers that hold ice creams and drinks and tropical fruits. 
+Directly before you in the center of the room looms a statue of a blue
+rose,a silver tray having been sculpted right into the stonework.  
+ 
+~
+0
+C 0
+D0
+~
+~
+3 3
+1 0 9982
+D1
+~
+~
+3 3
+1 0 9980
+S
+#9982
+{BB{wl{cu{Be R{wo{cs{Be H{ca{wv{ce{Bn{x~
+{XUpon the swinging open of the large double doors, a wave of freshness
+waifs over your face.  A king sized {ywaterbed{x stations the center of the
+room.  Royal blue satin sheets peek out from under the snow {Wwhite{x satin
+comforter.  The ceiling, made of blue glass, hauntingly beckons ones eyes. 
+A thickly braided cord hangs down one wall accessing to the curtains that
+will shield the ceiling from view.  On one wall is a large desk with a stack
+of numerous different texts, a oil lamp and writting utencils.  A small
+portrait is rested back on the corner.  On the floor rests a large faux fur
+rug.  The mahogany wardrobe has her initials scrolled into the doors.  
+~
+0
+C 0
+D2
+~
+~
+3 3
+1 0 9981
+S
+#9983
+~
+~
+0
+C 0
+S
+#9984
+~
+~
+0
+C 0
+S
+#9985
+Gwennors Bedroom~
+A circular stairway leads down in the center of the room.  The rooms
+floor is covered with {rpi{gll{yow{Ys{x and {Yc{gus{yhi{ron{Ys{x of all shapes and sizes.  Small
+alcoves have been dug into all four walls, providing a place to put your
+{W{Wgl{xa{Wss{x{x down.  {WSh{wi{Dn{wi{Wng{x {Wm{De{Wt{Da{Wl{x bars and a {Wgl{xa{Wss{x plate form some sort of bar at
+the north wall, dozens of bottles containing {Cco{clo{Grf{Rul{x {Cli{cq{Bu{ci{Cds{x standing on
+it.  The room is bathed in a {rs{Yo{Rf{Yt g{Rl{Yo{rw{x coming from no visible source.
+~
+0
+CJ 0
+E
+bar~
+Two {Wsh{wi{Dn{wi{Wng m{De{Wt{Da{Wl{x bars support a {Wgl{wa{Wss{x plate that is so clean that it
+almost looks like the glasses and bottles on it were standing on thin air. 
+A {Wc{wrys{Wt{wa{Wl{x can contains some {Wi{Cc{We{x cubes.  
+~
+E
+glasses~
+{WGl{wa{Ws{ws{Wes{x in various shapes and sizes stand on the bar.  All of them are
+crafted from the finest {Wcr{wy{Ws{wt{Wal{x one can imagine.  
+~
+M 200 H 200
+S
+#9986
+~
+~
+0
+C 0
+S
+#9987
+~
+~
+0
+C 0
+S
+#9988
+~
+~
+0
+C 0
+S
+#9989
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9994
+S
+#9990
+{bAn{Bgen{bgue's{x {WDeluxe Apartment in the {CSky{x~
+{wSomehow you find yourself in a large room, far above the ground.  Giant
+bay windows line the south end of the room and soft chenille pillows rest on
+the window sills.  When you look out of the windows, you see fluffy {Wwhite{x
+{wclouds drifting by lazily.  The entire western wall of this room is lined
+with {ymahogany{x {wbookshelves that are decorated with leather bound classical
+books.  If you pull out "Great Expectations," by Charles Dickens, a secret
+passage opens to the west.  To the east, you see a pair of ornate double
+doors and a grand marble fireplace.  A warm {Rf{Yir{Re{x {wdances invitingly.  You
+look at the ceiling and see that it is inlaid with elegant {ymahogany{x {wwood
+work and frescos detailing the spaces between the wooden inlays.  The bare
+spots on the walls are covered with original Rembrandts in guilded frames.
+Rich, soft {rburgandy{x carpets cover the floor and expensive armchairs rest in
+the middle of the room.  A large {Dl{we{Wa{Dt{wh{We{Dr{x {wcouch sits here too, with an open
+book of Shakespearian poetry on it.  There is also a rather large {ymahogany{x
+{wdesk in the corner.
+ 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9952
+D1
+~
+~
+3 3
+1 0 9991
+D3
+~
+~
+0 0
+0 0 9965
+S
+#9991
+{bAn{Bgen{bgue's{x {WDeluxe Bedroom in the {CSky{x~
+Somehow you find yourself in a luxurious bedroom, far above the ground.
+Giant bay windows line the south end of the room and soft chenille pillows
+rest on the window sills.  When you look out of the windows, you see fluffy
+{Wwhite{x clouds drifting by lazily.  Everything about this room is soft,
+comfortable and inviting.  The first thing you notice is the giant canopy
+bed on the east side of the room.  It is covered in {bb{Blu{be{x sheets and pillows,
+enticing you to lay down and rest.  Soft, {bb{Blu{be{x chiffon curtains swing
+from the posts of the bed.  You also notice the giant {chot tub{x in the middle
+of the room, resting on a tiered {Dm{wa{Dr{wb{Dl{we{x platform.  The platform is surrounded
+by large {Dm{wa{Dr{wb{Dl{we{x columns that support a fresco painted ceiling.  Beautiful long
+stem, {Wwhite{x roses adorn the room in elegant crystal vases and a decorative
+dining {ytable{x stands in front of the bay windows. Rachmaninov plays softly in
+the background.
+ 
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 9992
+D3
+~
+~
+3 3
+1 0 9990
+S
+#9992
+{bAn{Bgen{bgue's{x {WDeluxe Closet in the {CSky{x~
+You have just entered the biggest closet you have ever seen!  It is two
+stories tall and has a stair case that leads to the second level.  Rows and
+rows of clothes line the walls and hundreds of shoes line the shelves.
+Everything can be found here, from costumes for costume balls to elegant
+gowns for dinners with kings.  You begin to get a sense for {bAn{Bgen{bue{x's
+impeccable fashion sense.  No wonder she never wears the same outfit
+twice.  There is an ornate dresser here, but looking inside might make
+you {Mblush{x.  You hear Rachmaninov playing softly to the south.
+ 
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 9991
+S
+#9993
+Available~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 9999
+S
+#9994
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9989
+S
+#9999
+Available~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 9993
+D2
+~
+~
+1 1
+1 0 9950
+S
+#0
+
+
+
+#SPECIALS
+M 9901 spec_gamemaster
+S
+
+
+
+#RESETS
+D 0 9900 0 1
+D 0 9940 2 1
+D 0 9950 0 1
+D 0 9950 2 1
+D 0 9951 0 1
+D 0 9952 0 1
+D 0 9952 2 1
+D 0 9960 2 1
+D 0 9962 0 1
+D 0 9963 2 1
+D 0 9964 1 1
+D 0 9965 0 1
+D 0 9965 3 1
+D 0 9966 1 1
+D 0 9967 2 1
+D 0 9970 3 1
+D 0 9980 3 1
+D 0 9981 0 1
+D 0 9981 1 1
+D 0 9982 2 1
+D 0 9990 0 1
+D 0 9990 1 1
+D 0 9991 0 1
+D 0 9991 3 1
+D 0 9992 2 1
+M 0 9916 1 9916 1
+O 0 9988 0 9920
+M 0 9920 1 9920 1
+O 0 9995 0 9920
+P 0 23910 1 23998 1
+P 0 23911 1 23998 1
+P 0 23912 1 23998 1
+P 0 23913 1 23998 1
+P 0 23914 1 23998 1
+P 0 23915 1 23998 1
+P 0 23915 1 23998 1
+P 0 23914 1 23998 1
+P 0 23913 1 23998 1
+P 0 23912 1 23998 1
+P 0 23911 1 23998 1
+P 0 23910 1 23998 1
+G 0 20287 0
+G 0 20286 0
+G 0 9965 0
+G 0 9966 0
+G 0 9967 0
+G 0 9968 0
+G 0 12212 0
+M 0 9990 1 9960 1
+O 0 12228 0 9965
+O 0 12228 0 9965
+O 0 12227 0 9965
+M 0 12224 1 9965 1
+G 0 12298 0
+G 0 12299 0
+G 0 12300 0
+G 0 12301 0
+G 0 12303 0
+O 0 12226 0 9966
+O 0 12224 0 9966
+O 0 12225 0 9966
+O 0 12210 0 9966
+O 0 12209 0 9966
+M 0 12274 1 9967 1
+O 0 12399 0 9967
+O 0 9969 0 9968
+O 0 9969 0 9968
+O 0 9969 0 9968
+O 0 9969 0 9968
+O 0 9978 0 9978
+M 0 9901 1 9978 1
+O 0 9993 0 9985
+O 0 3730 0 9985
+O 0 12204 0 9990
+O 0 12216 0 9990
+O 0 12206 0 9990
+O 0 12203 0 9990
+M 0 12251 1 9990 1
+O 0 9992 0 9991
+O 0 12218 0 9991
+O 0 12220 0 9991
+O 0 12221 0 9991
+O 0 12213 0 9991
+O 0 12219 0 9991
+O 0 12211 0 9992
+P 0 12293 1 12211 1
+O 0 12217 0 9992
+O 0 12231 0 9992
+O 0 12396 0 9992
+O 0 12264 0 9992
+O 0 12297 0 9992
+S
+
+
+
+#SHOPS
+9901 0 0 0 0 33 100 100 0 23
+0
+
+
+
+#$

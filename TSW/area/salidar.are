@@ -1,0 +1,4641 @@
+#AREADATA
+Name Salidar~
+Builders Lise~
+VNUMs 16000 16099
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#16000
+man thief looter grisul darkly clad~
+{DG{wr{Wis{wu{Dl{x~
+{wA {Dd{warkl{Wy {Dc{wla{Wd {Dm{wa{Wn{w searches through the litter and rubble left in this room.{x
+~
+~
+altaran~
+ABS 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+EFKNW ABabc ABC 0
+stand stand male 15
+0 0 large 'unknown'
+#16001
+man inventor kuano~
+{cK{Cu{Wa{Cn{co{x~
+A scruffy old man is tinkering around with a strange contraption.
+~
+A scruffy old man is tinkering around with a strange contraption.
+~
+amadician~
+ABJQb 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABb AB 0
+stand stand male 0
+0 0 medium 'unknown'
+F gain B
+F train B
+V tlevel 75
+M 'GREET' 16000 5~
+M 'SPEECH' 16001 hello~
+M 'SPEECH' 16001 greetings~
+M 'SPEECH' 16001 hi~
+M 'SPEECH' 16002 contraption~
+M 'GIVE' 16003 16038~
+M 'GIVE' 16004 16042~
+M 'GIVE' 16005 16043~
+#16002
+ginger cat mother~
+{wa {ygi{Dng{yer {x{yc{Da{yt{x~
+{wA {ygi{Dng{yer{x {yc{Da{yt{w sits here, keeping a watchful eye on her {yki{Dt{yt{De{yns{w.{x
+~
+~
+cat~
+AB J 0 0
+45 35 23d23+2025 45d10+100 5d10+22 claw
+0 0 0 0 0
+A
+1 1 1 1
+R ABb AB 0
+stand stand female 0
+0 0 small 'unknown'
+F aff Z
+M 'GIVE' 16006 16044~
+#16003
+ginger cat kitten~
+{wa {ygi{Dng{yer{x {yki{Dtt{yen{x~
+{wA {ygi{Dng{yer ki{Dtt{yen{w scampers across the kitchen floor, playing with its siblings.{x
+~
+~
+cat~
+AB J 0 0
+37 27 19d19+1369 37d10+100 4d11+18 claw
+0 0 0 0 0
+A
+1 1 1 1
+0 ABb AB 0
+stand stand either 0
+0 0 tiny 'unknown'
+F aff Z
+M 'GIVE' 16007 16044~
+#16004
+ginger cat kitten~
+{wa {ygi{Dng{yer{x {yki{Dtt{yen{x~
+{wA {ygi{Dng{yer{x {yki{Dtt{yen{w prowls along one of the kitchen shelves, almost knocking the items off.{x
+~
+~
+cat~
+AB J 0 0
+37 27 19d19+1369 37d10+100 4d11+18 claw
+0 0 0 0 0
+A
+1 1 1 1
+0 ABb AB 0
+stand stand either 0
+0 0 tiny 'unknown'
+F aff Z
+M 'GIVE' 16008 16044~
+#16005
+auric man wolfkin wolfbrother~
+{yA{Yu{Wr{Yi{yc{x~
+{wA {ym{Ya{Wn{w with {yg{Yo{Wld{Ye{yn e{Yy{We{ys{x slinks through the {gd{Gens{ge f{Gores{gt{w.{x
+~
+~
+amadician~
+ABT H 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+CDEFJKe ABCabc ABC 0
+stand stand male 0
+0 0 large 'unknown'
+M 'GIVE' 16009 16046~
+#16006
+biteme insect tiny~
+{wa {bb{Di{wte{Dm{be{x~
+{wA {bt{Di{wn{by i{Dn{wse{Dc{bt{w buzzes around in the air.{x
+~
+~
+unique~
+AFGHW T 0 0
+20 10 11d12+400 20d10+100 3d3+10 bite
+0 0 0 0 0
+A
+0 0 0 0
+FH ABac AB 0
+stand stand either 0
+GO ACP tiny 'unknown'
+#16007
+tiny spider~
+{wa {yt{Di{wn{yy s{Dp{wid{De{yr{x~
+{wA {yt{Di{xn{yy s{Dp{xid{De{yr{w attempts to scurry out of sight.{w
+~
+~
+unique~
+AG 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 AB AB 0
+stand stand either 0
+GP AC tiny 'unknown'
+#16008
+small mouse~
+{wa {ys{wm{ya{wl{yl m{wo{yu{ws{ye{x~
+{wA {ys{xm{ya{xl{yl m{xo{yu{xs{ye{w runs across the ground, searching for food.{x
+~
+~
+unique~
+AGH 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 bite
+0 0 0 0 0
+A
+0 0 0 0
+FH AB AB 0
+stand stand either 0
+AGV ACDEFHJKQ tiny 'unknown'
+#16009
+young quail bird~
+{wa {yy{wo{Du{wn{yg q{wu{Da{wi{yl{x~
+{wA {yy{xo{Du{xn{yg q{xu{Da{xi{yl{w scurries through the bushes in search for its mother.{x
+~
+~
+unique~
+AGHW 0 0 0
+22 12 12d13+484 22d10+100 3d5+11 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 AB AB 0
+stand stand either 0
+AGW ACDEFHKQ tiny 'unknown'
+#16010
+young pheasant bird~
+a {yy{Wo{xu{Wn{yg p{Wh{xe{Das{xa{Wn{yt{x~
+{wA {yy{Wo{xu{Wn{yg p{Wh{xe{Das{xa{Wn{yt{w runs around the woods, looking lost.{x
+~
+~
+unique~
+AGHW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 AB AB 0
+stand stand either 0
+AGW ACDEFHKQ tiny 'unknown'
+#16011
+sparrow small bird~
+{wa {ys{wp{Da{yr{Dr{wo{yw{x~
+{wA {ys{wm{Da{wl{yl b{wi{Dr{yd{w flutters from tree to tree as it searches for food.{x
+~
+~
+unique~
+AGW T 0 0
+25 15 13d13+625 25d10+100 3d8+12 peck
+0 0 0 0 0
+A
+0 0 0 0
+H AB AB 0
+stand stand either 0
+AGW ACDEFHKPQ tiny 'unknown'
+#16012
+plump quail bird~
+{wa {yp{wl{Du{wm{yp q{wu{Da{wi{yl{x~
+{wA {yp{xl{Du{xm{yp q{xu{Da{xi{yl{w dashes across the ground.{x
+~
+~
+unique~
+AGW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 peck
+0 0 0 0 0
+A
+0 0 0 0
+0 AB AB 0
+stand stand either 0
+AGW ACDEFHKPQ tiny 'unknown'
+#16013
+hornet~
+{wa {Yh{Do{Yrn{De{Yt{x~
+{wAn angry {Yh{Do{Yrn{De{Yt{w buzzes around the area.{x
+~
+~
+unique~
+AFGW T 0 0
+27 17 14d14+729 27d10+100 3d10+13 sting
+0 0 0 0 0
+A
+0 0 0 0
+F AB AB 0
+stand stand none 0
+GO ACP tiny 'unknown'
+#16014
+swarm bees~
+{wa {rs{Rwar{rm{w of {yb{Yee{ys{x~
+{wA {rs{Rwar{rm{x of {yb{Yee{ys{w hover close to the {gch{Ge{gst{Gn{gut t{Gre{ge{x{w.{x
+~
+~
+unique~
+ABFW T 0 0
+32 22 17d18+1024 32d10+100 4d6+16 sting
+0 0 0 0 0
+A
+1 1 1 1
+AFH ABabc ABCDEFG I
+stand stand none 0
+GO ACFP tiny 'unknown'
+#16015
+green brown snake~
+{wa {gg{yree{gn {wand {gb{yrow{gn s{ynak{ge{x~
+{wA {gg{yree{gn {xand {gb{yrow{gn s{ynak{ge{w slithers its way along the branch of a nearby tree.{x
+~
+~
+snake~
+AGW P 0 0
+42 32 22d23+1764 42d10+100 5d7+21 bite
+0 0 0 0 0
+A
+1 1 1 1
+HMO AB AB 0
+stand stand either 0
+0 0 medium 'unknown'
+#16016
+wild rabbit~
+{wa {yw{wil{yd ra{wbb{yit{x~
+{wA {yw{wil{yd ra{wbb{yit{w hops through the overgrown grass.{x
+~
+~
+rabbit~
+AGHW 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB AB 0
+stand stand either 0
+0 0 small 'unknown'
+#16017
+raven bird~
+{wa {Draven{x~
+{wA {Draven{w swoops down low as it flies from tree to tree.{x
+~
+~
+unique~
+AGW T 0 0
+47 37 24d24+2209 47d10+100 5d12+23 peck
+0 0 0 0 0
+A
+1 1 1 1
+FH AB AB 0
+stand stand either 0
+AGW CDEFHKPQU small 'unknown'
+#16018
+black bear~
+{wa {Dblack bear{x~
+{wA {Dblack bear{w stands here, watching over her {Dcubs{w.{x
+~
+~
+bear~
+AB J 0 0
+85 75 43d43+7225 85d10+100 9d14+42 bite
+0 0 0 0 0
+A
+5 5 5 5
+R ABabc AB 0
+stand stand female 0
+0 0 huge 'unknown'
+#16019
+black bear cub~
+{wa {Dbear cub{x~
+{wA {Dbear cub{w plays happily amongst the overgrown foliage.{x
+~
+~
+bear~
+AB J 0 0
+60 50 31d32+3600 60d10+100 7d7+30 bite
+0 0 0 0 0
+A
+3 3 3 3
+R ABabc AB 0
+stand stand either 0
+0 0 medium 'unknown'
+#16020
+sleek wolf~
+{wa {Dw{wo{Wl{Df{x~
+{wA {Ds{wl{We{we{Dk w{wo{Wl{Df{w prowls around the undergrowth, hunting for food.{x
+~
+~
+wolf~
+ABF J 0 0
+82 72 42d43+6724 82d10+100 9d11+41 bite
+0 0 0 0 0
+A
+5 5 5 5
+R ABabc AB 0
+stand stand female 0
+0 0 large 'unknown'
+F aff Z
+#16021
+wolf cub~
+{wa {Dw{wo{Wl{Df c{wu{Wb{x~
+{wA {Dw{xo{Wl{Df c{xu{Wb{w sniffs around the undergrowth as it explores the woods.{x
+~
+~
+wolf~
+AB J 0 0
+57 47 29d29+3249 57d10+100 6d13+28 bite
+0 0 0 0 0
+A
+2 2 2 2
+R ABabc AB 0
+stand stand either 0
+0 0 medium 'unknown'
+F aff Z
+#16022
+large deer stag~
+{wa {ystag{x~
+{wA {ylarge deer {wgrazes contentedly on some grass.{x
+~
+~
+unique~
+AGW J 0 0
+80 70 41d42+6400 80d10+100 9d9+40 charge
+0 0 0 0 0
+A
+5 5 5 5
+CDFH ABab ABI 0
+stand stand male 0
+AGV ACDEFJKQ large 'unknown'
+#16023
+large deer doe~
+{wa {ydoe{x~
+{wA {ylarge deer {wgrazes contentedly on some grass.{x
+~
+~
+unique~
+AGW J 0 0
+52 42 27d28+2704 52d10+100 6d8+26 charge
+0 0 0 0 0
+A
+2 2 2 2
+CDFH ABab ABI 0
+stand stand female 0
+AGV ACDEFJKQ large 'unknown'
+#16024
+small deer fawn~
+{wa {yfawn{x~
+{wA {ysmall deer{w tries to hide amongst the bushes.{x
+~
+~
+unique~
+AGHW J 0 0
+50 40 26d27+2500 50d10+100 6d6+25 charge
+0 0 0 0 0
+A
+2 2 2 2
+CDFH ABab ABI 0
+stand stand either 0
+AGV ACDEFJKQ medium 'unknown'
+#16025
+fox~
+{wa {rf{yo{rx{x~
+{wA {rf{yo{rx{w sneaks around the area, scavenging for food.{x
+~
+~
+fox~
+AGW JP 0 0
+55 45 28d28+3025 55d10+100 6d11+27 bite
+0 0 0 0 0
+A
+2 2 2 2
+R AB AB 0
+stand stand either 0
+0 0 medium 'unknown'
+F aff Z
+#16026
+fox cub~
+{wa {rf{yo{rx c{yu{rb{x~
+{wA {rf{yo{rx c{yu{rb{w sniffs at the ground as it searches for something to eat.{x
+~
+~
+fox~
+AGW JP 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+R AB AB 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+#16027
+black white creature skunk~
+{wa {Ds{Wk{Du{Wn{Dk{x~
+{wA {Dblack{w and {Wwhite{w creature sniffs at the ground.{x
+~
+~
+unique~
+AGW 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+F AB ABL 0
+stand stand either 0
+AGV ACDEFHJQ small 'unknown'
+#16028
+red squirrel~
+{wa {rr{ye{rd sq{yuirr{rel{x~
+{wA {rr{ye{rd sq{yuirr{rel{w runs along the branch of a nearby tree.{x
+~
+~
+unique~
+AGW P 0 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+FH AB AB 0
+stand stand either 0
+AGV ACDEFHJQ small 'unknown'
+#16029
+gray squirrel~
+{wa {Dg{wra{Dy sq{wuirr{Del{x~
+{wA {Dg{xra{Dy sq{xuirr{Del{w scampers across the ground.{x
+~
+~
+unique~
+AGW P 0 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+FH AB AB 0
+stand stand either 0
+AGV ACDEFHJQ small 'unknown'
+#16030
+ferral cat~
+{wa {yf{we{Dr{wa{yl c{wa{Dt{x~
+{wA {yf{xe{Dr{xa{yl c{xa{Dt{w slinks its way through the overgrown grass.{x
+~
+~
+cat~
+AGW JP 0 0
+55 45 28d28+3025 55d10+100 6d11+27 bite
+0 0 0 0 0
+A
+2 2 2 2
+D AB AB 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+#16031
+badger~
+{wa {Db{wa{Wdg{we{Dr{x~
+{wMovement and scratching sounds from amongst the bushes reveals a {Db{xa{Wdg{xe{Dr{w.{x
+~
+~
+unique~
+AGW JP 0 0
+52 42 27d28+2704 52d10+100 6d8+26 claw
+0 0 0 0 0
+A
+2 2 2 2
+FH AB AB 0
+stand stand either 0
+AGV ACDEFHJKQU medium 'unknown'
+#16032
+brown tawny owl bird~
+{wa {yt{wa{yw{yn{yy o{ww{yl{x~
+{wA {yb{wr{yo{ww{yn o{ww{yl{w swoops down from one of the trees, attempting to catch a small rodent.{x
+~
+~
+unique~
+AGW JT 0 0
+47 37 24d24+2209 47d10+100 5d12+23 claw
+0 0 0 0 0
+A
+1 1 1 1
+FHW AB AB 0
+stand stand either 0
+AGW ACDEFHKPU small 'unknown'
+#16033
+black white bird~
+{wa {Wm{wa{Dgp{wi{We{x~
+{wA {Wm{xa{Dgp{xi{We{w sits upon a tree branch, watching the area intently.{x
+~
+~
+unique~
+ABC T 0 0
+45 35 23d23+2025 45d10+100 5d10+22 peck
+0 0 0 0 0
+A
+1 1 1 1
+FH ABb AB 0
+stand stand either 0
+AGW ACDEFHKPU small 'unknown'
+#16034
+small lizard~
+{wa {gs{Gmal{gl l{Gizar{gd{x~
+{wA {gs{Gmal{gl l{Gizar{gd{w darts in and out of the bracken.{x
+~
+~
+unique~
+AGHW JP 0 0
+42 32 22d23+1764 42d10+100 5d7+21 bite
+0 0 0 0 0
+A
+1 1 1 1
+FHR AB AB I
+stand stand either 0
+AGXc ACDEFHJKQ tiny 'unknown'
+#16035
+black crow bird~
+{wa {Dblack crow{x~
+{wHalf concealed by the shadows, a {Dblack crow{w sits upon a branch of a nearby tree.{x
+~
+~
+unique~
+AGW T 0 0
+40 30 21d22+1600 40d10+100 5d5+20 peck
+0 0 0 0 0
+A
+1 1 1 1
+FHUW AB AB 0
+stand stand male 0
+AGW ACDEFHKPU small 'unknown'
+#16036
+woodpecker bird~
+{wa {Dw{roo{Rdpec{rke{Dr{x~
+{wA {Dw{roo{Rdpec{rke{Dr{w is preoccupied with chipping a hole into a nearby tree.{x
+~
+~
+unique~
+AGW T 0 0
+37 27 19d19+1369 37d10+100 4d11+18 peck
+0 0 0 0 0
+A
+1 1 1 1
+DFH AB AB 0
+stand stand either 0
+AGW ACDEFHKPU small 'unknown'
+#16037
+large rat~
+{wa {Dlarge rat{x~
+{wA {Dlarge rat{w tries to hide itself within the shadows.{x
+~
+~
+unique~
+AGY JPQ 0 0
+32 22 17d18+1024 32d10+100 4d6+16 bite
+0 0 0 0 0
+A
+1 1 1 1
+FHUb AB AB 0
+stand stand either 0
+AGV ACDEFHJKQ small 'unknown'
+#16038
+pheasant bird~
+{wa {yp{Wh{we{Das{wa{Wn{yt{x~
+{wA {yp{Wh{we{Das{wa{Wn{yt{w quickly darts through the bushes, trying to remain out of sight.{x
+~
+~
+unique~
+AGW P 0 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+1 1 1 1
+FHb AB AB 0
+stand stand either 0
+AGW ACDEFHKPU small 'unknown'
+#16039
+woodpigeon pigeon bird~
+{wa {ywo{wod{Wpi{wge{yon{x~
+{wA {ywo{wod{Wpi{wge{yon{w coos softly from its perch in one of the nearby trees.{x
+~
+~
+unique~
+AGW T 0 0
+30 20 16d17+900 30d10+100 4d4+15 peck
+0 0 0 0 0
+A
+1 1 1 1
+FH AB AB 0
+stand stand either 0
+AGW ACDEFHKPU small 'unknown'
+#0
+
+
+
+#OBJECTS
+#16000
+small slow flowing stream~
+{wa {cs{Cmal{cl s{Ctrea{cm{x~
+{wThe {gg{Gran{gd f{Gores{gt{w parts and gives way to a {cs{Cmal{cl s{Clo{cw f{Clowin{cg s{Ctrea{cm{w.{x~
+water~
+fountain S P
+-1 -1 'water' 0 0
+0 1000 0 100
+#16001
+forlorn hollow tree~
+{wa {yh{go{yll{go{yw tr{ge{ye{x~
+{wA {yfo{gr{ylo{gr{yn h{go{yll{go{yw tr{ge{ye {wstands at the center of the {gc{Glearin{gg.{x~
+wood~
+container S P
+50 0 0 50 0
+0 1000 0 100
+#16002
+fallen tree~
+a {yfa{gll{yen t{gre{ye{x~
+A {yfa{gll{yen t{gre{ye{x lies amongst the {gbr{Ga{gc{Gk{gen{x.~
+wood~
+furniture S P
+3 5000 EH 100 100
+0 1000 0 100
+#16003
+cluster mushrooms~
+{wa {yc{wlu{Ds{wte{yr{w of {ym{wus{Dhro{wom{ys{x~
+A {ys{wm{Da{wl{yl {yc{xlu{Ds{xte{yr{x of {ym{xus{Dhro{xom{ys{x has sprouted by the base of one of the {gt{Gree{gs{w.{x~
+mushroom~
+food Sa A
+2 3 0 0 0
+0 1 0 100
+#16004
+shallow stream~
+{wa {cs{Ch{Wa{cl{Cl{Wo{cw s{Ct{Wr{ce{Ca{Wm{x~
+{wThe road is bisected by a {yb{Dr{yok{De{yn b{Dr{yid{Dg{ye{w that once spanned the {cs{Ch{Wa{cl{Cl{Wo{cw s{Ct{Wr{ce{Ca{Wm{w.{x~
+stone~
+fountain S P
+-1 -1 'water' 0 0
+0 1000 0 100
+E
+broken bridge~
+These are the remains of a small bridge that once spanned a small stream.
+The bridge's wooden timbers have either become dislodged or have rotted away
+leaving only the stone foundations of the structure as an indication to what
+once stood here.  
+~
+#16005
+stone well~
+{wa {Ds{yton{De w{yel{Dl{x~
+{wPartially hidden amongst the {gu{Gnd{ge{Grgr{go{Gwt{gh{w is a {Ds{yton{De w{yel{Dl{w.{x~
+stone~
+fountain S P
+-1 -1 'water' 0 0
+0 1000 0 100
+#16006
+crooked wooden sign post~
+{wa {ycrooked wooden sign post{x~
+{wA {ycrooked wooden sign post{w stands here, entangled with {gi{Gv{gy{w.{x~
+wood~
+trash S P
+0 0 0 0 0
+0 100 0 100
+E
+ivy~
+{gV{Gine{gs{x of {gd{Gar{gk g{Gree{gn i{Gv{gy{x cover the {ywooden sign{x, almost completely
+obscuring the writing beneath it.  
+~
+E
+sign~
+{wA {ycrooked wooden sign{w stands here, entangled with {gi{Gv{gy.  {x {wThe sign reads:
+"{WBridge Street{w"{x 
+~
+#16007
+crooked wooden sign post~
+{wa {ycrooked wooden sign post{x~
+{wA {ycrooked wooden sign post{w stands here, entangled with {gi{Gv{gy{w.{x~
+wood~
+trash S P
+0 0 0 0 0
+0 100 0 100
+E
+ivy~
+{gV{Gine{gs{x of {gd{Gar{gk g{Gree{gn i{Gv{gy{x cover the {ywooden sign{x, almost completely
+obscuring the writing beneath it.  
+~
+E
+sign~
+{wA {ycrooked wooden sign{w stands here, entangled with {gi{Gv{gy.  {x {wThe sign reads:
+"{WHill Lane{w"{x 
+~
+#16008
+crooked wooden sign post~
+{wa {ycrooked wooden sign post{x~
+{wA {ycrooked wooden sign post{w stands here, partially hidden amongst the {gb{Gra{gc{Gke{gn{w.{x~
+wood~
+trash S P
+0 0 0 0 0
+0 100 0 100
+E
+sign~
+{wA {ycrooked wooden sign post{w stands here, partially hidden amongst the
+{gb{Gra{gc{Gke{gn{w.  {x {wThe sign reads: "{WSouth Street{w"{x 
+~
+E
+bracken~
+{gL{Ge{ga{Gf{gy g{Gr{ge{Ge{gn b{Gra{gc{Gke{gn{w has grown around the {ywooden sign{w, completely
+obscuring what is written upon the {ysign{w.  {x 
+~
+#16009
+crooked wooden sign post~
+{wa {ycrooked wooden sign post{x~
+{wA {ycrooked wooden sign post{w stands here, partially hidden amongst the {gb{Gra{gc{Gke{gn{w.{x~
+wood~
+trash S P
+0 0 0 0 0
+0 100 0 100
+E
+sign~
+{wA {ycrooked wooden sign post{w stands here, partially hidden amongst the
+{gb{Gra{gc{Gke{gn{w.  {x {wThe sign reads: "{WNorth Street{w"{x 
+~
+E
+bracken~
+{gL{Ge{ga{Gf{gy g{Gr{ge{Ge{gn b{Gra{gc{Gke{gn{w has grown around the {ywooden sign{w, completely
+obscuring what is written upon the {ysign{w.  {x 
+~
+#16010
+pile decaying leaves~
+{wa {yp{gil{ye{w of {yl{ge{yav{ge{ys{x~
+{wA {yp{gil{ye{w of {Dd{ye{gc{yay{gi{yn{Dg{w {yl{ge{yav{ge{ys{w lie upon the ground.{x~
+plant~
+container Sa P
+10 0 0 10 0
+0 5 0 100
+#16011
+small acorn~
+{wa {gs{ymal{gl a{ycor{gn{x~
+{wA {gs{ymal{gl a{ycor{gn{w rests upon the ground.{x~
+plant~
+food KS A
+1 2 0 A 0
+0 1 0 100
+#16012
+clusters weeds~
+{wa {gc{ml{gust{me{gr{x of {gw{me{ge{md{gs{x~
+{wLarge {gc{ml{guste{mr{gs{w of {gw{me{ge{md{gs{w have sprung up across the surface of the road.{x~
+plant~
+container Sa P
+10 0 0 1 0
+0 5 0 100
+#16013
+stinging nettles weeds~
+{wsome {Gs{gt{Gingi{gn{Gg n{ge{Gttl{ge{Gs{x~
+{GS{gt{Gingi{gn{Gg n{ge{Gttl{ge{Gs{w have grown widespread throughout this area.{x~
+plant~
+container Sa P
+10 0 0 1 0
+0 10 0 100
+#16014
+brambles bracken bushes~
+{wsome {gb{Gu{gsh{Ge{gs{x~
+{yB{mr{yambl{me{ys{w and {gb{Gra{gc{Gke{gn{w grow in abundance within this area.{x~
+plant~
+container Sa P
+10 0 0 1 0
+0 10 0 100
+#16015
+clumps tall grass weeds~
+{wsome {gt{Gal{Yl g{Gras{gs{x~
+{gC{Gl{Yum{Gp{gs{w of {gt{Gal{Yl g{Gras{gs{w sway in the breeze.{x~
+plant~
+container Sa P
+10 0 0 1 0
+0 10 0 100
+#16016
+large brass key~
+{wa {yl{Ya{yr{Yg{ye b{Yr{ya{Ys{ys k{Ye{yy{x~
+{wA {yl{Ya{yr{Yg{ye{x {yk{Ye{yy{w made of {yb{Yr{ya{Ys{ys{w rests here.{x~
+brass~
+key 0 A
+0 0 0 0 0
+0 2 0 100
+#16017
+wooden cask~
+{wa {yw{Do{yod{De{yn ca{Ds{yk{x~
+{wA {yw{Do{yod{De{yn ca{Ds{yk{w rests upon the bar.{x~
+wood~
+fountain Sa P
+-1 -1 'whisky' 0 0
+0 100 0 100
+#16018
+wooden cask~
+{wa {yw{Do{yod{De{yn ca{Ds{yk{x~
+{wA {yw{Do{yod{De{yn ca{Ds{yk{w rests upon the bar.{x~
+wood~
+fountain Sa P
+-1 -1 'oosquai' 0 0
+0 100 0 100
+#16019
+remnants wooden staircase~
+{wa {yw{Do{yod{De{yn s{Dt{yairca{Ds{ye{x~
+{wThe {yr{De{ymnan{Dt{ys{w of a {yw{Do{yod{De{yn s{Dt{yairca{Ds{ye{w rest here.{x~
+wood~
+trash S P
+0 0 0 0 0
+0 1000 0 100
+E
+remnants wooden staircase~
+The remnants of a wooden staircase that once lead upwards to the upper
+level of the inn rest here.  The majority of the wooden timbers rotted away
+many years ago leaving behind half of the staircase amongst a pile of
+rubble.  
+~
+#16020
+cupboard~
+{wa {yc{Du{ypboa{Dr{yd{x~
+{wSeveral of the kitchen's cupboards appear to be intact.{x~
+wood~
+container Sa P
+100 ACI 0 25 0
+0 1000 0 100
+E
+cupboards~
+Within the kitchen are several wooden cupboards and drawers that are in a
+shabby condition.  Most of the cupboards are intact but a few of the
+cupboard doors have fallen completely off of their hinges.  One of the
+kitchen cupboards looks particularly interesting.  
+~
+#16021
+drawer~
+{wa {yd{Dr{yaw{De{yr{x~
+{wA few of the kitchen's drawers appear to be intact.{x~
+wood~
+container Sa P
+20 ACI 0 5 0
+0 1000 0 100
+E
+drawers~
+Within the kitchen are several wooden cupboards and drawers that are in a
+shabby condition.  The majority of the drawers are intact but a few of the
+drawer handles have fallen completely off.  One of the kitchen drawers looks
+particularly interesting.  
+~
+#16022
+kitchen knife~
+{wa {Dk{wi{Wt{Dc{wh{We{Dn k{wn{Wi{Df{we{x~
+{wA sharp {Dk{xi{Wt{Dc{xh{We{Dn k{xn{Wi{Df{we rests here.{x~
+steel~
+weapon R AN
+dagger 10 15 'slash' D
+90 2 150 100
+A
+19 4
+#16023
+small wooden chest~
+{wa {ys{Dm{ya{Dl{yl w{Do{yod{De{yn c{Dh{ye{Ds{yt{x~
+{wHidden in one corner of the room is a {ys{Dm{ya{Dl{yl w{Do{yod{De{yn c{Dh{ye{Ds{yt{w.{x~
+wood~
+container Sa P
+100 ABCD 16026 25 0
+0 100 0 100
+#16024
+pile gold coins~
+{wa {yp{Yil{ye{w of {yc{Yoin{ys{x~
+{wA {yp{Yil{ye{w of {yg{Yol{yd c{Yoin{ys{w rests here.{x~
+gold~
+money 0 A
+0 50 0 0 0
+0 5 0 100
+#16025
+small dull key brass~
+{wa {ysmall dull key{x~
+{wA {ysmall key {wmade of {ydull brass {wrests here.{x~
+brass~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#16026
+set lockpicks picks~
+{wa {cs{Ce{Wt{w of {cl{Co{Wc{ck{Cp{Wi{cc{Ck{Ws{x~
+{wA {cs{Ce{Wt{w of {cl{Co{Wc{ck{Cp{Wi{cc{Ck{Ws{w rests here.{x~
+brass~
+key K A
+0 0 0 0 0
+90 2 250 100
+#16027
+large gem ruby~
+{wa {rr{Rub{ry{x~
+{wA {rl{Rarg{re r{Rub{ry{w rests here.{x~
+ruby~
+gem KS A
+0 0 0 0 0
+0 1 1000 100
+#16028
+large gem sapphire~
+{wa {bs{Bapphir{be{x~
+{wA {bl{Barg{be s{Bapphir{be{w rests here.{x~
+sapphire~
+gem KS A
+0 0 0 0 0
+0 1 750 100
+#16029
+wooden bed frame~
+{wa {ywooden bed frame{x~
+{wThe remnants of a {ywooden bed frame{w rest here.{x~
+wood~
+furniture S P
+0 0 0 0 0
+0 1000 0 100
+#16030
+wooden chair~
+{wa {yw{Do{yod{De{yn c{Dh{ya{Di{yr{x~
+{wPlaced in one corner of the room is a {yw{Do{yod{De{yn c{Dh{ya{Di{yr{w.{x~
+wood~
+furniture S P
+1 1500 EH 150 150
+0 150 0 100
+E
+wooden chair~
+{wPlaced in one corner of the room is a {yw{Do{yod{De{yn c{Dh{ya{Di{yr{w.  Tucked underneath{x
+{wthe chair is a {ys{Dm{ya{Dl{yl w{Do{yod{De{yn c{Dh{ye{Ds{yt{w.  {x 
+~
+#16031
+fluffy green blanket~
+{wa {gf{Gl{guf{Gf{gy g{Gr{ge{Ge{gn b{Gl{ga{Gn{gk{Ge{gt{x~
+{wA {gf{Gl{guf{Gf{gy g{Gr{ge{Ge{gn b{Gl{ga{Gn{gk{Ge{gt{w has been spread upon the ground.{x~
+wool~
+furniture S A
+2 2000 EHK 250 200
+0 6 150 100
+#16032
+dark leather bracer~
+{wa {rd{Dar{rk l{Dea{rt{Dhe{rr b{Drace{rr{x~
+{wA {rd{Dar{rk l{Dea{rt{Dhe{rr b{Drace{rr{w rests here.{x~
+leather~
+armor S AM
+25 25 25 15 0
+90 2 50 100
+A
+18 1
+A
+19 1
+A
+17 -10
+#16033
+dark leather belt~
+a {rd{Dar{rk l{Dea{rt{Dhe{rr b{Del{rt{x~
+{wA {rd{Dar{rk l{Dea{rt{Dhe{rr b{Del{rt{w rests here.{x~
+leather~
+armor S AL
+25 25 25 15 0
+90 3 75 100
+A
+18 1
+A
+19 1
+A
+17 -10
+#16034
+sapphire blue rose tattoo~
+{wa {bt{Batto{bo {wof a {bb{Blu{be r{Bos{be{x~
+{wAn unsual {bt{Batto{bo{w of a {bs{Bapphir{be b{Blu{be r{Bos{be{w.{x~
+ink~
+armor KS AR
+25 25 25 15 0
+90 1 0 100
+A
+12 25
+A
+13 25
+A
+19 2
+#16035
+balanced dagger~
+{wa {cw{Del{cl{w-{cb{Dal{can{Dce{cd {Dd{wa{Wgg{we{Dr{x~
+{wA {cw{Del{cl{x-{cb{Dal{can{Dce{cd {Dd{xa{Wgg{xe{Dr{w rests here.{x~
+steel~
+weapon Y AN
+dagger 10 15 'stab' 0
+90 1 200 100
+A
+19 4
+#16036
+small silver key~
+{wa {Ws{wm{Da{wl{Wl s{wi{Dlv{we{Wr k{we{Dy{x~
+{wA {Ws{xm{Da{xl{Wl s{xi{Dlv{xe{Wr k{xe{Dy{w rests here.{x~
+silver~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#16037
+small silver key~
+{wa {Ws{wm{Da{wl{Wl s{wi{Dlv{we{Wr k{we{Dy{x~
+{wA {Ws{xm{Da{xl{Wl s{xi{Dlv{xe{Wr k{xe{Dy{w rests here.{x~
+silver~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#16038
+small glass lens convex~
+{wa {Csmall glass lens{x~
+{wA {Csmall convex glass lens{w rests here.{x~
+glass~
+trash S AO
+0 0 0 0 0
+0 1 0 100
+#16039
+birds nest~
+{wa {ybird's nest{x~
+{wA bird has built a small nest in the tree.{x~
+wood~
+container Sa P
+50 0 0 5 1
+0 5 0 100
+#16040
+tiny rusty key~
+{wa {yt{wi{Dn{yy {wr{Du{ys{wt{Dy {yk{we{Dy{x~
+{wA {yt{wi{Dn{yy {wr{Du{ys{wt{Dy {yk{we{Dy{w rests here.{x~
+iron~
+key 0 A
+0 0 0 0 0
+0 1 0 100
+#16041
+tall wardrobe~
+{wa {ytall wardrobe{x~
+{wA {ytall wardrobe {whas been placed against one of the walls of the room.{x~
+wood~
+container Sa P
+100 ABCD 16040 25 0
+0 1000 0 100
+#16042
+floppy red woolen hat~
+a {rf{Rlopp{ry r{Re{rd w{Roole{rn h{Ra{rt{x~
+A {rf{Rlopp{ry r{Re{rd w{Roole{rn h{Ra{rt{x rests here.~
+wool~
+armor S AE
+15 15 15 10 0
+55 3 60 100
+#16043
+long yellow woolen scarf~
+{wa {yl{Yon{yg y{Yello{yw w{Yoole{yn s{Ycar{yf{x~
+{wA {yl{Yon{yg y{Yello{yw w{Yoole{yn s{Ycar{yf{w rests here.{x~
+wool~
+armor S AC
+15 15 15 10 0
+55 3 60 100
+#16044
+ball yarn green 16044~
+{wa {gg{Gree{gn b{Gal{gl {wof {gy{Gar{gn{x~
+{wA {gg{Gree{gn b{Gal{gl {wof {gy{Gar{gn{w rests here.{x~
+wool~
+trash S A
+0 0 0 0 0
+0 2 0 100
+#16045
+stoneware jar fragments~
+{wsome {yshattered fragments{w of a {ystoneware jar{x~
+{wSome {yshattered fragments{w of a {ystoneware jar{w rest here.{x~
+ceramic~
+trash S A
+0 0 0 0 0
+0 2 0 100
+#16046
+silver locket heart chain~
+{wa {mh{Mear{mt{w-{ms{Mhape{md {Dl{wo{Wck{we{Dt{x~
+{wA {Ds{xi{Wlv{xe{Dr {mh{Mear{mt{x-{ms{Mhape{md {Dl{xo{Wck{xe{Dt{w hung upon a {Ds{wi{Wlv{we{Dr c{wh{Wa{wi{Dn{w rests here.{x~
+silver~
+treasure 0 AC
+0 0 0 0 0
+90 1 450 100
+#16047
+wooden structures stalls~
+{wa {yst{Da{yll{x~
+{wSeveral {yst{Dal{yls{w constructed from {yw{Do{yod{w have been built out along one side of the stable.{x~
+wood~
+container Sa P
+1000 F 0 100 0
+0 1000 0 100
+#16048
+pile straw~
+{wa {yp{Yil{ye {wof {ys{Ytra{yw{x~
+{wA {yp{Yil{ye {xof {ys{Ytra{yw{w rests here.{x~
+straw~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#16049
+strange contraption~
+{wa {ys{Ytr{Wa{Yng{ye c{Yont{Wrap{Ytio{yn{x~
+{wA {ys{Ytr{Wa{Yng{ye c{Yont{Wrap{Ytio{yn{w stands in the kitchen.{x~
+brass~
+trash 0 P
+0 0 0 0 0
+0 1000 0 100
+E
+lenses~
+{wSomeone has had a little too much time on their hands and {Cglass lenses{w to
+spare when they started attaching them to the {yc{Yont{Wrap{Ytio{yn{w.  {x 
+~
+E
+mirrors~
+{wPerhaps one should not peer too intently into the {Cmirrors{w just in case they
+{Rs{rh{Ra{rt{Rt{re{Rr{w?  {x 
+~
+E
+triangular prisms~
+{wThere are several {Ctriangular prisms{w attached to the {yc{Yont{Wrap{Ytio{yn{w.  {WLight
+{wfrom a {Wsmall candle{w located inside the {yc{Yont{Wrap{Ytio{yn{w goes through the {Cprisms{w
+and is split into many {rd{Ri{yf{Yf{ge{Gr{be{Bn{mt {Mc{ro{Rl{yo{Yr{gs{w.  Very pretty!  {x 
+~
+E
+strange contraption~
+{wIt is impossible to deduce exactly what function this {ys{Ytr{Wa{Yng{ye c{Yont{Wrap{Ytio{yn{w
+has by sight.  It consists of {yl{Yon{yg t{Yubula{yr s{Ytructur{ye{w attached horizontally
+to a {yst{Dur{ydy wo{Dod{yen tr{Dip{yod{w.  There are several {Cglass mirrors{w, {Clenses{w and
+{Ctriangular prisms{w attached to the {yt{Yubula{yr s{Ytructur{ye{w in a variety of ways.  {x 
+~
+#16050
+chestnut tree~
+{wa {gch{Ge{gst{Gn{gut t{Gre{ge{x~
+{wA large {gch{Ge{gst{Gn{gut t{Gre{ge{w grows at the center of the yard.{x~
+wood~
+trash S P
+0 0 0 0 0
+0 1000 0 100
+E
+chestnut tree~
+{wA large {gch{Ge{gst{Gn{gut t{Gre{ge{w grows at the center of the yard.  Upon one of the
+tree's branches hangs a {yb{Ye{ye{Ys{y' n{Yes{yt{w.  {x 
+~
+#16051
+bar~
+{wa {yb{Da{yr{x~
+{wA long yet dusty {yb{Da{yr{w stands at one end of the common room.{x~
+wood~
+container a P
+200 E 0 50 0
+0 1000 0 100
+#16052
+bottle beer~
+{wa {cb{Co{wtt{Cl{ce{w of {Db{yee{Dr{x~
+A {cb{Co{wtt{Cl{ce{x of {Db{yee{Dr{x has been left here.~
+glass~
+drink KS A
+4 3 'beer' 0 0
+0 3 15 100
+#16053
+large round wooden table~
+{wa {yh{Dig{yh{w-{yba{Dck{yed ch{Da{yir{x~
+{wA {yla{Dr{yge ro{Du{ynd {yta{Db{yle{w stands at the center of the room, surrounded by six {ych{Dai{yrs{w.{x~
+wood~
+furniture Sa P
+6 9999 EH 100 100
+0 1000 0 100
+#16054
+gaps holes walls~
+{wa {Dh{wol{De {win the {Dw{wal{Dl{x~
+{wThere are several {Dh{wole{Ds {win the {Dw{xall{Ds{w of the room where the masonry has fallen out over time.{x~
+stone~
+container Sa P
+5 0 0 1 0
+0 0 0 100
+#16055
+remnants wooden staircase~
+{wa {yw{Do{yod{De{yn s{Dt{yairca{Ds{ye{x~
+{wThe {yr{De{ymnan{Dt{ys{w of a {yw{Do{yod{De{yn s{Dt{yairca{Ds{ye{w rest here.{x~
+wood~
+trash 0 P
+0 0 0 0 0
+0 1000 0 100
+E
+remnants wooden staircase~
+The remnants of a wooden staircase that once lead downwards to a lower
+level of the inn rest here.  The majority of the wooden timbers rotted away
+many years ago leaving behind half of the staircase amongst a pile of
+rubble.  It may be possible to use these stairs to access the ground floor
+but it might not be possible to climb back up them.  
+~
+#16056
+small wooden bed~
+{wa {ysm{Da{yll wo{Dod{yen b{De{yd{x~
+{wA {ysm{Da{yll wo{Dod{yen b{De{yd{w has been left here.~
+wood~
+furniture S P
+1 1000 EHK 150 150
+0 1000 0 100
+#16057
+bees nest~
+{wa {yb{Ye{ye{Ys{y' n{Yes{yt{x~
+{wUpon one of the tree's branches hangs a {x{Y{yb{Ye{ye{Ys{y' n{Yes{yt{w.{x~
+cloth~
+container Sa P
+10 0 0 1 0
+0 10 0 100
+#16058
+handful honey sticky glob~
+{wa handful of {yh{Yone{yy{x~
+{wA {ys{Ytick{yy g{Ylo{yb{w of {yh{Yone{yy{w rests here.{x~
+honey~
+food S A
+2 4 0 0 0
+0 1 0 100
+#16059
+lucky rabbits foot severed~
+{wa {rl{Ruck{ry {yra{xbb{yit{w's {rf{Roo{rt{x~
+{wA severed {yra{xbb{yit{x's {rf{Roo{rt{w rests here.~
+fur~
+trash KS O
+0 0 0 0 0
+35 1 0 100
+A
+5 1
+A
+4 1
+#16060
+dull green breeches~
+{wa pair of {cd{gul{cl g{gree{cn b{greeche{cs{x~
+{wA pair of {cd{gul{cl g{gree{cn b{greeche{cs{w rests here.{x~
+wool~
+armor S AF
+25 25 25 15 0
+90 5 60 100
+A
+2 1
+A
+5 1
+#16061
+bear claws~
+{wa set of {yb{Dea{yr c{Dlaw{ys{x~
+none~
+cloth~
+weapon KS AN
+exotic 9 14 'claw' D
+85 1 0 100
+A
+19 9
+#16062
+gray wolf pelt~
+{wa {Dg{wr{Wa{Dy w{wo{Wl{Df{w'{Ws{D p{we{Wl{Dt{x~
+{wA {Dg{wr{Wa{Dy w{wo{Wl{Df{w'{Ws{D p{we{Wl{Dt{w rests here.{x~
+fur~
+armor KS AK
+16 16 16 9 0
+57 3 85 100
+A
+19 2
+A
+17 -15
+#16063
+woodsmans bow~
+{wa {ywo{Do{ydsma{Dn{y's b{Do{yw{x~
+{wA finely crafted {ywo{Do{ydsma{Dn{y's b{Do{yw{w rests here.{x~
+wood~
+weapon KS AN
+bow 10 15 'none' F
+90 25 300 100
+A
+19 4
+#16064
+battleaxe axe~
+{wa {Ds{wt{Weel {Db{wa{Wttl{we{Waxe{x~
+{wA finely crafted {Ds{wt{Weel {Db{wa{Wttl{we{Waxe{w rests here.{x~
+steel~
+weapon KY AN
+axe 10 15 'cleave' 0
+90 250 300 100
+A
+19 4
+#16065
+dark leather jerkin~
+a {rd{Dar{rk l{Dea{rt{Dhe{rr j{Derki{rn{x~
+{wA {rd{Dar{rk l{Dea{rt{Dhe{rr j{Derki{rn{w rests here.{x~
+leather~
+armor S AD
+25 25 25 15 0
+90 80 150 100
+#16066
+brown woolen cap~
+{wa {ybrown woolen cap{x~
+{wA {ybrown woolen cap{w rests here.{x~
+wool~
+armor S AE
+25 25 25 15 0
+90 4 60 100
+A
+3 1
+A
+4 1
+#16067
+scruffy beard~
+{wa {yscruffy beard{x~
+{wThis object appears to be a {yscruffy beard{w.{x~
+hair~
+armor KS AV
+25 25 25 15 0
+90 1 0 100
+A
+4 -1
+A
+19 2
+A
+18 2
+#16068
+pair hide boots~
+{wa pair of {yh{wid{ye b{woot{ys{x~
+{wA pair of {yh{wid{ye b{woot{ys{w rests here.{x~
+hide~
+armor KS AG
+25 25 25 15 0
+90 6 150 100
+A
+2 1
+A
+5 1
+A
+1 1
+#16069
+gray woolen tunic~
+{wa {Dg{wra{Dy w{woole{Dn t{wuni{Dc{x~
+{wA {Dg{wra{Dy w{woole{Dn t{wuni{Dc{w rests here.{x~
+wool~
+armor S AD
+25 25 25 15 0
+90 6 60 100
+#16070
+iron ring stone hitching post~
+{wan {ri{yro{rn r{yin{rg{x~
+{wAn {ri{yro{rn r{yin{rg{w belonging to a {Ds{wt{Wo{wn{De hi{wt{Wch{wi{Dng p{wo{Ws{Dt{w lies imbedded in the mud.{x~
+iron stone~
+trash 0 P
+0 0 0 0 0
+0 100 0 100
+#16071
+rounded stone~
+{wa {cr{Do{wu{Dn{wd{De{cd s{Dt{wo{Dn{ce{x~
+{wA {cr{Do{wu{Dn{wd{De{cd s{Dt{wo{Dn{ce{w rests here.{x~
+stone~
+weapon SY A
+exotic 1 1 'smash' 0
+0 30 0 100
+A
+19 4
+#16072
+stack wooden crates~
+{wa {yw{Do{yod{De{yn c{Dr{ya{Dt{ye{x~
+{wSeveral {yw{Do{yod{De{yn c{Dr{ya{Dt{yes{w have been stacked neatly against a wall.{x~
+wood~
+container Sa P
+250 AC 0 100 0
+0 500 0 100
+#16073
+glass vial blue liquid goat flower elixir~
+{wa {Wg{wl{Da{wss v{Di{wa{Wl{w containing a {bb{Blu{be l{Biqui{bd{x~
+{wA {Wg{wl{Da{wss v{Di{wa{Wl{w containing a {bb{Blu{be l{Biqui{bd{w.  Tied to the v{Di{wa{Wl{w is a {ys{Ymal{yl l{Yabe{yl{w.{x~
+glass~
+potion Sa A
+75 'weaken' '' '' ''
+100 1 200 100
+E
+small label~
+{wThe {ys{Ymal{yl l{Yabe{yl{w reads: {bE{Blixi{br{w of {bBl{Bu{We g{Boa{bt{w Flowers.{x
+~
+#16074
+glass vial green liquid forkroot elixir~
+{wa {Wg{wl{Da{wss v{Di{wa{Wl{w containing a {gg{Gree{gn l{Giqui{gd{x~
+{wA {Wg{wl{Da{wss v{Di{wa{Wl{w containing a {gg{Gree{gn l{Giqui{gd{w.  Tied to the v{Di{wa{Wl{w is a {ys{Ymal{yl l{Yabe{yl{w.{x~
+glass~
+potion Sa A
+75 'shielding' '' '' ''
+100 1 200 100
+E
+small label~
+{wThe {ys{Ymal{yl l{Yabe{yl{w reads: {gE{Glixi{gr{x of {gF{Gor{Ykr{Goo{gt{w.{x
+~
+#16075
+silver coin~
+{wa {Ds{wi{Wlv{we{Dr c{wo{Wi{Dn{x~
+{wSomebody must have dropped this {Ds{wi{Wlv{we{Dr c{wo{Wi{Dn{w.{x~
+silver~
+money K A
+1 0 0 0 0
+0 1 1 100
+#16076
+loose wooden floorboard board plank~
+{wa {ylo{Do{yse fl{Do{yorb{Do{yard{x~
+{wThere are a few {ylo{Do{yse fl{Do{yorb{Do{ya{Dr{yds{w in this building.{x~
+wood~
+container Sa P
+20 AC 0 5 0
+0 10 0 100
+#16077
+pile rare gold coins~
+{wa pile of {yg{Yol{yd c{Yoin{ys{x~
+{wA pile of {yg{Yol{yd c{Yoin{ys{w rests here.{x~
+gold~
+treasure Ka A
+0 0 0 0 0
+0 10 500 100
+E
+pile rare gold coins~
+{wA pile of {yg{Yol{yd c{Yoin{ys{w rests here.  {x {wMany of the {yc{Yoin{ys{w within the pile are
+stamped with the crests of {gA{Ge{Wlg{Ga{gr{w and {bE{Bh{Rar{Bo{bn{w.  {x 
+~
+#16078
+shop counter~
+{wa {Dd{wust{Dy {ysh{Do{yp co{Du{ynter{x~
+{wA {Dd{wust{Dy {ysh{Do{yp co{Du{ynter{w stands here.{x~
+wood~
+furniture S P
+0 0 0 0 0
+0 1000 0 100
+#16079
+gold medallion~
+{wa {yg{Yol{yd m{Yedallio{yn{x~
+{wA {yg{Yol{yd m{Yedallio{yn{w strung on a leather cord rests here.{x~
+gold~
+armor K AC
+25 25 25 15 0
+90 1 200 100
+A
+18 2
+A
+19 2
+#16080
+gold coin~
+{wa {yg{Yol{yd c{Yoi{yn{x~
+{wSomebody must have dropped this {yg{Yol{yd c{Yoi{yn{x~
+gold~
+money K A
+0 1 0 0 0
+0 1 100 100
+#16081
+tattered woolen hat~
+{wa {ct{Cattere{cd w{Coole{cn h{Ca{ct{w with holes in it{x~
+{wA {ct{Cattere{cd w{Coole{cn h{Ca{ct{w with holes in it rests here.{x~
+wool~
+armor S AE
+25 25 25 15 0
+90 3 60 100
+#16082
+tattered woolen scarf~
+{wa {ct{Cattere{cd w{Coole{cn s{Ccar{cf{w with holes in it{x~
+{wA {ct{Cattere{cd w{Coole{cn s{Ccar{cf{w with holes in it rests here.{x~
+wool~
+armor S AC
+25 25 25 15 0
+90 3 60 100
+#16083
+battered old sword~
+{wa {cbattered old sword{x~
+{wA {cbattered old sword{w rests here.{x~
+steel~
+weapon 0 AN
+sword 10 15 'slash' 0
+90 50 125 100
+A
+19 4
+#16084
+wooden spoon~
+{wa {ywo{Do{yden s{Dp{yoon{x~
+{wA {ywo{Do{yden s{Dp{yoon{w has been left here.{x~
+wood~
+weapon KS AN
+mace 1 1 'smash' 0
+0 2 0 100
+A
+19 4
+#16085
+dried ice peppers~
+{wsome {cd{Cr{Wi{Ce{cd i{Cc{We {cp{Ce{Wp{Cp{We{Cr{cs{x~
+{wSome {cd{Cr{Wi{Ce{cd i{Cc{We {cp{Ce{Wp{Cp{We{Cr{cs{w have been left here.{x~
+food~
+food KS A
+1 2 0 0 0
+0 1 0 100
+#16086
+bunch dried herbs~
+{wa bunch of {gdr{yi{ged he{yr{gbs{x~
+{wA bunch of {gdr{yi{ged he{yr{gbs{w has been left here.{x~
+herbs~
+pill KS A
+90 'refresh' 'refresh' '' ''
+90 1 0 100
+#0
+
+
+
+#ROOMS
+#16000
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a dark and sinister area of mainly {gd{ye{gc{yi{gd{yu{go{yu{gs{x {gw{Goo{gdl{Gan{gd{x that
+spreads out in almost every direction.  The fertile {ys{Doi{yl{x within this area
+makes the conditions almost perfect for immense amounts of {Gveg{getat{Gion{x
+growing in this {gw{Goo{gd{x.  There is thick leafy green {gund{Gergro{gwth{x throughout
+this area of the {gw{Goo{gd{x that almost completely obscures the rocky ground
+beneath it.  Also hidden below {gund{Gergro{gwth{x is a tangled maze of gnarled old
+{gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that protrude from the surface of the {ye{Da{wr{Dt{yh{x and make traversing
+this {gw{Goo{gdl{Gan{gd{x a difficult feat.  
+~
+0
+0 3
+D3
+~
+~
+4096 4096
+0 0 16001
+D8
+~
+~
+0 0
+0 0 54409
+S
+#16001
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This dark and ancient {gw{Goo{gdl{Gan{gd{x sprawls out in almost every direction. 
+The density of the {Gveg{getat{Gion{x is so great that it is difficult to see any
+definite route through the twisted mass of {gf{Gl{Yo{Gr{ga{x.  A few sweetgum {gt{Gr{ge{Ge{gs{x have
+managed to find niches within in this tightly packed {gw{Goo{gd{x but the area is
+dominated by majestic oak {gt{Gr{ge{Ge{gs{x that tower over a thick and tangled mess of
+thorny {gb{Gu{gsh{Ge{gs{x, {yb{mr{yambl{me{ys{x and {gv{Gi{Yn{Ge{gs{x.  The ground beneath the {gund{Gergro{gwth{x is
+littered with a combination of rotting {Gveg{getat{Gion{x, {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x and rocks
+which makes traveling through this area a difficult and treacherous task.  
+~
+0
+0 3
+D1
+~
+~
+4096 4096
+0 0 16000
+D2
+~
+~
+4096 4096
+0 0 16017
+D3
+~
+~
+4096 4096
+0 0 16002
+S
+#16002
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a shadowy and creepy area of densely populated {gw{Goo{gdl{Gan{gd{x.  The
+majority of the {gt{Gr{ge{Ge{gs{x within this {gw{Goo{gd{x are {gd{ye{gc{yi{gd{yu{go{yu{gs{x but there are one or
+two {geve{crgre{gens{x to be seen dotted amongst the rest of the {gt{Gr{ge{Ge{gs{x.  The land
+appears to be very fertile for there is an immense amount of leafy {gb{Gu{gsh{Ge{gs{x
+growing in this area making it difficult to see whether there are any
+undemanding routes and {ytr{Dai{yls{x through this {gw{Goo{gdl{Gan{gd{x.  The layer of rotting
+{Gveg{getat{Gion{x lies on top of stony {ys{Doi{yl{x and with the addition of {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x
+protruding through the surface of the ground make the process of traveling
+through this area a hazardous task.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16003
+D1
+~
+~
+4096 4096
+0 0 16001
+D2
+~
+~
+4096 4096
+0 0 16016
+D3
+~
+~
+4096 4096
+0 0 16015
+S
+#16003
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This a very dark and ancient {gw{Goo{gd{x that sprawls out in almost every
+direction as far as the eye can see.  Most of the {gt{Gr{ge{Ge{gs{x within this section
+of {gw{Goo{gdl{Gan{gd{x are {gd{ye{gc{yi{gd{yu{go{yu{gs{x but there are a few pine {gt{Gr{ge{Ge{gs{x scattered amongst
+the rest of the {gt{Gr{ge{Ge{gs{x.  The area is dominated by the tangled mass of
+{yb{mr{yambl{me{ys{x, {gb{Gu{gsh{Ge{gs{x and {gf{ye{gr{yn{gs{x that grow in abundance; the density of the
+{Gveg{getat{Gion{x here is so great that it makes it very difficult to see any
+distinct {ytr{Dai{yls{x through the {gw{Goo{gd{x.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16004
+D1
+~
+~
+4096 4096
+0 0 16014
+D2
+~
+~
+4096 4096
+0 0 16002
+S
+#16004
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This a very murky and ancient {gf{Gores{gt{x that stretches out in almost every
+direction as far as the eye can see.  The majority of the {gt{Gr{ge{Ge{gs{x that grow
+within this area are {gd{ye{gc{yi{gd{yu{go{yu{gs{x but there are a few towering {geve{crgre{gens{x to be
+seen scattered amongst the rest of the {gt{Gr{ge{Ge{gs{x.  Despite the apparent
+grandness of the {gt{Gr{ge{Ge{gs{x in this {gf{Gores{gt{x, this particular area is dominated by
+a tangled mass of {gund{Gergro{gwth{x that makes traveling through this area a
+difficult process.  
+~
+0
+0 3
+D2
+~
+~
+4096 4096
+0 0 16003
+D3
+~
+~
+4096 4096
+0 0 16005
+S
+#16005
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a dark and creepy area of {gf{Gores{gt{x that extends out in all
+directions.  There is a variety of {gt{Gr{ge{Ge{gs{x growing in this vicinity, the
+majority of them are ancient {gd{ye{gc{yi{gd{yu{go{yu{gs{x {gt{Gr{ge{Ge{gs{x but a few {geve{crgre{gens{x can also
+be seen.  Densely growing {yb{mr{yambl{me{ys{x and {gb{Gu{gsh{Ge{gs{x partially obscures the stony
+yet marshy ground in which they grow.  To the north the ground steeply
+inclines downward although the way ahead is hidden by the thick {gund{Gergro{gwth{x
+and the only sign of what lies ahead is the faint sound of running {cw{Ca{Wt{Ce{cr{x. 
+Also concealed beneath {gund{Gergro{gwth{x are twisted {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that protrude from
+the surface of the {ye{Da{wr{Dt{yh{x and make passing through this area a problem.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16011
+D1
+~
+~
+4096 4096
+0 0 16004
+D3
+~
+~
+4096 4096
+0 0 16006
+S
+#16006
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a particularly dark and gloomy section of {gw{Goo{gdl{Gan{gd{x.  There are no
+visible {ytr{Dai{yls{x through the {gf{Gores{gt{x at this point; the dense foliage that
+grows here almost completely obscures both the ground and what lies ahead. 
+Despite the abundance of plant life, a {Dg{wra{Dy s{wton{De b{wui{Dld{win{Dg{x can be seen to
+the north though the tiny {Dgaps{x between the {gf{Gl{Yo{Gr{ga{x but there does not appear
+to be a direct route to the structure from this point without having to pass
+through razor sharp {yb{mr{yambl{me{ys{x and prickly {rh{Roll{ry{x {gb{Gu{gsh{Ge{gs{x.  
+~
+0
+0 3
+D1
+~
+~
+4096 4096
+0 0 16005
+D2
+~
+~
+4096 4096
+0 0 16007
+S
+#16007
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a gloomy and clammy area of {gf{Gores{gt{x.  The towering {gt{Gr{ge{Ge{gs{x that grow
+here cast eerie {Ds{wh{Da{wd{Do{ww{Ds{x within this area whilst the dense {gb{Gu{gsh{Ge{gs{x hide what
+lurks ahead.  There is no visible {ytr{Da{yil{x through this {gw{Goo{gd{x at this point for
+there is a thick layer decaying {Gveg{getat{Gion{x covering the ground.  Dwelling
+amongst the dark {Ds{wh{Da{wd{Do{ww{Ds{x of the {gf{Gores{gt{x are examples of colorful {yf{Yung{yi{x of
+varying shapes and sizes however their bright and inviting appearance could
+be misleading.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16006
+D2
+~
+~
+4096 4096
+0 0 16010
+D3
+~
+~
+4096 4096
+0 0 16008
+S
+#16008
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a particularly dark and ominous section of {gw{Goo{gdl{Gan{gd{x.  This
+section of the {gf{Gores{gt{x is clearly dominated by young yet huge and towering
+pine {gt{Gr{ge{Ge{gs{x whose interlacing canopies almost totally obscure the {Cs{Wk{Cy{x above. 
+Deep green {gi{Gv{gy{x has taken a hold of much of the {gf{Gores{gt{x with many of the older
+{gt{Gr{ge{Ge{gs{x have been caught in the {gv{Gi{Yn{Ge{gs{x' choking grasps.  In between the {gt{Gr{ge{Ge{gs{x
+leafy green {gb{Gr{ga{Gc{gk{Ge{gn{x has also taken hold, half obscuring the gnarled {gt{Gr{ge{Ge{x
+{yr{wo{yo{wt{ys{x that jut out from the {gf{Gores{gt{x floor.  Beneath the layer of rotting
+{Gveg{getat{Gion{x that covers much of the {gf{Gores{gt{x floor, there is a distinct change
+in the type of {ys{Doi{yl{x to a more compact and relatively less fertile terrain;
+there may have once been a {ytr{Da{yil{x or a {yr{Doa{yd{x leading through this area.  
+~
+0
+0 3
+D1
+~
+~
+4096 4096
+0 0 16007
+D2
+~
+~
+4096 4096
+0 0 16009
+D3
+~
+~
+4096 4096
+0 0 16020
+S
+#16009
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a particularly murky and eerie section of {gf{Gores{gt{x.  The majority
+of the {gt{Gr{ge{Ge{gs{x that grow in this section of the {gw{Goo{gdl{Gan{gd{x are young tall pine
+{gt{Gr{ge{Ge{gs{x whose interlacing canopies almost completely obscure the {Cs{Wk{Cy{x above. 
+Twisting tendrils of deep green {gi{Gv{gy{x have taken a hold of much of the {gf{Gores{gt{x
+with many of the older {gt{Gr{ge{Ge{gs{x have been caught in the {gv{Gi{Yn{Ge{gs{x' choking
+clutches.  In between the {gt{Gr{ge{Ge{gs{x a profusion of green {gund{Gergro{gwth{x has also
+taken hold, half hiding the twisted {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that poke out from the
+ground.  To the west a {Dg{wra{Dy s{wton{De b{wui{Dld{win{Dg{x can be seen though the tiny {Dgaps{x
+between the {gf{Gl{Yo{Gr{ga{x but there does not appear to be a direct route to the
+structure from this point without having to pass through razor sharp
+{yb{mr{yambl{me{ys{x and prickly {rh{Roll{ry{x {gb{Gu{gsh{Ge{gs{x.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16008
+D1
+~
+~
+4096 4096
+0 0 16010
+S
+#16010
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+The tall {gt{Gr{ge{Ge{gs{x that grow in this {gf{Gores{gt{x tower over a dense covering of
+leafy green {gund{Gergro{gwth{x that grows rampant throughout the area.  Beneath a
+thick mushy layer of rotting {Gveg{getat{Gion{x is the {ys{Doi{yl{x, a stony yet soft ground
+that surprisingly is fertile enough to support such a wide abundance of
+{Gveg{getat{Gion{x.  Dwelling amongst the dark {Ds{wh{Da{wd{Do{ww{Ds{x by the bases of the {gt{Gr{ge{Ge{gs{x are
+{yf{Yung{yi{x of varying shapes and sizes; their bright colors hugely contrast with
+the surrounding green hues of the {gf{Gores{gt{x however {yf{Yung{yi{x's bright and inviting
+appearances are perhaps misleading.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16007
+D3
+~
+~
+4096 4096
+0 0 16009
+S
+#16011
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a particularly dark and sinister area of {gw{Goo{gdl{Gan{gd{x.  A thick
+blanket of {gund{Gergro{gwth{x and decaying {Gveg{getat{Gion{x partly obscures the soft
+muddy ground underneath it.  Also hidden below the {gb{Gr{ga{Gc{gk{Ge{gn{x are twisted {gt{Gr{ge{Ge{x
+{yr{wo{yo{wt{ys{x that stick out from the surface of the {ye{Da{wr{Dt{yh{x and make crossing this
+area a difficult feat.  To the south the ground steeply inclines upward but
+the way ahead is hidden by the densely packed {Gveg{getat{Gion{x of the {gf{Gores{gt{x.  To
+the west the {Gveg{getat{Gion{x gives way to a {Dg{wra{Dy s{wton{De s{wtr{Duct{wur{De{x although there
+does not appear to be a direct route to the {Db{wui{Wld{win{Dg{x from this point without
+having to go through thorny {yb{mr{yambl{me{ys{x and prickly {rh{Roll{ry{x {gb{Gu{gsh{Ge{gs{x.  There is a
+sound of running {cw{Ca{Wt{Ce{cr{x emanating from the north but the exact source of the
+sound is well hidden beyond a green veil of {gt{Gr{ge{Ge{gs{x and {gb{Gr{ga{Gc{gk{Ge{gn{x.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16012
+D1
+~
+~
+4096 4096
+0 0 16013
+D2
+~
+~
+4096 4096
+0 0 16005
+S
+#16012
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This a very murky and ancient {gf{Gores{gt{x that spreads out in almost every
+direction as far as the eye can see.  The majority of the {gt{Gr{ge{Ge{gs{x that grow
+within this area are {gd{ye{gc{yi{gd{yu{go{yu{gs{x but a few tall {geve{crgre{gens{x can also be seen. 
+A thick blanket of {gund{Gergro{gwth{x and decaying {Gveg{getat{Gion{x almost completely
+hides the soft muddy ground beneath it.  Also concealed below the {gb{Gr{ga{Gc{gk{Ge{gn{x
+are twisted {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that stick out from the surface of the {ye{Da{wr{Dt{yh{x and make
+traveling through this particular area problematic.  There is a small {cs{Ctrea{cm{x
+here that cuts a path through the {gf{Gores{gt{x; the large pebbles that have been
+deposited along the bed of the {cs{Ctrea{cm{x suggest that this {cw{Cat{cer{Cwa{cy{x was much
+deeper and faster flowing in the past.
+~
+0
+0 3
+D2
+~
+~
+4096 4096
+0 0 16011
+S
+#16013
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a particularly humid section of densely growing {gf{Gores{gt{x that
+spreads out in every direction as far as the eye can see.  The majority of
+the {gt{Gr{ge{Ge{gs{x within this {gw{Goo{gd{x are {gd{ye{gc{yi{gd{yu{go{yu{gs{x but there are one or two {geve{crgre{gens{x
+visible.  The {gt{Gr{ge{Ge{gs{x loom over a dense covering of leafy {gb{Gr{ga{Gc{gk{Ge{gn{x and {yb{mr{yambl{me{ys{x
+that has grown widespread throughout the {gw{Good{gs{x; the {gt{Gr{ge{Ge{gs{x' interlacing
+canopies obscure the {Cs{Wk{Cy{x above and envelope the {gf{Gores{gt{x floor in almost
+perpetual {Ds{wh{Da{wd{Do{ww{x.  Dwelling in the darkness by the bases of the {gt{Gr{ge{Ge{gs{x are
+{yf{Yung{yi{x of varying shapes and sizes; their bright colors stand out against the
+surrounding green hues of the {gf{Gores{gt{x.  
+~
+0
+0 3
+D3
+~
+~
+4096 4096
+0 0 16011
+S
+#16014
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a dark and gloomy area of a large {gf{Gores{gt{x that spreads out in
+almost every direction.  There is a wide variety of {gt{Gr{ge{Ge{gs{x growing in this
+vicinity, most of them are {gd{ye{gc{yi{gd{yu{go{yu{gs{x {gt{Gr{ge{Ge{gs{x but a few {geve{crgre{gens{x are also
+visible.  Rampant {gi{Gv{gy{x has taken a hold of much of this area with many of the
+elder {gt{Gr{ge{Ge{gs{x caught in the {gv{Gi{Yn{Ge{gs{x' choking grasps.  Densely growing {gb{Gu{gsh{Ge{gs{x
+partially conceal the stony yet marshy ground in which they grow as well as
+a multitude of twisted {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that protrude from the ground and make
+crossing this area a difficult process.  
+~
+0
+0 3
+D3
+~
+~
+4096 4096
+0 0 16003
+S
+#16015
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+Most of the {gt{Gr{ge{Ge{gs{x that grow in this particular section of the {gw{Good{gs{x are
+tall pine {gt{Gr{ge{Ge{gs{x whose intertwining canopies almost completely block out the
+{Cs{Wk{Cy{x above and shroud the {gf{Gores{gt{x floor in darkness.  A thick blanket of leafy
+green {gund{Gergro{gwth{x and decomposing {Gveg{getat{Gion{x partly covers the soft muddy
+ground beneath it.  There are twisted masses of {yb{mr{yambl{me{ys{x that have grown so
+thickly and widespread in this part of the {gf{Gores{gt{x that they are virtually
+impenetrable.  Also in this area are several varieties colorful {yf{Yung{yi{x
+dwelling in the {Ds{wh{Da{wd{Do{ww{Ds{x of the {gf{Gores{gt{x; the majority of them appear to be
+poisonous {rt{Roa{Yd{Wst{Yo{Rol{rs{x.  
+~
+0
+0 3
+D1
+~
+~
+4096 4096
+0 0 16002
+S
+#16016
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a particularly dark and dismal section of {gf{Gores{gt{x.  There does not
+seem to be any visible {ytr{Dai{yls{x through the {gf{Gores{gt{x at this point; the dense
+{gf{Gl{Yo{Gr{ga{x that grows here almost completely obscures both the ground and what
+lies ahead.  Tall, ancient {gt{Gr{ge{Ge{gs{x overlook the dense clumps of leafy {gb{Gr{ga{Gc{gk{Ge{gn{x;
+the {gt{Gr{ge{Ge{gs{x' gnarled limbs are reminiscent of claws trying to reach out and
+ensnare unsuspecting victims.  There are {yb{mr{yambl{me{ys{x that have grown so thickly
+and widespread in this part of the {gf{Gores{gt{x that they are practically
+impossible to pass.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16002
+S
+#16017
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a shadowy and sinister area of mainly {gd{ye{gc{yi{gd{yu{go{yu{gs{x {gw{Goo{gdl{Gan{gd{x that
+spreads out in every direction.  The majority of the {gt{Gr{ge{Ge{gs{x that grow in this
+particular section of the {gw{Good{gs{x are towering pine {gt{Gr{ge{Ge{gs{x whose immense
+canopies almost completely block out the {Cs{Wk{Cy{x above.  Thick leafy green
+{gund{Gergro{gwth{x and rotting {Gveg{getat{Gion{x partially conceals the {Dr{wr{Dc{wk{Dy{x ground and
+the gnarled {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that protrude from it.  The ground slopes steeply
+upwards to the south but the {gf{Gores{gt{x {Gveg{getat{Gion{x hides what lies at the top of
+the incline.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16001
+D2
+~
+~
+4096 4096
+0 0 16018
+S
+#16018
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a dark and gloomy area of a large {gf{Gores{gt{x that spreads out in
+almost every direction.  There is a wide variety of {gt{Gr{ge{Ge{gs{x growing in this
+vicinity but majority of the {gt{Gr{ge{Ge{gs{x are towering pine {gt{Gr{ge{Ge{gs{x whose immense
+canopies partially block out the {Cs{Wk{Cy{x.  {gI{Gv{gy{x has taken a hold of much of this
+area with many of {gt{Gr{ge{Ge{gs{x ensnared within the dark {gv{Gi{Yn{Ge{gs{x' choking grasps. 
+Dense clumps of {gb{Gr{ga{Gc{gk{Ge{gn{x partially conceal the {gf{Gores{gt{x's stony yet marshy {ys{Doi{yl{x
+in which they grow as well as a multitude of twisted {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x that
+protrude from the ground.  At this point the ground slopes steeply downwards
+to the north but the {gf{Gores{gt{x {Gveg{getat{Gion{x hides what lies at the bottom of the
+incline.  
+~
+0
+0 3
+D0
+~
+~
+4096 4096
+0 0 16017
+D3
+~
+~
+4096 4096
+0 0 16019
+S
+#16019
+{gD{Gens{ge W{Goo{gdl{Gan{gd{x~
+This is a small grassy clearing located somewhere within a dark and
+gloomy {gf{Gores{gt{x.  Small clusters of thistles, dandelions and other wild plants
+have sprouted up within clearing in a haphazard manner.  The perimeter of
+the clearing is plainly marked by thickly growing {gb{Gr{ga{Gc{gk{Ge{gn{x and {yb{mr{yambl{me{ys{x that
+are in turn encircled by grand, lofty {gt{Gr{ge{Ge{gs{x.  The leafy {Gveg{getat{Gion{x growing
+around the tiny clearing is so closely packed that it obscures what is
+beyond the area.  
+~
+0
+0 3
+D1
+~
+~
+4096 4096
+0 0 16018
+S
+#16020
+{CSa{Wlid{Car{x~
+A densely packed {gf{Gores{gt{x gives way to a large abandoned {cv{wil{Wl{wag{ce{x.  Numerous
+{Db{wui{Wldi{wng{Ds{x of varying sizes that have been constructed from rounded river
+{Ws{wt{Don{we{Ws{x can be seen amongst the rampant {Gveg{getat{Gion{x.  Some of the {Db{wui{Wldi{wng{Ds{x
+have their thatched roofs relatively intact although they are blackened due
+to discoloration from rotting.  The majority of the {Db{wui{Wldi{wng{Ds{x' roofs are not
+visible; they have probably caved-in under their own weight a long time ago.
+{gT{Gr{ge{Ge{gs{x that are much younger than the ones that grow in the surrounding
+{gw{Goo{gdl{Gan{gd{x have sprouted up in between the {Db{wui{Wldi{wng{Ds{x and are an indication to
+how long this {cs{wet{Wt{wle{Wm{wen{ct{x had been abandoned.  A wide {yt{Dr{wa{Dc{yk{x made of hard
+packed mud runs through the center of the {cv{wil{Wl{wag{ce{x where {gw{Ge{Ye{Gd{gs{x and the
+occasional young {gt{Gr{ge{Ge{x have managed to penetrate the {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x's surface
+and taken root.  A second, much narrower {ys{Dt{wre{De{yt{x leads away to the north.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16029
+D1
+~
+~
+4096 4096
+0 0 16008
+D2
+~
+~
+4231 4231
+2 16026 16087
+D3
+~
+~
+0 0
+0 0 16021
+S
+#16021
+{cA Wide Road{x~
+This is a young and lush {gw{Goo{gd{x that has sprouted up within a seemingly
+abandoned {cv{wil{Wl{wag{ce{x.  Several {Db{wui{Wldi{wng{Ds{x can be seen from this point, they have
+all been constructed from rounded river {Ws{wt{Don{we{Ws{x and a few have their original
+thatched roofs still intact.  There is a wide {yt{Dr{wa{Dc{yk{x made of hard packed mud
+that runs through the center of the {cs{wet{Wt{wle{Wm{wen{ct{x; the {yr{Doa{yd{x's surface is strewn
+with patches of {gw{Ge{Ye{Gd{gs{x and {Dpo{wt{Who{wl{Des{x.  One {Db{wui{Wld{win{Dg{x on the north side of the
+{yr{Doa{yd{x stands out from the rest for it is cubic in shape and overlooks a large
+clearing.  The entire {cv{wil{Wl{wag{ce{x is surrounded by a dense {gf{Gores{gt{x that is much
+older in appearance than the {gt{Gr{ge{Ge{gs{x that grow within the {cv{wil{Wl{wag{ce{x.  
+~
+0
+0 3
+D0
+~
+~
+4231 4231
+2 16025 16057
+D1
+~
+~
+0 0
+0 0 16020
+D3
+~
+~
+0 0
+0 0 16022
+S
+#16022
+{cA Wide Road{x~
+This is a wide muddy {yt{Dr{wa{Dc{yk{x that runs east/west through the center of a
+large {cv{wil{Wl{wag{ce{x.  There is a second {yt{Dr{wa{Dc{yk{x to the south but it is much narrower
+than the main {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x.  Both roads are overlooked by several {Db{wui{Wldi{wng{Ds{x
+constructed from river {Ws{wt{Don{we{Ws{x; they look like {Wh{wo{Dus{we{Ws{x that have been
+abandoned many years ago by their apparent state of disrepair.  {gF{Gl{Yo{Gr{ga{x has
+grown widespread throughout the {cs{wet{Wt{wle{Wm{wen{ct{x; much of the area has been taken
+over by rogue plant life.  The entire {cv{wil{Wl{wag{ce{x is surrounded by a dense
+{gf{Gores{gt{x whose {Gveg{getat{Gion{x looks far older than the examples seen within the
+{cv{wil{Wl{wag{ce{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16021
+D2
+~
+~
+0 0
+0 0 16045
+D3
+~
+~
+0 0
+0 0 16023
+S
+#16023
+{cA Wide Road{x~
+Small young {gt{Gr{ge{Ge{gs{x and shrubs have sprouted up in between the {Db{wui{Wldi{wng{Ds{x of
+this seemingly abandoned {cv{wil{Wl{wag{ce{x.  The {cs{wet{Wt{wle{Wm{wen{ct{x is surrounded by a densely
+populated {gf{Gores{gt{x that is much older in appearance than the {gt{Gr{ge{Ge{gs{x that grow
+within the {cv{wil{Wl{wag{ce{x.  A wide {yt{Dr{wa{Dc{yk{x made of hard packed mud cuts its way
+through the center of the old {cs{wet{Wt{wle{Wm{wen{ct{x; the {yr{Doa{yd{x's surface is strewn with
+patches of {gw{Ge{Ye{Gd{gs{x, {Dpo{wt{Who{wl{Des{x and the occasional {gt{Gr{ge{Ge{x root which has managed to
+penetrate the ground.  There are a few structures constructed from rounded
+river {Ws{wt{Don{we{Ws{x that can be seen from this point.  
+~
+0
+0 3
+D0
+~
+~
+4615 4615
+2 16026 16097
+D1
+~
+~
+0 0
+0 0 16022
+D3
+~
+~
+0 0
+0 0 16024
+S
+#16024
+{cA Wide Road{x~
+This is a wide muddy {yt{Dr{wa{Dc{yk{x that runs east/west through the middle of a
+large {cv{wil{Wl{wag{ce{x that is surrounded by a dark {gf{Gores{gt{x.  Thick clumps of {gw{Ge{Ye{Gd{gs{x
+and a few young {gt{Gr{ge{Ge{gs{x have managed to penetrate the {yr{Doa{yd{x's surface and taken
+root.  The {yr{Doa{yd{x is overlooked by several {Wh{wo{Dus{we{Ws{x constructed from smoothed
+river {Ws{wt{Don{we{Ws{x; they look like they were abandoned many years ago by their bad
+condition.  An abundance of {Gveg{getat{Gion{x has sprung up around the {Db{wui{Wldi{wng{Ds{x
+and partially hides them behind a leafy green veil.  Some of the {Db{wui{Wldi{wng{Ds{x'
+thatched roofs are relatively intact but the majority of the {Db{wui{Wldi{wng{Ds{x'
+roofs are not visible; they have probably collapsed under their own weight. 
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16023
+D3
+~
+~
+0 0
+0 0 16025
+S
+#16025
+{cA Wide Road{x~
+A multitude of youthful {gt{Gr{ge{Ge{gs{x, leafy shrubs and {yb{mr{yambl{me{ys{x have sprouted up
+in between the {Db{wui{Wldi{wng{Ds{x of an abandoned {cs{wet{Wt{wle{Wm{wen{ct{x.  There is a wide muddy
+{yt{Dr{wa{Dc{yk{x that cuts its way east/west through the middle of the {cv{wil{Wl{wag{ce{x; the
+{yr{Doa{yd{x's surface is strewn with patches of {gw{Ge{Ye{Gd{gs{x, {Dpo{wt{Who{wl{Des{x and gnarled {gt{Gr{ge{Ge{x
+{yr{wo{yo{wt{ys{x.  A much narrower {ys{Dt{wre{De{yt{x leads away to the north from this point but
+that {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x is in as much disrepair as the main {yr{Doa{yd{x.  A few
+structures constructed from rounded river {Ws{wt{Don{we{Ws{x can be seen from this point
+including a couple of {Db{wui{Wldi{wng{Ds{x that still have their original thatched
+roofs intact.  One large {Db{wui{Wld{win{Dg{x on the south side of the {yr{Doa{yd{x stands out
+from the rest for it is cubic in shape and overlooks a very large clearing. 
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16044
+D1
+~
+~
+0 0
+0 0 16024
+D2
+~
+~
+4096 4096
+0 0 16082
+D3
+~
+~
+0 0
+0 0 16026
+S
+#16026
+{cA Wide Road{x~
+This is a {wbro{wad{x muddy {yt{Dr{wa{Dc{yk{x that runs east/west through the center of a
+large {cv{wil{Wl{wag{ce{x that is surrounded by an area of dense {gw{Goo{gdl{Gan{gd{x.  The {yr{Doa{yd{x
+looks neglected; small clumps of {gw{Ge{Ye{Gd{gs{x and a few saplings have managed to
+break through the {yr{Doa{yd{x's surface and taken root.  The {yr{Doa{yd{x is flanked by
+several derelict {Wh{wo{Dus{we{Ws{x that have been built from rounded {Ws{wt{Don{we{Ws{x.  A
+profusion of {gi{Gv{gy{x and {yb{mr{yambl{me{ys{x has grown between the {Wh{wo{Dus{we{Ws{x, shrouding the
+{Db{wui{Wldi{wng{Ds{x in a twisted mass of {gf{Gl{Yo{Gr{ga{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16025
+D3
+~
+~
+0 0
+0 0 16027
+S
+#16027
+{cA Wide Road{x~
+This is a {wbro{wad{x {yr{Doa{yd{Dwa{yy{x that runs through the center of an abandoned
+{cv{wil{Wl{wag{ce{x.  Like the {cv{wil{Wl{wag{ce{x, the {yr{Doa{yd{x looks like it has been neglected for so
+long that large clumps of {gw{Ge{Ye{Gd{gs{x and even a few saplings have managed to
+break through the surface of the dirt {yt{Dr{wa{Dc{yk{x.  Thick {Gveg{getat{Gion{x has grown
+rampant throughout the area and partially obscures the derelict {Ws{wt{Do{wn{We{x {Wh{wo{Dus{we{Ws{x
+that flank the {yr{Doa{yd{x.  The entire {cv{wil{Wl{wag{ce{x is surrounded by a huge {gf{Gores{gt{x;
+some of the {gt{Gr{ge{Ge{gs{x clearly dwarf the {Db{wui{Wldi{wng{Ds{x of the {cv{wil{Wl{wag{ce{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16026
+D3
+~
+~
+0 0
+0 0 16028
+S
+#16028
+{cA Wide Road{x~
+A mass of young saplings, shrubs and {yb{mr{yambl{me{ys{x have sprouted up around
+this apparently abandoned {cs{wet{Wt{wle{Wm{wen{ct{x.  There is a narrow muddy {yt{Dr{wa{Dc{yk{x that
+leads north/south through the {cv{wil{Wl{wag{ce{x whilst a much wider {ys{Dt{wre{De{yt{x leads away
+to the east from this point; both of the {yt{Dh{wor{Do{yugh{Df{war{De{ys{x' surfaces are strewn
+with an obstacle course of {gw{Ge{Ye{Gd{gs{x, {Dpo{wt{Who{wl{Des{x and gnarled {gt{Gr{ge{Ge{x {yr{wo{yo{wt{ys{x.  A few
+structures built from smoothed river {Ws{wt{Don{we{Ws{x can be seen from this point but
+there is one particularly large {Db{wui{Wld{win{Dg{x on the west side of the {yr{Doa{yd{x that
+stands out from the rest of the smaller {Wh{wo{Dus{we{Ws{x.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16051
+D1
+~
+~
+0 0
+0 0 16027
+D2
+~
+~
+0 0
+0 0 16049
+D3
+~
+~
+4096 4096
+0 0 16064
+S
+#16029
+{cA Narrow Street{x~
+This is a disused {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x that twists and turns through a large, yet
+deserted {cv{wil{Wl{wag{ce{x.  The muddy {yr{Doa{yd{x bends sharply at this point before it
+joins a much wider {yr{Doa{yd{Dwa{yy{x to the south.  A couple of derelict {Db{wui{Wldi{wng{Ds{x are
+visible amongst the leafy {gund{Gergro{gwth{x that covers this area so thickly.  The
+{Db{wui{Wldi{wng{Ds{x were constructed from smooth {Ws{wt{Do{wn{We{x but their roofs and much of
+their {ywo{Do{ydw{Do{yrk{x has rotted away over time leaving only small remnants.  
+~
+0
+0 3
+D0
+~
+~
+4231 4231
+2 16026 16093
+D1
+~
+~
+0 0
+0 0 16030
+D2
+~
+~
+0 0
+0 0 16020
+S
+#16030
+{cA Narrow Street{x~
+This is a narrow {yr{Doa{yd{Dwa{yy{x that meanders through a large, yet apparently
+abandoned {cs{wet{Wt{wle{Wm{wen{ct{x.  Like the {cv{wil{Wl{wag{ce{x, the {yr{Doa{yd{x looks like it has been
+neglected for so long that large clumps of {gw{Ge{Ye{Gd{gs{x and even a few saplings
+have managed to take root and break through the surface of the dirt {yt{Dr{wa{Dc{yk{x. 
+Thick foliage has grown widespread throughout this area, partially obscuring
+the derelict {Ws{wt{Do{wn{We{x {Wh{wo{Dus{we{Ws{x that flank the {yr{Doa{yd{x; the {Db{wui{Wldi{wng{Ds{x roofs and much
+of their {ywo{Do{ydw{Do{yrk{x has perished over the years leaving only small remnants.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16031
+D3
+~
+~
+0 0
+0 0 16029
+S
+#16031
+{cA Narrow Street{x~
+Young {gt{Gr{ge{Ge{gs{x, shrubs and {yb{mr{yambl{me{ys{x have sprouted up in between the
+{Db{wui{Wldi{wng{Ds{x of this seemingly abandoned {cv{wil{Wl{wag{ce{x.  The {cs{wet{Wt{wle{Wm{wen{ct{x is surrounded
+by a densely populated {gf{Gores{gt{x that is much older in appearance than the
+{gt{Gr{ge{Ge{gs{x that grow inside the {cv{wil{Wl{wag{ce{x's boundaries.  There is a narrow {yt{Dr{wa{Dc{yk{x
+made of hard packed mud that cuts its way north/south through the
+{cs{wet{Wt{wle{Wm{wen{ct{x; the {yr{Doa{yd{x's surface is strewn with patches of {gw{Ge{Ye{Gd{gs{x, {Dpo{wt{Who{wl{Des{x and
+the occasional {gt{Gr{ge{Ge{x root.  There are a couple of derelict {Db{wui{Wldi{wng{Ds{x are
+visible at this point amongst the leafy {gund{Gergro{gwth{x that covers this area so
+thickly.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16032
+D1
+~
+~
+4231 4231
+2 16026 16094
+D2
+~
+~
+0 0
+0 0 16030
+S
+#16032
+{cA Broken Bridge{x~
+This is a narrow mud {yt{Dr{wa{Dc{yk{x that runs north/south through a large {cv{wil{Wl{wag{ce{x
+that is surrounded by a dark {gf{Gores{gt{x.  Thick clumps of {gw{Ge{Ye{Gd{gs{x and a few young
+{gt{Gr{ge{Ge{gs{x have managed to break through the {yr{Doa{yd{x's surface and taken root.  The
+{yr{Doa{yd{x is split in two by a shallow {cs{Ctrea{cm{x; the large pebbles that have been
+deposited along the bed of the {cs{Ctrea{cm{x suggest that this {cw{Cat{cer{Cwa{cy{x was much
+wider and faster flowing in the past.  There was once a {yw{Do{yod{De{yn{x {yb{Dr{yid{Dg{ye{x
+spanning the {cw{Cat{cer{Cwa{cy{x but now only the {Ws{wt{Do{wn{We{x foundations and some fragments
+of {gw{Goo{gd{x from the crossing remain.  The {yr{Doa{yd{x is flanked by a couple of {Wh{wo{Dus{we{Ws{x
+that have been constructed from smoothed river {Ws{wt{Don{we{Ws{x but look like they
+were abandoned many years ago by their dilapidated condition.  A profusion
+of {Gveg{getat{Gion{x has sprung up around the {Db{wui{Wldi{wng{Ds{x, partially hiding them
+behind a leafy green veil.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16033
+D2
+~
+~
+0 0
+0 0 16031
+S
+#16033
+{cA Narrow Street{x~
+This is a narrow {yr{Doa{yd{Dwa{yy{x that runs through an abandoned {cv{wil{Wl{wag{ce{x.  Like
+the {cv{wil{Wl{wag{ce{x, the {yr{Doa{yd{x appears to have been neglected for so long that large
+clumps of {gw{Ge{Ye{Gd{gs{x have managed to break through the surface of the dirt {yt{Dr{wa{Dc{yk{x.
+Thick foliage has grown widespread throughout the area, partially obscuring
+the derelict {Ws{wt{Do{wn{We{x {Wh{wo{Dus{we{Ws{x which flank the rough {yr{Doa{yd{x.  The entire {cv{wil{Wl{wag{ce{x is
+surrounded by an enormous {gf{Gores{gt{x; some of the {gt{Gr{ge{Ge{gs{x clearly dwarf the
+{Db{wui{Wldi{wng{Ds{x and look much older than the {gw{Ge{Ye{Gd{gs{x and saplings that grow within
+the {cv{wil{Wl{wag{ce{x boundaries.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16034
+D1
+~
+~
+4359 4359
+2 16026 16091
+D2
+~
+~
+0 0
+0 0 16032
+S
+#16034
+{cA Narrow Street{x~
+This is a narrow {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x that winds through a large, yet apparently
+deserted {cs{wet{Wt{wle{Wm{wen{ct{x.  The {yr{Doa{yd{x is as neglected in appearance as the rest of
+the {cv{wil{Wl{wag{ce{x; large clumps of {gw{Ge{Ye{Gd{gs{x and even a few saplings have managed to
+take root and break through the surface of the {yr{Doa{yd{x.  The {yr{Doa{yd{x is also
+flanked by a couple of derelict {Ws{wt{Do{wn{We{x {Wh{wo{Dus{we{Ws{x that look like they were
+abandoned many years ago by their dilapidated condition.  There is a
+profusion of {Gveg{getat{Gion{x which has sprung up around the {Db{wui{Wldi{wng{Ds{x, partially
+hiding them behind a leafy green veil.  
+~
+0
+0 3
+D2
+~
+~
+0 0
+0 0 16033
+D3
+~
+~
+0 0
+0 0 16035
+S
+#16035
+{cA Broken Bridge{x~
+This is a narrow mud {yt{Dr{wa{Dc{yk{x that runs east/west through a large, yet
+deserted {cv{wil{Wl{wag{ce{x.  The {yr{Doa{yd{x is split in two by a shallow {cs{Ctrea{cm{x; the large
+pebbles that have been deposited along the bed of the {cs{Ctrea{cm{x suggest that
+the {cw{Cat{cer{Cwa{cy{x was much broader and faster flowing in the past.  There was
+once a {yw{Do{yod{De{yn{x {yb{Dr{yid{Dg{ye{x spanning the {cw{Cat{cer{Cwa{cy{x but now only the gray {Ws{wt{Do{wn{We{x
+foundations and some fragments of {gw{Goo{gd{x from the crossing remain.  The {yr{Doa{yd{x
+is flanked by a couple of abandoned {Wh{wo{Dus{we{Ws{x that were built from smoothed
+river {Ws{wt{Don{we{Ws{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16034
+D3
+~
+~
+0 0
+0 0 16036
+S
+#16036
+{cA Narrow Street{x~
+A profusion of foliage has sprouted up in between the {Db{wui{Wldi{wng{Ds{x of an
+apparently abandoned {cv{wil{Wl{wag{ce{x.  The {cs{wet{Wt{wle{Wm{wen{ct{x is surrounded by a densely
+populated {gf{Gores{gt{x that is much older in appearance than the {gt{Gr{ge{Ge{gs{x that grow
+within the {cv{wil{Wl{wag{ce{x's boundaries.  There is a muddy {yt{Dr{wa{Dc{yk{x leading through the
+{cs{wet{Wt{wle{Wm{wen{ct{x but the {yr{Doa{yd{x's surface is strewn with patches of {gw{Ge{Ye{Gd{gs{x, {Dpo{wt{Who{wl{Des{x
+and the occasional {gt{Gr{ge{Ge{x root.  A couple of derelict {Db{wui{Wldi{wng{Ds{x flank the
+{ys{Dt{wre{De{yt{x at this point although not much of these structures remain apart from
+the {Dm{was{Wo{wnr{Dy{x.  
+~
+0
+0 3
+D0
+~
+~
+4231 4231
+2 16026 16084
+D1
+~
+~
+0 0
+0 0 16035
+D3
+~
+~
+0 0
+0 0 16037
+S
+#16037
+{cA Narrow Street{x~
+This is a narrow muddy {yt{Dr{wa{Dc{yk{x that winds its way east/west through the
+{cv{wil{Wl{wag{ce{x that appears to be deserted.  A vast number of young saplings,
+{yb{mr{yambl{me{ys{x and shrubs have sprouted up in between and around the {Db{wui{Wldi{wng{Ds{x
+that flank the {yr{Doa{yd{x whilst {gi{Gv{gy{x covers the majority of their exterior walls. 
+All of the structures have been built from smoothed river {Ws{wt{Don{we{Ws{x but there
+is one particularly large {Db{wui{Wld{win{Dg{x on the south side of the {yr{Doa{yd{x that stands
+out from the rest of the smaller {Wh{wo{Dus{we{Ws{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16036
+D2
+~
+~
+4096 4096
+0 0 16062
+D3
+~
+~
+0 0
+0 0 16038
+S
+#16038
+{cA Narrow Street{x~
+Small young {gt{Gr{ge{Ge{gs{x and shrubs have sprouted up in between the {Db{wui{Wldi{wng{Ds{x of
+this seemingly abandoned {cv{wil{Wl{wag{ce{x.  The {cs{wet{Wt{wle{Wm{wen{ct{x is surrounded by a densely
+populated {gf{Gores{gt{x that is much older in appearance than the {gt{Gr{ge{Ge{gs{x that grow
+within the {cv{wil{Wl{wag{ce{x.  There is a narrow {yt{Dr{wa{Dc{yk{x made of hard packed mud cuts
+its way through the old {cs{wet{Wt{wle{Wm{wen{ct{x.  The old yet deep groove marks of wagons
+are visible beneath the crop of {gw{Ge{Ye{Gd{gs{x that have virtually taken over whole
+of the {yr{Doa{yd{x's surface.  Flanking the {yr{Doa{yd{x are several derelict {Wh{wo{Dus{we{Ws{x made
+of gray {Ws{wt{Do{wn{We{x that appear to be in a similar state of disrepair as the
+{yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16037
+D2
+~
+~
+4231 4231
+2 16026 16088
+D3
+~
+~
+0 0
+0 0 16039
+S
+#16039
+{cA Narrow Street{x~
+A densely packed {gf{Gores{gt{x gives way to a large {cv{wil{Wl{wag{ce{x that looks like it
+was abandoned many years ago.  At this point in the {cv{wil{Wl{wag{ce{x are a few
+{Db{wui{Wldi{wng{Ds{x constructed from smoothed river {Ws{wt{Don{we{Ws{x that are partially hidden
+amongst the widespread foliage.  The faint remnants of a {ys{Dt{wre{De{yt{x also lay
+here, a muddy narrow {yt{Dr{wa{Dc{yk{x leading east/west through the deserted {cs{wet{Wt{wle{Wm{wen{ct{x
+that has been marred with clumps of {gw{Ge{Ye{Gd{gs{x and large rocks.  
+~
+0
+0 3
+D0
+~
+~
+4359 4359
+2 16026 16095
+D1
+~
+~
+0 0
+0 0 16038
+D3
+~
+~
+0 0
+0 0 16040
+S
+#16040
+{cA Narrow Street{x~
+This is a narrow {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x that winds through a large, yet apparently
+deserted {cv{wil{Wl{wag{ce{x.  Thick {Gveg{getat{Gion{x has grown widespread throughout the
+area, unchecked by years of neglect.  The {yr{Doa{yd{x is in an equally bad
+condition as the rest of the rundown {cs{wet{Wt{wle{Wm{wen{ct{x; large clumps of {gw{Ge{Ye{Gd{gs{x and
+young saplings have managed to take root and break through the {yr{Doa{yd{x's
+surface.  The {yr{Doa{yd{x is also overlooked by a derelict {Ws{wt{Do{wn{We{x {Wh{wo{Dus{We{x that seems
+to have been abandoned many years ago by its shabby state.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16039
+D2
+~
+~
+0 0
+0 0 16041
+S
+#16041
+{cA Narrow Street{x~
+A vast area of {gf{Gores{gt{x gives way to a {cv{wil{Wl{wag{ce{x that looks like it was
+deserted many years ago.  Thick foliage has grown widespread throughout the
+area, unchecked by years of neglect.  The faint remnants of a {ys{Dt{wre{De{yt{x lay
+here, a narrow muddy {yt{Dr{wa{Dc{yk{x leading north/south through the {cs{wet{Wt{wle{Wm{wen{ct{x that
+has been spoiled by clumps of {gw{Ge{Ye{Gd{gs{x and large rocks along the route.  From
+this point a dilapidated old {Wh{wo{Dus{We{x that looks like it is almost about to
+collapse can be seen through the thickly growing {gf{Gl{Yo{Gr{ga{x.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16040
+D2
+~
+~
+0 0
+0 0 16042
+S
+#16042
+{cA Narrow Street{x~
+This is an abandoned {cv{wil{Wl{wag{ce{x that has been overgrown with {gw{Ge{Ye{Gd{gs{x, {yb{mr{yambl{me{ys{x
+and young saplings.  The whole {cs{wet{Wt{wle{Wm{wen{ct{x is surrounded by a densely
+populated {gf{Gores{gt{x that is much older in appearance than the {gt{Gr{ge{Ge{gs{x that grow
+within the {cv{wil{Wl{wag{ce{x.  The remnants of a {ys{Dt{wre{De{yt{x can be seen here leading
+north/south through the {cs{wet{Wt{wle{Wm{wen{ct{x; the old yet deep groove marks of wagons
+are still visible beneath the crop of {gw{Ge{Ye{Gd{gs{x that have virtually taken over
+the entire {yr{Doa{yd{x's surface.  A couple of derelict {Db{wui{Wldi{wng{Ds{x overlook the
+{ys{Dt{wre{De{yt{x at this point although there is very little of these structures
+remaining apart from the {Dm{was{Wo{wnr{Dy{x.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16041
+D2
+~
+~
+0 0
+0 0 16043
+D3
+~
+~
+4359 4359
+2 16026 16090
+S
+#16043
+{cA Narrow Street{x~
+A vast area of {gw{Goo{gdl{Gan{gd{x gives way to a {cv{wil{Wl{wag{ce{x that looks like it was
+deserted many years ago.  Thick {Gveg{getat{Gion{x has grown widespread throughout
+the area, unchecked by years of neglect.  The faint remnants of a {ys{Dt{wre{De{yt{x lay
+here, a narrow muddy {yt{Dr{wa{Dc{yk{x leading north/south through the {cs{wet{Wt{wle{Wm{wen{ct{x,
+spoiled by clumps of {gw{Ge{Ye{Gd{gs{x and large rocks along the route.  At this point
+along the {ys{Dt{wre{De{yt{x is a {Wh{wo{Dus{We{x that is partially hidden behind the thickly
+growing foliage; the {Db{wui{Wld{win{Dg{x looks as if it had been abandoned many years
+ago by its shabby state.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16042
+D2
+~
+~
+0 0
+0 0 16044
+S
+#16044
+{cA Narrow Street{x~
+A vast area of {gf{Gores{gt{x gives way to a {cv{wil{Wl{wag{ce{x that looks like it was
+deserted many years ago.  Dense {gund{Gergro{gwth{x has been allowed to grow
+widespread throughout the area, unchecked by years of neglect.  There is a
+narrow muddy {yt{Dr{wa{Dc{yk{x cutting its way through the thick {Gveg{getat{Gion{x, joining a
+much wider {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x to the south.  A couple of derelict {Db{wui{Wldi{wng{Ds{x
+flanking the {yt{Dr{wa{Dc{yk{x are visible from this point amongst the leafy
+{gund{Gergro{gwth{x.  The {Db{wui{Wldi{wng{Ds{x were constructed mainly from smoothed river
+{Ws{wt{Don{we{Ws{x but their roofs and much of their {ywo{Do{ydw{Do{yrk{x has rotted away over time
+leaving only small remnants.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16043
+D1
+~
+~
+4359 4359
+2 16026 16085
+D2
+~
+~
+0 0
+0 0 16025
+S
+#16045
+{cA Narrow Street{x~
+At first this appears to be an area of {gw{Goo{gdl{Gan{gd{x mainly consisting of
+young {gd{ye{gc{yi{gd{yu{go{yu{gs{x {gt{Gr{ge{Ge{gs{x amongst a tangle of {yb{mr{yambl{me{ys{x and briars.  The land
+generally slopes downwards to the south at a slight gradient where the
+{Gveg{getat{Gion{x grows more thickly.  Concealed behind the {gund{Gergro{gwth{x are a
+couple of {Wh{wo{Dus{we{Ws{x that look like they were abandoned many years ago by their
+poor condition.  The {Db{wui{Wldi{wng{Ds{x were constructed mainly from smoothed river
+{Ws{wt{Don{we{Ws{x but their roofs and much of their {ywo{Do{ydw{Do{yrk{x has rotted away over time
+leaving only small remnants.  The {Db{wui{Wldi{wng{Ds{x overlook a narrow unpaved {ys{Dt{wre{De{yt{x
+that has been overgrown with {gw{Ge{Ye{Gd{gs{x; the {yr{Doa{yd{x joins a much wider {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x
+to the north.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16022
+D2
+~
+~
+0 0
+0 0 16046
+S
+#16046
+{cA Narrow Street{x~
+These are the remains of a steep unpaved {ys{Dt{wre{De{yt{x that twists its way
+north/south through a large {cv{wil{Wl{wag{ce{x.  The {cs{wet{Wt{wle{Wm{wen{ct{x looks like it was
+abandoned many years ago for there are so many {gw{Ge{Ye{Gd{gs{x and {yb{mr{yambl{me{ys{x are
+growing here in abundance, virtually taking over the area.  Snare-like {gt{Gr{ge{Ge{x
+{yr{wo{yo{wt{ys{x protrude from the {yr{Doa{yd{x's surface making the {ytr{Da{yil{x a hazardous one to
+traverse.  One or two saplings have found niches within the maze of
+{Gveg{getat{Gion{x and have sprouted up between the derelict {Db{wui{Wldi{wng{Ds{x.  The
+{Db{wui{Wldi{wng{Ds{x were constructed mainly from smoothed {Ws{wt{Don{we{Ws{x but their roofs have
+rotted away over time leaving only small remnants.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16045
+D1
+~
+~
+4231 4231
+2 16026 16098
+D2
+~
+~
+0 0
+0 0 16047
+S
+#16047
+{cA Narrow Street{x~
+A mass of young saplings, shrubs and {yb{mr{yambl{me{ys{x have sprouted up throughout
+this abandoned {cs{wet{Wt{wle{Wm{wen{ct{x.  The remains of a steep unpaved {ys{Dt{wre{De{yt{x twisting
+its way north/south through the {cv{wil{Wl{wag{ce{x are visible from this point beneath
+the leafy {Gveg{getat{Gion{x covers the area.  A couple of structures built from
+smoothed river {Ws{wt{Don{we{Ws{x can also be seen from this point but there is one
+particularly large {Db{wui{Wld{win{Dg{x on the west side of the {yr{Doa{yd{x that stands out
+from the rest of the smaller {Wh{wo{Dus{we{Ws{x.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16046
+D2
+~
+~
+0 0
+0 0 16048
+D3
+~
+~
+4096 4096
+0 0 16077
+S
+#16048
+{cA Narrow Street{x~
+These are the remains of a narrow unpaved {ys{Dt{wre{De{yt{x that winds its way
+upwards to the north through a large {cv{wil{Wl{wag{ce{x.  The area appears to have been
+abandoned many years ago; {gw{Ge{Ye{Gd{gs{x and {yb{mr{yambl{me{ys{x are growing in abundance and
+taken over much of the area.  One or two saplings have found niches within
+the maze of {Gveg{getat{Gion{x and have sprouted up between the derelict {Db{wui{Wldi{wng{Ds{x. 
+The {Db{wui{Wldi{wng{Ds{x were constructed mainly from smoothed river {Ws{wt{Don{we{Ws{x but their
+roofs and much of their {ywo{Do{ydw{Do{yrk{x has rotted away over time leaving only
+small remnants.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16047
+S
+#16049
+{cA Narrow Street{x~
+At first this appears to be an area of {gf{Gores{gt{x consisting mainly of young
+saplings struggling against an almost overwhelming tangle of {yb{mr{yambl{me{ys{x and
+briars.  The land slopes gently downwards to the south towards an area where
+the {gf{Gl{Yo{Gr{ga{x appears to be growing more thickly.  Obscured behind the
+{gund{Gergro{gwth{x is a {Wh{wo{Dus{We{x that looks like it was abandoned many years ago by
+its appalling state.  The {Db{wui{Wld{win{Dg{x was constructed mainly from rounded
+{Ws{wt{Don{we{Ws{x but its roofs and much of its {ywo{Do{ydw{Do{yrk{x has decayed over time leaving
+only small remnants.  The {Db{wui{Wld{win{Dg{x flanks a narrow unpaved {ys{Dt{wre{De{yt{x that has
+been scarred with {Dpo{wt{Who{wl{Des{x and overgrown with {gw{Ge{Ye{Gd{gs{x; the {yr{Doa{yd{x joins a much
+wider {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x to the north.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16028
+D2
+~
+~
+0 0
+0 0 16050
+S
+#16050
+{cA Narrow Street{x~
+These are the remains of a narrow unpaved {ys{Dt{wre{De{yt{x that slopes gently
+upwards to the north through a large {cv{wil{Wl{wag{ce{x.  The area looks like it was
+deserted many years ago; {gw{Ge{Ye{Gd{gs{x and {yb{mr{yambl{me{ys{x are growing in abundance and
+taken over much of the area.  Several saplings have found niches within the
+labyrinth of {gund{Gergro{gwth{x and have sprouted up between the empty shops and
+{Wh{wo{Dus{we{Ws{x.  The {Db{wui{Wldi{wng{Ds{x were built mainly from rounded {Ws{wt{Don{we{Ws{x but their roofs
+and much of their {ywo{Do{ydw{Do{yrk{x has decayed over the years leaving only small
+remnants.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16049
+D1
+~
+~
+12327 12327
+2 16016 16086
+S
+#16051
+{cA Narrow Street{x~
+At first this appears to be an area of {gf{Gores{gt{x consisting mainly of young
+saplings struggling against an almost overwhelming tangle of {gw{Ge{Ye{Gd{gs{x and
+{yb{mr{yambl{me{ys{x.  The land slopes gently upwards to the north towards an area where
+the {gf{Gl{Yo{Gr{ga{x appears to be growing more thickly.  Partially hidden amongst the
+{gund{Gergro{gwth{x is a {Db{wui{Wld{win{Dg{x that looks like it was deserted many years ago by
+its dreadful condition.  The {Db{wui{Wld{win{Dg{x was constructed mainly from rounded
+{Ws{wt{Don{we{Ws{x but its roofs and much of its {ywo{Do{ydw{Do{yrk{x has decomposed over time
+leaving very little remains.  The {Db{wui{Wld{win{Dg{x overlooks the remnants of an
+unpaved {ys{Dt{wre{De{yt{x that is scarred with {Dpo{wt{Who{wl{Des{x and overgrown with wild plants;
+the {yr{Doa{yd{x joins a much wider {yt{Dh{wor{Do{yug{Dh{wfa{Dr{ye{x to the south.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16052
+D2
+~
+~
+0 0
+0 0 16028
+S
+#16052
+{cA Narrow Street{x~
+The remains of a large {cv{wil{Wl{wag{ce{x can be seen amongst the dense leafy
+{Gveg{getat{Gion{x that grows in this area.  The remnants of an unpaved but well
+used {ys{Dt{wre{De{yt{x are still visible beneath the shroud of {gw{Ge{Ye{Gd{gs{x and {gb{Gr{ga{Gc{gk{Ge{gn{x.  A
+couple of {Db{wui{Wldi{wng{Ds{x can also be seen within the tangled mass of {gf{Gl{Yo{Gr{ga{x; the
+{Dm{was{Wo{wnr{Dy{x of the {Db{wui{Wldi{wng{Ds{x appears to be intact but much of the {ywo{Do{ydw{Do{yrk{x,
+roofing and window panes are either damaged or missing.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 16053
+D2
+~
+~
+0 0
+0 0 16051
+D3
+~
+~
+4359 4359
+2 16026 16089
+S
+#16053
+{cA Narrow Street{x~
+Maybe at first glance this appears to be an area of {gw{Goo{gdl{Gan{gd{x consisting
+mainly of saplings struggling against an almost overwhelming jumble of {gw{Ge{Ye{Gd{gs{x
+and {yb{mr{yambl{me{ys{x.  A closer inspection of the area reveals the remains of a
+large {cv{wil{Wl{wag{ce{x partially concealed by the dense leafy {Gveg{getat{Gion{x.  The
+remnants of winding, unpaved {ys{Dt{wre{De{yt{x are noticeable beneath the blanket of
+{gb{Gr{ga{Gc{gk{Ge{gn{x and {gw{Ge{Ye{Gd{gs{x.  A single {Ws{wt{Do{wn{We{x {Db{wui{Wld{win{Dg{x can also be seen within the
+tangled mass of {gf{Gl{Yo{Gr{ga{x; the {Dm{was{Wo{wnr{Dy{x of the {Db{wui{Wld{win{Dg{x is intact but much of the
+{ywo{Do{ydw{Do{yrk{x, roofing and window panes are either damaged or missing.  
+~
+0
+0 3
+D1
+~
+~
+4615 4615
+2 16026 16096
+D2
+~
+~
+0 0
+0 0 16052
+D3
+~
+~
+0 0
+0 0 16054
+S
+#16054
+{cA Narrow Street{x~
+Young {gt{Gr{ge{Ge{gs{x and shrubs have sprouted up in between the {Db{wui{Wldi{wng{Ds{x of this
+deserted {cv{wil{Wl{wag{ce{x.  The {cs{wet{Wt{wle{Wm{wen{ct{x is surrounded by a densely populated
+{gf{Gores{gt{x that is much older in appearance than the {gt{Gr{ge{Ge{gs{x that grow within the
+{cv{wil{Wl{wag{ce{x.  The remnants of an unpaved but well used {ys{Dt{wre{De{yt{x are visible
+beneath the leafy cloak of {gw{Ge{Ye{Gd{gs{x and {gb{Gr{ga{Gc{gk{Ge{gn{x.  A couple of derelict shops
+can also be seen within the tangled maze of {gf{Gl{Yo{Gr{ga{x; the {Dm{was{Wo{wnr{Dy{x of the
+{Db{wui{Wldi{wng{Ds{x appears to be undamaged but much of the {ywo{Do{ydw{Do{yrk{x, roofing and
+window panes are either missing or broken.  
+~
+0
+0 3
+D0
+~
+~
+4359 4359
+2 16026 16092
+D1
+~
+~
+0 0
+0 0 16053
+D3
+~
+~
+0 0
+0 0 16055
+S
+#16055
+{cA Narrow Street{x~
+Perhaps at first glance this appears to be a section of {gw{Goo{gdl{Gan{gd{x
+consisting mostly of young {gt{Gr{ge{Ge{gs{x struggling against an almost overpowering
+tangle of {gw{Ge{Ye{Gd{gs{x.  A closer inspection of the area reveals the remains of a
+large {cv{wil{Wl{wag{ce{x partially concealed by the dense {gund{Gergro{gwth{x.  The remnants of
+a narrow unpaved {ys{Dt{wre{De{yt{x whose surface is spoiled by {Dpo{wt{Who{wl{Des{x and large rocks
+are noticeable beneath the {gund{Gergro{gwth{x.  One or two derelict shops
+overlooking the {ys{Dt{wre{De{yt{x can be seen through the overgrown {gw{Ge{Ye{Gd{gs{x; the
+{Dst{won{We{wwo{Drk{x of the {Db{wui{Wldi{wng{Ds{x seems to be undamaged but much of the roofing,
+{ywo{Do{ydw{Do{yrk{x and window panes are either damaged or missing.  
+~
+0
+0 3
+D0
+~
+~
+4615 4615
+2 16026 16099
+D1
+~
+~
+0 0
+0 0 16054
+D3
+~
+~
+0 0
+0 0 16056
+S
+#16056
+{cA Narrow Street{x~
+These are the remains of a narrow unpaved {ys{Dt{wre{De{yt{x that meanders eastwards
+through a large {cv{wil{Wl{wag{ce{x.  The area appears to have been abandoned many years
+ago; {gw{Ge{Ye{Gd{gs{x and {yb{mr{yambl{me{ys{x are growing in abundance and taken over much of the
+area.  A few derelict structures can be seen from this point; the {Dm{was{Wo{wnr{Dy{x of
+the {Db{wui{Wldi{wng{Ds{x appears to be undamaged but much of the {ywo{Do{ydw{Do{yrk{x, roofing and
+window panes are either missing or broken.  One particularly large {Db{wui{Wld{win{Dg{x
+on the south side of the {ys{Dt{wre{De{yt{x stands out from the all of the others; it
+may once have been a tavern or an inn.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 16055
+D2
+~
+~
+4096 4096
+0 0 16069
+S
+#16057
+{mAn Abandoned Inn{x~
+This large oblong room once served as common room to an inn or tavern. 
+All that remains is the bar, a wide {Wf{wire{Dp{wlac{We{x and a few items of furniture
+covered in {Wco{wb{Ww{we{Wbs{x.  {DM{was{Wo{wnr{Dy{x which has become loose over time and fallen out
+has left large gaping {Dholes{x in the walls.  Swirling clouds of {Dd{wus{Dt{x hang in
+the air, creating random yet intricate patterns within the patches of {Ds{wh{Da{wd{Do{ww{x
+and {Wl{wi{Wg{wh{Wt{x within this room.  There are two exits from this room, a small
+door to the north and a much larger door to the south.  
+~
+0
+ABD 0
+E
+furniture~
+Broken tables and benches litter the common room.  
+~
+E
+wide fireplace~
+A wide fireplace made of rounded river stones has been built along the
+western end of the common room.  There are several gaps in the fireplace
+where stones have become loose over time and fallen away.  
+~
+E
+wooden bar~
+A long wooden bar stands at the eastern end of the common room.  Apart
+from a thick layer of dust the only items of interest upon the bar are two
+small casks.  
+~
+D0
+~
+~
+3 3
+1 0 16058
+D2
+~
+~
+4231 4231
+2 16025 16021
+S
+#16058
+{mA Hallway{x~
+This is the eastern end of a long windowless corridor.  The {Db{wui{Wld{win{Dg{x
+looks like it was abandoned for many years by its poor condition.  Dust
+covers much of the floor and {Wco{wb{Ww{we{Wbs{x hang like veils from the {yw{Do{yod{De{yn{x support
+beams.  {DM{was{Wo{wnr{Dy{x which has become loose over time and fallen out has left
+large gaping {Dholes{x in the walls.  There are several doorways along the
+corridor although some of the doors are barely left hanging upon their {rr{yu{Ds{yt{ry{x
+hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+263 263
+2 16025 16061
+D2
+~
+~
+3 3
+1 0 16057
+D3
+~
+~
+0 0
+0 0 16059
+S
+#16059
+{mA Hallway{x~
+This is the western end of a long windowless corridor.  The {Db{wui{Wld{win{Dg{x
+appears to have been abandoned for many years by its appalling state.  Dust
+and debris litter the floor whilst {Wco{wb{Ww{we{Wbs{x dangle like silk veils from the
+room's {yw{Do{yod{De{yn{x beams.  There are many {Dgaps{x along the wall of the corridor
+where the {Dst{won{We{wwo{Drk{x has become loose over time and fallen out.  There are
+several doorways along the corridor although some of the doors are barely
+left hanging upon their {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+3 3
+1 0 16060
+D1
+~
+~
+0 0
+0 0 16058
+S
+#16060
+{mA Kitchen{x~
+This room was once used as a kitchen but all that now remains are the
+cupboards, drawers and a few other items of large furniture.  The room is
+almost completely bare; any items that were small and of significant value
+they were either taken by the original occupants of the {Db{wui{Wld{win{Dg{x or were
+looted.  There are several {Dgaps{x in the walls of the kitchen and the
+{Wf{wire{Dp{wlac{We{x where the {Dbr{wic{Wk{wwo{Drk{x has crumbled away over time and fallen out. 
+Also visible beyond the {Dd{wust{Dy{x veils of {Wco{wb{Ww{we{Wbs{x are several doorways although
+the doors hang precariously from their {rr{yu{Ds{rt{Di{yn{rg{x hinges.  
+~
+0
+ABD 0
+E
+furniture~
+A small table and a couple of rickety wooden stools is all that remains
+of the kitchen furniture.  
+~
+E
+wide fireplace~
+A wide fireplace made of rounded river stones has been built along the
+western end of the kitchen.  There are several gaps in the fireplace where
+stones have become loose over time and fallen away.  
+~
+D0
+~
+~
+135 135
+2 16025 16062
+D1
+~
+~
+263 263
+2 16025 16061
+D2
+~
+~
+3 3
+1 0 16059
+S
+#16061
+{mThe Innkeeper's Quarters{x~
+This room was once used as sleeping quarters, probably those of the owner
+of this abandoned establishment.  There are several {Dgaps{x in the walls and
+the {Wf{wire{Dp{wlac{We{x where the {Dbr{wic{Wk{wwo{Drk{x has fallen apart over the years.  The room
+is almost completely bare; any items that were small and of significant
+value they were either taken by the original occupants of the {Db{wui{Wld{win{Dg{x or
+were looted.  A few large items of furniture remain although they are in a
+shoddy state of repair.  A thick layer of {Dd{wus{Dt{x covers the contents of the
+room and a thin veil of {Wco{wb{Ww{we{Wbs{x hangs from almost every possible space.  
+~
+0
+ABD 0
+D2
+~
+~
+263 263
+2 16025 16058
+D3
+~
+~
+263 263
+2 16025 16060
+S
+#16062
+{mA Large Courtyard{x~
+This large rectangular area was once used as a yard for an inn, but now
+the area lies abandoned and neglected.  The hard packed {ye{Da{wr{Dt{yh{x that once was
+a temporary home for carts and wagons is now overgrown by {gw{Ge{Ye{Gd{gs{x.  The area
+is overlooked by two gray {Ws{wt{Do{wn{We{x {Db{wui{Wldi{wng{Ds{x, a rectangular shack to the east
+and a much taller, cube shaped {Db{wui{Wld{win{Dg{x to the south.  Both structures are
+enveloped with a mass of dark green {gi{Gv{gy{x but the leafy {Gveg{getat{Gion{x fails to
+conceal the awful state of the {Dm{was{Wo{wnr{Dy{x beneath it.  
+~
+0
+B 3
+E
+taller cube~
+The cube shaped building on the southern side of the yard appears to be a
+deserted inn.  
+~
+E
+shack~
+The shack on the eastern side of the yard appears to be an abandoned
+stable.  
+~
+D0
+~
+~
+4096 4096
+0 0 16037
+D1
+~
+~
+3 3
+1 0 16063
+D2
+~
+~
+135 135
+2 16025 16060
+S
+#16063
+{mA Stable{x~
+This may have been a thriving stable long ago but now it is just an empty
+{Ws{wt{Do{wn{We{x shell that has been left abandoned for many years.  Although the tiled
+roof is relatively intact, there are {Dgaps{x in the walls where the {Ws{wt{Don{we{Ws{x have
+fallen out.  The {yw{Do{yod{De{yn{x structures of the stalls also seem to be intact
+under the thick layer of {Dd{wus{Dt{x and {Wco{wb{Ww{we{Wbs{x that covers them.  A rickety
+{yw{Do{yod{De{yn{x door on the western side of the stable appears to be the only visible
+exit.  
+~
+0
+ABD 0
+D3
+~
+~
+3 3
+1 0 16062
+S
+#16064
+{YAn Overgrown Yard{x~
+This large square area was once used as a yard to store wagons and carts
+but now the yard lies deserted and overgrown with {gw{Ge{Ye{Gd{gs{x.  The deep groove
+marks caused by the wheels of many wagons still scar the ground beneath the
+leafy {Gveg{getat{Gion{x that grows here.  Built along the western side of the yard
+is a cubic {Ws{wt{Do{wn{We{x structure which appears to have been an inn.  The majority
+of the {Db{wui{Wld{win{Dg{x's structure appears to be intact apart from the roof which
+is missing.  
+~
+0
+B 3
+E
+inn roof cubic structure~
+Like many of the buildings in the deserted village, this inn was
+constructed from smoothed river stones.  The majority of the structure is
+intact but parts of the woodwork have rotted away.  The roof of the building
+also appears to be missing; the half rotten timber that protrudes from the
+top of the building seems to indicate that original roof thatching has
+rotted away too.  
+~
+D1
+~
+~
+4096 4096
+0 0 16028
+D3
+~
+~
+3 3
+1 0 16065
+D4
+~
+~
+4096 4096
+0 0 16072
+S
+#16065
+{YA Deserted Inn{x~
+Garbage and thick layers of {Dd{wus{Dt{x litter this once grand common room. 
+There is very little in this room that has survived over the years from
+neglect and opportunistic looters; only the bar, a wide {Wf{wire{Dp{wlac{We{x and a few
+items of furniture remain.  The {Dbr{wic{Wk{wwo{Drk{x has become loose over time and
+fallen out in places, leaving large gaping {Dholes{x in the walls.  There are a
+few window panes that have remained intact but the majority of them are
+cracked or smashed completely.  Doors that hang precariously off of their
+{rr{yu{Ds{yt{ry{x hinges mark the exits of this dingy common room.  
+~
+0
+ABD 0
+E
+wide fireplace~
+A wide fireplace made of rounded river stones has been built along the
+southern end of the common room.  There are several gaps in the fireplace
+where stones have become loose over time and fallen away.  
+~
+E
+furniture~
+The majority of the furniture in this room is broken but there are a few
+tables and chairs that have been left intact.  
+~
+D0
+~
+~
+3 3
+1 0 16068
+D1
+~
+~
+3 3
+1 0 16064
+D3
+~
+~
+3 3
+1 0 16066
+S
+#16066
+{YA Hallway{x~
+This is a long yet narrow hallway belonging to a {Db{wui{Wld{win{Dg{x that looks like
+it was deserted for many years by its poor condition.  A thick layer of {Dd{wus{Dt{x
+and grime covers much of the {yw{Do{yod{De{yn{x floorboards whilst {Wco{wb{Ww{we{Wbs{x hang down
+like veils from the support beams.  There are numerous {Dholes{x in the walls of
+the corridor, left by {Dm{was{Wo{wnr{Dy{x that has become loose and fallen out over
+time.  There are several exits along this hallway; each one is marked by a
+rickety {yw{Do{yod{De{yn{x door barely left hanging upon its hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+3 3
+1 0 16067
+D1
+~
+~
+3 3
+1 0 16065
+S
+#16067
+{YA Kitchen{x~
+Long ago this room was once used as a kitchen but now it lies empty and
+abandoned.  All that remains of the original fixtures are the cupboards,
+drawers and a few other items of large furniture; anything small and of
+significant value was probably either taken by the original occupants of the
+{Db{wui{Wld{win{Dg{x or were looted.  Like the rest of this {Db{wui{Wld{win{Dg{x, the kitchen is in
+an appalling condition; there are many {D{D{D{D{D{D{Dgaps{x{x{x{x{x{x{x in the walls of the kitchen and
+the {Wf{wire{Dp{wlac{We{x visible where the {Dst{won{We{wwo{Drk{x has fallen out.  There are several
+{Dgaps{x in{x the walls of the kitchen and the {Wf{wire{Dp{wlac{We{x where the {Dbr{wic{Wk{wwo{Drk{x has
+crumbled away over time and fallen out.  Also visible beyond the gloomy
+veils of {Wco{wb{Ww{we{Wbs{x that hang in abundance in this room are several doorways
+although the doors hang precariously from their {rr{yu{Ds{rt{Di{yn{rg{x hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+3 3
+1 0 16069
+D1
+~
+~
+3 3
+1 0 16068
+D2
+~
+~
+3 3
+1 0 16066
+S
+#16068
+{YA Private Dining Room{x~
+A private dining room lays abandoned underneath a thick layer of {Dd{wus{Dt{x and
+{Wco{wb{Ww{we{Wbs{x.  The room seems strangely bare with only empty shelves and marks
+upon the walls left to hint of what had originally been placed inside the
+room.  The {Db{wui{Wld{win{Dg{x's {Dst{won{We{wwo{Drk{x has become loose over time and fallen out in
+places, leaving large gaping {D{D{D{D{Dho{Dles{x{x{x{x{x in the walls.  A few of the room's window
+panes have remained intact but the majority of them are cracked or smashed
+completely.  There are large {Dho{Dles{x in the ceiling where the {Wp{wl{Wa{ws{Wt{we{Wr{x is
+rotting and revealing the {yl{Da{ythi{Dn{yg{x beneath.  There also appears to be only
+two exits from this room; each one is marked by a door that hangs
+precariously off of its {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D2
+~
+~
+3 3
+1 0 16065
+D3
+~
+~
+3 3
+1 0 16067
+S
+#16069
+{YA Large Area of Muddy Ground{x~
+This square area of muddy ground was once used as a yard to store wagons
+and carts but now the yard lies empty and overgrown with {gw{Ge{Ye{Gd{gs{x.  The area is
+overlooked by two gray {Ws{wt{Do{wn{We{x {Db{wui{Wldi{wng{Ds{x, a rectangular shack to the west and
+a much taller, cube shaped {Db{wui{Wld{win{Dg{x to the south.  Both structures are
+entangled with dark green {gi{Gv{gy{x although the leafy {Gveg{getat{Gion{x fails to conceal
+the awful state of the {Dst{won{We{wwo{Drk{x beneath it.  
+~
+0
+B 3
+D0
+~
+~
+4096 4096
+0 0 16056
+D2
+~
+~
+3 3
+1 0 16067
+D3
+~
+~
+3 3
+1 0 16070
+S
+#16070
+{YAn Abandoned Stable{x~
+This is the northern end of a long {Ws{wt{Do{wn{We{x {Db{wui{Wld{win{Dg{x that was once used as a
+stable.  Although the tiled roof is somewhat undamaged, there are {Dho{Dles{x in
+the walls where the {Ws{wt{Don{we{Ws{x have fallen out.  The {yw{Do{yod{De{yn{x structures of the
+stalls also seem to be unbroken under the thick layer of {Dd{wus{Dt{x and {Wco{wb{Ww{we{Wbs{x
+that envelops them.  Somehow {cw{Ca{Wt{Ce{cr{x has managed to penetrate this area, the
+straw and {ye{Da{wr{Dt{yh{x that once covered the floor of the stable has now been
+turned into an organic mush.  The only visible exit from this stable is a
+wide {yw{Do{yod{De{yn{x door on the eastern side of the {Db{wui{Wld{win{Dg{x.  
+~
+0
+ABD 0
+D1
+~
+~
+3 3
+1 0 16069
+D2
+~
+~
+0 0
+0 0 16071
+S
+#16071
+{YAn Abandoned Stable{x~
+This is the southern end of a long {Ws{wt{Do{wn{We{x {Db{wui{Wld{win{Dg{x that was once used as a
+stable.  Although the tiled roof is fairly intact, there are {Dho{Dles{x in the
+walls where the {Ws{wt{Don{we{Ws{x have fallen out.  The {yw{Do{yod{De{yn{x structures of the stalls
+also seem to be intact under the thick layer of {Wco{wb{Ww{we{Wbs{x and {Dd{wus{Dt{x that covers
+them.  Somehow {cw{Ca{Wt{Ce{cr{x has managed to penetrate this area, the straw and {ye{Da{wr{Dt{yh{x
+that once covered the floor of the stable has now been turned into a
+stinking organic pulp.  
+~
+0
+ABD 0
+D0
+~
+~
+0 0
+0 0 16070
+S
+#16072
+{gAt T{Gh{ge T{Go{gp Of A L{Garg{ge T{Gre{ge{x~
+This is a chestnut {gt{Gr{ge{Ge{x so large and gnarled that it looks ancient.  The
+local wildlife has taken advantage of the shelter that this {gt{Gr{ge{Ge{x gives by
+making it their homes; there are at least two birds' nests visible amongst
+the branches from this point.  The {gt{Gr{ge{Ge{x grows in the center of a yard that
+is roughly square in shape.  The yard looks it has been abandoned for many
+years for {gw{Ge{Ye{Gd{gs{x have grown widespread throughout the area.  Built along the
+western side of the yard is a cubic {Ws{wt{Do{wn{We{x {Db{wui{Wld{win{Dg{x which appears to have
+been an inn; some of the boughs of the {gt{Gr{ge{Ge{x almost reach the gloomy
+structure.  
+~
+0
+B 0
+E
+limbs boughs branches~
+One of the tree's boughs almost reaches the window of one of the inn's
+first floor rooms.  
+~
+D3
+Built along the western side of the yard is a deserted building which
+appears to have been an inn; one of the tree's boughs almost reaches the
+window of one of the inn's first floor rooms.  
+~
+window~
+4099 4099
+1 0 16073
+D5
+~
+~
+4096 4096
+0 0 16064
+S
+#16073
+{YA Guest Room{x~
+A guest room lays abandoned underneath a veil layer of {Dd{wus{Dt{x and {Wco{wb{Ww{we{Wbs{x. 
+Only large items of furniture remain in this room; anything small or of
+significant value was either take by the original owner of the inn or looted
+by opportunists.  The {Db{wui{Wld{win{Dg{x's {Dbr{wic{Wk{wwo{Drk{x has become loose over time and
+fallen out in places, leaving big {Dho{Dles{x in the walls.  A few of the room's
+window panes have remained intact but the majority of them are cracked or
+shattered completely.  There are great {Dho{Dles{x in the ceiling where the
+{Wp{wl{Wa{ws{Wt{we{Wr{x is rotting away, revealing the {yl{Da{ythi{Dn{yg{x behind it.  There also
+appears to be only one from this room; a sturdy {yw{Do{yod{De{yn{x door to the west.  
+~
+0
+ABD 0
+E
+furniture~
+All that remains of the furniture in this room is a wardrobe and a bed.  
+~
+D1
+~
+window~
+4099 4099
+1 0 16072
+D3
+~
+~
+8231 8231
+2 16036 16074
+S
+#16074
+{YA Hallway{x~
+This is the southern end of a long windowless passageway within a
+deserted inn.  Dust and debris litter the floor whilst {Wco{wb{Ww{we{Wbs{x dangle like
+silk veils from the room's {yw{Do{yod{De{yn{x beams.  There are several {Dga{Dps{x along the
+wall of the corridor where the {Dst{won{We{wwo{Drk{x has become loose over time and
+fallen out.  The ceiling is also in a shoddy condition where the {Wp{wl{Wa{ws{Wt{we{Wr{x is
+decaying away, leaving big {Dho{Dles{x that expose the {yl{Da{ythi{Dn{yg{x behind it.  There
+are several doorways along the hallway although some of the doors are
+scarcely left hanging upon their {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+0 0
+0 0 16075
+D1
+~
+~
+8231 8231
+2 16036 16073
+D5
+~
+~
+0 0
+0 0 16066
+S
+#16075
+{YA Hallway{x~
+This is the northern end of a long windowless hallway within an abandoned
+inn.  Dust and debris litter the floor whilst {Wco{wb{Ww{we{Wbs{x dangle like silk veils
+from the room's {yw{Do{yod{De{yn{x beams.  There are several {Dho{Dles{x along the wall of the
+corridor where the {Dst{won{We{wwo{Drk{x has become loose over time and fallen out.  The
+ceiling is also in a poor state where the {Wp{wl{Wa{ws{Wt{we{Wr{x has crumbled away and left
+large {Dho{Dles{x that reveal the {yl{Da{ythi{Dn{yg{x behind it.  There are several doorways
+along the passageway although some of the doors are hardly left hanging upon
+their {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D1
+~
+~
+3 3
+1 16037 16076
+D2
+~
+~
+0 0
+0 0 16074
+S
+#16076
+{YA Guest Room{x~
+A guest room lays deserted underneath a veil layer of {Wco{wb{Ww{we{Wbs{x and {Dd{wus{Dt{x. 
+Only a few items of furniture remain in this room; anything small or of
+significant value was either take by the original owner of the inn or
+plundered by opportunists.  The {Db{wui{Wld{win{Dg{x's {Dm{was{Wo{wnr{Dy{x has become loose over
+time and fallen out in places, leaving big {Dho{Dles{x in the walls.  A few of the
+guest room's window panes remain intact but the majority of them are
+fractured or shattered completely.  There are great {Dho{Dles{x in the ceiling
+where the {Wp{wl{Wa{ws{Wt{we{Wr{x is decaying away, revealing the {yl{Da{ythi{Dn{yg{x behind it.  There
+also appears to be only one from this room; a sturdy {yw{Do{yod{De{yn{x door to the
+west.  
+~
+0
+ABD 0
+E
+furniture~
+All that remains of the furniture in this room is a bed and a small chest.  
+~
+D3
+~
+~
+3 3
+1 16037 16075
+S
+#16077
+{rAn Overgrown Yard{x~
+This is a deserted yard that is overgrown with tall grass and {gw{Ge{Ye{Gd{gs{x.  The
+yard looks like it has been abandoned for many years although some of the
+original wheel tracks lie preserved within the hard packed ground beneath
+the foliage.  The yard is flanked along its borders by a tangle of shrubs
+and young saplings except for the western border where a large cube shaped
+{Db{wui{Wld{win{Dg{x covered with {gi{Gv{gy{x stands.  
+~
+0
+B 3
+D1
+~
+~
+4096 4096
+0 0 16047
+D3
+~
+~
+3 3
+1 0 16078
+S
+#16078
+{rA Kitchen{x~
+This was once a plain and probably dowdy kitchen but now it lies
+abandoned, half concealed under a shroud of {Dd{wus{Dt{x.  Very little of the room's
+original contents seems to remain, only a few fixtures such as the cupboards
+and drawers appear to have withstood the test of time.  Debris litters the
+{Ws{wt{Do{wn{We{x tiles that cover the kitchen floor; the source of the majority of the
+debris appears to be the {Wp{wl{Wa{ws{Wt{we{Wr{x ceiling that is rotting away.  There are
+several {Dga{Dps{x in the walls of the kitchen and the {Wf{wire{Dp{wlac{We{x where the {Dm{was{Wo{wnr{Dy{x
+has crumbled away over time and fallen out.  Also visible in this room are a
+couple of doorways although the doors hang precariously from their {rr{yu{Ds{rt{Di{yn{rg{x
+hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+3 3
+1 0 16079
+D1
+~
+~
+3 3
+1 0 16077
+D3
+~
+~
+3 3
+1 0 16080
+S
+#16079
+{rA Private Dining Room{x~
+Time and neglect have taken a heavy toll on this once grand private
+dining room.  The room seems strangely bare with only empty shelves and
+marks upon the walls left to hint of what had originally been placed inside
+the room.  Only a few items of furniture remain in this room; anything small
+or of significant value was either take by the original owner of this
+establishment or later plundered by opportunists.  Like the rest of the
+{Db{wui{Wld{win{Dg{x, there are {Dga{Dps{x in the walls of this room where the {Dst{won{We{wwo{Drk{x has
+become loose over time and fallen out.  Not even the {Wf{wire{Dp{wlac{We{x has escaped
+the ravages of time, very little of the original structure remains apart
+from a heap of {Ws{wt{Don{we{Ws{x on the ground.  A few of the dining room's window
+panes remain intact but the majority of them are cracked or missing
+completely.  There are great {Dho{Dles{x in the ceiling where the {Wp{wl{Wa{ws{Wt{we{Wr{x is
+decaying away, revealing the {yl{Da{ythi{Dn{yg{x behind it.  There also appears to be
+only two exits from this room; each one is marked by a door that hangs
+precariously off of its {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D2
+~
+~
+3 3
+1 0 16078
+D3
+~
+~
+3 3
+1 0 16081
+S
+#16080
+{rA Hallway{x~
+This is a short and particularly plain corridor located within a deserted
+inn.  The air within this area feels damp and many of the {yw{Do{yod{De{yn{x floorboards
+are showing signs of rotting.  Scattered across the floor is debris; a large
+amount of it comes from the ceiling above where the {Wp{wl{Wa{ws{Wt{we{Wr{x has rotted away
+to reveal the {yt{Di{ymb{De{yr{x {yl{Da{ythi{Dn{yg{x behind it.  There are also many {Dho{Dles{x along the
+wall of the corridor where the {Dm{was{Wo{wnr{Dy{x has become loose over time and fallen
+out.  There are several doorways along the hallway although some of the
+rickety {yw{Do{yod{De{yn{x doors are only just left hanging upon their {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+3 3
+1 0 16081
+D1
+~
+~
+3 3
+1 0 16078
+S
+#16081
+{rA Deserted Common Room{x~
+This is a rather small and dingy common room located within a deserted
+inn.  The air within this area feels clammy and many of the damp {yw{Do{yod{De{yn{x
+floorboards are starting to rot.  Debris litters the floor of the common
+room; the majority of it originates from the ceiling where the {Wp{wl{Wa{ws{Wt{we{Wr{x has
+rotted away to reveal the {yt{Di{ymb{De{yr{x {yl{Da{ythi{Dn{yg{x behind it.  The {Dbr{wic{Wk{wwo{Drk{x has
+become loose over time and fallen out in places, leaving large gaping {Dho{Dles{x
+in the walls.  Very little in this room has survived over the years from
+neglect and the hands of looters; only the bar, the {Wf{wire{Dp{wlac{We{x and a few
+items of furniture remain.  There are several doorways leading out of the
+common room although some of the rickety {yw{Do{yod{De{yn{x doors are barely hanging
+upon their {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D0
+~
+~
+3 3
+1 0 16082
+D1
+~
+~
+3 3
+1 0 16079
+D2
+~
+~
+3 3
+1 0 16080
+S
+#16082
+{rAn Overgrown Yard{x~
+This is a large open area of ground that has virtually been taken over by
+{gw{Ge{Ye{Gd{gs{x.  The area looks like it was used as a yard to store carts and wagons;
+although the yard looks like it has been abandoned for many years some of
+the original wheel tracks lie preserved within the hard packed ground.  The
+area is overlooked along its borders by young {gt{Gr{ge{Ge{gs{x and shrubs except for
+its southern border where a large cube shaped {Db{wui{Wld{win{Dg{x stands.  
+~
+0
+B 3
+D0
+~
+~
+4096 4096
+0 0 16025
+D2
+~
+~
+3 3
+1 0 16081
+S
+#16083
+{BA Cellar{x~
+This is a dark and dank cellar whose gray {Ws{wt{Do{wn{We{x walls feel unusually
+cold.  The {Ws{wt{Do{wn{We{x tiled floor also appears to be wet; the moisture and dirt
+on the floor have made a slimy concoction that is slippery underfoot. 
+Despite the clammy conditions within cellar, the room is currently in use to
+store {yw{Do{yod{De{yn{x crates, chests and barrels.  A cold draft seems to come through
+the trapdoor in the ceiling and flow down the steep {yw{Do{yod{De{yn{x steps, filling
+the area with an icy chill.  
+~
+0
+ABD 0
+D4
+~
+~
+12327 12327
+2 16026 16086
+S
+#16084
+{RA Deserted House{x~
+There is very little of interest within this small abandoned {Wh{wo{Dus{We{x; the
+majority of the furniture and personal items were probably taken away many
+years ago.  What is left is a gray {Ws{wt{Do{wn{We{x shell of a damp yet {Dd{wust{Dy{x {Db{wui{Wld{win{Dg{x
+with much of its {ywo{Do{ydw{Do{yrk{x rotting away.  A few of the {Wh{wo{Dus{We{x's windows remain
+intact but most of them are either cracked or missing, allowing the wind and
+rain to get into the {Db{wui{Wld{win{Dg{x and cause additional damage 
+~
+0
+ABD 0
+D2
+~
+~
+4231 4231
+2 16026 16036
+S
+#16085
+{YAn Abandoned Cottage{x~
+This is not much to see within this abandoned {Dc{wot{Wt{wag{De{x; the majority of
+the furniture and personal belongings were probably taken away many years
+ago by its owners.  There is very little left to see apart from a gray {Ws{wt{Do{wn{We{x
+shell of a {Db{wui{Wld{win{Dg{x that is damp and grimy.  Much of the {Dc{wot{Wt{wag{De{x's {ywo{Do{ydw{Do{yrk{x
+is rotting away including the doors and window frames.  A few of the
+{Db{wui{Wld{win{Dg{x's window panes remain intact but most of them are either cracked or
+gone, allowing the wind and rain to get into the {Db{wui{Wld{win{Dg{x to cause
+additional damage to the structure.  
+~
+0
+ABD 0
+E
+message~
+The badly spelt message reads: {DY{ws{Wa{Cb{We{wl{Dl{W woz 'ere.{x
+~
+E
+window panes~
+A message has been written in the grime that covers one of the window
+panes.  
+~
+D3
+~
+~
+4359 4359
+2 16026 16044
+S
+#16086
+{BAn Apparently Abandoned House{x~
+The exterior of this {Wh{wo{Dus{We{x is in such a poor state of repair that it
+looks like it has been abandoned.  Although the majority of the rooms in the
+{Wh{wo{Dus{We{x remain relatively untouched, the kitchen in this large abode looks
+like it is currently in use.  Someone's bedding has been stuffed into one
+corner of the room whilst the cupboards and drawers are crammed to bursting
+point with what appears to be junk.  The kitchen table has not escaped the
+onslaught of junk; numerous mechanical parts and tools lay strewn across the
+tabletop.  
+~
+0
+ABD 0
+E
+bedding blankets bedroll~
+A bedroll and some blankets have been stuffed into a corner of the
+kitchen.  
+~
+D3
+~
+~
+12327 12327
+2 16016 16050
+D5
+~
+~
+12327 12327
+2 16026 16083
+S
+#16087
+{CA Disused Bakery{x~
+It is obvious that the ovens in this bakery have not been used for years;
+one of the ovens is even being used as a nest by some opportunistic {gw{Goo{gdl{Gan{gd{x
+creature.  The shop counter and a few of the shelves remain but the
+furniture and other possessions that were in the living quarters at the back
+of the shop were taken away a long time ago.  There is not much else of
+interest in this dank and gloomy {Db{wui{Wld{win{Dg{x apart from a few {Dga{Dps{x in the walls
+where the {Dst{won{We{wwo{Drk{x has fallen out, the {ywo{Do{ydw{Do{yrk{x and thatched roof that is
+starting to rot away and most of the windows and doors which are broken.  
+~
+0
+ABD 0
+D0
+~
+~
+4231 4231
+2 16026 16020
+S
+#16088
+{RA Deserted House{x~
+There is not much of interest to see in this abandoned {Wh{wo{Dus{We{x; the
+majority of the furniture and personal effects were most likely taken away
+many years ago.  The {Db{wui{Wld{win{Dg{x is no more than an empty shell of gray {Ws{wt{Do{wn{We{x
+whose {yt{Di{ymb{De{yr{x frames are showing signs of rot and decay.  A few of the
+{Wh{wo{Dus{We{x's windows and doors remain intact but most of them are either broken
+or missing, allowing the wind and rain to get into the {Db{wui{Wld{win{Dg{x to cause
+additional damage to the structure.  
+~
+0
+ABD 0
+D0
+~
+~
+4231 4231
+2 16026 16038
+S
+#16089
+{MA Deserted Cottage{x~
+This is not much to see within this abandoned {Dc{wot{Wt{wag{De{x; the majority of
+the furniture and personal effects were most likely taken away many years
+ago by its owners.  The {Db{wui{Wld{win{Dg{x is no more than an empty shell of gray
+{Ws{wt{Do{wn{We{x whose {yt{Di{ymb{De{yr{x frames are showing signs of rot and decay.  Much of the
+{Dc{wot{Wt{wag{De{x's {ywo{Do{ydw{Do{yrk{x is rotting away including the doors and window frames. 
+Even the {yw{Do{yod{De{yn{x floorboards are not left unscathed, some of the {yw{Do{yod{De{yn{x
+planks have started to rot and have become loose over time.  Some of the
+{Db{wui{Wld{win{Dg{x's glass window panes remain intact but most of them are either
+cracked or missing, allowing the wind and rain to get into the {Db{wui{Wld{win{Dg{x to
+cause further damage to the interior of the {Dc{wot{Wt{wag{De{x.  
+~
+0
+ABD 0
+D1
+~
+~
+4359 4359
+2 16026 16052
+S
+#16090
+{GAn Abandoned House{x~
+There is not much of interest to see in this abandoned {Wh{wo{Dus{We{x; the
+majority of the furniture and personal effects were either taken away by the
+owner of this {Wh{wo{Dus{We{x many years ago or were looted.  The state of the {Wh{wo{Dus{We{x
+suggests that it has been abandoned for many years with much of its roofing
+either missing or rotting away.  The {ywo{Do{ydw{Do{yrk{x including the floorboards is
+also showing signs of rot and decay.  A couple of the {Wh{wo{Dus{We{x's windows and
+doors remain relatively intact but the majority of them are either missing
+or broken.  
+~
+0
+ABD 0
+D1
+~
+~
+4359 4359
+2 16026 16042
+S
+#16091
+{WAn Empty Dwelling{x~
+There are very little things of interest to be seen within this empty
+dwelling.  No possessions or furniture remain, only {Dd{wus{Dt{x and {Wco{wb{Ww{we{Wbs{x adorn
+the rooms and give the area an eerie feel.  The poor condition of the {Wh{wo{Dus{We{x
+suggests that it has been abandoned for many years with much of its roofing
+either missing or rotting away.  The {ywo{Do{ydw{Do{yrk{x including the floorboards is
+also showing signs of rot and decay, and in some areas of the {Db{wui{Wld{win{Dg{x the
+{gw{Goo{gd{x appears to be saturated with moisture.  A couple of the {Wh{wo{Dus{We{x's windows
+and doors remain relatively intact but the majority of them are either
+missing or broken.  
+~
+0
+ABD 0
+D3
+~
+~
+4359 4359
+2 16026 16033
+S
+#16092
+{YAn Empty Shop{x~
+This shop is one of many empty {Db{wui{Wldi{wng{Ds{x that lay hidden within the
+overgrown and abandoned {cv{wil{Wl{wag{ce{x of {CSa{Wlid{Car{x.  The shop counter and a few of
+the shelves remain but the rest of the furniture and other personal effects
+that were in the living quarters at the back of the shop were removed a long
+time ago.  There is not much else of interest in this dank and gloomy
+{Db{wui{Wld{win{Dg{x apart from a few {Dho{Dles{x in the walls where the {Dm{was{Wo{wnr{Dy{x has fallen
+out, the {ywo{Do{ydw{Do{yrk{x and thatched roof that is starting to decay and the rather
+charming rounded windows and doors which are broken and beyond repair.  
+~
+0
+ABD 0
+D2
+~
+~
+4359 4359
+2 16026 16054
+S
+#16093
+{MAn Abandoned Dwelling{x~
+This {Dc{wot{Wt{wag{De{x is one of many empty {Db{wui{Wldi{wng{Ds{x that lay hidden within the
+overgrown and abandoned {cv{wil{Wl{wag{ce{x of {CSa{Wlid{Car{x.  No possessions or furniture
+remains in this {Db{wui{Wld{win{Dg{x, the only furnishings within this abode is the {Dd{wus{Dt{x
+and {Wco{wb{Ww{we{Wbs{x.  The {Dc{wot{Wt{wag{De{x must have been deserted many years ago by its
+rather pitiful state.  Much of its roofing either missing or rotting away
+and even the {ywo{Do{ydw{Do{yrk{x including the floorboards are also showing signs of
+rot and decay.  A couple of the {Wh{wo{Dus{We{x's windows and doors remain somewhat
+intact but most of them are either missing or broken.  
+~
+0
+ABD 0
+D2
+~
+~
+4231 4231
+2 16026 16029
+S
+#16094
+{BAn Empty Dwelling{x~
+There are not many things of interest to be seen within this empty
+dwelling.  The furniture and personal effects that used to be in this {Wh{wo{Dus{We{x
+were either taken away by the owner or were looted.  The appalling condition
+of the {Wh{wo{Dus{We{x clearly indicates that it has been abandoned for many years. 
+Both the thatched roof and {ywo{Do{ydw{Do{yrk{x within the {Wh{wo{Dus{We{x are displaying signs of
+rot and decay.  The windows and doors have not escaped damage and although
+some remain relatively intact but the majority of them are either missing or
+broken.  
+~
+0
+ABD 0
+D3
+~
+~
+4231 4231
+2 16026 16031
+S
+#16095
+{GA Deserted House{x~
+There is very little of interest within this deserted {Wh{wo{Dus{We{x; the majority
+of the furniture and personal items were almost certainly taken away years
+ago.  What is left is a gray {Ws{wt{Do{wn{We{x shell of a damp and dirty {Db{wui{Wld{win{Dg{x with
+much of its {ywo{Do{ydw{Do{yrk{x and thatched roof decaying away.  The doors appear to
+be structurally sound and few of the {Wh{wo{Dus{We{x's windows remain intact but most
+the glass window panes are either cracked or missing, allowing the wind and
+rain to get inside the {Db{wui{Wld{win{Dg{x.  
+~
+0
+ABD 0
+D2
+~
+~
+4359 4359
+2 16026 16039
+S
+#16096
+{YA Deserted House{x~
+This {Wh{wo{Dus{We{x is one of many empty {Db{wui{Wldi{wng{Ds{x that lay hidden within the
+overgrown and deserted {cv{wil{Wl{wag{ce{x of {CSa{Wlid{Car{x.  There is very little of interest
+within this derelict {Wh{wo{Dus{We{x; the majority of the furniture and personal items
+were almost certainly removed a long time ago.  What is left is a gray {Ws{wt{Do{wn{We{x
+shell of a damp and dirty {Db{wui{Wld{win{Dg{x with much of its {ywo{Do{ydw{Do{yrk{x and thatched
+roof decaying away.  The doors appear to be structurally sound and few of
+the {Wh{wo{Dus{We{x's grimy windows are intact but most the glass window panes are
+either cracked or missing.  
+~
+0
+ABD 0
+D3
+~
+~
+4615 4615
+2 16026 16053
+S
+#16097
+{BAn Abandoned Workshop{x~
+Years ago this blacksmith's workshop would probably have been extremely
+busy place as one of the focus points within the {cv{wil{Wl{wag{ce{x of {CSa{Wlid{Car{x.  The
+{Db{wui{Wld{win{Dg{x now lies alone and abandoned, overgrown with {gi{Gv{gy{x and {gw{Ge{Ye{Gd{gs{x on the
+outside of the {Db{wui{Wld{win{Dg{x whilst strewn with {Dd{wus{Dt{x and {Wco{wb{Ww{we{Wbs{x on the inside. 
+Some of the work benches, shelves and racks remain but the rest of the
+equipment in the workshop has been taken away.  There is not much else of
+interest in this dark and gloomy {Db{wui{Wld{win{Dg{x apart from a few {Dga{Dps{x in the walls
+where the {Dm{was{Wo{wnr{Dy{x has fallen out, the {ywo{Do{ydw{Do{yrk{x and thatched roof rotting
+away and a few broken windows and doors.  
+~
+0
+ABD 0
+D2
+~
+~
+4615 4615
+2 16026 16023
+S
+#16098
+{WA Derelict Cottage{x~
+This {Dc{wot{Wt{wag{De{x is one of many empty {Db{wui{Wldi{wng{Ds{x that lay hidden within the
+overgrown and deserted {cv{wil{Wl{wag{ce{x of {CSa{Wlid{Car{x.  There is not much to see in the
+{Db{wui{Wld{win{Dg{x because the furniture and personal effects were most likely taken
+away many years ago by its owners.  The {Db{wui{Wld{win{Dg{x is no more than an empty
+shell of river {Ws{wt{Don{we{Ws{x whose thatched roofing and {yt{Di{ymb{De{yr{x frames are showing
+signs of rot and decay.  Even the {yw{Do{yod{De{yn{x floorboards have not been left
+unscathed for some of the {yw{Do{yod{De{yn{x planks are already rotting and have become
+loose.  A few of the {Dc{wot{Wt{wag{De{x's doors and windows are intact but most of them
+are broken or hanging precariously off of their {rr{yu{Ds{yt{ry{x hinges.  
+~
+0
+ABD 0
+D3
+~
+~
+4231 4231
+2 16026 16046
+S
+#16099
+{CA Derelict Shop{x~
+This shop is one of many derelict {Db{wui{Wldi{wng{Ds{x that lay hidden within the
+overgrown and abandoned {cv{wil{Wl{wag{ce{x of {CSa{Wlid{Car{x.  The shop counter and a few of
+the shelves remain but everything else on the shop floor and within the
+living quarters at the back of the {Db{wui{Wld{win{Dg{x have been removed.  There is not
+much else of interest in this dark and depressing {Db{wui{Wld{win{Dg{x apart from a few
+{Dga{Dps{x in the walls where the {Dm{was{Wo{wnr{Dy{x has fallen out, the {ywo{Do{ydw{Do{yrk{x and
+thatched roof that is starting to decay and the windows and doors which are
+broken and beyond repair.  
+asave area
+~
+0
+ABD 0
+D2
+~
+~
+4615 4615
+2 16036 16055
+S
+#0
+
+
+
+#SPECIALS
+M 16000 spec_duelling
+M 16005 spec_blademaster
+M 16007 spec_poison
+M 16013 spec_poison
+M 16014 spec_poison
+M 16027 spec_poison
+M 16034 spec_poison
+S
+
+
+
+#RESETS
+D 0 16020 2 2
+D 0 16021 0 2
+D 0 16023 0 2
+D 0 16029 0 2
+D 0 16031 1 2
+D 0 16033 1 2
+D 0 16036 0 2
+D 0 16038 2 2
+D 0 16039 0 2
+D 0 16042 3 2
+D 0 16044 1 2
+D 0 16046 1 2
+D 0 16050 1 2
+D 0 16052 3 2
+D 0 16053 1 2
+D 0 16054 0 2
+D 0 16055 0 2
+D 0 16057 0 1
+D 0 16057 2 2
+D 0 16058 0 2
+D 0 16058 2 1
+D 0 16059 0 1
+D 0 16060 0 2
+D 0 16060 1 2
+D 0 16060 2 1
+D 0 16061 2 2
+D 0 16061 3 2
+D 0 16062 1 1
+D 0 16062 2 2
+D 0 16063 3 1
+D 0 16064 3 1
+D 0 16065 0 1
+D 0 16065 1 1
+D 0 16065 3 1
+D 0 16066 0 1
+D 0 16066 1 1
+D 0 16067 0 1
+D 0 16067 1 1
+D 0 16067 2 1
+D 0 16068 2 1
+D 0 16068 3 1
+D 0 16069 2 1
+D 0 16069 3 1
+D 0 16070 1 1
+D 0 16072 3 1
+D 0 16073 1 1
+D 0 16073 3 2
+D 0 16074 1 2
+D 0 16075 1 1
+D 0 16076 3 1
+D 0 16077 3 1
+D 0 16078 0 1
+D 0 16078 1 1
+D 0 16078 3 1
+D 0 16079 2 1
+D 0 16079 3 1
+D 0 16080 0 1
+D 0 16080 1 1
+D 0 16081 0 1
+D 0 16081 1 1
+D 0 16081 2 1
+D 0 16082 2 1
+D 0 16083 4 2
+D 0 16084 2 2
+D 0 16085 3 2
+D 0 16086 3 2
+D 0 16086 5 2
+D 0 16087 0 2
+D 0 16088 0 2
+D 0 16089 1 2
+D 0 16090 1 2
+D 0 16091 3 2
+D 0 16092 2 2
+D 0 16093 2 2
+D 0 16094 3 2
+D 0 16095 2 2
+D 0 16096 3 2
+D 0 16097 2 2
+D 0 16098 3 2
+D 0 16099 2 2
+M 0 16012 5 16000 1
+M 0 16009 10 16000 1
+M 0 16006 10 16000 1
+M 0 16012 5 16001 1
+M 0 16011 10 16001 1
+M 0 16009 10 16001 1
+M 0 16009 10 16002 1
+M 0 16011 10 16002 1
+M 0 16006 10 16002 1
+M 0 16011 10 16003 1
+M 0 16010 10 16003 1
+M 0 16009 10 16003 1
+M 0 16022 1 16004 1
+M 0 16011 10 16004 1
+M 0 16006 10 16004 1
+O 0 16010 0 16004
+P 0 16011 1 16010 1
+M 0 16023 1 16005 1
+M 0 16010 10 16005 1
+M 0 16006 10 16005 1
+M 0 16024 3 16006 1
+M 0 16011 10 16006 1
+M 0 16009 10 16006 1
+M 0 16012 5 16007 1
+M 0 16010 10 16007 1
+M 0 16009 10 16007 1
+O 0 16003 0 16007
+M 0 16024 3 16008 1
+M 0 16009 10 16008 1
+M 0 16006 10 16008 1
+O 0 16010 0 16008
+P 0 16011 1 16010 1
+M 0 16011 10 16009 1
+M 0 16010 10 16009 1
+M 0 16007 10 16009 1
+M 0 16013 10 16010 1
+M 0 16011 10 16010 1
+M 0 16009 10 16010 1
+O 0 16003 0 16010
+M 0 16012 5 16011 1
+M 0 16010 10 16011 1
+M 0 16006 10 16011 1
+M 0 16024 3 16012 1
+M 0 16011 10 16012 1
+M 0 16006 10 16012 1
+O 0 16000 0 16012
+M 0 16019 2 16013 2
+M 0 16018 1 16013 1
+E 0 16061 0 20
+O 0 16003 0 16013
+M 0 16009 10 16014 1
+M 0 16010 10 16014 1
+M 0 16006 10 16014 1
+O 0 16010 0 16014
+P 0 16011 1 16010 1
+M 0 16021 2 16015 2
+M 0 16020 1 16015 1
+E 0 16062 0 15
+O 0 16003 0 16015
+M 0 16015 5 16016 1
+M 0 16010 10 16016 1
+M 0 16006 10 16016 1
+O 0 16002 0 16016
+M 0 16010 10 16017 1
+M 0 16009 10 16017 1
+M 0 16006 10 16017 1
+M 0 16012 5 16018 1
+M 0 16011 10 16018 1
+M 0 16010 10 16018 1
+M 0 16011 10 16019 1
+M 0 16010 10 16019 1
+O 0 16001 0 16019
+P 0 16011 1 16001 1
+M 0 16005 1 16019 1
+E 0 16069 0 7
+E 0 16068 0 10
+E 0 16067 0 25
+E 0 16066 0 8
+E 0 16060 0 9
+G 0 16063 0
+E 0 16083 0 20
+E 0 16064 0 21
+M 0 16028 5 16020 1
+M 0 16027 10 16020 1
+M 0 16013 10 16020 1
+M 0 16034 7 16021 1
+M 0 16039 10 16021 1
+M 0 16016 10 16021 1
+G 0 16059 0
+O 0 16012 0 16021
+M 0 16031 3 16022 1
+M 0 16026 5 16022 1
+M 0 16025 5 16022 1
+M 0 16038 11 16023 1
+M 0 16015 5 16023 1
+M 0 16013 10 16023 1
+O 0 16015 0 16023
+M 0 16035 5 16024 1
+M 0 16029 5 16024 1
+M 0 16016 10 16024 1
+G 0 16059 0
+O 0 16013 0 16024
+O 0 16005 0 16024
+M 0 16038 11 16025 1
+M 0 16027 10 16025 1
+M 0 16013 10 16025 1
+O 0 16012 0 16025
+P 0 16075 1 16012 1
+M 0 16034 7 16026 1
+M 0 16030 5 16026 1
+M 0 16017 10 16026 1
+O 0 16013 0 16026
+M 0 16032 3 16027 1
+M 0 16016 10 16027 1
+G 0 16059 0
+M 0 16015 5 16027 1
+O 0 16012 0 16027
+M 0 16039 10 16028 1
+M 0 16027 10 16028 1
+M 0 16013 10 16028 1
+O 0 16015 0 16028
+P 0 16075 1 16015 1
+M 0 16036 3 16029 1
+M 0 16029 5 16029 1
+M 0 16017 10 16029 1
+O 0 16006 0 16029
+M 0 16035 5 16030 1
+M 0 16030 5 16030 1
+M 0 16015 5 16030 1
+O 0 16012 0 16030
+M 0 16031 3 16031 1
+M 0 16016 10 16031 1
+G 0 16059 0
+M 0 16013 10 16031 1
+O 0 16013 0 16031
+P 0 16075 1 16013 1
+M 0 16034 7 16032 1
+M 0 16026 5 16032 1
+M 0 16025 5 16032 1
+O 0 16004 0 16032
+M 0 16038 11 16033 1
+M 0 16028 5 16033 1
+M 0 16017 10 16033 1
+M 0 16038 11 16034 1
+M 0 16030 5 16034 1
+M 0 16027 10 16034 1
+O 0 16015 0 16034
+M 0 16034 7 16035 1
+M 0 16030 5 16035 1
+M 0 16016 10 16035 1
+G 0 16059 0
+O 0 16004 0 16035
+M 0 16029 5 16036 1
+M 0 16013 10 16036 1
+M 0 16007 10 16036 1
+O 0 16012 0 16036
+M 0 16036 3 16037 1
+M 0 16030 5 16037 1
+M 0 16017 10 16037 1
+O 0 16014 0 16037
+M 0 16032 3 16038 1
+M 0 16039 10 16038 1
+M 0 16017 10 16038 1
+O 0 16015 0 16038
+M 0 16038 11 16039 1
+M 0 16039 10 16039 1
+M 0 16027 10 16039 1
+O 0 16013 0 16039
+P 0 16075 1 16013 1
+M 0 16026 5 16040 1
+M 0 16025 5 16040 1
+M 0 16017 10 16040 1
+O 0 16012 0 16040
+M 0 16038 11 16041 1
+M 0 16028 5 16041 1
+M 0 16027 10 16041 1
+O 0 16015 0 16041
+M 0 16035 5 16042 1
+M 0 16039 10 16042 1
+M 0 16016 10 16042 1
+G 0 16059 0
+O 0 16013 0 16042
+M 0 16034 7 16043 1
+M 0 16029 5 16043 1
+M 0 16017 10 16043 1
+O 0 16015 0 16043
+M 0 16038 11 16044 1
+M 0 16027 10 16044 1
+M 0 16013 10 16044 1
+O 0 16006 0 16044
+M 0 16038 11 16045 1
+M 0 16039 10 16045 1
+M 0 16017 10 16045 1
+O 0 16012 0 16045
+O 0 16007 0 16045
+M 0 16034 7 16046 1
+M 0 16039 10 16046 1
+M 0 16017 10 16046 1
+O 0 16014 0 16046
+P 0 16075 1 16014 1
+M 0 16031 3 16047 1
+M 0 16027 10 16047 1
+M 0 16016 10 16047 1
+G 0 16059 0
+M 0 16036 3 16048 1
+M 0 16039 10 16048 1
+M 0 16016 10 16048 1
+G 0 16059 0
+O 0 16014 0 16048
+M 0 16026 5 16049 1
+M 0 16025 5 16049 1
+M 0 16017 10 16049 1
+O 0 16014 0 16049
+O 0 16008 0 16049
+M 0 16035 5 16050 1
+M 0 16028 5 16050 1
+M 0 16013 10 16050 1
+O 0 16014 0 16050
+P 0 16016 1 16014 1
+M 0 16038 11 16051 1
+M 0 16039 10 16051 1
+M 0 16016 10 16051 1
+G 0 16059 0
+O 0 16013 0 16051
+O 0 16009 0 16051
+M 0 16032 3 16052 1
+M 0 16029 5 16052 1
+M 0 16027 10 16052 1
+O 0 16014 0 16052
+M 0 16038 11 16053 1
+M 0 16026 5 16053 1
+M 0 16025 5 16053 1
+O 0 16012 0 16053
+M 0 16038 11 16054 1
+M 0 16027 10 16054 1
+M 0 16013 10 16054 1
+O 0 16013 0 16054
+M 0 16034 7 16055 1
+M 0 16039 10 16055 1
+M 0 16016 10 16055 1
+G 0 16059 0
+O 0 16015 0 16055
+M 0 16035 5 16056 1
+M 0 16028 5 16056 1
+M 0 16015 5 16056 1
+O 0 16015 0 16056
+O 0 16051 0 16057
+P 0 16052 20 16051 3
+O 0 16054 0 16057
+M 0 16037 20 16057 1
+O 0 16017 0 16057
+O 0 16018 0 16057
+O 0 16054 0 16058
+M 0 16037 20 16058 1
+O 0 16054 0 16059
+M 0 16037 20 16059 1
+O 0 16019 0 16059
+O 0 16054 0 16060
+M 0 16008 10 16060 1
+O 0 16021 0 16060
+P 0 16025 1 16021 1
+P 0 16084 1 16021 1
+O 0 16020 0 16060
+P 0 16086 1 16020 1
+P 0 16085 1 16020 1
+P 0 16022 1 16021 1
+P 0 16052 20 16020 1
+O 0 16054 0 16061
+M 0 16037 20 16061 1
+M 0 16008 10 16061 1
+O 0 16029 0 16061
+O 0 16030 0 16061
+O 0 16023 0 16061
+P 0 16031 1 16023 1
+O 0 16054 0 16063
+M 0 16037 20 16063 1
+M 0 16008 10 16063 1
+O 0 16047 0 16063
+P 0 16048 1 16047 1
+M 0 16033 1 16064 1
+O 0 16050 0 16064
+O 0 16057 0 16064
+P 0 16058 1 16057 1
+M 0 16014 1 16064 1
+O 0 16054 0 16065
+O 0 16017 0 16065
+M 0 16037 20 16065 1
+M 0 16007 10 16065 1
+O 0 16051 0 16065
+P 0 16052 20 16051 1
+O 0 16054 0 16066
+M 0 16037 20 16066 1
+M 0 16008 10 16066 1
+O 0 16019 0 16066
+O 0 16054 0 16067
+M 0 16037 20 16067 1
+M 0 16008 10 16067 1
+O 0 16021 0 16067
+P 0 16084 1 16021 1
+O 0 16020 0 16067
+P 0 16085 1 16020 1
+P 0 16086 1 16020 1
+P 0 16052 20 16020 1
+O 0 16054 0 16068
+M 0 16037 20 16068 1
+O 0 16053 0 16068
+O 0 16054 0 16070
+M 0 16037 20 16070 1
+M 0 16008 10 16070 1
+O 0 16047 0 16070
+P 0 16048 1 16047 1
+O 0 16054 0 16071
+M 0 16037 20 16071 1
+M 0 16008 10 16071 1
+O 0 16047 0 16071
+P 0 16048 1 16047 1
+O 0 16039 0 16072
+P 0 16038 1 16039 1
+O 0 16054 0 16073
+M 0 16037 20 16073 1
+M 0 16007 10 16073 1
+O 0 16056 0 16073
+O 0 16041 0 16073
+P 0 16042 1 16041 1
+P 0 16043 1 16041 1
+O 0 16054 0 16074
+M 0 16037 20 16074 1
+M 0 16008 10 16074 1
+O 0 16055 0 16074
+O 0 16054 0 16075
+P 0 16046 1 16054 1
+M 0 16037 20 16075 1
+M 0 16007 10 16075 1
+O 0 16019 0 16075
+O 0 16054 0 16076
+O 0 16023 0 16076
+O 0 16056 0 16076
+M 0 16000 1 16076 1
+E 0 16079 0 5
+G 0 16026 0
+E 0 16065 0 7
+E 0 16032 0 17
+E 0 16032 0 18
+E 0 16033 0 16
+E 0 16034 0 2
+E 0 16035 0 21
+E 0 16035 0 20
+O 0 16070 0 16077
+O 0 16054 0 16078
+O 0 16021 0 16078
+P 0 16084 1 16021 1
+O 0 16020 0 16078
+P 0 16086 1 16020 1
+P 0 16085 1 16020 1
+P 0 16052 20 16020 1
+M 0 16002 1 16078 1
+M 0 16003 2 16078 2
+M 0 16004 1 16078 1
+O 0 16054 0 16079
+P 0 16071 1 16054 1
+O 0 16053 0 16079
+M 0 16037 20 16079 1
+O 0 16054 0 16080
+O 0 16019 0 16080
+M 0 16037 20 16080 1
+O 0 16054 0 16081
+O 0 16051 0 16081
+P 0 16052 20 16051 3
+M 0 16037 20 16081 1
+M 0 16007 10 16081 1
+O 0 16072 0 16083
+P 0 16052 20 16051 6
+P 0 16073 1 16072 1
+P 0 16074 1 16072 1
+M 0 16037 20 16083 1
+M 0 16007 10 16083 1
+O 0 16023 0 16083
+P 0 16024 1 16023 1
+P 0 16027 1 16023 1
+P 0 16028 1 16023 1
+M 0 16037 20 16084 1
+M 0 16037 20 16085 1
+M 0 16001 1 16086 1
+E 0 16081 0 8
+E 0 16082 0 5
+O 0 16049 0 16086
+O 0 16054 0 16087
+O 0 16078 0 16087
+O 0 16076 0 16089
+P 0 16075 1 16076 1
+O 0 16076 0 16090
+P 0 16077 1 16076 1
+M 0 16007 10 16090 1
+O 0 16076 0 16091
+P 0 16075 1 16076 1
+M 0 16007 10 16091 1
+O 0 16078 0 16092
+M 0 16008 10 16092 1
+O 0 16076 0 16093
+P 0 16080 1 16076 1
+M 0 16008 10 16093 1
+M 0 16007 10 16097 1
+O 0 16078 0 16099
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

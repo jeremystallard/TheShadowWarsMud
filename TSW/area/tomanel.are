@@ -1,0 +1,2349 @@
+#AREADATA
+Name Tomanelle Hold~
+Builders None~
+VNUMs 10500 10599
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#10500
+no name~
+(no short description)~
+(no long description)
+~
+~
+aiel~
+AGc 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'human'
+#10502
+heavy aiel ~
+A heavy set Aiel man ~
+A heavy set Aiel man covered in soot is working the irons
+~
+~
+aiel~
+AGc 0 0 0
+100 100 10d10565+20 0d0+0 10d500+10 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+sit sit male 20000
+0 0 medium 'flesh'
+#10503
+pig stinky~
+A stinky pig~
+A stinky and filthy pig rolls about in the mud
+~
+This small female pig is happily rolling about in the mud, having an
+occasional snooze.  It is covered from head to foot in manure and a filty
+stink creeps from it.  Better plug your nose.  
+~
+pig~
+A 0 0 0
+2 2 1d3+15 0d0+0 1d2+1 charge
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+sleep sleep female 2
+0 0 small 'flesh'
+#10504
+Jeweler aiel~
+A beautiful Aiel jeweler~
+A beautiful Aiel jeweler displaying her wares
+~
+An beautiful Aiel woman, nicely plump and with shoulder length flaming
+red hair offers you her sweetest smile as she awaits your choice of jewelry.
+~
+aiel~
+A 0 0 0
+100 90 24d366+3000 0d0+0 10d10+50 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+sit sit none 2000
+0 0 medium 'unknown'
+#10505
+aiel warrior~
+A tall aiel warrior~
+A tall aiel warrior wanders about
+~
+An extremely tall man with red colored hair, dressed in shades of greys
+and browns that are known as cadin'sor.  Hanging loosely around his neck is
+a black veil that can be raised in an instand before he makes a kill.  At
+his belt is a large belt knife, on his back a bowcase filled with spears, in
+his hand is a spear and a leather bracer.  
+~
+aiel~
+AGV 0 5 0
+50 40 10d169+10020 0d0+0 5d10+25 thrust
+0 0 0 0 0
+A
+-1 -1 -7 -1
+U 0 0 0
+stand stand male 50
+0 0 large 'flesh'
+F for AV
+#10506
+roofmistress aiel~
+The Aiel roofmistress~
+An intelligent looking Aiel woman is at ease here
+~
+A tall, red haired woman covered in a variety of different necklaces and
+bracelets.  A sort of authority and power seems to radiate from her.  Maybe
+she is in control of this hold?  
+~
+aiel~
+A 0 0 0
+50 40 10d169+10020 0d0+0 5d10+25 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+sit sit female 400
+0 0 medium 'unknown'
+#10508
+aiel woman~
+An aging Aiel woman~
+An aging Aiel woman is relaxing here
+~
+This Aiel woman has many a wrinkle across her hardened face, and her hair
+is coloured of grey only.  She is covered in necklaces and bracelet and
+wears heavy skirts.  She smiles politely as you enter her home.  
+~
+aiel~
+A 0 0 0
+20 19 7d35+185 0d0+0 0d0+0 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+sit sit female 100
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#10500
+strange sword~
+A strange sword~
+A strange sword is here~
+flesh~
+weapon ABDGIKOPQY AN
+sword 1029 20494 'slash' EH
+1 0 1 100
+#10501
+A pool of water~
+{wA{x {Bpool{x {wof{x {Cfresh water{x ~
+{wA{x {Bpool{x {wof{x {Cfresh water{x {wis{x {ydug{x {where{x~
+(null)~
+fountain MO 0
+2147483647 2147483647 'water' 0 0
+0 0 0 100
+#10502
+A basket~
+A basket~
+{yA weaver's basket is here ready to be filled{x~
+container~
+container O 0
+0 ACI 0 0 0
+3 0 65 100
+#10503
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash W 0
+0 0 0 0 0
+0 0 0 100
+#10505
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#10506
+heavy spear~
+A heavy, well-made spear~
+A heavy, well-made spear lays here gathering dust~
+cloth~
+weapon 0 AN
+staff 2 7 'none' 0
+5 0 65 100
+#10507
+necklace~
+A glittering necklace boasting a firedrop~
+A glittering necklace boasting a firedrop lays here reflecting the sun~
+cloth~
+jewelry 0 AC
+0 0 0 0 0
+0 0 35 100
+#10508
+bracelet~
+A heavy bracelet made of ivory~
+A bracelet lays in a pile ~
+cloth~
+jewelry 0 AM
+0 0 0 0 0
+0 0 45 100
+#10509
+cushion red~
+A comfortable cushion~
+A cushion is positioned in the corner~
+leather~
+furniture MO 0
+2 0 EK 10 5
+0 0 0 100
+#10510
+gold pile~
+A pile of gold coins~
+A small mound of gold coins lay glittering in the sun.~
+gold~
+money 0 A
+1 0 0 0 0
+0 0 0 100
+#10511
+treasure~
+A pile of treasure~
+Masses of coins off all varieties are stored here~
+cloth~
+money 0 A
+1000 1400 0 0 0
+0 0 0 100
+#10550
+chair~
+A lazyboy recliner~
+none~
+cloth~
+furniture 0 0
+40 0 HIKL 2147483647 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#10500
+The Three Fold Land~
+The {Ysun{x beats down upon you, trying to take up every bit of {Cmoisture{x your
+body can produce.  The {Rbarren{x {ywastelands{x all around you are quite
+intimidating, {Bwater{x also being scarse here.  Just to the east off in the
+distance a little, you catch a {Yglimpse{x of a gathering of {ybuildings{x, and
+where there are {ybuildings{x, there must be {Bwater{x!  
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 10554
+D1
+~
+~
+0 0
+0 0 10501
+D2
+~
+~
+0 0
+0 0 10553
+D3
+~
+~
+0 0
+0 0 10552
+S
+#10501
+The Three Fold Land~
+The {Ysun{x beats down upon you, trying to take up every bit of {Cmoisture{x your
+body can produce.  The {Rbarren{x {ywastelands{x all around you are quite
+intimidating, {Bwater{x also being scarse here.  Fairly close to the east stands
+a gathering of {wbuildings{x, an {gAiel{x {Whold{x most likely.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10502
+D3
+~
+~
+0 0
+0 0 10500
+S
+#10502
+The Three Fold Land~
+The sun beats down upon you, trying to take up every bit of moisture your
+body can produce.  The barren wastelands all around you are quite
+intimidating, water also being scarse here.  You are very near to the
+entrance to the Hold, you can almost see tiny figures darting about within
+the Hold.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10503
+D3
+~
+~
+0 0
+0 0 10501
+S
+#10503
+The Entrance to the Aiel Hold~
+You finnaly reach the cliff face and carved out of it seems to be a type
+of buildings, you have reached the Tomanelle Hold.  The sound of people
+talking and the snorts of animals are quite evident.  A group of Aiel come
+to meet you, te Roofmistress followed by a few wiseones and some warriors.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10504
+D3
+~
+~
+0 0
+0 0 10502
+S
+#10504
+The Main Well of the Hold~
+You stand in a small clearing carved out of pure rock.  A small pool has
+been built beside you and is filled with water, aiel men an woman dressed in
+white robes are scurrying back and forth with pails of water.  To the north
+and south, all you can see are doorways in the solid cliff face.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10505
+D1
+~
+~
+3 3
+1 0 10511
+D2
+~
+~
+0 0
+0 0 10506
+D3
+~
+~
+0 0
+0 0 10503
+S
+#10505
+The Path Along the Cliff Face~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east of you is a curtain over what
+appears to be hut built right into the cliff face, amazing people...  These
+Aiel.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10509
+D1
+~
+~
+3 3
+1 0 10508
+D2
+~
+~
+0 0
+0 0 10504
+S
+#10506
+The Path Along the Cliff Face~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east of you is a curtain over what
+appears to be hut built right into the cliff face, amazing people...  These
+Aiel.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10504
+D1
+~
+~
+3 3
+1 0 10507
+D2
+~
+~
+0 0
+0 0 10512
+S
+#10507
+The Pig Shed~
+You enter this shed and are welcomed by the sounds and smells of any
+other pig farm.  Along the walls are nicely arranged pens with pigs in them.
+White robed Gai'shain scurry about tending to them.  At the other side of
+the shed, you spot a Gai'shain skinning the carcass of a pig, what a
+pleasant job.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10506
+S
+#10508
+The Metal-Worker's~
+You enter the room and are taken back by the heat coming from this room. 
+Just in front of you is massive aiel man busy working a bellows while
+another pounds ore into spear heads and other tools.  Maybe you can purchase
+a spear here....  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10505
+S
+#10509
+The Path Along the Cliff Face~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east of you is a curtain over what
+appears to be hut built right into the cliff face, amazing people...  These
+Aiel.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10519
+D1
+~
+~
+3 3
+1 0 10510
+D2
+~
+~
+0 0
+0 0 10505
+S
+#10510
+The Roofmistress' Hut~
+You push aside the silk curtain and walk into the room.  All around you
+are riches that the Roofmistress somehow gained.  The room is nicely
+furnished with beautiful and comfortable rugs layed out across the floor. 
+There are some neatly rolled up blankets laying in one corner of the room.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10509
+S
+#10511
+The Weaver's Hut~
+You push the silk curtain aside and step inside the hut.  To your
+astonishment, the room is filled with riches beyond most "wetlanders"
+dreams.  There is an exotic carpet across the floor and Sea Folk porcelin
+here and there.  The wall is also covered in firedrops and other jems and
+rubies hung on chains of gold.  At the back of the room is an Aiel Woman
+busy weaving baskets, bucklers and the like.  Beside her in a basket is a
+pile of material that she is using.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10504
+S
+#10512
+The Path Along the Cliff Face~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east of you is a curtain over what
+appears to be hut built right into the cliff face, amazing people...  These
+Aiel.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10506
+D1
+~
+~
+3 3
+1 0 10513
+D2
+~
+~
+0 0
+0 0 10514
+S
+#10513
+The Jewelry Maker's Hut~
+You pull the curtain open and step into the well furnished little home. 
+All around you are baskets filled with bracelets, necklaces, rings and other
+jewelry that the woman sitting on the floor just made.  She smiles at you as
+you step into her sight, decked in rich jewelry she is quite beautiful.  It
+is just so tempting to steal on piece but you know what the price for
+stealing is around here.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10512
+S
+#10514
+The Path Along the Cliff Face~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east of you is a curtain over what
+appears to be hut built right into the cliff face, amazing people...  These
+Aiel.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10512
+D1
+~
+~
+3 3
+1 0 10515
+D2
+~
+~
+0 0
+0 0 10516
+S
+#10515
+An Aiel Home~
+You step into this small cliff house and are astonished at how richly
+furnished it is.  Rich carpets and wall hangings decorate it and hanging
+jewelry catch your eyes.  What a nice place to stay in, imagine the wealth
+you would have...  Just from here.  There are some blankets rolled up in the
+corner of the room.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10514
+S
+#10516
+The Three Fold Land~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east and south of you are curtains
+over what appear to be huts built right into the cliff face, amazing
+people...  These Aiel.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10514
+D1
+~
+~
+3 3
+1 0 10517
+D2
+~
+~
+3 3
+1 0 10540
+D5
+~
+~
+0 0
+0 0 10566
+S
+#10517
+An Aiel Home~
+You step into this small cliff house and are astonished at how richly
+furnished it is.  Rich carpets and wall hangings decorate it and hanging
+jewelry catch your eyes.  What a nice place to stay in, imagine the wealth
+you would have...  Just from here.  There are some blankets rolled up in the
+corner of the room.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10516
+S
+#10518
+eq~
+You enter the room to be greeting by a wiseone is bulky skirts and
+multitudes of jewelry.  The room is well lit and furnished, jewelry
+everywhere.  On the floor is a rug that was gained in trade with places as
+far as Shara.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10529
+S
+#10519
+The Path Along the Cliff Face~
+You walk along the barren ground, the sun searing and burning at you. 
+All over the place you see Aiel, warriors and gai'shain, alike scurrying
+around doing their many duties.  To the east of you is a curtain over what
+appears to be hut built right into the cliff face, amazing people...  These
+Aiel.  
+~
+0
+0 10
+D1
+~
+~
+3 3
+1 0 10520
+D2
+~
+~
+0 0
+0 0 10509
+D5
+~
+~
+0 0
+0 0 10587
+S
+#10520
+The Top of a Stairwell~
+Upon enter this room you find yourself standing at the top of a dimly
+lit, well carved staircase which goes and down and into the cliff.  Wonder
+whats down there?  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10519
+D5
+~
+~
+0 0
+0 0 10521
+S
+#10521
+Heading Down the Staircase~
+The staircase is dimly lit by an occasional torch and is not as well
+built as it could have been.  Your head brushes against an occasionaly
+spiderweb.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 10520
+D5
+~
+~
+0 0
+0 0 10522
+S
+#10522
+The Bottom of the Staircase~
+You stand at the bottom of the staircase and find yourself facing two
+doors and a hallway.  Which way shall you go?  This are is very dimly lit
+with only an occasional torch.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10525
+D1
+~
+~
+3 3
+1 0 10523
+D2
+~
+~
+3 3
+1 0 10524
+D4
+~
+~
+0 0
+0 0 10521
+S
+#10523
+The Weaponsmith's~
+You walk into the room and find stacks upon stacks of spears, bows,
+arrows and bucklers stacked against the wall.  Aiel men and woman are
+working here, carving bows out of wood and attaching spearheads that the
+metalsmith made to spear hafts.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10522
+S
+#10524
+The Treasury~
+Upon entering this room, your jaw drops in amazement at the
+massive;amounts of rubies, jems, gold and silver.  It is stacked in heaps
+and piles and there are even chests here and there.  Opening a chest you
+find it is filled with rich rugs and Sea Folk porcelin.  Must be that they
+ran out of room to put this treasure in, all the houses already being
+over-flowed with riches.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10522
+S
+#10525
+A Short Hallway~
+This hallway is quite dark as only an occasional torch lights it up. 
+Spiderwebs are here and there in the corners of the cieling.  Every movement
+of thing you says seems to echo all around you.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10526
+D2
+~
+~
+0 0
+0 0 10522
+S
+#10526
+The Middle of the Hallway~
+This hallway is quite dark as only an occasional torch lights it up. 
+Spiderwebs are here and there in the corners of the cieling.  Every movement
+of thing you says seems to echo all around you.  There is wooden door to
+your east, wonder what is behind it.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10528
+D1
+~
+~
+3 3
+1 0 10527
+D2
+~
+~
+0 0
+0 0 10525
+S
+#10527
+An Aiel Meeting Room~
+You enter this room and find the floor completely covered with expensive
+rugs and the room almost perfectly lit, not a shadow visible.  A few Aiel
+are here deep in conversation as they sit cross-legged on the floor.  An
+Aiel chief is also here, sitting on his wooden chair as he chats with
+warriors who stands or sit before him.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10526
+S
+#10528
+The End of the Hallway~
+The north-south hallway ends here and turns to the east.  The hallway
+that runs to the east is better lit than this one and seems to have doors
+lining it.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10529
+D2
+~
+~
+0 0
+0 0 10526
+S
+#10529
+The Starting of Another Hallway~
+This hallway is fairly lit by evenly spaced torches hanging in racks
+along the walls, there are doors to the north and the south.  An occasional
+Gai'shain hurries by without even looking at you.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10535
+D1
+~
+~
+0 0
+0 0 10530
+D2
+~
+~
+3 3
+1 0 10518
+D3
+~
+~
+0 0
+0 0 10528
+S
+#10530
+A Hallway in the Cliff~
+This hallway is fairly lit by evenly spaced torches hanging in racks
+along the walls, there are doors to the north and the south.  An occasional
+Gai'shain hurries by without even looking at you.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10551
+D1
+~
+~
+0 0
+0 0 10531
+D2
+~
+~
+3 3
+1 0 10550
+D3
+~
+~
+0 0
+0 0 10529
+S
+#10531
+Nearing the end of the Hallway~
+This hallway is fairly lit by evenly spaced torches hanging in racks
+along the walls, there are doors to the north and the south.  An occasional
+Gai'shain hurries by without even looking at you.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10538
+D1
+~
+~
+0 0
+0 0 10532
+D2
+~
+~
+3 3
+1 0 10539
+D3
+~
+~
+0 0
+0 0 10530
+S
+#10532
+Just Before the End of the Hallway~
+This hallway is fairly lit by evenly spaced torches hanging in racks
+along the walls, there are doors to the north and the south.  An occasional
+Gai'shain hurries by without even looking at you.  There is a massive door
+to the east which is guarded by two heavily armed Aiel warriors.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10537
+D1
+~
+~
+3 3
+1 0 10533
+D2
+~
+~
+3 3
+1 0 10536
+D3
+~
+~
+0 0
+0 0 10531
+S
+#10533
+An Ancient Store Room~
+This room is clattered and crowded with crates of various items. 
+Parchments, scrolls and maps also lay scattered around.  Some Aiel wiseones
+are here going through the items.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 10532
+D5
+~
+~
+4099 4099
+1 0 10534
+S
+#10534
+A Storage Room Filled with Angreal~
+You clamber down the steps after opening the secret trapdoor and find
+yourself in a room filled with Angreal of all types.  Most of them are
+covered with dust and cobwebs, most likely a long forgotten room.  
+~
+0
+0 0
+D4
+~
+~
+4099 4099
+1 0 10533
+S
+#10535
+A Wiseone's Room~
+You enter the room to be greeting by a wiseone is bulky skirts and
+multitudes of jewelry.  The room is well lit and furnished, jewelry
+everywhere.  On the floor is a rug that was gained in trade with places as
+far as Shara.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 10529
+S
+#10536
+An Aiel Room~
+You open the door and enter the room to find yourself in an overly
+furnished room.  It must be owned by someone of great importance, not many
+of the other rooms have this much wealth in them.  There is a roll of
+blankets leaning against the wall in a corner.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10532
+S
+#10537
+An Aiel Room~
+You open the door and enter the room to find yourself in an overly
+furnished room.  It must be owned by someone of great importance, not many
+of the other rooms have this much wealth in them.  There is a roll of
+blankets leaning against the wall in a corner.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 10532
+S
+#10538
+An Aiel Room~
+You open the door and enter the room to find yourself in an overly
+furnished room.  It must be owned by someone of great importance, not many
+of the other rooms have this much wealth in them.  There is a roll of
+blankets leaning against the wall in a corner.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 10531
+S
+#10539
+An Aiel Room~
+You open the door and enter the room to find yourself in an overly
+furnished room.  It must be owned by someone of great importance, not many
+of the other rooms have this much wealth in them.  There is a roll of
+blankets leaning against the wall in a corner.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10531
+S
+#10540
+The Top of a Staircase~
+Entering this hut you find yourself at the top of a long staircase that
+has elegantly been carved into the cliff, it stretches downwards and
+disapears as it makes a curve.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10516
+D5
+~
+~
+0 0
+0 0 10541
+S
+#10541
+A Turn in the Long Staircase~
+The Staircase here winds around to the east.  Each step is carved so
+smoothly and is an exact replica of the first.  Whoever built this steps
+knew what they were doing.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10542
+D4
+~
+~
+0 0
+0 0 10540
+S
+#10542
+The Staircase~
+You continue walking the steps, each step seeming to echo throughout the
+whole staircase.  Not too much further to go it appears.  The Stairs are lit
+by torches hung in the walls, starting at this point.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 10541
+D5
+~
+~
+0 0
+0 0 10543
+S
+#10543
+The Staircase~
+You continue walking the steps, each step seeming to echo throughout the
+whole staircase.  Not too much further to go it appears.  The Stairs are lit
+by torches hung in the walls, starting at this point.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 10542
+D5
+~
+~
+0 0
+0 0 10544
+S
+#10544
+The Staircase~
+You continue walking the steps, each step seeming to echo throughout the
+whole staircase.  Not too much further to go it appears.  The Stairs are lit
+by torches hung in the walls, starting at this point.  
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 10543
+D5
+~
+~
+0 0
+0 0 10545
+S
+#10545
+The Bottom of the Staircase~
+Finally you have reached the bottom of the elegant staircase, the area
+down here is quite cool and is lit by torces evenly spaced along the walls. 
+A Gai'shan scurries by carrying a load.  You can only wonder where he is of
+to.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10546
+D4
+~
+~
+0 0
+0 0 10544
+S
+#10546
+A Hallway Carved Underground~
+You footsteps echo through the hallway with ever step you take.  The
+torches spaced along here flicker occasionaly giving this place a slightly
+eerie aura.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10547
+D3
+~
+~
+0 0
+0 0 10545
+S
+#10547
+A Hallway Carved Underground~
+You footsteps echo through the hallway with ever step you take.  The
+torches spaced along here flicker occasionaly giving this place a slightly
+eerie aura.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10548
+D3
+~
+~
+0 0
+0 0 10546
+S
+#10548
+The Hallway Carved Underground~
+The hallway ends here at a massive door to the south, two Aiel warriors
+stand guard at the door with spears and bucklers ready.  I wonder what is
+beyond those doors.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 10549
+D3
+~
+~
+0 0
+0 0 10547
+S
+#10549
+A Treasure Room~
+Upon entering this room, your jaw drops in amazement at the massive
+amounts of rubies, jems, gold and silver.  It is stacked in heaps and piles
+and there are even chests here and there.  Opening a chest you find it is
+filled with rich rugs and Sea Folk porcelin.  Must be that they ran out of
+room to put this treasure in, all the houses already being over-flowed with
+riches.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10548
+S
+#10550
+A Room filled with Books~
+This room is filled with books and thus must be a very important place
+for the Aiel as they value them greatly.  There are a couple rows of shelved
+stacked with books, some dating as far back as the trolloc wars.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 10530
+S
+#10551
+A Wiseone's Meeting Room~
+As you enter this room you find a circle of wiseones in their bulky
+dresses and drabbed in jewelry sitting cross-legged on the floor, deep in
+conversation.  This must be their meeting room, Gai'shain scurry about
+serving the wiseone's refreshments.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 10530
+S
+#10552
+The Three Fold Land~
+The {Ysun{x beats down on your {cback{x as you walk along the {Rbarren{x
+{ywastelands{x, {Csweat{x trickling down your {cback{x.  How could you possibly {Wknow{x
+where you are going?  Here and there a {gbrush{x juts from the {yrocky ground{x 
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10556
+D1
+~
+~
+0 0
+0 0 10500
+D2
+~
+~
+0 0
+0 0 10557
+D3
+~
+~
+0 0
+0 0 10555
+S
+#10553
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10500
+S
+#10554
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10500
+S
+#10555
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10558
+D1
+~
+~
+0 0
+0 0 10552
+D2
+~
+~
+0 0
+0 0 10559
+S
+#10556
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10552
+S
+#10557
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10552
+S
+#10558
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10555
+S
+#10559
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10555
+D2
+~
+~
+0 0
+0 0 10561
+D3
+~
+~
+0 0
+0 0 10560
+S
+#10560
+The Three Fold Land~
+The beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10564
+D1
+~
+~
+0 0
+0 0 10559
+D2
+~
+~
+0 0
+0 0 10563
+D3
+~
+~
+0 0
+0 0 10562
+S
+#10561
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here,
+how;could you possibly know where you are going?  Here and there a bush juts
+from the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10559
+S
+#10562
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 10565
+D1
+~
+~
+0 0
+0 0 10560
+D2
+~
+~
+0 0
+0 0 10567
+D3
+~
+~
+0 0
+0 0 10568
+S
+#10563
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10560
+D2
+~
+~
+0 0
+0 0 10568
+D3
+~
+~
+0 0
+0 0 10569
+S
+#10564
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10560
+S
+#10565
+~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10562
+S
+#10566
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 10576
+D4
+~
+~
+0 0
+0 0 10516
+S
+#10567
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10562
+S
+#10568
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10563
+D1
+~
+~
+0 0
+0 0 10562
+S
+#10569
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10572
+D1
+~
+~
+0 0
+0 0 10563
+D2
+~
+~
+0 0
+0 0 10571
+D3
+~
+~
+0 0
+0 0 10570
+S
+#10570
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10575
+D1
+~
+~
+0 0
+0 0 10569
+S
+#10571
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10569
+D1
+~
+~
+0 0
+0 0 10574
+D2
+~
+~
+0 0
+0 0 10573
+D3
+~
+~
+0 0
+0 0 10575
+D5
+~
+~
+0 0
+0 0 10574
+S
+#10572
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10569
+S
+#10573
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10571
+D1
+~
+~
+0 0
+0 0 10585
+S
+#10574
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D3
+~
+~
+0 0
+0 0 10571
+D4
+~
+~
+0 0
+0 0 10571
+S
+#10575
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10579
+D1
+~
+~
+0 0
+0 0 10571
+D2
+~
+~
+0 0
+0 0 10570
+D3
+~
+~
+0 0
+0 0 10578
+D5
+~
+~
+0 0
+0 0 10590
+S
+#10576
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10577
+D3
+~
+~
+0 0
+0 0 10566
+D5
+~
+~
+0 0
+0 0 10588
+S
+#10577
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10584
+D3
+~
+~
+0 0
+0 0 10576
+S
+#10578
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10580
+D1
+~
+~
+0 0
+0 0 10575
+D2
+~
+~
+0 0
+0 0 10581
+D3
+~
+~
+0 0
+0 0 10582
+D4
+~
+~
+0 0
+0 0 10586
+D5
+~
+~
+0 0
+0 0 10583
+S
+#10579
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10575
+D4
+~
+~
+0 0
+0 0 10590
+S
+#10580
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10578
+D5
+~
+~
+0 0
+0 0 10593
+S
+#10581
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10578
+D2
+~
+~
+0 0
+0 0 10586
+S
+#10582
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10578
+S
+#10583
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D4
+~
+~
+0 0
+0 0 10578
+S
+#10584
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10577
+D5
+~
+~
+0 0
+0 0 10585
+S
+#10585
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10586
+D3
+~
+~
+0 0
+0 0 10573
+D4
+~
+~
+0 0
+0 0 10584
+S
+#10586
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10581
+D3
+~
+~
+0 0
+0 0 10585
+D5
+~
+~
+0 0
+0 0 10578
+S
+#10587
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10590
+D1
+~
+~
+0 0
+0 0 10588
+D2
+~
+~
+0 0
+0 0 10592
+D3
+~
+~
+0 0
+0 0 10589
+D4
+~
+~
+0 0
+0 0 10519
+D5
+~
+~
+0 0
+0 0 10591
+S
+#10588
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D3
+~
+~
+0 0
+0 0 10587
+D4
+~
+~
+0 0
+0 0 10576
+S
+#10589
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 10587
+D4
+~
+~
+0 0
+0 0 10594
+S
+#10590
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 10587
+D4
+~
+~
+0 0
+0 0 10575
+D5
+~
+~
+0 0
+0 0 10579
+S
+#10591
+~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 10587
+S
+#10592
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10587
+D1
+~
+~
+0 0
+0 0 10594
+D2
+~
+~
+0 0
+0 0 10593
+S
+#10593
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 10592
+D4
+~
+~
+0 0
+0 0 10580
+S
+#10594
+The Three Fold Land~
+The sun beats down on your back as you walk along the barren wastelands,
+sweat trickling down your back.  Everything looks the same out here, how
+could you possibly know where you are going?  He and there a bush juts from
+the ground.  
+~
+0
+0 10
+D3
+~
+~
+0 0
+0 0 10592
+D5
+~
+~
+0 0
+0 0 10589
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 10504 1 1
+D 0 10505 1 1
+D 0 10506 1 1
+D 0 10507 3 1
+D 0 10508 3 1
+D 0 10509 1 1
+D 0 10510 3 1
+D 0 10511 3 1
+D 0 10512 1 1
+D 0 10513 3 1
+D 0 10514 1 1
+D 0 10515 3 1
+D 0 10516 1 1
+D 0 10516 2 1
+D 0 10517 3 1
+D 0 10518 0 1
+D 0 10519 1 1
+D 0 10520 3 1
+D 0 10522 1 1
+D 0 10522 2 1
+D 0 10523 3 1
+D 0 10524 0 1
+D 0 10526 1 1
+D 0 10527 3 1
+D 0 10529 0 1
+D 0 10529 2 1
+D 0 10530 0 1
+D 0 10530 2 1
+D 0 10531 0 1
+D 0 10531 2 1
+D 0 10532 0 1
+D 0 10532 1 1
+D 0 10532 2 1
+D 0 10533 3 1
+D 0 10533 5 1
+D 0 10534 4 1
+D 0 10535 2 1
+D 0 10536 0 1
+D 0 10537 2 1
+D 0 10538 2 1
+D 0 10539 0 1
+D 0 10540 0 1
+D 0 10548 2 1
+D 0 10549 0 1
+D 0 10550 0 1
+D 0 10551 2 1
+M 0 10505 20 10503 8
+M 0 10505 20 10503 3
+M 0 10505 20 10504 3
+M 0 10505 30 10504 2
+O 0 10501 0 10504
+O 0 10501 0 10505
+M 0 10505 30 10505 4
+M 0 10505 20 10506 3
+M 0 10503 6 10507 4
+M 0 10502 1 10508 1
+G 0 10506 0
+M 0 10505 20 10509 2
+M 0 10506 1 10510 1
+M 0 10508 1 10511 1
+O 0 10502 0 10511
+M 0 10505 20 10512 3
+M 0 10504 1 10513 1
+G 0 10507 0
+G 0 10508 0
+M 0 10505 20 10514 3
+M 0 10508 2 10515 1
+O 0 10509 0 10515
+M 0 10505 20 10516 3
+M 0 10508 2 10517 1
+O 0 10509 0 10517
+M 0 10505 1 10520 1
+M 0 10505 1 10521 1
+M 0 10506 20 10522 5
+O 0 10511 0 10524
+M 0 10505 20 10525 5
+M 0 10505 20 10526 5
+M 0 10505 20 10528 5
+M 0 10505 20 10540 3
+M 0 10505 20 10541 3
+M 0 10505 20 10542 3
+M 0 10505 20 10543 3
+M 0 10505 20 10544 3
+M 0 10505 20 10546 3
+M 0 10505 20 10548 3
+O 0 10510 0 10549
+S
+
+
+
+#SHOPS
+10502 0 0 0 0 0 100 100 0 23
+10504 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

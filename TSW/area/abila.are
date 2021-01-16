@@ -1,0 +1,6510 @@
+#AREADATA
+Name Abila~
+Builders Oniren~
+VNUMs 5400 5599
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#5400
+bridge guard~
+a {mb{wr{Did{wg{me g{wu{Da{wr{md{x~
+A {mb{wr{Did{wg{me g{wu{Da{wr{md{x glares balefully as he watches people crossing the {ywooden bridge{x.
+~
+~
+amadician~
+ABT 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEKU 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5401
+whitecloak children light soldier~
+a {Wsoldier{x~
+A {Wsoldier{x strides purposefully down the road with his hand poised ready over the {Dh{wil{Wt{x of his {Ds{wwo{Wrd{x.
+~
+This soldier stands out from the rest of the crowd dressed in burnished
+steel plate armor and a long white cloak emblazoned with a golden sunburst
+upon it which marks him as a member of the Children of the Light - a
+Whitecloak.  
+~
+amadician~
+AGTW 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 punch
+0 0 0 0 0
+A
+5 5 5 5
+CEKU 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5402
+militia~
+a member of the {mm{wi{Dl{wi{Dt{wi{ma{x~
+A member of the Abila's {mm{wi{Dl{wi{Dt{wi{ma{x wanders the streets, looking out for any signs of trouble.
+~
+~
+amadician~
+AGTW 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEKU 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5403
+wagon driver~
+a {yw{wa{Wg{wo{yn d{wr{Wiv{we{yr{x~
+A {yw{wa{Wg{wo{yn d{wr{Wiv{we{yr{x carefully guides his vehicle down the busy street.
+~
+~
+amadician~
+AGTW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5404
+farmer~
+a {cf{wa{Wrm{we{cr{x~
+A {cf{wa{Wrm{we{cr{x leads his horse-drawn cart down the street on his way to the marketplace. 
+~
+~
+amadician~
+AGTW 0 0 0
+49 39 25d25+2401 49d10+100 5d14+24 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5405
+merchant guard~
+a {mm{wer{Wch{wan{mt's g{wu{Wa{wr{md{x~
+A {mm{wer{Wch{wan{mt's g{wu{Wa{wr{md{x trails behind his master, warily eyeing everyone around him.
+~
+~
+amadician~
+AGTW 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 punch
+0 0 0 0 0
+A
+1 1 1 1
+CE 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5406
+merchant~
+a {mm{wer{Wch{wan{mt{x~
+A {mm{wer{Wch{wan{mt{x strolls down the street, not seeming to be in a hurry to go anywhere.
+~
+~
+amadician~
+AGSW 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+N 0 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#5407
+local woman~
+a {Yl{Wo{wc{Wa{Yl w{Wo{wm{Wa{Yn{x~
+A {Yl{Wo{wc{Wa{Yl w{Wo{wm{Wa{Yn{x ambles down the street carrying a shopping basket in her arms.
+~
+~
+amadician~
+AGSW 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5408
+young girl~
+a {My{wo{Wu{wn{Mg g{Wi{wr{Ml{x~
+A {My{wo{Wu{wn{Mg g{Wi{wr{Ml{x dashes along the street and generally getting in everyone's way.
+~
+~
+amadician~
+AGSW 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 0
+0 0 small 'unknown'
+#5409
+young boy~
+a {Cy{wo{Wu{wn{Cg{W b{wo{Cy{x~
+A {Cy{wo{Wu{wn{Cg{W b{wo{Cy{x runs grumbles to himself as he carries out some errands for his parents.
+~
+~
+amadician~
+AGSW 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 0
+0 0 small 'unknown'
+#5410
+stray dog~
+a {ystray dog{x~
+A {ystray dog{x barks loudly at anyone who approaches it.
+~
+~
+dog~
+AGW 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#5411
+stray cat~
+a {Dstray cat{x~
+A {Dstray cat{x slinks through the shadows as it searches for prey.
+~
+~
+cat~
+AGW J 0 0
+42 32 22d23+1764 42d10+100 5d7+21 scratch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off H
+#5412
+pigeon~
+a {Dp{wi{Wge{wo{Dn{x~
+A {Dp{wi{Wge{wo{Dn{x pecks at crumbs of food left on the street.
+~
+~
+song bird~
+AGW 0 0 0
+41 31 21d21+1681 41d10+100 5d6+20 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#5413
+drunken man patron~
+a {ydrunken patron{x~
+This {ydrunken man{x almost topples off of his chair.
+~
+~
+amadician~
+ABT 0 0 0
+51 41 26d26+2601 51d10+100 6d7+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5414
+serving girl~
+a {ms{Me{Wrvi{Mn{mg g{Wi{Mr{ml{x~
+A {ms{Me{Wrvi{Mn{mg g{Wi{Mr{ml{x hurries around the common room as she serves her customers.
+~
+~
+amadician~
+ABT 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5415
+patron man~
+a {rpatron{x~
+A {rman{x sits at one of the tables, quietly drinking.
+~
+~
+amadician~
+ABT 0 0 0
+53 43 27d27+2809 53d10+100 6d9+26 punch
+0 0 0 0 0
+A
+2 2 2 2
+I 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5416
+bouncer~
+a {bb{Bo{cu{Cn{cc{Be{br{x~
+A {bb{Bo{cu{Cn{cc{Be{br{x stands beside the doorway, suspiciously eyeing anyone who enters the building.
+~
+~
+amadician~
+ABT 0 0 0
+54 44 28d29+2916 54d10+100 6d10+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+CE 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5417
+barkeeper~
+a {rb{Rar{yk{Ye{ye{Rpe{rr{x~
+The {rb{Rar{yk{Ye{ye{Rpe{rr{x stands behind the bar, spiting in the {Dt{wan{Wka{wrd{Ds{x before polishing them with a {yg{wr{yu{wb{yb{wy{y c{wl{yo{wt{yh{x.
+~
+~
+amadician~
+ABT 0 0 0
+54 44 28d29+2916 54d10+100 6d10+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI 0 0 0
+stand stand female 45
+0 0 medium 'unknown'
+#5418
+militia~
+a member of the {mm{wi{Dl{wi{Dt{wi{ma{x~
+A member of the Abila's {mm{wi{Dl{wi{Dt{wi{ma{x casts a suspicious gaze over the market square.
+~
+~
+amadician~
+ABT 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEKR b 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5419
+gray haired man~
+a {Dg{wra{Dy-h{waire{Dd m{wa{Dn{x~
+A {Dg{wra{Dy-h{waire{Dd m{wa{Dn{x tries to haggle with one of the market stall's owners.
+~
+~
+amadician~
+ABT 0 0 0
+54 44 28d29+2916 54d10+100 6d10+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5420
+shopper~
+a {ys{Yhoppe{yr{x ~
+A {ys{Yhoppe{yr{x wanders around the stalls in the market square.
+~
+~
+amadician~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+FN 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#5421
+thieftaker man~
+a {rT{Rhieftake{rr{x~
+A {rm{Ra{rn{x slinks through the crowded market square in pursuit of someone.
+~
+~
+amadician~
+ABT 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CE 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5422
+hawker~
+a {ch{Cawke{cr{x~
+This {ch{Cawke{cr{x has attracted a large crowd of people around her market stall.
+~
+~
+amadician~
+ABS 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FJ 0 0 0
+stand stand female 45
+0 0 medium 'unknown'
+#5423
+strangely attired man traveler gealdan~
+a {gtraveler{x from {rG{Rh{De{wal{Wd{Ra{rn{x~
+A {gstrangely attired man {xroams around the market, purchasing provisions.
+~
+~
+ghealdanin~
+AGW 0 0 0
+56 46 29d30+3136 56d10+100 6d12+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+CF 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5424
+oddly attired woman traveler gealdan~
+a {gtraveler{x from {rG{Rh{De{wal{Wd{Ra{rn{x~
+An {goddly attired woman{x wanders around the market square, browsing through the merchandise.
+~
+~
+ghealdanin~
+AGSW 0 0 0
+56 46 29d30+3136 56d10+100 6d12+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FN 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5425
+small brown rat~
+a small {ybrown rat{x~
+A small {ybrown rat{x swims along the tunnel.
+~
+~
+rabbit~
+AGY 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#5426
+fuzzy brown rat~
+a fuzzy {ybrown rat{x~
+A fuzzy {ybrown rat{x sits upon a brick ledge, washing its fur.
+~
+~
+rabbit~
+AGY 0 0 0
+38 28 20d21+1444 38d10+100 4d12+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#5427
+large brown rat~
+a large {ybrown rat{x~
+A large {ybrown rat{x scurries along a brick ledge.
+~
+~
+rabbit~
+AGY 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#5428
+skinny brown rat~
+a skinny {ybrown rat{x~
+A skinny {ybrown rat{x sniffs around itself in an inquisitive manner.
+~
+~
+rabbit~
+AGY 0 0 0
+36 26 19d20+1296 36d10+100 4d10+18 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#5429
+podgy brown rat~
+a podgy {ybrown rat{x~
+A podgy {ybrown rat{x waddles along one of the brick ledges.
+~
+~
+rabbit~
+AGY 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#5430
+scruffy brown rat~
+a scruffy {ybrown rat{x~
+A scruffy {ybrown rat{x dives into the murky sewer water.
+~
+~
+rabbit~
+AGY 0 0 0
+39 29 20d20+1521 39d10+100 4d13+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 Q small 'unknown'
+F off H
+#5431
+young puppy~
+a {yyoung puppy{x~
+A {yyoung puppy{x lies in the corner of the room, chewing a {bslipper{x.
+~
+~
+dog~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#5432
+small child~
+a {gsmall child{x~
+A {gsmall child{x runs around the house, causing mayhem.
+~
+~
+amadician~
+ABS 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 5
+0 0 small 'unknown'
+#5433
+busy woman~
+a {mbusy woman{x~
+A {mbusy woman{x rushes around the house trying to tidy it up.
+~
+~
+amadician~
+ABS 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 0
+stand stand female 10
+0 0 medium 'unknown'
+#5434
+busy man~
+a {bbusy man{x~
+A {bbusy man{x mutters to himself as he tries to repair his house.
+~
+~
+amadician~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+F 0 0 0
+stand stand male 10
+0 0 medium 'unknown'
+#5435
+blacksmith~
+a {Bblacksmith{x~
+The {Bblacksmith{x stops occasionally to wipe the sweat from his brow as he works.
+~
+~
+amadician~
+ABEK 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#5436
+innkeeper~
+an {gi{Gnn{Wk{we{We{Gpe{gr{x~
+The {gi{Gnn{Wk{we{We{Gpe{gr{x stands in the hallway, greeting her guests.
+~
+~
+amadician~
+ABT 0 0 0
+54 44 28d29+2916 54d10+100 6d10+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI 0 0 0
+stand stand female 45
+0 0 medium 'unknown'
+#5437
+tipsy merchant~
+a tipsy {mm{wer{Wch{wan{mt{x~
+A tipsy {mm{wer{Wch{wan{mt{x stares forlornly at the bottom of his empty {Dt{wan{Wk{war{Dd{x.
+~
+~
+amadician~
+ABS 0 0 0
+71 61 36d36+5041 71d10+100 8d9+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+N 0 0 0
+sit sit male 25
+0 0 medium 'unknown'
+#5438
+drunken merchant's guard~
+a drunken {mm{wer{Wch{wan{mt's g{wu{Wa{wr{md{x~
+A drunken {mm{wer{Wch{wan{mt's g{wu{Wa{wr{md{x belches loudly at one of the {ms{Me{Wrvi{Mn{mg g{Mi{Wr{Ml{ms{x.
+~
+~
+amadician~
+ABT 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+CE 0 0 0
+sit sit male 15
+0 0 medium 'unknown'
+#5439
+off duty soldier whitecloak child light~
+an off-duty {Wsoldier{x~
+A {Wsoldier{x sits at one of the {ytables{x, quietly talking amongst his comrades.
+~
+This soldier stands out from the rest of the crowd dressed in burnished
+steel plate armor and a long white cloak emblazoned with a golden sunburst
+upon it which marks him as a member of the Children of the Light - a
+Whitecloak.  
+~
+amadician~
+ABT 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEKU 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5440
+drunken man patron~
+a {ydrunken patron{x~
+A {ydrunken patron{x leans against the bar as they try to order another drink.
+~
+~
+amadician~
+ABT 0 0 0
+51 41 26d26+2601 51d10+100 6d7+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5441
+well dressed man~
+a {rwell-dressed man{x~
+A {rwell-dressed man{x sits on the edge of the bed, sharpening his {Ds{ww{Wo{wr{Dd{x.
+~
+~
+amadician~
+ABT 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 punch
+0 0 0 0 0
+A
+4 4 4 4
+CE b 0 0
+sit sit male 25
+0 0 medium 'unknown'
+#5442
+well dressed woman~
+a {gwell-dressed woman{x~
+A {gwell-dressed woman{x peers inquisitively out of the window.
+~
+~
+amadician~
+ABS 0 0 0
+71 61 36d36+5041 71d10+100 8d9+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+EN b 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#5443
+chambermaid~
+a {cc{Cha{Wmberm{Cai{cd{x~
+A {cc{Cha{Wmberm{Cai{cd{x hurries down the hallway.
+~
+~
+amadician~
+AGSY 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5444
+weary guest~
+a {bw{Be{Wa{Br{by g{Bu{We{Bs{bt{x~
+A {bw{Be{Wa{Br{by g{Bu{We{Bs{bt{x wanders back to their room.
+~
+~
+amadician~
+AGSY 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+N 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#5445
+cook~
+a {Wcook{x~
+{wA {Wcook{w is hard at work within the inn's kitchen.{x
+~
+~
+amadician~
+ABS 0 0 0
+57 47 29d29+3249 57d10+100 6d13+28 punch
+0 0 0 0 0
+A
+2 2 2 2
+FN 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#5446
+archer militia~
+an {ma{wr{Dch{we{mr{x~
+An {ma{wr{Dch{we{mr{x stands on guard at the top of the watchtower.
+~
+~
+amadician~
+ABS 0 0 0
+69 59 35d35+4761 69d10+100 7d16+34 punch
+0 0 0 0 0
+A
+3 3 3 3
+EFN 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5447
+soldier whitecloak child light~
+a {Wsoldier{x~
+A {Wsoldier{x vigilantly patrols the area.
+~
+This soldier stands out from the rest of the crowd dressed in burnished
+steel plate armor and a long white cloak emblazoned with a golden sunburst
+upon it which marks him as a member of the Children of the Light - a
+Whitecloak.  
+~
+amadician~
+AGT 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 punch
+0 0 0 0 0
+A
+5 5 5 5
+CEKU 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5448
+stablehand~
+a {Wstablehand{x~
+A {Wstablehand{x dressed in white livery is busy mucking out the stables.
+~
+~
+amadician~
+ABT 0 0 0
+58 48 30d31+3364 58d10+100 6d14+29 punch
+0 0 0 0 0
+A
+2 2 2 2
+CF 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5449
+white horse~
+a {Wwhite horse{x~
+A {Wwhite horse{x stands in its stall, eating some {ghay{x.
+~
+~
+rabbit~
+AB 0 0 0
+58 48 30d31+3364 58d10+100 6d14+29 charge
+0 0 0 0 0
+A
+2 2 2 2
+CI 0 0 0
+stand stand either 0
+0 Q large 'unknown'
+#5450
+servant~
+a {ms{De{wr{Wv{wa{Dn{mt{x~
+A {ms{De{wr{Wv{wa{Dn{mt{x scuttles around the house as they do their chores.
+~
+~
+amadician~
+ABT 0 0 0
+59 49 30d30+3481 59d10+100 6d15+29 punch
+0 0 0 0 0
+A
+2 2 2 2
+C 0 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#5451
+hedge doctor~
+a {Ghedge doctor{x~
+The {Ghedge doctor{x mutters irritably to himself as he prepares another {ys{wa{Wl{wv{ye{x using a {Dp{we{Wst{wl{De{x and {Dm{wo{Wrt{wa{Dr{x.
+~
+~
+amadician~
+ABa 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#5452
+shopkeeper~
+a {Rshopkeeper{x~
+The {Rshopkeeper{x stands behind the {ycounter{x, smiling as he greets his customers.
+~
+~
+amadician~
+AB 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#5453
+shopkeeper~
+a {Rshopkeeper{x~
+Sat in a {yrocking chair{x in the corner of the room is the {Rbookshop's owner{x.
+~
+~
+amadician~
+ABJb 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+F gain B
+F train B
+V tlevel 50
+#5454
+busy clerk~
+a busy {Wclerk{x~
+A busy {Wclerk{x shuffles down the corridor, carrying a pile of documents.
+~
+~
+amadician~
+AGSY 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#5455
+militia~
+a member of the {mm{wi{Dl{wi{Dt{wi{ma{x~
+A member of the Abila's {mm{wi{Dl{wi{Dt{wi{ma{x hurries down the corridor.
+~
+~
+amadician~
+AGTY 0 0 0
+74 64 38d39+5476 74d10+100 8d12+37 punch
+0 0 0 0 0
+A
+4 4 4 4
+CEKU 0 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#5400
+wide rimmed helmet~
+a {Dw{wid{De r{wimme{Dd h{welme{Dt{x~
+A wide rimmed helmet has been left here.~
+steel~
+armor K AE
+21 21 21 11 0
+74 4 300 100
+A
+17 -15
+#5401
+scalemail jerkin~
+a {Ds{wcalemai{Dl j{werki{Dn{x~
+A scalemail jerkin has been left here.~
+steel~
+armor K AD
+21 21 21 11 0
+74 6 250 100
+A
+5 3
+#5402
+short hafted spear~
+a {Ds{yhor{Dt h{yafte{Dd s{wpea{Dr{x~
+A short hafted spear has been left here.~
+steel~
+weapon 0 AN
+spear 8 13 'stab' 0
+74 6 150 100
+A
+18 2
+A
+19 1
+#5403
+washing lines~
+numerous {Dw{wa{Wshi{wn{Dg l{wi{Wn{we{Ds{x~
+Strung high above the {ymuddy path{x between the two rows of houses are numerous {Dw{wa{Wshi{wn{Dg l{wi{Wn{we{Ds{x.~
+cloth~
+container Sa P
+100 E 0 25 100
+0 0 0 100
+E
+washing lines~
+Strung high above the {ymuddy path{x between the two rows of houses are
+numerous {Dw{wa{Wshi{wn{Dg l{wi{Wn{we{Ds{x; the {cs{Cogg{cy{x items of {yc{ml{Mothi{mn{yg{x festoon the alley like
+{yg{mr{Mi{mm{yy b{mu{Mnti{mn{yg{x.  
+~
+#5404
+long sword~
+{wa {Dl{wo{Wng{w {Ds{ww{Wo{wr{Dd{x~
+A long sword has been left here.~
+steel~
+weapon 0 AN
+sword 9 14 'slash' 0
+80 5 175 100
+A
+19 2
+A
+18 2
+#5405
+chainmail leggings~
+{Dc{wh{Da{wi{Dn{wm{Da{wi{Dl l{we{Dg{wgi{Dn{wg{Ds{x~
+A set of chainmail leggings has been left here.~
+steel~
+armor K AF
+23 23 23 11 0
+80 2 250 100
+A
+19 1
+A
+18 1
+A
+17 -10
+#5406
+chainmail sleeves~
+{Dc{wh{Da{wi{Dn{wm{Da{wi{Dl s{wl{De{we{Dv{we{Ds{x~
+A set of chainmail sleeves has been left here.~
+steel~
+armor K AI
+23 23 23 11 0
+80 2 250 100
+A
+19 1
+A
+18 1
+A
+17 -10
+#5407
+conical helm~
+{wa {Wc{won{Di{wca{Wl {wh{De{wl{Wm{x~
+A conical helm has been left here.~
+steel~
+armor K AE
+23 23 23 11 0
+80 3 300 100
+A
+13 20
+A
+4 3
+#5408
+steel breastplate~
+{wa {Ws{wt{De{we{Wl b{wrea{Dstp{wlat{We{x~
+A steel breastplate has been left here.~
+steel~
+armor K AD
+23 23 23 11 0
+80 6 300 100
+A
+17 -20
+#5409
+steel backplate~
+{wa {Ws{wt{De{we{Wl b{wac{Dkpl{wat{We{w{x~
+A steel backplate has been left here.~
+steel~
+armor K AS
+23 23 23 11 0
+80 6 300 100
+A
+17 -20
+#5410
+white leather boots~
+{Wwhite leather boots{x~
+A pair of white leather boots has been left here.~
+leather~
+armor KS AG
+23 23 23 11 0
+80 3 85 100
+A
+2 2
+A
+5 2
+#5411
+white leather gloves~
+{Wwhite leather gloves{x~
+A pair of white leather gloves has been left here.~
+leather~
+armor KS AH
+23 23 23 11 0
+80 1 85 100
+A
+2 2
+A
+1 2
+#5412
+white cloak golden sunburst~
+{wa {Wwhite cloak{w decorated with a {Wg{Yolde{Wn s{Yunburs{Wt{x~
+A white cloak has been left here.~
+wool~
+armor KS AK
+23 23 23 11 0
+80 4 60 100
+A
+1 1
+A
+2 1
+A
+5 2
+#5413
+short sword~
+a {Ds{wh{Wo{wr{Dt s{ww{Wo{wr{Dd{x~
+A short sword has been left here.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' 0
+74 4 150 100
+A
+18 3
+#5414
+high backed chairs~
+a {bh{Big{bh-b{Backe{bd c{Bhai{br{x placed near the {rf{yireplac{re{x~
+A large {rf{yireplac{re{x made of {rr{yeddis{rh-b{yrow{rn s{yton{re{x has been constructed on the east side of the room.~
+wood~
+furniture S P
+4 10000 FIL 100 100
+0 0 0 100
+E
+high backed chairs fireplace~
+A large {rf{yireplac{re{x made of {rr{yeddis{rh-b{yrow{rn s{yton{re{x has been constructed on the
+east side of the room; a few comfy {bh{Big{bh-b{Backe{bd c{Bhair{bs{x have been arranged
+neatly around the {rf{yireplac{re{x for the patrons of this tavern.  
+~
+#5415
+bar~
+a {ybar{x~
+Built along the east wall of the common room is the {ybar{x.~
+wood~
+container S P
+100 E 0 50 100
+0 0 0 100
+E
+bar~
+Built along the east wall of the common room is the {ybar{x.  Fixed to the
+wall behind the {ybar{x are numerous {yshelves{x neatly stocked with {Dt{wan{Wka{wrd{Ds{x,
+{Dg{wob{Wl{wet{Ds{x as well as {cb{Co{Wttl{Ce{cs{x and {yjugs{x filled with miscellaneous alcoholic
+products.  
+~
+#5416
+coping~
+the {Wcoping{x around the edge of the {Wwhite stone{x {Wf{Co{cu{Cnt{ca{Ci{Wn{x~
+The {Wcoping{x around the edge of the {Wwhite stone{x {Wf{Co{cu{Cnt{ca{Ci{Wn{x looks wide enough to sit upon.~
+stone~
+furniture Sa P
+6 10000 EHK 100 100
+0 0 0 100
+#5417
+white stone fountain~
+a {Wf{Co{cu{Cnt{ca{Ci{Wn{x built from {Wwhite stone{x~
+A {Wwhite stone{x {Wf{Co{cu{Cnt{ca{Ci{Wn{x has been built at the center of the market square.~
+stone~
+fountain S P
+0 0 'water' 0 0
+0 0 0 100
+E
+white stone fountain~
+At the center of the market square stands a large {Wbowl-shaped{x {Wf{Co{cu{Cnt{ca{Ci{Wn{x,
+carved from {Wwhite stone{x.  At the centre of the {Wf{Co{cu{Cnt{ca{Ci{Wn{x stands a {Wstatue{x of a
+{Wwoman{x carrying an {Wurn{x from which {Wc{Cr{cy{Cs{ct{Ca{Wl-c{Cl{ce{Ca{Wr w{Ca{ct{Ce{Wr{x flows out of.  
+~
+#5418
+moth eaten woolen tunic~
+a{y m{wot{yh-e{wate{yn t{wuni{yc{x~
+A woolen tunic with some unsightly holes has ben left here.~
+wool~
+armor S AD
+16 16 16 6 0
+54 3 60 100
+A
+5 1
+#5419
+wooden crate~
+a {ywooden crate{x~
+There are dozens of {ywooden crates{x, {yboxes{x, {yc{Da{ys{Dk{ys{x and {yb{Da{yrre{Dl{ys{x stacked up in this warehouse.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+E
+wooden crates boxes casks barrels~
+There are dozens of {ywooden crates{x, {yboxes{x, {yc{Da{ys{Dk{ys{x and {yb{Da{yrre{Dl{ys{x that have
+been stacked neatly within this area, each one branded with the mark of
+their owner.  
+~
+#5420
+bolts fabric~
+a {Wb{Yo{Gl{Ct{x of {Rf{Ma{Bb{Gr{Yi{Rc{x~
+Also placed in this section of the warehouse are numerous {Wb{Yo{Gl{Ct{Bs{x of {Rf{Ma{Bb{Gr{Yi{Rc{x.~
+cloth~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+bolts fabric~
+Also placed in this section of the warehouse are numerous {Wb{Yo{Gl{Ct{Bs{x of
+{Rf{Ma{Bb{Gr{Yi{Rc{x, their bright colors are a distinct contrast to the rest of this
+gloomy area.  
+~
+#5421
+wooden barrels~
+a {yw{Do{yod{De{yn b{Da{yrre{Dl{x~
+Several large {yb{Da{yrre{Dl{ys{x and {ysacks{x have been placed against the east wall.~
+wood~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+wooden barrels sacks~
+Located against the east wall of the workshop are numerous large {yw{Do{yod{De{yn
+b{Da{yrre{Dl{ys{x that contain {Cwater{x, as well as {ysacks{x of {Dcoal{x and {Dcharcoal{x.  
+~
+#5422
+workbench~
+a {yworkbench{x~
+Built along the west side of the room is a long {yworkbench{x.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+workbench~
+Built along the western side of the room is a long {yworkbench{x, littered
+with miscellaneous {Dt{wo{Wo{wl{Ds{x.  Attached to the wall above the {ybench{x are several
+{yracks{x and {yshelves{x filled with neatly arranged {Dt{wo{Wo{wl{Ds{x that belong to the
+blacksmith, including {Dh{wammer{Ds{x and {Df{worcep{Ds{x.  Beneath the {yworkbench{x are
+several large {ycupboards{x and {ydrawers{x that probably contain more tools.  
+~
+#5423
+spiraling wooden staircase~
+a {yspiraling wooden staircase{x~
+A {yspiraling wooden staircase{x leading to the upper level of the inn appears to be the only exit out of this end of the hallway.~
+wood~
+furniture S P
+4 10000 BEH 100 100
+0 0 0 100
+#5424
+spiraling wooden staircase~
+a {yspiraling wooden staircase{x~
+A {yspiraling wooden staircase{x that leads to the lower level of the inn has been built here.~
+wood~
+furniture S P
+4 10000 BEH 100 100
+0 0 0 100
+#5425
+long tables benches~
+a {ylong table{x~
+There are numerous {ytables{x and {ybenches{x neatly arranged around the room.~
+wood~
+furniture S P
+6 10000 DGJ 100 100
+0 0 0 100
+#5426
+large table wooden stools~
+a {ylarge table{x placed at the center of the kitchen~
+Below the {yceiling rack{x is a {ylarge table{x, the main focal point of the room.~
+wood~
+furniture S P
+6 10000 DGJ 100 100
+0 0 0 100
+E
+large table wooden stools~
+Below the {yceiling rack{x is a {ylarge table{x, the main focal point of the room
+for the staff employed in the kitchen.  Several {ywooden stools{x have been set
+around the {ytable{x, the majority of them look old, battered and in need of
+repairs.  
+~
+#5427
+dark gray stone fireplace~
+a {Dd{war{Dk-g{wra{Dy s{wton{De f{wir{Dep{wlac{De{x~
+Warmth radiates into the room from a {Dd{war{Dk-g{wra{Dy s{wton{De f{wir{Dep{wlac{De{x built in the south wall.~
+stone~
+container S P
+10 0 0 5 100
+0 0 0 100
+E
+dark gray stone fireplace~
+Warmth radiates into the room from the {Dd{war{Dk-g{wra{Dy s{wton{De f{wir{Dep{wlac{De{x built in
+the south wall of the room.  As well as a large {ym{reat spi{yt{x there are a couple
+of soot-stained {Dco{woki{Dng p{wot{Ds{x and {Dg{wri{Ddd{wle{Ds{x to be seen placed hung over the
+fire.  
+~
+#5428
+blackjack~
+{wa {Db{wl{Da{yckj{Da{wc{Dk{x~
+A leather-wrapped blackjack has been left here.~
+lead~
+weapon K AN
+mace 6 11 'smash' 0
+54 5 150 100
+A
+19 1
+#5429
+blue cloth bandana~
+a {bb{Blu{be b{Bandan{ba{x~
+A piece of blue cloth has been left here.~
+cloth~
+armor KS AE
+16 16 16 6 0
+54 1 45 100
+A
+3 1
+#5430
+tough leather bracer~
+a {Dt{youg{Dh l{yeathe{Dr b{yrace{Dr{x~
+A bracer made of tough leather has been left here.~
+leather~
+armor S AM
+16 16 16 6 0
+54 1 100 100
+A
+5 1
+#5431
+silver medallion~
+a {Ds{wilv{Wer{D m{wed{Wall{wio{Dn{x~
+A medalion made of silver has been left here.~
+silver~
+armor K AC
+16 16 16 6 0
+54 1 300 100
+A
+19 1
+#5432
+long narrow bladed sword~
+a {Dl{wo{Wng{w {Dn{warr{Wow{w {Db{wlad{Wed{w {Ds{wwo{Wrd{w{x~
+A long narrow bladed sword has been left here.~
+steel~
+weapon 0 AN
+sword 8 13 'slash' 0
+72 5 250 100
+A
+18 2
+A
+19 1
+#5433
+ivory dagger~
+{wan {Wivory{w hilted {Dd{wa{Wgg{we{Dr{x~
+An ivory hilted dagger has been left here.~
+steel~
+weapon K AN
+exotic 8 13 'none' 0
+71 2 300 100
+A
+18 3
+#5434
+white cloth apron~
+a {Wc{wlot{Wh a{wp{Wr{wo{Wn{x~
+An apron has been left here.~
+cloth~
+armor KS AL
+17 17 17 6 0
+57 1 45 100
+A
+5 1
+A
+4 1
+#5435
+meat cleaver~
+a {Dm{wea{Dt c{wleave{Dr{x~
+A meat cleaver has been left here.~
+steel~
+weapon K AN
+axe 6 11 'chop' 0
+57 2 150 100
+A
+19 2
+#5436
+kitchen knife~
+{wa {Dk{wit{Wc{whe{Dn k{wn{Wi{wf{De{x~
+A kitchen knife has been left here.~
+steel~
+weapon K AN
+dagger 6 11 'slash' 0
+57 1 150 100
+A
+19 2
+#5437
+rolling pin~
+a {yrolling pin{x~
+A rolling pin has been dropped here.~
+wood~
+weapon KS AN
+mace 6 11 'smash' 0
+57 3 150 100
+A
+19 2
+#5438
+gold diamond necklace~
+a {Wd{wi{Wamo{wn{Wd{w {yne{Yckla{yce{x~
+A gold necklace set with a single diamond has been left here.~
+gold~
+armor K AC
+21 21 21 8 0
+71 1 350 100
+A
+19 3
+#5439
+crimson velvet waistcoat~
+a {rc{Rr{rims{Ro{rn v{Re{rlv{Re{rt w{Ra{ristco{Ra{rt{x~
+A crimson velvet waistcoat has been left here.~
+velvet~
+armor KS AD
+21 21 21 9 0
+72 3 100 100
+A
+3 3
+#5440
+violet velvet waistcoat~
+a {mv{Mi{mol{Me{mt v{Me{mlv{Me{mt w{Ma{mistco{Ma{mt{x~
+A violet velvet waistcoat has been left here.~
+velvet~
+armor KS AD
+21 21 21 9 0
+72 3 100 100
+A
+18 3
+#5441
+violet cravat~
+a {mv{Mi{mol{Me{mt c{Mr{mav{Ma{mt{x~
+A violet cravat has been left here.~
+cloth~
+armor KS AC
+21 21 21 9 0
+72 1 45 100
+A
+13 20
+A
+18 2
+#5442
+crimson cravat~
+a {rc{Rr{rims{Ro{rn c{Rr{rav{Ra{rt{x~
+A crimson cravat has been left here.~
+cloth~
+armor KS AC
+21 21 21 9 0
+72 1 45 100
+A
+12 20
+A
+19 1
+A
+18 1
+#5443
+narrow belt black leather~
+a {Dnarrow belt{x made of {Dblack leather{x~
+A narrow belt made of black leather has been left here.~
+leather~
+armor KS AL
+21 21 21 9 0
+72 1 85 100
+A
+17 -5
+A
+19 2
+#5444
+snug black breeches~
+a pair of {Dsnug black breeches{x~
+A pair of snug black breeches has been left here.~
+wool~
+armor KS AF
+21 21 21 9 0
+72 5 60 100
+A
+2 1
+A
+1 1
+A
+12 20
+#5445
+frilly white apron~
+a {Wf{wr{Wil{wl{Wy w{wh{Wi{wt{We a{wp{Wr{wo{Wn{x~
+A frilly white apron has been left here.~
+cloth~
+armor KS AL
+15 15 15 7 0
+52 1 45 100
+A
+13 20
+#5446
+brass ring~
+a {yb{Yras{ys r{Yin{yg{x~
+A brass ring has been left here.~
+brass~
+armor K AB
+15 15 15 7 0
+52 1 50 100
+A
+4 1
+#5447
+battered tray~
+a {Db{watter{Wed{D t{wra{Wy{x~
+A battered tray has been left here.~
+tin~
+armor K AJ
+15 15 15 7 0
+52 3 50 100
+A
+17 -5
+#5448
+rusty wide rimmed helmet~
+a {rr{yu{Ds{wt{Dy{x {rw{yi{Dd{we {Dr{wim{Dm{ye{rd{x {rh{ye{Dlm{ye{rt{x~
+A rusty wide rimmed helmet has been left here.~
+steel~
+armor 0 AE
+20 20 20 9 0
+69 4 300 100
+A
+17 -5
+A
+18 1
+A
+19 1
+#5449
+rusty dagger~
+a {rr{yu{Ds{wt{Dy{x {Dd{wag{Dg{ye{rr{x~
+A rusty dagger has been left here.~
+steel~
+weapon K AN
+dagger 7 12 'stab' 0
+69 2 150 100
+A
+18 2
+A
+19 1
+#5450
+long bow~
+a {ylong bow{x~
+A long bow has been left here.~
+wood~
+weapon S AN
+bow 7 12 'thwack' F
+69 5 150 100
+A
+18 2
+A
+19 1
+#5451
+purple arrow~
+a {mp{Mu{mrple-f{Ml{metch{Me{md{x {ya{Dr{wr{Do{yw{x~
+This is an arrow with purple fletchings.~
+wood~
+weapon S AO
+arrow 7 12 'pierce' 0
+69 1 0 100
+#5452
+quiver dark leather belt~
+a {Dq{yuive{Dr{x hung upon a {Dd{yar{Dk l{yeathe{Dr b{yel{Dt{x~
+A quiver hung upon a dark leather belt has been left here.~
+leather~
+container S AL
+25 0 0 25 100
+69 1 85 100
+A
+17 -15
+#5453
+cot rough wooden bench~
+a {ycot{x placed below the window~
+Placed below the window is a {ycot{x which is little more than a {yrough {x{ywooden bench{x.~
+wood~
+furniture S P
+1 1000 EHK 110 110
+0 0 0 100
+#5454
+oak desk high backed chairs~
+a {yh{Yi{Wgh-back{Ye{yd{x {yc{Yh{Wa{Yi{yr{x placed next to the {yo{Ya{Wk de{Ys{yk{x~
+A large {yo{Ya{Wk de{Ys{yk{x has been placed at the center of the room. ~
+wood~
+furniture S P
+2 0 EH 100 100
+0 0 0 100
+E
+oak desk high backed chairs~
+A large {yo{Ya{Wk de{Ys{yk{x has been placed at the center of the room with two
+{yh{Yi{Wgh-back{Ye{yd c{Yh{Wai{Yr{ys{x placed on either side of it.  
+~
+#5455
+slender drawer~
+a {ys{Yl{Wender draw{Ye{yr{x~
+The {yo{Ya{Wk de{Ys{yk{x has been fitted with a {ys{Yl{Wender draw{Ye{yr{x.~
+wood~
+container Sa P
+10 AC 0 10 100
+0 0 0 100
+#5456
+heavy bunch keys~
+a heavy bunch of {Dk{we{Wys{D{x~
+A heavy bunch of keys has been left here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 2 0 100
+#5457
+bunch golden keys~
+a bunch of {yg{Yolde{Wn{y k{Yey{Ws{x~
+A bunch of golden keys has been left here.~
+iron~
+key 0 AO
+0 0 0 0 0
+0 1 0 100
+#5458
+map amadicia~
+a map of {rA{Rm{Wa{wdi{Wc{Ri{ra{x~
+A map of {rA{Rm{Wa{wdi{Wc{Ri{ra{x has been hung upon one of the walls.~
+cloth~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#5459
+banner white sunburst children light~
+a {Wbanner{x of the {WChildren{x of the {WLight{x~
+A {Wwhite banner{x emblazoned with a {Wg{Yolde{Wn s{Yunburs{Wt{x has been hung upon one of the walls.~
+cloth~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#5460
+banner white sunburst children light~
+a {Wbanner{x of the {WChildren{x of the {WLight{x~
+The {Wbanner{x of the {WChildren{x of the {WLight{x flies from the rooftop of the building on the west side of the courtyard.~
+cloth~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#5461
+pitchfork~
+{wa {Dp{wit{Wchf{wor{Dk{x~
+A pitchfork has been left here.~
+steel~
+weapon a AN
+polearm 6 11 'stab' F
+58 8 150 100
+A
+19 2
+#5462
+leather coin purse~
+a {yleather coin purse{x~
+A leather coin purse has been left here.~
+gold~
+money a A
+0 10 0 0 0
+0 0 1000 100
+#5463
+large wooden trunk~
+a {ylarge wooden trunk{x~
+A {ylarge wooden trunk{x has been discarded here.~
+wood~
+container a P
+200 ABCD 5465 100 100
+0 0 0 100
+#5464
+pile gold coins~
+a pile of {yg{Yol{yd c{Yoin{ys{x~
+A pile of gold coins has been left here.~
+gold~
+money 0 A
+0 50 0 0 0
+0 0 5000 100
+#5465
+large green key~
+a {gl{Garg{ge g{Gree{gn k{Ge{gy{x~
+A large key painted green has been left here.~
+iron~
+key a A
+0 0 0 0 0
+90 1 0 100
+#5466
+large wooden trunk~
+a {ylarge wooden trunk{x~
+A {ylarge wooden trunk{x has been discarded here.~
+wood~
+container a P
+200 ABCD 5468 100 100
+0 0 0 100
+#5467
+gold diamond stud earring~
+{wa {Wd{wi{Wamo{wn{Wd{w {ys{Ytu{yd ea{Yrri{yng{x~
+A gold stud earring set with a single diamond has been left here.~
+gold~
+armor 0 AU
+26 26 26 12 0
+90 1 350 100
+A
+18 3
+A
+19 3
+A
+17 -20
+#5468
+large blue key~
+a {cl{Carg{ce b{Clu{ce k{Ce{cy{x~
+A large key painted blue has been left here.~
+iron~
+key a A
+0 0 0 0 0
+90 1 0 100
+#5469
+large wooden trunk~
+a {ylarge wooden trunk{x~
+A {ylarge wooden trunk{x has been discarded here.~
+wood~
+container a P
+200 ABCD 5471 100 100
+0 0 0 100
+#5470
+dark leather whip~
+{wa {Dd{yar{Dk l{yea{Dt{yhe{Dr w{yhi{Dp{w{x~
+A darkleather whip has been left here.~
+leather~
+weapon S AN
+whip 10 15 'beating' 0
+90 1 300 100
+A
+18 3
+A
+19 3
+#5471
+large yellow key~
+a {yl{Yarg{ye y{Yello{yw k{Ye{yy{x~
+A large key painted yellow has been left here.~
+iron~
+key a A
+0 0 0 0 0
+90 1 0 100
+#5472
+large red key~
+a {rl{Rarg{re r{Re{rd k{Re{ry{x~
+A large key painted red has been left here.~
+iron~
+key a A
+0 0 0 0 0
+90 1 0 100
+#5473
+deep bonnet big blue velvet bow~
+a {yd{Yee{yp b{Yonne{yt{x decorated with a {bb{Bi{bg b{Blu{be v{Belve{bt b{Bo{bw{x~
+A deep bonnet decorated with a big velvet bow has been dropped here.~
+cloth~
+armor KS AE
+13 13 13 7 0
+46 2 45 100
+A
+4 1
+#5474
+blue wool coat~
+a {bblue knee-length coat{x~
+A coat made of blue wool has been left here.~
+wool~
+armor KS AD
+14 14 14 8 0
+50 6 60 100
+A
+17 -5
+#5475
+sturdy brown leather boots~
+{Ds{yturd{Dy b{yrow{Dn l{yeathe{Dr b{yoot{Ds{x~
+A pair of boots has been left here.~
+leather~
+armor KS AG
+14 14 14 7 0
+49 4 85 100
+A
+2 1
+#5476
+brass ferruled quarterstaff staff~
+a {yb{Yras{ys{x-{yf{Yerrule{yd {yqu{Da{yrt{Der{yst{Da{yff{x~
+A quarterstaff fitted with brass ferrules.~
+wood~
+weapon K AN
+staff 5 10 'smash' F
+48 8 150 100
+A
+18 1
+#5477
+leather sleeves~
+a pair of {yleather sleeves{x~
+A pair of leather sleeves has been left here.~
+leather~
+armor S AI
+14 14 14 6 0
+48 2 85 100
+A
+17 -5
+#5478
+brass hooks~
+a {yb{Yras{ys h{Yoo{yk{x~
+Bunches of {gd{mrie{gd h{merb{gs{x hang from {yh{Yook{ys{x in the ceiling, giving the air here a sickly sweet perfume.~
+brass~
+container a P
+10 E 0 1 100
+0 0 0 100
+#5479
+cabinets~
+a {ycabinet{x~
+The majority of the {gp{Go{Yt{Wi{Yo{Gn{gs{x, {mt{Mincture{ms{x, {ce{Cl{Wi{wx{Wi{Cr{cs{x and {ys{wa{Wlv{we{ys{x are kept from eyes view in the {ycabinets{x that stand behind the shop counter.~
+wood~
+container S P
+200 AC 0 100 100
+0 0 0 100
+E
+cabinets shop counter~
+The majority of the {gp{Go{Yt{Wi{Yo{Gn{gs{x, {mt{Mincture{ms{x, {ce{Cl{Wi{wx{Wi{Cr{cs{x and {ys{wa{Wlv{we{ys{x are kept from
+eyes view in the {ycabinets{x that stand behind the shop counter.  
+~
+#5480
+horseshoe~
+a {Dh{wo{Drs{we{Dsh{wo{De{x~
+A sturdy horseshoe made of iron has been left here.~
+iron~
+armor K AO
+17 17 17 7 0
+58 1 0 100
+A
+18 1
+A
+19 1
+#5481
+bookcase~
+a {ybookcase{x~
+Placed beside the {bc{Bhai{br{x within arm's reach is a {ybookcase{x, its shelves are full of old leather bound books and chronicles.~
+wood~
+container S P
+100 0 0 100 100
+0 0 0 100
+#5482
+tall pile books~
+a tall pile of {gbooks{x~
+A tall pile of {gbooks{x balances precariously on top of the {ycounter{x.~
+paper~
+container Sa P
+10 0 0 10 100
+0 0 0 100
+#5483
+large hammer~
+a {Dl{wa{Wr{wg{De h{wa{Wmm{we{Dr{x~
+A large hammer has been left here.~
+iron~
+weapon 0 AN
+mace 5 9 'smash' 0
+30 5 150 100
+#5484
+sickle~
+{wa {Ds{wickl{De{x~
+A sickle has been left here.~
+steel~
+weapon 0 AN
+exotic 5 9 'slash' 0
+30 4 160 100
+#5485
+scythe~
+{wa {Ds{wcyth{De{x~
+A scythe has been left here.~
+steel~
+weapon 0 AN
+polearm 5 9 'slash' F
+30 10 170 100
+#5486
+sharp axe~
+{wa {Cs{Whar{Cp{w {Da{wx{De{w{x~
+A sharp axe has been left here.~
+steel~
+weapon 0 AN
+axe 5 9 'cleave' 0
+30 6 180 100
+#5487
+sheet notepaper~
+a sheet of {Wnotepaper{x~
+A sheet of notepaper has been dropped here.~
+paper~
+notepaper S AO
+0 0 0 0 0
+0 1 1 100
+#5488
+large leather bound book~
+a {ybook{x entitled {g"101 Ways How To Execute Tar Valon Witches"{x~
+A large leather bound book has been left here.~
+paper~
+trash S AO
+0 0 0 0 0
+50 1 30 100
+A
+18 1
+#5489
+belt knife~
+a {Db{wel{Dt k{wnif{De{x~
+A belt knife has been left here.~
+steel~
+weapon K AN
+dagger 6 11 'slash' 0
+53 1 150 100
+A
+18 1
+#5490
+green wool coat~
+a {ggreen knee-length coat{x~
+A coat made of green wool has been left here.~
+wool~
+armor KS AD
+15 15 15 6 0
+51 6 60 100
+A
+5 1
+#5491
+long sword~
+{wa {Dl{wo{Wng{w {Ds{ww{Wo{wr{Dd{x~
+A long sword has been left here.~
+steel~
+weapon K AN
+sword 8 13 'slash' 0
+73 5 175 100
+A
+18 2
+A
+19 1
+#5492
+weapons racks~
+a {yw{Ye{Wapons ra{Yc{yk{x~
+Several {yw{Ye{Wapons rac{Yk{ys{x have been arranged in neat rows within this room.~
+wood~
+container S P
+200 0 0 25 100
+0 0 0 100
+#5493
+dented round shield~
+a {Dd{we{Wnt{we{Dd r{wo{Wu{wn{Dd s{wh{Wie{wl{Dd{x~
+This round shield is sporting a few large dents.~
+steel~
+armor 0 AJ
+21 21 21 11 0
+74 7 300 100
+A
+17 -15
+#5494
+black eyepatch~
+{wa {Dblack eyepatch{x~
+A black eyepatch has been left here.~
+cloth~
+armor KS AV
+21 21 21 11 0
+74 1 45 100
+A
+2 -1
+A
+18 2
+A
+19 2
+#5495
+black leather boots~
+a pair of {Dblack leather boots{x worked with {Ds{wilv{Wer{D t{whre{Wad{x~
+A pair of black leather boots has been dropped here.~
+leather~
+armor S AG
+21 21 21 11 0
+74 2 85 100
+A
+5 3
+#0
+
+
+
+#ROOMS
+#5400
+{cNorth Abila Bridge{x~
+This is a simple timber bridge crosses over a twisting stream that almost
+completely encircles the town of Abila.  The bridge looks heavily worn down
+in places by the many years of traffic that have crossed it.  There is a
+wide muddy track that leads away from the bridge to the north; it is the
+main trading route from Amadicia to Ghealdan.  The road south of the bridge
+has been paved with slabs of stone and is in excellent condition unlike the
+bridge.  The tall stone watchtowers of the town are clearly visible from
+this point; they seem to over shadow many of the other buildings of the
+town.  
+~
+0
+C 14
+D0
+~
+~
+0 0
+0 0 5403
+D2
+~
+~
+0 0
+0 0 5401
+D5
+~
+~
+4096 4096
+0 0 5448
+S
+#5401
+{yNorth Abila Road{x~
+This is a wide street paved with slabs of stone that runs through the
+northern part of the town of Abila.  A second slightly narrower street runs
+east/west through the town intersecting this road.  Many of the buildings
+that overlook this road are tall; some are up to four stories in height. 
+Huge stone watchtowers that would not look too much out of place in the
+Borderlands overlook the buildings themselves.  To the north the number of
+buildings appears to dwindle as the road approaches the outskirts of the
+town towards a large wooden bridge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5400
+D1
+~
+~
+0 0
+0 0 5421
+D2
+~
+~
+0 0
+0 0 5402
+D3
+~
+~
+0 0
+0 0 5418
+S
+#5402
+{yNorth Abila Road{x~
+This is a wide street paved with slabs of stone that runs through the
+northern part of the town of Abila.  There are many tall buildings
+constructed from brick and stone and roofed with slate tiles overlooking
+this street; some of the structures are up to four stories in height.  The
+majority of the buildings in this part of the town appear to be houses
+although one or two shops can be seen too.  In the distance to the south
+this road opens up and forms a plaza.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5401
+D2
+~
+~
+0 0
+0 0 5404
+D3
+~
+~
+3 3
+1 0 5469
+S
+#5403
+{WOutside Abila{x~
+It should be of no surprise that a town such as Abila is so well
+defended; the small town is located along a main trade route and would have
+been a primary target for bandits and thieves to rob merchants as they rest
+here.  Tall watchtowers loom over the rest of the town's buildings, the
+sturdy stone towers would not look out of place in a Borderlander town.  A
+keen observer would see large numbers of heavily armored soldiers inside the
+town which suggest that they either have a camp nearby or a headquarters
+inside the town.  
+~
+0
+0 14
+D2
+~
+~
+0 0
+0 0 5400
+S
+#5404
+{yNorth Abila Road{x~
+This is a very broad paved street that cuts through the northern half of
+the town of Abila.  This particular road is part of the main trading route
+from Amadicia to Ghealdan; the street shows signs of wear from heavy goods
+wagons and recent repairs done to the paving.  Built in regimental style
+rows along this street are huge buildings made of brick and stone; most of
+these buildings appear to be houses.  The road opens out and forms a large
+plaza just a short distance away to the south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5402
+D2
+~
+~
+0 0
+0 0 5405
+D3
+~
+~
+3 3
+1 0 5470
+S
+#5405
+{WThe Town Square{x~
+It could be said that this town square is the heart of Abila as it is a
+popular gathering place for both strangers and locals.  It is a large plaza
+paved with slab of stone that is surrounded by tall buildings made of brick
+and stone.  A much larger and grander square can be seen just a short
+distance away to the east where a colorful marketplace has been set up.  Two
+wide paved streets lead away from this square, one route to the north and
+the other to the south.  A third, much narrower road leads away from the
+square to the west.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5404
+D1
+~
+~
+0 0
+0 0 5442
+D2
+~
+~
+0 0
+0 0 5406
+D3
+~
+~
+0 0
+0 0 5415
+S
+#5406
+{ySouth Abila Road{x~
+This is a very broad paved street that that runs through the southern
+half of Abila.  This particular road forms part of the main trading route
+between Amadicia and Ghealdan; the street shows signs of wear from heavy
+goods wagons and recent repairs which have been done to the paving.  Built
+in regimental style rows along this street are huge buildings made of brick
+and stone; most of these buildings appear to be houses although one or two
+shops can be seen too.  The road opens out and forms a large plaza just a
+short distance away to the north which appears to be one of the main focal
+points of the town.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5405
+D2
+~
+~
+0 0
+0 0 5407
+S
+#5407
+{ySouth Abila Road{x~
+This is a wide street paved with slabs of stone that runs through the
+southern part of the town of Abila.  There are numerous tall buildings
+constructed from brick and stone and roofed with slate tiles overlooking
+this street; some of the structures are up to four stories in height.  Most
+of the buildings in this part of the town are houses although one or two
+shops can be seen too.  In the distance to the south are the outskirts of
+this town, marked by a simple wooden bridge and to the north this road
+appears to open up and form a plaza.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5406
+D2
+~
+~
+0 0
+0 0 5408
+S
+#5408
+{ySouth Abila Road{x~
+This is a wide paved street paved that runs through the southern half of
+the town of Abila.  A second, much narrower street that runs east/west
+through the town intersects the street.  There are many tall buildings
+flanking this road, some are up to four stories in height.  Most of the
+houses and shops have been built from brick although there are some stone
+buildings.  Huge stone watchtowers that would not look too much out of place
+in the Borderlands overlook the buildings themselves.  To the south the
+number of buildings appears to dwindle as the road approaches the outskirts
+of the town towards a wooden bridge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5407
+D1
+~
+~
+0 0
+0 0 5411
+D2
+~
+~
+0 0
+0 0 5409
+D3
+~
+~
+0 0
+0 0 5425
+S
+#5409
+{cSouth Abila Bridge{x~
+This is a wooden bridge that crosses over a stream that almost completely
+encircles the fortified town of Abila.  The bridge looks heavily worn down
+in places by the many years of heavy traffic such as carts and wagons that
+have crossed it.  There is a wide muddy track that leads away from the
+bridge to the south; it forms part of main trade route from Ghealdan to
+Amadicia.  The paved road that lies north of the bridge is in superb
+condition unlike the bridge itself.  There are stone watchtowers clearly
+visible from this point along the outskirts of the town that seem to
+overshadow all other buildings in Abila.  
+~
+0
+C 14
+D0
+~
+~
+0 0
+0 0 5408
+D2
+~
+~
+0 0
+0 0 5410
+S
+#5410
+{WOutside Abila{x~
+Perhaps it is of no surprise that a town such as Abila is so heavily
+defended; the small town is situated along a main trade route and would have
+been a prime target for bandits and thieves to rob merchants as they rest
+here.  Tall watchtowers loom over the rest of the town's buildings, the
+sturdy stone towers would not look out of place in a Borderlander town.  A
+keen observer would see large numbers of heavily armored soldiers inside the
+town which suggest that they either have an encampment nearby or a
+headquarters inside the town.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 5409
+S
+#5411
+{yEast Street{x~
+This is western end of East Street, a long road that leads through the
+southern part of Abila.  The busy street is quite narrow and has been paved
+with large gray slabs of stone.  There is a second, much wider street a
+short distance away to the west that runs north/south through the busy town.
+Overlooking the street are tall gray stone buildings, mainly houses although
+there are a few shops too.  Most of the buildings have about four or five
+floors and have steeply sloping roofs that have been tiled with dark gray
+slate.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5412
+D2
+~
+~
+3 3
+1 0 5547
+D3
+~
+~
+0 0
+0 0 5408
+S
+#5412
+{yEast Street{x~
+This is the eastern end of East Street, a long yet narrow paved road that
+leads through the southern part of Abila.  A second street leads northwards
+to what appears to be a large marketplace.  Built in neat rows along this
+road are mainly tall gray stone houses.  There are very dark and narrow
+alleyways that are almost hidden from view that cut between the rows of
+houses.  Overlooking the houses are the watchtowers, ugly stone structures
+that loom over the rest of the buildings within this small town; one such
+tower is just a short walk away to the south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5414
+D1
+~
+~
+0 0
+0 0 5413
+D2
+~
+~
+3 3
+1 0 5502
+D3
+~
+~
+0 0
+0 0 5411
+S
+#5413
+{yEast Street{x~
+This is the eastern end of East Street, a particularly long thoroughfare
+that leads westwards through the southern part of Abila.  The busy street is
+quite narrow and has been paved with large gray slabs of stone.  Built in
+regimental style rows along this road are enormous buildings made of brick
+and stone and roofed with dark gray slate; nearly everyone of these
+buildings appear to be houses.  There are very dark and narrow alleyways
+that are almost hidden from view, the alleys cut between the rows of
+buildings.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 5473
+D2
+~
+~
+3 3
+1 0 5548
+D3
+~
+~
+0 0
+0 0 5412
+S
+#5414
+{yOak Tree Avenue{x~
+Oak Tree Avenue is a wide yet relatively short paved road within Abila
+lined with trees.  Overlooking the thoroughfare are numerous tall buildings,
+mainly shops and houses, most of the structures are four or five stories in
+height and have been roofed with dark slate tiles.  To the south a second,
+much longer paved street can be seen that leads east/west through the town,
+this road is also flanked by dull gray buildings.  An impressive paved plaza
+can be seen just a short distance away to the north where a colorful
+marketplace has been set up.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5441
+D2
+~
+~
+0 0
+0 0 5412
+D3
+~
+~
+3 3
+1 0 5474
+S
+#5415
+{yWest Street{x~
+This is the eastern end of West Street, particularly long thoroughfare
+that leads westwards through the center of Abila.  It is a very busy street
+that is quite narrow and has been paved with large gray stone slabs; many of
+the slabs show signs of heavy wear and tear.  Overlooking the street are
+tall gray stone buildings, mainly houses although there are a few shops too.
+Most of the buildings have about four or five floors and have steeply
+sloping roofs that have been tiled with dark gray slate.  The road opens out
+and forms a large plaza just a short distance away to the east.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5405
+D2
+~
+~
+3 3
+1 0 5478
+D3
+~
+~
+0 0
+0 0 5416
+S
+#5416
+{yWest Street{x~
+West Street stretches for a considerable distance both to the east and to
+the west.  It is a very busy street that is quite narrow and has been paved
+with large gray slabs of stone; many of the slabs show signs of heavy wear
+and tear.  Built in rows along this street are immense structures made of
+brick and stone and roofed with dark gray slate; most of these buildings
+appear to be houses although one or two shops visible and even some
+warehouses built along the southern side of the road.  There are very gloomy
+and narrow alleyways that are almost hidden from view, the alleys cut
+between the rows of buildings.  
+~
+0
+0 1
+D0
+~
+~
+4096 4096
+0 0 5430
+D1
+~
+~
+0 0
+0 0 5415
+D2
+~
+~
+3 3
+1 0 5475
+D3
+~
+~
+0 0
+0 0 5417
+S
+#5417
+{yWest Street{x~
+This is the western end of West Street, a long paved thoroughfare that
+leads eastwards through the center of Abila.  Built in rows along this
+street are massive buildings made of brick and stone and roofed with dark
+gray slate; most of these buildings appear to be houses although one or two
+shops can be seen.  There are very dark and narrow alleyways that are almost
+hidden from view, the alleys cut between the rows of buildings.  Overlooking
+the houses are the town's watchtowers; they are grotesque stone structures
+that loom over the rest of the buildings within this small town, one such
+heavily guarded tower is just a short walk away to the west.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5552
+D1
+~
+~
+0 0
+0 0 5416
+D2
+~
+~
+4096 4096
+0 0 5429
+D3
+~
+~
+3 3
+1 0 5510
+S
+#5418
+{yApple Tree Walk{x~
+Despite what the name of the street suggests, there does not appear to be
+trees of any sort along this street.  The street is quite narrow and has
+been paved with large gray slabs of stone.  Overlooking the street are tall
+gray stone buildings, mainly houses although there are a few shops too. 
+Most of the buildings have about four or five floors and have steeply
+sloping roofs that have been tiled with dark gray slate.  There is a second,
+much wider street a short distance away to the east that runs north/south
+through the busy town.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5467
+D1
+~
+~
+0 0
+0 0 5401
+D3
+~
+~
+0 0
+0 0 5419
+S
+#5419
+{yApple Tree Walk{x~
+Despite what the name of the street suggests, there are no trees of any
+sort along this street.  The street is narrow and has been paved with large
+gray slabs of stone.  Flanking the street are tall gray stone houses and
+shops.  Most of the buildings have about four or five floors and have
+steeply sloping roofs that have been tiled with slate.  Overlooking both the
+houses and the streets are the watchtowers, monstrous stone figures that
+loom over the rest of the buildings within this small town, one such tower
+lies just a short walk away to the north.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5508
+D1
+~
+~
+0 0
+0 0 5418
+D2
+~
+~
+4096 4096
+0 0 5431
+D3
+~
+~
+0 0
+0 0 5420
+S
+#5420
+{yApple Tree Walk{x~
+This is the western end of Apple Tree Walk, a short yet narrow street
+that winds its way through the northern part of the town of Abila. 
+Overlooking the street are tall gray stone buildings, mainly houses and
+shops although two very large buildings seem to dominate this area.  The
+building to west is a large inn which is a surprisingly grand and ornate
+structure for a small town of this size.  To the north a much larger
+building can be seen, it looks like it was once the home of a wealthy
+merchant but now a flag flies from its roof depicting the Thistle of
+Amadicia.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5512
+D1
+~
+~
+0 0
+0 0 5419
+D2
+~
+~
+3 3
+1 0 5545
+D3
+~
+~
+3 3
+1 0 5480
+S
+#5421
+{yWillow Tree Way{x~
+This is the western end of Willow Tree Way, a peculiarly long and winding
+road that leads through the northern part of Abila.  Overlooking the street
+are tall gray stone buildings, mostly houses although there are a few shops
+too to be seen along this thoroughfare.  Most of the buildings along this
+road have four or five floors and have steeply sloping roofs that have been
+tiled with dark gray slate.  There is a second, much wider street a short
+distance away to the west that runs north/south through the busy town.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5468
+D1
+~
+~
+0 0
+0 0 5422
+D2
+~
+~
+3 3
+1 0 5546
+D3
+~
+~
+0 0
+0 0 5401
+S
+#5422
+{yWillow Tree Way{x~
+This is Willow Tree Way, a peculiarly long and winding road that leads
+westwards through the northern part of Abila.  Despite what the name of the
+street suggests, there are no trees of any sort along this street.  A second
+street joins on to this road and leads south to what appears to be a large
+marketplace.  Built in regimental style rows along this street are huge
+buildings made of brick and stone and roofed with dark gray slate; most of
+these buildings appear to be houses.  Overlooking the houses are the
+watchtowers; they are monstrous stone figures that loom over the rest of the
+buildings within this small town, one such tower lays just a short walk away
+to the north.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5506
+D1
+~
+~
+0 0
+0 0 5423
+D2
+~
+~
+0 0
+0 0 5424
+D3
+~
+~
+0 0
+0 0 5421
+S
+#5423
+{yWillow Tree Way{x~
+This is the eastern end of Willow Tree Way, a peculiarly long and winding
+road that leads through the northern part of Abila.  Despite what the name
+of the street suggests, there does not appear to be trees of any sort along
+this street.  Built in regimental style rows along this street are huge
+buildings made of brick and stone and roofed with dark gray slate; most of
+these buildings appear to be houses.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5551
+D3
+~
+~
+0 0
+0 0 5422
+S
+#5424
+{yElm Tree Avenue{x~
+Elm Tree Avenue is a broad yet short thoroughfare within Abila lined with
+trees.  The avenue has been paved with large slabs of tough gray stone. 
+Overlooking the thoroughfare are numerous tall shops and houses; most of the
+structures are four or five stories in height and have been roofed with dark
+slate tiles.  To the north a second, much longer paved road can be seen that
+leads east/west through the town, this road is also overlooked by gloomy
+gray buildings.  A grand paved plaza can be seen just a short distance away
+to the south where a colorful marketplace has been set up.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5422
+D1
+~
+~
+3 3
+1 0 5432
+D2
+~
+~
+0 0
+0 0 5439
+S
+#5425
+{yThistle Road{x~
+This is the eastern end of Thistle Road, a long thoroughfare that runs
+though the southern part of Abila.  The road is quite narrow, has been paved
+with thick slabs of gray stone and slopes at an upwards incline to the west
+which is relatively steeper than the rest of this town's roads.  Flanking
+the street are tall gray stone buildings, mainly houses although there are a
+few shops and warehouses.  Most of the buildings have about four or five
+floors and have steeply slanting roofs that have been tiled with dark gray
+slate.  There is a second, much wider street a short distance away to the
+east.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5477
+D1
+~
+~
+0 0
+0 0 5408
+D2
+~
+~
+3 3
+1 0 5472
+D3
+~
+~
+0 0
+0 0 5426
+S
+#5426
+{yThistle Road{x~
+Thistle Road is a long paved road that runs though the southern part of
+Abila.  The road is quite narrow and slopes at an upwards incline to the
+west which is relatively steeper than the rest of this town's roads'
+gradients.  Constructed along this street are shops and houses made of brick
+and stone and roofed with dark gray slate, there are even some warehouses
+built along the road.  To the south is one of the town's watchtowers, they
+are ugly stone structures that loom over the rest of the buildings within
+this small town.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 5476
+D1
+~
+~
+0 0
+0 0 5425
+D2
+~
+~
+3 3
+1 0 5500
+D3
+~
+~
+0 0
+0 0 5427
+S
+#5427
+{yThistle Road{x~
+This is the western end of Thistle Road, a particularly long thoroughfare
+that leads through the southern part of Abila.  The road is quite narrow,
+has been paved with thick slabs of gray stone and slopes at an upwards
+incline to the west which is relatively steeper than the rest of this town's
+roads' gradients.  Constructed in rows along this street are massive
+buildings made of brick and stone and roofed with dark gray slate; most of
+these buildings appear to be houses although one or two shops can be seen. 
+There are very dark and narrow alleyways that are almost hidden from view,
+the alleys cut between the rows of buildings.  
+~
+0
+0 1
+D0
+~
+~
+4096 4096
+0 0 5428
+D1
+~
+~
+0 0
+0 0 5426
+D2
+~
+~
+0 0
+0 0 5531
+D3
+~
+~
+3 3
+1 0 5518
+S
+#5428
+{DA Dark Alley{x~
+This is a long and narrow alley that provides a shortcut flanked by two
+rows of big gray stone buildings.  The area is very dim and gloomy with junk
+and rubble littering the muddy ground making the path difficult to traverse.
+Almost hidden from view amongst the shadows are several doorways that lead
+into the buildings that overlook the alleyway.  The shadows cast within this
+confined area would make an excellent place for any mugger to lay wait,
+ready to ambush an unsuspecting passerby.  To the south a long street paved
+with blocks of gray stone can be seen.  
+~
+0
+A 1
+D0
+~
+~
+0 0
+0 0 5429
+D2
+~
+~
+4096 4096
+0 0 5427
+D3
+~
+~
+3 3
+1 0 5550
+S
+#5429
+{DA Dark Alley{x~
+This is a long and narrow alley that provides a shortcut flanked by two
+rows of big gray stone buildings.  The area is very dark and depressing with
+refuse and debris littering the muddy ground making the path difficult to
+traverse.  Almost hidden from view amongst the shadows are several doorways
+that lead into the buildings that overlook the alleyway.  
+~
+0
+A 1
+D0
+~
+~
+4096 4096
+0 0 5417
+D2
+~
+~
+0 0
+0 0 5428
+D3
+~
+~
+3 3
+1 0 5549
+S
+#5430
+{DA Dark Alley{x~
+This is a long and narrow alley that provides a shortcut between two rows
+of large gray stone buildings.  The area is very dim and gloomy with trash
+and debris littering the muddy ground making the path difficult to traverse.
+The shadows cast within this confined area would make an excellent place for
+any mugger to lay wait, ready to ambush an unsuspecting passerby.  
+~
+0
+A 1
+D0
+~
+~
+0 0
+0 0 5431
+D2
+~
+~
+4096 4096
+0 0 5416
+S
+#5431
+{DA Dark Alley{x~
+This is a long and narrow alley that provides a shortcut between two rows
+of large gray stone buildings.  The area is very dark and gloomy with trash
+and debris littering the muddy ground making the way difficult to traverse. 
+The shadows cast within this confined area would make a superb place for any
+robber to lay wait, ready to ambush an unsuspecting passerby.  
+~
+0
+A 1
+D0
+~
+~
+4096 4096
+0 0 5419
+D2
+~
+~
+0 0
+0 0 5430
+S
+#5432
+{yT{Yh{We{y G{Yolde{Wn{y B{Yea{Wr{y T{Yaver{Wn{y{x~
+This is the entranceway of the Golden Bear Tavern; one of Abila's finer
+drinking establishments.  It is a small square platform, approximately
+fifteen paces in width.  Dark wooden paneling covers the lower half of the
+walls surrounding, leaving the pristine white plastered upper half of the
+wall seeming bare.  The only side of the platform not marked with a wall is
+the eastern side where a railing, also made of dark wood has been built.  A
+small flight of steps flanked on both sides with a short wooden railing
+leads downwards towards the common room.  A large doorway on the western
+side of the platform marks the entrance and exit out of the tavern, two hat
+stands have been placed either side of the doorway.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 5433
+D3
+~
+~
+3 3
+1 0 5424
+S
+#5433
+{yThe Common Room{x~
+This is the center of the large common room belonging to the Golden Bear
+Tavern; one of Abila's finer drinking establishments.  The room is rather
+plain with dark wooden paneling fixed to the lower half of the walls whilst
+the upper half has been left bare white plaster.  The room has been
+illuminated by brass lanterns that have been hung from the ceiling.  Placed
+neatly around the room are lots of tables and chairs, a few of the items of
+furniture show signs of needing repairs.  A short flight of steps to the
+west leads upwards towards a raised platform overlooking the common room.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5434
+D1
+~
+~
+0 0
+0 0 5436
+D2
+~
+~
+0 0
+0 0 5438
+D3
+~
+~
+0 0
+0 0 5432
+S
+#5434
+{yThe Common Room{x~
+This is the northern end of a large common room.  Dark wooden paneling
+covers the bottom half of the walls, leaving the spotless white plastered
+top half of the wall bare apart from a few small framed pictures.  The
+room's floorboards have become gray with grime that has embedded into the
+grain of the wood over the years.  Placed neatly around the room many tables
+and chairs, a few of furnishings show signs of needing repairs.  Hung from
+the ceiling of the common room above the tables are small brass oil lanterns
+which shed a soft golden light to an otherwise dim and smoky environment.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 5435
+D2
+~
+~
+0 0
+0 0 5433
+S
+#5435
+{yThe Common Room{x~
+This is the northern end of a large common room whose floorboards are
+gray with dirt that has embedded into the grain of the wood over the years. 
+Dark wooden paneling covers the bottom half of the walls leaving the
+pristine white plastered upper half of the wall seeming bare.  There are
+many tables and chairs that have been tidily placed around the area, a few
+of the items of furniture show signs of needing repairs.  Hung from the
+ceiling are small oil lanterns which provide light within this dull room. 
+There is little else of interest in this corner of the room apart from a
+large window on the north side.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 5436
+D3
+~
+~
+0 0
+0 0 5434
+S
+#5436
+{yThe Common Room{x~
+This is the center of the large common room belonging to the Golden Bear
+Tavern; one of Abila's finer drinking establishments.  The room is rather
+plain with dark wooden paneling fixed to the lower half of the walls whilst
+the upper half has been left bare white plaster.  The room has been
+illuminated by brass lanterns that have been hung from the ceiling.  Placed
+neatly around the room are lots of tables and chairs, a few of the items of
+furniture show signs of needing repairs.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5435
+D2
+~
+~
+0 0
+0 0 5437
+D3
+~
+~
+0 0
+0 0 5433
+S
+#5437
+{yThe Common Room{x~
+This is the southern end of a large common room.  Dark wooden paneling
+covers the lower half of the walls, leaving the pristine white plastered top
+half of the wall bare apart from a few framed sketches.  The room's
+floorboards have become gray with filth that has embedded into the grain of
+the wood over time.  Arranged neatly around the room many tables and chairs,
+a few of the items of furniture show signs of needing repairs.  Hung from
+the ceiling of the common room above the tables are small brass oil lanterns
+which shed a soft golden light to an otherwise shadowy and smoky area.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5436
+D3
+~
+~
+0 0
+0 0 5438
+S
+#5438
+{yThe Common Room{x~
+This is the southern end of a large common room.  Dark wooden paneling
+covers the bottom half of the walls, leaving the pristine white plastered
+top half of the wall bare apart from a few small framed pictures.  The
+common room's floorboards have become gray with dirt that has embedded into
+the grain of the wood over the years.  Placed neatly around the room many
+tables and chairs, a few of the items of furniture show signs of needing
+repairs.  Hung from the ceiling of the common room above the tables are
+small brass oil lanterns which shed a soft golden light to an otherwise
+shadowy and smoky environment.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5433
+D1
+~
+~
+0 0
+0 0 5437
+S
+#5439
+{YThe Market Square{x~
+The market square is a profusion of colors in a seeming gray and dull
+town.  This is the northern area of the market which is reserved for the
+cattle market.  The air here is thick with the smell of bovine beasts and
+alive with the shouts of the auctioneers enticing people to part with their
+money.  Many local farmers herd some of their finest livestock through the
+busy crowds that have gathered here to the cattle market whilst other beasts
+await their turn to be auctioned in large wooden pens.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 5424
+D1
+~
+~
+0 0
+0 0 5447
+D2
+~
+~
+0 0
+0 0 5440
+D3
+~
+~
+0 0
+0 0 5443
+S
+#5440
+{YThe Market Square{x~
+This is the center of a huge square plaza paved with slabs of stone.  A
+huge market with brightly colored stalls displaying all manner of wares has
+been set up all over the area.  The different sections of the market square
+are well defined and are the allocated homes to differing types of market
+stalls.  Overlooking the large plaza are tall buildings constructed from
+gray stone and roofed with slate tiles; one in particular stands out from
+the rest of the buildings in the distance to the east, the building appears
+to be a tall watchtower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5439
+D1
+~
+~
+0 0
+0 0 5446
+D2
+~
+~
+0 0
+0 0 5441
+D3
+~
+~
+0 0
+0 0 5442
+S
+#5441
+{YThe Market Square{x~
+This is the south end of a huge plaza that is used to host a market.  The
+square was probably built because of the demand for trading within this
+relatively petite town that lies on the major trading route between Amadicia
+and Ghealdan, but it also brings a profusion of colors to a seemingly gray
+and dull town.  The different sections of the market square are well defined
+and are the allocated homes to differing types of market stalls.  Just a
+short distance away to the north is a statue carved from white stone which
+appears to be a fountain; the statue seems to stand out like a beacon in the
+center of the plaza.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 5440
+D1
+~
+~
+0 0
+0 0 5445
+D2
+~
+~
+0 0
+0 0 5414
+D3
+~
+~
+0 0
+0 0 5444
+S
+#5442
+{YThe Market Square{x~
+This is the west side of a huge paved plaza.  A market with brightly
+colored stalls displaying all manner of wares has been set up all over the
+area; the different sections of the market square are well defined and are
+the allocated homes to differing types of stalls.  Overlooking the plaza are
+tall buildings constructed from gray stone and roofed with slate tiles; one
+in particular stands out from the rest of the buildings in the distance to
+the east, the building appears to be a tall watchtower.  A much smaller and
+less colorful plaza can be seen just a short distance away to the west.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 5443
+D1
+~
+~
+0 0
+0 0 5440
+D2
+~
+~
+0 0
+0 0 5444
+D3
+~
+~
+0 0
+0 0 5405
+S
+#5443
+{YThe Market Square{x~
+This is the northwest corner of a paved market square.  The square was
+probably built because of the demand for trading within this relatively
+small town that lies on a major trading route between Amadicia and Ghealdan.
+The different sections of the Market Square are well defined and are the
+allocated homes to differing types of market stalls.  This section of the
+market square is home to many food stalls, ranging from fresh fruits and
+vegetables to bread and meats.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 5439
+D2
+~
+~
+0 0
+0 0 5442
+S
+#5444
+{YThe Market Square{x~
+This is the southwest corner of a huge paved plaza that is surrounded by
+towering shops and houses.  An enormous colorful market has been set up in
+this plaza that illuminated by street lanterns at night.  Day or night, this
+market place is always a hive of activity as crowds of people weave their
+way past the dozens of multicolored stalls that display a multitude of
+merchandise from around the world.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5442
+D1
+~
+~
+0 0
+0 0 5441
+S
+#5445
+{YThe Market Square{x~
+This is the southeast corner of a huge square plaza paved with slabs of
+stone.  The square is surrounded by tall gray stone and brick buildings,
+mainly shops and houses.  A huge market has been set up within this paved
+area illuminated by street lanterns at night, crowds of people weave their
+way past the dozens of colorful stalls displaying a multitude of goods from
+around the world.  Day or night, this market place is always a hive of
+activity.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5446
+D1
+~
+~
+3 3
+1 0 5471
+D2
+~
+~
+3 3
+1 0 5479
+D3
+~
+~
+0 0
+0 0 5441
+S
+#5446
+{YThe Market Square{x~
+This is the east side of a huge paved market place.  The square was
+probably built because of the demand for trading within this relatively
+small town that lies on a major trading route between Amadicia and Ghealdan.
+Overlooking the plaza are tall buildings constructed from gray stone and
+roofed with slate tiles; one in particular stands out from the rest, the
+structure appears to be a tall watchtower which lays just a short walk away
+to the east.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 5447
+D1
+~
+~
+3 3
+1 0 5504
+D2
+~
+~
+0 0
+0 0 5445
+D3
+~
+~
+0 0
+0 0 5440
+S
+#5447
+{YThe Market Square{x~
+This is the northeast corner of huge paved market.  The square was
+probably built because of the demand for trading within this relatively
+small town that lies on a major trading route between Amadicia and Ghealdan.
+The different sections of the Market Square are well defined and are the
+allocated homes to differing types of market stalls.  This section of the
+market square is the home to fabric traders, their stalls are brightly
+decorated by the bolts of colorful wool, cloth and silk that has been put on
+display.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 5446
+D3
+~
+~
+0 0
+0 0 5439
+S
+#5448
+{CA Wide Stream{x~
+Beneath one of the thick cluster of undergrowth that has sprung up beside
+along the sides of the stream that encompasses Abila is a small iron grate
+set into the ground.  There is a small trickle of very smelly and sludgy
+brown water flowing from a long brickwork tunnel that lies beyond the rusty
+metal grating and straight into the stream.  Also visible from this point is
+the underside of one of the town's wooden bridges that spans the stream and
+looks like it has been recently reinforced with thick timber beams.  
+~
+0
+0 20
+D1
+~
+~
+4096 4096
+0 0 5539
+D2
+~
+~
+8231 8231
+2 5472 5449
+D4
+~
+~
+4096 4096
+0 0 5400
+S
+#5449
+{DDaylight Ahead?{x~
+This is the end of one of the many brickwork tunnels that forms the
+sewers of Abila.  A cool breeze flows in from the north through a small iron
+grate that appears to be corroded in places.  Sewage trickles out of the
+grate and flows into a wide stream that is infested with a thick veil of
+leafy undergrowth along its banks.  
+~
+0
+ABD 0
+D0
+~
+~
+8231 8231
+2 5472 5448
+D2
+~
+~
+4096 4096
+0 0 5450
+S
+#5450
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5449
+D1
+~
+~
+4096 4096
+0 0 5462
+D2
+~
+~
+4096 4096
+0 0 5451
+D3
+~
+~
+4096 4096
+0 0 5450
+S
+#5451
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5450
+D2
+~
+~
+4096 4096
+0 0 5452
+S
+#5452
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5451
+D1
+~
+~
+4096 4096
+0 0 5452
+D2
+~
+~
+4096 4096
+0 0 5453
+D3
+~
+~
+4096 4096
+0 0 5452
+S
+#5453
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5452
+D2
+~
+~
+4096 4096
+0 0 5454
+S
+#5454
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5453
+D1
+~
+~
+4096 4096
+0 0 5457
+D2
+~
+~
+4096 4096
+0 0 5455
+D3
+~
+~
+4096 4096
+0 0 5454
+S
+#5455
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5454
+D2
+~
+~
+4096 4096
+0 0 5456
+S
+#5456
+{DA Dead End{x~
+The maze-like network of sewers underneath the streets of Abila reaches a
+dead end at this point.  The dripping of water and the squeaking of rats
+echoes throughout these dark underground brickwork tunnels.  Even the sewer
+water down here seems to have acquired a life of its own as it slowly creeps
+through the tunnels.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5455
+S
+#5457
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D1
+~
+~
+4096 4096
+0 0 5458
+D3
+~
+~
+4096 4096
+0 0 5454
+S
+#5458
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5458
+D1
+~
+~
+4096 4096
+0 0 5459
+D2
+~
+~
+4096 4096
+0 0 5458
+D3
+~
+~
+4096 4096
+0 0 5457
+S
+#5459
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D1
+~
+~
+4096 4096
+0 0 5460
+D3
+~
+~
+4096 4096
+0 0 5458
+S
+#5460
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5461
+D1
+~
+~
+4096 4096
+0 0 5460
+D2
+~
+~
+4096 4096
+0 0 5460
+D3
+~
+~
+4096 4096
+0 0 5459
+S
+#5461
+{DA Dead End{x~
+The maze-like network of sewers underneath the streets of Abila reaches a
+dead end at this point.  The dripping of water and the squeaking of rats
+echoes throughout these dark underground brickwork tunnels.  Even the sewer
+water down here seems to have acquired a life of its own as it slowly creeps
+through the tunnels.  
+~
+0
+ABD 0
+D2
+~
+~
+4096 4096
+0 0 5460
+S
+#5462
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D1
+~
+~
+4096 4096
+0 0 5463
+D3
+~
+~
+4096 4096
+0 0 5450
+S
+#5463
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D1
+~
+~
+4096 4096
+0 0 5464
+D3
+~
+~
+4096 4096
+0 0 5462
+S
+#5464
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D0
+~
+~
+4096 4096
+0 0 5464
+D1
+~
+~
+4096 4096
+0 0 5465
+D2
+~
+~
+4096 4096
+0 0 5464
+D3
+~
+~
+4096 4096
+0 0 5463
+S
+#5465
+{DThe Sewers{x~
+The sewers underneath Abila are a very intricate maze-like network of
+tunnels which run under the streets.  The dismal sound of dripping water and
+the sound of rats squeaking echo throughout these dark underground tunnels. 
+Even the sewer water down here seems to have acquired a life of its own as
+it slowly creeps through the tunnels.  There are no indications whatsoever
+of which way to go from this point.  
+~
+0
+ABD 0
+D1
+~
+~
+4096 4096
+0 0 5466
+D3
+~
+~
+4096 4096
+0 0 5464
+S
+#5466
+{DA Dead End{x~
+The maze-like network of sewers underneath the streets of Abila reaches a
+dead end at this point.  The dripping of water and the squeaking of rats
+echoes throughout these dark underground brickwork tunnels.  Even the sewer
+water down here seems to have acquired a life of its own as it slowly creeps
+through the tunnels.  
+~
+0
+ABD 0
+D3
+~
+~
+4096 4096
+0 0 5465
+S
+#5467
+{rInside A Dirty House{x~
+This is an unclean abode located somewhere within Abila.  There appears
+to be very little of worth or of interest within this scruffy dwelling. 
+Large pieces of plaster have fallen away from the walls, revealing the gray
+brickwork underneath.  Most of the window shutters and doors within this
+house creak and groan under their own weight, their corroded hinges barely
+look like they can support them.  Garbage has been strewn across the floor
+of this dingy little home and cobwebs hang from the woodworm riddled
+furniture and shelves like thick silvery drapes.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5418
+S
+#5468
+{rInside A Grimy House{x~
+This is a somewhat grimy abode located in Abila.  There appears to be
+very little of worth or of interest within this disheveled dwelling.  Large
+chunks of plaster have fallen away from the walls, revealing the gray
+brickwork beneath.  Most of this house's doors and window shutters creak and
+groan under their own weight, their rusty hinges barely look like they can
+support them.  Rubbish and debris litter the floor of this dingy little home
+and cobwebs hang from the woodworm riddled furniture and shelves like silky
+drapes.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5421
+S
+#5469
+{rInside A Dingy House{x~
+This is a particularly dingy house located somewhere in Abila.  There is
+not much of worth or of interest within this disheveled dwelling.  Large
+chunks of plaster have fallen away from the walls, revealing the brickwork
+beneath.  Wooden doors and window shutters creak and groan under their own
+weight, their rusty hinges barely look like they can support them.  Trash
+litters the floor of this hovel and cobwebs hang from the woodworm riddled
+furniture and shelves like thick silvery drapes.  The walls of this building
+appear grimy especially near the fireplace where thick sooty stains mar the
+nearby walls and ceiling.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5402
+S
+#5470
+{rInside A Dilapidated House{x~
+This is a particularly dilapidated hovel located somewhere within Abila. 
+There is not much here of worth or of interest.  Large pieces of plaster
+have fallen away from the walls, revealing the gray brickwork underneath. 
+Most of the window shutters and doors within this house creak and groan
+under their own weight, their corroded hinges barely look like they can
+support them.  Refuse has been strewn across the floor of this dingy little
+abode and cobwebs hang from the rickety furniture and shelves like thick
+silvery drapes.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5404
+S
+#5471
+{rInside A Dingy House{x~
+This is a residence located somewhere within the town of Abila.  There
+appears to be very little of worth or of interest within this unkempt
+dwelling.  Most of the wooden doors and window shutters within this house
+creak and groan under their own weight, their rusty hinges barely look like
+they can support them.  Rubbish and debris litter the floor of this grotty
+home and cobwebs hang from the rickety furniture and shelves like thick
+silvery drapes.  The walls of this building appear filthy especially near
+the fireplace where dark sooty stains mar the nearby walls and ceiling.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5445
+S
+#5472
+{rInside A Dirty House{x~
+This is a relatively dirty abode located somewhere within Abila.  There
+appears to be very little of worth or of interest within this disheveled
+dwelling.  Large chunks of plaster have fallen away from the walls,
+revealing the gray brickwork beneath.  Most of the window shutters and doors
+within this house creak and groan under their own weight, their corroded
+hinges barely look like they can support them.  Garbage litters the floor of
+this dingy little home and cobwebs hang from the woodworm riddled furniture
+and shelves like thick silvery drapes.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5425
+S
+#5473
+{rInside A Grimy House{x~
+This is a rather grimy abode located somewhere within Abila.  There
+appears to be very little of worth or of interest within this disheveled
+dwelling.  Most of the wooden doors and window shutters within this house
+creak and groan under their own weight, their rusty hinges barely look like
+they can support them.  Rubbish litters the floor of this dingy little home
+and cobwebs hang from the woodworm riddled furniture and shelves like thick
+silvery drapes.  The walls of this building appear grubby especially near
+the fireplace where dark sooty stains mar the nearby walls and ceiling.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5413
+S
+#5474
+{rInside A Grubby House{x~
+This is a rather grubby abode located somewhere within Abila.  There is
+little of worth or of interest within this disheveled dwelling.  Most of the
+wooden doors and window shutters within this house creak and groan under
+their own weight, their corroded hinges barely look like they can support
+them.  Rubbish and debris litter the floor of this dingy little home and
+cobwebs hang from the woodworm riddled furniture and shelves like silken
+drapes.  The walls of this building appear grimy especially near the
+fireplace where dark sooty stains spoil the nearby walls and ceiling.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5414
+S
+#5475
+{bA Large Warehouse{x~
+This is one of a few large gray stone buildings that are being used as
+warehouses in Abila.  The rush torches which have been used to illuminate
+the area have left dark sooty marks upon the stone walls on which they are
+fixed upon.  Among the patches of light cast by the torches are strange
+swirling patterns caused by duty stirred by faint draughts within the area. 
+Also revealed in the darkness are thick cobwebs that hang like silk drapes
+from the timber support beams of the building.  To the north is a pair of
+wooden doors that mark the entrance into this warehouse.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5416
+D2
+~
+~
+0 0
+0 0 5476
+S
+#5476
+{bA Large Warehouse{x~
+This is one of a few large gray stone structures that are being used as
+warehouses in Abila.  The rush torches which have been used to light up the
+area have left grubby sooty marks on the stone.  Among the patches of light
+cast by the torches are strange swirling patterns caused by duty stirred by
+faint draughts within the area.  Also revealed in the darkness are thick
+cobwebs that hang like silk drapes from the timber support beams of the
+building.  To the south is a pair of wooden doors that mark the entrance
+into this warehouse.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5475
+D2
+~
+~
+3 3
+1 0 5426
+S
+#5477
+{bA Large Warehouse{x~
+This is a large structure constructed with gray stone blocks that is
+being used as warehouse.  The rush torches which have been used to
+illuminate the area have left grimy sooty blemishes on the stone.  Amid the
+patches of light cast by the torches are strange swirling patterns caused by
+duty stirred by faint draughts within the area.  Also revealed in the
+shadows are thick cobwebs that hang like silk drapes from the wooden support
+beams of the structure.  To the south is a pair of wooden doors that mark
+the entrance into this storehouse.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5478
+D2
+~
+~
+3 3
+1 0 5425
+S
+#5478
+{bA Large Warehouse{x~
+This is a large structure constructed with gray stone blocks that is
+being used as warehouse.  The rush torches which have been used to light the
+area have left dark sooty stains upon the stone walls on which they are
+fixed upon.  Amongst the patches of light cast by the torches are strange
+swirling patterns caused by duty stirred by faint draughts within the area. 
+Also revealed in the dark are thick cobwebs that hang like silk drapes from
+the timber support beams of the building.  To the north is a pair of wooden
+doors that mark the entrance into this storehouse.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5415
+D2
+~
+~
+0 0
+0 0 5477
+S
+#5479
+{BA Blacksmith's Workshop{x~
+The blacksmith's workshop is a large rectangular building constructed
+reddish-brown brick and thick timbers.  The area is filled with an intense
+heat that derives from the stone furnace built at the southern end of the
+workshop; the heat is stirred by a breeze that appears to be coming from a
+large window built into the eastern wall of the room.  A large iron anvil
+has been placed near to the furnace, the surface of the anvil looks quite
+worn from many years of work.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5445
+S
+#5480
+{gT{Gh{ge A{Gppl{ge T{Gre{ge I{Gn{gn{x~
+This is the northern end of a wide hallway that serves as a reception
+room for the Apple Tree Inn, one of Abila's larger inns.  Polished wooden
+paneling covers the lower half of the walls, leaving the pristine white
+plastered upper half of the wall seeming bare.  Fixed to the northern wall
+is a set of brass coat hooks, fixed to a polished wooden panel, upon some of
+the hooks hang coats and cloaks.  The knotted timbers that make up the floor
+of the inn have been stained with many years' worth of dirt and grime. 
+There are two exits visible from this end of the hallway, a door on the
+western side of the corridor and a much heftier one on the opposite side of
+the room.  
+~
+0
+CD 0
+D1
+~
+~
+3 3
+1 0 5420
+D2
+~
+~
+0 0
+0 0 5481
+D3
+~
+~
+3 3
+1 0 5493
+S
+#5481
+{gA Wide Hallway{x~
+This is the southern end of a wide hallway that serves as a reception
+room for the Apple Tree Inn, one of Abila's larger inns.  Polished wooden
+paneling covers the lower half of the walls, leaving the immaculate white
+plastered upper half of the wall seeming bare.  The knotted timbers that
+make up the floor of the inn have been stained with many years' worth of
+dirt and filth.  Small brass lanterns that have been fixed upon decorative
+hooks are used to illuminate this area at night, a large window in the
+eastern wall allows sunlight through by day.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5480
+D4
+~
+~
+0 0
+0 0 5482
+S
+#5482
+{gA Wide Landing{x~
+This is a wide landing located on the first floor of the Apple Tree Inn,
+one of Abila's larger inns.  Small brass lanterns that have been fixed upon
+decorative hooks are used to illuminate this otherwise dark area.  Polished
+wooden paneling covers the lower half of the walls of this windowless room,
+leaving the immaculate white plastered upper half of the wall seeming bare. 
+The knotted timbers that make up the floor of the inn have been stained with
+many years' worth of dirt and filth.  There are several doors along this
+landing; each doorway leads into one of the inn's guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5488
+D1
+~
+~
+0 0
+0 0 5484
+D2
+~
+~
+3 3
+1 0 5489
+D3
+~
+~
+0 0
+0 0 5483
+D5
+~
+~
+0 0
+0 0 5481
+S
+#5483
+{gA Wide Landing{x~
+This is the western end of a long landing located on the first floor of
+the Apple Tree Inn, one of Abila's larger inns.  Small brass lanterns that
+have been fixed upon decorative hooks are used to light up this otherwise
+dark area.  Varnished wooden paneling covers the lower half of the walls of
+this windowless room and the spotless white plastered upper half of the
+walls have been left bare.  The knotted timbers that make up the floor of
+the inn have been stained with many years' worth of dirt and filth.  There
+are several doors along this landing; each doorway leads into one of the
+inn's guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5490
+D1
+~
+~
+0 0
+0 0 5482
+D2
+~
+~
+3 3
+1 0 5491
+D3
+~
+~
+3 3
+1 0 5492
+S
+#5484
+{gA Wide Landing{x~
+This is the eastern end of a long landing located on the first floor of
+the Apple Tree Inn, one of Abila's larger inns.  Small brass lamps that have
+been fixed upon decorative hooks are used to light up this otherwise gloomy
+area.  Varnished wooden paneling covers the lower half of the walls of this
+windowless room and the spotless white plastered upper half of the walls
+have been left bare.  The landing's floorboards have been stained with many
+years' worth of dirt and filth.  There are several identical doors along
+this landing; each doorway leads into one of the inn's guest rooms.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5485
+D1
+~
+~
+3 3
+1 0 5486
+D2
+~
+~
+3 3
+1 0 5487
+D3
+~
+~
+0 0
+0 0 5482
+S
+#5485
+{gA Guest Room{x~
+This is one of the many guest rooms located in the Apple Tree Inn. 
+Polished wooden paneling covers the bottom half of the walls of this room
+and the white plastered upper half of the walls have been left bare.  The
+room has been furnished with plain yet functional items of furniture
+including a large bed, a tall wardrobe, two armchairs and a washstand.  A
+window adorned with blue curtains in the north wall looks out over a tall
+gray stone building whilst a door at the opposite side of the room leads out
+of the guest room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5484
+S
+#5486
+{gA Guest Room{x~
+This is one of the many guest rooms located within the Apple Tree Inn. 
+Varnished wooden paneling covers the lower half of the walls of this room
+and the white plastered upper half of the walls have been left bare.  The
+room has been furnished with plain yet functional items of furniture
+including a large bed, a tall wardrobe, two armchairs and a washstand.  A
+window fitted with red curtains in the east wall looks out over Abila's busy
+streets whilst a door at the opposite side of the room leads out of the
+guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5484
+S
+#5487
+{gA Guest Room{x~
+This is one of the many guest rooms located within the Apple Tree Inn. 
+Varnished wooden paneling covers the lower half of the walls of this room
+and the white plastered upper half of the walls have been left bare.  The
+room has been furnished with plain yet functional items of furniture
+including a large bed, a tall wardrobe, an armchair and a washstand.  A
+window adorned with blue curtains in the south wall looks out over Abila's
+busy streets whilst a door at the opposite side of the room leads out of the
+guest room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5484
+S
+#5488
+{gA Guest Room{x~
+This is one of the many guest rooms located within the Apple Tree Inn. 
+Varnished wooden paneling covers the lower half of the walls of this room
+and the white plastered upper half of the walls have been left bare.  The
+room has been furnished with plain yet functional items of furniture
+including a large bed, a tall wardrobe, an armchair and a washstand.  A
+window adorned with red curtains in the north wall looks out over a large
+gray stone building whilst a door at the opposite side of the room leads out
+of the guest room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5482
+S
+#5489
+{gA Guest Room{x~
+This is one of the many guest rooms located in the Apple Tree Inn. 
+Varnished wooden paneling covers the lower half of the walls of this room
+and the white plastered upper half of the walls have been left bare.  The
+room has been furnished with plain yet functional items of furniture
+including a large bed, a tall wardrobe, a comfy armchair and a washstand.  A
+window adorned with red curtains in the south wall provides a good view of
+one of the town's watchtowers whilst a door at the opposite side of the room
+leads out of the guest room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5482
+S
+#5490
+{gA Guest Room{x~
+This is one of the many guest rooms located within the Apple Tree Inn. 
+Polished wooden paneling covers the lower half of the walls of this room and
+the white plastered upper half of the walls have been left bare.  The room
+has been furnished with plain yet functional items of furniture including a
+large bed, a tall wardrobe, an armchair and a washstand.  A window fitted
+with blue curtains in the north wall looks out over the countryside that
+surrounds the town whilst a door at the opposite side of the room leads out
+of the guest room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5483
+S
+#5491
+{gA Guest Room{x~
+This is one of the many guest rooms located within the Apple Tree Inn. 
+Polished wooden paneling covers the lower half of the walls of this room and
+the white plastered upper half of the walls have been left bare.  The room
+has been furnished with plain yet functional items of furniture including a
+large bed, a tall wardrobe, an armchair and a washstand.  A window fitted
+with blue curtains in the south wall looks out over the outskirts of the
+town whilst a door at the opposite side of the room leads out of the guest
+room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5483
+S
+#5492
+{gA Guest Room{x~
+This is one of the many guest rooms located within the Apple Tree Inn. 
+Varnished wooden paneling covers the bottom half of the walls of this room
+and the white plastered upper half of the walls have been left bare.  The
+room has been furnished with plain yet functional items of furniture
+including a large bed, a tall wardrobe, a rocking chair and a washstand.  A
+window adorned with red curtains in the west wall looks out over the
+countryside that surrounds the town whilst a door at the opposite side of
+the room leads out of the guest room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5483
+S
+#5493
+{gThe Common Room{x~
+This is the northeast corner of a large square common.  Polished wooden
+paneling covers the lower half of the walls, leaving the immaculate white
+plastered upper half of the wall seeming bare.  The knotted timbers that
+make up the floor of the inn have been stained with many years' worth of
+filth.  Hung from the ceiling of the common room are a couple of oil
+lanterns made from brass, they provide a dim golden light to an otherwise
+dark and gloomy atmosphere.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5480
+D2
+~
+~
+0 0
+0 0 5494
+D3
+~
+~
+0 0
+0 0 5496
+S
+#5494
+{gThe Common Room{x~
+This is the southeast corner of a large square common room.  There is
+polished wooden paneling covering the lower half of the walls of the common
+room whilst the upper half of the walls are covered with white plaster and
+seems bare in comparison.  The knotted planks of wood that make up the floor
+of the inn have been marked with many years' worth of dirt.  There is very
+little else of interest to be seen within this section of the room apart
+from a raised wooden platform that has been built along the east side of the
+room which serves as a stage for entertainers working in the inn.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5493
+D3
+~
+~
+0 0
+0 0 5495
+S
+#5495
+{gThe Common Room{x~
+This is the southwest corner of a large common room.  Polished wooden
+paneling covers the lower half of the walls, leaving the immaculate white
+plastered upper half of the wall and has been left undecorated.  The knotted
+planks of wood that make up the floor of the inn have been marked with many
+years' worth of grime.  There are numerous tables and benches placed around
+the room, a few of the items of furniture have been hastily repaired.  Hung
+from the ceiling of the common room above the tables are small brass oil
+lanterns, they provide a mellow golden light to an otherwise dark and smoky
+environment.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5496
+D1
+~
+~
+0 0
+0 0 5494
+D2
+~
+~
+0 0
+0 0 5497
+S
+#5496
+{gThe Common Room{x~
+This is the northwest corner of a large square common room.  Polished
+wooden paneling covers the lower half of the walls, leaving the spotless
+white plastered upper half of the wall and has been left plain.  The knotted
+planks of wood that make up the floor of the inn have been marked with many
+years' worth of dirt.  There are many tables and benches neatly placed
+around the room, a few of the items of furniture show signs of needing
+repairs.  Hung from the ceiling of the common room above the tables are
+small oil lanterns made from brass, they provide a soft golden light to an
+otherwise dark and smoky environment.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 5493
+D2
+~
+~
+0 0
+0 0 5495
+S
+#5497
+{gThe Bar{x~
+At the southern end of the common room is the bar, a long wooden counter
+with a small hatchway built into it.  There is a narrow walkway behind the
+bar; at the east is a large wooden door although it lacks any markings to
+hit at what lies beyond it.  Fixed to the wall behind the bar are numerous
+wooden shelves upon which dozens of cheap-looking tankards and goblets have
+been stored as well as several dubious-looking wooden casks.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5495
+D1
+~
+~
+3 3
+1 0 5498
+S
+#5498
+{gThe Kitchen{x~
+This is the kitchen of the Apple Tree Inn, one of Abila's larger inns. 
+It is a rather large and spacious room, the white plastered walls make the
+room seem dull and plain.  Generally the area looks tidy with many of the
+cooking utensils housed in wooden racks upon the wall whilst the spare pots
+and pans hang upon a wooden rack from the ceiling.  The plain wooden kitchen
+cupboards, drawers and shelves look like they are in a similar state of
+disrepair.  There appear to be two exits from this room, a large door on the
+western side of the kitchen and a similar door at the opposite side of the
+room.  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 5499
+D3
+~
+~
+3 3
+1 0 5497
+S
+#5499
+{gA Storage Cupboard{x~
+This large square room is being used as a storage area.  There is a tiny
+iron barred window built into the east wall allowing a tiny amount of light
+through during the day.  There are numerous wooden crates, barrels and casks
+stacked along the eastern wall whilst there are a pile of sacks on the floor
+at the southern end of the room although they lack any markings to suggest
+what lies within them.  There are numerous wooden shelves fixed to the
+northern wall of the room which house jars, bottles and other containers
+that probably contain foodstuffs.  
+~
+0
+D 0
+D3
+~
+~
+4099 4099
+1 0 5498
+S
+#5500
+{DThe Southwest Watchtower{x~
+This is the inside of a tall watchtower constructed from dark gray stone.
+The area is dimly lit up during the day by a series of arrow slits that look
+out onto both the town and the land surrounding it.  The portholes are
+accessed via a series of wooden platforms connected by ladders that scale
+the height of the tower.  At the top of the tower is a trapdoor that leads
+to the tower's battlements.  At the base of the tower is a large iron-braced
+door that leads out onto Thistle Road.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5426
+D4
+~
+trapdoor~
+3 3
+1 0 5501
+S
+#5501
+{DThe Southwest Watchtower{x~
+This is the top of a tall watchtower constructed from gray stone whose
+jagged battlements overlook Abila and the countryside that surrounds the
+town.  The border of the town is marked out by a wide stream whose banks are
+overgrown in places by a tangled mass of flora.  Within the border are many
+buildings also constructed from gray stone, there is a particularly large
+structure nearby to the west of this tower.  The only exit visible from this
+point is a trapdoor set in the floor which leads inside the watchtower.  
+~
+0
+0 1
+D5
+~
+trapdoor~
+3 3
+1 0 5500
+S
+#5502
+{DThe Southeast Watchtower{x~
+This is the inside of a tall watchtower constructed from dark gray stone.
+The area is dimly illuminated during the day by a series of arrow slits that
+overlook both the town and the land surrounding it.  The portholes are
+accessed via a series of wooden platforms linked by ladders that scale the
+height of the tower.  At the top of the tower is a trapdoor that leads to
+the tower's battlements.  At the bottom of the tower is a large iron-braced
+door that leads out onto East Street.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5412
+D4
+~
+trapdoor~
+3 3
+1 0 5503
+S
+#5503
+{DThe Southeast Watchtower{x~
+This is the top of a tall watchtower constructed from gray stone whose
+jagged battlements look out over Abila and the countryside that surrounds
+the town.  The border of the town is marked out by a wide stream whose banks
+are overgrown in places by a tangled mass of vegetation.  A large market
+square lies due north of this watch tower, its colorful stalls contrast with
+the dull grays of the town's shops and houses.  The only exit visible from
+this point is a trapdoor set in the floor which leads inside the watchtower.
+~
+0
+0 1
+D5
+~
+trapdoor~
+3 3
+1 0 5502
+S
+#5504
+{DThe East Watchtower{x~
+This is the interior of a tall watchtower built from large blocks of dark
+gray stone.  The area is dimly lit up during the day by a series of arrow
+slits that look out onto both the town and the land surrounding it.  The
+portholes are accessed via a series of wooden platforms linked by ladders
+that scale the height of the tower.  At the top of the tower is a trapdoor
+that leads to the tower's battlements.  At the base of the tower is a large
+iron-braced door that leads out onto the market square.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5446
+D4
+~
+trapdoor~
+3 3
+1 0 5505
+S
+#5505
+{DThe East Watchtower{x~
+This is the top of a tall watchtower constructed from gray stone whose
+jagged battlements overlook the market town of Abila and the adjacent
+countryside.  The perimeter of the town is marked out by a wide stream whose
+banks are overgrown in places by leafy bushes and tangles of weeds.  A large
+market square lies due west of this watch tower, its colorful stalls
+contrast with the dull grays of the town's shops and houses.  The only exit
+able to be seen from this point is a trapdoor set in the floor which leads
+inside the watchtower.  
+~
+0
+0 1
+D5
+~
+trapdoor~
+3 3
+1 0 5504
+S
+#5506
+{DThe Northeast Watchtower{x~
+This is the inside of a tall watchtower constructed from dark gray stone.
+The area is dimly illuminated during the day by a series of arrow slits that
+look out onto both the town and the land surrounding it.  The portholes are
+accessed via a series of wooden platforms connected by ladders that scale
+the height of the tower.  At the top of the tower is a trapdoor that leads
+to the tower's battlements.  At the base of the tower is a large iron-braced
+door that leads out onto Willow Tree Way.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5422
+D4
+~
+trapdoor~
+3 3
+1 0 5507
+S
+#5507
+{DThe Northeast Watchtower{x~
+This is the top of a tall watchtower constructed from gray stone whose
+jagged battlements look out over Abila and the countryside that surrounds
+the town.  The border of the town is marked out by a wide stream whose banks
+are overgrown in places by a tangled mass of vegetation.  Within the border
+are many gray stone buildings, there is a particularly large structure
+southeast of this tower.  The only exit visible from this point is a
+trapdoor set in the floor which leads inside the watchtower.  
+~
+0
+0 1
+D5
+~
+trapdoor~
+3 3
+1 0 5506
+S
+#5508
+{DThe Northwest Watchtower{x~
+This is the interior of a tall watchtower constructed from large blocks
+of dark gray stone.  The area is dimly illuminated during the day by a
+series of arrow slits that overlook both the town and the land surrounding
+it.  The portholes are accessed via a series of wooden platforms linked by
+ladders that scale the height of the tower.  At the top of the tower is a
+trapdoor that leads to the tower's battlements.  At the bottom of the tower
+is a large iron-braced door that leads out onto Apple Tree Walk.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5419
+D4
+~
+trapdoor~
+3 3
+1 0 5509
+S
+#5509
+{DThe Northwest Watchtower{x~
+This is the top of a tall watchtower constructed from gray stone whose
+jagged battlements overlook the market town of Abila and the surrounding
+countryside.  The border of the town is marked out by a wide stream whose
+banks are overgrown in places by leafy bushes and tangles of weeds.  Within
+the border are a multitude of buildings also constructed from gray stone,
+there is a particularly large structure nearby to the west of this tower. 
+The only exit visible from this point is a trapdoor set in the floor which
+leads inside the watchtower.  
+~
+0
+0 0
+D5
+~
+trapdoor~
+3 3
+1 0 5508
+S
+#5510
+{DThe West Watchtower{x~
+This is the inside of a tall watchtower constructed from large blocks of
+dark gray stone.  The area is dimly illuminated during the day by numerous
+arrow slits that look out onto both the town and the land surrounding it. 
+The portholes are accessed via a series of wooden platforms linked by
+ladders that scale the height of the tower.  At the top of the tower is a
+trapdoor that leads to the towers battlements.  At the base of the tower is
+a large iron-braced door that leads out onto West Street.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5417
+D4
+~
+trapdoor~
+3 3
+1 0 5511
+S
+#5511
+{DThe West Watchtower{x~
+This is the top of a tall watchtower constructed from gray stone whose
+jagged battlements overlook the market town of Abila and the adjacent
+countryside.  The perimeter of the town is marked out by a wide stream whose
+banks are overgrown in places by leafy bushes and tangles of weeds.  Within
+the border are a large number of buildings also constructed from gray stone,
+there is a rather large structure nearby to the north of this tower.  The
+only exit able to be seen from this point is a trapdoor set in the floor
+which leads inside the watchtower.  
+~
+0
+0 1
+D5
+~
+trapdoor~
+3 3
+1 0 5510
+S
+#5512
+{mThe Town Militia Head Quarters{x~
+A pair of large wooden doors marks the main entrance into the
+headquarters of Abila's town militia.  Both the walls and the floor of this
+long hallway have been left as bare gray stone whilst small brass oil
+lanterns hung from the wooden beams that support the ceiling illuminate the
+area with a subtle golden glow.  There is a large door on the east side of
+the corridor that has been reinforced with strips of iron.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5514
+D2
+~
+~
+3 3
+1 0 5420
+D3
+~
+~
+3 3
+1 0 5513
+S
+#5513
+{mThe Commander's Office{x~
+This is a plain and simple square room that serves as an office and whose
+walls and floor have been left almost bare and revealing the rounded gray
+stone blocks used in the construction of this building.  A pair of arched
+windows built into the west wall of the room overlooks the edge of the town
+that is marked out by a wide stream whose banks are overgrown in places by a
+tangled mess of undergrowth.  At the opposite side of the room is a large
+iron-braced door leading out of this office.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5512
+S
+#5514
+{mA Hallway{x~
+This is the northern end of a long windowless corridor.  Both the walls
+and the floor of the room have been left as bare gray stone whilst small
+brass oil lanterns hung from the wooden beams that support the ceiling
+illuminate the area with a dull golden glow.  There are several identical
+doorways along this end of the corridor, each door has been reinforced with
+strips of iron and looks very sturdy indeed.  
+~
+0
+D 0
+D0
+~
+~
+515 515
+1 5456 5516
+D1
+~
+~
+515 515
+1 5456 5517
+D2
+~
+~
+0 0
+0 0 5512
+D3
+~
+~
+519 519
+2 5456 5515
+S
+#5515
+{mThe Armory{x~
+This is a large windowless square room whose walls and floor have been
+left as bare gray stone.  Dozens of wooden shelves have been attached to the
+north and south walls of the room whilst the center of the room has been
+split into aisles by neat rows of racks.  The only exit from this room is a
+sturdy iron-braced door to the east.  
+~
+0
+ABD 0
+D1
+~
+~
+519 519
+2 5456 5514
+S
+#5516
+{mA Jail Cell{x~
+There does not appear to be anything extraordinary within this prison
+cell.  It is a bare room that has been assembled from gray stonework, even
+the floor of this room is covered with cold stone slabs.  There are faint
+squeaking and scurrying noises coming from the darkness cast within this
+cell that suggest that humans are not the only creatures to stay in this
+depressing place.  At the east side of the room is a small iron barred
+window that allows sunshine through during the daylight hours.  The only
+visible exit out of this cell is a large iron braced doorway to the south.  
+~
+0
+D 0
+D2
+~
+~
+515 515
+1 5456 5514
+S
+#5517
+{mA Jail Cell{x~
+There does not appear to be anything strange within this prison cell.  It
+is a bare room that has been built from gray masonry, even the floor of this
+room is covered with cold stone slabs.  There are faint squeaking and
+scurrying sounds coming from the darkness cast within this cell that suggest
+that humans are not the only living creatures to stay in this dismal place. 
+At the east side of the room is a small iron barred window that allows
+sunshine through during the day.  The only visible exit out of this cell is
+a large iron braced doorway to the west.  
+~
+0
+D 0
+D3
+~
+~
+515 515
+1 5456 5514
+S
+#5518
+{WA Narrow Hallway{x~
+This is a long yet narrow windowless hallway.  Both the walls and the
+floor of the room have been left as bare gray stone whilst small brass oil
+lamps hung from the wooden beams that support the ceiling light up the area
+with a soft golden glow.  A steep wooden staircase built along the north
+wall leads upwards to the first floor of this building whilst a large
+iron-braced doorway at the east end of the corridor leads outside of the
+building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5427
+D2
+~
+~
+0 0
+0 0 5534
+D3
+~
+~
+0 0
+0 0 5519
+D4
+~
+~
+0 0
+0 0 5523
+S
+#5519
+{WA Narrow Hallway{x~
+This is the western end of a long yet narrow windowless hallway.  Both
+the walls and the floor of the room have been left as bare gray stone whilst
+small brass oil lamps hung from the wooden beams that support the ceiling
+illuminate the area with a dull golden glow.  There are several identical
+doorways along this end of the corridor, each door has been reinforced with
+strips of iron and looks very sturdy indeed.  
+~
+0
+D 0
+D0
+~
+~
+515 515
+1 5457 5521
+D1
+~
+~
+0 0
+0 0 5518
+D2
+~
+~
+515 515
+1 5457 5522
+D3
+~
+~
+515 515
+1 5457 5520
+S
+#5520
+{WA Jail Cell{x~
+There does not appear to be anything unusual within this prison cell.  It
+is a plain square room constructed from gray stone, even the floor of this
+room is covered with cold stone slabs.  There are faint squeaking and
+scurrying sounds coming from the shadows within this cell which suggest that
+humans are not the only living creatures to dwell in this place.  At the
+west side of the room is a small iron barred window that allows daylight
+through during the sunlight hours.  The only visible exit out of this cell
+is a large iron braced doorway to the east.  
+~
+0
+D 0
+D1
+~
+~
+515 515
+1 5457 5519
+S
+#5521
+{WA Jail Cell{x~
+There does not appear to be anything extraordinary within this prison
+cell.  It is a bare room that has been assembled from gray masonry, even the
+floor of this room is covered with cold stone blocks.  There are faint
+squeaking and scurrying noises coming from the darkness cast within this
+cell that suggest that humans are not the only living creatures to stay in
+this gloomy place.  At the west side of the room is a small iron barred
+window that allows sunshine through during the daylight hours.  The only
+visible exit out of this cell is a large iron braced doorway to the south.  
+~
+0
+D 0
+D2
+~
+~
+515 515
+1 5457 5519
+S
+#5522
+{WA Jail Cell{x~
+There does not appear to be anything out of the ordinary within this jail
+cell.  It is a simple room constructed from gray stone even the floor of
+this room is covered with cold stone slabs.  Faint squeaking and scurrying
+sounds coming from the shadows within this cell suggests that humans are not
+the only living creatures to inhabit this place.  At the west side of the
+room is a small iron barred window that allows daylight through during the
+sunlight hours.  The only visible exit out of this cell is a large iron
+braced doorway to the north.  
+~
+0
+0 0
+D0
+~
+~
+515 515
+1 5457 5519
+S
+#5523
+{WA Narrow Hallway{x~
+This is the eastern end of a long yet narrow windowless hallway.  Both
+the walls and the floor of the room have been left as bare gray stone whilst
+small brass oil lamps hung from the wooden beams that support the ceiling
+light up the area with a dull golden glow.  A steep wooden staircase built
+along the north wall leads downwards to the ground floor of this building
+whilst there are several identical doorways along this end of the corridor
+with each door reinforced with strips of iron and appearing very sturdy
+indeed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5524
+D1
+~
+~
+3 3
+1 0 5526
+D2
+~
+~
+3 3
+1 0 5525
+D3
+~
+~
+0 0
+0 0 5527
+D5
+~
+~
+0 0
+0 0 5518
+S
+#5524
+{WAn Office{x~
+This is a plain and simple square room that is being used as an office
+and whose walls and floor have been left almost bare and revealing the
+rounded gray stone blocks used to build this structure.  A large oblong
+window built into the north wall of the room looks out over the outer edge
+of Abila.  At the opposite side of the room is a large iron-braced door
+leading out of this office.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 5523
+S
+#5525
+{WAn Office{x~
+This is a plain and simple square room that serves as an office and whose
+walls and floor have been left almost bare and revealing the rounded gray
+stone blocks used in the construction of this building.  A large oblong
+window built into the south wall of the room looks out over the tiled roof
+of a large stable.  At the opposite side of the room is a large iron-braced
+door leading out of this office.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5523
+S
+#5526
+{WThe Infirmary{x~
+The Infirmary is an immaculately clean and tidy room, even by the
+standards of the Children of the Light.  All of the white tiled floors and
+work surfaces have been scrubbed so hard that they gleam like mirrors.  A
+large wooden table stands one corner of the room that can be partitioned off
+from the rest of the room with a long draping curtain.  There are also very
+faint remnants of blood on the table that has failed to be cleaned off
+totally.  Beside the table are a smaller table and a washstand.  Scrubbed
+and polished surgical instruments have been placed with the utmost precision
+in a neat arrangement on the table.  Along the length of the rest of the
+room are cots for any Whitecloak soldiers injured in duty, all made with
+precision and bedding in pristine order.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 5523
+S
+#5527
+{WA Narrow Hallway{x~
+This is the western end of a long yet narrow windowless hallway.  Both
+the walls and the floor of the room have been left as bare gray stone whilst
+small brass oil lamps hung from the wooden beams that support the ceiling
+light up the area with a dull golden glow.  There are several identical
+doorways along this end of the corridor, each door has been reinforced with
+strips of iron and appears very sturdy indeed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5529
+D1
+~
+~
+0 0
+0 0 5523
+D2
+~
+~
+8231 8231
+2 5457 5530
+D3
+~
+~
+3 3
+1 0 5528
+S
+#5528
+{WThe Sleeping Quarters{x~
+This is a large rectangular hall that is being used as a dormitory.  Both
+the walls and the floor of this room have been left almost bare and
+revealing the rounded gray stone blocks used to build this structure.  There
+is a series of oblong windows built into the west wall that looks out over
+the countryside that surrounds Abila.  The only exit from this room is a
+large iron-braced door on the east side of the quarters.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5527
+S
+#5529
+{WAn Office{x~
+This is a plain and simple square room that serves as an office and whose
+walls and floor have been left almost bare and revealing the rounded gray
+stone blocks used in the construction of this building.  A large oblong
+window built into the north wall of the room looks out over the outskirts of
+Abila.  At the opposite side of the room is a large iron-braced door leading
+out of this office.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5527
+S
+#5530
+{WThe Armory{x~
+This is a large windowless rectangular room whose walls and floor have
+been left as bare gray stone.  Scores of wooden shelves have been attached
+to the east and west walls of the room whilst the center of the room has
+been split into aisles by neat rows of armor and weapons racks.  The only
+visible exit from this room is a sturdy iron-braced door to the north.  
+~
+0
+BD 0
+D0
+~
+~
+8231 8231
+2 5457 5527
+S
+#5531
+{WA Flagstone Courtyard{x~
+This is a large flagstone courtyard that is flanked by several gray stone
+buildings.  The most significant buildings appear to be a large stable built
+along the southern edge of the yard and a grand structure on the west side
+that was probably a wealthy merchant's house long ago; both buildings appear
+to be linked together.  There is a large gray stone wall marks the northern
+perimeter of the yard with long twisting vines of ivy growing up the sides. 
+A large archway appears to be the only way through the wall and beyond the
+arch is a long paved street.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 5427
+D2
+~
+~
+3 3
+1 0 5532
+S
+#5532
+{WThe Stable{x~
+This is the eastern end of a long structure made of gray stone and timber
+that is being used as a stable.  The area is quite neat and tidy although a
+draught running through the building does stir up some fragments of straw
+and hay into the air.  Built along the south side of the stable are numerous
+large stalls that are used to accommodate horses.  A long wide walkway runs
+east/west past the front of the stalls; the floor of the walkway appears to
+be packed mud.  Built high above the stalls is a hayloft, which is little
+more than a wooden platform supported by support beams that also form each
+stall enclosure.  There is a huge set of double doors set on the north side
+of the stable that leads outside.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5531
+D2
+~
+~
+3 3
+1 0 5536
+D3
+~
+~
+0 0
+0 0 5533
+S
+#5533
+{WThe Stable{x~
+This is the center of a long structure made of gray stone and timber that
+is being used as a stable.  The area is tidy although a draught flowing
+through the building does stir up some fragments of hay and straw.  Built
+along the south side of the stable are large stalls that are used to house
+the horses.  A long wide walkway runs east/west past the front of the
+stalls; the floor of the walkway appears to be mud that over the years has
+hardened like rock.  Built high above the stalls is a hayloft, which is
+little more than a wooden platform supported by support beams that also form
+each stall enclosure; there are several bales of hay hanging precariously
+over the edge of the platform.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5534
+D1
+~
+~
+0 0
+0 0 5532
+D2
+~
+~
+3 3
+1 0 5537
+D3
+~
+~
+0 0
+0 0 5535
+S
+#5534
+{WA Narrow Hallway{x~
+This is the southern end of a long yet narrow windowless hallway.  Both
+the walls and the floor of the room have been left as bare gray stone whilst
+small brass oil lanterns hung from the wooden beams that support the ceiling
+light up the area with a soft golden glow.  A large iron-braced doorway
+built at the very end of the corridor leads into a place that smells
+distinctly of horses.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 5518
+D2
+~
+~
+3 3
+1 0 5533
+S
+#5535
+{WThe Stable{x~
+This is the western end of a long structure made of gray stone and timber
+that is being used as a stable.  The area is quite neat and tidy although a
+faint draught flowing through the building does stir up some fragments of
+straw and hay.  Built along the south side of the stable are numerous large
+stalls that are used to contain any horses.  A long wide walkway runs
+east/west past the front of the stalls; the floor of the walkway appears to
+be mud that over the years has hardened like rock.  Built high above the
+stalls is a hayloft, which is little more than a wide wooden platform
+supported by wooden support beams that also form each stall enclosure.  To
+the west is a small room used to store tack and other pieces of equipment.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 5533
+D2
+~
+~
+3 3
+1 0 5538
+S
+#5536
+{WA Stall{x~
+This is one of the cozy stalls within the stable.  The area is relatively
+clean and tidy with fresh straw laid out across the stone floor.  Each one
+of the stalls inside this building is separated by sturdy wooden partitions.
+Despite the poor lighting within this building, the thick wooden timbers
+that help support the hayloft above the stall can be seen from this point.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5532
+S
+#5537
+{WA Stall{x~
+This is one of the comfy stalls within the stable.  The area is somewhat
+clean and tidy with fresh straw laid out across the stone floor.  Each one
+of the stalls inside this building is separated by sturdy wooden partitions.
+Despite the poor lighting within this building, the thick wooden beams that
+help support the hayloft above the stall can be seen from this point.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5533
+S
+#5538
+{WA Stall{x~
+This is one of the comfortable stalls within the stable.  The area is
+fairly clean and tidy with fresh straw laid out across the stone floor. 
+Each one of the stalls inside this building is separated by robust wooden
+partitions.  Despite the poor lighting within this building, the thick
+wooden timbers that help support the hayloft above the stall can be seen
+here.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5535
+S
+#5539
+{CAlong The Stream{x~
+A rancid smell of sewage emanates from this slow flowing stream that
+surrounds the market town of Abila.  The stream is quite wide and deep, the
+incline of the rocky banks suggests that this channel was manmade and not
+natural.  The undergrowth that grows along the banks of this waterway
+appears to be thriving despite how stony the soil is in this area.  The tall
+stone buildings of the town can be seen to the south from here but the bank
+is too steep and overgrown to ascend.  
+~
+0
+0 7
+D1
+~
+~
+0 0
+0 0 5540
+D3
+~
+~
+4096 4096
+0 0 5448
+S
+#5540
+{CAlong The Stream{x~
+A putrid smell of sewage emanates from this slow flowing stream that
+encompasses the market town of Abila.  The stream is quite wide and deep,
+the slope of the rocky banks suggests that this waterway was manmade and not
+natural.  The plant life that grows along the banks of this waterway appears
+to be thriving despite how rocky the soil is in this area.  The tall stone
+buildings of the town can be seen to the south from this point but the bank
+is too steep and overgrown to ascend.  
+~
+0
+0 7
+D1
+~
+~
+0 0
+0 0 5541
+D3
+~
+~
+0 0
+0 0 5539
+S
+#5541
+{CAlong The Stream{x~
+A putrid smell of sewage originates from this slow flowing stream that
+encompasses the Abila.  The stream is quite wide and deep, the slope of the
+rocky banks suggests that this waterway was manmade and not natural.  The
+vegetation that grows along the banks of this channel appears to be
+flourishing despite how rocky the soil is in this area.  The tall stone
+buildings of the town can be seen to the south from this point but the bank
+is too steep and overgrown to go up.  
+~
+0
+0 7
+D1
+~
+~
+0 0
+0 0 5542
+D3
+~
+~
+0 0
+0 0 5540
+S
+#5542
+{CAlong The Stream{x~
+A fetid smell of sewage comes from this slow flowing stream that
+surrounds the market town of Abila.  The stream is quite wide and deep, the
+gradient of the rocky banks suggests that this waterway was manmade and not
+natural.  The foliage that grows along the banks of this stream seems to be
+thriving despite how stony the soil is in this area.  The tall stone
+buildings of the town can be seen to the south from this point but the bank
+is too steep and overgrown to climb.  
+~
+0
+0 7
+D1
+~
+~
+0 0
+0 0 5543
+D3
+~
+~
+0 0
+0 0 5541
+S
+#5543
+{CAlong The Stream{x~
+A putrid smell of sewage emanates from this slow flowing stream that
+encompasses the market town of Abila.  The stream is quite wide and deep,
+the slope of the rocky banks suggests that this waterway was manmade and not
+natural.  The plant life that grows along the banks of this waterway appears
+to be thriving despite how rocky the soil is in this area.  
+~
+0
+0 7
+D1
+~
+~
+0 0
+0 0 5544
+D3
+~
+~
+0 0
+0 0 5542
+S
+#5544
+{CAlong The Stream{x~
+What was once a beautiful crystal clear stream is now a stinking brown
+soup-like concoction.  The stream itself disappears through a small gap
+between two large rocks; the gap is far too narrow to pass.  Faint echoes of
+splashing and running water can be heard, perhaps from an underground stream
+or river, but they do not seem to be originating from the gap between the
+rocks.  
+~
+0
+0 7
+D3
+~
+~
+0 0
+0 0 5543
+S
+#5545
+{mA Merchant's House{x~
+Like most homes belonging to Amadician merchants, this one is has been
+modeled like a noble's residence but on a much smaller scale.  The miniature
+fort-like structure made of timber and stone offer no real protection and
+looks quite odd amongst the plainer commoner abodes.  The interior of the
+house has been furnished in a somber style that is so typical of the people
+within this land yet despite the rooms' gloomy appearances it is obvious
+that the owner is very wealthy indeed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5420
+S
+#5546
+{mA Merchant's House{x~
+Like most homes owned by Amadician merchants, this one is has been
+constructed to look like a noble's residence but on a much smaller scale. 
+The miniature fort-like structure made of timber and stone offer no real
+protection and looks quite odd amongst the plainer commoner houses.  The
+interior of the house has been furnished in a somber style that is so
+typical of the people within this land yet despite the rooms' gloomy
+appearances it is obvious that the owner is very rich indeed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5421
+S
+#5547
+{mA Merchant's House{x~
+Like most homes owned by Amadician merchants, this one is has been
+constructed to look like a noble's residence but on a much smaller scale. 
+The small fort-like structure made of timber and stone offer no real
+protection and looks quite peculiar amongst the plainer commoner houses. 
+The interior of the house has been furnished in a somber style that is so
+typical of the people within this land despite the rooms' gloomy appearances
+it is clear that the owner is very rich indeed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5411
+S
+#5548
+{mA Merchant's House{x~
+Like the majority of homes belonging to Amadician merchants, this one is
+has been built to look like a noble's dwelling but on a much smaller scale. 
+The miniature fort-like structure made of timber and stone offer no real
+protection and looks quite strange amongst the plainer commoner abodes.  The
+inside of the house has been furnished in a somber style that is so typical
+of the people within this land despite the rooms' gloomy appearances it is
+obvious that the owner is very wealthy indeed.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 5413
+S
+#5549
+{GThe Hedge Doctor's Workshop{x~
+The owner of this small and simple shop in Abila is making quite good
+trade on selling potions and medicines to townsfolk and travelers alike. 
+This is very surprising, as trading medicines is an extremely risky business
+for anyone to undertake in any Amadician town.  The majority of healers in
+Amadicia are hedge doctors who specialize in herbal remedies, for obvious
+reasons female healers are practically unheard of in this country.  On the
+walls hang several large canvas posters with sketches of human anatomy,
+indicating which places to apply leeches to cure certain ailments.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5429
+S
+#5550
+{BA Quiet House{x~
+This is a comfortable study located within a very quiet household that
+has been furnished plainly, yet with a touch of elegance.  Hung upon the
+walls of the lounge are a few watercolor landscapes, depicting places of
+interest in the local area.  A high-backed armchair stand nearby the
+fireplace at the north end of the room, its occupant is an elderly ginger
+tomcat who basks in the warmth of the dancing flames.  Occasionally faint
+voices pass by outside the partially curtained windows and disappear out of
+earshot, leaving only constant crackling of the open fire and soft ticking
+sound from an old clock upon the mantelpiece.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 5428
+S
+#5551
+{RA Book Shop{x~
+This is a small book shop located in the market town of Abila.  A small
+draught from underneath the shop's main entrance stirs up dust that has
+settled upon the hundreds of books that sit upon bookcases arranged around
+the room.  At the north end of the room is a small doorway leading into the
+shopkeeper's quarters and placed in front of this door is a large wooden
+counter.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5423
+S
+#5552
+{RA Tool Shop{x~
+This is a small tool shop located in the market town of Abila.  Dozens of
+tools hang upon wooden racks attached to the stone walls of the shop,
+ranging from saws and hammers to pitchforks and rakes.  The majority of the
+items displayed in this area are of good quality but there are a few rusty
+pieces of junks mingled with them.  At the north end of the room is a small
+doorway leading into the shopkeeper's quarters and placed in front of this
+door is a large wooden counter.  At the opposite side of the shop is a
+second doorway that leads outside into a busy street.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 5417
+S
+#0
+
+
+
+#SPECIALS
+M 5446 spec_archer
+S
+
+
+
+#RESETS
+D 0 5402 3 1
+D 0 5404 3 1
+D 0 5411 2 1
+D 0 5412 2 1
+D 0 5413 1 1
+D 0 5413 2 1
+D 0 5414 3 1
+D 0 5415 2 1
+D 0 5416 2 1
+D 0 5417 0 1
+D 0 5417 3 1
+D 0 5418 0 1
+D 0 5419 0 1
+D 0 5420 0 1
+D 0 5420 2 1
+D 0 5420 3 1
+D 0 5421 0 1
+D 0 5421 2 1
+D 0 5422 0 1
+D 0 5423 0 1
+D 0 5424 1 1
+D 0 5425 0 1
+D 0 5425 2 1
+D 0 5426 0 1
+D 0 5426 2 1
+D 0 5427 3 1
+D 0 5428 3 1
+D 0 5429 3 1
+D 0 5432 3 1
+D 0 5445 1 1
+D 0 5445 2 1
+D 0 5446 1 1
+D 0 5448 2 2
+D 0 5449 0 2
+D 0 5467 2 1
+D 0 5468 2 1
+D 0 5469 1 1
+D 0 5470 1 1
+D 0 5471 3 1
+D 0 5472 0 1
+D 0 5473 3 1
+D 0 5474 1 1
+D 0 5475 0 1
+D 0 5476 2 1
+D 0 5477 2 1
+D 0 5478 0 1
+D 0 5479 0 1
+D 0 5480 1 1
+D 0 5480 3 1
+D 0 5482 0 1
+D 0 5482 2 1
+D 0 5483 0 1
+D 0 5483 2 1
+D 0 5483 3 1
+D 0 5484 0 1
+D 0 5484 1 1
+D 0 5484 2 1
+D 0 5485 2 1
+D 0 5486 3 1
+D 0 5487 0 1
+D 0 5488 2 1
+D 0 5489 0 1
+D 0 5490 2 1
+D 0 5491 0 1
+D 0 5492 1 1
+D 0 5493 1 1
+D 0 5497 1 1
+D 0 5498 1 1
+D 0 5498 3 1
+D 0 5499 3 1
+D 0 5500 0 1
+D 0 5500 4 1
+D 0 5501 5 1
+D 0 5502 0 1
+D 0 5502 4 1
+D 0 5503 5 1
+D 0 5504 3 1
+D 0 5504 4 1
+D 0 5505 5 1
+D 0 5506 2 1
+D 0 5506 4 1
+D 0 5507 5 1
+D 0 5508 2 1
+D 0 5508 4 1
+D 0 5509 5 1
+D 0 5510 1 1
+D 0 5510 4 1
+D 0 5511 5 1
+D 0 5512 2 1
+D 0 5512 3 1
+D 0 5513 1 1
+D 0 5514 0 1
+D 0 5514 1 1
+D 0 5514 3 2
+D 0 5515 1 2
+D 0 5516 2 1
+D 0 5517 3 1
+D 0 5518 1 1
+D 0 5519 0 1
+D 0 5519 2 1
+D 0 5519 3 1
+D 0 5520 1 1
+D 0 5521 2 1
+D 0 5522 0 1
+D 0 5523 0 1
+D 0 5523 1 1
+D 0 5523 2 1
+D 0 5524 2 1
+D 0 5525 0 1
+D 0 5526 3 1
+D 0 5527 0 1
+D 0 5527 2 2
+D 0 5527 3 1
+D 0 5528 1 1
+D 0 5529 2 1
+D 0 5530 0 2
+D 0 5531 2 1
+D 0 5532 0 1
+D 0 5532 2 1
+D 0 5533 0 1
+D 0 5533 2 1
+D 0 5534 2 1
+D 0 5535 2 1
+D 0 5536 0 1
+D 0 5537 0 1
+D 0 5538 0 1
+D 0 5545 0 1
+D 0 5546 0 1
+D 0 5547 0 1
+D 0 5548 0 1
+D 0 5549 1 1
+D 0 5550 1 1
+D 0 5551 2 1
+D 0 5552 2 1
+M 0 5400 6 5400 3
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5402 0 20
+M 0 5400 6 5400 3
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5402 0 20
+M 0 5400 6 5400 3
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5402 0 20
+M 0 5402 5 5401 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5403 6 5401 1
+E 0 5474 0 7
+M 0 5404 6 5402 1
+E 0 5475 0 10
+M 0 5409 5 5402 1
+M 0 5407 5 5404 1
+E 0 5473 0 8
+M 0 5411 3 5404 1
+M 0 5401 5 5405 1
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+M 0 5410 3 5405 1
+E 0 5412 0 15
+M 0 5407 5 5406 1
+E 0 5473 0 8
+M 0 5408 5 5406 1
+M 0 5404 6 5407 1
+E 0 5475 0 10
+M 0 5409 5 5407 1
+M 0 5402 5 5408 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5403 6 5408 1
+E 0 5474 0 7
+M 0 5400 6 5409 3
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5402 0 20
+M 0 5400 6 5409 3
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5402 0 20
+M 0 5400 6 5409 3
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5402 0 20
+M 0 5407 5 5411 1
+E 0 5473 0 8
+M 0 5408 5 5411 1
+M 0 5404 6 5412 1
+E 0 5475 0 10
+M 0 5405 5 5412 1
+E 0 5477 0 12
+E 0 5476 0 20
+M 0 5401 5 5413 1
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+E 0 5412 0 15
+M 0 5403 6 5413 1
+E 0 5474 0 7
+M 0 5402 5 5414 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5406 5 5414 1
+M 0 5408 5 5415 1
+M 0 5412 3 5415 1
+M 0 5405 5 5416 1
+E 0 5477 0 12
+E 0 5476 0 20
+M 0 5406 5 5416 1
+M 0 5402 5 5417 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5409 5 5417 1
+M 0 5405 5 5418 1
+E 0 5477 0 12
+E 0 5476 0 20
+M 0 5406 5 5418 1
+M 0 5404 6 5419 1
+E 0 5475 0 10
+M 0 5407 5 5419 1
+E 0 5473 0 8
+M 0 5401 5 5420 1
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+E 0 5412 0 15
+M 0 5403 6 5420 1
+E 0 5474 0 7
+M 0 5407 5 5421 1
+E 0 5473 0 8
+M 0 5408 5 5421 1
+M 0 5404 6 5422 1
+E 0 5475 0 10
+M 0 5405 5 5422 1
+E 0 5477 0 12
+E 0 5476 0 20
+M 0 5401 5 5423 1
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+E 0 5412 0 15
+M 0 5403 6 5423 1
+E 0 5474 0 7
+M 0 5402 5 5424 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5406 5 5424 1
+M 0 5405 5 5425 1
+E 0 5477 0 12
+E 0 5476 0 20
+M 0 5406 5 5425 1
+M 0 5404 6 5426 1
+E 0 5475 0 10
+M 0 5408 5 5426 1
+M 0 5401 5 5427 1
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+E 0 5412 0 15
+M 0 5403 6 5427 1
+E 0 5474 0 7
+O 0 5403 0 5428
+M 0 5409 5 5428 1
+M 0 5412 3 5428 1
+O 0 5403 0 5429
+M 0 5410 3 5429 1
+M 0 5411 3 5429 1
+O 0 5403 0 5430
+M 0 5410 3 5430 1
+M 0 5411 3 5430 1
+O 0 5403 0 5431
+M 0 5409 5 5431 1
+M 0 5412 3 5431 1
+M 0 5416 4 5432 2
+E 0 5431 0 5
+E 0 5430 0 18
+E 0 5430 0 17
+E 0 5429 0 8
+E 0 5428 0 20
+M 0 5416 4 5432 2
+E 0 5431 0 5
+E 0 5430 0 18
+E 0 5430 0 17
+E 0 5429 0 8
+E 0 5428 0 20
+M 0 5413 6 5433 1
+E 0 5490 0 7
+M 0 5415 6 5433 1
+E 0 5489 0 20
+M 0 5414 10 5433 1
+E 0 5445 0 16
+E 0 5447 0 13
+E 0 5446 0 3
+M 0 5413 6 5434 1
+E 0 5490 0 7
+M 0 5415 6 5434 1
+E 0 5489 0 20
+M 0 5414 10 5434 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+O 0 5414 0 5435
+M 0 5413 6 5435 1
+E 0 5490 0 7
+M 0 5415 6 5435 1
+E 0 5489 0 20
+M 0 5414 10 5435 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+O 0 5415 0 5436
+P 0 5472 1 5415 1
+M 0 5413 6 5436 1
+E 0 5490 0 7
+M 0 5415 6 5436 1
+E 0 5489 0 20
+M 0 5414 10 5436 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+M 0 5417 2 5436 1
+M 0 5413 6 5437 1
+E 0 5490 0 7
+M 0 5415 6 5437 1
+E 0 5489 0 20
+M 0 5414 10 5437 1
+E 0 5445 0 16
+E 0 5447 0 13
+E 0 5446 0 3
+M 0 5413 6 5438 1
+E 0 5490 0 7
+M 0 5415 6 5438 1
+E 0 5489 0 20
+M 0 5414 10 5438 1
+E 0 5445 0 16
+E 0 5447 0 13
+E 0 5446 0 3
+M 0 5418 3 5439 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5419 3 5439 1
+E 0 5418 0 7
+M 0 5421 3 5439 1
+O 0 5416 0 5440
+O 0 5417 0 5440
+M 0 5423 3 5440 1
+M 0 5424 3 5440 1
+M 0 5418 3 5441 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5419 3 5441 1
+E 0 5418 0 7
+M 0 5421 3 5441 1
+M 0 5418 3 5442 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5413 0 20
+M 0 5419 3 5442 1
+E 0 5418 0 7
+M 0 5421 3 5442 1
+M 0 5422 3 5443 1
+M 0 5424 3 5443 1
+M 0 5420 7 5443 2
+M 0 5420 7 5443 2
+M 0 5422 3 5444 1
+M 0 5424 3 5444 1
+M 0 5420 7 5444 2
+M 0 5420 7 5444 2
+M 0 5423 3 5445 1
+M 0 5420 7 5445 1
+M 0 5422 3 5446 1
+M 0 5420 7 5446 1
+M 0 5423 3 5447 1
+M 0 5420 7 5447 1
+M 0 5426 6 5449 1
+M 0 5429 6 5449 1
+M 0 5425 6 5450 1
+M 0 5428 6 5450 1
+M 0 5427 6 5451 1
+M 0 5430 6 5451 1
+M 0 5426 6 5452 1
+M 0 5429 6 5452 1
+M 0 5425 6 5453 1
+M 0 5428 6 5453 1
+M 0 5426 6 5454 1
+M 0 5429 6 5454 1
+M 0 5427 6 5455 1
+M 0 5430 6 5455 1
+M 0 5425 6 5456 1
+M 0 5428 6 5456 1
+O 0 5469 0 5456
+P 0 5470 1 5469 1
+M 0 5427 6 5457 1
+M 0 5430 6 5457 1
+M 0 5425 6 5458 1
+M 0 5428 6 5458 1
+M 0 5427 6 5459 1
+M 0 5429 6 5459 1
+M 0 5426 6 5460 1
+M 0 5430 6 5460 1
+M 0 5427 6 5461 1
+M 0 5428 6 5461 1
+O 0 5466 0 5461
+P 0 5467 1 5466 1
+M 0 5427 6 5462 1
+M 0 5430 6 5462 1
+M 0 5425 6 5463 1
+M 0 5429 6 5463 1
+M 0 5426 6 5464 1
+M 0 5428 6 5464 1
+M 0 5425 6 5465 1
+M 0 5430 6 5465 1
+M 0 5426 6 5466 1
+M 0 5429 6 5466 1
+O 0 5463 0 5466
+P 0 5464 1 5463 1
+M 0 5431 8 5467 1
+M 0 5432 8 5467 1
+M 0 5433 8 5467 1
+M 0 5434 8 5467 1
+M 0 5431 8 5468 1
+M 0 5432 8 5468 1
+M 0 5433 8 5468 1
+M 0 5434 8 5468 1
+M 0 5431 8 5469 1
+M 0 5432 8 5469 1
+M 0 5433 8 5469 1
+M 0 5434 8 5469 1
+M 0 5431 8 5470 1
+M 0 5432 8 5470 1
+M 0 5433 8 5470 1
+M 0 5434 8 5470 1
+M 0 5431 8 5471 1
+M 0 5432 8 5471 1
+M 0 5433 8 5471 1
+M 0 5434 8 5471 1
+M 0 5431 8 5472 1
+M 0 5432 8 5472 1
+M 0 5433 8 5472 1
+M 0 5434 8 5472 1
+M 0 5431 8 5473 1
+M 0 5432 8 5473 1
+M 0 5433 8 5473 1
+M 0 5434 8 5473 1
+M 0 5431 8 5474 1
+M 0 5432 8 5474 1
+M 0 5433 8 5474 1
+M 0 5434 8 5474 1
+O 0 5419 0 5475
+O 0 5468 0 5475
+O 0 5420 0 5476
+O 0 5419 0 5476
+O 0 5420 0 5477
+O 0 5419 0 5477
+O 0 5419 0 5478
+O 0 5422 0 5479
+O 0 5421 0 5479
+M 0 5435 1 5479 1
+M 0 5416 4 5480 2
+E 0 5431 0 5
+E 0 5430 0 18
+E 0 5430 0 17
+E 0 5429 0 8
+E 0 5428 0 20
+M 0 5416 4 5480 2
+E 0 5431 0 5
+E 0 5430 0 18
+E 0 5430 0 17
+E 0 5429 0 8
+E 0 5428 0 20
+M 0 5436 1 5480 1
+O 0 5423 0 5481
+M 0 5443 4 5481 1
+M 0 5444 4 5481 1
+O 0 5424 0 5482
+M 0 5443 4 5482 1
+M 0 5444 4 5482 1
+M 0 5443 4 5483 1
+M 0 5444 4 5483 1
+M 0 5443 4 5484 1
+M 0 5444 4 5484 1
+M 0 5441 4 5486 1
+E 0 5444 0 9
+E 0 5443 0 16
+E 0 5441 0 5
+E 0 5440 0 7
+E 0 5432 0 20
+M 0 5442 4 5486 1
+E 0 5433 0 20
+E 0 5438 0 5
+M 0 5441 4 5488 1
+E 0 5444 0 9
+E 0 5443 0 16
+E 0 5442 0 5
+E 0 5439 0 7
+E 0 5432 0 20
+M 0 5442 4 5488 1
+E 0 5433 0 20
+E 0 5438 0 5
+M 0 5441 4 5489 1
+E 0 5444 0 9
+E 0 5443 0 16
+E 0 5441 0 5
+E 0 5440 0 7
+E 0 5432 0 20
+M 0 5442 4 5489 1
+E 0 5433 0 20
+E 0 5438 0 5
+M 0 5441 4 5492 1
+E 0 5444 0 9
+E 0 5443 0 16
+E 0 5442 0 5
+E 0 5439 0 7
+E 0 5432 0 20
+M 0 5442 4 5492 1
+E 0 5433 0 20
+E 0 5438 0 5
+O 0 5425 0 5493
+M 0 5414 10 5493 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+M 0 5437 4 5493 1
+M 0 5438 4 5493 1
+M 0 5439 8 5493 2
+E 0 5491 0 20
+M 0 5439 8 5493 2
+E 0 5491 0 20
+O 0 5425 0 5494
+M 0 5414 10 5494 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+M 0 5437 4 5494 1
+M 0 5438 4 5494 1
+M 0 5439 8 5494 2
+E 0 5491 0 20
+M 0 5439 8 5494 2
+E 0 5491 0 20
+M 0 5414 10 5495 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+M 0 5437 4 5495 1
+M 0 5438 4 5495 1
+M 0 5439 8 5495 2
+E 0 5491 0 20
+M 0 5439 8 5495 2
+E 0 5491 0 20
+M 0 5414 10 5496 1
+E 0 5447 0 13
+E 0 5446 0 3
+E 0 5445 0 16
+M 0 5437 4 5496 1
+M 0 5438 4 5496 1
+M 0 5439 8 5496 2
+E 0 5491 0 20
+M 0 5439 8 5496 2
+E 0 5491 0 20
+M 0 5417 2 5497 1
+M 0 5440 3 5497 3
+E 0 5490 0 7
+M 0 5440 3 5497 3
+E 0 5490 0 7
+M 0 5440 3 5497 3
+E 0 5490 0 7
+O 0 5427 0 5498
+O 0 5426 0 5498
+M 0 5445 5 5498 5
+E 0 5434 0 16
+E 0 5437 0 20
+M 0 5445 5 5498 5
+E 0 5434 0 16
+E 0 5436 0 20
+M 0 5445 5 5498 5
+E 0 5434 0 16
+E 0 5436 0 20
+M 0 5445 5 5498 5
+E 0 5434 0 16
+E 0 5435 0 20
+M 0 5445 5 5498 5
+E 0 5434 0 16
+E 0 5435 0 20
+O 0 5465 0 5499
+M 0 5446 18 5501 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5501 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5501 3
+E 0 5448 0 8
+G 0 5449 0
+E 0 5450 0 20
+E 0 5451 0 19
+E 0 5452 0 16
+M 0 5446 18 5503 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5503 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5503 3
+E 0 5448 0 8
+G 0 5449 0
+E 0 5450 0 20
+E 0 5451 0 19
+E 0 5452 0 16
+O 0 5471 0 5504
+M 0 5446 18 5505 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5505 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5505 3
+E 0 5448 0 8
+G 0 5449 0
+E 0 5450 0 20
+E 0 5451 0 19
+E 0 5452 0 16
+M 0 5446 18 5507 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5507 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5507 3
+E 0 5448 0 8
+G 0 5449 0
+E 0 5450 0 20
+E 0 5451 0 19
+E 0 5452 0 16
+M 0 5446 18 5509 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5509 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5509 3
+E 0 5448 0 8
+G 0 5449 0
+E 0 5450 0 20
+E 0 5451 0 19
+E 0 5452 0 16
+M 0 5446 18 5511 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5511 3
+E 0 5452 0 16
+E 0 5451 0 19
+E 0 5450 0 20
+G 0 5449 0
+E 0 5448 0 8
+M 0 5446 18 5511 3
+E 0 5448 0 8
+G 0 5449 0
+E 0 5450 0 20
+E 0 5451 0 19
+E 0 5452 0 16
+M 0 5455 2 5512 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5493 0 13
+E 0 5413 0 20
+E 0 5494 0 25
+E 0 5495 0 10
+O 0 5455 0 5513
+P 0 5456 1 5455 1
+O 0 5454 0 5513
+O 0 5458 0 5513
+M 0 5455 2 5514 1
+E 0 5400 0 8
+E 0 5401 0 7
+E 0 5493 0 13
+E 0 5413 0 20
+E 0 5494 0 25
+E 0 5495 0 10
+O 0 5492 0 5515
+P 0 5402 5 5492 5
+O 0 5453 0 5516
+O 0 5453 0 5517
+O 0 5459 0 5518
+M 0 5447 2 5519 2
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+E 0 5412 0 15
+M 0 5447 2 5519 2
+E 0 5404 0 20
+E 0 5405 0 9
+E 0 5406 0 12
+E 0 5407 0 8
+E 0 5408 0 7
+E 0 5409 0 14
+E 0 5410 0 10
+E 0 5411 0 11
+E 0 5412 0 15
+O 0 5453 0 5520
+O 0 5453 0 5521
+O 0 5453 0 5522
+M 0 5454 4 5523 2
+M 0 5454 4 5523 2
+O 0 5455 0 5524
+O 0 5454 0 5524
+O 0 5459 0 5524
+O 0 5455 0 5525
+P 0 5462 1 5455 1
+O 0 5454 0 5525
+O 0 5459 0 5525
+O 0 5455 0 5529
+P 0 5457 1 5455 1
+O 0 5454 0 5529
+O 0 5458 0 5529
+O 0 5492 0 5530
+P 0 5491 5 5492 5
+O 0 5460 0 5531
+M 0 5448 3 5532 1
+E 0 5461 0 20
+M 0 5448 3 5533 1
+E 0 5461 0 20
+M 0 5454 4 5534 2
+M 0 5454 4 5534 2
+M 0 5448 3 5535 1
+E 0 5461 0 20
+M 0 5449 3 5536 1
+G 0 5480 0
+M 0 5449 3 5537 1
+G 0 5480 0
+M 0 5449 3 5538 1
+G 0 5480 0
+M 0 5450 8 5545 2
+M 0 5450 8 5545 2
+M 0 5450 8 5546 2
+M 0 5450 8 5546 2
+M 0 5450 8 5547 2
+M 0 5450 8 5547 2
+M 0 5450 8 5548 2
+M 0 5450 8 5548 2
+O 0 5478 0 5549
+O 0 5479 0 5549
+M 0 5451 1 5549 1
+O 0 5481 0 5550
+P 0 5462 1 5481 1
+O 0 5482 0 5551
+M 0 5453 1 5551 1
+G 0 5487 0
+G 0 5488 0
+M 0 5452 1 5552 1
+G 0 5483 0
+G 0 5484 0
+G 0 5485 0
+G 0 5486 0
+S
+
+
+
+#SHOPS
+5452 5 0 0 0 0 125 25 0 23
+5453 21 13 8 0 0 125 25 0 23
+0
+
+
+
+#$

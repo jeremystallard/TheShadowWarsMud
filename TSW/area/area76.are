@@ -1,0 +1,1913 @@
+#AREADATA
+Name Emond's Field 2~
+Builders Tirianol~
+VNUMs 2400 2499
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#2400
+cenn buie thatcher gnarled man~
+Cenn Buie~
+A gnarled old man stalks off from another argument with the village Wisdom.
+~
+~
+andoran~
+AGHW 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+H 0 0 0
+stand stand male 10
+0 0 small 'flesh'
+#2401
+dhurran stallion horse~
+a massive Dhurran stallion~
+A tall shaggy horse looks large enough for an Ogier to ride.
+~
+~
+unique~
+ABTZ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CI 0 ELQ J
+stand stand male 0
+AV ACDEFJKQ large 'flesh'
+#2402
+Haral Luhan blacksmith~
+Haral Luhan~
+The blacksmith, twice as wide as most men, works his forge diligently.
+~
+Haral Luhan is an important man in Emond's Field.  As well as being the
+village's only blacksmith, he is also a member of the village council. 
+Wearing the leather vest and apron that representative of his trade, the
+stocky dark-haired man is truly a master of his craft.  
+ 
+~
+andoran~
+ABEVYc DF 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 1000000
+0 0 large 'flesh'
+#2403
+test~
+test~
+Test
+~
+~
+aiel~
+A I 0 0
+100 90 1d1+1 100d10+100 1d1+1 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 CDEGHIJKL
+stand stand female 0
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#2400
+chest~
+a battered chest~
+A battered old chest is stowed under the bed.~
+oak~
+container a 0
+10000000 ABCD 2401 -1 100
+1 16960 100 100
+#2401
+brass key~
+a sturdy {ybr{Yas{ys {wkey{x~
+A sturdy brass key is here.~
+brass~
+key K A
+0 0 0 0 0
+0 1 10 100
+#2402
+heron-marked sword blade~
+a {CHe{cro{Cn{W-Ma{wr{Wked {DB{Wla{Dd{We{x~
+Although the blade has lain in the trunk for years, it shows not a mark of rust.~
+steel~
+weapon Ybc AN
+sword 10 15 'slash' D
+90 15 100000 100
+A
+18 5
+A
+19 5
+#2403
+steel breastplate~
+a finely-crafted {CS{Wte{Ce{Wl {DBr{Weas{Dt{Wpl{Date{x~
+The work of a true master, this breastplate should serve its purpose well.~
+steel~
+armor c AD
+15 15 15 15 0
+60 0 1000 100
+A
+5 2
+#2404
+test~
+test~
+test~
+steel~
+trash ABG AB
+0 0 ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0 0
+90 0 0 100
+#2405
+blah~
+blah~
+blah~
+cloth~
+trash 0 A
+0 HJKMPTUX 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#2400
+The Center of Town~
+~
+0
+CK 1
+D0
+~
+~
+0 0
+0 0 2401
+D1
+~
+~
+0 0
+0 0 2403
+D2
+~
+~
+0 0
+0 0 2405
+D3
+~
+~
+0 0
+0 0 2407
+S
+#2401
+The Village {GGreen{x~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 2453
+D1
+~
+~
+0 0
+0 0 2402
+D2
+~
+~
+0 0
+0 0 2400
+D3
+~
+~
+0 0
+0 0 2408
+S
+#2402
+The Village {GGreen{x~
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 2409
+D2
+~
+~
+0 0
+0 0 2403
+D3
+~
+~
+0 0
+0 0 2401
+S
+#2403
+The Village {GGreen{x~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 2402
+D1
+~
+~
+0 0
+0 0 2441
+D2
+~
+~
+0 0
+0 0 2404
+D3
+~
+~
+0 0
+0 0 2400
+S
+#2404
+The Village {GGreen{x~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 2403
+D1
+~
+~
+0 0
+0 0 2444
+D3
+~
+~
+0 0
+0 0 2405
+S
+#2405
+The Village {GGreen{x~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 2400
+D1
+~
+~
+0 0
+0 0 2404
+D3
+~
+~
+0 0
+0 0 2406
+S
+#2406
+The Village {GGreen{x~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 2407
+D1
+~
+~
+0 0
+0 0 2405
+D2
+~
+~
+3 3
+1 0 2436
+D3
+~
+~
+3 3
+1 0 2437
+S
+#2407
+The Village {GGreen{x~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 2408
+D1
+~
+~
+0 0
+0 0 2400
+D2
+~
+~
+0 0
+0 0 2406
+D3
+~
+~
+0 0
+0 0 2420
+S
+#2408
+The Village {GGreen{x~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 2401
+D2
+~
+~
+0 0
+0 0 2407
+D3
+~
+~
+3 3
+1 0 2465
+S
+#2409
+Common Room Of The {BWi{Wne{Ysp{Wri{Bng{x Inn~
+The tall, oaken door opens onto a large room inside the Inn.  Everything
+in sight is clean and wellkept.  A large {rf{Ri{rre{Dpl{wa{Dce{x takes up half the length
+of the big square room, with a plain {Ds{wt{Wo{wn{De{x mantel resting atop.  A polished
+{Wca{wn{Dis{wt{Wer{x rests atop the {Dm{wa{Wnt{we{Dl{x, alongside a {ycl{Yo{yck{x that tics the time away. 
+A few tables and high backed {rch{yai{rrs{x set around the room, a stones {Db{Woa{Drd{x
+placed carefully atop one, ready for the next customer who wishes to play. 
+A lone {yb{Doo{yksh{De{ylf{x rests against the wall opposite the fireplace, with a few
+treasured {cb{Coo{cks{x upon its shelves.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 2410
+D1
+~
+~
+0 0
+0 0 2413
+D2
+~
+~
+3 3
+1 0 2441
+D3
+~
+~
+3 3
+1 0 2402
+S
+#2410
+Kitchen At The {BWi{Wne{Ysp{Wri{Bng{x Inn~
+The aroma of baking {ybr{Yea{yd{x tickles your nose upon entering this room.  Two
+iron {Ds{wt{Wov{we{Ds{x are upon the west wall, both giving off heat as the bread inside
+bakes {rh{Wo{rt{x.  A long table is set up in the center of the room, various
+vegetables and meats being chopped up by the Mistress of this Inn.  Young
+girls are busy scrubbing away at large iron pots, preparing them to make the
+days meals.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 2485
+D1
+~
+~
+3 3
+1 0 2412
+D2
+~
+~
+0 0
+0 0 2409
+S
+#2411
+Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2415
+D2
+~
+~
+3 3
+1 0 2484
+D3
+~
+~
+0 0
+0 0 2413
+D5
+~
+~
+3 3
+1 0 2498
+S
+#2412
+Pantry~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2410
+S
+#2413
+A Stairway~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2411
+D2
+~
+~
+1 1
+1 0 2414
+D3
+~
+~
+0 0
+0 0 2409
+D4
+~
+~
+0 0
+0 0 2489
+S
+#2414
+Library~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 2413
+S
+#2415
+Private Dining Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2411
+S
+#2416
+Inside The Stables~
+The dirt between the stalles is a little {ym{Du{yddy{x, little bits of straying
+straw have made their way into it, creating a sticky mess.  {DF{wli{Wes{x buzz
+around, landing momentarily on one thing before flitting up into the air to
+buzz again.  Stalls are to each side of the pathway, which continues on
+ahead.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 2417
+D1
+~
+~
+3 3
+1 0 2486
+D3
+~
+~
+1 1
+1 0 2485
+D4
+~
+~
+0 0
+0 0 2419
+S
+#2417
+Inside The Stables~
+The dirt between the stalles is a little {ym{Du{yddy{x, little bits of straying
+straw have made their way into it, creating a sticky mess.  {DF{wli{Wes{x buzz
+around, landing momentarily on one thing before flitting up into the air to
+buzz again.  Stalls are to each side of the pathway, which continues on
+ahead.  
+~
+0
+AD 0
+D0
+~
+~
+3 3
+1 0 2418
+D1
+~
+~
+3 3
+1 0 2488
+D2
+~
+~
+0 0
+0 0 2416
+D3
+~
+~
+3 3
+1 0 2487
+S
+#2418
+Inside A Stall~
+This stall has been very recently cleaned.  The dirt floor has been
+raked up and a fresh pile of {Yh{Wa{Yy{x has been placed in a corner.  A watering
+bucket has fresh {cw{Ca{Wt{Ce{cr{x inside for the occupant of this stall to enjoy.  
+~
+0
+AD 0
+D2
+~
+~
+3 3
+1 0 2417
+S
+#2419
+In The Hayloft~
+Large piles of {Yh{Wa{Yy{x cover the floor of the hayloft.  Signs of recent use
+can be seen by the flattened out piles.  A large {Dp{Wi{Dtch{yf{Yo{yrk{x leans against the
+wall, close to hand for when it comes time to put fresh hay in the stalls
+below.  The air is very warm and {rst{Da{rle{x up here, the strong odor of fresh
+manure thick and the flies buzz around, irritating the horses below.  
+~
+0
+ACD 0
+D5
+~
+~
+0 0
+0 0 2416
+S
+#2420
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2407
+D3
+~
+~
+0 0
+0 0 2421
+S
+#2421
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D0
+~
+~
+3 3
+1 0 2459
+D1
+~
+~
+0 0
+0 0 2420
+D3
+~
+~
+0 0
+0 0 2422
+S
+#2422
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2421
+D2
+~
+~
+3 3
+1 0 2462
+D3
+~
+~
+0 0
+0 0 2423
+S
+#2423
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2422
+D2
+~
+~
+3 3
+1 0 2464
+D3
+~
+~
+0 0
+0 0 2424
+S
+#2424
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2423
+D3
+~
+~
+0 0
+0 0 2425
+S
+#2425
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2424
+D3
+~
+~
+0 0
+0 0 2426
+S
+#2426
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2425
+D3
+~
+~
+0 0
+0 0 2427
+S
+#2427
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 2429
+D1
+~
+~
+0 0
+0 0 2426
+D3
+~
+~
+0 0
+0 0 2428
+S
+#2428
+{DQ{wua{Drr{wy Road{x~
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 2427
+S
+#2429
+The Entrance to a Small Farm~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2430
+D2
+~
+~
+0 0
+0 0 2427
+S
+#2430
+A Path through the Farm~
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 2431
+D2
+~
+~
+0 0
+0 0 2429
+S
+#2431
+The Front Porch~
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 2432
+D2
+~
+~
+0 0
+0 0 2430
+S
+#2432
+Living Room~
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 2434
+D1
+~
+~
+3 3
+1 0 2433
+D2
+~
+~
+3 3
+1 0 2431
+S
+#2433
+Bedroom~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2432
+S
+#2434
+Kitchen~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2435
+D2
+~
+~
+0 0
+0 0 2432
+S
+#2435
+Bedroom~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2434
+S
+#2436
+The Smithy~
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 2406
+S
+#2437
+Mistress Luhan's Kitchen~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2406
+D3
+~
+~
+0 0
+0 0 2438
+S
+#2438
+Bottom of the Stairs~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2437
+D4
+~
+~
+0 0
+0 0 2439
+S
+#2439
+A Landing~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2440
+D5
+~
+~
+0 0
+0 0 2438
+S
+#2440
+Bedroom~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2439
+S
+#2441
+An Old Stone Foundation~
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 2409
+D3
+~
+~
+0 0
+0 0 2403
+S
+#2442
+A Large Oak Tree~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 2443
+S
+#2443
+The Winespring~
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 2442
+S
+#2444
+Old Road~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2445
+D3
+~
+~
+0 0
+0 0 2404
+S
+#2445
+Wagon Bridge~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2444
+D2
+~
+~
+0 0
+0 0 2446
+S
+#2446
+Old Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2445
+D1
+~
+~
+0 0
+0 0 2447
+S
+#2447
+Old Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2448
+D2
+~
+~
+3 3
+1 0 2474
+D3
+~
+~
+0 0
+0 0 2446
+S
+#2448
+Old Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2478
+D2
+~
+~
+0 0
+0 0 2449
+D3
+~
+~
+0 0
+0 0 2447
+S
+#2449
+Old Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2448
+D1
+~
+~
+3 3
+1 0 2476
+D2
+~
+~
+0 0
+0 0 2450
+S
+#2450
+Old Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2449
+D2
+~
+~
+0 0
+0 0 2451
+S
+#2451
+Old Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2450
+D2
+~
+~
+0 0
+0 0 2452
+S
+#2452
+Old Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2451
+S
+#2453
+North Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2454
+D2
+~
+~
+0 0
+0 0 2401
+S
+#2454
+North Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2455
+D2
+~
+~
+0 0
+0 0 2453
+D3
+~
+~
+3 3
+1 0 2472
+S
+#2455
+North Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2456
+D2
+~
+~
+0 0
+0 0 2454
+S
+#2456
+North Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2457
+D1
+~
+~
+3 3
+1 0 2473
+D2
+~
+~
+0 0
+0 0 2455
+S
+#2457
+North Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2458
+D2
+~
+~
+0 0
+0 0 2456
+S
+#2458
+North Road~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2457
+S
+#2459
+Cenn Buie's Home (Thatcher)~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2421
+D3
+~
+~
+3 3
+1 0 2460
+S
+#2460
+Yard~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2461
+D1
+~
+~
+3 3
+1 0 2459
+S
+#2461
+Shed~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 2460
+S
+#2462
+Eward Candwin (cooper)~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2422
+D1
+~
+~
+0 0
+0 0 2463
+S
+#2463
+Sheep~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 2462
+S
+#2464
+Wit Congar~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2423
+S
+#2465
+Cauthon Home~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2467
+D1
+~
+~
+3 3
+1 0 2408
+D3
+~
+~
+0 0
+0 0 2466
+D4
+~
+~
+0 0
+0 0 2469
+S
+#2466
+Kitchen~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2468
+D1
+~
+~
+0 0
+0 0 2465
+S
+#2467
+Master Bedroom~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2465
+S
+#2468
+Yard/Sheep/Cows~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2466
+S
+#2469
+Landing~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2470
+D3
+~
+~
+3 3
+1 0 2471
+D5
+~
+~
+0 0
+0 0 2465
+S
+#2470
+Girls Bedroom~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2469
+S
+#2471
+Mat's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2469
+S
+#2472
+Alwyn al'Van (cobbler)~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2454
+S
+#2473
+Pel Aydaer (Cabinet)~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2456
+S
+#2474
+Nynaeve al'Mear (Wisdom)~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2447
+D3
+~
+~
+0 0
+0 0 2475
+S
+#2475
+Herb Garden~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2474
+S
+#2476
+Tuck Padwhin (Carpenter)~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2477
+D3
+~
+~
+3 3
+1 0 2449
+S
+#2477
+Yard~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2476
+S
+#2478
+Old Dirt Path~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2479
+D3
+~
+~
+0 0
+0 0 2448
+S
+#2479
+Old Dirt Path~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 2480
+D3
+~
+~
+0 0
+0 0 2478
+S
+#2480
+Old Dirt Path~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 2481
+D2
+~
+~
+0 0
+0 0 2479
+S
+#2481
+Old Dirt Path~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 2482
+D2
+~
+~
+3 3
+1 0 2483
+D3
+~
+~
+0 0
+0 0 2480
+S
+#2482
+Mill~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 2481
+S
+#2483
+John Thane's Home~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2481
+S
+#2484
+Private Dining Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2411
+S
+#2485
+Pathway To The Stables~
+A well packed dirt {yp{Ya{ythw{Ya{yy{x leads from the kitchen of the Winespring Inn
+to her stables.  A few flowers dot the way along the fence that seperates
+the yard from the North road outside.  The {Dst{ya{Dbl{ye{Ds{x is a rather large
+building, and the smell of horse manure can be caught on the air as you
+approach.  
+~
+0
+0 2
+D1
+~
+~
+1 1
+1 0 2416
+D2
+~
+~
+3 3
+1 0 2410
+S
+#2486
+Tack Room~
+The room is a bit crowded and musky smelling, a {Yl{Da{Ynt{De{Yrn{x hangs from a nail
+on a stall post, giving off just enough light to get around.  All the
+implements needed to care for the horses are in evidence, brushes for their
+coats, shovels and rakes for the odious job of cleaning the stalls, and
+repair kits for the leather of the saddles.  
+~
+0
+ACD 0
+D3
+~
+~
+3 3
+1 0 2416
+S
+#2487
+Inside A Stall~
+A mess of {yh{Ya{yy{x covers the {ym{Du{yddy{x floor of this stall.  The water {Dp{wai{Dl{x has
+been knocked over, creating a large puddle in the center of the stall.  It
+appears as if the stableboy has been derelict in his duties.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 2417
+S
+#2488
+Inside A Stall~
+This stall belongs to one of Master al'Vere's massive {yDh{Du{yrr{Da{yn{x's.  The
+horse is busy munching on a pile of fresh {Yh{Wa{Yy{x, his tail swatting away the
+flies that buzz around him almost constantly.  Though the horses dimensions
+are very large, he seems to be rather docile, for now.  
+~
+0
+AD 0
+D3
+~
+~
+3 3
+1 0 2417
+S
+#2489
+Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2493
+D1
+~
+~
+7 7
+2 0 2490
+D2
+~
+~
+3 3
+1 0 2494
+D3
+~
+~
+0 0
+0 0 2495
+D5
+~
+~
+0 0
+0 0 2413
+S
+#2490
+Living Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2491
+D2
+~
+~
+3 3
+1 0 2492
+D3
+~
+~
+7 7
+2 0 2489
+S
+#2491
+Girls room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2490
+S
+#2492
+Master Bedroom~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2490
+S
+#2493
+Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2489
+S
+#2494
+Room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2489
+S
+#2495
+Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2496
+D1
+~
+~
+0 0
+0 0 2489
+D2
+~
+~
+3 3
+1 0 2497
+S
+#2496
+room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 2495
+S
+#2497
+room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 2495
+S
+#2498
+Wine Cellar~
+~
+0
+0 0
+D4
+~
+~
+3 3
+1 0 2411
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2402 1 1
+D 0 2406 2 1
+D 0 2406 3 1
+D 0 2408 3 1
+D 0 2409 2 1
+D 0 2409 3 1
+D 0 2410 0 1
+D 0 2410 1 1
+D 0 2411 0 1
+D 0 2411 2 1
+D 0 2411 5 1
+D 0 2412 3 1
+D 0 2415 2 1
+D 0 2416 1 1
+D 0 2417 0 1
+D 0 2417 1 1
+D 0 2417 3 1
+D 0 2418 2 1
+D 0 2421 0 1
+D 0 2422 2 1
+D 0 2423 2 1
+D 0 2431 0 1
+D 0 2432 1 1
+D 0 2432 2 1
+D 0 2433 3 1
+D 0 2434 1 1
+D 0 2435 3 1
+D 0 2436 0 1
+D 0 2437 1 1
+D 0 2439 1 1
+D 0 2440 3 1
+D 0 2441 0 1
+D 0 2447 2 1
+D 0 2449 1 1
+D 0 2454 3 1
+D 0 2456 1 1
+D 0 2459 2 1
+D 0 2459 3 1
+D 0 2460 1 1
+D 0 2462 0 1
+D 0 2464 0 1
+D 0 2465 0 1
+D 0 2465 1 1
+D 0 2466 0 1
+D 0 2467 2 1
+D 0 2468 2 1
+D 0 2469 0 1
+D 0 2469 3 1
+D 0 2470 2 1
+D 0 2471 1 1
+D 0 2472 1 1
+D 0 2473 3 1
+D 0 2474 0 1
+D 0 2476 1 1
+D 0 2476 3 1
+D 0 2477 3 1
+D 0 2481 1 1
+D 0 2481 2 1
+D 0 2482 3 1
+D 0 2483 0 1
+D 0 2484 0 1
+D 0 2485 2 1
+D 0 2486 3 1
+D 0 2487 1 1
+D 0 2488 3 1
+D 0 2489 0 1
+D 0 2489 1 2
+D 0 2489 2 1
+D 0 2490 0 1
+D 0 2490 2 1
+D 0 2490 3 2
+D 0 2491 2 1
+D 0 2492 0 1
+D 0 2493 2 1
+D 0 2494 0 1
+D 0 2495 0 1
+D 0 2495 2 1
+D 0 2496 2 1
+D 0 2497 0 1
+D 0 2498 4 1
+M 0 2401 2 2418 1
+O 0 2400 0 2433
+P 0 2402 1 2400 1
+M 0 2402 1 2436 1
+G 0 2403 0
+S
+
+
+
+#SHOPS
+2402 5 0 0 0 0 125 75 1 24
+0
+
+
+
+#$

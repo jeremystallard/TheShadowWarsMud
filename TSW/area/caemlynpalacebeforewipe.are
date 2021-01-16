@@ -1,0 +1,510 @@
+#AREADATA
+Name Caem Pal~
+Builders Ilona Angenue~
+VNUMs 33000 33100
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#33000
+Queen's Guard Queens'guard queensguard~
+a strong-armed {RQ{Wu{Re{We{Rn's G{Wu{Ra{Wr{Rd{x~
+A {RQ{Wu{Re{We{Rn's G{Wu{Ra{Wr{Rd{Ws{Rm{Wa{Rn{x keeps the streets of {RCa{re{Wm{rl{Ryn{x safe.
+~
+This is a soldier of {RA{rn{Wd{ro{Rr{x.  He is steady-looking, with focused brown
+eyes and a little brown hair sticks out of his helmet.  
+~
+andoran~
+ABT 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slice
+0 0 0 0 0
+A
+6 6 6 6
+CEFKNRU 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+G LionThrone~
+F guard_flag B
+#0
+
+
+
+#OBJECTS
+#33000
+Chair Queenchair~
+A perfectly {wp{Wadde{wd {Dm{ya{wh{Wog{wa{yn{Dy{x chair behind the {Wd{we{Ds{Wk{x~
+A tastefully designed {Dm{ya{wh{Wog{wa{yn{Dy{x chair stands in the crescent of the {Wd{we{Ds{Wk{x~
+wood~
+furniture 0 P
+1 213321432 D 40 40
+0 0 0 100
+#33001
+bronze key inlaid with silver vines~
+a {yb{rr{yon{rz{ye{x key inlaid with {ws{Wilve{wr v{Wine{ws{x~
+a {yb{rr{yon{rz{ye{x key inlaid with {ws{Wilve{wr v{Wine{ws{x~
+silver inlaid bronze~
+key b AO
+0 0 0 0 0
+1 2 500 100
+#33002
+Bill guisarme~
+a {Rb{ri{Dl{wl{W-guis{wa{Dr{rm{Re{x polearm with {rr{Re{rd{x and {ww{Whit{we s{Wt{rre{Ram{re{Wr{ws{x below the blade~
+A long-handled weapon with a nasty blade on top lies here.~
+wood and steel~
+weapon 0 AN
+polearm 12 15 'wrath' F
+90 20 200 100
+#33003
+conical helmet~
+a conical steel {Dh{we{Wlm{we{Dt{x, {Wp{wo{Dlish{we{Wd{x to perfection~
+A polished helmet has been carelessly dropped here.~
+steel~
+armor 0 AE
+30 5 30 25 0
+90 5 100 100
+#33004
+Breast plate breastplate~
+a {Wp{wo{Dlish{we{Wd{x breastplate with a {rr{Re{rd{x {Rs{ru{Wrco{ra{Rt{x over~
+A breastplate lies here.~
+cloth~
+armor 0 AD
+30 5 30 25 0
+90 6 150 100
+#33016
+heavy marble desk~
+The top of the {Wm{wa{Drb{wl{We {xdesk~
+A heavy, crescent-shaped {Wm{wa{Drb{wl{We{x desk stands by the northern wall. ~
+marble~
+furniture 0 P
+2 5000 DG 20 20
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#33000
+The Great Hall of the Royal Palace~
+{WWhite{x columns are positioned in two rows leading towards the throne. 
+Central to the room, is a large raised dais of a stark {Wwhite {wm{Wa{wr{Wb{wl{We{x -
+matching the rest of the palace.  Overlaying the dais, is a carpet of rich
+{rred {Rv{re{Rl{rv{Re{rt{x, embroidered with {Wwhite{x roses - spreading outwards from the dais
+towards all the exits are runners of the same kind.  Vaulted, the ceilings
+of this massive chamber have been skillfully crafted, and possess a beauty
+that few places can match.  Grand and beautiful, this is the room from which
+the Queens of Andor have received ambassadors and prounounced judgement for
+close to a thousand years.  Rows of columns over twenty paces high march
+down the sides of the hall.  Beyond the columns to the east and west,
+miniature hallways seem to exist, and an occasional glimpse of a door can be
+seen.  
+~
+0
+0 0
+D0
+~
+~
+4103 4103
+2 0 33002
+D1
+~
+~
+8231 8231
+2 33001 33016
+D2
+~
+~
+0 0
+0 0 33008
+S
+#33001
+Approaching the Lion Throne~
+Matching wide {Wm{wa{Wr{wb{Wl{we{x staircases lead upwards a slight bit to the east and
+west, towards the waiting rooms, flanking the large and ornately worked
+{ydoors{x to the north.  A pair of the Queen's Guards stand in dress uniform at
+attention, on either side of the doors.  To the south, the hallway continues
+towards the dining hall.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 33008
+D1
+~
+~
+3 3
+1 0 33005
+D2
+~
+~
+0 0
+0 0 33003
+D3
+~
+~
+3 3
+1 0 33004
+S
+#33002
+A Hidden Chamber~
+~
+0
+0 0
+D2
+~
+~
+4103 4103
+2 0 33000
+S
+#33003
+A Grand Hallway~
+The hallway is very wide, with awe-inspiring high ceilings.  Each wall of
+smooth, seamless pale {Ws{wt{Wo{wn{We{x has matching {ct{Ca{Dp{Westr{Di{Ce{cs{x hanging to the floor
+like banners.  To the west, the sounds and smells of the dining hall and
+kitchens are detected, while to the east are a set of wide double doors.  
+~
+0
+K 0
+D0
+~
+~
+0 0
+0 0 33001
+D2
+~
+~
+0 0
+0 0 33006
+S
+#33004
+The Western Waiting Room~
+In this waiting room just off of the main hall, nobles and peasants sit
+and wait patiently for their audience with the Queen, with little concern
+for their rank in society.  A soft {Wwhite{x, the walls here are adorned with
+various {rt{Ra{yp{Ye{Wst{Yr{yi{Re{rs{x depicting the banner of Andor through the years.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 33001
+S
+#33005
+The Eastern Waiting Room~
+In this waiting room just off of the main hall, nobles and peasants sit
+and wait patiently for their audience with the Queen, with little concern
+for their rank in society.  A soft {Wwhite{x, the walls here are adorned with
+various {rt{Ra{yp{Ye{Wst{Yr{yi{Re{rs{x depicting the banner of Andor through the years.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 33001
+S
+#33006
+The Main Hall~
+Arch-ways almost surround the large, round entry hall of the palace -
+with guards stationed at regular intervals.  Class concious, the nobles
+separate themselves from the servants and peasants as they pass through the
+halls.  Occasionally, an awe-struck gawker can be seen as they stare around
+them, lost in the beauty that is the palace.  Inlaid in the center of the
+floor, is the {Rba{Wnn{Rer{x of Andor.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 33003
+D2
+~
+~
+0 0
+0 0 33009
+D3
+~
+~
+0 0
+0 0 33007
+S
+#33007
+A long hallway.~
+Somewhat smaller, but still beautiful, this hallway seems more worn and
+most likely sees much traffic.  Still perfectly white, the runner here is of
+a different material, meant to be tougher and more durable - and instead of
+chandeliers that hang from the high ceilings, the walls are lined with
+silver mirrored lamps.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 33006
+D3
+~
+~
+0 0
+0 0 33010
+S
+#33008
+A Statue-Lined Hall~
+Becoming more cavernous then the last chamber, this one is filled with
+{Wstatues{x.  A single runner of {Rred{x carpet runs to the north and south, while
+the rest of the room is bare and white save for the multicolored hues of
+{rg{Yl{Ga{Bs{Ms{x in the myriad windows along the eastern and western walls.  Looking
+closer at the windows, famous scenes in Andor's history are depicted, along
+with the visages of some of the women who sat upon the Lion Throne.  As most
+any Andoran would recognize, though plaques at the bottom of each statue
+help the rest, the statues that line this hall are those of past queens. 
+Most notably are those closest to the doors of the throneroom itself.  In
+the center of the 'aisle, ' the runner splits and curves to accomodate a
+statue of Ishara, the first Queen of Andor - and lining the path a few feet
+away, are the statues of Her direct decendants who sat upon the throne
+during the Hundred Years War.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 33000
+D2
+~
+~
+0 0
+0 0 33001
+S
+#33009
+Entryway of the Palace~
+Large and intricate, a mosaic of {Rred{x and {Wwhite{x roses has been created in
+the center of the floor, running off towards the north.  Following the
+mosaic, the wide main corridor leads further into the Palace, and to the
+east and west are smaller hallways.  Closed to the south, a large set of
+ornately carved {ydoors{x mark the main entrance and exit of the palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 33006
+D2
+~
+~
+3 3
+1 0 3268
+S
+#33010
+A long hallway.~
+Somewhat smaller, but still beautiful, this hallway seems more worn and
+most likely sees much traffic.  Still perfectly white, the runner here is of
+a different material, meant to be tougher and more durable - and instead of
+chandeliers that hang from the high ceilings, the walls are lined with
+silver mirrored lamps.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 33007
+D3
+~
+~
+0 0
+0 0 33011
+S
+#33011
+A long hallway - approaching the barracks.~
+Somewhat smaller, but still beautiful, this hallway seems more worn and
+most likely sees much traffic.  Still perfectly white, the runner here is of
+a different material, meant to be tougher and more durable - and instead of
+chandeliers that hang from the high ceilings, the walls are lined with
+silver mirrored lamps.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 33010
+D2
+~
+~
+0 0
+0 0 33012
+D3
+~
+~
+0 0
+0 0 33013
+S
+#33012
+The barracks.~
+This room is large, almost cavernous.  Plain cots line each undressed
+stone wall, along with small chests and armor stands.  The floor is of
+unpolished oak planking, worn rough by years of heavy tread upon it.  A
+large fireplace dominates the far end of the room.  There is always a large
+kettle hangs over the fire, simmering with hot drink.  
+
+Plain cots line each undressed stone wall, along with small chests and armor
+stands.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 33011
+S
+#33013
+A long hallway.~
+Somewhat smaller, but still beautiful, this hallway seems more worn and
+most likely sees much traffic.  Still perfectly white, the runner here is of
+a different material, meant to be tougher and more durable - and instead of
+chandeliers that hang from the high ceilings, the walls are lined with
+silver mirrored lamps.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 33014
+D1
+~
+~
+0 0
+0 0 33011
+D3
+~
+~
+0 0
+0 0 33015
+S
+#33014
+The Lieutenant's Quarters.~
+A large shield embossed with the Lion Rampant of Andor hangs above the
+fireplace.  A thick fur rests in front of it, as well a matched pair of deep
+green leather chairs.  A large oak bed, perfectly made up with a green and
+gray coverlet, occupies one corner.  A small, elaborately carved oak
+wardrobe is placed near the bed and a full set of plate mail armor, polished
+to a blinding sheen, has a proud place in another corner.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 33013
+S
+#33015
+A long hallway.~
+Somewhat smaller, but still beautiful, this hallway seems more worn and
+most likely sees much traffic.  Still perfectly white, the runner here is of
+a different material, meant to be tougher and more durable - and instead of
+chandeliers that hang from the high ceilings, the walls are lined with
+silver mirrored lamps.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 33013
+S
+#33016
+The {RQ{ru{We{re{Rn{x's Study~
+This room is, literally, fit for a {Rq{ru{We{re{Rn{x. Wall hangings and tapestries
+gives the spacious study a comfortable, calm atmosphere.  The very faint
+hint of {yh{Yo{wn{Weysuc{wk{Yl{ye{x in the air further adds pleasantry to the room.  It
+looks lived in, and well visited but not overly tidy, except around the
+extensive {yb{wo{Wok-shelv{we{ys{x along the eastern wall.  
+~
+0
+0 0
+D3
+~
+~
+8231 8231
+2 33001 33000
+S
+#33017
+Lion Throne Recall~
+This is the recall area for the Lion Throne guild.
+If you want a description, note it.
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 33006
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 33000 0 2
+D 0 33000 1 2
+D 0 33001 1 1
+D 0 33001 3 1
+D 0 33002 2 2
+D 0 33004 1 1
+D 0 33005 3 1
+D 0 33009 2 1
+D 0 33013 0 1
+D 0 33014 2 1
+D 0 33016 3 2
+M 0 3399 3 33009 1
+E 0 3392 0 7
+E 0 3391 0 8
+E 0 3390 0 20
+M 0 33000 5 33009 5
+E 0 33002 0 20
+E 0 33003 0 8
+E 0 33004 0 7
+O 0 33000 0 33016
+O 0 33016 0 33016
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

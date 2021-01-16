@@ -1,0 +1,8788 @@
+#AREADATA
+Name Rahad~
+Builders Oniren~
+VNUMs 1400 1599
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1400
+postmaster~
+the {rPostmaster{x~
+The {rPostmaster{x is standing behind the counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+M 'GIVE' 1410 1401~
+M 'GREET' 1400 100~
+M 'SPEECH' 1401 no~
+M 'SPEECH' 1402 yes~
+M 'SPEECH' 1404 help~
+#1401
+gray haired man captain sabin~
+{cCaptain Sabin{x~
+A {cgray-haired sailor{x stands on the edge of the jetty, staring out across the bay.
+~
+~
+altaran~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1401~
+M 'GREET' 1406 25~
+M 'GIVE' 1403 1400~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+#1402
+shopkeeper zendrei~
+{mZendrei{x~
+The {mshopkeeper{x looks bored as she stands behind the counter.
+~
+~
+altaran~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI ABb 0 0
+stand stand female 250
+0 0 medium 'unknown'
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1400~
+M 'GREET' 1408 25~
+M 'GIVE' 1407 1402~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+#1403
+jerein cooper portly man~
+{rJerein{x~
+A {rportly man{x is busy tidying up the clutter that lies on the workbench.
+~
+~
+altaran~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+M 'GREET' 1412 25~
+M 'GIVE' 1411 1404~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+#1404
+blarid blacksmith tall man~
+{BBlarid{x~
+A {Btall man{x is toiling at the forge.
+~
+~
+altaran~
+ABET 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+M 'GREET' 1414 25~
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1404~
+M 'GIVE' 1415 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+#1405
+hadyn merchant scrawny man~
+{gHadyn{x~
+A {gscrawny man{x snaps out orders to various dockworkers.
+~
+~
+altaran~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI ABb 0 0
+stand stand male 250
+0 0 medium 'unknown'
+M 'GREET' 1416 25~
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+M 'GIVE' 1417 1406~
+#1406
+riki fisherman wiry man~
+{cRiki{x~
+A {cwiry man{x mutters to himself as he checks his fishing nets.
+~
+~
+altaran~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1409 1409~
+M 'GREET' 1418 25~
+M 'GIVE' 1419 1407~
+#1407
+leon merchant short man~
+{rLeon{x~
+A {rshort man{x wanders around the warehouse checking off items on a list.
+~
+~
+altaran~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+CI ABb 0 0
+stand stand male 250
+0 0 medium 'unknown'
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1409~
+M 'GREET' 1420 25~
+M 'GIVE' 1421 1408~
+#1408
+lise aes sedai ageless face woman~
+{gLise Sedai{x~
+A {gwoman{x with an ageless face stares aimlessly out of the window.
+~
+~
+altaran~
+ABQ 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+50 50 50 50 50
+A
+2 2 2 2
+CI ABb 0 0
+stand stand female 250
+0 0 medium 'unknown'
+M 'GIVE' 1409 1400~
+M 'GIVE' 1409 1401~
+M 'GIVE' 1409 1402~
+M 'GIVE' 1409 1404~
+M 'GIVE' 1409 1405~
+M 'GIVE' 1409 1406~
+M 'GIVE' 1409 1407~
+M 'GIVE' 1409 1408~
+M 'GIVE' 1423 1409~
+#1409
+erol ratcatcher spindly man~
+{DErol{x the {DRatcatcher{x~
+Leaning up against the wall is a {Dspindly man{x dressed in black.
+~
+~
+altaran~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+IN ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+M 'GREET' 1424 25~
+M 'SPEECH' 1425 no~
+M 'SPEECH' 1426 yes~
+M 'GIVE' 1427 1410~
+#1410
+large brown rat~
+a {ybrown rat{x~
+A large {ybrown rat{x can be seen scurrying across the floor.
+~
+~
+rabbit~
+AGY 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#1411
+black rat~
+a {Dblack rat{x~
+A {Dblack rat{x attempts to hide amongst the shadows.
+~
+~
+rabbit~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#1412
+cafim stout man~
+{BCafim{x~
+Behind the counter stands a rather {Bstout man{x.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1413
+skinny man temin~
+{RTemin{x~
+A {Rskinny man{x stands by the shop's entrance.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1414
+shopkeeper weaponsmith scrawny man~
+the {Wshopkeeper{x~
+A {Wscrawny man{x is peering over the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1415
+gray haired old man shopkeeper~
+the {Cshopkeeper{x~
+A gray-haired old man glares malevolently from behind the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1416
+burly dockworker~
+a dockworker~
+A {cburly{x dockworker is working hard here.
+~
+~
+altaran~
+ABT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1417
+dockworker~
+a dockworker~
+A dockworker is here moving {ycrates{x and {ybarrels{x.
+~
+~
+altaran~
+ABT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#1418
+sailor~
+a {Wsailor{x~
+A {Wsailor{x whistles a merry tune as he swaggers by.
+~
+~
+altaran~
+ABT 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1419
+old fisherman~
+an old fisherman~
+An old fisherman is here checking his {Dn{wet{Ds{x.
+~
+~
+altaran~
+ABT 0 0 0
+26 16 14d15+676 26d10+100 3d9+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1420
+fisherman~
+a fisherman~
+A fisherman seems to be in a hurry as he prepares to set sail.
+~
+~
+altaran~
+AGTW 0 0 0
+26 16 14d15+676 26d10+100 3d9+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#1421
+young fisherman~
+a young fisherman~
+A young fisherman diligently attends to his duties.
+~
+~
+altaran~
+AGSW 0 0 0
+26 16 14d15+676 26d10+100 3d9+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1422
+swarthy sailor~
+a sailor~
+A swarthy sailor is busy making preparations to set sail.
+~
+~
+altaran~
+AGTW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1423
+spritely sailor~
+a sailor~
+A spritely sailor is climbing the ship's {yr{wi{Wggi{wn{yg{x.
+~
+~
+altaran~
+AGSW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#1424
+deckhand seafolk folk sailor~
+a deckhand~
+A colorfully-garbed sailor is busy attending to their duties.
+~
+~
+seafolk~
+AGSW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1425
+windfinder seafolk folk young woman~
+a Windfinder~
+A young {cS{Ce{Wa {wF{Wo{Cl{ck{x woman is gazing thoughtfully up at the sky.
+~
+~
+seafolk~
+AGQW 0 0 0
+32 22 17d18+1024 32d10+100 4d6+16 punch
+60 5 10 75 10
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#1426
+sailmistress seafolk folk stern woman~
+a Sailmistress~
+A stern-looking {cS{Ce{Wa {wF{Wo{Cl{ck{x woman is barking out orders to the crew.
+~
+~
+seafolk~
+AGSW 0 0 0
+32 22 17d18+1024 32d10+100 4d6+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#1427
+cargomaster seafolk folk brawny man~
+a Cargomaster~
+A brawny-looking {cS{Ce{Wa {wF{Wo{Cl{ck{x man is overseeing the loading of the cargo on and off the ship.
+~
+~
+seafolk~
+AGTW 0 0 0
+32 22 17d18+1024 32d10+100 4d6+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+C AB 0 0
+stand stand male 250
+0 0 medium 'unknown'
+#1428
+drunken sailor~
+a drunken sailor~
+The crowd parts way for a {Ddrunken{x sailor who is staggering along the road.
+~
+~
+altaran~
+AGSW 0 0 0
+26 16 14d15+676 26d10+100 3d9+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1429
+sailor~
+a sailor~
+A sailor walks along the road with a rolling gait.
+~
+~
+altaran~
+AGSW 0 0 0
+27 17 14d14+729 27d10+100 3d10+13 punch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1430
+customs officer~
+a {yc{Yus{Wtom{ws o{Wffi{Yce{yr{x~
+Keeping a close eye on this area is one of the {yc{Yus{Wtom{ws o{Wffic{Yer{ys{x.
+~
+~
+altaran~
+AGTW 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 250
+0 0 medium 'unknown'
+#1431
+seafolk folk sailor~
+a {cS{Ce{Wa {wF{Wo{Cl{ck{x sailor~
+A {cS{Ce{Wa {wF{Wo{Cl{ck{x sailor looks uncomfortable as they wander away from their ship.
+~
+~
+seafolk~
+AGTW 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1432
+grubby man cart driver~
+a cart driver~
+A grubby man guides a heavily-laden {ycart{x carefully down the road.
+~
+~
+altaran~
+AGSW 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1433
+fisherman wife woman~
+a fisherman's wife~
+A fisherman's wife is carrying a {ybasket{x full of fish down the street.
+~
+~
+altaran~
+AGSW 0 0 0
+28 18 15d16+784 28d10+100 3d11+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1434
+plainly fisherman~
+a fisherman~
+A plainly-dressed fisherman makes his way through the crowded street.
+~
+~
+altaran~
+AGSW 0 0 0
+29 19 15d15+841 29d10+100 3d12+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1435
+dockworker~
+a dockworker~
+A dockworker is transporting goods around the area using a barrow.
+~
+~
+altaran~
+AGTW 0 0 0
+29 19 15d15+841 29d10+100 3d12+14 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1436
+stray dog~
+a stray dog~
+A stray dog sniffs at scraps of {yfood{x left upon the ground.
+~
+~
+dog~
+AGW 0 0 0
+31 21 16d16+961 31d10+100 4d5+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#1437
+scruffy cat~
+a scruffy cat~
+A scruffy cat saunters along the street, trying not to be stepped upon.
+~
+~
+cat~
+AGW J 0 0
+30 20 16d17+900 30d10+100 4d4+15 claw
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+#1438
+local youth~
+a local youth~
+A local youth wanders around the Rahad's crowded streets.
+~
+~
+altaran~
+AGSW 0 0 0
+32 22 17d18+1024 32d10+100 4d6+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1439
+citizen~
+a citizen~
+A citizen of the Rahad is warily eyeing any strangers to this area.
+~
+~
+altaran~
+AGSW 0 0 0
+33 23 17d17+1089 33d10+100 4d7+16 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1440
+citizen plain man~
+a citizen~
+Jostling through the crowds is this plainly-garbed man.
+~
+~
+altaran~
+AGSW 0 0 0
+34 24 18d19+1156 34d10+100 4d8+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1441
+citizen woman~
+a citizen~
+A woman stops to browse at one of the nearby shops.
+~
+~
+altaran~
+AGSW 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1442
+gleeman~
+a gleeman~
+A gleeman strolls along the street with his patched {cc{ml{go{ya{ck{x fluttering behind him.
+~
+~
+altaran~
+AGSW 0 0 0
+36 26 19d20+1296 36d10+100 4d10+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1443
+man beggar~
+a beggar~
+A man dressed in {yrags{x is sat on the corner of the street begging for money.
+~
+~
+altaran~
+ABT 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1444
+drunken man~
+a drunken man~
+A {Ddrunken{x man is staggering along the busy thoroughfare.
+~
+~
+altaran~
+AGTW 0 0 0
+38 28 20d21+1444 38d10+100 4d12+19 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1445
+hawker~
+a hawker~
+A hawker is selling goods from a colourfully painted {gb{Ga{Yrr{Go{gw{x.
+~
+~
+altaran~
+ABS 0 0 0
+39 29 20d20+1521 39d10+100 4d13+19 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 250
+0 0 medium 'unknown'
+#1446
+lowly merchant~
+a lowly merchant~
+A lowly merchant guides his wagon full of goods down the busy road.
+~
+~
+altaran~
+AGSW 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#1447
+merchant~
+a merchant~
+A merchant clutches tightly to his {mcoin purse{x as he walks through the area.
+~
+~
+altaran~
+AGSW 0 0 0
+41 31 21d21+1681 41d10+100 5d6+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#1448
+towering thug~
+a towering thug~
+A towering thug pushes his way rudely through the crowds.
+~
+~
+altaran~
+AGTW 0 0 0
+42 32 22d23+1764 42d10+100 5d7+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1449
+militia~
+a member of the militia~
+A member of the city's militia keeps an eye out for any signs of trouble.
+~
+~
+altaran~
+AGTW 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1450
+wise woman red belted~
+a Wise Woman~
+The crowds part for this {rr{Re{rd-b{Relte{rd{x woman who strides purposefully down the road.
+~
+~
+altaran~
+AGQW 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 punch
+90 5 10 105 10
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1451
+weary traveller~
+a weary traveller~
+A weary traveller trudges along the road.
+~
+~
+altaran~
+AGTW 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#1452
+farmer~
+a farmer~
+A farmer carefully guides his {ywagon{x down the rutted street.
+~
+~
+altaran~
+AGTW 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1453
+local man~
+a local man~
+A local man's hand drifts towards his {Dd{wa{Wgg{we{Dr{x as he eyes a stranger.
+~
+~
+altaran~
+AGSW 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1454
+local woman~
+a local woman~
+A local woman fingers the {Dd{wue{Wll{win{Dg{x {Dd{wa{Wgg{we{Dr{x she has sheathed in her belt.
+~
+~
+altaran~
+AGSW 0 0 0
+46 36 24d25+2116 46d10+100 5d11+23 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1455
+urchin~
+an urchin~
+An urchin runs around the busy road, causing much trouble and mischief in their wake.
+~
+~
+altaran~
+AGSW 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 15
+0 0 small 'unknown'
+#1456
+woman beggar~
+a beggar~
+A woman dressed in tattered {mrags{x wanders the streets of the Rahad.
+~
+~
+altaran~
+AGTW 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1457
+bowyer~
+a {ybowyer{x~
+The {ybowyer{x is busy constructing another bow at his workbench.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1458
+fletcher~
+a {yfletcher{x~
+The {yfletcher{x rolls his sleeves up and sets to work on a new batch of arrows.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1459
+pawn broker spindly man~
+a {bpawn broker{x~
+A spindly-looking man sits behind the shop's counter, polishing his {Ds{wpe{Wctac{wle{Ds{x.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+M 'GREET' 1428 10~
+#1460
+clerk~
+a clerk~
+A clerk is sat at the reception desk, occupied with completing his paperwork.
+~
+~
+altaran~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#1461
+scruffy young man horse vendor~
+a {yhorse vendor{x~
+A scruffy {yyoung man{x is standing beside the stable's entrance.
+~
+~
+altaran~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+M 'GREET' 1429 25~
+#1462
+altaran racehorse sleek brown horse~
+an {rA{Rl{Ytar{Ba{bn{x {Dr{yacehors{De{x~
+A sleek {Db{yrow{Dn h{yors{De{x is pawing at the ground with its front hoof.
+~
+~
+rabbit~
+AI 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 charge
+0 0 0 0 0
+A
+5 5 5 5
+I A 0 0
+stand stand either 0
+0 Q large 'unknown'
+#1463
+banker changer~
+a banker~
+The banker is sitting behind the {yc{wo{Wunt{we{yr{x, twiddling his thumbs.
+~
+~
+altaran~
+ABDd 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#1464
+barber~
+a {Wbarber{x~
+Standing in one corner of the room is the {Wbarber{x, sharpening his cut-throat {Dr{wa{Wz{wo{Dr{x.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1465
+taxidermist~
+a {mtaxidermist{x~
+A {mtaxidermist{x is huddled over his workbench as he works on his latest creation.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#1466
+jeweler~
+a {Cjeweler{x~
+The {Cjeweler{x mutters to herself as she sweeps the floor of her shop clean.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1467
+shopkeeper~
+a {Bshopkeeper{x~
+The {Bshopkeeper{x is staring out of the window with a dream-like expression on her face.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1468
+shopkeeper~
+a {gshopkeeper{x~
+The {gshopkeeper{x is sat behind the counter, reading a book.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1469
+shopkeeper willowy woman~
+a {cshopkeeper{x~
+A {cwillowy woman{x is standing behind the shop's counter.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1470
+weaver~
+a {rweaver{x~
+The {rweaver{x hurries around her workshop as she rearranges the merchandise that is on display here.
+~
+~
+altaran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#1471
+dyer restringer~
+a {Mdyer{x~
+The {Mdyer{x is examining the {ycasks{x in the workshop and checking them off on her list.
+~
+~
+altaran~
+ABK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABb 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#1472
+busty serving maid~
+a {mserving maid{x~
+A busty {mserving maid{x weaves her way around the tables, serving food and drink.
+~
+~
+altaran~
+ABT 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+I AB 0 0
+stand stand female 25
+0 0 medium 'unknown'
+#1473
+local man inn patron~
+an {rinn patron{x~
+A {rlocal man{x is sat here, drowning his sorrows in ale.
+~
+~
+altaran~
+ABT 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1474
+stout cook~
+a {gstout cook{x~
+A {gstout cook{x rushes around the kitchen as she prepares the meals for the inn's patrons.
+~
+~
+altaran~
+ABS 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#1475
+ostler~
+an {bo{Bstle{br{x~
+An {bo{Bstle{br{x is preoccupied with his chores within the stable.
+~
+~
+altaran~
+AGSY 0 0 0
+37 27 19d19+1369 37d10+100 4d11+18 punch
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1476
+sailor~
+a {csailor{x~
+A {csailor{x is sat at one of the tables, drinking with his comrades.
+~
+~
+altaran~
+ABS 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+N AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1477
+bartender~
+a {bbartender{x~
+The {bbartender{x is preoccupied with pouring out drinks for his patrons.
+~
+~
+altaran~
+ABS 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+N AB 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#1478
+weary traveller man~
+a weary traveller~
+A man is fast asleep on the bed.
+~
+~
+altaran~
+ABT 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+I ABb 0 0
+sleep sleep male 15
+0 0 medium 'unknown'
+#1479
+weary traveller woman~
+a weary traveller~
+A woman is taking a nap on the bed.
+~
+~
+altaran~
+ABT 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 punch
+0 0 0 0 0
+A
+1 1 1 1
+C AB 0 0
+sleep sleep female 15
+0 0 medium 'unknown'
+#1480
+woman wilder~
+a {gWilder{x~
+A woman is lying upon the bed, looking gravely ill.
+~
+~
+altaran~
+ABQ 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+100 0 0 100 50
+A
+2 2 2 2
+0 AB C 0
+sleep sleep female 15
+0 0 medium 'unknown'
+#1481
+red belted woman wise~
+a {rWise Woman{x~
+A {rred-belted{x woman is tending to the sick woman.
+~
+~
+altaran~
+ABQ 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+110 0 0 110 30
+A
+2 2 2 2
+N AB C 0
+stand stand female 25
+0 0 medium 'unknown'
+#1482
+chief brewer~
+the {ychief brewer{x~
+The {ychief brewer{x is stood here, shouting out orders to the rest of his team.
+~
+~
+altaran~
+ABT 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+CI AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#1483
+brewer~
+a {ybrewer{x~
+A {ybrewer{x whistles merrily as he works.
+~
+~
+altaran~
+ABT 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+I AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1484
+tall dark haired man saddler~
+a {Ysaddler{x~
+A tall, dark-haired man is polishing the {ybrass sign{x.
+~
+~
+altaran~
+ABK 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 ABCb 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#1485
+merchant~
+a {gmerchant{x~
+A {gmerchant{x is sat at a table in the corner of the common room.
+~
+~
+illianer~
+ABS 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+I AB 0 0
+sit sit male 50
+0 0 medium 'unknown'
+#1486
+merchants guard~
+a {gmerchant's guard{x~
+A {gmerchant's guard{x is keeping a watchful eye over his patron.
+~
+~
+illianer~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CIR AB 0 0
+sit sit male 15
+0 0 medium 'unknown'
+#1487
+burly sailor~
+a {Wsailor{x~
+One of the common room's tables is occupied by a burly {Wsailor{x.
+~
+~
+altaran~
+ABT 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+1 1 1 1
+CI AB 0 0
+sit sit male 25
+0 0 medium 'unknown'
+#1488
+scruffy brown horse~
+a brown horse~
+A scruffy brown horse is here, chewing on some {ghay{x.
+~
+~
+rabbit~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 charge
+0 0 0 0 0
+A
+0 0 0 0
+I AB 0 0
+stand stand either 0
+0 0 large 'unknown'
+F off FH
+#1489
+smartly dressed young man darkfriend~
+a {DDarkfriend{x~
+This smartly-dressed young man looks out of place in this area.
+~
+~
+altaran~
+ABQ 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+50 50 200 150 50
+A
+7 7 7 7
+EFKN ABb CD 0
+stand stand male 100
+0 0 medium 'unknown'
+#1490
+grubby man burglar~
+a burglar~
+A grubby man is searching through all of the items in this room.
+~
+~
+altaran~
+ABS 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+EFKN AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#1491
+scruffy cat~
+a {yscruffy cat{x~
+A {yscruffy cat{x is prowling around the building.
+~
+~
+cat~
+AGY J 0 0
+26 16 14d15+676 26d10+100 3d9+13 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+#0
+
+
+
+#OBJECTS
+#1400
+large parcel brown paper~
+a {ylarge parcel{x~
+Here lies a large parcel that has been wrapped in brown paper.~
+paper~
+trash S A
+0 0 0 0 0
+0 5 0 100
+#1401
+delivery slip small paper~
+a {Ydelivery slip{x~
+A small slip of paper has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1402
+small parcel brown paper~
+a {ysmall parcel{x~
+Here lies a small parcel that has been wrapped in brown paper.~
+paper~
+trash S A
+0 0 0 0 0
+0 3 0 100
+#1403
+five gold coins~
+five {yg{Yo{Wl{Yd c{Woi{Yn{ys{x~
+Five gold coins have been left upon the shop counter.~
+gold~
+money 0 A
+0 5 0 0 0
+0 0 0 100
+#1404
+letter blue wax~
+a {Wletter{x sealed with {bb{Blu{be w{Ba{bx{x~
+A letter sealed with blue wax has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1405
+letter green wax~
+a {Wletter{x sealed with {gg{Gr{ge{Ge{gn w{Ga{gx{x~
+A letter sealed with green wax has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1406
+letter red wax~
+a {Wletter{x sealed with {rr{Re{rd w{Ra{rx{x~
+A letter sealed with red wax has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1407
+letter yellow wax~
+a {Wletter{x sealed with {yy{Yello{yw w{Ya{yx{x~
+A letter sealed with yellow wax has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1408
+letter purple wax~
+a {Wletter{x sealed with {mp{Mu{mrp{Ml{me w{Ma{mx{x~
+A letter sealed with purple wax has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1409
+letter cyan wax~
+a {Wletter{x sealed with {cc{Cya{cn w{Ca{cx{x~
+A letter sealed with cyan wax has been left here.~
+paper~
+trash S A
+0 0 0 0 0
+0 1 0 100
+#1410
+blood encrusted rats tail~
+a {rb{Rloo{rd e{Rncr{ru{Rste{rd{x {mr{Ma{mt's t{Mai{ml{x~
+A blood encrusted rat's tail has been left here.~
+flesh~
+trash SYb A
+0 0 0 0 0
+0 1 0 100
+#1411
+gold coin~
+a {yg{Yo{Wl{Yd{x {Yc{Wo{Yi{yn{x~
+A gold coin has been left here.~
+gold~
+money 0 A
+0 1 0 0 0
+0 0 0 100
+#1412
+casks barrels~
+some {ycasks{x and {ybarrels{x~
+There are hundreds of wooden {ycasks{x and {ybarrels{x being stored in this warehouse.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+casks barrels~
+There are hundreds of wooden {ycasks{x and {ybarrels{x being stored in this
+warehouse; each barrel appears to be branded with symbols that are probably
+used to indicate each barrel's owner and contents.  
+~
+#1413
+rusty steel shield~
+a {rr{yu{ws{yt{ry s{yt{we{ye{rl{x {rs{yh{wie{yl{rd{x~
+A rusty steel shield has been left here.~
+steel~
+armor 0 AJ
+5 5 5 5 0
+20 5 300 100
+A
+18 -1
+A
+19 1
+A
+17 -5
+#1414
+rusty steel backplate~
+a {rr{yu{ws{yt{ry s{yt{we{ye{rl{x {rb{ya{wckpla{yt{re{x~
+A rusty steel backplate has been left here.~
+steel~
+armor 0 AS
+5 5 5 5 0
+20 5 300 100
+A
+18 -1
+A
+19 1
+A
+17 -5
+#1415
+rusty steel breastplate~
+a {rr{yu{ws{yt{ry s{yt{we{ye{rl{x {rb{yr{weastpla{yt{re{x~
+A rusty steel breastplate has been left here.~
+steel~
+armor 0 AD
+5 5 5 5 0
+20 5 300 100
+A
+18 1
+A
+19 -1
+A
+17 -5
+#1416
+rusty steel helmet~
+a {rr{yu{ws{yt{ry s{yt{we{ye{rl{x {rh{ye{wlm{ye{rt{x~
+A rusty steel helmet has been left here.~
+steel~
+armor 0 AE
+5 5 5 5 0
+20 2 300 100
+A
+18 1
+A
+19 -1
+A
+17 -5
+#1417
+heavy pike~
+a {Dh{weav{Dy p{wik{De{x~
+A heavy pike has been left here.~
+steel~
+weapon 0 AN
+polearm 5 8 'stab' F
+20 8 150 100
+A
+18 1
+#1418
+lance green streamers~
+a {Dl{wanc{De{w decorated with {gg{Gr{ge{Ge{gn{w {gs{Gt{gr{Ge{ga{Gm{ge{Gr{gs{x~
+A lance decorated with streamers has been left here.~
+steel~
+weapon 0 AN
+lance 5 8 'thrust' 0
+20 8 150 100
+A
+18 1
+#1419
+sturdy flail~
+a {Ds{wturd{Dy f{wlai{Dl{x~
+A sturdy flail has been left here.~
+steel~
+weapon 0 AN
+flail 5 8 'smash' 0
+20 6 150 100
+A
+18 1
+#1420
+steel tipped spear~
+a {Ds{wt{We{we{Dl-t{wi{Wpp{we{Dd s{wp{We{wa{Dr{x~
+A steel-tipped spear has been left here/~
+steel~
+weapon 0 AN
+spear 5 8 'stab' 0
+20 6 150 100
+A
+18 1
+#1421
+curved longsword leather hilt~
+a {Dc{wur{Wv{we{Dd{x {Dlo{wng{Ws{wwo{Drd{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A curved longsword with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+sword 9 14 'slash' F
+85 5 280 100
+A
+19 5
+#1422
+double headed axe hickory haft~
+a {Dd{wo{Wub{wl{De{x-{Dh{we{Wad{we{Dd {Wa{wx{De{x with a {rh{yi{wckory ha{yf{rt{x~
+A double-headed axe with a hickory haft has been left here.~
+steel~
+weapon 0 AN
+axe 9 14 'cleave' F
+85 6 280 100
+A
+19 5
+#1423
+baselard dagger crescent~
+a {yb{wa{Wsela{wr{yd{x~
+This is a dagger with a crescent-shaped pommel and crossguard.~
+steel~
+weapon 0 AN
+dagger 9 14 'stab' 0
+85 1 280 100
+A
+19 5
+#1424
+winged war spear~
+a winged {Dw{wa{Wr-spe{wa{Dr{x~
+A winged war-spear has been left here.~
+steel~
+weapon 0 AN
+spear 9 14 'stab' F
+85 5 280 100
+A
+19 5
+#1425
+long lance yellow streamers~
+a {Dl{won{Wg la{wnc{De{x bearing{y y{Yello{yw s{Ytre{ya{Ymer{ys{x~
+A long lance bearing yellow streamers.~
+steel~
+weapon 0 AN
+lance 5 7 'thrust' 0
+10 10 150 100
+#1426
+curved dagger~
+a {Dc{wur{Wv{we{Dd{x {Dd{wa{Wgg{we{Dr{x~
+A curved dagger has been left here.~
+steel~
+weapon 0 AN
+dagger 5 7 'stab' 0
+10 2 150 100
+#1427
+flanged flail leather hilt~
+a {Df{wl{Wa{wn{Wg{we{Dd f{wl{Da{wi{Dl{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A flanged flail with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+flail 5 7 'smash' 0
+10 5 150 100
+#1428
+red leather whip~
+a {rred leather whip{x~
+A red leather whip has been left here.~
+leather~
+weapon S AN
+whip 5 7 'beating' 0
+10 1 150 100
+#1429
+broad axe ash haft~
+a {Db{wr{Wo{wa{Dd{x {Wa{wx{De{x with an {ya{Ys{Wh ha{Yf{yt{x~
+A broad axe with an ash haft has been left here.~
+steel~
+weapon 0 AN
+axe 5 7 'cleave' F
+10 5 150 100
+#1430
+broadsword sword~
+a {Db{wro{Wadsw{wor{Dd{x~
+A broadsword has been left here.~
+steel~
+weapon 0 AN
+sword 5 7 'slash' F
+10 5 150 100
+#1431
+wooden cudgel~
+a {ywooden cudgel{x~
+A wooden cudgel has been left here.~
+wood~
+weapon S AN
+mace 5 7 'smash' 0
+10 2 150 100
+#1432
+baton chestnut wood staff~
+a {rb{wa{Wt{wo{rn{x made of {rc{wh{Westnut wo{wo{rd{x~
+A baton made of chestnut wood has been left here.~
+wood~
+weapon S AN
+staff 5 7 'smash' F
+10 2 150 100
+#1433
+steel tipped infantry spear~
+a {Ds{wt{We{we{Dl{x-{Dt{wi{Wpp{we{Dd{x infantry spear~
+A steel-tipped infantry spear has been left here.~
+steel~
+weapon 0 AN
+spear 5 7 'stab' 0
+10 5 150 100
+#1434
+spetum polearm~
+a {Ds{wp{Wet{wu{Dm{x~
+A spetum has been left here.~
+steel~
+weapon 0 AN
+polearm 5 7 'stab' F
+10 6 150 100
+#1435
+steel cutlass~
+a {Ds{wtee{Wl{D c{wutlas{Ws{D{x~
+A steel cutlass has been left here.~
+steel~
+weapon K AN
+sword 5 8 'slash' 0
+27 5 150 100
+#1436
+red cloth bandana~
+a {rb{Ran{rd{Ran{ra{x made of {rr{Re{rd c{Rlot{rh{x~
+This is a bandana made of red cloth.~
+cloth~
+armor KS AE
+7 7 7 6 0
+27 1 45 100
+#1437
+red cloth sash~
+a {rl{Ron{rg s{Ras{rh{x made of {rr{Re{rd c{Rlot{rh{x~
+This is a long sash made of red cloth.~
+cloth~
+armor KS AL
+7 7 7 6 0
+27 1 45 100
+#1438
+thick gold chain~
+a thick {yg{Yol{Wd {wc{Wh{Yai{yn{x~
+A thick gold chain has been left here.~
+gold~
+armor K AC
+8 8 8 3 0
+27 1 200 100
+A
+18 -1
+A
+19 1
+#1439
+thin gold chain~
+a thin {yg{Yol{Wd {wc{Wh{Yai{yn{x~
+A thin gold chain has been left here.~
+gold~
+armor K AC
+8 8 8 3 0
+27 1 200 100
+A
+18 1
+A
+19 -1
+#1440
+knotted red silk sash~
+a {rk{Rnotte{rd r{Re{rd s{Ril{rk s{Ras{rh{x~
+A knotted red silk sash has been left here.~
+silk~
+armor KS AL
+9 9 9 5 0
+32 1 150 100
+#1441
+conical hat straw~
+a {ystraw hat{x~
+A conical hat made of straw has been left here.~
+straw~
+armor KS AE
+8 8 8 5 0
+29 1 0 100
+#1442
+dark baggy breeches~
+a pair of {yd{Dar{yk b{Dagg{yy b{Dreeche{ys{x~
+A pair of dark baggy breeches has been left here.~
+cloth~
+armor S AF
+8 8 8 4 0
+28 2 45 100
+#1443
+red oak quarterstaff~
+a {rred oak quarterstaff{x~
+A red oak quarterstaff has been left here.~
+wood~
+weapon S AN
+staff 5 10 'smash' F
+43 4 100 100
+#1444
+rounded steel helmet~
+a rounded {Ds{wte{Wel hel{wme{Dt{x~
+A rounded steel helmet has been left here.~
+steel~
+armor 0 AE
+12 12 12 7 0
+43 2 300 100
+#1445
+dented steel breastplate~
+a dented {Ds{wte{Wel{D {Wbreas{wtplat{De{x~
+A dented steel breastplate has been left here.~
+steel~
+armor 0 AD
+12 12 12 7 0
+43 5 300 100
+#1446
+dented steel backplate~
+a dented {Ds{wte{Wel{D {Wback{wplat{De{x~
+A dented steel backplate has been left here.~
+steel~
+armor 0 AS
+12 12 12 7 0
+43 5 300 100
+#1447
+curved duelling dagger~
+a {Dcu{wrve{Wd{w {Ddu{wellin{Wg{w {Dda{wgge{Wr{w{x~
+A dagger with a curved blade lies here.~
+steel~
+weapon K AN
+dagger 5 10 'stab' 0
+44 2 175 100
+#1448
+black eyepatch~
+a {Dblack eyepatch{x~
+A black eyepatch has been left here.~
+cloth~
+armor KS AV
+12 12 12 6 0
+42 1 45 100
+#1449
+narrow bladed sword~
+a {Dn{warr{Wow{w-{Db{wlad{Wed{w {Ds{wwo{Wrd{x~
+A narrow-bladed sword has been left here.~
+steel~
+weapon K AN
+sword 5 10 'slash' 0
+40 3 200 100
+#1450
+curved duelling dagger~
+a {Dcu{wrve{Wd{w {Ddu{wellin{Wg{w {Dda{wgge{Wr{w{x~
+A dagger with a curved blade lies here.~
+steel~
+weapon K AN
+dagger 5 10 'stab' 0
+46 2 200 100
+A
+18 1
+#1451
+massive longbow bow~
+a {rm{yassiv{re l{yongbo{rw{x~
+A longbow has been left here.~
+wood~
+weapon S AN
+bow 10 15 'thwack' F
+90 2 225 100
+A
+18 6
+#1452
+composite flatbow bow~
+a {yc{womp{Wosite flat{wbo{yw{x~
+A composite flatbow has been left here.~
+wood~
+weapon S AN
+bow 8 13 'thwack' F
+75 2 200 100
+A
+18 4
+#1453
+heavy crossbow~
+a heavy {Dc{yro{Dss{ybo{Dw{x~
+A heavy crossbow has been left here.~
+wood~
+weapon S AN
+bow 5 9 'thwack' F
+30 3 175 100
+#1454
+hunters bow~
+a {yhunter's bow{x~
+A hunter's bow has been left here.~
+wood~
+weapon S AN
+bow 5 7 'thwack' F
+15 3 150 100
+A
+18 1
+#1455
+barbed arrow~
+a {rb{ya{rr{yb{re{yd {Da{wr{Wr{wo{Dw{x~
+A barbed arrow has been left here.~
+wood~
+weapon 0 AO
+arrow 10 15 'pierce' 0
+90 0 8 100
+#1456
+sharp arrow~
+a {Ds{wh{ya{wr{Dp a{wr{yr{wo{Dw{x~
+A sharp arrow has been left here.~
+wood~
+weapon 0 AO
+arrow 8 13 'pierce' 0
+75 0 7 100
+#1457
+crossbow bolt red markings~
+a {Dc{yrossbo{Dw b{yol{Dt{x with {rred markings{x~
+A crossbow bolt with red markings has been left here.~
+wood~
+weapon 0 AO
+arrow 5 9 'pierce' 0
+30 0 6 100
+#1458
+plain arrow~
+a {yp{wl{Wain arr{wo{yw{x~
+A plain arrow has been left here.~
+wood~
+weapon 0 AO
+arrow 5 7 'pierce' 0
+15 0 5 100
+#1459
+gold hoop earring~
+a {yg{Yol{yd{x {yh{Yoo{yp e{Yarrin{yg{x~
+A gold hoop earring has been left here.~
+gold~
+armor 0 AU
+6 6 6 2 0
+20 1 150 100
+A
+4 1
+#1460
+simple blue kite~
+{wa {bb{Blu{be k{Bit{be{w with {mp{xin{mk r{xibbon{ms{w adorning its tail{x~
+A simple kite has been left here.~
+paper~
+armor S AQ
+6 6 6 2 0
+20 1 50 100
+A
+5 1
+#1461
+pearl earring~
+a {Wpearl earring{x~
+An earring has been left here.~
+pearl~
+armor S AU
+21 21 21 12 0
+75 1 200 100
+A
+5 2
+A
+4 2
+#1462
+barrel~
+a {yb{Da{yrr{De{yl{x~
+{cR{Cai{Wnwa{Cte{cr{x is being collected in a {yb{Da{yrr{De{yl{x placed next to the workshop's entrance.~
+wood~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+#1463
+reception desk~
+a reception desk~
+At the west side of the room is the reception.~
+wood~
+furniture S P
+1 1000 DG 100 100
+0 0 0 100
+E
+reception desk~
+At the west side of the room is the reception, a large wooden desk. 
+Arranged neatly upon the desk is a heavy ledger and writing implements as
+well as several documents.  
+~
+#1464
+wooden barrels~
+some {ywooden barrels{x~
+Stacked neatly along the east side of the room are numerous {ywooden barrels{x.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+E
+wooden barrels~
+Stacked neatly along the east side of the room are numerous wooden
+barrels of varying shapes and sizes, each container is clearly marked by a
+symbol that probably is used to denote what the contents are but there are
+no indications to the exact meanings of these symbols.  
+~
+#1465
+benches tables~
+one of the tables~
+Benches and tables have been arranged in a haphazard manner in the common room.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+E
+tables benches~
+Benches and tables have been arranged in a haphazard manner in the common
+room creating an almost maze-like experience for anyone who tries to
+traverse around the room.  
+~
+#1466
+benches tables~
+one of the tables~
+Old wooden benches and tables have been arranged in a disorganized manner in the common room.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+E
+benches tables~
+Old wooden benches and tables have been arranged in a disorganized manner
+in the common room creating an almost maze-like experience for anyone who
+tries to traverse around the room.  
+~
+#1467
+tables chairs~
+one of the tables~
+Tables and chairs have been dotted around the common room.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+E
+tables chairs~
+Tables and chairs have been dotted around the common room, their rough
+appearance hints to more shoddy workmanship within this establishment.  
+~
+#1468
+bar~
+the bar~
+At this end of the common room is the bar that has been painted with bright and gaudy colors.~
+wood~
+furniture S P
+10 10000 AD 100 100
+0 0 0 100
+E
+bar~
+At this end of the common room is the bar that has been painted with
+bright and gaudy colors.  Dozens of tankards have been hung on racks above
+the bar while several wooden barrels and casks have been neatly stacked
+behind the bar.  
+~
+#1469
+stage~
+the stage~
+The tables and chairs give way to a rickety wooden stage that has been constructed at the far end of the room.  ~
+wood~
+furniture S P
+5 5000 BEH 100 100
+0 0 0 100
+E
+stage~
+The tables and chairs give way to a rickety wooden stage that has been
+constructed at the far end of the room.  Beyond the stage is a set of
+curtains that almost obscure a small wooden doorway.  
+~
+#1470
+dining table ladder chairs~
+the dining table~
+At the center of the room is a circular dining table surrounded by ladder-backed chairs.~
+wood~
+furniture S P
+6 6000 DG 100 100
+0 0 0 100
+#1471
+large sofa~
+a {glarge sofa{x~
+A {glarge sofa{x has been placed next to the fireplace.~
+wood~
+furniture S P
+4 4000 EHK 100 100
+0 0 0 100
+#1472
+benches tables~
+one of the tables~
+There are several rectangular tables and benches neatly arranged in this room.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+#1473
+curly moustache pile hair~
+a {Dc{rurl{Dy m{roustach{De{x~
+A pile of hair has been left here.~
+hair~
+armor S AV
+25 25 25 15 0
+90 1 50 100
+A
+5 3
+A
+4 3
+#1474
+goatee beard pile hair~
+a {Dg{yoa{wtee be{yar{Dd{x~
+A pile of hair has been left here.~
+hair~
+armor S AV
+23 23 23 11 0
+80 1 45 100
+A
+4 2
+A
+5 2
+#1475
+square-cut beard pile hair~
+a {Ds{wqu{Ware-{wcu{Dt b{we{Wa{wr{Dd{x~
+A pile of hair has been left here.~
+hair~
+armor S AV
+20 20 20 10 0
+70 1 40 100
+A
+4 3
+#1476
+forked beard pile hair~
+a {yf{Yo{Wrk{Ye{yd b{Ye{Wa{Yr{yd{x~
+A pile of hair has been left here.~
+hair~
+armor S AV
+17 17 17 9 0
+60 1 35 100
+A
+5 2
+#1477
+stuffed owl~
+a {ys{wtuf{Wfed o{ww{yl{x~
+This stuffed owl gives the area a glassy-eyed stare.~
+flesh~
+armor S AO
+25 25 25 15 0
+90 1 150 100
+A
+4 3
+A
+5 3
+#1478
+sparkly bracelet~
+a {cs{Cp{Wark{Cl{cy{x {cb{Cr{Wacel{Ce{ct{x~
+A sparkly bracelet has been left here.~
+silver~
+armor 0 AM
+7 7 7 4 0
+25 1 300 100
+A
+3 -1
+A
+4 1
+#1479
+sparkly earring~
+a {cs{Cp{Wark{Cl{cy{x {ce{Ca{Wrri{Cn{cg{x~
+A sparkly earring has been left here.~
+silver~
+armor 0 AU
+7 7 7 4 0
+25 1 300 100
+A
+5 1
+A
+1 -1
+#1480
+sparkly necklace~
+a {cs{Cp{Wark{Cl{cy{x {cn{Ce{Wckla{Cc{ce{x~
+A sparkly necklace has been left here.~
+silver~
+armor 0 AC
+7 7 7 4 0
+25 1 300 100
+A
+2 -1
+A
+1 1
+#1481
+long vest red cloth~
+a {rl{Ron{rg v{Res{rt{x made of {rr{Re{rd c{Rlot{rh{x~
+This is a long vest made of red cloth.~
+cloth~
+armor S AD
+7 7 7 4 0
+25 3 45 100
+A
+13 20
+A
+12 -20
+#1482
+knotted sash blue cloth~
+a {ck{Cnotte{cd s{Cas{ch{x made of {cb{Clu{ce c{Clot{ch{x~
+This is a knotted sash made of blue cloth.~
+cloth~
+armor S AL
+7 7 7 4 0
+25 1 45 100
+A
+5 -1
+A
+4 1
+#1483
+green baggy breeches~
+a pair of {gg{Gree{gn{x {gb{Gagg{gy{x {gb{Greeche{gs{x~
+This is a pair of green baggy breeches.~
+cloth~
+armor S AF
+7 7 7 4 0
+25 3 45 100
+A
+18 -1
+A
+19 1
+#1484
+large picnic blanket~
+a large {cp{Di{wcn{Di{cc b{Dl{wank{De{ct{x~
+A large picnic blanket has been left here.~
+wool~
+furniture S A
+4 4000 EHK 125 125
+0 1 190 100
+#1485
+large picnic basket~
+a large {ypicnic basket{x~
+A large picnic basket has been left here.~
+wicker~
+container S AO
+100 AC 0 100 100
+0 1 90 100
+#1486
+large tin flask~
+a large {Dt{wi{Wn fl{was{Dk{x~
+A large tin flask has been left here.~
+tin~
+drink 0 A
+12 12 'water' 0 0
+0 1 140 100
+#1487
+apple scented candle~
+an {ga{Gp{Yp{Gl{ge{x scented {Wc{Ya{Wndle{x~
+An apple scented candle has been left here.~
+wax~
+light S A
+0 0 2 0 0
+0 1 40 100
+#1488
+blue bell shaped cap~
+a {bb{Blu{be b{Bel{bl-s{Bhape{bd c{Ba{bp{x~
+A blue bell-shaped cap has been left here.~
+wool~
+armor S AE
+22 22 22 9 0
+75 1 75 100
+A
+4 2
+A
+5 2
+#1489
+green conical hat~
+a {gg{Gree{Wn{g c{Gonica{Wl{g h{Ga{Wt{x~
+A green conical hat has been left here.~
+wool~
+armor S AE
+14 14 14 8 0
+50 1 70 100
+A
+3 1
+#1490
+sparkly ring~
+a {cs{Cp{Wark{Cl{cy{x {cr{Ci{Wn{cg{x~
+A sparkly ring has been left here.~
+silver~
+armor 0 AB
+7 7 7 4 0
+25 1 300 100
+A
+13 20
+A
+12 -20
+#1491
+wide brimmed hat~
+a {Dw{yid{De-b{yrimme{Dd h{ya{Dt{x~
+A wide-brimmed hat has been left here.~
+wool~
+armor S AE
+9 9 9 3 0
+30 1 65 100
+#1492
+floppy yellow cap~
+a {yf{Ylopp{Wy{y y{Yello{Ww{y c{Ya{Wp{x~
+A floppy yellow cap has been left here.~
+wool~
+armor S AE
+4 4 4 3 0
+15 1 60 100
+A
+2 1
+#1493
+blue rug yellow spots~
+a {Bblue rug{x with {Yyellow spots{x~
+A {Bblue rug{x with {Yyellow spots{x has been laid out here.~
+wool~
+furniture S A
+2 2000 EHK 150 125
+0 1 100 100
+#1494
+red rug white stripes~
+a {Rred rug{x with {Wwhite stripes{x~
+A {Rred rug{x with {Wwhite stripes{x has been laid out here.~
+wool~
+furniture S A
+2 2000 EHK 125 150
+0 1 100 100
+#1495
+tight fitting bodice~
+a tight fitting {cb{Codic{ce{x~
+A tight fitting bodice has been left here.~
+cloth~
+armor KS AD
+10 10 10 5 0
+35 3 45 100
+#1496
+colorful petticoats~
+{cc{Col{Wor{Cfu{cl p{Cet{Wtico{Cat{cs{x~
+Some colorful petticoats have been left here.~
+cloth~
+armor KS AF
+10 10 10 5 0
+35 3 45 100
+A
+2 -1
+A
+4 1
+#1497
+frilly apron~
+a {cf{wr{Wil{wl{cy a{wp{Wr{wo{cn{x~
+A frilly apron has been left here.~
+cloth~
+armor KS AL
+10 10 10 5 0
+35 1 45 100
+A
+2 -1
+A
+5 1
+#1498
+puffy sleeves~
+{cp{Cu{Wf{Cf{cy s{Cl{Weev{Ce{cs{x~
+Some puffy sleeves have been left here.~
+cloth~
+armor KS AI
+10 10 10 5 0
+35 1 45 100
+#1499
+loose fitting breeches~
+{Dloose fitting breeches{x~
+Some loose fitting breeches have been left here.~
+cloth~
+armor KS AF
+9 9 9 8 0
+35 3 45 100
+A
+13 20
+A
+12 -20
+#1500
+long gray vest~
+a {Dl{won{Dg g{wra{Dy v{wes{Dt{x~
+A long gray vest has been left here.~
+cloth~
+armor KS AD
+9 9 9 8 0
+35 3 45 100
+#1501
+floppy blue cap~
+a {bfloppy blue cap{x~
+A floppy blue cap has been left here.~
+cloth~
+armor KS AE
+9 9 9 8 0
+35 1 45 100
+A
+5 2
+A
+2 -2
+#1502
+brass hoop earring~
+a {ybrass hoop earring{x~
+A brass hoop earring has been left here.~
+brass~
+armor K AU
+9 9 9 8 0
+35 1 85 100
+A
+12 -20
+A
+17 -5
+#1503
+blue cloth sash~
+a {bblue cloth sash{x~
+A blue cloth sash has been left here.~
+cloth~
+armor KS AL
+9 9 9 8 0
+35 1 45 100
+#1504
+curved duelling dagger~
+a {Dc{wu{Wrv{we{Dd d{rue{Rll{rin{Dg d{wa{Wgg{we{Dr{x~
+A curved duelling dagger has been left here.~
+steel~
+weapon K AN
+dagger 5 9 'stab' 0
+35 1 150 100
+#1505
+meat cleaver~
+a {rm{De{wat clea{Dve{rr{x~
+A meat cleaver has been left here.~
+steel~
+weapon K AN
+axe 5 9 'cleave' 0
+35 2 150 100
+#1506
+marriage dagger~
+a {ym{Da{wrria{Dg{ye d{Da{wgg{De{yr{x~
+marriage dagger has been left here.~
+steel~
+armor K AC
+9 9 9 8 0
+35 1 100 100
+A
+1 -1
+A
+5 1
+#1507
+leather boots~
+a pair of {yleather boots{x~
+A pair of leather boots has been left here.~
+leather~
+armor KS AG
+10 10 10 7 0
+37 0 85 100
+#1508
+long leather vest~
+a {ylong leather vest{x~
+A long leather vest has been left here.~
+leather~
+armor KS AD
+10 10 10 7 0
+37 0 85 100
+#1509
+flat cap brown wool~
+a {yflat cap{x made of {ybrown wool{x~
+A flat cap made of brown wool has been left here.~
+wool~
+armor KS AE
+10 10 10 7 0
+37 0 60 100
+#1510
+baggy breeches ~
+a pair of {Dbaggy breeches{x ~
+A pair of baggy breeches has been left here.~
+wool~
+armor KS AF
+10 10 10 7 0
+37 0 60 100
+#1511
+heavy pitchfork~
+a {yh{De{wa{Dv{yy p{Dit{wchf{Dor{yk{x~
+A heavy pitchfork has been left here.~
+steel~
+weapon 0 AN
+polearm 5 9 'stab' F
+37 0 150 100
+#1512
+hooded cloak~
+a {yh{Do{wod{De{yd c{Dl{wo{Da{yk{x~
+A hooded cloak has been left here.~
+wool~
+armor KS AK
+12 12 12 9 0
+45 3 60 100
+A
+5 1
+#1513
+gnarled walking stick~
+a {yg{Dn{yarl{De{yd w{Da{ylki{Dn{yg s{Dt{yi{Dc{yk{x~
+A gnarled walking stick has been left here.~
+wood~
+weapon KS AN
+staff 5 10 'smash' F
+45 1 175 100
+A
+17 -5
+#1514
+leather coin purse~
+a {yleather coin purse{x~
+A leather coin purse has been left here.~
+leather~
+money K A
+0 10 0 0 0
+45 1 0 100
+#1515
+stout leather shoes~
+a pair of {Ds{ytou{Dt l{yeathe{Dr s{yhoe{Ds{x~
+A pair of stout leather shoes has been left here.~
+leather~
+armor KS AG
+13 13 13 11 0
+50 1 85 100
+A
+2 1
+#1516
+rough woolen shawl~
+a {yrough woolen shawl{x~
+A rough woolen shawl has been left here.~
+wool~
+armor KS AK
+13 13 13 11 0
+50 1 60 100
+A
+4 1
+#1517
+plain woolen dress blue~
+a {cp{Clai{cn d{Cres{cs{x made of {cb{Clu{ce w{Coo{cl{x~
+A plain woolen dress has been left here.~
+wool~
+armor KS AD
+13 13 13 11 0
+50 3 60 100
+A
+12 20
+#1518
+plain woolen dress yellow~
+a {yp{Ylai{yn d{Yres{ys{x made of {yy{Yello{yw{c {yw{Yoo{yl{x~
+A plain woolen dress has been left here.~
+wool~
+armor KS AD
+13 13 13 11 0
+50 3 60 100
+A
+4 1
+#1519
+loose floorboards~
+a loose {yfl{Do{yorbo{Da{yrd{x~
+A couple of the floorboards appear to be loose.~
+wood~
+container Sa P
+10 AC 0 10 100
+0 0 0 100
+#1520
+painting easel~
+an {yeasel{x~
+A half-finished painting of the {gT{Ga{Wras{Gi{gn P{Ga{Wla{Gc{ge{x sits upon an {yeasel{x.~
+wood~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#1521
+sketches~
+some {Ds{wk{Wetch{we{Ds{x~
+The room's walls are festooned with elaborate {Ds{wk{Wetch{we{Ds{x of the streets of the {DR{ya{wh{ya{Dd{x.~
+paper~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#1522
+brown kerchief~
+a {ybrown kerchief{x~
+A brown kerchief has been left here.~
+cloth~
+armor KS AC
+10 10 10 10 0
+40 1 45 100
+A
+4 1
+A
+3 -1
+#1523
+blue vest~
+a {Bblue vest{x~
+A blue vest has been left here.~
+wool~
+armor KS AD
+10 10 10 10 0
+40 3 60 100
+#1524
+blue breeches~
+a pair of {bblue breeches{x~
+A pair of blue breeches has been left here.~
+wool~
+armor KS AF
+10 10 10 10 0
+40 3 60 100
+A
+2 1
+A
+1 -1
+#1525
+blue cloth cap~
+a {Bblue cloth cap{x~
+A blue cloth cap has been left here.~
+cloth~
+armor KS AE
+10 10 10 10 0
+40 1 45 100
+#1526
+brown leather boots~
+a pair of {ybrown leather boots{x~
+A pair of brown leather boots has been left here.~
+leather~
+armor KS AG
+10 10 10 10 0
+40 2 85 100
+#1527
+wooden barrels~
+one of the {ywooden barrels{x~
+A couple of {ywooden barrels{x have been placed in the corner of the yard.~
+wood~
+container S P
+500 AC 0 500 100
+0 0 0 100
+#1528
+heavy brass ring~
+a {yheavy brass ring{x~
+A heavy brass ring has been left here.~
+brass~
+armor S AB
+10 10 10 10 0
+40 1 100 100
+#1529
+black leather boots~
+a pair of {Dblack leather boots{x~
+A pair of black leather boots has been left here.~
+leather~
+armor S AG
+10 10 10 10 0
+40 3 85 100
+#1530
+plain white cuff~
+a {Wplain white cuff{x~
+A plain white cuff has been left here.~
+cloth~
+armor S AM
+10 10 10 10 0
+40 1 45 100
+#1531
+plain white sleeves~
+{Wplain white sleeves{x~
+A plain white sleeves has been left here.~
+cloth~
+armor S AI
+10 10 10 10 0
+40 2 45 100
+#1532
+boxes~
+one of the {yboxes{x~
+Numerous {yboxes{x have been stacked up neatly in one corner of the attic.~
+wood~
+container S P
+100 AC 0 10 100
+0 0 0 100
+#1533
+rusty shield~
+a {yr{Du{ws{Dt{yy{x {Ds{wh{Wie{wl{Dd{x~
+A rusty shield has been left here.~
+steel~
+armor 0 AJ
+6 6 6 7 0
+25 5 300 100
+#1534
+rusty visor~
+a {yr{Du{ws{Dt{yy{x {Dv{wi{Ws{wo{Dr{x~
+A rusty visor has been left here.~
+steel~
+armor 0 AV
+6 6 6 7 0
+25 2 300 100
+#1535
+rusty vambraces~
+a set of {yr{Du{ws{Dt{yy{x {Dv{wam{Wbra{wce{Ds{x~
+A set of rusty vambraces has been left here.~
+steel~
+armor 0 AI
+6 6 6 7 0
+25 4 300 100
+#1536
+rusty sabatons~
+a set of {yr{Du{ws{Dt{yy{x {Ds{wab{Wat{won{Ds{x~
+A set of rusty sabatons has been left here.~
+steel~
+armor 0 AG
+6 6 6 7 0
+25 4 300 100
+#1537
+rusty greaves~
+a set of {yr{Du{ws{Dt{yy{x {Dg{wre{Wa{wve{Ds{x~
+A set of rusty greaves has been left here.~
+steel~
+armor 0 AF
+6 6 6 7 0
+25 4 300 100
+#1538
+brass sign~
+a {ybrass sign{x~
+A {ybrass sign{x has been fitted to one of the walls.~
+brass~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+E
+brass sign~
+A {ybrass sign{x has been fitted to one of the walls.  The {ybrass sign{x reads:
+{W"Welcome to Jashon's Workshop {x{Wwhere we tailor fit each and every item while
+you wait.  See {CHELP RESTRING{W for details."  {x 
+~
+#1539
+coil rope~
+a {ycoil {xof{y rope{x~
+A {ycoil {xof{y rope{x has been left on the edge of the jetty.~
+hemp~
+trash S P
+0 0 0 0 0
+0 0 0 100
+#1540
+steel capped boots~
+a pair of {Ds{wt{We{we{Dl-c{wa{Wpp{we{Dd{x {Db{yoot{Ds{x~
+A pair of steel-capped boots has been left here.~
+leather~
+armor 0 AG
+6 6 6 7 0
+25 2 85 100
+#1541
+leather bracer~
+a {Dl{we{yath{we{Dr b{wr{yac{we{Dr{x~
+A leather bracer has been left here.~
+leather~
+armor S AM
+17 17 17 9 0
+60 1 100 100
+A
+5 1
+A
+17 -5
+#1542
+gold cufflink~
+a {yg{Yol{Wd cuf{Yflin{yk{x~
+A gold cufflink has been left here.~
+gold~
+armor 0 AM
+17 17 17 9 0
+60 1 150 100
+A
+3 1
+A
+4 1
+#1543
+black hooded cloak wolf fur~
+a {Dblack hooded cloak{x trimmed with {Dw{wol{Wf f{wu{Dr{x~
+A black hooded cloak has been left here.~
+wool~
+armor S AK
+17 17 17 9 0
+60 4 60 100
+A
+17 -10
+#1544
+blue white striped vest~
+a blue and white {bs{Bt{Wr{wi{bp{Be{Wd {wv{be{Bs{Wt{x~
+blue and white striped vest has been left here.~
+cloth~
+armor S AD
+11 11 11 7 0
+40 2 45 100
+#1545
+bell bottomed trousers~
+{wb{Wel{wl b{Wottome{wd t{Wrouser{ws{x~
+A pair of bell bottomed trousers has been left here.~
+cloth~
+armor S AF
+11 11 11 7 0
+40 3 45 100
+#1546
+stone trough~
+a {Ds{wt{Wo{wn{De t{wr{Wou{wg{Dh{x~
+Next to the stable's entrance is a {Ds{wt{Wo{wn{De t{wr{Wou{wg{Dh{x and {yw{wo{yod{we{yn h{wi{ytchi{wn{yg p{wos{yt{x.~
+stone~
+fountain S P
+10000 10000 'water' 0 0
+0 0 0 100
+E
+wooden hitching post~
+Next to the stable's entrance is a {Ds{wt{Wo{wn{De t{wr{Wou{wg{Dh{x and {yw{wo{yod{we{yn h{wi{ytchi{wn{yg p{wos{yt{x.  
+~
+#1547
+hay bales~
+a {ghay bale{x~
+This area is littered with hay that has escaped their bales.~
+hay~
+furniture S P
+4 4000 FIL 100 100
+0 0 0 100
+#1548
+yellow cloth cap~
+a {yy{Yello{yw c{Ylot{yh c{Ya{yp{x~
+yellow cloth cap has been left here.~
+cloth~
+armor S AE
+7 7 7 4 0
+25 1 45 100
+#1549
+iron war hammer~
+an {Di{wro{Dn{x {Dw{war hamme{Dr{x~
+An iron war hammer has been left here.~
+iron~
+weapon 0 AN
+mace 9 14 'smash' 0
+85 6 280 100
+A
+19 5
+#1550
+spiked flail leather hilt~
+a {Ds{wp{Dik{we{Dd f{wl{Da{wi{Dl{x with a {Dl{yeathe{Dr{x-{Dw{yrappe{Dd h{yil{Dt{x~
+A spiked flail with a leather-wrapped hilt has been left here.~
+steel~
+weapon 0 AN
+flail 9 14 'smash' 0
+85 5 280 100
+A
+19 5
+#1551
+steel half pike polearm~
+a {Ds{wt{We{we{Dl-t{wi{Wpp{we{Dd{x {Dh{wal{Wf-p{wik{De{x~
+A steel-tipped half-pike has been left here.~
+steel~
+weapon 0 AN
+polearm 9 14 'stab' F
+85 6 280 100
+#1552
+cane chestnut wood staff~
+a {rc{Wan{re{x made of {rc{wh{Westnut wo{wo{rd{x~
+A cane made of chestnut wood has been left here.~
+wood~
+weapon S AN
+staff 9 14 'smash' 0
+85 2 280 100
+A
+19 5
+#1553
+knout metal hooks~
+a {yknout{x with {Dm{we{Wt{wa{Dl h{wo{Wo{wk{Ds{x~
+A knout with metal hooks has been left here.~
+leather~
+weapon 0 AN
+whip 9 14 'beating' 0
+85 2 280 100
+A
+19 5
+#1554
+smoking dagger~
+a {Ds{wm{Doki{wn{Dg{x {Wd{wa{Dgg{we{Wr{x~
+Tendrils of smoke emanate from the blade of this dagger.~
+steel~
+weapon KY AN
+dagger 10 15 'sting' 0
+90 1 300 100
+A
+19 6
+A
+12 -40
+A
+18 6
+#1555
+lace frilled cuff~
+a {Wlace-frilled cuff{x~
+A lace-frilled cuff has been left here.~
+lace~
+armor S AM
+26 26 26 12 0
+90 1 45 100
+A
+17 -10
+A
+5 2
+A
+4 2
+#1556
+lace frilled collar~
+a {Wlace-frilled collar{x~
+A lace-frilled collar has been left here.~
+lace~
+armor KS AC
+26 26 26 12 0
+90 1 45 100
+A
+17 -15
+A
+18 3
+#1557
+heavy black coat~
+a {Dheavy black coat{x~
+A heavy black coat has been left here.~
+wool~
+armor S AD
+26 26 26 12 0
+90 5 60 100
+A
+13 120
+#1558
+black tall crowned hat~
+a {Dblack tall-crowned hat{x~
+A black tall-crowned hat has been left here.~
+wool~
+armor KS AE
+26 26 26 12 0
+90 1 60 100
+A
+1 2
+A
+3 4
+#1559
+snug gray breeches~
+a pair of {Ds{wnu{Dg g{wra{Dy b{wreeche{Ds{x~
+A pair of snug gray breeches has been left here.~
+wool~
+armor S AF
+26 26 26 12 0
+90 3 60 100
+A
+1 3
+A
+2 3
+#1560
+tiny gold hoop earring~
+a {yt{Yin{Wy g{Yol{yd{w {yh{Yoo{Wp ear{Yrin{yg{x~
+A tiny gold hoop earring has been left here.~
+gold~
+armor K AU
+26 26 26 12 0
+90 1 100 100
+A
+17 -30
+#1561
+tattered woolen scarf~
+a {mt{wa{Wtter{we{md w{wo{Wol{we{mn s{wc{Wa{wr{mf{x~
+A tattered woolen scarf has been left here.~
+wool~
+armor S AC
+26 26 26 12 0
+90 1 60 100
+A
+12 60
+A
+13 60
+#1562
+baggy brown breeches~
+{ybaggy brown breeches{x~
+A pair of baggy brown breeches has been left here.~
+wool~
+armor S AF
+26 26 26 12 0
+90 3 60 100
+A
+12 60
+A
+13 60
+#1563
+black leather belt brass buckle~
+a {Dbla{wc{Dk leath{we{Dr be{wl{Dt{x with a {ybra{Ys{ys buck{Yl{ye{x~
+A black leather belt has been left here.~
+leather~
+armor 0 AL
+26 26 26 12 0
+90 1 85 100
+A
+3 2
+A
+1 1
+A
+2 3
+#1564
+large haversack~
+a {ylarge haversack{x~
+A large haversack has been left here.~
+canvas~
+container KS AS
+500 AC 0 500 100
+90 2 85 100
+#1565
+pale scar~
+a {Wp{wal{We s{wca{Wr{x~
+Eww! A pale scar has been left here.~
+flesh~
+armor KS AV
+26 26 26 12 0
+90 0 0 100
+A
+17 -5
+A
+19 1
+A
+18 4
+#1566
+leather whip~
+a {yleather whip{x~
+A leather whip has been left here.~
+leather~
+weapon KS AN
+exotic 10 15 'none' 0
+90 1 150 100
+A
+4 2
+A
+19 2
+A
+18 2
+#1567
+scuffed leather boots~
+{ys{wc{yuff{we{yd l{we{yath{we{yr b{wo{yo{wt{ys{x~
+A pair of scuffed leather boots has been left here.~
+leather~
+armor S AG
+13 13 13 6 0
+45 2 85 100
+A
+5 1
+#1568
+frayed woolen gloves~
+{cf{wr{cay{we{cd w{wo{col{we{cn g{wl{cov{we{cs{x~
+A pair of frayed woolen gloves has been left here.~
+wool~
+armor S AH
+13 13 13 8 0
+47 1 60 100
+A
+4 1
+#1569
+knotted green sash~
+a {gknotted green sash{x~
+A knotted green sash has been left here.~
+cloth~
+armor KS AL
+8 8 8 3 0
+27 1 45 100
+A
+3 1
+A
+4 -1
+#1570
+bushy beard pile hair~
+a {yb{Du{ys{Dh{yy b{De{ya{Dr{yd{x~
+Eww! A pile of hair has been left here.~
+hair~
+armor S AV
+7 7 7 4 0
+25 1 0 100
+A
+1 1
+A
+4 -1
+#1571
+grubby apron~
+a {wg{Wrubb{wy a{Wpro{wn{x~
+A grubby apron has been left here.~
+cloth~
+armor S AL
+8 8 8 4 0
+28 1 45 100
+#1572
+grubby bonnet~
+a {wg{Wrubb{wy b{Wonne{wt{x~
+A grubby bonnet has been left here.~
+cloth~
+armor S AE
+8 8 8 4 0
+28 1 45 100
+#1573
+strange red glow bloody images violence~
+{rb{Rlood{ry i{Rmage{rs{x of {Dv{rio{Rle{rnc{De{x~
+There is a strange red glow here.~
+light~
+armor S AQ
+12 12 12 6 0
+42 0 0 100
+A
+1 2
+A
+3 -2
+#1574
+long scarf green wool~
+a {glong scarf{x made of {ggreen wool{x~
+A long green scarf has been left here.~
+wool~
+armor S AC
+13 13 13 6 0
+45 1 60 100
+A
+2 1
+#1575
+brass coat hooks~
+one of the {yb{Yr{yass coat hoo{Yk{ys{x~
+Several {yb{Yr{yass coat hoo{Yk{ys{x have been attached along one of the walls.~
+brass~
+container 0 P
+500 E 0 50 100
+0 0 0 100
+#1576
+tattered gray cloak~
+a {Dt{wattere{Dd g{wra{Dy c{wloa{Dk{x~
+A tattered gray cloak has been left here.~
+wool~
+armor S AK
+5 5 5 0 0
+15 3 60 100
+A
+5 1
+#1577
+hooded cloak blue wool~
+a {ch{Cooded cloa{ck{x made of {cb{Clue woo{cl{x~
+A hooded cloak has been left here~
+wool~
+armor S AK
+8 8 8 1 0
+25 3 60 100
+#1578
+bar soap~
+a {Wbar{x of {Wsoap{x~
+A {Wbar{x of {Wsoap{x has been left upon the floor.~
+soap~
+trash S AO
+0 0 0 0 0
+0 1 0 100
+#1579
+patches patched cloak~
+a {ywoolen cloak{x covered with many {cp{ma{gt{bc{rh{ce{gs{x~
+A patched cloak has been left here.~
+wool~
+armor S AK
+11 11 11 3 0
+36 3 60 100
+A
+2 1
+A
+3 -1
+#1580
+goat hide buckler~
+a {yg{woa{yt h{wid{ye{x {yb{wuckle{yr{x~
+goat hide buckler has been left here.~
+hide~
+armor S AJ
+13 13 13 3 0
+42 4 100 100
+A
+17 -5
+A
+4 -1
+#1581
+broad axe~
+a {Db{wro{Wad a{wx{De{x~
+A broad axe has been left here.~
+steel~
+weapon 0 AN
+axe 5 10 'cleave' 0
+42 5 150 100
+#1582
+floppy cap purple velvet~
+a {mfloppy cap{x made of {mpurple velvet{x~
+A floppy cap has been left here.~
+leather~
+armor S AE
+12 12 12 4 0
+40 1 85 100
+#1583
+wide leather belt~
+a {Dw{yid{De l{yeathe{Dr b{yel{Dt{x~
+A wide leather belt has been left here.~
+velvet~
+armor S AL
+12 12 12 4 0
+40 1 85 100
+#1584
+floppy cap green velvet~
+a {gfloppy cap{x made of {ggreen velvet{x~
+A floppy cap has been left here.~
+leather~
+armor S AE
+11 11 11 8 0
+41 1 85 100
+A
+4 1
+A
+5 -1
+#1585
+silver chain necklace~
+a {Ws{wi{Dlv{we{Wr{x {Wc{wh{Da{wi{Wn ne{wc{Dkl{wa{Wce{x~
+A silver chain necklace has been dropped here.~
+silver~
+armor 0 AC
+12 12 12 8 0
+44 1 125 100
+A
+12 -20
+A
+13 -20
+A
+19 1
+A
+18 1
+#1586
+silver coins~
+several {Ds{wi{Wlv{we{Dr c{wo{Wi{wn{Ds{x~
+silver coins have been  left here.~
+silver~
+money 0 A
+25 0 0 0 0
+0 1 0 100
+#1587
+stiff white cuff~
+a {ws{Wtif{wf w{Whit{we c{Wuf{wf{x~
+A stiff white cuff has been left here.~
+cloth~
+armor S AM
+13 13 13 11 0
+50 1 45 100
+A
+4 1
+#1588
+stiff white collar~
+a {ws{Wtif{wf w{Whit{we c{Wolla{wr{x~
+A stiff white collar has been left here.~
+cloth~
+armor S AC
+13 13 13 11 0
+50 1 45 100
+A
+5 1
+#1589
+baggy white sleeves~
+{wb{Wagg{wy w{Whit{we s{Wleeve{ws{x~
+A pair of baggy white sleeves has been left here.~
+cloth~
+armor S AI
+13 13 13 11 0
+50 2 45 100
+A
+1 1
+#1590
+dark gray vest~
+a {Dd{war{Dk g{wra{Dy{x {Dv{wes{Dt{x~
+A dark gray vest has been left here.~
+wool~
+armor S AD
+13 13 13 11 0
+50 3 60 100
+A
+17 -5
+#1591
+dark gray trousers~
+{Dd{war{Dk g{wra{Dy t{wrouser{Ds{x~
+A pair of dark gray trousers has been left here.~
+wool~
+armor S AF
+13 13 13 11 0
+50 4 60 100
+A
+17 -5
+#0
+
+
+
+#ROOMS
+#1400
+{yThe Illian Road{x~
+This is the Illian Road, the main thoroughfare that runs almost parallel
+to the coast of the Sea of Storms, linking the cities of Illian and Ebou
+Dar.  At this point along the thoroughfare the Illian Road enters the
+eastern outskirts of the Rahad, a dilapidated district famed throughout
+other lands for its bad reputation of crime.  This particular street is
+overlooked by tall, dilapidated buildings whose exterior walls have been
+covered with flaking white plaster.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1401
+S
+#1401
+{yThe Illian Road{x~
+The Illian Road is the main trade route that runs almost parallel to the
+coast of the Sea of Storms and links the cities of Illian and Ebou Dar.  At
+this point the busy thoroughfare winds its way through the Rahad, a rundown
+and rather dismal looking district with a bad reputation for crime.  The
+majority of the buildings along the road have steeply sloping roofs that
+have been covered in brightly colored tiles; buildings with deep red or
+violet roofs are not an unusual sight within the Rahad.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1400
+D3
+~
+~
+0 0
+0 0 1402
+S
+#1402
+{yThe Illian Road{x~
+The Illian Road is the main road that runs almost parallel to the coast
+and links the cities of Illian and Ebou Dar At this point the broad
+thoroughfare passes through the Rahad, a rather disheveled district with a
+bad reputation for both abundant dueling and thievery within it.  The roads
+look old and pitted; the missing slabs of paving suggest that this route is
+probably uncomfortable to traverse by cart or wagon.  This particular street
+is overlooked by tall, dilapidated buildings whose exterior walls have been
+covered with flaking white plaster.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1403
+D1
+~
+~
+0 0
+0 0 1401
+S
+#1403
+{yThe Illian Road{x~
+The Illian Road is the main trade route that runs almost parallel to the
+coast of the Sea of Storms.  At this point the road winds its way through
+the Rahad, a rundown and rather dismal looking district with a bad
+reputation for crime.  The roads look pitted, the missing slabs of paving
+suggest that this route is probably uncomfortable to traverse by cart or
+wagon.  This particular street is overlooked by tall, dilapidated buildings
+whose exterior walls have been covered with flaking white plaster.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1443
+D2
+~
+~
+0 0
+0 0 1402
+D3
+~
+~
+0 0
+0 0 1404
+S
+#1404
+{yThe Illian Road{x~
+The Illian Road is the main trade route that links the cities of Illian
+and Ebou Dar.  At this point the busy thoroughfare runs east/west through
+the Rahad, a rundown and rather dismal looking district with a bad
+reputation for crime.  The roads look pitted, the missing slabs of paving
+suggest that this route is uncomfortable to traverse by cart or wagon.  Most
+of the buildings along the road have sloping roofs that have been covered in
+brightly colored tiles; buildings with deep red or golden yellow roofs are a
+common sight in the Rahad.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1403
+D3
+~
+~
+0 0
+0 0 1405
+S
+#1405
+{yThe Illian Road{x~
+This is the Illian Road, the main trade route that links the cities of
+Illian and Ebou Dar.  At this point the broad thoroughfare winds its way
+through the Rahad, a dilapidated and rather dismal looking district where
+dueling and thievery run rife.  The street is overlooked by tall, rundown
+buildings whose exterior walls have been covered with white plaster. 
+Cutting between the rows of buildings are narrow alleyways, they seem the
+ideal place for any mugger to lay an ambush.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1406
+D1
+~
+~
+0 0
+0 0 1404
+S
+#1406
+{yThe Illian Road{x~
+This is the Illian Road, the main trade route that links Illian and Ebou
+Dar together.  At this point the Illian Road runs through the Rahad, a
+rundown district with a bad reputation.  The road is overlooked by tall,
+disheveled buildings covered with white plaster, mainly shops and houses. 
+Cutting between the rows of houses are narrow alleyways, they seem the ideal
+place for any mugger to lay an ambush.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1405
+D3
+~
+~
+0 0
+0 0 1407
+S
+#1407
+{yThe Illian Road{x~
+The Illian Road is the main trade route that follows the coast of the Sea
+of Storms.  At this point the broad thoroughfare winds its way through the
+Rahad, a rundown and rather dismal looking district where dueling and
+thievery run rife.  The area is a maze-like network of twisting streets,
+alleys and narrow bridges that cross murky canals.  Most of the roads have
+been worn down and pitted with missing slabs of paving making the route
+uncomfortable to traverse by cart or wagon.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1408
+D1
+~
+~
+0 0
+0 0 1406
+D2
+~
+~
+0 0
+0 0 1410
+S
+#1408
+{yThe Illian Road{x~
+The Illian Road is the main trade route that connects the cities of
+Illian and Ebou Dar.  At this point the broad thoroughfare passes through
+the Rahad, a rather disheveled district with a bad reputation for both
+abundant dueling and thievery within it.  The area is a maze of narrow
+streets, alleys and narrow bridges that cross a network of gloomy canals. 
+The air within this area has a salty tang to it, which originates from the
+docks that lie to the west.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1442
+D2
+~
+~
+0 0
+0 0 1407
+D3
+~
+~
+0 0
+0 0 1409
+S
+#1409
+{yThe Illian Road{x~
+This is the western end of the Illian Road, the main road that follows
+the coast of the Sea of Storms.  At this point the road passes through the
+Rahad, a rather disheveled quarter with a terrible reputation for dueling
+and thievery within it.  The area is an intricate network of narrow streets,
+alleys and narrow bridges that cross a system of gloomy canals.  The air
+within this area has a salty tang to it, which originates from the docks to
+the west which overlooks a large bay that sits between the Rahad and Ebou
+Dar.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1444
+D1
+~
+~
+0 0
+0 0 1408
+D3
+~
+~
+0 0
+0 0 1449
+S
+#1410
+{yA Narrow Street{x~
+This is one of the numerous narrow streets that winds its way through the
+Rahad district.  This particular road looks very old and worn with many of
+the gray paving slabs missing.  The street is overlooked by tall buildings
+whose exterior walls have been covered in white plaster although much of the
+covering is flaking off from the buildings revealing the old brickwork
+beneath.  The brightly colored tiled roofs of the buildings make the Rahad
+seem like a colorful patchwork quilt.  A second much broader thoroughfare
+can be seen a short distance away to the north, it too appears to be flanked
+by dilapidated buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1407
+D2
+~
+~
+0 0
+0 0 1411
+S
+#1411
+{yA Narrow Street{x~
+This is one of the many narrow thoroughfares that twist its way through
+the Rahad district.  The street is flanked by tall buildings whose exterior
+walls have been covered in white plaster although much of the covering is
+flaking off from the buildings revealing the old brickwork beneath.  The
+brightly colored tiled roofs of the buildings make the Rahad seem like a
+colorful collage; roofing tile colors ranging from deep red to golden yellow
+and even violet are not an uncommon sight within the area.  To the south the
+busy harbor can be seen just a short distance away.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1410
+D1
+~
+~
+0 0
+0 0 1412
+D2
+~
+~
+0 0
+0 0 1455
+S
+#1412
+{yA Winding Street{x~
+This is one of the many nameless yet busy streets that generally winds
+its way east/west through the Rahad quarter.  This road in particular looks
+very old and worn with a lot of the gray stone paving slabs missing.  The
+street is overlooked by lofty buildings, mainly houses whose exterior walls
+have been covered in white plaster and topped with brightly colored tiled
+roofs.  The street appears to be used more as a gathering place for the
+citizens of the Rahad rather than used as an actual thoroughfare, there are
+even a few peddlers displaying their wares in brightly decorated barrows to
+be seen by the edge of the street.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 1466
+D2
+~
+~
+0 0
+0 0 1413
+D3
+~
+~
+0 0
+0 0 1411
+S
+#1413
+{yA Winding Street{x~
+This is a wide yet winding street that runs east/west through the Rahad. 
+The street looks old and shabby, made uneven by broken and missing paving
+slabs.  This street is flanked by decrepit buildings; the majority of these
+tall structures appear to be colorfully decorated shops although a few
+blander buildings which appear to be houses can also be seen here.  All of
+the buildings have colorfully tiled roofs and have their exterior walls
+covered in white plaster although much of the walls have turned gray with
+dirt and large areas of plaster have crumbled off them, revealing the bricks
+and mortar beneath.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1412
+D1
+~
+~
+0 0
+0 0 1414
+D3
+~
+~
+0 0
+0 0 1455
+S
+#1414
+{yA Winding Street{x~
+This is one of the many narrow streets that winds its way through the
+Rahad district.  Although this street was once neatly paved with slabs of
+gray stone, there are signs of wear and tear caused by heavy carts and
+wagons.  The street is overlooked by tall buildings whose exterior walls
+have been covered in white plaster although much of the covering is flaking
+off from the buildings revealing the old brickwork beneath.  To the west the
+busy harbor can be seen just a short distance away.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1415
+D3
+~
+~
+0 0
+0 0 1413
+S
+#1415
+{yA Broad Street{x~
+This is one of the many streets that twist its way through the Rahad
+district.  Although this street was once neatly paved with slabs of gray
+stone, there are signs of wear and tear caused by heavy carts and wagons
+over the years.  The street is flanked by tall buildings whose exterior
+walls have been covered in white plaster although much of the covering is
+flaking off from the structures revealing the old stonework beneath.  A
+second much broader thoroughfare can be seen a short distance away to the
+north, it too appears to be flanked by dilapidated buildings.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1416
+D3
+~
+~
+0 0
+0 0 1414
+S
+#1416
+{yA Broad Street{x~
+This is one of the many seemingly nameless yet busy streets that
+generally winds its way through the Rahad quarter.  This road in particular
+looks very old and worn with a lot of the gray stone paving slabs missing. 
+Most of the buildings in this area are houses but there are one or two shops
+to be seen and even a painted blue door or two, marking the entrances of
+inns or taverns.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1415
+D2
+~
+~
+0 0
+0 0 1417
+D3
+~
+~
+3 3
+1 0 1531
+S
+#1417
+{yA Broad Street{x~
+Here lies one of the numerous seemingly nameless yet busy streets that
+winds its way through the Rahad quarter.  This road in particular looks very
+old and worn with a lot of the gray stone paving slabs missing.  Even the
+gray stone bridges that cross over the narrow canals are in a bad state and
+appear to need repairing.  The buildings that flank the roads are in a
+similar dilapidated state, what was once pristine buildings covered with
+white plaster and crowned with brightly colored tiled roofs are now grubby
+gray structures with much of the masonry visible where patches of plaster
+have flaked off of the walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1416
+D1
+~
+~
+0 0
+0 0 1438
+D2
+~
+~
+0 0
+0 0 1418
+S
+#1418
+{yA Broad Street{x~
+This is one of the countless nameless yet busy streets that generally
+winds its way through the Rahad district.  Like the majority of the roads in
+this area, this one looks very old and worn with a lot of the gray stone
+paving slabs missing.  Even the gray stone bridges that cross over the
+narrow canals are in a bad state and appear to need repairing.  This
+particular street is flanked by tall buildings whose exterior walls have
+been covered in white plaster.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1417
+D2
+~
+~
+0 0
+0 0 1419
+D3
+~
+~
+0 0
+0 0 1426
+S
+#1419
+{yA Broad Street{x~
+Here lies one of the many seemingly nameless yet busy streets that
+generally winds its way through the Rahad region.  This road in particular
+looks very old and shabby with many of the gray stone paving slabs missing. 
+The street is overlooked by lofty buildings whose exterior walls have been
+covered in white plaster, most of them appear to be houses although one or
+two shops can be seen.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1418
+D1
+~
+~
+0 0
+0 0 1430
+D2
+~
+~
+0 0
+0 0 1420
+D3
+~
+~
+3 3
+1 0 1556
+S
+#1420
+{yA Broad Street{x~
+This is one of the many busy streets that meander its way through the
+Rahad district.  Although this street was once neatly paved with slabs of
+gray stone, there are signs of wear and tear caused by heavy carts and
+wagons over the years.  The street is overlooked by tall buildings whose
+exterior walls have been covered in white plaster although much of the
+covering is flaking off from the buildings revealing the old brickwork
+beneath.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1419
+D2
+~
+~
+0 0
+0 0 1421
+D3
+~
+~
+3 3
+1 0 1564
+S
+#1421
+{yA Broad Street{x~
+This road appears to be used more as a meeting place for the citizens of
+the Rahad rather than used as an actual thoroughfare; there are even a few
+peddlers and hawkers displaying their wares in brightly decorated barrows to
+be seen lurking by the edge of the street.  Although this street was once
+neatly paved with slabs of gray stone, there are signs of wear and tear
+caused by heavy carts and wagons over the years.  Many of the slabs are
+cracked and some are even missing, creating small pits which may accumulate
+water and form deep puddles if it were to rain here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1420
+D1
+~
+~
+0 0
+0 0 1428
+D2
+~
+~
+0 0
+0 0 1422
+S
+#1422
+{yA Broad Street{x~
+This busy thoroughfare appears to be used more as a meeting place for the
+citizens of the Rahad rather than used as an actual thoroughfare; there are
+even a few peddlers and hawkers displaying their wares in brightly decorated
+barrows to be seen lurking by the edge of the street.  The street is
+overlooked by lofty buildings, mainly houses whose exterior walls have been
+covered in white plaster and topped with brightly colored tiled roofs.  The
+buildings in this area are in a similar condition to the roads, much of the
+plaster covering of these buildings is flaking off from the buildings
+revealing the old masonry beneath.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1421
+D2
+~
+~
+0 0
+0 0 1423
+D3
+~
+~
+3 3
+1 0 1563
+S
+#1423
+{yA Broad Street{x~
+This road appears to be used more as a meeting place for the citizens of
+the Rahad rather than used as an actual thoroughfare; there are even a few
+peddlers and hawkers displaying their wares in brightly decorated barrows to
+be seen lurking by the edge of the street.  The buildings in this area are
+in a dilapidated state, what was once pristine buildings covered with white
+plaster and crowned with brightly colored tiled roofs are now grubby gray
+structures.  Most of the buildings are houses but there are a few shops to
+be seen and even a painted blue door or two, marking the entrances of inns
+or taverns.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1422
+D2
+~
+~
+3 3
+1 0 1546
+D3
+~
+~
+0 0
+0 0 1424
+S
+#1424
+{yA Narrow Street{x~
+This road seems to be used more as a meeting place for the citizens of
+the Rahad rather than used as an actual thoroughfare; there are even a few
+peddlers and hawkers displaying their wares in colorfully decorated barrows
+to be seen lurking by the edge of the street.  The street is flanked by tall
+buildings whose exterior walls have been covered in white plaster.  The
+majority of the buildings in the immediate vicinity appear to be houses
+although there are a few shops visible too.  On the southern of the road is
+a large archway, beyond the arch appears to be a courtyard.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1423
+D2
+~
+~
+0 0
+0 0 1468
+D3
+~
+~
+0 0
+0 0 1425
+S
+#1425
+{yA Narrow Street{x~
+This is a fairly long and narrow street that winds its way east/west
+through the Rahad district which seems more like a gathering place for the
+citizens of the quarter rather than a thoroughfare.  The street is flanked
+by tall buildings whose exterior walls have been covered in white plaster
+although much of the covering is flaking off from the structures revealing
+the old stonework beneath.  The majority of the buildings in the immediate
+vicinity appear to be houses although there are a few shops visible too.  A
+busy harbor overlooking a large bay can be seen just a short distance away
+to the west.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1424
+D2
+~
+~
+3 3
+1 0 1471
+D3
+~
+~
+0 0
+0 0 1463
+S
+#1426
+{yA Narrow Street{x~
+This road appears to be used more as a meeting place for the citizens of
+the Rahad rather than used as an actual thoroughfare; there are even a few
+peddlers and hawkers displaying their wares in colorfully decorated barrows
+to be seen lurking by the edge of the street.  Like the majority of the
+thoroughfares within the area, this road looks well worn from use and in
+need of some repairs; a few of the paving stones appear to be missing.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1418
+D3
+~
+~
+0 0
+0 0 1427
+S
+#1427
+{yA Narrow Street{x~
+This is a particularly long and narrow street that winds its way
+east/west through the Rahad district.  Like the majority of the
+thoroughfares within the area, this road looks well worn from use and in
+need of some repairs.  Overlooking the street is a mismatched group of
+buildings, the only thing that these building have in common with each other
+is the white plaster used to cover their exterior walls.  A busy harbor
+overlooking a large bay can be seen just a short distance away to the west. 
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1426
+D3
+~
+~
+0 0
+0 0 1458
+S
+#1428
+{yA Twisting Street{x~
+Here lies one of the many streets that winds their way through the Rahad.
+Like most of the roads in this area, this one looks very old and shabby with
+a lot of the gray stone paving slabs missing.  The street is flanked by
+large buildings whose outer walls have been covered in white plaster
+although much of the grimy covering is flaking off.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1429
+D3
+~
+~
+0 0
+0 0 1421
+S
+#1429
+{yA Dead End{x~
+This is one of the many similar streets that generally winds its way
+through the Rahad district.  Like the majority of the roads in this area,
+this one looks very old and shabby with a lot of the gray stone paving slabs
+missing.  The street is overlooked by large buildings whose exterior walls
+have been covered in white plaster although much of the grimy covering is
+peeling off from the structures.  This particular road ends abruptly at this
+point, cut off by a tall wall that is also covered in white plaster.  There
+is an archway that has been built into the wall; beyond the arch a large
+courtyard can be seen.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1467
+D3
+~
+~
+0 0
+0 0 1428
+S
+#1430
+{yA Twisting Street{x~
+This is a particularly long and narrow street that twists its way
+east/west through the Rahad quarter which seems more like a gathering place
+for the citizens of the quarter rather than a road.  Like the majority of
+the roads within the area, this street looks well worn from use and in need
+of some repairs.  The street is overlooked by large buildings whose exterior
+walls have been covered in white plaster although much of the grubby
+covering is peeling off from the structures revealing the brickwork beneath.
+The majority of the buildings in this area appear to be houses although
+there are a few shops.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1562
+D1
+~
+~
+0 0
+0 0 1431
+D3
+~
+~
+0 0
+0 0 1419
+S
+#1431
+{yA Winding Street{x~
+This is a twisting street that runs east/west through the Rahad, flanked
+by tall buildings.  The street looks old and worn, made uneven by broken and
+missing paving slabs.  The majority of the decrepit structures along this
+road appear to be houses; they have colorfully tiled roofs and have their
+exterior walls covered in white plaster although much of it has turned gray
+with dirt and large areas of plaster have crumbled off, revealing the bricks
+and mortar beneath.  There are a couple of shops to be seen along this road;
+they are marked clearly by their brightly painted signs that are hung over
+their entrances.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1558
+D1
+~
+~
+0 0
+0 0 1432
+D3
+~
+~
+0 0
+0 0 1430
+S
+#1432
+{yA Twisting Street{x~
+Most of the roads within the Rahad look the same, and this one is of no
+exception.  It is a long and narrow street that winds its way east/west
+through the district.  Like the majority of the roads within the area, this
+street looks well worn from use and in need of some repairs; a few of the
+paving stones appear to be missing.  Even the gray stone bridges that cross
+over the network of narrow canals are in a bad state.  The street is flanked
+by big buildings whose exterior walls have been covered in white plaster
+although much of the covering is flaking off from the structures revealing
+the old stonework beneath.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1464
+D1
+~
+~
+0 0
+0 0 1433
+D2
+~
+~
+3 3
+1 0 1491
+D3
+~
+~
+0 0
+0 0 1431
+S
+#1433
+{yA Crossroad{x~
+At this point within the Rahad, two twisting roads meet and form a
+crossroad.  The surface of these roads looks very old and worn with many of
+the gray paving slabs missing.  The crossroad is overlooked from all sides
+by tall pale structures.  The buildings look very similar to each other,
+each one has had its exterior walls covered in white plaster although over
+time the plaster has turned to a grubby gray color and is now flaking off in
+places.  Each building is topped by a tiled roof, the color of the roofs
+range from golden yellow to crimson red and even deep violet.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1437
+D1
+~
+~
+0 0
+0 0 1435
+D2
+~
+~
+0 0
+0 0 1434
+D3
+~
+~
+0 0
+0 0 1432
+S
+#1434
+{yA Dead End{x~
+This is the southern end of a long thoroughfare that winds its way
+northwards through the Rahad District.  This particular road seems to be
+very old and dilapidated with many of the gray paving slabs broken or
+missing.  Flanking the road are numerous tall buildings, the majority of the
+structures appear to be houses.  All of the buildings in this area of the
+city are in a dilapidated state; they have colorfully tiled roofs and have
+their exterior walls covered in white plaster although much of it is grimy
+and large patches of plaster have flaked off, revealing the brickwork
+beneath.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1433
+S
+#1435
+{yA Winding Street{x~
+This is a particularly long and winding street that runs east/west
+through the Rahad.  The area seems more like a gathering place for the
+citizens of the quarter rather than a thoroughfare; there are even a few
+peddlers and hawkers displaying their wares here.  Like many of the other
+roads within the area, this street looks well worn from use and in need of
+some repairs; a few of the paving stones appear to be missing.  The street
+is overlooked by big buildings whose exterior walls have been covered in
+white plaster although much of the covering is flaking off from the
+structures revealing the old stonework beneath.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1561
+D1
+~
+~
+0 0
+0 0 1436
+D2
+~
+~
+3 3
+1 0 1492
+D3
+~
+~
+0 0
+0 0 1433
+S
+#1436
+{yA Dead End{x~
+This is the eastern end of a long roadway that winds its way westwards
+through the Rahad District.  This particular thoroughfare appears to be very
+old and dilapidated with many of the gray paving slabs broken or missing. 
+There are tall buildings flanking the road, the majority of them appear to
+be shops, marked out by their colorful signs.  All of the buildings in this
+area of the city have colorfully tiled roofs and have their exterior walls
+covered in white plaster although much of it is grimy and large patches of
+plaster have flaked off, revealing the masonry beneath.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1559
+D2
+~
+~
+3 3
+1 0 1560
+D3
+~
+~
+0 0
+0 0 1435
+S
+#1437
+{yA Narrow Street{x~
+This is a short and narrow street that leads north/south through the
+Rahad district.  Like the majority of the roads within the area, this street
+looks well worn from use and in need of some repairs; a few of the paving
+stones appear to be missing.  The street is flanked by tall buildings whose
+exterior walls have been covered in white plaster although much of the
+covering is flaking off from the structures revealing the old stonework
+beneath.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1445
+D2
+~
+~
+0 0
+0 0 1433
+S
+#1438
+{yA Twisting Street{x~
+This is a wide yet twisting street that runs east/west through the Rahad,
+flanked by decrepit buildings.  The majority of the structures along this
+road appear to be houses; they have colorfully tiled roofs and have their
+exterior walls covered in white plaster although much of it has turned gray
+with dirt and large areas of plaster have crumbled off.  A couple of shops
+to be seen along this road; they are marked noticeably by their brightly
+painted signs that are hung over their doors.  There is a second, much
+narrower street that leads off from this thoroughfare to the north.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1439
+D3
+~
+~
+0 0
+0 0 1417
+S
+#1439
+{yA Twisting Street{x~
+This is one of the many seemingly nameless streets that generally winds
+its way through the Rahad region.  This road looks very old and shabby with
+many of the gray stone paving slabs missing.  The street is overlooked by
+lofty buildings whose exterior walls have been covered in white plaster,
+most of them appear to be shops but there are one or two houses.  Although
+much of the plaster covering of these buildings is flaking off from the
+buildings revealing the old brickwork beneath.  Most of the buildings'
+woodwork look like they need urgent repairs too, much of the paint has
+flaked off revealing the rotting wood beneath it.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1441
+D1
+~
+~
+0 0
+0 0 1440
+D3
+~
+~
+0 0
+0 0 1438
+S
+#1440
+{yA Winding Street{x~
+This is one of the many streets that weave its way through the Rahad
+district.  This road in particular looks very old and dilapidated with many
+of the gray paving slabs missing.  The thoroughfare is flanked along both
+sides by tall pale structures.  Each building is topped by a tiled roof, the
+color of the roofs range from golden yellow to crimson red and even deep
+violet; the overall effect makes the Rahad look like a gleeman's patched
+cloak.  Most of the buildings along this road are shops although a few
+houses can be seen among them.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1557
+D1
+~
+~
+0 0
+0 0 1445
+D3
+~
+~
+0 0
+0 0 1439
+S
+#1441
+{yA Dead End{x~
+This is the northern end of a short street that leads southwards through
+the Rahad District.  This particular road seems to be very old and
+dilapidated with much of the street's paving broken.  Bordering this small
+road are several large buildings that appear to be houses.  Every one of the
+buildings in this region of the city is in a dilapidated state; they have
+colorfully tiled roofs and have their exterior walls covered in white
+plaster although much of it is grubby and large areas of plaster have
+crumbled off, revealing the brickwork beneath.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1439
+S
+#1442
+{yA Short Street{x~
+This is a short road that leads through the northern part of Rahad.  The
+street has been paved with large slabs of gray stone but over the years the
+thoroughfare has deteriorated into an appalling state, the large gaps left
+by missing paving slabs would make this road to traverse by cart or wagon. 
+Large yet rundown buildings overlook the road although most of them appear
+to be houses.  The road intersects a much wider road to the south which
+appears to be in a better state of repair than this one.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1487
+D3
+~
+~
+0 0
+0 0 1408
+S
+#1443
+{yA Short Street{x~
+This is a short thoroughfare which runs through the northern part of
+Rahad.  The street has been paved with large gray stone slabs but over the
+years the road has degraded; the large gaps left by missing paving slabs
+would make this road to traverse by cart or wagon.  There are numerous
+buildings that overlook the road although most of the rundown structures
+appear to be houses.  The road intersects a much wider road to the south
+which appears to be in a better state of repair than this one.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1516
+D2
+~
+~
+0 0
+0 0 1403
+S
+#1444
+{yA Short Street{x~
+This is a particularly short thoroughfare that runs north/south through
+the Rahad which is a particularly dingy area.  The street looks old and
+shabby, made uneven by broken and missing paving slabs.  Tall rundown
+buildings overlook the road although most of them appear to be workshops and
+warehouses.  The road intersects a much wider road to the south which
+appears to be in a better state of repair than this one and at the northern
+end of this short road is a large red brick archway, beyond that lies a
+large courtyard.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1469
+D2
+~
+~
+0 0
+0 0 1409
+S
+#1445
+{yA Market Square{x~
+This is the southwestern corner of a large square plaza upon which a
+market has been set up.  Dozens of colorful stalls have been arranged in the
+square, each stall displays a multitude of goods both local and foreign. 
+There are numerous buildings of varying sizes that overlook the market
+although most of the rundown structures appear to be houses.  To the south
+and to the west are two narrow streets which lead away from the market
+square, both streets are flanked by grimy buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1446
+D1
+~
+~
+0 0
+0 0 1448
+D2
+~
+~
+0 0
+0 0 1437
+D3
+~
+~
+0 0
+0 0 1440
+S
+#1446
+{yA Market Square{x~
+There are lots of colorful market stalls to be seen here in the
+northwestern corner of this busy plaza, each stall displays a multitude of
+goods both local and foreign.  The plaza is a vast square area, paved with
+large slabs of dull gray stone and bordered by white plaster covered
+buildings of varying shapes and sizes.  Most of the rundown structures
+appear to be houses; some of the buildings have small balconies that
+overlook the market.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1447
+D2
+~
+~
+0 0
+0 0 1445
+S
+#1447
+{yA Market Square{x~
+There are many colorful market stalls to be seen here in the northeastern
+corner of this busy square, each stall displays a multitude of goods both
+local and exotic.  The plaza is a vast area that has been paved with large
+slabs of dull gray stone and is bordered by white plaster covered buildings
+of varying shapes and sizes.  The majority of these rundown constructions
+appear to be houses although one unusually large building on the northern
+edge of the plaza has a painted blue door which marks it as an inn or a
+tavern.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1539
+D1
+~
+~
+0 0
+0 0 1477
+D2
+~
+~
+0 0
+0 0 1448
+D3
+~
+~
+0 0
+0 0 1446
+S
+#1448
+{yA Market Square{x~
+This is the southeastern corner of a large square plaza upon which a
+market has been set up.  Set up within the square are dozens of brightly
+decorated stalls, each stall displays a multitude of goods both local and
+foreign.  There are many buildings of varying sizes built around the
+perimeter of the plaza although most of the rundown structures appear to be
+houses; some of the buildings have small balconies that overlook the market.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1447
+D3
+~
+~
+0 0
+0 0 1445
+S
+#1449
+{yThe Harbor{x~
+This is the northern end of a long road that meanders by docks of the
+Rahad, overlooking a large bay.  Along one side of the road are many brick
+buildings, the bulk of these are tall brick structures whose exteriors have
+been covered with white plaster although much of it has flaked away.  Most
+of the buildings that overlook this road are warehouses although one or two
+workshops can be seen along this route.  A broad road that is also bordered
+by white buildings leads off from this point to the east.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1409
+D2
+~
+~
+0 0
+0 0 1450
+D3
+~
+~
+0 0
+0 0 1504
+S
+#1450
+{yThe Harbor{x~
+This is a very long thoroughfare that winds its way along docks of the
+Rahad, overlooking a large bay.  Along one side of the road are numerous
+brick buildings, the bulk of these are tall brick structures whose outer
+walls have been covered with white plaster.  Most of the buildings that
+overlook this thoroughfare are warehouses although one or two workshops can
+be seen along this route.  At the opposite side of the road are the docks
+themselves, there are many jetties jutting out into the bay and most of them
+have been constructed from dull gray stone.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1449
+D2
+~
+~
+0 0
+0 0 1451
+S
+#1451
+{yThe Harbor{x~
+This is a long road that meanders by docks of the Rahad, overlooking a
+large bay.  Along one side of the road are many brick buildings, most of
+these are tall brick structures whose exteriors have been covered with white
+plaster although much of the plaster has flaked away.  Most of the buildings
+that overlook this particular thoroughfare are warehouses although one or
+two workshops can be seen along this route.  At the opposite side of the
+road are the docks, there are many jetties jutting out into the bay, most of
+them have been constructed from dull gray stone.  
+~
+0
+0 5
+D0
+~
+~
+0 0
+0 0 1450
+D1
+~
+~
+0 0
+0 0 1452
+D3
+~
+~
+0 0
+0 0 1500
+S
+#1452
+{yThe Harbor{x~
+This is a long road that runs along docks of the Rahad, the thoroughfare
+bends sharply at this point.  Along one side of the long thoroughfare are
+many tall brick buildings that look rundown and in urgent need of repairs. 
+Most of the buildings that overlook this particular thoroughfare are
+warehouses although one or two workshops can be seen along this route.  At
+the opposite side of the road are the docks, there are many jetties jutting
+out into the bay, most of them have been constructed from dull gray stone. 
+There are quite a few boats secured at the docks but many more can be seen
+sailing in the bay.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1453
+D3
+~
+~
+0 0
+0 0 1451
+S
+#1453
+{yThe Harbor{x~
+This is a long road that runs along harbor that is perhaps one of the
+busiest parts of the Rahad.  Along one side of the long thoroughfare are
+many brick buildings, mainly warehouses and workshops.  The majority of the
+buildings in this section of the town look dilapidated with much of the
+white plaster used to coat their exteriors wearing away with age.  The air
+within this area has a salty tang to it, which originates from the bay to
+the west.  The bay and the many boats and ships that shelter within it can
+be seen from this point, there are quite a few boats secured at the docks
+but many more can be seen sailing.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1452
+D2
+~
+~
+0 0
+0 0 1454
+S
+#1454
+{yThe Harbor{x~
+This is a long thoroughfare that runs along docks of the Rahad, the
+thoroughfare bends sharply at this point.  To the west is the bay where
+hundreds of ships and boats can be seen sheltering within the relatively
+calm waters.  There are many types of ships to be seen moored at the harbor,
+from the massive Sea Folk ships to smaller vessels that probably belong to
+local fishermen.  To the east is the forest of brick buildings, broken up
+only by narrow streets.  A lot of the structures are five or six floors high
+and are covered with white plaster although most of the nearby buildings
+appear to be warehouses and workshops.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1453
+D1
+~
+~
+0 0
+0 0 1455
+D3
+~
+~
+0 0
+0 0 1472
+S
+#1455
+{yThe Harbor{x~
+This is a long road that runs along docks of the Rahad, the thoroughfare
+bends sharply at this point.  There are numerous tall buildings covered with
+white plaster built along one side of the road to the south of the bend,
+most of the structures appearing to be warehouses.  The road to the west of
+the bend gives a much clearer view of the bay where hundreds of ships and
+boats can be seen sheltering within the saltwater bay.  There are narrow
+streets that are flanked by white buildings that lead off from this point
+along the thoroughfare, one to the east and one to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1411
+D1
+~
+~
+0 0
+0 0 1413
+D2
+~
+~
+0 0
+0 0 1456
+D3
+~
+~
+0 0
+0 0 1454
+S
+#1456
+{yThe Harbor{x~
+This is a long road that runs along harbor that is perhaps one of the
+busiest parts of the Rahad.  There are hundreds of ships and boats to be
+seen sheltering within the saltwater bay to the west, from bulk fishing
+vessels to the more sleek and streamlined Sea Folk ships.  Overlooking the
+road and the bay to the east is a row of extremely tall structures,
+constructed from brick and stone, many of the buildings have been covered
+with white plaster.  Most of these buildings appear to be warehouses
+although one or two workshops can be seen among them.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1455
+D1
+~
+~
+3 3
+1 0 1523
+D2
+~
+~
+0 0
+0 0 1457
+S
+#1457
+{yThe Harbor{x~
+This is a long road that runs along docks of the Rahad.  Along the
+eastern side of the road are numerous tall buildings, assembled from brick
+and covered in white plaster.  Many of the buildings along this route are in
+a state of disrepair.  The air within this area has a salty aroma to it; the
+smell originates from the saltwater bay to the west.  Also from here the
+city of Ebou Dar can be seen at the opposite side of the bay, the city is a
+vast sprawl of white buildings with domes and spires decorated in red, blue
+and gold.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1456
+D1
+~
+~
+3 3
+1 0 1524
+D2
+~
+~
+0 0
+0 0 1458
+D3
+~
+~
+0 0
+0 0 1495
+S
+#1458
+{yThe Harbor{x~
+This is a long thoroughfare that winds its way along docks of the Rahad. 
+Along the eastern side of the road are numerous tall buildings, assembled
+from brick and covered in white plaster.  Many of the buildings along this
+route are in a state of disrepair.  A second, much narrower street that is
+flanked at both sides by white buildings leads off from this point to the
+east.  To the west the bay can be seen where there are many ships and boats
+moored at the stone docks but there are many more visible traveling along
+its water.  The vast city of Ebou Dar can also be seen from here in the
+distance along the far side of the bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1457
+D1
+~
+~
+0 0
+0 0 1427
+D2
+~
+~
+0 0
+0 0 1459
+S
+#1459
+{yThe Harbor{x~
+This is a very long thoroughfare that winds its way along docks of the
+Rahad.  Along the eastern side of the road are numerous tall buildings,
+constructed from brick and covered in white plaster.  Many of the buildings
+along this route are in a state of disrepair.  The air within this area has
+a salty tang to it, which originates from the bay to the west.  From this
+point along the road many ships and boats moored at the stone docks can be
+seen but many more visible traveling along its water.  The great city of
+Ebou Dar can also be seen from here in the distance along the far side of
+the bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1458
+D1
+~
+~
+3 3
+1 0 1525
+D2
+~
+~
+0 0
+0 0 1460
+D3
+~
+~
+0 0
+0 0 1473
+S
+#1460
+{yThe Harbor{x~
+This is a very long thoroughfare that winds its way along docks of the
+Rahad.  To the west lies the bay, there are ships and boats of all shapes
+and sizes can be seen moving along the water or moored in the harbor.  The
+great city of Ebou Dar can be seen in the distance along the far side of the
+bay; it is a vast sprawl of white buildings with domes and spires decorated
+in red, blue and gold.  Along the eastern side of the road are numerous tall
+buildings, constructed from brick and covered in white plaster.  Many of the
+buildings along this route are in a state of disrepair.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1459
+D1
+~
+~
+3 3
+1 0 1530
+D2
+~
+~
+0 0
+0 0 1461
+S
+#1461
+{yThe Harbor{x~
+This is a long road that winds its way along docks of the Rahad.  Along
+one side of the thoroughfare many warehouses and workshops have been built. 
+Most of the buildings have been constructed from brick and are in a bad
+state of repair.  At the opposite side of the road the harbor can be seen,
+there are many stone docks jutting out into the sheltered waters of the bay.
+Many boats and ships can be seen taking advantage of these waters, including
+a few Sea Folk vessels although many more such craft can be seen moored at
+the docks at the opposite side of the bay.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1460
+D1
+~
+~
+3 3
+1 0 1476
+D2
+~
+~
+0 0
+0 0 1462
+D3
+~
+~
+0 0
+0 0 1503
+S
+#1462
+{yThe Harbor{x~
+This is a long road that runs along docks of the Rahad.  Built along one
+side of this long thoroughfare are many brick buildings, mainly warehouses
+and workshops.  The bulk of the buildings in this section of the town look
+disheveled with much of the white plaster used to coat their exteriors
+flaking off.  The bay is visible from this point, there are many boats
+moored at the stone docks but many more can be seen traveling along its
+water.  The faint salty tang in the air is almost totally obscured by a
+pungent yet aromatic mixture of smells emanating from one building on the
+east side of this road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1461
+D1
+~
+~
+3 3
+1 0 1526
+D2
+~
+~
+0 0
+0 0 1463
+S
+#1463
+{yThe Harbor{x~
+This is the southern end of a long thoroughfare that runs along docks of
+the Rahad.  Along one side of the long thoroughfare are many brick
+buildings, mainly warehouses and workshops.  The majority of the buildings
+in this section of the town look disheveled with much of the white plaster
+used to coat their exteriors flaking off with age.  A narrow street that is
+also flanked by white buildings leads off from this point to the east.  The
+bay can be seen from this point, there are many boats moored at the stone
+docks but many more can be seen traveling along its water.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 1462
+D1
+~
+~
+0 0
+0 0 1425
+D3
+~
+~
+0 0
+0 0 1465
+S
+#1464
+{rThe Postmaster's Store{x~
+This is a tiny shop that has mainly been built from brick.  Parts of the
+building's timber frame protrude from the white plaster that covers the
+walls.  Dusty shelves line the walls of the shop, filled writing equipment
+such as paper, inks and pens.  At the center of the room is a wooden
+counter; behind the counter lies a rickety stairway leading to the upper
+floor of the shop, from which strange cooing noises can be heard.  A large
+window built in the southern side of the room is barely translucent from the
+dust accumulated upon its panes of glass; a doorway next to the window
+provides an exit onto a street outside.  
+~
+0
+DK 0
+D2
+~
+~
+3 3
+1 0 1432
+D4
+~
+~
+0 0
+0 0 1538
+S
+#1465
+{DA Stone Dock{x~
+This is one of the many jetties constructed from stone that jut out into
+a huge saltwater bay.  There are hundreds of ships and boats to be seen in
+the bay, either traveling along the grayish waters or moored at the jetties.
+To the east lies the Rahad, a stark contrast to the beauty of Ebou Dar; it
+is a vast sprawl of rundown buildings connected by a maze-like network of
+streets.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1493
+D1
+~
+~
+0 0
+0 0 1463
+S
+#1466
+{mZendrei's Curiosity Shop{x~
+This ramshackle establishment is either a treasure trove of unusual items
+or a dumping ground for useless junk.  The shelves and racks that adorn the
+plaster walls of this shop are littered with a variety of objects ranging
+from weapons and armor to trinkets and ornaments.  The only visible exit
+within this jungle of bric-a-brac is a doorway on the west side.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1412
+S
+#1467
+{DA Large Courtyard{x~
+This paved courtyard is almost totally encircled by buildings apart from
+the western border which is marked with a wall that has been covered with
+white plaster.  There is an archway that has been built into the wall;
+beyond the arch a long, twisting street can be seen.  Two of the buildings
+that overlook the courtyard seem particularly interesting.  There appears to
+be a small workshop to the south, dozens of wooden barrels and casks have
+been stacked outside the building.  A much larger building sits at the
+eastern side of the yard from which a strong, heady aroma of hops and malt
+emanates from.  
+~
+0
+C 1
+D1
+~
+~
+3 3
+1 0 1482
+D2
+~
+~
+3 3
+1 0 1470
+D3
+~
+~
+0 0
+0 0 1429
+S
+#1468
+{DA Large Courtyard{x~
+The main entrance into this courtyard is a large archway built into a
+ruddy brick wall along the northern perimeter whilst the other sides of the
+courtyard are marked by three white plaster covered buildings.  The smallest
+of the buildings lies to the west is a workshop that has numerous chimney
+stacks.  Built onto the side of the building is a veranda supported by
+painted wooden beams.  The building that lies on the south side of the
+courtyard has a similar porch build onto its facade and is used as a stable.
+On the east side of the yard is largest of the buildings which is an inn
+that is several storeys high.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1424
+D1
+~
+~
+3 3
+1 0 1546
+D2
+~
+~
+3 3
+1 0 1551
+D3
+~
+~
+3 3
+1 0 1471
+S
+#1469
+{DA Large Courtyard{x~
+The main entrance into this rectangular yard is a large archway built
+into a reddish-brown brick wall along the southern edge whilst the other
+sides of the courtyard are marked out by buildings.  The largest of these
+buildings is on the north side of the yard, it is a long rectangular
+structure whose exterior walls have been covered in white plaster.  The
+window frames, shutters and doors of the building have been painted crimson
+red, the same shade of red as the tiled roof.  This structure joins onto a
+second building that sits on the east side of the yard which appears to be a
+workshop.  
+~
+0
+C 1
+D0
+~
+~
+3 3
+1 0 1527
+D1
+~
+~
+3 3
+1 0 1529
+D2
+~
+~
+0 0
+0 0 1444
+S
+#1470
+{rJerein's Cooperage{x~
+This small workshop is a sturdy looking building that has been
+constructed from bricks and timbers.  Along one side of the room are several
+cupboards and drawers that have been painted blue.  There are woodworking
+tools littering a workbench that has been built above the cupboards.  A
+couple of shelves and racks have been fitted to the wall above the workbench
+and are being used to store tools.  There are three narrow windows have been
+built at the southern end of the workshop, each of these windows has been
+protected from intruders with thick iron bars.  The only exit from this
+workshop is the door on the north side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1467
+S
+#1471
+{BBlarid's Workshop{x~
+This particular blacksmith's workshop seems to be quite quiet despite the
+area being filled with the heat from the blazing forge.  The workshop
+appears to be well organized, the almost countless number of tools belonging
+to the owner of this establishment have been neatly arranged in racks that
+are fixed upon the brick walls.  A small wooden bench has been placed
+against one wall, apart from a folded shirt and cloak there does not appear
+to be anything else of interest.  There seems to be two exits, a narrow
+doorway on the northern side of the room and a much wider doorway on the
+eastern side of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1425
+D1
+~
+~
+3 3
+1 0 1468
+S
+#1472
+{DA Stone Dock{x~
+This is one of the many jetties built from stone that jut out into a
+large saltwater bay.  There are hundreds of ships and boats to be seen in
+the bay, either traveling along the grayish waters or moored at the jetties.
+The majority of the boats moored at the harbor appear to be local fishing
+vessels; an example of one such boat can be seen secured at this particular
+dock.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1498
+D1
+~
+~
+0 0
+0 0 1454
+S
+#1473
+{DA Stone Dock{x~
+This is one of the many jetties built from stone that poke out into a
+large saltwater bay.  There are hundreds of ships and boats to be seen in
+the bay, either traveling along the grayish waters or moored at the jetties.
+Also from this point the grand city of Ebou Dar can be seen across the
+waters of the bay, the city is a huge sprawl of white buildings with spires
+and domes decorated in blue, gold and red.  To the east lies the Rahad, a
+stark contrast to the beauty of Ebou Dar; it is a vast sprawl of rundown
+buildings connected by a maze-like network of streets.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1474
+D1
+~
+~
+0 0
+0 0 1459
+S
+#1474
+{yA Large Fishing Boat{x~
+This rather decrepit looking craft that has been secured at a stone dock
+appears to be a fishing boat that probably belongs to one of the Rahad
+fishermen.  What was once a fine robust vessel painted in bright colors is
+looks like a few pieces of driftwood nailed together to form the basic
+structure of a boat, with very little of the original paint remaining.  The
+bedraggled sails of this fishing boat look like they have been patched many
+times over the course of their existence and probably could serve better as
+nets than as sails.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1473
+D3
+~
+~
+0 0
+0 0 1475
+S
+#1475
+{yA Large Fishing Boat{x~
+This especially decrepit looking craft appears to be a fishing boat that
+probably belongs to one of the local fishermen of the Rahad.  What was once
+a fine robust vessel painted in bright colors is looks like a few pieces of
+driftwood nailed together to form the basic shape of a boat, with very
+little of the original paintwork remaining.  The bedraggled sails of this
+fishing boat look like they have been patched many times over the course of
+their existence and probably could serve better as nets than as sails.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1474
+S
+#1476
+{DA Large Warehouse{x~
+This warehouse is a massive gray stone structure that is approximately
+square in shape with a low sloping roof supported by thick pillars made out
+of gray stone.  The floor of the enclosure has been paved with thick slabs
+of dull gray stone that are irregular in shape.  Hundreds of wooden barrels
+and casks of varying sizes have been stacked carefully within these four
+walls; each barrel appears to be branded with symbols that probably used to
+denote their owner and contents.  Perhaps the only other thing of interest
+within this area is the pair of wide wooden doors at the west side of the
+room marking the exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1461
+S
+#1477
+{rA Brick Archway{x~
+This is an archway constructed from reddish-brown bricks.  The tunnel is
+approximately thirty paces in length and tall and wide enough to allow a
+cart to pass through it with relative ease.  Some of the stones used to pave
+the ground have become loose through wear and tear allowing clumps of weeds
+to poke through to the surface.  At the western end is a large plaza tiled
+with gray stone slabs which is the site of a large and colorful market and
+at the eastern end of the archway is a much duller sight of a muddy yard.  
+~
+0
+CD 1
+D1
+~
+~
+0 0
+0 0 1478
+D3
+~
+~
+0 0
+0 0 1447
+S
+#1478
+{gThe Roaming Gleeman{x - {yA Muddy Yard{x~
+The yard consists of a large muddy area enclosed by a large white
+plaster-covered building along the northern edge and a tall brick wall. 
+Tufts of weeds poke through the muddy ground that is rutted with the tracks
+of carts, wagons and horses.  There are two exits from this area, a door
+leading into the white building and an archway built into the brick wall
+along the west side of the yard.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 1479
+D3
+~
+~
+0 0
+0 0 1477
+S
+#1479
+{gThe Roaming Gleeman{x - {yA Kitchen{x~
+This is a busy kitchen but despite its large size the room looks plain. 
+White plaster covers the walls of the room while the floor has been clad
+with gray flagstones.  Built into the western end of the room is a big
+fireplace complete with a stove and a meat spit.  Numerous cupboards,
+drawers and shelves have been fitted in the kitchen, one they were painted
+in bright and vivid colors but now the paintwork has faded with age and
+flaking away in some areas.  There appear to be only two exits, a door on
+the northern side of the room and another one on the opposite side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1480
+D2
+~
+~
+3 3
+1 0 1478
+S
+#1480
+{gThe Roaming Gleeman{x - {yA Long Corridor{x~
+This is the eastern end of a long corridor inside one of the Rahad's many
+inns.  The walls have been left bare at this part of the room, revealing the
+mishmash of bricks, stone and wooden timbers that were used to construct the
+inn.  Along the hallway are quite a few sturdy appearing doors that mark the
+entranceways into other sections of the inn.  Also placed at set intervals
+along the walls of the corridor are hooks used for hanging lamps.  At this
+end of the corridor is a steep flight of steps leading into the upper parts
+of the inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1481
+D2
+~
+~
+3 3
+1 0 1479
+D3
+~
+~
+0 0
+0 0 1543
+D4
+~
+~
+0 0
+0 0 1566
+S
+#1481
+{gThe Roaming Gleeman{x - {yA Private Dining Room{x~
+This private dining room is a bland square room with plain plaster walls
+and an almost equally bare timber floor.  Tattered curtains frame the
+windows along the north side of the room that look out onto the Rahad's
+myriad of twisting streets.  A plain woolen rug has been placed at the foot
+of the fireplace on the west side of the room.  The only visible exit from
+this room is a doorway on the south side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1480
+S
+#1482
+{mThe Rahad Brewery{x~
+This is a large roofed enclosure that is supported by brick pillars.  The
+floor of the enclosure has been paved with thick slabs of dull gray stone. 
+A strong, heady aroma of hops and malt hangs in the air, the smell is almost
+intoxicating.  There are four pairs of wooden doors that are large enough
+for a small cart and horse to pass though.  The doors at the northern and
+southern sides of the area appear to be guarded by large thug-like men, the
+doors at the western and eastern sides appear strangely void of such guard. 
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1483
+D3
+~
+~
+3 3
+1 0 1467
+S
+#1483
+{DA Huge Warehouse{x~
+This is the northwestern corner of an enormous warehouse.  The gray stone
+building is approximately square in shape; its low sloping roof appears to
+be supported by thick pillars made out of gray stone.  The floor of the
+enclosure has been paved with thick slabs of dull gray stone that are
+irregular in shape.  Perhaps the only other thing of interest within this
+area is the pair of wide wooden doors at the western side of the room
+marking the exit.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 1484
+D2
+~
+~
+0 0
+0 0 1486
+D3
+~
+~
+3 3
+1 0 1482
+S
+#1484
+{DA Huge Warehouse{x~
+This is the northeastern corner of a huge warehouse.  The gray stone
+building is approximately square in shape with a low sloping roof that is
+supported by thick pillars made out of gray stone.  The floor of the
+warehouse has been covered with thick slabs of dull gray stone that are
+irregular in shape.  Several spluttering oil lanterns hung upon hooks fixed
+to the support pillars provide some light to this otherwise dark and eerie
+place.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 1485
+D3
+~
+~
+0 0
+0 0 1483
+S
+#1485
+{DA Huge Warehouse{x~
+This is the southeastern corner of a colossal warehouse.  The dull gray
+stone building is approximately square in shape with a low sloping roof that
+is supported by thick pillars that are also made out of gray stone.  The
+floor of the warehouse has been covered with large slabs of dreary gray
+stone that are shaped slightly irregularly.  Placed around the warehouse are
+several spluttering oil lanterns that have been hung upon hooks fixed to the
+support pillars; each lantern provides illumination to this otherwise
+shadowy and sinister place.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1484
+D3
+~
+~
+0 0
+0 0 1486
+S
+#1486
+{DA Huge Warehouse{x~
+This is the southwestern corner of a vast warehouse.  The dull gray stone
+building is approximately square in shape with a low sloping roof that is
+supported by thick pillars that are also made out of gray stone.  The floor
+of the warehouse has been covered with large slabs of monotonous gray stone
+that are slightly irregular in shape.  Dotted around the warehouse are
+several spluttering oil lanterns that have been hung upon hooks fixed to the
+support pillars; each lantern provides some light to this otherwise dark and
+creepy place.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1483
+D1
+~
+~
+0 0
+0 0 1485
+S
+#1487
+{DA Dusty Building{x - {cA Long Corridor{x~
+This is a long corridor belonging to a particularly old and dilapidated
+building.  The area is generally shadowy and grimy with thick cobwebs
+covering a lot of the place.  The walls of the building have been left bare,
+revealing the brickwork and thick timber frames that make up the structure. 
+Within the shadows a steep wooden staircase can be seen that provides a way
+to the next floor of the building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1489
+D2
+~
+~
+3 3
+1 0 1442
+D3
+~
+~
+3 3
+1 0 1490
+D4
+~
+~
+0 0
+0 0 1512
+D5
+~
+~
+3 3
+1 0 1488
+S
+#1488
+{DA Dusty Building{x - {cA Dark Cellar{x~
+Numerous wooden crates and barrels have been stacked against the walls of
+this dank and dingy cellar belonging to a particularly old and dilapidated
+building.  The area is generally shadowy and grimy with thick cobwebs
+covering a lot of the place.  The walls of the cellar have been left bare,
+revealing the damp brickwork and thick timber frames that make up the
+structure.  The floor appears to be tiled in slabs of gray stone that are
+almost freezing to touch.  A rickety wooden ladder has been fixed to one of
+the walls of the cellar providing a way to reach the small wooden trapdoor
+that has been set in the ceiling.  
+~
+0
+AD 0
+D4
+~
+~
+3 3
+1 0 1487
+S
+#1489
+{DA Dusty Building{x - {BCafim's Armor Store{x~
+This damp yet dusty room appears being used as a temporary shop.  Both
+the wooden boards that make up the floor of the room and the white plaster
+walls have turned a grubby gray color from dirt.  The room is dominated by a
+large counter that has been placed in the center of the room.  There are a
+variety of types of armor on display on racks fixed upon the walls.  A small
+window fitted with shutters gives a view of the streets.  Apart from a small
+doorway at the eastern end of the room that appears to be bolted the only
+visible exit in this room is a door on the opposite side of the room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1487
+S
+#1490
+{DA Dusty Building{x - {RTemin's Weapons Store{x~
+This dank and dusty room is being used as a makeshift shop.  The white
+plaster used to cover the walls has turned a grimy gray color from dirt and
+the bare wooden floorboards of the room appear to not fare any better.  The
+room is dominated by a large counter placed in the center of the room. 
+There are various types of weapons on display on racks fixed upon the walls.
+A small window fitted with shutters gives a view of one of the streets
+outside.  Apart from a small doorway at the western end of the room that
+appears to be bolted the only visible exit in this room is a door on the
+opposite side of the room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1487
+S
+#1491
+{WThe Weaponsmith's Shop{x~
+There does not appear to be anything out of the ordinary about this
+particular shop.  The shop has been set up in a particularly small building.
+A large wooden counter that has been placed in the center of the room seems
+to take up most of the area on the shop floor.  An assortment of weapons has
+been placed on display on wooden racks along the far wall including swords,
+spears and daggers.  There are only two exits out of this area, a small door
+at the back of the shop that probably leads to a storage area or the
+shopkeeper's quarters and a much larger doorway that provides an exit back
+into the busy streets of the Rahad.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1432
+S
+#1492
+{CBruin's Blade Emporium{x~
+There does not appear to be anything out of the ordinary about this shop.
+The shop has been set up in a particularly small building; the counter that
+has been placed in the center of the room seems to take up most of the area
+on the shop floor.  An assortment of weapons has been placed on display on
+wooden racks along the far wall including swords, spears and daggers.  There
+appears to be only two exits out of this area, a small door at the back of
+the shop that probably leads to a storage area or the shopkeeper's quarters
+and a much larger doorway that provides an exit back into the busy streets
+of the Rahad.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1435
+S
+#1493
+{yA Large Fishing Boat{x~
+This mostly shabby looking craft that has been moored at a stone dock
+appears to be a fishing boat that probably belongs to one of the Rahad
+fishermen.  What was once a fine sturdy vessel painted in bright colors is
+looks like a few pieces of flotsam nailed together to form the basic
+structure of a boat, with very little of the original paintwork remaining. 
+The bedraggled sails of this fishing boat look like they have been patched
+many times over the course of their existence and probably could serve
+better as nets than as sails.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1465
+D3
+~
+~
+0 0
+0 0 1494
+S
+#1494
+{yA Large Fishing Boat{x~
+This particularly shabby looking craft appears to be a fishing boat that
+probably belongs to one of the local fishermen of the Rahad.  What was once
+a fine sturdy vessel painted in bright colors is looks like a few pieces of
+driftwood nailed together to form the basic shape of a boat, with very
+little of the original paint remaining.  The tattered sails of this fishing
+boat look like they have been patched many times over the course of their
+existence and probably could serve better as nets than as sails.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1493
+S
+#1495
+{DA Stone Dock{x~
+Here is one of the numerous jetties constructed from stone that protrude
+into a great saltwater bay.  There are hundreds of ships and boats to be
+seen in the bay, either traveling along the grayish waters or moored at the
+jetties.  Most of the vessels within the bay seem to be local fishing
+vessels although there are many cargo ships; one such ship can be seen
+secured at this dock.  Overlooking the docks to the east are tall
+warehouses, their exterior walls were once covered with white plaster but
+patches of the brick beneath the plaster have been revealed.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1496
+D1
+~
+~
+0 0
+0 0 1457
+S
+#1496
+{yA Large Ship{x~
+This is just a small and bulky vessel used mainly to carry cargo; it
+lacks the sleekness and the grace of the vessels that belong to the Atha'an
+Miere.  Perhaps in the past this craft was a fine sight to behold but now it
+looks neglected, much of the paintwork has faded or flaked away and the
+sails have had so many repairs done to them they look like patchwork quilts.
+Apart from the grayish waters of the harbor there only appears to be one
+exit from this ship, a wooden gangplank leading the stone dock which the
+ship is moored at.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1495
+D3
+~
+~
+0 0
+0 0 1497
+S
+#1497
+{yA Large Ship{x~
+This ship lacks the sleekness and the elegance of the ships that belong
+to the Sea Folk.  It is a small yet bulky vessel used mainly to carry cargo
+although it is doubtful that this vessel would be able to withstand long
+journeys for it looks like it is in a bad state.  Perhaps in the past this
+vessel was a fine sight to behold but now it looks neglected, much of the
+paintwork has faded or flaked away and the sails have had so many repairs
+done to them they look like patchwork quilts.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1496
+S
+#1498
+{yA Large Fishing Boat{x~
+This particularly rundown looking craft that has been secured at a stone
+dock probably belongs to one of the local fishermen of the Rahad.  What was
+once a fine robust vessel painted in bright colors is looks like a few
+pieces of driftwood nailed together to form the basic structure of a boat,
+with very little of the original paintwork remaining.  The bedraggled sails
+of this fishing boat look like they have been repaired many times over the
+course of their existence and probably could serve better as nets than as
+sails.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1472
+D3
+~
+~
+0 0
+0 0 1499
+S
+#1499
+{yA Large Fishing Boat{x~
+This especially rundown looking craft is a fishing boat that probably
+belongs to one of the local fishermen of the Rahad.  What was once a fine
+robust vessel painted in bright colors is looks like a few pieces of
+driftwood fixed together to form the basic shape of a boat, with very little
+of the original paint remaining.  The tattered sails of this fishing boat
+look like they have been repaired many times over the course of their
+existence and probably could serve a better purpose as nets than as sails.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1498
+S
+#1500
+{DA Stone Dock{x~
+This stone dock provides an excellent of the bay that lies between the
+city of Ebou Dar to the west across the cold gray waters and the Rahad that
+lies nearby to the east.  There are hundreds of ships and boats to be seen
+in the bay, either traveling along the grayish waters or moored at the
+jetties.  Overlooking the docks to the east are tall warehouses, their
+exterior walls were once covered with white plaster but patches of the brick
+beneath the plaster have been revealed.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1501
+D1
+~
+~
+0 0
+0 0 1451
+D5
+~
+~
+4096 4096
+0 0 1351
+S
+#1501
+{yA Large Ship{x~
+This is just a small and bulky vessel used mainly to carry cargo; it
+lacks the slenderness and the elegance of the vessels that belong to the
+Atha'an Miere.  Perhaps in the past this craft was a fine sight to behold
+but now it looks mistreated, much of the paintwork has faded or flaked away
+and the sails have had so many repairs done to them they look like patchwork
+quilts.  Apart from the grayish waters of the harbor there only appears to
+be one exit from this ship, a timber gangplank leading the stone dock which
+the ship is moored at.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1500
+D3
+~
+~
+0 0
+0 0 1502
+S
+#1502
+{yA Large Ship{x~
+This ship lacks the slenderness and the grace of the ships that belong to
+the Sea Folk.  It is a small yet bulky vessel used mainly to carry cargo
+although it is doubtful that this vessel would be able to withstand long
+journeys for it looks like it is in a pitiful state.  Perhaps in the past
+this vessel was a fine sight to behold but now it looks uncared for, much of
+the paintwork has flaked or faded away and the sails have had so many
+repairs done to them they look like patchwork quilts.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1501
+S
+#1503
+{DA Stone Dock{x~
+Here is one of the numerous jetties built from stone that jut out into a
+big saltwater bay.  There are hundreds of ships and boats to be seen in the
+bay, either traveling along the grayish waters or moored at the jetties. 
+Among the most magnificent vessels within the bay are the ones that belong
+to the Atha'an Miere.  An example of one of the Sea Folks' fine ships, a
+Soarer is moored at this particular dock.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1509
+D1
+~
+~
+0 0
+0 0 1461
+S
+#1504
+{DA Stone Dock{x~
+This stone dock provides an excellent of the bay that lies between the
+city of Ebou Dar to the west across the cold gray waters and the Rahad that
+lies nearby to the east.  There are hundreds of ships and boats to be seen
+in the bay, either traveling along the grayish waters or moored at the
+jetties.  Among the most impressive vessels within the bay are the ones that
+belong to the Atha'an Miere.  An example of one of the Sea Folks' fine
+ships, a Raker is moored at this dock.  A short road leads away from this
+dock eastward towards the Rahad, a vast sprawl of rundown buildings
+connected by a maze-like network of streets.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 1505
+D1
+~
+~
+0 0
+0 0 1449
+S
+#1505
+{bAboard The Stormdancer{x~
+The Stormdancer belongs to the largest of all the classes of Sea Folk
+shops, the Raker.  This ship is approximately a hundred paces in length,
+much larger and faster than any of the other non-Sea Folk vessels within the
+harbor.  The ship is narrow for its length and has three towering masts
+amidships and one shorter on the raised deck at the stern.  Bridging the gap
+between this ship and the dock that it is moored at is a wide wooden plank
+on the port side.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1506
+D2
+~
+~
+0 0
+0 0 1504
+D3
+~
+~
+0 0
+0 0 1507
+S
+#1506
+{bThe Stern Of The Stormdancer{x~
+The Stormdancer belongs to the largest of all the classes of Sea Folk
+shops, the Raker.  This ship is approximately a hundred paces in length,
+much larger and faster than any of the other non-Sea Folk vessels within the
+harbor.  The ship is narrow for its length and has three towering masts
+amidships and one shorter on the raised deck at the stern.  Also unlike
+other non-Sea Folk vessels, there is no sign of this ship's tiller on the
+raised stern deck which may lead to the question of how is this ship
+steered?  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 1505
+S
+#1507
+{bThe Stormdancer{x~
+The Stormdancer belongs to the largest of all the classes of Sea Folk
+shops, the Raker.  This ship is approximately a hundred paces in length,
+much larger and faster than any of the other non-Sea Folk vessels within the
+harbor.  The ship is narrow for its length and has three towering masts
+amidships and one shorter on the raised deck at the stern.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1505
+D3
+~
+~
+0 0
+0 0 1508
+S
+#1508
+{bThe Bow Of The Stormdancer{x~
+The Stormdancer belongs to the largest of all the classes of Sea Folk
+shops, the Raker.  This ship is approximately a hundred paces in length,
+much larger and faster than any of the other non-Sea Folk vessels within the
+harbor.  The ship is narrow for its length and has three towering masts
+amidships and one shorter on the raised deck at the stern.  The bow of this
+ship offers an excellent view of the busy bay and the grand sprawl of white
+buildings that lie on the opposite side of the waters known as the city of
+Ebou Dar.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1507
+S
+#1509
+{bAboard The Mistcutter{x~
+The Mistcutter belongs to the Soarer class of Sea Folk Vessels, one the
+fastest of all ships including other vessels belonging to the Sea Folk. 
+Much sleeker than other non-Sea Folk vessels, the Mistcutter almost looks
+alien with its two tall masts raked back sharply and spars laid across them
+squarely.  Also unlike other non-Sea Folk vessels, there is no sign of this
+ship's tiller on the raised stern deck which may lead to the question of how
+is this ship steered?  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 1503
+D3
+~
+~
+0 0
+0 0 1510
+S
+#1510
+{bAboard The Mistcutter{x~
+The Mistcutter belongs to the Soarer class of Sea Folk Vessels and is
+among the fastest of all ships including other vessels possessed by the Sea
+Folk.  Much sleeker than other non-Sea Folk vessels, the Mistcutter almost
+looks alien with its two tall masts raked back sharply and spars laid across
+them squarely.  Bridging the gap between this ship and the dock that it is
+moored at is a wide wooden plank on the port side.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1509
+D3
+~
+~
+0 0
+0 0 1511
+S
+#1511
+{bThe Bow Of The Mistcutter{x~
+The Mistcutter belongs to the Soarer class of Sea Folk Vessels and is
+among the fastest of all ships.  Much sleeker than other non-Sea Folk
+vessels, the Mistcutter almost looks alien with its two tall masts raked
+back sharply and spars laid across them squarely.  The bow of this ship
+offers an excellent view of the busy bay and the huge city that lie on the
+opposite side of the waters known as Ebou Dar.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 1510
+S
+#1512
+{DA Dusty Building{x - {cA Narrow Corridor{x~
+This is a long corridor belonging to a rather old and decrepit building. 
+The area is generally shadowy and grimy with thick cobwebs covering much of
+the place.  The walls of the building have been left bare, revealing the
+brickwork and thick timber beams that make up the structure.  Within the
+shadows a steep wooden staircase can be seen that offers a way to the lower
+levels of the building.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1515
+D1
+~
+~
+3 3
+1 0 1514
+D3
+~
+~
+3 3
+1 0 1513
+D5
+~
+~
+0 0
+0 0 1487
+S
+#1513
+{DA Dusty Building{x - {cA Dingy Room{x~
+This is a particularly dingy room situated in one of the many dilapidated
+buildings in the Rahad.  The timber floorboards are grubby with age while
+the graying plaster is flaking off the walls and revealing the wooden
+lathing that lies beneath.  There is a window on the west side of the room
+that overlooks the labyrinth of streets that wind their way through the
+urban sprawl.  There is only one exit from this room, a door on the east
+side.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1512
+S
+#1514
+{DA Dusty Building{x - {mAn Artist's Studio{x~
+From all the junk and apparel that litters the area it may be assumed
+that an artist owns this room.  This room is in the same grubby state as the
+rest of the building, its timber floorboards are grubby with age while the
+graying plaster is flaking off the walls and revealing the wooden lathing
+that lies underneath.  There is a pair of windows on the east side of the
+room that looks out over the maze of streets that wind their way through the
+urban sprawl.  There is only one exit from this room, a door on the west
+side.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1512
+S
+#1515
+{DA Dusty Building{x - {cA Dingy Room{x~
+This is a fairly dingy room located in one of the many ramshackle
+buildings that forms the Rahad.  The wooden floorboards are grubby with age
+while the graying plaster is flaking off the walls and revealing the timber
+lathing that lies beneath.  There is a window on the north side of the room
+that looks over the warren of streets that wind their way through the
+neighborhood.  There is only one exit from this room, a door on the south
+side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1512
+S
+#1516
+{mA Grimy Building{x - {cA Long Hallway{x~
+This is a long hallway belonging to a particularly old and rundown
+building.  The area is generally dark and dusty with thick cobwebs covering
+much of the place.  The walls of the building have been left bare, revealing
+the brickwork and thick timber frames that make up the structure.  Within
+the darkness a steep wooden staircase can be seen that provides a way to the
+next floor of the building.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1517
+D2
+~
+~
+3 3
+1 0 1443
+D3
+~
+~
+3 3
+1 0 1519
+D4
+~
+~
+0 0
+0 0 1520
+S
+#1517
+{mA Grimy Building{x - {yA Bowyer's Workshop{x~
+This is a small room, roughly square in shape that is being used as a
+workshop.  One side of the room has been dedicated to the construction of
+bows while the along the adjacent side of the room are display cases used to
+show the bowyer's wares.  There are two exits from this room, a door on the
+north side and a much sturdier, iron-braced door on the west side.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1518
+D3
+~
+~
+3 3
+1 0 1516
+S
+#1518
+{mA Grimy Building{x - {yA Small Storeroom{x~
+This is a small room, roughly square in shape that is being used as
+storage facilities.  The dull brown brick walls of the room are void of any
+decoration and the bare wooden floorboards have deep impressions upon them
+that suggest that something heavy may have been dragged though this area,
+probably the crates and boxes.  At the southern end of the room is a
+nondescript door that leads out into a bowyer's workshop.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1517
+S
+#1519
+{mA Grimy Building{x - {bA Pawn Broker's Shop{x~
+Although this shop is rather small it is a treasure trove of different
+items ranging from weapons and armor to gold and jewelry.  The display in
+the large wooden rack on the east side of the shop is comprised of the
+finest items that are being sold within the shop including swords, spears
+and shields.  The only exit out of this establishment appears to be the
+doorway at the eastern end of the room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1516
+S
+#1520
+{mA Grimy Building{x -{c A Narrow Corridor{x~
+This is a long hallway belonging to a rather old and neglected building. 
+The area is generally dark and filthy with thick cobwebs covering a lot of
+the place.  The walls of the building have been left bare, revealing the
+masonry and thick wooden support frames that make up the structure.  Within
+the darkness a pair steep wooden staircases can be seen that provides ways
+to the upper and lower floors of the building.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1521
+D1
+~
+~
+3 3
+1 0 1522
+D5
+~
+~
+0 0
+0 0 1516
+S
+#1521
+{mA Grimy Building{x - {cA Dingy Room{x~
+This is a rather dingy room located in one of the many rundown buildings
+in the Rahad.  The wooden floorboards are grubby with age while the graying
+plaster is flaking off the walls and revealing the wooden lathing that lies
+beneath.  There is a window on the north side of the room that looks over
+the warren of streets that wind their way through the urban sprawl.  There
+is only one exit from this room, a door on the south side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1520
+S
+#1522
+{mA Grimy Building{x - {cA Dingy Room{x~
+This is a particularly dingy room situated in one of the many neglected
+buildings that forms the Rahad.  The timber floorboards are grubby with age
+while the graying plaster is flaking off the walls and revealing the timber
+lathing that lies beneath.  There is a window on the east side of the room
+that overlooks the maze of streets that wind their way through the
+neighborhood.  There is only one exit from this room, a door on the west
+side.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1520
+S
+#1523
+{DA Large Warehouse{x~
+This warehouse is a huge gray stone building that is approximately square
+in shape with a low sloping roof supported by thick gray stone pillars.  The
+floor of the area has been paved with thick slabs of dull gray stone that
+are irregular in shape.  Scores of wooden barrels and casks of varying sizes
+have been stacked neatly within these four walls, each barrel appears to be
+branded with symbols that probably used to denote each barrel's owner and
+contents.  Perhaps the only other thing of interest within this area is the
+pair of wide wooden doors at the west side of the room marking the exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1456
+S
+#1524
+{DA Large Warehouse{x~
+This warehouse is a big gray stone building that is roughly square in
+shape with a low sloping roof supported by thick pillars made out of gray
+stone.  The floor of the enclosure has been paved with thick slabs of dull
+gray stone that are irregular in shape.  Hundreds of wooden barrels and
+casks of varying sizes have been stacked neatly within these four walls;
+each barrel appears to be branded with symbols that probably used to denote
+their owner and contents.  Perhaps the only other thing of interest within
+this area is the pair of wide wooden doors at the west side of the room
+marking the exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1457
+S
+#1525
+{DA Large Warehouse{x~
+This warehouse is a enormous gray stone structure that is approximately
+square in shape with a low sloping roof supported by thick gray stone
+pillars.  The floor of the enclosure has been paved with thick slabs of dull
+gray stone that are irregular in shape.  Hundreds of wooden barrels and
+casks of varying sizes have been stacked tidily within these four walls,
+each barrel appears to be branded with symbols that probably used to denote
+each barrel's owner and contents.  Perhaps the only other thing of interest
+within this area is the pair of wide wooden doors at the west side of the
+room marking the exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1459
+S
+#1526
+{DA Large Warehouse{x~
+This warehouse is a large gray stone construction that is roughly square
+in shape with a low sloping roof supported by thick pillars made out of gray
+stone.  The floor of the enclosure has been paved with thick slabs of dull
+gray stone that are irregular in shape.  Hundreds of wooden barrels and
+casks of varying sizes have been stacked tidily within these four walls;
+each barrel appears to be branded with symbols that probably used to denote
+their owner and contents.  Perhaps the only other thing of interest within
+this area is the pair of broad wooden doors at the west side of the room
+marking the exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1462
+S
+#1527
+{yA Tannery{x~
+It is of little surprise that this building has been built on the
+northern edge of the Rahad away from both the residential and main
+commercial quarters of the city; the putrid smell that pollutes the air of
+this area is hardly welcoming.  This large square room appears to serve as
+an entrance hall, it is plain yet spacious and the walls have been left bare
+brick and timbers whilst the floor of the room has been tiled with gray
+stone.  At the east side of the room is a set of double doors; placed beside
+the doors are several large wooden barrels that appear to be empty although
+they still emit a rancid odor.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1528
+D2
+~
+~
+3 3
+1 0 1469
+S
+#1528
+{yA Large Storehouse{x~
+This large rectangular room appears to serve as a storage room, it is
+plain yet spacious and the walls have been left bare brick and timers whilst
+the floor of the room has been tiled with slabs of gray stone.  Wooden
+shelves and racks have been fitted to the north wall of the storage area and
+are used to store the prepared leather before distribution.  There appears
+to be only two exits from this room, a set of double doors to the west and
+another pair of doors to the south.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1529
+D3
+~
+~
+3 3
+1 0 1527
+S
+#1529
+{YJashon's Workshop{x~
+This is a workshop for making saddles, bridles and other pieces of horse
+riding equipment.  It is a plain yet spacious room with its walls left bare
+brick and timbers whilst the floor of the room has been tiled with slabs of
+gray stone.  The saddler's tools have been placed neatly in lockers and
+racks fitted above the workbench along the east side of the room and
+completed items waiting for collection have been stored neatly on racks
+along the adjacent wall.  There are two exits from this workshop, a pair of
+doors on north side leading into a storehouse and a sturdy door on west side
+that leads out onto a courtyard.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 1528
+D3
+~
+~
+3 3
+1 0 1469
+S
+#1530
+{DA Large Warehouse{x~
+This warehouse is a large gray stone building that is roughly square in
+shape with a low sloping roof supported by thick gray stone pillars.  The
+floor of the enclosed space has been paved with thick slabs of dull gray
+stone that are irregular in shape.  Hundreds of wooden barrels and casks of
+varying sizes have been stacked neatly within these four walls, each barrel
+appears to be branded with symbols that probably used to denote each
+barrel's owner and contents.  Perhaps the only other thing of interest
+within this area is the pair of broad wooden doors at the west side of the
+room marking the exit.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1460
+S
+#1531
+{rThe Charging Boar Inn{x - {yThe Common Room{x~
+This is the northern end of a long rectangular common room.  It looks
+like a fairly rundown establishment with much of the aged paintwork either
+faded or flaking off.  Sawdust has been scattered across the floor in an
+attempt to cover the heavy scuff marks and blood stains that have marred the
+wooden floorboards.  There is a large window on the western side of the room
+gives an uninspiring view of a dark alleyway that runs behind the tavern and
+at the opposite side of the room to the east is a small set of wooden steps
+that leads upwards to a large wooden door which has been painted blue.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1416
+D2
+~
+~
+0 0
+0 0 1532
+S
+#1532
+{rThe Charging Boar Inn{x - {yThe Common Room{x~
+This is the southern end of a long rectangular room that is being used as
+a common room.  It is a badly maintained drinking establishment with much of
+the aged paintwork either faded or flaking off.  Sawdust has been strewn
+across the floorboards in an attempt to cover the heavy scrape marks and
+blood stains that have blemished the floor.  A rickety wooden staircase that
+is almost gray with dirt and grime leads upwards to the upper level of the
+inn.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1531
+D4
+~
+~
+0 0
+0 0 1533
+S
+#1533
+{rThe Charging Boar Inn {x- {yA Short Corridor{x~
+This is a short corridor constructed within a building that is badly
+maintained with much of the aged paintwork either faded or flaking off.  A
+couple of spluttering oil lanterns provides light within this otherwise dark
+and eerie place.  There is a sickly aroma of tabac smoke, stale ale and wine
+drifting upwards from the rickety wooden staircase that dominates this area.
+There are several painted doors along this corridor although none of them
+look particularly inviting.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1534
+D1
+~
+~
+3 3
+1 0 1535
+D2
+~
+~
+3 3
+1 0 1536
+D3
+~
+~
+3 3
+1 0 1537
+D5
+~
+~
+0 0
+0 0 1532
+S
+#1534
+{rThe Charging Boar Inn{x - {yA Guest Room{x~
+This sparsely furnished room serves as a guest room within a large inn. 
+The white plaster covered walls and the wooden floorboards have been left
+almost bare although the accumulation of dirt within this area has turned
+the walls and floor of this room several grimy shades of gray.  The few
+items of furniture used to furnish this room look old, battered and in need
+of general repairs; there is a bed, a wardrobe, a desk, a chair and a
+washstand.  At the northern end of the room is a large window in this room
+framed with a pair of slightly tatty curtains and overlooks the streets of
+the Rahad.  At the opposite side of the room is a large wooden doorway that
+marks the exit out of the guest room.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1533
+S
+#1535
+{rThe Charging Boar Inn{x - {yA Guest Room{x~
+This is a particularly dull looking guest room belonging to a large inn. 
+The white plaster that covers other walls of the room is now a pale shade of
+gray from the accumulation of dirt over the years.  The wooden floorboards
+have been left almost completely bare except for a small rug that has been
+placed at the center of the room.  The few items of furniture used to
+furnish this room look old, battered and in need of general repairs; there
+is a bed, a wardrobe, a desk, a chair and a washstand.  At the eastern end
+of the room is a large window in this room framed with a pair of tattered
+curtains.  At the opposite side of the room is a large wooden doorway that
+marks the exit out of the guest room.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1533
+S
+#1536
+{rThe Charging Boar Inn{x - {yA Guest Room{x~
+There is nothing especially exciting within this dull looking guest room.
+The white plaster that covers other walls of the room is now a pale shade of
+gray from the accumulation of dirt over the years.  The wooden floorboards
+have been left almost completely bare apart from a small rug that has been
+placed in the middle of the room.  A few items of furniture have been placed
+within the room although most of them look like they are on the verge of
+falling to pieces.  As well as a bed there is also a small desk and chair, a
+chest of drawer and a washstand.  At the southern end of the room is a large
+window in this room framed with a pair of threadbare curtains.  At the
+opposite side of the room is a large wooden doorway that marks the exit out
+of the guest room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1533
+S
+#1537
+{rThe Charging Boar Inn{x - {yA Guest Room{x~
+This plainly furnished room serves as a guest room within a particularly
+large inn.  The white plaster that covers other walls of the room is now a
+pale shade of gray from the accumulation of grime over the years.  A frayed
+woolen rug has been placed at the center of the room but it fails to
+disguise the grimy wooden floorboards that are almost gray in color.  A few
+items of furniture have been placed within the room although most of them
+look like they are on the verge of falling to pieces.  As well as a bed
+there is also a small desk and chair, a chest of drawer and a washstand. 
+There is a large rectangular window framed by a pair of threadbare curtains
+at the eastern end of the room.  At the opposite side of the room is a large
+wooden doorway that marks the exit out of the guest room.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1533
+S
+#1538
+{rThe Postmaster's Store{x - {cA Tiny Attic{x~
+There are two exits from this tiny attic, a rickety wooden stairway that
+leads downwards and an arched window built into the north wall.  Sadly the
+window is not big enough for any human to pass through and instead is used
+by the numerous pigeons that inhabit this room within small cages lining the
+walls.  
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 1464
+S
+#1539
+{gThe Roaming Gleeman{x - {yA Large Common Room{x~
+The common room of the Roaming Gleeman is a vast space, dimly lit by oil
+lamps suspended from the ceiling.  Despite the vast size of this tavern, it
+looks like a rough establishment frequented by equally rough-looking
+clientele.  The walls have been left bare at this part of the room,
+revealing the jumble of bricks, stone and wooden timbers that were used to
+construct the inn.  Finally there is are two stone steps that lead upwards
+to a painted blue door on the south side of the common room that probably
+lead outside of the inn.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1542
+D2
+~
+~
+3 3
+1 0 1447
+D3
+~
+~
+0 0
+0 0 1540
+S
+#1540
+{gThe Roaming Gleeman{x - {yA Large Common Room{x~
+The Roaming Gleeman's common room is a massive space, dimly illuminated
+by oil lamps that have been suspended from the ceiling.  Although this is
+one of the larger taverns within the Rahad, it is also one of the roughest. 
+The walls have been left bare at this part of the room, revealing the
+mixture of bricks, stone and wooden timbers that were used to construct the
+tavern.  A thin layer of wood shavings has been strewn across the
+floorboards but they fail to hide old blood stains from past brawls.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1541
+D1
+~
+~
+0 0
+0 0 1539
+S
+#1541
+{gThe Roaming Gleeman{x - {yA Large Common Room{x~
+The common room of the Roaming Gleeman is a huge space, dimly lit by oil
+lanterns hung from the ceiling.  Despite the vast size of this tavern, it
+looks like a rough establishment frequented by equally rough-looking
+clientele.  The walls have been left bare at this part of the room,
+revealing the jumble of bricks, stone and wooden timbers that were badly
+used to construct the inn.  A thin layer of wood shavings has been strewn
+across the floor but fail to hide old blood stains from past brawls beneath
+them.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 1542
+D2
+~
+~
+0 0
+0 0 1540
+S
+#1542
+{gThe Roaming Gleeman{x - {yA Large Common Room{x~
+The Roaming Gleeman's common room is an enormous space, dimly lit by oil
+lanterns that have been hung from the ceiling.  Although this is one of the
+larger taverns within the Rahad, it is also one of the roughest.  The walls
+have been left bare at this part of the room, revealing the mixture of
+bricks, stone and wooden timbers that were used to construct the tavern.  A
+thin layer of wood shavings has been scattered across the floorboards but
+they fail to hide old blood stains from past brawls.  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 1543
+D2
+~
+~
+0 0
+0 0 1539
+D3
+~
+~
+0 0
+0 0 1541
+S
+#1543
+{gThe Roaming Gleeman{x - {yA Long Corridor{x~
+This is the western end of a long corridor within one of the Rahad's many
+inns.  The walls have been left bare at this part of the room, revealing the
+hodgepodge of bricks, stone and wooden timbers that were used to construct
+the inn.  Along the hallway are several sturdy appearing doors that mark the
+entranceways into other sections of the inn.  Also placed at set intervals
+along the walls of the corridor are hooks used for hanging lanterns. 
+Further down the corridor to the east are similar doors although a steep
+flight of steps leading into the upper parts of the inn can be seen at that
+end of the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 1544
+D1
+~
+~
+0 0
+0 0 1480
+D2
+~
+~
+3 3
+1 0 1545
+D3
+~
+~
+4099 4099
+1 0 1542
+S
+#1544
+{gThe Roaming Gleeman{x - {yA Private Dining Room{x~
+This private dining room is a dull square room with plain plaster walls
+and an almost equally bare timber floor.  Frayed drapes frame the windows
+along the north side of the room that look out onto the Rahad's countless of
+winding streets.  A plain woolen rug has been placed at the foot of the
+fireplace on the east side of the room.  The only visible exit from this
+room is a door on the south side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1543
+S
+#1545
+{gThe Roaming Gleeman{x - {yA Private Study{x~
+This study is a plain-looking room that is roughly square in shape and
+mainly occupied by tall bookcases filled with tattered tomes.  A little
+light filters in through a pair of dusty windows on the south side of the
+room although they offer a rather gloomy view into a brickwork tunnel.  The
+main source of light comes from the oil lanterns that have been fitted to
+the study's plaster walls.  There is very little else of interest about this
+room apart from a fireplace built into the east wall and a doorway in the
+north wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1543
+S
+#1546
+{WThe Silver Bell Inn{x - {yA Long Hallway{x~
+This is the northern end of a long hallway.  It is a sparsely furnished
+area, both the walls and floor of the corridor have been left bare and the
+only items of furniture within this room are a small wooden desk and a hat
+stand placed at the northern end of the room.  Placed upon the highly
+polished desk is a large ledger, a quill and an ink well.  There are several
+doorways to be seen along this passageway; there are two large doors to the
+west and to the north as well as a smaller doorway on the eastern side of
+the corridor.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1423
+D1
+~
+~
+3 3
+1 0 1549
+D2
+~
+~
+0 0
+0 0 1547
+D3
+~
+~
+3 3
+1 0 1468
+S
+#1547
+{WThe Silver Bell Inn{x - {yA Long Hallway{x~
+This is the southern end of a long, sparsely furnished hallway.  Both the
+walls and floor of the passageway have been left bare apart from a pair of
+tattered curtains that frame a wide rectangular window on the western side
+of the room.  There appears to be only two doorways at this end of the
+corridor but a steep wooden staircase constructed at the southern end of the
+corridor provides a route to the upper level of the building.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1546
+D1
+~
+~
+3 3
+1 0 1548
+D4
+~
+~
+0 0
+0 0 1574
+S
+#1548
+{WThe Silver Bell Inn{x - {yA Kitchen{x~
+This is a large and busy kitchen but despite its great size the room
+looks plain.  The plaster walls and the wooden floorboards have been left
+bare.  Built into the southern end of the room is a fireplace complete with
+a stove and a meat spit.  Numerous cupboards, drawers and shelves have been
+fitted in the kitchen; once they were painted in bright colors but now the
+paintwork has faded with age and flaking away.  There are two exits, a door
+on the north side of the room and another one on the west side of the
+kitchen.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1549
+D3
+~
+~
+3 3
+1 0 1547
+S
+#1549
+{WThe Silver Bell Inn{x - {yThe Common Room{x~
+This is the western end of a long rectangular room that is used as a
+common room.  There is a large window on the northern side of the room
+overlooks the dirty twisting streets of the Rahad.  The room is rather
+plain, void of any expensive furnishings probably because of the numerous
+brawls and duels that are often fought in taverns like this one.  Sawdust
+has been strewn across the floor in an attempt to hide the heavy scuff marks
+and blood stains that have marred the wooden floorboards.  There appear to
+be only two exits out of this room, similar sized doors at the western and
+the southern sides.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 1550
+D2
+~
+~
+3 3
+1 0 1548
+D3
+~
+~
+3 3
+1 0 1546
+S
+#1550
+{WThe Silver Bell Inn{x - {yThe Common Room{x~
+This is the eastern end of a long rectangular room that is used as a
+common room.  There is a large window on the northern side of the room that
+overlooks the dirty twisting streets of the Rahad whose crown glass panes
+give a fuzzy view of the city outside.  The room is rather ordinary and
+lacks any expensive furniture, probably due to the numerous brawls and duels
+that are often fought in taverns like this one.  Sawdust has been scattered
+across the floor in an attempt to cover the heavy scuff marks and blood
+stains that have marred the wooden floorboards.  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 1549
+S
+#1551
+{WThe Silver Bell Inn{x - {yA Stable{x~
+This is the eastern end of a large stable built from brick and reinforced
+with thick wooden support beams.  It is a very dusty area, the air thick
+with the smell of straw and horses.  There are two entrances; one is marked
+by set of wide doors on the north side of the building while a smaller door
+lists on the east side.  A recently swept walkway wide enough to accommodate
+a small cart or wagon leads from the main entrance and is overlooked by
+numerous stalls along the southern end of the stable.  Placed on pegs on the
+wall opposite the stalls are each stall's occupant's tack.  
+~
+0
+DM 0
+D0
+~
+~
+3 3
+1 0 1468
+D2
+~
+~
+3 3
+1 0 1555
+D3
+~
+~
+0 0
+0 0 1553
+S
+#1552
+Mount Storage Room 1~
+This room does not require a description.
+~
+0
+BCDK 0
+S
+#1553
+{WThe Silver Bell Inn{x - {yA Stable{x~
+This is the western end of a large stable built from brick and reinforced
+with thick timber support beams.  The area is very dusty with the air thick
+with the smell of straw and horses.  A recently swept walkway wide enough to
+accommodate a small cart or wagon leads eastwards and is overlooked by
+numerous stalls along the southern end of the stable.  Each stall's
+occupant's tack has been placed neatly upon pegs fixed to the wall opposite
+their corresponding stalls.  At the western end of the walkway fixed to wall
+is a wooden ladder that leads upwards to a trapdoor set in the ceiling.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 1551
+D2
+~
+~
+3 3
+1 0 1554
+D4
+~
+~
+4096 4096
+0 0 1565
+S
+#1554
+{WThe Silver Bell Inn{x - {yA Stall{x~
+Straw has been strewn across the floor of this dusty stall built within
+the stable.  Most of the building has been constructed from reddish brown
+bricks with thick timber beams used to support the building.  Like the rest
+of the stalls within the stable, this one is spacious square area that is
+encircled by sturdy wooden partitions with an equally sturdy gateway
+providing an entrance into the area.  Two small troughs have been fixed
+against the brick wall opposite the gateway, one used to provide food and
+the other used to provide water for this stall's occupant.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1553
+S
+#1555
+{WThe Silver Bell Inn{x - {yA Stall{x~
+Straw litters the floor of this dusty stall built within the stable.  The
+majority of the building has been constructed from reddish brown bricks with
+thick wooden beams used to support the building.  Like the rest of the
+stalls within the stable, this one is spacious square area that is enclosed
+by sturdy wooden partitions with an equally sturdy gateway providing an
+entrance into the area.  Two small troughs have been fixed against the brick
+wall opposite the gateway, one used to provide food and the other used to
+provide water for this stall's occupant.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1551
+S
+#1556
+{YThe Rahad Bank{x~
+This is a dingy little establishment that has mainly been built from
+brick.  Parts of the building's timber frame protrude from the white plaster
+that covers the majority of the walls.  All of the doors and windows are
+reinforced with strips of iron or with thick iron bars.  There are several
+small oil lanterns that are suspended from the ceiling which reveal a long
+counter whose top is also surrounded by thick iron bars, providing
+protection for the banker.  
+~
+0
+BDK 0
+D1
+~
+~
+3 3
+1 0 1419
+S
+#1557
+{WThe Barber's Shop{x~
+This is a grotty establishment that has mostly been constructed from
+brick.  Parts of the building's timber frame protrude from the white plaster
+that covers the majority of the walls.  One side of the room has been fitted
+with tall wooden cabinets while the other side of the room has a couple of
+chairs facing a long bench-like table.  Mirrors have been hung on the wall
+above the table while neatly arranged on the tabletop are some pottery
+basins as well as implements used for shaving.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1440
+S
+#1558
+{mRyaes' Workshop{x~
+This small workshop is a rather grim and morbid affair.  A single oil
+lantern suspended from the ceiling casts a dim glow over the room, revealing
+shelved filled with dozens of stuffed animals set on wooden plinths.  At the
+back of the room is a long workbench with a rack filled with various tools
+attached to the wall above it.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1431
+S
+#1559
+{CReodrien's Jewelry Shop{x~
+This shop is very typical of the shops that can be found within the
+Rahad.  It is a very tiny and cramped building with a creepy feel to it.  A
+large wooden counter takes up most of the space within the shop whilst the
+items of jewelry can be seen on display within small wooden cabinets fixed
+to the far wall.  There is a door leading out of the shop beside the window
+but there is also another door opposite it that probably leads to the
+shopkeeper's living quarters.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1436
+S
+#1560
+{BElainvar's Clothing Store{x~
+In spite of being a small establishment this clothing shop is a profusion
+of color.  There are numerous bolts of cloths have been stacked neatly
+against one side of the room.  There are several items of clothing that hang
+on racks at the far side of the room behind the counter that are probably
+waiting to be collected by their owners.  A tailor's dummy stands in one
+corner of the room with a partially made coat tacked together placed upon
+it.  A window overlooks the streets of the Rahad, a dull and grimy contrast
+to this shop.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1436
+S
+#1561
+{gDarania's General Store{x~
+This shop is very typical of the shops that can be found within the
+Rahad.  A counter takes up most of the space within the shop whilst the
+merchandise is on display on shelves and on hooks fixed to the wall behind
+the counter.  A window overlooks a paved street that winds its way through
+the Rahad, overlooked by more rundown buildings; a few items have been
+placed on display within the window, mostly supplies used for traveling.  A
+door leading out of the shop can be seen beside the window but there is also
+another door opposite it that probably leads to the shopkeeper's quarters.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1435
+S
+#1562
+{cAsnay's Hat Shop{x~
+Hats of all shapes, sizes and origins have been put on display in this
+colorful establishment.  The majority of the merchandise has been put on
+wooden stands that line the shelves adorning the brickwork walls.  A few
+examples of the shopkeeper's finer goods have been placed on a display in
+the window at the front of the shop.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 1430
+S
+#1563
+{rA Weaver's Workshop{x~
+This is a grimy little establishment that has mainly been built from
+brick.  Very little can be seen of the white plaster walls for the walls
+have been used to display many colorful rugs that are for sale.  At the back
+of the shop is a doorway that leads into a workshop and living quarters
+while on the opposite side of the room is a second door that leads out onto
+one of the Rahad's streets.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1422
+S
+#1564
+{MA Dyer's Workshop{x~
+This is a grimy little establishment that has mainly been built from
+brick.  Parts of the building's timber frame protrude from the white plaster
+that covers most of the walls.  The front part of the building has been used
+to store casks of dyes ready for distribution while a set of double doors at
+the back of this area lead into the main workshops where the dyes are
+produced.  The only other visible exit from the storage area is a second set
+of double doors on the east side.  
+~
+0
+DK 0
+D1
+~
+~
+3 3
+1 0 1420
+S
+#1565
+{WThe Silver Bell Inn{x - {yA Hay Loft{x~
+The eaves of the stable have been used as a hay loft to store horse feed.
+It is a dark and dusty area with very little room to move around in.  Bales
+of hay and straw have been neatly stacked against one wall.  There are faint
+scurrying and squeaking noises within the darkness of the loft which suggest
+that this area is inhabited by rodents.  There only appears to be one exit
+from the hay loft, a small trapdoor set in the floor of the loft.  
+~
+0
+ABD 0
+D5
+~
+~
+4096 4096
+0 0 1553
+S
+#1566
+{gThe Roaming Gleeman{x - {yA Long Corridor{x~
+This is the eastern end of a long corridor inside one of the Rahad's many
+inns.  The walls have been left bare at this part of the room, revealing the
+mishmash of bricks, stone and wooden timbers that were used to build the
+inn.  Along the hallway are quite a few sturdy appearing doors that mark the
+entranceways into the other rooms.  Also placed at set intervals along the
+walls of the corridor are hooks used for suspending lamps.  At this end of
+the corridor is a steep flight of steps leading into the lower parts of the
+inn.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1569
+D1
+~
+~
+3 3
+1 0 1568
+D2
+~
+~
+3 3
+1 0 1570
+D3
+~
+~
+0 0
+0 0 1567
+D5
+~
+~
+0 0
+0 0 1480
+S
+#1567
+{gThe Roaming Gleeman{x - {yA Long Corridor{x~
+This is the western end of a long corridor within one of the Rahad's many
+inns.  The walls have been left bare at this part of the room, revealing the
+hodgepodge of bricks, stone and wooden timbers that were used to build the
+inn.  Along the hallway are several sturdy appearing doors that mark the
+entranceways into other rooms.  Also placed at set intervals along the walls
+of the corridor are hooks used for suspending lanterns.  Further down the
+corridor to the east are similar doors although a steep flight of steps
+leading into the lower parts of the inn can be seen at that end of the
+corridor.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1572
+D1
+~
+~
+0 0
+0 0 1566
+D2
+~
+~
+3 3
+1 0 1573
+D3
+~
+~
+3 3
+1 0 1571
+S
+#1568
+{gThe Roaming Gleeman{x - {yA Bathroom{x~
+This is a fairly plain and dull room whose wooden floorboards have been
+left bare as the walls of this room.  Within this room is a large bathtub
+but there are no signs of any sources of water present suggesting that water
+has to be brought into the room from elsewhere.  A small wooden stool has
+been left beside the tub upon which a large, neatly folded towel has been
+placed.  A doorway on the west side of the room offers the only exit out of
+here.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1566
+S
+#1569
+{gThe Roaming Gleeman{x - {yA Modest Guest Room{x~
+In spite of the lack of expensive furnishings in this room this guest
+room could be regarded as being cozy.  The white plaster covered walls and
+the timber floorboards have been left almost bare although the accumulation
+of dirt within this area has turned the walls and floor of this room
+numerous grimy shades of gray.  The only decoration within this room is a
+threadbare woolen rug placed by the doorway and the tatty curtains that
+adorn the two windows on the opposite side of the room.  There are a few
+basic items of furniture within this room, a bed, a wardrobe, a desk, a
+chair and a washstand.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1566
+S
+#1570
+{gThe Roaming Gleeman{x - {yA Modest Guest Room{x~
+Regardless of the lack of expensive furnishings in this room this guest
+room could be considered as being snug.  The white plaster covered walls and
+the wooden floorboards have been left almost bare although the buildup of
+dirt within this area has turned the walls and floor of this room several
+grimy shades of gray.  The only embellishment within this room is a small
+woolen mat placed by the doorway and the shabby drapes that adorn the pair
+of windows on the opposite side of the room.  There are a few basic items of
+furniture inside this room, a bed, a wardrobe, a desk, a chair and a
+washstand.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1566
+S
+#1571
+{gThe Roaming Gleeman{x - {yA Bathroom{x~
+This is a somewhat dull and plain room whose wooden floorboards have been
+left bare as the walls of this room.  Inside this room is a large bathtub
+but there are no signs of any sources of water present suggesting that water
+has to be brought into the room from elsewhere.  A small wooden stool has
+been left next to the tub upon which a large, neatly folded towel has been
+placed.  A door on the east side of the room provides the only exit out of
+here.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1567
+S
+#1572
+{gThe Roaming Gleeman{x - {yA Modest Guest Room{x~
+Even though there is a lack of expensive furnishings in this room, this
+guest room could be regarded as being comfy.  The white plaster covered
+walls and the timber floorboards have been left almost bare although the
+accumulation of filth within this area has turned the walls and floor of
+this room several grimy shades of gray.  The only decoration within this
+room is a rough woolen rug placed by the doorway and the frayed drapes that
+adorn the two windows on the opposite side of the room.  There are a few
+basic items of furniture within this room, a bed, a wardrobe, a desk, a
+chair and a washstand.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1567
+S
+#1573
+{gThe Roaming Gleeman{x - {yA Modest Guest Room{x~
+Despite the lack of expensive furnishings in this room this guest room
+could be considered as being comfortable.  The white plaster covered walls
+and the wooden floorboards have been left almost bare although the buildup
+of muck within this area has turned the walls and floor of this room
+numerous grimy shades of gray.  The only embellishment within this room is a
+small woolen mat placed by the doorway and the scruffy curtains that adorn
+the pair of windows on the opposite side of the room.  There are a few basic
+items of furniture inside this room, a bed, a wardrobe, a desk, a chair and
+a washstand.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1567
+S
+#1574
+{WThe Silver Bell Inn{x - {yA Long Hallway{x~
+This is the southern end of a long yet narrow sparsely furnished hallway.
+The white plaster covered walls and the wooden floorboards have been left
+bare although the accumulation of dirt and grime within this area has turned
+the walls and floor of this corridor several grubby shades of gray.  There
+are several doorways along this corridor but the most noticeable feature of
+this area is a steep wooden staircase constructed at the southern end of the
+corridor provides a route to the lower level of the building.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 1575
+D1
+~
+~
+3 3
+1 0 1579
+D2
+~
+~
+3 3
+1 0 1581
+D3
+~
+~
+3 3
+1 0 1580
+D5
+~
+~
+0 0
+0 0 1547
+S
+#1575
+{WThe Silver Bell Inn{x - {yA Long Hallway{x~
+This is the northern end of a long yet narrow sparsely furnished hallway.
+The white plaster covered walls and the wooden floorboards have been left
+bare although the accumulation of dirt and grime within this area has turned
+the walls and floor of this corridor several grubby shades of gray.  The
+area is illuminated by small brass lanterns that have been hung upon metal
+hooks fixed to the walls.  There are several doorways along this corridor;
+each door looks almost exactly the same as the next one.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1576
+D1
+~
+~
+3 3
+1 0 1578
+D2
+~
+~
+0 0
+0 0 1574
+D3
+~
+~
+3 3
+1 0 1577
+S
+#1576
+{WThe Silver Bell Inn{x - {yA Linen Closet{x~
+There does not appear to be anything out of the ordinary about this linen
+closet apart from there is very little space inside it to move around.  It
+is a small cupboard fitted with sturdy wooden shelving.  Placed upon the
+shelves in orderly piles are neatly folded towels and bed linen.  The only
+exit from this particularly dark and cramped windowless room is a door on
+the south side.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 1575
+S
+#1577
+{WThe Silver Bell Inn{x - {yA Guest Room{x~
+Despite the lack of lavish furnishings in this guest room, the area could
+be considered as being comfy.  The walls of this room look bare; they have
+been covered with a thin layer of white plaster and lack any decoration upon
+them.  The wooden boards that make up the floor have been also left almost
+bare although the accumulation of dirt within this area has turned the floor
+of this room a grubby shade of gray.  A large rectangular window set in one
+of the walls of this room provides a rather bleak view of the busy streets
+of the Rahad.  There appear to be only a few basic items of furniture within
+this guestroom, a bed, a wardrobe, a desk, a chair and a washstand; all of
+the items of furniture look old and well worn.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1575
+S
+#1578
+{WThe Silver Bell Inn{x - {yA Guest Room{x~
+This is a plain yet comfy guest room.  The walls of this room look bare;
+they have been covered with a thin layer of white plaster and lack any
+decoration upon them.  The wooden boards that make up the floor have been
+also left almost bare; the only attempt to cover the floor is a small woolen
+rug that has been placed by the door.  A large rectangular window set in one
+of the walls of this room provides a rather bleak view of the busy streets
+of the Rahad, beside the window stands a simple wooden desk and chair. 
+There appear to be only a few other basic items of furniture within this
+guestroom which include a bed, a wardrobe and a washstand; all of the items
+of furniture look old and well worn.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1575
+S
+#1579
+{WThe Silver Bell Inn{x - {yA Guest Room{x~
+Although there is a lack of luxurious furnishings in this guest room, the
+area could be considered as being comfy.  The walls of this room look bare;
+they have been covered with a thin layer of white plaster and lack any
+decoration upon them.  The wooden boards that make up the floor have been
+also left almost bare although the accumulation of dirt within this area has
+turned the floor of this room several grimy shades of gray.  A small
+rectangular woolen rug placed by the doorway appears to be the only covering
+the floor has.  There is a large window in this room that has been framed
+with a pair of slightly scruffy curtains and overlooks the busy streets of
+the Rahad.  There are only a few basic items of furniture within this room,
+a bed, a wardrobe, a desk, a chair and a washstand.  Anything else that
+might have been used to furnish the room has long since been taken away.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 1574
+S
+#1580
+{WThe Silver Bell Inn{x - {yA Guest Room{x~
+Regardless of the lack of expensive furnishings in this room, this guest
+room could be considered as being cozy.  The white plaster covered walls and
+the wooden floorboards have been left almost bare although the accumulation
+of dirt within this area has turned the walls and floor of this room several
+grimy shades of gray.  A small woolen rug placed by the doorway appears to
+be the only covering the floor has.  There is a large window in this room
+that has been framed with a pair of slightly tatty curtains and overlooks
+the busy streets of the Rahad.  There are only a few basic items of
+furniture within this room, a bed, a wardrobe, a desk, a chair and a
+washstand.  Anything else that might have been used to furnish the room has
+long since been taken away.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 1574
+S
+#1581
+{WThe Silver Bell Inn{x - {yA Bathroom{x~
+At a first glance this room looks rather plain and dull; the wooden
+floorboards have been left bare as the walls of this room.  Within this room
+is a large bathtub but there are no signs of any sources of water present
+suggesting that water has to be brought into the room from elsewhere.  A
+small wooden stool has been left beside the tub upon which a large, neatly
+folded towel has been placed.  A doorway on the northern side of the room
+provides the only exit out of here.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 1574
+S
+#0
+
+
+
+#SPECIALS
+M 1408 spec_channeler_offensive
+M 1425 spec_channeler_offensive
+M 1438 spec_thief
+M 1450 spec_channeler_offensive
+M 1480 spec_channeler_offensive
+M 1481 spec_channeler_offensive
+M 1489 spec_channeler_offensive
+S
+
+
+
+#RESETS
+D 0 1412 1 1
+D 0 1416 3 1
+D 0 1419 3 1
+D 0 1420 3 1
+D 0 1422 3 1
+D 0 1423 2 1
+D 0 1425 2 1
+D 0 1430 0 1
+D 0 1431 0 1
+D 0 1432 0 1
+D 0 1432 2 1
+D 0 1435 0 1
+D 0 1435 2 1
+D 0 1436 0 1
+D 0 1436 2 1
+D 0 1440 0 1
+D 0 1442 0 1
+D 0 1443 0 1
+D 0 1447 0 1
+D 0 1456 1 1
+D 0 1457 1 1
+D 0 1459 1 1
+D 0 1460 1 1
+D 0 1461 1 1
+D 0 1462 1 1
+D 0 1464 2 1
+D 0 1466 3 1
+D 0 1467 1 1
+D 0 1467 2 1
+D 0 1468 1 1
+D 0 1468 2 1
+D 0 1468 3 1
+D 0 1469 0 1
+D 0 1469 1 1
+D 0 1470 0 1
+D 0 1471 0 1
+D 0 1471 1 1
+D 0 1476 3 1
+D 0 1478 0 1
+D 0 1479 0 1
+D 0 1479 2 1
+D 0 1480 0 1
+D 0 1480 2 1
+D 0 1481 2 1
+D 0 1482 1 1
+D 0 1482 3 1
+D 0 1483 3 1
+D 0 1487 1 1
+D 0 1487 2 1
+D 0 1487 3 1
+D 0 1487 5 1
+D 0 1488 4 1
+D 0 1489 3 1
+D 0 1490 1 1
+D 0 1491 0 1
+D 0 1492 0 1
+D 0 1512 0 1
+D 0 1512 1 1
+D 0 1512 3 1
+D 0 1513 1 1
+D 0 1514 3 1
+D 0 1515 2 1
+D 0 1516 1 1
+D 0 1516 2 1
+D 0 1516 3 1
+D 0 1517 0 1
+D 0 1517 3 1
+D 0 1518 2 1
+D 0 1519 1 1
+D 0 1520 0 1
+D 0 1520 1 1
+D 0 1521 2 1
+D 0 1522 3 1
+D 0 1523 3 1
+D 0 1524 3 1
+D 0 1525 3 1
+D 0 1526 3 1
+D 0 1527 1 1
+D 0 1527 2 1
+D 0 1528 2 1
+D 0 1528 3 1
+D 0 1529 0 1
+D 0 1529 3 1
+D 0 1530 3 1
+D 0 1531 1 1
+D 0 1533 0 1
+D 0 1533 1 1
+D 0 1533 2 1
+D 0 1533 3 1
+D 0 1534 2 1
+D 0 1535 3 1
+D 0 1536 0 1
+D 0 1537 1 1
+D 0 1539 2 1
+D 0 1542 1 1
+D 0 1543 0 1
+D 0 1543 2 1
+D 0 1543 3 1
+D 0 1544 2 1
+D 0 1545 0 1
+D 0 1546 0 1
+D 0 1546 1 1
+D 0 1546 3 1
+D 0 1547 1 1
+D 0 1548 0 1
+D 0 1548 3 1
+D 0 1549 2 1
+D 0 1549 3 1
+D 0 1551 0 1
+D 0 1551 2 1
+D 0 1553 2 1
+D 0 1554 0 1
+D 0 1555 0 1
+D 0 1556 1 1
+D 0 1557 2 1
+D 0 1558 2 1
+D 0 1559 2 1
+D 0 1560 0 1
+D 0 1561 2 1
+D 0 1562 2 1
+D 0 1563 1 1
+D 0 1564 1 1
+D 0 1566 0 1
+D 0 1566 1 1
+D 0 1566 2 1
+D 0 1567 0 1
+D 0 1567 2 1
+D 0 1567 3 1
+D 0 1568 3 1
+D 0 1569 2 1
+D 0 1570 0 1
+D 0 1571 1 1
+D 0 1572 2 1
+D 0 1573 0 1
+D 0 1574 1 1
+D 0 1574 2 1
+D 0 1574 3 1
+D 0 1575 0 1
+D 0 1575 1 1
+D 0 1575 3 1
+D 0 1576 2 1
+D 0 1577 1 1
+D 0 1578 3 1
+D 0 1579 3 1
+D 0 1580 1 1
+D 0 1581 0 1
+M 0 1451 5 1400 1
+M 0 1453 5 1400 1
+E 0 1450 0 20
+M 0 1455 5 1400 1
+E 0 1567 0 10
+M 0 1452 5 1401 1
+E 0 1568 0 11
+M 0 1454 5 1401 1
+E 0 1450 0 20
+M 0 1456 5 1401 1
+M 0 1451 5 1402 1
+E 0 1568 0 11
+M 0 1453 5 1402 1
+E 0 1450 0 20
+M 0 1455 5 1402 1
+E 0 1567 0 10
+M 0 1452 5 1403 1
+M 0 1453 5 1403 1
+E 0 1450 0 20
+M 0 1456 5 1403 1
+M 0 1451 5 1404 1
+M 0 1454 5 1404 1
+E 0 1450 0 20
+M 0 1455 5 1404 1
+M 0 1452 5 1405 1
+M 0 1453 5 1405 1
+E 0 1450 0 20
+M 0 1456 5 1405 1
+M 0 1452 5 1406 1
+M 0 1454 5 1406 1
+E 0 1450 0 20
+M 0 1455 5 1406 1
+M 0 1451 5 1407 1
+M 0 1454 5 1407 1
+E 0 1450 0 20
+M 0 1456 5 1407 1
+M 0 1452 5 1408 1
+M 0 1454 5 1408 1
+E 0 1450 0 20
+M 0 1455 5 1408 1
+M 0 1451 5 1409 1
+M 0 1453 5 1409 1
+E 0 1450 0 20
+M 0 1456 5 1409 1
+M 0 1436 7 1410 1
+M 0 1441 7 1410 1
+M 0 1448 7 1410 1
+E 0 1448 0 25
+M 0 1440 7 1411 1
+M 0 1443 7 1411 1
+M 0 1446 7 1411 1
+M 0 1437 7 1412 1
+M 0 1441 7 1412 1
+M 0 1448 7 1412 1
+E 0 1448 0 25
+M 0 1436 7 1413 1
+M 0 1444 7 1413 1
+M 0 1447 7 1413 1
+E 0 1449 0 20
+M 0 1438 7 1414 1
+M 0 1443 7 1414 1
+M 0 1450 7 1414 1
+E 0 1447 0 20
+M 0 1439 7 1415 1
+M 0 1444 7 1415 1
+M 0 1448 7 1415 1
+E 0 1448 0 25
+M 0 1438 7 1416 1
+M 0 1442 7 1416 1
+M 0 1447 7 1416 1
+E 0 1449 0 20
+M 0 1436 7 1417 1
+M 0 1445 7 1417 1
+M 0 1450 7 1417 1
+E 0 1447 0 20
+M 0 1437 7 1418 1
+M 0 1443 7 1418 1
+M 0 1447 7 1418 1
+E 0 1449 0 20
+E 0 1584 0 8
+M 0 1440 7 1419 1
+M 0 1441 7 1419 1
+M 0 1449 7 1419 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1436 7 1420 1
+M 0 1443 7 1420 1
+M 0 1448 7 1420 1
+E 0 1448 0 25
+E 0 1581 0 20
+M 0 1439 7 1421 1
+M 0 1442 7 1421 1
+M 0 1446 7 1421 1
+E 0 1582 0 8
+E 0 1583 0 16
+M 0 1437 7 1422 1
+M 0 1441 7 1422 1
+M 0 1448 7 1422 1
+E 0 1448 0 25
+E 0 1580 0 13
+E 0 1581 0 20
+M 0 1438 7 1423 1
+M 0 1442 7 1423 1
+E 0 1579 0 15
+M 0 1449 7 1423 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1439 7 1424 1
+M 0 1445 7 1424 1
+M 0 1449 7 1424 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1438 7 1425 1
+M 0 1442 7 1425 1
+M 0 1448 7 1425 1
+E 0 1448 0 25
+E 0 1573 0 1
+M 0 1437 7 1426 1
+M 0 1441 7 1426 1
+M 0 1447 7 1426 1
+E 0 1449 0 20
+M 0 1439 7 1427 1
+M 0 1445 7 1427 1
+M 0 1450 7 1427 1
+E 0 1447 0 20
+M 0 1440 7 1428 1
+M 0 1441 7 1428 1
+M 0 1447 7 1428 1
+E 0 1449 0 20
+E 0 1584 0 8
+M 0 1436 7 1429 1
+M 0 1445 7 1429 1
+M 0 1449 7 1429 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1440 7 1430 1
+M 0 1445 7 1430 1
+M 0 1446 7 1430 1
+M 0 1439 7 1431 1
+M 0 1445 7 1431 1
+M 0 1446 7 1431 1
+M 0 1438 7 1432 1
+M 0 1444 7 1432 1
+M 0 1449 7 1432 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1438 7 1433 1
+M 0 1443 7 1433 1
+M 0 1449 7 1433 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1440 7 1434 1
+M 0 1442 7 1434 1
+M 0 1447 7 1434 1
+E 0 1449 0 20
+M 0 1440 7 1435 1
+M 0 1442 7 1435 1
+M 0 1450 7 1435 1
+E 0 1447 0 20
+M 0 1436 7 1436 1
+M 0 1444 7 1436 1
+M 0 1450 7 1436 1
+E 0 1447 0 20
+M 0 1438 7 1437 1
+M 0 1443 7 1437 1
+M 0 1446 7 1437 1
+M 0 1440 7 1438 1
+M 0 1443 7 1438 1
+M 0 1450 7 1438 1
+E 0 1447 0 20
+E 0 1585 0 5
+M 0 1436 7 1439 1
+M 0 1444 7 1439 1
+M 0 1446 7 1439 1
+M 0 1437 7 1440 1
+M 0 1445 7 1440 1
+M 0 1448 7 1440 1
+E 0 1448 0 25
+M 0 1437 7 1441 1
+M 0 1441 7 1441 1
+M 0 1446 7 1441 1
+M 0 1439 7 1442 1
+M 0 1444 7 1442 1
+M 0 1449 7 1442 1
+E 0 1443 0 20
+E 0 1444 0 8
+E 0 1445 0 7
+E 0 1446 0 14
+M 0 1437 7 1443 1
+M 0 1444 7 1443 1
+M 0 1447 7 1443 1
+E 0 1449 0 20
+M 0 1439 7 1444 1
+M 0 1442 7 1444 1
+M 0 1450 7 1444 1
+E 0 1447 0 20
+M 0 1429 7 1449 1
+M 0 1431 5 1449 1
+E 0 1442 0 9
+M 0 1434 6 1449 1
+E 0 1441 0 8
+M 0 1428 5 1450 1
+M 0 1433 6 1450 1
+M 0 1432 7 1450 1
+M 0 1429 7 1451 1
+M 0 1431 5 1451 1
+E 0 1442 0 9
+M 0 1435 6 1451 1
+M 0 1430 3 1452 1
+M 0 1433 6 1452 1
+M 0 1432 7 1452 1
+M 0 1430 3 1453 1
+M 0 1434 6 1453 1
+E 0 1441 0 8
+M 0 1435 6 1453 1
+M 0 1428 5 1454 1
+M 0 1433 6 1454 1
+M 0 1432 7 1454 1
+M 0 1430 3 1455 1
+M 0 1431 5 1455 1
+E 0 1442 0 9
+M 0 1435 6 1455 1
+M 0 1429 7 1456 1
+M 0 1432 7 1456 1
+M 0 1434 6 1456 1
+E 0 1441 0 8
+M 0 1429 7 1457 1
+M 0 1433 6 1457 1
+M 0 1435 6 1457 1
+M 0 1428 5 1458 1
+M 0 1432 7 1458 1
+M 0 1434 6 1458 1
+E 0 1441 0 8
+M 0 1429 7 1459 1
+M 0 1431 5 1459 1
+E 0 1442 0 9
+M 0 1432 7 1459 1
+M 0 1428 5 1460 1
+M 0 1433 6 1460 1
+M 0 1435 6 1460 1
+M 0 1429 7 1461 1
+M 0 1434 6 1461 1
+E 0 1441 0 8
+M 0 1435 6 1461 1
+M 0 1429 7 1462 1
+M 0 1431 5 1462 1
+E 0 1442 0 9
+M 0 1434 6 1462 1
+E 0 1441 0 8
+M 0 1428 5 1463 1
+M 0 1433 6 1463 1
+E 0 1571 0 16
+E 0 1572 0 8
+M 0 1432 7 1463 1
+M 0 1400 1 1464 1
+M 0 1401 1 1465 1
+M 0 1416 7 1465 1
+M 0 1417 7 1465 1
+M 0 1418 7 1465 1
+M 0 1402 1 1466 1
+O 0 1546 0 1468
+O 0 1462 0 1469
+M 0 1403 1 1470 1
+M 0 1404 1 1471 1
+M 0 1405 1 1472 1
+M 0 1416 7 1472 1
+M 0 1417 7 1472 1
+M 0 1418 7 1472 1
+M 0 1416 7 1473 1
+M 0 1417 7 1473 1
+M 0 1418 7 1473 1
+M 0 1406 1 1474 1
+M 0 1420 9 1474 1
+M 0 1420 9 1475 2
+M 0 1421 5 1475 1
+M 0 1407 1 1476 1
+M 0 1409 1 1477 1
+O 0 1527 0 1478
+M 0 1474 6 1479 3
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+E 0 1505 0 20
+E 0 1506 0 5
+M 0 1474 6 1479 3
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+E 0 1505 0 20
+E 0 1506 0 5
+O 0 1470 0 1481
+M 0 1408 1 1481 1
+M 0 1482 1 1482 1
+E 0 1522 0 5
+E 0 1523 0 7
+E 0 1524 0 9
+E 0 1525 0 8
+E 0 1526 0 10
+M 0 1483 3 1482 3
+E 0 1522 0 5
+E 0 1523 0 7
+E 0 1524 0 9
+M 0 1483 3 1482 3
+E 0 1522 0 5
+E 0 1523 0 7
+E 0 1524 0 9
+M 0 1483 3 1482 3
+E 0 1522 0 5
+E 0 1523 0 7
+E 0 1524 0 9
+O 0 1412 0 1483
+M 0 1410 12 1483 3
+G 0 1410 0
+O 0 1412 0 1484
+M 0 1410 12 1484 3
+G 0 1410 0
+O 0 1412 0 1485
+M 0 1410 12 1485 3
+G 0 1410 0
+O 0 1412 0 1486
+M 0 1410 12 1486 3
+G 0 1410 0
+M 0 1411 3 1488 3
+G 0 1410 0
+M 0 1412 1 1489 1
+G 0 1413 0
+G 0 1414 0
+G 0 1415 0
+G 0 1416 0
+M 0 1413 1 1490 1
+G 0 1417 0
+G 0 1418 0
+G 0 1419 0
+G 0 1420 0
+M 0 1414 1 1491 1
+G 0 1421 0
+G 0 1422 0
+G 0 1423 0
+G 0 1424 0
+G 0 1549 0
+G 0 1550 0
+G 0 1551 0
+G 0 1552 0
+G 0 1553 0
+M 0 1415 1 1492 1
+G 0 1425 0
+G 0 1426 0
+G 0 1427 0
+G 0 1428 0
+G 0 1429 0
+G 0 1430 0
+G 0 1431 0
+G 0 1432 0
+G 0 1433 0
+G 0 1434 0
+M 0 1419 2 1493 1
+M 0 1420 9 1493 1
+M 0 1421 5 1493 1
+M 0 1420 9 1494 2
+M 0 1421 5 1494 1
+M 0 1416 7 1495 1
+M 0 1417 7 1495 1
+M 0 1418 7 1495 1
+M 0 1422 8 1496 2
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1423 4 1496 1
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1422 8 1497 2
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1423 4 1497 1
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1419 2 1498 1
+M 0 1420 9 1498 1
+M 0 1421 5 1498 1
+M 0 1420 9 1499 2
+M 0 1421 5 1499 1
+M 0 1416 7 1500 1
+M 0 1417 7 1500 1
+M 0 1418 7 1500 1
+M 0 1422 8 1501 2
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1423 4 1501 1
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1422 8 1502 2
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1423 4 1502 1
+E 0 1435 0 20
+E 0 1436 0 8
+E 0 1437 0 16
+M 0 1416 7 1503 1
+E 0 1570 0 25
+M 0 1417 7 1503 1
+M 0 1418 7 1503 1
+O 0 1539 0 1504
+M 0 1416 7 1504 1
+E 0 1540 0 10
+M 0 1417 7 1504 1
+M 0 1418 7 1504 1
+M 0 1424 15 1505 3
+E 0 1438 0 5
+E 0 1439 0 6
+M 0 1424 15 1506 3
+E 0 1438 0 5
+E 0 1439 0 6
+M 0 1424 15 1507 3
+E 0 1438 0 5
+E 0 1439 0 6
+M 0 1425 2 1508 1
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1440 0 16
+M 0 1426 2 1508 1
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1440 0 16
+M 0 1427 2 1508 1
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1440 0 16
+M 0 1424 15 1509 3
+E 0 1438 0 5
+E 0 1439 0 6
+M 0 1424 15 1510 3
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1569 0 16
+M 0 1425 2 1511 1
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1440 0 16
+M 0 1426 2 1511 1
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1440 0 16
+M 0 1427 2 1511 1
+E 0 1438 0 5
+E 0 1439 0 6
+E 0 1440 0 16
+O 0 1520 0 1514
+O 0 1521 0 1514
+M 0 1489 1 1515 1
+E 0 1554 0 20
+E 0 1554 0 21
+E 0 1555 0 17
+E 0 1555 0 18
+E 0 1556 0 5
+E 0 1557 0 7
+E 0 1558 0 8
+E 0 1559 0 9
+E 0 1560 0 23
+M 0 1457 1 1517 1
+G 0 1451 0
+G 0 1452 0
+G 0 1453 0
+G 0 1454 0
+M 0 1458 1 1518 1
+G 0 1455 0
+G 0 1456 0
+G 0 1457 0
+G 0 1458 0
+M 0 1459 1 1519 1
+G 0 1459 0
+G 0 1460 0
+M 0 1490 1 1521 1
+E 0 1561 0 5
+E 0 1562 0 9
+E 0 1563 0 16
+E 0 1564 0 14
+E 0 1565 0 25
+G 0 1566 0
+O 0 1519 0 1522
+P 0 1411 1 1519 1
+O 0 1463 0 1527
+M 0 1460 1 1527 1
+E 0 1587 0 17
+E 0 1587 0 18
+E 0 1588 0 5
+E 0 1589 0 12
+E 0 1590 0 7
+E 0 1591 0 9
+O 0 1464 0 1528
+O 0 1538 0 1529
+M 0 1484 1 1529 1
+O 0 1465 0 1531
+M 0 1472 8 1531 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1531 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1487 4 1531 2
+E 0 1544 0 7
+E 0 1545 0 9
+O 0 1466 0 1532
+M 0 1472 8 1532 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1532 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1486 4 1532 1
+E 0 1541 0 17
+E 0 1541 0 18
+M 0 1485 4 1532 1
+E 0 1542 0 17
+E 0 1542 0 18
+E 0 1543 0 15
+O 0 1519 0 1535
+P 0 1411 1 1519 1
+M 0 1481 1 1537 1
+E 0 1515 0 10
+E 0 1516 0 15
+E 0 1518 0 7
+M 0 1480 1 1537 1
+E 0 1515 0 10
+E 0 1516 0 15
+E 0 1517 0 7
+O 0 1532 0 1538
+P 0 1533 1 1532 1
+P 0 1534 1 1532 1
+P 0 1535 1 1532 1
+P 0 1536 1 1532 1
+P 0 1537 1 1532 1
+O 0 1467 0 1539
+M 0 1472 8 1539 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1539 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1486 4 1539 1
+E 0 1541 0 17
+E 0 1541 0 18
+M 0 1485 4 1539 1
+E 0 1542 0 17
+E 0 1542 0 18
+E 0 1543 0 15
+O 0 1467 0 1540
+O 0 1468 0 1540
+M 0 1472 8 1540 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1540 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1477 1 1540 1
+E 0 1528 0 3
+E 0 1528 0 4
+E 0 1529 0 10
+E 0 1530 0 17
+E 0 1530 0 18
+E 0 1531 0 12
+M 0 1486 4 1540 1
+E 0 1541 0 17
+E 0 1541 0 18
+M 0 1485 4 1540 1
+E 0 1542 0 17
+E 0 1542 0 18
+E 0 1543 0 15
+O 0 1467 0 1541
+M 0 1472 8 1541 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1541 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1476 4 1541 2
+M 0 1476 4 1541 2
+O 0 1467 0 1542
+O 0 1469 0 1542
+M 0 1472 8 1542 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1542 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1476 4 1542 2
+M 0 1476 4 1542 2
+O 0 1470 0 1544
+O 0 1470 0 1545
+O 0 1575 0 1546
+P 0 1576 1 1575 1
+P 0 1577 1 1575 1
+M 0 1474 6 1548 3
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+E 0 1505 0 20
+E 0 1506 0 5
+M 0 1474 6 1548 3
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+E 0 1505 0 20
+E 0 1506 0 5
+O 0 1472 0 1549
+M 0 1472 8 1549 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1549 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1487 4 1549 2
+E 0 1544 0 7
+E 0 1545 0 9
+O 0 1472 0 1550
+M 0 1472 8 1550 1
+E 0 1495 0 7
+E 0 1496 0 9
+E 0 1497 0 16
+E 0 1498 0 12
+M 0 1473 16 1550 2
+E 0 1499 0 9
+E 0 1500 0 7
+E 0 1501 0 8
+E 0 1502 0 23
+E 0 1503 0 16
+E 0 1504 0 20
+M 0 1486 4 1550 1
+E 0 1541 0 17
+E 0 1541 0 18
+M 0 1485 4 1550 1
+E 0 1542 0 17
+E 0 1542 0 18
+E 0 1543 0 15
+M 0 1461 1 1551 1
+M 0 1475 4 1551 2
+E 0 1507 0 10
+E 0 1508 0 7
+E 0 1509 0 8
+E 0 1510 0 9
+E 0 1511 0 20
+M 0 1462 1 1552 1
+M 0 1475 4 1553 2
+E 0 1507 0 10
+E 0 1508 0 7
+E 0 1509 0 8
+E 0 1510 0 9
+E 0 1511 0 20
+M 0 1488 2 1554 1
+M 0 1488 2 1555 1
+M 0 1463 1 1556 1
+M 0 1464 1 1557 1
+G 0 1473 0
+G 0 1474 0
+G 0 1475 0
+G 0 1476 0
+M 0 1465 1 1558 1
+G 0 1477 0
+M 0 1466 1 1559 1
+G 0 1478 0
+G 0 1479 0
+G 0 1480 0
+G 0 1490 0
+M 0 1467 1 1560 1
+G 0 1481 0
+G 0 1482 0
+G 0 1483 0
+G 0 1548 0
+M 0 1468 1 1561 1
+G 0 1484 0
+G 0 1486 0
+G 0 1485 0
+G 0 1487 0
+M 0 1469 1 1562 1
+G 0 1488 0
+G 0 1489 0
+G 0 1491 0
+G 0 1492 0
+M 0 1470 1 1563 1
+G 0 1493 0
+G 0 1494 0
+M 0 1471 1 1564 1
+O 0 1547 0 1565
+M 0 1479 4 1569 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+M 0 1478 4 1570 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+O 0 1519 0 1572
+P 0 1586 1 1519 1
+M 0 1478 4 1572 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+M 0 1479 4 1573 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+M 0 1491 1 1574 1
+O 0 1519 0 1576
+P 0 1411 1 1519 1
+M 0 1479 4 1577 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+M 0 1479 4 1578 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+M 0 1478 4 1579 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+E 0 1574 0 5
+M 0 1478 4 1580 1
+E 0 1512 0 15
+E 0 1513 0 20
+G 0 1514 0
+O 0 1578 0 1581
+S
+
+
+
+#SHOPS
+1412 9 0 0 0 0 125 75 0 23
+1413 5 0 0 0 0 125 75 0 23
+1414 5 0 0 0 0 525 64 0 23
+1415 5 0 0 0 0 150 8 0 23
+1457 5 0 0 0 0 500 75 0 23
+1458 5 0 0 0 0 500 50 0 23
+1459 5 9 8 32 33 100 100 0 23
+1464 9 0 0 0 0 150 1 0 23
+1465 13 8 0 0 0 200 100 0 23
+1466 32 8 33 9 0 250 75 0 23
+1467 9 0 0 0 0 175 75 0 23
+1468 1 12 15 17 19 100 100 0 23
+1469 9 0 0 0 0 200 50 0 23
+1470 9 12 0 0 0 300 50 0 23
+0
+
+
+
+#$

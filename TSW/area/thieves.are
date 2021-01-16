@@ -1,0 +1,293 @@
+#AREADATA
+Name Thieve's Guild~
+Builders Kitiara~
+VNUMs 1200 1699
+Credits None~
+Security 5
+Low 90
+High 100
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#1200
+gruff man guard~
+a large, {Dgr{yu{Dff{x looking man~
+A rather large, {Dgr{yu{Dff{x looking man is here, sharpening his sword.
+~
+~
+tairen~
+ABFS FHVa 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+A
+6 6 6 6
+ABCIR 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#1201
+whore woman~
+a {Ds{rca{Rnt{ril{Dy{x dressed woman~
+A thin, {Ds{rca{Rnt{ril{Dy{x dressed woman sits atop the desk.
+~
+~
+tairen~
+ABC H 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FI 0 F 0
+stand stand female 10
+0 0 medium 'flesh'
+#1202
+portly man~
+a {Wp{Co{Wrtly{x man ~
+Sitting on a chair in front of the woman, this {Wp{Co{Wrtly{x man is grinning from ear to ear.
+~
+~
+tairen~
+ABFS FH 0 0
+92 82 47d48+8464 92d10+100 10d12+46 none
+0 0 0 0 0
+A
+6 6 6 6
+EG 0 J 0
+stand stand male 50
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#1200
+metal chest~
+rather large {Dm{re{Rt{ra{Dl{x chest~
+A rather large {Dm{re{Rt{ra{Dl{x chest has been left open here in the center of the treasury.~
+metal~
+container 0 0
+999 0 0 10000 100
+0 0 0 100
+#1201
+riches~
+a large pile of {Yc{Woi{Yns{x~
+A large pile of {Yc{Woi{Yns{x lays around the open {Dch{re{Dst{x.~
+cloth~
+money 0 A
+750 3500 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#1200
+Treasury~
+A few lanterns have been set on small tables scattered throughout this
+room.  Lined in the center of the room are several large metal {Dc{wh{Wes{wt{Ds{x, most
+of them open and coins, {yg{Yo{yld{x and {Ds{wi{Wlv{we{Dr{x, are piled high, spilling over to
+the floor around the chests.  Mixed in with the coins are many {rg{Re{rms{x and
+{gj{Ge{gw{Ge{gls{x, Sea Folk {cp{Co{crc{Ce{cl{Cai{cn{x, and other types of worldly treasures.  
+~
+0
+DNVX 0
+D2
+~
+~
+3 3
+1 0 1201
+S
+#1201
+Guards Room~
+This room is rather small and crowded, long benches line the east and
+west wall.  Barrels of swords and axes and other weapons are in the center
+of the room within easy reach in case of need to protect what the gruff men
+that rest in this room are here to guard.  All of the men eye each other
+wearily, some sit on the bench pretending to rest, others busy themselves
+sharpening their weapons or pounding dents out of their mismatched armor. 
+No matter what these men are doing, they don't seem like the type to bother,
+tread carefully.  
+~
+0
+DNV 0
+D0
+~
+~
+3 3
+1 0 1200
+D1
+~
+~
+3 3
+1 0 1202
+D2
+~
+~
+3 3
+1 0 1203
+S
+#1202
+An Office~
+The room is dark and dank, not much fresh air gets this far into the
+sewers.  A small desk rests in the back of the room and piles of papers have
+been strewn onto the floor.  The room is rather unkempt, little bits of
+trash laying here and there, a couple of over turned chairs on the floor, it
+almost appears that a fight happened recently in this room.  
+~
+0
+ADNV 0
+D3
+~
+~
+3 3
+1 0 1201
+S
+#1203
+An Intersection~
+Many lines of the {Ds{re{gwe{rr{Ds{x have doorways that lead to this room, where they
+all lead to is a mystery, there are no signs or diagrams to depict which
+part of Tear they lead to.  The strong stench of sewer is heavy on the air
+and an occasional {Dr{Ra{Dt{x runs across the dirt.  {gG{rr{ya{Yff{yi{rt{gi{x has been painted on
+the walls in various colors of paint, leaving messages to those who may find
+themselves here.  
+~
+0
+ADNV 0
+D0
+~
+~
+3 3
+1 0 1201
+S
+#1204
+Entrance to Graveyard~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1205
+S
+#1205
+Path Through Graveyard~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1204
+D1
+~
+~
+0 0
+0 0 1209
+D3
+~
+~
+0 0
+0 0 1206
+S
+#1206
+Path Through Graveyard~
+small gravesite, no name
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1205
+D3
+~
+~
+0 0
+0 0 1207
+S
+#1207
+Path Through Graveyard~
+dug up grave sit, with 2 thieves in area
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1206
+D3
+~
+~
+0 0
+0 0 1208
+S
+#1208
+Path Through Graveyard~
+large monument of an angel, Angenue.
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1207
+S
+#1209
+Path Through Graveyard~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1205
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1200 2 1
+D 0 1201 0 1
+D 0 1201 1 1
+D 0 1201 2 1
+D 0 1202 3 1
+D 0 1203 0 1
+O 0 1200 0 1200
+O 0 1201 0 1200
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1200 10 1201 10
+M 0 1201 1 1202 1
+M 0 1202 1 1202 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,76 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>MOBPROG SYNTAX</H1>Here is a little guide to help with some syntax issues
+ 
+Basic if conditions are covered in another help file.
+Comparisons are done with :
+== : Equals
+>= : Greater than or Equal
+<= : Less than or Equal
+> : Greater than
+> : Greater than
+ 
+ 
+More complext checks include :
+if <condition>
+if <condition> or <condition>
+if <condition> and <condition>
+if <condition> or <condition> and <condition>
+etc.
+ 
+Things you'll need to know:
+$A a,an based on first character of $p
+$i the first of the names of the mobile itself.
+$I the short description of the mobile itself.
+ 
+$n the name of whomever caused the trigger to happen.
+$N the name and title of whomever caused the trigger to happen.
+$t the name of a secondary character target (i.e A smiles at B)
+$T the short description, or name and title of target (NPC vs PC)
+$r the name of a random char in the room with the mobile (never =$i)
+$R the short description, or name and title of the random char
+$j he,she,it based on sex of $i.
+$e he,she,it based on sex of $n.
+$E he,she,it based on sex of $t.
+$J he,she,it based on sex of $r.
+$k him,her,it based on sex of $i.
+$m him,her,it based on sex of $n.
+$M him,her,it based on sex of $t.
+$K him,her,it based on sex of $r.
+$l his,hers,its based on sex of $i.
+$s his,hers,its based on sex of $n.
+$S his,hers,its based on sex of $t.
+$L his,hers,its based on sex of $r.
+$o the first of the names of the primary object (i.e A drops B)
+$O the short description of the primary object
+$p the first of the names of the secondary object (i.e A puts B in C)
+$P the short description of the secondary object
+$a a,an based on first character of $o
+$A a,an based on first character of $p
+ 
+rand (num)Is random percentage less than or equal to num
+isnpc ($*)Is $* an NPC
+ispc ($*)Is $* a PC
+isgood ($*)Does $* have a good alignment 
+isfight ($*)Is $* fighting
+isimmort ($*)Is the level of $* greater than max_mortal
+ischarmed ($*)Is $* affected by charm
+isfollow ($*)Is $* a follower with their master in the room
+isaffected($*)& integer  Is ($*->affected_by & integer) true
+(person only) 
+hitprcnt ($*) == percent  Is the hit/max_hit of $* equal to percent
+inroom ($*) == integer  Is the room of $* equal to integer
+(person only)
+ 
+sex ($*) == integer  Is the sex of $* equal to integer
+position ($*) == integer  Is the position of $* equal to integer
+level ($*) == integer  Is the level of $* equal to integer
+class ($*) == integer  Is the class of $* equal to integer
+goldamt ($*) == integer  Does $* have a gold total equal to integer
+objtype ($*) == integer  Is the type of $* equal to integer
+(armor,boat,etc)
+objval# ($*) == integer Is $*->value[#] equal to integer (# from 0-3)
+number ($*) == integer  Is the vnum of $* equal to integer
+name ($*) == string  Is the name of $* equal to string
+
+</FONT></B></PRE>
+</BODY>

@@ -1,0 +1,4367 @@
+#AREADATA
+Name Maradon~
+Builders None~
+VNUMs 21000 21299
+Credits 10-80}Renn       Maradon~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#21000
+no name~
+Renn's Secretary~
+Renn's Secretary
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+-1000 0 0 0
+0 0 0 0
+stand stand male 0
+D MNOPQUVWX medium 'unknown'
+#21032
+Trolloc~
+A trolloc~
+A trolloc
+~
+What is this you ask?  Well, Here we are operating on a need to know basis, and you don't need to know.  :P
+~
+trolloc~
+ACFGTZ CFGHVc 0 0
+85 50 1d1+1000 1d1+1000 10d10+20 slash
+0 0 0 0 0
+0
+-37 -37 -37 -32
+ACDERV Q E BCDGRXYZ
+sit sit none 10
+B 0 huge 'rough skin'
+F for HM
+#21202
+man barkeeper bartender~
+{wA {Dtall {ybartender{w~
+{wA tall skinny man wearing a {yd{gi{yr{gt{yy{w apron stands here
+~
+~
+unique~
+AG 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+-25 -25 -25 -25
+0 0 0 0
+stand stand none 1000
+0 0 large 'unknown'
+#21297
+biteme~
+a {Rb{ri{Rt{re{Rm{re{w~
+A {Rb{ri{Rt{re{Rm{re{w buzzes around you.
+~
+You look up trying to find that annoying buzzing sound and a biteme does
+a nose dive straight for you!  
+~
+bat~
+ACIZ BHJPVc 0 0
+100 75 50d10+12000 0d0+0 10d10+36 acbite
+0 0 0 0 0
+0
+-1000 -1000 -1000 -1000
+CDEKU CDEFGHIJKLMNOPQTXYZ 0 AB
+stand stand male 0
+O LVY tiny 'biteme'
+F aff Z
+#21298
+A Horse~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+G 0 medium 'unknown'
+#21299
+evete woman secretary~
+{bE{gv{Ge{gt{be{w~
+{bE{gv{Ge{gt{be{w sits at a desk in the corner typing away
+~
+~
+domani~
+A DHTVa 0 0
+90 200 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+BCDEFGHIJKN ACIJKLR DEFGXYZ B
+sit stand female 100000
+BC L small 'flesh'
+#0
+
+
+
+#OBJECTS
+#21000
+renn kilt power~
+{rR{We{rn{Wn{r'{Ws {WK{ri{bl{rt{x of {rP{Wo{rw{We{rr {xtm~
+A {rp{Wl{ba{Wi{rd {wco{Wtt{won {Wk{ri{bl{rt{x big enough to fit an Ogier lays here.~
+iron~
+armor ABCGISY AL
+20000 20000 20000 20000 0
+95 1 100000 100
+#21001
+trolloc cook pot~
+A huge pitch black cooking pot.~
+A Pitch black iron cooking pot with red stains on the side sits bubbling over with a thick goo.~
+iron~
+furniture EY P
+0 100 O 0 0
+95 0 0 100
+#21002
+trolloc camp fire~
+A roaring fire sitting under a trolloc cookpot~
+A large {yc{ra{Ym{Rp{yf{ri{Yr{Re{x with a roaring {Rf{Yl{Wa{Ym{Re{x is lit under a trolloc cookpot.~
+wood~
+furniture AEJ P
+5 30 DGJN 5 5
+95 10 0 100
+#21003
+canteen leaf~
+A small leaf folded to collect water~
+a small green leaf lays here collecting dirty water~
+antimatter~
+drink 0 AO
+1000000 1000000 'coke' 0 0
+1 0 0 100
+#21004
+jesus food waffer~
+a small {gg{Gl{wo{Ww{wi{Gn{gg {ywa{Yff{yer{x~
+a small cookie lays on the ground with an inscription on it that states very simply "{GJesus is Lord{x"~
+carbon tetrachloride~
+food AGIU AQ
+500 500 0 0 0
+1 0 1000000 100
+#21202
+Mug Cheap Ale~
+{wA {ymug{w of cheap {ya{Dl{ye{w~
+{wA {ymug{w is lying here~
+(null)~
+drink 0 AO
+6 5 'ale' 0 0
+0 2 10 100
+#21203
+Star Trek Calculator Watch~
+A kewl Star Trek Calculator Watch!~
+A kewl Star Trek Calculator Watch!~
+TriNitroToluene~
+armor AB AM
+0 0 0 0 0
+1 0 0 100
+#21204
+Purple Cow~
+A Purple Cow~
+A Purple Cow~
+(null)~
+drink BI A
+1000000000 1000000000 'milk' 0 0
+0 0 0 100
+#21220
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#21296
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#21297
+biteme weapon~
+{wsharp {Rb{ri{Rt{re{Rm{re{w fangs~
+{wsharp {Rb{ri{Rt{re{Rm{re{w fangs~
+(null)~
+weapon FMZ A
+dagger 1 0 'none' 0
+100 0 0 100
+#21299
+renn office key~
+{rR{We{rn{Wn{r'{Ws {DOff{wic{We {YK{yey{x~
+A shiny key glows in black and white.~
+iron~
+key ABGIQY AQ
+0 0 0 0 0
+1 100 100000000 100
+#0
+
+
+
+#ROOMS
+#21000
+Turning colder~
+As you travel along the road you notice that there is a slight bite in
+the air that wasn't there before.  A sharp wind howls from the north, the
+first signs that you are headed into the borderlands.  
+~
+0
+C 4
+D3
+~
+~
+0 0
+0 0 21001
+S
+#21001
+First signs of snow~
+It is starting to snow now.  There is a thin layer across the road in
+front of you.  Snowbirds fly to land on the side of the road and fly off
+again.  Perhaps to collect food where travelers have dropped crumbs along
+there journey.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 21000
+D3
+~
+~
+0 0
+0 0 21002
+S
+#21002
+Road through the snow~
+The snow has gotten a tad bit deeper here.  It is now almost to your
+knees in spots.  It is hard to even see the road.  Luckly there has been
+someone or something that has passed by here recently.  The road is littered
+with footprints of a rather large something.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 21001
+D3
+~
+~
+0 0
+0 0 21003
+S
+#21003
+Approching a bend in the road~
+Up ahead, you can barly make out the road making turning in some
+direction but can't tell which way yet.  The snow still pounds down upon you
+in never ceasing torrents makeing vision quite dificult.  
+ 
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 21002
+D3
+~
+~
+0 0
+0 0 21004
+S
+#21004
+Fork in the road~
+The road forks off here as far as you can tell.  The snow is so bad it is
+hard to tell what is in front of your nose.  You get a sence that it is a
+bit clearer to the north.  
+~
+0
+A 4
+D0
+~
+~
+0 0
+0 0 21006
+D1
+~
+~
+0 0
+0 0 21003
+D2
+~
+~
+0 0
+0 0 21005
+S
+#21005
+Off the road~
+As you walk a few paces, you find yourself helplessly lost among small
+trees.  You Must have taken a wrong turn back at the fork in the road.  
+~
+0
+AC 0
+D0
+~
+~
+0 0
+0 0 21004
+D1
+~
+~
+0 0
+0 0 21005
+D3
+~
+~
+0 0
+0 0 21005
+S
+#21006
+A road leading west~
+Finally the snow is starting to let up and a snow covered road emerges
+leading to the west.  The sky looks as if promising more snow ahead.  
+~
+0
+0 4
+D2
+~
+~
+0 0
+0 0 21004
+D3
+~
+~
+0 0
+0 0 21007
+S
+#21007
+Approching the Plain of Lances~
+Suddenly the land gets very flat and the snow lets up to a few lone
+flakes slowly falling to the ground.  To the west is the fabled Plain of
+Lances where the Saldaean Army has proudly defended their country countless
+times.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21006
+D3
+~
+~
+0 0
+0 0 21008
+S
+#21008
+Road to Maradon~
+As you near the Plain of Lances the road widdens a little.  There are
+prints made by horses covering the ground from a recent patrol of Saldaean
+Calvary no doubt.  Ahead is the last sign of trees for as far as you can
+see.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21007
+D3
+~
+~
+0 0
+0 0 21009
+S
+#21009
+{WPlain of Lances{x~
+The land is layed out in one vast expance of snow like a white ocean as
+you step out of the trees onto the Plain of Lances.  No other travellers can
+be seen on the road.  
+~
+0
+0 4
+D1
+~
+~
+0 0
+0 0 21008
+D3
+~
+~
+0 0
+0 0 21010
+S
+#21010
+{WPlain of Lances{x~
+The snow starts to pick up again here.  No signs of life can be seen in
+any direction.  There is only a desert of snow and gloominess.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21009
+D3
+~
+~
+0 0
+0 0 21011
+S
+#21011
+{WPlain of Lances{x~
+As more of the unchanging landscape goes by, it is easy to let your mind
+get the best of you.  Such as thinking you see trees standing in the middle
+of this desolate place.  At least the snow is letting up again.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21010
+D3
+~
+~
+0 0
+0 0 21012
+S
+#21012
+{WApproching a patch of trees{x~
+Minutes seem to take hours and hours seem to take days.  Just as the land
+seems to never change, Trees appear to the west.  A happy break to the
+monotony of this land.  Perhaps you aren't going crazy after all.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21011
+D3
+~
+~
+0 0
+0 0 21013
+S
+#21013
+{GA large thicket{x~
+As you walk through the thick patch of trees whispers can be heard, and
+you get the feeling you are being watched.  Turning around to look at the
+last second only leads to you looking like a fool.  There seems to be an air
+of foreboding here and the air seems thicker than before.  It even feels a
+bit warmer.  
+~
+0
+A 2
+D0
+~
+~
+3 3
+1 0 21026
+D1
+~
+~
+0 0
+0 0 21012
+D3
+~
+~
+0 0
+0 0 21014
+S
+#21014
+{GEdge of the tree line{x~
+You stand at the edge of a small thicket of trees.  As near as you can
+tell the thicket runs to the north for about a mile and to the south a
+little further.  Inside the thick mass of trees it is unnaturally dark and
+gloomy, the only hope it that the trees will give some protection from the
+bitter bite of the frozen wind.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21013
+D3
+~
+~
+0 0
+0 0 21015
+S
+#21015
+{WPlain of lances{x~
+As you get farther away from the nice warm trees the land returns to a
+neverending sea of snow.  It looks as though you might have gotten turned
+around somewhere if not for the large clump of trees lying to the east.  A
+sence of panic fills the air as if it would be better to take off at a dead
+run across the expansive land in front of you.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21014
+D3
+~
+~
+0 0
+0 0 21016
+S
+#21016
+{WPlain of lances{x~
+More white surrounds you as the only option is to trudge forward.  The
+snow here has a thin layer of ice on it almost strong enough to walk on. 
+Every time you take a step you make a loud crunch as your foot breaks
+through the ice to land on the ground below.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21015
+D3
+~
+~
+0 0
+0 0 21017
+S
+#21017
+{WPlain of lances{x~
+More white surrounds you as the only option is to trudge forward.  The
+snow here has a thin layer of ice on it almost strong enough to walk on. 
+Every time you take a step you make a loud crunch as your foot breaks
+through the ice to land on the ground below.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21016
+D3
+~
+~
+0 0
+0 0 21018
+S
+#21018
+{WPlain of lances{x~
+More white surrounds you as the only option is to trudge forward.  The
+snow here has a thin layer of ice on it almost strong enough to walk on. 
+Every time you take a step you make a loud crunch as your foot breaks
+through the ice to land on the ground below.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21017
+D3
+~
+~
+0 0
+0 0 21019
+S
+#21019
+{WPlain of lances{x~
+More white surrounds you as the only option is to trudge forward.  The
+snow here has a thin layer of ice on it almost strong enough to walk on. 
+Every time you take a step you make a loud crunch as your foot breaks
+through the ice to land on the ground below.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21018
+D3
+~
+~
+0 0
+0 0 21020
+S
+#21020
+{WPlain of lances{x~
+More white surrounds you as the only option is to trudge forward.  The
+snow here has a thin layer of ice on it almost strong enough to walk on. 
+Every time you take a step you make a loud crunch as your foot breaks
+through the ice to land on the ground below.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21019
+D3
+~
+~
+0 0
+0 0 21021
+S
+#21021
+{WPlain of lances{x~
+It is only snowing slightly here and to the west you can even see bare
+ground.  A few sparse plants can be seen growing on the side of the road. 
+To the east, dark clouds lurk and wisper promises of a storm.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21020
+D3
+~
+~
+0 0
+0 0 21022
+S
+#21022
+{WPlain of lances{x~
+It is well below freezing here as your nose can tell.  Grass grows in
+small tuffs along the side of the road.  Small Gray birds with a brilliantly
+white chests seem to be using the grass, where it can be found, to build
+nests.  A sound like running water can be heard off to the west somewhere. 
+It is hard to judge the exact distance though.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21021
+D3
+~
+~
+0 0
+0 0 21023
+S
+#21023
+The bank of a small river~
+A crystal clear stream of water runs to your immediate west.  From the
+edge, the bottom can be seen clearly and doesn't give the impression of
+being too deep.  The bank seems to be made of frozen mud, quite slick,
+waiting for some unalert soul to walk close enough to lose there footing. 
+Aparently, judging by the long tracks leading down to the water, a few
+animals have made that mistake more than once.  
+~
+0
+0 7
+D1
+~
+~
+0 0
+0 0 21022
+D3
+~
+~
+0 0
+0 0 21024
+S
+#21024
+{BCrossing the {Br{bi{Wv{be{Br{x~
+The water is so cold here that it burns.  It is almost deep enough to
+touch bottom if you had any feeling in your feet.  The waters motion is the
+only thing keeping the water from not freezing solid and frostbite will
+quickly set in if you do not hurry out of the water.  
+~
+0
+0 6
+D1
+~
+~
+0 0
+0 0 21023
+D3
+~
+~
+0 0
+0 0 21025
+S
+#21025
+{BCrossing the {Br{bi{Wv{be{Br{x~
+The water is so cold here that it burns.  It is almost deep enough to
+touch bottom if you had any feeling in your feet.  The waters motion is the
+only thing keeping the water from not freezing solid and frostbite will
+quickly set in if you do not hurry out of the water.  
+~
+0
+0 6
+D1
+~
+~
+0 0
+0 0 21024
+D3
+~
+~
+0 0
+0 0 21036
+S
+#21026
+{yA small path thru the {gt{yr{Ye{ye{gs{x~
+As you try and find where the strange sounds are comming from you
+discover a small path.  It looks as though someone or something has tryed to
+hastly cover it, but the broken branches and crushed twigs give it away.  A
+little further ahead and the path ends completely.  All around you the trees
+seem to close in and scream warnings about going on further.  The air seems
+thick and unnaturally warm for the boarderlands even with the tree cover.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 21029
+D1
+~
+~
+0 0
+0 0 21035
+D2
+~
+~
+3 3
+1 0 21013
+D3
+~
+~
+0 0
+0 0 21027
+S
+#21027
+{yAmoung the {gt{yr{Ye{ye{gs{x~
+A mixture of tall evergreen trees and snowcovered conifers that have long
+since seen their last leaf surround you.  Large snowbird nests sit in the
+tops of the conifer trees like huge beehives.  Every once in a while you can
+catch a glimpse of a plump white bird flying in or out of a nest with food
+for thier baby.  All in all, it is a very pleasent place.  Kind of warm to
+be in the middle of the boarderlands though.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 21028
+D1
+~
+~
+0 0
+0 0 21026
+S
+#21028
+{yThru the {gt{yr{Ye{ye{gs{x~
+The trees grow thicker here and seem to close in around you even more. 
+Leafs long dead from the frost try to hang on to their tree as they compete
+against the bitter wind that sweeps through the thicket.  To the north and
+to the west, the trees are too thick to even walk through easily leaving
+only two passages out.  One being the way you just came.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 21029
+D2
+~
+~
+0 0
+0 0 21027
+S
+#21029
+Darkness all around~
+All sence of direction is lost to you as you go deeper into the forest. 
+Eyes seem to be watching you from everywhere and there is a feel of unease
+in the air -- hot and dank.  A funny smell in the air drifts in and out of
+your notice.  It reminds you of something like burnt hair.  Maybe it is just
+the darkness playing tricks on you, but this place does feel a bit warmer.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 21030
+D1
+~
+~
+0 0
+0 0 21034
+D2
+~
+~
+0 0
+0 0 21026
+D3
+~
+~
+0 0
+0 0 21028
+S
+#21030
+Approching a small clearing~
+Through the darkness you can barely discern a faint glow to your east. 
+Something clicks that this could be where the whispering noise you heard
+back at the road originated.  To the west and north, the trees grow too
+thick to navigate leaving you with two possibilities.  Either go towards the
+glow and face whatever gruesome horrors await or go back the way you came.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 21031
+D2
+~
+~
+0 0
+0 0 21029
+S
+#21031
+A camp of Trolloc!~
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 21032
+D2
+~
+~
+0 0
+0 0 21034
+D3
+~
+~
+0 0
+0 0 21030
+S
+#21032
+Trollocs cooking a meal!~
+~
+0
+A 3
+D2
+~
+~
+0 0
+0 0 21033
+D3
+~
+~
+0 0
+0 0 21031
+S
+#21033
+A camp of Trollocs!~
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 21032
+D3
+~
+~
+0 0
+0 0 21034
+S
+#21034
+Surounded by darkness~
+All sence of direction is lost to you as you go deeper into the forest. 
+Eyes seem to be watching you from everywhere and there is a feel of unease
+in the air -- hot and dank.  A funny smell in the air drifts in and out of
+your notice.  It reminds you of something like burnt hair.  Maybe it is just
+the darkness playing tricks on you, but this place does feel a bit warmer.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 21031
+D1
+~
+~
+0 0
+0 0 21033
+D2
+~
+~
+0 0
+0 0 21035
+D3
+~
+~
+0 0
+0 0 21029
+S
+#21035
+{yThru the {gt{yr{Ye{ye{gs{x~
+The trees grow thicker here and seem to close in around you even more. 
+Leafs long dead from the frost try to hang on to their tree as they compete
+against the bitter wind that sweeps through the thicket.  To the south and
+to the east, the trees are too thick to even walk through easily leaving
+only two passages out.  One being the way you just came.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 21034
+D3
+~
+~
+0 0
+0 0 21026
+S
+#21036
+West bank of the river~
+The land is frozen solid in a flat plain all around you.  A small river
+filled with running water flows from the south to the north here blocking
+passage to the east.  You can see that it turns back to the west about a
+half mile up stream but the weather seems to be getting worse and crossing
+the water will be your best chance.  It can't be too cold, it isn't frozen
+yet.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21025
+D3
+~
+~
+0 0
+0 0 21037
+S
+#21037
+{rM{Rar{Wa{Rdo{rn{x from Afar~
+Finnally the snow clears and you have a first glance at Maradon.  Huge
+pointed roofs are the only thing you can discern from such a far distance
+away.  You can however, see an enormous wall made of neat rows of gray
+stone.  Tall watchtowers adorn the wall in four corners making the city look
+a possible challenge for even Arthur Hawkwing's fabled army.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21036
+D3
+~
+~
+0 0
+0 0 21038
+S
+#21038
+Approching {rM{Rar{Wa{Rdo{rn{x~
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21037
+D3
+~
+~
+0 0
+0 0 21039
+S
+#21039
+A closer look at {rM{Rar{Wa{Rdo{rn{x~
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21038
+D3
+~
+~
+0 0
+0 0 21040
+S
+#21040
+Before the {WEast Gate {cof {rM{Rar{Wa{Rdo{rn{x~
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 21039
+D3
+~
+~
+0 0
+0 0 21041
+S
+#21041
+Inside the East Gate~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21042
+D1
+~
+~
+0 0
+0 0 21040
+D2
+~
+~
+0 0
+0 0 21104
+D3
+~
+~
+0 0
+0 0 21105
+M 105 H 105
+S
+#21042
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21043
+D2
+~
+~
+0 0
+0 0 21041
+S
+#21043
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21044
+D2
+~
+~
+0 0
+0 0 21042
+S
+#21044
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21045
+D2
+~
+~
+0 0
+0 0 21043
+S
+#21045
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21046
+D2
+~
+~
+0 0
+0 0 21044
+D3
+~
+~
+0 0
+0 0 21123
+S
+#21046
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21047
+D2
+~
+~
+0 0
+0 0 21045
+S
+#21047
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21048
+D2
+~
+~
+0 0
+0 0 21046
+S
+#21048
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21049
+D2
+~
+~
+0 0
+0 0 21047
+S
+#21049
+north east corner~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 21048
+D3
+~
+~
+0 0
+0 0 21050
+S
+#21050
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21049
+D3
+~
+~
+0 0
+0 0 21051
+S
+#21051
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21050
+D3
+~
+~
+0 0
+0 0 21052
+S
+#21052
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21051
+D3
+~
+~
+0 0
+0 0 21053
+S
+#21053
+east north/south road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21052
+D2
+~
+~
+0 0
+0 0 21154
+D3
+~
+~
+0 0
+0 0 21054
+S
+#21054
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21053
+D3
+~
+~
+0 0
+0 0 21055
+S
+#21055
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21054
+D3
+~
+~
+0 0
+0 0 21056
+S
+#21056
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21055
+D3
+~
+~
+0 0
+0 0 21057
+S
+#21057
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21056
+D3
+~
+~
+0 0
+0 0 21058
+S
+#21058
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21057
+D3
+~
+~
+0 0
+0 0 21059
+S
+#21059
+against the north wall ~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21058
+D3
+~
+~
+0 0
+0 0 21060
+S
+#21060
+against the north wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21059
+D3
+~
+~
+0 0
+0 0 21061
+S
+#21061
+against the north wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21060
+D2
+~
+~
+0 0
+0 0 21183
+D3
+~
+~
+0 0
+0 0 21062
+S
+#21062
+against the north wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21061
+D3
+~
+~
+0 0
+0 0 21063
+S
+#21063
+against the north wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21062
+D3
+~
+~
+0 0
+0 0 21064
+S
+#21064
+against the north wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21063
+D3
+~
+~
+0 0
+0 0 21065
+S
+#21065
+north west corner~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21064
+D2
+~
+~
+0 0
+0 0 21066
+S
+#21066
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21065
+D2
+~
+~
+0 0
+0 0 21067
+S
+#21067
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21066
+D2
+~
+~
+0 0
+0 0 21068
+S
+#21068
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21067
+D2
+~
+~
+0 0
+0 0 21069
+S
+#21069
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21068
+D1
+~
+~
+0 0
+0 0 21137
+D2
+~
+~
+0 0
+0 0 21070
+S
+#21070
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21069
+D2
+~
+~
+0 0
+0 0 21071
+S
+#21071
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21070
+D2
+~
+~
+0 0
+0 0 21072
+S
+#21072
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21071
+D2
+~
+~
+0 0
+0 0 21073
+S
+#21073
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21072
+D1
+~
+~
+0 0
+0 0 21122
+D2
+~
+~
+0 0
+0 0 21074
+S
+#21074
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21073
+D2
+~
+~
+0 0
+0 0 21075
+S
+#21075
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21074
+D2
+~
+~
+0 0
+0 0 21076
+S
+#21076
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21075
+D2
+~
+~
+0 0
+0 0 21077
+S
+#21077
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21076
+D1
+~
+~
+0 0
+0 0 21152
+D2
+~
+~
+0 0
+0 0 21078
+S
+#21078
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21077
+D2
+~
+~
+0 0
+0 0 21079
+S
+#21079
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21078
+D2
+~
+~
+0 0
+0 0 21080
+S
+#21080
+against the west wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21079
+D2
+~
+~
+0 0
+0 0 21081
+S
+#21081
+south west corner~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21080
+D1
+~
+~
+0 0
+0 0 21082
+S
+#21082
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21083
+D3
+~
+~
+0 0
+0 0 21081
+S
+#21083
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21084
+D3
+~
+~
+0 0
+0 0 21082
+S
+#21084
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21085
+D3
+~
+~
+0 0
+0 0 21083
+S
+#21085
+against the south wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21172
+D1
+~
+~
+0 0
+0 0 21086
+D3
+~
+~
+0 0
+0 0 21084
+S
+#21086
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21087
+D3
+~
+~
+0 0
+0 0 21085
+S
+#21087
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21088
+D3
+~
+~
+0 0
+0 0 21086
+S
+#21088
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21089
+D3
+~
+~
+0 0
+0 0 21087
+S
+#21089
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21090
+D3
+~
+~
+0 0
+0 0 21088
+S
+#21090
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21091
+D3
+~
+~
+0 0
+0 0 21089
+S
+#21091
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21092
+D3
+~
+~
+0 0
+0 0 21090
+S
+#21092
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21093
+D3
+~
+~
+0 0
+0 0 21091
+S
+#21093
+against the south wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21164
+D1
+~
+~
+0 0
+0 0 21094
+D3
+~
+~
+0 0
+0 0 21092
+S
+#21094
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21095
+D3
+~
+~
+0 0
+0 0 21093
+S
+#21095
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21096
+D3
+~
+~
+0 0
+0 0 21094
+S
+#21096
+against the south wall~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21097
+D3
+~
+~
+0 0
+0 0 21095
+S
+#21097
+south east corner~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21098
+D3
+~
+~
+0 0
+0 0 21096
+S
+#21098
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21099
+D2
+~
+~
+0 0
+0 0 21097
+S
+#21099
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21100
+D2
+~
+~
+0 0
+0 0 21098
+S
+#21100
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21101
+D2
+~
+~
+0 0
+0 0 21099
+S
+#21101
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21102
+D2
+~
+~
+0 0
+0 0 21100
+D3
+~
+~
+0 0
+0 0 21138
+S
+#21102
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21103
+D2
+~
+~
+0 0
+0 0 21101
+S
+#21103
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21104
+D2
+~
+~
+0 0
+0 0 21102
+S
+#21104
+against the east wall~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21041
+D2
+~
+~
+0 0
+0 0 21103
+S
+#21105
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21041
+D3
+~
+~
+0 0
+0 0 21106
+S
+#21106
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21105
+D3
+~
+~
+0 0
+0 0 21107
+S
+#21107
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21106
+D3
+~
+~
+0 0
+0 0 21108
+S
+#21108
+crossroads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21158
+D1
+~
+~
+0 0
+0 0 21107
+D2
+~
+~
+0 0
+0 0 21159
+D3
+~
+~
+0 0
+0 0 21109
+S
+#21109
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21108
+D3
+~
+~
+0 0
+0 0 21110
+S
+#21110
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21109
+D3
+~
+~
+0 0
+0 0 21111
+S
+#21111
+east market square~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21226
+D1
+~
+~
+0 0
+0 0 21110
+D2
+~
+~
+0 0
+0 0 21112
+S
+#21112
+southeast market square~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21111
+D3
+~
+~
+0 0
+0 0 21113
+S
+#21113
+south market square~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21112
+D2
+~
+~
+0 0
+0 0 21114
+D3
+~
+~
+0 0
+0 0 21115
+S
+#21114
+Before the entrance to a tavern~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21113
+D2
+~
+~
+0 0
+0 0 21191
+S
+#21115
+south west market square~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21116
+D1
+~
+~
+0 0
+0 0 21113
+S
+#21116
+west market square~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21227
+D2
+~
+~
+0 0
+0 0 21115
+D3
+~
+~
+0 0
+0 0 21117
+S
+#21117
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21116
+D3
+~
+~
+0 0
+0 0 21118
+S
+#21118
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21117
+D3
+~
+~
+0 0
+0 0 21119
+S
+#21119
+crossroads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21179
+D1
+~
+~
+0 0
+0 0 21118
+D2
+~
+~
+0 0
+0 0 21177
+D3
+~
+~
+0 0
+0 0 21120
+S
+#21120
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21119
+D3
+~
+~
+0 0
+0 0 21121
+S
+#21121
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21120
+D3
+~
+~
+0 0
+0 0 21122
+S
+#21122
+center east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21121
+D3
+~
+~
+0 0
+0 0 21073
+S
+#21123
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21045
+D3
+~
+~
+0 0
+0 0 21124
+S
+#21124
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21123
+D3
+~
+~
+0 0
+0 0 21125
+S
+#21125
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21124
+D3
+~
+~
+0 0
+0 0 21126
+S
+#21126
+crossroads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21155
+D1
+~
+~
+0 0
+0 0 21125
+D2
+~
+~
+0 0
+0 0 21156
+D3
+~
+~
+0 0
+0 0 21127
+S
+#21127
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21126
+D3
+~
+~
+0 0
+0 0 21128
+S
+#21128
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21127
+D3
+~
+~
+0 0
+0 0 21129
+S
+#21129
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21128
+D3
+~
+~
+0 0
+0 0 21130
+S
+#21130
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21129
+D2
+~
+~
+0 0
+0 0 21223
+D3
+~
+~
+0 0
+0 0 21131
+S
+#21131
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21130
+D3
+~
+~
+0 0
+0 0 21132
+S
+#21132
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21131
+D3
+~
+~
+0 0
+0 0 21133
+S
+#21133
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21132
+D3
+~
+~
+0 0
+0 0 21134
+S
+#21134
+crossroads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21181
+D1
+~
+~
+0 0
+0 0 21133
+D2
+~
+~
+0 0
+0 0 21180
+D3
+~
+~
+0 0
+0 0 21135
+S
+#21135
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21134
+D3
+~
+~
+0 0
+0 0 21136
+S
+#21136
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21135
+D3
+~
+~
+0 0
+0 0 21137
+S
+#21137
+top east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21136
+D3
+~
+~
+0 0
+0 0 21069
+S
+#21138
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21101
+D3
+~
+~
+0 0
+0 0 21139
+S
+#21139
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21138
+D3
+~
+~
+0 0
+0 0 21140
+S
+#21140
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21139
+D3
+~
+~
+0 0
+0 0 21141
+S
+#21141
+crossroads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21161
+D1
+~
+~
+0 0
+0 0 21140
+D2
+~
+~
+0 0
+0 0 21162
+D3
+~
+~
+0 0
+0 0 21142
+S
+#21142
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21141
+D3
+~
+~
+0 0
+0 0 21143
+S
+#21143
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21142
+D3
+~
+~
+0 0
+0 0 21144
+S
+#21144
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21143
+D3
+~
+~
+0 0
+0 0 21145
+S
+#21145
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21144
+D3
+~
+~
+0 0
+0 0 21146
+S
+#21146
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21145
+D3
+~
+~
+0 0
+0 0 21147
+S
+#21147
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21146
+D3
+~
+~
+0 0
+0 0 21148
+S
+#21148
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21147
+D3
+~
+~
+0 0
+0 0 21149
+S
+#21149
+crossroads~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21175
+D1
+~
+~
+0 0
+0 0 21148
+D2
+~
+~
+0 0
+0 0 21174
+D3
+~
+~
+0 0
+0 0 21150
+S
+#21150
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21149
+D3
+~
+~
+0 0
+0 0 21151
+S
+#21151
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21150
+D3
+~
+~
+0 0
+0 0 21152
+S
+#21152
+bottom east/west road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21151
+D3
+~
+~
+0 0
+0 0 21077
+S
+#21154
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21053
+D2
+~
+~
+0 0
+0 0 21155
+D3
+~
+~
+0 0
+0 0 21190
+S
+#21155
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21154
+D2
+~
+~
+0 0
+0 0 21126
+S
+#21156
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21126
+D2
+~
+~
+0 0
+0 0 21157
+S
+#21157
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21156
+D2
+~
+~
+0 0
+0 0 21158
+S
+#21158
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21157
+D2
+~
+~
+0 0
+0 0 21108
+S
+#21159
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21108
+D2
+~
+~
+0 0
+0 0 21160
+S
+#21160
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21159
+D2
+~
+~
+0 0
+0 0 21161
+S
+#21161
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21160
+D2
+~
+~
+0 0
+0 0 21141
+S
+#21162
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21141
+D2
+~
+~
+0 0
+0 0 21163
+S
+#21163
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21162
+D2
+~
+~
+0 0
+0 0 21164
+D3
+~
+~
+0 0
+0 0 21165
+S
+#21164
+east north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21163
+D2
+~
+~
+0 0
+0 0 21093
+S
+#21165
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21163
+D3
+~
+~
+0 0
+0 0 21166
+S
+#21166
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21165
+D3
+~
+~
+0 0
+0 0 21167
+S
+#21167
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21166
+D3
+~
+~
+0 0
+0 0 21168
+S
+#21168
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21167
+D3
+~
+~
+0 0
+0 0 21169
+S
+#21169
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21168
+D3
+~
+~
+0 0
+0 0 21170
+S
+#21170
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21169
+D3
+~
+~
+0 0
+0 0 21171
+S
+#21171
+south link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21170
+D3
+~
+~
+0 0
+0 0 21173
+S
+#21172
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21173
+D2
+~
+~
+0 0
+0 0 21085
+S
+#21173
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21174
+D1
+~
+~
+0 0
+0 0 21171
+D2
+~
+~
+0 0
+0 0 21172
+S
+#21174
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21149
+D2
+~
+~
+0 0
+0 0 21173
+S
+#21175
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21176
+D2
+~
+~
+0 0
+0 0 21149
+S
+#21176
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21177
+D2
+~
+~
+0 0
+0 0 21175
+S
+#21177
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21119
+D2
+~
+~
+0 0
+0 0 21176
+S
+#21178
+west~
+~
+0
+C 1
+S
+#21179
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21180
+D2
+~
+~
+0 0
+0 0 21119
+S
+#21180
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21134
+D2
+~
+~
+0 0
+0 0 21179
+S
+#21181
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21182
+D2
+~
+~
+0 0
+0 0 21134
+S
+#21182
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21183
+D1
+~
+~
+0 0
+0 0 21184
+D2
+~
+~
+0 0
+0 0 21181
+S
+#21183
+west north/south road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21061
+D2
+~
+~
+0 0
+0 0 21182
+S
+#21184
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21185
+D3
+~
+~
+0 0
+0 0 21182
+S
+#21185
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21186
+D3
+~
+~
+0 0
+0 0 21184
+S
+#21186
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21187
+D3
+~
+~
+0 0
+0 0 21185
+S
+#21187
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21188
+D3
+~
+~
+0 0
+0 0 21186
+S
+#21188
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21189
+D3
+~
+~
+0 0
+0 0 21187
+S
+#21189
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21190
+D3
+~
+~
+0 0
+0 0 21188
+S
+#21190
+north link road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21154
+D3
+~
+~
+0 0
+0 0 21189
+S
+#21191
+Entrance to the Tavern~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21114
+D1
+~
+~
+0 0
+0 0 21194
+D2
+~
+~
+0 0
+0 0 21192
+D3
+~
+~
+0 0
+0 0 21195
+S
+#21192
+among the tables in the common room~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21191
+D1
+~
+~
+0 0
+0 0 21193
+D2
+~
+~
+0 0
+0 0 21203
+D3
+~
+~
+0 0
+0 0 21196
+S
+#21193
+among the common room tables.~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21194
+D2
+~
+~
+0 0
+0 0 21204
+D3
+~
+~
+0 0
+0 0 21192
+S
+#21194
+between some crowded tables~
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 21193
+D3
+~
+~
+0 0
+0 0 21191
+S
+#21195
+among the crowded tables~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 21191
+D2
+~
+~
+0 0
+0 0 21196
+S
+#21196
+among the tables in the common room~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21195
+D1
+~
+~
+0 0
+0 0 21192
+D2
+~
+~
+0 0
+0 0 21202
+S
+#21197
+Room in the Iron Rose inn~
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 21198
+D5
+~
+~
+0 0
+0 0 21204
+S
+#21198
+none~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21199
+D1
+~
+~
+0 0
+0 0 21197
+D3
+~
+~
+3 3
+1 0 21205
+S
+#21199
+none~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21200
+D1
+~
+~
+3 3
+1 0 21206
+D2
+~
+~
+0 0
+0 0 21198
+D3
+~
+~
+3 3
+1 0 21207
+S
+#21200
+none~
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 21208
+D2
+~
+~
+0 0
+0 0 21199
+D3
+~
+~
+3 3
+1 0 21209
+D4
+~
+~
+0 0
+0 0 21201
+S
+#21201
+Atop the winding staircase~
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 21211
+D2
+~
+~
+0 0
+0 0 21212
+D3
+~
+~
+3 3
+1 0 21210
+D5
+~
+~
+0 0
+0 0 21200
+S
+#21202
+Before the Bar~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21196
+D1
+~
+~
+0 0
+0 0 21203
+D5
+~
+~
+3 3
+1 0 21218
+S
+#21203
+Among some crowded tables~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21192
+D1
+~
+~
+0 0
+0 0 21204
+D3
+~
+~
+0 0
+0 0 21202
+S
+#21204
+the bottom of a winding staircase~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 21193
+D3
+~
+~
+0 0
+0 0 21203
+D4
+~
+~
+0 0
+0 0 21197
+S
+#21205
+none~
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 21198
+S
+#21206
+Room in the Iron Rose inn~
+~
+0
+0 1
+D3
+~
+~
+3 3
+1 0 21199
+S
+#21207
+none~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 21199
+S
+#21208
+Room in the Iron Rose inn~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 21200
+S
+#21209
+none~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 21200
+S
+#21210
+Room in the Iron Rose inn~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 21201
+S
+#21211
+Room in the Iron Rose inn~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 21201
+S
+#21212
+Third floor hallway~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21201
+D1
+~
+~
+3 3
+1 0 21215
+D2
+~
+~
+0 0
+0 0 21213
+D3
+~
+~
+3 3
+1 0 21216
+S
+#21213
+Third floor hallway~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21212
+D1
+~
+~
+3 3
+1 0 21214
+D3
+~
+~
+3 3
+1 0 21217
+S
+#21214
+Room in the Iron Rose inn~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 21213
+S
+#21215
+Room in the Iron Rose inn~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 21212
+S
+#21216
+Room in the Iron Rose inn~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 21212
+S
+#21217
+Room in the Iron Rose inn~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 21213
+S
+#21218
+in the dusty basement~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21222
+D1
+~
+~
+0 0
+0 0 21219
+D4
+~
+~
+3 3
+1 0 21202
+S
+#21219
+in the dusty basement~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21221
+D1
+~
+~
+39 39
+2 0 21220
+D3
+~
+~
+0 0
+0 0 21218
+S
+#21220
+in the dusty basement~
+~
+0
+0 0
+D3
+~
+~
+39 39
+2 0 21219
+S
+#21221
+in the dusty basement~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 21219
+D3
+~
+~
+0 0
+0 0 21222
+S
+#21222
+in the dusty basement~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21221
+D2
+~
+~
+0 0
+0 0 21218
+S
+#21223
+path to market square~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21130
+D2
+~
+~
+0 0
+0 0 21224
+S
+#21224
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21223
+D2
+~
+~
+0 0
+0 0 21225
+S
+#21225
+market square~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 21224
+D1
+~
+~
+0 0
+0 0 21226
+D3
+~
+~
+0 0
+0 0 21227
+S
+#21226
+market square~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 21111
+D3
+~
+~
+0 0
+0 0 21225
+S
+#21227
+market square~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 21225
+D2
+~
+~
+0 0
+0 0 21116
+S
+#21296
+{W   --)({cF{Dl{wo{Wat{wi{Dn{cg{w above the {WC{wl{Wo{wu{Wd{ws{W)(--{w~
+{cWhat happaned?  Where are you?  You look around but you see nothing
+but clouds and blue sky, you look down and you notice that you seem to
+be standing on virtually nothing.  A little way off in the distance you
+see that there is what appears to be a small steady stream of smoke
+rising from the clouds.  You attempt to walk that way slowly, but
+without knowing how you somehow teleport yourself there immediately. You
+are still standing on nothing but it appears to be more stable than it
+had.  You look to your right and see a man, a short darkly-tanned man
+sitting on a cloud smoking {YD{ya {rP{ce{wa{cc{re {yP{wi{yp{we{c.  As soon as you look at him
+he takes {YD{ya {rP{ce{wa{cc{re {yP{wi{yp{we{c out of his mouth and says in a strange accent
+{c"{rHello, I am al'mitsudijaru.  I was not informed that were coming, but if you will please proceed to your....{c"
+the man's words trail off as you realize that you are surrounded by the clouds
+now-at some point they must have moved in around you without you taking notice
+of it.  You take a step to find al'whatever his name was again and...
+{w
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 21297
+D1
+~
+~
+0 0
+0 0 21297
+D2
+~
+~
+0 0
+0 0 21297
+D3
+~
+~
+0 0
+0 0 21297
+D4
+~
+~
+0 0
+0 0 21297
+D5
+~
+~
+0 0
+0 0 21297
+M 10000 H 10000
+S
+#21297
+{cInside of {rF{Da{Wyd{De{rn{c's Personal {CIgloo{w~
+~
+0
+C 9
+S
+#21298
+{DM{wa{Di{wn {DOff{wic{We{x~
+~
+0
+CDJKN 0
+D2
+~
+~
+0 0
+0 21299 21299
+M 1000 H 1000
+S
+#21299
+Available~
+~
+0
+C 0
+D0
+~
+~
+39 39
+2 21299 21298
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 21013 0 1
+D 0 21026 2 1
+D 0 21198 3 1
+D 0 21199 1 1
+D 0 21199 3 1
+D 0 21200 1 1
+D 0 21200 3 1
+D 0 21201 1 1
+D 0 21201 3 1
+D 0 21202 5 1
+D 0 21205 1 1
+D 0 21206 3 1
+D 0 21207 1 1
+D 0 21208 3 1
+D 0 21209 1 1
+D 0 21210 1 1
+D 0 21211 3 1
+D 0 21212 1 1
+D 0 21212 3 1
+D 0 21213 1 1
+D 0 21213 3 1
+D 0 21214 3 1
+D 0 21215 3 1
+D 0 21216 1 1
+D 0 21217 1 1
+D 0 21218 4 1
+D 0 21219 1 2
+D 0 21220 3 2
+D 0 21299 0 2
+M 0 21202 1 21202 1
+S
+
+
+
+#SHOPS
+21202 17 0 0 0 0 100 85 0 23
+0
+
+
+
+#$

@@ -1,0 +1,73 @@
+#AREADATA
+Name Caemlyn Palace~
+Builders None~
+VNUMs 13300 13399
+Credits Eldoran~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#13399
+sign~
+an odd sign~
+A sign is floating here in the midst of chaos.~
+cloth~
+warp_stone IOY P
+0 0 0 0 0
+0 1 0 100
+E
+sign~
+East - Caemlyn East Gate
+West - Caemlyn West Gate
+North - Caemlyn North Gate
+South - Caemlyn South Gate
+Down - Main Street Caemlyn
+Up - Intersection of Palace and New City Crossing
+~
+#0
+
+
+
+#ROOMS
+#13300
+Chaos~
+Eddies of time and space swirl about you as you float in the endless void
+of chaos.  Incoherent flashes of light and color fill your view and
+disappear in the blink of an eye.  This is what must have existed before the
+Gods created the Universe.
+~
+0
+CDKP 0
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

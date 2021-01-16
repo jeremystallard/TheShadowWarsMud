@@ -1,0 +1,6222 @@
+#AREADATA
+Name Tanchico - Main City~
+Builders Oniren~
+VNUMs 11200 11399
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#11200
+school master quest~
+the {gS{Gchoo{gl M{Gaste{gr{x~
+The {gS{Gchoo{gl M{Gaste{gr{x sits at the {Dlo{yng de{Dsk{x with a stern look upon his face.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#11201
+master illuminator trainer gainer~
+a {rM{Ra{Yst{Re{rr I{Rll{Yumina{Rto{rr{x~
+A brown-haired man stands at the front of the class, lecturing as he scribbles down equations on the chalkboard.
+~
+~
+taraboner~
+ABJb 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+F gain A
+F train A
+V tlevel 85
+#11202
+master illuminator healer~
+a {rM{Ra{Yst{Re{rr I{Rll{Yumina{Rto{rr{x~
+A woman with graying braids stands at the front of the class, lecturing the students about first aid.
+~
+~
+taraboner~
+ABa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#11203
+treasurer banker changer~
+the {BTre{ba{Bs{bu{Brer{x~
+The {BTre{ba{Bs{bu{Brer{x sits behind the{D lo{yng de{Dsk{x, looking bored.
+~
+~
+taraboner~
+ABDd 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#11204
+wandering man~
+a wandering man~
+A man dressed in a {Wn{ci{Wg{ch{Wt{cs{Wh{ci{Wr{ct{x and {Wn{ci{Wg{ch{Wt{cc{Wa{cp{x looks lost as he wanders around the complex.
+~
+~
+taraboner~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+B
+3 3 3 3
+N AB 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#11205
+young student illuminator~
+a {gy{Goun{gg s{Gtuden{gt{x~
+A {gy{Goun{gg s{Gtuden{gt{x writes down notes in a book as they listen intently to the lecture.
+~
+~
+taraboner~
+ABS 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N ABb 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#11206
+illuminator~
+an {rI{Rll{Yumina{Rto{rr{x~
+An {rI{Rll{Yumina{Rto{rr{x sits at one of the {Dta{ybl{Des{x making fireworks.
+~
+~
+taraboner~
+ABS 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+N ABb 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#11207
+young student illuminator~
+a {gy{Goun{gg s{Gtuden{gt{x~
+A {gy{Goun{gg s{Gtuden{gt{x sits at one of the {Dta{ybl{Des{x, trying to piece together a firework.
+~
+~
+taraboner~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#11208
+illuminator~
+an {rI{Rll{Yumina{Rto{rr{x~
+One of the {rI{Rll{Yuminat{Ror{rs{x paces around the workshop as they watch over the {gy{Goun{gg s{Gtudent{gs{x.
+~
+~
+taraboner~
+ABT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#11209
+illuminator guild guard~
+a {rG{Ruil{rd G{Ruar{rd{x~
+A {rG{Ruil{rd G{Ruar{rd{x stands watch at the entrance into the {rI{Rll{Yuminat{Ror{rs'{x complex.
+~
+~
+taraboner~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CE ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11210
+Civil Watch~
+a member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x~
+A member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x stands on guard at the City Gate.
+~
+~
+taraboner~
+ABT 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CE ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11211
+Civil Watch~
+a member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x~
+A member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x vigilantly patrols the area.
+~
+~
+taraboner~
+AGTW 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CE AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11212
+bare chested dockworker~
+a bare-chested {cdockworker{x~
+A bare-chested {cdockworker{x ambles along rolling a barrel before him.
+~
+~
+taraboner~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11213
+spindly dockworker~
+a spindly {cdockworker{x~
+A spindly {cdockworker{x wheels a barrow full of goods towards one of the warehouses.
+~
+~
+taraboner~
+AGSW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11214
+sailor~
+a {cs{Ca{wil{Co{cr{x~
+A {cs{Ca{wil{Co{cr{x strolls along the road on his way to one of the local taverns.
+~
+~
+taraboner~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11215
+sailor~
+a {cs{Ca{wil{Co{cr{x~
+A {cs{Ca{wil{Co{cr{x appears to be in a hurry as he makes his way to the docks.
+~
+~
+taraboner~
+AGSW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11216
+wagon driver~
+a {yw{wag{Won dri{wve{yr{x~
+A {yw{wag{Won dri{wve{yr{x carefully negotiates his horse-drawn vehicle down the road.
+~
+~
+taraboner~
+AGTW 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11217
+warehouse worker~
+a {cwarehouse worker{x~
+A {cwarehouse worker{x mutters irritably to himself as he attends to his duties.
+~
+~
+taraboner~
+ABT 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11218
+Civil Watch~
+a member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x~
+A member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x patrols the tower.
+~
+~
+taraboner~
+AGTY 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+CE AB 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11219
+Civil Watch~
+a member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x~
+A member of the {WC{wi{Dv{wi{Wl W{wa{Dt{wc{Wh{x watches over the surrounding area from the battlements.
+~
+~
+taraboner~
+ABS 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 punch
+0 0 0 0 0
+A
+4 4 4 4
+EN ABb 0 0
+stand stand male 25
+0 0 medium 'unknown'
+#11220
+tavern owner~
+the tavern owner~
+The tavern's owner looks bored as he sweeps the floor of the common room.
+~
+~
+taraboner~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+I ABb 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#11221
+man male illuminator~
+a male {rI{Rll{Yumina{Rto{rr{x~
+A man is sat at one of the {Dta{ybl{Des{x conversing with his friends.
+~
+~
+taraboner~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#11222
+woman female illuminator~
+a female {rI{Rll{Yumina{Rto{rr{x~
+A woman is sat at one of the {Dta{ybl{Des{x conversing with her friends.
+~
+~
+taraboner~
+ABS 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N ABb 0 0
+stand stand female 20
+0 0 medium 'unknown'
+#11223
+gruff man cart driver male illuminator~
+a male {rI{Rll{Yumina{Rto{rr{x~
+A gruff-looking man guides his oxen-drawn {yc{war{yt{x down the road.
+~
+~
+taraboner~
+AGTW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#11224
+colorfully dressed man male illuminator~
+a male {rI{Rll{Yumina{Rto{rr{x~
+A colorfully-dressed man carrying a {Ds{yatche{Dl{x hurries down the road.
+~
+~
+taraboner~
+AGTW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+I AB 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#11225
+colorfully dressed woman male illuminator~
+a female {rI{Rll{Yumina{Rto{rr{x~
+A colorfully-dressed woman is seen here chatting with a friend.
+~
+~
+taraboner~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+I AB 0 0
+stand stand female 20
+0 0 medium 'unknown'
+#11226
+young child illuminator~
+a young {rI{Rll{Yumina{Rto{rr{x~
+A young child runs around the complex, playing with their friends.
+~
+~
+taraboner~
+AGSW 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N AB 0 D
+stand stand either 5
+0 0 small 'unknown'
+#11227
+young boy~
+a young boy~
+A young boy is in the street playing tag with his friends.
+~
+~
+taraboner~
+AGTW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+I AB 0 0
+stand stand male 5
+0 0 small 'unknown'
+#11228
+young girl~
+a young girl~
+A young girl is in the street playing tag with her friends.
+~
+~
+taraboner~
+AGSW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+I AB 0 0
+stand stand female 5
+0 0 small 'unknown'
+#11229
+teenage boy~
+a teenage boy~
+A teenage boy hurries down the road.
+~
+~
+taraboner~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+J AB 0 0
+stand stand male 10
+0 0 medium 'unknown'
+#11230
+teenage girl~
+a teenage girl~
+A teenage girl darts along the crowded street.
+~
+~
+taraboner~
+AGTW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand female 10
+0 0 medium 'unknown'
+#11231
+local man~
+a local man~
+A local man ambles along the road on his way to work.
+~
+~
+taraboner~
+AGTW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+I AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11232
+local woman~
+a local woman~
+A local woman strolls along the road on her way to work.
+~
+~
+taraboner~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+J AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#11233
+elderly man~
+an elderly man~
+An elderly man shuffles along the road.
+~
+~
+taraboner~
+AGSW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+N AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11234
+elderly woman~
+an elderly woman~
+An elderly woman totters down the road.
+~
+~
+taraboner~
+AGTW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+C AB 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#11235
+stray dog~
+a {ystray dog{x~
+A {ystray dog{x sniffs at the ground in search of food.
+~
+~
+dog~
+AGW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 bite
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off H
+#11236
+stray cat~
+a {Dstray cat{x~
+A {Dstray cat{x prowls around the area.
+~
+~
+cat~
+AGW J 0 0
+50 40 26d27+2500 50d10+100 6d6+25 scratch
+0 0 0 0 0
+A
+2 2 2 2
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F off FH
+#11237
+young traveler~
+a young traveler~
+A young traveler strolls through the city looking lost.
+~
+~
+amadician~
+AGSW 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+J AB 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#11238
+burly men man sedan chair bearer~
+a {Ds{yeda{Dn c{yhai{Dr{x bearer~
+The crowds make way for a {Ds{yeda{Dn c{yhai{Dr{x being carried by two burly men.
+~
+~
+taraboner~
+AGSW 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+J AB 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11239
+bouncer~
+a bouncer~
+A bouncer watches over customers inside the common room.
+~
+~
+taraboner~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+C ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11240
+bartender~
+a bartender~
+A bartender stands behind the bar serving the tavern's customers.
+~
+~
+taraboner~
+ABS 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+N ABb 0 0
+stand stand male 45
+0 0 medium 'unknown'
+#11241
+rowdy customer~
+a rowdy customer~
+A rowdy customer is sat at one of the {Dta{ybl{Des{x, downing ale and belching out songs.
+~
+~
+taraboner~
+ABT 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+I ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11242
+blacksmith~
+the {Dblacksmith{x~
+The {Dblacksmith{x is here watching over his apprentices.
+~
+~
+taraboner~
+ABE 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11243
+blacksmiths apprentice~
+a {Dblacksmith's apprentice{x~
+One of the {Dblacksmith's apprentices{x hurries around the workshop trying to complete his chores.
+~
+~
+taraboner~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11244
+gray haired man shopkeeper~
+the shopkeeper~
+A gray-haired man is standing behind the wooden counter.
+~
+~
+taraboner~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C ABb 0 0
+stand stand male 45
+0 0 medium 'unknown'
+#11245
+baker~
+the {ybaker{x~
+The {ybaker{x grins as he serves his customers from behind the shop counter.
+~
+~
+taraboner~
+ABS 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+N ABb 0 0
+stand stand male 45
+0 0 medium 'unknown'
+#11246
+shopkeeper~
+the {bshopkeeper{x~
+The {bshopkeeper{x watches over his customers with a hawk-like gaze.
+~
+~
+taraboner~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C ABb 0 0
+stand stand male 45
+0 0 medium 'unknown'
+#11247
+shopkeeper~
+the {rshopkeeper{x~
+The {rshopkeeper{x looks bored as she serves her customers.
+~
+~
+taraboner~
+ABS 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+N ABb 0 0
+stand stand female 45
+0 0 medium 'unknown'
+#11248
+wine merchant~
+the {mwine merchant{x~
+The {mwine merchant{x stands behind the counter, pleasantly greeting all of her customers.
+~
+~
+taraboner~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+C ABb 0 0
+stand stand female 45
+0 0 medium 'unknown'
+#11249
+casual shopper~
+a casual shopper~
+A shopper browses casually at the items in this shop.
+~
+~
+taraboner~
+ABS 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+N ABb 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#11250
+busy shopper person~
+a busy shopper~
+This person appears to be in a hurry to get their shopping done.
+~
+~
+taraboner~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+A
+2 2 2 2
+C ABb 0 0
+stand stand either 15
+0 0 medium 'unknown'
+#11251
+bowyer~
+a {cbowyer{x~
+The {cbowyer{x sits at a workbench at the back of the shop making bows.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11252
+young man fletcher~
+a {cfletcher{x~
+A {cyoung man{x sits at the workbench crafting arrows.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11253
+cobbler~
+a {ycobber{x~
+The {ycobbler{x sits at his workbench making more boots and shoes.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11254
+apprentice cobbler~
+an {yapprentice cobbler{x~
+One of the {ycobbler's apprentices{x scurries around the workshop attending to his duties.
+~
+~
+taraboner~
+ABS 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+N ABb 0 0
+stand stand male 15
+0 0 medium 'unknown'
+#11255
+shopkeeper~
+a {Cshopkeeper{x~
+The {Cshopkeeper{x stands behind the counter, twiddling his thumbs and looking bored.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11256
+dozy shopkeeper~
+a dozy {Gshopkeeper{x~
+A dozy {Gshopkeeper{x sits behind the store counter.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#11257
+leather worker~
+a {Dl{yeathe{Dr w{yorke{Dr{x~
+A {Dl{yeathe{Dr w{yorke{Dr{x sits at her workbench creating more items to sell.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#11258
+white haired shopkeeper~
+a white-haired {Yshopkeeper{x~
+A white-haired {Yshopkeeper{x stands behind the counter.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#11259
+shopkeeper~
+a {mshopkeeper{x~
+The {mshopkeeper{x hurries around the room, trying to serve her customers.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand female 4999
+0 0 medium 'unknown'
+#11260
+shop assistant~
+a shop assistant~
+One of the shop assistants is busy helping out around the store.
+~
+~
+taraboner~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+I ABb 0 0
+stand stand either 25
+0 0 medium 'unknown'
+#11261
+hedge doctor~
+a {Ghedge doctor{x~
+A {Ghedge doctor{x grins slyly as he stands behind the counter.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11262
+tattoo artist~
+the {Dt{ra{Rtt{ro{Do a{rr{Rti{rs{Dt{x~
+The {Dt{ra{Rtt{ro{Do a{rr{Rti{rs{Dt{x paces up and down the room, looking bored as he waits for new customers.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11263
+tall guard~
+a {Dt{wa{Wll gua{wr{Dd{x~
+A {Dt{wa{Wll gua{wr{Dd{x stands in one corner of the shop.
+~
+~
+taraboner~
+ABT 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+A
+2 2 2 2
+CE ABb 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#11264
+beady eyed jeweler~
+a {Wjeweler{x~
+A beady-eyed {Wjeweler{x peers over the top of the counter.
+~
+~
+taraboner~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 AB 0 0
+stand stand male 4999
+0 0 medium 'unknown'
+#11265
+beady eyed rat~
+a {ybeady-eyed rat{x~
+A {ybeady-eyed rat{x scurries behind one of the crates.
+~
+~
+rabbit~
+AB Q 0 0
+47 37 24d24+2209 47d10+100 5d12+23 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#11266
+sneaky rat~
+a {ysneaky rat{x~
+A {ysneaky rat{x tries to hide amongst the shadows.
+~
+~
+rabbit~
+AGY PQ 0 0
+47 37 24d24+2209 47d10+100 5d12+23 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 AB 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#11267
+beady eyed raven~
+a {Dbeady-eyed raven{x~
+A {Dbeady-eyed raven{x hops along the battlements.
+~
+~
+song bird~
+AB 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 peck
+0 0 0 0 0
+A
+1 1 1 1
+0 ABb 0 0
+stand stand either 0
+0 0 small 'unknown'
+F off FH
+#0
+
+
+
+#OBJECTS
+#11200
+long desk padded chairs~
+a {Dlo{yng de{Dsk{x flanked by two {Dp{ya{gdd{ye{Dd c{yh{gai{yr{Ds{x~
+A {Dlo{yng de{Dsk{x has been placed at the center of the office, flanked by two {Dp{ya{gdd{ye{Dd c{yh{gai{yr{Ds{x.~
+wood~
+furniture S P
+2 2000 DG 100 100
+0 0 0 100
+#11201
+star crest large iron key~
+a {Dl{warg{De i{wro{Dn k{we{Dy{x engraved with a {Ds{wt{War cre{ws{Dt{x~
+A large iron key with a star crest engraved upon it has been left here.~
+iron~
+key Pb A
+0 0 0 0 0
+0 0 0 100
+#11202
+hessian sack coins~
+a {yhe{wssi{yan s{wac{yk{x filled with {yc{Yo{Wi{wn{Ds{x~
+A hessian sack full of coins has been stashed behind some of the crates.~
+gold~
+money a A
+1000 250 0 0 0
+0 10 0 100
+#11203
+hidden drawer~
+a {Dhi{ydd{Den dr{yaw{Der{x located inside the {Dlo{yng de{Dsk{x~
+The {Dlo{yng de{Dsk{x has been fitted with a {Dhi{ydd{Den dr{yaw{Der{x.~
+wood~
+container Sa P
+10 AC 0 10 100
+0 0 0 100
+#11204
+sun crest large iron key~
+a {Dl{warg{De i{wro{Dn k{we{Dy{x engraved with a {ys{Yu{Wn cr{Yes{yt{x~
+A large iron key with a sun crest engraved upon it has been left here.~
+iron~
+key Pb A
+0 0 0 0 0
+0 0 0 100
+#11205
+tables benches~
+one of the {Dta{ybl{Des{x~
+There are several rows of {Dbe{ynch{Des{x and {Dta{ybl{Des{x in the workshop.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+#11206
+chainmail tunic~
+a {Dc{wh{Wa{Di{wn{Wm{Da{wi{Wl{D t{wu{Wn{Di{wc{x~
+A chainmail tunic has been left here.~
+steel~
+armor 0 AD
+22 22 22 4 0
+70 5 250 100
+A
+17 -5
+A
+12 20
+A
+13 20
+#11207
+chainmail veil~
+a {Dc{wh{Wa{Di{wn{Wm{Da{wi{Wl{x {Dv{we{Wi{Dl{x~
+A chainmail veil has been left here.~
+steel~
+armor 0 AV
+22 22 22 4 0
+70 1 250 100
+A
+17 -5
+A
+12 20
+A
+13 20
+#11208
+rounded steel helmet~
+a {Dr{wo{Wund{we{Dd s{wt{We{we{Dl h{we{Wlm{we{Dt{x~
+A rounded steel helmet has been left here.~
+steel~
+armor 0 AE
+22 22 22 4 0
+70 2 300 100
+A
+17 -5
+A
+12 20
+A
+13 20
+#11209
+studded wooden club~
+a {Ds{wtu{ydd{we{Dd{x {Dw{yoode{Dn c{ylu{Db{x~
+A studded wooden club has been left here.~
+iron~
+weapon 0 AN
+mace 8 13 'smash' 0
+70 2 150 100
+A
+5 1
+A
+2 1
+A
+1 1
+#11210
+short coat gray wool~
+a {Ds{whor{Dt c{woa{Dt{x made of {Dg{wra{Dy w{woo{Dl{x~
+A short coat made of gray wool has been left here.~
+wool~
+armor 0 AD
+22 22 22 4 0
+70 4 60 100
+A
+18 3
+#11211
+sturdy steel cap~
+a {Ds{wtur{Wdy{D s{wte{Wel{D c{wa{Wp{x~
+A sturdy steel cap has been left here.~
+steel~
+armor 0 AE
+22 22 22 4 0
+70 2 300 100
+A
+17 -15
+#11212
+oaken staff~
+an {yo{wa{Wk{we{yn s{wt{Wa{wf{yf{x~
+An oaken staff has been left here.~
+wood~
+weapon S AN
+staff 8 13 'smash' F
+70 2 150 100
+A
+19 3
+#11213
+oaken cudgel~
+an {yo{wa{Wk{we{yn c{wu{Wdg{we{yl{x~
+An oaken cudgel has been left here.~
+wood~
+weapon S AN
+mace 8 13 'smash' 0
+70 4 150 100
+A
+19 3
+#11214
+sturdy long bow~
+a sturdy {yl{wo{Wng bo{yw{x~
+A sturdy long bow has been left here.~
+wood~
+weapon S AN
+bow 8 13 'thwack' F
+70 3 150 100
+A
+19 3
+#11215
+plain arrow white fletchings~
+a {yp{wl{Wain arr{wo{yw{x with {Ww{wh{Wi{wt{We {wf{Wl{we{Wt{wc{Wh{wi{Wn{wg{Ws{x~
+A plain arrow with white fletchings has been left here.~
+wood~
+weapon S AO
+exotic 8 13 'none' 0
+70 0 0 100
+#11216
+benches tables~
+one of the {Dta{ybl{Des{x~
+There are numerous {Dbe{ynch{Des{x and {Dta{ybl{Des{x arranged neatly around the common room.~
+wood~
+furniture S P
+10 10000 DG 100 100
+0 0 0 100
+#11217
+lucky horseshoe iron~
+a {gl{Guck{gy{x {Dho{wrs{We{wsh{Doe{x~
+An iron horseshoe has been left here.~
+iron~
+trash 0 AO
+0 0 0 0 0
+40 1 1000 100
+A
+17 10
+A
+18 1
+A
+19 1
+#11218
+curved hunting bow~
+a curved {yh{Du{wnti{Dn{yg{w b{Do{yw{x~
+A curved hunting bow has been left here.~
+wood~
+weapon S AN
+bow 9 14 'thwack' F
+85 2 200 100
+A
+18 5
+#11219
+heavy crossbow~
+a heavy {Dc{yro{Dss{ybo{Dw{x~
+A heavy crossbow has been left here.~
+wood~
+weapon S AN
+bow 8 13 'thwack' F
+70 3 190 100
+A
+18 3
+#11220
+massive long bow~
+a massive {rl{yong bo{rw{x~
+A massive long bow has been left here.~
+wood~
+weapon S AN
+bow 6 11 'thwack' F
+55 3 180 100
+A
+18 2
+#11221
+lightweight short bow~
+a lightweight {ys{wh{Wort b{wo{yw{x~
+A lightweight short bow has been left here.~
+wood~
+weapon S AN
+bow 5 10 'thwack' F
+40 1 170 100
+#11222
+purple flectched arrow~
+a {mp{Mu{mrp{Ml{me-f{Ml{mectch{Me{md{x {ya{wr{Dr{wo{yw{x~
+A purple-flectched arrow has been left here.~
+wood~
+weapon S AO
+arrow 10 15 'pierce' 0
+90 0 18 100
+#11223
+yellow fletched arrow~
+a {yy{Yello{yw-f{Yletche{yd{x {ya{wr{Dr{wo{yw{x~
+A yellow-fletched arrow has been left here.~
+wood~
+weapon S AO
+arrow 9 14 'pierce' 0
+80 0 16 100
+#11224
+green fletched arrow~
+a {gg{Gree{gn-f{Gletche{gd{x {ya{wr{Dr{wo{yw{x~
+A green-fletched arrow has been left here.~
+wood~
+weapon S AO
+arrow 8 13 'pierce' 0
+70 0 14 100
+#11225
+white fletched arrow~
+a {ww{Whit{we-f{Wletche{wd{x {ya{wr{Dr{wo{yw{x~
+A white-fletched arrow has been left here.~
+wood~
+weapon S AO
+arrow 7 12 'pierce' 0
+60 0 12 100
+#11226
+black fletched arrow~
+a {Db{wl{Da{wc{Dk-f{wl{Detch{we{Dd{x {ya{wr{Dr{wo{yw{x~
+A black-fletched arrow has been left here.~
+wood~
+weapon S AO
+arrow 6 11 'pierce' 0
+50 0 10 100
+#11227
+blue fletched arrow~
+a {bb{Blu{be-f{Bletche{bd{x {ya{wr{Dr{wo{yw{x~
+A blue-fletched arrow has been left here.~
+wood~
+weapon S AO
+arrow 5 10 'pierce' 0
+40 0 8 100
+#11228
+red fletched arrow~
+a {rr{Re{rd-f{Rl{re{Rtc{rh{Re{rd{x {ya{wr{Dr{wo{yw{x~
+A red-fletched arrow has been left here.~
+wood~
+weapon S AO
+arrow 5 9 'pierce' 0
+30 0 6 100
+#11229
+green dancing shoes~
+a pair of {gg{Gree{gn d{Ga{gn{Gc{gi{Gn{gg s{Gh{go{Ge{gs{x~
+A pair of green dancing shoes has been left here.~
+velvet~
+armor S AG
+22 22 22 4 0
+70 1 95 100
+A
+2 3
+#11230
+purple dancing shoes~
+a pair of {mp{Mu{mrp{Ml{me d{Ma{mn{Mc{mi{Mn{mg s{Mh{mo{Me{ms{x~
+A pair of purple dancing shoes has been left here.~
+velvet~
+armor S AG
+19 19 19 3 0
+60 1 90 100
+A
+2 2
+#11231
+turned down red leather boots~
+a pair of {rt{Rurne{rd-d{Row{rn{x {rred leather boots{x~
+A pair of turned-down red leather boots has been left here.~
+velvet~
+armor S AG
+16 16 16 2 0
+50 2 85 100
+A
+2 1
+#11232
+turned down brown leather boots~
+a pair of {yt{Yurne{yd-d{Yow{yn{x {ybrown leather boots{x~
+A pair of turned-down brown leather boots has been left here.~
+velvet~
+armor S AG
+12 12 12 4 0
+40 2 80 100
+#11233
+cat nine tails~
+a {yc{Da{yt{x of {yn{Din{ye t{Dail{ys{x~
+A cat of nine tails has been left here.~
+leather~
+weapon S AN
+whip 8 13 'beating' 0
+70 1 200 100
+A
+19 1
+A
+18 2
+#11234
+silver ferruled quarterstaff~
+a {Ds{wilv{Wer-fe{wrrule{Dd{x {rq{yuarterstaf{rf{x~
+A silver-ferruled quarterstaff has been left here.~
+wood~
+weapon 0 AN
+staff 8 13 'smash' F
+70 4 200 100
+A
+19 1
+A
+18 2
+#11235
+spiked battle hammer~
+a {Ds{wp{Wi{Dk{we{Wd{D b{wa{Wt{Dt{wl{We{D h{wa{Wm{Dm{we{Wr{x~
+A spiked battle hammer has been left here.~
+steel~
+weapon 0 AN
+mace 8 13 'smash' F
+70 6 200 100
+A
+19 1
+A
+18 2
+#11236
+pike oaken haft~
+a {Dp{wik{We{x with an {go{yake{gn h{yaf{gt{x~
+A pike with an oaken haft has been left here.~
+steel~
+weapon 0 AN
+polearm 8 13 'stab' F
+70 6 200 100
+A
+19 1
+A
+18 2
+#11237
+braided leather whip sharp steel tip~
+a {yb{Dr{ya{Di{yd{De{yd{x {yl{De{ya{Dt{yh{De{yr w{Dhi{yp{x with a {Ds{wh{Wa{wr{Dp s{wt{We{we{Dl t{wi{Dp{x~
+A braided leather whip has been left here.~
+leather~
+weapon 0 AN
+whip 6 11 'beating' 0
+55 1 175 100
+A
+19 1
+A
+18 1
+#11238
+white oak staff~
+a {yw{wh{Wite oak sta{wf{yf{x~
+A white oak staff has been left here.~
+wood~
+weapon 0 AN
+staff 6 11 'smash' F
+55 4 175 100
+A
+19 1
+A
+18 1
+#11239
+dark steel cudgel~
+a {Dda{wr{Wk-s{wt{Deel{x wrapped {yc{Du{ydg{De{yl{x~
+A dark-steel cudgel has been left here.~
+steel~
+weapon 0 AN
+mace 6 11 'smash' 0
+55 6 175 100
+A
+19 1
+A
+18 1
+#11240
+dark steel glaive~
+a {Dda{wr{Wk-s{wt{Deel{x bladed {Dg{wl{Wai{wv{De{x~
+A dark-steel glaive has been left here.~
+steel~
+weapon 0 AN
+polearm 6 11 'slash' F
+55 6 175 100
+A
+19 1
+A
+18 1
+#11241
+bleached leather whip~
+a {yb{wl{Weach{we{yd l{we{Wath{we{yr w{whi{yp{x~
+A bleached leather whip has been left here.~
+leather~
+weapon S AN
+whip 5 10 'beating' 0
+40 1 150 100
+#11242
+shepherds crook~
+a {Ds{yhepher{Dd's c{yroo{Dk{x~
+A shepherd's crook has been left here.~
+wood~
+weapon 0 AN
+staff 5 10 'smash' F
+40 4 150 100
+#11243
+flanged iron mace~
+a {Df{wla{Dn{wge{Dd i{wro{Dn m{wac{De{x~
+A flanged iron mace has been left here.~
+iron~
+weapon 0 AN
+mace 5 10 'smash' 0
+40 6 150 100
+#11244
+rusty steel scythe~
+a {rr{yu{ws{yt{ry s{yt{we{ye{rl s{yc{wyt{yh{re{x~
+A rusty steel scythe has been left here.~
+steel~
+weapon 0 AN
+polearm 5 10 'slash' F
+40 6 150 100
+#11245
+steel greaves ocean waves~
+a set of {Ds{wt{We{we{Dl{x {Dg{wr{Weav{we{Ds{x engraved with {bo{Bc{ce{Ba{bn w{Ba{cv{Be{bs{x~
+A set of steel greaves engraved with ocean waves has been left here.~
+steel~
+armor 0 AF
+22 22 22 4 0
+70 4 350 100
+A
+17 -15
+#11246
+steel vambraces ocean waves~
+a set of {Ds{wt{We{we{Dl{x {Dv{wa{Wm{wb{Dr{wa{Wc{we{Ds{x engraved with {bo{Bc{ce{Ba{bn w{Ba{cv{Be{bs{x~
+A set of steel vambraces engraved with ocean waves has been left here.~
+steel~
+armor 0 AI
+22 22 22 4 0
+70 4 350 100
+A
+17 -15
+#11247
+steel helmet ocean waves~
+a {Ds{wt{We{we{Dl h{we{Wlm{we{Dt{x engraved with {bo{Bc{ce{Ba{bn w{Ba{cv{Be{bs{x~
+A steel helmet engraved with ocean waves has been left here.~
+steel~
+armor 0 AE
+22 22 22 4 0
+70 2 350 100
+A
+17 -15
+#11248
+steel backplate ocean waves~
+a {Ds{wt{We{we{Dl b{wa{Wc{wk{Dp{wl{Wa{wt{De{x engraved with {bo{Bc{ce{Ba{bn w{Ba{cv{Be{bs{x~
+A steel backplate engraved with ocean waves has been left here.~
+steel~
+armor 0 AS
+22 22 22 4 0
+70 6 350 100
+A
+17 -15
+#11249
+steel breastplate ocean waves~
+a {Ds{wt{We{we{Dl b{wr{Wea{ws{Dtp{wl{Wa{wt{De{x engraved with {bo{Bc{ce{Ba{bn w{Ba{cv{Be{bs{x~
+A steel breastplate engraved with ocean waves has been left here.~
+steel~
+armor 0 AD
+22 22 22 4 0
+70 6 350 100
+A
+17 -15
+#11250
+steel greaves tendrils ivy~
+a set of {Ds{wt{We{we{Dl{x {Dg{wr{Weav{we{Ds{x engraved with {Gt{ge{Wn{Gd{gr{Wi{Gl{gs{x of {Wi{Gv{gy{x~
+A set of steel greaves engraved with tendrils of ivy has been left here.~
+steel~
+armor 0 AF
+17 17 17 4 0
+55 4 325 100
+A
+17 -10
+#11251
+steel vambraces tendrils ivy~
+a set of {Ds{wt{We{we{Dl{x {Dv{wa{Wm{wb{Dr{wa{Wc{we{Ds{x engraved with {Gt{ge{Wn{Gd{gr{Wi{Gl{gs{x of {Wi{Gv{gy{x~
+A set of steel vambraces engraved with tendrils of ivy has been left here.~
+steel~
+armor 0 AI
+17 17 17 4 0
+55 4 325 100
+A
+17 -10
+#11252
+steel helmet tendrils ivy~
+a {Ds{wt{We{we{Dl h{we{Wlm{we{Dt{x engraved with {Gt{ge{Wn{Gd{gr{Wi{Gl{gs{x of {Wi{Gv{gy{x~
+A steel helmet engraved with tendrils of ivy has been left here.~
+steel~
+armor 0 AE
+17 17 17 4 0
+55 2 325 100
+A
+17 -10
+#11253
+steel backplate tendrils ivy~
+a {Ds{wt{We{we{Dl b{wa{Wc{wk{Dp{wl{Wa{wt{De{x engraved with {Gt{ge{Wn{Gd{gr{Wi{Gl{gs{x of {Wi{Gv{gy{x~
+A steel backplate engraved with tendrils of ivy has been left here.~
+steel~
+armor 0 AS
+17 17 17 4 0
+55 6 325 100
+A
+17 -10
+#11254
+steel breastplate tendrils ivy~
+a {Ds{wt{We{we{Dl b{wr{Wea{ws{Dtp{wl{Wa{wt{De{x engraved with {Gt{ge{Wn{Gd{gr{Wi{Gl{gs{x of {Wi{Gv{gy{x~
+A steel breastplate engraved with tendrils of ivy has been left here.~
+steel~
+armor 0 AD
+17 17 17 4 0
+55 6 325 100
+A
+17 -10
+#11255
+plain steel greaves~
+a set of {Ds{wt{We{we{Dl{x {Dg{wr{Weav{we{Ds{x~
+A set of plain steel greaves has been left here.~
+steel~
+armor 0 AF
+12 12 12 4 0
+40 4 300 100
+#11256
+plain steel vambraces~
+a set of {Ds{wt{We{we{Dl{x {Dv{wa{Wm{wb{Dr{wa{Wc{we{Ds{x~
+A set of plain steel vambraces has been left here.~
+steel~
+armor 0 AI
+12 12 12 4 0
+40 4 300 100
+#11257
+plain steel helmet~
+a {Ds{wt{We{we{Dl h{we{Wlm{we{Dt{x~
+A plain steel helmet has been left here.~
+steel~
+armor 0 AE
+12 12 12 4 0
+40 2 300 100
+#11258
+plain steel backplate~
+a {Ds{wt{We{we{Dl b{wa{Wc{wk{Dp{wl{Wa{wt{De{x~
+A plain steel backplate has been left here.~
+steel~
+armor 0 AS
+12 12 12 4 0
+40 6 300 100
+#11259
+plain steel breastplate~
+a {Ds{wt{We{we{Dl b{wr{Wea{ws{Dtp{wl{Wa{wt{De{x~
+A plain steel breastplate has been left here.~
+steel~
+armor 0 AD
+12 12 12 4 0
+40 6 300 100
+#11260
+bleached leather tunic~
+a {yb{wl{Weach{we{yd l{we{Wath{we{yr{x {yt{wu{Wn{wi{yc{x~
+A bleached leather tunic has been left here.~
+leather~
+armor S AD
+22 22 22 4 0
+70 4 130 100
+A
+19 2
+A
+18 2
+A
+17 5
+#11261
+bleached leather bracer~
+a {yb{wl{Weach{we{yd l{we{Wath{we{yr{x {yb{wr{Wac{we{yr{x~
+A bleached leather bracer has been left here.~
+leather~
+armor S AM
+22 22 22 4 0
+70 1 130 100
+A
+19 2
+A
+18 2
+A
+17 5
+#11262
+bleached leather cap~
+a {yb{wl{Weach{we{yd l{we{Wath{we{yr{x {yc{wa{Wp{x~
+A bleached leather cap has been left here.~
+leather~
+armor S AE
+22 22 22 4 0
+70 1 130 100
+A
+19 2
+A
+18 2
+A
+17 5
+#11263
+bleached leather gloves~
+a pair of {yb{wl{Weach{we{yd l{we{Wath{we{yr g{wl{Wov{we{ys{x~
+A pair of bleached leather gloves has been left here.~
+leather~
+armor S AH
+22 22 22 4 0
+70 1 115 100
+A
+19 2
+A
+18 2
+A
+17 5
+#11264
+black leather tunic~
+a {Dblack leather tunic{x~
+A black leather tunic has been left here.~
+leather~
+armor S AD
+17 17 17 4 0
+55 4 115 100
+A
+19 1
+A
+18 2
+A
+17 5
+#11265
+black leather bracer~
+a {Dblack leather bracer{x~
+A black leather bracer has been left here.~
+leather~
+armor S AM
+17 17 17 4 0
+55 1 115 100
+A
+19 1
+A
+18 2
+A
+17 5
+#11266
+black leather cap~
+a {Dblack leather cap{x~
+A black leather cap has been left here.~
+leather~
+armor S AE
+17 17 17 4 0
+55 1 115 100
+A
+19 1
+A
+18 2
+A
+17 5
+#11267
+black leather gloves~
+a pair of {Dblack leather gloves{x~
+A pair of black leather gloves has been left here.~
+leather~
+armor S AH
+17 17 17 4 0
+55 1 100 100
+A
+19 1
+A
+18 2
+A
+17 5
+#11268
+brown leather tunic~
+a {ybrown leather tunic{x~
+A brown leather tunic has been left here.~
+leather~
+armor S AD
+12 12 12 4 0
+40 4 100 100
+A
+18 1
+A
+17 5
+#11269
+brown leather bracer~
+a {ybrown leather bracer{x~
+A brown leather bracer has been left here.~
+leather~
+armor S AM
+12 12 12 4 0
+40 1 100 100
+A
+18 1
+A
+17 5
+#11270
+brown leather cap~
+a {ybrown leather cap{x~
+A brown leather cap has been left here.~
+leather~
+armor S AE
+12 12 12 4 0
+40 1 100 100
+A
+18 1
+A
+17 5
+#11271
+brown leather gloves~
+a pair of {ybrown leather gloves{x~
+A pair of brown leather gloves has been left here.~
+leather~
+armor S AH
+12 12 12 4 0
+40 1 85 100
+A
+18 1
+A
+17 5
+#11272
+cavnas tent~
+a {Dc{wavna{Ds t{wen{Dt{x~
+A cavnas tent has been left here.~
+canvas~
+furniture S A
+1 1000 FIL 200 200
+60 10 500 100
+#11273
+canvas bedroll~
+a {ccanvas bedroll{x~
+A canvas bedroll has been left here.~
+canvas~
+furniture S A
+1 1000 EHK 150 150
+40 10 250 100
+#11274
+canvas haversack~
+a {Dc{canva{Ds h{caversac{Dk{x~
+A canvas haversack has been left here.~
+canvas~
+container S A
+1000 AC 0 1000 100
+60 2 200 100
+#11275
+leather satchel~
+a {rl{yeathe{rr s{yatche{rl{x~
+A leather satchel has been left here.~
+leather~
+container S A
+250 AC 0 250 100
+40 2 175 100
+#11276
+large tin canteen~
+a large {Dt{wi{Wn ca{wnte{Den{x~
+A large tin canteen has been left here.~
+tin~
+drink 0 A
+12 12 'water' 0 0
+60 2 120 100
+#11277
+brass lantern~
+a {ybr{Yas{ys lan{Yter{yn{x~
+A brass lantern has been left here.~
+brass~
+light 0 A
+0 0 5 0 0
+60 1 100 100
+A
+4 2
+#11278
+small tin canteen~
+a small {Dt{wi{Wn ca{wnte{Den{x~
+A small tin canteen has been left here.~
+tin~
+drink 0 A
+6 6 'water' 0 0
+40 1 60 100
+#11279
+wax candle~
+a {Wwax candle{x~
+A wax candle has been left here.~
+wax~
+light S A
+0 0 2 0 0
+40 1 40 100
+#11280
+stick beef jerky~
+a stick of {Db{yee{Df j{yerk{Dy{x~
+A stick of beef jerky has been left here.~
+food~
+food S A
+6 6 0 0 0
+60 1 15 100
+#11281
+piece flat bread~
+a piece of {yflat bread{x~
+A piece of flat bread has been left here.~
+food~
+food S A
+4 4 0 0 0
+40 1 10 100
+#11282
+pink woolly hat~
+a {Mpink woolly hat{x~
+A woolly hat has been left here.~
+wool~
+armor S AE
+15 15 15 15 0
+60 1 65 100
+A
+4 2
+#11283
+pink woolly scarf~
+a {Mpink woolly scarf{x~
+A woolly scarf has been left here.~
+wool~
+armor S AC
+15 15 15 15 0
+60 1 65 100
+A
+5 1
+A
+13 20
+#11284
+pink woolly mittens~
+a pair of {Mpink woolly mittens{x~
+A pair of woolly mittens has been left here.~
+wool~
+armor S AH
+15 15 15 15 0
+60 1 65 100
+A
+1 2
+#11285
+pink woolly socks~
+a pair of {Mpink woolly socks{x~
+A pair of woolly socks has been left here.~
+wool~
+armor S AG
+15 15 15 15 0
+60 1 65 100
+A
+2 2
+#11286
+pink woolly sweater~
+a {Mpink woolly sweater{x~
+A woolly sweater has been left here.~
+wool~
+armor S AD
+15 15 15 15 0
+60 2 65 100
+A
+3 2
+#11287
+blue woolly hat~
+a {Bblue woolly hat{x~
+A woolly hat has been left here.~
+wool~
+armor S AE
+12 12 12 14 0
+50 1 60 100
+A
+3 1
+#11288
+blue woolly scarf~
+a {Bblue woolly scarf{x~
+A woolly scarf has been left here.~
+wool~
+armor S AC
+12 12 12 14 0
+50 1 60 100
+A
+4 1
+#11289
+blue woolly mittens~
+a pair of {Bblue woolly mittens{x~
+A pair of woolly mittens has been left here.~
+wool~
+armor S AH
+12 12 12 14 0
+50 1 60 100
+A
+2 1
+#11290
+blue woolly socks~
+a pair of {Bblue woolly socks{x~
+A pair of woolly socks has been left here.~
+wool~
+armor S AG
+12 12 12 14 0
+50 1 60 100
+A
+1 1
+#11291
+blue woolly sweater~
+a {Bblue woolly sweater{x~
+A woolly sweater has been left here.~
+wool~
+armor S AD
+12 12 12 14 0
+50 2 60 100
+A
+5 1
+#11292
+green woolly hat~
+a {Ggreen woolly hat{x~
+A woolly hat has been left here.~
+wool~
+armor S AE
+10 10 10 10 0
+40 1 55 100
+#11293
+green woolly scarf~
+a {Ggreen woolly scarf{x~
+A woolly scarf has been left here.~
+wool~
+armor S AC
+10 10 10 10 0
+40 1 55 100
+#11294
+green woolly mittens~
+a pair of {Ggreen woolly mittens{x~
+A pair of woolly mittens has been left here.~
+wool~
+armor S AH
+10 10 10 10 0
+40 1 55 100
+#11295
+green woolly socks~
+a pair of {Ggreen woolly socks{x~
+A pair of woolly socks has been left here.~
+wool~
+armor S AG
+10 10 10 10 0
+40 1 55 100
+#11296
+green woolly sweater~
+a {Ggreen woolly sweater{x~
+A woolly sweater has been left here.~
+wool~
+armor S AD
+10 10 10 10 0
+40 2 55 100
+#11297
+long white apron~
+a {Wlong white apron{x~
+A long white apron has been left here.~
+cloth~
+armor KS AD
+17 17 17 4 0
+55 2 45 100
+A
+2 1
+A
+1 1
+#11298
+white cloth cap~
+a {Wwhite cloth cap{x~
+A white cloth cap has been left here.~
+cloth~
+armor KS AE
+17 17 17 4 0
+55 1 45 100
+A
+4 1
+A
+3 1
+#11299
+sheer white veil~
+a {Wsheer white veil{x~
+A sheer white veil has been left here.~
+cloth~
+armor KS AV
+17 17 17 4 0
+55 1 45 100
+A
+18 1
+A
+19 1
+#11300
+small gray stone marker~
+a {Dg{wra{Dy s{wton{De m{warke{Dr{x~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+writing~
+The {cw{Critin{cg{x engraved upon the {Dg{wra{Dy s{wton{De m{warke{Dr{x reads:
+{cS{Cout{ch >>---> C{Calapen{ce D{Cistric{ct{x
+~
+E
+small gray stone marker~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside with some
+{cw{Critin{cg{x engraved upon it.  
+~
+#11301
+small gray stone marker~
+a {Dg{wra{Dy s{wton{De m{warke{Dr{x~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+writing~
+The {mw{Mritin{mg{x engraved upon the {Dg{wra{Dy s{wton{De m{warke{Dr{x reads:
+{mS{Mout{mh >>---> M{Maset{ma D{Mistric{mt{x
+~
+E
+small gray stone marker~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside with some
+{mw{Mritin{mg{x engraved upon it.  
+~
+#11302
+small gray stone marker~
+a {Dg{wra{Dy s{wton{De m{warke{Dr{x~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+writing~
+The {gw{Gritin{gg{x engraved upon the {Dg{wra{Dy s{wton{De m{warke{Dr{x reads:
+{gS{Gout{gh >>---> V{Geran{ga D{Gistric{gt{x
+~
+E
+small gray stone marker~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside with some
+{gw{Gritin{gg{x engraved upon it.  
+~
+#11303
+small gray stone marker~
+a {Dg{wra{Dy s{wton{De m{warke{Dr{x~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside.~
+stone~
+trash Sa P
+0 0 0 0 0
+0 0 0 100
+E
+writing~
+The {gw{Gritin{gg{x engraved upon the {Dg{wra{Dy s{wton{De m{warke{Dr{x reads:
+{gW{Ges{gt >>---> V{Geran{ga D{Gistric{gt{x
+~
+E
+small gray stone marker~
+A small {Dg{wra{Dy s{wton{De m{warke{Dr{x has been placed by the roadside with some
+{gw{Gritin{gg{x engraved upon it.  
+~
+#11304
+mysterious pink potion~
+a mysterious {mp{Min{mk p{Motio{mn{x~
+This is a small glass bottle containing a mysterious pink potion.~
+glass~
+potion S A
+100 'weaken' 'slow' 'slow' 'weaken'
+90 1 20000 100
+#11305
+strange blue herb~
+a strange {bb{Blu{be h{Ber{bb{x~
+This is a small paper bag containing a strange blue herb.~
+paper~
+pill S A
+50 'cure poison' '' '' ''
+90 1 10000 100
+#11306
+tattoo avendesora tree green~
+a {gt{Ga{gtt{Go{go{x of an {gAv{Gen{gde{Gso{gra t{Gre{ge{x~
+Something green has been left here.~
+ink~
+armor SY AR
+30 30 30 0 0
+90 0 25000 100
+A
+4 -2
+A
+19 6
+A
+18 6
+#11307
+tattoo golden crane~
+a {yt{Ya{Wtt{Yo{yo{x of a {yg{Yo{Wld{Ye{yn c{Yr{Wa{Yn{ye{x in flight~
+Something gold has been left here.~
+ink~
+armor SY AR
+30 30 30 0 0
+90 0 22500 100
+A
+19 6
+#11308
+steel flail~
+a {Ds{wt{We{we{Dl f{wl{Wa{wi{Dl{x~
+A steel flail has been left here.~
+steel~
+weapon 0 AN
+flail 6 11 'smash' 0
+55 5 175 100
+A
+19 1
+A
+18 1
+#11309
+thick leather bracer~
+a {yt{Dh{yi{Dc{yk l{De{yath{De{yr b{Dr{yac{De{yr{x~
+A thick bracer made of leather.~
+leather~
+armor KS AM
+17 17 17 4 0
+55 1 100 100
+A
+17 -10
+#11310
+silver blue crystal pendant chain~
+a {cb{Cl{Wu{Ce {cc{Cr{Wyst{Ca{cl{x {Dp{we{Wnda{wn{Dt{x~
+This is a small blue crystal hung upon a silver chain.~
+silver~
+armor 0 AC
+18 18 18 6 0
+60 1 150 100
+A
+4 1
+A
+3 1
+#11311
+silver blue crystal ring~
+a {cb{Cl{Wu{Ce {cc{Cr{Wyst{Ca{cl{x {wr{Wi{wn{Dg{x~
+This is a small blue crystal set in a silver ring.~
+silver~
+armor 0 AB
+18 18 18 6 0
+60 1 150 100
+A
+18 1
+A
+19 1
+#11312
+silver blue crystal barrette~
+a {cb{Cl{Wu{Ce {cc{Cr{Wyst{Ca{cl{x {Db{war{Wre{wtt{De{x~
+This is a small blue crystal set in a silver barrette.~
+silver~
+armor 0 AE
+18 18 18 6 0
+60 1 150 100
+A
+5 2
+#11313
+silver blue crystal bracelet~
+a {cb{Cl{Wu{Ce {cc{Cr{Wyst{Ca{cl{x {Db{wra{Wce{wle{Dt{x~
+This is a small blue crystal set in a silver bracelet.~
+silver~
+armor 0 AM
+18 18 18 6 0
+60 1 150 100
+A
+2 1
+A
+1 1
+#11314
+tattoo red bull~
+a {rt{Ratto{ro{x of a {rr{Re{rd b{Rul{rl{x charging forward~
+Something red has been left here.~
+ink~
+armor PSY AR
+30 30 30 0 0
+90 0 20000 100
+A
+17 -30
+#11315
+tattoo two black ravens~
+a {Dt{wa{Wtt{wo{Do{x of {Dt{ww{Do{x {Db{wl{Da{wc{Dk{x {Dr{wa{Dve{wn{Ds{x circling in the sky~
+Something black has been left here.~
+ink~
+armor PSY AR
+30 30 30 0 0
+90 0 17500 100
+A
+18 6
+#11316
+tattoo pretty pink pony~
+a {mt{Ma{Wtt{Mo{mo{x of a {mp{Mrett{my p{Min{mk p{Mon{my{x~
+Something pink has been left here.~
+ink~
+armor PSY AR
+30 30 30 0 0
+90 0 15000 100
+A
+13 360
+A
+19 -6
+A
+18 -6
+#11317
+iron grating drain~
+a {Dd{wr{Da{wi{Dn{x~
+One the edge of the street is an {Di{wr{Do{wn {Dg{wr{Da{wt{Di{wn{Dg{x covering a {Dd{wr{Da{wi{Dn{x.~
+iron~
+container a P
+500 ABCD 11318 500 100
+90 0 0 100
+#11318
+rusty crowbar bar~
+a {Dr{yu{ws{yt{Dy c{yr{wowb{ya{Dr{x~
+A rusty crowbar has been left here.~
+iron~
+key a A
+0 0 0 0 0
+90 5 0 100
+#11319
+iron braced trunk~
+an {Di{wro{Dn-b{wrace{Dd t{yrun{Dk{x~
+An {Di{wro{Dn-b{wrace{Dd t{yrun{Dk{x has been placed in one corner of the vault.~
+wood~
+container a P
+100 ABCD 11320 100 100
+90 0 0 100
+#11320
+tiny silver key five pointed star~
+a {Dt{wi{Wny{D s{wil{Wver{D k{we{Wy{x engraved with a {cf{Civ{We-pointed s{Cta{cr{x~
+This is a tiny silver key engraved with a five-pointed star.~
+silver~
+key a A
+0 0 0 0 0
+90 0 0 100
+#11321
+pile gold silver coins~
+a pile of coins~
+A pile of gold and silver coins has been left here.~
+gold~
+money 0 A
+1000 50 0 0 0
+90 5 0 100
+#11322
+small niche loose stone~
+a {Dsmall niche{x~
+A {Wl{wo{Wose sto{wn{We{x in the wall fails to hide a {Dsmall niche{x.~
+stone~
+container a P
+50 AC 0 5 100
+0 0 0 100
+#11323
+female doll aes sedai blue~
+an {bA{Bes Seda{bi d{Bol{bl{x~
+This is a small {bf{Bemal{be d{Bol{bl{x wearing a {bb{Blu{be d{Bres{bs{x and matching {bb{Blu{be f{Bringe{bd sh{Baw{bl{x.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+female doll aes sedai blue~
+This is a small {bf{Bemal{be d{Bol{bl{x wearing a {bb{Blu{be d{Bres{bs{x and matching {bb{Blu{be
+f{Bringe{bd sh{Baw{bl{x.  Somebody has stuck numerous long {Ds{wil{Wver pi{wn{Ds{x into the {bd{Bol{bl{x
+in various places.  
+~
+#11324
+toy short bow~
+a toy {Ds{yhort bo{Dw{x~
+A toy short bow has been left here.~
+wood~
+weapon S AN
+bow 5 7 'thwack' F
+10 1 150 100
+#11325
+tall flatbow~
+a tall {yf{Yl{Watb{Yo{yw{x~
+A tall flatbow has been left here.~
+wood~
+weapon S AN
+bow 5 8 'thwack' F
+25 2 160 100
+#11326
+toy arrow~
+a {ct{Co{Wy{x {ya{wr{Dr{wo{yw{x~
+A toy arrow has been left here.~
+wood~
+weapon S AO
+arrow 5 7 'pierce' 0
+10 0 2 100
+#11327
+crossbow bolt~
+a {Dc{yro{Dss{ybo{Dw{x {wb{Wo{wl{Dt{x~
+A crossbow bolt has been left here.~
+wood~
+weapon S AO
+arrow 5 8 'pierce' 0
+20 0 4 100
+#11328
+brown leather shoes~
+a pair of {Db{yrow{Dn l{yeathe{Dr s{yhoe{Ds{x~
+A pair of brown leather shoes has been left here.~
+leather~
+armor S AG
+7 7 7 9 0
+30 1 75 100
+#11329
+black leather shoes~
+a pair of {Db{wl{Wa{wc{Dk le{wa{Wt{wh{Der s{wh{Wo{we{Ds{x~
+A pair of black leather shoes has been left here.~
+leather~
+armor S AG
+5 5 5 5 0
+20 1 70 100
+A
+2 1
+#11330
+wooden clogs~
+a pair of {yw{Yo{Woden clo{Yg{ys{x~
+A pair of wooden clogs has been left here.~
+wood~
+armor S AG
+2 2 2 4 0
+10 1 65 100
+#11331
+female doll aessedai white~
+an {wA{Wes{w S{Wedai{w {Wdoll{x~
+This is a small {Wfemale doll{x wearing a {Wwhite dress{x and matching {ww{Whit{we f{Wringe{wd s{Whaw{wl.{x~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+E
+female doll aessedai white~
+This is a small {Wfemale doll{x wearing a {Wwhite dress{x and matching {ww{Whit{we
+f{Wringe{wd s{Whaw{wl{x.  The head and limbs of the {Wdoll{x appear to be very loose as if
+somebody has tried pulling them off.  
+~
+#11332
+silver green crystal pendant chain~
+a {gg{Gr{Ye{Ge{gn c{Gr{Yyst{Ga{gl{w {Db{wra{Wce{wle{Dt{x~
+This is a small green crystal hung upon a silver chain.~
+silver~
+armor 0 AC
+18 18 18 21 0
+75 1 175 100
+A
+3 2
+A
+4 2
+#11333
+silver green crystal ring~
+a {gg{Gr{Ye{Ge{gn c{Gr{Yyst{Ga{gl{w {Db{war{Wre{wtt{De{x~
+This is a small green crystal set in a silver ring.~
+silver~
+armor 0 AB
+18 18 18 21 0
+75 1 175 100
+A
+18 2
+A
+19 2
+#11334
+silver green crystal barrette~
+a {gg{Gr{Ye{Ge{gn c{Gr{Yyst{Ga{gl{w r{Wi{wn{Dg{x~
+This is a small green crystal set in a silver barrette.~
+silver~
+armor 0 AE
+18 18 18 21 0
+75 1 175 100
+A
+17 -10
+A
+13 40
+#11335
+silver green crystal bracelet~
+a {gg{Gr{Ye{Ge{gn c{Gr{Yyst{Ga{gl{w {Dp{we{Wnda{wn{Dt{x~
+This is a small green crystal set in a silver bracelet.~
+silver~
+armor 0 AM
+18 18 18 21 0
+75 1 175 100
+A
+2 2
+A
+1 2
+#11336
+silver yellow crystal pendant chain~
+a {yy{Ye{Wll{Yo{yw c{Yr{Wyst{Ya{yl{w {Db{wra{Wce{wle{Dt{x~
+This is a small yellow crystal hung upon a silver chain.~
+silver~
+armor 0 AC
+21 21 21 22 0
+85 1 200 100
+A
+17 -5
+A
+4 2
+A
+3 2
+#11337
+silver yellow crystal ring~
+a {yy{Ye{Wll{Yo{yw c{Yr{Wyst{Ya{yl{w {Db{war{Wre{wtt{De{x~
+This is a small yellow crystal set in a silver ring.~
+silver~
+armor 0 AB
+21 21 21 22 0
+85 1 200 100
+A
+12 40
+A
+13 40
+A
+17 -5
+#11338
+silver yellow crystal barrette~
+a {yy{Ye{Wll{Yo{yw c{Yr{Wyst{Ya{yl{w r{Wi{wn{Dg{x~
+This is a small yellow crystal set in a silver barrette.~
+silver~
+armor 0 AE
+21 21 21 22 0
+85 1 200 100
+A
+5 1
+A
+1 1
+A
+3 1
+A
+4 1
+A
+2 1
+#11339
+silver yellow crystal bracelet~
+a {yy{Ye{Wll{Yo{yw c{Yr{Wyst{Ya{yl{w {Dp{we{Wnda{wn{Dt{x~
+This is a small yellow crystal set in a silver bracelet.~
+silver~
+armor 0 AM
+21 21 21 22 0
+85 1 200 100
+A
+18 3
+A
+19 2
+#11340
+brown leather belt~
+a {ybrown leather belt{x~
+A brown leather belt has been left here.~
+leather~
+armor S AL
+11 11 11 7 0
+40 1 85 100
+#11341
+brown leather quiver~
+a {ybrown leather quiver{x~
+A brown leather quiver has been left here.~
+leather~
+container S AS
+50 AC 0 50 100
+40 1 85 100
+#11342
+black leather belt~
+a {Dblack leather belt{x~
+A black leather belt has been left here.~
+leather~
+armor S AL
+15 15 15 10 0
+55 1 100 100
+A
+5 2
+#11343
+black leather quiver~
+a {Dblack leather quiver{x~
+A black leather quiver has been left here.~
+leather~
+container S AS
+75 AC 0 75 100
+55 1 100 100
+A
+17 -10
+#11344
+bleached leather belt~
+a {yb{wl{Weach{we{yd l{we{Wath{we{yr{x {yb{Wel{yt{x~
+A bleached leather belt has been left here.~
+leather~
+armor S AL
+19 19 19 13 0
+70 1 115 100
+A
+19 1
+A
+5 2
+#11345
+bleached leather quiver~
+a {yb{wl{Weach{we{yd l{we{Wath{we{yr{x {yq{wu{Wiv{we{yr{x~
+A bleached leather quiver has been left here.~
+leather~
+container S AS
+100 AC 0 100 100
+70 1 115 100
+A
+17 -15
+#11346
+golden medal red ribbon~
+a {yg{Yo{Wld{Ye{yn m{Ye{Wd{Ya{yl{x hung upon a {rr{Re{rd r{Ri{rbb{Ro{rn{x~
+This is a golden medal hung upon a red ribbon.~
+gold~
+armor K AC
+19 19 19 13 0
+70 1 150 100
+A
+19 3
+A
+18 3
+A
+13 -60
+#11347
+gnarled walking stick~
+a {gg{yn{Darl{ye{gd{y {gw{ya{Dl{yk{Di{yn{gg s{yt{Di{yc{gk{x~
+This is a walking stick made from a gnarled piece of wood.~
+wood~
+weapon K AN
+staff 6 11 'smash' 0
+50 2 150 100
+A
+19 -1
+A
+18 2
+#11348
+silver whistle thin chain~
+a {Ds{wilv{Wer whi{wstl{De{x hung upon a {Dt{whi{Wn ch{wai{Dn{x~
+This is a silver whistle hung upon a thin chain.~
+silver~
+armor 0 AC
+19 19 19 13 0
+70 1 150 100
+A
+2 3
+#11349
+four leaf clover~
+a {gf{Gou{gr{x-{gl{Gea{gf c{Glove{gr{x~
+A four-leaf clover has been left here.~
+plant~
+armor S AO
+19 19 19 13 0
+70 1 0 100
+A
+18 6
+A
+19 -3
+#11350
+cloth bandage~
+a {Wcloth bandage{x~
+A cloth bandage has been left here.~
+cloth~
+armor S AI
+17 17 17 14 0
+65 1 45 100
+A
+17 -5
+A
+19 1
+A
+18 1
+#0
+
+
+
+#ROOMS
+#11264
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {gA L{Gon{gg C{Gorrido{gr{x~
+The most noticeable thing about this corridor inside the School of
+Illuminators is the faint smell of sulfur that hangs in the air.  The walls
+of the corridor have been left as bare brick apart from the decorative hooks
+attached to them which hold ornate oil lamps made of brass.  There are
+several identical doorways leading off from this corridor, each one has
+worrying singe marks around the doorframe and its base.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11265
+D1
+~
+~
+3 3
+1 0 11267
+D2
+~
+~
+3 3
+1 0 11266
+D3
+~
+~
+0 0
+0 0 11261
+S
+#11265
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {gA C{Glassroo{gm{x~
+Colorful charts with cryptic symbols fill most of the wall space in this
+small class room.  The room is windowless therefore the only sources of
+light here are the small lanterns that have been suspended from the ceiling.
+A large chalkboard has been hung at one end of the room behind a tall podium
+that has been carved from dark wood.  Numerous dark wooden desks and chairs
+which have been arranged in neat rows fill the classroom.  Lastly there are
+two gray stone fireplaces built into the walls that are adjacent to the
+chalkboard which provide the classroom with adequate warmth.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11264
+S
+#11266
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {gA C{Glassroo{gm{x~
+Colorful charts with strange symbols fill most of the wall space within
+this small class room.  The room is windowless so the only sources of light
+here are the small lamps that have been hung from the ceiling.  A large
+chalkboard has been hung at one end of the room behind a tall dark wood
+podium.  Many dark wooden desks and chairs which have been arranged in neat
+rows fill the classroom.  Lastly there are two gray stone fireplaces built
+into the walls that are adjacent to the chalkboard which provide the
+classroom with adequate heat.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11264
+S
+#11267
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {gThe S{Gchoo{gl M{Gaste{gr's O{Gffic{ge{x~
+This brown brick chamber within the School of Illuminators is being used
+as an office by the School Master.  The office is roughly square in shape
+and has been half-paneled with dark wood and dark green tiles cover the
+floor in a checkered pattern.  As well as shelves filled with books and
+ornaments, the walls have been used to display a multitude of certificates
+and diplomas that have all been decoratively framed and hung with pride. 
+Numerous trophies have been placed along the mantelpiece of the wide gray
+stone fireplace on the north side of the room while at the opposite side are
+a pair of tall arched windows that look out over a large area of grassy land
+that appears to be used as a practice area for the Illuminators.  
+~
+0
+BDK 0
+D3
+~
+~
+3 3
+1 0 11264
+S
+#11268
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {WThe Nightflower Tavern{x~
+This small brown brick building that has been reinforced with timber
+beams is being used as a tavern.  Smoky oil lanterns suspended from the
+wooden rafters cast a pale yellow glow over the large common room.  The
+walls have been left as bare brickwork but the wooden floorboards have been
+covered with a layer of sawdust.  There is a large fireplace built from
+brick at one side of the room while several barrels of ale, cider and wine
+have been stacked against the opposite wall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11243
+S
+#11269
+{cThe Andahar Docks{x - A Long Jetty~
+This is part of a long yet narrow jetty that stretches out into the
+waters of the River Andahar.  Like the rest of the jetties in the Andahar
+Docks, this one has been constructed from hardwearing white stone although
+it has discolored beneath the waterline to a grayish green hue.  There are a
+lot of boats moored at these docks although most of them are river bound
+vessels such as cargo barges.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11237
+D2
+~
+~
+0 0
+0 0 11270
+S
+#11270
+{cThe Andahar Docks{x - A Long Jetty~
+This is the end of one of Andahar Dock's long jetties that jut out into
+the River Andahar.  All of the jetties along this stretch of land were
+originally constructed from white stone but the brickwork below the
+waterline has been stained over time to a grayish green hue.  There are a
+lot of boats moored at these docks although most of them are river bound
+vessels such as cargo barges.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11269
+S
+#11271
+{cThe Andahar Docks{x - A Long Jetty~
+This is part of a long yet narrow jetty that stretches out into the
+waters of the River Andahar.  Like the rest of the jetties within the
+Andahar Docks, this one has been built from tough white stone although it
+has stained below the waterline to a grayish green color.  There are lots of
+boats moored at these docks although the majority of them are river barges. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11234
+D2
+~
+~
+0 0
+0 0 11272
+S
+#11272
+{cThe Andahar Docks{x - A Long Jetty~
+This is the end of one of Andahar Dock's long jetties that jut out into
+the River Andahar.  They were all originally built from white stone but the
+stonework underneath the waterline has been discolored over the years to a
+grayish-green color.  There are a lot of boats moored at these docks
+although the majority of them are river bound vessels such as cargo barges. 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11271
+S
+#11273
+{cThe Andahar Docks{x - A Long Jetty~
+This is part of a long yet narrow jetty that stretches out into the
+waters of the River Andahar.  Like the rest of the jetties in the Andahar
+Docks, this one has been made from durable white stone although it has
+discolored underneath the waterline to a grayish green hue.  There are a lot
+of boats moored at these docks although most of them are river bound vessels
+such as cargo barges.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11236
+D2
+~
+~
+0 0
+0 0 11274
+S
+#11274
+{cThe Andahar Docks{x - A Long Jetty~
+This is the end of one of Andahar Dock's long jetties that protrude out
+into the River Andahar.  They were all originally built from white stone but
+the masonry beneath the waterline has been tarnished over the years to a
+grayish-green color.  There are lots of boats moored at these docks although
+most of them are river barges.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11273
+S
+#11275
+{cThe Andahar Docks{x - A Warehouse~
+This warehouse is an enormous building whose outside walls have been
+coated with a thick layer of white plaster but whose interior walls have
+been left as bare brown bricks and mortar.  The warehouse is so large that
+it requires wide brick pillars to help bear the load of its flat tiled roof.
+The soft light cast by brass oil lanterns hung up on the walls reveals lots
+of heavy hessian sacks that have been arranged tidily throughout the
+building.  The lanterns' light also reveals a broad set of doors on the
+south side of the building that leads outside to the docks.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11237
+S
+#11276
+{cThe Andahar Docks{x - A Warehouse~
+This warehouse is an immense building whose exterior walls have been
+coated with a layer of white plaster but whose interior walls have been left
+as bare brown masonry.  The warehouse is so big that it needs wide brick
+pillars to help support the weight of its flat tiled roof.  The soft light
+cast by brass oil lanterns attached to the walls reveals hundreds of barrels
+of wine, cider and ale that have been stacked neatly in rows as well as
+smaller casks containing spirits.  The lanterns' light also reveals a broad
+set of doors on the south side of the building that leads outside to the
+docks.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11234
+S
+#11277
+{cThe Andahar Docks{x - A Warehouse~
+This is a gigantic warehouse whose exterior walls have been coated with a
+thick layer of white plaster but whose interior walls have been left as bare
+brown brickwork.  The warehouse is so big that it needs broad brick pillars
+to help support the weight of its flat tiled roof.  The dim light cast by
+brass oil lanterns attached to the walls reveals scores of crates, chests
+and trunks that have been securely locked and then stacked neatly in rows
+throughout the building.  The lanterns' light also reveals a wide set of
+doors on the south side of the building that leads outside to the docks.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11236
+S
+#11278
+{WA Tall Tower{x~
+This is the bottom of a high tower that has been built from big blocks of
+snowy white stone.  The area is dimly illuminated by brass oil lanterns that
+have been fixed at regular intervals along the walls.  A heavy wooden
+doorway reinforced with iron is situated at the western side of the chamber.
+Finally at the center of the chamber is a spiraling set of steps made of
+white stone that leads to the upper part of the tower.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 11236
+D4
+~
+~
+0 0
+0 0 11279
+S
+#11279
+{WInside A Tall Tower{x~
+This is the middle of a high spiraling staircase made of white stone that
+stands at the center of a chamber inside a tall tower.  The area is softly
+illuminated by small oil lanterns that have been attached at regular
+intervals along the tower walls but despite the lighting the view of the
+base of the staircase is shrouded in shadow.  The staircase leads up to a
+hatch that has been built into large stone platform which has been
+reinforced with timber bracings.  
+~
+0
+D 0
+D4
+~
+~
+0 0
+0 0 11280
+D5
+~
+~
+0 0
+0 0 11278
+S
+#11280
+{WInside A Tall Tower{x~
+This is a large stone platform located in a tall tower that has been
+built from large blocks of durable white stone.  The area is softly lit up
+by small oil lanterns that have been fixed at regular intervals along the
+walls.  Fixed to the west wall is an iron rung ladder roughly twelve feet in
+height which provides access to a small iron braced trapdoor set in the
+ceiling of the chamber.  At the center of the chamber is a hatch leading to
+a spiraling stone staircase that leads to the bottom of the tower.  
+~
+0
+D 0
+D4
+~
+hatch~
+3 3
+1 0 11281
+D5
+~
+~
+0 0
+0 0 11279
+S
+#11281
+{WAt The Top Of A Tall Tower{x~
+This is the top of a tall tapering tower that has been constructed from
+snowy-white stone with jagged battlements that has been built along
+Tanchico's gigantic city wall.  This particular tower looks out over the
+eastern fringes of the city and provides an outstanding view of the
+Illuminator's complex that lies in the far distance to the north.  Lastly
+there is a trapdoor set in the wooden floor of the tower that leads inside
+the building.  
+~
+0
+0 0
+D5
+~
+hatch~
+3 3
+1 0 11280
+S
+#11282
+{WA Tall Tower{x~
+This is the bottom of a tall tower that has been built from big blocks of
+snowy white stone.  The area is softly lit up by brass oil lanterns that
+have been fixed at regular intervals along the walls.  A robust wooden
+doorway reinforced with iron is situated at the southern side of the
+chamber.  Lastly at the center of the chamber is a spiraling staircase made
+of white stone that leads to the upper part of the tower.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11229
+D4
+~
+~
+0 0
+0 0 11283
+S
+#11283
+{WInside A Tall Tower{x~
+This is the middle of a high spiraling flight of steps made of white
+stone that stands at the center of a chamber inside a tall tower.  The area
+is softly illuminated by small oil lamps that have been fixed at regular
+intervals along the tower walls but despite the lighting the view of the
+bottom of the stairway is shrouded in shadow.  The stairway leads up to a
+hatch that has been built into large stone platform which has been
+reinforced with timber bracings.  
+~
+0
+D 0
+D4
+~
+~
+0 0
+0 0 11284
+D5
+~
+~
+0 0
+0 0 11282
+S
+#11284
+{WInside A Tall Tower{x~
+This is a large stone platform located in a tall tower that has been
+built from large blocks of durable white stone.  The area is softly lit up
+by small oil lamps that have been attached at regular intervals along the
+walls.  Attached to the south wall is an iron rung ladder more or less
+twelve feet in height which provides access to a small iron braced trapdoor
+set in the ceiling of the chamber.  At the center of the chamber is a hatch
+leading to a spiraling stone stairway that leads to the bottom of the tower.
+~
+0
+D 0
+D4
+~
+hatch~
+3 3
+1 0 11285
+D5
+~
+~
+0 0
+0 0 11283
+S
+#11285
+{WAt The Top Of A Tall Tower{x~
+This is the top of a high tapering tower that has been made from
+snowy-white stone with jagged battlements that has been built along
+Tanchico's massive city wall.  This particular tower looks out over the
+northern outskirts of the city and provides an outstanding view of the
+Verana Peninsula and the Panarch's Palace that lie in the far distance to
+the south.  Lastly there is a trapdoor set in the wooden floor of the tower
+that leads inside the building.  
+~
+0
+0 0
+D5
+~
+hatch~
+3 3
+1 0 11284
+S
+#11286
+{WA Tall Tower{x~
+This is the bottom of a high tower that has been built from large blocks
+of purge white stone.  The area is dimly lit up by brass oil lanterns that
+have been fixed at regular intervals along the walls.  A sturdy wooden
+doorway reinforced with iron is situated at the southern side of the
+chamber.  Finally at the center of the chamber is a spiraling flight of
+steps made of white stone that leads to the upper part of the tower.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11226
+D4
+~
+~
+0 0
+0 0 11287
+S
+#11287
+{WInside A Tall Tower{x~
+This is the center of a tall spiraling flight of steps made of white
+stone that stands at the center of a chamber within a tall tower.  The area
+is softly lit up by small oil lamps that have been fixed at regular
+intervals along the tower walls but despite the lighting the view of the
+bottom of the stairway is shrouded in shadow.  The stairway leads up to a
+hatch that has been built into large stone platform which has been
+reinforced with timber bracings.  
+~
+0
+D 0
+D4
+~
+~
+0 0
+0 0 11288
+D5
+~
+~
+0 0
+0 0 11286
+S
+#11288
+{WInside A Tall Tower{x~
+This is a large stone platform located inside a tall tower that has been
+built from large blocks of durable white stone.  The area is dimly
+illuminated by small oil lamps that have been attached at regular intervals
+along the walls.  Attached to the south wall is an iron rung ladder more or
+less twelve feet in height which provides access to a small iron braced
+trapdoor set in the ceiling of the chamber.  At the center of the chamber is
+a hatch leading to a spiraling stone stairway that leads to the base of the
+tower.  
+~
+0
+0 0
+D4
+~
+hatch~
+3 3
+1 0 11289
+D5
+~
+~
+0 0
+0 0 11287
+S
+#11289
+{WAt The Top Of A Tall Tower{x~
+This is the top of a high tapering tower that has been built from white
+stone with jagged battlements that has been built along Tanchico's enormous
+city wall.  This particular tower looks out over the northern outskirts of
+the city and provides an outstanding view of the Maseta Peninsula and the
+King's Palace that lie in the far distance to the south.  Finally there is a
+trapdoor set in the wooden floor of the tower that leads inside the
+building.  
+~
+0
+0 0
+D5
+~
+hatch~
+3 3
+1 0 11288
+S
+#11290
+{WA Tall Tower{x~
+This is the base of a tall tower that has been built from large blocks of
+pure white stone.  The area is softly illuminated by brass oil lamps that
+have been fixed at regular intervals along the walls.  A heavy wooden
+doorway reinforced with iron is situated at the southern side of the
+chamber.  Finally at the center of the chamber is a spiraling staircase made
+of white stone that leads to the upper part of the tower.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11223
+D4
+~
+~
+0 0
+0 0 11291
+S
+#11291
+{WInside A Tall Tower{x~
+This is the center of a tall spiraling stairway made of white stone that
+stands at the center of a chamber within a tall tower.  The area is dimly
+lit up by small oil lamps that have been fixed at regular intervals along
+the tower walls but despite the lighting the view of the bottom of the
+staircase is shrouded in darkness.  The stairway leads up to a hatch that
+has been built into large stone platform which has been reinforced with
+wooden bracings.  
+~
+0
+D 0
+D4
+~
+~
+0 0
+0 0 11292
+D5
+~
+~
+0 0
+0 0 11290
+S
+#11292
+{WInside A Tall Tower{x~
+This is a large stone platform located inside a tall tower that has been
+built from large blocks of durable white stone.  The area is dimly
+illuminated by small oil lanterns that have been attached at regular
+intervals along the walls.  Attached to the south wall is an iron rung
+ladder roughly twelve feet in height which provides access to a small iron
+braced trapdoor set in the ceiling of the chamber.  At the center of the
+chamber is a hatch leading to a spiraling stone stairway that leads to the
+base of the tower.  
+~
+0
+D 0
+D4
+~
+hatch~
+3 3
+1 0 11293
+D5
+~
+~
+0 0
+0 0 11291
+S
+#11293
+{WAt The Top Of A Tall Tower{x~
+This is the top of a tall tapering tower that has been constructed from
+pure white stone with jagged battlements that has been built along
+Tanchico's huge city wall.  This particular tower looks out over the
+northern outskirts of the city and provides an excellent view of the
+Calapene Peninsula and the Great Circle that lie in the far distance to the
+south.  Lastly there is a trapdoor set in the wooden floor of the tower that
+leads inside the building.  
+~
+0
+0 0
+D5
+~
+hatch~
+3 3
+1 0 11292
+S
+#11294
+{WA Tall Tower{x~
+This is the base of a high tower that has been built from big blocks of
+snowy white stone.  The area is dimly lit up by brass oil lamps that have
+been fixed at regular intervals along the walls.  A heavy wooden doorway
+reinforced with iron is situated at the east side of the chamber.  Lastly at
+the center of the chamber is a spiraling stairway made of white stone that
+leads to the upper part of the tower.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 11221
+D4
+~
+~
+0 0
+0 0 11295
+S
+#11295
+{WInside A Tall Tower{x~
+This is the middle of a high spiraling staircase made of white stone that
+stands at the center of a chamber within a tall tower.  The area is dimly
+illuminated by small oil lamps that have been fixed at regular intervals
+along the tower walls but despite the lighting the view of the bottom of the
+staircase is shrouded in darkness.  The staircase leads up to a hatch that
+has been built into large stone platform which has been reinforced with
+timber bracings.  
+~
+0
+D 0
+D4
+~
+~
+0 0
+0 0 11296
+D5
+~
+~
+0 0
+0 0 11294
+S
+#11296
+{WInside A Tall Tower{x~
+This is a large stone platform located inside a tall tower that has been
+built from large blocks of durable white stone.  The area is dimly
+illuminated by small oil lamps that have been fixed at regular intervals
+along the walls.  Attached to the east wall is an iron rung ladder
+approximately twelve feet in height which provides access to a small iron
+braced trapdoor set in the ceiling of the chamber.  At the center of the
+chamber is a hatch leading to a spiraling stone staircase that leads to the
+base of the tower.  
+~
+0
+D 0
+D4
+~
+hatch~
+3 3
+1 0 11297
+D5
+~
+~
+0 0
+0 0 11295
+S
+#11297
+{WAt The Top Of A Tall Tower{x~
+This is the top of a tall tapering tower that has been built from pure
+white stone with jagged battlements that has been built along Tanchico's
+huge city wall.  This particular tower looks out over the western outskirts
+of the city and provides an excellent view of the Calapene Docks that lie in
+the far distance to the south.  There is a trapdoor set in the wooden floor
+of the tower that leads inside the building.  
+~
+0
+0 0
+D5
+~
+hatch~
+3 3
+1 0 11296
+S
+#11298
+{DT{wh{We{D S{wilv{Wer{D F{wis{Wh{x~
+Even though this is a rather shabby establishment, this tavern is popular
+with many of the people that work at the nearby river docks.  Smoky oil
+lanterns suspended from the timber rafters cast a pale yellow glow over the
+large common room.  The walls have been left as bare brown brickwork but the
+wooden floorboards have been covered with a layer of sawdust.  A welcoming
+fireplace built from brick sits at one side of the room while several
+barrels of ale, rum and wine have been stacked against the opposite wall.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11238
+S
+#11299
+{mT{Mh{me M{Merr{my W{Mido{mw{x~
+The Merry Widow is one of the more popular taverns located along the
+Tanchico Road.  Small oil lanterns hung from the timber rafters cast a pale
+golden glow over the huge common room.  The walls have been left as bare
+brown brick but the wooden floorboards have been covered with a layer of
+sawdust.  A brickwork fireplace sits at one side of the room while several
+barrels of beer, wine and brandy have been stacked against the opposite
+wall.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11216
+S
+#11300
+{DT{yh{De C{yhargin{Dg B{yoa{Dr{x~
+The Charging Boar is one of the more popular taverns to be found along
+the Tanchico Road.  Small oil lamps suspended from the wooden rafters cast a
+pale yellow light over the big common room.  The walls have been left as
+bare brown brick but the timber floorboards have been covered with a layer
+of sawdust.  A brickwork fireplace sits at one side of the room while
+several barrels of beer, cider and wine have been stacked against the
+opposite wall.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11207
+S
+#11301
+{DA Blacksmith's Workshop{x~
+The blacksmith's workshop is a large rectangular building constructed
+using brown bricks although its exterior walls have been coated with white
+plaster.  The workshop is filled with an intense heat that derives from the
+stone furnace built at the far end of the workshop.  A large iron anvil has
+been placed near to the furnace, the surface of the anvil looks quite worn
+from many years of work.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11219
+S
+#11302
+{gTanchico Book Shop{x~
+This is small book shop is one of many similar stores located along
+Tanchico Road.  A cool draught from beneath the shop's main entrance on the
+south side stirs up dust that has settled upon the scores of books that sit
+upon bookcases and shelved arranged around the brick walled room.  At the
+north end of the shop is a door leading into the shop owner's quarters and
+placed in front of this door is a large wooden counter.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11217
+S
+#11303
+{yYe Olde Bakery{x~
+Like many of the buildings within this area this bakery has been built
+from brown bricks with a layer of white plaster on the exterior of the
+building.  The room has been split into two by a tall wooden counter upon
+which sits a display of the baker's wares.  A small door almost hidden from
+view can be seen built into the north wall that leads into the area where
+the bread and other goods are baked.  There is a large window on south side
+of the room looks out over a paved street that is flanked by more shops as
+well as houses and taverns.  Finally, there is a door next to the window
+that leads out to Tanchico Road.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11211
+S
+#11304
+{bA Tool Shop{x~
+Dozens of tools hang upon wooden racks attached to the brown brick walls
+of this tool shop.  Most of the items displayed in this establishment are of
+good quality but there are a few rusty items mingled with them.  At the
+north end of the room is a doorway leading into the shopkeeper's quarters
+and placed in front of this door is a large wooden counter.  At the opposite
+side of the shop is a second doorway that leads outside onto Tanchico Road. 
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11219
+S
+#11305
+{rA Junk Shop{x~
+An odd assortment of items can be seen on the many shelves, racks and
+display cabinets within this little junk shop.  Most of the merchandise
+available here appears old and broken but there may be a couple of useful
+items here among the trash.  At the north side of the room is a long wooden
+counter while at the opposite side of the room is a door leading out onto
+Tanchico Road.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11213
+S
+#11306
+{mThe Taraboner Wine Merchant{x~
+There are large wooden wine bottle racks covering the entire western and
+eastern walls of this shop.  Numerous dusty bottles sit in their own
+allocated spaces while several barrels and casks have been arranged at the
+center of the room.  At the south end of the room behind the battered old
+shop counter is a door, braced with iron and with a huge padlock fixed on it
+while at the opposite side of the shop is a door leading out onto Tanchico
+Road.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11217
+S
+#11307
+{cThe Master Bowyer's Workshop{x~
+This is the western end of a workshop devoted to making and selling of
+archery gear.  Because this room is windowless the only sources of light are
+the oil lanterns that hang from the timber rafters.  There is a selection of
+craftsman's tools stored in racks fixed to the brick walls in this half of
+the room.  Also nearby is a workbench and wooden stool placed against the
+northern wall along with several small barrels containing finished arrows.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 11308
+D2
+~
+~
+3 3
+1 0 11205
+S
+#11308
+{cThe Master Bowyer's Workshop{x~
+This is the eastern end of a workshop devoted to making and selling of
+archery equipment.  Because this room is windowless the only sources of
+light are the oil lamps that hang from the timber rafters.  There are racks
+attached to the brown brick walls at this end of the room, each one is used
+to display bows.  At the northern end of the store is a door that leads to
+the storekeeper's living quarters, placed in front of the door is a counter.
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11204
+D3
+~
+~
+0 0
+0 0 11307
+S
+#11309
+{yA Cobbler's Workshop{x~
+A strong smell of leather hangs in the air of this cobbler's workshop. 
+The cobbler's work has been displayed on numerous wooden shelves attached to
+the brickwork walls of this particular room.  The south side of the room has
+been taken by rolls of material as well as a large workbench and several
+racks of tools.  There is only one exit from this room, a sturdy doorway on
+the north side leading out onto Tanchico Road.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11209
+S
+#11310
+{CAndahar Weapons{x~
+The majority of the weaponry on sale within this shop is either locked
+away in barred cabinets or has been securely chained to their respective
+stands.  The bare brick walls and wooden floors of the main room give the
+shop a quaint rustic yet dilapidated feel.  A steep and narrow wooden
+staircase lies on one of the room behind the shop counter, although it has
+been roped off to prevent customers from entering the upper parts of the
+building.  On the opposite side is a tall doorway that leads out onto
+Tanchico Road.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11221
+S
+#11311
+{GTanchico Armor Emporium{x~
+No attempt has been made to decorate this armor shop, all of the interior
+brick walls and even the floor has been left as bare.  A steep staircase
+lies on one side of the room behind the shop counter but it has been roped
+off to prevent patrons from exploring the upper level of the building.  On
+the opposite side of the room is a large window that is covered in grime. 
+There is a small door next to the window although the door appears to be
+barely hanging from its corroded hinges.  There is not much else to see
+within this shop apart from a hoard of dust covered junk that has been left
+to fester upon wooden rails and pegs.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11221
+S
+#11312
+{yTanchico Road Leather Store{x~
+A strong odor of leather hangs in the air of this workshop.  The
+craftsman's work has been displayed on numerous wooden pegs and racks
+attached to the brickwork walls.  The south side of the room has been taken
+by rolls of material as well as a large workbench and several racks of
+tools.  A steep and narrow wooden staircase lies on the west side of the
+room behind the shop counter but it has been roped off to prevent customers
+from exploring the upper parts of the building.  There is only one other
+exit from this room, a robust doorway on the north side leading out onto
+Tanchico Road.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11215
+S
+#11313
+{YA General Supplies Store{x~
+This is a small general supplies store located on Tanchico Road.  The
+room is illuminated with several small oil lanterns that are hung from the
+timber rafters.  A large wooden counter takes up the majority of the space
+within the shop whilst the merchandise displayed on shelves fixed upon the
+brown brick walls.  A door leading out of the shop can be seen on the north
+side of the room but there is also another door opposite it that most likely
+leads to the shopkeeper's quarters.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11207
+S
+#11314
+{mTaraboner Woolens{x~
+This is a large shop that is being used by a weaver to make and sell
+their wares.  There is a wide range of items made from wool that have been
+placed on display here.  Most of the merchandise appears to be very finely
+made and very expensive.  Behind a large wooden door on the north side of
+this shop can be heard the loud rattle of weaving looms while the door on
+the south side of the shop leads back out into Tanchico Road.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11209
+S
+#11315
+{GPills And Potions{x~
+This store is one of the many small establishments that can be found
+along Tanchico Road.  This one appears to belong to an apothecary or a hedge
+doctor for the wooden shelves attached to the brown brick walls hold various
+glass jars and bottles that are filled with odd powders, salves and elixirs.
+A small brick fireplace not only provides heat in this drafty establishment
+but also a place for the owner to brew and distil their products.  At the
+back of the shop is a counter that is also being used as a workbench; there
+are strange tools and glassware littering the worktop hardly leaving any
+room for anything else.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11211
+S
+#11316
+{rA Tattoo Parlor{x~
+A tattoo parlor occupies this grimy brown brick building whose exterior
+walls have been coasted with white plaster in an attempt to mimic the
+grander white stone buildings of the city.  A workbench and two cushioned
+stools have been positioned against the west side of the room; pinned on the
+wall above the workbench are numerous colorful sketches that are examples of
+the tattoo artist's work.  Apart from a doorway on the north side of the
+building that probably leads to the storeowner's living quarters the only
+exit from this parlor is a reinforced door to the south.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11235
+S
+#11317
+{WThe Tanchico Road Jewelry Store{x~
+This is a grimy little establishment located along Tanchico Road.  There
+are several candles being held inside small lanterns hung upon the walls
+around the shop to light up the area.  There are no shelves or racks fixed
+to the walls of the shop, instead the merchandise is stored in a room at the
+back of the shop and is only taken out on request.  Apart from a big shop
+counter, the only item of interest inside this room is the exit.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11215
+S
+#11200
+Approaching Tanchico~
+From far off to the west is a gleaming white city which is a scene to
+rival Whitebridge or even Tar Valon.  There are hundreds of beautiful
+palaces and halls topped with thin towers or pointed domes all built around
+the mouth of the River Andahar and Tanchico Bay.  The white stone walls that
+encompass the city add to the wondrous effect of the historic coastal city
+whose origins are reputed to date back many centuries.  
+~
+0
+0 14
+D3
+~
+~
+0 0
+0 0 11201
+S
+#11201
+{WThe City Gate{x~
+The monstrously huge gateway that marks the entrance into Tanchico is a
+tall archway built into the white stone walls that surround the coastal
+city.  On both sides of the city wall the stonework following the edge of
+the archway has been carved with an elaborate pattern of waves that almost
+meet at the apex.  A tree with leafy boughs depicting the Great Tree of
+Tarabon has been carved into either side of the archway's keystone of the
+archway and gilded to highlight the design.  
+~
+0
+0 14
+D1
+~
+~
+0 0
+0 0 11200
+D3
+~
+gate~
+3 3
+1 0 11202
+S
+#11202
+Intersection of {bT{Banchico Roa{bd{x and {gE{Gast Stree{gt{x~
+Two roads intersect at this point; East Street that leads southwards
+towards the river docks and Tanchico Road that leads westwards into the
+heart of Tanchico.  The snowy white buildings that flank the gray stone
+roads give a scene that could rival Whitebridge at a distance but the flaws
+of the city's buildings are apparent when viewed close up.  Only the palaces
+and towers are made of stone, every other building's exterior has been
+covered with white plaster to mimic them.  To the east lies the City Gate,
+the great white stone archway that marks the land entrance into the city.  
+~
+0
+0 1
+D1
+~
+gate~
+3 3
+1 0 11201
+D2
+~
+~
+0 0
+0 0 11230
+D3
+~
+~
+0 0
+0 0 11203
+S
+#11203
+{bT{Banchico Roa{bd{x~
+Tanchico Road is one of the busiest areas within Tanchico as it connects
+together the three peninsulas that form the city.  The road is rather wide
+and has been built using slabs of dull gray stone.  Oddly shaped buildings
+with flat roofs line the road, the majority of them have white plaster
+covering their brickwork walls.  A great number of the buildings along this
+road are houses but there are also shops, inns and taverns too.  Beyond the
+sprawl of low buildings are the city's magnificent white stone palaces and
+mansions created with intricately thin towers and pointed domes.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11240
+D1
+~
+~
+0 0
+0 0 11202
+D3
+~
+~
+0 0
+0 0 11204
+S
+#11204
+{bT{Banchico Roa{bd{x~
+This thoroughfare is one of the busiest areas inside Tanchico as it links
+together the three peninsulas that make up the city.  The road is rather
+wide and has been constructed using slabs of dull gray stone.  Peculiarly
+shaped buildings with flat roofs line the road, most of them have white
+plaster covering their outer walls.  Many of the buildings along this road
+are houses but there are also inns, taverns and shops too.  Beyond the
+sprawl of low buildings are the city's glorious white stone halls and
+palaces built with intricately thin spires and pointed domes.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11308
+D1
+~
+~
+0 0
+0 0 11203
+D3
+~
+~
+0 0
+0 0 11205
+S
+#11205
+{bT{Banchico Roa{bd{x~
+This thoroughfare is one of the busiest regions inside Tanchico as it
+joins together the three peninsulas that make up the city.  The road is
+quite wide and has been built using slabs of dull gray stone.  Strange
+buildings with flat roofs line the road, most of them have white plaster
+covering their external walls.  A lot of the buildings along this road are
+houses but there are also inns, taverns and shops too.  Beyond the sprawl of
+low buildings are the city's glorious white stone palaces and mansions
+created with intricately thin spires and pointed domes.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11307
+D1
+~
+~
+0 0
+0 0 11204
+D3
+~
+~
+0 0
+0 0 11206
+S
+#11206
+Intersection of {bT{Banchico Roa{bd{x and {gP{Ganarch's Roa{gd{x~
+At this spot the east/west thoroughfare known as Tanchico Road intersects
+a north/south street called Panarch's Road.  The gleaming white structures
+that border the gray stone roads give a scene that could rival Whitebridge
+at a distance but the flaws of the city's buildings are clear when viewed
+close up.  Only the palaces and towers are made of stone, all of the other
+buildings' exteriors are covered with white plaster in a vain attempt to
+copy them.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11227
+D1
+~
+~
+0 0
+0 0 11205
+D2
+~
+~
+0 0
+0 0 10800
+D3
+~
+~
+0 0
+0 0 11207
+S
+#11207
+{bT{Banchico Roa{bd{x~
+This is a broad road that leads through the northern part of Tanchico and
+joining together the city's three hilly peninsulas.  The city is awash with
+white buildings, from needle-like towers, magnificent palaces with gilded
+domes to more simple abodes with flat roofs.  This section of the city
+mainly consists of shops and taverns although there is the odd tall house
+belonging to wealthy citizens along this road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11300
+D1
+~
+~
+0 0
+0 0 11206
+D2
+~
+~
+3 3
+1 0 11313
+D3
+~
+~
+0 0
+0 0 11208
+S
+#11208
+{bT{Banchico Roa{bd{x~
+Tanchico Road is one of the busiest areas within Tanchico as it links
+together the three peninsulas that make up the city.  The road is fairly
+wide and has been paved with slabs of dull gray stone.  Odd buildings with
+flat roofs line the road, most of them have white plaster covering their
+brick walls.  A lot of the buildings along this road are houses but there
+are also inns, taverns and shops nearby.  Visible beyond the sprawl of low
+buildings are the city's splendid white stone palaces and mansions created
+with intricately thin towers and pointed domes.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11207
+D3
+~
+~
+0 0
+0 0 11209
+S
+#11209
+{bT{Banchico Roa{bd{x~
+Tanchico Road is a broad thoroughfare that leads through the northern
+part of Tanchico and linking together the three hilly peninsulas that the
+city is built upon.  The city is awash with white buildings, from narrow
+tapered towers, glorious palaces with gilded domes to more humble and
+simpler homes with flat roofs although along this section of Tanchico Road
+there are mainly shops and taverns.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11314
+D1
+~
+~
+0 0
+0 0 11208
+D2
+~
+~
+3 3
+1 0 11309
+D3
+~
+~
+0 0
+0 0 11210
+S
+#11210
+{bT{Banchico Roa{bd{x~
+This thoroughfare is one of the busiest areas in Tanchico as it joins
+together the three peninsulas that make up the city.  The road is quite wide
+and has been built using slabs of dull gray stone.  Strange buildings with
+flat roofs line the road, nearly all of them have white plaster covering
+their outer walls.  Many of the buildings along this road are houses but
+there are also shops, inns and taverns too.  Beyond the sprawl of low
+buildings are the city's magnificent white stone palaces and mansions
+created with intricately thin towers and pointed domes.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11209
+D3
+~
+~
+0 0
+0 0 11211
+S
+#11211
+{bT{Banchico Roa{bd{x~
+Tanchico Road is one of the busiest areas within Tanchico as it links
+together the three peninsulas that form the city.  The road is quite wide
+and has been constructed using slabs of dull gray stone.  Oddly shaped
+buildings with flat roofs line the road, the majority of them have white
+plaster covering their outer walls.  A lot of the buildings along this road
+are houses but there are also inns, taverns and shops too.  Visible beyond
+the sprawl of low buildings are the city's wonderful white stone mansions
+and palaces created with intricately pointed domes and thin spires.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11303
+D1
+~
+~
+0 0
+0 0 11210
+D2
+~
+~
+3 3
+1 0 11315
+D3
+~
+~
+0 0
+0 0 11212
+S
+#11212
+Intersection of {bT{Banchico Roa{bd{x and {yK{Ying's Roa{yd{x~
+At this point the east/west street known as Tanchico Road intersects a
+north/south thoroughfare known as King's Road.  The white structures that
+flank the gray stone roads offer a scene that could rival Whitebridge at a
+distance however the flaws of the city's buildings are apparent when viewed
+close up.  Only the towers and palaces are made of stone, all of the other
+buildings' exteriors are covered with white plaster in a feeble attempt to
+copy them.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11224
+D1
+~
+~
+0 0
+0 0 11211
+D2
+~
+~
+0 0
+0 0 11000
+D3
+~
+~
+0 0
+0 0 11213
+S
+#11213
+{bT{Banchico Roa{bd{x~
+Tanchico Road is one of the busiest areas within Tanchico as it connects
+together the three peninsulas that form the city.  The road is fairly wide
+and has been built using slabs of dull gray stone.  Oddly shaped buildings
+with flat roofs line the road, the majority of them have white plaster
+covering their brickwork walls.  A great number of the buildings along this
+road are houses but there are also shops, inns and taverns too.  Beyond the
+sprawl of low buildings are the city's magnificent white stone palaces and
+mansions created with intricately thin towers and pointed domes.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11305
+D1
+~
+~
+0 0
+0 0 11212
+D2
+~
+gate~
+3 3
+1 0 11044
+D3
+~
+~
+0 0
+0 0 11214
+S
+#11214
+{bT{Banchico Roa{bd{x~
+Tanchico Road is one of the busiest districts within Tanchico as it joins
+together the three peninsulas that form the city.  The road is quite wide
+and has been paved with slabs of dull gray stone.  Odd buildings with flat
+roofs line the road, nearly all of them have white plaster covering their
+outer walls.  Many of the buildings along this road are houses but there are
+also shops, inns and taverns here too.  Beyond the sprawl of low buildings
+are the city's magnificent white stone halls and palaces created with
+intricately thin towers and pointed domes.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11213
+D3
+~
+~
+0 0
+0 0 11215
+S
+#11215
+{bT{Banchico Roa{bd{x~
+This is a broad thoroughfare paved that leads through the northern part
+of Tanchico and joining together the three hilly peninsulas that the coastal
+city is built upon.  The city is awash with white buildings, from
+needle-like towers, glorious palaces with gilded domes to more simple homes
+with flat roofs.  This section of the city mainly consists of shops and
+taverns although the odd tall house belonging to wealthy citizens can be
+seen here too.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 11317
+D1
+~
+~
+0 0
+0 0 11214
+D2
+~
+~
+3 3
+1 0 11312
+D3
+~
+~
+0 0
+0 0 11216
+S
+#11216
+{bT{Banchico Roa{bd{x~
+This thoroughfare is among the busiest districts within Tanchico as it
+connects together the three peninsulas that form the city.  The road is
+quite wide and has been built using slabs of gray stone.  Strange buildings
+with flat roofs line the road, the majority of them have white plaster
+covering their brickwork walls.  A lot of the buildings along this road are
+houses but there are also shops, inns and taverns in the vicinity.  Beyond
+the sprawl of low buildings are the city's magnificent white stone palaces
+and mansions created with intricately thin towers and pointed domes.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11299
+D1
+~
+~
+0 0
+0 0 11215
+D3
+~
+~
+0 0
+0 0 11217
+S
+#11217
+{bT{Banchico Roa{bd{x~
+This is Tanchico Road, Tanchico's longest and widest thoroughfare.  The
+gleaming white buildings that flank the gray stone road provide a view that
+could rival Whitebridge at a distance but the flaws of the city's buildings
+are apparent when viewed close up.  Only the city's palaces and towers are
+made of stone, every other building's exterior has been covered with white
+plaster in a vain effort to mimic them.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11302
+D1
+~
+~
+0 0
+0 0 11216
+D2
+~
+~
+3 3
+1 0 11306
+D3
+~
+~
+0 0
+0 0 11218
+S
+#11218
+Intersection of {bT{Banchico Roa{bd{x and {rA{Rssembly Roa{rd{x~
+At this point the east/west street called Tanchico Road intersects a
+north/south thoroughfare called Assembly Road.  The white buildings that
+flank the gray stone roads offer a scene that could rival Whitebridge at a
+distance however the flaws of the city's structures are evident when viewed
+close up.  Only the palaces and towers are made of stone, all of the other
+buildings' exteriors are covered with white plaster in a shabby attempt to
+replicate them.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11222
+D1
+~
+~
+0 0
+0 0 11217
+D2
+~
+~
+0 0
+0 0 10600
+D3
+~
+~
+0 0
+0 0 11219
+S
+#11219
+{bT{Banchico Roa{bd{x~
+Tanchico Road is among the busiest regions in Tanchico as it joins
+together the three peninsulas that make up the city.  The road is fairly
+wide and has been paved with slabs of dull gray stone.  Strange buildings
+with flat roofs line the road, the majority of them have white plaster
+covering their exterior walls.  Many of the buildings along this road are
+houses but there are also some inns, taverns and shops in the neighborhood. 
+Beyond the sprawl of low buildings are the city's magnificent white stone
+palaces and mansions created with intricately thin towers and pointed domes.
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11304
+D1
+~
+~
+0 0
+0 0 11218
+D2
+~
+~
+3 3
+1 0 11301
+D3
+~
+~
+0 0
+0 0 11220
+S
+#11220
+{bT{Banchico Roa{bd{x~
+Tanchico Road is among the busiest areas inside Tanchico as it connects
+together the three peninsulas that make up the city.  The road is rather
+wide and has been paved with slabs of dull gray stone.  Strange buildings
+with flat roofs line the road, most of them have white plaster covering
+their brickwork walls.  A great number of the buildings along this road are
+houses but there are also shops, inns and taverns.  Visible beyond the
+sprawl of low buildings are the city's splendid white stone palaces and
+mansions built with intricately thin towers and pointed domes.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11219
+D3
+~
+~
+0 0
+0 0 11221
+S
+#11221
+{bT{Banchico Roa{bd{x~
+This is Tanchico Road, Tanchico's longest and widest thoroughfare.  The
+snowy white buildings that flank the gray stone road give a scene that could
+rival Whitebridge at a distance but the flaws of the city's buildings are
+apparent when viewed close up.  Only the palaces and towers are made of
+stone, every other building's exterior has been covered with white plaster
+to mimic them.  One of the towers lies at the west end of the road; the
+tower has been built into the defensive wall that surrounds this coastal
+city.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11311
+D1
+~
+~
+0 0
+0 0 11220
+D2
+~
+~
+3 3
+1 0 11310
+D3
+~
+~
+3 3
+1 0 11294
+S
+#11222
+{rA{Rssembly Roa{rd{x~
+This part of Assembly Road links numerous narrow winding streets and
+alleys through an underprivileged residential quarter.  The dwellings in
+this district are plainer and simpler than the grand constructions that lie
+in the distance to the south on the Calapene Peninsula.  They are all flat
+roofed structures whose outer walls have been covered with a layer of white
+plaster, aping the wonderful white stone palaces of the city.  Oddly though,
+none of the houses of the city have windows looking out onto the roads.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11223
+D2
+~
+~
+0 0
+0 0 11218
+S
+#11223
+{rA{Rssembly Roa{rd{x~
+This is the northern end of Assembly, a wide paved thoroughfare.  This
+part of the road connects a series of narrower twisting streets and alleys
+through a rough housing district.  Towering above the crumbling white
+plastered houses in the distance are large palaces, grand halls and
+needle-like towers that have been constructed from white stone.  One of the
+towers lies at the north end of the road; the tower has been built into the
+defensive wall that surrounds this coastal city.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11290
+D2
+~
+~
+0 0
+0 0 11222
+S
+#11224
+{yK{Ying's Roa{yd{x~
+This part of King's Road links numerous narrow winding streets and alleys
+through a poor residential district.  The houses in this district are
+plainer and simpler than the grand constructions that lie in the distance to
+the south on the Maseta Peninsula.  They are all flat roofed constructions
+whose outer walls have been covered with a layer of white plaster, copying
+the wonderful white stone palaces of the city.  Oddly though, none of the
+houses of the city have windows looking out onto the streets.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11225
+D2
+~
+~
+0 0
+0 0 11212
+S
+#11225
+{yK{Ying's Roa{yd{x~
+This section of King's Road links a series of narrow winding streets and
+alleyways through a residential district inhabited by the working people of
+Tanchico.  The houses in this district are plainer and simpler than the
+grand constructions that lie in the distance to the south on the Maseta
+Peninsula.  They are all flat roofed constructions whose exterior walls have
+been covered with a layer of white plaster, mimicking the glorious white
+stone palaces of the city.  Oddly though, none of the houses of the city
+have windows overlooking the streets.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11226
+D2
+~
+~
+0 0
+0 0 11224
+S
+#11226
+{yK{Ying's Roa{yd{x~
+This is the northern end of King's Road, a broad paved thoroughfare. 
+This section of the road joins a series of narrower winding streets and
+alleyways through a residential district inhabited by the working people of
+the city.  Towering above the white plastered houses in the distance are
+large palaces, grand halls and needle-like towers that have been constructed
+from white stone.  One of the towers lies at the north end of the road; the
+tower has been built into the defensive wall that surrounds this coastal
+city.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11286
+D2
+~
+~
+0 0
+0 0 11225
+S
+#11227
+{gP{Ganarch's Roa{gd{x~
+There are a number of narrow winding streets and alleyways lead westwards
+off Panarch's Road into a residential district inhabited by the commoners of
+the city.  On the opposite side of the road is a tall gray stone wall that
+looks out of place among the mainly white buildings in the area.  The wall
+encompasses a large complex of brickwork houses and workshops which belong
+to the Illuminators' Guild.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11228
+D2
+~
+~
+0 0
+0 0 11206
+S
+#11228
+{gP{Ganarch's Roa{gd{x~
+There are several narrow twisting streets and alleys lead westwards off
+Panarch's Road into a residential area inhabited by the commoners of the
+city.  On the opposite side of the road is a high wall built from gray stone
+that looks out of place among the mainly white buildings in the area.  The
+wall encircles a large complex of brickwork houses and workshops that belong
+to the Illuminators' Guild.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11229
+D2
+~
+~
+0 0
+0 0 11227
+S
+#11229
+{gP{Ganarch's Roa{gd{x~
+Several narrow winding streets lead westwards off Panarch's Road into a
+residential district inhabited by the working people of the city.  On the
+opposite side of the road is a tall gray stone wall that looks out of place
+among the mainly white buildings in the area.  The wall encompasses a large
+complex of brickwork houses and workshops that belong to the Illuminators'
+Guild.  In turn, the Illuminators' complex and the city of Tanchico itself
+is encompassed by high walls of white stone that have towers built along it;
+one such tower lies at the north end of the road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11282
+D1
+~
+~
+0 0
+0 0 11244
+D2
+~
+~
+0 0
+0 0 11228
+S
+#11230
+{gE{Gast Stree{gt{x~
+East Street's name is derived from its position on the eastern outskirts
+of Tanchico.  The gleaming white walls and their needle-like towers that
+encompass the coastal city loom ominously over this road.  There are a
+multitude of white flat roofed buildings flanking this street; the majority
+of them are taverns and inns frequented by merchants and sailors.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11202
+D2
+~
+~
+0 0
+0 0 11231
+S
+#11231
+{gE{Gast Stree{gt{x~
+East Street's name is derived from its location on the eastern outskirts
+of Tanchico.  The shiny white walls and their needle-like towers that
+encircle the coastal city loom ominously over this road.  There are a huge
+number of white flat roofed buildings flanking this street although the
+majority of them are taverns and inns that are frequented by merchants and
+sailors.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11230
+D2
+~
+~
+0 0
+0 0 11232
+D3
+~
+gate~
+3 3
+1 0 10843
+S
+#11232
+{gE{Gast Stree{gt{x~
+East Street is a wide paved thoroughfare that runs parallel to Tanchico's
+white stone city wall.  There are a lot of buildings flanking this road,
+they all are squat structures with white plaster coated facades and flat
+roofs.  There are a few houses in this district but the majority of the
+buildings here are inns and taverns that appear to be popular with the
+sailors and laborers that work at the river docks that lie nearby to the
+south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11231
+D2
+~
+~
+0 0
+0 0 11233
+S
+#11233
+Intersection of {yA{Yndahar Roa{yd{x and {gE{Gast Stree{gt{x~
+At this point the east/west thoroughfare known as Andahar Road intersects
+a street leading north called East Street.  Along the south side of the
+intersection are a series of grubby white stone jetties made built along the
+Rover Andahar.  Clustered around the opposite side of the intersection are
+numerous buildings whose exteriors have been coated with white plaster, most
+of them are warehouses but there are some shops and taverns in this
+vicinity.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11232
+D1
+~
+~
+0 0
+0 0 11234
+D3
+~
+~
+0 0
+0 0 11237
+S
+#11234
+{yA{Yndahar Roa{yd{x~
+Andahar Road is a long thoroughfare that follows the northern bank of the
+River Andahar.  Built along the southern side of the road are Tanchico's
+river docks, a series of grubby jetties made of white stone that jut out
+into the waterway.  Along the opposite side of the road is a series of
+buildings whose exteriors have been coated with white plaster, most of them
+are warehouses but there are some shops and taverns in this vicinity.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11276
+D1
+~
+~
+0 0
+0 0 11235
+D2
+~
+~
+0 0
+0 0 11271
+D3
+~
+~
+0 0
+0 0 11233
+S
+#11235
+{yA{Yndahar Roa{yd{x~
+Named after the waterway that it borders, Andahar Road is a particularly
+busy thoroughfare with lots of carts and wagons using it to access the river
+docks that lie close by on the south side.  There are a multitude of white
+flat roofed buildings flanking this street; the majority of them are taverns
+and warehouses although there is the odd shop here too.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11316
+D1
+~
+~
+0 0
+0 0 11236
+D3
+~
+~
+0 0
+0 0 11234
+S
+#11236
+{yA{Yndahar Roa{yd{x~
+This is the eastern end of Andahar Road, the broad paved thoroughfare
+built along Tanchico's river.  The area is very busy as traffic flows to and
+from the river docks and the white plastered buildings constructed alongside
+this road.  The majority of the buildings are warehouses although there are
+also a few taverns along this road but they look like very rough
+establishments.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11277
+D1
+~
+~
+3 3
+1 0 11278
+D2
+~
+~
+0 0
+0 0 11273
+D3
+~
+~
+0 0
+0 0 11235
+S
+#11237
+{yA{Yndahar Roa{yd{x~
+This is Andahar Road, the wide paved thoroughfare that borders the
+northern bank of the River Andahar.  The area is very busy as traffic flows
+to and from the river docks and the white plastered buildings constructed
+alongside this road.  The majority of the buildings are warehouses although
+there are also a few inns and taverns along this road but they look like
+very rough establishments.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11275
+D1
+~
+~
+0 0
+0 0 11233
+D2
+~
+~
+0 0
+0 0 11269
+D3
+~
+~
+0 0
+0 0 11238
+S
+#11238
+{yA{Yndahar Roa{yd{x~
+Andahar Road is a long and winding road that follows the northern bank of
+the River Andahar.  Built along the southern side of the road are Tanchico's
+river docks, a series of white stone jetties that jut out into the river. 
+Along the opposite side of the road is a series of buildings whose exteriors
+have been covered with white plaster, the majority of them are warehouses
+but there is a strong smell of ale and tabac in the air which is emanating
+from the busy taverns along this road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 11298
+D1
+~
+~
+0 0
+0 0 11237
+D3
+~
+~
+0 0
+0 0 11239
+S
+#11239
+{yA{Yndahar Roa{yd{x~
+Named after the waterway that it borders, Andahar Road is a particularly
+busy thoroughfare.  The rough gray stone slabs that make up the road show
+signs of wear and tear from heavy carts and wagons that traverse them. 
+Warehouses and taverns with white plaster covered exteriors have been built
+along the north side of the road, every single one of these buildings look
+out over the River Andahar and the white stone jetties that jut into it.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11238
+D3
+~
+~
+0 0
+0 0 10803
+S
+#11240
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {DT{whe{D S{wouth{D G{watehouse{x~
+Beyond a high gray stone wall that looks out of place amongst the
+whitestructures of Tanchico is the Illuminators' Guild, a complex of
+buildings which is almost a village in its own right.  The collection of
+brickwork workshops and houses lies beyond this stark arched gatehouse. 
+There is a broad road paved with slabs of gray stone that passes underneath
+the gatehouse, linking Tanchico's road network with that of the
+Illuminators' complex.  
+~
+0
+C 1
+D0
+~
+gate~
+3 3
+1 0 11241
+D2
+~
+~
+0 0
+0 0 11203
+S
+#11241
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is a broad road that winds its way through the Illuminators'
+complex.  The gray paved roads of the complex are in a better state of
+repair in comparison to the rest of the city's roads.  The road forks at
+this point; to the south is the South Gatehouse, to the north are some
+houses and the Guild Hall and to the east is a collection of large brickwork
+buildings that appear to be workshops and warehouses.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11242
+D1
+~
+~
+0 0
+0 0 11254
+D2
+~
+gate~
+3 3
+1 0 11240
+S
+#11242
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yThe Center of the Complex{x~
+This is the center of a complex of buildings belonging to the
+Illuminators' Guild.  A wide road paved with smooth gray slabs of stone
+winds its way around the brown brick buildings, forking at this particular
+point.  To the west lies the West Gatehouse and a group of small houses, to
+the south is the South Gatehouse and a collection of warehouses and
+workshops whilst to the east is the Guild Hall.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11247
+D2
+~
+~
+0 0
+0 0 11241
+D3
+~
+~
+0 0
+0 0 11243
+S
+#11243
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is a wide road that twists its way through the Illuminators'
+complex.  The gray paved roads of the complex are in a better state of
+repair in comparison to the rest of the city's roads.  The road forks at
+this point; to the west is the West Gatehouse, to the north is a series of
+brickwork houses and to the east the road passes much larger and grander
+constructed buildings.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11245
+D1
+~
+~
+0 0
+0 0 11242
+D2
+~
+~
+3 3
+1 0 11268
+D3
+~
+gate~
+3 3
+1 0 11244
+S
+#11244
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {DT{whe{D W{west{D G{watehouse{x~
+Beyond a tall gray stone wall that looks out of place amongst the white
+buildings of Tanchico is the Illuminators' Guild, a complex of buildings
+which is almost a village in its own right.  The collection of brickwork
+houses and workshops lies beyond this arched gatehouse, a plain construction
+with no carvings or embellishments.  A wide road paved with slabs of gray
+stone passes underneath the gatehouse, linking Tanchico's road network with
+that of the Illuminators' complex.  
+~
+0
+C 1
+D1
+~
+gate~
+3 3
+1 0 11243
+D3
+~
+~
+0 0
+0 0 11229
+S
+#11245
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is a wide road that winds its way through the Illuminator's complex.
+The road passes a cluster of small brick buildings with flat roofs which
+appear to be houses.  The Illuminator abodes lack the coating of white
+plaster upon their exterior walls that the rest of the city houses have in
+their vain attempt at mimicking Tanchico's white stone halls and palaces.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 11246
+D2
+~
+~
+0 0
+0 0 11243
+S
+#11246
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is the northern end of a broad road that winds its way through the
+Illuminators' complex.  The road passes a cluster of cozy brick buildings
+with flat roofs that appear to be houses.  The Illuminator residences lack
+the coating of white plaster upon their outer walls that the rest of the
+city houses have in their vain attempt at aping Tanchico's white stone halls
+and palaces.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 11245
+S
+#11247
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is the east end of a long road that winds its way through a network
+of buildings belonging to the Illuminators' Guild.  The road has been paved
+with smooth slabs of gray stone and is in a much better state of repair than
+Tanchico's thoroughfares.  To the east is a large building that appears to
+the Illuminators' Guild Hall.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 11248
+D3
+~
+~
+0 0
+0 0 11242
+S
+#11248
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {bT{Bhe Gu{bi{Bld Hal{bl{x~
+The grandest of all the structures within the Illuminators' Complex is
+the Guild Hall.  It is a very tall and austere building made from brown
+brick.  The main entrance of the building and its connecting corridors are
+half-paneled with dark wood and dark green tiles cover the floor in a
+checkered pattern.  The vaulted ceiling has been painted dark blue like the
+night's sky and embossed with a pattern of gilded stars.  On the west side
+of this chamber is a tall pair of doors that leads outside of the building. 
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 11249
+D3
+~
+~
+3 3
+1 0 11247
+S
+#11249
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {bA L{Bon{bg Co{Brrid{bor{x~
+This is a long brown brick corridor within the Illuminators' Guild Hall. 
+The room has been half-paneled with dark wood and dark green tiles cover the
+floor in a checkered pattern.  The hallway's vaulted ceiling has been
+painted dark blue like the night's sky and embossed with a pattern of gilded
+stars.  There are several tall arched doorways along this corridor that lead
+into other parts of the Guild Hall.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11250
+D1
+~
+~
+3 3
+1 0 11252
+D2
+~
+~
+0 0
+0 0 11248
+D3
+~
+~
+3 3
+1 0 11251
+S
+#11250
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {bT{Bhe Ma{bs{Bter{b Il{Bluminat{bor's O{Bffic{be{x~
+This brown brick chamber within the Guild Hall is being used as an office
+by the Head Illuminator.  The office is roughly square in shape and has been
+half-paneled with dark wood and dark gray, almost black tiles cover the
+floor in a checkered pattern.  A golden lantern hung from the ceiling bathes
+the long dark wood book shelves and richly colored tapestries that adorn the
+walls with a soft golden light.  There is a wide black marble fireplace on
+the west side of the room while at the opposite side are a pair of tall
+arched windows that look out over a large area of grassy land that appears
+to be used as a practice area for the Illuminators.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11249
+S
+#11251
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {bT{Bhe Cha{bp{Bter {bH{Bous{be{x~
+The Illuminators' Chapter House is a long rectangular chamber within the
+Guild Hall whose walls have almost entirely been covered with dark wood
+paneling.  A wide aisle that leads down the center of the chamber between
+two rows of wide black marble columns has been marked out by a strip of
+plush crimson carpet while the columns help support the vaulted white
+plastered ceiling and grand domed roof of the Chapter House.  Long colorful
+tapestries hang from the walls of the chamber, each one depicting a night
+scene of different cities beneath colorful displays of Illuminators'
+nightflowers.  The grandest of the illustrations is within the tall arched
+window that makes up most of the western wall of the chamber that is filled
+with a stained glass design of the city of Tanchico.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 11249
+S
+#11252
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {bT{Bhe{x {BTre{ba{Bs{bu{Brer's{x {bO{Bffic{be{x~
+This brown brick chamber within the Guild Hall is being used as an office
+by the Treasurer.  The office is approximately square in shape and has been
+half-paneled with dark wood and dark gray, almost black tiles cover the
+floor in a checkered pattern.  A silver lantern suspended from the ceiling
+bathes the richly colored tapestries that adorn the walls with a soft golden
+light.  There is a wide gray stone fireplace on the south side of the room
+while at the opposite side are a pair of tall arched windows that look out
+over a large area of grassy land that is used as a practice area for the
+Illuminators.  
+~
+0
+D 0
+D1
+~
+~
+8231 8231
+2 11201 11253
+D3
+~
+~
+3 3
+1 0 11249
+S
+#11253
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {bA {BLa{br{Bge {bV{Baul{bt{x~
+This is a large vault located somewhere within the Illuminator's complex.
+Like most areas of the complex, the walls of the room have been left bare
+brown brickwork and dark gray cover the floor.  The vault is brightly
+illuminated by small oil lanterns that hang from the ceiling.  Numerous
+chests, crates and boxes have been stacked up neatly along the north side of
+the room whilst small hessian sacks have been stacked at the opposite side
+of the room.  The only visible exit from the vault is an iron braced door on
+the west side of the room.  
+~
+0
+ABDV 0
+D3
+~
+~
+8231 8231
+2 11201 11252
+S
+#11254
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is a long road that weaves its way through a network of brickwork
+buildings owned by the Illuminators' Guild.  The road has been paved with
+smooth slabs of gray stone and is in a much better state of repair than
+Tanchico's streets.  To the south is a group of small warehouses whilst in
+the distance to the east is a huge building.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 11256
+D2
+~
+~
+8231 8231
+2 11204 11255
+D3
+~
+~
+0 0
+0 0 11241
+S
+#11255
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {cA Small Warehouse{x~
+This small brown brick building that has been reinforced with timber
+beams is being used as a warehouse.  There are a set of narrow windows near
+ceiling height that look like they are the only source of illumination in
+this area.  There are numerous wooden crates and casks being stored in the
+warehouse that have been arranged in neat rows.  The only visible exit from
+this warehouse is a wide pair of doors at the north side of the building.  
+~
+0
+ABD 0
+D0
+~
+~
+8231 8231
+2 11204 11254
+S
+#11256
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{w {x-{w {yA Wide Road{x~
+This is the east end of a long road that winds its way through a network
+of buildings belonging to the Illuminators' Guild.  The road has been paved
+with smooth slabs of gray stone and is in a much better state of repair than
+Tanchico's thoroughfares.  To the south is a group of small warehouses
+whilst to the east is a grand complex of workshops.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 11258
+D2
+~
+~
+8231 8231
+2 11204 11257
+D3
+~
+~
+0 0
+0 0 11254
+S
+#11257
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {cA Small Warehouse{x~
+This small brown brick building that has been reinforced with wood beams
+is being used as a warehouse.  There are a set of slender windows near
+ceiling height that appear to be the only source of light in this area. 
+There are numerous wooden casks and crates being stored in the warehouse
+that have been arranged in orderly rows.  The only visible exit from this
+warehouse is a broad pair of doors at the north side of the building.  
+~
+0
+ABD 0
+D0
+~
+~
+8231 8231
+2 11204 11256
+S
+#11258
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {gThe S{Gchoo{gl of I{Glluminator{gs{x~
+The most noticeable thing about this corridor within the School of
+Illuminators is the faint aroma of sulfur that hovers in the air.  The walls
+have been left as bare brick except for the ornamental hooks attached to
+them which hold elaborate oil lamps made of brass.  There are several exits
+from this corridor including a set of double doors at the west end that lead
+outside the building and several smaller doorways that have been marred with
+dark scorch marks around their frames.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11259
+D1
+~
+~
+0 0
+0 0 11261
+D2
+~
+~
+3 3
+1 0 11260
+D3
+~
+~
+3 3
+1 0 11256
+S
+#11259
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x -{g A S{Gmal{gl W{Gorksho{gp{x~
+A strong smell of sulfur fills the air of this workshop.  A window at the
+north side of the room would have been enough to illuminate the room by day
+if it were not boarded up.  There are scorch marks around the window that
+hint of what might have happened in this room.  A door at the south end of
+the room provides a welcome exit out of this workshop, little needs to be
+said about the state of the wall it apart from it looks like someone has
+tried to block up a huge hole with bits of broken masonry.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11258
+S
+#11260
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x -{g A S{Gmal{gl W{Gorksho{gp{x~
+The opened window at the south side of the workshop has failed to clear
+the disgusting odor of sulfur that hangs in the air.  There are dark sooty
+marks across a lot of the brickwork walls and in some places around the
+window of the room which hint of what might have happened in this room in
+the past.  At the north side of the room is a door leading out into a long
+corridor with a couple of wooden buckets filled with sand conveniently
+placed beside it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11258
+S
+#11261
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x - {gA L{Gon{gg C{Gorrido{gr{x~
+The most noticeable thing about this passageway within the School of
+Illuminators is the faint odor of sulfur that hovers in the air.  The walls
+have been left as bare brick with the exception of the ornamental hooks
+attached to them which hold elaborate oil lanterns made of brass.  There are
+several identical doorways leading off from this corridor, each one has
+worrying scorch marks around the doorframe and its base.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11262
+D1
+~
+~
+0 0
+0 0 11264
+D2
+~
+~
+3 3
+1 0 11263
+D3
+~
+~
+0 0
+0 0 11258
+S
+#11262
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x -{g A S{Gmal{gl W{Gorksho{gp{x~
+A strong stench of sulfur fills the air of this small workshop.  A window
+at the north side of the room would have been enough to light up the room by
+day if it were not boarded up.  There are scorch marks around the window
+that hint of what might have happened in this room.  A door at the south end
+of the room provides a welcome exit out of this workshop, little needs to be
+said about the state of the wall it apart from it looks like someone has
+tried to block up a hole with bits of rubble.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 11261
+S
+#11263
+{DThe {rI{Rll{Yuminat{Ror{rs'{D Guild{x -{g A S{Gmal{gl W{Gorksho{gp{x~
+The opened window at the south side of the small workshop has failed to
+clear the stench of sulfur that hangs in the air.  There are scorch marks
+across the brickwork walls and around the window of the room which hint of
+what might have happened in this room in the past.  At the north side of the
+room is a door leading out into a long corridor with a couple of wooden
+pails filled with sand conveniently placed beside it.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 11261
+S
+#0
+
+
+
+#SPECIALS
+M 11200 spec_questmaster
+M 11219 spec_archer
+S
+
+
+
+#RESETS
+D 0 11264 0 1
+D 0 11264 1 1
+D 0 11264 2 1
+D 0 11265 2 1
+D 0 11266 0 1
+D 0 11267 3 1
+D 0 11268 0 1
+D 0 11275 2 1
+D 0 11276 2 1
+D 0 11277 2 1
+D 0 11278 3 1
+D 0 11280 4 1
+D 0 11281 5 1
+D 0 11282 2 1
+D 0 11284 4 1
+D 0 11285 5 1
+D 0 11286 2 1
+D 0 11288 4 1
+D 0 11289 5 1
+D 0 11290 2 1
+D 0 11292 4 1
+D 0 11293 5 1
+D 0 11294 1 1
+D 0 11296 4 1
+D 0 11297 5 1
+D 0 11298 2 1
+D 0 11299 2 1
+D 0 11300 2 1
+D 0 11301 0 1
+D 0 11302 2 1
+D 0 11303 2 1
+D 0 11304 2 1
+D 0 11305 2 1
+D 0 11306 0 1
+D 0 11307 2 1
+D 0 11308 2 1
+D 0 11309 0 1
+D 0 11310 0 1
+D 0 11311 2 1
+D 0 11312 0 1
+D 0 11313 0 1
+D 0 11314 2 1
+D 0 11315 0 1
+D 0 11316 2 1
+D 0 11317 2 1
+D 0 11201 3 1
+D 0 11202 1 1
+D 0 11204 0 1
+D 0 11205 0 1
+D 0 11207 0 1
+D 0 11207 2 1
+D 0 11209 0 1
+D 0 11209 2 1
+D 0 11211 0 1
+D 0 11211 2 1
+D 0 11213 0 1
+D 0 11213 2 1
+D 0 11215 0 1
+D 0 11215 2 1
+D 0 11216 0 1
+D 0 11217 0 1
+D 0 11217 2 1
+D 0 11219 0 1
+D 0 11219 2 1
+D 0 11221 0 1
+D 0 11221 2 1
+D 0 11221 3 1
+D 0 11223 0 1
+D 0 11226 0 1
+D 0 11229 0 1
+D 0 11231 3 1
+D 0 11234 0 1
+D 0 11235 0 1
+D 0 11236 0 1
+D 0 11236 1 1
+D 0 11237 0 1
+D 0 11238 0 1
+D 0 11240 0 1
+D 0 11241 2 1
+D 0 11243 2 1
+D 0 11243 3 1
+D 0 11244 1 1
+D 0 11247 1 1
+D 0 11248 3 1
+D 0 11249 0 1
+D 0 11249 1 1
+D 0 11249 3 1
+D 0 11250 2 1
+D 0 11251 1 1
+D 0 11252 1 2
+D 0 11252 3 1
+D 0 11253 3 2
+D 0 11254 2 2
+D 0 11255 0 2
+D 0 11256 1 1
+D 0 11256 2 2
+D 0 11257 0 2
+D 0 11258 0 1
+D 0 11258 2 1
+D 0 11258 3 1
+D 0 11259 2 1
+D 0 11260 0 1
+D 0 11261 0 1
+D 0 11261 2 1
+D 0 11262 2 1
+D 0 11263 0 1
+M 0 11202 1 11265 1
+M 0 11205 8 11265 4
+M 0 11205 8 11265 4
+M 0 11205 8 11265 4
+M 0 11205 8 11265 4
+M 0 11201 1 11266 1
+M 0 11205 8 11266 4
+M 0 11205 8 11266 4
+M 0 11205 8 11266 4
+M 0 11205 8 11266 4
+M 0 11200 1 11267 1
+O 0 11200 0 11267
+O 0 11216 0 11268
+M 0 11220 1 11268 1
+M 0 11221 2 11268 2
+M 0 11221 2 11268 2
+M 0 11222 2 11268 2
+M 0 11222 2 11268 2
+M 0 11212 6 11269 1
+E 0 11350 0 12
+M 0 11213 6 11269 1
+M 0 11212 6 11270 1
+M 0 11213 6 11270 1
+M 0 11212 6 11271 1
+M 0 11213 6 11271 1
+M 0 11212 6 11272 1
+M 0 11213 6 11272 1
+M 0 11212 6 11273 1
+M 0 11213 6 11273 1
+M 0 11212 6 11274 1
+M 0 11213 6 11274 1
+M 0 11217 12 11275 4
+M 0 11217 12 11275 4
+M 0 11217 12 11275 4
+M 0 11217 12 11275 4
+M 0 11217 12 11276 4
+M 0 11217 12 11276 4
+M 0 11217 12 11276 4
+M 0 11217 12 11276 4
+M 0 11217 12 11277 4
+M 0 11217 12 11277 4
+M 0 11217 12 11277 4
+M 0 11217 12 11277 4
+M 0 11218 15 11278 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11218 15 11278 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11218 15 11278 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11266 30 11278 2
+M 0 11266 30 11278 2
+M 0 11266 30 11279 2
+M 0 11266 30 11279 2
+M 0 11266 30 11280 2
+M 0 11266 30 11280 2
+M 0 11219 15 11281 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11281 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11281 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11267 10 11281 2
+M 0 11267 10 11281 2
+M 0 11218 15 11282 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11218 15 11282 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11218 15 11282 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11266 30 11282 2
+M 0 11266 30 11282 2
+M 0 11266 30 11283 2
+M 0 11266 30 11283 2
+M 0 11266 30 11284 2
+M 0 11266 30 11284 2
+M 0 11219 15 11285 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11285 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11285 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11267 10 11285 2
+M 0 11267 10 11285 2
+M 0 11218 15 11286 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11218 15 11286 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11218 15 11286 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11266 30 11286 2
+M 0 11266 30 11286 2
+M 0 11266 30 11287 2
+M 0 11266 30 11287 2
+O 0 11322 0 11287
+P 0 11323 1 11322 1
+M 0 11266 30 11288 2
+M 0 11266 30 11288 2
+M 0 11219 15 11289 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11289 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11289 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11267 10 11289 2
+M 0 11267 10 11289 2
+M 0 11218 15 11290 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11218 15 11290 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11218 15 11290 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11266 30 11290 2
+M 0 11266 30 11290 2
+M 0 11266 30 11291 2
+M 0 11266 30 11291 2
+M 0 11266 30 11292 2
+M 0 11266 30 11292 2
+M 0 11219 15 11293 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11293 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11293 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11267 10 11293 2
+M 0 11267 10 11293 2
+M 0 11218 15 11294 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11218 15 11294 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11218 15 11294 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11266 30 11294 2
+M 0 11266 30 11294 2
+M 0 11266 30 11295 2
+M 0 11266 30 11295 2
+M 0 11266 30 11296 2
+M 0 11266 30 11296 2
+M 0 11219 15 11297 3
+E 0 11346 0 5
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11297 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11219 15 11297 3
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11214 0 20
+E 0 11215 0 19
+M 0 11267 10 11297 2
+M 0 11267 10 11297 2
+O 0 11216 0 11298
+M 0 11239 3 11298 1
+M 0 11240 3 11298 1
+M 0 11241 12 11298 4
+M 0 11241 12 11298 4
+M 0 11241 12 11298 4
+O 0 11216 0 11299
+M 0 11239 3 11299 1
+M 0 11240 3 11299 1
+M 0 11241 12 11299 4
+M 0 11241 12 11299 4
+M 0 11241 12 11299 4
+O 0 11216 0 11300
+M 0 11239 3 11300 1
+M 0 11240 3 11300 1
+M 0 11241 12 11300 4
+M 0 11241 12 11300 4
+M 0 11241 12 11300 4
+M 0 11242 1 11301 1
+G 0 11217 0
+M 0 11243 3 11301 3
+M 0 11243 3 11301 3
+M 0 11243 3 11301 3
+M 0 11244 1 11302 1
+M 0 11249 10 11302 2
+M 0 11249 10 11302 2
+M 0 11250 10 11302 2
+M 0 11250 10 11302 2
+M 0 11245 1 11303 1
+M 0 11249 10 11303 2
+M 0 11249 10 11303 2
+M 0 11250 10 11303 2
+M 0 11250 10 11303 2
+M 0 11246 1 11304 1
+M 0 11249 10 11304 2
+M 0 11249 10 11304 2
+M 0 11250 10 11304 2
+M 0 11250 10 11304 2
+M 0 11247 1 11305 1
+M 0 11249 10 11305 2
+M 0 11249 10 11305 2
+M 0 11250 10 11305 2
+M 0 11250 10 11305 2
+M 0 11248 1 11306 1
+M 0 11249 10 11306 2
+M 0 11249 10 11306 2
+M 0 11250 10 11306 2
+M 0 11250 10 11306 2
+M 0 11252 1 11307 1
+G 0 11222 0
+G 0 11223 0
+G 0 11224 0
+G 0 11225 0
+G 0 11226 0
+G 0 11227 0
+G 0 11228 0
+G 0 11327 0
+G 0 11326 0
+M 0 11251 1 11308 1
+G 0 11218 0
+G 0 11219 0
+G 0 11220 0
+G 0 11221 0
+G 0 11325 0
+G 0 11324 0
+M 0 11253 1 11309 1
+G 0 11229 0
+G 0 11230 0
+G 0 11231 0
+G 0 11232 0
+G 0 11328 0
+G 0 11329 0
+G 0 11330 0
+M 0 11254 3 11309 3
+M 0 11254 3 11309 3
+M 0 11254 3 11309 3
+M 0 11255 1 11310 1
+G 0 11233 0
+G 0 11234 0
+G 0 11235 0
+G 0 11236 0
+G 0 11237 0
+G 0 11238 0
+G 0 11239 0
+G 0 11240 0
+G 0 11241 0
+G 0 11242 0
+G 0 11243 0
+G 0 11244 0
+M 0 11260 15 11310 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11310 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11310 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11256 1 11311 1
+G 0 11245 0
+G 0 11246 0
+G 0 11247 0
+G 0 11248 0
+G 0 11249 0
+G 0 11250 0
+G 0 11251 0
+G 0 11252 0
+G 0 11253 0
+G 0 11254 0
+G 0 11255 0
+G 0 11256 0
+G 0 11257 0
+G 0 11258 0
+G 0 11259 0
+M 0 11260 15 11311 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11311 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11311 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11257 1 11312 1
+G 0 11260 0
+G 0 11261 0
+G 0 11262 0
+G 0 11263 0
+G 0 11344 0
+G 0 11345 0
+G 0 11264 0
+G 0 11265 0
+G 0 11266 0
+G 0 11267 0
+G 0 11342 0
+G 0 11343 0
+G 0 11268 0
+G 0 11269 0
+G 0 11270 0
+G 0 11271 0
+G 0 11340 0
+G 0 11341 0
+M 0 11260 15 11312 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11312 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11312 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11258 1 11313 1
+G 0 11272 0
+G 0 11273 0
+G 0 11274 0
+G 0 11275 0
+G 0 11276 0
+G 0 11277 0
+G 0 11278 0
+G 0 11279 0
+G 0 11280 0
+G 0 11281 0
+M 0 11260 15 11313 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11313 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11313 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11259 1 11314 1
+G 0 11282 0
+G 0 11283 0
+G 0 11284 0
+G 0 11285 0
+G 0 11286 0
+G 0 11287 0
+G 0 11288 0
+G 0 11289 0
+G 0 11290 0
+G 0 11291 0
+G 0 11292 0
+G 0 11293 0
+G 0 11294 0
+G 0 11295 0
+G 0 11296 0
+M 0 11260 15 11314 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11314 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11260 15 11314 3
+E 0 11297 0 7
+E 0 11298 0 8
+E 0 11299 0 25
+M 0 11261 1 11315 1
+G 0 11304 0
+G 0 11305 0
+M 0 11262 1 11316 1
+G 0 11306 0
+G 0 11307 0
+G 0 11314 0
+G 0 11315 0
+G 0 11316 0
+M 0 11263 4 11317 4
+E 0 11308 0 20
+E 0 11309 0 17
+E 0 11309 0 18
+M 0 11263 4 11317 4
+E 0 11308 0 20
+E 0 11309 0 17
+E 0 11309 0 18
+M 0 11263 4 11317 4
+E 0 11308 0 20
+E 0 11309 0 17
+E 0 11309 0 18
+M 0 11263 4 11317 4
+E 0 11308 0 20
+E 0 11309 0 18
+E 0 11309 0 17
+M 0 11264 1 11317 1
+G 0 11336 0
+G 0 11337 0
+G 0 11338 0
+G 0 11339 0
+G 0 11332 0
+G 0 11333 0
+G 0 11334 0
+G 0 11335 0
+G 0 11313 0
+G 0 11312 0
+G 0 11311 0
+G 0 11310 0
+M 0 11210 5 11201 5
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11210 5 11201 5
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11210 5 11201 5
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11210 5 11201 5
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11210 5 11201 5
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+E 0 11348 0 5
+M 0 11211 10 11202 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11211 10 11202 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11229 4 11203 1
+M 0 11230 4 11203 1
+M 0 11231 4 11204 1
+M 0 11232 4 11204 1
+O 0 11317 0 11204
+M 0 11237 7 11205 1
+M 0 11238 7 11205 1
+O 0 11302 0 11206
+M 0 11211 10 11206 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11211 10 11206 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11231 4 11207 1
+M 0 11232 4 11207 1
+M 0 11237 7 11208 1
+M 0 11238 7 11208 1
+M 0 11237 7 11209 1
+M 0 11238 7 11209 1
+O 0 11317 0 11209
+M 0 11235 4 11210 1
+M 0 11236 4 11210 1
+M 0 11231 4 11211 1
+M 0 11232 4 11211 1
+O 0 11301 0 11212
+M 0 11211 10 11212 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11211 10 11212 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11237 7 11213 1
+M 0 11238 7 11213 1
+M 0 11231 4 11214 1
+M 0 11232 4 11214 1
+M 0 11235 4 11215 1
+M 0 11236 4 11215 1
+O 0 11317 0 11215
+M 0 11237 7 11216 1
+M 0 11238 7 11216 1
+M 0 11235 4 11217 1
+M 0 11236 4 11217 1
+O 0 11300 0 11218
+M 0 11211 10 11218 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11211 10 11218 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11229 4 11219 1
+M 0 11230 4 11219 1
+M 0 11233 4 11220 1
+E 0 11347 0 20
+M 0 11234 4 11220 1
+M 0 11227 4 11221 1
+M 0 11228 4 11221 1
+O 0 11317 0 11221
+P 0 11320 1 11317 1
+M 0 11233 4 11222 1
+M 0 11234 4 11222 1
+M 0 11227 4 11223 1
+M 0 11228 4 11223 1
+M 0 11229 4 11224 1
+M 0 11230 4 11224 1
+M 0 11233 4 11225 1
+M 0 11234 4 11225 1
+M 0 11227 4 11226 1
+M 0 11228 4 11226 1
+M 0 11229 4 11227 1
+M 0 11230 4 11227 1
+M 0 11233 4 11228 1
+M 0 11234 4 11228 1
+M 0 11227 4 11229 1
+M 0 11228 4 11229 1
+M 0 11237 7 11230 1
+M 0 11238 7 11230 1
+M 0 11237 7 11231 1
+M 0 11238 7 11231 1
+O 0 11317 0 11231
+M 0 11235 4 11232 1
+M 0 11236 4 11232 1
+M 0 11211 10 11233 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11212 0 20
+M 0 11211 10 11233 2
+E 0 11210 0 7
+E 0 11211 0 8
+E 0 11213 0 20
+M 0 11214 4 11234 1
+M 0 11216 4 11234 1
+M 0 11214 4 11235 1
+M 0 11216 4 11235 1
+M 0 11215 4 11236 1
+M 0 11216 4 11236 1
+M 0 11215 4 11237 1
+M 0 11216 4 11237 1
+M 0 11214 4 11238 1
+M 0 11215 4 11238 1
+O 0 11303 0 11239
+M 0 11214 4 11239 1
+M 0 11215 4 11239 1
+M 0 11209 6 11240 3
+E 0 11206 0 7
+E 0 11207 0 25
+E 0 11208 0 8
+E 0 11209 0 20
+M 0 11209 6 11240 3
+E 0 11206 0 7
+E 0 11207 0 25
+E 0 11208 0 8
+E 0 11209 0 20
+M 0 11209 6 11240 3
+E 0 11206 0 7
+E 0 11207 0 25
+E 0 11208 0 8
+E 0 11209 0 20
+G 0 11349 0
+M 0 11223 4 11241 1
+M 0 11225 4 11241 1
+M 0 11204 1 11242 1
+G 0 11201 0
+M 0 11223 4 11242 1
+M 0 11226 4 11242 1
+O 0 11317 0 11242
+P 0 11331 1 11317 1
+M 0 11224 4 11243 1
+M 0 11226 4 11243 1
+M 0 11209 6 11244 3
+E 0 11206 0 7
+E 0 11207 0 25
+E 0 11208 0 8
+E 0 11209 0 20
+M 0 11209 6 11244 3
+E 0 11206 0 7
+E 0 11207 0 25
+E 0 11208 0 8
+E 0 11209 0 20
+M 0 11209 6 11244 3
+E 0 11206 0 7
+E 0 11207 0 25
+E 0 11208 0 8
+E 0 11209 0 20
+M 0 11225 4 11245 1
+M 0 11226 4 11245 1
+M 0 11224 4 11246 1
+M 0 11226 4 11246 1
+M 0 11224 4 11247 1
+M 0 11225 4 11247 1
+O 0 11203 0 11250
+P 0 11204 1 11203 1
+O 0 11200 0 11250
+M 0 11203 1 11252 1
+O 0 11200 0 11252
+O 0 11202 0 11253
+O 0 11319 0 11253
+P 0 11321 1 11319 1
+M 0 11223 4 11254 1
+M 0 11224 4 11254 1
+M 0 11265 12 11255 6
+M 0 11265 12 11255 6
+M 0 11265 12 11255 6
+M 0 11265 12 11255 6
+M 0 11265 12 11255 6
+M 0 11265 12 11255 6
+O 0 11318 0 11255
+M 0 11223 4 11256 1
+M 0 11225 4 11256 1
+M 0 11265 12 11257 6
+M 0 11265 12 11257 6
+M 0 11265 12 11257 6
+M 0 11265 12 11257 6
+M 0 11265 12 11257 6
+M 0 11265 12 11257 6
+O 0 11205 0 11259
+M 0 11206 10 11259 5
+M 0 11206 10 11259 5
+M 0 11206 10 11259 5
+M 0 11206 10 11259 5
+M 0 11206 10 11259 5
+O 0 11205 0 11260
+M 0 11206 10 11260 5
+M 0 11206 10 11260 5
+M 0 11206 10 11260 5
+M 0 11206 10 11260 5
+M 0 11206 10 11260 5
+O 0 11205 0 11262
+M 0 11207 8 11262 4
+M 0 11207 8 11262 4
+M 0 11207 8 11262 4
+M 0 11207 8 11262 4
+M 0 11208 4 11262 2
+M 0 11208 4 11262 2
+O 0 11205 0 11263
+M 0 11207 8 11263 4
+M 0 11207 8 11263 4
+M 0 11207 8 11263 4
+M 0 11207 8 11263 4
+M 0 11208 4 11263 2
+M 0 11208 4 11263 2
+S
+
+
+
+#SHOPS
+11264 8 33 32 0 0 100 100 0 23
+11242 9 5 0 0 0 250 75 0 23
+11251 5 0 0 0 0 250 75 0 23
+11252 5 0 0 0 0 250 75 0 23
+11253 9 0 0 0 0 275 75 0 23
+11255 5 0 0 0 0 275 75 0 23
+11256 9 0 0 0 0 275 75 0 23
+11257 9 0 0 0 0 300 75 0 23
+11258 1 17 15 12 19 250 75 0 23
+11259 9 12 0 0 0 150 50 0 23
+11261 10 26 0 0 0 5000 50 0 23
+11262 9 0 0 0 0 25000 1 0 23
+0
+
+
+
+#$

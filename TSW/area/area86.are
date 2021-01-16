@@ -1,0 +1,996 @@
+#AREADATA
+Name Uros Games~
+Builders Uroshnor~
+VNUMs 31000 31100
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 32
+Version 2
+End
+
+
+
+#MOBILES
+#31000
+keeper bouncer~
+a bald bouncer taking reservations~
+A very large bald bouncer dressed in black waits for you to hand something over
+~
+Dressed in {Dblack{x from head to foot the bald man stands next to the door. 
+His shirt is deffinatly a size to small, but he seems comfortable with the
+muscles bulging beneath the shirt.  A {ym{re{wdalli{ro{yn{x on a heavy {Ygold{x chain hangs
+from his neck and a pair of dark {Dsu{wglass{Des{x hug his bald head.  He doesn't
+look to happy to see anyone but is holding out his hand so people can hand
+him their {Wr{weservation{Ws{x.  Those that dont end up paying the consequences.  
+~
+ogier~
+ABT DFHJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slap
+0 0 0 0 0
+A
+7 7 7 7
+AEFGHK Eabc L 0
+stand stand male 300
+0 0 giant 'flesh'
+M 'GIVE' 31000 reservation~
+#31001
+Amber woman~
+A traveling noble~
+A beautiful {Mnob{mle{wwoman{x is out traveling the world
+~
+Long {y{ybrown{x{x hair stretches down to the small of her back.  Beautiful
+brown-{ggr{Ge{gen{x eyes shimmer on her slightly tanned face.  A low-cut {MDo{mman{wi{x gown
+hugs the curves of her body and sits just off the shoulder.  A large
+necklace of different colored jewels hangs around her neck with a butterfly
+pendant stretching down between her breasts.  With smaller rings on her
+fingers, she is the perfect picture of {Wp{wois{We{x and {RP{row{wer{x wrapped into the
+package of a women.  
+~
+domani~
+AB BDFHPQ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slap
+0 0 0 0 0
+A
+7 7 7 7
+AFGH BCDab 0 0
+stand stand female 2000
+0 0 medium 'flesh'
+#31013
+fool jester foolish man~
+A {Rf{Go{Bo{Yl{Wi{Cs{Rh{x looking man~
+This {Rf{Go{Bo{Yl{Wi{Cs{Rh{x looking man jumps around acting {Rs{Yi{Cl{Gl{Ry{x
+~
+He notices you looking at him and begins to laugh.
+ 
+The Fool says "{GYou look like a sissy.  PPHTPHTPHTPHTPHT.  Catch me if you can!{x"
+ 
+~
+water fowl~
+AT DF 0 0
+70 60 36d37+4900 70d10+100 8d8+35 bite
+0 0 0 0 0
+A
+4 4 4 4
+FK Bab 0 0
+stand stand none 100
+V J medium 'unknown'
+M 'HPCNT' 31013 90~
+#31014
+average man~
+An average man~
+{W(IC){x {y(P){x An average looking man is here.
+~
+His hair is a mature grey, though there are no wrinkles on his face.  His
+shirt and pants look very ordinary and there is no jewlery to set him apart
+from anyone else walking the street.  The one thing that just doesn't seem
+right are the eyes, they look somehow different.  
+~
+fade~
+ABST DHQUVc -500 0
+100 90 51d52+10000 100d10+100 11d11+50 drain
+100 100 100 100 100
+A
+-50 -50 -50 -50
+CEFGHJK Babc CEFHJ 0
+stand stand male 100
+0 0 medium 'unknown'
+F vul R
+#31015
+rude hockey fan~
+A {Rde{rr{Dan{rg{Red{x {Bho{Cck{Bey{x fan~
+A {Rde{rr{Dan{rg{Red{x {Bho{Cck{Bey{x fan is running about {Wwha{Dck{Wing{x everyone in it path
+~
+Wearing a hockey jersey and carrying a large hockey stick this Deranged
+hockey fan has a hockey mask covering his face and thick pads everywhere.  
+
+(Pick your most hated team and enjoy whacking away, collect the hockey pucks
+and note Uro when you are done) 
+~
+unique~
+ABST H 0 0
+95 85 48d48+20000 95d10+100 10d15+47 flame
+0 0 0 0 0
+A
+-20 -20 -20 -20
+EFGHJK BL F 0
+stand stand none 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#31000
+saxophone horn~
+a {Yg{yolde{Yn {yh{Yorn{x~
+A beautiful {Yg{yolde{Yn {DSa{Yxop{xhone waits to be played.~
+brass~
+treasure BUY A
+0 0 0 0 0
+0 0 0 100
+#31001
+reservation~
+a simple {Wr{weservatio{Wn{x~
+A simple {Wr{weservatio{Wn{x with {Wn{Re{Bo{Wn{x writing on it.~
+paper~
+token Y A
+0 0 0 0 0
+0 2000 100000 100
+E
+writing~
+If you have purchased this reservation, you will now be able to purchase
+the quest horn and turn it in for a reward.  If you are an ic hunter the
+reward is better than if you are not.  You must now find where the horn is
+hiding.  
+~
+E
+neon~
+The neon writing hurts yours eyes a little, but you might be able to
+stand looking at it a bit longer if you loo at the {Ywriting{x instead of the
+light.  
+~
+#31002
+rip space hole door portal~
+an {muns{rta{mble{x {Drip{x in {Wspace{x~
+A large {Dhole{x in the {Rpat{rt{Rern{x~
+portal~
+portal AJL A
+100000 A E 0 0
+0 10000 1000000 100
+#31008
+wooden key~
+A worn {ywooden{x key~
+A worn {ywooden{x key~
+wood~
+key 0 A
+0 0 0 0 0
+10 0 0 100
+#31013
+herb~
+A {yyellow{x and {ggreen{x colored herb~
+A small piece of a plant that has horrible {yyellow{x and {ggreen{x coloring to it~
+plant~
+pill PU A
+90 'detect invis' 'detect invis' '' ''
+5 2 10000 100
+#31014
+apple slices~
+a {Wjuicy{x slice of an {Rapple{x~
+A fresh slice of a {Wjuicy{x {Rapple{x waits to be eatten~
+cloth~
+pill PU A
+90 'poison' 'slow' 'weaken' ''
+25 1 10 100
+#31015
+leg turkey~
+A large juciy {yturkey{x leg~
+A {Rbloody{x {yturkey{x leg is getting grease all over your stuf.   Gather as many as you can and then when your done turn them in to {GUro{x for a prize.~
+bone~
+treasure 0 AO
+0 0 0 0 0
+0 0 1000 100
+#31016
+winner quest item~
+A {Yg{yo{Wld{ye{Yn{x {Ds{xtatu{De{x of a {Gwa{gr{Wr{gi{Gor{x~
+This {Ds{xtatu{De{x was given to the {Ywinners{x in the First {RBattle{x of the {GBeast{x contest for being "{CTh{We Be{Cst{x" in their class~
+Gold~
+treasure HYb AO
+0 0 0 0 0
+0 0 0 100
+A
+13 100
+A
+12 100
+#31017
+sweets boxes piece chocolate~
+A piece of {gm{yin{gt{x {ych{Doc{yo{Dla{yte{x~
+little boxes of sweets sitting on the table~
+chocolate~
+food 0 AO
+5 5 0 0 0
+1 0 100 100
+#31018
+bucket rose wine~
+A {Dg{Wlas{Ds{x of aged {Rro{Ws{re{x {rw{Wi{Rne{x~
+a bucket of ice with a glass of wine chilling~
+glass wine~
+food 0 AO
+5 5 0 0 0
+1 0 100 100
+#31019
+Knight night bus~
+The {DMa{Wgic{Dal{x {mKni{Wght{x {mBus{x~
+The {DMa{Wgic{Dal{x {mKni{Wght{x {mBus{x has abruptly {Rst{ropp{Red{x here, though for how long is {Dunknown{x.~
+cloth~
+vehicle GNYb A
+-1 AB A 31019 0
+1 3000 50000 100
+E
+buss~
+It looks like a double decker buss from the outside, inside though is
+something completly different.  From here you can see the Driver sitting
+inside, with something that looks like a head hanging next to him.  
+~
+#31020
+sungwood chest~
+A {Dse{xcr{Det{x opening in the {ywall{x behind the {ybed{x~
+A {Dse{xcr{Det{x opening in the {ywall{x behind the {ybed{x~
+sungwood~
+container OYabd 0
+1000000 ABCD 37777 1000000 50
+0 0 5000 100
+#31021
+silver chest~
+A {Dsi{Wlv{Der{x chest with forked {Wli{Ygh{yt{Yni{Wng{x etched across the top~
+A {Dsi{Wlv{Der{x chest is hidden beneath the {Bbla{Cnk{Bets{x~
+silver wood~
+container OYabd 0
+1000000 ABCD 37777 1000000 50
+0 0 0 100
+#31050
+sex bondage torture table~
+a black table with shackles at the corners~
+A black rack with upright table standing in the shadows.~
+cloth~
+furniture BEY 0
+5 50000 AEHKN 500 500
+1 200 1000 100
+#31085
+Stanley cup hockey puck game~
+A {WSt{Da{xn{Dl{Wey{x Cup {Rgame{x puck~
+A {WSt{Da{xn{Dl{Wey{x Cup {Rgame{x puck with a strange {yteam{x on it~
+rubber~
+token b AT
+BD BD 0 0 0
+1 0 0 100
+E
+Team~
+Congrats on collecting a piece of the puzzle.  Collect as many as you
+can, and turn them into Uroshnor for a reward.  If you dont want to turn it
+in, you could always eat it.  
+~
+#31086
+strange figurine~
+A {Dfi{Wg{Dur{Wi{Dne{x of a small {gfat{x man~
+An old figurine with a strange {Weye{x is tucked away in the corner~
+Onyx~
+angreal FGNY A
+0 0 999 0 0
+90 0 0 100
+A
+4 -5
+A
+3 -5
+A
+9 -10
+E
+man~
+The tiny little fat man is sitting on a pillow with his legs crossed and
+his arm stretched out over his knees.  One eye is closed while the other eye
+has a large {Dcr{Wystal{x {Wsphe{Dre{x in the socket that seems to be {Yglowing{x slightly. 
+~
+#31087
+Practice pill~
+A small blue pill~
+a small blue practice pill~
+plastic~
+pill Y A
+150 'high explosive' 'high explosive' 'high explosive' 'high explosive'
+85 0 0 100
+#31088
+two crown card~
+The 2 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31089
+three crown card~
+The 3 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31090
+four crown card~
+The 4 of Crowns~
+A playing card in the game of chop~
+cloth~
+trash Y A
+0 0 0 0 0
+0 0 0 100
+#31091
+five crown card~
+The 5 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31092
+six crown card~
+The 6 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31093
+seven crown card~
+The 7 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31094
+eight crown card~
+The 8 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31095
+nine crown card~
+The 9 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31096
+ten crown card~
+The 10 of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31097
+jack crown card~
+The Jack of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31098
+queen crown card~
+The Queen of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#31099
+king crown card~
+The King of Crowns~
+A playing card in the game of chop~
+cloth~
+token Y A
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#31000
+The House of Jazz~
+The light created from the glowing {Wn{Reo{Wn{x {Ws{Bign{Ws{x is not quite enough to make
+out all the details of the place.  A raised stage is off to one side with
+some stools and many different {Dh{Yorns{x sitting on thier stands.  A few tables
+are spread out but from where you stand you cant see where the room ends
+anymore.  Right now the place seems a bit empty, but you better hurry before
+the party begins, unless ofcourse you have a {Wr{weservatio{Wn{x 
+~
+0
+CJNV 0
+E
+Location~
+The room is located at vnum 930
+~
+M 0 H 0
+S
+#31001
+Tammaz Square~
+The {Wwhite{x {Wcol{wu{Wmns{x line the paths into the great {GTa{Ymm{Gaz{x square in each direction. 
+Off to either side can be seen the two great {MPa{mla{wces{x, one just slightly
+larger than the other, otherwise identical.  The columns themselves seem to
+be made from one piece of stone, molded in their form as they reach to the
+sky.  {gM{Ga{wrb{Gl{ge{x stones have been placed all across {GTa{Ymm{Gaz{x square and then continue
+both east and west to the steps of both {MPa{mla{wces{x.  There is a raised section
+of {gM{Ga{wrb{Gl{ge{x built in the middle of {GTa{Ymm{Gaz{x square so that someone could address
+the {ythrongs{x of visitors.  
+~
+0
+C 0
+D7
+~
+~
+0 0
+0 0 57235
+S
+#31002
+The Royal Throne Room~
+The room is very open with a large throne sitting in the middle of it.  A
+red carpet runs from the entrance way to the thone embroidered with lions
+across the edge.  Banners and tapestries cover the walls with gifts from
+other nobles and nations for the Queen of Andor.  
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 31003
+O morhgrum~
+S
+#31003
+The Banquet Hall~
+Large tables fill most of the room set up with food and drinks for
+everyone.  There is an open area right at the entrace to the Throne room for
+announcements and dancing.  Bright lights illuminate the room so that there
+are no shadows, but anything could be hidden amongst the pictures and
+tapestries on the walls.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 31002
+D1
+~
+~
+12327 12327
+2 0 31004
+S
+#31004
+The Room of waiting.~
+~
+0
+C 5
+D0
+~
+~
+0 32768
+0 0 9947
+D1
+~
+~
+12327 12327
+2 0 9923
+D3
+~
+~
+12327 12327
+2 0 31003
+D5
+~
+~
+12327 12327
+2 0 31013
+S
+#31005
+A dirt path~
+Deep wagon tracks cover the road going in both directions.  Weeds and
+wild flowers are starting to grow in small amounts at the edge of the main
+road, and off in the distance you can see a few farms and groups of trees.  
+~
+0
+C 14
+D2
+~
+~
+0 0
+0 0 31006
+S
+#31006
+A path through a grain field~
+Grain grows as tall as a man on both sides of the wagon trail.  Noises
+can be heard on both sides as small animals can be seen every once in a
+while running close to the trail.  The trail makes an curve here and then
+straightens out again as you can start to see a large building further to
+the south.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 31005
+D2
+~
+~
+0 0
+0 0 31007
+S
+#31007
+Before a large grain warehouse~
+Fallen wooden structures can be seen all both sides of a large building. 
+The front of the building has large double doors for wagons to go in and
+out.  A few animals are tied up amongst the fallen buildings, and horses are
+tethered to a pole.  There is also a small door on the west side that is
+left open.  
+~
+0
+0 18
+D0
+~
+~
+0 0
+0 0 31006
+D3
+~
+~
+3 3
+1 0 31008
+S
+#31008
+Inside the warehouse~
+Large piles of grains are spread out over the floor, along with large
+bins.  Ropes and pullies hang from the ceiling to help load the barrels onto
+the carts that were outside.  A bunch of old and well worn furniture lies to
+the south were paperwork and food can be seen gathering dust.  A few doors
+have been hung where a set of animal stalls use to be on the other side of
+the furniture.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 31007
+D2
+~
+~
+8487 8487
+2 31008 31009
+S
+#31009
+Converted cell~
+Hay has been scattered around the room each piece covered in blood.  A large
+{D{Dcrevice{x{x sits wide open in the middle of the room, a deep red glowing within
+it.  Tendrils of smoke rise from theopen {Dcrevice{x some looking more like
+ghosts than mear lines of smoke.  
+~
+0
+A 0
+D0
+~
+~
+8487 8487
+2 31008 31008
+S
+#31010
+The {rDy{Di{wn{Wg L{wa{Dn{rds{x~
+All around the area lie {Wb{wo{Dn{we{Ws{x, {Dwit{wher{Ding{x and left to dry in the {Rsun{x to
+act as a reminder to those that tread these steps.  Even in glorious
+{Wvictory{x, the {Dshadow{x steps forth as the losing of the {WCreators{x children are
+banished from the living to, when the end comes, be brought back and cause a
+{yp{rl{ya{rg{yu{re{x to spread across the lands.  
+~
+0
+V 22
+D4
+~
+~
+1025 164865
+1 0 31013
+S
+#31011
+The Side Of {DDarkness{x~
+Darkness covers the ground here, a stench worse than death can be smelt
+and the feeling of ultimate power and cruel demise are abundant in the air. 
+Anger seems to fuel the {Dshadow{x as it stretches toward the east.  To the
+{rDy{Di{wn{Wg L{wa{Dn{rds{x.
+~
+0
+UV 0
+D1
+~
+~
+4099 4099
+1 0 31010
+S
+#31012
+The Side Of {yL{Yi{Wg{Yh{yt{x~
+Light and heat are abundant in this section of the playing field.  Yet is
+in stark {Wcont{Drast{x to the {yble{wakn{yess{x of the {rDy{Di{wn{Wg Gro{wu{Dn{rds{x to the west.  You
+may know one last moment of {WPeace{x here.  Rest assured, it will not follow
+you into the {rf{yr{Ya{ry{x.  
+~
+0
+UV 0
+D3
+~
+~
+4099 4099
+1 0 31010
+S
+#31013
+Viewing The {DBat{wt{Wlegro{wu{Dnds{x From Above~
+The {wf{Wluff{wy {Wwhiteness{x of the clouded heavens offers good vantage points to
+regard the fighting going on.  Up here, all is safe and soft, whilst below,
+on the {Dbat{wt{Wlegro{wu{Dnds{x, each fighter must face his {mdestiny{x alone.  No help may
+be given, and none shall be received.  Only those best prepared will {Wtriumph{x
+on the dying grounds!  {x 
+~
+0
+UV 0
+D1
+~
+~
+4099 4099
+1 0 31012
+D3
+~
+~
+4099 4099
+1 0 31011
+D4
+~
+~
+12327 12327
+2 0 31004
+D5
+~
+~
+1025 164865
+1 0 31010
+S
+#31019
+Inside the {DMa{Wgic{Dal{x {mKni{Wght{x {mBus{x~
+You enter the bus from the back and realize that the inside is much
+bigger than you though.  Full size beds line both walls with places for your
+luggage above them.  As you look up you can see atleast 3 levels, but
+possibly there is more as you cant tell where the roof is.  The driver and
+the hanging head are in the front of the bus waiting for everyone to take a
+seat.  
+~
+0
+CD 0
+M 200 H 200
+S
+#31050
+A private room in the Casino~
+Candles leap to life as you enter the room but giving off very little
+light.  Dimmly lit the room is very hard to see everything.  A soft couch
+sits in the middle of the room, with a big animal skin rug with thick fur. 
+There is a table at the end of the couch with a few bottles sitting neatly
+atop it.  Across the north wall is a large leather table that looks to be
+split at each end so that if pulled out would look like an X.  There are
+silver shackles attached at each end and velvet straps that go across the
+top middle and bottom of the contraption.  A black cabinate hangs on the
+wall next to it with different attachments and objects in it for use with
+the table.  On the east wall sits a huge fireplace with a stone bench
+infront and to the side that will warm up as the fire gets started.  Two
+large silken robes hang on hooks next to the entrace, and a small doorway
+leads from this room to the west where clouds of warm mist roll down the
+hall.  
+~
+0
+JNV 0
+E
+table~
+The table has a deep drawer on the front with a flame shapped handle on
+it.  The top of the table was one black but has been carved with different
+pictures now, and stained with what looks to be dried blood.  
+~
+E
+cabinate~
+The black cabinate matches the wall and the table next to it.  The front
+doors are open slightly and inside you can see black leather strips with a
+handle, metalic clamps hooked together with a thin chain, and plastic
+cylinders of all shapes and sizes.  Hanging on the door is a set of claws
+that can attach you your hand, and some rope.  The other side contains
+plastic and metals rings along with traps of different sorts, some looking
+meaner than others.  
+~
+D2
+~
+~
+4096 4096
+0 0 9911
+D3
+~
+~
+4096 4096
+0 0 31051
+S
+#31051
+A bathing room~
+This room is a bit better lit that the one before.  But it is not with
+candles, the light is coming from glowing orbs that hang just below the
+ceiling.  The floor, walls, and ceiling are all done in ancient marble with
+golden and emerald flecks in it.  A sculpture sits in the middle of the room
+water spurting out from every spot it can.  Marble benches are scattered
+around the room, each with multiple water heads to hit every possible inch
+of your body.  There are also rectangular holes in the walls where water
+rushes out like waterfalls.  A few marble shelves stick out on the walls
+offering different objects for use.  
+~
+0
+JNV 0
+E
+objects~
+Waterproof moisturizers along with plastic and metals toys lay scattered
+around the room each of them calling for your attention and abuse.  
+~
+D1
+~
+~
+4096 4096
+0 0 31050
+S
+#31095
+A dark opening~
+You have stumbled apon a large opening.  Walking down the cut stone
+steps, bones are scattered everywhere, each step growing darker and darker. 
+Blood covers the walls with not a living thing insight.  
+~
+0
+A 0
+D0
+A bloody trail leads into the cavern.
+~
+~
+4096 4096
+0 0 31096
+D4
+~
+~
+4096 4096
+0 0 40941
+S
+#31096
+In A Cavern~
+The cavern is huge.  The walls and the ceiling cant be seen.  Bones of
+defferent beings lie scattered on the ground with blood stains, some fresh,
+and some not.  Gutteral noises and a horid smell seem to be coming from
+everywhere.  
+~
+0
+A 0
+D0
+~
+~
+4096 4096
+0 0 31097
+D1
+~
+~
+4096 4096
+0 0 31098
+D2
+~
+~
+4096 4096
+0 0 31095
+D3
+~
+~
+4096 4096
+0 0 31099
+S
+#31097
+In A Cavern~
+The cavern is huge.  The walls and the ceiling cant be seen.  Bones of
+defferent beings lie scattered on the ground with blood stains, some fresh,
+and some not.  Gutteral noises and a horid smell seem to be coming from
+everywhere.  
+~
+0
+A 0
+D0
+Looking north there is a faint bit of light and the smell seems to be
+coming from that direction.  
+~
+~
+4096 4096
+0 0 31100
+D1
+Nothing but darkness can be seen in this direction
+~
+~
+4096 4096
+0 0 31099
+D2
+~
+~
+4096 4096
+0 0 31096
+D3
+Nothing but darkness can be seen in this direction
+~
+~
+4096 4096
+0 0 31098
+S
+#31098
+In A Cavern~
+The cavern is huge.  The walls and the ceiling cant be seen.  Bones of
+defferent beings lie scattered on the ground with blood stains, some fresh,
+and some not.  Gutteral noises and a horid smell seem to be coming from
+everywhere.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 31099
+D1
+~
+~
+4096 4096
+0 0 31097
+D2
+~
+~
+4096 4096
+0 0 31099
+D3
+~
+~
+4096 4096
+0 0 31096
+S
+#31099
+In A Cavern~
+The cavern is huge.  The walls and ceiling cant be seen.  Bones of
+different beings lie scattered on the ground with blood stains, some fresh,
+and some not.  Gutteral noises and a horid smell seem to be coming from
+everywhere.  
+~
+0
+0 0
+D0
+~
+~
+4096 4096
+0 0 31098
+D1
+~
+~
+4096 4096
+0 0 31096
+D2
+~
+~
+4096 4096
+0 0 31098
+D3
+~
+~
+4096 4096
+0 0 31097
+S
+#31100
+Around A Cookpot~
+A large cookpot sits in the middle of the section of the carvern.  The
+light from the fire below is blocked by stone that is sat around it.  Across
+the wall, chains and shackles can be seen sitting amoungst the pile of bones
+and blood stains.  The horrid smell is worse here than anywhere else.  
+~
+0
+A 0
+D2
+~
+~
+4096 4096
+0 0 31097
+M 10 H 10
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 31003 1 2
+D 0 31004 1 2
+D 0 31004 3 2
+D 0 31004 5 2
+D 0 31007 3 1
+D 0 31008 1 1
+D 0 31008 2 2
+D 0 31009 0 2
+D 0 31011 1 1
+D 0 31012 3 1
+D 0 31013 1 1
+D 0 31013 3 1
+D 0 31013 4 2
+M 0 31000 1 31000 1
+O 0 31002 0 31000
+M 0 31001 1 31001 1
+G 0 31001 0
+O 0 374 0 31001
+O 0 5117 0 31001
+O 0 12509 0 31001
+O 0 12643 0 31001
+O 0 24188 0 31001
+M 0 31014 1 31002 1
+M 0 24124 1 31008 1
+M 0 31267 1 31008 1
+O 0 31215 0 31009
+O 0 31050 0 31050
+O 0 28180 0 31050
+O 0 12512 0 31050
+O 0 28181 0 31051
+O 0 5866 0 31051
+O 0 17048 0 31095
+O 0 27501 0 31095
+O 0 27501 0 31095
+O 0 27506 0 31095
+M 0 42765 10 31096 1
+M 0 42766 10 31096 1
+M 0 42762 10 31097 1
+M 0 42763 10 31097 1
+M 0 42764 10 31097 1
+M 0 42765 10 31097 1
+M 0 42766 10 31097 1
+M 0 42762 10 31098 1
+M 0 42763 10 31098 1
+M 0 42764 10 31098 1
+M 0 42765 10 31098 1
+M 0 42766 10 31098 1
+O 0 27506 0 31098
+M 0 42766 10 31099 1
+M 0 42765 10 31099 1
+M 0 42764 10 31099 1
+M 0 42763 10 31099 1
+M 0 42762 10 31099 1
+O 0 27501 0 31100
+M 0 27518 2 31100 1
+M 0 27516 2 31100 1
+M 0 42766 10 31100 1
+M 0 42764 10 31100 1
+O 0 27506 0 31100
+M 0 42762 10 31100 1
+S
+
+
+
+#SHOPS
+31001 0 0 0 0 0 100 100 1 15
+0
+
+
+
+#$

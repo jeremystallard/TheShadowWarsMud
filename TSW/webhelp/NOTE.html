@@ -1,0 +1,62 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>NOTE 'NOTE WRITE' 'NOTE READ' BOARD 'NOTE SYSTEM' BOARDS</H1>Syntax:
+
+note                                    Reads next note.
+note scan                               View all note areas.
+note area [number|name]                 Shows or changes area.
+note read [number]                      Reads a certain note.
+note reply                              Reply to the last read note.
+note remove <number>                    Removes a note written by you.
+note list [number]                      Shows up to number notes.
+note list from <sender>                 List notes from <sender> only.
+note list to <to list>                  List notes to <to list> only.
+note list new                           List new/unread notes only.
+note search from <sender>               Search all areas for a matching sender.
+note search to <to list>                Search all areas for a matching to list.
+note write                              Uses online editor to create note.
+note catchup [all]                      Marks all notes in this area as read.
+note clear                              Clear a working note.
+note format                             Format a note in progress.
+note adjust <number>                    Edit a note already posted.
+note forward <number> <to list>         Forward a note.
+note to                                 Sets who the note goes to.
+note subject                            Sets the subject of the note.
+note post [quiet]                       Post the note.
+note post dfpost                        Post the note with your dfname.
+note post wkpost                        Post the note with your wkname.
+note post leaderpost                    Post the note as guild leader.
+note post facelesspost                  Post the note as faceless (Logged).
+
+These commands are used for the new note system. Instead of just one area,
+there are several, each with its special purpose. 
+
+Changing between the areas is accomplished using the 'note area' command.
+By using the 'note scan' command gives you a list of all areas together with number of
+unread message. To change, type 'note area <number>' or 'note area <name of the board>'.
+
+To read next unread note, type NOTE. To read a note with a specified number,
+type NOTE READ <number>. Typing NOTE while in a board with no unread notes
+shifts you to the next board. Note that unlike the standard note system, a 
+note has the same number in NOTE LIST and NOTE READ.
+
+Posting a message is as simple as writing NOTE WRITE. You will be moved 
+into interactive mode, where all you see are prompts for the fields like 
+To:, From: etc. You will be automatically put AFK while writing a note.
+
+To see the list of the notes in the current board, type NOTE LIST. Typing
+NOTE LIST <number> will list only <number> of the last notes in the area.
+
+You can remove your own note by using NOTE REMOVE <number>. Implementors may
+remove other people's notes. Implementors can also select how many days
+their note is kept before being purged. Purging happens automatically at
+bootup. Purged notes are not deleted, but saved into a file.
+
+To let only immortals see your note, address it to "imm". To let players of
+a specific level and above, address it to that level (no other recipients may
+appear in that case).
+
+Make sure you type </FONT><FONT COLOR="white">NOTE POST</FONT> once you have finished typing the note in
+to submit it to the note area.
+
+</FONT></B></PRE>
+</BODY>

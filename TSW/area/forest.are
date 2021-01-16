@@ -1,0 +1,4246 @@
+#AREADATA
+Name Forest~
+Builders Kesin~
+VNUMs 400 499
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#400
+Old Hermit~
+An Old Hermit~
+An Old {gHe{yrm{git{w drawing in the {ydirt{w.
+~
+{yDirty-blonde{w hair hangs down past this short old mans waist and has
+several small twigs sticking out at odd angles.  His clothing, if you could
+call it that, is badly torn and hanging completely off of his frail frame in
+several places.  He doesn't seem to notice much as he sits in his deep {Dh{yo{Dle{w,
+drawing small patterns in the {ydirt{w with the end of a pointy stick.  Despite
+his beaten and worn appearance his {Cb{Gl{Cu{Ge-g{Cr{Ge{Ce{Gn{w eyes seem observant as he
+glances around, before returning to his seemingly random drawing.  
+~
+kandori~
+A Jc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+300 300 300 300 300
+A
+7 7 7 7
+CDEFHK 0 0 0
+sit sit male 0
+G QV large 'flesh'
+M 'HPCNT' 408 10~
+M 'DEATH' 403 100~
+#401
+swamp gas lights~
+{DS{gw{Da{gm{Dp {gg{ya{gs{w~
+A bunch of {Wg{wh{Wos{wt{Wly lights{w in the {Ds{gw{Da{gm{Dp{g g{ya{gs{w.
+~
+Soft lights flicker as they hang over the swamp, moving slowly from place
+to place.  It is completely silent and oddly eerie.  
+~
+unique~
+A T 0 0
+80 70 41d42+6400 80d10+100 9d9+40 drain
+0 0 0 0 0
+A
+5 5 5 5
+G a 0 I
+stand stand none 0
+CDK 0 small 'unknown'
+M 'RANDOM' 406 5~
+#402
+giant rat~
+a giant {Dsw{ga{Dmp{w rat~
+A giant {Dsw{ga{Dmp{w rat moves through the swamp.
+~
+This rodent is of an unusually large size.  It doesn't seem to care that
+it's home is this festering, filthy {Ds{gw{Da{gm{Dp{w.  
+~
+cat~
+A J 0 0
+85 75 43d43+7225 85d10+100 9d14+42 none
+0 0 0 0 0
+A
+5 5 5 5
+b LQR LQR H
+stand stand none 0
+0 0 medium 'unknown'
+F aff Z
+#403
+small green spider~
+a small {gg{Gree{gn{w spider~
+A small {gg{Gree{gn{w spider hangs from a web.
+~
+This type of spider seems to be everywhere, yet it seems to disappear if
+you watch it for to long as it blends into the surrounding forest.  It is
+not much bigger than one of your hands, yet it looks rather dangerous if you
+fell into a large group of them.  
+~
+centipede~
+AH JM 0 0
+70 60 36d37+4900 70d10+100 8d8+35 bite
+0 0 0 0 0
+A
+4 4 4 4
+R 0 0 H
+stand stand none 0
+P 0 tiny 'unknown'
+F aff Z
+F for GO
+#404
+tiny red spider~
+a tiny {Rred {rsp{Rid{rer{w~
+A tiny {Rred {rsp{Rid{rer{w hides in a crack.
+~
+This spider is tiny, no bigger than a normal mans thumb.  It is easy to
+spot with its bright {Rred{w coloring even as it tries to hide within the
+cracks.  
+~
+centipede~
+AH J 0 0
+75 65 38d38+5625 75d10+100 8d13+37 bite
+0 0 0 0 0
+A
+4 4 4 4
+RZ 0 0 H
+stand stand none 0
+P 0 tiny 'unknown'
+F aff Z
+F for GO
+#405
+brown spider~
+a {ybrown{w spider~
+A long-legged {ybrown{w spider sits in the center of a {Dw{we{Db{w.
+~
+Large {Dw{we{Dbs{w stretch between the {ytrees{w and across the path in many places. 
+Sitting directly in the middle of several of these large {Dw{we{Dbs{w is a large
+long-legged {ybrown{w spider.  It seems harmless enough, as long as you don't
+fall into one of its traps.  
+~
+centipede~
+A J 0 0
+73 63 37d37+5329 73d10+100 8d11+36 bite
+0 0 0 0 0
+A
+4 4 4 4
+R 0 0 H
+stand stand none 0
+P 0 small 'unknown'
+F aff Z
+F for GO
+#406
+gigantic black spider~
+a gigantic {Dblack sp{ri{Dder{w~
+A gigantic {Dblack sp{ri{Dder{w crawls along the floor.
+~
+Few {Dsp{ri{Dders{w have ever grown to this size or lived as long as this one. 
+It holds itself high on its thick legs as it glares at you with many {rglowing{w
+eyes.  It's body is as {Ddark{w as a moonless {Dnight{w, which makes the large {rred
+{rcircle{w{w stand out even more.  
+~
+unique~
+ABF Jc 0 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+A
+6 6 6 6
+CEFHIKOW 0 I H
+stand stand none 0
+ABP CK large 'unknown'
+#407
+thin transparent spider~
+a {Wth{wi{Wn transparent sp{wi{Wder{w~
+A {Wth{wi{Wn transparent sp{wi{Wder{w blends into its surroundings.
+~
+This {Wsp{wi{Wder{w lies extremely close to the ground as it skitters from place
+to place.  As it moves, its {Wtransparent{w nature is clear as you can see the
+ground that it quickly moves across.  
+~
+centipede~
+AH GJMPQUV 0 0
+78 68 40d41+6084 78d10+100 8d16+39 bite
+0 0 0 0 0
+A
+4 4 4 4
+H 0 0 H
+stand stand none 0
+P 0 small 'unknown'
+F gain E
+F aff Z
+F for GO
+#408
+old witch doctor woman~
+an old witch doctor~
+An old woman stirs a large {Dpot{w over a {rbur{Rn{ring {rfi{Yr{re{w
+~
+The old woman has long {Dg{wr{Da{wy h{Da{wi{Dr{w that hangs loosely down to her ankles. 
+Her {Dh{wai{Dr{w looks long enough to brush the {yground{w as she silently moves from
+place to place, yet for some reason it never actually touches the {ydirt{w
+beneath her feat.  She seems a little on the heavy side for her small
+stature, yet she moves with incredible grace and poise.  Her nearly ageless
+face carefully studies the mixture that slowly simmers in a large {Dp{wo{Dt{w.  
+~
+andoran~
+ABGa 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+100 100 100 100 100
+A
+7 7 7 7
+0 ABCDac 0 0
+stand stand female 500
+0 0 medium 'unknown'
+M 'GREET' 411 100~
+#409
+black bat~
+a hairy {Dblack{w bat~
+A hairy {Dblack{w bat hangs from the ceiling.
+~
+This {Dbat{w is covered in a thick mat of long {Dblack fur{w.  Unfortunately this
+{Dfur{w doesn't seem to hinder the {Dbats{w flying at all.  
+~
+bat~
+AGY J 0 0
+62 52 32d33+3844 62d10+100 7d9+31 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+F aff Z
+#410
+skinny rat~
+a skinny rat~
+A skinny rat scrounges around for food.
+~
+This rat appears to have not eaten in weeks, if not months, as you can
+see every rib in its tiny body.  As it notices you a dangerous glint reaches
+its eyes.  
+~
+rabbit~
+A 0 0 0
+65 55 33d33+4225 65d10+100 7d12+32 none
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand either 0
+0 0 medium 'unknown'
+F off H
+#411
+large crippled darkhound~
+a crippled {Dda{rrk{Rh{rou{Dnd{w~
+A large crippled {Dda{rrk{Rh{rou{Dnd{w hides from its {Wenemies{w here.
+~
+This {Dcreature{w of the {Ddark{w has stalked and hunted the inhabitants of this
+{gforest{w for a long time.  Though the {Dshaft{w protruding from it hind-quarter
+suggest that something or someone has taken up the task of hunting it.  It
+is rare to find a {Dda{rrk{Rh{rou{Dnd{w in this part of the world and even rarer to find
+one alone.  Even crippled as it is, this creature doesn't look like it is
+ready to die just yet.  
+~
+dog~
+AB JQac 0 0
+95 85 48d48+9025 95d10+100 10d15+47 bite
+0 0 0 0 0
+A
+6 6 6 6
+DFVW B H 0
+sleep sit male 0
+0 0 medium 'unknown'
+#412
+flock colored birds~
+a {Wflock{w of brightly colored {Bb{Yi{Rr{Gd{Cs{w.~
+A {Wflock{w of brightly colored {Bb{Yi{Rr{Gd{Cs{w gather in the {ybranches{w.
+~
+A great number of brightly colored {Bb{Yi{Rr{Gd{Cs{w have stopped here to rest on
+their long journey to some safer place.  Most seem to be sleeping in the
+{ybranches{w of this {gtree{w, while other seem to be taking this opportunity to
+gather something quick to eat.  
+~
+song bird~
+AB V 0 0
+70 60 36d37+4900 70d10+100 8d8+35 peck
+0 0 0 0 0
+A
+4 4 4 4
+0 0 E 0
+stand stand none 0
+0 0 small 'unknown'
+#413
+chattering squirrel~
+an {Gob{Cno{Mxio{Cus{Gly{w chattering {ysqu{Dir{yrel{w~
+An {Gob{Cno{Mxio{Cus{Gly{w chattering {ysqu{Dir{yrel{w moves from place to place.
+~
+This {ysqu{Dir{yrel{w seems to be one of the few things in this {gforest{w that isn't
+afraid to make lots of noise.  As it goes about its daily business and
+chatters away annoyingly.  
+~
+cat~
+AC J 0 0
+65 55 33d33+4225 65d10+100 7d12+32 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+F aff Z
+F par V
+#414
+slimy frog~
+a {Gsl{yim{Gy {gfrog{w~
+A {Gsl{yim{Gy {gfrog{w hops around aimlessly.
+~
+This {gfrog{w slips and slides across the flotsam in this {Ds{gw{Da{gm{Dp{w.  It dark
+{ggreen skin{w is {Gsl{yim{Gy{w to the touch and makes this creature nearly impossible
+to capture and hang on to.  
+~
+lizard~
+A 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+a 0 small 'unknown'
+F for Xc
+F par QV
+#415
+large bull frog~
+a large {ybull {yf{gro{yg{w~
+A large {ybull {yf{gro{yg{w croaks loudly.
+~
+This {yf{gro{yg{w is huge and seems to know it as it sits on a {ylog{w and croaks
+away loudly.  It seems clear by the way this {ybrown{w frog sits and watches
+everything else that it is the king of the {Ds{gw{Da{gm{Dp{w, at least it thinks so.  
+~
+lizard~
+A 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+a 0 medium 'unknown'
+F for Xc
+F par QV
+#416
+purple yellow frog~
+a {Msp{Yo{Mt{Yt{Med{w frog~
+A {Mpurple{w frog with several {Yyellow{w spots, sits silently.
+~
+This frog almost seems out of place as its bright {Mco{Ylo{Mrs{w seem to contrast
+greatly with the rest of the {Ds{gw{Da{gm{Dp{w.  
+~
+lizard~
+A 0 0 0
+77 67 39d39+5929 77d10+100 8d15+38 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+a 0 medium 'unknown'
+F for Xc
+F par QV
+#417
+bright green snake~
+a {Gbright g{gree{Gn sna{gke{w~
+A {Gbright g{gree{Gn sna{gke{w hangs down from the {ybranches{w.
+~
+The {ybranches{w bends slightly under the weight of this long {Gbright g{gree{Gn
+{Gsna{gke{w.  The {Gsna{gke{w seems to be leaving a large loop of itself hanging loosely
+down toward the {yground{w perhaps attempting to ensnare passing prey.  
+~
+snake~
+A 0 0 0
+72 62 37d38+5184 72d10+100 8d10+36 crush
+0 0 0 0 0
+A
+4 4 4 4
+O 0 0 0
+stand stand none 0
+0 0 large 'unknown'
+#418
+scaly lizard~
+a {Gs{gc{Ga{gl{Gy{g lizard{w~
+A {Gs{gc{Ga{gl{Gy{g lizard{w darts along the path.
+~
+A fast moving {glizard{w darts across the {ypath{w several times here, not
+seeming to notice you at all.  The shiny {Gs{gc{Gal{ge{Gs{w that cover it catch the
+faint {Wlight{w and reflect it oddly, giving this creature a slightly blurred
+look.  Perhaps it isn't moving as fast as you first thought.  
+~
+lizard~
+A 0 0 0
+68 58 35d36+4624 68d10+100 7d15+34 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#419
+large indigo butterfly~
+a large {bindigo butte{Brfl{cy{w~
+A large {bindigo butte{Brfl{cy{w flutters about.
+~
+This beautiful {bindigo {bbutte{Brfl{cy{w moves slowly through the {Ca{ci{Cr{w.  The large
+{bwi{Bng{cs{w fluttering quietly makes it appear to bounce ever so slightly as it
+crosses the path.  
+~
+song bird~
+A 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+10 10 10 10
+0 0 0 0
+stand stand none 0
+O 0 tiny 'unknown'
+F for GW
+F par ACDEFHK
+#420
+wild young woman child~
+a {gw{Gi{gld{w child~
+A {gw{Gi{gld{W young{w woman stalks her pray.
+~
+This very petite woman has {Ddark{w {ybrunette{w hair with hints of {yautumn{w hues
+laced throughout it.  Her hair is perfectly taken care of and her appearance
+is stunning.  Though the way she cares herself and the assortment of weapons
+that she brings with her as she explores and hunts within the forest, would
+lead most to believe she is not to be taken lightly.  As she casts her
+beautiful {Cb{Gl{Cu{Ge-g{Cr{Ge{Ce{Gn{w eyes toward you a touch of {Wwildness{w can plainly be
+seen.  
+~
+kandori~
+A FPQU 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+FHJKN 0 0 0
+stand stand female 20
+0 0 medium 'unknown'
+#421
+sickly black squirrel~
+a {Ds{yi{Gck{yl{Dy black sq{yu{Gir{yr{Del{w~
+A {Ds{yi{Gck{yl{Dy black sq{yu{Gir{yr{Del {rdefiles{w the {ypath{w with its {Dpr{ye{Gse{yn{Dce{w.
+~
+Something is terribly wrong with this {Ds{yi{Gck{yl{Dy{w looking {Dblack {Dsq{yu{Gir{yr{Del{w.  It
+moves slowly, casting its vacant, glassy {reyes{w around but not seeming to
+notice the food that it passes.  {CColdness{w seems to move with this {Dcreature{w
+as it prowls.  
+~
+cat~
+AC J 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F aff Z
+#422
+nightmare form~
+a {Dnight{rmare{w taken form~
+A {Dnight{rmare{w has taken form and hunts the active.
+~
+Everything that you ever feared as a young child or dreamed about in your
+worst {Dnight{rmares{w has come to life before you.  The exact appearance seems to
+shift and waver as it focuses on different victims, but you know that it is
+after you and you alone.  You hear a faint voice inside your head that
+reminds you of all your faults and all your weaknesses.  
+~
+unique~
+A J 0 0
+91 81 46d46+8281 91d10+100 10d11+45 none
+0 0 0 0 0
+A
+6 6 6 6
+EFM ALMQa 0 NP
+stand stand either 0
+CDHJ ABCDEFGHIJKLMNPQUVWXY medium 'unknown'
+#423
+cardboad tube samurai stangley dressed man~
+The {WCardboard Tube Samurai{w~
+A {Ystr{Dang{Yley{D dressed{w man wielding an odd {yweapon{w.
+~
+The {Ystr{Dang{Yely{D dressed{w man that stands before you seems completely at
+ease.  The world around him seems peaceful and calm, a stark contrast to the
+rest of the surrounding.  His flowing gown appears to provide superior
+freedom of movement and would be no hindrance to him if someone chose to
+disturb him.  On his chest his gown bears the symbol of a long forgotten
+order, a yellow circle with a wedge missing on one side.  In his hands he
+lightly holds a long {ytube{w that appears to be made out of paper.  He holds
+this odd tube as if it were a deadly weapon.  
+~
+unique~
+AT 0 0 0
+150 95 53d53+11025 105d10+100 11d16+52 punch
+0 0 0 0 0
+C
+7 7 7 7
+AEFJKN 0 0 0
+stand stand male 200
+0 0 medium 'unknown'
+M 'DEATH' 409 100~
+#424
+monstrous diseased mound eagle~
+a {Dmonst{rrous{w and {gd{yi{gs{yea{gs{ye{gd{w {Deag{yle{w~
+A large mound of {gd{yi{gs{yea{gs{ye{gd{w flesh with {Dmonst{rrous{w wings guards its {ynest{w.
+~
+A heavily {gd{yi{gs{yea{gs{ye{gd{w {Deag{yle{w with gigantic wings descends from above and
+attacks the silly fool that has disturbed its {ynest{w.  Large clumps of
+{Dfea{ythers{w are missing, leaving the {gd{yi{gs{yea{gs{ye{gd{w and {Dfestering{w flesh bare.  Where
+the {Dfea{ythers{w still remain, they are of a sickening and {Dblackened{w joke of
+what they once where.  Despite this {Dmonst{rrous {Deag{yles{w appearance, it will
+defend it unborn young to the death if it has to.  
+~
+song bird~
+AF 0 0 0
+96 86 49d50+9216 96d10+100 10d16+48 peck
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 0
+B 0 huge 'unknown'
+F off H
+#425
+inch worm~
+An inch long worm~
+An inch long {Gworm{w hangs down between the {ybranches{w.
+~
+This tiny worm hangs from an unseen line from a near by {b{ybranch{w{w observing
+all that happens here.  
+~
+centipede~
+AB BJPQ 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 CDEFG 0 0
+stand stand none 0
+0 Q tiny 'unknown'
+F aff Z
+F vul E
+F par CK
+M 'EXALL' 400 5~
+M 'DELAY' 401 100~
+#426
+long furred beast~
+A large long {Dfu{wrr{Wed{y beast{w~
+A large long {Dfu{wrr{Wed{y beast{w paces around the back of his {Dcave{w
+~
+A large long {Dfu{wrr{Wed{y beast{w paces back and forth in the back of his {Dcave{w
+casting an {De{rv{Dil{w eye toward all that dare enter his domain.  His long {Df{wu{Wr{w
+hangs low and brushes the ground as he walks, gently sweeping the {Dcave{w floor
+clean.  Atop his head are three short protruding {Whorns{w that barely can be
+seen through the thick layers of {Df{wu{Wr{w.  It is unclear if they are meant as
+weapons, though his long sharp hook-like claws and long fangs, obviously are
+used for that purpose.  
+~
+trolloc~
+ABFGT ac 0 0
+95 85 48d48+9025 95d10+100 10d15+47 claw
+0 0 0 0 0
+A
+6 6 6 6
+CD 0 I H
+stand stand male 0
+0 UVW large 'flesh'
+#427
+small silver fish~
+A {Dsm{wal{Wl s{wi{Wlv{we{Wr{w {Wf{wi{Rs{rh{w~
+A {Dsm{wal{Wl s{wi{Wlv{we{Wr{w {Wf{wi{Rs{rh{w swims at the bottom of the {cr{Di{wv{De{cr{w.
+~
+A {Dsm{wal{Wl s{wi{Wlv{we{Wr{w {Wf{wi{Rs{rh{w swims at the bottom of the {cr{Di{wv{De{cr{w waiting for its next
+meal.  It is not very long and doesn't seem all that impressive.  As it
+swims closer to you, the bright {Ro{wr{Ran{wg{Re{w color of its underside becomes more
+clear, as does it's bright {rred fins{w.  
+~
+unique~
+ABCF 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 bite
+0 0 0 0 0
+A
+5 5 5 5
+FGHUb R 0 0
+stand stand either 0
+Ab AEFKOQVX small 'flesh'
+#428
+tiny purple fish~
+A tiny {mp{Mu{mrp{Ml{me fish{w~
+A tiny {mp{Mu{mrp{Ml{me fish{w moves slowly through the water.
+~
+A tiny {mp{Mu{mrp{Ml{me fish{w moves slowly through the water.  The bright {mc{Mo{ml{Mo{mr{w of
+its scales makes this fish easy to spot even through the murky {cr{Di{wv{De{cr{w water. 
+The few that venture near the surface shiny brightly as the stray rays of
+light reflect perfectly of them.  
+~
+unique~
+AB 0 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+FG R 0 0
+stand stand either 0
+Ab AOQ tiny 'flesh'
+#429
+fast black snake~
+A fast moving {Dblack snake{w~
+A fast moving {Dblack snake{w moves across the surface of the {cw{Da{wt{De{cr{w.
+~
+A pitch {Dblack{w snake mobes gracefully and quickly across the surface of the
+{cw{Da{wt{De{cr{w.  It doesn't seem to matter if it is water or land, if it wants to go
+someplace it goes.  
+~
+snake~
+AB M 0 0
+85 75 43d43+7225 85d10+100 9d14+42 bite
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand either 0
+B 0 medium 'unknown'
+#430
+thorn bush thicket~
+A giant {Wthor{rn{y bush{w~
+A large {ythicket{w with wildly swinging {Wthorns{w blocks the path.
+~
+A large {ythicket{w with wildly swings its {Wthorns{w in an attempt to block the
+path for all but the most deserving.  This bush seems to be ancient and
+twisted by its {Danger{w and its age.  The thick limbs reach out in all
+directions and contain several large and sharp {Wthorns{w at the ends of them
+all.  
+~
+unique~
+ABT FHV 0 0
+99 89 50d50+9801 99d10+100 10d19+49 slash
+0 0 0 0 0
+A
+6 6 6 6
+BEHKN c 0 H
+stand stand none 0
+AE 0 huge 'thicket'
+#431
+swarm flies~
+A {Ds{ww{Wa{wr{Dm{w of large {Dfl{wi{Des{w~
+A {Ds{ww{Wa{wr{Dm{w of large {Dfl{wi{Des{w makes a faint buzzing sound.
+~
+A {Ds{ww{Wa{wr{Dm{w of large {Dfl{wi{Des{w seems to be hovering above the {yground{w as it moves
+from place to place.  Every now and then, when it finds something that
+hasn't moved in a while, it descends down and eats whatever it can.  
+~
+unique~
+AGT TV 0 0
+60 100 31d32+3600 60d10+100 5d7+10 pierce
+0 0 0 0 0
+A
+8 3 5 2
+FGH 0 0 0
+stand stand none 0
+O P small 'flesh'
+#432
+skinny raccoon~
+a skinny {Dra{wcco{Don{x~
+A skinny {Dra{wc{Wc{wo{Don{w scavenges for food here.
+~
+It appears to be nothing but skin and {Wbones{w as it moves across the {ypath{w
+looking for food.  As you notice the {Dblack{w patches around its {reyes{w you also
+notice the anger and desperation.  
+~
+fox~
+AC J 0 0
+75 65 38d38+5625 75d10+100 8d13+37 slash
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand either 0
+0 0 medium 'unknown'
+F aff Z
+F off H
+#433
+thin purple haze~
+A thin {mpurple{w haze~
+A thin {mpurple h{Maz{we hangs in the air.
+~
+A {c{Ccold{w{w feeling fills you and {c{Cchills{w{w you to the core as the {mpurple h{Maz{we
+moves around you.  A far off sound of some kind of stringed instrument seems
+to come from somewhere within this mist, but it seems to be coming from
+everywhere all at once.  As the {mpurple h{Maz{we surrounds you and attempts to
+completely engulf you, you get the odd feeling that you're under the {cse{Ca{w.  
+~
+unique~
+AO T 0 0
+93 83 47d47+8649 93d10+100 10d13+46 digestion
+0 0 0 0 0
+A
+6 6 6 6
+A a 0 0
+stand stand none 0
+DKL 0 huge 'unknown'
+#434
+decomposing raven~
+A {Dde{wco{ym{rp{yo{wsi{Dng r{ra{Dv{re{Dn{w~
+A strangley {Dde{wco{ym{rp{yo{wsi{Dng r{ra{Dv{re{Dn{w sits on a {ytree{w limb.
+~
+High up on the limb of a {ytree{w sits a strangely {Dde{wco{ym{rp{yo{wsi{Dng r{ra{Dv{re{Dn{w.  It
+sits on its perch completely motionless except for one of its large
+{rblood{w-shot eyes, which seems to follow you as you move down the path.  
+~
+song bird~
+A 0 0 0
+78 68 40d41+6084 78d10+100 8d16+39 peck
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand either 0
+0 0 small 'unknown'
+#435
+army red ants~
+{rR{Re{rd {Ga{grm{Gy{w ants~
+A small army of nasty {rred{w ants march down the {ypath{w.
+~
+The ground is crawling with these mean looking {rred{w insects that are
+marching single file down the {ypath{w.  As you watch them, you notice they seem
+to be arranging into an attack formation and moving to encircle you.  
+~
+unique~
+AGT 0 0 0
+67 100 34d34+4489 67d10+100 7d14+10 bite
+0 0 0 0 0
+A
+3 3 3 3
+Hb 0 0 0
+stand stand none 0
+O A small 'flesh'
+#436
+small white rabbit~
+a small {Wwh{wi{Wte rabbit{w~
+A small {Wwh{wi{Wte rabbit{w nibbles on some {ggrass{w.
+~
+The pure {Wwhite{w color of this small rabbit is amazing.  It is if {ydirt{w
+itself was in awe at the perfectness of this bunny and refused to ruin it.  
+~
+rabbit~
+A 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 bite
+0 0 0 0 0
+A
+3 3 3 3
+0 0 0 0
+stand stand female 0
+0 0 tiny 'unknown'
+#437
+thin leech~
+a thin {Dleech{w~
+A thin {Dleech{w waits for its next {rmeal{w.
+~
+The {Dleech{w that you see here seems to be starving to death.  It is tiny
+and thin and doesn't seem to be moving very quickly.  
+~
+centipede~
+AB J 0 0
+75 65 38d38+5625 75d10+100 8d13+37 none
+0 0 0 0 0
+A
+4 4 4 4
+0 0 0 0
+stand stand none 0
+0 0 small 'unknown'
+F aff Z
+F res FI
+F vul E
+F for BGO
+F par CK
+#438
+slime deep~
+A fowl smelling {Ds{gl{Di{gm{De{w~
+A fowl smelling {Ds{gl{Di{gm{De{w waits in the {Ddeepest{w part of the {Ds{gw{Da{gm{Dp{w.
+~
+The {Ds{gw{Da{gm{Dp{w water becomes {ccold{w and deadly as you sink beneath the surface. 
+The fowl {Ds{gl{Di{gm{De{w clings to you and starts to pull you further away from the
+vital air above this pungent grave.  When things seem at their worst, the
+nasty smelly {Ds{gl{Di{gm{De{w begins to attack.  {w 
+~
+unique~
+ABFS Hbc 0 0
+98 88 50d51+9604 98d10+100 10d18+49 digestion
+59 0 0 0 120
+A
+6 6 6 6
+GLR Rc 0 I
+stand stand none 30
+DS 0 huge 'slim'
+M 'HPCNT' 402 30~
+M 'FIGHT' 404 20~
+#439
+dangerous vines vine~
+A dangerous {gvine{w~
+A dangerous looking {gvine{w whips around violently.
+~
+The wall of dangerous and deadly {gvines{w reach out desperately for you and
+any other living {ycreature{w that has the great misfortune to wander to close
+to it's {Wrazor{w like grasp.  These {gvines{w seem much larger than the other {gvines{w
+that can be found throughout this forest.  If you move close enough to
+actually feel the impact from this fast moving growth, it could knock you
+clean off your feet.  It's texture is strange, it is a combination sandpaper
+and broken glass, with small barbs that grab and tear at it's prey.  
+~
+unique~
+ABF 0 0 0
+85 75 43d43+7225 85d10+100 9d14+42 crush
+0 0 0 0 0
+A
+5 5 5 5
+EFKMNO 0 0 H
+stand stand none 0
+E Q medium 'unknown'
+#440
+dark cloud darkcloud~
+A {Ddark cloud{w~
+A {Ddark cloud{w of {Wraging{w {Dde{rst{Rruc{rti{Don{w spins violently through the {Ds{gw{Da{gm{Dp{w.
+~
+A {Ddark cloud{w of {Wraging{w {Dde{rst{Rruc{rti{Don{w spins violently through the {Ds{gw{Da{gm{Dp{w. 
+Every way that it turns it lashes out at everything within range with it's
+{ybolts{w of deadly {ylightning{w.  This swirling ball of {Wrage{w seems to draw in all
+light from every corner of the {gforest{w and return it in the form of
+destruction.  
+~
+unique~
+AF TVab 0 0
+100 90 51d52+10000 100d10+100 11d11+50 drain
+400 0 250 150 0
+A
+7 7 7 7
+AG ac 0 I
+stand stand none 0
+CDK 0 medium 'unknown'
+M 'FIGHT' 405 60~
+M 'DEATH' 407 100~
+#441
+small deer~
+a small {Yd{yee{Yr{w~
+A small {Yd{yee{Yr{w with {ybrown{w spots nibbles at some {ggrass{w.
+~
+A small {Yd{yee{Yr{w with {ybrown{w spots nibbles at some {ggrass{w as it slowly wanders
+through the {gforest{w.  It doesn't seem to care much for the other creatures or
+for anything else that may find it as it slowly forages for it's dinner.  
+~
+bear~
+AH 0 0 0
+82 72 42d43+6724 82d10+100 9d11+41 bite
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand either 0
+0 0 medium 'unknown'
+F off DEO
+F par UV
+#442
+tall lanky traveler~
+a tall, lanky {Dtr{wa{Wve{wl{Der{x~
+A tall, lanky {Dtr{wa{Wve{wl{Der{x sits on a rock here.
+~
+This tall, lanky fellow looks as if he has seen a lot of travel.  His
+long, grey pants have holes patched in the knees.  His brown, longsleeved
+shirt is covered with dust from travel.  He looks at you with a small smile,
+then goes back to observing the rest of the crowd.
+~
+andoran~
+AB 0 0 0
+98 88 50d51+9604 98d10+100 10d18+49 headbutt
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#400
+large iron pot~
+a large {Dir{wo{Dn pot{w~
+A large {Dir{wo{Dn pot{w sitting over a large {rfi{Yr{re{w.~
+iron~
+container CY P
+100 0 0 100 0
+100 100 100 100
+#401
+large fire~
+a large {rfi{Yr{re{w~
+A large {rfi{Yr{re{w surrounded by a ring of stones.~
+flame~
+container Ya P
+100 0 0 100 0
+100 1 0 100
+#402
+simple pointy stick~
+a simple pointy stick~
+A pointy stick lies discarded here.~
+wood~
+weapon 0 AN
+spear 9 14 'pierce' D
+80 5 10 100
+A
+19 4
+#403
+arrow~
+a long arrow~
+A long arrow juts up from the ground.~
+wood~
+weapon 0 AO
+arrow 8 13 'pierce' D
+70 0 5 100
+A
+19 5
+#404
+nest~
+a giant {ycir{Dc{yular{w nest~
+A giant {ycir{Dc{yular{w nest blends into the treetops.~
+twigs~
+container a P
+100 F 0 100 0
+100 20 0 100
+#405
+speckled egg~
+a {Ws{gp{Wec{gk{Wl{ge{Wd eg{gg{w~
+An oddly-shaped {Ws{gp{Wec{gk{Wl{ge{Wd eg{gg{w sits on its side.~
+shell~
+food 0 A
+5 5 0 0 0
+0 1 0 100
+#406
+dagger leather~
+a {Dl{war{Dge da{wgg{Der{w with a {yleather{w handle~
+A {Dl{war{Dge da{wgg{Der{w with a {yleather{w handle is half buried in the {yg{Dr{yound{w.~
+cloth~
+weapon 0 AN
+dagger 9 14 'stab' 0
+80 5 500 100
+A
+19 4
+#407
+simple wooden bow~
+a simple {ywooden{w bow~
+A long curved strip of {ywood{w.~
+wood~
+weapon SYc AN
+bow 10 15 'slap' 0
+90 5 100 100
+A
+18 5
+A
+19 4
+#408
+leather quiver~
+a plain {yleather{w quiver~
+A small {yleather{w quiver lies in the {yd{Di{yrt{w.~
+leather~
+container 0 AS
+20 0 0 20 0
+50 1 50 100
+A
+17 -10
+#409
+green shiny leaf~
+a small {Gshiny green{w leaf~
+A small {Gshiny green{w leaf that has been stepped on.~
+leaf~
+pill 0 A
+100 'cure poison' '' '' ''
+0 0 150 100
+#410
+ugly brown berry~
+an ugly {ybrown be{Drr{yy{w~
+An ugly {ybrown be{Drr{yy{w is here.~
+cloth~
+pill 0 A
+100 'heal' '' '' ''
+0 0 200 100
+#411
+dried root~
+a long {Ddri{ye{Dd {yr{Doo{yt{w~
+A long {Ddri{ye{Dd {yr{Doo{yt{w lies forgotten on the ground.~
+cloth~
+pill 0 A
+25 'detect invis' '' '' ''
+0 1 100 100
+#412
+dirt covered root~
+a {yd{Di{yrt{w covered {rroot{w~
+A {yd{Di{yrt{w covered {rroot{w sticks up out of the {yground{w.~
+root~
+pill 0 A
+30 'detect hidden' '' '' ''
+0 2 100 100
+#413
+tiny red berries~
+a handful of tiny {rred b{Re{rrries{w~
+A small pile of tiny {rred b{Re{rrries{w.~
+fruit~
+pill 0 A
+50 'cancellation' '' '' ''
+0 1 300 100
+#414
+small bright light~
+a small {Wbright{w light~
+A small {Wbright{w light {Cw{ca{Cve{cr{Cs{w silently above the {ygr{Dou{ynd{w.~
+light~
+light AQ AQ
+0 0 200 0 0
+80 0 500 100
+A
+4 2
+A
+3 2
+#415
+eerie ball~
+an oddly {Deerie{w ball~
+An oddly {Deerie{w ball of something, {Gpu{yl{Msa{yt{Ges{w disgustingly as it hangs in the {Ca{ci{Cr{w.~
+slime~
+gem C AQ
+0 0 0 0 0
+90 1 1000 100
+A
+1 5
+A
+2 5
+A
+5 5
+A
+17 -20
+#416
+sticky web~
+a handful of {Dwebs{w~
+A wall of sticky {Dweb{w hangs between the {gtrees{w.~
+webbing~
+container a P
+100 0 0 100 0
+0 0 0 100
+#417
+glowing gem gemstone stone~
+a small {Mglowing{w gem~
+A fragment of a small {Mgemstone{w glows faintly as it sits on the ground.~
+gemstone~
+gem ASa AO
+0 0 0 0 0
+70 1 300 100
+A
+2 2
+#418
+glowing gem gemstone stone~
+a perfect {Mglowing{w gem~
+A glowing {Mgemstone{w of unsurpassed brillance has fallen to the ground here.~
+gemstone~
+gem AKSa AO
+0 0 0 0 0
+90 5 500 100
+A
+5 2
+A
+2 2
+#419
+mound hill~
+a large ant mound~
+A large {Dant{x mound sits between the {yroots{x.~
+dirt~
+container a P
+100 0 0 100 0
+100 20 0 100
+#420
+burning log~
+a short {ylog{w that is {rb{Rur{Yn{Ri{rng{w on one end~
+A short {ylog{w has fallen out of the {rfi{Yr{re{w.~
+wood~
+weapon AUV AN
+mace 6 11 'pound' A
+50 0 100 100
+A
+19 8
+A
+18 -2
+#421
+cardboard tube~
+a long {ycardboard {Wtube{w~
+A long {ycardboard {Wtube{w has been discarded here.~
+cardboard~
+weapon HMPSYbc N
+sword 11 16 'slice' D
+100 2 1000 100
+A
+19 4
+#422
+air mystery mysterious feeling~
+an {Wair{w of {Dmys{wte{Wry{w~
+A {Dmyst{weri{Wous{w feeling hangs in the {ca{Ci{cr{w.~
+air~
+armor Y AQ
+20 20 20 20 0
+90 5 1000 100
+A
+18 4
+A
+19 4
+A
+1 2
+A
+3 2
+A
+4 2
+A
+2 2
+A
+5 2
+#423
+ring finger twisted~
+a thick twisted {ygo{Yld{yen {Yring{w~
+A long boney {Dfinger{w of pure {Dblack{w with a thick twisted {ygo{Yld{yen{Y ring{w wrapped around it.~
+gold~
+jewelry EM AB
+0 0 0 0 0
+80 5 100 100
+A
+1 2
+A
+2 2
+A
+5 2
+A
+3 -3
+A
+4 -3
+#424
+giant war axe~
+a giant {Dw{wa{Dr{w axe~
+A giant {Dw{wa{Dr{w axe lies near its former owner.~
+iron~
+weapon R AN
+axe 10 15 'slash' F
+90 20 100 100
+A
+19 4
+A
+19 4
+A
+18 10
+A
+19 15
+A
+2 -1
+#425
+adventurer remains~
+the old remains of a long dead adventurer~
+The old {Wremains{w of a long dead {ga{Gd{gv{Ge{gn{Gt{gu{Gr{ge{Gr{w lie here.~
+bone~
+container a 0
+100 0 0 100 0
+90 0 0 100
+#426
+large stump~
+a large stump~
+A large {ystump{w has been used as a choping block.~
+wood~
+container 0 0
+100 E 0 100 0
+90 0 0 100
+#427
+old hand axe~
+an {yold{w hand {Da{wx{De{w~
+An {yold{w hand {Da{wx{De{w has been left out.~
+stone~
+weapon 0 AN
+axe 8 13 'chop' D
+70 10 100 100
+A
+19 4
+A
+19 4
+#428
+putrid river water~
+slow moving {gp{yu{Dtr{yi{gd{w water~
+Slow moving {gp{yu{Dtr{yi{gd{w water flows downriver.~
+water~
+fountain 0 0
+0 0 'water' 0 0
+0 0 0 100
+#429
+dirty hammock~
+a {yd{Dirt{yy{w hammock~
+A {yd{Dirt{yy{w hammock hangs in a corner.~
+cloth~
+furniture 0 0
+1 200 FIL 100 200
+0 0 0 100
+#430
+clean hammock~
+a small {Wclean{w hammock~
+A small {Wclean{w hammock hangs perfectly along one wall.~
+cloth~
+furniture 0 0
+1 200 FIL 150 150
+0 0 0 100
+#431
+fresh remains~
+the fresh remains of a would be {ge{Gx{gp{Gl{go{Gr{ge{Gr{w~
+The fresh remains of a would-be {ge{Gx{gp{Gl{go{Gr{ge{Gr{w slowly decay in this ditch.~
+bone~
+container a 0
+100 0 0 100 0
+0 0 0 100
+#432
+rotten flesh tattoo~
+a {ms{Mt{Yr{Wa{Yn{Mg{me{w tattoo on a chunk of {Dro{ytt{Den{w flesh~
+A chunk of {Dro{ytt{Den{w flesh with a {ms{Mt{Yr{Wa{Yn{Mg{me{w tattoo on it lies silently on the {yground{w.~
+flesh~
+armor 0 AR
+5 5 5 20 0
+75 0 0 100
+#433
+skeletal remains skeleton~
+the {Wskeletal{w remains of a foolish {Dt{wr{Da{wv{De{Dl{we{Dr{w~
+The {Wskeletal{w remains of a foolish {Dt{wr{Da{wv{De{Dl{we{Dr{w lie undisturbeded here.~
+bone~
+container a 0
+100 0 0 100 0
+0 0 0 100
+#434
+small pouch~
+{wa small {ypouch{w with {yleather{w draw strings~
+{wA small {ypouch{w with {yleather{w draw strings has been lost here.~
+cloth~
+container Y A
+5 AC 0 100 0
+60 1 2000 100
+#435
+feathered wings~
+a pair of {Df{yea{Dthered wi{yngs{w~
+A pair of {Df{yea{Dthered wi{yngs{w twitch slightly here.~
+feathers wings~
+armor 0 AI
+30 30 26 0 0
+86 2 100 100
+#436
+fur hide coat~
+a long {Df{wu{Wr c{wo{Dat{w~
+The long {Df{wu{Wr h{wi{Dde{w of a dead {ybeast{w has been left here.~
+fur~
+armor 0 AK
+10 30 20 30 0
+90 5 200 100
+#437
+large oak tree~
+a large {yoak tree{w~
+A large {yoak tree{w with long limbs.~
+wood~
+furniture a 0
+2 500 AD 0 0
+90 0 0 100
+#438
+tall branches tree~
+the low hanging {ybranches{w~
+A tall tree with large leathery {Gl{Wea{Gves{w and low hanging {ybranches{w.~
+wood~
+furniture a 0
+2 500 E 0 0
+60 0 0 100
+#439
+tall ancient tree~
+a tall {Dancient{y tree{w~
+A tall {Dancient{y tree{w towers over the {ypath{w~
+wood~
+furniture a 0
+2 500 AD 0 0
+70 0 0 100
+#440
+side hill boulders~
+between the {Dbo{wu{Wld{we{Drs{w~
+The side of the {yhill{w.~
+dirt~
+container a 0
+100 0 0 100 0
+0 0 0 100
+#441
+tree hole trunk~
+a {Ddark hole{w in a {yr{wo{ytt{we{yn tree trunk{w~
+An old {yr{wo{ytt{we{yn tree trunk{w~
+cloth~
+container a 0
+100 0 0 100 0
+80 0 0 100
+#442
+vibrant eyes~
+vibrant {Cb{Gl{Cu{Ge-g{Cr{Ge{Ce{Gn{w eyes~
+A pair of vibrant {Cb{Gl{Cu{Ge-g{Cr{Ge{Ce{Gn{w eyes lie in the {ydirt{w.~
+nothing~
+armor Y AV
+15 15 15 45 0
+90 1 200 100
+A
+18 3
+#443
+small chest~
+a small {Dc{yh{De{ys{Dt{w~
+A small {Dc{yh{De{ys{Dt{w buried in the {Ds{gw{Da{gm{Dp{w.~
+iron~
+container a 0
+100 ACD 444 100 0
+100 15 0 100
+#444
+swamp key~
+a simple {Dkey{w~
+A simple {Dkey{w lies in the {ydirt{w.~
+iron~
+key 0 A
+0 0 0 0 0
+100 0 0 100
+#445
+golden crown~
+a small {Yg{yo{Yld{ye{Yn crown{w~
+A small {Yg{yo{Yld{ye{Yn crown{w from a forgotten age.~
+gold~
+jewelry 0 AE
+0 0 0 0 0
+80 0 1000 100
+A
+17 -10
+#446
+golden bracelet~
+a narrow {Yg{yo{Yld{ye{Yn bracelet{w~
+A narrow {Yg{yo{Yld{ye{Yn bracelet{w has seen better days.~
+gold~
+jewelry 0 AM
+0 0 0 0 0
+80 0 300 100
+A
+18 10
+#447
+ancient breastplate~
+an {Da{Wn{Dc{Wi{De{Wn{Dt{w breastplate~
+An {Da{Wn{Dc{Wi{De{Wn{Dt{w breastplate lies empty here.~
+iron~
+armor 0 AD
+30 20 30 0 0
+80 5 100 100
+#448
+acorn acorns~
+a hidden stash of {ya{wc{yorns{w~
+A hidden stash of {ya{wc{yorns{w has spilt onto the {yground{w.~
+gold~
+money 0 A
+100 5 0 0 0
+0 0 0 100
+#449
+pile bones~
+a small pile of {Wbones{w~
+A small pile of {Wbones{w sits off to one side.~
+bone~
+container a 0
+100 0 0 100 0
+0 0 0 100
+#450
+thick bone~
+a thick leg {Wbone{w~
+A thick {Wbone{w from some dead {ya{Dn{yi{Dm{yal{w.~
+bone~
+weapon 0 AN
+mace 8 13 'crush' 0
+75 3 0 100
+A
+19 9
+A
+19 14
+#451
+heavy strong box~
+a very heavy {Ds{yt{Dro{yn{Dg {wbox~
+A very heavy {Ds{yt{Dro{yn{Dg {wbox sits against a wall.~
+cloth~
+container 0 A
+500 ABCD 452 500 0
+0 5000 0 100
+#452
+skeleton key~
+a small {Wskeleton{w key~
+A small {Wkey{w made of {Wbone{w has been left here.~
+bone~
+key 0 A
+0 0 0 0 0
+0 0 0 100
+#453
+hot spring~
+a {cb{Cu{cb{Cb{cl{Ci{cn{Cg{r hot {cspring{w~
+A {cb{Cu{cb{Cb{cl{Ci{cn{Cg{r hot {cspring{w sits in a small {gclearing{w.~
+water~
+furniture 0 0
+4 1000 CFI 200 200
+0 0 0 100
+#454
+stained journal~
+a small {rst{Rai{rned{w journal~
+A small {rst{Rai{rned{w journal with many pages missing~
+paper~
+notepaper 0 AO
+0 0 0 0 0
+60 0 0 100
+A
+4 2
+A
+3 2
+E
+page17~
+We have reached the edge of this forest.  The locals in the nearby town
+told us not to enter, which made Marco want to enter even more.  He says
+that the locals are just trying to hide something from us and that we should
+go take it away from them.  I don't want to go, I have a bad feeling about
+it.  
+ 
+The rest of the book is blank...
+~
+E
+page12~
+Everything is going great for me now.  For awhile I was thinking of
+returning home and seeing if the master would allow me to return as his
+apprentice, but things are gong better now.  I have found some really nice
+people and the are letting me travel with them.  Looks like they want to get
+moving this morning, I'll write more when I can.  
+ 
+Several pages are missing.. until page 17.
+~
+E
+page~
+This journal seems to be the private writings of a young man that set out
+to seek adventure.  The first page that hasn't been lost or made unreadable
+is page 12.  
+
+Try: {Wlook page12{w 
+~
+E
+pages~
+This journal seems to be the private writings of a young man that set out
+to seek adventure.  The first page that hasn't been lost or made unreadable
+is page 12.  
+
+Try: {Y{Wlook page12{w{w 
+~
+#455
+wool pants~
+a pair of {Dwool{w pants~
+A pair of {Dwool{w pants have been torn to pieces.~
+cloth~
+armor 0 AF
+25 25 25 0 0
+75 0 0 100
+#456
+poofy shirt~
+a gaudily poofy {Wshirt{w~
+A gaudily poofy {Wshirt{w has been left behind.~
+cloth~
+armor 0 AD
+20 20 20 15 0
+75 0 5 100
+#457
+rotten purse~
+a {yr{wo{Dtt{we{yn {Ycoin{w purse~
+A {yr{wo{Dtt{we{yn {Ycoin{w purse bursting at the {yseems{w.~
+gold~
+money 0 A
+50 0 0 0 0
+0 0 0 100
+#458
+web critter~
+a {Wweb{w encased {ycri{Dtt{yer{w~
+A dead {ycri{Dtt{yer{w trapped in {Wwebs{w.~
+animal~
+food 0 A
+10 10 0 A 0
+100 0 0 100
+#459
+spider egg sac~
+a {Dsp{ri{Dder{w egg {Ws{wa{Dc{w~
+A {Ws{wa{Dc{w filled with {Dsp{ri{Dder{w eggs sticks to the {yground{w.~
+web~
+food 0 A
+2 5 0 A 0
+50 0 0 100
+#460
+strange doorway~
+a strange doorway~
+A {Ws{Gt{Wr{Ma{Wnge d{Mo{Wor{Gw{Way{w laying flat on the {yground{w.~
+stone~
+portal a 0
+0 M E 0 0
+100 0 0 100
+#461
+twisted rope belt~
+a {Wt{Dw{Wi{Ds{Wt{De{Wd {Dr{Wo{Dp{We {Db{We{Dl{Wt{w~
+A finely {Wt{Dw{Wi{Ds{Wt{De{Wd {Dr{Wo{Dp{We {Db{We{Dl{Wt{w sits on the {yground{w.~
+rope~
+armor KSY AL
+20 20 20 30 0
+90 0 100 100
+A
+5 2
+A
+2 2
+#462
+bag gold~
+a large {Dbag{w of {Ygold{w~
+A large {Dbag{w of {Ygold{w sits at the bottom of the box.~
+gold~
+money 0 A
+0 15 0 0 0
+0 0 0 100
+#463
+weapon rack~
+a wood weapon rack~
+A weapon rack made of {ywood{w is against the far wall.~
+wood~
+container 0 0
+100 0 0 100 0
+0 0 0 100
+#464
+brown stew~
+some {ybrown{w stew~
+An oddly shaped bowl {ybrown{w stew.~
+stew~
+food 0 A
+3 3 0 0 0
+50 0 0 100
+#465
+warped twisted tree~
+a {Dw{ga{Drp{ge{Dd{w and {Dtw{ri{Dsted{y tree{w~
+A {Dw{ga{Drp{ge{Dd{w and {Dtw{ri{Dsted{y tree{w grows up from the {Dsw{ga{Dmp{w.~
+wood~
+furniture a 0
+1 1000 ADGL 300 100
+100 0 0 100
+#466
+clump blue moss~
+a clump of {cblue m{Co{css{w~
+A clump of {cblue m{Co{css{w grows in the {Dshade{w.~
+moss~
+pill 0 A
+70 'frenzy' 'blindness' '' ''
+70 0 0 100
+#467
+fallen tree~
+the {Dunderside{w of the fallen {ytree{w~
+An old {ytree{w that has fallen across the {cr{Di{wv{De{cr{w.~
+wood~
+container a 0
+100 0 0 100 0
+80 0 0 100
+#468
+viel red potion~
+a small {Rv{rie{Rl{w of {Rr{re{Rd p{ro{Rt{ri{Ro{rn{w~
+A small {Rv{rie{Rl{w of {Rr{re{Rd p{ro{Rt{ri{Ro{rn{w has been left here.~
+potion~
+potion 0 A
+200 'cancellation' 'cause serious' '' ''
+0 0 1000 100
+#469
+brown slug~
+a fat {ybrown slug{w~
+A fat {ybrown slug{w crawls along the {yground{w.~
+slug~
+pill 0 A
+10 'infravision' 'detect hidden' 'detect invis' ''
+0 0 400 100
+#470
+large dead ant~
+a large {Ddead{w {ra{Rn{rt{w~
+A large {ra{Rn{rt{w has died here.~
+corpse~
+pill 0 A
+10 '' 'poison' '' ''
+0 0 600 100
+#471
+travel worn walking staff~
+a travelworn walking {ystaff{x~
+A travelworn walking {ystaff{x has been dropped here.~
+wood~
+weapon 0 AN
+staff 10 15 'crush' 0
+90 2 100 100
+A
+18 6
+A
+19 4
+#472
+swamp slime~
+{DS{gw{Da{gm{Dp {gslime{x~
+A large lump of {Ds{gw{Da{gm{Dp {gslime{x floats upon the water.~
+cloth~
+container 0 0
+2 0 0 4 10
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#400
+The East End of a {yW{wor{yn Path{w~
+{GLi{wg{Ght{w filters down through the heavy canopy of {ybranches{w and {gleaves{w that
+reach out far above, the light barely reaching the solid {Dground{w of the path.
+The uneven ground of this path is fairly worn here as it heads off to the
+west and is crisscrossed by several {yroots{w that stick up dangerously.  The
+{yroots{w come from the surrounding trees, most of which look rather old as they
+threaten to engulf the path.  
+~
+0
+0 3
+D3
+~
+~
+0 0
+0 0 401
+D7
+~
+~
+0 0
+0 0 50523
+S
+#401
+A {yW{wor{yn Path{w~
+A thick canopy of {ybranches{x and {gleaves{x stretch out over the worn path
+casting sections into {Ddarkness{x while the rest of the path can be seen
+faintly.  Stones have been pushed up into this section of the path as the
+roots from nearby {ytrees{w spread beneath the {Dground{w.  The {ytrees{w themselves
+seem to reach down attempting to grab at whatever attempts to pass further
+to the west.  Back to the east, the trail grows brighter as the path leads
+back out of forest.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 400
+D3
+~
+~
+0 0
+0 0 402
+S
+#402
+A {yW{wor{yn Path{w~
+Large gnarled {ybranches{w filled with thick {gleaves{w cross overhead, allowing
+only a trickle of light to filter through.  The root system breaks the
+surface, offering several places to trip as it is given a faint {ggr{wee{gn{G{G tint{w. 
+Small rustling sounds can be heard from the thick {gun{yder{gbrush{w that creeps in
+around the path.  To the east the path leads toward a distant source of
+brighter {Wlight{w.  In the other direction the old worn path turns sharply to
+the south, leading further into the forest.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 401
+D2
+~
+~
+0 0
+0 0 403
+S
+#403
+A {yW{wor{yn Path{w~
+Large {Dshadows{w are cast down onto the worn path as it curls around, in one
+direction heading to the north and to the other deeper into the forest to
+the west.  Casting the {Dshadows{w are large gnarled {ybranches{w bearing large
+{Gleaves{w which filter into pale shades of {Ggreen{w.  Rustling sounds come from
+all around, deep within the thick {gun{yder{gbrush{w that tightens its hold on this
+old path as time passes.  Large {Dst{won{Des{w stick up between roots that attempt
+to break through the surface of the packed earth.
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 402
+D3
+~
+~
+0 0
+0 0 404
+S
+#404
+A {yW{wor{yn Path{w~
+The {gun{yder{gbrush{w opens up just enough to the west to allow access to a
+rarely used trail.  The worn path turns off to the east and also to the
+south, weaving its way through the thick growth of {gshrubs{x and fallen
+{ybranches{w.  The pale {Gli{wgh{Gt{w that filters down between the gnarled {ybranches{w and
+thick {gleaves{w casts the path in {Dshadows{w and slightly eerie patches of light. 
+The {yroot{w system from the nearby ancient trees spreads out across the path,
+making walking uneasy at times.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 403
+D2
+~
+~
+0 0
+0 0 405
+D3
+~
+~
+0 0
+0 0 411
+S
+#405
+A {yW{wor{yn Path{w~
+This section of the worn path runs off to the north and also to the
+south.  The pale {Gleaf{w tinged light filters down through the old gnarled
+{ybranches{w that stretch out over head.  With the trees and thick undergrowth
+rapidly creeping out over the trail and the low hanging branches, it has an
+eerie feeling of a {Ddeep{w cave.  Small {cdr{Cop{Wl{Ce{cts{w of water drip down from the
+canopy of leaves and quiet footsteps and rustling can be heard from all
+around.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 404
+D2
+~
+~
+0 0
+0 0 406
+S
+#406
+A {yW{wor{yn Path{w~
+This worn path wanders off to the north and south, both directions barely
+visible with the faint {Ggr{wee{Gn{w light that trickles down.  The thick canopy of
+{ybranches{w and leaves that hang close overhead, obscure most of the light
+during the daytime.  Small woodland creatures scurry through the thick wall
+of {gun{yder{gbrush{w that prevents all but the smallest of creatures from venturing
+far from this trail.  Large {yroots{w, nearing the size of some of the low
+hanging branches, poke up through the beaten dirt and threaten to trip the
+careless.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 405
+D2
+~
+~
+0 0
+0 0 407
+S
+#407
+A {yW{wor{yn Path{w~
+The path abruptly ends at the base of a large {ytree{w with low hanging
+{ybranches{w.  Large leathery {Gl{wea{Gves{w litter the {Dground{w, covering the root system
+that bulges up from the ground.  Just a tiny amount of light can find its
+way through the thick canopy above to faintly show the base of the tree. 
+Off to the west, the otherwise thick {gun{yder{gbrush{w seems slightly broken. 
+Beyond the broken limbs and {ybranches{w of the {gbrush{w everything seems {Wsilent{w. 
+A rather large ant mound seems to have been built between the {yroots{w of this
+large {ytree{w.  
+~
+0
+0 3
+E
+roots~
+A large {Dant{w mound sits between the roots.
+~
+E
+root~
+A large {Dant{w mound sits between the roots.  
+~
+D0
+~
+~
+0 0
+0 0 406
+D3
+~
+~
+4096 4096
+0 0 408
+D4
+~
+~
+4096 4096
+0 0 409
+S
+#408
+A {DDead End{w~
+Small piles of {Wbones{w cover the ground in this small clearing past the
+{gun{yder{gbrush{w.  The surrounding bushes and trees bare the marks of a powerful
+creature as it thrashed through this area.  Off to one side is a large {ydug{w
+up area, that seems clear of most of the destruction and {Wbones{w.  The air is
+strangely clear of all the normal scents for this type of area and most of
+the {Wremains{w seem rather old.  Still this clearing doesn't feel natural.  
+~
+0
+A 3
+D1
+~
+~
+4096 4096
+0 0 407
+M 50 H 50
+S
+#409
+Hanging from the Branches~
+A series of low hanging gnarled {ybranches{w make climbing easy up to this
+point.  A wall of green surrounds you with the {Gf{go{Gl{gia{Gge{w of the nearby trees
+which tower up beside this one.  Small {yan{Dima{yls{w and brightly colored {Bb{Yi{Rr{Gd{Cs{w
+hop between the {ybranches{w and can be heard all around.  This would be almost
+relaxing if it wasn't so high up off the ground.  This tree continues to
+climb higher, even higher than most of the surrounding trees.  
+~
+0
+0 3
+D4
+~
+~
+0 0
+0 0 410
+D5
+~
+~
+4096 4096
+0 0 407
+S
+#410
+Top of the Tree~
+The {ybranches{w grow smaller and smaller this high up off the ground, which
+is now dangerously far away.  A fall from here would mean almost certain
+death for almost everyone.  The faint chatter of small {yan{Dima{yls{w and other
+critters can be heard in the lower {ybranches{w.  The tops of other trees form a
+{Gfl{goo{Gr{w of green that rolls out in every direction.  Some giant bird seems to
+have hidden a large {ycir{Dc{yular{w nest within the {ybranches{w.  
+~
+0
+0 3
+D5
+~
+~
+0 0
+0 0 409
+S
+#411
+A Faint Trail~
+This trail is nearly concealed by a large amount of {gun{yder{gbrush{w and other
+{Ddebris{w that has fallen down from the canopy above.  Most people would be
+able to follow this faint trail, in fact in appears to have been used fairly
+recently.  The broken {ybranches{w seem to run along the faint path out to the
+east to a more {yw{wor{yn path{w and to the north along this faint trail.  Faint
+sounds of small animals can be heard from up above, with the occassional
+large {gl{Gea{gf{w falling to the ground.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 412
+D1
+~
+~
+0 0
+0 0 404
+S
+#412
+An Overgrown Trail~
+Large amounts of {Ddebris{w and thick {gun{yder{gbrush{w seem to be everywhere.  The
+trail would be fairly hard to follow through here, if it weren't for the
+damage that appears to have been caused by some large creature recently. 
+The {gcanopy{w of large leaves that hangs high up in the treetops obscures any
+sign of day {Wlight{w, making it hard to determine the time of day.  The trail
+of destruction leads around a corner here, heading to the south and also
+further to the west further into the forest.  
+~
+0
+A 3
+D2
+~
+~
+0 0
+0 0 411
+D3
+~
+~
+0 0
+0 0 413
+S
+#413
+A Heavily Overgrown Trail~
+The {gcanopy{w of large leaves that hangs high up in the treetops obscures
+any sign of day {Wlight{w, making it hard to determine the time of day.  On the
+ground, large amounts of {Ddebris{w and thick {gun{yder{gbrush{w seem to be everywhere. 
+The trail would be fairly hard to follow through here, if it weren't for the
+damage that appears to have been caused by some large creature recently. 
+The trail of destruction heads to the east and also to the west through much
+larger trees and presumably deeper into the forest.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 412
+D3
+~
+~
+0 0
+0 0 414
+S
+#414
+Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  Very little {Wlight{w breaks through the large {gcanopy{w of leaves and
+gnarled {ybrances{w above, and none of it reaches the ground.  That leaves this
+area in complete darkness and rather dangerous to squeeze through.  Rough
+{yb{Da{yrk{w and limbs grab and tear at anything and everything that attempts to
+make it through.  A few of those limbs seem to have been broken recently,
+but it makes the path no easier for you to follow.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 413
+D2
+~
+~
+4096 4096
+0 0 436
+D3
+~
+~
+0 0
+0 0 415
+S
+#415
+Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  Very little {Wlight{w breaks through the large {gcanopy{w of leaves and
+gnarled {ybrances{w above, and none of it reaches the ground.  That leaves this
+area in complete darkness and rather dangerous to squeeze through.  Rough
+{yb{Da{yrk{w and limbs grab and tear at anything and everything that attempts to
+make it through.  Running {Cw{Da{wt{De{Cr{w can be heard to the west of here.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 414
+D3
+~
+~
+0 0
+0 0 416
+S
+#416
+The Edge of a Slow Moving {cR{Di{wv{De{cr{w~
+Small bubbles rise to the surface as they slowly move down the pungent
+{Cr{Di{wv{De{Cr{w beside you.  They make small popping sounds as they release their
+{gstench{w upon the world.  The narrow path that you are now on, follows very
+close to the edge of this {Cr{Di{wv{De{Cr{w, leaving you dangerously close to a small
+drop.  The path continues to the north and south between the small drop off
+and the thick trees, while a narrow break in the trees would allow you to
+also go east.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 419
+D1
+~
+~
+0 0
+0 0 415
+D2
+~
+~
+0 0
+0 0 417
+S
+#417
+Following a Slow Moving {cR{Di{wv{De{cr{w~
+A large {ytree{w has fallen across the chasm and provides a way to cross the
+slow moving {Cr{Di{wv{De{Cr{w besides swimming.  This {ytree{w seems to be at the end of the
+path, which seems to start up again on the other end of the tree.  The {cr{Di{wv{De{cr{w
+that slowly flows to your west, runs beneath the {ytree{w and up to the north. 
+Tiny popping sounds can be heard as small bubbles rise up to the surface of
+the foal water, giving off a terrible {gst{yen{gch{w.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 416
+D3
+~
+~
+0 0
+0 0 418
+S
+#418
+On a Fallen Tree Across the {cR{Di{wv{De{cr{w~
+This giant tree must have fallen a long time ago as it appears to have
+been used for the purposes of crossing this {cr{Di{wv{De{cr{w for many years.  All of
+the {ybranches{w have long since been broken off and discarded, making this tree
+look more like a natural bridge than the once ancient tree that it was.  The
+{gw{Da{wt{De{gr{w that slowly flows beneath this bridge, smells nasty and doesn't look
+safe as tiny bubbles make their way to the surface.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 417
+D3
+~
+~
+0 0
+0 0 437
+S
+#419
+Following a Slow Moving {cR{Di{wv{De{cr{w~
+Small bubbles rise to the surface as they slowly move down the pungent
+{Cr{Di{wv{De{Cr{w beside you.  They make a small popping sound as they release their
+{gstench{w upon the world.  The narrow path that you are now on, follows very
+close to the edge of this {Cr{Di{wv{De{Cr{w, leaving you dangerously close to a small
+drop.  The path continues to the north and south between the small drop off
+and the thick trees.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 420
+D2
+~
+~
+0 0
+0 0 416
+S
+#420
+On the Bank of a Slow Moving {cR{Di{wv{De{cr{w~
+Small bubbles rise to the surface as they slowly move down the pungent
+{Cr{Di{wv{De{Cr{w beside you.  They make a small popping sound as they release their
+{gstench{w upon the world.  The narrow path that you are now on, follows very
+close to the edge of this {Cr{Di{wv{De{Cr{w, leaving you dangerously close to a small
+drop.  The path continues to the north and south between the small drop off
+and the thick trees.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 421
+D2
+~
+~
+0 0
+0 0 419
+S
+#421
+Edge of a Swamp~
+The faint sound of a slow moving {Cr{Di{wv{De{Cr{w can be heard a short distance away
+to the west.  Though it feels as if you may have already stepped into it as
+the deep {Ds{gw{Da{gm{Dp{w rises up around your legs.  Strange {Wlights{w dance gracefully
+around the fallen {ylimbs{w and tangled {gv{Gi{gn{Ge{gs{w that mark the edge of this dingy
+swamp.  {DDarkness{w settles down upon this area threatening to remove all light
+except for those strange dancing {Wlights{w.  A slow moving {Cr{Di{wv{De{Cr{w seems rather
+deep to the west, but the {Ddark{w water and the slightly green mold that grows
+on the banks make it hard to tell.  
+~
+0
+0 16
+D0
+~
+~
+0 0
+0 0 423
+D1
+~
+~
+0 0
+0 0 422
+D2
+~
+~
+0 0
+0 0 420
+S
+#422
+Swamp Land~
+The faint sound of a slow moving {Cr{Di{wv{De{Cr{w can be heard a short distance away
+to the west.  Though it feels as if you may have already stepped into it as
+the deep {Ds{gw{Da{gm{Dp{w rises up around your legs.  Strange {Wlights{w dance gracefully
+around the fallen {ylimbs{w and tangled {gvines{w that mark the edge of this dingy
+{Ds{gw{Da{gm{Dp{w.  {DDarkness{w settles down upon this area threatening to remove all light
+except for those strange dancing {Wlights{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 424
+D3
+~
+~
+0 0
+0 0 421
+S
+#423
+The Wetland Beside the {cR{Di{wv{De{cr{w~
+The air is humid as it fills your lungs and your feet sink and stick to
+the heavily saturated and swampy ground.  Large murky puddles litter the
+ground, becoming more numerous and more {Ds{gw{Da{gm{Dp{w-like to the east and to the
+north.  A slow moving and smelly river seems rather deep to the west, but
+the {Ddark{w water and the slightly {gg{Gr{ge{Ge{gn{w mold that grows on the banks make it
+hard to tell.  It is probably best not to take a swim in it.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 425
+D1
+~
+~
+0 0
+0 0 424
+D2
+~
+~
+0 0
+0 0 421
+S
+#424
+Surrounded by the Swamp~
+The {Ddarkness{w descends around this area as if a heavy blanket.  The faint
+sound of a slow moving {Cr{Di{wv{De{Cr{w can be heard a short distance away to the west.
+Though it feels as if you may have already stepped into it as the deep {Ds{gw{Da{gm{Dp{w
+rises up around your legs.  Strange {Wlights{w dance gracefully around the
+fallen {ylimbs{w and tangled {gvines{w, seeming not to notice the terrible stench
+rising from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 426
+D1
+~
+~
+0 0
+0 0 427
+D2
+~
+~
+0 0
+0 0 422
+D3
+~
+~
+0 0
+0 0 423
+S
+#425
+The Swampy Edge of the {cR{Di{wv{De{cr{w~
+The {Ddarkness{w descends around this area as if a heavy blanket.  The faint
+sound of a slow moving river can be heard a short distance away to the north
+and west.  Though it feels as if you may have already stepped into it as the
+deep swamp rises up around your legs.  Strange lights dance gracefully
+around the fallen limbs and tangled {gvines{w, seeming not to notice the
+terrible stench rising from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D1
+~
+~
+0 0
+0 0 426
+D2
+~
+~
+0 0
+0 0 423
+S
+#426
+In the Swamp~
+The {Ddarkness{w descends around this area as if a heavy blanket.  The faint
+sound of a slow moving {Cr{Di{wv{De{Cr{w can be heard a short distance away to the
+north-west.  Though it feels as if you may have already stepped into it as
+the deep {Ds{gw{Da{gm{Dp{w rises up around your legs.  Strange {Wlights{w dance gracefully
+around the fallen {ylimbs{w and tangled {gvines{w, seeming not to notice the
+terrible stench rising from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 431
+D1
+~
+~
+0 0
+0 0 428
+D2
+~
+~
+0 0
+0 0 424
+D3
+~
+~
+0 0
+0 0 425
+S
+#427
+In the Swamp~
+The {Ddarkness{w descends around this area as if a heavy blanket.  It feels
+as if you may have stepped into a murky river as the deep {Ds{gw{Da{gm{Dp{w {gslime{w rises
+up around your legs.  The filth seems to ooze everywhere, attempting to
+sneak inside your boots and up your legs.  Hidden {gvines{w attempt to trip you
+up and pull you under.  Strange {Wlights{w dance gracefully around the fallen
+{ylimbs{w and tangled {gvines{w, seeming not to notice the terrible stench rising
+from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 428
+D3
+~
+~
+0 0
+0 0 424
+S
+#428
+Surrounded by the Swamp~
+You feel like you have stepped into a murky lake of sort, as the deep {Ds{gw{Da{gm{Dp{w
+{gslime{w rises up around your legs.  The filth seems to ooze everywhere,
+attempting to sneak inside your boots and up your legs.  Hidden {gvines{w
+attempt to trip you up and pull you under, even as you sink a little deeper
+into the {Ds{gw{Da{gm{Dp{w.  Strange {Wlights{w dance gracefully around the fallen {ylimbs{w and
+tangled {gvines{w, seeming not to notice the terrible stench rising from the
+{Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 432
+D1
+~
+~
+0 0
+0 0 429
+D2
+~
+~
+0 0
+0 0 427
+D3
+~
+~
+0 0
+0 0 426
+D5
+~
+~
+4096 4096
+0 0 430
+S
+#429
+Tangled Edge of the Swamp~
+The {gvines{w reach out to ensnare you the further you move into the {Ds{gw{Da{gm{Dp{w. 
+They seem to be larger than the other {gvines{w in the forest and have the
+strange texture of sandpaper with broken shards of {Cg{Wl{Ca{Ws{Cs{w mixed in.  Movement
+to the north and to the east does not appear possible.  The {Dsludge{w that
+makes up the {Ds{gw{Da{gm{Dp{w grows thicker and deeper over here making movement of any
+kind a very slow and tiring process.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 433
+D3
+~
+~
+0 0
+0 0 428
+M 0 H 100
+S
+#430
+Under the Water~
+Filthy slimy {Dsludge{w seeps into your ears and up your nose as you go
+beneath the surface of the {Ds{gw{Da{gm{Dp{w.  Any clothing or armor you're wearing is
+quickly coated in the {Gs{gt{Gi{gc{Gk{gy{w goo that you have immersed your self in.  Up
+above you, you see the very faint {Wlights{w that dance around on the surface
+providing just enough light to barely make out something if it was right in
+front of your nose.  
+~
+0
+A 16
+D4
+~
+~
+4096 4096
+0 0 428
+M 0 H 0
+S
+#431
+Deep within the Swamp~
+The {Ddarkness{w descends around this area as if a heavy blanket.  The faint
+sound of a slow moving river can be heard a short distance away to the west
+and further off to the north.  Though it feels as if you may have already
+stepped into it as the deep {Ds{gw{Da{gm{Dp{w rises up around your legs.  Strange {Wlights{w
+dance gracefully around the fallen limbs and tangled {gvines{w, seeming not to
+notice the terrible stench rising from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 434
+D1
+~
+~
+0 0
+0 0 432
+D2
+~
+~
+0 0
+0 0 426
+S
+#432
+Surrounded by the Swamp~
+You feel like you have stepped into a murky lake of sort, as the deep {Ds{gw{Da{gm{Dp{w
+{gslime{w rises up around your legs.  The filth seems to ooze everywhere,
+attempting to sneak inside your boots and up your legs.  Hidden {gvines{w
+attempt to trip you up and pull you under, even as you sink a little deeper
+into the {Ds{gw{Da{gm{Dp{w.  
+~
+0
+A 16
+D0
+~
+~
+0 0
+0 0 435
+D1
+~
+~
+0 0
+0 0 433
+D2
+~
+~
+0 0
+0 0 428
+D3
+~
+~
+0 0
+0 0 431
+S
+#433
+Tangled Edge of the Swamp~
+The {gvines{w reach out to ensnare you the further you move into the {Ds{gw{Da{gm{Dp{w. 
+They seem to be larger than the other {gvines{w in the forest and have the
+strange texture of sandpaper with broken shards of {Cg{Wl{Ca{Ws{Cs{w mixed in.  Movement
+to the north and to the east does not appear possible.  The {Dsludge{w that
+makes up the {Ds{gw{Da{gm{Dp{w grows thicker and deeper over here making movement of any
+kind a very slow and tiring process.  
+~
+0
+A 16
+D2
+~
+~
+0 0
+0 0 429
+D3
+~
+~
+0 0
+0 0 432
+M 0 H 100
+S
+#434
+Along the Edge of the {cR{Di{wv{De{cr{w~
+The {Ddarkness{w descends around this area as if a heavy blanket.  The faint
+sound of a slow moving river can be heard a short distance away to the north
+and west.  Though it feels as if you may have already stepped into it as the
+deep swamp rises up around your legs.  Strange l{Wigh{wts dance gracefully
+around the fallen limbs and tangled {gvines{w, seeming not to notice the
+terrible stench rising from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D1
+~
+~
+0 0
+0 0 435
+D2
+~
+~
+0 0
+0 0 431
+S
+#435
+The Dark End of the Swamp~
+The {Ddarkness{w descends around this area as if a heavy blanket, completely
+removing any natural forms of {Wlight{w from above.  You feel like you have
+stepped into a murky lake of sort, as the deep {Ds{gw{Da{gm{Dp{w {gslime{w rises up around
+your legs.  The filth seems to ooze everywhere, attempting to sneak
+inside your boots and up your legs.  Hidden {gvines{w attempt to trip you up and
+pull you under, even as you sink a little deeper into the {Ds{gw{Da{gm{Dp{w.  Strange
+{Wlights{w dance gracefully around the fallen {ylimbs{w and tangled {gvines{w, seeming
+not to notice the terrible stench rising from the {Ds{gw{Da{gm{Dp sludge{w.  
+~
+0
+A 16
+D2
+~
+~
+0 0
+0 0 432
+D3
+~
+~
+0 0
+0 0 434
+S
+#436
+A Small Clearing~
+A small path that is hidden behind thickly packed {gtrees{w leads into this
+small, beautiful {gclearing{w.  The troubles of the outside world seem to melt
+away as the {r{rwa{Rrm{rth{w{w from the nearby {rhot{w {cspring{w greets you.  Every variety of
+wild flower that could possibly exist grows peacefully and untouched by the
+{csprings{w edge.  Small butterflies dance through the {ca{Ci{cr{w oblivious to the
+dangers of the {gforest{w around them.  
+~
+0
+K 3
+D0
+~
+~
+4096 4096
+0 0 414
+S
+#437
+The West Side of the {cR{Di{wv{De{cr{w~
+A large {ytree{w has fallen across the chasm and provides a way to cross the
+slow moving {cr{Di{wv{De{cr{w besides swimming.  This {ytree{w seems to be at the end of the
+path, which seems to start up again on the other end of the tree.  The {cr{Di{wv{De{cr{w
+that slowly flows to your west, runs beneath the {ytree{w and up to the north. 
+Tiny popping sounds can be heard as small bubbles rise up to the surface of
+the foal water, giving off a terrible {gst{yen{gch{w.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 439
+D1
+~
+~
+0 0
+0 0 418
+S
+#438
+A Thorn Bush~
+Dangerously long {Wwhite{w thorns reach out from the {ythicket{w and attempt to
+pull you in.  Grabbing at anything they can, they act almost alive as they
+attempt to {rtear{w everything within there reach to shreds.  Footprints can be
+seen in the torn and shredded dirt beneath the wildly swinging {Wthorns{w.  It
+wouldn't seem possible to move through this {ythicket{w without being torn to
+pieces.  
+~
+0
+A 3
+D1
+~
+~
+4096 4096
+0 0 467
+D2
+~
+~
+4099 4099
+1 0 442
+D3
+~
+~
+4099 4099
+1 0 466
+M 10 H 10
+S
+#439
+On the Edge of a Slow Moving {cR{Di{wv{De{cr{w~
+Small bubbles rise to the surface as they slowly move down the pungent
+{cr{Di{wv{De{cr{w beside you.  They make small popping sounds as they release their
+{gstench{w upon the world.  The narrow path that you are now on, follows very
+close to the edge of this {cr{Di{wv{De{cr{w, leaving you dangerously close to a small
+drop.  The path continues to the north and south between the small drop off
+and the thick trees to your west.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 440
+D2
+~
+~
+0 0
+0 0 437
+S
+#440
+A Path Down to the {cR{Di{wv{De{cr{w~
+The main path continues to follow the {cr{Di{wv{De{cr{w to the north and to the
+south.  While a new path starts here and heads down a small embankment to
+the very edge of the {gp{yu{Dtr{yi{gd{w water.  Small animals can be heard in the
+{ybranches{w way up in the canopy formed by the trees.  The only other sound is
+the faint sounds of tiny bubbles popping down in the {cr{Di{wv{De{cr{w.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 442
+D1
+~
+~
+0 0
+0 0 441
+D2
+~
+~
+0 0
+0 0 439
+S
+#441
+Down by the {cR{Di{wv{De{cr{w~
+The short path ends abruptly at the {cr{w{Di{wv{De{cr{ws edge giving you a not so
+pleasant view of the {gp{yu{Dtr{yi{gd{w water that slowly flows downstream.  Small
+bubbles rise and slowly break the surface with a faint popping sound that
+release a sickening {gstench{w upon the {yforest{w.  Despite the revolting nature of
+the {cr{Di{wv{De{cr {wand its {Dtainted{w water, several oddly formed fish and other
+creatures call it home.  
+~
+0
+0 21
+D3
+~
+~
+0 0
+0 0 440
+S
+#442
+Following a Slow Moving {cR{Di{wv{De{cr{w~
+Small bubbles rise to the surface as they slowly move down the pungent
+{cr{Di{wv{De{cr{w beside you.  They make small popping sounds as they release their
+{gstench{w upon the world.  The narrow path that you are now on, follows very
+close to the edge of this {cr{Di{wv{De{cr{w to the south, but takes a sharp turn to the
+west as the path north is blocked by a {ythicket{w of sharp {Wthorns{w.  The path in
+this area seems to be very well worn as if it is traveled regularly by many
+people or animals.  
+~
+0
+0 3
+D0
+A wall of {Wthorn{rs{w.
+~
+thicket wall thorns~
+4099 4099
+1 0 438
+D2
+~
+~
+0 0
+0 0 440
+D3
+~
+~
+0 0
+0 0 443
+S
+#443
+A Rough Path between the Trees~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+they attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 442
+D3
+~
+~
+0 0
+0 0 444
+S
+#444
+A Rough Path Between the Trees~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+they attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 443
+D2
+~
+~
+4099 4099
+1 0 471
+D3
+~
+~
+0 0
+0 0 445
+S
+#445
+A Rough Path Between the Trees~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+they attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 444
+D3
+~
+~
+0 0
+0 0 446
+S
+#446
+Surrounded by Trees~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+they attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 445
+D2
+~
+~
+0 0
+0 0 447
+S
+#447
+A Bend in the Path~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+they attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 446
+D3
+~
+~
+0 0
+0 0 448
+S
+#448
+Surrounded by Trees~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+they attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 447
+D2
+~
+~
+0 0
+0 0 449
+S
+#449
+A Rough Path Between the Trees~
+This old and rough path continues its trek through the forest.  Large
+{yroots{w jut up from the ground and attempt to ensnare careless travelers as
+the attempt this journey.  The giant trees reach high up above the path and
+form a {Ddark{w canopy of {gleaves{w and {ybranches{w blocking nearly all available
+light.  Small creatures can be heard running in the higher limbs of the
+trees, while {Yglowing{w eyes stare at you from within the darkness of the
+forest.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 448
+D1
+~
+~
+4099 4099
+1 0 485
+D2
+~
+~
+0 0
+0 0 450
+S
+#450
+Deep in the {gFo{Gr{gest{w~
+A thick canopy of {ybranches{w and {gleaves{w stretches out over the rough path. 
+Large sections are cast into nearly complete {Ddarkness{w while small parts of
+the path can be seen only faintly.  Stones have been pushed up into this
+section of the path as the {yroots{w from the nearby trees push up from beneath
+the ground.  The old {ytrees{w themselves seem to reach down attempting to grab
+at everything that attempts to pass beneath them.  The path moves off to the
+north and to the west, while strange {Yglowing{w eyes follow you closely from
+within the {Ddarkness{w.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 449
+D3
+~
+~
+0 0
+0 0 451
+S
+#451
+Divergent Paths~
+A new path starts up here as it meets up with the main rough path that
+travels through the {gfo{Gr{gest{w.  The new path turns abruptly and heads further
+to the south and is just as rough and ominous as the main path.  The {ggreen{w
+canopy hangs heavily over this area, obscuring most of the detail of the
+surrounding forest as well as the light from above.  Small rustling sounds
+can be heard everywhere as small creatures try to remain out of sight.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 450
+D2
+~
+~
+0 0
+0 0 458
+D3
+~
+~
+0 0
+0 0 452
+S
+#452
+A Rough {yPath{w Through the {gFo{Gr{gest{w~
+A thick canopy of {ybranches{w and {gleaves{w stretches out over the rough path. 
+Large sections are cast into nearly complete {Ddarkness{w while small parts of
+the path can be seen only faintly.  The old {ytrees{w themselves seem to reach
+down attempting to grab at everything that attempts to pass beneath them. 
+Stones have been pushed up into this section of the path as the {yroots{w from
+the nearby trees push up from beneath the ground.  The path moves off to the
+east and to the west, while strange {Yglowing{w eyes follow you closely from
+within the {Ddarkness{w.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 451
+D3
+~
+~
+0 0
+0 0 453
+S
+#453
+A Rough {yPath{w Between the Trees~
+Strange {Yglowing{w eyes stare out from the deep {Ddarkness{w of the thick forest
+around the path.  Smaller animals can be heard in several places nearby and
+also high up in the {gcanopy{w.  The {gcanopy{w seems to block every last ray of sun
+light before it ever has a chance to reach the {yground{w.  The large {ylimbs{w that
+make up the roof above reach out from the ancient {ytrees{w that surround the
+path.  This section of the path seems no different than any other part as it
+bends to the north and back to the east.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 454
+D1
+~
+~
+0 0
+0 0 452
+S
+#454
+A Rough Path Beneath the Canopy~
+A thick canopy of {ybranches{w and {gleaves{w stretches out over the rough path. 
+Large sections are cast into nearly complete {Ddarkness{w while small parts of
+the path can be seen only faintly.  Stones have been pushed up into this
+section of the path as the {yroots{w from the nearby trees push up from beneath
+the ground.  The old {ytrees{w themselves seem to reach down attempting to grab
+at everything that attempts to pass beneath them.  The path moves off to the
+south and to the west, while strange {Yglowing{w eyes follow you closely from
+within the {Ddarkness{w.  
+~
+0
+A 3
+D2
+~
+~
+0 0
+0 0 453
+D3
+~
+~
+0 0
+0 0 455
+S
+#455
+An Old Rough Path~
+Stones have been pushed up into this section of the path as the {yroots{w
+from the nearby trees push up from beneath the ground.  A thick canopy of
+{ybranches{w and {gleaves{w stretches out over the rough path.  Large sections are
+cast into nearly complete {Ddarkness{w while small parts of the path can be seen
+only faintly.  The old {ytrees{w themselves seem to reach down attempting to
+grab at everything that attempts to pass beneath them.  The path moves off
+to the north and to the east, while strange {Yglowing{w eyes follow you closely
+from within the {Ddarkness{w.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 456
+D1
+~
+~
+0 0
+0 0 454
+S
+#456
+A Small Gap in the Trees.~
+Tall and {Dancient{w trees stretch up around this old, rough path.  The main
+path, if you would call it that turns sharply here as it heads to the west
+and presumably out of the {gforest{w, or to the south.  Large {yroots{w jut up from
+the ground everywhere and make walking here differcult at times.  Heading
+east from here the trees seem to grow unnaturally close, yet it looks as
+though someone could squeeze through if they really wanted to.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 489
+D2
+~
+~
+0 0
+0 0 455
+D3
+~
+~
+0 0
+0 0 457
+S
+#457
+The West End of the {gFo{Gr{gest{w~
+A narrow and fairly rough path starts here and heads deep into the {gfo{Gr{gest{w
+to the east.  The ancient trees that surround the path reach high into the
+sky and form a great canopy over the dark {Dpath{w.  Small patches of path show
+beams of {Gt{gint{Ge{gd{w light that trickles down through the leaves, granting
+limited visibility.  The path itself is very uneven and littered with large
+{yroots{w that spread out from the ancient trees.  Small creatures can be heard
+jumping and running in the debris and {yun{Dder{ybrush{w and the occasional set of
+{Yeyes{w can be seen peering out at you.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 456
+D9
+~
+~
+0 0
+0 0 50523
+S
+#458
+A Rough {yPath{w Through the {gFo{Gr{gest{w~
+This rough path runs almost exactly north and south through the very
+thick and dense {gfo{Gr{gest{w.  The dark {gcanopy{w that hangs ever present overhead
+obscures the light casting everything into a deep {Ddarkness{w, with the
+occasional flash of {Wlight{w that slips through the foliage.  The path itself
+is as rough as ever other section of path, with large {yroots{w from the nearby
+trees pushing up attempting to twist a careless ankle.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 451
+D2
+~
+~
+0 0
+0 0 459
+S
+#459
+Nearing a Large Hill~
+The {Ddarkness{w created by the thick {gcanopy{w of leaves and branches that hang
+over head, is nearly complete.  Very little can be seen beyond the boundary
+of the path as the trees close in quickly and make an impressive wall.  With
+what little light there is and with what you may have brought with you as
+large {yhill{w can be seen rising up a short distance from here.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 458
+D2
+~
+~
+0 0
+0 0 460
+S
+#460
+Around the Side of a Large Hill~
+This rough and uneven path travels straight up to the side of this rather
+large {yhill{w which springs up out of the forest.  The hill itself is made up
+of large {Dbo{wu{Wld{we{Drs{w that are stacked on top and next to each other and is
+filled in with smaller {Dr{Wo{Dcks{w and some loose {ydirt{w.  It seems slightly out of
+place, but appears to have been here for a very long time, if not forever. 
+The path continues toward the {yhill{w to the south and away from it to the
+north.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 459
+D2
+~
+~
+0 0
+0 0 461
+S
+#461
+Near a Large Cave~
+A large cave opens up to the east as the path turns sharply from its
+north-south path.  Even though the rest of the {yhill{w seems like just a random
+selection of large {Dbo{wu{Wld{we{Drs{w, the cave to the east looks very stable and well
+formed.  The {gforest{w around this area is thick and blocks every attempt to
+travel beyond the confines of the path.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 460
+D1
+~
+~
+0 0
+0 0 462
+S
+#462
+The Mouth of the Cave~
+The size of this {Dcave{w doesn't seem possible.  It feels like it is
+actually larger than the odd assortment of {Dbo{wu{Wld{we{Drs{w and {ydirt{w that make up
+the {yhill{w could possibly contain.  This is just the mouth of the {Dcave{w, the
+rest of the {gforest{w opens up to the west and seems almost darker than this
+part of the cave as a faint {Mglow{w finds its way down here from the east.
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 463
+D3
+~
+~
+0 0
+0 0 461
+S
+#463
+A Dark {DCave{w~
+The {Dcave{w opens up and seems much larger than it really is in this
+section.  The darkness to the west is misleading as that is the obvious
+direction of the old and dark {gforest{w.  The cave is dark, but a strange {Mglow{w
+radiates off of the walls a little further to the east, providing enough
+light to barely make out some of the details within the cave.  The ground is
+slightly damp, yet the wall while cold to the touch are completely dry and
+strangley smooth.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 464
+D3
+~
+~
+0 0
+0 0 462
+S
+#464
+Deep Inside a Dark {DCave{w~
+The cave opens up and seems much larger than it really is in this
+section.  The darkness to the west is misleading as that is the obvious
+direction of the old and dark {gforest{w.  The cave is dark, but a strange {Mglow{w
+radiates off of the walls here, providing enough light to barely make out
+some of the details within the cave.  The ground is slightly damp, yet the
+walls while {ccold{w to the touch are completely dry and strangely smooth.  The
+{Mglow{w seems to be coming from small stone fragments or little gems that are
+embedded into the smooth walls.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 465
+D3
+~
+~
+0 0
+0 0 463
+S
+#465
+The Back of the {DCave{w~
+The {Dcave{w ends here as it turns abruptly to the south and ends.  A strange
+home of sorts has been constructed here by some odd creature.  Small {Mglowing
+gems{w lie scattered, smashed and crushed across the ground and embedded in
+the material of this strange home.  The faint scent of decaying flesh fills
+the far reaches of this cave with a rank rotting smell, that fills your nose
+and burns your eyes.  This doesn't seem like the sort of place that most
+ordinary people would want to find themselves.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 464
+S
+#466
+A Path Beyond the Bushes~
+A well maintained path starts here and heads off to the north.  The
+branches of the {gtrees{w have all been trimmed back and the path cleared of
+most of the loose {Dr{Wo{Dcks{w and {ybranches{w.  The path seems to end here as it runs
+into a vary nasty looking {ythicket{w that seems to swing its long {Wthorns{w at you
+in a threatening way.  This section of the path seems to be a study in
+contrasts as the {Wthorn{w ridden {ythicket{w swings away to the south and east, the
+path to the north seems completely peaceful.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 469
+D1
+~
+~
+4099 4099
+1 0 438
+S
+#467
+In the {cR{Di{wv{De{cr{w~
+The slow moving {gp{yu{Dtr{yi{gd{w water flows ever so slowly downstream.  Small
+bubbles rise and slowly break the surface with a faint popping sound that
+release a sickening {gstench{w upon the {yforest{w.  Despite the revolting nature of
+the {cr{Di{wv{De{cr{w and its {Dtainted{w water, several oddly formed fish and other
+creature call it home.  The path that you were following is now completely
+out of reach as you fell of a step ledge.  It now appears that you may be
+forced to follow this {cr{Di{wv{De{cr{w either upstream or downstream, neither direction
+looks overly inviting.  
+~
+0
+0 20
+D0
+~
+~
+0 0
+0 0 470
+D2
+~
+~
+0 0
+0 0 441
+S
+#468
+{DK{re{Ds{ri{Dn{w's Waiting Room~
+This dimly lit room seems to be a large waiting room.  Small oil burning
+lamps hang on the walls with large, almost too large, gaps between them. 
+Casting large parts of the room into darkness, while under the lamps the
+guests that wait their turn can be seen in amazing clarity.  Several places
+around the room contain long comfortable benches, while other parts of the
+room contain cages and chains.  
+~
+0
+ABCV 3
+S
+#469
+The Path Turns~
+Clean {Dr{Wo{Dcks{w line the outside of this well maintained path as it makes a
+turn here and heads off to the south and to the west.  This path is
+completely flat and smooth as if it is personally cared for and worked on
+regularly.  To the north and east the {gtrees{w are trimmed back and kept off of
+the path and look healthier than most everything else in this {gforest{w.  A
+soft sound of {ybranches{w swinging against each other can be heard a short
+distance to the south, while the gentle sounds of a calm {cbr{Wee{cze{w and small
+{ycritters{w can be faintly heard elsewhere.  
+~
+0
+A 3
+D2
+~
+~
+0 0
+0 0 466
+D3
+~
+~
+0 0
+0 0 472
+S
+#470
+Up the {cR{Di{wv{De{cr{w~
+The slow moving {gp{yu{Dtr{yi{gd{w water flows ever so slowly downstream.  Small
+bubbles rise and slowly break the surface with a faint popping sound that
+release a sickening {gstench{w upon the {yforest{w.  Despite the revolting nature of
+the {cr{Di{wv{De{cr{w and its {Dtainted{w water, several oddly formed fish and other
+creature call it home.  While the current isn't strong as it moves
+downstream, the {cr{Di{wv{De{cr{w seems to pull down as if trying to swallow everything
+that attempt to stay above the surface.  
+~
+0
+0 7
+D2
+~
+~
+0 0
+0 0 467
+S
+#471
+A Hidden Trail~
+A long hidden trail seems to have been largely undisturbed before your
+arrival.  Thin sticky {Dwebs{w stretch across the path from {ytree{w to {ytree{w, making
+using this path nearly impossible.  The {gforest{w through here has gone nearly
+silent and you notice a couple small {Dan{yim{Dals{w have accidentally fallen into
+the webs and died there.  Looking closer at the {Dwebs{w, several different
+kinds of spiders seem to be everywhere.  
+~
+0
+A 3
+D0
+~
+~
+4099 4099
+1 0 444
+D1
+~
+~
+0 0
+0 0 480
+S
+#472
+Before a Small Clearing~
+The well maintained path, with its border of perfectly placed clean
+{Dst{Wo{Dnes{w comes over from the east and turns to the north here to look out into
+a small clearing.  The dense {gcanopy{w of leaves and {ybranches{w, formed by the
+surrounding {gf{yor{gest{w, that stretches out over head seems to end here.  A
+gentle {cbr{Wee{cze{w blows through the clearing to the north, giving it a very
+relaxing and calming affect.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 473
+D1
+~
+~
+0 0
+0 0 469
+S
+#473
+A Small Clearing~
+A relaxing {cbr{Wee{cze{w gently blows through the surrounding {gtrees{w and across
+this small clearing.  Up above the clearing extends up through the trees
+giving one of the few views of anything outside of the {gforest{w that you find.
+Everything about this clearing is completely calm and has an air of
+{Wtranquility{w and {Wserenity{w that can't be found in very many places.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 475
+D1
+~
+~
+0 0
+0 0 474
+D2
+~
+~
+0 0
+0 0 472
+S
+#474
+A Small Clearing~
+A relaxing {cbr{Wee{cze{w gently blows through the surrounding {gtrees{w and across
+this small clearing.  Up above the clearing extends up through the trees
+giving one of the few views of anything outside of the {gforest{w that you find.
+Everything about this clearing is completely calm and has an air of
+{Wtranquility{w and {Wserenity{w that can't be found in very many places.  A short
+distance to the north a small structure has been built.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 476
+D3
+~
+~
+0 0
+0 0 473
+S
+#475
+A Small Clearing~
+A relaxing {cbr{Wee{cze{w gently blows through the surrounding {gtrees{w and across
+this small clearing.  Up above the clearing extends up through the trees
+giving one of the few views of anything outside of the {gforest{w that you find.
+Everything about this clearing is completely calm and has an air of
+{Wtranquility{w and {Wserenity{w that can't be found in very many places.  A short
+distance to the east a small structure has been built.  
+~
+0
+0 3
+D1
+~
+~
+0 0
+0 0 476
+D2
+~
+~
+0 0
+0 0 473
+D3
+~
+~
+4097 4097
+1 0 478
+S
+#476
+In Front of a Small {ySh{wa{yck{w~
+A small {ysh{wa{yck{w has been built here and seems to have been here for some
+time.  A relaxing {cbr{Wee{cze{w gently blows through the surrounding {gtrees{w and
+across this small clearing, in front of this small {ysh{wa{yck{w.  Up above the
+clearing extends up through the trees giving one of the few views of
+anything outside of the {gforest{w that you find.  Everything about this
+clearing is completely calm and has an air of {Wtranquility{w and {Wserenity{w that
+can't be found in very many places.  
+~
+0
+0 3
+D0
+~
+~
+3 3
+1 0 477
+D2
+~
+~
+0 0
+0 0 474
+D3
+~
+~
+0 0
+0 0 475
+S
+#477
+A Rundown Old {ySh{wa{yck{w~
+This old {ysh{wa{yck{w has seen much better days.  Many of the branches have
+slowly begun to {Ddecay{w and {yrot{w away after many years of being used for
+shelter.  Large quantities of {rmud{w seems to be one of the primary building
+materials and appears to have held up well.  The {ysh{wa{yck{w is sparsely
+decorated, with only the bare necessities for a long life out in this
+{gforest{w.  By the looks of it, this small {ysh{wa{yck{w has been the home for a father
+and his daughter for many years.  
+~
+0
+D 3
+D2
+~
+~
+3 3
+1 0 476
+S
+#478
+Behind Some Branches~
+A mix of smells greets you in behind these {ybranches{w as you find yourself
+standing over a stange {Dh{yo{Dle{w.  The pleasantness and serenity of the small
+clearing on the otherside of these {ybranches{w can still be felt as the gently
+{cbr{Wee{cze{w works through the {ylimbs{w.  Though a new and entirely unpleasant {Gst{wen{Gch{w
+rises out from this nasty {Dh{yo{Dle{w.  
+~
+0
+A 3
+D1
+~
+~
+4097 4097
+1 0 475
+D5
+~
+~
+0 0
+0 0 479
+S
+#479
+A Smelly {DH{yo{Dle{w~
+The {gs{Gt{wen{Gc{gh{w is nearly overpowering inside the deep {Dh{yol{De{w.  Around the
+edges, small puddles have formed and tiny bubbles rise up from them.  The
+walls are slimy and after a closer inspection appear to be hand dug.  The
+entire hole appears to be hand dug.  
+~
+0
+A 3
+E
+drawing~
+The odd drawing that is spread out at the bottom of this nasty smelling
+{Dh{yo{Dle{w doesn't seem to make any sense at all.  Judging by the man responsible
+for drawing it, that is not surprising.  As your eyes travel over the
+seemingly random drawing you notice strange {Wsp{Ge{Wck{Ml{Wed st{Go{Wne{Ms{w around the
+border of the drawing.  
+~
+E
+stones~
+The strange {Wsp{Ge{Wck{Ml{Wed st{Go{Wne{Ms{w seem to be part of an old {Wdo{Mo{Wr{Gw{Way{w that has
+been buried here for a long time until found by this old hermit.  
+~
+D4
+~
+~
+0 0
+0 0 478
+S
+#480
+Odd Markings on the Trail~
+Large sticky {Dwebs{w are stretched across this old forgotten trail between
+the ancient {ytrees{w.  This part of the {gforest{w seems to have been left nearly
+untouched for sometime and the spiders have taken over.  It is completely
+silent as the small animals that wander the other parts of this {gforest{w have
+long since learned to avoid this area.  A few unlucky and unwise {ycri{Dtt{yers{w
+were ensnared long ago and will never move again.  
+~
+0
+A 3
+D2
+~
+~
+0 0
+0 0 481
+D3
+~
+~
+0 0
+0 0 471
+S
+#481
+On the Corner of the Trail~
+Large sticky {Dwebs{w are stretched across this old forgotten trail between
+the ancient {ytrees{w.  This part of the {gforest{w seems to have been left nearly
+untouched for sometime and the spiders have taken over.  A few unlucky and
+unwise {ycri{Dtt{yers{w were ensnared long ago and will never move again.  It is
+completely silent as the small animals that wander the other parts of this
+{gforest{w have long since learned to avoid this area.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 480
+D3
+~
+~
+0 0
+0 0 482
+S
+#482
+Sticky Ground~
+The ground seems to drop out from beneath you here, yet the {Dwebs{w that
+cover the ground and the surrounding {ytrees{w hold you up.  Large spiders and
+small spiders and spiders of every color seem to have all come to live here.
+None of the other {yan{Dima{yls{w that normally live in this {gforest{w seem to venture
+into this section anymore.  In fact, this part of the path seems to have
+been untouched by anything other than these spiders for a very long time.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 481
+D3
+~
+~
+0 0
+0 0 483
+D5
+~
+~
+0 0
+0 0 486
+S
+#483
+A Trail with Odd Markings~
+Large sticky {Dwebs{w are stretched across this old forgotten trail between
+the ancient {ytrees{w.  This part of the {gforest{w seems to have been left nearly
+untouched for sometime and the spiders have taken over.  It is completely
+silent as the small animals that wander the other parts of this {gforest{w have
+long since learned to avoid this area.  A few unlucky and unwise {ycri{Dtt{yers{w
+were ensnared long ago and will never move again.  
+~
+0
+A 3
+E
+trees~
+The ancient {ytrees{w have sticky {Dwebs{w hanging between them.
+~
+E
+tree~
+The ancient {ytrees{w have sticky {Dwebs{w hanging between them.
+~
+D1
+~
+~
+0 0
+0 0 482
+D3
+~
+~
+0 0
+0 0 484
+S
+#484
+A Long Lost Trail~
+Everything is covered in a mass of {Ddark{w sticky webs that stretch from
+{ytree{w to {ytree{w and nearly block the entire path.  Spiders of every color and
+size crawl and hang from the {Dwebs{w and are completely at home in this section
+of the forest.  None of the other animals that normally dwell between these
+{ytrees{w seems to dare enter here and none can even be heard.  
+~
+0
+A 3
+D1
+~
+~
+0 0
+0 0 483
+D2
+~
+~
+0 0
+0 0 485
+S
+#485
+A Long Lost Trail~
+Large sticky {Dwebs{w are stretched across this old forgotten trail between
+the ancient {ytrees{w.  This part of the {gforest{w seems to have been left nearly
+untouched for sometime and the spiders have taken over.  It is completely
+silent as the small animals that wander the other parts of this {gforest{w have
+long since learned to avoid this area.  A few unlucky and unwise {ycri{Dtt{yers{w
+were ensnared long ago and will never move again.  
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 484
+D3
+~
+~
+4099 4099
+1 0 449
+S
+#486
+Surrounded by Webs~
+Large sticky {Dwebs{w are stretched across this old forgotten cave between
+its damp and rigid walls.  No one has traveled down here in a very long time
+or else the spiders are very good at producing new webs.  Small rolled up
+balls of {Dweb{w contain the remains of long dead {yan{Dima{yls{w that were foolish
+enough to fall prey to the spiders.  This seems to be the bottom of a really
+old cave that heads a short distance to the south from here.  
+~
+0
+A 0
+D2
+~
+~
+0 0
+0 0 487
+D4
+~
+~
+0 0
+0 0 482
+S
+#487
+Inside the Spider's Cave~
+No one has traveled done here in a very long times or else the spiders
+are very good at producing new webs.  Large sticky {Dwebs{w are stretched across
+this old forgotten cave between its damp and rigid walls.  Small rolled up
+balls of {Dweb{w contain the remains of long dead {yan{Dima{yls{w that were foolish
+enough to fall prey to the spiders.  The {Dcave{w seems to end here at a giant
+wall of thick {Dwebbing{w, but the {Wexit{w seems to be further to the north.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 486
+D2
+A wall of sticky webs.
+~
+wall webs~
+4099 4099
+1 0 488
+S
+#488
+Stuck in the Webs~
+You have been surrounded and stuck in a giant {Dsp{ri{Dder{w web that holds you
+tightly in its grasp and wont let go.  The more you struggle the more
+entangled you seem to get as the webbing gets wrapped around your face and
+limbs.  Glowing {reyes{w stare down at you from several directions waiting for
+you to grow tired before they make their move.  Large sacks of what appear
+to be spiders eggs hang from the ceiling of this old {Dcave{w.  
+~
+0
+A 0
+D0
+A wall of sticky webs.
+~
+wall webs~
+4099 4099
+1 0 487
+S
+#489
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  
+~
+0
+AC 3
+D1
+~
+~
+0 0
+0 0 490
+D3
+~
+~
+0 0
+0 0 456
+S
+#490
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  A small ditch
+opens up beneath you, but looks filled with fallen debris.  
+~
+0
+ACL 3
+D3
+~
+~
+0 0
+0 0 491
+D5
+~
+~
+0 0
+0 0 495
+S
+#491
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  
+~
+0
+ACL 3
+D1
+~
+~
+0 0
+0 0 492
+D3
+~
+~
+0 0
+0 0 456
+S
+#492
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  A small ditch
+opens up beneath you, but looks filled with fallen debris.  
+~
+0
+ACL 3
+D3
+~
+~
+0 0
+0 0 493
+D5
+~
+~
+0 0
+0 0 495
+S
+#493
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  
+~
+0
+ACL 3
+D1
+~
+~
+0 0
+0 0 494
+D3
+~
+~
+0 0
+0 0 456
+S
+#494
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  A small ditch
+opens up beneath you, but looks filled with fallen debris.  
+~
+0
+ACL 3
+D3
+~
+~
+0 0
+0 0 489
+D5
+~
+~
+0 0
+0 0 496
+S
+#495
+A Small Ditch~
+The {gst{Da{ggn{Da{gnt{w {gs{Gl{gi{Gm{gy{w water that fills the bottom of this small {Dditch{w clings
+to everything that finds its way down into it.  Debris of all sizes have
+taken on a disturbing appearance as some float on the surface, while others
+{rst{Da{rb{w out from the thick {gs{Gl{gi{Gm{gy{w.  Uncountable corpses of the various {ycr{Dea{ytures{w
+that once called this {gfo{yre{gst{w home, are slowly decomposing here filling the
+air with an even fouler stench.  The {Dditch{w appears to stretch out for a
+short distance, but it all looks the same.  
+~
+0
+ABC 3
+D4
+~
+~
+0 0
+0 0 490
+S
+#496
+A Small Ditch~
+The {gst{Da{ggn{Da{gnt{w {gs{Gl{gi{Gm{gy{w water that fills the bottom of this small {Dditch{w clings
+to everything that finds its way down into it.  Debris of all sizes have
+taken on a disturbing appearance as some float on the surface, while others
+{rst{Da{rb{w out from the thick {gs{Gl{gi{Gm{gy{w.  Uncountable corpses of the various {ycr{Dea{ytures{w
+that once called this {gfo{yre{gst{w home, are slowly decomposing here filling the
+air with an even fouler stench.  The {Dditch{w appears to stretch out for a
+short distance, but it all looks the same.  
+~
+0
+AB 3
+D1
+~
+~
+4096 4096
+0 0 497
+D4
+~
+~
+0 0
+0 0 494
+S
+#497
+A Small Ditch~
+The {gst{Da{ggn{Da{gnt{w {gs{Gl{gi{Gm{gy{w water that fills the bottom of this small {Dditch{w clings
+to everything that finds its way down into it.  Debris of all sizes have
+taken on a disturbing appearance as some float on the surface, while others
+{rst{Da{rb{w out from the thick {gs{Gl{gi{Gm{gy{w.  Uncountable corpses of the various {ycr{Dea{ytures{w
+that once called this {gfo{yre{gst{w home, are slowly decomposing here filling the
+air with an even fouler stench.  The {Dditch{w appears to stretch out for a
+short distance, but it all looks the same.  
+~
+0
+AB 3
+D3
+~
+~
+4096 4096
+0 0 496
+D4
+~
+~
+0 0
+0 0 498
+S
+#498
+Squeezing Between the Trees~
+The {ytrees{w are packed close together through here and make passage nearly
+impossible.  What little light breaks through the gnarled {ybranches{w above,
+never reaches the ground.  Which leaves this area in complete darkness and
+rather dangerous to squeeze through.  Rough {yb{Da{yrk{w and limbs grab and tear at
+anything and everything that attempts to make it through.  A small ditch
+opens up beneath you, but looks filled with fallen debris.  A small clearing
+opens up further to the east.  
+~
+0
+B 3
+D1
+~
+~
+0 0
+0 0 499
+D5
+~
+~
+0 0
+0 0 497
+S
+#499
+A Secluded Hut~
+The {ytrees{w sway slightly as a {cg{Cu{cs{Ct{w high up above, pulls them from side to
+side.  A large {yoak tree{w with a small, roughly-built hut sits here among the
+massive {ytrees{w that fill the rest of the {gforest{w.  Just outside the hut stands
+a little old woman, who seems very intent on the large {Dblack{w pot that
+simmers slowly over an open fire{w.  A strange smell fills the air around here
+and starts to bring tears to your eyes at the same time as you start to gag.
+~
+0
+BK 3
+D3
+~
+~
+0 0
+0 0 498
+S
+#0
+
+
+
+#SPECIALS
+M 400 spec_channeler_hard
+M 404 spec_poison
+M 407 spec_nasty
+M 420 spec_duelling
+M 423 spec_blademaster
+M 431 spec_poison
+M 436 spec_nasty
+S
+
+
+
+#RESETS
+D 0 438 2 1
+D 0 438 3 1
+D 0 442 0 1
+D 0 444 2 1
+D 0 449 1 1
+D 0 466 1 1
+D 0 471 0 1
+D 0 476 0 1
+D 0 477 2 1
+D 0 485 3 1
+D 0 487 2 1
+D 0 488 0 1
+M 0 442 4 400 2
+E 0 471 0 20
+M 0 442 4 400 2
+E 0 471 0 20
+M 0 431 20 400 2
+M 0 431 20 400 2
+M 0 432 10 401 1
+M 0 413 20 401 1
+O 0 439 0 402
+M 0 431 20 402 2
+M 0 432 10 403 1
+M 0 413 20 403 1
+M 0 434 10 404 1
+M 0 431 20 404 2
+M 0 431 20 404 2
+M 0 432 10 405 1
+M 0 432 10 406 1
+M 0 413 20 406 1
+M 0 435 3 407 1
+O 0 419 0 407
+P 0 423 1 419 1
+O 0 438 0 407
+O 0 449 0 408
+P 0 450 1 449 1
+M 0 411 1 408 1
+E 0 403 0 7
+M 0 412 1 409 1
+M 0 413 6 409 1
+O 0 404 0 410
+P 0 405 2 404 2
+M 0 425 1 410 1
+M 0 434 10 412 1
+M 0 413 20 412 1
+O 0 439 0 413
+M 0 432 10 413 1
+M 0 417 10 413 1
+M 0 431 20 414 2
+M 0 431 20 414 2
+M 0 418 15 415 2
+M 0 413 20 415 1
+M 0 418 15 416 2
+M 0 431 20 417 2
+M 0 431 20 417 2
+M 0 418 15 418 2
+O 0 467 0 418
+P 0 466 2 467 2
+M 0 421 15 419 2
+M 0 421 15 419 2
+M 0 417 10 420 1
+M 0 401 21 421 3
+M 0 415 5 422 1
+M 0 401 21 422 3
+M 0 417 10 423 1
+M 0 401 21 423 3
+M 0 416 5 424 1
+M 0 415 5 424 1
+M 0 401 21 424 3
+M 0 415 5 425 1
+M 0 414 10 425 2
+M 0 401 21 425 3
+M 0 414 10 426 2
+M 0 401 21 426 3
+M 0 422 7 426 2
+M 0 414 10 427 2
+M 0 401 21 427 3
+O 0 472 0 427
+M 0 416 5 428 1
+M 0 414 10 428 2
+M 0 401 21 428 3
+M 0 401 21 429 3
+M 0 402 5 429 2
+M 0 439 4 429 2
+M 0 438 1 430 1
+O 0 443 0 430
+P 0 446 1 443 1
+P 0 445 1 443 1
+M 0 415 5 431 1
+M 0 417 10 431 1
+M 0 402 5 431 2
+M 0 416 5 432 1
+M 0 414 10 432 2
+M 0 401 21 432 3
+M 0 415 5 433 1
+M 0 401 21 433 3
+E 0 414 0 1
+M 0 402 5 433 2
+M 0 439 4 433 2
+M 0 414 10 434 2
+M 0 401 21 434 3
+E 0 414 0 1
+O 0 465 0 435
+M 0 414 10 435 2
+M 0 401 21 435 3
+M 0 402 5 435 2
+O 0 453 0 436
+M 0 417 10 437 1
+M 0 413 20 437 1
+M 0 430 1 438 1
+M 0 434 10 439 1
+M 0 417 10 440 1
+M 0 421 15 440 2
+O 0 428 0 441
+M 0 418 15 441 2
+M 0 429 2 441 1
+M 0 432 10 442 1
+M 0 434 10 442 2
+O 0 439 0 443
+M 0 434 10 443 1
+M 0 418 15 443 2
+M 0 431 20 443 2
+M 0 413 20 443 1
+M 0 421 15 444 2
+M 0 421 15 444 2
+M 0 432 10 445 1
+M 0 421 15 445 2
+M 0 421 15 445 2
+M 0 434 10 446 1
+M 0 413 20 446 1
+O 0 441 0 447
+P 0 448 1 441 1
+M 0 432 10 447 1
+M 0 431 20 447 2
+M 0 418 15 448 2
+M 0 421 15 448 2
+M 0 441 5 448 1
+O 0 439 0 449
+M 0 421 15 449 2
+M 0 421 15 449 2
+M 0 413 20 449 1
+M 0 432 10 450 1
+M 0 421 15 450 2
+M 0 434 10 451 1
+M 0 431 20 451 2
+M 0 418 15 452 2
+M 0 431 20 452 2
+M 0 441 5 452 1
+O 0 439 0 453
+M 0 417 10 453 1
+M 0 413 20 453 1
+M 0 434 10 454 1
+M 0 418 15 454 2
+M 0 431 20 455 2
+M 0 431 20 455 2
+M 0 413 20 455 1
+O 0 439 0 456
+M 0 418 15 456 2
+M 0 417 10 456 1
+M 0 441 5 456 1
+M 0 442 4 457 2
+E 0 471 0 20
+M 0 442 4 457 2
+E 0 471 0 20
+M 0 431 20 457 2
+M 0 431 20 457 2
+M 0 413 20 457 1
+O 0 439 0 458
+M 0 413 20 458 1
+M 0 441 5 458 1
+M 0 432 10 459 1
+O 0 440 0 460
+P 0 418 1 440 1
+M 0 433 6 460 1
+M 0 431 20 461 2
+M 0 433 6 461 2
+M 0 409 8 462 2
+M 0 409 8 462 3
+M 0 433 6 462 1
+M 0 409 8 463 3
+M 0 409 8 463 3
+O 0 417 0 464
+M 0 410 3 464 1
+M 0 409 8 464 1
+M 0 426 1 465 1
+E 0 436 0 15
+M 0 419 5 466 1
+O 0 428 0 467
+M 0 427 4 467 1
+M 0 428 3 467 2
+M 0 429 2 467 1
+M 0 424 1 468 1
+E 0 435 0 12
+M 0 419 5 469 1
+O 0 428 0 470
+O 0 431 0 470
+P 0 454 1 431 1
+M 0 427 4 470 3
+M 0 428 3 470 1
+M 0 419 5 472 1
+M 0 436 3 473 2
+O 0 426 0 474
+P 0 427 1 426 1
+M 0 419 5 475 1
+M 0 420 1 476 1
+E 0 406 0 20
+E 0 406 0 21
+E 0 461 0 16
+O 0 401 0 476
+P 0 420 1 401 1
+O 0 400 0 476
+P 0 464 1 400 1
+O 0 429 0 477
+O 0 430 0 477
+O 0 451 0 477
+P 0 462 1 451 1
+O 0 463 0 477
+P 0 407 1 463 1
+O 0 408 0 477
+P 0 403 10 408 10
+M 0 400 1 479 1
+E 0 402 0 20
+E 0 442 0 25
+G 0 452 0
+M 0 403 8 480 1
+M 0 404 10 480 2
+O 0 416 0 480
+P 0 458 1 416 1
+M 0 403 8 481 1
+M 0 404 10 481 2
+M 0 407 1 481 1
+M 0 404 10 482 2
+M 0 403 8 483 1
+M 0 404 10 483 2
+O 0 416 0 483
+P 0 459 2 416 2
+M 0 403 8 484 1
+O 0 416 0 484
+P 0 457 1 416 1
+M 0 403 8 485 1
+M 0 404 10 486 2
+M 0 405 6 486 2
+M 0 405 6 487 2
+M 0 406 1 488 1
+O 0 424 0 488
+O 0 425 0 488
+P 0 455 1 425 1
+P 0 444 1 425 1
+O 0 431 0 495
+P 0 432 1 431 1
+P 0 456 1 431 1
+O 0 433 0 496
+P 0 447 1 433 1
+M 0 437 2 497 2
+O 0 437 0 499
+M 0 408 1 499 1
+G 0 470 0
+G 0 469 0
+G 0 409 0
+G 0 410 0
+G 0 411 0
+G 0 412 0
+G 0 468 0
+G 0 413 0
+O 0 401 0 499
+P 0 420 1 401 1
+O 0 400 0 499
+G 0 434 0
+P 0 464 1 400 1
+P 0 411 1 400 1
+S
+
+
+
+#SHOPS
+408 26 10 37 0 0 150 50 0 24
+0
+
+
+
+#$

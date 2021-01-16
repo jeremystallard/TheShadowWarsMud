@@ -1,0 +1,1912 @@
+#AREADATA
+Name Malden Again~
+Builders Keely Kitiara~
+VNUMs 4700 4899
+Credits None~
+Security 5
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4700
+Malden Entrance~
+The main road leads out through the gates of the city to the west, or on
+towards the fortress to the east.  It intersects here with the north-south
+running east wall road which follows the city wall from one end of the city
+to the other.  The road is kept in good repair as are the city walls. 
+Soldiers patrol the wall overhead throughout day and night.  Their numbers
+may not be large, but they are vigilant.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 4721
+D1
+~
+~
+0 0
+0 0 4716
+D2
+~
+~
+0 0
+0 0 4722
+D3
+~
+~
+3 3
+1 0 4757
+S
+#4701
+South Wall~
+The tall southern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and west, following the southern wall.  Small shops open their
+doors onto the street from the north.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 4702
+D3
+~
+~
+0 0
+0 0 4720
+S
+#4702
+South Wall~
+The southern wall of the city towers high overhead.  Guards occasionally
+patrol along the top of the walls, keeping an eye out for trouble.  The
+paving stones are well worn, but solidly set here, providing smooth passage
+for those travelling along the stretch of road.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 4742
+D1
+~
+~
+0 0
+0 0 4703
+D3
+~
+~
+0 0
+0 0 4701
+S
+#4703
+South Wall~
+The southern road follows the southern wall stretching about 400 meters
+from it's far western point to its far eastern point.  Several shops and
+houses open their doors from the northern side of the road, while the
+southern side of the road follows the wall without anything blocking it.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 4815
+D1
+~
+~
+0 0
+0 0 4718
+D3
+~
+~
+0 0
+0 0 4702
+S
+#4704
+Southeast Tower~
+The southern wall meets the eastern wall at this intersection.  The
+stones come together to form a nearly seemless corner, built together to
+form a strong protection for the city.  Two hundred meters to the north lies
+the cities cistern, a large pool of water 50 meters long by almost 100
+meters wide and several meters deep.  An aqueduct from the lake five miles
+to the east keeps the cistern full and provides running water to the cities
+population.  
+
+The guard tower rises up above the wall, providing protection for the guards
+who patrol the walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 4705
+D3
+~
+~
+0 0
+0 0 4717
+D4
+~
+~
+3 3
+1 0 4733
+S
+#4705
+East Wall~
+A small side road meets up with the eastern wall road at this point,
+providing access deeper into the city itself.  The roads are all paved with
+flat stones, fitted together to make a solid surface for travel upon.  The
+eastern wall rises high overhead shading the street in the early morning
+hours.  The city cistern is down the street to the north.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 4704
+S
+#4706
+East Wall~
+The road follows the eastern wall north and south.  To th enorth it
+approaches the cities cistern which is kept full by the aqueduct bringing
+water from the lake five miles to the east.  The city itself rises off to
+the west, a tangle of houses and shops mixed together in a 400 meter by 400
+meter city.  
+~
+0
+C 1
+S
+#4707
+East Wall~
+The road follows the foretresses western wall The road follows the
+fortresses wall to the north and south.  A small residential area is located
+to the west, spreading out for several blocks.  The fortress walls rise
+almost as high as the city walls themselves and are patrolled almost as
+much.  
+~
+0
+C 1
+S
+#4708
+Northeast Tower~
+The Northwall continues on to the east, but the Fortress wall prevents
+much more travel in that direction.  A guard tower rises overhead, spaced
+evenly with others along the wall in order to provide shelter for the guards
+who patrol the wall.  A narrow alley goes along the northern patr of the
+fortress wall, not very deep, but wide enough for deliveries to be made.  
+~
+0
+C 1
+S
+#4709
+North Wall~
+The commercial district gives way to a residential district with houses
+rising up on the southern side of the street.  The road itself follows the
+northern road, but is kept clear of obstacles to allow easy transit to
+Malden's residents and guards.  The wall rises high in the air overhead, and
+the houses rise two stories up, made of stone with a slate roof.  
+~
+0
+C 1
+S
+#4710
+North Wall~
+The road stretches from the western wall to the fortress wall in the
+east.  It is kept swept clean and well maintained by the locals.  Each
+paving stone is perfectly smooth and fit together with the others to provide
+a flat surface to travel on.  The northern city wall rises overhead and the
+occasional guard can be heard as he walks along the top of it keeping an eye
+on things.  
+~
+0
+C 1
+S
+#4711
+{bM{Ba{Yld{Be{bn{B'{bs {yL{Yeo{ypar{Yd{ys{x Fountain~
+A {Wbe{wa{Dut{wi{Wful {Wfounta{wi{Wn{x was built in the middle of this intersection with
+{yl{Ye{yopa{Yr{yds{x and their {yc{Yu{ybs{x sculpted on the {Wwh{wi{Wte{x stone.  {cW{Cate{cr{x spills from the
+cubs' mouths as they cuddle against their parents.  The intersection is
+large with east leading towards the thick {Ws{wt{Do{wn{We{x walls and gates of the
+Fortress of {bM{Ba{Yld{Be{bn{x.  The road continues the other directions leading to
+different parts of town.  
+~
+0
+C 1
+S
+#4712
+By the Cistern~
+As the road continues, there it becomes more crowded with the Fortress of
+{bM{Ba{Yld{Be{bn{x approaching to north and the beautiful fountain of Malden close the
+same direction.  To east, a large artificial {Dres{we{Dr{wv{Doir{x stands tall, offering
+the city security for days before a siege would be effective.  A large
+amount of birds fly around the cistern, enjoying the {cc{Coo{cl {cw{Cat{cer{x.  
+~
+0
+C 1
+S
+#4713
+Main Road~
+The fortress to the east is significantly closer than the city gates to
+the west from this location on the main road through town.  A fountain can
+be seen in front of the fortress.  Stone buildings with slate roofs rise up
+along the main road, doorways opening out into the city.  Most of the
+buildings off of the main road appear to be shops of one sort or another.  
+~
+0
+C 1
+S
+#4714
+Main Road~
+The main road travels east and west.  It is about three hundred meters
+long and stretches between the city gates to the west and the fortress to
+the east.  The paving stones are worn completely smooth here in front of the
+Stell Gazelle Pub.  Noises come from the pub all hours of day and night as
+people gather together for a drink or just to socialize.  
+~
+0
+C 1
+S
+#4715
+Main Road~
+The main street through Malden runs east and west.  The gates to the city
+are off in the distance to the west, while the gates to the fortress are off
+to the east.  The road appears to be about three hundred meters long from
+the city gates to the fortress gates.  The stone buildings with slate roofs
+rise up two and three stories high to each side of the main road.  
+~
+0
+C 1
+S
+#4716
+Main Road~
+The main street through Malden runs east and west.  The gates to the city
+are off in the distance to the west, while the gates to the fortress are off
+in the distance to the east.  Shops line this street offering local items
+for sale.  The paving stones are well placed and mortared in order to
+provide a smooth road for the travelers.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 4700
+S
+#4717
+South Wall~
+A small, simple neightborhood has grown up in this part of the town.  The
+road seperates the cities southern wall from the small homes of the
+neighborhood.  Like those in the wealthier parts of the city, the houses are
+made of stone with slate roofs, but there is an occasional cracked window or
+shutter hanging askew.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 4704
+S
+#4718
+South Wall~
+The tall southern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and the west, following the southern wall.  There are a few paving
+stones that have been worked loose here.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 4703
+S
+#4719
+West Wall~
+The western city wall rises high overhead, casting a shadow on the
+street.  The Twin Leapord's Inn's doors stand open, inviting guests to enter
+and enjoy the festivities in the common room.  The street is swept clean,
+free of garbage and litter.  The occasional cat prowls down the side of the
+street looking for rats.  
+ 
+~
+0
+C 1
+S
+#4720
+Southwest Tower~
+The west wall meets the south wall at this point and a guard tower stands
+high overhead offering protection to the guards who patrol the top of the
+walls.  The road follows the western wall to the north for about 400 meters
+before it ends at the northern wall, and it follows the southern wall
+stretching about 400 meters to the east until it reaches the eastern wall. 
+The street is kept clean and the buildings and walls are in excellent
+repair.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 4701
+S
+#4721
+West Wall~
+The great stone wall of the city borders the western side of the street,
+towering overhead.  Each stone of the wall is placed perfectly in line with
+the others, forming a nearly smooth surface clear to the top where the
+guards patrol.  Some small shops are built close to the wall, but in most
+places the road runs right up to the street.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 4700
+S
+#4722
+West Wall~
+The great stone wall of the city borders the western side of the street,
+towering overhead.  Each stone of the wall is placed perfectly in line with
+the others, forming a nearly smooth surface clear to the top where the
+guards patrol.  Some small shops are built close to the wall, but in most
+guards patrol.  The street runs right next to the wall, following it to the
+north and south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 4700
+S
+#4723
+West Wall~
+The stable doors to the Twin Leopards Inn are made of a solid wood and
+hung perfectly.  They fit into the stone walls of the stable perfectly, and
+are kept greased to avoid squeaking.  The western wall rises overhead, and
+the occasional guard on the walls above can be heard tending to his patrol. 
+The occasional guest wanders into the Inn, or leaves to tend to business
+elsewhere.  
+~
+0
+C 1
+S
+#4724
+Northwest Tower~
+The Northwest guard tower rises up above the all, giving the guards a
+place to shelter on the wall and keep an eye on the surrounding country (and
+the city for that matter).  The city walls are well maintained without any
+missing stones on the inside or the outside.  The road is paved with smooth
+stones, making travel relatively comfortable.  The road bends, follwing the
+western wall to the south, and following the northern wall to the east.  
+~
+0
+C 1
+S
+#4725
+North Wall~
+The northern wall rises high overhead, bordering the northern side of the
+street.  A converted home has been turned into a frilly taylor's shop to the
+south, the pair of men who run it making quite the name for themselves in
+fashion design.  The road is kept in excellent condition, each paving stone
+laid perfectly with the others to create a smooth surface for travel.  
+~
+0
+C 1
+S
+#4726
+North Wall~
+The tall northern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and west, following the northern wall.  Large merchant's homes with
+their two story stone walls and slate covered roofs open their doors onto
+the street from the south.  
+~
+0
+C 1
+S
+#4727
+North Wall~
+The tall northern wall rises high overhead, casting a shadow on most of
+the street during the day.  The walls are well maintained to provide a
+defense against the petty wars and disputes that happen now and then in
+Altara.  The street is paved with smooth paving stones and stretches out to
+the east and west, following the northern wall.  Small shops open their
+doors onto the street from the south.  
+~
+0
+C 1
+S
+#4728
+In the Cistern~
+The cities cistern is two meters deep or more by 100 meters long and 50
+meters wide.  Cool, clear water fills the cistern, providing an adequate
+water supply to city in times of drought or war.  Pipes lead from the
+aqueduct and cistern into the fortress and into the city, providing running
+water to those houses equipped for it.  
+~
+0
+C 24
+S
+#4729
+Fortress of {bM{Ba{Yld{Be{bn{B's {DG{wa{Dtes{x~
+Large {Dd{wo{Duble {Di{wr{Don {Dg{wa{Dtes{x stand before the thick {Ws{wt{Do{wn{We{x walls that continue
+as far as the eye can see.  By the north and south wall of the gate, there
+are two {bf{Blag{bs{x of {bM{Ba{Yld{Be{bn{x hung against it.  The gates remain closed with
+guards before it standing in attention and inquiring strangers about their
+business.  There are large {Wt{wo{Dwe{wr{Ws{x along each side of the stone walls where
+guards are also seen, watching over the city.  
+~
+0
+C 1
+S
+#4730
+Fortress' Service Entrance~
+The Fortress wall meets up with the city wall at this point.  A sturdy
+oaken door is here admitting the servants and deliveries for the fortress
+itself.  It has a pair of guards tending to it and it appears to be quite
+able to be barred from the inside.  The occasional guard can be heard
+overhead traversing the wall and keeping an eye on things.  
+~
+0
+AC 1
+S
+#4731
+Kitchen~
+{WB{wu{Ds{Wy{x is not a word that does justice to describe the kitchen.  It buzzes
+with people and noise.  The {Yt{yile{Yd{x {yf{Yl{yoor{x has small {cp{Co{cols{x from {cw{Ca{cter{x that has
+dripped or formed around the {Dm{we{Dtal {ci{Cc{ce {Db{wo{Dx{x.  The sink is made with a {Wwh{wi{Wte
+{Wm{wa{Drb{wl{We{x and has some plates and glasses in it waiting to be washed.  The
+{Wt{wi{Wled{x walls have {yg{Wr{ye{Wa{yse{x marks and {cold water {cs{Dta{cins{x.  The assistant cooks run
+from one side to the other, between the south door to the pantry where the
+food is stored and the large brick {rs{Rt{Yo{Rv{re{x.  The maids try to keep everything
+clean while the men make a mess.  
+~
+0
+CD 0
+S
+#4732
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x begins in a square shape around the {Dthick
+{Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and trimmed,
+with a {Wf{wl{Wower{x bed surrounding each of the two tall {gt{Gr{gees{x that are present in
+this part of the courtyard, A simple {Wwh{wi{Wte {Ws{wt{Wone {Wp{wa{Wth{x leads west towards the
+Fortress' gates, with {Bb{bl{Bu{be {bf{Blowe{brs{x planted on each side and continues east
+towards the Manor entrance.  
+~
+0
+C 2
+S
+#4733
+Southeast Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+0 0
+D5
+~
+~
+3 3
+1 0 4704
+S
+#4734
+Northeast Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+C 0
+S
+#4735
+Northwest Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+C 0
+S
+#4736
+Southwest Guard Tower~
+This tower stands stall with all four walls with large opening on the thick
+{Ws{wt{Do{wn{We{x to allow the guards a through view of all directions.  There is just a
+small {ytr{Ya{yp {ydoor{x on the {yw{Yo{yoden{x floor that latches open for the guards to go
+up and down.  In the center of the tower, a large {ycopper {Yg{yo{Yng{x sits with a
+{ywooden {Wh{ya{Wm{ymer{x by it working as an alarm in case the city or the other guards
+must be alerted about something that is happening.  
+~
+0
+C 0
+S
+#4737
+Farm Yard~
+A {gg{Gr{gassy {gf{Gi{geld{x extends far into the view to all directions with a simple
+{yw{Yo{yoden{x fence surrounding the property.  A gravel path leads the way for
+{yw{Ya{yg{Yo{yn{Ys{x and {yhorses{x towards the simple house north.  There is a wide vineyard
+filled with ripe {rr{Re{rd{x and {gg{Gr{geen{x grapes to south, that is an area fenced by
+{Dw{wi{Dre{x and apart from the main farm land.  
+~
+0
+C 2
+S
+#4738
+Farmer's house~
+This house is simple but very spacious.  It has a small mesanine where a
+large bedroom is and the stairs are in a {Wsp{wi{Wral{x leading towards the living
+room and kitchen.  Between the kitchen and the living room there is a
+half-sized wall with a wide {Wc{wo{Dun{wt{Wer{x on top where stools are pushed up to it
+and serves the family as a nice dinning table.  There is a large {rfi{Rre{Ypl{Ra{rce{x
+to keep the house warm close to the two {yl{We{yather {ya{Wr{ym{W-{ycha{Wi{yrs{x in the living
+room.  
+~
+0
+CD 0
+S
+#4739
+A Narrow Alley~
+This alley is kept swept clean and appears to see a decent amount of
+travel.  It is just wide enough for a wagon to travel in one direction. 
+Further into the alley is the servant's entrance to the fortress, and to the
+west, the alley meets the street.  The northern wall rises high overhead,
+and the fortress wall rises to an equivelant height.  
+~
+0
+AC 1
+S
+#4740
+Farm Yard~
+A {gg{Gr{gassy {gf{Gi{geld{x extends far into the view to all directions with a simple
+{yw{Yo{yoden{x fence surrounding the property.  A gravel path leads the way for
+{yw{Ya{yg{Yo{yn{Ys{x and {yhorses{x towards the simple house north or the animal pens to east
+and south.  The faint sound of {yhorses{x and {Ws{wh{Weep{x can be heard in the
+southeast area when the kids aren't giggling and screaming.  A few {gt{Gr{gees{x are
+spread in the area with a abandoned wagon northwards close to the barn.  
+~
+0
+C 2
+S
+#4741
+Farmer's house~
+This house is simple but very spacious.  It has a small mesanine where a
+large bedroom is and the stairs are in a {Wsp{wi{Wral{x leading towards the living
+room and kitchen.  Between the kitchen and the living room there is a
+half-sized wall with a wide {Wc{wo{Dun{wt{Wer{x on top where stools are pushed up to it
+and serves the family as a nice dinning table.  There is a large {rfi{Rre{Ypl{Ra{rce{x
+to keep the house warm close to the two {yl{We{yather {ya{Wr{ym{W-{ycha{Wi{yrs{x in the living
+room.  
+~
+0
+CD 0
+S
+#4742
+Balthier's Junk Shop~
+Small, yet roomy, this shop brings a wide variety of {Wjunk{x.  Of all {cs{Chape{cs{x
+and {gf{Go{grms{x, it sits on the display shelves with signs saying where they were
+{yi{Wm{yport{Ye{yd{x from.  The quality of the wares is very doubtful and some of it
+seems to be already mended with some sort of {Wglue{x.  The {yp{Ye{wd{Wd{wl{Ye{yr{x approaches
+all the customers that walk through his door, offering his charming smile
+and sales speech.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 4702
+S
+#4743
+Side Road~
+This narrow road looks more crowded than the rest, due to the limited
+amount of space and the same number of people circulating.  The walls of the
+buildings are standing against each other, looking crammed and tight.  The
+road continues west where it his a dead-end and east where it meets a bigger
+road.  There is a door north that leads to a small crafts shop and south to
+the women's accessories shop.  
+~
+0
+C 1
+S
+#4744
+Small Crafts Shop~
+This shop is rather simple, with {Dc{wo{Dncr{we{Dte{x walls and {Df{wl{Woo{wr{Ding{x that have
+{Wwh{wi{Wte{x paint stains on it.  The ceiling looks half-painted in {Wwh{wi{Wte{x, seeming
+like there was not enough paint to actually continue the job.  There are
+simple {ywooden{x tables with his displays resting against the walls.  All of
+his {ycrafts{x are also made of wood and most of it are sculpted statues of
+animals and faces.  
+~
+0
+CD 0
+S
+#4745
+Women's Accessories Shop~
+A {mf{Ml{wo{Ww{we{Mr{my{x wallpaper was applied to the walls and {Wd{wi{Wamond{w-{Wpa{wt{Wtern{x tiles
+covers the wide shop.  There are small hexagonal {Wglass{x displays evenly
+spread along the room holding delicate pieces of {yj{Ye{ww{We{wl{Yr{yy{x varying from
+{yh{Yairpi{yns{x to other herlooms.  A separate session of the shop is reserved for
+a large cloth hanger with stockings, pettycoats and night gowns.  In a
+corner, at first hidden from those coming from the entrance is a more
+{ri{Rn{rti{Rm{rat{Re{x session with daring night clothes and shifts.  
+~
+0
+CD 0
+S
+#4746
+Side Road~
+This road is narrow, with tall buildings surrounding it on every
+direction but where it continues.  To west there is a large orange-painted
+sign that says Mrs.  Maniara's Restaurant with a white-painted door below
+it.  The road ends by the restaurant and the only alternatives are the way
+you came from or the small park that begins as the road goes north.  
+~
+0
+C 1
+S
+#4747
+{WSmall {gP{Ga{grk{x~
+This small park is kept green in the middle of the stone city.  A small
+fountain flows in the center of the park and a few trees line the edge of
+the park.  A {Wgazebo{x stands in the middle of the park with benches to sit on
+and rest.  The grass is kept neatly cut and children occasionally run
+through playing their different games.  
+~
+0
+C 1
+S
+#4748
+{rM{Rr{rs. {rM{Ra{Yni{ya{Rr{ra{R'{rs{x {WRestaurant{x~
+The walls of this restaurant are painted with {rv{Ri{Ybr{Ra{ynt {ro{Rr{Ya{yn{Rg{re{x and the
+floor is covered in oak wood, adding a very exotic contrast between them. 
+The chairs and tables are painted in {Wwh{wi{Wte{x, with {yo{Yr{Ra{Yn{Rg{ye{x and {gg{Gre{gen{x beads
+wrapped around the back of the chairs in decoration.  There is a small {Dr{wo{Wu{wn{Dd
+{yl{Yam{yp{x on each table, offering a {rr{Rom{ra{Rn{rtic{x atmosphere for those wishing to
+spend the time with their loved ones.  
+~
+0
+CD 0
+S
+#4749
+A Simple House~
+This small house is very simple, with a single room that offers barely
+enough space to fit two single beds, a brick {rs{Rt{Yo{Rv{re{x and a small table.  The
+two chairs on the {ytable{x look worn and the {Dco{wn{Dcrete{x floor needs a bit of
+cleaning as dirt stains are noticeable all over it.  By the two beds there
+is a small {rt{ya{rtter{ye{rd {rr{Re{rd{r r{Ru{rg{x to avoid the termic shock from the warm bed to
+the {Wcold {wf{Wl{wo{Wo{wr{x.  
+~
+0
+CD 0
+S
+#4750
+Living Room~
+The walls are paneled with {yo{Ya{yk {Ww{woo{Wd{x up about two feet tall before the
+walls become smooth painted in light {Dg{wre{Dy{x.  There are small {Ds{Wi{Dl{Wv{De{Wr{x lamps
+bolted to the walls and a wide {cs{Cilk{cy {ct{Ca{wp{Wes{Ctr{cy{x hung from the ceiling against
+the wall with a {Dblack sofa{x below it.  A small center table stands a feet
+from the sofa, with {Dl{We{Dad {Dfi{wg{Durines{x of animals sitting on top of it.  There
+is a door south leading to the bedroom.  
+~
+0
+CD 0
+S
+#4751
+Large Bedroom~
+Intricate silvery streaks run along the {Wwh{wi{Wte {Wpa{wi{Wnted{x wall and washed {Dg{wre{Dy
+{Ds{wto{Dne{x floor.  There is a large window made with an exotic tower-like shape
+at the same wall where the large {ycanopy{x bed is resting on.  A comfortable
+{bo{Bverstuff{bed {ba{Br{bm{B-{bc{Bha{bir{x stands by the fireplace, with a thick-furred rug on
+the floor between them.  There are a few articles of man's clothing spread
+on the bed and the floor, looking like someone left in a hurry.  
+~
+0
+CD 0
+S
+#4752
+Kitchen~
+Large grey tiles cover the floor and the walls up to the faded white
+ceiling.  There is a brick {rs{Rt{Yo{Rv{re{x on the wall east that occupies most of the
+space there, made to cook for more than four people.  A thick and tall {Dmetal
+{Db{wo{Dx{x sits on the corner by the doorway leading to the living room and a small
+round dinning {ytable{x stands centered in the room, with three chairs pushed up
+to it.  
+~
+0
+CD 0
+S
+#4753
+Samuel's Tailoring Art Shop~
+Fancy and fashionable, this shop has beautiful and {rs{Rilk{ry {rd{Rr{rapes{x hung from
+the ceiling and on the walls.  {yW{Yo{yoden {ym{Yanequi{yns{x are wearing the tailor's
+newest creations for dresses and acessories.  There is a comfortable velvet
+{rlo{Rv{We{Rse{rat{x by the east wall close to where the north door going to the
+dressing room is.  There is a soft {Wme{wl{Do{wd{Wic{x {Dmus{wi{Dc{x on the background followed
+by an out of tune hum from the {rt{Ra{rilor{x.  
+~
+0
+CD 0
+S
+#4754
+In the Cistern~
+The cities cistern is two meters deep or more by 100 meters long and 50
+meters wide.  Cool, clear water fills the cistern, providing an adequate
+water supply to city in times of drought or war.  Pipes lead from the
+aqueduct and cistern into the fortress and into the city, providing running
+water to those houses equipped for it.  
+~
+0
+C 24
+S
+#4755
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x continues in a square shape around the
+{Dthick {Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and
+trimmed, with a {Wf{wl{Wower{x bed surrounding each of the two tall {gt{Gr{gees{x that are
+present in this part of the courtyard, A simple {Wwh{wi{Wte {Ws{wt{Wone {Wp{wa{Wth{x leads west
+towards the entrance to the Manor, with {Bb{bl{Bu{be {bf{Blowe{brs{x planted on each side. 
+A small building west leads to the {yin{Yfi{wr{Wm{wa{Yr{yy{x.  
+~
+0
+C 2
+S
+#4756
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x continues in a square shape around the
+{Dthick {Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and
+trimmed, with a {Wf{wl{Wower{x bed surrounding each of the two tall {gt{Gr{gees{x that are
+present in this part of the courtyard, A simple {Wwh{wi{Wte {Ws{wt{Wone {Wp{wa{Wth{x splits in a
+Y, south leading towards the Blacksmith and east leading towards the
+Stables.  
+~
+0
+C 2
+S
+#4757
+Malden's gates~
+Guards stand at the gates checking on everyone that enters the city..  C
+The gates to the city are located in the northern section of the western
+city wall.  Peering through the gates you can see the main road through town
+stretching out towards the fortress in the east.  The walls rise high
+overhead and guards patrol atop of it.  Here at the main gates the soldiers
+stand guard, welcoming friends and visitors, but asking each stranger their
+business in the city.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 4700
+S
+#4758
+Road to Malden~
+The walled city of Malden is to the north.  It's walls are high, and
+about 400 meters long per side.  The city is nestled at the base of a hill
+with an aqueduct bringing water from a remote lake visible on the eastern
+side of the city.  Guards walk the city walls and check people in at the
+gates on the western side of the city.  Farms stretch out all about the city
+and provide the city with the food needed to supply the citizens and keep
+the city running.  
+~
+0
+C 1
+S
+#4759
+Sheep Pen~
+A half-eaten {gg{Gr{gassy {gf{Gi{geld{x extends far into view with a square {yfence{x
+around it where {Db{wa{Drbed {Dw{Wi{Dre{x was used.  The pleasant sound of {Wsn{wo{Wwy{w-{Wwh{wi{Wte{x
+sheep baaaing is carried by a gentle breeze.  There is a large {cw{Cate{cr {Wtrough{x
+against the fenced area closer to the farm house, with fresh water for the
+animals.  Tall {yc{re{yd{ra{yr{x trees offer a welcome shade during the hot days.  
+~
+0
+C 2
+S
+#4760
+Horse Pen~
+This part of the farm is fenced with {ysolid dark wood{x to keep the animals
+from wandering off.  On the fence, a wide {cw{Cate{cr {Dt{Wr{Do{Wugh{x is mounted holding
+fresh water as well as a {yhay {Dt{Wr{Do{Wugh{x that is currently empty.  There are many
+different type horses standing on the field, but most of them look too old
+to be mounted.  Tall {yc{re{yd{ra{yr{x trees are planted to offer a welcome shade during
+hot days 
+~
+0
+C 2
+S
+#4761
+Vineyard~
+Long {Dw{wi{Wre{w-{Dfenced{x rows stretch as far as the eye can see with {gv{Gi{gnes{x
+wrapped around the wires and {ywooden{x posts where beautiful {mg{Mr{mapes{x easily
+catch the eye.  The grapes seem about ripe and ready to be harvested, and by
+glancing at them at least two types can be identified, the most common ones
+that are {rr{Re{rd{x and {gg{Gr{geen{x.  
+~
+0
+C 2
+S
+#4762
+Stables~
+Entering the {Ws{yt{Wa{ybl{We{ys{x, the distinct smell of {yh{Dor{ys{De{ys{x begin to fill the air.
+Tucked in a corner, there is a plain {yw{Yo{yoden {yl{Ya{ydder{x that leads up to the {yh{Ya{yy
+{yl{Yof{yt{x where the hay is stacked.  An {De{wm{Dpty {Db{wu{Wc{wke{Dt{x with a {Dbrush{x to clean the
+horses is sitting by the corner parallel to the ladder and both north and
+south there are small doors to {ystalls{x.  
+~
+0
+C 2
+S
+#4763
+~
+~
+0
+C 0
+S
+#4764
+Lobby~
+This entrance is in a pentagonal shape with {Wwh{wi{Wte {Wm{wa{Wrble{x floor and vaulted
+ceiling.  There is a large {Ds{Wi{Dl{Wv{De{Wr {Wch{wa{Wndel{wi{Wer{x in the center and below it a
+very expensive and beautiful {Dblack {Dg{wr{Dand {Dp{wi{Dano{x.  Much further north a double
+stairway is noticeable while to east there is a large dinning room and west
+is the living room.  
+~
+0
+CD 0
+S
+#4765
+Dinning Room~
+A large {Ww{wi{Wndow{x that is as wide as the wall extends across the room on the
+southern part of the dinning room, offering plenty of {Wl{wi{Wght{x during daytime
+hours and a beautiful view of the {gco{Gur{gty{Ga{grd{x.  Centered and occupying most of
+the room there is a long {rma{Rh{rog{Ra{rny{x dinning table with {Dblack m{wa{Drble {Dt{wo{Dp{x and
+fourteen chairs around it.  {yGo{Ylde{yn{Y-{yfr{Yam{yed {yp{Yai{yn{Yt{yings{x adorn the walls where a
+window or a door is not present.  Servants often come out of the door to the
+east and a buzzing noise of dishes become louder everytime the door opens.  
+~
+0
+CD 0
+S
+#4766
+Servants' Hallway~
+This hallway is narrow and busy with servants coming back and forth
+between the three doors that surround it.  The floor is made with simple
+{yt{Yil{ying{x and the walls are painted in a {yl{Wi{wg{Wh{yt {yt{Ya{yn{x color.  To the north, the
+door leads to the servants' sleeping quarters while south leads to the
+kitchen and west to the dinning room.  There is a {yt{Yo{rr{Yc{yh {yl{Yi{yt{x and held by an
+{Diron {Db{wr{Dacket{x on the wall.  
+~
+0
+CD 0
+S
+#4767
+Hallway~
+Wide and long, this hallway's floor is covered in the same {Wwh{wi{Wte {Wm{wa{Wrble{x
+from the lobby.  There are two large oak doors, one to the east and one to
+the west that leads to a meeting room and gambling room respectively. 
+Beautiful paintings of the {bA{Blt{Ya{Br{ban{x {yw{Yil{yder{Yn{yess{x with {yg{Yold{yen{x {yl{Ya{ymps{x
+strategically placed to shine against them give a little touch to the
+tan-colored paint on the walls.  
+~
+0
+CD 0
+S
+#4768
+Large Meeting Room~
+This room has large {Ww{wi{Wndow{x on the west wall where the chair of the Lord
+stays.  Other than this {Wl{wi{Wght{x offered by the window, there are only two
+{ylu{Ymi{Dna{Yri{yes{x on each corner that provide dim {Wl{wi{Wghts{x during the night. 
+Occupying most of the room is a large {Rm{ra{Rho{rga{Rn{ry {Rc{ron{Rf{reren{Rc{re{x table with ten
+overstuffed {Rl{rea{Rt{rh{Re{rr{x chairs pushed up to it.  On the center of the table
+rests a small {Ds{Wi{Dl{Wv{De{Wr{x {Dt{wr{Day{x with clean {Wg{wl{Wasses{x and a chilled {cw{Ca{ct{Ce{cr{x {Cp{ci{Ct{ccher{x for
+those wishing a refreshment.  
+~
+0
+CD 0
+S
+#4769
+Double Stairway~
+At the end of the hallway a slightly {Wc{wu{Wrved{x in an X shape double {Ws{wt{Dai{wr{Wway{x
+leads to the second and third floor of the manor, its round {Ds{Wi{Dl{Wv{De{Wr {Dban{Wi{Dster{x
+{Ws{wp{Warkle{x as the second {Ds{Wi{Dl{Wv{De{Wr {Wch{wa{Wndel{wi{Wer{w'{Ws{x lights from the vaulted ceiling
+reflects on it.  Two round {rma{Rh{rog{Ra{rny {rt{Rab{rl{Re{rs{x with {cf{Cl{cow{Ce{cr {Wv{wa{Wses{x sit at the end
+of each banister on all the floors, adding a slight feminine touch the the
+decoration of the house.  
+~
+0
+CD 0
+S
+#4770
+Double Stairway~
+The double stairway continues further up with its stairs becoming {Ww{wi{Wder{x
+after it had been slightly more narrow at the beginning of the second floor.
+There are two small round {rma{Rh{rog{Ra{rny {rt{Rab{rl{Re{rs{x with {cf{Cl{cow{Ce{cr {Wv{wa{Wses{x set atop before
+the hallway that goes north and south towards the guest bedrooms of the
+Manor.  The view of below offers rich details of the {Ds{Wi{Dl{Wv{De{Wr {Wch{wa{Wndel{wi{Wer{x and a
+overview of the hallway, lobby and entrance.  
+~
+0
+CD 0
+S
+#4771
+Hallway~
+Paneled {yo{Ya{yk {Ww{wa{Wlls{x offer an {We{wx{Do{wt{Wic{x touch to the {ywe{Yl{yl{D-l{Yi{yt{x hallway. 
+Contrasting with the walls, a {rd{Ra{rrk {rr{Red{rdi{Rs{rh{x {rw{Ro{rod{x was used on the floor, the
+same type that the doors east and west, leading to the guest bedrooms, were
+made.  Small framed {yp{Yai{yn{Ytin{ygs{x are the only adornments that draw attention to
+the {yw{Yoode{yn{x panels.  
+~
+0
+CD 0
+S
+#4772
+Hallway~
+Paneled {yo{Ya{yk{x {Ww{wa{Wlls{x offer an {We{wx{Do{wt{Wic{x touch to the {ywe{Yl{yl{D-{Dl{Yi{yt{x hallway. 
+Contrasting with the walls, a {rd{Ra{rrk {rr{Red{rdi{Rs{rh {rw{Ro{rod{x was used on the floor, and
+the doors leading east towards a guest bedroom and south towards a sitting
+room were made by the same material.  {yG{Yolde{yn {yf{Yi{ygur{Yi{ynes{x are hung on the wall
+before the stairway adding to the decoration.  
+~
+0
+CD 0
+S
+#4773
+Top floor~
+The top floor of the double stairway begins with the {Wsparkl{wi{Wng {Ds{Wi{Dl{Wv{De{Wr
+{Wban{wi{Wster{x sliding left and right in a rounded open {Wb{wal{Dc{wo{Wny{x.  There are two
+small round {rma{Rh{rog{Ra{rny {rt{Rab{rl{Re{rs{x with {cf{Cl{cow{Ce{cr {Wv{wa{Wses{x set atop before the hallway
+that goes north towards the Lord's family bedrooms.  A small {ywooden{x trap
+door above the stairs lead to the attic, with dust gathered around the {Dw{wo{Drn
+{ywood{x.  
+~
+0
+CD 0
+S
+#4774
+Hallway~
+This hallway is well-lit by beautiful {yg{Yolde{yn {ylu{Ymi{Dna{Yri{yes{x present every
+three feet on alternating sides.  At the center of the hallway, there are
+two doors, one leading east to the young master's bedroom and the other one
+leading west to the young lady's bedroom.  As the hallway ends, double
+{rma{Rh{rog{Ra{rny{x doors with a {yl{Yeo{yp{Ya{yrd{x etched on each opens to the master bedroom,
+where the Lord of {bM{Ba{Yld{Be{bn{x sleeps.  Luxurious {Rr{ru{Rg{rs{x are hung on the walls with
+embroidered patterns in {yg{Yo{yld{x and {Ds{Wi{Dl{Wv{De{Wr{x.  
+~
+0
+CD 0
+S
+#4775
+None~
+~
+0
+BCDJV 0
+S
+#4776
+Lord & Lady's Bathing Room~
+About the same size of a large guest bedroom, this bathing room matches
+the master bedroom's floor with {Dpol{Wi{Dshed {Wwh{wi{Wte {Wm{wa{Wrble{x streaked in {yg{Yo{yld{x.  The
+walls are painted in a {wl{Di{wght {Dg{wre{Dy{x with {Dd{wa{Drk {Dg{wr{Dey {Dt{we{Dxture{x that adds an {De{wx{Wot{wi{Dc{x
+yet {Wrela{wx{Wing{x look to the place.  In the center of the room, there is a round
+{Dm{wa{Drble {Dt{wu{Db{x recessed into the floor that could easily fit up to four people
+comfortably.  The entire wall south of the tub is {Wm{wi{Wrrored{x, reflecting the
+double vanity {Ds{wi{Wn{Dk{x on the opposite wall.  By the sink, there is a large
+{Wg{wl{Wass{x cabinet with {Wv{wi{Wnes {We{wt{Wched{x on its doors.  
+~
+0
+CDV 0
+S
+#4777
+Hidden passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wsp{wi{Wral{x walls of the
+staircase leading downwards.  The stairs and the walls are {Wn{wa{Drr{wo{Ww{x, making it
+hard to climb down without an accident if one is not careful enough.  The
+{yd{Dus{yt{x feels thick in the damp air and even the smallest noise echoes along
+the walls.  
+~
+0
+ACD 0
+S
+#4778
+Hidden passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wsp{wi{Wral{x walls of the
+staircase leading both up and downwards.  The stairs and the walls are
+{Wn{wa{Drr{wo{Ww{x, making it hard to climb it without an accident if one is not careful
+enough.  There is a narrow entrance towards west, leading to a small passage
+before another hidden door that will lead somewhere within the Manor.  
+~
+0
+ACD 0
+S
+#4779
+Servants' Bedroom~
+This room is very simple and rather small.  The walls are {Wpa{wi{Wnted {Wwh{wi{Wte{x,
+just like the floor and door.  The bunk beds are {Dbo{wl{Dted{x to the walls on a
+ninety degree angle with large {Dmetal {Db{wo{Dlts{x but the sheets and pillows are
+{Wwh{wi{Wte{x.  There is a low giggling and buzzling sound coming from the {Wma{wi{Wds{x
+that sit on their beds while they talk.  
+~
+0
+CD 0
+S
+#4780
+Living Room~
+Thick slabs of {Wwh{wi{Wte {wm{Wa{wr{Wbl{we{x cover the living room floor except around the
+center area where a beautiful and intricately designed rug with the {bA{Bl{Yta{Br{ban
+{yle{Yo{yp{Yar{yds{x is.  Resting against the wall, is a large and very comfortable
+{Dblack {Dl{we{Dather {Ws{wo{Df{Wa{x with a {bs{Bce{bn{Ber{by{x painting on the wall above it.  Facing the
+sofa is {Wfi{wr{Dep{wl{Wace{x with an in-built {rma{Rh{rog{Ra{rny{x shelf on its {Dg{wr{De{wy{D-{wc{Dol{wo{Wr{Ded{x {wb{Dr{wicks{x
+decorated with {Wca{wnd{Dleh{wol{Wders{x and {Wcr{wy{Wstal {Wf{wi{Wgur{wi{Wnes{x 
+~
+0
+CD 0
+S
+#4781
+A Beautiful Garden~
+The warm {Wr{wa{Wys{x of {Wl{yi{Wght{x from the {ys{Yu{yn{x {ys{Yh{yine{x against the beautiful {gt{Gr{gees{x and
+{gp{Gl{gants{x that grow in this garden.  It is very nicely kept by the Manor
+{Ws{we{Wrvants{x with {bf{Blowe{brs{x of different {yc{Yolo{yrs{x and {Wb{we{Daut{wi{Wes{x.  There are also a
+unique variety of {gt{Gr{gees{x containing flowers and diverse {rf{Rrui{rts{x.  A small path
+made of {Dgr{wa{Dvel{x leads west towards a small {cp{Con{cd{x.  
+~
+0
+C 2
+S
+#4782
+A Luxurious Guest Room~
+{WL{wi{Wght {yy{Yello{yw{x {yp{Yaintin{yg{x with {yd{Ya{yrk {yy{Ye{yllow{x {yt{Ye{yxture{x cover the walls and a {Ddark
+grey thick{w-{Dfurred {Dc{wa{Drpet{x extends across the room with diamond patterns on
+it.  There is a large queen-sized four-poster bed on the north wall of the
+room, the {yw{Yo{yod{x is {ye{Yt{yched{x with {gl{Ge{gaves{x and {gw{Gi{gnes{x that run along each poster in
+an expensive decoration.  {rS{Ri{rlk {rr{Re{rd {rs{Rhe{rets{x cover the comfortable mattress of
+the bed and a matching changing screen stands by the wardrobe to the left of
+the bed.  
+~
+0
+CD 0
+S
+#4783
+A Luxurious Guest Room~
+{bD{Ba{brk {bb{Bl{bue {bc{Bar{bpet{x extends across the room with different square sizes as a
+pattern on it where the {bf{Bu{br{x is trimmed.  The walls are {cp{Ca{cin{Ct{ced{x a very {cl{Ci{Wg{Ch{ct
+{cb{Cl{Wu{ce{x, that could be confused with {Wwh{wi{Wte{x under the night light.  A large
+{wc{Wa{wn{Wo{wp{Wy{x bed stands against the west wall, with a nightstand on each side of
+it where a {cc{Chi{cl{Cl{ced{x {cp{Ci{ctcher{x of water and clean glass is.  By the northeast
+corner, there is a large {yo{Ya{yk {Ws{wt{Wud{wy{x desk with a {yg{Yolde{yn {yl{Ya{ymp{x and a feather
+{Dquill{x on it.  
+~
+0
+CD 0
+S
+#4784
+Bathing Room~
+Expensive {Wwh{wi{Wte{x and {Dg{wr{Dey{x {Dt{Wi{Dl{We{Ds{x cover the floor in a {Dc{Wh{De{Wc{Dk{We{Dr{We{Dd{x pattern and
+the walls are painted with a different {gs{Ghade{gs{x of {Gg{gre{Ge{gn{x with texture.  There
+is a large {Wpo{wr{Wce{wl{Wain{x tub in the center of the room by a small {Wg{wl{Wass{x table
+where {cb{Cat{ch {co{Cil{cs{x and {Ws{wo{Waps{x are.  A small {Dm{we{Wt{wa{Dl{x rack is bolted to the wall,
+with clean towels hung.  There is a beautiful square {Wm{wi{Wrror{x by where the
+tiled vanity sink is.  
+~
+0
+CD 0
+S
+#4785
+Private Sitting Room~
+A {rd{Ra{rrk {rr{Red{rdi{Rs{rh {rw{Ro{rod{x covers the floor, matching the beautiful {rm{Rah{rog{Ran{ry{x
+center table with {Wg{wl{Wass top{x that sits at the center of the room, parallel to
+the {Dblack {Dl{we{Dather {Dlo{wv{Wes{we{Dat{x resting against the south wall.  The walls are
+adorned with embroidered rugs where {Wf{wl{Wags{x of different countries were
+portrayed.  A large window offers an overview of the {bc{Biste{br{Bn{x and the city to
+the east.  
+~
+0
+CD 0
+S
+#4786
+Large Guest Room~
+Smaller than most other rooms in the Manor, this bedroom stands simple
+compared to the {Wl{wu{Dxu{wr{Wy{x seen everywhere else.  The walls are paneled with
+{Yc{ye{rd{ya{Yr{x, and a large {yb{Ye{yd{x made with the same wood stands against the east wall
+with a {yy{Yello{yw{x and {bb{Blu{be {bq{Bu{Yi{Bl{bt{x covering it to symbolize the colors of {bM{Ba{Yld{Be{bn{x. 
+A large {Ww{wi{Wndow{x offers a nice view of town and the floor is made of the same
+dark reddish wood from the hallway.  
+~
+0
+CD 0
+S
+#4787
+Gambling Room~
+This room has a single {yl{Yi{yght{x in the center hung by a {Ds{Wi{Dl{Wv{De{Wr {Dcha{Wi{Dn{x from
+the ceiling, leaving the only spot with good {yill{Yum{Dina{Yt{yion{x around the round
+{yg{ra{ymi{rn{yg{x table below it.  The floor is of a dark {yr{red{ydi{rs{yh{x wood with many
+scratch marks on it from the arm-chairs that are placed around the table. 
+Half-full {cw{Ce{ct {Wg{wl{Wass{x stains are also seen on the dark wood where the players
+set their drinks.  A strong smell of {yt{Yo{yba{Yc{yco{x comes from the small {ycab{Yi{ynet{x
+against the furthest wall from the door.  
+~
+0
+CD 0
+S
+#4788
+A Modest Infirmary~
+This simple square building is {Wpa{wi{Wnted {Wwh{wi{Wte{x with a {Wc{wo{Dl{Wd {Wb{wr{Di{wc{Wk {Wfloor{x. 
+The place is kept very clean, with no signs of dust or {ys{Dtai{yns{x.  On each
+wall, there is a small row of {Wwh{wi{Wte {Wcots{x where the patients rest and
+perpendicular to the door, the nurse has her own {ywooden {yd{Ye{ysk{x where she keeps
+papers and quills and medicine {yc{Ya{ybinet{x with first aid materials and herbs.  
+~
+0
+CD 0
+S
+#4789
+Pantry~
+Small and stuffy, this room is {Ddark{x, with an empty {Diron b{wr{Dacket{x on the
+wall perpendicular to the door.  There are many shelves along the walls made
+of metal, with {yboxes{x of {yf{Wo{yod{x stocked up on them.  The pantry is kept {Wc{wl{Wean{x
+but a faint scent of {Ddust{x clings in the {Wa{wi{Wr{x mixed with {Ws{wu{Wgar{x and {Wf{wl{Wour{x.  
+~
+0
+ACD 0
+S
+#4790
+Library~
+In a hexagonal shape, this room has a in-built {rma{Rh{rog{Ra{rny {yboo{Yk{ycase{x on each
+of the six walls, that go from the bottom of the floor and end where the
+{wva{Wu{Dl{Wt{wed{x ceiling and the wall meet.  There are three {yl{Yarg{ye {yc{Yha{yndel{Yie{yrs{x
+hanging low from the ceiling that offer good enough light for evening
+reading.  A round {rma{Rh{rog{Ra{rny{x table with {Wg{wl{Wass{x top stands in the center of the
+room, with small {ys{Yt{yudy {yl{Yamp{ys{x by each of the four chairs that are around it. 
+~
+0
+CD 0
+S
+#4791
+Lord's Study~
+Smaller, but with the same {wva{Wu{Dl{Wt{wed{x ceiling found in the library, this
+room holds a much more {Dser{wi{Dous{x and {Dq{wu{Wi{we{Dt{x atmosphere than most others in the
+Manor.  There is a wide {yboo{Yk{ycase{x against the western wall, with a more
+limited selection of books, most dealing with business transactions and the
+world.  An imperial {rma{Rh{rog{Ra{rny{x desk with {Dblack {Dma{wr{Dble {Dt{wo{Dp{x sits by the north
+wall, with a {Dleather {Da{wr{Dm{w-{Dcha{wi{Dr{x pushed behind it.  On the desk, business
+papers and contracts are neatly arranged on piles by an expensive {Wq{wu{Will{x and
+{Dink bottle{x.  
+~
+0
+CD 0
+S
+#4792
+Secret Vault~
+The walls and floor of this compact room are made of {yc{Ye{rd{Ya{yr {yw{Yo{yoden{x boards.
+Lacking any openings other than the secret square door on the {yboo{Yk{ycase{x,
+there is a noticeable difference in temperature compared to the other room,
+much {rw{Rar{rmer{x and more {Wh{wu{Wmid{x.  {yC{Ye{rd{Ya{yr{x shelves are built on the three walls
+surrounding the entrance where some {Dvelvet {gj{Ge{gwe{Gl{gry {Dcases{x are kept, along
+with other expensive items.  On the northern wall, there is a large {yt{rr{yunk{x
+with a big {Dpa{wd{Wl{wo{Dck{x on it.  
+~
+0
+CD 0
+S
+#4793
+Hidden Passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wsp{wi{Wral{x walls of the
+staircase leading both upwards.  The stairs and the walls are {Wn{wa{Drr{wo{Ww{x, making
+it hard to climb up without an accident if one is not careful enough.  There
+is a narrow metal door east, leading to somewhere within the Manor.  
+~
+0
+ACD 0
+S
+#4794
+Stall~
+Small and perhaps comfortable to a horse, this stall stands tall to hold
+even a {BSa{bl{Dda{be{Ban{x warhorse.  There is damp {yh{Ya{yy{x spread on the floor and mostly
+by the {cw{Cate{cr {Db{wu{Wck{we{Dt{x where the {yhorse{x drinks his water.  The stallion in this
+stall looks regal and expensive while enjoying his stay.  
+~
+0
+C 2
+S
+#4795
+Hay Loft~
+The strong smell of {yh{Ya{yy{x lingers in the air as the small {yw{Yo{yoden {yl{Ya{ydder{x
+ends.  There is a large {Dm{we{Wt{wa{Dl{x {Dc{wa{Dg{we{x by the hay with three {Dp{ri{Dge{ro{Dns{x inside
+which are used to send {Wm{we{Wssages{x across the continent.  The {yh{Ya{yy{x is stacked in
+neat square piles along the loft and against its wall with a thin stray
+{yl{Yay{yer{x covering the wooden boards on the floor.  
+~
+0
+CD 0
+S
+#4796
+Fortress' courtyard~
+A beautifully {gg{Gr{geen {gg{Grass{gy {gf{Gi{geld{x continues in a square shape around the
+{Dthick {Db{wr{Dick {Dw{Wa{Dlls{x that surround the {WF{wo{Drtr{we{Wss{x.  The {gg{Gr{gass{x is well-kept and
+trimmed, with three large {Dtarget {Ddu{wm{Wm{wi{Des{x in the center of this area
+designated for the guards to practice.  A small building in an L shape is
+noticeable at the northeast corner where the Barracks and Prison are.  
+~
+0
+C 2
+S
+#4797
+Guard's Barracks~
+Simple concrete floor and brick walls surround this bedroom which has a
+strong {ym{Wa{ysc{Wu{yli{Wn{ye {yscent{x of {Ws{ww{De{wa{Wt{x and sleep.  {DB{wo{Dlted{x to the walls there are
+two sets of {Db{wu{Dnk {Wb{we{Wds{x with {Wwh{wi{Wte{x sheets and pillows that are a complete
+mess.  Some {Wunderwear{x articles and dirty breeches are spread along the room
+and the floor has {ydirt {yfo{Dot{yprin{Dt{ys{x all over it.  
+~
+0
+CD 0
+S
+#4798
+Malden's Small Prison~
+A small corridor with grey brick walls and thick {Dmetal {Dd{wo{Dors{x is here. 
+The room is {yl{Yi{yt{x by {rt{Ror{Ych{Re{rs{x bolted to the walls with {Diron {Db{wr{Dackets{x and it
+smells like old and {Dd{yi{Dr{yt{Dy{x.  There is a small {ystool{x for the punished guard on
+duty to sit on even though this place seems to have been {We{wmpt{Wy{x for years.  
+~
+0
+CD 0
+S
+#4799
+Unused Prison Cell~
+{DGr{we{Dyish {Dbr{wi{Dcks{x walls surround this small square room that a small {Dba{wr{Dred{x
+{Ww{Din{wd{Wow{x as the only light coming within.  The {Di{wr{Don {Db{Wr{wa{Wck{Det{x to hold a torch
+bolted to the wall is empty and rusted.  The only furniture of this room is
+a tattered old mat that is used by the prison's inhabitants as a bed.  There
+is a small {Db{wu{Wc{wk{Det{x with something disgusting growing within and a {Df{yo{Dul{x smell
+coming from it.  
+~
+0
+CD 0
+S
+#4800
+Lord of Malden's Blacksmith~
+This room is large and {Wd{wa{Wmp{x, with large {yb{Ya{yrrels{x of {cw{Cate{cr{x for cooling down
+the metal that is forged by the hands of the blacksmith.  {DIron{x and {Ds{Wt{De{We{Dl{x
+bars are piled up in stacks, ready to be used for creating new weapons and
+armor.  There is an wide anvil with {Dblack marks{x on it and a heavy hammer by
+its side.  The floor has small pools of dirty water and ashes all over it.  
+~
+0
+CD 0
+S
+#4801
+In a Small Pond~
+A small breeze gentle touches the water of the pond, forming little
+ripples and making the {cw{Wa{Ct{We{cr {Cs{cp{Clash{x against the air and {Dgr{wa{Dvel{x that delimits
+its surrounding.  {yB{Yir{yds{x fly over the pond, forming {ynests{x by the close trees
+and dive down to refreshingly wash their {Wf{we{Wathers{x in the {cc{Coo{cl {cw{Ca{cter{x.  The
+water is very clean, save for the occasional fallen leaves that float on the
+pond's surface and different {Bf{bis{Bh{x happily swim in it.  
+~
+0
+C 24
+S
+#4802
+Hidden Passage~
+{DIron {Db{wr{Dackets{x with {Du{wn{Wl{wi{Dt {rt{Ro{Yrc{Rh{res{x are bolted to the {Wn{wa{Drr{wo{Ww{x walls of this
+passage.  Continuing east, the tiny stairs of a spiral staircase that goes
+up and downwards are noticeable.  There is a narrow {Dmetal{x door west, leading
+to somewhere within the Manor.  
+~
+0
+ACD 0
+S
+#4803
+Young Master's Bedroom~
+The second largest in the Manor, this bedroom offers space and {Cl{cu{Cx{cur{Cy{x at
+the same place.  The walls are painted in a {bv{Bibra{bnt {bb{Bl{bue{x on the upper half
+and {Wwh{wi{Wte{x on the lower half.  Against the north wall, the queen-sized {yo{Ya{yk
+{Wb{we{Wd{x stands, with a beautiful {bb{Blu{be {bc{Bov{be{Brl{bet{x with inlaid {yg{Yol{yd{x on it.  By the
+sliding {Wg{wl{Wass{x {Wdoor{x that leads to the balcony, the study {yo{Ya{yk {Wd{we{Wsk{x shares a
+pleasant view of the outside.  
+~
+0
+CD 0
+S
+#4804
+Young Lady's Bedroom~
+This large bedroom has a beautiful queen-sized {yo{Ya{yk {Wb{we{Wd with {rr{Re{rd {rc{Rov{re{Rre{rd{x
+with inlaid {yg{Yol{yd{x against the north wall where two night stands of matching
+wood are on each side of it.  A {cc{Chi{clled {cp{Ci{ctcher{x of {cw{Ca{cter{x rests on the left
+nightstand with an empty class by its side.  There is a large wardrobe with
+inlaid {yg{Yolde{yn {yd{Yo{yors{x by the wall leading to the balcony and south, there is a
+mirrored door leading to the private {cb{Cat{ch{Ci{cn{Cg{x room.  
+~
+0
+CD 0
+S
+#4805
+Dusty Attic~
+A thick layer of {Ddust {Wf{wl{Doa{wt{Ws{x in the room as soon as the {ywooden{x trap door
+is open.  Worn {Yc{ye{Ydar{x boards to keep some of the smell off are on the floor
+and walls but mostly covered by {Dc{wo{Wbw{we{Dbs{x or hidden behind old {Wf{wu{yrni{wtu{Wre{x. 
+There are many {yboxes{x of different sizes and depths spread around the attic,
+as well as a pile of stack {Dold {ypa{Yi{ynt{Yi{yngs{x from the former Lord of {bM{Ba{Yld{Be{bn{x. 
+The faint noise of {Dm{wo{Wu{ws{De{x and {yterm{Yi{ytes{x echo in the emptiness of this room but
+there are none easily spotted in this {Ddarkness{x.  
+~
+0
+CD 0
+S
+#4806
+Lord & Lady's Balcony~
+This round-shaped balcony overlooks the beautiful and yet modest city of
+{bM{Ba{Yld{Be{bn{x.  A {yt{Yhic{yk {yw{Yo{yoden{x railing protects those wishing to lean against it
+from falling over.  The only sounds outside in the balcony are the sounds of
+{cb{Ci{crds{x singing and the {Wg{we{Wntle {Wb{wr{Weeze{x touching the {cs{Ck{cy{x.  
+~
+0
+C 0
+S
+#4807
+Young Master's Balcony~
+This round-shaped balcony overlooks the beautiful and yet modest city of
+{bM{Ba{Yld{Be{bn{x.  A {yt{Yhic{yk {yw{Yo{yoden{x railing protects those wishing to lean against it
+from falling over.  The only sounds outside in the balcony are the sounds of
+{cb{Ci{crds{x singing and the {Wg{we{Wntle {Wb{wr{Weeze{x touching the {cs{Ck{cy{x.  
+~
+0
+C 0
+S
+#4808
+Young Master's Bathing Room~
+Thick slabs of {Wwh{wi{Wte {Wm{wa{Wrble{x form the large floor with an expensive
+{Wporcela{wi{Wn{x {Wb{wa{Wtht{wu{Wb{x standing right in the center of the room.  A {Bt{bh{Bi{bck{B-{bf{Burr{bed{x
+round {br{Bu{bg{x lays underneath the tub in {bv{Bibran{bt {bb{Blu{be{x color with the towels on
+the {Dm{we{Wt{wa{Dl{x {Wr{wa{Dc{Wk{x matching it.  A {Wporcela{wi{Wn{x {Wvan{wi{Wty{x sink is mounted against the
+west wall with a large square {Wm{wi{Wrror{x above it.  There are two {yw{Yo{yoden {ys{Yto{yols{x
+close by the tub that look like they have been often used in the past.  
+~
+0
+CD 0
+S
+#4809
+Young Lady's Balcony~
+This round-shaped balcony overlooks the beautiful and yet modest city of
+{bM{Ba{Yld{Be{bn{x.  A {yt{Yhic{yk {yw{Yo{yoden{x railing protects those wishing to lean against it
+from falling over.  The only sounds outside in the balcony are the sounds of
+{cb{Ci{crds{x singing and the {Wg{we{Wntle {Wb{wr{Weeze{x touching the {cs{Ck{cy{x.  
+~
+0
+C 0
+S
+#4810
+Young Lady's Bathing Room~
+Thick slabs of {Wwh{wi{Wte {Wm{wa{Wrble{x form the large floor with an expensive
+{Wporcela{wi{Wn{x {Wb{wa{Wtht{wu{Wb{x standing right in the center of the room.  A {rth{Ri{rck{R-{rf{Rurr{red{x
+round {rr{Ru{rg{x lays underneath the tub in {rr{Re{rd{x with the towels on the {Dm{we{Wt{wa{Dl{x {Wr{wa{Dc{Wk{x
+matching it.  A {Wporcela{wi{Wn{x {Wvan{wi{Wty{x sink is mounted against the west wall with
+a large square {Wm{wi{Wrror{x above it.  {WWh{wi{Wte{x and {rr{Re{rd{x candles are nicely displayed
+on a {Wg{wl{Wass{x {Ws{wh{Welf{x that runs along the south wall.  
+~
+0
+CD 0
+S
+#4811
+Wine Cellar~
+A small, akward ladder leads down to the wine cellar.  The room is made
+of thick {yw{Yo{yoden {yb{Yo{yards{x on the walls, floor and ceiling, with a layer of some
+{yo{Dil{yy{x material to keep them well-conserved.  There are three large wooden
+{yb{Ya{yrrels{x against the north wall, with a metal plaque written on each to
+identify them as {yRUM{x, {WWH{wI{WTE {WW{wI{WNE{x and {RR{rE{RD {rW{RI{rNE{x.  
+~
+0
+CD 0
+S
+#4812
+Steel Gazelle Pub~
+This room is large with a simple {ycopper {yc{rha{ynde{rl{yier{x hung from the ceiling
+in the center where a small {yw{Yo{yoden {Ws{wt{Wage{x is below for those wishing to
+perform.  {yRound {yo{Ya{yk{x tables are spread evenly across the room, with four
+chairs at each one and a small {yl{Yam{yp{x as well to offer better {Wl{wi{Wght{x.  The
+{Db{wu{Wzzli{wn{Dg{x noise is always constant, as is the {rm{Rusi{rc{x playing in the background
+while the people enjoy their time at the pub.  
+~
+0
+CD 0
+S
+#4813
+Gambling Room~
+Thick with {Dsmo{wk{De{x, this room is small and warm from the lack of {Dw{wi{Dndows{x and
+{Wa{wi{Wr{x circulation.  The door is kept always closed and a {yd{Yi{ym {yl{Yi{Dg{Yh{yt{x sits at the
+center of a round {yg{ra{ymi{rn{yg{x table where the players gather for another round. 
+{DS{Wi{Dl{Wv{De{Wr{x and {yg{Yolde{yn{x coins are spread across the table as the players make
+their bet.  Many empty {ymugs{x and {Wg{wl{Wasses{x are set aside on the floor to keep
+the table as clean as possible.  
+~
+0
+CD 0
+S
+#4814
+Kitchen~
+As soon as the door to the kitchen is opened, the faint smell of old and
+new {yg{rr{yea{rs{ye{x mixed together slips through it and becomes more noticeable.  The
+wall that once was {Wwh{wi{Wte{x is now slightly {ybr{Wo{ywn{x with a faint {Do{yi{Dly{x layer on it
+and the brick stove has a {Ddark stain{x on it where food was previously burned.
+There is a solid {ywooden{x table with a large cutting board in the center of
+the room, where the cook begins the preparation of his food.  
+~
+0
+CD 0
+S
+#4815
+Zurya's Flower Shop~
+This flower shop has {Wla{wr{Wge {Ww{wi{Wndows{x along the three walls that surround
+this building.  By each {Ww{wi{Wndow{x, large {yw{Yo{yoden {ys{Yh{yelves{x were built to hold the
+{gp{Gl{gants{x and {mf{Ml{wo{Ww{we{Mr{ms{x on display.  There is a wide variety of {bc{Bo{gl{Go{yr{Ys{x and types
+and the owner walks over to each one of them feed them with {cw{Cate{cr{x and TLC.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 4703
+S
+#4816
+Glass Blower Shop~
+The {Db{wr{Wi{wc{Dk{x is lightly stained with {Dburnt marks{x all over the walls, ceiling
+and floor.  There is a large {rh{Ri{Yg{rh{R-{rh{Re{Ya{rt{x {rf{Ru{rrnace{x that occupies all of the
+northern wall, which is used to make the {ca{Crtisti{cc{x objects of this
+shopkeeper.  A large pile of {yd{ry{be{gd{x broken {Wg{wl{Wa{ws{Ws{x is sitting at a corner from
+failed attempts.  A large {ywooden{x table is used to display the different
+glass objects that vary from {mp{Mlate{ms{x to {bv{Bas{bes{x.  
+~
+0
+CD 0
+S
+#4817
+Dressing Room~
+This small room has three tall {Wm{wi{Wrrors{x bolted to the three walls
+surrounding the {yo{Ya{yk {Wd{wo{Wor{x on the north.  By one corner, there is a small
+stool while by the other corner there is a tall cloth hanger that looks
+slightly worn from use.  The {y{Yo{yak {Wd{wo{Wor{x on the north is a {ys{Yw{ying{Yi{yng{x door that
+has two tall gaps on the bottom and floor.  
+~
+0
+CD 0
+S
+#4818
+Wine Shop~
+Surrounded by tall {yc{Ye{rd{Ya{yr {rw{Ri{rne {yr{Wa{ycks{x, this shop has at least a hundred
+different {Wb{wo{Wttles{x of {rw{Ri{rne{x stacked on it.  The small {Wg{wl{Wass{x {yc{Yo{yunter{x displays
+the most expensive and desired wines.  By the corner, there are two {yb{Ya{yrrels{x
+with red and white wine with a tray of empty {Wg{wl{Wasses{x that the customer can
+taste and appreciate before they buy any merchandise.  
+~
+0
+CD 0
+S
+#4819
+Merchant's House~
+This entrance is adorned with beautiful {yp{Yai{wn{Wti{wn{Yg{ys{x of the countryside of
+Tarabon on each of the walls perpendicular to the {yo{Ya{yk{x north door.  There is
+a faded {gdark green rug{x on the light wooden floor with an abstract pattern on
+it.  An accent {yt{Yabl{ye{x sits below one of the paintings, with a {Wc{Cr{Wys{Ct{Wal{x empty
+bottle and {Wma{Ct{Wch{Ci{Wng{x glasses as decoration.  The room continues south towards
+the living room.  
+~
+0
+CD 0
+S
+#4820
+Living Room~
+A beautiful {yb{Yr{Wig{Yh{yt {yy{Yello{yw{x rug of Taraboner craftsmanship covers the light
+wooden floor.  Matching {yt{Ya{wp{Wes{wt{Yr{yy{x adorn the tan-colored walls and by the
+western corner there is a simple {Dm{ru{Dsic{x stand offering a pleasant background
+music to the room.  Across the room, there is a wide {ybookshelf{x mostly with
+books about Tarabon and its culture.  The open doorway south leads to the
+entrance of the house, while the dinning room stands close east.  
+~
+0
+CD 0
+S
+#4821
+Dining Room~
+This room looks even larger than it truly is with the large {Woval{w-{Wsh{wa{Wped
+{Ww{wi{Wndows{x to the east and open doorway to west where it leads to the living
+room.  There is a large {yrectangular{x table with glass top in the center and
+eight heavy chairs surrounding it.  A {Wc{Cry{Ws{Ct{Wal{x {Wchandel{wi{Wer{x is hanging from the
+worked plaster ceiling with {Ds{Wi{Dl{Wv{De{Wr{x ornaments on the {yg{Yolde{yn{x frame.  A soft
+smell of food comes from the door north.  
+~
+0
+CD 0
+S
+#4822
+Kitchen~
+Wide and {rc{Ro{bl{Bo{gr{Gf{yu{Yl{x, this kitchen has that everlasting smell of food in the
+{Wa{wi{Wr{x of fresh {ybread{x and desserts.  The tiles on the floor are {cp{Ca{Wl{ce {cb{Cl{wu{Ce{x and
+the walls are covered with a {yt{Ya{wn{W-co{wl{Yor{yed{x wallpaper with a variety of
+hand-painted {Df{Yr{Mu{mi{bt{Bs{x drawn on it.  There is a large brick {rs{Rt{Wo{Rv{re{x with a small
+metal sink by its left side and a solid metal table on the center, where a
+case with knives is.  
+~
+0
+CD 0
+S
+#4823
+Pantry~
+Small and clustered, this room is filled with {yboxes{x and {yb{Ya{ygs{x of different
+types of food.  It has a {cc{Ch{cil{Cl{ced {Dmetal {Db{Wo{Dx{x shoved by one corner where things
+are kept refrigerated.  The small {yl{Yi{Dg{Yh{yt{x that is hanging from the ceiling
+does not seem enough to show the contents of the room clearly and unless the
+door is left open to use some of the light from the kitchen, it is too dark
+to see anything.  
+~
+0
+CD 0
+S
+#4824
+Hallway~
+A large window lit this hallway to the south as it ends by two large {yash
+wood{x doors to east and west, leading to the master bedroom and guest bedroom
+respectively.  There is a accent {yt{Ya{yble{x before the open doorway north going
+towards the living room, with a flower vase on top of it.  A silky {gg{Gr{geen{x
+carpet is spread on the wooden floor that looks recently bought.  
+~
+0
+CD 0
+S
+#4825
+Master Bedroom~
+Fancy and decorated with {Wwh{wi{Wte{x and {yg{Yo{yld{x, this bedroom is the largest room
+of the house, with a recessed round ceiling that has a {Wm{wi{Wrror{x on it.  Below
+the mirrored ceiling rests the large {Wcircular{x bed with {Dsat{wi{Dn {Dblack {Ds{wh{De{we{Dts{x
+and silky pillows of all sizes and shapes.  A large {yo{Ya{yk{x desk sits by the
+window with a small metal {Dc{wa{Ws{De{x on top of it and a study lamp for when it is
+dark.  Portraits of himself with expensive framing are spread along the
+walls.  
+~
+0
+CD 0
+S
+#4826
+Guest Bedroom~
+This room large has been decorated in shades of {gg{Gr{geen{x and {Wwh{wi{Wte{x on the
+walls and carpeted floor.  Two comfortable beds made from the pale {ywood{x of
+an ash tree have been pushed against a wall with hand-carved headboards
+showing a stylized {gf{Glowe{gr{x in the center of each.  {gG{Gr{geen{x satin coverlets
+cover each bed with many {Wgoose f{we{Wather{x pillows on top.  There is a beautiful
+oval {Wm{wi{Wrror{x with hand-carved frame showing the same stylized flower from the
+headboards.  
+~
+0
+CD 0
+S
+#4827
+The Twin Leopards' Inn~
+The entrance of the Inn is very nice, yet simple.  It has nice {Dg{wr{Dey
+{Dc{wa{Drpe{wt{Ded{x floor with {rc{ye{rd{ya{rr{x paneled walls.  On the walls, stuffed heads of
+{yanimals{x are hung, proudly displaying the selection caught in the past.  A
+large C shaped {yw{Yo{yoden{x counter stands in the center, where the innkeeper
+normally stays and two {gg{Gr{geen {gv{Ge{glvet {wl{Wove{ws{Wea{wt{Ws{x stand perpendicular to each
+other, offering comfort to prospective customers.  
+~
+0
+CD 0
+S
+#4828
+Leopards' Common Room~
+The common room has a {Wsoft no{wi{Wse{x of conversation going on that becomes
+louder during meal times.  Like the entrance, it is paneled with {rc{ye{rd{ya{rr{x wood
+and has a {Dg{wr{Dey {Dc{wa{Drpe{wt{Ded{x floor.  There is a large counter with shelves behind
+it where {Wb{wo{Wttles{x are stored and behind it a door leading to the kitchen. 
+Round {ywooden{x tables are evenly spread along the room with chairs pushed up
+to it.  Some of them look slightly worn, with glass and food stain on its
+top.  
+~
+0
+CD 0
+S
+#4829
+Kitchen~
+Large {ct{Ci{cles{x cover the floor in a diamond shape and continue all the way
+to the middle of the walls before it becomes painted in {gl{Gigh{gt {gg{Gree{gn{x.  The
+{Wbr{wi{Wck {rs{Rt{Yo{Rv{re{x offers uncomfortable warmth in the room as the meals are cooked
+and even the two wide {Ww{wi{Wndows{x open are not enough to cool down the place. 
+There are two {ci{Cc{ce{x {yboxes{x sitting on a corner and a cabinet holding piles of
+dishes and silverware.  
+~
+0
+CD 0
+S
+#4830
+Small Hallway~
+Lit by a {ys{Ymal{yl {yl{Yam{yp{x on each of the side walls, this {Wn{wa{Drr{wo{Ww{x hallway has a
+simple {ywooden{x door south that leads to the {cbath{Ci{cng{x room and continues north
+towards the bedrooms.  The {yt{Ya{yn{Y-{yc{Yol{yored{x carpet is well-kept but a few stains
+are easy to spot on it and the walls have been re-painted in {Wwh{wi{Wte{x not long
+ago.  The faint noise of people talking can be heard coming from downstairs
+at the entrance.  
+~
+0
+CD 0
+S
+#4831
+Small Hallway~
+The {yt{Ya{yn{Y-{yc{Yol{yored{x carpet covers the floor north and south as the hallway
+continues.  Solid {ywooden{x doors to the east and west lead to some of the inn
+bedrooms with a lamp on each side of the doors.  The walls have been
+re-painted in {Wwh{wi{Wte{x not long ago and give a renewed look to the place.  
+~
+0
+CD 0
+S
+#4832
+Plain Bedroom~
+{WPlain{x is the best word to describe this bedroom.  It has {Wco{wn{Dcr{we{Wte{x floor
+with a simple {rdark red rug{x in the center and the walls are painted in {Wwh{wi{Wte{x,
+lacking any decoration.  There is a long window on the east wall where the
+plain wooden bed is also resting against and the {rdark red quilt{x on the bed
+looks worn, but {rc{Roz{ry{x.  An empty {ybo{Yoks{yhelf{x stands against the wall
+perpendicular to the door, offering some storage space for those using the
+bedroom.  
+~
+0
+CD 0
+S
+#4833
+Plain Bedroom~
+{WPlain{x is the best word to describe this bedroom.  It has {Wco{wn{Dcr{we{Wte{x floor
+with a simple {gdark green rug{x in the center and the walls are painted in
+{Wl{wi{Wght {yy{Yello{yw{x, lacking any decoration.  There is a long window on the east
+wall where the plain wooden bed is also resting against and the {gdark green
+quilt{x on the bed looks worn, but {gc{Goz{gy{x.  An empty {ybo{Yoks{yhelf{x stands against
+the wall perpendicular to the door, offering some storage space for those
+using the bedroom.  
+~
+0
+CD 0
+S
+#4834
+Inn's Bathing Room~
+{cL{Cigh{ct {cb{Clu{ce{x tiled floor and walls cover this {Wbath{wi{Wng{x room and the upper
+corners look like they could use a better cleaning as {yg{Dr{yea{Ds{yy{x spots are
+easily noticeable.  There is a large {yc{Yo{ypper {yt{Yu{yb{x in the center of the room
+with a wooden towel rack by it.  The floor around the tub is also covered by
+a {bdark blue rug{x.  Hung on the wall there is a small square cracked mirror
+that is still in good enough shape to be used.  
+~
+0
+CD 0
+S
+#4835
+End of the Hallway~
+The {yt{Ya{yn{Y-{yc{Yol{yored{x carpet covers the floor south as the hallway continues. 
+Solid {ywooden{x doors to the east and west lead to some of the inn bedrooms
+with a lamp on each side of the doors.  The walls have been re-painted in
+{Wwh{wi{Wte{x not long ago and give a renewed look to the place.  At the wall by the
+end of the hallway there is a beautiful {bA{Bl{Yta{Bra{bn{x painting with {yc{ro{ypp{re{yr {yf{Yr{yame{x. 
+~
+0
+CD 0
+S
+#4836
+Comfortable Bedroom~
+This bedroom is large and comfortable looking, with a {Wq{wu{Ween{w-{Ws{wi{Wzed{x bed
+resting against the wall by the large {Ww{wi{Wndow{x that offers a nice view of the
+road.  There is a small {yo{Ya{yk {ytable{x on the left corner by the bed with a small
+wooden chair pushed up to it.  A {Yg{yo{Yld{yen{x tray with a {cw{Ca{cter {cp{Ci{ct{Cc{cher{x and clean
+classes is resting on the table and on its opposite corner by the right side
+of the bed, there is a {yy{Yello{yw {ys{Ytuffe{yd{x arm-chair.  
+~
+0
+CD 0
+S
+#4837
+Comfortable Bedroom~
+This bedroom is large and comfortable looking, with a {Wq{wu{Ween{w-{Ws{wi{Wzed{x bed in
+the center and a small {yo{Ya{yk {ytable{x snug against the corner.  A {Yg{yo{Yld{yen{x tray
+with a {cw{Ca{cter {cp{Ci{ct{Cc{cher{x and clean classes is resting on the table and by its
+side there is a {ydark br{Wo{ywn{x {ys{Wt{yuffed{x arm-chair.  The room has a large {Ww{wi{Wndow{x
+with a decent view of one of the roads.  
+~
+0
+CD 0
+S
+#4838
+Myiryan's Exotic Pets~
+Sparkling silver cages are evently spread on the corners of the room and
+against the textured {ml{Mi{Wg{Mh{mt {Mp{mi{Mnk{x walls.  Some of the cages have different
+{cc{Colore{cd {br{Bibbon{bs{x on top, with an exotic animal standing in it.  Windows fill
+the room with light on every wall, the frames painted in a {Wp{we{Warly {Wwh{wi{Wte{x. 
+There is a tall {yo{Ya{yk {yc{Youn{yter{x with a crystal bowl holding {Mc{Ca{Wn{Md{Ci{We{Ms{x by the north
+wall.  
+~
+0
+CDM 0
+S
+#4839
+PETSHOP KENNEL~
+~
+0
+CDM 0
+S
+#4840
+The Twin Leopards' Stables~
+This {ys{Wt{yab{Yl{ye{x is small, yet holds space enough for about three {Dh{wo{Wr{ws{Des{x on
+the empty stalls by the east wall.  The {ywoo{Yd{yen {yr{Ya{yiling{x where the horses are
+kept are made of good-quality {ywood{x and the there is a large {cw{Cate{cr {ct{Cr{Dou{Cg{ch{x for
+the animals and piles of hay are stacked up against the corner between the
+stall and the exit.  
+~
+0
+C 2
+S
+#4841
+Guard House~
+This small guard house holds two large trunks with padlocks on it where
+weapons are kept and retrieved back to their owners when they leave the
+city.  There is a small table and a simple stool for the guard on duty to
+sit on.  The door remains open while there is still light outside and the
+guard stands by the door where he has a better view of everything going on
+at the gates.  
+~
+0
+CD 0
+S
+#4842
+A Simple House~
+This small house is very simple, with a single room that offers barely
+enough space to fit two single beds, a brick {rs{Rt{Yo{Rv{re{x and a small table.  The
+two chairs on the {ytable{x look worn and the {Dco{wn{Dcrete{x floor needs a bit of
+cleaning as dirt stains are noticeable all over it.  By the two beds there
+is a small {rt{ya{rtter{ye{rd {rr{Re{rd{r r{Ru{rg{x to avoid the termic shock from the warm bed to
+the {Wcold {wf{Wl{wo{Wo{wr{x.  
+~
+0
+CD 0
+S
+#4843
+Brigmarie's Precious Stones Shop~
+This shop has a very {We{wx{Dot{wi{Wc{x decoration.  On the {Ds{wt{Done{x walls that surround
+this building, different types of {gp{Gr{ye{Yc{ri{Ro{bu{Bs {ms{Mt{Do{wn{We{ys{x are encrusted to it on a
+{Wd{wi{Wamond{x shape.  There is a large {rc{ye{Rd{ya{rr{x {yc{Yo{yunter{x in the northern area of the
+shop where the shopkeeper displays his most expensive pieces of jewelry and
+stands watching the customers.  
+~
+0
+CD 0
+S
+#4844
+Mariah's Apothecary~
+Painted with a {ml{Mi{wg{Wht {wp{Min{mk{x on the walls and tiled in a {Dc{Wh{De{Wc{Dk{We{Dr{We{Dd {Dblack{x and
+{Wwh{wi{Wte{x pattern, this building looks {me{Mc{mcen{Mt{mric{x but relaxing with its large
+{Wwindows{x on the north and south side.  Large and comfortable looking {Wcots{x are
+neatly arranged in rows for those needing care and a large {yo{Ya{yk{x {Wc{wo{Wunter{x
+stands the opposite wall to the door, where the supplies of herbs are.  Some
+of the {gh{Ge{grbs{x are in a sack and some are a liquid in a {Wb{wo{Wttle{x that looks too
+disgusting to be drank.  The {yW{Yi{ws{Wd{wo{ym{x helps patiently all those who need her
+assistance.  
+~
+0
+CD 0
+S
+#4845
+Empty Stall~
+Small and perhaps comfortable to a horse, this stall stands tall to hold
+even a {BSa{bl{Dda{be{Ban{x warhorse.  There floor is very clean, with just a few
+strands of {yh{Ya{yy{x spread on the {Dco{wn{Dcrete{x and the {cw{Cate{cr {Db{wu{Wck{we{Dt{x for the horse is
+empty, looking very dry and showing signs this stall has not been used in a
+while.  
+~
+0
+C 2
+S
+#4846
+A Dark Cubicle Prison~
+This room looks very dark and has a very strong foul smell about it. 
+Wimpering noises come from the corner where the rotten smell becomes more
+distinct and closer.  There are remains of food spread all around and a
+bloody blanket on the floor with old hard skin stuck to it.  
+~
+0
+ACDV 0
+S
+#4847
+Lord & Lady's Bedroom~
+This room is without a doubt the largest room of the Manor.  The ceiling is
+{Dva{wu{Wlt{we{Dd{x with a wide {Wg{wl{Wow {Wl{wi{Wght{x hung from the ceiling.  The floor is made
+with {Dpol{Wi{Dshed {Wwh{wi{Wte {Wm{wa{Wrble{x streaked in {yg{Yo{yld{x and the walls are painted with a
+{bl{Bigh{bt {bb{Blu{be{x color to match the {bdarker blues{x from the sheets and drapes.  A
+king-sized {rm{Ra{rho{Rg{rany{x bed stands in the center of the room with light blue
+drapes hanging from the four posters and adding an enticing look to the bed.
+Before the balcony sliding door to east there is a large {rm{Ra{rho{Rg{rany{x {rvan{Ri{rty{x
+dressing table with a round {Wm{wi{Wrror{x against the wall.  A large walk-in closet
+stands behind the {bch{Ba{bng{Bin{bg {Ws{wc{Wreen{x, offering some privacy.  
+~
+0
+CDJV 0
+S
+#4848
+~
+~
+0
+C 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 4700 3 1
+D 0 4702 0 1
+D 0 4703 0 1
+D 0 4704 4 1
+D 0 4733 5 1
+D 0 4742 2 1
+D 0 4757 1 1
+D 0 4815 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

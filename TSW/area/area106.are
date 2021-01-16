@@ -1,0 +1,207 @@
+#AREADATA
+Name Damelien~
+Builders Sineya Haloyn~
+VNUMs 1000 1099
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1000
+An Herbalist's Delight~
+Along the ceiling are thin branches in which various bundles of {yh{ge{Dr{gb{ys{x
+hang for drying.  In one corner is a small water-filled basin that has been
+rough-carved out of a tree.  Tall bookshelves, anchored to the eastern wall,
+are filled with glass jars of {yp{Do{Wwde{Dr{ys{x and loose {gl{Deave{gs{x.  A row of small
+{Dt{ga{ybl{ge{Ds{x, adorn with scales, have been placed upon the western wall.  Warmth
+crackles into the room in way of the small wood {Ds{ytov{De{x that has a pot of
+cinnamon water bubbling away on it's top.  
+~
+0
+C 0
+D0
+~
+~
+3 3
+1 0 1001
+S
+#1001
+A Small Garden Bridge~
+A small garden {yb{Dridg{ye{x spans the narrow end of a little fish pond. 
+Intertwined around the banister and railings of the bridge is a thick mat of
+ivy and morning glories.  From in the water a {gt{Gu{yrt{Gl{ge{x pops his head up now
+and then to check out the weather.  The pair of mallards quack at him when
+he gets too close to their nest of eggs hidden in the cattails.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1002
+D2
+~
+~
+3 3
+1 0 1000
+S
+#1002
+A Well Traveled Road~
+The dirt on this road has been well packed down by many feet, horse
+hooves and wagon wheels.  Along either side of the road are tall cattails
+with the bulbous seed pod heads waving in the barest hint of a breeze.  Here
+and there soft quacking can be heard from behind the natural cattail blind. 
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 1003
+D2
+~
+~
+0 0
+0 0 1004
+D3
+~
+~
+0 0
+0 0 1001
+S
+#1003
+A dirt covered wagon bridge~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1002
+S
+#1004
+A Well Traveled Intersection ~
+The dirt on this road has been well packed down by many feet, horse
+hooves and wagon wheels.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1002
+D1
+~
+~
+0 0
+0 0 1006
+D2
+~
+~
+0 0
+0 0 1008
+D3
+~
+~
+0 0
+0 0 1005
+S
+#1005
+The Damelien Post~
+Two steps ascending off the well traveled road leads up onto a long
+platform porch.  The small {Dw{Whit{De{x building attached to the porch has low set
+windows that have swinging shudders.  A red painted {rd{Roo{rr{x is split in half so
+the top may open while the bottom stays closed.  The name of the building
+'{yThe Damelien Post{x' is carved on a sign that hangs off two small chains
+which have been attached to the eaves.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1004
+S
+#1006
+A Picnic Near the Stream~
+The {cs{Dt{Wre{Da{cm{x gurgles and ripples as it bounces over and around some of the
+flat boulders in the stream bed.  Next to the deeper part of the stream is a
+large {gt{yr{De{ge{x with a rope-swing tied to its strongest branch.  A picnic {cb{Dl{ca{Dn{ck{De{ct{x
+lain out with a scrumptious feast set on top of it.  
+~
+0
+0 2
+E
+large tree~
+A large sturdy {gt{yr{De{ge{x.
+~
+E
+rope swing~
+A {yk{Dn{Wo{yt{x is tied every foot or so down the length of the {yr{Do{Wp{ye s{Dw{Wi{Dn{yg{x.  
+~
+D3
+~
+~
+0 0
+0 0 1004
+S
+#1007
+~
+~
+0
+C 0
+S
+#1008
+A Well Traveled Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1004
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1000 0 1
+D 0 1001 2 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

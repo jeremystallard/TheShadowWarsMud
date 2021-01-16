@@ -1,0 +1,5662 @@
+#AREADATA
+Name Fal Dara~
+Builders Faerstorm Indy~
+VNUMs 30336 30499
+Credits None~
+Security 5
+Low 0
+High 0
+Flags 9
+Version 2
+End
+
+
+
+#MOBILES
+#30336
+guard gateguard fal daran~
+a Fal Daran gateguard~
+A Fal Daran gateguard watches you closely as you enter.
+~
+A Fal Daran gateguard stands at attention here, his armor gleaming
+slightly in the sun.  He holds his pike lazily, but you know that should you
+make any aggressive moves, he would be at you in an instant.  
+~
+shienaran~
+ABT 0 1000 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CFKT 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+M 'GREET' 30336 100~
+#30337
+patrol patrolman guard man fal daran~
+a Fal Daran patrolman~
+A Fal Daran patrolman walks here, making his rounds.
+~
+This patrolman is just doing his duty, keeping a constant surveillance
+from the top of the city walls.  His topknot is well-kept, and he carries
+his spear as if he knows how to use it.  His weathered face shows some signs
+of aging, but his muscles appear anything but flabby.  
+~
+shienaran~
+AT 0 1000 0
+65 55 33d33+4225 65d10+100 7d12+32 punch
+0 0 0 0 0
+A
+3 3 3 3
+FHIKNT 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#30338
+watch sergeant man~
+a watch sergeant~
+A watch sergeant looks menacingly about, searching for someone to find guilty of anything.
+~
+This sergeant certainly looks meaner than any of the other watchmen. 
+While the town watch generally goes about its business without harassing the
+citizens, this sergeant appears to be looking for something to get angry at.
+~
+shienaran~
+AT 0 1000 0
+55 45 28d28+3025 55d10+100 6d11+27 bite
+0 0 0 0 0
+0
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#30339
+lookout watchman~
+a lookout~
+A Fal Daran lookout scans the horizon, searching for anything out of the ordinary.
+~
+Because of the constant Shadowspawn threat, the position of lookout is
+quite important in order to provide advance notice of attack.  This lookout
+is quite intent and is his eyes never cease scanning the horizon.  
+~
+shienaran~
+ABT 0 1000 0
+66 56 34d35+4356 66d10+100 7d13+33 elbow
+0 0 0 0 0
+A
+3 3 3 3
+CFHIKNT 0 0 0
+stand stand male 24
+0 0 medium 'flesh'
+#30340
+town watch watchman man~
+a town watchman~
+Town watch watchman man
+~
+The town watch is constantly patrolling the city, watching for
+disturbances of any kind.  While they are trained to spot and engage
+Shadowspawn, more often than not they have to prevent street brawls from
+progressing too far.  
+~
+shienaran~
+A 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 punch
+0 0 0 0 0
+0
+2 2 2 2
+FIKN 0 0 0
+stand stand male 22
+0 0 medium 'flesh'
+#30341
+sleeping man guard watch~
+a sleeping guard~
+A guard is here, apparently sleeping on duty.
+~
+Quite obviously, this guard is incapacitated in a big way.  His snores
+practically shake the nearby walls, and you are amazed that the noise he is
+making hasn't already caused him to wake himself.  
+~
+shienaran~
+ABT 0 1000 0
+52 42 27d28+2704 52d10+100 6d8+26 slap
+0 0 0 0 0
+A
+2 2 2 2
+CFI 0 0 0
+sleep stand male 20
+0 0 medium 'flesh'
+#30342
+raven bird~
+a raven~
+A pitch black raven is perched here, staring at you with unblinking eyes.
+~
+A large, pitch black raven is sitting very still as it surveys the
+surroundings here.  Although you know birds to be less than intelligent, you
+somehow know that the bird is watching you specifically and that it isn't
+afraid of you at all.  In fact, you feel like it hates you passionately,
+although, it's just a bird, isn't it?  
+~
+song bird~
+AC J 0 0
+56 46 29d30+3136 56d10+100 6d12+28 peck
+0 0 0 0 0
+0
+2 2 2 2
+NU 0 0 0
+stand stand either 0
+0 0 medium 'unknown'
+#30343
+warrior man shienaran strong~
+a Shienaran warrior~
+A strong-looking Shienaran warrior is walking here, apparently preoccupied with something.
+~
+Instantly you recognize this Shienaran from his well-shaved head save a
+single top-knot.  His muscles flex and relax as he moves around, and if
+anyone were to epitomize your idea of a Shienaran, this would be him.  
+~
+shienaran~
+AT 0 0 0
+59 49 30d30+3481 59d10+100 6d15+29 pound
+0 0 0 0 0
+A
+2 2 2 2
+CFIJKN 0 0 0
+stand stand male 18
+0 0 medium 'flesh'
+#30344
+warrior man shienaran borderlander borderland~
+a borderland warrior~
+A borderland warrior walks quickly by you, ignoring your presence completely.
+~
+While they are not known for their politeness, some courtesy should be
+expected.  This borderlander doesn't seem to bother with even the slightest
+hint of manners.  In fact, he appears to be offended by your very existence.
+~
+shienaran~
+AT 0 0 0
+58 48 30d31+3364 58d10+100 6d14+29 punch
+0 0 0 0 0
+A
+2 2 2 2
+CEFIKN 0 0 0
+stand stand male 17
+0 0 medium 'flesh'
+#30345
+warrior man training sweat sweaty~
+a sweaty warrior in training~
+Sweating profusely, a warrior in training stops to rest for a while.
+~
+Who would believe one person could sweat so much???  This warrior seems
+proficient enough at his work, but it is amazing that his weapon doesn't fly
+out of his hands because of all the sweat.  Too bad he forgot his towel...  
+~
+shienaran~
+AT 0 1000 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+0
+1 1 1 1
+CFIN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#30346
+borderguard man recruit new~
+a new recruit~
+A new recruit is here, looking excited for his training.
+~
+This recruit's energy appears to be almost boundless.  His hands are in
+continual motion and seem to have a mind of their own.  You wouldn't be
+surprised if he were to climb right out of the ill-fitting standard issue
+that he has on...  
+~
+shienaran~
+AHT 0 1000 0
+41 31 21d21+1681 41d10+100 5d6+20 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIKN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#30347
+borderguard recruit man~
+a borderguard recruit~
+This borderguard recruit is calm, watching to see what will be required of him next.
+~
+Having just received his standard issue, this recruit appears to have
+more control than some of the other recruits around him.  His eyes appear
+wary, although, you still notice he doesn't have that hardened look of a
+seasoned veteran.  
+~
+shienaran~
+AT 0 0 0
+43 33 22d22+1849 43d10+100 5d8+21 none
+0 0 0 0 0
+0
+1 1 1 1
+FJK 0 0 0
+stand stand male 11
+0 0 medium 'flesh'
+#30348
+borderguard veteran man hardened guard~
+a borderguard veteran~
+A hardened borderguard is here, ensuring no one gets injured during exercises.
+~
+This borderguard appears to have seen a bit of combat in his time.  His
+face bears the scars of more than one fight, but you have to assume that he
+won more than he lost, because he is still here...  
+~
+shienaran~
+AT 0 0 0
+49 39 25d25+2401 49d10+100 5d14+24 slash
+0 0 0 0 0
+A
+1 1 1 1
+CEFIKN 0 0 0
+stand stand male 27
+0 0 medium 'flesh'
+#30349
+borderguard instructor guard~
+a borderguard instructor~
+A borderland instructor is here, lecturing the new recruits.
+~
+Hints of grey a speckled through the top-knot of this borderland guard,
+but in now way does he look weak.  His eyes are full of wisdom and though he
+is older, he appears like he would be a tough person to beat in a fight.  
+~
+shienaran~
+ABJTb 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slash
+0 0 0 0 0
+A
+6 6 6 6
+CEFIJKN 0 0 0
+stand stand male 14
+0 0 medium 'flesh'
+F gain A
+F train A
+V tlevel 90
+#30350
+practice dummy~
+a standing practice dummy~
+A practice dummy is here holding a wooden sword.
+~
+This practice dummy looks like a common field soldier who is wielding a
+shield and sword.  It seems to have taken quite a bit of abuse, but still
+resembles a human enough for the borderguard not to retire it or take it
+down for kindling.  
+~
+shienaran~
+AB 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 none
+0 0 0 0 0
+A
+1 1 1 1
+CKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#30351
+practice dummy mounted~
+a mounted practice dummy~
+A mounted practice dummy sits atop a stuffed horse.
+~
+This practice dummy looks like a soldier mounted on horseback.  Its
+wooden lance is lowered slightly as if he were charging.  You notice that
+while it is mounted, it only a few scratches are on the practice horse part.
+Of course, the guard would train warriors to hit the rider.  
+~
+shienaran~
+A 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 none
+0 0 0 0 0
+A
+1 1 1 1
+CIN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#30352
+oversized practice dummy trolloc~
+an oversized practice dummy~
+An oversized practice dummy vaguely resembles a horned trolloc.
+~
+Without hesitation you are able to recall all of the childhood memories
+you have of stories about trollocs.  This practice dummy, while made of wood
+and canvas, gives you a much better idea what a trolloc must look like,
+since it is much larger than man size.  
+~
+shienaran~
+AB 0 0 0
+47 37 24d24+2209 47d10+100 5d12+23 none
+0 0 0 0 0
+A
+1 1 1 1
+CIN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#30353
+borderguard recruiter guard~
+a borderguard recruiter~
+A recruiter for the borderguard is here, trying to catch your eye.
+~
+Although he acts surprised that he caught your eye, this recruiter knows
+his stuff.  He has a vast knowledge of adventures and the many benefits that
+you will get from the borderguard once you sign up, and even promises money
+and untold riches, assuming you do your part.  
+~
+shienaran~
+AB 0 1000 0
+52 42 27d28+2704 52d10+100 6d8+26 uppercut
+0 0 0 0 0
+A
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#30354
+borderguard sergeant guard~
+a borderguard sergeant~
+The sergeant appears preoccupied with other thoughts as he paces here.
+~
+Unlike many desk jobs, being a sergeant in the borderguard doesn't allow
+one the luxury of being sedentary in an office all day.  This sergeant's
+hands are hard and callused from many hours training and, from the scars on
+his face, fighting.  
+~
+shienaran~
+AB 0 1000 0
+52 42 27d28+2704 52d10+100 6d8+26 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 45
+0 0 medium 'flesh'
+#30355
+borderguard guard lover~
+a borderguard~
+A borderguard is sitting here, looking deeply into his girlfriend's eyes.
+~
+Disgusting!  This borderguard sure doesn't have any sense of decency.  He
+continually is staring dreamily into the eyes of his girlfriend, and, while
+she is pretty, she isn't THAT pretty!  
+~
+shienaran~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 shoulderbash
+0 0 0 0 0
+0
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 25
+0 0 medium 'flesh'
+#30356
+girl girlfriend lover~
+a girlfriend~
+A girl is here, blushing prettily as she speaks with a borderguard.
+~
+This young girl appears quite pretty and seems to have a way with the
+men.  As you look at her, you notice she has this ability to blush on demand
+regardless of who is speaking to her, or what the topic of conversation is. 
+You're sure she's stolen many a heart away.  
+~
+shienaran~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 slap
+0 0 0 0 0
+A
+2 2 2 2
+FIN 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#30357
+quartermaster~
+a quartermaster~
+The quartermaster is here, reviewing the quality of the latest shipment of spears.
+~
+The quartermaster is the person you see about getting your standard issue
+equipment.  If there is anything that anyone needs, he is the person to see
+about it.  He also is known for his ability to fix almost anything, which is
+why some think he might be a genius.  
+~
+shienaran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+0
+6 6 6 6
+CFIKN ABCD 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#30358
+wife woman well rounded round cook~
+an innkeeper's wife~
+A well-rounded woman is here, bellowing orders and wielding a wooden spoon.
+~
+You scarcely believe your eyes as you behold this mammoth of a woman
+bellowing orders and waving her spoon about threateningly.  There is no
+doubt who is in charge in this kitchen, and in this inn for that matter... 
+Watch out, she may turn that temper on you.  
+~
+shienaran~
+AB 0 1000 0
+37 27 19d19+1369 37d10+100 4d11+18 none
+0 0 0 0 0
+0
+1 1 1 1
+CFI 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#30359
+lampsman lamp man~
+a patrolling {Yla{Wmp{Ysm{Wan{x~
+A {Yla{Wmp{Ysm{Wan{x wanders, keeping all lights lit so there are no {Dshadows{x.
+~
+A older boy, perhaps a young man now, has been given the very important
+task of lighting the city {yla{Yn{Wte{Yr{yns{x.  He patrols the streets on slits so that
+he can reach the lights that hang high up, allowing more light to reach the
+corners and protect the city from shadow travelers.  
+~
+shienaran~
+A 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+FIN 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#30360
+guild guard gate watchful~
+a watchful {Wg{ca{Dt{We{cg{Du{Wa{cr{Dd{x~
+A watchful {Wg{ca{Dt{We{cg{Du{Wa{cr{Dd{x stands here, ensuring the protection of the city.
+~
+A tall man with {Ddark{x hair tied up in a top knot stands here.  He wears
+sturdy, polished armor and an overcoat bearing the {Dc{Wo{cl{Do{W{cs{x of his country. 
+His face is clearly shaven and his {Dboots{x are newly polished.  Everything
+about him is very proper and official.  His almond-shaped eyes are {bdark{x and
+watchful.  Nothing will get by this man undetected.  
+~
+shienaran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN c 0 0
+stand stand male 0
+0 0 medium 'flesh'
+G BorderGuard~
+F guard_flag D
+#30361
+short round man smiling innkeeper~
+an innkeeper~
+A short, round man wanders about, smiling at everyone he sees.
+~
+This flamboyant man appears to eat enough for two, and yet he moves
+around quite lightly.  His only concern appears to be the comfort and
+well-being of those visiting his inn, and he goes out of his way to make
+sure that they are satisfied with everything.  
+~
+shienaran~
+AB 0 1000 0
+36 26 19d20+1296 36d10+100 4d10+18 none
+0 0 0 0 0
+A
+1 1 1 1
+CFK 0 0 0
+stand stand male 60
+0 0 medium 'flesh'
+#30362
+fido mutt small~
+Fido~
+A small mutt is running along the ground, yipping at anyone who nears him.
+~
+You barely dodge out of the way as this little ball of fur comes running
+underneath you.  This mutt is small and has the blood of enough different
+dogs that you are unsure where he came from.  The only thing you are sure
+of, is its yipping sure gets annoying.  
+~
+dog~
+A 0 1000 0
+30 20 16d17+900 30d10+100 4d4+15 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 1
+0 0 medium 'flesh'
+#30363
+petite waitress little woman~
+a petite waitress~
+A petite little woman hurries about, carrying food and drinks to the patrons.
+~
+The waitress is quite petite, but appears to be well proportioned.  She
+smiles shyly as she makes her rounds, and somehow manages to keep just out
+of reach of any wandering hands without quite looking like she did it on
+purpose.  Clearly, she is experienced at her job.  
+~
+shienaran~
+AB 0 1000 0
+32 22 17d18+1024 32d10+100 4d6+16 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#30364
+aes sedai woman commanding~
+an Aes Sedai~
+A woman with a commanding presence observes you silently.
+~
+Dressed in fine silks, this woman is the epitome of excellence.  Her
+smooth face betrays no aging lines, and her eyes speak untold volumes of
+knowledge.  Idly, she watches you without seeming to pay you much heed, and
+with no sign of worry.  
+~
+shienaran~
+AB 0 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 blast
+100 100 100 100 100
+0
+4 4 4 4
+CFIKN 0 0 0
+stand stand female 75
+0 0 medium 'flesh'
+#30365
+warder dangerous man~
+a warder~
+A dangerous-looking man is here, watching your every move.
+~
+As you look at this man, he almost seems to fade in and out of view, but,
+of course, that wouldn't be possible.  His stance appears relaxed, but the
+longer you look at him the more he seems like a coiled spring than a man at
+rest.  
+~
+shienaran~
+AB FJP 1000 0
+70 60 36d37+4900 70d10+100 8d8+35 shoulderbash
+0 0 0 0 0
+0
+4 4 4 4
+CFIJKNR 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#30366
+travel worn man~
+a travel-worn man~
+A travel-worn man rests from his journey here.
+~
+Tired from his long journey, you can tell that all this adventurer would
+like to do is sit back and enjoy some time away from the road.  Even though
+he is covered in dust, he looks like he may just decide to lie down right
+here and take his well-deserved.  
+~
+shienaran~
+A 0 1000 0
+60 50 31d32+3600 60d10+100 7d7+30 shoulderbash
+0 0 0 0 0
+0
+3 3 3 3
+CFIKN 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#30367
+pretty young woman daughter~
+the Innkeeper's daughter~
+A pretty young woman is here, combing her hair.
+~
+Although the Innkeeper's daughter is quite attractive now, you are sure
+that sometime during the future her family genes will kick in and she will
+become more and more like her mother and father.  Today, though, she is
+certainly an eye-catcher!  
+~
+shienaran~
+AB 0 1000 0
+31 21 16d16+961 31d10+100 4d5+15 slap
+0 0 0 0 0
+0
+1 1 1 1
+FI 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#30368
+seasoned adventurer man ~
+a seasoned adventurer~
+A seasoned adventurer is sitting here, toying with his dagger.
+~
+This grizzled man appears to be in his older years, but that could be
+because of the unshaven look he has.  His beard is freckled with grey and
+his face is weathered and tan.  His hands show many calluses that reflect
+their use for all his labors.  
+~
+shienaran~
+A 0 1000 0
+65 55 33d33+4225 65d10+100 7d12+32 headbutt
+0 0 0 0 0
+0
+3 3 3 3
+CFIJKN 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#30369
+apprentice cook~
+an apprentice cook~
+An apprentice cook is trying to work faster, but isn't succeeding.
+~
+This apprentice cook appears to be at wits end.  With all of the yelling
+that the Innkeeper's wife is doing, you'd think that they were trying to
+fight a war, not just bake the bread and prepare the meat.  Regardless, you
+can tell that not many could stand being in the room with her for long.  
+~
+shienaran~
+AB 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+0
+1 1 1 1
+FIN 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#30370
+stable master man~
+a stable master~
+The stable master is here, gently grooming a fine roan mare.
+~
+The stable master seems to love what he is doing.  He softly coos to the
+mare as he works the brush through her hair, removing the dust from a hard
+day's riding.  He barely glances up from his work as he hears you enter, but
+he does softly ask that you do not disturb the animals.  
+~
+shienaran~
+AB 0 1000 0
+39 29 20d20+1521 39d10+100 4d13+19 uppercut
+0 0 0 0 0
+A
+1 1 1 1
+IKN 0 0 0
+stand stand male 12
+0 0 medium 'flesh'
+#30371
+roan mare horse~
+a roan mare~
+A roan mare is standing here, content to just flick her tail occasionally.
+~
+The mare is simply beautiful.  Her hair is a dark brown, almost black
+color, and her muscles seem to be made of iron.  She looks like she would
+run like the wind if given half the chance...  
+~
+unique~
+AB J 1000 0
+38 28 20d21+1444 38d10+100 4d12+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand female 0
+AGV ACDEKLQ medium 'flesh'
+#30372
+black stallion horse~
+a black stallion~
+A large black stallion is here, snorting aggressively at anyone who comes too close.
+~
+This stallion seems a bit on the excited side for you to consider riding
+it.  In fact, you probably don't want to get too close because chances are
+fairly good that it would take that to mean it gets the opportunity to bite
+you.  
+~
+unique~
+AB J 1000 0
+39 29 20d20+1521 39d10+100 4d13+19 bite
+0 0 0 0 0
+A
+1 1 1 1
+FIMN 0 0 0
+stand stand male 0
+AGV ACDEKLQ medium 'flesh'
+#30373
+horse brown~
+a horse~
+A brown horse is here, standing complacently.
+~
+A brown-haired horse is here, standing complacently and not doing much of
+anything.  In fact, if its eyes weren't open, you would be sure that it was
+sleeping on its feet.  Even so, you still think the odds of it being asleep
+at this moment are at least slim.  
+~
+unique~
+AB J 1000 0
+37 27 19d19+1369 37d10+100 4d11+18 bite
+0 0 0 0 0
+A
+1 1 1 1
+FIM 0 0 0
+stand stand male 0
+AGV ACDEKLQ medium 'flesh'
+#30374
+stable man stableman~
+a stable man~
+A stable man works hard here, looking after the cleanliness of the stables.
+~
+A stable man is here, cleaning out the stall and laying fresh hay on the
+floor.  He seems quite content with his chores.  
+~
+shienaran~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 shoulderbash
+0 0 0 0 0
+0
+1 1 1 1
+FIN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#30375
+butcher large hairy man~
+a butcher~
+A large, hairy man wearing a bloody apron is here, holding a cleaver loosely in one hand.
+~
+Until now, it had seemed that wars and battles were gruesome, but after
+seeing this man, you know better.  Entrails and blood are splattered on
+nearly every portion of his body, and his protective apron is a deep purple.
+At one time it may have been white, but that time is long past...  
+~
+shienaran~
+AB 0 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 cleave
+0 0 0 0 0
+0
+1 1 1 1
+CFIK 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#30376
+black smith blacksmith ~
+a blacksmith~
+A blacksmith is here, putting away his tools as he steps away from the forge.
+~
+Bulging biceps are the first thing you notice about this man.  His
+leather protection apron only covers the shoulders, and when he is working,
+it is hot enough so he chooses not to have the additional heat from wearing
+a shirt.  Methodically, he swings the hammer to pound the metal into shape. 
+~
+shienaran~
+ABE 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 shoulderbash
+0 0 0 0 0
+0
+6 6 6 6
+CFIJKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#30377
+weaponsmith weapon smith~
+a weaponsmith~
+The weaponsmith is here, showering sparks everywhere as he sharpens a pike.
+~
+The weaponsmith seems to take a lot of pride in his work.  His eyes gleam
+as he slowly works the edge of the pike along a sharpening stone. 
+Occasionally he stops to check its sharpness with his thumb, only to start
+sharpening again moments later.  
+~
+shienaran~
+AB 0 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+0
+1 1 1 1
+CFIKN 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#30378
+kitten little~
+a weaver~
+A weaver is here, wearing a colorful outfit that looks more like a tapestry than clothes.
+~
+If you didn't know any better, you would believe that this weaver was
+once a tinker, or at least was descended from one.  Bright stripes of
+orange, green, red and blue decorate the short and pants that she wears, and
+you have no doubt that she would be quite easy to find in a crowd.  
+~
+shienaran~
+AB 0 1000 0
+39 29 20d20+1521 39d10+100 4d13+19 slap
+0 0 0 0 0
+0
+1 1 1 1
+CFIKN 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#30379
+kitten little~
+a kitten~
+A little kitten is trying vainly to free itself from the yarn it was playing with.
+~
+This little kitten appears to have bitten off more than it can chew.  It
+is on the floor struggling vainly to free itself from various colors of yarn
+that could be used to weave cloth or a tapestry of some sort.  Its sad meows
+are a desperate plea for help...  
+~
+cat~
+A J 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 bite
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+F aff Z
+#30380
+serving girl wench~
+a serving wench~
+A serving girl comes over to you and offers to sell you something.
+~
+A petite serving girl looks quite pretty in her outfit that shows more
+than it covers, however, you can see that while she may appear docile and
+willing, she is quick to fend off hands that reach for her, and for those
+persistent patrons, she is more quite capable of dolling out a bruise or
+two.  
+~
+shienaran~
+AB 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+FI 0 0 0
+stand stand female 15
+0 0 medium 'flesh'
+#30381
+barbecue joe man~
+Barbecue Joe~
+Barbecue Joe makes the rounds, ensuring that everyone loves his cooking as much as he does.
+~
+Barbecue Joe is known practically everywhere for his famous barbecue
+sauce and for the tender meat that he cooks.  He can make any piece of meat
+palatable, which is a skill he puts to use on a very regular basis being
+this close to the blight.  
+~
+shienaran~
+A 0 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 shoulderbash
+0 0 0 0 0
+0
+1 1 1 1
+CFIKN 0 0 0
+stand stand none 40
+0 0 medium 'flesh'
+#30382
+sheep bleating~
+a sheep~
+A bleating sheep is here, trying desperately to avoid an unpleasant fate.
+~
+This sheep is here, bleating.  It appears quite dumb and as far as you
+can tell, is bleating for no real reason at all.  Its eyes, however, look to
+be a little frantic, as if it wants to escape to somewhere else.  
+~
+unique~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 charge
+0 0 0 0 0
+0
+1 1 1 1
+FH 0 0 0
+stand stand either 0
+AGV ACDEFJKQ medium 'flesh'
+#30383
+store manager general~
+a store manager~
+The general store manager is here, watching you carefully as you enter.
+~
+This general store manager isn't going to let anyone steal anything from
+him.  His eyes dart from counter to customer and back again.  I don't
+believe you have ever seen a more paranoid storeowner.  
+~
+shienaran~
+AB 0 1000 0
+37 27 19d19+1369 37d10+100 4d11+18 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand male 35
+0 0 medium 'flesh'
+#30384
+stocker boy~
+a stocker~
+A stock boy is searching the shelves frantically for something.
+~
+This young man is tall and lean and doesn't appear to have any fat on him
+at all.  He is frantically checking for some item needed by the manager, and
+looks as if he hasn't made much progress.  
+~
+shienaran~
+AB 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+FI 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#30385
+patron drunk drunken man~
+a drunken bar patron~
+A drunken bar patron is here, swooning at every change in the air around him.
+~
+You thought that it was just the bar that smelled of alcohol, but after
+noticing this fellow, you now realize that the smell permeates him and those
+sitting near him.  His eyes are slightly glazed with the dull look many
+alcoholics acquire, and he wobbles unsteadily even as he orders another
+round.  
+~
+shienaran~
+AB 0 1000 0
+38 28 20d21+1444 38d10+100 4d12+19 shoulderbash
+0 0 0 0 0
+A
+1 1 1 1
+CIN 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#30386
+patron female woman~
+a female patron~
+A woman sits here, drinking her mulled wine and flirting with the local men.
+~
+This woman seems to have no minimum standard at all.  The men she is
+flirting with are absolutely foul, and you now realize why.  When she turns
+her smile to you, you can't help but notice that her front teeth are missing
+and her breathe is enough to compete with the other curious bar smells as
+"best of the worst."  
+~
+shienaran~
+AB 0 1000 0
+36 26 19d20+1296 36d10+100 4d10+18 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIN 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#30387
+pickpocket thief~
+a pickpocket~
+A quick pickpocket tries to steal your money while your attention is elsewhere.
+~
+This lithe young man nudges you slightly as his hand goes for your
+wallet.  You wouldn't have noticed him at all except for the shifty look in
+his eyes as you directed your attention to you.  Upon seeing your scrutiny,
+he quickly turns away and pretends to be extremely interested in the
+contents of his fingernails...  
+~
+shienaran~
+AS P 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 uppercut
+0 0 0 0 0
+A
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 50
+0 0 medium 'flesh'
+#30388
+shopper woman bargain~
+a shopping master~
+A bargain shopper is here, trolling the stores for deals she can't pass up.
+~
+At first, you thought this was a moving stack of boxes and bags, when you
+realize that beneath it all is a woman.  She appears to be quite comfortable
+beneath her load, and even pauses to scan the area for additional stores
+that might hold treasures she couldn't live without.  
+~
+shienaran~
+A 0 1000 0
+38 28 20d21+1444 38d10+100 4d12+19 slap
+0 0 0 0 0
+0
+1 1 1 1
+CFI 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#30389
+bored husband~
+a bored husband~
+A bored husband is here, trying in vain to get to away from the shopping frenzy.
+~
+While most men are adept at evading the dreaded shopping spree, it is
+apparent this one was not.  You can practically see the leash tied around
+his neck leading him from store to store as he follows his wife around
+dutifully while gazing enviously at those men headed straight for the
+tavern.  
+~
+shienaran~
+A 0 1000 0
+37 27 19d19+1369 37d10+100 4d11+18 none
+0 0 0 0 0
+0
+1 1 1 1
+CFIN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#30390
+little boy ~
+a little boy~
+A little boy strikes valiantly at his companion with his wooden sword.
+~
+What this boy lacks in skill he makes up in enthusiasm.  You almost are
+afraid he is going to put his own eye out with the way he is flailing about
+with his wooden sword, but he has yet to land a blow on his companion.  Even
+if you did consider stopping to help him, getting close enough to draw his
+attention would only result in a whack or two.  
+~
+shienaran~
+A 0 1000 0
+32 22 17d18+1024 32d10+100 4d6+16 slap
+0 0 0 0 0
+0
+1 1 1 1
+FI 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#30391
+little boy ~
+a little boy~
+A little boy blocks all attempts to hit him with his toy sword.
+~
+This boy appears to have a fair bit of control with his sword as he waits
+calmly for his companion to actually get a swing near enough to him that it
+requires a block.  Till then, he is content to hold back, being quite
+entertained at the wild swings before him.  
+~
+shienaran~
+A 0 1000 0
+32 22 17d18+1024 32d10+100 4d6+16 slap
+0 0 0 0 0
+0
+1 1 1 1
+FI 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#30392
+little girl~
+a little girl~
+A little girl is sitting here, watching the boys and adults with disinterest.
+~
+Bored is the only possible word you could use to describe this young
+lass.  Her doll is held limply in one hand, and she turns her
+less-than-enthusiastic gaze to the boys, to her parents, to the shops, and
+then back again.  No enthusiasm here...
+~
+shienaran~
+A 0 1000 0
+31 21 16d16+961 31d10+100 4d5+15 slap
+0 0 0 0 0
+0
+1 1 1 1
+I 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#30393
+toddler~
+a toddler~
+A toddler squeals with delight as he chases after a butterfly.
+~
+Squeals of delight draw your attention to this wee one.  He toddles
+frantically after a butterfly that somehow manages to stay just ahead of
+him, despite his effort.  Occasionally, his steps carry him a little too
+fast, and he ends up on the ground, only to pick himself up again in his
+quest to acquire the alluring butterfly.  
+~
+shienaran~
+A 0 1000 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+0
+1 1 1 1
+I 0 0 0
+stand stand male 1
+0 0 medium 'flesh'
+#30394
+citizen fal daran~
+a male citizen~
+A Fal Daran citizen is walking here, intent on his own business.
+~
+This man walks briskly by you, intent on his business.  Nothing about his
+is noteworthy, except for the fact that he is wearing the traditional garb
+of those of Fal Dara and his height and weight are of average build.  
+~
+shienaran~
+A 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 uppercut
+0 0 0 0 0
+0
+1 1 1 1
+FIN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#30395
+citizen female fal dara daran~
+a female citizen~
+A female citizen of Fal Dara is strolling by here.
+~
+This woman is strolling by you, having a nice leisurely walk.  Nothing
+about her is noteworthy, except for the fact that she is wearing the
+traditional garb of those of Fal Dara and her height and weight are of
+average build.  
+~
+shienaran~
+A 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+0
+1 1 1 1
+FIN 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#30396
+little thief~
+a little thief~
+A little thief bumps into you as he tries to remove your valuables.
+~
+You can't believe the audacity of this little rug rat.  What is the world
+coming to?  He wasn't even discrete about trying to lift your money from
+your pocket, but he does appear quite elusive as he evades your grasping
+hand with ease.  Looks like you'll have to try harder if you are going to
+get your valuables back.  
+~
+shienaran~
+A 0 1000 0
+35 25 18d18+1225 35d10+100 4d9+17 uppercut
+0 0 0 0 0
+0
+1 1 1 1
+FIKN 0 0 0
+stand stand male 40
+0 0 medium 'flesh'
+#30397
+nurse betty~
+Nurse Betty~
+Nurse Betty is here to help you with anything that ails you.
+~
+Nurse Betty is the closest thing to a celestial body you have ever seen. 
+She dotes upon each one of her patients, and turns to give you the warmest
+smiles as she notices your attention.  You'd be willing to do anything for
+her if she were to just ask.  
+~
+shienaran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+CFIKN 0 0 0
+stand stand female 50
+0 0 medium 'flesh'
+M 'RANDOM' 30397 25~
+M 'RANDOM' 30398 25~
+#30398
+borderguard injured~
+an injured borderguard~
+An injured borderguard is here, enjoying the attention of Nurse Betty.
+~
+This guard is laying on one of the cots here in the infirmary, and his
+left arm appears to be in a splint.  He frequently complains about it to the
+nurse in a blatant attempt to get her to spend more time with him, even
+though it is obvious it is already wrapped and there is nothing more she can
+do for him.  
+~
+shienaran~
+AB 0 1000 0
+55 45 28d28+3025 55d10+100 6d11+27 headbutt
+0 0 0 0 0
+A
+2 2 2 2
+FIK 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#30399
+borderguard messenger~
+a messenger~
+A messenger from the borderguard is here, trying to deliver his message.
+~
+This messenger carries a small leather shoulder bag and only a long
+dagger.  It is obvious he is not one who does the major fighting in
+defending the blight, but rather his role is to deliver messages quickly
+from place to place.  
+~
+shienaran~
+A 0 1000 0
+58 48 30d31+3364 58d10+100 6d14+29 shoulderbash
+0 0 0 0 0
+0
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#30400
+old man husband~
+an old man~
+An old man is here, walking hand in hand with his wife
+~
+This cute old man is shuffling along, holding his wife's hand as he
+enjoys the outdoors and observes those around him.  
+~
+shienaran~
+A 0 1000 0
+36 26 19d20+1296 36d10+100 4d10+18 shoulderbash
+0 0 0 0 0
+0
+1 1 1 1
+FIK 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#30401
+old woman wife~
+an old woman~
+An old woman is here, walking hand in hand with her husband.
+~
+This cute old woman is shuffling along, holding her husband's hand as she
+enjoys the outdoors and observes those around her.  
+~
+shienaran~
+A 0 1000 0
+36 26 19d20+1296 36d10+100 4d10+18 slap
+0 0 0 0 0
+0
+1 1 1 1
+FIN 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#30402
+new recruit~
+a new recruit~
+A new recruit is here, getting his standard issue equipment.
+~
+You'd be surprised if this man has ever had to lift a razor to his
+youthful face.  He reeks of the enthusiasm of the young who has glamorized
+battle and looks to carve a place in history for his name.  It's a shame so
+many of the young get involved in things that they know so little about.  
+~
+shienaran~
+A 0 1000 0
+42 32 22d23+1764 42d10+100 5d7+21 shoulderbash
+0 0 0 0 0
+0
+1 1 1 1
+CFIK 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#30403
+borderguard archer~
+a borderguard archer~
+An archer from the borderguard is here, sighting down his knocked arrow.
+~
+His forehead is beaded with sweat and you can see his arm muscles
+straining as he has his bow fully knocked with an arrow.  Even though you
+are close to him, he isn't paying much attention to you since all his
+efforts are in focusing on his target.  
+~
+shienaran~
+A 0 1000 0
+52 42 27d28+2704 52d10+100 6d8+26 shoulderbash
+0 0 0 0 0
+0
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#30404
+dignitary visiting~
+a dignitary~
+A visiting dignitary is here, looking prim and proper.
+~
+You immediately notice that this woman is not from around here.  She
+doesn't wear any visible armor and has a swagger that reminds you a bit of
+the Domani.  Even in the chill weather, the semi-transparent sleeves of her
+outfit show off the curves of her graceful arms.  
+~
+mayener~
+A 0 1000 0
+54 44 28d29+2916 54d10+100 6d10+27 slap
+0 0 0 0 0
+0
+2 2 2 2
+CFIKN 0 0 0
+stand stand female 50
+0 0 medium 'flesh'
+#30405
+stable hand~
+a stable hand~
+A stable hand is sweeping fresh straw onto the floor.
+~
+Somebody has to do the dirty work, and you are just glad that it isn't
+you.  This stable hand is working diligently to clean up the manure and lay
+a layer of fresh hay in each of the stalls.  
+~
+shienaran~
+AB 0 1000 0
+36 26 19d20+1296 36d10+100 4d10+18 headbutt
+0 0 0 0 0
+0
+1 1 1 1
+CFI 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#30406
+rat~
+a rat~
+A rat is here, its beady red eyes scanning around angrily.
+~
+As you look at this rat, you aren't sure whether to run, to scream, or to
+attack.  It looks like it could take on a cat or the like with its large
+teeth and beady eyes.  Even though you tower over it, there isn't even a
+trace of fear.  
+~
+unique~
+AB 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 bite
+0 0 0 0 0
+0
+1 1 1 1
+FHMN 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium 'flesh'
+#30407
+baby rat~
+a baby rat~
+A baby rat is here, squeaking loudly.
+~
+A filthy little hairless creature with a long tail and beady eyes is
+here.  It squeaks loudly, looking for its mother.  
+~
+unique~
+AB 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 bite
+0 0 0 0 0
+0
+1 1 1 1
+FHMN 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium 'flesh'
+#30408
+momma rat~
+a momma rat~
+A momma rat is here, guarding her brood.
+~
+A huge rat with a very long tail and sharp teeth is here protecting her
+children.  She doesn't look like something you would want to attack you.  
+~
+unique~
+AB 0 0 0
+52 42 27d28+2704 52d10+100 6d8+26 bite
+0 0 0 0 0
+0
+2 2 2 2
+FHMN 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium 'flesh'
+#30440
+woman fal daran~
+a Fal Daran~
+A woman from Fal Dara has stopped to shift her packages.
+~
+Shopping queen wouldn't begin to describe this woman.  She has more
+packages surrounding her than you would have thought possible, and she
+appears to be stacking them in just such a way that she will be able to
+manage them herself.  As she is in front of another store, well, who knows
+if she is even finished yet...  
+~
+shienaran~
+A 0 1000 0
+44 34 23d24+1936 44d10+100 5d9+22 slap
+0 0 0 0 0
+0
+1 1 1 1
+CFIN 0 0 0
+stand stand female 75
+0 0 medium 'flesh'
+#30441
+farmer~
+a farmer~
+A farmer is here, bringing his produce to sell in the market.
+~
+You are amazed at how much fruit this man can carry.  He has two large
+baskets of fruit on either end of a quarterstaff which is balanced on his
+shoulders.  As he walks, he occasionally glances at his wife and children,
+but you can tell that is focus is on getting the fruit to market where he
+will be able to rest.  
+~
+shienaran~
+A 0 1000 0
+53 43 27d27+2809 53d10+100 6d9+26 shoulderbash
+0 0 0 0 0
+0
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#30442
+farmer wife woman~
+a farmer's wife~
+A farmer's wife is here, keeping an eye on the children as they play.
+~
+This woman is dressed simply.  Her hair is pulled back in a handkerchief
+and she is carrying a basket of what looks to be fruit of some kind.  She
+isn't paying any attention to you at all as she is more than occupied trying
+to keep track of her children.  
+~
+shienaran~
+A 0 1000 0
+52 42 27d28+2704 52d10+100 6d8+26 slap
+0 0 0 0 0
+0
+2 2 2 2
+CFIN 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#30443
+middle aged man crooked smile~
+a middle-aged man with a crooked smile~
+A middle-aged man stands here, guarding the door to the north.
+~
+A middle-aged man stands here.  There is not really anything special
+about him.  He wears standard issue {Da{wr{Wm{wo{Dr{x and the over {cc{Do{Wa{ct{x of a soldier. 
+Upon entering the room, however, you do see something that distinguishes
+him: his crooked smile.  
+~
+shienaran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN ABCDc 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GREET' 30443 75~
+M 'BRIBE' 30444 250000~
+M 'ACT' 30445 north~
+#30444
+shienaran heavy warhorse horse~
+a {csh{Die{Wn{Dar{can{x heavy {ywa{Drh{yorse{x~
+A {csh{Die{Wn{Dar{can{x heavy {ywa{Drh{yorse{x stands alert, ready for battle.
+~
+A very large, well-bred warhorse is here.  His {Dtail{x and {D{ya{Dne{x are neatly
+groomed and cared for.  His muscular legs look sturdy and strong, ready to
+carry his rider into battle courageously.  
+~
+unique~
+AZ V 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 smash
+0 0 0 0 0
+A
+6 6 6 6
+CFIKO 0 ER L
+stand stand male 0
+AGV ACDEFJLQ large 'flesh'
+#30445
+nimble saldaean battle horse~
+a nimble {Bsa{Dl{Wda{De{Ban {ybattle horse{x~
+A nimble {Bsa{Dl{Wda{De{Ban {ybattle horse{x stands here patiently.
+~
+A beautifully groomed {BSa{Dl{Wda{De{Ban{x {yhorse{x stands here.  He is very
+well-trained and nimble, eagerly awaiting a rider to go into battle.  From
+time to time, he nays, as if he is asking when he will be able to go for a
+ride.  
+~
+unique~
+AZ V 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 crush
+0 0 0 0 0
+A
+6 6 6 6
+CFIKO 0 ER L
+stand stand male 0
+AGV ACDEFJLQ large 'flesh'
+#30446
+sure feeted kandori highland~
+a sure-footed {rk{Ra{Gnd{Ror{ri {yhighland{x~
+A sure-footed {rk{Ra{Gnd{Ror{ri {yhighland{x stands here, tossing her head eagerly.
+~
+A beautifully toned horse stands here with a long {Wwhite{x tail and mane. 
+Her eyes are deep and {ybrown{x.  Her skill and grace as a battling horse are
+unparalleled with other animals because of her ability to carry a rider.  
+~
+unique~
+AZ V 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+A
+6 6 6 6
+CFIKO 0 ER L
+stand stand female 0
+AGV ACDEFJLQ large 'flesh'
+#30447
+young stable keeper boy~
+a young {ys{Dt{ya{Db{yl{De{x keeper~
+A young {ys{Dt{ya{Db{yl{De{x keeper is here, busy caring for the fine horses.
+~
+A {Wp{Ya{Wle{x haired young man with deep {Bblue{x eyes is here sweeping the stable
+floor and ensuring that the horses have enough to eat.  He is still too
+young to carry a sword, so he sees to other jobs until the day he can be
+called a man.  
+~
+shienaran~
+AB 0 1000 0
+50 40 26d27+2500 50d10+100 6d6+25 uppercut
+0 0 0 0 0
+A
+2 2 2 2
+CFIKN 0 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#30448
+neatly dressed recruit~
+a neatly dressed {cr{De{Wcru{Di{ct{x~
+A neatly dressed {cr{De{Wcru{Di{ct{x is here, supplying soldiers with equipment.
+~
+A tall man with a top knot on his head stands here.  He is still quite
+young and from the markings on his unscathed {Da{wr{Wm{wo{Dr{x, one would assume he is a
+new recruit.  He scouts around the supply room, trying to become familiar
+with its belongings so that he can give them out when needed.  
+~
+shienaran~
+AB 0 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 uppercut
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN ABCDc 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#30449
+friendly servant~
+a friendly {Ds{ye{Yrv{ya{Dnt{x~
+A friendly {Ds{ye{Yrv{ya{Dnt{x is here greeting wary travellers.
+~
+A handsome man stands here at the entrance to the keep greeting those who
+enter.  He is dressed in fine {Dblack{x and {yg{Yol{yd{x livery.  His smile is very
+friendly and inviting.  
+~
+shienaran~
+AB 0 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 shoulderbash
+0 0 0 0 0
+A
+1 1 1 1
+FI 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+M 'GREET' 30449 50~
+#30450
+warhorse kandori feeted sure highland~
+a {Bsl{be{Bek {Dwa{wr{Wh{wo{Drse{x~
+A {Bsl{be{Bek {Dwa{wr{Wh{wo{Drse{x.
+~
+A beautifully toned horse stands here with a long {Wwhite{x tail and mane. 
+Her eyes are deep and {ybrown{x.  Her skill and grace as a battling horse are
+unparalleled with other animals because of her ability to carry a rider.  
+~
+unique~
+AZ V 1000 0
+90 80 46d47+8100 90d10+100 10d10+45 bite
+0 0 0 0 0
+0
+6 6 6 6
+CFIKO 0 ER L
+stand stand female 0
+AGV ACDEFJLQ large 'flesh'
+#0
+
+
+
+#OBJECTS
+#30336
+pike steel~
+a gateguard's pike~
+A tall pike lies and the ground here, its sharpened steel spike and blade gleaming in the sun.~
+wood~
+weapon 0 AN
+polearm 7 12 'pierce' 0
+60 20 50 100
+A
+2 2
+A
+1 2
+A
+19 4
+#30337
+cozy pile hay inviting~
+a very cozy-looking pile of {yh{Ya{yy{x~
+A very inviting, cozy-looking pile of {yh{Ya{yy{x is here on the ground.~
+organic~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#30338
+wooden stool~
+a {ywooden s{Yt{yool{x~
+A narrow-legged {ywooden s{Yt{yool{x is here for groomers to use.~
+wood~
+furniture 0 P
+1 1000 BEH 0 0
+0 0 0 100
+#30339
+tuft grass~
+a {gtu{Gf{gt{x of {gg{Gra{gss{x~
+Several {gtu{Gf{gts{x of {gg{Gra{gss{x grow in the field.~
+organic~
+food 0 A
+1 1 0 0 0
+0 0 0 100
+#30340
+simple bunk bed~
+a simple {ybunk {Wb{ye{Wd{x~
+A simple {ybunk {Wb{ye{Wd{x is pushed against the wall.~
+wood~
+furniture 0 P
+4 4000 EHK 0 0
+0 0 0 100
+#30341
+simple wooden wardrobe~
+a simple {ywooden w{ya{Dr{yd{yrobe{x~
+A simple {ywooden w{ya{Dr{yd{yrobe{x crowds the room.~
+wood~
+container 0 P
+200 ACF 0 20 0
+0 0 0 100
+E
+inside_description~
+A small drawer is hidden on the inside of the wardrobe.  Odd.  
+~
+#30342
+small drawer~
+a small {ywooden{x drawer~
+A small {ywooden{x drawer is on the inside of the wardrobe.~
+wood~
+container a P
+10 AC 0 1 0
+0 0 0 100
+#30343
+coin~
+a few {Ws{wi{Dlv{we{Wr{x coins~
+A few {Ws{wi{Dlv{we{Wr{x coins are here, wrapped in {Wcloth{x.~
+silver~
+money 0 A
+0 10 0 0 0
+0 20 0 100
+#30344
+knotty wooden bench~
+a {ykn{Do{Wt{yty w{Yo{yoden bench{x~
+A few carefully crafted {yw{Yo{yoden benches{x full of {ykn{Dot{Wh{Do{yles{x sit under the shady {yt{Gr{ge{Ge{ys{x.~
+wood~
+furniture 0 P
+10 10000 EHK 0 0
+0 0 0 100
+#30345
+target bale hay~
+a {Rt{Wa{Rr{Wg{Re{Wt{x balanced on a bale of {Yhay{x~
+A few {Rt{Wa{Rr{Wg{Re{Wt{Rs{x are here, carefully balanced against bales of {Yhay{x.~
+hay~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#30346
+half eaten slice current bread~
+a half-eaten slice of {rcu{yr{Dr{rent {yb{Wre{yad{x~
+A half-eaten slice of {rcu{yr{Dr{rent {yb{Wre{yad{x sits here on the ledge.~
+organic~
+food 0 A
+1 1 0 0 0
+0 1 0 100
+#30347
+jar cinnamon~
+a small {cj{Ca{cr{x of {rci{yn{Rna{rmon{x~
+A small {cj{Ca{cr{x labeled "{Dcinnamon{x" sits here on the shelf.~
+glass~
+container 0 A
+1 AC 0 1 0
+0 1 10 100
+#30348
+barrel dried apples cherries~
+a {ybarrel{x of dried {Ra{rp{Gpl{re{Rs{x and {rch{Rerri{res{x~
+A {ybarrel{x of dried {Ra{rp{Gpl{re{Rs{x and {rch{Rerri{res{x is stacked here. ~
+wood~
+furniture 0 P
+1 1000 E 0 0
+0 0 0 100
+#30349
+sack sacks cornmeal~
+a {ys{Da{yck{x of {Yco{Wrn{Yme{Wal{x~
+Several {ys{Da{ycks{x of {Yco{Wrn{Yme{Wal{x are piled high on the floor.~
+organic~
+food 0 A
+6 4 0 0 0
+0 5 15 100
+#30350
+expensive bottle red wine~
+an expensive {cbo{Ctt{Cle{x of {rr{Re{rd {rwine{x~
+An expensive {cbo{Ctt{Cle{x of {rr{Re{rd {rwine{x is hidden behind the rack...someone really doesn't want this to be found.~
+organic~
+drink a A
+20 20 'red wine' 0 0
+0 2 650 100
+#30351
+none~
+a {bpa{Bdd{Bed {ywo{Yod{yen bench{x~
+{bPa{Bdd{Bed {ywo{Yod{yen benches{x are here, pushed beneath clean, carefully carved {ywooden{x tables.~
+wooden~
+furniture 0 P
+20 20000 EH 0 0
+0 0 0 100
+#30352
+padded wicker couch~
+a {gpa{Gdd{ged {ywi{Dc{Yk{yer{x couch~
+A {gpa{Gdd{ged {ywi{Dc{Yk{yer{x couch is the centerpiece of the room, in front of a {rg{Rl{Yo{Ww{Yi{Rn{rg{x hearth.~
+cloth~
+furniture 0 P
+3 3000 EHK 0 0
+0 0 0 100
+#30353
+padded wicker chair~
+a {Gp{Wa{Gd{Wd{Ge{Wd{x {ywi{Dc{Yk{yer{x chair~
+Two {Gp{Wa{Gd{Wd{Ge{Wd{x {ywi{Dc{Yk{yer{x chairs sit on either side of the {gco{Guc{gh{x.~
+cloth~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#30354
+glowing fireplace~
+an elegant {Ds{wt{Wo{wn{De{x {Dfi{wr{Wepl{wa{Dce{x~
+An elegant {Ds{wt{Wo{wn{De{x {Dfi{wr{Wepl{wa{Dce{x {Rg{Yl{Wo{Yw{Rs{x brightly in the center of the wall, warming the room comfortably.~
+stone~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+E
+fireplace~
+Something looks a little amiss.  At first, you can't put your finger on
+it.  Then, you see a {Ds{wt{Wo{wn{De{x near the bottom, one of the least noticeable, is
+loose.  
+~
+#30355
+stone hollow~
+a hollow {Ds{wt{Wo{wn{De{x~
+A {Ds{wt{Wo{wn{De{x looks as if it can be removed from the fireplace.~
+stone~
+container a P
+1 AC 0 1 0
+0 0 0 100
+#30356
+crooked bony finger~
+a crooked, {Wbony{x finger~
+A crooked, {Wbony{x finger is here. Disgusting!~
+organic~
+pill 0 A
+45 'heal' '' '' ''
+45 1 100 100
+#30357
+comfortable bed patchwork quilt~
+a comfortable {ybed{x covered with a {Rpa{Wtc{Yh{Wwo{Rrk q{Wu{Yi{Wl{Rt{x~
+A comfortable {ybed{x stands in the room, covered with a {Rpa{Wtc{Yh{Wwo{Rrk q{Wu{Yi{Wl{Rt{x that looks inviting enough for a long nap.~
+wood~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#30358
+comfortable bed patchwork quilt~
+a comfortable {ybed{x covered with a {Gpa{Wtc{Yh{Wwo{Grk q{Wu{Yi{Wl{Gt{x~
+A comfortable {ybed{x stands in the room, covered with a {Gpa{Wtc{Yh{Wwo{Grk q{Wu{Yi{Wl{Gt{x that looks inviting enough for a long nap.~
+wood~
+furniture 0 P
+2 2000 EHK 1000 1000
+0 0 0 100
+#30359
+comfortable bed patchwork quilt~
+a comfortable {ybed{x covered with a {Bpa{Wtc{Yh{Wwo{Brk q{Wu{Yi{Wl{Bt{x~
+A comfortable {ybed{x stands in the room, covered with a {Bpa{Wtc{Yh{Wwo{Brk q{Wu{Yi{Wl{Bt{x that looks inviting enough for a long nap.~
+wood~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#30360
+table flowers~
+a {ywooden{x table ~
+An elegant {ywooden{x table stands here, holding a blown {cgl{Ca{css {cv{Cas{ce{x full of {mw{Mil{Yd{Wf{Ylo{Mwe{mrs{x.~
+wood~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#30361
+fine velvet couch couches~
+a fine, {rve{Rlv{ret{x-covered couch~
+Two fine couches, covered in {rve{Rlv{ret{x upholstery, stand in the center of the room.~
+cloth~
+furniture a P
+6 6000 EH 0 0
+0 0 0 100
+#30362
+large looking glass~
+a large, {yg{Yi{Wld{Ye{yd{x looking {cg{Clas{cs{x~
+A large, {yg{Yi{Wld{Ye{yd{x looking {cg{Clas{cs{x dominates a wall in the room.~
+glass~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#30363
+beautiful canopy bed~
+a beautiful {Rca{rno{Rpy {ybed{x ~
+A beautiful {Rca{rno{Rpy {ybed{x is here, its drapes lightly flowing from an invisible breeze.~
+wood~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#30364
+scented candles~
+a scented {Wcandle{x~
+A few scented {Wcandles{x are scattered around the room, filling the air with a {Rs{rp{Yi{rc{Ry{x fragrance.~
+wax~
+trash 0 P
+0 0 0 0 0
+0 0 0 100
+#30365
+twin bed~
+a soft, twin bed~
+Two soft twin {ybeds{x decorate the room, covered with {Cpa{Ytc{ch{Ywo{Crk {cq{Cu{Yi{Cl{cts{x.~
+wood~
+furniture 0 P
+2 2000 EHK 0 0
+0 0 0 100
+#30366
+bathtub~
+a full-sized {Wporcelain{x bathtub~
+A full-sized {Wporcelain{x bathtub is here, behind a {Ccu{crta{Cin{x.~
+porcelain~
+furniture 0 P
+2 2000 FIL 0 0
+0 0 0 100
+#30367
+well crafted wardrobe~
+a well-crafted {ywa{Yr{Dd{yrobe{x~
+A well-crafted {ywa{Yr{Dd{yrobe{x stands here, likely full of clothing.~
+wood~
+container 0 P
+100 AC 0 10 0
+0 0 0 100
+#30368
+wooden trunk~
+a {ywo{Do{yden trunk{x~
+A {ywo{Do{yden trunk{x stands at the foot of each twin {ybed{x.~
+wood~
+container 0 P
+10 AC 0 4 0
+0 0 0 100
+#30369
+wool blanket~
+a soft, {Dw{wo{Dol{x {gbl{Gank{get{x~
+A soft, {Dw{wo{Dol{x {gbl{Gank{get{x lies here on the ground.~
+cloth~
+furniture 0 A
+2 2000 EHK 150 150
+0 1 10 100
+#30370
+fountain statue statues~
+a large {cfo{Cun{cta{Cin{x with carved {Ds{wt{Watu{we{Ds{x in the center~
+A large {cfo{Cun{cta{Cin{x with carved {Ds{wt{Watu{we{Ds{x in the center stands here as a centerpiece to the park.~
+water~
+fountain 0 P
+100000 100000 'water' 0 0
+0 0 0 100
+#30371
+wrought iron bench benches~
+a {Dwr{wou{Wght {wir{Don bench{x~
+Six {Dwr{wou{Wght {wir{Don benches{x encircle the {cfo{Cun{cta{Cin{x, sitting in the shade of large {gt{Gr{ye{Ge{gs{x.~
+metal~
+furniture 0 P
+12 12000 EHK 0 0
+0 0 0 100
+#30372
+iron bound gates~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#30373
+wooden stand~
+a carefully crafted {ywooden{x stand~
+A carefully crafted {ywooden{x stand is here, near the bar.~
+wood~
+furniture 0 P
+2 2000 BE 0 0
+0 0 0 100
+#30374
+sturdy barstool~
+a sturdy {yba{rrs{ytool{x~
+A row of sturdy {yba{rrs{ytools{x are here, lining the outer edge of the bar.~
+wood~
+furniture 0 P
+10 10000 E 0 0
+0 0 0 100
+#30375
+row bench benches~
+a sturdy {ywooden{x bench~
+Rows of sturdy {ywooden{x benches are here, looking only slightly worn from years of use.~
+wood~
+furniture 0 P
+20 20000 EH 0 0
+0 0 0 100
+#30376
+podium~
+a sturdy {ywo{Yo{yden{x podium~
+A sturdy {ywo{Yo{yden{x podium stands at the front of the room.~
+wood~
+furniture 0 P
+1 1000 A 0 0
+0 0 0 100
+#30377
+tablet writing~
+a writing {Wt{yab{Wlet{x~
+A writing {Wt{yab{Wlet{x is here, displayed on the wall.~
+paper~
+notepaper 0 A
+0 0 0 0 0
+0 2 10 100
+#30378
+shienaran banner~
+a beautifully woven Shienaran {Db{Wa{Bnn{We{Dr{x~
+A beautifully woven Shienaran {Db{Wa{Bnn{We{Dr{x hangs from the wall, proudly displaying this nation's colors.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 2 50 100
+#30379
+throne~
+a fabulously carved {yth{Yro{yne{x~
+Two magnificently carved {ythr{Yon{yes{x sit here, a tribute to their craftsman. ~
+wood~
+furniture 0 P
+2 2000 EH 0 0
+0 0 0 100
+#30380
+steel spear~
+a sturdy {Dm{we{Wt{wa{Dl{x {yspear{x~
+A sturdy {Dm{we{Wt{wa{Dl{x {yspear{x lies here on the ground.~
+metal~
+weapon 0 AN
+spear 6 11 'stab' 0
+59 10 100 100
+A
+19 13
+#30381
+polish broad sword broadsword polished~
+a polished {Dbr{woa{Wds{wwo{Drd{x~
+A polished {Dbr{woa{Wds{wwo{Drd{x has been dropped on the ground.~
+metal~
+weapon 0 AN
+sword 10 15 'stab' 0
+90 5 100 100
+A
+19 4
+A
+1 1
+A
+2 1
+A
+4 1
+#30382
+sturdy kite shield~
+a sturdy {Dki{wte{W sh{wie{Dld{x~
+A sturdy {Dki{wte{W sh{wie{Dld{x lies in the {yd{ri{yrt{x.~
+metal~
+armor 0 AJ
+30 30 30 0 0
+90 8 100 100
+#30383
+elegant fountain hawk~
+an elegant fountain of {Ww{wa{Wr{wb{Wl{we{x~
+An elegant {Ww{wa{Wr{wb{Wl{we{x fountain carved with regal hawks stands in the center of the square.~
+stone~
+fountain 0 P
+100000 100000 'water' 0 0
+0 0 0 100
+#30384
+torch~
+a {yt{Yo{yrch{x~
+A {Dcharred{x {yt{Yo{yrch{x lies distinguished on the ground.~
+wood~
+light 0 AO
+0 0 15 0 0
+50 4 10 100
+#30385
+heavy brass key~
+a heavy {ybr{Ya{yss{x key~
+A heavy {ybr{Ya{yss{x key lies on the ground.~
+metal~
+key ab O
+0 0 0 0 0
+90 1 100 100
+#30386
+cloth~
+a warm, damp {Dc{yl{Yo{yt{Dh{x~
+A warm, damp {Dc{yl{Yo{yt{Dh{x has been tossed carelessly on the ground.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 1 5 100
+#30387
+white gazebo~
+a pristine {Wgazebo{x~
+A elegant {Wgazebo{x stands here, painted a beautiful, bright {Wwhite{x.~
+wood~
+container 0 P
+10000 F 0 0 0
+0 0 0 100
+#30388
+bench wooden~
+a carefully crafted {ywooden{x bench~
+An elegantly crafted {ywooden{x bench is here, covered in carved vines and flowers.~
+wood~
+furniture 0 P
+2 2000 EH 0 0
+0 0 0 100
+#30389
+rose bush~
+a beautiful {rr{Ros{re {gb{Gus{gh{x~
+A {rr{Ros{re {gb{Gus{gh{x grows here, covered in carefully maintained {rbl{Ross{Roms{x.~
+organic~
+container 0 P
+0 0 0 0 0
+0 0 0 100
+#30390
+rose~
+a long-stemmed {rr{Ros{re{x~
+A beautiful long-stemmed {rr{Ros{re{x lies here, wilting in the sun.~
+organic~
+trash 0 A
+0 0 0 0 0
+0 1 2 100
+#30391
+horseshoe~
+a {Dho{wrs{We{wsh{Doe{x~
+A {Dho{wrs{We{wsh{Doe{x lies on the ground, half buried.~
+metal~
+armor 0 AG
+15 15 15 5 0
+50 1 50 100
+#30392
+bag oats~
+a bag of {yo{Ga{gt{ys{x~
+A bag of {yo{Ga{gt{ys{x has been dropped on the ground and is spilling all over.~
+organic~
+food 0 AO
+25 20 0 0 0
+0 3 35 100
+#30393
+arrow~
+an {Da{wr{yr{wo{Dw{x~
+An {Da{wr{yr{wo{Dw{x his been misfired and lies on the ground.~
+wood~
+weapon 0 AO
+arrow 6 11 'pierce' 0
+50 1 10 100
+A
+19 4
+#30394
+quiver~
+a {Dq{wu{Wiv{we{Dr{x~
+A {Dq{wu{Wiv{we{Dr{x lies empty on the ground.~
+cloth~
+container 0 AS
+100 0 0 15 0
+0 3 40 100
+#30395
+short bow~
+a short {yb{Do{yw{x~
+A short {yb{Do{yw{x has fallen here in battle.~
+wood~
+weapon 0 AN
+bow 6 11 'pierce' 0
+50 3 150 100
+A
+19 4
+#30396
+long wooden spear~
+a long {ywooden {Ds{wp{We{wa{Dr{x~
+A long {ywooden {Ds{wp{We{wa{Dr{x has been carelessly left on the ground.~
+wood~
+weapon 0 AN
+spear 7 12 'stab' 0
+65 3 100 100
+A
+19 9
+#30397
+avendesora key leaf~
+a sculpted {gAv{Gen{gde{Gso{gra l{Gea{gf{x~
+A sculpted {gAv{Gen{gde{Gso{gra l{Gea{gf{x blends into the intricately carved wall of flowers and {Dv{gi{wn{Ge{Ds{x.~
+stone~
+key Pa AO
+0 0 0 0 0
+0 1 10 100
+#30470
+key office key~
+a {Ds{wtu{Wr{wd{Dy s{wt{We{we{Dl k{we{Dy{x~
+A metal object glints in the sun.~
+steel~
+key ab AO
+0 0 0 0 0
+0 5 50 100
+#30471
+Chairs visitors cisitor~
+a stu{yr{wdy {yoak{x ch{ya{wir placed in front of the {yd{we{ys{wk{x~
+{DA couple of large {yoak {Dch{ya{Dirs{D are pulled up in front of the {yd{we{ys{wk{x.~
+Sturdy Oak~
+furniture a P
+4 32432 DG 30 30
+0 0 0 100
+#30472
+bosschair commanders chair~
+a large, high-backed {yoak d{we{ys{wk{W-{wc{Dh{ya{Dir{x~
+{DA large, high-backed {yoak{D ch{ya{Dir{D set behind the {yd{we{ys{wk.~
+padded wood~
+furniture a P
+1 5000 DG 40 40
+0 432 0 100
+#30473
+desk made of oak~
+the hard {yoak{x surface of the {yd{we{ys{wk{x~
+A steady, {yoak d{we{ysk{x sits by the far wall.~
+dark wood~
+furniture a P
+2 10000 DM 60 60
+0 453 0 100
+#0
+
+
+
+#ROOMS
+#30336
+Outside the South Gate~
+Before you are the large, foreboding walls of this borderland town.  While
+no moat surrounds the city, you catch glimpses of guards at various points
+along the twenty feet tall walls and the thick, iron-bound gates look like
+they could be closed at a moment's notice.  
+~
+0
+0 15
+D0
+~
+'{Di{wr{Wo{Dn{x-bound gate'~
+1 1
+1 0 30337
+D1
+~
+~
+0 0
+0 0 30474
+D3
+~
+~
+0 0
+0 0 545
+D8
+~
+~
+0 0
+0 0 42412
+S
+#30337
+Inside the South Gate~
+As you pass the portcullis, the large iron-bound gates loom over you on
+either side.  Above you, you are shaded from the sun by yet another gate,
+one that appears to reinforce the main gates and that can be dropped in an
+instant.  The streets of Fal Dara open up before you, and you notice small
+staircases leading up to the ramparts along the city walls to either side of
+you.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 30364
+D1
+~
+~
+0 0
+0 0 30362
+D2
+~
+~
+1 1
+1 0 30336
+D3
+~
+~
+0 0
+0 0 30338
+S
+#30338
+Along the South Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  From here, you have an excellent view to the south of the farmlands
+that provide food and work for most of the inhabitants of the region.  To
+your north lies the city of Fal Dara, bustling with activity.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30337
+D3
+~
+~
+0 0
+0 0 30339
+S
+#30339
+Along the South Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  From here, you have an excellent view to the south of the farmlands
+that provide food and work for most of the inhabitants of the region.  To
+your north lies the city of Fal Dara, bustling with activity.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30338
+D3
+~
+~
+0 0
+0 0 30340
+S
+#30340
+Southwest Watch Tower~
+These watch towers are key to the defense of the city, as they provide
+both early warning against attackers and an effective means of being
+protected while attacking any would-be assailants.  Two rows of arrow slits
+line the walls to maximize the number of archers that can be housed here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30341
+D1
+~
+~
+0 0
+0 0 30339
+D4
+~
+~
+0 0
+0 0 30376
+S
+#30341
+Along the West Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the west lies the Mountains of Dhoom, which tower over the city
+but also provide an excellent defense since no army can attack from anywhere
+but Tarwin's Gap.  East of you is the city, but the closest place to enter
+there is either along the north or south wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30342
+D2
+~
+~
+0 0
+0 0 30340
+S
+#30342
+Along the West Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the west lies the Mountains of Dhoom, which tower over the city
+but also provide an excellent defense since no army can attack from anywhere
+but Tarwin's Gap.  East of you is the city, but the closest place to enter
+there is either along the north or south wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30343
+D2
+~
+~
+0 0
+0 0 30341
+S
+#30343
+Along the West Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the west lies the Mountains of Dhoom, which tower over the city
+but also provide an excellent defense since no army can attack from anywhere
+but Tarwin's Gap.  East of you is the city, but the closest place to enter
+there is either along the north or south wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30344
+D2
+~
+~
+0 0
+0 0 30342
+S
+#30344
+Along the West Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the west lies the Mountains of Dhoom, which tower over the city
+but also provide an excellent defense since no army can attack from anywhere
+but Tarwin's Gap.  East of you is the city, but the closest place to enter
+there is either along the north or south wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30345
+D2
+~
+~
+0 0
+0 0 30343
+S
+#30345
+Along the West Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the west lies the Mountains of Dhoom, which tower over the city
+but also provide an excellent defense since no army can attack from anywhere
+but Tarwin's Gap.  East of you is the city, but the closest place to enter
+there is either along the north or south wall.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30346
+D2
+~
+~
+0 0
+0 0 30344
+S
+#30346
+Northwest Watch Tower~
+These watch towers are key to the defense of the city, as they provide
+both early warning against attackers and an effective means of being
+protected while attacking any would-be assailants.  Two rows of arrow slits
+line the walls to maximize the number of archers that can be housed here.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30347
+D2
+~
+~
+0 0
+0 0 30345
+D4
+~
+~
+0 0
+0 0 30378
+S
+#30347
+Along the North Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  Northeast of you lies Tarwin's Gap, but from this point of view, the
+only thing you really get to see is the side of the mountain that Fal Dara
+is built against.  A glance to the south shows the rooftops of Fal Dara
+which these walls protect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30348
+D3
+~
+~
+0 0
+0 0 30346
+S
+#30348
+Along the North Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  Northeast of you lies Tarwin's Gap, but from this point of view, the
+only thing you really get to see is the side of the mountain that Fal Dara
+is built against.  A glance to the south shows the rooftops of Fal Dara
+which these walls protect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30349
+D3
+~
+~
+0 0
+0 0 30347
+S
+#30349
+Along the North Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  Northeast of you lies Tarwin's Gap, but from this point of view, the
+only thing you really get to see is the side of the mountain that Fal Dara
+is built against.  A glance to the south shows the rooftops of Fal Dara
+which these walls protect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30350
+D3
+~
+~
+0 0
+0 0 30348
+S
+#30350
+Along the North Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  Northeast of you lies Tarwin's Gap, but from this point of view, the
+only thing you really get to see is the side of the mountain that Fal Dara
+is built against.  A glance to the south shows the rooftops of Fal Dara
+which these walls protect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30351
+D3
+~
+~
+0 0
+0 0 30349
+S
+#30351
+Along the North Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  Northeast of you lies Tarwin's Gap, but from this point of view, the
+only thing you really get to see is the side of the mountain that Fal Dara
+is built against.  A glance to the south shows the rooftops of Fal Dara
+which these walls protect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30352
+D3
+~
+~
+0 0
+0 0 30350
+S
+#30352
+Along the North Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  Northeast of you lies Tarwin's Gap, but from this point of view, the
+only thing you really get to see is the side of the mountain that Fal Dara
+is built against.  A glance to the south shows the rooftops of Fal Dara
+which these walls protect.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30353
+D2
+~
+~
+0 0
+0 0 30421
+D3
+~
+~
+0 0
+0 0 30351
+S
+#30353
+Northeast Watch Tower~
+These watch towers are key to the defense of the city, as they provide
+both early warning against attackers and an effective means of being
+protected while attacking any would-be assailants.  Two rows of arrow slits
+line the walls to maximize the number of archers that can be housed here.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 30354
+D3
+~
+~
+0 0
+0 0 30352
+D4
+~
+~
+0 0
+0 0 30380
+S
+#30354
+Along the East Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the east and then north lies Tarwin's Gap.  The height of this
+wall allows you quite a view, but not such that you can make out anything
+coming from there.  You know, however, anything that wants to enter the
+mainland must get past Fal Dara first!  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30353
+D2
+~
+~
+0 0
+0 0 30355
+S
+#30355
+Along the East Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the east and then north lies Tarwin's Gap.  The height of this
+wall allows you quite a view, but not such that you can make out anything
+coming from there.  You know, however, anything that wants to enter the
+mainland must get past Fal Dara first!  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30354
+D2
+~
+~
+0 0
+0 0 30356
+S
+#30356
+Inside the East Gate~
+As you pass the portcullis, the large iron-bound gates loom over you on
+either side.  Above you, you are shaded from the sun by yet another gate,
+one that appears to reinforce the main gates and that can be dropped in an
+instant.  The streets of Fal Dara open up before you, and you notice small
+staircases leading up to the ramparts along the city walls to either side of
+you.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 30355
+D1
+~
+~
+1 1
+1 0 30363
+D2
+~
+~
+0 0
+0 0 30357
+D3
+~
+~
+0 0
+0 0 30374
+S
+#30357
+Along the East Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the east and then north lies Tarwin's Gap.  The height of this
+wall allows you quite a view, but not such that you can make out anything
+coming from there.  You know, however, anything that wants to enter the
+mainland must get past Fal Dara first!  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30356
+D2
+~
+~
+0 0
+0 0 30358
+S
+#30358
+Along the East Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  To the east and then north lies Tarwin's Gap.  The height of this
+wall allows you quite a view, but not such that you can make out anything
+coming from there.  You know, however, anything that wants to enter the
+mainland must get past Fal Dara first!  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30357
+D2
+~
+~
+0 0
+0 0 30359
+S
+#30359
+Southeast Watch Tower~
+These watch towers are key to the defense of the city, as they provide
+both early warning against attackers and an effective means of being
+protected while attacking any would-be assailants.  Two rows of arrow slits
+line the walls to maximize the number of archers that can be housed here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30358
+D3
+~
+~
+0 0
+0 0 30360
+D4
+~
+~
+0 0
+0 0 30382
+S
+#30360
+Along the South Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  From here, you have an excellent view to the south of the farmlands
+that provide food and work for most of the inhabitants of the region.  To
+your north lies the city of Fal Dara, bustling with activity.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30359
+D3
+~
+~
+0 0
+0 0 30361
+S
+#30361
+Along the South Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  From here, you have an excellent view to the south of the farmlands
+that provide food and work for most of the inhabitants of the region.  To
+your north lies the city of Fal Dara, bustling with activity.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30360
+D3
+~
+~
+0 0
+0 0 30362
+S
+#30362
+Along the South Wall~
+You are on top of the walkway which completely encircles the city of Fal
+Dara.  From here, you have an excellent view to the south of the farmlands
+that provide food and work for most of the inhabitants of the region.  To
+your north lies the city of Fal Dara, bustling with activity.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30361
+D3
+~
+~
+0 0
+0 0 30337
+S
+#30363
+Outside the East Gate~
+This side gate serves two main functions.  One, alleviate the traffic
+coming into the city, and two, provide a quick way to mobilize the standing
+army and get them to the Gap if there are any signs of trouble.  The strong,
+iron-bound gates currently are open, but can be closed at a moment if the
+situation calls for it.  
+~
+0
+0 15
+D3
+~
+~
+1 1
+1 0 30356
+D7
+~
+~
+0 0
+0 0 42412
+S
+#30364
+West End of Wayfarer's Way~
+As you look east, down the Wayfarer's Way, you notice a large two-story
+building which appears to be an inn of some sort.  You also hear the sounds
+of horses, so it is safe to assume they can provide lodging for those as
+well.  To the north, much of the city traffic is continuing on to enter the
+market center, where anything and everything is traded.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30368
+D1
+~
+~
+0 0
+0 0 30365
+D2
+~
+~
+0 0
+0 0 30337
+S
+#30365
+Wayfarer's Way~
+As you travers down Wayfarer's Way, you notice the two-story building to
+your north has a large sign over the entrance with has a painting of a bed
+and gold lettering underneath that says "The Wayfarer's Inn."  You also
+notice that the wide doors are well-kept and the off-white paint on the
+building makes it appear almost new.  On your south side, the city wall
+looms over your, providing shade from the sun to those who stand close to
+it, and protection for those staying on this side of them.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 30394
+D1
+~
+~
+0 0
+0 0 30366
+D3
+~
+~
+0 0
+0 0 30364
+S
+#30366
+Wayfarer's Way~
+The shop to your north has a couple of hitching posts out in front of it,
+and the sign overhead has a painting of a horse.  You also notice that the
+doors are exceptionally tall and would permit someone to enter while staying
+mounted on a horse, but only if they were will to ride very low on its back.
+On your south side, the city wall looms over your, providing shade from the
+sun to those who stand close to it.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 30396
+D1
+~
+~
+0 0
+0 0 30367
+D3
+~
+~
+0 0
+0 0 30365
+S
+#30367
+East End of Wayfarer's Way~
+As you reach the end of this road, you see the stable yards extend from
+your north and continue on to the east of you.  There appear to be quite a
+few horses ranging around in the area given to you, and they don't mind at
+all having their area border against the city walls.  On your south side,
+the city wall looms over your, providing shade from the sun to those who
+stand close to it.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 30366
+S
+#30368
+South End of Trader's Market~
+As you enter this south end of the trader's market, the hustle and bustle
+of market life completely envelops you.  Farmers and tradesman here compete
+with each other, seeing who can offer the finest fruits and vegetables for
+the lowest price.  Other street hawkers are selling food and refreshment for
+the weary shoppers.  You even spot a tinker who has a small little booth and
+is offering to mend anything that might require it.  To the west, the
+commercial district of Fal Dara is laid out with all of the more permanent
+shops.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30371
+D2
+~
+~
+0 0
+0 0 30364
+D3
+~
+~
+0 0
+0 0 30391
+S
+#30369
+Road to the Keep~
+This road runs parallel to the west wall and leads straight to the keep. 
+As you look south, you see the commercial district, where one might buy and
+sell his or her wares.  The market center of Fal Dara lies just to the east.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30424
+D1
+~
+~
+0 0
+0 0 30370
+D2
+~
+~
+0 0
+0 0 30389
+S
+#30370
+West End of Trader's Market~
+Street hawkers and others fill this part of the market with a background
+noise that makes it difficult for you to have your own thoughts.  Many
+traders have brought their exotic spices and scents here to sell, hoping to
+tempt the more well-to-do market goers, as the rent for the west market is
+much higher do to its proximity to the community park and the keep itself.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30371
+D3
+~
+~
+0 0
+0 0 30369
+S
+#30371
+Center of Trader's Market~
+This appears to be the center of the marketplace, and you can see trading
+going on all around you.  Merchants in their wagons, showing their wares,
+and passer-bys looking as they search for just the right piece.  To the
+north, there appears to be a break in the crowd, which might provide you the
+opportunity for some needed rest...  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30375
+D1
+~
+~
+0 0
+0 0 30372
+D2
+~
+~
+0 0
+0 0 30368
+D3
+~
+~
+0 0
+0 0 30370
+S
+#30372
+East End of Trader's Market~
+You can immediately tell that you have entered the market district just
+by the general volume of passer-bys and the increased volume of traffic. 
+Farmers pulling produce in handcarts scurry about and street vendors yell at
+anyone who even slows for a second to try and hawk their wares.  It is
+difficult not to get caught up in the throng as it moves westwards towards
+the center of the marketplace.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30373
+D2
+~
+~
+1 1
+1 0 30398
+D3
+~
+~
+0 0
+0 0 30371
+S
+#30373
+Market Road~
+The noise from the market is stronger here, and you see an entrance to
+the north where it appears there are soldiers practicing.  South of you, the
+storefront has a large sign with a horse on it, and the doors appear large
+enough for a person to potentially enter while mounted, as long as they went
+slow and kept their head close to the horse.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30412
+D1
+~
+~
+0 0
+0 0 30374
+D2
+~
+~
+3 3
+1 0 30400
+D3
+~
+~
+0 0
+0 0 30372
+S
+#30374
+Market Road~
+This street follows an east-west course and is paved with large
+cobblestones.  To the north you see a number of person residencies, and the
+south offers an excellent view of the stable yards where combat-ready mounts
+and others are let loose to exercise.  You can just barely make out the
+sounds of the market that lies in the middle of the town to your west.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 30356
+D3
+~
+~
+0 0
+0 0 30373
+S
+#30375
+Community Park~
+A surprisingly peaceful feeling permeates this park.  The well cared-for
+plants are healthy, and you even see some flowers in bloom.  All around
+there is the chirping of birds, but, not a single crow or raven is in sight.
+There is a beautiful fountain in the middle of the park with honorary
+statues gracing the center of it to remember heroes long forgotten.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 30414
+D1
+~
+~
+0 0
+0 0 30411
+D2
+~
+~
+0 0
+0 0 30371
+D3
+~
+~
+0 0
+0 0 30425
+S
+#30376
+Inside the Watch Tower~
+As you ascend the tower, little light is allowed to pass through the
+small arrow holes against the wall of the tower.  At even intervals, a
+basket of arrows is full, waiting to be used in case of assault or
+emergency.  Frequent changes of the guard allow watchmen in the tower to
+remain alert and attentive during their shifts.  
+~
+0
+AD 0
+D4
+~
+~
+0 0
+0 0 30377
+D5
+~
+~
+0 0
+0 0 30340
+S
+#30377
+Atop the Southwest Watch Tower~
+This tower by far offers the most incredible view from the city.  Below
+you are the lowlands of Shienar, and a sunset from here is nothing less than
+dazzling.  The south gates to the city boast much of the traffic from
+inland, and up here, it seems like you haven't a care in the world.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 30376
+M 150 H 150
+S
+#30378
+Inside the Watch Tower~
+As you ascend the tower, little light is allowed to pass through the
+small arrow holes against the wall of the tower.  At even intervals, a
+basket of arrows is full, waiting to be used in case of assault or
+emergency.  Frequent changes of the guard allow watchmen in the tower to
+remain alert and attentive during their shifts.  
+~
+0
+AD 0
+D4
+~
+~
+0 0
+0 0 30379
+D5
+~
+~
+0 0
+0 0 30346
+S
+#30379
+Atop the Northwest Watch Tower~
+This tower grants you an excellent view of, well, nothing.  Immediately
+southwest of you is the keep which towers over your head, and immediately
+north and west of you are the Mountains of Dhoom.  If you are lucky, maybe
+you'll spot a lone raven to take a pot shot at, or perhaps even a mountain
+goat, although, even those are scarce on mountains as steep as these.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 30378
+S
+#30380
+Inside the Watch Tower~
+As you ascend the tower, little light is allowed to pass through the
+small arrow holes against the wall of the tower.  At even intervals, a
+basket of arrows is full, waiting to be used in case of assault or
+emergency.  Frequent changes of the guard allow watchmen in the tower to
+remain alert and attentive during their shifts.  
+~
+0
+AD 0
+D4
+~
+~
+0 0
+0 0 30381
+D5
+~
+~
+0 0
+0 0 30353
+S
+#30381
+Atop the Northeast Watch Tower~
+Of all the towers in the city, this one has the most important role.  It
+is here that the watch must sound the alarm for any activity coming out of
+Tarwin's Gap.  While there are watchmen in the gap, there are never enough
+precautions to take when dealing with the shadow.  This tower is almost high
+enough to see into the gap itself, but none but the most eagle-eyed would be
+able to do so.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 30380
+S
+#30382
+Inside the Watch Tower~
+As you ascend the tower, little light is allowed to pass through the
+small arrow holes against the wall of the tower.  At even intervals, a
+basket of arrows is full, waiting to be used in case of assault or
+emergency.  Frequent changes of the guard allow watchmen in the tower to
+remain alert and attentive during their shifts.  
+~
+0
+AD 0
+D4
+~
+~
+0 0
+0 0 30383
+D5
+~
+~
+0 0
+0 0 30359
+S
+#30383
+Atop the Southeast Watch Tower~
+From here, one has an easy way of monitoring both gates that allow
+traffic into the city.  To the north, the east gate sees mostly farmers and
+traders avoiding the high volume of traffic using the south gate.  The south
+gate offers the most direct route into the city, and is generally used by
+everyone who doesn't know about the other gate.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 30382
+S
+#30384
+The General Store~
+The general store is the best place to acquire all of the goods you think
+you might need or aren't sure you have.  Behind the counter, you can see
+camping equipment, travel goods, foodstuffs that store for long periods, and
+lamps and oil.  Of greatest interest is the barrel of fresh apples next to
+the counter, since fresh fruit is always so hard to come by in the city.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30389
+D1
+~
+~
+0 0
+0 0 30385
+S
+#30385
+Back Storeroom of the General Store~
+A vast assortment of goods line the shelves here.  You see many things
+you recognize including lamps, lamp oil, dried meats, dried fruits, leather,
+cooking supplies, camping gear, and miscellaneous equipment.  The stock boy
+offers to help you find something, and then looks at you questioningly,
+wondering why you are back here.  
+~
+0
+D 0
+D3
+~
+~
+0 0
+0 0 30384
+S
+#30386
+Faelicia's Clothing Shop~
+Vibrant cloths are neatly stacked in the corner of this shop, and there
+are two models displaying clothing that Faelicia has made in the past.  The
+counter of the shop is covered in lines evenly marked running the length of
+the counter itself, probably useful in measuring and cutting the cloth as is
+needed for making clothes.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30390
+S
+#30387
+Joe's Bar and Grill~
+This seems to be quite the place to be.  A few serving girls pass through
+the crowd, constantly circulating and getting many stares and whistles from
+those in attendance.  Savory smells waft in from the kitchen where stew and
+mutton are being prepared, and conversation ebbs and flows throughout the
+room.  A small stand near the bar allows a place for local talent or gleemen
+to perform, however, none are in attendance at this time.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30391
+S
+#30388
+The Butcher's Block~
+It is almost awe-inspiring to see this many different kinds of meats in
+one room.  Fresh meats that you recognize include lamb, goat, cow, horse,
+rabbit and a few others that you aren't quite sure of.  Smoked meats all
+tend to look about the same, but they have an assortment of those as well. 
+The shopkeeper, a large, round man, carries a butcher's knife recently
+cleaned on his apron and appears busy preparing his latest slaughter.  
+~
+0
+D 0
+D1
+~
+~
+1 1
+1 0 30389
+S
+#30389
+Intersection of Butcher Block Road and the Road to the Keep~
+As you stand here in the road, observing, you detect a distinctly strong
+smell of a slaughterhouse.  It is almost sickly sweet and brings thoughts of
+campfires and retching in the same breath.  To the north, you see the
+continuation of Keep Road, which, as its name states, leads to the keep.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30369
+D1
+~
+~
+0 0
+0 0 30390
+D2
+~
+~
+1 1
+1 0 30384
+D3
+~
+~
+1 1
+1 0 30388
+S
+#30390
+Butcher Block Road~
+Shops line this road on both the north and south side, and neither appear
+to be associated with a butcher or meat of any kind.  However, there is a
+slight breeze coming from the west, and you catch the faintest trace of meat
+recently slaughtered, but that might just be your imagination.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 30392
+D1
+~
+~
+0 0
+0 0 30391
+D2
+~
+~
+1 1
+1 0 30386
+D3
+~
+~
+0 0
+0 0 30389
+S
+#30391
+Butcher Block Road~
+Shops line this road on both the north and south side, and neither appear
+to be associated with a butcher or meat of any kind.  To the north the
+sounds of a ringing anvil greet your ears, and from the south, loud,
+boisterous laughter.  You have seen more than one off-duty watchmen enter
+there, so perhaps that means something.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 30393
+D1
+~
+~
+0 0
+0 0 30368
+D2
+~
+~
+1 1
+1 0 30387
+D3
+~
+~
+0 0
+0 0 30390
+S
+#30392
+The Armory - Tough Enough for even You!~
+The armory is the epitome of order.  Metalworking tools are hung neatly
+along the north wall, and the armorer has two anvils located in the back
+along with a large firepit located on the east wall.  It appears that the
+pit is shared with the weaponsmith next door, but the armorer has his own
+fuel for the pit in order to keep it at the temperature he desires.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 30390
+S
+#30393
+Weaponsmithy - You Break'em, We Fix'em~
+This weapon smithy looks as if a whirlwind came through it.  Pieces of
+weapon blades and hilts are thrown about, and the wall has as many broken as
+useable weapons on display.  A small anvil is located in the back along with
+a large firepit located on the west wall.  It appears that the pit is shared
+with the armorer next door.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 30391
+S
+#30394
+The Wayfarer's Inn~
+This inn looks to have been either newly built or renovated.  Fresh paint
+covers the walls and only shows slight markings from use, and the staircase
+practically shines it is kept so clean and well-oiled.  Various pictures and
+tapestries are hung tastefully on the wall, and there is an open hallway
+leading north into the common room where one might have a touch of mean with
+something to eat.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30398
+D2
+~
+~
+3 3
+1 0 30365
+D4
+~
+~
+0 0
+0 0 30405
+S
+#30395
+The Pantry~
+It is astonishing how much food can be crammed into such a small space. 
+Shelves reach for the ceiling and are piled high with bags of ground flour. 
+Dried fruits of all types are arranged in boxes and barrels along the floor,
+and you even spot a few canisters of spices that help make meat and other
+foodstuffs palatable.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30399
+D5
+~
+~
+4096 4096
+0 0 30455
+S
+#30396
+The Stable's Grooming Area~
+Here in the grooming area, wooden planking helps to minimize the time it
+takes to clean up after grooming the horses.  Various saddles, bridles and
+fittings are hung from the ceiling and walls here, and a set of brushes have
+been placed on a shelf prior to the horse stalls to the east.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30400
+D1
+~
+~
+1 1
+1 0 30397
+D2
+~
+~
+3 3
+1 0 30366
+S
+#30397
+An Empty Stall~
+This stall has been prepared for a horse, although there isn't one
+currently in it.  Fresh hay and water are available on the east wall, and a
+thick-bristled brush hangs on the wall, waiting for a horse who needs
+personal attention.  
+~
+0
+D 0
+D3
+~
+'a stall {ydoor{x'~
+1 1
+1 0 30396
+D4
+~
+~
+0 0
+0 0 30454
+S
+#30398
+The Common Room of the Wayfarer's Inn~
+This room is bustling with activity.  Booths line the walls where patrons
+can rest their feet and expect a warm meal and something to drink as well. 
+Stout wooden beams support the ceiling and the floor above, but have been
+carved so as to seem more decorational than functional.  A doorway to the
+east allows serving girls to enter and return from the kitchen, bearing
+their treasures.  
+~
+0
+CD 0
+D0
+~
+~
+1 1
+1 0 30372
+D1
+~
+~
+3 3
+1 0 30399
+D2
+~
+~
+0 0
+0 0 30394
+S
+#30399
+Kitchen of the Wayfarer's Inn~
+This room is teaming with activity as two large ovens and an enormous
+fireplace occupy the attention of all those employed here.  A spit across
+the fireplace is being turned by one of the assistant cooks in order to keep
+the lamb cooking evenly.  One of the ovens seems to be used for baking
+bread, while the other appears to have a dessert of some kind.  If only you
+could have a taste of whatever that wonderful smell is!  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30402
+D1
+~
+~
+3 3
+1 0 30400
+D2
+~
+~
+3 3
+1 0 30395
+D3
+~
+~
+3 3
+1 0 30398
+S
+#30400
+Main Entrance to the Stables~
+Wooden planks make up the floor here, and a barrel full of horseshoes
+lies on the east wall next to the door.  The entire room seems to give off a
+smell of horses, but the floor is swept clean and shows no sign of them ever
+being here except for the occasional scratch from a horseshoe as it is led
+outside to the stable yard.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30373
+D1
+~
+~
+3 3
+1 0 30401
+D2
+~
+~
+0 0
+0 0 30396
+D3
+~
+~
+3 3
+1 0 30399
+S
+#30401
+The Stable Yard~
+It seems rather odd that so much space would be dedicated to the horses,
+but that seems to be the only purpose of this field.  Picket-lines mark the
+spots where military horses are tethered after making their rounds, and
+other, private-owned horses are also allowed to exercise here should their
+masters desire it.  
+~
+0
+0 1
+D3
+~
+~
+3 3
+1 0 30400
+S
+#30402
+The Servant's Quarters~
+These quarters are little more than a closet with a bunk bed, but they
+offer a room to sleep under and a guarantee of a well-fed belly.  A
+hand-drawn sketch of the countryside hangs on the wall across from the bed,
+and a single wardrobe looks to contain all of the possessions of the
+servants who call this home.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 30399
+S
+#30403
+A Small Bedroom~
+This simple bedroom has everything a weary traveler could desire.  A
+small wash basin in the corner to refresh and clean of the dust from the
+road is in the corner.  Opposite the door is a bed which looks like it is
+well used, but still comfortable.  A small fireplace has a stack of firewood
+next to it and offers both light and heat to keep the room comfortable.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30405
+S
+#30404
+A Small Bedroom~
+This simple bedroom has everything a weary traveler could desire.  A
+small wash basin in the corner to refresh and clean of the dust from the
+road is in the corner.  Opposite the door is a bed which looks like it is
+well used, but still comfortable.  A small fireplace has a stack of firewood
+next to it and offers both light and heat to keep the room comfortable.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 30405
+S
+#30405
+A Plush Hallway with Stairs~
+This staircase leads to the upper level of the inn where the guest rooms
+are located.  A long, worn carpet runs the length of the hallway starting at
+the stairs and ending at the door to the north.  Lighting in this hall comes
+from a skylight overhead during the daytime, which makes things quite easy
+to view.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30408
+D2
+~
+~
+3 3
+1 0 30403
+D3
+~
+~
+3 3
+1 0 30404
+D5
+~
+~
+0 0
+0 0 30394
+S
+#30406
+A Large Bedroom~
+This bedroom appears to be the finest that the inn has to offer, and it
+is probably used by visiting nobles or person of importance, which would
+explain its grandeur.  A large canopy bed is at the far end of the room, and
+many pillows are scattered about the room for lounging.  This room would
+easily accommodate eight to ten peasants, or one lady, whichever happen to
+be using it at the time.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30409
+S
+#30407
+A Small Bedroom~
+This simple bedroom has everything a weary traveler could desire.  A
+small wash basin in the corner to refresh and clean of the dust from the
+road is in the corner.  Opposite the door is a bed which looks like it is
+well used, but still comfortable.  A small fireplace has a stack of firewood
+next to it and offers both light and heat to keep the room comfortable.  
+~
+0
+DJ 0
+D1
+~
+~
+3 3
+1 0 30408
+S
+#30408
+A Plush Hallway~
+A long carpet on the floor leads to the south where there are stairs
+leading below.  The door to the west seems simple as those located south of
+here, however, the door to the east appears to be more elaborate and has
+been painted in an intricate design.  The north door appears to have a lock
+built into the door, which is different than the rest which bolt from the
+inside.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30410
+D1
+~
+~
+3 3
+1 0 30409
+D2
+~
+~
+0 0
+0 0 30405
+D3
+~
+~
+3 3
+1 0 30407
+D4
+~
+~
+4099 4099
+1 0 30477
+S
+#30409
+A Nice Sitting Room~
+In this room, two fine couches face each other with a decorated table
+between them to one side.  Other than that main sitting area, there are
+scattered chairs and tables to help the local resident entertain any guests
+who might stop by.  A bright fire burns in the fireplace, warming this room
+pleasantly.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 30406
+D3
+~
+~
+3 3
+1 0 30408
+S
+#30410
+The Innkeeper's Living Quarters~
+This must be where the Innkeeper and his wife live.  Two beds sit
+side-by-side on the north end of the room, and bright windows with lace
+curtains allow light to enter.  A full-size bathtub is located behind a
+curtain along the east wall, and a well-crafted wardrobe sits on the west
+wall.  In front of each bed is a wooden trunk which are made to match the
+wardrobe.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 30408
+S
+#30411
+A Small, Wooded Grove~
+The close proximity of the practice yards is muted very efficiently by
+the thick grove of trees.  The shade offers a needed respite from the hot
+sun and invites you to rest a while and take a load off of your shoulders. 
+You see not a few of the recruits taking breaks from their training here
+since it has a quiet and peace not found in the bunkroom.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30415
+D1
+~
+~
+0 0
+0 0 30412
+D3
+~
+~
+0 0
+0 0 30375
+M 125 H 125
+S
+#30412
+The Practice Yards~
+The practice yards seem to be the location of the most practice and
+activity with the guard.  You are able to see three different instructors
+here teaching the recruits the proper techniques of one-to-one combat.  One
+is showing them how to use their spears and their pikes, another how to
+fight in closed-quarters with daggers or short swords, and the third is
+demonstrating what to do in combat situations.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30416
+D1
+~
+~
+0 0
+0 0 30413
+D2
+~
+~
+0 0
+0 0 30373
+D3
+~
+~
+0 0
+0 0 30411
+S
+#30413
+The Archery Range~
+The archery range gives an overzealous recruit the means to get rid of
+some of their more destructive energy.  With all of the targets at the east
+end of the field, some rather close to the east wall, you notice that the
+east wall has an additional barrier between the walkway and the archery
+field that isn't present anywhere else.  You surmise this is do to some of
+the less-accurate misfires from those who were practicing here.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30417
+D3
+~
+~
+0 0
+0 0 30412
+S
+#30414
+The Field Hospital~
+Stretchers occupy most of the space in this room.  A shelf full of
+medical supplies including bandages, splints, as well as surgical tools is
+on the north wall.  Everything in the room is very clean, and there is a
+place near the door where the other occupants have removed their footwear...
+perhaps you should do the same.
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 30415
+D2
+~
+~
+3 3
+1 0 30375
+M 250 H 250
+S
+#30415
+A Broad Training Field~
+A large flagpole is here with the wind whipping the standard of Shienar
+back and forth at the top of the pole.  With the barracks just to the north
+of here, this is probably the place where the Lord or Lady can greet the
+standing army and where roll-call and other formal activities take place. 
+As with all practice areas, there are constantly men at practice here.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 30419
+D1
+~
+~
+0 0
+0 0 30416
+D2
+~
+~
+0 0
+0 0 30411
+D3
+~
+~
+3 3
+1 0 30414
+S
+#30416
+The Sparring Grounds~
+Special wooden fences have sectioned off the sparring area here. 
+Bleachers are raised along the north and south side of the sparring grounds,
+allowing for spectators to enjoy any competitions that may be going on. 
+Because of the length of the area, you can see sparring take place on
+horseback, on foot, or any way one might want to practice or compete.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30417
+D2
+~
+~
+0 0
+0 0 30412
+D3
+~
+~
+0 0
+0 0 30415
+S
+#30417
+Combat Simulation Field~
+Various combat dummies have been erected throughout the grounds here. 
+They all show wear and tear from many recruits coming through on their
+killing rampage with their practice weapons and book tactics.  Odd enough,
+you notice some dummies are much larger than man-sized and appear to look
+something like trollocs, but, as anyone knows, trollocs are just a myth...  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30421
+D2
+~
+~
+0 0
+0 0 30413
+D3
+~
+~
+0 0
+0 0 30416
+S
+#30418
+The Armory~
+All manner of fighting instruments grace the walls of this room.  Most
+common among them are spears and pikes, along with a variety of daggers and
+short swords.  You also see the standard issue armor in piles behind the
+counter, waiting for new recruits.  To your dismay, some of the pieces of
+armor appear to have been used...  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 30419
+D3
+~
+~
+0 0
+0 0 30456
+S
+#30419
+Entry to the Barracks~
+The barracks are bustling with activity.  You hear sounds of laughter and
+rough-housing coming from the bunkroom to the north.  Standard issue comes
+from the west, and you here a berating yelling from an officer to the east. 
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30422
+D1
+~
+~
+0 0
+0 0 30420
+D2
+~
+~
+3 3
+1 0 30415
+D3
+~
+~
+0 0
+0 0 30418
+S
+#30420
+Campaign Staging Area~
+Row upon row of benches face the east of the room, where a writing tablet
+is hung on the wall.  A small podium in front of the tablet offers a place
+for an officer to communicate any message or important communication in a
+quick an efficient fashion.  The Shienaran herald is hung ostentatiously on
+the south wall...reminding all who they are serving.
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30423
+D3
+~
+~
+0 0
+0 0 30419
+S
+#30421
+Staircase to the North Wall~
+This staircase is by far the largest access to the defensive wall
+surrounding the city.  It has a ramp up the middle of it to it to permit
+access to siege engines, and the staircase itself is at least thirty feet
+wide.  Empty weapon racks are located at the bottom of either side of the
+staircase, allowing quick arming of the defenders of the city should the
+need ever arise.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30352
+D2
+~
+~
+0 0
+0 0 30417
+S
+#30422
+The Bunkroom~
+Line upon line of wooden bunks are set three high where ever they will
+fit within this room.  Between each set of bunks is a set of lockers where
+the recruits are able to store their personal affects.  A small clearing is
+visible in the middle of the room, allowing for dicing games and after-hours
+activity by the recruits.  
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 30419
+M 150 H 150
+S
+#30423
+The Sergeant's Office~
+The sergeant's office is clutter-free and offers little in way of
+comfort.  A plain, wooden desk is placed facing the door, and a single
+back-less chair is in front of it.  Sitting on the desk is a loaded crossbow
+that is cocked and ready.  Behind the desk, a topical map of Tarwin's Gap is
+hung on the wall.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 30420
+S
+#30424
+Outside the Keep Gate~
+By far the largest and tallest structure of this town, the keep looms
+over you majesticaly.  Its front doors are engraved beautifully with the
+scenes of battles fought and won, but also appear useful if the need were to
+arrise for defenders to once again enter and bar them against coming foes. 
+Thin windows appear to be brilliant as their glass reflect the sun, but you
+can't help but notice that they all seem to be pointed here, and would
+provide an excellent shot...  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 30427
+D1
+~
+~
+0 0
+0 0 30425
+D2
+~
+~
+0 0
+0 0 30369
+S
+#30425
+Well-Kept Floral Gardens~
+These gardens border on the community park, and provide a place of quiet
+meditation to the habitants of the keep.  The flowers here reflect the
+loving touch of the gardener and are healthy and blooming.  An even nicer
+touch is the grass that is lush and green to either side of the small
+walking paths.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 30375
+D3
+~
+~
+0 0
+0 0 30424
+S
+#30426
+Guest Waiting Room~
+This waiting room has a very cozy feel about it.  The red-plush couches
+and chairs are quite soft and beg for relaxation.  The checkerboard floor,
+continued from the entryway, is warmed by a cheery fire in the fireplace at
+the north end of the room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30429
+D1
+~
+~
+0 0
+0 0 30427
+S
+#30427
+A Marble-Floored Foyer~
+The difference between this entryway and the facade of the keep is
+tremendous.  You eyes are drawn to take in the magnificent black and white
+marble flooring that checkerboards across the room.  A glistening white
+marble staircase is covered by a thick red carpet and leads to the upper
+level.  The chandelier appears to be made of fine brass and has places for
+twenty-four candles, which surely would make this room gleam like at
+mid-day.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30430
+D1
+~
+~
+0 0
+0 0 30428
+D2
+~
+~
+3 3
+1 0 30424
+D3
+~
+~
+0 0
+0 0 30426
+D4
+~
+~
+0 0
+0 0 30445
+S
+#30428
+The Great Hall~
+The walls of this enormous hall are decorated with the stuffed heads of
+animals taken in the hunt as well as instruments of war arrayed in
+ceremonial fashion.  An enormous wooden table goes along the middle of the
+hall and has chairs around it that would easily seat forty people.  Despite
+its splendor, you also notice that there are pieces of furniture below each
+of the windows, making them readily defensible should the need arise.  
+~
+0
+D 0
+D0
+~
+~
+4099 4099
+1 0 30431
+D1
+~
+~
+8231 8231
+2 30470 30473
+D3
+~
+~
+0 0
+0 0 30427
+S
+#30429
+Servant's Quarters~
+This room is clean and simply furnished.  A number of beds line the south
+wall, hoping to take advantage of the heat from the fireplace just behind
+it.  Each bed has a trunk in front of it which contains the personal affects
+of the servants.  While it is not as lavish as the rest of the keep, the
+servants are certainly not doing too poorly...  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 30430
+D2
+~
+~
+3 3
+1 0 30426
+M 150 H 150
+S
+#30430
+Throne Room~
+While this room isn't decked out with finery, you have no trouble
+recognizing that it belongs to a Lord.  The magnificent foyer floor
+continues its pattern, and three white marble pillars are spaced evenly on
+each side of the room to support the ceiling.  A small raised dais lies at
+the front of the room where two well-crafted thrones sit side-by-side.  You
+can just imagine a trumpet fanfare announcing the arrival of some far-off
+nobleman...  
+~
+0
+D 0
+D0
+~
+~
+4355 4355
+1 0 30432
+D1
+~
+~
+3 3
+1 0 30431
+D2
+~
+~
+0 0
+0 0 30427
+D3
+~
+~
+4099 4099
+1 0 30429
+S
+#30431
+The Keep's Kitchen~
+The kitchen is the lifeblood of the keep, and its activity is seen going
+constantly.  There are two large fireplaces where all of the cooking is
+done, and one boasts a large metal kettle that is kept boiling night and
+day, always guaranteeing a hot meal for a famished guardsman.  Various
+cooking utensils, pots and pans are scattered about, all within easy reach
+of the cooks on duty.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30433
+D2
+~
+~
+4099 4099
+1 0 30428
+D3
+~
+~
+3 3
+1 0 30430
+S
+#30432
+Secret Throne Chamber~
+If you weren't already in here, you'd never believe that this room
+existed.  The door to the throne room is so well concealed that even now you
+are having difficulty seeing where you entered from.  The rough-hewn stone
+helps to diminish the light it reflects, and you can see a small hole in the
+floor which you think you might be able to wiggle through.  
+~
+0
+D 0
+D2
+~
+~
+4355 4355
+1 0 30430
+D5
+~
+~
+0 0
+0 0 30439
+S
+#30433
+The Keep's Larder~
+The keep larder is nothing more than a glorified pantry...and much
+glorified it is!  Shelves decorate every wall and are loaded with an
+assortment of barrels, bags, dried fruits and spices.  Just about everything
+you could think to eat and some things you don't even recognize.  Given the
+size of the larder and the food it contains, it would appear that it could
+sustain a fairly long siege, if required.
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 30431
+D5
+~
+~
+3 3
+1 0 30441
+S
+#30434
+A Dead End~
+You can make out the rough-hewn look of this room, and after one look at
+the decaying skeleton on the floor, you are fairly certain how the room came
+into being, as well as why it smells so disgusting here.  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 30435
+M 25 H 25
+S
+#30435
+A Stinky Cell~
+This room is about six feet by six feet.  A small straw palette lies
+along the south wall but appears to be quite uncomfortable.  It seems
+bunched up towards the west end the wall, as if to hide something.  A foul
+stench is present throughout and reminds you of something long dead and
+rotting.  
+~
+0
+AD 0
+D0
+~
+~
+3 3
+1 0 30437
+D3
+~
+~
+4099 4099
+1 0 30434
+M 25 H 25
+S
+#30436
+A Damp Cell~
+This room is about six feet by six feet.  A small straw palette lies
+along the west wall but appears to be quite uncomfortable.  Moisture seems
+to seep into everything here, and it looks like blood as streams of it
+slowly drip down the cell walls.  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 30437
+M 25 H 25
+S
+#30437
+Confession Room~
+Implements of torture are scattered around this room, each showing signs
+of use.  In the center of the room there is a large steel chair with iron
+clamps built into it for both the arms and the legs.  It is safe to assume
+this is where the true interrogation takes place, since there are tell-tale
+spots of dried blood all it.  
+~
+0
+AD 0
+D0
+~
+~
+3 3
+1 0 30440
+D1
+~
+~
+3 3
+1 0 30438
+D2
+~
+~
+3 3
+1 0 30435
+D3
+~
+~
+3 3
+1 0 30436
+S
+#30438
+Guard Station~
+This small room is anything but comfortable.  Its walls are moist from
+condensation, and the lighting is very poor.  The north door is flat, while
+the west door has bars over a small window cut in the center of it.  A small
+chair sits next to the door, providing little comfort to the guard who is
+stationed in it.  
+~
+0
+AD 0
+D0
+~
+~
+3 3
+1 0 30441
+D3
+~
+~
+3 3
+1 0 30437
+S
+#30439
+A Long, Dark Tunnel~
+This tunnel seems to stretch forever as it twists and turns.  Often, the
+ceiling overhead is riddled with holes and darkness that your light won't
+even reach.  As you travel along the tunnel, you reach a point where the
+space between the ceiling and floor grows so small you have to crawl through
+it, but it seems that there is a light at the end of it 
+~
+0
+AD 0
+D0
+~
+~
+4355 4355
+1 0 30442
+D4
+~
+~
+3 3
+1 0 30336
+S
+#30440
+A Dark Cell~
+This room is about six feet by six feet.  A small straw palette lies
+along the north wall but appears to be quite uncomfortable.  All light seems
+to be drawn away, and you doubt that you'd ever feel comfortable in a place
+like this.  
+~
+0
+AD 0
+D2
+~
+~
+3 3
+1 0 30437
+M 25 H 25
+S
+#30441
+A Wine Cellar~
+As you enter the cellar, a cool air envelops you and you catch a whiff 
+of the moist soil smell that permeates the cellar.  While there are casks of
+the cheaper wine lined upon the east and south wall, both the north and west
+walls hold bottles of very fine Andoran red.  Dust covers most of those
+bottles, as they are saved for very special occasions...
+~
+0
+D 0
+D1
+~
+~
+4353 4353
+1 0 30442
+D2
+~
+~
+4099 4099
+1 0 30438
+D4
+~
+~
+3 3
+1 0 30433
+S
+#30442
+The Lord's Treasure Chamber~
+Jackpot!  You seem to have stumbled upon the Lord's treasure trove, and
+quite a find it ischests of gold line are lined up on the floor, and shelves
+along the walls carry an assortment of well-crafted objects and gilded
+weapons.  There is so much here that it seems almost impossible to keep
+track of it all.  
+~
+0
+AD 0
+D2
+~
+~
+4355 4355
+1 0 30439
+D3
+~
+~
+3 3
+1 0 30441
+S
+#30443
+Well-Finished Guest Room~
+As guestrooms go, this one ranks among the finest.  The poster bed looks
+to be hand-carved, modeled to look like Ogier sungwood.  Heavy red drapes
+adorn the thin windows on the south and west wall.  Dark-stained woodwork
+makes up the remainder of the room, providing a warm, mellow feel to the
+light.  
+~
+0
+D 0
+D1
+~
+~
+1 1
+1 0 30445
+M 150 H 150
+S
+#30444
+Hidden Observation Room~
+This sparsely decorated room is made completely of wood.  The north wall
+is riddled with tiny openings in order to allow quiet observation of any
+conversations going on in the council chambers.  You also see a number of
+ways a guard might shoot through tiny openings in the wall, should that ever
+become necessary.  
+~
+0
+AD 0
+D0
+~
+~
+1 1
+1 0 30447
+S
+#30445
+Top of the Marble Staircase~
+Smooth marble banisters lead down the white marble steps of the staircase
+and light is provided through a gorgeous stained-glass window above the
+staircase on the north side of the room.  Red carpet leads along the hall as
+well as down the stairs, and decorated arrow slits along the south wall make
+this hall beautiful but utilitarian as well.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30448
+D1
+~
+~
+3 3
+1 0 30446
+D2
+~
+~
+0 0
+0 0 30459
+D3
+~
+~
+1 1
+1 0 30443
+D4
+~
+~
+0 0
+0 0 30453
+D5
+~
+~
+0 0
+0 0 30427
+S
+#30446
+Porcelain Wash Room~
+This bathroom is quite pristine with its porcelain tub and wash basin. 
+It also has a convenience not often found, which is running water.  A pipe
+runs up the wall through the ceiling, presumably connected to a reservoir on
+the roof where water is collected.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 30445
+S
+#30447
+Council Chambers~
+A large round table sits in the center of this room, with chairs along
+every wall except the south.  A blazing fireplace is in the center of the
+south wall, its heat warming the room pleasantly.  Various maps and charts
+are laid out on the table, and as with all other border rooms in the keep,
+arrow slits are spaced evenly against the west wall.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 30448
+D2
+~
+~
+4355 4355
+1 0 30444
+S
+#30448
+An Informal Sitting Room~
+Various couches and comfortable chairs are scattered about, enabling many
+to mingle and still have private conversations if they are desired.  The
+overall theme of utilitarian decoration still prevails, as war banners grace
+the walls and well-kept pikes area held in brackets next to each of the
+doors leading from this room.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30450
+D1
+~
+~
+3 3
+1 0 30449
+D2
+~
+~
+0 0
+0 0 30445
+D3
+~
+~
+3 3
+1 0 30447
+S
+#30449
+The Lady of the Keep's Bedchamber~
+This is by far the most exquisite room of the keep.  Intricate wood
+paneling covers all of the walls and the ceiling, and numerous tapestries
+hang on the walls depicting scenes of glorious battle.  A wash basin in the
+southeast corner of the room looks to boast running water, a luxury that
+many kings to not enjoy.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 30451
+D3
+~
+~
+3 3
+1 0 30448
+S
+#30450
+The Lord of the Keep's Bedchamber~
+A huge, king-sized bed adorns the center of this room.  Four posts hold
+up a canopy about 15 feet above the bed itself, and all appears to be
+genuine sung wood!  While the room isn't lavish, fine linens grace the bed
+and heavy drapes cover the windows along the north wall.  An armor stand is
+placed in the southwest corner of the room for those infrequent times that
+the Lord can remove his armor for rest.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 30451
+D2
+~
+~
+3 3
+1 0 30448
+M 150 H 150
+S
+#30451
+Lord and Lady's Closet~
+This so-called "closet" appears to be larger than most clothing shops
+that you have been in.  Row upon row of outfits are hung along each of the
+walls here.  The only visible breaks in the clothing occur where the two
+doors lead to the Lord and Lady's personal bedchambers.  Though not
+surprising, it is interesting to note that many of the outfits include some
+sort of protective armor.  
+~
+0
+D 0
+D1
+~
+~
+4099 4099
+1 0 30452
+D2
+~
+~
+3 3
+1 0 30449
+D3
+~
+~
+3 3
+1 0 30450
+S
+#30452
+On Top of the Armory~
+Somehow, you find yourself standing on top of the armory.  You see a
+trapdoor in the roof where you could drop down into the armory itself.  As
+you look to the north, you see the north wall, and while this roof isn't
+connected to the wall, you think that you probably can jump across the space
+and make it to the wall without too much difficulty.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 30349
+D3
+~
+~
+4099 4099
+1 0 30451
+D5
+~
+~
+3 3
+1 0 30418
+S
+#30453
+On Top of the Keep~
+From these ramparts, you have a view that even the Creator would envy. 
+Tarwin's Gap unfolds to the northeast.  South lies the flat plains of
+Shienar, and the towering peaks of the Mountains of Dhoom watch over the
+city to the north and the west.  Closer to home, you can watch the
+activities of the guardsmen in the training grounds or even view the
+tradesmen in the market center.  It almost feels as if everything is under
+your supervision...  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 30445
+S
+#30454
+The Hayloft~
+Hay is stacked everywhere in this room except for the ladder along the
+north wall and the hay shoots that send the hay down to the stalls below. 
+It looks like a great place for a nap.  Too bad that hay almost always has
+unwelcome bugs in it that would love to have you for dinner!  
+~
+0
+D 0
+D5
+~
+~
+0 0
+0 0 30397
+S
+#30455
+A Winecellar~
+Wine racks line the walls of this small, subterranean room, and the
+coolness here is almost uncanny considering the heat above.  Each rack seems
+to be organized by year, but regardless, none of the bottles are worth more
+than crowns.  At least, none that you are able to spot easily.  
+~
+0
+D 0
+D4
+~
+~
+3 3
+1 0 30395
+S
+#30456
+The Cavalry Supply Unit~
+This supply room for the cavalry is neatly organized, with shelves and
+barrels holding the essentials for those who guard the keep.  Woolen
+{cb{Dl{Wa{Cn{Dk{We{ct{Ds{x of all colors are folded neatly on the shelves.  Bags of {yo{Ga{gt{ys{x for
+long rides and {yle{Da{yth{De{yr{x {Cw{Ba{Wt{Be{Cr{x pouches are also here.  Perhaps most
+importantly, carefully crafted riding weapons are stored here: barrels of
+well-made arrows and accurate short bows line the walls.  
+~
+0
+D 0
+D0
+~
+~
+8231 8231
+2 30385 30457
+D1
+~
+~
+0 0
+0 0 30418
+S
+#30457
+The Cavalry Stable~
+This fine stable holds all of the luxuries that these finally breed
+animals might require.  Beautifully polished {yle{Da{yth{De{yr saddles{x stand on posts
+build out from the wall and heavy, colorful {cw{Co{Do{Cl{x blankets are stacked by
+them.  The stables themselves are very large and well-kept, one per animal. 
+Buckets of {yo{Ga{gt{ys{x and troughs of {Yhay{x and clean {Cw{Ba{Wt{Be{Cr{x are easily accessible
+from the gates that lead the animals out into the stable proper.  
+~
+0
+DMV 0
+D2
+~
+~
+8231 8231
+2 30385 30456
+S
+#30458
+Kennel~
+~
+0
+C 0
+S
+#30459
+Entering the Wings of the Keep~
+Here, on the south end of the keep, is another small sitting room,
+similar to the one to the north.  Padded {rar{Rmc{Dh{Wa{Di{Rr{rs{x sit near a large
+{Dfi{wr{Wepl{wa{Dce{x in the south wall and a small {ytable{x next to one of the chairs has
+a stack of {bb{W{boks{x on it.  Red {Rcarpet{x spills to the east and the west, leading
+to the wings of the keep, each holding several rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30445
+D1
+~
+~
+0 0
+0 0 30460
+D3
+~
+~
+0 0
+0 0 30461
+S
+#30460
+The Lords' Hallway~
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30468
+D1
+~
+~
+0 0
+0 0 30470
+D2
+~
+~
+1 1
+1 0 30469
+D3
+~
+~
+0 0
+0 0 30459
+S
+#30461
+The Ladies' Hallway~
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 30459
+D3
+~
+~
+0 0
+0 0 30462
+S
+#30462
+The Ladies' Hallway~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 30463
+D1
+~
+~
+0 0
+0 0 30461
+D2
+~
+~
+1 1
+1 0 30464
+D3
+~
+~
+0 0
+0 0 30465
+S
+#30463
+A Lady's Room~
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 30462
+S
+#30464
+A Lady's Room~
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30462
+S
+#30465
+The Ladies' Hallway~
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30466
+D1
+~
+~
+0 0
+0 0 30462
+D2
+~
+~
+1 1
+1 0 30467
+S
+#30466
+A Lady's Room~
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 30465
+S
+#30467
+A Lady's Room~
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30465
+S
+#30468
+A Lord's Room~
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 30460
+S
+#30469
+A Lord's Room~
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 30460
+S
+#30470
+The Lords' Hallway~
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30471
+D2
+~
+~
+0 0
+0 0 30472
+D3
+~
+~
+0 0
+0 0 30460
+S
+#30471
+A Lord's Room~
+~
+0
+D 0
+D2
+~
+~
+0 0
+0 0 30470
+S
+#30472
+A Lord's Room~
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 30470
+S
+#30473
+{WL{wi{Dege {WC{wo{gm{Dman{gd{wer{Ws Of{wfi{Wce{x~
+{DA large office of d{ya{Drk {ywood{D floors and paneling.  Toward the far wall
+rests a {yd{we{ys{wk{D made of {yoak{D with many stacks of papers, each in their own
+place.  One large chair sits behind the desk while two are in front of it.  {D
+The walls are covered with maps of the surrounding {WB{wo{gr{Dderla{gn{wd{Ws{D as well as
+many paintings showing the ba{Rtt{Dles of the lands.  In the corner of the room
+is a cloak-stand while on the opposite side a small stone fi{wr{Ye{Rp{Yl{wa{Dce resides,
+releasing more than enough {rh{ye{Ya{rt{D to make the room temperature pleasant. 
+{DContinuing to look around the office, one's gaze could fall upon a large
+{Rskull{D bearing goat-like horns, mounted on the wall behind the desk.  {x 
+~
+0
+0 0
+D3
+~
+~
+8231 8231
+2 30470 30428
+S
+#30474
+Rolling Hills~
+~
+0
+0 4
+D2
+~
+~
+0 0
+0 0 30475
+D3
+~
+~
+0 0
+0 0 30336
+S
+#30475
+Rolling Hills~
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 30474
+D2
+~
+~
+0 0
+0 0 30476
+S
+#30476
+A Waygate in the Rolling Hills~
+The country around the Waygate is rolling, forested hills, but aside from
+the gates themselves there is no sign of any Ogier grove.  Most of the trees
+are gray skeletons clawing at the sky.  Fewer evergreens than most are used
+to dot the forest, and of them, dead, brown needles and leaves cover many.  
+~
+0
+0 4
+D0
+~
+~
+0 0
+0 0 30475
+D2
+~
+~
+12839 12839
+2 30397 58432
+S
+#30477
+A Small Bedroom~
+This simple bedroom has everything a weary traveler could desire.  A
+small wash basin in the corner to refresh and clean of the dust from the
+road is in the corner.  Opposite the door is a bed which looks like it is
+well used, but still comfortable.  A small fireplace has a stack of firewood
+next to it and offers both light and heat to keep the room comfortable.  
+~
+0
+DJ 0
+D5
+~
+~
+4099 4099
+1 0 30408
+S
+#0
+
+
+
+#SPECIALS
+M 30338 spec_guard
+M 30364 spec_channeler_defensive
+M 30387 spec_thief
+S
+
+
+
+#RESETS
+D 0 30365 0 1
+D 0 30366 0 1
+D 0 30373 2 1
+D 0 30375 0 1
+D 0 30394 2 1
+D 0 30395 0 1
+D 0 30396 2 1
+D 0 30398 1 1
+D 0 30399 0 1
+D 0 30399 1 1
+D 0 30399 2 1
+D 0 30399 3 1
+D 0 30400 0 1
+D 0 30400 1 1
+D 0 30400 3 1
+D 0 30401 3 1
+D 0 30402 2 1
+D 0 30403 0 1
+D 0 30404 1 1
+D 0 30405 2 1
+D 0 30405 3 1
+D 0 30407 1 1
+D 0 30408 0 1
+D 0 30408 1 1
+D 0 30408 3 1
+D 0 30408 4 1
+D 0 30409 3 1
+D 0 30410 2 1
+D 0 30414 1 1
+D 0 30414 2 1
+D 0 30415 0 1
+D 0 30415 3 1
+D 0 30419 2 1
+D 0 30420 0 1
+D 0 30423 2 1
+D 0 30424 0 1
+D 0 30426 0 1
+D 0 30427 2 1
+D 0 30428 0 1
+D 0 30428 1 2
+D 0 30429 1 1
+D 0 30429 2 1
+D 0 30430 0 1
+D 0 30430 1 1
+D 0 30430 3 1
+D 0 30431 0 1
+D 0 30431 2 1
+D 0 30431 3 1
+D 0 30432 2 1
+D 0 30433 2 1
+D 0 30433 5 1
+D 0 30434 1 1
+D 0 30435 0 1
+D 0 30435 3 1
+D 0 30436 1 1
+D 0 30437 0 1
+D 0 30437 1 1
+D 0 30437 2 1
+D 0 30437 3 1
+D 0 30438 0 1
+D 0 30438 3 1
+D 0 30439 0 1
+D 0 30439 4 1
+D 0 30440 2 1
+D 0 30441 2 1
+D 0 30441 4 1
+D 0 30442 2 1
+D 0 30442 3 1
+D 0 30445 1 1
+D 0 30446 3 1
+D 0 30447 1 1
+D 0 30447 2 1
+D 0 30448 0 1
+D 0 30448 1 1
+D 0 30448 3 1
+D 0 30449 0 1
+D 0 30449 3 1
+D 0 30450 1 1
+D 0 30450 2 1
+D 0 30451 1 1
+D 0 30451 2 1
+D 0 30451 3 1
+D 0 30452 3 1
+D 0 30452 5 1
+D 0 30455 4 1
+D 0 30456 0 2
+D 0 30457 2 2
+D 0 30473 3 2
+D 0 30476 2 2
+D 0 30477 5 1
+E 0 30381 0 20
+M 0 30360 20 30336 2
+E 0 30382 0 13
+E 0 30381 0 20
+M 0 30336 100 30336 2
+E 0 30336 0 20
+M 0 30336 100 30336 2
+E 0 30336 0 20
+M 0 30336 100 30337 2
+E 0 30336 0 20
+M 0 30336 100 30337 2
+E 0 30336 0 20
+M 0 30359 10 30338 1
+E 0 30384 0 19
+M 0 30337 100 30338 2
+M 0 30337 14 30339 2
+E 0 30396 0 20
+M 0 30337 14 30339 2
+E 0 30396 0 20
+M 0 30337 100 30340 2
+M 0 30337 100 30340 2
+M 0 30337 14 30341 2
+E 0 30396 0 20
+M 0 30337 14 30341 2
+E 0 30396 0 20
+M 0 30337 100 30342 2
+M 0 30359 10 30343 1
+E 0 30384 0 19
+M 0 30337 100 30344 2
+M 0 30337 14 30345 2
+E 0 30396 0 20
+M 0 30337 14 30345 2
+E 0 30396 0 20
+M 0 30337 14 30347 2
+E 0 30396 0 20
+M 0 30337 14 30347 2
+E 0 30396 0 20
+M 0 30337 100 30347 2
+M 0 30337 100 30347 2
+M 0 30359 10 30349 1
+E 0 30384 0 19
+M 0 30337 100 30351 2
+M 0 30337 14 30352 2
+E 0 30396 0 20
+M 0 30337 14 30352 2
+E 0 30396 0 20
+M 0 30337 100 30352 2
+M 0 30337 100 30354 2
+M 0 30337 100 30355 2
+M 0 30336 100 30356 2
+E 0 30336 0 20
+M 0 30336 100 30356 2
+E 0 30336 0 20
+M 0 30337 14 30357 2
+E 0 30396 0 20
+M 0 30337 14 30357 2
+E 0 30396 0 20
+M 0 30359 10 30358 1
+E 0 30384 0 19
+M 0 30337 14 30360 2
+E 0 30396 0 20
+M 0 30337 14 30360 2
+E 0 30396 0 20
+M 0 30337 100 30360 2
+M 0 30337 100 30360 2
+M 0 30337 100 30361 2
+M 0 30360 20 30363 2
+E 0 30381 0 20
+E 0 30382 0 13
+M 0 30360 20 30363 2
+E 0 30381 0 20
+E 0 30382 0 13
+M 0 30336 100 30363 2
+E 0 30336 0 20
+M 0 30336 100 30363 2
+E 0 30336 0 20
+M 0 30359 10 30365 1
+E 0 30384 0 19
+M 0 30359 10 30366 1
+E 0 30384 0 19
+M 0 30359 10 30368 1
+E 0 30384 0 19
+M 0 30359 10 30369 1
+E 0 30384 0 19
+M 0 30359 10 30370 1
+E 0 30384 0 19
+O 0 30383 0 30371
+M 0 30359 10 30372 1
+E 0 30384 0 19
+M 0 30362 5 30372 5
+M 0 30362 5 30372 5
+M 0 30362 5 30372 5
+M 0 30362 5 30372 5
+M 0 30362 5 30372 5
+O 0 30370 0 30375
+O 0 30371 0 30375
+M 0 30341 100 30376 1
+M 0 30339 100 30377 2
+M 0 30339 100 30377 2
+M 0 30341 100 30378 1
+M 0 30339 100 30379 2
+M 0 30339 100 30379 2
+M 0 30337 100 30380 2
+O 0 30346 0 30381
+M 0 30339 100 30381 2
+M 0 30339 100 30381 2
+M 0 30337 100 30382 2
+M 0 30339 100 30383 2
+M 0 30339 100 30383 2
+M 0 30384 3 30385 3
+M 0 30384 3 30385 3
+M 0 30384 3 30385 3
+M 0 30379 2 30386 2
+M 0 30379 2 30386 2
+M 0 30386 2 30387 2
+M 0 30386 2 30387 2
+M 0 30385 5 30387 5
+M 0 30385 5 30387 5
+M 0 30385 5 30387 5
+M 0 30385 5 30387 5
+M 0 30385 5 30387 5
+M 0 30380 4 30387 4
+M 0 30380 4 30387 4
+M 0 30380 4 30387 4
+M 0 30380 4 30387 4
+O 0 30374 0 30387
+O 0 30373 0 30387
+M 0 30361 1 30394 1
+O 0 30353 0 30394
+O 0 30352 0 30394
+O 0 30349 0 30395
+O 0 30348 0 30395
+O 0 30347 0 30395
+M 0 30373 10 30396 3
+M 0 30373 10 30396 3
+M 0 30373 10 30396 3
+O 0 30338 0 30396
+M 0 30372 1 30397 1
+O 0 30338 0 30397
+M 0 30363 5 30398 5
+M 0 30363 5 30398 5
+M 0 30363 5 30398 5
+M 0 30363 5 30398 5
+M 0 30363 5 30398 5
+O 0 30355 0 30398
+P 0 30356 1 30355 1
+O 0 30354 0 30398
+O 0 30351 0 30398
+M 0 30371 4 30400 4
+M 0 30371 4 30400 4
+M 0 30371 4 30400 4
+M 0 30371 4 30400 4
+M 0 30370 2 30400 2
+M 0 30370 2 30400 2
+M 0 30373 10 30401 3
+M 0 30373 10 30401 3
+M 0 30373 10 30401 3
+O 0 30339 0 30401
+O 0 30342 0 30402
+P 0 30343 1 30342 1
+O 0 30341 0 30402
+O 0 30340 0 30402
+O 0 30357 0 30403
+O 0 30358 0 30404
+O 0 30364 0 30406
+O 0 30363 0 30406
+O 0 30362 0 30406
+O 0 30359 0 30407
+O 0 30361 0 30409
+O 0 30360 0 30409
+O 0 30368 0 30410
+P 0 30369 1 30368 1
+O 0 30367 0 30410
+O 0 30366 0 30410
+O 0 30365 0 30410
+M 0 30356 3 30411 3
+M 0 30356 3 30411 3
+M 0 30356 3 30411 3
+O 0 30344 0 30411
+M 0 30341 100 30411 1
+O 0 30345 0 30413
+M 0 30397 1 30414 1
+M 0 30398 3 30414 3
+M 0 30398 3 30414 3
+M 0 30398 3 30414 3
+M 0 30344 15 30415 4
+M 0 30344 15 30415 4
+M 0 30344 15 30415 4
+M 0 30344 15 30415 4
+M 0 30352 2 30417 2
+M 0 30352 2 30417 2
+M 0 30351 2 30417 2
+M 0 30351 2 30417 2
+M 0 30350 2 30417 2
+M 0 30350 2 30417 2
+M 0 30353 3 30419 3
+M 0 30353 3 30419 3
+M 0 30353 3 30419 3
+M 0 30349 1 30420 1
+M 0 30346 5 30420 5
+M 0 30346 5 30420 5
+M 0 30346 5 30420 5
+M 0 30346 5 30420 5
+M 0 30346 5 30420 5
+O 0 30377 0 30420
+O 0 30376 0 30420
+O 0 30375 0 30420
+M 0 30343 5 30421 5
+E 0 30380 0 20
+M 0 30343 5 30421 5
+E 0 30380 0 20
+M 0 30343 5 30421 5
+E 0 30380 0 20
+M 0 30343 5 30421 5
+E 0 30380 0 20
+M 0 30343 5 30421 5
+E 0 30380 0 20
+M 0 30354 1 30423 1
+M 0 30360 20 30424 2
+E 0 30381 0 20
+E 0 30382 0 13
+M 0 30360 20 30424 2
+E 0 30381 0 20
+E 0 30382 0 13
+M 0 30336 100 30424 2
+E 0 30336 0 20
+M 0 30336 100 30424 2
+E 0 30336 0 20
+O 0 30389 0 30425
+P 0 30390 1 30389 1
+O 0 30388 0 30425
+O 0 30387 0 30425
+M 0 30449 1 30427 1
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+G 0 30386 0
+M 0 30360 20 30430 2
+E 0 30381 0 20
+E 0 30382 0 13
+M 0 30360 20 30430 2
+E 0 30381 0 20
+E 0 30382 0 13
+O 0 30379 0 30430
+O 0 30378 0 30430
+M 0 30341 100 30438 1
+O 0 30337 0 30454
+O 0 30350 0 30455
+M 0 30448 1 30456 1
+G 0 30395 0
+G 0 30391 0
+G 0 30394 0
+G 0 30392 0
+G 0 30393 0
+M 0 30443 1 30456 1
+G 0 30385 0
+M 0 30447 1 30457 1
+M 0 30446 2 30458 2
+M 0 30445 2 30458 2
+M 0 30444 2 30458 2
+O 0 30471 0 30473
+O 0 30472 0 30473
+O 0 30473 0 30473
+O 0 30397 0 30476
+O 0 30359 0 30477
+S
+
+
+
+#SHOPS
+30357 5 0 0 0 0 100 100 1 23
+30376 9 0 0 0 0 100 100 1 23
+30377 5 0 0 0 0 100 100 1 23
+30378 9 0 0 0 0 100 100 1 23
+30448 0 0 0 0 0 100 100 1 23
+0
+
+
+
+#$

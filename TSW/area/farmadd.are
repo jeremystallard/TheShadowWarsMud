@@ -1,0 +1,198 @@
+#AREADATA
+Name Far Madding~
+Builders None~
+VNUMs 8000 8200
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#8000
+S'Redit~
+(no short description)~
+(no long description)
+~
+~
+unique~
+AB 0 0 0
+50 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#8000
+Tusk~
+a large {Wwhite{x tusk~
+a large {Wwhite{x slightly curved tusk with a sharp point~
+Ivory~
+weapon 0 AN
+sword 10 12 'pierce' F
+50 200 50 100
+#0
+
+
+
+#ROOMS
+#8000
+{yGlancor{x Gate~
+~
+0
+CU 4
+S
+#8001
+{WAjalon{x {yBridge{x~
+~
+0
+U 0
+D2
+~
+gates~
+3 3
+1 0 8002
+S
+#8002
+Before the {WAjalon{x Gates~
+~
+0
+U 0
+D0
+~
+~
+3 3
+1 0 8001
+D2
+~
+~
+0 0
+0 0 8003
+S
+#8003
+{yAv{bhar{yin{x Road~
+~
+0
+U 0
+D0
+~
+~
+0 0
+0 0 8002
+D2
+~
+~
+0 0
+0 0 8004
+S
+#8004
+{yAv{bhar{yin{x Road~
+~
+0
+U 0
+D0
+~
+~
+0 0
+0 0 8003
+D2
+~
+~
+0 0
+0 0 8005
+S
+#8005
+{yA{bv{yh{ba{yr{bi{yn{x {WMarket{x~
+~
+0
+U 0
+D0
+~
+~
+0 0
+0 0 8004
+D1
+~
+~
+3 3
+1 0 8006
+D2
+~
+~
+0 0
+0 0 8008
+D3
+~
+~
+3 3
+1 0 8007
+S
+#8006
+~
+~
+0
+U 0
+D3
+~
+~
+3 3
+1 0 8005
+S
+#8007
+~
+~
+0
+U 0
+D1
+~
+~
+3 3
+1 0 8005
+S
+#8008
+{yAv{bhar{yin{x Road~
+~
+0
+U 0
+D0
+~
+~
+0 0
+0 0 8005
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 8001 2 1
+D 0 8002 0 1
+D 0 8005 1 1
+D 0 8005 3 1
+D 0 8006 3 1
+D 0 8007 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

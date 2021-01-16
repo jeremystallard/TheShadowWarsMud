@@ -1,0 +1,2304 @@
+#AREADATA
+Name Tinker Camp~
+Builders Uroshnor Tykhon~
+VNUMs 50 99
+Credits 0~
+Security 2
+Low 5
+High 25
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#50
+middle-aged fighter retired warrior~
+a retired fighter~
+A retired warrior sits on the ground mumbling to himself.
+~
+Dressed in an old uniform the man sits with his blade atop his knees and
+a sad look upon his face.  The hair sticking out underneath his helmet is
+dirty.  His face, once stern, was now sullen as he thought of his lost love.
+It is obvious he hasn't eaten in a while, but he doesn't even notice you are
+here.  He mearly stares at the blade and mumbles something about a fanged
+ring, and his crazy wife.  
+~
+andoran~
+AT H 0 0
+80 70 41d42+6400 80d10+100 9d9+40 slice
+0 0 0 0 0
+A
+5 5 5 5
+CFHJK 0 B 0
+stand stand male 0
+0 0 medium 'unknown'
+#51
+tinker child girl~
+a young tinker girl~
+A young {Rt{Wi{Yn{Gk{Ce{Rr{x girl is running around.
+~
+The young girl has twin pigtails hanging over her ears with brightly
+colored bows tied around them.  Her clothes are baggy and the colors are
+bright, but mismatched.  In her hand is a little ball and she pays no
+attention to you as she runs on by.  
+~
+tuathan~
+AH P 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+FGHK 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#52
+tinker child boy~
+a young tinker boy~
+A young {Gt{Mi{Cn{Yk{We{Rr{x boy is chasing the girls.
+~
+The young boy pays no attention to you as he follows the young tinker
+girl with his ball pass you.  He is wearing similar clothing that is baggy
+and overly colorful.  His face and hands are a bit dirty, and little twigs
+are sticking out of his brown hair.  
+~
+tuathan~
+AH P 0 0
+35 25 18d18+1225 35d10+100 4d9+17 slap
+0 0 0 0 0
+A
+1 1 1 1
+FGHK 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GIVE' 52 56~
+#53
+tinker guard dog mastiff~
+a large Mastiff~
+A large {yma{Dsti{yff{x slowly malks around looking everything over.
+~
+A very large dog with brown and grey fur walks slowly through the area
+watchining everyone.  Its large feet match its large snout with thick it
+large pointed teeth.  
+~
+tuathan~
+AT DFHJPVc 0 0
+80 70 41d42+6400 80d10+100 9d9+40 bite
+0 0 0 0 0
+A
+-10 -10 -10 -10
+CFGHR 0 0 0
+stand stand male 0
+0 0 large 'unknown'
+M 'ENTRY' 53 20~
+M 'GREET' 53 20~
+#54
+tinker female mother woman lady~
+a motherly looking tinker~
+A {Wm{Cother{Wy{x looking {Mt{Ci{Rn{Gk{Ye{Mr{x watches over the children.
+~
+She is a tall beautifull looking lady with her hair pulled up into a bun
+atop her head.  Butterfly barrets hold it in place and shimmer in the sun
+light.  She is dressed in fine silks, each piece a different color, none of
+them going together.  Her bright blue eyes stand out from her pale skin,
+which can be seen at times through the silky material.  Her finger nails are
+painted different colors, but match her toe nails that stick out from the
+wrapped sandles she wears.  She is constantly moving as she is trying to
+watch the children as they play.  
+~
+tuathan~
+AH 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 slap
+0 0 0 0 0
+A
+1 1 1 1
+FGHK 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+M 'ENTRY' 54 20~
+M 'GREET' 54 20~
+#55
+poisonous spider~
+a small poisonous spider~
+Small {Gpo{Di{gson{Do{Gus{x {Dsp{yide{Drs{x hang from strands of thin webbing.
+~
+Its small black and yellow body seems to fly through the air on thin
+strings of web.  Its fangs outstretched and ready to catch anyone that comes
+within reach.  The tips of the fangs are strained green from the poisonous
+liquid which the spider escreates.  
+~
+unique~
+A MTX 0 0
+40 30 21d22+1600 40d10+100 5d5+20 bite
+0 0 0 0 0
+A
+1 1 1 1
+GHOX BLQ 0 0
+stand stand none 0
+0 0 small 'unknown'
+#56
+female tinker lady~
+a female tinker~
+A {Mlady{x dressed in very {Rc{Go{Ml{Yo{Wr{Cf{bu{Rl{x clothes.
+~
+Her brown hair floats in the wind at times covering her face, at which
+point she brushes it away.  Dressed in hand made clothes of very bright
+colors she doesn't seem to care that the colors are a bit abrasive some
+times.  Bits of jewlery can be seen hanging from her ears and around her
+wrists, but none of it is very flashy.  
+~
+tuathan~
+ABH HJ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 slap
+0 0 0 0 0
+A
+2 2 2 2
+FGHK L 0 0
+stand stand female 50
+0 0 medium 'unknown'
+#57
+male man tinker~
+a male tinker~
+A {Bman{x dressed in {Gc{Bo{Ml{Co{Rr{Wf{Yu{Gl{x leathers.
+~
+Dressed in heavy leathers this man looks to be very strong, but his face
+is very kind.  No weapons can be seen anywhere on his body, but a dead
+animal is hanging from his belt.  His boots look to be sturdy but very dirty
+from his recent travels.  The bright colors of his leathers make you wonder
+what he used to catch his prey.  
+~
+tuathan~
+ABH HJPQ 0 0
+55 45 28d28+3025 55d10+100 6d11+27 bite
+0 0 0 0 0
+A
+2 2 2 2
+CFGHK 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#58
+elderly woman herbalist~
+an elderly healer~
+An {Do{Wl{Dd{x {Mlady{x is here with her bag of {yh{gerb{ys{x to help you.
+~
+Her flowing dress drapes around her so her shape can not be defined.  A
+bag of herbs is held in her wrinkled hands.  Her face is wrinkled but has a
+very loving look to it.  The colors she uses is a little less abrasive that
+other, but they still do not match well.  
+~
+tuathan~
+ABHa DFHJ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 slap
+0 0 0 0 0
+A
+2 2 2 2
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#59
+tinker man smithy~
+the tinker smithy~
+A man dressed in an {Da{Wpro{Dn{x is working on {yrep{xair{ying{x different items.
+~
+Looking a bit more worn than the other tinkers this man has very
+calloused hands and is wearing a apron over his clothes.  He holds tools in
+his hands using them to repair different items that are brought to him.  His
+face is slightly wrinkled and his hair is growing thin.  This man has not
+had an easy life, but he still looks happy and content with what he does.  
+~
+tuathan~
+ABEHK DFHJPQ 0 0
+59 49 30d30+3481 59d10+100 6d15+29 none
+0 0 0 0 0
+A
+-10 -10 -10 -10
+CFGK 0 0 0
+stand stand none 500
+0 0 medium 'unknown'
+#60
+tinker man drummer~
+a long-haired drummer~
+A younger man dressed in a {Rco{Ystu{Rme{x playing the {ydrums{x sits on the ground.
+~
+The young man has long wavy hair and a dark complection.  His eyes are
+closed most of the time as he listens to himself play his drum.  He is
+dressed in a bright red and yellow outfit that makes him look like he is on
+fire as he plays.  
+~
+tuathan~
+ABH JPQ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+CFGK 0 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#61
+tinker musician man~
+the lute player~
+A young {Bman{x is here playing on his {Yl{yut{Ye{x and watching the crowd.
+~
+Standing next to his brother this young man has similar colored hair, but
+it is not very wavy.  He is dressed in the same costume as the rest of the
+band, which makes them all look on fire.  A wooden lute is held in his arms
+with his hands carressing the strings.  He is constantly watching the area,
+but his focus is on the singer in front of him.  
+~
+tuathan~
+ABH JPQ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+CFGK 0 0 0
+stand stand male 20
+0 0 medium 'unknown'
+#62
+tinker female lady dancer~
+a female dancer~
+A thin beautiful {Mlady{x is here {mda{cnci{mng{x to the {Cmu{Ws{Cic{x.
+~
+Her long red hair is tied into a ponytail and flips around her head as
+she dances to the music.  Her eyes are a deep blue, and her skin is
+perfectly bronzed.  She is wearing colorful clothes, but the clothes are a
+bit more revealing that those you have seen so far.  She had large bracelets
+that dangle from her wrist and clink together as she moves.  Her legs are
+bare from mid-thigh down, but her shoes are tied up to the top of her calf
+with silk.  
+~
+tuathan~
+ABH JPQ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+FGHK 0 0 0
+stand stand female 20
+0 0 medium 'unknown'
+#63
+man tinker dancer male~
+a male dancer~
+A half {ynaked{x {Bman{x is here {Rda{mnci{Rng{x to the {Cmu{Ws{Cic{x.
+~
+His hair is flaming red, and freckles cover his stone structured face. 
+His boots and pants are both made of colorful leather, with a sash tied
+around his waist.  Sweat from dancing glistens on his chest and help to set
+off his muscles as he is not wearing a shirt.  His eyes are a deep brown and
+seem to be staring at the women dancing with him.  
+~
+tuathan~
+ABH HJPQ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 slap
+0 0 0 0 0
+A
+2 2 2 2
+FGHK 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#64
+fat peddler man~
+a fat little peddler~
+A {Gf{ga{Gt{x little {Bpe{bddl{Ber{x is here attempting to sell his goods.
+~
+This man is only about 4 ft tall and is almost as wide, making him look
+like a little ball.  He is the only one not wearing multiple colors.  He is
+dressed in simple browns and blues with a patchwork cloak hanging from his
+back.  A bag can be seen hanging on his shoulder full of different goods
+that he is trying to barder with.  
+~
+illianer~
+Ac DFHJ 0 0
+50 40 26d27+2500 50d10+100 6d6+25 slap
+0 0 0 0 0
+A
+2 2 2 2
+CFGHK BCDc 0 0
+stand stand male 500
+0 0 medium 'unknown'
+#75
+man mahdi noble tinker~
+the Mahdi~
+A tall {Rc{Yo{Bl{Co{Gr{Mf{Wu{Rl{x man wearing {Rno{Yb{Rle{x looking attire is standing here.
+~
+This man stands tall, his stature demanding some respect.  He is wearing
+bright colored clothing and for a change the colors he wears compliment each
+other.  A large cloack hangs from his shoulders with embroidered leafs all
+over it.  
+ 
+The {RMa{Wh{Rdi{x smiles, "{gGrettings to you. What can I help you with{x."
+~
+tuathan~
+ABH DFHVc 0 0
+60 50 31d32+3600 60d10+100 7d7+30 slap
+0 0 0 0 0
+A
+3 3 3 3
+FGHKT B 0 0
+stand stand male 200
+0 0 medium 'unknown'
+F guard_flag E
+M 'GIVE' 75 97~
+#86
+wolfkin lady warrior crazy~
+a crazy wolfkin~
+A crazy looking {Yl{yad{Yy{x watches you from the {Dsh{xa{Ddows{x of her lean-to.
+~
+Light from the fire dances across her dirty face.  Twigs and leaves
+entangled in her hair look to have been there for some time now.  Fur and
+leather cover her body, matted with mud and both fresh and dried blood. 
+Blades hang from her waist with some golden symbols on the hilts glittering
+in the fire light.  Her eyes are a distinctive yellow gleaming brightly from
+the shadows, and a crazed look shoots across her face as she sees you.  
+~
+murandian~
+ABT DFHJPQVac 0 0
+100 90 51d52+10000 100d10+100 11d11+50 claw
+0 0 0 0 0
+A
+-70 -70 -70 -70
+AEFGHIJKV BELac IQ Y
+stand stand female 100
+0 0 huge 'flesh'
+M 'GREET' 86 100~
+#88
+A rabbid dog~
+a large rabbid dog~
+A large {grabbid{x {Ddog{x waits to attack from under the shelf.
+~
+A dark figure sits on the ground below the shelves in the corner of the
+small room.  Its eyes shimmer slightly with what little light is here.  Its
+fur is matted from all the dirt, and the drool sliding from his jaw looks to
+be a bit green.  
+~
+dog~
+AF GPQ 0 0
+89 79 45d45+7921 89d10+100 9d18+44 bite
+0 0 0 0 0
+A
+5 5 5 5
+AFGKN Bc 0 0
+sit stand male 0
+0 0 large 'unknown'
+#98
+skeleton~
+a rotting skeleton~
+A {Dro{gt{Dt{gi{Dng{x {Wskeleton{x is tucked behind the boxes, hidden in the shadows.
+~
+The bones have not yet had time to lose the remaining rotting flesh, and
+it smells horrible.  The cloak and boots that are sitting next to the bones
+are covered in blood, and there is a sword cut in the cloak.  Someone must
+have been so ashamed they had to hide their secrets in the closet.  
+~
+unique~
+ABS NPQV 0 0
+50 40 26d27+2500 50d10+100 6d6+25 drain
+0 0 0 0 0
+A
+2 2 2 2
+CFGHK 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#99
+quest goat man tumnus~
+mr. Tumnus~
+A {Dgoa{ytl{Dike{x creatures stands here on two legs wondering how he got here.
+~
+Small horns adorn the head of this furry half goat creature.  A red scarf
+is wrapped around his neck.  The small bag in his arms carries what looks
+like bread jam and tea.  His legs are that of a goats, with hoofs where his
+feet should be.  
+~
+trolloc~
+ABS HJc 0 0
+80 70 41d42+6400 80d10+100 9d9+40 scratch
+0 0 0 0 0
+B
+-10 -10 -10 -10
+FGKMQR BQ E 0
+stand stand male 100
+0 Q medium 'unknown'
+F par ABCK
+M 'GREET' 99 100~
+M 'ENTRY' 99 100~
+#0
+
+
+
+#OBJECTS
+#50
+Fire pit~
+firepit~
+A well used {Rfire{rpit{x.~
+rock~
+container A 0
+500 0 0 20 0
+5 100 0 100
+E
+fire~
+Large rocks have been placed to form a circle, filled with reminants of
+previous meals and wood.  
+~
+#51
+discarded torn map parchment paper letter note~
+a burnt, crumbling piece of {ypa{Yr{Wchm{Ye{ynt{x~
+A piece of {ypa{Yr{Wchm{Ye{ynt{x is burning in the flames.~
+cloth~
+map CGPR A
+0 0 0 0 0
+50 0 2 100
+E
+parchment~
+The corners of the {ypa{Yr{Wchm{Ye{ynt{x have been bady burnt, and there are now many
+holes making it very hard to make out what was once there.  
+~
+E
+parchment~
+Most of the letter has been destroyed by the fire but there is a few bits
+left.  
+
+ThE lEaf Shall sEe the chosen way.  
+                         DonT leaVe the pAth
+        for If yoU strAy
+tHe spideRs wiLl neVer
+           leT yOu get Away.
+~
+#52
+broken glass bottle~
+broken {Dsha{xr{cds{x of {Cg{clas{Cs{x~
+Many broken {Dsha{xr{cds{x of {Cg{clas{Cs{x are gathering dust here.~
+cloth~
+weapon CE AN
+exotic 5 10 'slice' D
+15 1 1 100
+#53
+white cloak~
+a {ydirty{x and torn {Yc{Wloa{Yk{x~
+A dirty {Yw{Whit{Ye{x cloak, now {Dt{xor{Dn{x lies here gathering dust.~
+cloth~
+armor 0 AK
+20 20 20 20 0
+80 1 4 100
+A
+19 1
+A
+18 1
+A
+5 1
+A
+3 -1
+#54
+sword sunburst hilt~
+a dull, worn blade~
+A dull, worn blade stained with {Rb{rloo{Rd{x.~
+steel~
+weapon CE AN
+sword 9 14 'stab' 0
+80 2 5 100
+A
+19 4
+#55
+pigtails hair bow~
+a set of {Ypi{ygtai{Yls{x with {Gb{Ro{Ww{Cs{x~
+A set of hair {Gb{Ro{Ww{Cs{x are laying in the {ydirt{x.~
+hair ribbon~
+armor A AE
+5 10 5 10 0
+30 1 10 100
+#56
+toy boys ball~
+a small {Cball{x~
+A small {Cball{x belonging to a little bow.~
+cloth~
+trash 0 AO
+0 0 0 0 0
+1 1 2 100
+#57
+animal trap belt~
+a thick {yleather{x {rhu{Dnti{rng{x belt~
+A thick {yleather{x belt has a few {Ddead{x animals hanging from {Dh{Wook{Ds{x on its sides.~
+fur~
+armor I AL
+15 15 15 10 0
+55 1 10 100
+A
+19 1
+A
+1 1
+#58
+pipe~
+a {Ygo{yld{Yen{x pipe with lenses in it~
+A small pipe lays atop the wagon forgotten.~
+gold~
+treasure 0 AO
+0 0 0 0 0
+1 1 100 100
+E
+pipe~
+As you study the pipe a moment you figure out that it is an old
+telescope.  It is very fragile but could offer a great view.  
+~
+#59
+tinker colorful blouse shirt~
+a {Gco{Rlo{Yrf{Cul{x hand-made {Bbl{Wou{Bse{x~
+A {Gco{Rlo{Yrf{Cul{x hand-made {Bbl{Wou{Bse{x with {Wembr{Doid{Wered{x animals across the breasts.~
+cloth~
+armor 0 AD
+20 15 10 5 0
+50 1 20 100
+A
+4 1
+#60
+butterfly barrett jewelry~
+a large {Cbu{Mtt{Re{Mrf{Cly{x barrett~
+A large {Cbu{Mtt{Re{Mrf{Cly{x barrett shimmers in the light here.~
+cloth~
+jewelry A AE
+0 0 0 0 0
+50 1 20 100
+A
+17 10
+A
+3 1
+#61
+calm happy look face~
+a {Wcalm{x {Cha{cpp{Cy{x look~
+A {Wcalm{x {Cha{cpp{Cy{x look waits for someone to turn that frown upside down.~
+flesh~
+armor GP AV
+12 11 10 12 0
+45 0 10 100
+A
+3 3
+A
+4 3
+#62
+pants breeches leg~
+a pair of {Rco{Clo{Grf{Mul{x {Yle{yath{Yer{x breeches~
+A pair of {Rco{Clo{Grf{Mul{x {Yle{yath{Yer{x breeches with {Ygold{x and {Ws{Di{Wlv{De{Wr{x trimmings are here.~
+cloth~
+armor B AF
+20 10 20 10 0
+60 2 10 100
+A
+1 -1
+A
+2 1
+#63
+boots tan leather~
+a pair of {ydo{Yesk{yin{x {Dboots{x~
+A pair of {ydo{Yesk{yin{x {Dboots{x with {Ygold{x and {Ws{Di{Wlv{De{Wr{x trimmings are here.~
+leather~
+armor 0 AG
+20 15 15 10 0
+60 2 20 100
+A
+2 1
+#64
+tinker bracelet stone~
+a {Wc{Da{Wrv{De{Wd{x {Ds{yton{De{x bracelet~
+{WC{Da{Wrv{De{Wd{x {Ds{ytone{Ds{x have been connected with a leather strip to make a bracelet.~
+stone~
+armor 0 AM
+12 12 12 14 0
+50 1 50 100
+A
+4 1
+#65
+well defined chest muscle~
+{Yo{yile{Yd{x chest {Wmu{Dscl{Wes{x~
+Well {Yo{yile{Yd{x chest {Wmu{Dscl{Wes{x are being shown off for all to see.~
+flesh~
+armor 0 AD
+10 15 10 15 0
+50 1 10 100
+A
+1 1
+#66
+lute~
+a beautiful {Ylute{x~
+A beautiful {Ylute{x with {Ws{Di{Wlv{De{Wr{x scrollwork along its sides.~
+wood~
+treasure A AO
+0 0 0 0 0
+50 3 100 100
+A
+3 1
+A
+19 -1
+A
+18 -1
+#67
+drums~
+a set of large {ywooden{x {Wdr{Du{Wms{x~
+A set of large {ywooden{x {Wdr{Du{Wms{x sit here on the ground begging to be used.~
+wood leather~
+treasure 0 AO
+0 0 0 0 0
+50 5 100 100
+A
+1 1
+A
+19 -1
+A
+18 -1
+#68
+gloves hand leather~
+a pair of {Rb{rlood{Ry{x {Wl{Dac{We{x gloves~
+A pair of {Rb{rlood{Ry{x {Wl{Dac{We{x gloves sit rotting on the ground.~
+leather~
+armor CE AH
+25 20 25 20 0
+90 1 100 100
+A
+2 1
+A
+1 1
+A
+4 -1
+A
+19 2
+A
+18 2
+#69
+bloody dagger~
+a long {Rb{rlood{Ry{x {Wda{Dgger{x~
+A long {Wda{Dgger{x coated with the {Rb{rlood{x of animals and humans alike.~
+steel~
+weapon CEPc N
+dagger 10 15 'pierce' DH
+90 5 100 100
+A
+18 4
+A
+19 4
+#70
+carved walking stick~
+a carved walking stick~
+A carved walking stick, with {Ygold{x and {Ws{Di{Wlv{De{Wr{x inlay.~
+wood~
+weapon S AN
+staff 6 11 'smash' 0
+50 2 300 100
+A
+5 2
+#71
+frying pan~
+a large fying {cpan{x~
+A large frying {cpan{x with a metal handle looks to be extra heavy.~
+metal~
+weapon c AN
+exotic 6 11 'smash' 0
+50 30 200 100
+#72
+Large stew pot~
+a very large {ys{rt{yew{x {Dpot{x~
+A very large {ys{rt{yew{x {Dpot{x made by the tinkers is incredibly strong.~
+tin~
+armor c AEO
+10 10 20 10 0
+50 15 200 100
+A
+5 1
+A
+3 -2
+#73
+colorful tinker cloak~
+a {Gc{Co{Rl{Mor{Rf{Cu{Gl{x {Ws{Cilke{Wn{x cloak~
+A {Gc{Co{Rl{Mor{Rf{Cu{Gl{x {Ws{Cilke{Wn{x cloak has been embroidered with {Gl{geaf{Gs{x.~
+cloth~
+armor 0 AK
+15 10 15 10 0
+50 2 200 100
+A
+2 1
+#74
+turkish delight~
+a {Ws{Di{Wlv{De{Wr{x container full of {ytu{rrki{ysh{x {Mde{mlig{Mht{x~
+A {Ws{Di{Wlv{De{Wr{x container full of {ytu{rrki{ysh{x {Mde{mlig{Mht{x.~
+cloth~
+pill 0 A
+90 'slow' 'levitate' 'gag' ''
+5 2 200 100
+#75
+belief way leaf~
+a {Yb{Welie{Yf{x in the {Wway{x of the {Gl{gea{Gf{x~
+A strong {Yb{Welie{Yf{x in the {Wway{x of the {Gl{gea{Gf{x lights the way.~
+faith~
+light IY AQ
+0 0 999 0 0
+60 2 100 100
+A
+17 30
+A
+18 -3
+A
+19 -3
+A
+3 1
+A
+2 1
+#76
+Warning sign post note writting~
+a warning sign~
+A broken post with a hand written sign on it.~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+If you are reading this, then you are now almost dead.  This place is
+very nasty.  When you can wake up, {Rrecall{x to a safe place, or become spider
+food.  
+~
+#77
+wardrobe~
+a strange wooden closet~
+A large {Gco{Mlo{Rrf{Gul{x {Ytap{yes{Ytry{x hangs along the back wall.~
+wood~
+portal GY 0
+0 ABCFM A 99 99
+1 500 1000 100
+E
+wardrobe~
+A beautiful ornate wooden wardrobe is hidden behind a large colorful
+tapestry.  
+~
+E
+tapestry~
+Made from the finest eastern threads, this tapestry depicts a sunrise
+over a land held in the grasp of a never ending winter.  
+~
+#78
+sign post warning note writting~
+a warning sign~
+A large sign offering a warning.~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+The word {RWARNING{x!  Is written on the sign with blood.  
+
+Ooc, This area has some unique rooms call deathtraps.  If you find yourself
+in one, you may not make it out wihtout taking a little nap, so beware. 
+Remember, sometimes recall is the only option.  Good luck.  
+~
+#79
+door gate portal opening light cold~
+a {Mportal{x to a strange world~
+A strange light at the back of the closet.~
+etheral~
+portal a 0
+6 M G 99 0
+10 1000 0 100
+#80
+exit warddrobe wardrobe~
+an exit portal that drops you somewhere~
+At the front of the closet you can see the exit to get out.~
+etheral~
+portal 0 0
+-1 A E 0 0
+10 1000 0 100
+#86
+signet blood fang ring~
+a signet {Rb{rloo{Rd{x ring~
+A signet ring with {Rruby{x {Df{rang{Ds{x protuding from the face.~
+onyx~
+armor CEY AB
+22 22 22 24 0
+90 1 100 100
+A
+1 1
+A
+5 1
+A
+2 1
+A
+4 -1
+A
+3 -1
+E
+blood~
+Human blood seems to have stained the ruby fangs on this ring.
+~
+#88
+box~
+A dirty box sits on the shelf~
+{x~
+cloth~
+container 0 0
+0 ACD 99 0 0
+0 10 0 100
+#90
+A handfull of gold~
+A handfull of {Ygold{x~
+A handfull of {Ygold{x~
+gold~
+money 0 A
+0 50 0 0 0
+0 0 0 100
+#97
+stone diamond~
+a flawless {Mpri{mnc{Mess{x cut {Wdiamond{x~
+A flawless {Wdiamond{x has been stollen from someone perhaps you should return it.~
+diamond~
+gem A AO
+0 0 0 0 0
+50 3 1000 100
+A
+5 2
+#98
+horn mystical~
+an ancient {yhorn{x with {Dstrange{x markings~
+An ancient {Yhorn{x of a {Dstrange{x beast, with {Dstrange{x markings written all over it in some unknown language.~
+stone~
+treasure GIYb AS
+0 0 0 0 0
+80 3 200 100
+A
+17 25
+A
+4 1
+#99
+Dirty key~
+a dirty key~
+The dirty key looks to be very old and very fragile.~
+metal~
+key Pb AO
+0 0 0 0 0
+0 1 0 100
+#0
+
+
+
+#ROOMS
+#50
+A clearing at the edge of the road.~
+A small {Gcle{garing{x opens up here next to the well traveled {yroad{x.  A used
+{Rfire{rpit{x sits in the center with a few small {Wbones{x still sitting in it. 
+{GGrass{x covers the ground in the clearing with little bits of weeds sprouting
+up here and there.  {gMatted{x areas can easily be seen where people have
+pitched their tents or layed out their blankets to wait out the night here. 
+Even a few wagon tracks can be seen crisscrossing the clearing.  Surrounding
+the clearing is thick trees and bushes but they do not block the view of
+sky.  
+~
+0
+C 15
+D1
+A solid wall of trees stands before you with a pile of bushes at its base 
+~
+bushes~
+4099 4099
+1 0 51
+D9
+~
+~
+0 0
+0 0 55487
+S
+#51
+In the forest~
+Tall {gconifers{x grow at irregular intervals, sparse in some places, dense
+in others.  The {ybr{ga{ynch{ge{ys{x spread out widely at the bottom, slowly getting
+thinner towards the top.  Not thinning out enough to let it much light
+though, so it makes it hard to see in any direction.  
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 53
+D1
+~
+~
+4096 4096
+0 0 52
+D2
+~
+~
+4096 4096
+0 0 55
+D3
+~
+~
+4099 4099
+1 0 50
+S
+#52
+An old road~
+The hardpacked {ydirt{x of this road is cracked and full of holes.  Deep ruts
+have been carved into the surface.  It seems like this might have once been
+an important or heavily travelled road, but is now rarely used and hasn't
+been maintained.  Deep {ggr{Gee{gn{x weeds have reclaimed part of the road.  A large
+tree has grown right in the middle of the old road showing how long sence
+anyone has traveled this way.  
+~
+0
+A 14
+D0
+~
+~
+4096 4096
+0 0 54
+D1
+~
+~
+4096 4096
+0 0 95
+D2
+~
+~
+4096 4096
+0 0 56
+D3
+~
+~
+4096 4096
+0 0 51
+S
+#53
+The forest thickens~
+You can see a bit to the south as a small path is there, but as you look
+east there is nothing to see.  The trees are so close that you will need to
+squish your way through them or find another way around them to get to the
+other side.  
+~
+0
+A 3
+D1
+~
+~
+4096 4096
+0 0 54
+D2
+~
+~
+4096 4096
+0 0 51
+S
+#54
+Deep in the forest~
+The growth of the forest has blocked out all of the light here.  It is
+very hard to make your way through the branches and bushes that have taken
+over the area.  You can hear something scurrying on the ground, but they
+will be nearly impossible to see.  
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 57
+D2
+~
+~
+4096 4096
+0 0 52
+D3
+~
+~
+4096 4096
+0 0 53
+S
+#55
+Edge of the forest~
+Everything seems to have overgrown here, as it hasn't been traversed in a
+long time.  The light is no better, but the ground feels a bit different. 
+Almost as if you are walking on a rutted path beneath the foilage covering
+the ground.  
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 51
+D1
+~
+~
+4096 4096
+0 0 56
+D2
+~
+~
+4096 4096
+0 0 60
+S
+#56
+In the forest~
+The forest continues to surround you as you make your way through it.  No
+other animals are seen here as the forest is so thick.  If you are not
+carefull the branches will easily catch and tare your clothes, while the
+rocks make it very easy to loose your balance.  
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 52
+D1
+~
+~
+4096 4096
+0 0 58
+D2
+~
+~
+4096 4096
+0 0 96
+D3
+~
+~
+4096 4096
+0 0 55
+S
+#57
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.  
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 91
+D1
+~
+~
+4096 4096
+0 0 92
+D2
+~
+~
+4096 4096
+0 0 54
+D3
+~
+~
+4096 4096
+0 0 92
+S
+#58
+A faint path~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 90
+D1
+~
+~
+4096 4096
+0 0 92
+D2
+~
+~
+0 0
+0 0 59
+D3
+~
+~
+4096 4096
+0 0 56
+S
+#59
+A faint path~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 58
+D1
+~
+~
+0 0
+0 0 64
+D2
+~
+~
+4096 4096
+0 0 93
+D3
+~
+~
+4096 4096
+0 0 92
+S
+#60
+An Old Road~
+Erosion and weeds have ruined this once traveled road.  The earth has
+been etched by water that has ran this way.  Dense forest surrounds you but
+the dilapidated road continues onward, deeper into the forest.  
+~
+0
+A 14
+D0
+~
+~
+4096 4096
+0 0 55
+D3
+~
+~
+4096 4096
+0 0 61
+S
+#61
+An Expansive Field~
+Stepping through a wall of bushes and shrubs the area opens up into
+another clearing.  Waist-high {Ggr{ga{Gss{ge{Gs{x form a vast sea that expands in all
+directions and sways gently even when there is no breeze; the waves
+accentuating the {Bo{bc{Bea{bn{x-like ambience.  Bright {Mp{mu{Mrpl{me{x {Ww{mi{Wldfl{mo{Ww{me{Wrs{x form
+colorful dots in the {Ggreen{x swells.  Off to the east, dark conifers and other
+trees rise skyward, the probable beginnings of a forest.  Thin plumes of
+{Ds{wm{Wo{wk{De{x waft up from somewhere to the west.  
+~
+0
+A 2
+D1
+~
+~
+4096 4096
+0 0 60
+D3
+~
+~
+0 0
+0 0 62
+S
+#62
+Outside a Small Cottage~
+Nestled into the trees here at the edge of the clearing there is a small
+house.  The house seems to be in need of repairs as the shutters on the
+windows are hanging, and the door seems slighty scewed.  The glass in the
+windows is all missing and dust seems to have settled on everything.  
+~
+0
+A 2
+D1
+~
+~
+0 0
+0 0 61
+D2
+~
+~
+259 259
+1 0 63
+S
+#63
+Inside the old rotting cottage~
+The walls of the cottage are starting to fall apart.  There are holes
+large enough to reach through with weeds growing through them.  Dirt is
+covering the floor, along with everything else in the room.  Shards of glass
+sit against the west wall beneath the broken window.  While broken furniture
+parts are scattered around the rest of the room.  There seems to be a door
+along the far wall that leads back outside.  
+~
+0
+0 0
+D0
+~
+~
+259 259
+1 0 62
+D2
+~
+~
+259 259
+1 0 89
+D5
+~
+~
+12323 12323
+1 99 88
+S
+#64
+A faint path~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 92
+D1
+~
+~
+4096 4096
+0 0 94
+D2
+~
+~
+0 0
+0 0 65
+D3
+~
+~
+0 0
+0 0 59
+S
+#65
+A faint path~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 64
+D1
+~
+~
+4096 4096
+0 0 91
+D2
+~
+~
+0 0
+0 0 66
+D3
+~
+~
+4096 4096
+0 0 92
+S
+#66
+A faint path~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+0 0
+0 0 65
+D1
+~
+~
+4096 4096
+0 0 97
+D2
+~
+~
+0 0
+0 0 67
+D3
+~
+~
+4096 4096
+0 0 91
+S
+#67
+In front of the Wagons~
+The forest line breaks and you step out into the {Yli{Wght{x.  The clearing is
+not large, but it is large enough to fit many of the {Rwa{Mgo{Yns{x that have made
+this their home.  Different sounds can be heard to the south with smoke
+rising from pipes atop the wagons.  In great contrast to the forest you came
+from the colors here are {Ybright{x and {Cvib{Mrant{x.  
+~
+0
+0 3
+D0
+~
+~
+0 0
+0 0 66
+D1
+~
+~
+0 0
+0 0 69
+D2
+~
+~
+0 0
+0 0 70
+D3
+~
+~
+3 3
+1 0 68
+S
+#68
+Inside a wagon~
+The wagon opens up into one large room.  {RBe{Gddi{Yng{x lies at one end with
+colorful {Mbl{Wan{Yke{Cts{x and {Cpi{Yll{Wo{Mws{x spread all about.  A stove stands in the
+middle with a small pile of {ywood{x sitting next to it.  A table and chairs sit
+on the other end with colorful coverings on everything.  On the walls hangs
+multiple {Ypic{ytu{Yres{x and {Rf{Ga{Wbri{Gc{Rs{x of every color.  There is also a very unique
+tapestry hanging across the back wall of the wagon that is hard to not take
+a second look at.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 67
+S
+#69
+The dog kennel~
+Wire mesh has been set up around the {gtre{yes{x with a makeshift door on the
+front side.  The {Wsh{wa{Wde{x of the {gtre{yes{x gives the dogs a good place to lay when
+they are not running around the camp and playing with the children.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 67
+S
+#70
+Between the wagons~
+Very colorfull {Rwa{Ggo{Mns{x surround the area with lots of activity and noise
+coming from each one of them.  Not all of the {Mwa{Ygo{Rns{x are in the best of
+shape and one even has a broken {ywheel{x that looks to be being worked on when
+the owner gets around to it.  Smells of cooking and {Cmus{Wic{x and song can be
+smelt and heard everyone, but are strongest to the south 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 67
+D1
+~
+~
+3 3
+1 0 71
+D2
+~
+~
+0 0
+0 0 73
+D3
+~
+~
+3 3
+1 0 72
+S
+#71
+Within a wagon~
+This {Cwa{Yg{Won{x is seperated into two sections with a {Dc{Wlot{Dh{x set up between
+them.  This {Cwa{Yg{Won{x is just as colorfull as the others with no ryhme or reason
+to their patterns.  Extra bedding has been sat on the shelfs along with the
+dishes and food, but seems to be just tossed there as though someone was
+looking for something.  The sheet seems to be hiding something behind, but
+from this side it is hard to tell what it is.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 70
+D4
+You can see a locked door that leads .. somewhere
+~
+~
+4871 4871
+2 0 87
+S
+#72
+In a wagon~
+Pictures of people {Ydan{Ccing{x and celebrations hang all over the walls of
+the wagon, with lots of different colo{R{Rred{x{x {Gm{Ra{Yt{Be{Wr{Ci{Ma{Pl{x stretching from one
+picture to another.  The walls have been done in just red and {Yg{yol{Yd{x, unlike
+the mismatching paint of the other wagons that you have passed.  A {ytable{x
+sits in the middle of the wagon with a couple {ychairs{x while the woman of the
+tent is at the other end paying attention to her {Dstove{x.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 70
+S
+#73
+Center of the camp~
+Animals run along the path just as much as the followers of the leaf do. 
+Each seemingly happy with a smile on their face.  The sounds of music and
+song get a little bit louder here, but not loud enough that you cant easily
+talk with anyone you find.  A small box sits next to the wagon to the west
+with muddy boot prints on it from someone standing on it.  At this point
+none of the trees lean over to block the view of the sky, so wether it is
+day or night, the view is spectacular.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 70
+D1
+~
+~
+3 3
+1 0 74
+D2
+~
+~
+0 0
+0 0 76
+D3
+~
+~
+3 3
+1 0 75
+S
+#74
+Inside a wagon~
+Thick soft carpets in a soft shade of {Mmagenta{x cover the wood floor.  A
+very large bed rests in the center of the room, an exceptionally beautiful
+blanket made of the finest materials, the Head of a {YL{yion{x embroidered
+carefully in the center, has been tucked neatly beneath many silk pillows
+that rest against the hard wood headboard.  Four posts lead up from the bed
+reaching the top of a silk canopy hanging down has been pulled open, tied to
+the posts with thick, heavy {ygolden{x cords.  Small windows look out over the
+personal private {ggardens{x.  A tall mirror, edged with gold and silver, stands
+on the wall behind a washstand made of dark wood, carved in spirals along
+the edges.  A wash basin and pitcher, made of the finest Sea Folk porcelain,
+hold fresh water.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 73
+S
+#75
+The Wagon of the Mahdi~
+This wagon is a little larger than the others but just as {Rc{Yo{Wl{Bo{Gr{Cf{Mu{Wl{Rl{x.  A
+large {ydesk{x fills one end of the wagon atop a beautiful woven {Rr{Bu{Yg{x that covers
+the floor.  The other end contained a large bed with fluffy {Cp{Willow{Cs{x and
+thick {Yb{Bl{Ga{Wn{Rk{Ce{Mt{Ys{x.  {yM{Wirror{ys{x are hung all over the wagon, with {Gp{Cain{Wt{Cing{Gs{x and
+other wall hangings covering the remainder of the walls.  
+~
+0
+D 0
+D1
+~
+~
+3 3
+1 0 73
+D5
+~
+rug~
+12807 12807
+2 0 83
+S
+#76
+The last of the wagons~
+Very colorfull wagons surround the area with lots of activity and noise
+coming from each one of them.  Not all of the wagons are in the best of
+shape and one even has a broken wheel that looks to be being worked on when
+the owner gets around to it.  Smells of cooking and music and song can be
+smelt and heard everyone, but are strongest to the south 
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 73
+D1
+~
+~
+3 3
+1 0 77
+D2
+~
+~
+0 0
+0 0 79
+D3
+~
+~
+3 3
+1 0 78
+S
+#77
+In a wagon~
+Pictures of people dancing and celebrations hang all over the walls of
+the wagon, with lots of different colored material stretching from one
+picture to another.  The walls have been done in just red and gold, unlike
+the mismatching paint of the other wagons that you have passed.  A table
+sits in the middle of the wagon with a couple chairs while the woman of the
+tent is at the other end paying attention to her stove.  
+~
+0
+C 0
+D2
+~
+~
+775 775
+2 0 98
+D3
+~
+~
+3 3
+1 0 76
+S
+#78
+Inside a wagon~
+This wagon is seperated into two sections with a cloth set up between
+them.  This wagon is just as colorfull as the others with no ryhme or reason
+to their patterns.  Extra bedding has been sat on the shelfs along with the
+dishes and food, but seems to be just tossed there as though someone was
+looking for something.  The sheet seems to be hiding something behind, but
+from this side it is hard to tell what it is.  
+~
+0
+C 0
+D1
+~
+~
+3 3
+1 0 76
+S
+#79
+Before a clearing~
+Stepping away from the wagons you walk toward a clearing.  Dense forest
+surrounds the area hiding it from any outside view.  Children can be seen
+running around, along with a few adults keeping an eye on them.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 76
+D2
+~
+~
+0 0
+0 0 82
+D3
+~
+~
+0 0
+0 0 80
+S
+#80
+A clearing~
+This clearing is not very large, but seems just enough to give the
+children a place to run around and play games.  The smells of food and the
+sounds of music fill the area.  Even the dogs that are here are laying down
+and relaxing.  
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 79
+D2
+~
+~
+0 0
+0 0 81
+S
+#81
+A clearing~
+This clearing is not very large, but seems just enough to give the
+children a place to run around and play games.  The smells of food and the
+sounds of music fill the area.  Even the dogs that are here are laying down
+and relaxing.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 80
+D1
+~
+~
+0 0
+0 0 82
+S
+#82
+A clearing~
+This clearing is not very large, but seems just enough to give the
+children a place to run around and play games.  The smells of food and the
+sounds of music fill the area.  Even the dogs that are here are laying down
+and relaxing.  
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 79
+D3
+~
+~
+0 0
+0 0 81
+S
+#83
+Below a wagon~
+You have found your way below and behind the wagon.  It doesn't seem like
+anyone has walked here for quite a while as the dust hasn't been dissturbed
+and there is no footprints in the damp dirt.  The only way to go is west
+though as the wagon blocks the rest of the directions 
+~
+0
+A 3
+D3
+~
+~
+4096 4096
+0 0 84
+D4
+~
+~
+12807 12807
+2 0 75
+S
+#84
+Behind a wagon~
+Stepping out from underneath the wagon you cant see much.  The trees here
+are pretty large and thick, and block out any light that could have been
+here.  There are still no footprints on the ground to follow so who knows
+when the last time someone was here.  
+~
+0
+A 2
+D0
+~
+~
+4096 4096
+0 0 85
+D1
+~
+~
+0 0
+0 0 83
+D2
+~
+~
+4096 4096
+0 0 84
+D3
+~
+~
+4096 4096
+0 0 84
+S
+#85
+Before a clearing~
+The thick trees seem to lessen here, just before the clearing opens to
+the west.  The weeds and brush have grown very thick on the ground leaving
+no tracks, but the twigs there make noise as you walk on them.  
+~
+0
+A 2
+D2
+~
+~
+0 0
+0 0 84
+D3
+~
+~
+4096 4096
+0 0 86
+S
+#86
+A tiny clearning~
+A small clearing has been cut here in the thick trees.  A small firepit
+sits in the center and a makeshift lean-to is set up at the edge of the
+trees.  A few bones have been tossed around the ground each cleaned
+perfectly.  
+~
+0
+A 3
+D1
+~
+~
+4096 4096
+0 0 85
+S
+#87
+On top of a wagon~
+From atop the wagon you can see in every direction.  To the north lies
+the thick forest, to the east the trees get a bit lighter and animals can be
+seen making their way to the river.  To the south you can look over the camp
+and see the fields and dancing that is going on.  To the west above the
+trees you can see a wisp of smoke making its way into the sky.  
+~
+0
+0 5
+E
+west~
+A small plume of smoke can be seen rising from a clearing in the trees.  
+~
+E
+telescope~
+Through the telescope as you look to the west you can see the plume of
+smoke better.  As you follow it down you catch a glimpse of a very small
+clearing and a figure moving slowly within it.  
+~
+D5
+You can see the door by which you came to the roof.
+~
+~
+4871 4871
+2 0 71
+S
+#88
+A dark cellar~
+There is bearly enough room to turn arround in this room.  There is no
+light except for what comes through the floorboards and the trapdoor you
+found to get here.  Dusk covers everything making it even harder to see
+anything with the low light.  There is very faint paw prints on the ground
+leading over to underneath the shelves.  
+~
+0
+AD 0
+D4
+You see a trapdoor
+~
+~
+12323 12323
+1 99 63
+S
+#89
+A backyard~
+The forest looms over the edge of the small patches of grass that have
+turned a bit brown from being uncared for.  A small pit in the ground still
+holds bits of burnt wood and ash from some now ancient fire.  Sounds of
+little animals come from the surounding area if you are quiet enough to hear
+them.  
+~
+0
+0 2
+D0
+~
+~
+259 259
+1 0 63
+S
+#90
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 91
+D1
+~
+~
+4096 4096
+0 0 92
+D2
+~
+~
+4096 4096
+0 0 58
+D3
+~
+~
+4096 4096
+0 0 91
+S
+#91
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+AC 3
+D0
+~
+~
+4096 4096
+0 0 92
+D1
+~
+~
+4096 4096
+0 0 92
+D2
+~
+~
+0 0
+0 0 92
+D3
+~
+~
+0 0
+0 0 92
+S
+#92
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+ACUX 3
+E
+dt~
+Small {Gpo{Di{gson{Do{Gus{x {Dsp{yide{Drs{x fall onto your neck and begin to sink their {rfangs{x
+deep into your flesh 
+~
+D0
+~
+~
+0 0
+0 0 91
+D1
+~
+~
+0 0
+0 0 91
+D2
+~
+~
+0 0
+0 0 91
+D3
+~
+~
+4096 4096
+0 0 91
+S
+#93
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 59
+D1
+~
+~
+4096 4096
+0 0 91
+D2
+~
+~
+4096 4096
+0 0 92
+D3
+~
+~
+4096 4096
+0 0 91
+S
+#94
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 91
+D1
+~
+~
+4096 4096
+0 0 92
+D2
+~
+~
+4096 4096
+0 0 91
+D3
+~
+~
+4096 4096
+0 0 64
+S
+#95
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 92
+D1
+~
+~
+4096 4096
+0 0 91
+D2
+~
+~
+4096 4096
+0 0 92
+D3
+~
+~
+4096 4096
+0 0 52
+S
+#96
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 56
+D1
+~
+~
+4096 4096
+0 0 91
+D2
+~
+~
+4096 4096
+0 0 91
+D3
+~
+~
+4096 4096
+0 0 92
+S
+#97
+The Endless Forest~
+Each tree looks just like the other as you look in each direction.  The
+top of trees have grown thick enough that it keep outs both sun and moon
+light.  Little scratching noises can be heard but what makes them can not be
+seen.  A shimmer or a flash of something happens at the edge of your vision,
+but there is nothing there if you turn around.
+~
+0
+A 3
+D0
+~
+~
+4096 4096
+0 0 91
+D1
+~
+~
+4096 4096
+0 0 92
+D2
+~
+~
+4096 4096
+0 0 91
+D3
+~
+~
+4096 4096
+0 0 66
+S
+#98
+An extra room~
+As you walk into the closet you relaize there is something very different
+here.  There is no color.  It is dark, drap and grey.  Boxes fill up the
+corners and dust has gathered on top of them.  Something is lying in the
+corner, hidden in the shadows.  
+~
+0
+A 0
+D0
+~
+~
+775 775
+2 0 77
+S
+#99
+Within a strage closet~
+Entering the closet, something suddenly feels different.  The wood inside
+the closet has been decorated with strage etchings.  The back of the doors
+is etched the picture of a huge animal with a flowing mane and large paws
+standing atop a rock and over looking a valley.  On the walls in front of
+the many {yf{Du{yr{x coats you can see the etching of other animals gathering
+together around a large stone palace.  The fur coats are very thick and take
+up the majority of the closet space.  You can tell no one has distrurbed
+this closet for a long time as there is a solid layer of {Ddust{x gathering on
+the floor.  The further in you get the cold gets worse, and something else
+is there.  
+~
+0
+ACDNV 0
+E
+picture~
+There is something strange here.  A feeling that something is watching
+you, but its not of this world.  Perhaps it is in another.  
+~
+E
+fur~
+Many different fur coats can be seen hanging nicely on the bar.  There
+are tags on each of them, that look like they were recently cleaned.  
+~
+E
+tags~
+Written in a different ink than the rest of the tags you read:
+ 
+A gift for you, if you can tell.
+What it really says, Now read it well.
+ 
+"eh snoRe or slUr"
+~
+M 10 H 10
+S
+#0
+
+
+
+#SPECIALS
+M 86 spec_duelling
+M 88 spec_poison
+S
+
+
+
+#RESETS
+D 0 50 1 1
+D 0 51 3 1
+D 0 62 2 1
+D 0 63 0 1
+D 0 63 2 1
+D 0 63 5 1
+D 0 67 3 1
+D 0 68 1 1
+D 0 70 1 1
+D 0 70 3 1
+D 0 71 3 1
+D 0 71 4 2
+D 0 72 1 1
+D 0 73 1 1
+D 0 73 3 1
+D 0 74 3 1
+D 0 75 1 1
+D 0 75 5 2
+D 0 76 1 1
+D 0 76 3 1
+D 0 77 2 2
+D 0 77 3 1
+D 0 78 1 1
+D 0 83 4 2
+D 0 87 5 2
+D 0 88 4 1
+D 0 89 0 1
+D 0 98 0 2
+O 0 50 0 50
+P 0 51 1 50 1
+O 0 78 0 51
+O 0 16054 0 63
+P 0 52 1 16054 1
+M 0 52 20 67 2
+M 0 51 20 67 2
+E 0 55 0 8
+E 0 56 0 19
+O 0 77 0 68
+M 0 58 1 68 1
+M 0 53 20 69 4
+M 0 53 20 69 4
+M 0 53 20 69 4
+M 0 53 20 69 4
+M 0 57 10 71 1
+E 0 57 0 16
+M 0 56 10 71 1
+E 0 59 0 7
+M 0 56 10 72 1
+E 0 55 0 8
+E 0 59 0 7
+M 0 51 20 73 4
+E 0 56 0 19
+E 0 55 0 8
+M 0 53 20 73 4
+M 0 54 10 73 1
+E 0 60 0 8
+E 0 61 0 25
+M 0 53 20 73 4
+M 0 64 1 74 1
+G 0 70 0
+G 0 71 0
+G 0 72 0
+G 0 73 0
+G 0 74 0
+M 0 75 1 75 1
+E 0 75 0 1
+E 0 62 0 9
+E 0 63 0 10
+M 0 56 10 75 1
+E 0 60 0 8
+E 0 59 0 15
+M 0 52 20 76 4
+M 0 53 20 76 4
+M 0 59 1 77 1
+E 0 61 0 25
+M 0 57 10 77 1
+E 0 57 0 16
+M 0 56 10 78 1
+E 0 60 0 8
+E 0 59 0 7
+M 0 57 10 78 1
+E 0 57 0 16
+M 0 51 20 79 4
+E 0 55 0 8
+E 0 56 0 19
+M 0 52 20 79 4
+M 0 54 10 79 1
+E 0 60 0 8
+E 0 59 0 7
+M 0 63 10 81 2
+E 0 65 0 7
+M 0 62 10 81 2
+E 0 64 0 17
+E 0 64 0 18
+M 0 61 1 81 1
+E 0 66 0 19
+M 0 60 1 81 1
+E 0 67 0 19
+M 0 53 20 81 4
+M 0 53 20 83 1
+O 0 50 0 86
+P 0 420 1 50 1
+M 0 86 1 86 1
+E 0 86 0 4
+E 0 68 0 11
+E 0 69 0 20
+O 0 58 0 87
+M 0 88 2 88 2
+M 0 88 2 88 2
+O 0 88 0 88
+P 0 90 1 88 1
+M 0 50 1 89 1
+E 0 53 0 15
+E 0 54 0 20
+M 0 55 20 90 4
+M 0 55 20 90 4
+O 0 76 0 91
+M 0 55 20 92 4
+O 0 76 0 92
+M 0 55 20 94 4
+M 0 55 20 94 4
+M 0 55 20 96 4
+M 0 55 20 96 4
+M 0 98 1 98 1
+E 0 97 0 19
+M 0 99 1 99 1
+E 0 98 0 14
+O 0 79 0 99
+O 0 80 0 99
+S
+
+
+
+#SHOPS
+64 0 0 0 0 0 120 100 0 23
+0
+
+
+
+#$

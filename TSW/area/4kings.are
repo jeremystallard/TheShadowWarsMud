@@ -1,0 +1,4195 @@
+#AREADATA
+Name Four Kings~
+Builders Kitiara~
+VNUMs 300 399
+Credits None~
+Security 2
+Low 10
+High 50
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#300
+Joram~
+A short, stocky man~
+A short, stocky man stands here, working on some metal.
+~
+Before you stands a short, stocky man.  His arms are covered in a
+glistening sweat, from working near the fire.  He is tanned and very
+muscular.  As you enter his shop, he looks up at you and smiles.  
+~
+andoran~
+AB Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+0 0 0 0
+0 N 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#301
+Maenei~
+a short, dark haired woman~
+A short, dark haired woman stands here, in a {Bblue dress{x.
+~
+A short, dark haired woman in a {Bblue dress{x stands here, cleaning what she
+can.  When you walk in she looks up at and smiles.  "{gIf you see anything you
+like, let me know.  {x" 
+~
+andoran~
+A Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+0 0 0 0
+0 N 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#302
+Liam~
+a tall, balding man~
+A tall, balding man with a {yleather{x apron stands here, working on a new piece.
+~
+A tall, balding man, stands before his forge, working on a piece of
+metal.  His hands look to be hardeded by burns.  He wipes his brow and nods
+as you enter.  
+~
+andoran~
+AB Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+0 0 0 0
+0 N 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#303
+round woman baker~
+a {WBaker{x~
+A very {Yr{Wou{Ynd{x woman stands behind the counter, kneading dough.
+~
+~
+andoran~
+AB Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#304
+caelen~
+a {Bblue{x eyed lady~
+A {Bblue{x eyed lady kneels here, planting some flowers.
+~
+A {Bblue{x eyed lady kneels here, planting some flowers.  Her{Ybl{yon{Yde{x hair
+hangs below her shoulders.  As you enter she smiles and says, "`{gLet me know
+if you find something you like.  {x" 
+~
+andoran~
+AB Hc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+0 0 0 0
+0 N 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#305
+innkeeper man~
+the {rI{Ynn{rk{Yeepe{rr{x~
+Standing at the bar is a rather {rr{You{rnd{x man, busy serving drinks.
+~
+~
+andoran~
+AB HJc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 LQ R
+stand stand male 5000
+0 0 medium 'flesh'
+#306
+plump cook woman~
+the {mH{Mea{md {WCook{x~
+A rather {mp{Ml{Wu{Mm{mp{x woman is busy overseeing the workings of the kitchen.
+~
+On the rather plump side, this woman has a motherly appearance, though
+her eyes can be stern as she watches over the kitchens.  
+~
+andoran~
+A 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+EFIN 0 0 0
+stand stand female 50000
+0 0 medium 'flesh'
+#307
+child~
+a small child~
+A small child walks by, looking for his mommy.
+~
+This small child looks tired and sad.  He keeps calling for his mommy. 
+His clothes seems a bit dirty, and upon closer investigation, you notice he
+might be hungry.  
+~
+andoran~
+AH 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 medium 'flesh'
+#308
+girl~
+a little {Mg{Wi{Mrl{x~
+A little {Mg{Wi{Mrl{x walks along the road, eating a piece of bread.
+~
+This blonde haired little girl stands here eating some bread her parents
+gave her.  She wears a nice pink dress.  
+~
+andoran~
+A 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#309
+young man~
+a young man~
+A young man lies here, shivering heavily.
+~
+This red haired man looks to have a fever.  His eyes are closed and his
+skin burns to the touch.  He is lying on the bed.  
+~
+andoran~
+ART 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 slash
+25 40 60 15 20
+A
+0 0 0 0
+0 0 0 0
+sleep stand male 45
+0 0 medium 'unknown'
+#310
+maid~
+a maid~
+A maid moves around here, cleaning up after the patrons.
+~
+This {ybl{Yon{yde h{Yair{yed{x woman though short, looks to be cleaning the room. 
+She is a short woman, and she wears a simple wool dress of Andoran make.  
+~
+andoran~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#311
+Koren~
+a short {ybl{Yon{yde{x man~
+A short {ybl{Yon{yde{x man stands here, welcoming you to his inn.
+~
+This short {ybl{Yon{yde{x man stands behind the counter.  He smiles at all who
+walk in and greet them.  His hands fly as he takes infromation from his
+customers and directs them where needed.  
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-7 -7 -7 -7
+0 N 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#312
+Lelani~
+a {bb{Blu{be e{Bye{bd{x woman~
+A {bb{Blu{be e{Bye{bd{x woman stands here greeting the patrons.
+~
+A {bb{Blu{be e{Bye{bd{x woman smiles as patrons enter.  She greets them and takes
+their information for rooms, or directs them to the common room for food.  
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-7 -7 -7 -7
+0 N 0 0
+stand stand female 5000
+0 0 medium 'unknown'
+#313
+Nicolai~
+a dark haired man~
+A dark haired man stands here, greeting patrons.
+~
+This dark haired man sits behind the counter, working on his books.  He
+nods lightly at the wandering patron as they enter.  His hands are covered
+in ink.  
+~
+unique~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+-7 -7 -7 -7
+0 N 0 0
+stand stand male 5000
+0 0 medium 'unknown'
+#314
+thief~
+a thief~
+A thin, wiry man stands here, watching you.
+~
+This thin, wiry man looks to be unreliable.  His eyes are shifty, and his
+hands look to be grasping for something unknown.  
+~
+andoran~
+AS 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 crush
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 40
+0 0 medium 'unknown'
+#315
+tired woman~
+a {mt{Mi{Wr{Me{md{x woman~
+A tired woman stands over the table, working {Wflour{x into {yd{Wou{ygh{x.
+~
+~
+andoran~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 QR
+stand stand female 10
+0 0 medium 'flesh'
+#316
+minor noble~
+a minor noble~
+A minor noble stands here, sneering at the commoners.
+~
+This man looks to be some type of minor noble.  His face is twisted in a
+perpetual sneer.  His clothes seem to be of a higher class than most people.
+He looks very out of place in this crowd.  
+~
+andoran~
+AG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 50
+0 0 medium 'unknown'
+#317
+wealthy citizen~
+a wealthy citizen~
+A wealthy citizen stands here, talking to other people.
+~
+This blonde haired man stands here, chatting with other people.  His blue
+eyes flash with mirth and his clothes mark him as one of the more sucessful
+citizens.  
+~
+andoran~
+A 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 35
+0 0 medium 'unknown'
+#318
+gateguard guard~
+a gate guard~
+A gateguard stands here, waving people thru into and out of the city.
+~
+Standing to a side, this guard smiles and waves people thru.  His eyes
+shift around looking for any trouble that may ensue.  His stature is that of
+one always ready for trouble.  
+~
+andoran~
+ABT 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 slash
+0 0 0 0 0
+A
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#319
+horse~
+a horse~
+A horse moves around here, lead by a farmer.
+~
+This horse seems to be more of an ordinary pack mule.  His brown fur
+seems drab, though his bit and halter looks to be well used.  He follows the
+farmer that leads him.  
+~
+unique~
+A 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 smash
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 0 medium 'unknown'
+#320
+farmer~
+a farmer~
+A farmer stands here, leading his horse.
+~
+This farmer wears overalls and a wool shirt.  He looks to busy to
+disturb.  He looks around for a place to take his goods and refuses to ask
+anyone for help.  
+~
+andoran~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+-1 -1 -1 -1
+0 0 0 0
+stand stand male 10
+0 0 medium 'unknown'
+#321
+father~
+a father~
+A father sits here, with his family.
+~
+This blonde haired, blue eyed, man looks to be very happy.  He looks
+around the room smiling at his family.  He wears a pair of wool pants and a
+wool shirt.  
+~
+andoran~
+A 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 14
+0 0 medium 'unknown'
+#322
+dark man~
+a dark man~
+A man who thrives in the dark, stands here, in a corner, ready to kill.
+~
+This man looks to be of medium size.  He hides in the corner, glaring at
+anything in the room.  His face is covered by a gruesome mask.  
+~
+unique~
+AFT J 0 0
+50 40 26d27+2500 50d10+100 6d6+25 crush
+0 0 0 0 0
+A
+-2 -2 -2 -2
+0 0 LQ R
+stand stand male 45
+0 0 medium 'unknown'
+#323
+commoner~
+a commoner~
+A commoner wanders along the streets.
+~
+~
+andoran~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 25
+0 0 medium 'flesh'
+#324
+female citizen~
+a citizen~
+A female citizen walks along the street on her way to market.
+~
+~
+andoran~
+A 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#325
+patron~
+a patron~
+A patron sits on a barstool, drinking an ale.
+~
+~
+andoran~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand either 35
+0 0 medium 'flesh'
+#326
+guard~
+an off-duty guard~
+An off-duty guard sits here, playing dice.
+~
+~
+andoran~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 30
+0 0 medium 'flesh'
+#327
+serving girl~
+a serving girl~
+Weaving her way through the crowd, this girl serves food and drink.
+~
+~
+andoran~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#328
+dancer~
+a dancing {Mg{Wi{Mrl{x~
+Swaying her {rh{Ri{rps{x to the beat of the drum, this {mw{Mo{Wm{Ma{mn{x dances merrily along.
+~
+~
+andoran~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+I 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#329
+master chef~
+the master chef~
+Holding a sharp knife in his hand, this chef watches carefully over the others.
+~
+~
+andoran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#330
+gleeman~
+a gleeman~
+Wearing a multi-colored cloak, this man stands here telling stories.
+~
+~
+domani~
+AB 0 0 0
+50 40 26d27+2500 50d10+100 6d6+25 none
+0 0 0 0 0
+A
+2 2 2 2
+I 0 0 0
+stand stand male 65
+0 0 medium 'flesh'
+#331
+man diner~
+a diner~
+A man sits at a table, eating his meal.
+~
+~
+andoran~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 K 0
+stand stand male 25
+0 0 medium 'flesh'
+#332
+drifter~
+a drifter~
+A lonely man sighs deeply over his mug of wine.
+~
+~
+unique~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#333
+ruffian~
+a ruffian~
+A rough looking young man stands here with his arms crossed, looking to be in a foul mood.
+~
+~
+andoran~
+ABT 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 20
+0 0 medium 'flesh'
+#334
+aurelia quest questmaster questmistress~
+{mAu{Mr{We{Mli{ma{x~
+{mAu{Mr{We{Mli{ma{x sits upon a chair, looking out the window at the drab city.
+~
+~
+unique~
+A H 0 0
+100 500 200d200+500 100d10+100 200d200+500 none
+0 0 0 0 0
+A
+7 7 7 7
+0 BCEJKQRYZ 0 0
+stand stand female 4000
+0 0 medium 'flesh'
+#335
+man rich changer~
+a rich man~
+This man sits at a desk, counting out gold.
+~
+~
+andoran~
+ABd 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 3000
+0 0 medium 'flesh'
+#336
+blacksmith man~
+a {Dbl{ra{Dcksm{Wi{Dth{x~
+A thick-armed man stands over the {Da{wn{Wv{wi{Dl{x, hammering iron.
+~
+~
+andoran~
+ABE 0 0 0
+73 63 37d37+5329 73d10+100 8d11+36 none
+0 0 0 0 0
+A
+4 4 4 4
+CO 0 0 0
+stand stand male 3000
+0 0 medium 'flesh'
+#337
+elderly woman~
+an {We{Dld{We{Drly{x woman~
+An {We{Dld{We{Drly{x woman slowly rocks back and forth in a rickety {yr{Do{yck{De{yr{x.
+~
+~
+andoran~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 2
+0 0 medium 'flesh'
+#338
+mischievous little boy~
+a mischievous little {Bb{Wo{By{x~
+A mischievous little {Bb{Wo{By{x sneaks through the crowd.
+~
+~
+andoran~
+A 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#339
+village woman~
+a village {gw{Go{Wm{Ga{gn{x~
+A village {gw{Go{Wm{Ga{gn{x, wearing a scarf over her head, makes her way through the crowds.
+~
+~
+andoran~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand female 3
+0 0 medium 'flesh'
+#340
+old dog~
+an old {yd{Do{yg{x~
+An old {yd{Do{yg{x lays on the floor, licking an old, {Df{re{Ds{Wte{Dr{ri{Dng{x wound.
+~
+~
+dog~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+M 0 0 0
+stand stand male 0
+0 0 medium 'flesh furr'
+#341
+village man~
+a village {bm{Ba{bn{x~
+A village {bm{Ba{bn{x is busy going about his daily chores.
+~
+~
+andoran~
+A 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 0
+stand stand male 5
+0 0 medium 'flesh'
+#342
+butcher~
+a {rb{Ru{rtch{Re{rr{x~
+A {rb{Ru{rtch{Re{rr{x stands behind the table, cutting meat.
+~
+~
+andoran~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+B 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#343
+cobbler scrawny man~
+a {yC{Yob{Wb{Yle{yr{x~
+A rather {rsc{Draw{rny{x man sits on a stool in the back of the room.
+~
+~
+andoran~
+AB HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+FIK 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#344
+woman wisdom~
+a {cW{Ci{Wsd{Co{cm{x~
+Wearing a soft, {cl{Ci{Wn{Ce{cn{x dress, this woman smiles kindly at those who enter her home.
+~
+~
+andoran~
+ABa HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#345
+fat man~
+a {Yf{Wa{Yt{x shopkeep~
+A rather {Yf{Wa{Yt{x man scrutinizes those who enter his shop.
+~
+~
+andoran~
+AB HVc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+#346
+youth tipsy~
+a {yt{Yi{ypsy {Wyouth{x~
+A {yt{Yi{ypsy {Wyouth{x is here, emptying mugs of ale at his table.
+~
+This youth seems to be unused to drinking, but enjoying it greatly as he
+finished his second mug of ale.  His smooth cheeks are flushed and he looks
+around the room as if in a trance with a twisted and goof looking smile on
+his lips.  
+~
+andoran~
+AB ad 0 0
+49 39 25d25+2401 49d10+100 5d14+24 none
+0 0 0 0 0
+A
+1 1 1 1
+FKY 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#347
+plump maid~
+a {yr{Wo{ybust {Wma{wi{Wd{x~
+A {yp{Wl{yump{x woman in a {Wwh{wi{Wte {Wapron{x is here, carrying an empty tray in her arms.
+~
+This plump maid, or robust as she would describe herself, is busily
+running along the hallways and rooms of the inn, gathering dirty dishes and
+sheets to be taken care of in the kitchen to where she is headed.  She is
+wearing a simple brown dress with a white apron that has the symbol of the
+Royal Inn on it.  
+~
+andoran~
+A 0 0 0
+67 57 34d34+4489 67d10+100 7d14+33 none
+0 0 0 0 0
+A
+3 3 3 3
+FKOW 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#348
+tired merchant man~
+a {wt{Wire{wd{y-{Wlook{yi{wng {ym{We{yrch{Wa{ynt{x~
+A {wt{Wire{wd{y-{Wlook{yi{wng {ym{We{yrch{Wa{ynt{x is here, yawning as he walks through the Inn towards his room.
+~
+This merchant looks worn out from the days he has spent on the road
+traveling towards Andor.  His clothes are well-kept and he does seem to have
+taken a bath already, judging by the nice soap scent that surrounds him. 
+There are purple bags under his eyes from tiredness and he yawns constantly.
+~
+kandori~
+A 0 0 0
+77 67 39d39+5929 77d10+100 8d15+38 slash
+0 0 0 0 0
+A
+4 4 4 4
+FKe 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#349
+clumsy woman cook apprentice~
+a clumsy {Wcook {Wapp{wr{Den{wt{Wice{x~
+A fragile-looking woman is here, with her {Wcook {Wapp{wr{Den{wt{Wice{x outfit, making a mess in the kitchen.
+~
+This girl winces everytime she does something wrong and normally the
+result is followed by broken dishes and loud noises.  She is wearing the
+same outfit that the cook is, but her lack of skills denominate her as the
+apprentice.  She has beautiful blond hair that is woven in a thick braid.  
+~
+andoran~
+A d 0 0
+54 44 28d29+2916 54d10+100 6d10+27 slap
+0 0 0 0 0
+A
+2 2 2 2
+FKRb 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#350
+hulking man scholar~
+a {Wm{yu{Ws{yc{Wu{yl{Wa{yr {ys{Yc{yholar{x~
+A very {Wm{yu{Ws{yc{Wu{yl{Wa{yr{x man is here, sitting at an arm-chair and as he goes through a pile of books.
+~
+This man looks like a warrior on the outside, with hulking muscles and
+very tall, but his clothes are of expensive quality and unfit for fighting. 
+He also does not carry any weapons with him, instead, he spends most of his
+time reading books in the library while enjoying his time in Andor.  
+~
+tairen~
+ABT 0 0 0
+87 77 44d44+7569 87d10+100 9d16+43 punch
+0 0 0 0 0
+A
+5 5 5 5
+CDFJKNW 0 FG 0
+stand stand male 0
+0 0 large 'flesh'
+#351
+aes sedai ageless woman~
+an {gA{Ge{gs {gS{Ge{gdai{x ~
+An ageless-faced {gw{Go{gman{x is here, sitting calmly with a man while having dinner.
+~
+This woman is not trying to hide who she is as she wears her green shawl
+and golden serpent ring in public.  She is sitting with a well-built man
+while both of them are having dinner quietly.  She looks like her age would
+be hard to be guessed, changing with each reflection of the light.  
+~
+taraboner~
+ABQY Db 0 0
+76 66 39d40+5776 76d10+100 8d14+38 none
+300 300 300 300 300
+A
+4 4 4 4
+CFY 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#352
+warder well-built man~
+a well-built {Dw{ga{Drd{ge{Dr{x~
+A well-built man is here, sitting with the ageless woman and having dinner quietly.
+~
+Even though he is not wearing his color-shifting cloak right now, his
+face and eyes look dangerous, just like the one of a warder and he gazes
+protectively at the woman with his hand always close to the two-handed sword
+he carries around his waist.  
+~
+unique~
+A 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#353
+andoran citizen man~
+an {rAn{Rd{Wo{Rr{ran{x citizen~
+A citizen of {rA{Rn{Wd{Ro{rr{x is here, tending to his business as he visits the city.
+~
+This man is wearing well-kept clothes that demark his as Andoran.  He
+has a light bag on his back and walks around seeming familiar with the
+layout of town even though he does not seem to be from here.  
+~
+andoran~
+A c 0 0
+88 78 45d46+7744 88d10+100 9d17+44 punch
+0 0 0 0 0
+A
+5 5 5 5
+CFKNY 0 0 0
+stand stand male 800
+0 0 medium 'flesh'
+#354
+andoran guard man~
+an {rAn{Rd{Wo{Rr{ran{x {rg{Ru{rard{x~
+A tall {rAn{Rd{Wo{Rr{ran{x man wearing the {rQ{Ru{We{Re{rn{R'{rs {rG{Ru{rard{x uniform is here, keeping peace at the Queen's request.
+~
+This man is wearing the Andoran uniform for those who work under the
+Queen's guard.  He seems bored out of his mind as he wanders through the
+streets and keeps an eye on everything and everyone.  
+~
+andoran~
+AT Vc 0 0
+100 90 51d52+10000 100d10+100 11d11+50 slash
+0 0 0 0 0
+A
+7 7 7 7
+CFJKNY 0 FG 0
+stand stand male 0
+0 0 medium 'flesh'
+#355
+dog stray~
+a large {Ws{wt{Dr{wa{Wy {Wdog{x~
+A large {Ws{wt{Dr{wa{Wy {Wdog{x is here, sniffing the ground in search for food.
+~
+Even though this stray dog is large, he is very skinny and hungry
+looking.  As he walks through the streets, he sniffs the corners and nibbles
+on whatever he finds on the floor in hope he has found food for himself.  
+~
+unique~
+AC 0 0 0
+44 34 23d24+1936 44d10+100 5d9+22 bite
+0 0 0 0 0
+A
+1 1 1 1
+FKN 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#356
+bird pigeon~
+a small {ydark {yb{Dr{yow{Dn{x {wp{Di{wgeon{x~
+A {ydark {yb{Dr{yow{Dn{x {wp{Di{wgeon{x flies around the city, often resting by the roofs of the houses.
+~
+This pigeon flies in the sky around the city, as if searching for
+something, switching his flight path between low and high and randomly
+changing directions.  He is small and dark-brown colored with black freckles
+on his wings.  
+~
+unique~
+A T 0 0
+33 23 17d17+1089 33d10+100 4d7+16 peck
+0 0 0 0 0
+A
+1 1 1 1
+FK 0 0 0
+stand stand female 0
+0 0 small 'flesh'
+#357
+young woman braid~
+a young {Ww{wo{Wman{x with {yb{Yr{wa{Wi{wd{Ye{yd{x hair~
+A young {Ww{wo{Wman{x with {yb{Yr{wa{Wi{wd{Ye{yd{x hair is here, holding a wicker basket and humming to herself as she walks.
+~
+This young woman is old enough to wear her hair braided and she proudly
+displays it to anyone wishing to see it.  She is wearing a simple dress and
+holding a wicker basket that has a delicious smell of fresh food coming from
+it.  She smiles and nods to the familiar faces, then continues her way.  
+~
+altaran~
+A 0 0 0
+71 61 36d36+5041 71d10+100 8d9+35 slap
+0 0 0 0 0
+A
+4 4 4 4
+FKN 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#358
+drunken slob~
+a drunken {gsl{Go{gb{x~
+A drunken {gsl{Go{gb{x sits at a table, telling a sad story.
+~
+Hunched over a mug of ale, this man tells anyone who will listen the sad
+story of his life.  
+~
+andoran~
+AB 0 0 0
+81 71 41d41+6561 81d10+100 9d10+40 none
+0 0 0 0 0
+A
+5 5 5 5
+IN 0 J 0
+stand stand male 0
+0 0 medium 'ale'
+#359
+plump woman shopkeeper~
+a {msh{Mo{mpk{Mee{mp{Me{mr{x~
+A rather {mpl{Mu{mmp{x woman stands behind a counter, eager to help her customers.
+~
+~
+andoran~
+AB HJV 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 0
+stand stand female 5000
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#300
+stone well~
+a large {Ds{wt{Wo{wn{De w{We{Dll{x~
+A large {Ds{wt{Wo{wn{De w{We{Dll{x protrudes from the ground in the center of the road.~
+stone~
+fountain S 0
+100000 100000 'water' 0 0
+0 5000 0 100
+#301
+long sword~
+a long sword with a {ywooden{x hilt~
+A long sword with a {ywooden{x hilt lies here, collecting dust.~
+iron~
+weapon Y AN
+sword 5 10 'slash' 0
+40 2 90 100
+A
+19 4
+#302
+short spear~
+a {ywooden{x short spear~
+A {ywooden{x short spear stands here, against the wall.~
+wood~
+weapon S AN
+spear 5 10 'pierce' 0
+40 2 90 100
+A
+19 4
+#303
+short leather whip~
+a short, {yleather{x whip~
+A short, {yleather{x whip lies here, coiled neatly.~
+leather~
+weapon S AN
+whip 5 10 'whip' 0
+40 1 90 100
+A
+19 4
+#304
+small wicked dagger~
+a {cw{bi{cck{be{cd{x dagger~
+A small, {cw{bi{cck{be{cd{x looking dagger.~
+iron~
+weapon Y AN
+dagger 5 10 'pierce' 0
+40 1 90 100
+A
+19 4
+#305
+double bladed axe~
+a two-handed, double-bladed axe~
+A two-handed, double-bladed axe stands here, in the corner.~
+iron~
+weapon Y AN
+axe 5 10 'cleave' F
+40 3 90 100
+A
+19 4
+#306
+lance~
+a {ycopper{x coated lance~
+A {ycopper{x coated lance hangs here, on the wall.~
+copper~
+weapon Y AN
+polearm 5 10 'pierce' F
+40 3 90 100
+A
+19 4
+#307
+chair table~
+a {yl{ro{yw{D-{yb{ra{Rck{re{yd{x chair~
+Six {yl{ro{yw{D-{yb{ra{Rck{re{yd{x chairs surround a round {yc{rh{Rer{rr{yy{D-{yw{roo{yd{x table in the center of the room.~
+cherry wood~
+furniture 0 0
+6 50000 EH 110 110
+1 1 100 100
+#308
+bookcase shelf~
+a {ysh{re{ylf{x of the {yb{Yoo{ykc{Ya{yse{x~
+A tall {yb{Yoo{ykc{Ya{yse{x with many {ysh{re{ylv{re{ys{x covers the north wall.~
+wood~
+container S 0
+10 0 0 10 100
+5 1 50 100
+#309
+chair~
+a {Dblack l{Wea{Dth{We{Dr ch{Wai{Dr{x~
+A {Dblack l{Wea{Dth{We{Dr ch{Wai{Dr{x with high arms and a matching {Df{Woo{Dtst{Woo{Dl{x.~
+leather~
+furniture S A
+3 50000 EH 110 110
+35 1 100 100
+#310
+iron bench~
+a large {Diron{x bench~
+A large {Diron{x bench rests beneath the tree.~
+iron~
+furniture 0 0
+10 1000000 EH 105 105
+35 1 175 100
+#311
+book essay~
+{BEs{bsays{x of {rW{Ri{rll{Ri{rm{x of {yM{Yan{Wec{Yhe{ys{x~
+Resting on a {ysh{re{ylf{x is an {wo{Dld{x yet well cared for {yb{Doo{yk{x bound in darkened {Dle{wa{Wt{wh{Der{x.~
+paper~
+notepaper S AO
+0 0 0 0 0
+1 1 100 100
+#312
+iron spiked mace~
+an old iron, {Ds{wp{Wik{we{Dd{x mace~
+An old iron, {Ds{wp{Wik{we{Dd{x mace has been left here.~
+iron~
+weapon S N
+mace 5 10 'none' 0
+40 2 90 100
+A
+19 4
+#313
+iron helmet~
+an iron helmet~
+An iron helmet has been left here.~
+iron~
+armor 0 AE
+10 10 10 10 0
+40 1 90 100
+A
+17 -15
+#314
+slice kidney pie~
+a slice of {mk{Di{mdn{De{my{x pie~
+A large slice of {mk{Di{mdn{De{my{x pie is here.~
+kidney meat~
+food 0 A
+6 6 0 0 0
+10 1 25 100
+#315
+iron breastplate~
+a folded, iron breastplate ~
+A folded, iron breastplate lies here, collecting dust.~
+iron~
+armor 0 AD
+15 10 10 5 0
+40 5 175 100
+A
+18 1
+#316
+bowl lentil soup~
+a steaming bowl of {cle{Cnt{cil{x soup~
+A steaming bowl of {cle{Cnt{cil{x soup rests here.~
+lentils water~
+food 0 A
+5 5 0 0 0
+10 1 20 100
+#317
+iron greaves~
+a pair of folded, iron greaves~
+A pair of folded, iron greaves lies here, collecting dust.~
+iron~
+armor 0 AI
+10 15 10 5 0
+40 1 60 100
+A
+18 1
+#318
+green cheese~
+a slice of {ggr{Gee{gn{D-{gv{Gei{gn{Ge{gd{x cheese~
+Slices of {ggr{Gee{gn{D-{gv{Gei{gn{Ge{gd{x cheese lined up on a small platter.~
+curddled milk~
+food 0 A
+3 3 0 0 0
+10 1 10 100
+#319
+volume leather dance hawk hummingbird~
+the {rD{Ra{rnce {wof the {yH{ra{ywk{w and the {cHu{Cmm{Wing{Cbi{crd{x~
+A thick {cv{Co{Wlu{Cm{ce{x bound in {Dag{We{Dd l{rea{Dth{re{Dr{x.~
+iron~
+notepaper 0 AO
+BD BD ABCD AC 0
+1 1 85 100
+E
+volume~
+An old, aged volume entitle The {rD{Ra{rnce {wof the {yH{ra{ywk{w and the {cHu{Cmm{Wing{Cbi{crd{x by
+Teven Aerwin, discusses the proper conduct between the sexes.  
+~
+#320
+glass milk~
+a tall glass of cold {Wmilk{x~
+A tall glass of cold {Wmilk{x rests here.~
+milk~
+drink 0 A
+5 5 'milk' 0 0
+10 1 15 100
+#321
+leather iron boots~
+a pair of {yleather{x, iron-toed boots~
+A pair of {yleather{x, iron-toed boots lie here in the corner.~
+leather~
+armor 0 AG
+10 10 10 10 0
+40 1 75 100
+A
+12 20
+#322
+leather copper boots~
+a pair of {yleather{x, {yco{Ypp{yer{x-toed boots~
+A pair of {yleather{x, {yco{Ypp{yer{x-toed boots lie here, in the corner.~
+copper~
+armor 0 AG
+10 5 5 10 0
+30 1 50 100
+#323
+iron gauntlets~
+a pair of folded, iron gauntlets~
+A pair of folded, iron gauntlets lie here, collecting dust.~
+iron~
+armor 0 AH
+10 10 10 10 0
+40 1 80 100
+A
+1 1
+#324
+copper tub~
+a {yc{Yo{ypp{Ye{yr{x tub~
+A large {yc{Yo{ypp{Ye{yr{x tub rests in the center of the room.~
+copper~
+furniture 0 0
+2 99999 FI 150 150
+35 999 69 100
+#325
+sungwood bed~
+an enormous {ysu{Dn{ygw{Do{yod{x bed~
+An enormous {ysu{Dn{ygw{Do{yod{x bed covered with warm blankets rests against the far wall.~
+leather~
+furniture 0 0
+4 999999 ABDEHK 125 100
+35 500 50 100
+#326
+small wooden bed~
+small {yw{woo{yd{we{yn{x bed~
+A small {yw{woo{yd{we{yn{x bed covered with a {bd{Ba{brk bl{Bue {bbl{Ba{bnk{Be{bt{x.~
+wood~
+furniture S 0
+2 50000 EHK 120 120
+0 1 65 100
+#327
+slim oaken polearm~
+a slim, oaken {yp{Yo{ylea{Yr{ym{x~
+A slim, oaken {yp{Yo{ylea{Yr{ym{x has been left here.~
+oak~
+weapon S AN
+polearm 5 10 'none' F
+40 3 90 100
+A
+19 4
+#328
+simple wool cloak~
+a simple, heavy wool cloak~
+A simple, heavy wool cloak hangs here, from a peg.~
+wool~
+armor S ADK
+10 10 13 2 0
+35 1 74 100
+#329
+green apple~
+a shiny {ggr{Gee{gn{x apple~
+A shiny {ggr{Gee{gn{x apple in a decorative {Ds{wi{Wlv{we{Dr{x bowl.~
+apple~
+food S A
+2 2 0 0 0
+1 1 10 100
+#330
+bunch grapes~
+a bunch of fresh {mgr{Map{mes{x~
+A bunch of fresh {mgr{Map{mes{x rest inside a decorative {Ds{wi{Wlv{we{Dr{x bowl.~
+grapes~
+food S A
+2 2 0 0 0
+1 1 10 100
+#331
+porcelain tea pot~
+a {cp{Cor{Wcel{Cai{cn t{Cea {cp{Wo{ct{x~
+A {cp{Cor{Wcel{Cai{cn t{Cea {cp{Wo{ct{x covered in stylized {gf{Gl{Yo{Ww{Ye{Gr{gs{x rests atop a matching {cs{Ca{Wuc{Ce{cr{x.~
+porcelain~
+drink S A
+10 10 'tea' 0 0
+1 1 20 100
+#332
+honey bread~
+a loaf of honey bread~
+A loaf of honey bread lies here, cooling off.~
+bread~
+food S A
+5 5 0 0 0
+10 1 15 100
+#333
+baked lamb~
+a plate of baked lamb~
+A plate of baked lamb lies here, cooling down.~
+lamb~
+food S A
+4 4 0 0 0
+10 1 26 100
+#334
+country stew~
+a bowl of country stew~
+A bowl of country stew sits here, cooling down.~
+stew~
+food S A
+3 3 0 0 0
+10 1 28 100
+#335
+segade blossoms~
+a bunch of segade blossoms~
+A bunch of segade blossoms sits here, in it's planter.~
+segade~
+trash S A
+0 0 0 0 0
+5 1 34 100
+#336
+dozen white roses~
+a dozen {Wwhite{x roses~
+A dozen {Wwhite{x roses lie here in the dirt.~
+rose~
+trash S A
+0 0 0 0 0
+5 1 60 100
+#337
+bouquet azaleas~
+a bouquest of azaleas~
+A bouquest of azaleas lie here on the ground.~
+azalea~
+trash S A
+0 0 0 0 0
+5 1 32 100
+#338
+vine creeping clementis~
+a creeping clementis vine~
+A creeping clementis vine stands here, creeping up the wall.~
+clementis~
+trash S A
+0 0 0 0 0
+5 1 26 100
+#339
+hydrogena pot~
+a pot of hydrogena~
+A pot of hydrogena lies here, soaking in the sun.~
+hydrogena~
+trash S A
+0 0 0 0 0
+5 1 34 100
+#340
+domani shield bush~
+a domani shield bush~
+A domani shield bush stands here, thriving on the sun.~
+brush~
+trash S A
+0 0 0 0 0
+5 2 27 100
+#341
+bottle rum~
+a bottle of rum~
+A bottle of rum has been left here.~
+rum~
+drink S A
+5 5 'rum' 0 0
+20 1 20 100
+#342
+bottle wine~
+a bottle of red wine~
+A bottle of red wine has been left here.~
+wine~
+drink 0 A
+20 20 'red wine' 0 0
+50 1 250 100
+#343
+bottle oosquai~
+a bottle of oosquai~
+A bottle of oosquai has been left here.~
+oosaqui~
+drink S A
+3 3 'oosquai' 0 0
+15 1 47 100
+#344
+mug willowbark tea~
+a cup of willowbark tea~
+A cup of willowbark tea sits here, steaming.~
+tea~
+drink S A
+2 2 'tea' 0 0
+1 1 15 100
+#345
+lumpy bed~
+a lumpy bed~
+A lumpy bed lies here, covered in dust.~
+cloth~
+furniture S 0
+1 500 EHK 50 50
+5 100 0 100
+#346
+rusted key~
+a {yru{Yst{yed k{Ye{yy{x~
+A {yru{Yst{yed k{Ye{yy{x lies here, colleting dust.~
+cloth~
+key 0 AO
+0 0 0 0 0
+0 1 0 100
+#347
+sword~
+a short sword~
+A short sword lies here, collecting dust.~
+steel~
+weapon 0 AN
+exotic 6 11 'slash' D
+50 2 150 100
+A
+19 4
+#348
+large queen bed~
+a large, queen-sized bed with {Wwh{wi{Wte{x crochet {Wc{wov{We{wr{Wlet{x~
+A queen-sized {yc{re{Rd{ra{yr{x bed with {Wwh{wi{Wte{x crochet {Wc{wov{We{wr{Wlet{x~
+cloth~
+furniture S 0
+2 1000 EHK 120 115
+0 500 0 100
+#349
+kandori rum~
+a large glass of rum from Kandor~
+A large glass of rum stands here.~
+rum~
+drink S A
+2 2 'rum' 0 0
+10 1 25 100
+#350
+apple brandy~
+a bottle of {gap{Gp{gle{x brandy~
+A bottle of {gap{Gp{gle{x brandy lies here, collecting dust.~
+brandy~
+drink S A
+10 10 'brandy' 0 0
+20 1 75 100
+#351
+pouch tabac~
+a pouch of tabac~
+A pouch of tabac lies here, untouched.~
+tabac~
+trash S A
+0 0 0 0 0
+10 1 50 100
+#352
+rice wine~
+a glass of rice wine~
+A glass of rice wine stands here, untouched.~
+wine~
+drink S A
+1 1 'white wine' 0 0
+15 1 68 100
+#353
+apple juice~
+a mug of {ga{Gp{gp{Gl{ge{x juice~
+A mug of {ga{Gp{gp{Gl{ge{x juice lies here, untouched.~
+apple~
+drink S A
+1 1 'apple cider' 0 0
+10 1 10 100
+#354
+two rivers leaf~
+a pouch of two rivers leaf~
+A pouch of two rivers leaf lies here, collecting dust.~
+tabac~
+trash S A
+0 0 0 0 0
+20 1 100 100
+#355
+spice rum~
+a bottle of spiced rum~
+A bottle of spiced rum stands here untouched.~
+rum~
+drink S A
+4 4 'rum' 0 0
+20 1 85 100
+#356
+shot cognac~
+a shot of cognac~
+A shot of Cognac stands here, untouched.~
+cognac~
+drink S A
+1 1 'local specialty' 0 0
+25 1 99 100
+#357
+wine rack~
+a {ywooden{x wine rack~
+a {ywooden{x wine rack stands here, full of wine.~
+wood~
+container S 0
+300 AC 0 400 100
+50 0 0 100
+#358
+bottle wine~
+a bottle of {Rred wine{x~
+A bottle of {Rred wine{x has been left here.~
+wine~
+drink S A
+4 4 'red wine' 0 0
+20 1 40 100
+#359
+bed leaves~
+a bed of {gl{ye{Gav{ye{gs{x~
+A bed of {gl{ye{Gav{ye{gs{x lies here.~
+leaves~
+furniture S A
+1 400 EHK 100 150
+50 10 50 100
+#360
+wood pipe~
+a {ywooden{x pipe~
+A {ywooden{x pipe lies here, collecting dust.~
+wood~
+trash S AO
+0 0 0 0 0
+35 1 45 100
+A
+5 1
+#361
+shot brandy~
+a shot of shienaran brandy~
+A shot of brandy lies here, untouched.~
+brandy~
+drink S A
+1 1 'brandy' 0 0
+15 1 30 100
+#362
+glass rose wine~
+a glass of {drose{x wine~
+A glass of {drose{x wine lies here, untouched.~
+cloth~
+drink S A
+3 3 'rose wine' 0 0
+15 1 92 100
+#363
+history book~
+a {yle{Yath{yer{x history book~
+A {yle{Yath{yer{x book lies here, with the words Andor on the spine.~
+leather~
+trash S AO
+0 0 0 0 0
+45 1 40 100
+A
+3 1
+#364
+walnut table chair~
+a {yh{Wi{ygh{D-{yb{Wa{yck{We{yd{x chair~
+A long {yw{Wa{yln{Wu{yt{x table surrounded by eight {yh{Wi{ygh{D-{yb{Wa{yck{We{yd{x chairs rests atop a {mw{ro{Rv{re{mn{x rug.~
+wood~
+furniture S 0
+8 10000 EH 110 110
+0 0 0 100
+#365
+gruesome mask~
+a gruesome mask~
+A gruesome mask lies here, untouched.~
+leather~
+armor AS AV
+15 15 15 5 0
+50 2 45 100
+A
+4 1
+#366
+pearl earring~
+a {wpearl{x earring~
+A {wpearl{x earring lies here, untouched.~
+pearl~
+armor 0 AU
+14 14 10 2 0
+40 1 30 100
+A
+3 1
+#367
+dark one mark~
+the dark one's mark~
+Some paint has been left here.~
+paint~
+armor S AR
+15 15 15 5 0
+50 1 0 100
+#368
+apple pie food~
+a slice of apple pie~
+A slice of apple pie is here.~
+apples~
+food S A
+2 2 0 0 0
+0 1 10 100
+#369
+roastbeef dinner roast beef food~
+a roastbeef dinner~
+A plate piled with roastbeef and potatoes has been left here.~
+beef~
+food S A
+6 6 0 0 0
+0 1 25 100
+#370
+cloak~
+a multi-colored, patched cloak~
+A multi-colored, patched cloak is hanging here.~
+cloth~
+armor S AK
+10 15 10 15 0
+50 1 75 100
+A
+4 1
+#371
+bed~
+a {yf{rou{yr{w-{yp{ro{yst{re{yr{x bed~
+A large, four-poster bed with a {gc{Go{gv{We{grl{Ge{gt{x is here.~
+wood~
+furniture S 0
+2 50000 EHK 175 175
+0 0 0 100
+#372
+none~
+none~
+A slim, {Dst{ree{Dl{w-{Dt{ri{Dpp{re{Dd{x lance has been set here.~
+iron~
+weapon 0 AN
+spear 10 15 'none' 0
+90 0 0 100
+A
+19 4
+#373
+barrel barrels~
+a large {Dir{Wo{Dn{r-{Dr{wi{Wng{we{Dd{x barrel~
+Three large {Dir{Wo{Dn{r-{Dr{wi{Wng{we{Dd{x {yb{ra{yrr{re{yls{x rest near the {rf{Ri{rre{ and {Da{wn{Wv{wi{Dl{x.~
+wood iron~
+drink 0 0
+1000 1000 'salt water' 0 0
+0 5 0 100
+#374
+pork roast~
+a {yp{wo{yrk r{woa{yst{x~
+A {yp{wo{yrk r{woa{yst{x tied with white string has been set here.~
+pig~
+food 0 A
+10 10 0 0 0
+25 1 25 100
+#375
+side beef~
+a {Ds{wi{Dde{x of {Db{ree{Df{x~
+A {Ds{wi{Dde{x of {Db{ree{Df{x hangs from the ceiling.~
+cow~
+food 0 A
+12 12 0 0 0
+30 1 30 100
+#376
+slab mutton~
+a {rsl{Da{rb{x of {Dm{wu{Wtt{wo{Dn{x~
+A {rsl{Da{rb{x of {Dm{wu{Wtt{wo{Dn{x has been set here.~
+sheep~
+food 0 A
+14 14 0 0 0
+35 1 35 100
+#377
+gooseberry pie~
+a fresh {mg{Moo{mseb{Me{mrry{x pie~
+A fresh {mg{Moo{mseb{Me{mrry{x pie sprinkled with {Ws{wu{Wg{wa{Wr{x.~
+gooseberries~
+food 0 A
+8 8 0 0 0
+20 1 25 100
+#378
+wagon~
+a filled {yw{ra{yg{ro{yn{x~
+A large {yw{ra{yg{ro{yn{x has been parked here, it's bed full of boxes and barrels.~
+wood~
+vehicle 0 0
+3 0 A 355 0
+0 200 999 100
+#379
+iron serving cart~
+an {Dir{Wo{Dn s{wer{Wv{win{Dg c{Wa{Drt{x~
+Resting by the wall is a large {Dir{Wo{Dn s{wer{Wv{win{Dg c{Wa{Drt{x, laden with fresh fruits and hot tea.~
+iron~
+container 0 0
+4 0 0 20 80
+0 4 0 100
+#380
+large comfy bed~
+a large, {Wc{wo{Wmf{wy{x bed~
+A large and {Wco{wm{Wfor{wt{Wable{x looking bed with a {Yy{ye{Yll{yow {Yb{yla{Ynk{yet{x~
+cloth~
+furniture 0 0
+3 0 BEK 140 140
+0 0 0 100
+#381
+large bed~
+a comfortably large bed with {gdark green{x sheets~
+A {ycomfortably {Wl{wa{Wrge{x bed that occupies most of the room~
+cloth~
+furniture 0 0
+2 0 EHK 120 120
+0 0 0 100
+#382
+comfortable bed~
+a {Wd{wo{Wuble{w-{Wma{wt{Wress{x bed with a thick {Bb{bl{Bue {Bb{bl{Ban{bket{x on it~
+A comfortable, {Wd{wo{Wuble{w-{Wma{wt{Wress{x bed is here, with a thick {Bb{bl{Bue {Bb{bl{Ban{bket{x on it.~
+cloth~
+furniture 0 0
+2 0 EHK 130 130
+0 0 0 100
+#383
+iron shield~
+a folded, iron shield~
+A folded, iron shield has been left here.~
+cloth~
+armor 0 0
+10 10 10 10 0
+40 3 90 100
+A
+17 -10
+#384
+leg plates~
+a folded, iron leg plate~
+A pair of folded, iron leg plates have been left here.~
+iron~
+armor 0 AF
+10 10 10 10 0
+40 2 90 100
+A
+12 20
+#385
+back guard backguard~
+a folded iron back guard~
+A folded iron back guard has been left here.~
+iron~
+armor 0 AS
+10 10 10 10 0
+40 2 90 100
+A
+13 20
+#386
+iron bracer~
+a folded, iron bracer~
+A folded, iron bracer has been left here.~
+iron~
+armor 0 AM
+10 10 10 10 0
+40 1 90 100
+A
+2 1
+#387
+iron face guard faceguard~
+a folded, iron face guard~
+A folded, iron face guard has been left here.~
+iron~
+armor 0 AV
+10 10 10 10 0
+40 2 90 100
+#388
+copper lantern~
+a {yc{Yo{ypp{Ye{yr{x lantern~
+A {yc{Yo{ypp{Ye{yr{x lantern is here, giving off a bright glow.~
+copper~
+light 0 A
+0 0 1000 0 0
+40 1 90 100
+A
+12 10
+#389
+bath soap bar scent~
+the {Wcl{Cea{Wn{x scent of bath {Cs{Woa{Cp{x~
+A used bar of bath {Cs{Woa{Cp{x has been left here.~
+bubbles~
+armor 0 AQ
+10 10 10 10 0
+40 1 90 100
+A
+17 -10
+#390
+leather cloak~
+a {yl{Dea{yth{De{yr{x cloak~
+A long {yl{Dea{yth{De{yr{x cloak with a {Wfur{x lining has been left here.~
+leather~
+armor 0 AK
+10 10 10 10 0
+40 2 90 100
+A
+13 10
+#391
+leather belt~
+a wide {yl{Dea{yth{De{yr{x belt~
+A wide {yl{Dea{yth{De{yr{x belt has been left here.~
+leather~
+armor 0 AL
+10 10 10 10 0
+40 2 90 100
+A
+5 1
+#392
+rope pearls~
+a thick rope of {Wpearls{x~
+A thick rope of {Wpearls{x are hanging here.~
+pearls~
+armor 0 AC
+10 10 10 10 0
+40 1 90 100
+A
+13 10
+#393
+pearl earring~
+a shiny {Wpearl{x earring~
+A shiny {Wpearl{x earring has been left here.~
+pearl~
+armor 0 AU
+10 10 10 10 0
+40 1 90 100
+A
+19 2
+#394
+golden ring gold~
+a simple {yg{Yo{Wld{Ye{yn{x ring~
+A simple {yg{Yo{Wld{Ye{yn{x ring has been left here.~
+gold~
+armor 0 AB
+10 10 10 10 0
+40 1 90 100
+A
+4 1
+#395
+hardy bedroll~
+a thick, hardy {yb{De{ydr{Do{yll{x~
+A thick, hardy {yb{De{ydr{Do{yll{x has been left here.~
+cloth~
+furniture 0 A
+1 1000 HK 130 130
+40 3 90 100
+#396
+thick wooden staff~
+a thick {yw{woo{yd{we{yn{x staff~
+A thick {yw{woo{yd{we{yn{x staff has been left behind.~
+wood~
+weapon 0 AN
+staff 5 10 'none' F
+40 3 90 100
+A
+19 4
+#397
+hunting bow~
+a small hunting {yb{Yo{yw{x~
+A small hunting {yb{Yo{yw{x hangs on the wall.~
+wood~
+weapon 0 AN
+bow 5 10 'none' 0
+40 2 90 100
+A
+19 4
+#398
+feathered feather slim arrow~
+a slim, feathered {ya{Yrr{yow{x~
+A slim, feathered {ya{Yrr{yow{x has been left here.~
+wood~
+weapon 0 AO
+arrow 5 10 'none' 0
+40 1 90 100
+A
+19 4
+#399
+metal flail~
+a small, metal {Dfl{Wai{Dl{x~
+A small, metal {Dfl{Wai{Dl{x has been left here.~
+metal~
+weapon 0 AN
+flail 5 10 'none' 0
+40 3 90 100
+A
+19 4
+#0
+
+
+
+#ROOMS
+#300
+A Road Leading in to Four Kings~
+Dust rises up in the air as horses hooves and merchant wagons move along
+this dry road.  The village ahead seems larger than most in this part of
+Andor, yet scruffier, as if the people living here have little joy for the
+lives they lead.  Large wagons make their way to and from the village ahead,
+each laden with items for sale, some to be taken on to Caemlyn to the east,
+others to Baerlon in the west, and even more back to Lugard in the south.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 301
+D8
+~
+~
+0 0
+0 0 49343
+S
+#301
+Nearing Four Kings~
+The road widens as it nears the village, deep ruts in the dry dirt
+causing wagon wheels to hitch and drivers to yell.  Boys and girls of the
+village can be seen playing in the roads, darting in and out of the wagons
+as they rumble by.  The scent of hay and manure lingers heavily in the air
+here, and the sound of a blacksmith's hammer on anvil can be heard nearby.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 302
+D2
+~
+~
+0 0
+0 0 300
+S
+#302
+Road Through Four Kings.~
+Long rows of wagons have been parked on each side of the road here, wagon
+drivers and guards milling about the area taking care of the tasks at hand. 
+A few villagers can be seen moving about, each intent on their own lives,
+not meeting the eyes of those who pass by.  To the east is a two story
+building, painted in a vibrant green, trimmed in a ghastly blue.  The sign
+hanging outside the door of the building depicts a woman in pose.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 304
+D1
+~
+~
+3 3
+1 0 303
+D2
+~
+~
+0 0
+0 0 301
+S
+#303
+The Dancing Woman Inn~
+Numerous long rows of rectangular {yt{Ya{ybles{x line the room, wooden {yb{Ye{ynches{x
+pushed in beneath.  Several tables are occupied by patrons of the {rD{Ra{rncing
+{mW{Mo{Wm{Ma{mn {WInn{x, most holding a mug of ale in their hands.  Standing on a large
+wooden {rst{ya{rge{x in the back of the room are two rather pretty dancing {Mg{Wi{Mrls{x,
+drawing the eyes of the men in the room.  To the east of the room is a long
+bar, a well-muscled man busily wiping it down with a rag.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 302
+S
+#304
+Road Through Four Kings~
+The road continues north and south here, the ruts in the dry dirt deep
+from wagon wheels and horses hooves.  Villagers move about their daily
+business with little regard to those who visit their village.  Merchants
+wagons move along the roads, crowding them to full capacity.  To the west
+the sounds of a hammer and anvil can be heard.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 306
+D2
+~
+~
+0 0
+0 0 302
+D3
+~
+~
+3 3
+1 0 305
+S
+#305
+Blacksmith~
+The inside of the smithy is dim, the light from the few windows and the
+wide open doors joining with the fire to give light to the area.  Rows of
+different size hammers and other tools hang on the walls, a large bellows
+rests beside the fire and three large barrels of liquid rest nearby.  A
+large anvil takes up the center of the room where the Blacksmith stands,
+sweating over his latest creation.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 304
+S
+#306
+Road Through Four Kings~
+Young boys and girls dash through the busy streets, dodging the wheels of
+oncoming wagons and legs of the many horses that move along the road.  A
+narrow dirt road leads off to the east, a long row of small buildings lined
+up next to each other can be seen.  The road continues north from here
+further into Four Kings and south towards Lugard.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 307
+D1
+~
+~
+0 0
+0 0 331
+D2
+~
+~
+0 0
+0 0 304
+S
+#307
+Road Through Four Kings~
+Rambling along the road, many wagon drivers make their way to their
+destinations.  One wagon has stopped in the center of the road, a wheel
+displaced by the deep ruts.  Long lines of rope have been set up off to the
+side of the road, places for travelers to leave their horses while they are
+busy within the village.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 310
+D2
+~
+~
+0 0
+0 0 306
+S
+#308
+Joram's Weaponshop~
+Weapons of all makes line the walls.  The swords and daggers on the
+northern wall.  Axes and bows along the southern walls.  Staves, whips, and
+flails on the eastern wall.  The sound of metal striking metal fills the
+air, and the smell of sulphur remains strong.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 321
+S
+#309
+Private Dining Room~
+Dark {yw{Da{yln{Du{yt{x panels cover the walls of this room, the floor made of the same
+{yh{Da{yrd w{Doo{yd{x.  Several candelabra, made of fine {cc{Cry{Ws{Cta{cl{x, decorate the walls,
+each giving off soft light to the room.  There is a soft, yet slightly dark
+ambiance to this room, the light from the candles giving it a warmth that
+would otherwise be missing.  Covering a good portion of the floor is a
+rectangular {mr{ru{mg{x, woven of the finest material into an intricate design of
+{rr{Rose{rs{x and {ml{Mi{Wli{Me{ms{x.  
+~
+0
+CD 1
+D1
+~
+~
+3 3
+1 0 361
+S
+#310
+Road Through Four Kings~
+Young boys and girls dash through the busy streets, dodging the wheels of
+oncoming wagons and legs of the many horses that move along the road.  A
+narrow dirt road leads off to the west, a long row of small buildings lined
+up next to each other can be seen.  The road continues north from here
+further into Four Kings and south towards Lugard.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 311
+D2
+~
+~
+0 0
+0 0 307
+D3
+~
+~
+0 0
+0 0 318
+S
+#311
+Road Through Four Kings~
+The road continues north and south here, the ruts in the dry dirt deep
+from wagon wheels and horses hooves.  Villagers move about their daily
+business with little regard to those who visit their village.  Merchants
+wagons move along the roads, crowding them to full capacity.  The scent of
+fresh meat lingers on the air here, a small wooden sign on the building to
+the east depicts a butchers knife and a round of beef.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 313
+D1
+~
+~
+3 3
+1 0 377
+D2
+~
+~
+0 0
+0 0 310
+S
+#312
+Private Dining Room~
+The ceiling of this room rises high above, intricate designs of {bb{Wi{brds{x in
+flight carved deeply into the wood.  Hanging from the ceiling is a
+three-tiered {ycha{Ynd{We{Yli{yer{x, several tear-shaped {cc{Cry{Wst{Cal{cs{x dangling from the
+bottom tier.  The walls of the room have been painted a pale {rr{me{rd{x, the floor
+is covered with {yc{rh{Rer{rr{yy{D-{yw{roo{yd{x panels.  Hanging on the east wall is an
+intricately designed tapestry depicting the Royal Palace in Caemlyn.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 361
+S
+#313
+Road Through Four Kings~
+The packed dirt road widens here as it approaches the Caemlyn Road to the
+north.  A hub of activity seems to center in this area as villagers and
+visitors to this village move around the large stone well in the center of
+the road.  A long row of wagons lines each side of the road, and ropes lined
+up are crowded by horses hobbled at them.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 328
+D2
+~
+~
+0 0
+0 0 311
+S
+#314
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 328
+D3
+~
+~
+0 0
+0 0 315
+S
+#315
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 314
+D2
+~
+~
+3 3
+1 0 316
+D3
+~
+~
+0 0
+0 0 317
+S
+#316
+An Armor Shop~
+A scent of sulphur lingers heavily on the air in this large building.  In
+the center of the room a large fire burns at the forge, standing before it
+is a rather large man, broad across the chest.  An anvil rests near the
+hearth along with three large, iron-barred barrels full of liquids used in
+forging iron.  Flat pieces of metal lie in a pile, waiting to be turned into
+fine pieces of armor, or even simple decorations.  
+~
+0
+D 1
+D0
+~
+~
+3 3
+1 0 315
+S
+#317
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  A narrow road leads off to the
+north, moving further into the village.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 362
+D1
+~
+~
+0 0
+0 0 315
+D3
+~
+~
+0 0
+0 0 319
+S
+#318
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D1
+~
+~
+0 0
+0 0 310
+D3
+~
+~
+0 0
+0 0 354
+S
+#319
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  A narrow road leads off to the
+south, moving further into the village.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 317
+D2
+~
+~
+0 0
+0 0 360
+D3
+~
+~
+0 0
+0 0 329
+S
+#320
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 321
+D3
+~
+~
+0 0
+0 0 328
+S
+#321
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 375
+D1
+~
+~
+0 0
+0 0 323
+D2
+~
+~
+3 3
+1 0 308
+D3
+~
+~
+0 0
+0 0 320
+S
+#322
+A Small Home~
+The inside of this home is rather drab, very little in the way of
+decoration or color can be seen.  A small table has been pushed into a
+corner of the room, two rickety wooden chairs pushed under it.  Covering the
+wooden floor is an oval shaped rug, woven in faded greens and yellows.  A
+few odd toys lay about the room, and a dog lays here, licking an old wound. 
+~
+0
+D 1
+D2
+~
+~
+3 3
+1 0 332
+S
+#323
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 325
+D3
+~
+~
+0 0
+0 0 321
+S
+#324
+Hallway~
+The hard wood floors of the hall shine with a high polish.  A rug of dark
+green lines the floor.  Lamps in brackets provide the hallway with light. 
+The sounds of the kitchens can be heard from the west at any hour of the
+day.  To the east lies the library, filled with many interesting books.
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 339
+D1
+~
+~
+1 1
+1 0 338
+D2
+~
+~
+1 1
+1 0 361
+D3
+~
+~
+3 3
+1 0 344
+D4
+~
+~
+0 0
+0 0 342
+S
+#325
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  A wooden sign on the building to
+the south depicts a wagon's wheel, music drifts out from within.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 326
+D3
+~
+~
+0 0
+0 0 323
+S
+#326
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 327
+D3
+~
+~
+0 0
+0 0 325
+S
+#327
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 326
+D7
+~
+~
+0 0
+0 0 49343
+S
+#328
+Caemlyn Road~
+The Caemlyn Road meets the road to Lugard leading south here.  People
+throng just south of here where it appears a large stone well protrudes from
+the ground.  Wagons large and small, most filled to the brim, make their way
+along here, as merchants set their trade for one place or another.  The
+roads are deeply rutted from years of wagon wheels rolling by.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 320
+D2
+~
+~
+0 0
+0 0 313
+D3
+~
+~
+0 0
+0 0 314
+S
+#329
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  A small wooden sign on the
+building to the north depicts a jester's smiling face, music spills out from
+within.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 334
+D1
+~
+~
+0 0
+0 0 319
+D3
+~
+~
+0 0
+0 0 330
+S
+#330
+Caemlyn Road~
+The packed dirt road moves east and west through the village of Four
+Kings.  Deep ruts are in the road, caused by years of wagons rolling along
+it.  Village boys and girls run along the road, dodging in and out of the
+almost constant traffic of merchant wagons and horses.  Rows of parked
+wagons and tethered horses line the road.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 329
+D9
+~
+~
+0 0
+0 0 49343
+S
+#331
+A Narrow Dirt Road~
+The road is narrow through this part of the village, fewer ruts mar the
+packed dirt as the children of the village run throw the streets.  Wet
+clothes hang on lines hung up between tall trees, the few to be found within
+the village.  The houses are simple, whitewashed buildings set close
+together so barely a narrow alley is between.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 337
+D1
+~
+~
+0 0
+0 0 332
+D3
+~
+~
+0 0
+0 0 306
+S
+#332
+A Narrow Dirt Road~
+The road is narrow through this part of the village, fewer ruts mar the
+packed dirt as the children of the village run throw the streets.  Wet
+clothes hang on lines hung up between tall trees, the few to be found within
+the village.  The houses are simple, whitewashed buildings set close
+together so barely a narrow alley is between.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 322
+D1
+~
+~
+0 0
+0 0 335
+D3
+~
+~
+0 0
+0 0 331
+S
+#333
+Caelen's Flower Pot~
+The smell of fresh cut flowers fills the room.  Vines and bushes can be
+seen scattered around the place.  Sunlight spills through the window, making
+the flowers glow.  The feeling in the air is one of peace.  
+~
+0
+C 1
+S
+#334
+The Smiling Jester~
+The light inside the Smiling Jester is on the dim side, the air filled
+with smoke from the pipes of customers and a smoking fire in the stone
+fireplace.  A stage is set up in the back of the Inn, standing upon it is a
+group of musicians, playing a roudy tune.  Long rows of rectangular tables
+take up most of the space within this room, a crowd of men and women sitting
+at them, each involved in their own activities.  A rather round man stands
+near a bar to the west of the door, serving drinks to his customers.  
+~
+0
+D 1
+D2
+~
+~
+3 3
+1 0 329
+S
+#335
+A Narrow Dirt Road~
+The road is narrow through this part of the village, fewer ruts mar the
+packed dirt as the children of the village run throw the streets.  Wet
+clothes hang on lines hung up between tall trees, the few to be found within
+the village.  The houses are simple, whitewashed buildings set close
+together so barely a narrow alley is between.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 336
+D3
+~
+~
+0 0
+0 0 332
+S
+#336
+A Small Home~
+The room is worn and bare, a thin layer of dust covering the floor and
+the few items left about.  The floor is wooden, though it's seen so many
+feet scuffing over it as to be difficult to see the grains.  A lone rocker
+rests in the center of the room beside a cold fire.  
+~
+0
+D 1
+D2
+~
+~
+3 3
+1 0 335
+S
+#337
+A Small Home~
+The home is rather small yet gives off a cozy atmosphere.  A small stone
+fireplace divides the room in two, on one side facing the fire is an old,
+worn couch, and on the other is a round table surrounded by four mismatched
+chairs.  A door to the west leads further into the home where the families
+sleeping rooms can be found.  
+~
+0
+D 1
+D2
+~
+~
+3 3
+1 0 331
+S
+#338
+Library~
+Dark panels of {rr{ye{rdw{yoo{rd{x cover the walls of this room, each appearing just
+a little different from the others, depending on the lining of the grains. 
+Lining the walls are tall {yb{Yoo{ykc{Ya{ys{Ye{ys{x made of a finely carved oak, each filled
+with books of various titles and topics.  Covering most of the floor is a
+large rug designed in a {bT{Bai{br{Be{bn{x maze.  A large fireplace, with a {Dm{wa{Wrb{wl{De{x
+mantlepiece and smooth riverstone surrounding it, rests against the east
+wall, the {rf{Rl{Yam{Re{rs{x within giving off light and heat.  A long, black {Dl{Wea{Dth{We{Dr{x
+couch with two matching armchairs rest before the fire, making it a
+comfortable room to read in.  
+~
+0
+D 1
+D3
+~
+~
+1 1
+1 0 324
+S
+#339
+A Quiet Hallway~
+The noise of the common room can still be heard to the south, though it
+is much fainter from here.  The hard wood floors of the hall shine with a
+high polish.  Two {Dl{wa{Dm{wp{Ds{w in brackets on the wall provide soft circles of
+light.  Atop a small table rests a small clock, marking the passing of time.
+Through the door to the west, an enclosed garden can be found.  A gallery of
+sorts can be found through the door to the east.  
+~
+0
+D 1
+D1
+~
+~
+1 1
+1 0 341
+D2
+~
+~
+0 0
+0 0 324
+D3
+~
+~
+3 3
+1 0 340
+S
+#340
+Garden~
+The hustle and bustle of the streets of Four Kings can almost be
+forgotten inside the garden, which is enclosed by a {Ds{wt{Do{wn{De{w walls covered in
+{gi{Gv{gy{w.  A path made of {Cr{Bi{Cv{Be{Cr{w stones, cuts through the garden.  Lanterns are
+spaced evenly out along the path, so that the gardens can be enjoyed in the
+evening and night times.  Several large trees are scattered throughout the
+enclosed gardens.  Benches of {Diron{w rest within the shade of the large trees,
+providing places to sit and rest.  Flowers of all shapes, sizes, colors and
+scents are scattered throughout the garden.  A fountain bubbles happily,
+adding to the tranquil scene.  The rest of the inn can be found through the
+door to the east.  
+~
+0
+0 1
+D1
+~
+~
+3 3
+1 0 339
+S
+#341
+Gallery~
+After the noise of the rest of the room, this room is cloaked in silence
+and soft tones.  The ceiling arches upward slightly, giving the impression
+of {Cop{We{Cnn{We{Css{w.  Natural {Yl{wi{yg{wh{Yt{w enters the room from windows that are placed
+high in the walls.  The walls are lined with paintings and drawings from
+local artists and not so local artists.  Small tables are scattered
+throughout the gallery and are decorated with small objects of art, such as
+vases and scupltures.  All of which are for sale.  The rest of the inn can
+be found through the door to the west.  
+~
+0
+D 1
+D3
+~
+~
+1 1
+1 0 339
+S
+#342
+Hallway~
+Noise from the common room can still be heard from here, only not as loud
+as before.  A rug of white and brown lines the floor of this hallway. 
+Pictures of the Andoran countryside hang on the walls.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 346
+D1
+~
+~
+3 3
+1 0 343
+D2
+~
+~
+0 0
+0 0 348
+D3
+~
+~
+3 3
+1 0 345
+D4
+~
+~
+0 0
+0 0 347
+D5
+~
+~
+0 0
+0 0 324
+S
+#343
+An Ogier Bedroom~
+Everything in this room, is large!  It appears to be a bedroom reserved
+for the use of an {gO{yg{gi{ye{gr{w.  Though it is doubtful the room has been used for a
+long time, it has been kept clean.  A enormous bed rests against the far
+wall.  An Ogier-sized wardrobe and washbasin rests against the southern wall
+of the room.  A couple of Ogier-sized {yc{Yh{yai{Yr{ys{w have been placed in the center
+of the room, around a table.  A bowl of {ysu{Dn{ygw{Do{yod{w rests in the center of the
+table.  The hallway can be found to the west.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 342
+S
+#344
+Kitchen of the Royal Inn~
+The air as you enter the kitchen is hot and humid, a heavy {msw{Mee{mt{x scent
+clings to the air.  Long waist high counters are in the center of the
+kitchen, each covered with foods that need chopping or slicing.  A {br{ci{Cv{ce{br
+{Ds{wt{Wo{wn{De{x fireplace rests in the west wall, two large {Dca{wu{Wldr{wo{Dns{x above the
+flames, each {rsi{Rmm{re{Rri{rng{x slowly with their contents inside.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 324
+S
+#345
+A Small Room~
+A small, yet comfortable room, the walls painted in a pale hue of {Cbl{cue{x. 
+A small oval braided {Brug{x covers the floor to the side of a small wooden bed
+covered with a dark blue {bbl{Bank{bet{x.  A {Db{rr{Razi{re{Dr{x at the foot of the bed gives
+off some warmth to the room.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 342
+S
+#346
+Hallway~
+This is a simple, yet better kept hallway.  It's floor is lined with a
+carpet of tan and white that looks close to new and there are beautiful
+pictures of the Andoran countryside on the newly-painted walls.  To either
+side of the hall, a comfortable inn room can be found.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 352
+D2
+~
+~
+0 0
+0 0 342
+D3
+~
+~
+3 3
+1 0 353
+S
+#347
+Hallway~
+The noise from the common room seems to be less from here, though the
+occasionally laugh seems to make its way up the stairs.  A nice rug of brown
+and tan lines the floor of this hallway.  Pictures of the Andoran
+countryside line the walls.  The hallway continues on to the north.  The
+common room is down the stairs.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 357
+D5
+~
+~
+0 0
+0 0 342
+S
+#348
+Hallway~
+Not much noise comes into this part of the hallway.  The floors are lined
+with a red and white rug.  A small table with a vase of seafolk porcelain
+rests at the end of the table.  Inn rooms lay to both the east and the west.
+The rest of the Inn lays back to the north.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 342
+D1
+~
+~
+3 3
+1 0 351
+D3
+~
+~
+3 3
+1 0 350
+S
+#349
+Hallway~
+A nice {Yyellow{x rug lines the floor in this hallway.  Pictures of former
+commanders line the walls.  Stairs lead down to the common room while the
+hallway continues east and west.  North and south are rooms.  A nice {Yyellow{x
+rug lines the floor in this hallway.  Pictures of former commanders line the
+walls.  The hallway continues east and west.  North and south are rooms.  
+~
+0
+CD 1
+S
+#350
+A Plain Bedroom~
+This bedroom has a worn look from the years in business.  The {yt{Ya{yn{Y-{yco{Yl{yored{x
+walls have scratches and {Ddirty{x spots on its paint while the {Dd{w{Dark {Dg{wr{Dey{x carpet
+shows a few stains.  The furniture, though, seems to be in very good
+condition, offering the needed comfort to the travelers.  There is a large,
+{Bs{bt{Buf{bf{Be{bd {Ba{br{Bm {bcha{Bi{br{x resting by a small lit {rb{Rr{Daz{Ri{rer{x with a foot rest set aside
+for those wishing to use it.  The matress of the bed is thick and wide,
+looking very appealing after a long day.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 348
+S
+#351
+A Plain Bedroom~
+This bedroom is rather plain, with a {gdark {gg{Gr{geen{x {Gc{ga{Gr{gpet{x on the floor and
+walls {ytan{Y-{yc{Yo{ylored{x that are slightly worn from the years of business.  There
+is a large and old-looking {rAn{Rd{Wo{Rr{ran{x painting covering most of the north wall,
+with a small {ydark wood{x table resting on the closest corner.  A round night
+stand sits snug against the bed that occupies most of the northern wall. 
+Even though the bed is comfortably big, it looks rather small compared to
+the space available.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 348
+S
+#352
+A Large Bedroom~
+Very large and well-kept, this room offers the comfort and space that
+most others do not.  With {yl{Yig{yht {yc{Yed{yar{x paneling on the walls, the wide window
+on the wall across the door seems to offer more {Wl{wi{Wght{x than it actually does.
+There is a simple {yc{Yed{yar{x desk with a matching chair on the north wall and
+perpendicular to it, there is a large and comfortable looking bed, with a
+{Do{wi{Dl {yl{Ya{ymp{x by its side on a round night stand.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 346
+S
+#353
+A Luxurious Room~
+This is the largest and most expensive bedroom of the entire Inn.  The
+walls are painted in a {cl{Ci{Wg{Ch{ct {cb{Cl{cu{Ce{x color with the {yc{re{Rd{ra{yr{x molding of the window
+on the south wall contrasting nicely.  There is an expensive {Bd{ba{Brk{x {Bb{bl{Bue{x
+thick-furred rug on the floor where a comfortable stuffed {Wa{wr{Wm{w-{Wcha{wi{Wr{x is
+resting on.  The bed is queen-size and occupies most of the west wall,
+except for the corners where a small {yc{re{Rd{ra{yr{x night stand sits on each side.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 346
+S
+#354
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+3 3
+1 0 361
+D1
+~
+~
+0 0
+0 0 318
+D2
+~
+~
+3 3
+1 0 355
+D3
+~
+~
+0 0
+0 0 356
+S
+#355
+Wagon Parking~
+A rather large area has been cleared out here, leaving the hard ground
+bare of any possible life.  The hard packed dirt is covered with deep ruts
+and holes big enough to trip in.  Many fully loaded wagons are lined up
+here, each with a guard posted to keep it's contents safe for the merchants
+return.  Not to far across the road, the sound of music fills the air,
+coming from a nearby Inn.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 354
+S
+#356
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D1
+~
+~
+0 0
+0 0 354
+D3
+~
+~
+0 0
+0 0 358
+S
+#357
+Hallway~
+A rug of brown covers the floor in this particular hallway.  Tapestries
+from other countries are spaced out along the walls.  A room for bathing
+rests to the east and a bedroom to the west.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 378
+D2
+~
+~
+0 0
+0 0 347
+D3
+~
+~
+3 3
+1 0 365
+S
+#358
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 359
+D1
+~
+~
+0 0
+0 0 356
+S
+#359
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 360
+D1
+~
+~
+1 1
+1 0 379
+D2
+~
+~
+0 0
+0 0 358
+S
+#360
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 319
+D2
+~
+~
+0 0
+0 0 359
+S
+#361
+The Royal Inn~
+The ceiling rises high above as one enters the common room of the {rR{Ro{Wy{Ra{rl
+{WI{Rnn{x.  A large {rw{yo{Yv{ye{rn{x rug covers the hard wood floor just inside the door,
+leading to a finely polished counter.  Small, round {yt{Ya{ybl{Ye{ys{x are arranged
+throughout the room, four high-backed chairs at each table.  A fireplace
+made of {br{ci{Cv{ce{br {Ds{wt{Wo{wn{De{x is against the wall to the west, giving off ambient
+light and heat.  Atop the cherry wood {rm{ya{rnt{yl{re{x is a clock, the brass pendulum
+swinging slowly from side to side.  
+~
+0
+D 1
+D0
+~
+~
+1 1
+1 0 324
+D1
+~
+~
+3 3
+1 0 312
+D2
+~
+~
+3 3
+1 0 354
+D3
+~
+~
+3 3
+1 0 309
+S
+#362
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand
+alongside the road, the odor of fresh baked bread comes from the building to
+the east.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 363
+D1
+~
+~
+3 3
+1 0 366
+D2
+~
+~
+0 0
+0 0 317
+S
+#363
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 364
+D1
+~
+~
+3 3
+1 0 367
+D2
+~
+~
+0 0
+0 0 362
+S
+#364
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D1
+~
+~
+0 0
+0 0 368
+D2
+~
+~
+0 0
+0 0 363
+S
+#365
+An Occupied Room~
+A thick, woolen rug covers the floor beneath a large, four-poster bed.  A
+thick coverlet is laid upon the bed, giving warmth to those that may use it.
+A small desk and matching chair rest beneath an open window, a set of
+billowy curtains open to let in the days light.  The occupant of this room
+seems to sit at that chair, bored and lonely.  
+~
+0
+CD 0
+D1
+~
+~
+3 3
+1 0 357
+S
+#366
+A Bakery~
+The inside of this building has been painted a pale pink shade, the floor
+is wooden, worn smooth from years of bakers moving over it.  Large windows
+have been opened wide, letting in fresh air from outside.  A long,
+waist-high counter rests in the center of the room, where a very round woman
+is busy kneading dough.  Rows of fresh baked breads, pies, and other baked
+goods are on display.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 362
+S
+#367
+A Cobbler's Shop~
+Long rows of shelves line the walls here, each holding several pairs of
+shoes and boots.  Piles of leather lay in a corner of the room, along with
+rolls of sinew, buckets of glue, and many other items used in the making of
+shoes.  A scrawny man sits on a stool in the back of the room, setting the
+sole of a shoe in place.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 363
+S
+#368
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D1
+~
+~
+0 0
+0 0 369
+D3
+~
+~
+0 0
+0 0 364
+S
+#369
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D1
+~
+~
+0 0
+0 0 370
+D3
+~
+~
+0 0
+0 0 368
+S
+#370
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D1
+~
+~
+0 0
+0 0 371
+D3
+~
+~
+0 0
+0 0 369
+S
+#371
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+3 3
+1 0 372
+D1
+~
+~
+0 0
+0 0 373
+D3
+~
+~
+0 0
+0 0 370
+S
+#372
+A Wisdom's Home~
+Walls painted a soft shade of green, the carpet a pale yellow, this room
+has a warm, homey feel to it.  A soft flower embroidered couch with a small
+wooden coffee table rests in the center of the room.  A pair of soft, linen
+curtains are pulled open on the windows that let sunlight into the room.  
+~
+0
+D 1
+D2
+~
+~
+3 3
+1 0 371
+S
+#373
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D2
+~
+~
+0 0
+0 0 374
+D3
+~
+~
+0 0
+0 0 371
+S
+#374
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 373
+D2
+~
+~
+0 0
+0 0 375
+S
+#375
+A Narrow Road Through the Village~
+The dirt road narrows here as it moves further into the village of Four
+Kings.  More villagers make their way along this road, young boys and girls
+playing games off to the side of the road.  White washed buildings stand the
+east.  Alongside the road, each painted in some faded, ghastly color. 
+Narrow alleys lead between the buildings, barely enough room for a child to
+run in.  
+~
+0
+D 1
+D0
+~
+~
+0 0
+0 0 374
+D2
+~
+~
+0 0
+0 0 321
+D3
+~
+~
+3 3
+1 0 376
+S
+#376
+This Ole Ale Shop~
+The room is dimly lit by the two small windows in the front.  Rows of
+shelves line the walls, each heavily laden with ceramic bottles of different
+ales, each sealed with wax.  Standing behind a counter in the room is a
+rather fat man, sweat beading his brow, he watches those who enter his shop
+with a wary eye.  
+~
+0
+D 1
+D1
+~
+~
+3 3
+1 0 375
+S
+#377
+A Butcher Shop~
+The scent of fresh blood hangs heavily on the air in this shop as you
+enter.  A large, waist-high table takes up most of the room, piled atop it
+are pieces of fresh meat, each covered in fat still on the bone.  A butcher
+skilled with the knife stands behind the table, busily deboning the meat,
+preparing it to sell.  
+~
+0
+D 1
+D3
+~
+~
+3 3
+1 0 311
+S
+#378
+Bathing Room~
+The centerpiece of this room is the large copper tub that lies in the
+middle of the room.  Large fluffy towels, {Rr{re{Rd{w and {Ww{wh{Wi{wt{We{w in color, are
+stacked neatly on a shelf along one wall.  An assortment of scented soaps,
+bathing crystals and oils can be found on a table beneath the shelf. 
+Several wooden pegs are placed at equal intervals in the wall beside the
+door.  Fluffy {Ww{wh{Wi{wt{We{w robes hand on several of the pegs.  The light in the
+room is provided by strategically placed lamps and candles.  The door to the
+west leads back to the hallway and the rest of the inn.  
+~
+0
+CD 1
+D3
+~
+~
+3 3
+1 0 357
+S
+#379
+General Shop~
+This general store sells just about anything one could need during their
+travels throughout the land.  Bedrolls and canteens, lanterns and tents line
+the many shelves within the store.  Even the odd piece of jewelry and
+leather cloaks can be found within the store.  
+~
+0
+CD 0
+D3
+~
+~
+1 1
+1 0 359
+S
+#380
+Room 51~
+A nice {bb{Blu{be{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the north leads to the hallway. 
+~
+0
+CD 1
+S
+#381
+Hallway~
+A nice {bb{Blu{be{x rug lines the floor in this hallway.  Pictures of former
+heros line the walls.  The hallway continues East and West while North leads
+to a room.  
+~
+0
+CD 1
+S
+#382
+Room 52~
+A nice {bb{Blu{be{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the south leads to the hallway. 
+~
+0
+CD 1
+S
+#383
+Hallway~
+A nice {bb{Blu{be{x rug lines the floor in this hallway.  Pictures of former
+heros line the walls.  West and South lead to rooms.  
+~
+0
+CD 1
+S
+#384
+Room 53~
+A nice {bb{Blu{be{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the north leads to the hallway. 
+~
+0
+CD 1
+S
+#385
+Room 54~
+A nice {bb{Blu{be{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the east leads to the hallway.  
+~
+0
+CD 1
+S
+#386
+Common Room~
+Sounds of revelry can be heard to the north.  The scent of food drifts
+into the room from the south.  A stairway up leads to the rooms.  
+~
+0
+D 0
+D0
+~
+~
+0 0
+0 0 387
+D2
+~
+~
+3 3
+1 0 388
+D4
+~
+~
+0 0
+0 0 389
+D5
+~
+~
+4099 4099
+1 0 396
+S
+#387
+Dining Room~
+Several people sit here, eating their meals.  A gleeman entertains the
+patrons while they eat.  The scent of cooked food floats into the room. 
+South leads to the common room.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 386
+S
+#388
+Kitchens~
+The smell of food lingers in the air.  Chef's run around preparing food
+for the coming night.  Sounds of laughter and dismay can be heard in most
+places.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 386
+S
+#389
+Top of the Stairs~
+A nice {rred{x rug lines the floor in this hallway.  Pictures of former
+queens line the walls.  Stairs lead down to the common room while the
+hallway contines east.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 390
+D5
+~
+~
+0 0
+0 0 386
+S
+#390
+Hallway~
+A nice {rred{x rug lines the floor in this hallway.  Pictures of former
+queens line the walls.  The hallway contines east and west, doors to the
+north and south lead to a pair of rooms.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 391
+D1
+~
+~
+0 0
+0 0 393
+D2
+~
+~
+1 1
+1 0 392
+D3
+~
+~
+0 0
+0 0 389
+S
+#391
+Room 5~
+A nice {rred{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the south leads to the hallway. 
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 390
+S
+#392
+Room 6~
+A nice {rred{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the north leads to the hallway. 
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 390
+S
+#393
+Hallway~
+A nice {rred{x rug lines the floor in this hallway.  Pictures of former
+queens line the walls.  The hallway contines west, doors to the north and
+south lead to a pair of rooms.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 394
+D2
+~
+~
+1 1
+1 0 395
+D3
+~
+~
+0 0
+0 0 390
+S
+#394
+Room 7~
+A nice {rred{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the south leads to the hallway. 
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 393
+S
+#395
+Room 8~
+A nice {rred{x rug lines the floor in this room.  Tapestries from different
+countries hang from the walls.  The door to the north leads to the hallway. 
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 393
+S
+#396
+Bottom of the Stairs~
+The only light to be seen is coming from the top of the stairs.  The
+smell of musk and mold fills the air.  Perhaps it's time to think of turning
+back.  
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 397
+D4
+~
+~
+4099 4099
+1 0 386
+S
+#397
+Long, Dark Hallway~
+Darkness fills the room.  The smell of musk and mold fills the air.  A
+door stands to the east.  Maybe it's time to turn back?  
+~
+0
+AD 0
+D1
+~
+~
+3 3
+1 0 398
+D3
+~
+~
+0 0
+0 0 396
+S
+#398
+Long Dark Hallway~
+Darkness settles in.  The smell of musk and mold fills the air.  A door
+stands to the east and west.  Maybe it's time to turn back?  
+~
+0
+AD 0
+D1
+~
+~
+7 7
+2 0 399
+D3
+~
+~
+3 3
+1 0 397
+S
+#399
+Room 409~
+The smell of musk and mold permeates the room.  A door stands to the
+west.  A click can be heard upon entering the room.  
+~
+0
+DJ 0
+D3
+~
+~
+7 7
+2 346 398
+S
+#0
+
+
+
+#SPECIALS
+M 334 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 302 1 1
+D 0 303 3 1
+D 0 304 3 1
+D 0 305 1 1
+D 0 308 0 1
+D 0 309 1 1
+D 0 311 1 1
+D 0 312 3 1
+D 0 315 2 1
+D 0 316 0 1
+D 0 321 2 1
+D 0 322 2 1
+D 0 324 3 1
+D 0 329 0 1
+D 0 331 0 1
+D 0 332 0 1
+D 0 334 2 1
+D 0 335 0 1
+D 0 336 2 1
+D 0 337 2 1
+D 0 339 3 1
+D 0 340 1 1
+D 0 342 1 1
+D 0 342 3 1
+D 0 343 3 1
+D 0 344 1 1
+D 0 345 1 1
+D 0 346 1 1
+D 0 346 3 1
+D 0 348 1 1
+D 0 348 3 1
+D 0 350 1 1
+D 0 351 3 1
+D 0 352 3 1
+D 0 353 1 1
+D 0 354 0 1
+D 0 354 2 1
+D 0 355 0 1
+D 0 357 1 1
+D 0 357 3 1
+D 0 361 1 1
+D 0 361 2 1
+D 0 361 3 1
+D 0 362 1 1
+D 0 363 1 1
+D 0 365 1 1
+D 0 366 3 1
+D 0 367 3 1
+D 0 371 0 1
+D 0 372 2 1
+D 0 375 3 1
+D 0 376 1 1
+D 0 377 3 1
+D 0 378 3 1
+D 0 386 2 1
+D 0 386 5 1
+D 0 388 0 1
+D 0 396 4 1
+D 0 397 1 1
+D 0 398 1 2
+D 0 398 3 1
+D 0 399 3 2
+M 0 353 10 301 2
+M 0 328 5 303 5
+M 0 328 5 303 5
+M 0 328 5 303 5
+M 0 328 5 303 5
+M 0 328 5 303 5
+M 0 336 1 305 1
+O 0 373 0 305
+M 0 353 10 306 2
+M 0 300 1 308 1
+G 0 399 0
+G 0 398 0
+G 0 396 0
+G 0 327 0
+G 0 312 0
+G 0 301 0
+G 0 302 0
+G 0 304 0
+G 0 303 0
+G 0 305 0
+G 0 306 0
+O 0 364 0 309
+O 0 379 0 309
+P 0 329 1 379 1
+P 0 330 1 379 1
+P 0 331 1 379 1
+M 0 353 10 310 2
+M 0 355 6 311 1
+M 0 354 14 311 2
+M 0 351 1 312 1
+M 0 352 1 312 1
+O 0 307 0 312
+O 0 300 0 313
+M 0 357 13 314 1
+M 0 357 13 315 2
+M 0 302 1 316 1
+G 0 387 0
+G 0 386 0
+G 0 385 0
+G 0 384 0
+G 0 383 0
+G 0 313 0
+G 0 315 0
+G 0 317 0
+G 0 323 0
+M 0 356 5 317 1
+M 0 355 6 317 1
+M 0 354 14 318 2
+M 0 357 13 321 2
+M 0 356 5 321 1
+M 0 340 1 322 1
+M 0 356 5 323 1
+M 0 354 14 323 2
+M 0 348 4 324 1
+M 0 347 5 324 1
+M 0 353 10 325 2
+M 0 354 14 327 2
+M 0 357 13 328 1
+M 0 357 13 331 1
+M 0 341 5 331 1
+M 0 339 5 332 1
+M 0 338 5 332 1
+M 0 304 1 333 1
+G 0 335 0
+G 0 336 0
+G 0 337 0
+G 0 338 0
+G 0 339 0
+G 0 340 0
+M 0 305 1 334 1
+G 0 360 0
+G 0 351 0
+G 0 350 0
+G 0 349 0
+G 0 344 0
+M 0 358 5 334 5
+M 0 353 10 335 2
+M 0 307 5 335 2
+M 0 308 5 335 1
+M 0 337 1 336 1
+M 0 315 1 337 1
+M 0 350 1 338 1
+M 0 348 4 338 1
+M 0 347 5 338 1
+O 0 308 0 338
+P 0 311 1 308 1
+P 0 319 1 308 1
+O 0 309 0 338
+M 0 347 5 339 1
+O 0 310 0 340
+M 0 347 5 341 1
+O 0 325 0 343
+M 0 349 1 344 2
+M 0 306 1 344 1
+G 0 314 0
+G 0 316 0
+G 0 318 0
+G 0 320 0
+O 0 326 0 345
+M 0 348 4 346 1
+M 0 347 5 346 1
+M 0 348 4 347 1
+M 0 347 5 348 1
+M 0 310 16 349 1
+O 0 382 0 350
+O 0 381 0 351
+O 0 380 0 352
+O 0 348 0 353
+M 0 300 1 353 1
+M 0 357 13 354 2
+O 0 378 0 355
+M 0 355 6 358 1
+M 0 354 14 358 2
+M 0 357 13 359 1
+M 0 346 3 361 3
+M 0 356 5 364 1
+M 0 355 6 364 1
+M 0 334 1 365 1
+O 0 371 0 365
+M 0 303 1 366 1
+G 0 332 0
+G 0 377 0
+M 0 343 1 367 1
+G 0 321 0
+G 0 322 0
+M 0 357 13 369 2
+M 0 356 5 370 1
+M 0 355 6 371 1
+M 0 344 1 372 1
+M 0 354 14 373 2
+M 0 353 10 374 2
+M 0 355 6 375 1
+M 0 354 14 375 2
+M 0 345 1 376 1
+G 0 341 0
+G 0 342 0
+G 0 350 0
+M 0 357 13 377 1
+M 0 342 1 377 1
+G 0 374 0
+G 0 375 0
+G 0 376 0
+O 0 324 0 378
+M 0 359 1 379 1
+G 0 395 0
+G 0 394 0
+G 0 393 0
+G 0 392 0
+G 0 391 0
+G 0 390 0
+G 0 389 0
+G 0 388 0
+O 0 348 0 380
+M 0 310 16 381 1
+O 0 348 0 382
+M 0 310 16 383 2
+O 0 348 0 384
+O 0 348 0 385
+M 0 310 16 389 1
+M 0 310 16 390 1
+O 0 348 0 391
+O 0 348 0 392
+M 0 310 16 393 1
+O 0 348 0 394
+O 0 348 0 395
+O 0 345 0 399
+M 0 309 1 399 1
+G 0 346 0
+E 0 347 0 20
+S
+
+
+
+#SHOPS
+300 5 0 0 0 0 140 50 7 21
+301 13 8 1 15 33 140 50 1 23
+302 9 0 0 0 0 140 50 7 21
+303 19 0 0 0 0 140 50 7 21
+304 13 0 0 0 0 140 0 7 21
+305 17 0 0 0 0 100 100 0 23
+306 19 0 0 0 0 100 100 0 23
+311 0 17 13 0 0 140 50 7 21
+312 0 17 13 0 0 140 50 7 21
+313 17 13 12 0 0 140 50 7 21
+329 0 0 0 0 0 100 100 0 23
+342 0 0 0 0 0 100 100 0 23
+343 9 0 0 0 0 100 100 0 23
+345 0 0 0 0 0 100 100 0 23
+359 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

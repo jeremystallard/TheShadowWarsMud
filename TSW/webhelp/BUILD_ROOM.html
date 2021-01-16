@@ -1,0 +1,82 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>BUILD_ROOM</H1>In order to begin building, you should have received an area name and a
+set of vnums to use.  Each of these vnums can be used to build a room, a mob
+and an obj.  For example, let's use vnum 123.  There is a room with vnum
+123, a mob with vnum 123, and a obj with vnum 123.  
+
+To start your area, you'll need to create a room.  Use the first vnum you
+have been given and type the following command: "redit create vnum" (i.e.
+"redit create 123") 
+
+By typing the command, the code will put you in room 123 and open the room
+editor for you.  If you hit the "enter" key, you will see the room editor. 
+If you chose to finish now, type "done" and the editor will close.  To
+reopen it, simply type "edit room" and you are set to build your room again.
+
+</FONT><FONT COLOR="white">Name:</FONT> What do you wish your room to be called?  (i.e. An Open Field) Always
+use capital letters when naming a room.  
+
+</FONT><FONT COLOR="white">Area</FONT>: This section should list your area number and name already.  
+
+</FONT><FONT COLOR="white">Vnum:</FONT> This number is the vnum of the room you are editing.  
+
+</FONT><FONT COLOR="white">Sector</FONT>: Type "?  Sector" for available options.  Be sure to set your sector
+as it effects the weather a player sees in a room and also the amount of
+endurance used to traverse the area.  (i.e. A sector set as inside prevents
+a player from seeing rain.)  
+
+</FONT><FONT COLOR="white">Room flags:</FONT> Type "?  Room" for available options.  (Hint: set room indoors
+AND sector inside so that weather does not show in a building.)  
+
+</FONT><FONT COLOR="white">Heal rec:</FONT> How many hit points will a player receive while in this room
+during ticks?  We usually keep this value at 100 (the default) 
+
+</FONT><FONT COLOR="white">End rec:</FONT> How many endurance points will a player receive while in this room
+during ticks?  We usually keep this value at 100 (the default) 
+
+</FONT><FONT COLOR="white">Characters:</FONT> The code will list what players and mobs are currently in the
+room.  Leave this blank.  
+
+</FONT><FONT COLOR="white">Objects:</FONT> The code will list what objects are currently in the room.  Leave
+this blank.  
+
+</FONT><FONT COLOR="white">Description:</FONT> How does your room look?  This is what players will see when
+they first enter the room.  
+
+Now, once you have built your first room, you will want to build more.  But
+how?  Instead of using the "redit create" command for every room you wish to
+create, you can link rooms to an existing room and the code will
+automatically create them.  Here's how: 
+
+Once you have built room 123, you can build 4 rooms off of it.  One to the
+north, south, east or west.  The command is "east dig 124" or "north dig
+124" etc.  By typing "done" and looking at your room, you should now see an
+exit in the direction you created your link.  By moving in that direction,
+you are now able to "edit room" and begin building that room in the editor. 
+
+After you have linked your rooms together using the link command, when you
+hit enter, you will see something like this "-West to [12544] Key: [ 0] Exit
+flags: [door]" listed after the "WObjects</FONT> section.  This is information
+about the west exit in that room.  
+
+</FONT><FONT COLOR="white">-Direction to [vnum]</FONT>: Tells you which directions you can travel from the
+room you are standing in and to which vnums they go to.  
+
+</FONT><FONT COLOR="white">Key:</FONT> This is the vnum of the key that will open a locked door leading to the
+specified direction.  You will need to create an key type object and then
+use the syntax "key <vnum>" 
+
+</FONT><FONT COLOR="white">Exit flags:</FONT> It defaults to [door] but there are also commands that allow you
+to modify this door.  It can be hidden or closed or locked, etc.  To see
+available options, type "exit."  
+
+When you are done with the room editor, type "done" and always remember to
+"asave area" so that your work isn't lost in an accidental crash.  
+
+As always, this help is meant to be a learning tool.  Please don't hesitate
+to ask questions!  
+ 
+And, most importantly, have fun!
+
+</FONT></B></PRE>
+</BODY>

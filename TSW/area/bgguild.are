@@ -1,0 +1,1489 @@
+#AREADATA
+Name Border Guard Guild~
+Builders Indy~
+VNUMs 500 599
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#520
+saldaean archer~
+the {BS{ba{wl{Wda{we{ba{Bn{x {Warch{we{Dr{x~
+One of many {Warche{wr{Ds{x keep a close watch on he surrounding {Wl{wa{gn{wd{Ws{x.
+~
+~
+saldaean~
+AB 0 0 0
+90 88 46d47+15000 90d10+100 10d10+70 none
+0 0 0 0 0
+A
+6 6 6 6
+CFHIKU 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#523
+shienaran sentry gateguard guard soldier~
+the {WS{Ch{Wi{Ce{wn{Car{wa{Wn soldi{we{Dr{x~
+A {WS{Ch{Wi{Ce{wn{Car{wa{Wn soldi{we{Dr{x stands guard at the entrance.
+~
+~
+shienaran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CEFHKU 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#527
+maid~
+the {Wsmiling{x maid~
+A {Yp{wa{Wle-ha{yi{wr{Wed{x woman walks between tables, serving food and drinks
+~
+One of many swift maids walks proudly around the tables serving whatever
+the chef has been cooking.  There is no whistling or groping after her, as
+honorable borderland conduct demands.  
+~
+shienaran~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 punch
+0 0 0 0 0
+A
+3 3 3 3
+CN 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#537
+shienaran sentry~
+the {WB{wo{gr{Ddergu{ga{wr{Wd warr{wi{Dor{x~
+A {WB{wo{gr{Ddergu{ga{wr{Wd{x {Wsen{wt{Dry{x keeps a watchful eye out.
+~
+The strong-looking sentry stands at rigid attention keeping his gaze
+constantly moving over each man or woman passing.  
+
+He wears his {Dblack{x hair in a top-knot with temples, neck and forehead
+shaved.  
+~
+shienaran~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CEFHKTU 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#539
+scout kandori~
+the {gK{Ga{rn{Dd{ro{Gr{gi s{yc{Do{yu{gt{x~
+A {gK{Ga{rn{Dd{ro{Gr{gi {Wa{wr{gch{we{Wr{x makes his way up the staircase.
+~
+~
+kandori~
+AB 0 0 0
+70 60 36d37+4900 70d10+100 8d8+35 none
+0 0 0 0 0
+A
+4 4 4 4
+FK 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#540
+healer woman~
+{x{yS{Yh{wy{Wl{wa{Yh{x~
+A young, dark-haired woman moves from cot to cot, tending to the sick and the wounded.
+~
+Her long, raven tresses are bound at the nape of her neck by a bright red
+hair bow, framing her beautiful oval-shaped face.  Her eyes are large,
+slightly tilted and have a soft, gentle gleam to them.  She moves from cot
+to cot, inspecting her patients and tries to ease their suffering with kind
+words and a gentle, healers touch.  
+~
+saldaean~
+ABGa J 1000 0
+40 30 21d22+1600 40d10+100 5d5+20 slap
+0 0 0 0 0
+A
+1 1 1 1
+FIKW CD CD 0
+stand stand female 400
+0 0 medium 'flesh'
+#549
+war horse~
+a heavy, {Ds{wh{Wi{wn{Dy black{x {Dw{wa{Wr{wh{Dorse{x~
+A massively muscled {Db{wl{Wa{wc{Dk {Dw{wa{Wr{wh{Dorse{x is here.
+~
+This proud mount is massively muscled and looks fearless. It's no doubt a warhorse suited well for heavy cavalry.
+~
+shienaran~
+AZ 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 charge
+0 0 0 0 0
+0
+6 6 6 6
+C 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#500
+high-backed bosschair~
+the high-backed {yo{Da{yk c{Dhai{yr{x behind the {Dt{wabl{De{x~
+A soft, {bb{Blu{be{x {bc{Ba{Dr{wp{Wet{x covers the floor in front of the {Dt{wabl{De{x.~
+wood~
+furniture 0 P
+1 10000 EG 200 200
+0 0 0 100
+#501
+chair~
+a {Dc{yhai{Dr{x~
+A couple of high-backed {Wc{wh{yai{wr{Ws{x are placed in front of the {Dt{wabl{De{x.~
+wood~
+furniture 0 0
+3 20000 EG 100 100
+0 0 0 100
+#502
+cupboard~
+an {x{yoa{rk{yen {rc{yu{rp{ybo{ra{yrd{x~
+A large, {x{yoa{rk{yen c{yu{rp{ybo{ra{yrd{x is pushed back against the wall.~
+oak~
+container 0 0
+100 AC 0 50 0
+0 0 0 100
+#503
+jar green~
+a jar of {x{ghe{Grb{gs{x~
+Several jars containing leafy green {x{ghe{Grb{gs{x have been placed here.~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#504
+donation chest guildchest~
+a large {yw{Yoo{yden{x chest~
+A large {yw{Yoo{yden{x chest is here.~
+wood~
+container 0 0
+900 A 0 900 0
+0 0 0 100
+#520
+dagger knife~
+a {Dbroa{wd-{wb{Dladed h{wu{Wnti{wn{Dg-knife{x~
+A thick-bladed dagger has been dropped here~
+steel~
+weapon 0 AN
+dagger 10 15 'slice' 0
+90 1 600 100
+A
+13 100
+A
+19 4
+#521
+Bow short bow shortbow~
+a short but {Dh{weav{Dy{x b{Do{xw~
+A short bow lies on the ground here.~
+wood~
+weapon Y AN
+bow 10 15 'thwack' 0
+90 2 500 100
+A
+13 100
+A
+19 3
+A
+18 4
+#527
+bench table~
+a {yb{Yenc{yh{x behind one of the long {ytables{x~
+Long, dented {ytables{x are placed in rows along the northern wall.~
+cloth~
+furniture 0 0
+20 10000 D 60 50
+0 0 0 100
+#528
+cot bunk~
+an available {Wcot{x~
+A large number of simple {ym{gi{ylita{gr{yy{x {Wcots{x fills this room.~
+cloth~
+furniture 0 0
+20 10000 GJ 100 150
+0 0 0 100
+#537
+medal medallion amulet~
+a {Ws{wi{Dlv{we{Wr a{wm{Dul{we{Wt{x of {Wv{wa{Dl{wo{Wr{x~
+A {Ws{wi{Dlv{we{Wr a{wm{Dul{we{Wt{x strung on a leather cord has been dropped here.~
+metal~
+armor Y AC
+20 25 25 20 0
+90 20 400 100
+A
+19 1
+A
+18 3
+#538
+long sword longsword~
+a thick {Dl{wo{Wng{ws{Dword{x~
+A long sword lies on the ground.~
+steel~
+weapon Y AN
+sword 10 15 'slash' 0
+90 5 200 100
+A
+19 4
+#539
+short bow~
+a short {yho{wr{Wse{wb{yow{x~
+a short bow has been dropped here.~
+wood~
+weapon 0 AN
+bow 8 13 'pierce' 0
+70 2 100 100
+A
+18 3
+A
+19 4
+#546
+well fountain~
+the partially {Wi{wc{ce{C-{ccove{wr{Wed{x fountain~
+A partially {Wi{wc{ce{C-{ccov{we{Wred{x drinking fountain stands at the base of the tower{x~
+stone~
+fountain 0 0
+10000 10000 'water' 0 0
+0 10000 0 100
+#547
+stone table desk~
+the {Dm{wa{Dss{wi{Dve s{wton{De t{wabl{De{x~
+A solid {Ds{wton{De t{wabl{De{x with neat stacks of {Wparchments{x stands rigidly.~
+stone~
+furniture 0 P
+0 100000 MN 0 0
+50 1000 0 100
+#548
+table council~
+a {ywooden{x chair at the {Dt{yabl{De{x~
+A large, map-covered {Dt{yabl{De{x with many chairs around it dominates the room.~
+wood~
+furniture 0 0
+8 500000 D 0 0
+0 0 0 100
+#549
+cot~
+a {x{yco{gm{yf{gor{ytab{gl{ye c{go{yt{x~
+Several comfortable looking cots are spread around the room.~
+cloth~
+furniture 0 0
+20 2000000 EFHIKL 70 70
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#500
+Inside The Borderguard Outpost~
+A thick drawbridge with a {Dmet{wa{Wl-b{wa{Dr{wr{We{wd{x portcullis to the south is
+currently raised, {Ws{we{gn{Dtries{x armed with short {ybows{x and long {Ws{ww{Dor{wd{Ws{x patrol the
+steady stone walls.  A broad street of hoof-marked snow leads north up a
+short distance through the outer town towards the tower containing the
+beacon of this outpost, as well as the main keep.  There is constant
+activity here, guards patrolling in every direction, at night under the many
+lights of lit torches and lanterns.  No man, or {Whalfman{x, should be able to
+pass through here unseen.  
+
+A streamers with emblems of many Shienaran houses, as well as some Saldaean,
+surround the large banner of the {WWhite Heart{x centered atop the keep roof as
+well as on the many archery turrets along the parapet.  
+~
+0
+K 1
+D0
+~
+~
+0 0
+0 0 545
+D1
+~
+~
+0 0
+0 0 501
+D2
+~
+~
+3 3
+1 0 21200
+D3
+~
+~
+0 0
+0 0 521
+O Tykhon~
+S
+#501
+Along The Southern Wall-Road~
+The wall-road leads east and west, archers can be seen patrolling on on
+the wall above and many turrets line the southern wall of the outpost.  To
+the west, the wall-road opens up into the main route in and out of town and
+the fort.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 502
+D3
+~
+~
+0 0
+0 0 500
+S
+#502
+Underneath An Archery Turret~
+The road leads west towards a wide road leading out through the
+drawbridge and the clattering of hooves is constantly heard from one of the
+many {gs{Gc{yo{Du{Gt{gs{x constantly riding out on his mission to keep the lands here
+clear.  A ladder cut into the wall takes archers to the turret above.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 522
+D1
+~
+~
+0 0
+0 0 503
+D3
+~
+~
+0 0
+0 0 501
+D4
+~
+~
+0 0
+0 0 504
+S
+#503
+The South-Eastern Corner~
+The south-eastern corner of the walls is lit up by a large number of
+{rlan{yt{Ye{rrns{x and a one-man post is filled every night, keeping watch against the
+shadows easily created in it's {Dd{wee{Dp{x angles.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 505
+D3
+~
+~
+0 0
+0 0 502
+S
+#504
+On The Archery Turret~
+This archers turret faces south, providing the drawbridge and dry moat
+with additional cover in case an attack should reach this far.  {yQ{Yuiver{ys{x of
+arrows line the chest-high wall for easy access.  The pod is large enough
+for around ten archers to stand guard with enough space for each to shoot
+his bow independantly.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 502
+S
+#505
+Along The East Wall-Road~
+The wall-road continues south and north.  It's also quite {Ccold{x, but that
+doesn't seem to bother the proud warriors stalking around the outpost on
+patrol or on the way to.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 506
+D2
+~
+~
+0 0
+0 0 503
+S
+#506
+Along The Eastern Wall-Road~
+The narrow wall-road wedged in between keep and outer wall leads north
+towards a well-lit corner and an archers {yt{Yu{Drr{Ye{yt{x and widens slightly south
+towards the south-eastern corner of the walls.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 507
+D2
+~
+~
+0 0
+0 0 505
+D3
+~
+~
+0 0
+0 0 523
+S
+#507
+At The North-Eastern Corner~
+A {yladder{x of narrow stone steps is cut into the eastern side of this
+corner.  The road continues south from here towards the south-eastern corner
+near the only entrance to the outpost and west along a busy guard-walk.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 506
+D3
+~
+~
+0 0
+0 0 509
+D4
+~
+~
+0 0
+0 0 508
+S
+#508
+On The Archery Turret~
+Around fifteen {Wa{wr{gc{Dhers{x can fit decently in this sturdy turret with a
+chest-high parapet.  To the east of here is a larger balcony while the keep
+and the outer wall makes the street below rather narrow.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 507
+S
+#509
+Along The Northern Wall~
+The street between outer wall and keep is just barely wide enough for two
+people to pass shoulder to shoulder.  {WL{wa{Dnc{We{wr{Ds{x going from east to west stick
+to the outer wall, while the ones from opposite direction stick to the {Dk{wee{Dp{x.
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 507
+D3
+~
+~
+0 0
+0 0 510
+S
+#510
+Along The Northern Wall~
+A {yladder{x leads up into the archery balcony above while the narrow street
+between outer wall and keep continues a short distance east to another
+turret and west towards the west side of the {Doutpo{ws{Wt{x 
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 509
+D3
+~
+~
+0 0
+0 0 511
+D4
+~
+~
+0 0
+0 0 526
+S
+#511
+Along The Northern Wall~
+The stone roof above covers from the usual downfall of snow while a cold
+wind surges in from the east or west, along with the {Wg{wu{ga{Drds{x and citizens
+making their way around the outpost.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 510
+D3
+~
+~
+0 0
+0 0 512
+S
+#512
+Along The Northern Wall~
+A broad ladder leads up unto a long walkway wedged in between the back
+the keep and the outer walls.  There is very little snow on the ground here
+and the platform above creates a roof of sorts.  Many {Ylanterns{x lining the
+walls make sure no shadows to speak of sneak in.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 511
+D3
+~
+~
+0 0
+0 0 513
+D4
+~
+~
+0 0
+0 0 525
+S
+#513
+Along The Northern Wall~
+The ground is almost cleared of {Wsnow{x here, worn down by the extreme
+amount of people shifting east and west here, as the many turrets and
+balconies on the northern wall sports the primary look-out points.  To the
+east of here lies the ladder up to a large platform while another beam up in
+a turret just west of here.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 512
+D3
+~
+~
+0 0
+0 0 514
+S
+#514
+At The North-Western Corner~
+The north-western corner of the walls is lit up more carefully than the
+rest of the town to avoid {Dd{wee{Dp {Ws{wh{Dado{ww{Ws{x created in the angle between west and
+northern wall.  A {ywooden{x ladder leads up into a large archers turret while
+the street continues south and east.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 513
+D2
+~
+~
+0 0
+0 0 516
+D4
+~
+~
+0 0
+0 0 515
+S
+#515
+On The Archery Turret~
+Filled quivers line the rounded walls allowing the many archers keeping
+watch a good supply of arrows in case of an invasion.  Being on the north
+side of the outpost, overlooking the clear-cut lands around, and towards the
+ominous {Dm{wo{Duntains{x, the {Wa{wr{gc{Dhers{x here seem to be on double watch.  This wall
+also features more than twice the number of turrets and defensive measures
+than the other sides.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 514
+S
+#516
+Along The Western Wall~
+The narrow wall-road continues north and south, the eastern side blocked
+by low buildings with roofs slanting diagonally to allow he heavy snow to
+slide off.  Not much can be seen here as most of the view is blocked by the
+thick {Dst{wo{Dne{x protecting the outpost.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 514
+D2
+~
+~
+0 0
+0 0 517
+S
+#517
+Along The Western Wall~
+The road continues north towards a small intersection and the
+north-western corner while the narrow road south leads to the {yw{Yell-li{yt{x
+south-western corner of the {Dw{wall{Ds{x.  Guards armed with short bows and swords
+patrol the walls above.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 516
+D2
+~
+~
+0 0
+0 0 518
+S
+#518
+At The South-Western Corner~
+The wall-road around the outpost continues east back to the drawbridge
+and only entrance to this outpost and north towards more {Dturr{we{Wts{x.  Many
+street {Ylanterns{x watch over the corner especially carefully, making perfectly
+sure no deep {Dshadows{x seep out through the angled corner.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 517
+D1
+~
+~
+0 0
+0 0 519
+S
+#519
+Underneath A Turret~
+A {ywooden{x ladder leads up into one of the many archers turrets along these
+walls.  The street also broadens slightly to the north through the civilian
+quarters and to the stone keep watching over this part of {WS{Ch{wi{We{wn{Ca{Wr{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 544
+D1
+~
+~
+0 0
+0 0 521
+D3
+~
+~
+0 0
+0 0 518
+D4
+~
+~
+0 0
+0 0 520
+S
+#520
+On The Archery Turret~
+The biting {ww{Ci{Wn{Cd{x is faster up here, away from the cover of the thick walls
+and the many archers standing post here move about constantly to keep warm
+and mobile.  The clear-cut lands around the outpost provide sentries like
+these to shoot their bows a great distance.  
+~
+0
+0 1
+D5
+~
+~
+0 0
+0 0 519
+S
+#521
+Southern Wall-Road~
+The southern wall road is narrow and passage is tight as the many
+sentries of this outpost use this route to get around the outpost to their
+various duty stations.  The freshly landed snow on the ground is already
+packed hard by {Da{wr{Wmo{wr{Ded{x boots.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 500
+D3
+~
+~
+0 0
+0 0 519
+S
+#522
+On A Narrow Street~
+The {Dl{wa{Wn{wc{Ders{x barracks can be reached north here, watchful {WS{Ch{Wie{wn{Da{wr{Ca{Wn{x
+sentries pass on each side, some offering greetings and smalltalk to the few
+civilians residing in this outpost while others purposefully make their way
+south or east towards their stations.  
+
+The fresh but {Ci{Wc{Cy{x cold wind sometimes changes to a slightly warmer gust with
+a nasty undertone of {Dc{ro{Drrupti{ro{Dn{x as it blows in from the north, reminding
+every man and woman in this outpost what would could happen to all the lands
+if they aren't ever {Dvig{wi{Wl{wi{Dant{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 523
+D2
+~
+~
+0 0
+0 0 502
+S
+#523
+Before A Large, Rigid Fort~
+The eastern annex to the two-storied keep of the Borderguard outpost lie
+through the double-doors to the north while the eastern wall-road can be
+reached a short distance east of here.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 524
+D1
+~
+~
+0 0
+0 0 506
+D2
+~
+~
+0 0
+0 0 522
+D3
+~
+~
+0 0
+0 0 546
+S
+#524
+Entry Foyer To The Eastern Annex~
+The spacious foyer narrows down slightly toward the heavy {ydouble-doors{x
+south while broadening further north through the main corridor to the mess
+hall.  A tapestry-lined hallway leads west of here toward a broad stone
+staircase.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 527
+D2
+~
+~
+1 1
+1 0 523
+D3
+~
+~
+0 0
+0 0 529
+S
+#525
+Archers Balcony Landing~
+The narrow archers balcony stretches east from here, sentries are
+constantly patrolling it, bow in hand, night and day, passing a slow day
+shooting ravens out of the air with high accuracy.  
+~
+0
+C 1
+D1
+~
+~
+0 0
+0 0 532
+D5
+~
+~
+0 0
+0 0 512
+S
+#526
+Archers Balcony Landing~
+The narrow ladder leading up the wall to the archery balcony points down
+from a broad hole in the stone floor.  Men are posted along the parapet with
+their eyes and bows aimed {Dnorth{x.  
+~
+0
+C 0
+D3
+~
+~
+0 0
+0 0 532
+D5
+~
+~
+0 0
+0 0 510
+S
+#527
+In The Mess Hall~
+Hearty laughter and stories are exchanged between lancers seated at the
+long tables, {bp{Ba{wi{Wntin{Bg{bs{x and {wt{Wa{Bp{bestr{Bi{We{ws{x like the walls.  Several large {rhe{ya{Y{yr{rths{x
+add a comfortable warmth to the relaxed atmosphere.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 524
+D3
+~
+~
+1 1
+1 0 528
+S
+#528
+Military Sleeping Quarters~
+The sleeping quarters are surprisingly quiet.  Nobody talks in the
+sleeping quarters, this is a place to rest.  Light snoring is heard from
+some bunks though most here seem light sleepers.  
+~
+0
+0 0
+D0
+~
+~
+4099 4099
+1 0 550
+D1
+~
+~
+1 1
+1 0 527
+D2
+~
+~
+0 0
+0 0 529
+S
+#529
+At A Stone Staircase~
+The peaceful murmur of {Dlance{wr{Ws{x off duty, and patrolling {Dsentri{we{Ws{x buzz
+with a calm harmony in the barracks of this outpost.  East of here lies the
+entry-foyer while an open doorway north welcome the tired soldiers to their
+well-deserved rest.  A broad {Ds{wt{Done{x staircase leads up to the second floor of
+the stronghold.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 528
+D1
+~
+~
+0 0
+0 0 524
+D3
+~
+~
+1 1
+1 0 549
+D4
+~
+~
+0 0
+0 0 530
+S
+#530
+A Narrow Hallway~
+This narrow hallway just above the stairs leading down to the lancers
+barracks bustles with activity.  Alert sentries patrol back and forth,
+talking to each-other in friendly but serious tones when passing.  There are
+no windows along the the walls but fiery {Wt{wa{gp{Destr{gi{we{Ws{x telling stories of
+{Wglorious{x clashes with the shadow add a certain warmth to the otherwise stark
+environment.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 547
+D3
+~
+~
+0 0
+0 0 531
+D5
+~
+~
+0 0
+0 0 529
+S
+#531
+A Narrow Hallway~
+The sturdy door north of here bears the {WWhite Heart{x sigil and the narrow
+hallway continues to the east along tapestry-lined walls.  A slight scent of
+fresh hay is hinted from below the stairs.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 548
+D1
+~
+~
+0 0
+0 0 530
+D5
+~
+~
+0 0
+0 0 533
+S
+#532
+Archers Balcony~
+The balcony stretces along the parapet to the east and west offering a
+good, {Wclear{x view to the north.  Many archers line the walls with their
+unflinching gazes turned to the north.  
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 526
+D3
+~
+~
+0 0
+0 0 525
+S
+#533
+At A Stone Stairwell~
+The warm smell of {Dh{wo{Wrs{we{Ds{x sweeps out each time the double-doors north open
+up.  The occasional neighing overrides the crisp tones of returning lancers
+exchanging observations on their way up the stairs towards the second level.
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 534
+D3
+~
+~
+0 0
+0 0 536
+D4
+~
+~
+0 0
+0 0 531
+S
+#534
+Large Stables~
+Neatly fitted rows of stalls line the northern wall.  There is an
+extremely large amount of horses in here.  This, being the largest section
+of the stables, contain the heavy Shienaran {Dwa{wr{Wh{wo{Drses{x and a large number of
+stable boys assisting lancers in the grooming of their mounts.  The line of
+stalls continue west.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 533
+D3
+~
+~
+0 0
+0 0 535
+S
+#535
+Large Stables~
+This section of the stables belong to the light scout horses and the
+small contingent of {bS{Ba{wl{Wda{we{Ba{bn{x light cavalry.  There are fewer stable-boys
+here than in the livelier stable of the Shienaran east of here.  Saldaean
+horses carry far less {Db{wa{Wrdi{wn{Dg{x and the cavalrists require little help tending
+their mounts.  A smallish section in the western corner of this large stable
+is dedicated to guests and their mounts, and is given slightly larger
+stalls.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 534
+D2
+~
+~
+0 0
+0 0 536
+S
+#536
+Entrance To The Stables~
+The entrance-foyer to the stables open up massively to the north.  Horses
+in this fort seem to take up twice the place of men.  The smell of horses
+lie {ythick{x in the air and a loud beating of activity radiates from the north
+while a narrow corridor leads east towards a broad staircase.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 535
+D1
+~
+~
+0 0
+0 0 533
+D2
+~
+~
+1 1
+1 0 537
+S
+#537
+Before A Rigid Stone Building~
+A {Dm{wa{Ws{ws{Dive{x structure, mostly made out of dark stone looms up to the north. 
+{WA{wr{gc{Dh{ge{wr{Ws{x can be seen patrolling on it's flat roof.  It's broad gates opens up
+as a mounted scouting party returns from their patrol.  The large signal
+tower of this fort stabs upwards from it's entrance east if here.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 536
+D1
+~
+~
+0 0
+0 0 538
+D2
+~
+~
+0 0
+0 0 542
+D3
+~
+~
+0 0
+0 0 543
+S
+#538
+Underneath The Tall Signal Tower~
+{CI{Wc{Ce{x-free stone steps leads up a short distance to the small but sturdy
+door at the base of the tall signal tower.  
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 537
+D4
+~
+~
+1 1
+1 0 539
+S
+#539
+Spiral Staircase Up The Signal Tower~
+{DS{wt{Done{x steps placed with perfect symmetry spiral upwards through the
+steady signal-tower.  There staircase is just wide enough for two broad,
+fully-armored people to pass shoulder to shoulder.  
+~
+0
+0 1
+D4
+~
+~
+0 0
+0 0 540
+D5
+~
+~
+1 1
+1 0 538
+S
+#540
+Archery Balcony Near The Top~
+Three embrasures in the northern wall allows for a total of nine {Wa{Cr{wc{Dh{we{Cr{Ws{x
+to add their focused gazes and join the many other sentries spread across
+the fort in keeping a constant, unblinking watch to the {rnorth{x.  The stairway
+narrows slightly upwards, allowing only one direction to be traveled at one
+time.  
+~
+0
+0 1
+D4
+~
+~
+1 1
+1 0 541
+D5
+~
+~
+0 0
+0 0 539
+S
+#541
+Top Of The Tower~
+The flat, circular roof leads around the main purpose of this outpost.  The
+{rb{Re{Yac{Ro{rn{x, ready to be {Ylit{x at a seconds notice by one of the many alert
+sentries on this level, each armed with swords, torches and bows.  If the
+slightest sign of trouble approaches from the north, one of these men will
+light the beacon, many other outposts like this one will do the same and the
+lancers of Shienar will ride to war.  To strike back the {DShadow{x back to the
+{yBlight{x.  
+~
+0
+0 1
+D5
+~
+~
+1 1
+1 0 540
+S
+#542
+On A Snow-Covered Street~
+The already broad street widens further to the east where a straight,
+snow-covered line cuts south through the outpost.  A tall tower can be
+sighted northeast of here while the entrance to the stables lie to the
+north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 537
+D1
+~
+~
+0 0
+0 0 546
+S
+#543
+On A Narrow, Snow-Covered Street~
+This narrow street between slant-roofed buildings is covered with a layer
+of hard-packed {Wsnow{x.  The keep of this outpost north of here might offer
+some comfort from the biting cold of {WS{Ch{wi{We{wn{Ca{Wr.  {x 
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 537
+D2
+~
+~
+0 0
+0 0 544
+S
+#544
+On A Narrow, Snow-Covered Street~
+The north-south leading street is covered with white, packed snow. 
+Buildings on both sides have slanting roofs usually ending in a pile of
+{wl{Wo{wo{Ws{we{Wr{x snow near the ground.  Most of the people wandering here are at least
+partially {Wa{wr{Dmored{x while a few civilians seeking shelter in the outpost
+stroll about their everyday business.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 543
+D2
+~
+~
+0 0
+0 0 519
+S
+#545
+Broad Street Covered With Snow~
+This broad street probably has parties of cavalry riding both north and
+south out- and back from scout missions and patrols of the surrounding
+{Wf{wo{gr{ye{gs{wt{Ws{x.  Slant-roofed buildings on either side provide residence for the
+few civilians seeking shelter at this outpost, while the main military force
+posted here resides in the keep and it's annexes to the north.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 546
+D2
+~
+~
+0 0
+0 0 500
+S
+#546
+South Of The Large Signal Tower~
+Mounted men ride south or west here, while only those on foot walk to and
+from the east where the entrance to the barracks and it's various
+residential facilities lie.  Just north of here, and partly embedded in the
+keep, is a tall tower containing the always ready to be lit beacon to warn
+Shienar of incoming {DShadowspawn {rraiders{x.  The wide street leads south toward
+the raised drawbridge and is probably wide enough for a charging column six
+horses wide to rush straight out at full speed to be the first to counter
+any threats to this land.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 523
+D2
+~
+~
+0 0
+0 0 545
+D3
+~
+~
+0 0
+0 0 542
+S
+#547
+Outpost Commander's Office~
+The furnishing of this office is surprisingly exotic with an assortment of
+{Ww{we{Dapo{wn{Ws{x lining the blocky {Dst{wo{Dne{x walls.  Dominating the room, however, is a
+large painting on the western wall, it depicts a sleek ship cresting a
+jagged {bw{Bav{be{x.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 530
+S
+#548
+Council Chamber~
+This fairly large, well-lit chamber has maps of what be the entire
+{WB{wo{gr{Dderla{gn{wd{Ws{x and possibly even some of the {DG{rr{Deat B{rl{Dight{x covering every wall. 
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 531
+S
+#549
+The {x{YIn{yfi{Wrm{yar{Yy{x~
+A soft, warm glow illuminates this spacious room from the small {x{rfi{yr{re{x on
+the hearth.  Hanging over the fire is a large, black cauldron of steaming
+water and a few large ladles hanging on the wall away from the heat.  Next
+to the hearth and pushed back against the wall lies a large cupboard, it's
+door slightly ajar and revealing several glass jars and bandages inside. 
+Several, soft, comfortable looking cots have been arranged around the room,
+some of which are occupied by grunting, wounded soldiers.  A few women, both
+young and old, rush about tending to these men as quickly and as gently as
+possible.  
+~
+0
+DK 0
+D1
+~
+~
+1 1
+1 0 529
+S
+#550
+{WPu{wbl{Wic {cBa{Ct{Wh{wo{Cu{Cse{x~
+This {Wluxur{wi{Wous{x {cb{Cat{wh{Wh{wo{Cus{ce{x is bigger than many bedrooms found in the
+Fortress.  {DBlack ma{wr{Wb{wl{De{x with streaks of {ygo{Yl{yd{x cover the wide floor, with a
+round {DRoman {Dbat{wh{Dtub{x in the center, made by the same stone found on the
+ground.  The {Dtub{x is large enough to fit eight people inside, with beautiful
+{Wwh{wi{Wte {Wm{wa{Drb{wl{We{x {Wco{wl{Wumns{x surrounding it.  From each of the columns, a small
+{cw{Cate{cr{x {Cfounta{ci{Cn{x falls down inside the pool of {cw{Cate{cr{x that fills the {Dt{wu{Db{x.  A
+{yg{Yilde{yd{x {ywardrobe{x with its legs carved and {cb{Cegemme{cd{x stands against the wall,
+close to the {Wbeaut{wi{Wfully{x made {Ws{wt{Do{wn{We{x benches.  
+
+Tall column {Ww{wi{Wndows{x cover most of the eastern wall, their {yw{wo{Wod{we{yn{x {yframe{x
+carved with rich details.  
+ 
+~
+0
+D 0
+D2
+~
+~
+4099 4099
+1 0 528
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 500 2 1
+D 0 528 0 1
+D 0 550 2 1
+O 0 504 0 500
+M 0 520 12 504 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 520 12 508 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 520 12 515 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 520 12 520 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 523 8 523 2
+E 0 538 0 20
+M 0 520 12 525 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 520 12 526 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 527 1 527 1
+O 0 527 0 527
+O 0 528 0 528
+M 0 537 8 529 2
+E 0 538 0 20
+M 0 520 12 532 2
+E 0 521 0 20
+E 0 520 0 21
+M 0 537 8 533 2
+E 0 538 0 20
+M 0 537 8 537 4
+E 0 538 0 20
+E 0 538 0 21
+M 0 537 8 537 4
+E 0 538 0 20
+E 0 538 0 21
+E 0 537 0 5
+M 0 523 8 538 2
+E 0 538 0 20
+E 0 538 0 21
+M 0 539 1 539 1
+E 0 539 0 20
+O 0 546 0 546
+O 0 501 0 547
+O 0 500 0 547
+O 0 547 0 547
+O 0 548 0 548
+O 0 549 0 549
+M 0 540 1 549 1
+O 0 502 0 549
+P 0 503 1 502 1
+O 0 28176 0 550
+O 0 28177 0 550
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,9989 @@
+#AREADATA
+Name Tear 2~
+Builders Kitiara Zytka~
+VNUMs 29400 29999
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#29500
+man guard gateguard~
+a gateguard~
+This man stands here, guarding the gates into the city of Tear.
+~
+~
+tairen~
+AB 0 0 0
+80 70 41d42+6400 80d10+100 9d9+40 none
+0 0 0 0 0
+A
+5 5 5 5
+0 0 0 0
+stand stand male 65
+0 0 medium 'flesh'
+#29501
+patron~
+a patron~
+A patron sits enjoying his drink.
+~
+~
+andoran~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 punch
+0 0 0 0 0
+A
+-1 -1 -1 -1
+C 0 B 0
+stand stand male 0
+0 0 medium 'unknown'
+#29502
+man bartender innkeeper rotund~
+the {YI{ynnk{Yee{yp{Ye{yr{x~
+The Innkeeper of the {yG{Yo{yld{Ye{yn C{Yu{yp {YI{ynn{x stands here greeting his guests.
+~
+This large rotund man moves about behind the bar filling the drink
+orders.  Short {Dblack{x hair has been slicked back, small beady eyes glance
+about the room and with each smile his jowls jiggle back and forth.  His
+shirt is a dark {bblue{x, showing he is also the innkeeper as well as the
+bartender, the sleeves have been rolled up past his elbows.  As he works he
+makes idle chit chat with those that sit at the bar while making sure the
+barmaids do their job and aren't harrassed.  
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 punch
+0 0 0 0 0
+A
+6 6 6 6
+FK AB 0 0
+stand stand male 1000
+0 0 medium 'flesh'
+#29503
+serving girl barmaid~
+a young barmaid~
+A young barmaid moves about serving customers.
+~
+With her long brown hair braided and wound up and pinned on the back of
+her head this young woman works hard to earn her pay.  She offers a warm
+smile to each person she sees, taking their order and heading for the bar or
+kitchen to fill it as needed.  She wears a simple gown of {mpurple{x that is
+tied at her waist with a ribbon, the neckline is kept modest but still
+accentuates her chest.  
+~
+tairen~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 slap
+0 0 0 0 0
+A
+-1 -1 -1 -1
+IJN 0 0 0
+stand stand female 10
+0 0 medium 'unknown'
+#29504
+cook cooks helper~
+a cooks {Wh{Ye{Wlp{Ye{Wr{x~
+A cooks {Wh{Ye{Wlp{Ye{Wr{x is here, stiring stew in a pot.
+~
+~
+tairen~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+0 0 0 QR
+stand stand either 25
+0 0 medium 'flesh'
+#29505
+innkeeper wife~
+the {YI{ynnk{Yee{yp{Ye{yr{x's wife~
+The {YI{ynnk{Yee{yp{Ye{yr{x's wife works diligently to prepare the meals.
+~
+Dressed in {Wwhite{x the innkeeper's wife moves about the kitchen, working to
+get the meals prepared.  She wears a white cap to keep her hair up and a
+white blouse and apron, her pants are brown as are her shoes.  Spots of
+flour can be seen on her cheeks.  She orders the barmaids about when each
+comes in and they rush to obey.  
+~
+tairen~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 slap
+0 0 0 0 0
+A
+-1 -1 -1 -1
+IN 0 0 0
+stand stand female 55
+0 0 medium 'flesh'
+#29506
+servant~
+a servant~
+A servant works diligently at her duties.
+~
+~
+tairen~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 slap
+0 0 0 0 0
+A
+-1 -1 -1 -1
+IN 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+#29507
+gleeman~
+a {gg{Gl{Ye{Re{Ym{Ga{gn{x~
+A {gg{Gl{Ye{Re{Ym{Ga{gn{x stands on the stage telling a tale to the patrons of the Inn.
+~
+~
+andoran~
+AB 0 0 0
+60 50 31d32+3600 60d10+100 7d7+30 none
+0 0 0 0 0
+A
+3 3 3 3
+I 0 0 QR
+stand stand male 150
+0 0 medium 'flesh'
+#29508
+patron~
+a {cp{Ca{Wtr{Co{cn{x~
+A {cp{Ca{Wtr{Co{cn{x of the Inn laughs as he listens to the gleeman's tale.
+~
+~
+tairen~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+1 1 1 1
+F 0 0 QR
+stand stand male 20
+0 0 medium 'flesh'
+#29509
+jurah haret~
+the {Db{ra{Drk{ree{Dp{x~
+A rather well-{Dm{wu{Dscl{we{Dd{x man stands behind the bar, waiting to serve the customers.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 QR
+stand stand male 0
+0 0 medium 'flesh'
+#29510
+serving girl~
+a {Wse{wr{Wv{wi{Wng{x girl~
+A {Wse{wr{Wv{wi{Wng{x girl rushes about, serving drinks.
+~
+~
+tairen~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+J 0 0 QR
+stand stand female 30
+0 0 medium 'flesh'
+#29511
+large woman head cook~
+the head cook~
+A rather large woman stands here, overseeing the cooking.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+O 0 QR 0
+stand stand female 40
+0 0 medium 'flesh'
+#29512
+young woman cook~
+a cook~
+A young woman wrinkles her nose as she stirs the pot of fish.
+~
+~
+tairen~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 0
+stand stand female 25
+0 0 medium 'flesh'
+#29513
+peach girl young~
+a {Yp{Rea{Ychy{x girl~
+A young {gg{Gi{grl{x stands behind the table, selling her {Yp{Rea{Ych{Re{Ys{x.
+~
+This pretty {gg{Gi{grl{x seems awful young to be out in the {rT{Da{rv{Da{rr{x by herself, yet
+here she is, selling peaches to those that pass by her stall.  
+~
+tairen~
+AB HJ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+I 0 0 QR
+stand stand female 100
+0 0 medium 'flesh'
+M 'GREET' 29513 100~
+#29514
+rotund woman~
+a {rr{Ro{rt{Ru{rnd{x woman~
+A rather {rr{Ro{rt{Ru{rnd{x woman, wearing a white apron, is busy selling {ypears{x.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 200
+0 0 medium 'flesh'
+#29515
+skinny red cheeked man redcheeked~
+a skinny, {rr{ye{rd{w-{rch{yee{rk{ye{rd{x man~
+A skinny, {rr{ye{rd{w-{rch{yee{rk{ye{rd{x man is busy polishing apples.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 240
+0 0 medium 'flesh'
+#29516
+pretty woman~
+a rather pretty {rw{Ro{Wm{Ra{rn{x~
+A rather pretty woman stands here, selling {rst{Rraw{Wbe{Rrri{res{x.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand female 150
+0 0 medium 'flesh'
+#29517
+tall youth~
+a tall {by{Bou{bth{x~
+A tall {by{Bou{bth{x wearing a stained white {Wapr{yo{Wn{x is here.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 0
+stand stand male 100
+0 0 medium 'flesh'
+#29518
+man fisherman~
+a {bf{Bi{bsh{Be{brm{Ba{bn{x~
+A {bf{Bi{bsh{Be{brm{Ba{bn{x stands behind the counter.
+~
+This fisherman is dressed in a pair of worn work clothes, covered with a
+thick, warm fur to keep away the cold of the room.  
+~
+tairen~
+AB FH 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+CEFIKN 0 0 QR
+stand stand male 5000
+0 0 medium 'flesh'
+#29519
+man innkeeper~
+the {yI{Wnn{Dk{Wee{Dp{We{Dr{x of the {DIr{Wo{Dn {yPl{Wo{yw{x~
+A tall man with a thick build is the {yI{Wnn{Dk{Wee{Dp{We{Dr{x of the {DIr{Wo{Dn {yPl{Wo{yw{x.
+~
+~
+tairen~
+AB HJ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+KN 0 0 QR
+stand stand male 500
+0 0 medium 'flesh'
+#29520
+serving girl~
+a {ys{We{yrv{Wi{yng{x girl~
+A {ys{We{yrv{Wi{yng{x girl bustles around the common room.
+~
+~
+tairen~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 QR
+stand stand female 20
+0 0 medium 'flesh'
+#29521
+tired farmer~
+a tired {yf{ra{yrm{re{yr{x~
+A tired {yf{ra{yrm{re{yr{x sits at one of the tables, drinking an {ya{Dl{ye{x.
+~
+~
+tairen~
+AB 0 0 0
+48 38 25d26+2304 48d10+100 5d13+24 none
+0 0 0 0 0
+A
+1 1 1 1
+I 0 0 QR
+stand stand male 10
+0 0 medium 'flesh'
+#29522
+woman cook~
+the {Wcook{x~
+A stiff-backed woman wearing a {Wd{wi{Dn{wg{Wy{x-white apron.
+~
+~
+tairen~
+AB HJ 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FKNO 0 0 QR
+stand stand female 500
+0 0 medium 'flesh'
+#29523
+elderly gentleman~
+an {De{wl{Wder{wl{Dy{x gentleman~
+An {De{wl{Wder{wl{Dy{x gentleman sits on a bench with his wife, watching the customers.
+~
+~
+tairen~
+AB HJ 0 0
+100 90 51d52+10000 100d10+100 11d11+50 none
+0 0 0 0 0
+A
+7 7 7 7
+CFN 0 0 QR
+stand stand male 500
+0 0 medium 'flesh'
+#29525
+constable~
+a {Dc{ron{Rsta{rbl{De{x keeps the peace~
+Watching what goes on in this area, a {Dc{ron{Rsta{rbl{De{x keeps the peace.
+~
+~
+tairen~
+ATW 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+FI 0 0 QR
+stand stand either 75
+0 0 medium 'flesh bones'
+#29526
+lady~
+a {mL{Ma{mdy{x of Tear~
+Making her way through the crowd is a {mL{Ma{mdy{x of Tear, doing her shopping.
+~
+~
+tairen~
+AHW 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+N 0 0 QR
+stand stand female 200
+0 0 medium 'flesh'
+#29529
+middle aged woman~
+a {Dm{ci{Cdd{cl{De{D-{Waged{x woman~
+A {Dm{ci{Cdd{cl{De{D-{Waged{x woman stands behind the counter, welcoming all with a smile.
+~
+~
+tairen~
+ABY HVc 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+BFIKN 0 0 QR
+stand stand female 5000
+0 0 medium 'flesh bones'
+#29530
+short elderly man jeweler~
+a short, {We{Dld{We{Drly{x man~
+A short, {We{Dld{We{Drly{x man leans on the glass counters.
+~
+~
+tairen~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+CFIKN 0 0 QR
+stand stand male 5000
+0 0 medium 'flesh stone'
+#29531
+sedan bearer~
+a {rs{Re{Yd{Ra{rn{x-bearer~
+A {rs{Re{Yd{Ra{rn{x-bearer rests as he waits for his next customer.
+~
+~
+tairen~
+AB 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+FI 0 0 QR
+stand stand male 300
+0 0 medium 'flesh bones'
+#29532
+round woman~
+{BM{Mim{Bi{x helping a customer~
+A very round {bw{Bo{Wm{Ba{bn{x with a bright smile, waits on her customers.
+~
+{BM{Mim{Bi{x stands behind a counter, waiting for any customers who require help.
+She wears a large {Yyellow{x dress with {Mpink{x frilly ruffles along the bottom. 
+She smile brightly at all who enter her shop, showing off her bright red
+{rl{Ri{rpst{Ri{rck{x, pink {Mrouge{x, and blue {be{By{be{Bsh{Wa{Bdow{x.  
+~
+tairen~
+ABY HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+IJO 0 0 QR
+stand stand female 5000
+0 0 medium 'flesh bones'
+#29533
+pleasant young woman~
+a {mp{Mle{Was{Man{mt{x young woman~
+A {mp{Mle{Was{Man{mt{x young woman greets her customers with a smile.
+~
+~
+tairen~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+EIN 0 0 0
+stand stand female 5000
+0 0 medium 'flesh bones'
+#29534
+seamstress~
+a {cs{Cea{Wmstr{Ces{cs{x~
+A {Mpl{Wu{Mmp {We{Dld{We{Drly{x lady sits behind the counter, stitching a torn shirt.
+~
+~
+tairen~
+ABK HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+JY 0 0 0
+sit stand female 5000
+0 0 medium 'flesh bones'
+#29535
+bartender~
+the {rb{Rar{rten{Rde{rr{x~
+The {rb{Rar{rten{Rde{rr{x stands behind the bar, serving customers.
+~
+~
+tairen~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+BHK 0 0 0
+stand stand either 5000
+0 0 medium 'flesh bones'
+#29536
+patron~
+a {Dp{ga{Gtr{go{Dn{x~
+A {Dp{ga{Gtr{go{Dn{x sits at a table, quenching his thirst.
+~
+~
+tairen~
+AB 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+A
+0 0 0 0
+J 0 QR 0
+stand stand male 20
+0 0 medium 'flesh bones'
+#29537
+candlemaker man~
+a {Yc{Wa{Ynd{Wl{Ye{rm{Ra{rk{Re{rr{x~
+A {Dr{wai{Dl{W-{cth{Ci{cn{x man stands behind the counter, rearranging the candles upon the shelf.
+~
+~
+tairen~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+IKN 0 0 0
+stand stand male 5000
+0 0 medium 'flesh bones'
+#29538
+potter woman~
+a {yp{Yo{Wtt{Ye{yr{x~
+Sitting at a potters wheel is a blonde-haired young {Yw{Wo{Ym{Wa{Yn{x with wet clay on her hands.
+~
+~
+tairen~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+0 0 0 0 0
+A
+6 6 6 6
+FIN 0 0 0
+stand stand female 5000
+0 0 medium 'flesh bones'
+#29539
+gelding horse~
+A dark-brown gelding~
+A dark-brown gelding stands here
+~
+This gelding has dark-brown hair and a long tail.  It's main is carefully
+trimmed and his fur is brushed and well tended to, almost shiny.  
+~
+pig~
+AZ 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+1 1 1 1
+H 0 0 0
+stand stand male 0
+0 0 large 'unknown'
+#29542
+comely woman~
+a {mc{Mo{Wme{Ml{my{x woman~
+A tall, {mc{Mo{Wme{Ml{my{x woman stands behind the counter waiting upon customers.
+~
+~
+tairen~
+AB 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 slap
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 QR
+stand stand female 5000
+0 0 medium 'flesh bones'
+#0
+
+
+
+#OBJECTS
+#29500
+table wooden chair~
+one of numerous {ywooden{x tables and chairs~
+Numerous {ywooden{x tables and chairs about the room.~
+wood~
+furniture 0 P
+20 10000 DEHKN 110 110
+1 0 0 100
+#29501
+bar stool~
+a long {ybar{x~
+A long {ybar{x separates the common room and the kitchen.~
+wood~
+furniture 0 P
+6 2000 DEH 100 100
+10 50 0 100
+#29502
+ale mug~
+a {ymug{x of ale~
+A {ymug{x of ale sits here.~
+clay~
+drink 0 AO
+5 5 'ale' 0 0
+10 1 20 100
+#29503
+lemonade glass~
+a glass of {Yl{x{We{x{Ym{x{Wo{x{Yn{x{Wa{x{Yd{x{We{x~
+A glass of {Yl{x{We{x{Ym{x{Wo{x{Yn{x{Wa{x{Yd{x{We{x sits here.~
+glass~
+drink 0 AO
+10 10 'lemonade' 0 0
+5 1 10 100
+#29504
+glass firebreather~
+a glass of {rfire{x{wbrea{x{rther{x~
+A glass of {rfire{x{wbrea{x{rther{x sits here.~
+glass~
+drink 0 AO
+4 4 'firebreather' 0 0
+25 1 30 100
+#29505
+table wooden~
+a wooden table~
+A {ywo{x{Yod{x{yen{x table sits in the middle of the room.~
+wood~
+furniture 0 P
+2 2000 EH 125 125
+1 0 0 100
+#29506
+chairs wooden chair~
+a wooden chair~
+A set of ten {Ywo{x{yod{x{Yen{x chairs stand around the {yt{x{Yabl{x{ye{x~
+wood~
+furniture 0 P
+10 8000 EH 110 110
+1 0 0 100
+#29507
+bread loaf~
+a loaf of {ybread{x~
+A loaf of {ybread{x sits here.~
+bread~
+food 0 AO
+10 5 0 0 0
+1 1 10 100
+#29508
+plate meal roast carrots potatoes~
+a meal on a plate~
+A plate of sliced {yroast{x beef, carrots, {Wpotatoes{x with some gravy over both the beef and potatoes.~
+meat~
+food 0 A
+10 10 0 0 0
+1 1 100 100
+#29509
+stew vegetable meat~
+a bowl of stew~
+A bowl filled with stew consisting of vegetables and meat sits here.~
+meat~
+food 0 A
+12 12 0 0 0
+1 1 15 100
+#29510
+bed~
+a twin-sized bed~
+A twin-sized bed covered with {Wwhite{x blankets with {Bblue{x flowers.~
+wood~
+furniture 0 P
+2 2000 EHK 110 110
+1 0 0 100
+#29511
+tattered patched cloak~
+a {rt{Ra{rtt{Re{rr{Re{rd{x and {gp{Ga{Dtch{Ge{gd{x cloak~
+A {rt{Ra{rtt{Re{rr{Re{rd{x and {gp{Ga{Dtch{Ge{gd{x cloak has been left here.~
+cloth~
+armor 0 AK
+15 15 15 15 0
+60 1 50 100
+#29512
+fish stew bowl~
+some {Df{cis{Dh{x stew~
+A bowl of delicious {Df{cis{Dh{x stew.~
+fish~
+food 0 A
+4 4 0 0 0
+1 1 15 100
+#29513
+shoalfish peas food baked plate~
+baked {csh{Doa{cl{Dfi{csh{x and {gp{Gea{gs{x~
+A plate of baked {csh{Doa{cl{Dfi{csh{x with fresh {gp{Gea{gs{x is here.~
+fish~
+food 0 0
+5 5 0 0 0
+1 1 25 100
+#29514
+mug mead~
+a mug of {ym{Yea{yd{x~
+A large mug of {ym{Yea{yd{x.~
+barley~
+drink 0 A
+10 10 'mead' 0 0
+20 1 25 100
+#29515
+drink smelling mug~
+a strong {Dsm{ce{Dll{ci{Dng{x drink~
+A strong {Dsm{ce{Dll{ci{Dng{x drink in a large mug.~
+cloth~
+drink 0 AO
+20 20 'local specialty' 1 0
+10 1 40 100
+E
+smell~
+This drink is a very strong smelling one, it's fairly easy to catch the
+scent of some type of fish in it.  Maybe you shouldn't drink it?  
+~
+#29516
+table chair~
+a low-backed {Ych{Wai{Yr{x~
+A long {Yo{Wa{Yk ta{Wb{Yle{x surrounded by matching, low-backed chairs.~
+cloth~
+furniture 0 0
+12 40000 EH 105 105
+0 0 0 100
+#29517
+table chair chairs~
+a low-back {rc{yh{Ya{yi{rr{x~
+A {rs{yu{Yn{Wg{Yw{yoo{rd{x table surrounded by matching low-back chairs.~
+cloth~
+furniture 0 0
+4 20000 EH 115 115
+0 0 0 100
+#29518
+bathtub tub~
+a {Wp{Co{Wrc{Ce{Wl{Cai{Wn{x bathtub~
+A large, {Wp{Co{Wrc{Ce{Wl{Cai{Wn{x bathtub with claw-shaped feet.~
+cloth~
+container 0 0
+1000 F 0 5000 100
+0 0 0 100
+#29519
+bed~
+a large bed~
+A large bed pilled with {re{Rmb{Yro{Wi{Yde{Rre{rd{x pillows is here.~
+cloth~
+furniture 0 0
+2 5000 EHK 175 175
+0 0 0 100
+#29520
+porcelain pitcher~
+a {Wp{Co{Wrc{Ce{Wl{Cai{Wn{x pitcher~
+A {Wp{Co{Wrc{Ce{Wl{Cai{Wn{x pitcher and basin rest atop a carved, wooden table.~
+porcelain~
+container a 0
+1 0 0 5 75
+0 1 0 100
+#29521
+gold wedding band diamonds~
+a wedding {yb{Ya{ynd{x~
+A gold wedding {yb{Ya{ynd{x studded with precious {Cd{Wia{Cm{Wo{Cnds{x.~
+cloth~
+armor HY AB
+25 25 25 15 0
+90 1 250 100
+A
+12 150
+#29522
+bed canopied~
+a {RC{ra{Rn{ro{Rp{rie{Rd{x bed~
+A large, canopied bed covered with an {Re{rmbr{Roid{rere{Rd{x comforter.~
+cloth~
+furniture 0 0
+2 5000 EHK 150 150
+0 0 0 100
+#29523
+none~
+a {yw{ra{yrdr{ro{ybe{x~
+A large wooden {yw{ra{yrdr{ro{ybe{x with decoratively carved double doors.~
+cloth~
+container 0 0
+50 AC 0 500 100
+0 0 0 100
+#29524
+bed~
+a {mb{Me{md{x~
+A medium-sized bed with a fluffy {mco{Mm{Wfor{Mt{mer{x.~
+cloth~
+furniture 0 0
+2 3000 EHK 110 110
+0 0 0 100
+#29525
+bed~
+a meduim-sized {ybed{x~
+A meduim-sized {ybed{x covered with a thick {Mc{Wo{Mmf{Wo{Mrt{We{Mr{x.~
+wood~
+furniture 0 0
+2 4000 EHK 135 135
+0 0 0 100
+#29526
+bed~
+a medium-sized {ybed{x~
+A medium-sized {ybed{x covered with a fluffy {bco{Bmf{Wo{Brt{ber{x.~
+cloth~
+furniture 0 0
+2 4000 EHK 110 110
+0 0 0 100
+#29527
+peach~
+a fuzzy, ripe {Yp{Rea{Ych{x~
+A fuzzy, ripe {Yp{Rea{Ych{x is here, tantalizing to the taste buds.~
+peach~
+food 0 AO
+2 1 0 0 0
+10 0 15 100
+#29528
+bucket peaches peach~
+a {yb{wu{Wck{we{yt{x of peaches~
+A {yb{wu{Wck{we{yt{x of peaches rests here.~
+peach~
+food 0 AO
+5 5 0 0 0
+25 0 30 100
+#29529
+pear~
+a lone {ypear{x~
+A lone {ypear{x rests here upon the table.~
+pear~
+food 0 AO
+1 1 0 0 0
+10 0 10 100
+#29530
+barrel pears~
+a barrel full of {ypears{x~
+A barrel full of {ypears{x is here.~
+pear~
+food 0 A
+7 7 0 0 0
+40 0 45 100
+#29531
+large green apple~
+a large {ggr{Gee{gn{x apple~
+A large {ggr{Gee{gn{x apple is resting here, ready to be eaten.~
+apple~
+food 0 AO
+1 1 0 0 0
+5 0 10 100
+#29532
+shiny red apple~
+a shiny {rr{Re{rd{x apple~
+A shiny {rr{Re{rd{x apple looks like it has just been polished.~
+apple~
+food 0 AO
+1 1 0 0 0
+5 0 10 100
+#29533
+delicious golden yellow apple~
+a delicious, {yg{Yo{Wld{Ye{yn{x apple~
+A delicious, {yg{Yo{Wld{Ye{yn{x apple has been set out here.~
+apple~
+food 0 AO
+1 1 0 0 0
+5 0 10 100
+#29534
+basket apples~
+a {yb{Ya{ysk{Ye{yt{x of apples~
+A {yb{Ya{ysk{Ye{yt{x of apples has been left here.~
+apples~
+food a AO
+10 10 0 0 0
+20 1 35 100
+#29535
+fresh ripe strawberry~
+a fresh, ripe {rst{Rra{Wwb{Rer{rry{x~
+A fresh, ripe {rst{Rra{Wwb{Rer{rry{x is ready to be eaten.~
+strawberry~
+food 0 AO
+1 1 0 0 0
+5 0 10 100
+#29536
+basket strawberries~
+a {yb{ra{Dsk{re{yt{x of {rst{Rraw{Wbe{Rrri{res{x~
+A small {yb{ra{Dsk{re{yt{x of fresh {rst{Rraw{Wbe{Rrri{res{x has been left here.~
+strawberries~
+food 0 AO
+5 5 0 0 0
+15 0 25 100
+#29537
+white egg~
+a white {Wegg{x~
+A plain white {Wegg{x rests carefully in its carton.~
+yolk~
+food 0 AO
+1 1 0 0 0
+10 0 3 100
+#29538
+brown egg~
+a {ybrown{x egg~
+A brownish-colored {yegg{x has been left here, in its carton.~
+yolk~
+food 0 AO
+1 1 0 0 0
+10 0 2 100
+#29539
+twin bed~
+a twin-sized bed with a thick {Yc{Wo{Ymf{Wo{Yrt{We{Yr{x~
+A twin-sized bed with a thick {Yc{Wo{Ymf{Wo{Yrt{We{Yr{x.~
+cloth~
+furniture 0 0
+1 3000 EHK 100 100
+0 0 0 100
+#29540
+yellowfin tuna~
+a {yy{Ye{Wll{Yo{ywf{Di{yn{x tuna~
+A {yy{Ye{Wll{Yo{ywf{Di{yn{x tuna rests atop the iced countertops.~
+fish~
+food 0 A
+25 23 0 0 0
+0 2 50 100
+#29541
+arrowtooth flounder~
+an arrowtooth {yfl{Doun{yd{De{yr{x~
+An arrowtooth {yfl{Doun{yd{De{yr{x rests atop the iced countertops.~
+cloth~
+food 0 A
+30 30 0 0 0
+0 4 60 100
+#29542
+table bench~
+a long {ybench{x~
+One of many {yt{Ya{ybl{Ye{ys{x, a long {ybench{x pulled up beside it.~
+wood~
+furniture 0 0
+16 900000 E 100 100
+0 0 0 100
+#29543
+onion soup~
+a bowl of {Won{Yio{Wn{x soup~
+A bowl of {Won{Yio{Wn{x soup.~
+cloth~
+food 0 A
+5 5 0 0 0
+1 1 25 100
+#29544
+hard roll~
+a hard roll~
+A small, hard roll with little black seeds.~
+cloth~
+food 0 A
+1 1 0 0 0
+1 1 5 100
+#29545
+lime~
+a small, oval {Gl{Yi{Gme{x~
+A small, oval {Gl{Yi{Gme{x has been left here.~
+cloth~
+food 0 A
+5 4 0 0 0
+0 1 15 100
+#29546
+basket limes~
+a {yb{wa{Wsk{we{yt{x of {Gl{Yi{Gmes{x~
+A small {yb{wa{Wsk{we{yt{x of {Gl{Yi{Gmes{x has been set here.~
+citrus~
+food 0 A
+10 10 0 0 0
+0 1 35 100
+#29547
+crate limes~
+a {ycr{ra{yte{x of {Gl{Yi{Gmes{x~
+A {ycr{ra{yte{x of {Gl{Yi{Gmes{x is here.~
+cloth~
+food 0 A
+15 14 0 0 0
+0 2 75 100
+#29548
+bolt cotton cloth~
+a bolt of {bc{Bo{Wtt{Bo{bn{x cloth~
+A bolt of sturdy {bc{Bo{Wtt{Bo{bn{x cloth.~
+cotton~
+trash 0 A
+0 0 0 0 0
+1 15 45 100
+#29549
+bolt wool cloth~
+a bolt of {rw{Roo{rl{x cloth~
+A bolt of soft {rw{Roo{rl{x cloth.~
+wool~
+trash 0 A
+0 0 0 0 0
+1 15 45 100
+#29550
+skein yarn~
+a skein of {Yy{Wa{Yrn{x~
+A skein of {Yy{Wa{Yrn{x.~
+cotton~
+trash 0 A
+0 0 0 0 0
+1 1 10 100
+#29551
+skein yarn~
+a skein of {my{Ma{mrn{x~
+A skein of {my{Ma{mrn{x.~
+cotton~
+trash 0 A
+0 0 0 0 0
+1 1 10 100
+#29552
+long scarf shiny satin~
+a long scarf of {rsh{Ri{rny {rs{Ra{Wt{Ri{rn{x~
+A long scarf of {rsh{Ri{rny {rs{Ra{Wt{Ri{rn{x has been folded here.~
+satin~
+armor 0 AC
+9 9 9 8 0
+35 1 75 100
+#29553
+silken scarf bright~
+a bright {bs{Bi{Wlk{Be{bn s{Bcar{bf{x~
+A bright {bs{Bi{Wlk{Be{bn s{Bcar{bf{x has been folded here.~
+silk~
+armor 0 AC
+9 10 8 8 0
+35 1 75 100
+#29554
+dress ruffles lace~
+a long {rdr{Re{rss{x with {rr{Ru{Wff{Rle{rs{x and {Wl{Ya{Wce{x~
+Hanging here is a long {rdr{Re{rss{x with many {rr{Ru{Wff{Rle{rs{x and {Wl{Ya{Wce{x.~
+lace ruffles~
+armor 0 AD
+10 10 10 10 0
+40 1 135 100
+#29555
+elegant dress embroidered flowers~
+an {ce{Cl{cega{Cn{ct{x dress embroidered with {gf{Glo{Yw{Ger{gs{x~
+Hanging here is an {ce{Cl{cega{Cn{ct{x dress embroidered with {gf{Glo{Yw{Ger{gs{x.~
+cloth~
+armor 0 AD
+10 10 10 10 0
+40 1 135 100
+#29556
+red bottle juniper berry scent~
+a {rr{Re{rd{x bottle of {rj{Wun{ri{Wpe{rr be{Dr{rry{x scent~
+A tiny glass, {rr{Re{rd{x bottle filled with scented liquid.~
+glass~
+trash 0 AO
+0 0 0 0 0
+10 1 60 100
+#29557
+green bottle sage~
+a {ggr{Dee{gn{x bottle of {gsa{Dg{ge{x scent~
+A tiny glass, {ggr{Dee{gn{x bottle filled with scented liquid.~
+glass~
+trash 0 AO
+0 0 0 0 0
+10 1 50 100
+#29558
+rose bar soap~
+a {rr{Ro{rse{x scented bar of soap~
+A {rr{Ro{rse{x scented bar of soap carved into the shape of a rose in full bloom.~
+soap~
+trash 0 AO
+0 0 0 0 0
+5 1 25 100
+#29559
+emerald studded earring~
+a sparkling {ge{Gme{Wr{Gal{gd{x studded earring~
+A sparkling {ge{Gme{Wr{Gal{gd{x studded earring has been left here.~
+emeralds~
+jewelry Y AU
+0 0 0 0 0
+40 1 150 100
+#29560
+gold earring ruby~
+a dangling {yg{Yo{yld{x earring with {rr{Ru{rby{x insets~
+A dangling {yg{Yo{yld{x earring with {rr{Ru{rby{x insets has been left here.~
+gold~
+armor 0 AU
+10 10 10 10 0
+40 1 125 100
+#29561
+silver butterfly pendant~
+a {Ds{wi{Wlv{we{Dr {Rb{Yut{Wter{Yfl{Ry{x pendant studded with many {Gco{Bl{Ror{Bf{Gul{x gems~
+An elegantly worked {Ds{wi{Wlv{we{Dr {Rb{Yut{Wter{Yfl{Ry{x pendant studded with many {Gco{Bl{Ror{Bf{Gul{x gems.~
+silver~
+treasure 0 AHO
+0 0 0 0 0
+40 1 150 100
+#29562
+sedan chair~
+a {rs{Re{Yd{Ra{rn{x chair~
+A {ywooden {rs{Re{Yd{Ra{rn{x chair with large, spoked wheels.~
+wood~
+furniture 0 0
+1 30000 E 120 120
+0 0 0 100
+#29563
+fan birds~
+a {cf{Ca{cn{x portraying two {Wbirds{x~
+An open {cf{Ca{cn{x portraying two {Wbirds{x with long, {mg{Mra{Wce{Mfu{ml{x feathers.~
+cloth~
+treasure 0 AO
+0 0 0 0 0
+0 1 45 100
+#29564
+cap pearls~
+a close-fitting {Bcap{x sewn with {Wpea{Wrls{x~
+A close-fitting {Bcap{x sewn with {Wpea{Wrls{x hangs on a hook.~
+wool~
+armor 0 AE
+12 12 12 9 0
+45 1 150 100
+#29565
+purple bottle lilac~
+a {mp{Mu{mrp{Ml{me{x bottle of {ml{Mi{Wl{Ma{mc{x scent~
+A tiny glass, {mp{Mu{mrp{Ml{me{x bottle filled with scented liquid.~
+glass~
+trash 0 AO
+0 0 0 0 0
+10 1 75 100
+#29566
+lavendar bar soap~
+a {ml{Da{mvend{Da{mr{x scented bar of soap~
+A small, round bar of soap giving off the scent of {ml{Da{mvend{Da{mr{x.~
+soap~
+trash 0 AO
+0 0 0 0 0
+5 1 25 100
+#29567
+peach bar soap~
+a {Rp{Yea{Rch{x scented bar of soap~
+A rectangular bar of soap giving off the scent of {Rp{Yea{Rch{Ye{Rs{x.~
+soap~
+trash 0 AO
+0 0 0 0 0
+5 1 25 100
+#29568
+perfumed kerchief~
+a {rp{Rer{Yf{Rum{red {Yk{We{Yrch{Wie{Yf{x~
+A neatly folded {rp{Rer{Yf{Rum{red {Yk{We{Yrch{Wie{Yf{x is here.~
+satin~
+trash 0 AO
+0 0 0 0 0
+10 1 25 100
+#29569
+mug dark~
+a mug of {Dd{ya{Drk {ya{Dl{ye{x~
+A mug of {Dd{ya{Drk {ya{Dl{ye{x.~
+liquid~
+drink 0 A
+5 5 'dark ale' 0 0
+10 1 35 100
+#29570
+glass red wine~
+a tall glass of {rr{Re{rd w{Wi{rne{x~
+A tall glass of {rr{Re{rd w{Wi{rne{x.~
+wine~
+drink 0 A
+5 5 'red wine' 0 0
+10 1 45 100
+#29571
+glass white wine~
+a wide glass of {Wwh{Yi{Wte w{Yi{Wne{x~
+A wide glass of {Wwh{Yi{Wte w{Yi{Wne{x.~
+wine~
+drink 0 A
+5 5 'white wine' 0 0
+10 1 40 100
+#29572
+snifter brandy~
+a snifter of {Ybr{Wa{Yndy{x~
+A snifter of {Ybr{Wa{Yndy{x.~
+brandy~
+drink 0 A
+3 3 'brandy' 0 0
+0 1 30 100
+#29573
+cup coffee~
+a cup of hot {yc{Do{yff{De{ye{x~
+A cup of hot {yc{Do{yff{De{ye{x.~
+beans~
+drink 0 A
+5 5 'coffee' 0 0
+10 1 25 100
+#29574
+pair candles~
+a pair of {rc{Ra{rndl{Re{rs{x~
+A pair of {rc{Ra{rndl{Re{rs{x hanging by their wicks.~
+wax~
+light ASU AQ
+0 0 10 0 0
+10 1 25 100
+#29575
+cinnamon candle~
+a {rc{yi{rnn{ya{rm{yo{rn{x scented {rc{Ra{Wnd{Rl{re{x~
+A fat, round {rc{Ra{Wnd{Rl{re{x giving off a scent of {rc{yi{rnn{ya{rm{yo{rn{x.~
+wax~
+light ASU AO
+0 0 20 0 0
+10 1 35 100
+#29576
+candle vanilla~
+a {yv{Wa{yn{wi{yl{Wl{ya{x scented {Wc{Ya{Wndle{x~
+A fat, round {Wc{Ya{Wndle{x giving off a scent of {yv{Wa{yn{wi{yl{Wl{ya{x.~
+wax~
+light ASU AQ
+0 0 20 0 0
+10 1 30 100
+#29577
+none~
+none~
+none~
+cloth~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#29696
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29656
+D2
+~
+~
+0 0
+0 0 29697
+S
+#29697
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29696
+D2
+~
+~
+0 0
+0 0 29698
+S
+#29698
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29697
+D1
+~
+~
+3 3
+1 0 29699
+D2
+~
+~
+0 0
+0 0 29700
+S
+#29699
+Baker shop display room~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29701
+D3
+~
+~
+3 3
+1 0 29698
+S
+#29700
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29698
+D2
+~
+~
+0 0
+0 0 29645
+S
+#29701
+baker shop cooking room~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29699
+D5
+~
+~
+0 0
+0 0 29702
+S
+#29702
+Pantry....?~
+~
+0
+0 0
+D4
+~
+~
+0 0
+0 0 29701
+S
+#29703
+street to tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29676
+D2
+~
+~
+0 0
+0 0 29704
+S
+#29704
+street to tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29703
+D2
+~
+~
+0 0
+0 0 29706
+S
+#29705
+Street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29706
+D3
+~
+~
+0 0
+0 0 29708
+S
+#29706
+street to tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29704
+D2
+~
+~
+0 0
+0 0 29707
+D3
+~
+~
+0 0
+0 0 29705
+S
+#29707
+street to tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29706
+D2
+~
+~
+0 0
+0 0 29709
+S
+#29708
+Street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29705
+D3
+~
+~
+3 3
+1 0 29717
+S
+#29709
+street to tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29707
+D1
+~
+~
+0 0
+0 0 29570
+S
+#29710
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29711
+D3
+~
+~
+0 0
+0 0 29677
+S
+#29711
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29712
+D3
+~
+~
+0 0
+0 0 29710
+S
+#29712
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29713
+D3
+~
+~
+0 0
+0 0 29711
+S
+#29713
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29714
+D3
+~
+~
+0 0
+0 0 29712
+S
+#29714
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29715
+D3
+~
+~
+0 0
+0 0 29713
+S
+#29715
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29716
+D3
+~
+~
+0 0
+0 0 29714
+S
+#29716
+Main Street Through Tear~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29715
+S
+#29717
+Common Room of the Iron Plow~
+The Iron Plow seems to be the place all the farmers that come to the
+Tavar to sell their wares stay while they are away from their farms.  Many
+tables with benches are spread throughout the room, and serving girls move
+about, tending to their customers needs.  Standing near the fireplace is a
+young man in a straw hat, playing a fiddle to entertain the farmers.  
+~
+0
+D 0
+D0
+~
+~
+1 1
+1 0 29718
+D1
+~
+~
+3 3
+1 0 29708
+D3
+~
+~
+0 0
+0 0 29720
+S
+#29718
+The Kitchens of the Iron Plow~
+The strong odor of onions permeates the air in this room, along with the
+sound of bubbling liquids.  A large cauldron is set on a spit in the
+fireplace, the evenings meal being prepared.  A long counter of a thick,
+durable wood stretches across half of the kitchen, atop it lay different
+vegetables that are being cut up for the meal.  
+~
+0
+D 0
+D2
+~
+~
+1 1
+1 0 29717
+D5
+~
+~
+3 3
+1 0 29719
+S
+#29719
+The Larder~
+A narrow-stepped ladder leads down into this damp, dank room.  Shelves
+line the walls of the larder, each filled with bottles and jars or a variety
+of foods.  Sacks of flour and oats have been piled atop the dirt floor, a
+trail of tiny white pawprints in the dirt leads across the dirt floor.  
+~
+0
+AD 0
+D4
+~
+'{yw{woo{yd{we{yn {Dtr{ra{Dp{x door'~
+3 3
+1 0 29718
+S
+#29720
+Staircase up~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29721
+D1
+~
+~
+0 0
+0 0 29717
+D4
+~
+~
+0 0
+0 0 29722
+S
+#29721
+small Library~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 29720
+S
+#29722
+Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29724
+D1
+~
+~
+0 0
+0 0 29723
+D5
+~
+~
+0 0
+0 0 29720
+S
+#29723
+hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29725
+D3
+~
+~
+0 0
+0 0 29722
+S
+#29724
+bedroom~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29722
+S
+#29725
+bedroom~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29723
+S
+#29726
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29727
+D3
+~
+~
+0 0
+0 0 29692
+S
+#29727
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29729
+D2
+~
+~
+3 3
+1 0 29728
+D3
+~
+~
+0 0
+0 0 29726
+S
+#29728
+Weapons shop~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29727
+S
+#29729
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29730
+D3
+~
+~
+0 0
+0 0 29727
+S
+#29730
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29731
+D3
+~
+~
+0 0
+0 0 29729
+S
+#29731
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29732
+D3
+~
+~
+0 0
+0 0 29730
+S
+#29732
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29733
+D2
+~
+~
+0 0
+0 0 29806
+D3
+~
+~
+0 0
+0 0 29731
+S
+#29733
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29734
+D3
+~
+~
+0 0
+0 0 29732
+S
+#29734
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29735
+D3
+~
+~
+0 0
+0 0 29733
+S
+#29735
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29736
+D3
+~
+~
+0 0
+0 0 29734
+S
+#29736
+street~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29735
+S
+#29737
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29695
+D3
+~
+~
+3 3
+1 0 29555
+S
+#29738
+Gleeman~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29555
+S
+#29739
+Private Dining Room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29557
+S
+#29740
+Whatever works~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29557
+S
+#29741
+hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29742
+D1
+~
+~
+0 0
+0 0 29557
+D2
+~
+~
+1 1
+1 0 29743
+S
+#29742
+library~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29741
+S
+#29743
+Game Room~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29741
+S
+#29744
+~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29561
+D2
+~
+~
+3 3
+1 0 29563
+D3
+~
+~
+0 0
+0 0 29558
+S
+#29745
+Hallway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29560
+D1
+~
+~
+0 0
+0 0 29558
+D2
+~
+~
+3 3
+1 0 29746
+S
+#29746
+bedroom~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29745
+S
+#29747
+fancy bedroom~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29752
+D2
+~
+~
+3 3
+1 0 29562
+S
+#29748
+~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29562
+S
+#29749
+fancy room~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29562
+D1
+~
+~
+0 0
+0 0 29753
+S
+#29750
+hidden cramped staircase~
+~
+0
+0 0
+D0
+~
+~
+4099 4099
+1 0 29565
+D4
+~
+~
+4099 4099
+1 0 29751
+S
+#29751
+dark room~
+Please put either a fade(called Lurks in tear) or a draghkar or something
+nasty in here 
+~
+0
+0 0
+D5
+~
+~
+4099 4099
+1 0 29750
+S
+#29752
+balcony~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29747
+S
+#29753
+balcony~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29749
+S
+#29754
+top of building~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29569
+D2
+~
+~
+0 0
+0 0 29755
+D3
+~
+~
+0 0
+0 0 29567
+S
+#29755
+top of building~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29754
+S
+#29756
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29664
+D3
+~
+~
+0 0
+0 0 29757
+S
+#29757
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29756
+D3
+~
+~
+0 0
+0 0 29758
+S
+#29758
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29757
+D3
+~
+~
+0 0
+0 0 29759
+S
+#29759
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29758
+D3
+~
+~
+0 0
+0 0 29760
+S
+#29760
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29759
+D3
+~
+~
+0 0
+0 0 29761
+S
+#29761
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29760
+D3
+~
+~
+0 0
+0 0 29762
+S
+#29762
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29761
+D3
+~
+~
+0 0
+0 0 29662
+S
+#29763
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29764
+D2
+~
+~
+0 0
+0 0 29686
+S
+#29764
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29765
+D2
+~
+~
+0 0
+0 0 29763
+S
+#29765
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29766
+D2
+~
+~
+0 0
+0 0 29764
+S
+#29766
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29767
+D2
+~
+~
+0 0
+0 0 29765
+S
+#29767
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29768
+D2
+~
+~
+0 0
+0 0 29766
+S
+#29768
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29769
+D1
+~
+~
+0 0
+0 0 29793
+D2
+~
+~
+0 0
+0 0 29767
+S
+#29769
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29770
+D1
+~
+~
+3 3
+1 0 29773
+D2
+~
+~
+0 0
+0 0 29768
+S
+#29770
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29771
+D2
+~
+~
+0 0
+0 0 29769
+S
+#29771
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29772
+D2
+~
+~
+0 0
+0 0 29770
+S
+#29772
+street~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29771
+S
+#29773
+Ajala's Smithy~
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29769
+S
+#29774
+The Weaver's Loom~
+This small shop is well lit by many windows in its walls.  Two large
+{gw{Gea{gver{x's {Yl{Woo{Yms{x are set up in the back of the shop, young women sit before
+them, weaving new {ry{Ra{rrn{x or {Wcloth{x.  Long counters line the room, each covered
+with rolls of material and balls of yarn.  A waist-high table is in the
+front of the room, where the {mw{Mo{Wm{Ma{mn{x who runs this shop stands, ready to
+assist those who require it.  
+~
+0
+CD 0
+D3
+~
+~
+3 3
+1 0 29685
+S
+#29775
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29776
+D3
+~
+~
+0 0
+0 0 29686
+S
+#29776
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29777
+D3
+~
+~
+0 0
+0 0 29775
+S
+#29777
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29778
+D3
+~
+~
+0 0
+0 0 29776
+S
+#29778
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29779
+D3
+~
+~
+0 0
+0 0 29777
+S
+#29779
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29780
+D3
+~
+~
+0 0
+0 0 29778
+S
+#29780
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29781
+D3
+~
+~
+0 0
+0 0 29779
+S
+#29781
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29782
+D3
+~
+~
+0 0
+0 0 29780
+S
+#29782
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29783
+D1
+~
+~
+0 0
+0 0 29794
+D2
+~
+~
+0 0
+0 0 29781
+S
+#29783
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29784
+D2
+~
+~
+0 0
+0 0 29782
+S
+#29784
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29785
+D2
+~
+~
+0 0
+0 0 29783
+S
+#29785
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29786
+D2
+~
+~
+0 0
+0 0 29784
+S
+#29786
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29787
+D2
+~
+~
+0 0
+0 0 29785
+S
+#29787
+street~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29786
+D3
+~
+~
+0 0
+0 0 29788
+S
+#29788
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29787
+D3
+~
+~
+0 0
+0 0 29789
+S
+#29789
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29801
+D1
+~
+~
+0 0
+0 0 29788
+D3
+~
+~
+0 0
+0 0 29790
+S
+#29790
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29789
+D3
+~
+~
+0 0
+0 0 29791
+S
+#29791
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29790
+D3
+~
+~
+0 0
+0 0 29792
+S
+#29792
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29791
+D3
+~
+~
+0 0
+0 0 29793
+S
+#29793
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29792
+D3
+~
+~
+0 0
+0 0 29768
+S
+#29794
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29795
+D3
+~
+~
+0 0
+0 0 29782
+S
+#29795
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29796
+D3
+~
+~
+0 0
+0 0 29794
+S
+#29796
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29797
+D3
+~
+~
+0 0
+0 0 29795
+S
+#29797
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29798
+D3
+~
+~
+0 0
+0 0 29796
+S
+#29798
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29799
+D2
+~
+~
+0 0
+0 0 29797
+S
+#29799
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29800
+D2
+~
+~
+0 0
+0 0 29798
+S
+#29800
+outside high lord of tear's palace~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29799
+S
+#29801
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29802
+D2
+~
+~
+0 0
+0 0 29789
+S
+#29802
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29803
+D2
+~
+~
+0 0
+0 0 29801
+S
+#29803
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29804
+D3
+~
+~
+0 0
+0 0 29802
+S
+#29804
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29805
+D3
+~
+~
+0 0
+0 0 29803
+S
+#29805
+outside High Lord of Tear's Palace~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29804
+S
+#29806
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29732
+D2
+~
+~
+0 0
+0 0 29807
+S
+#29807
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29806
+D2
+~
+~
+0 0
+0 0 29808
+S
+#29808
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29807
+D1
+~
+~
+0 0
+0 0 29809
+S
+#29809
+outside high lord of tears palace~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29808
+S
+#29810
+A Fish Shop~
+When one enters this shop, the air suddenly seems to swirl as the cold
+frostiness of the room moves about.  The counters here are covered with ice,
+fresh fish lined up atop it.  Mounted on the walls are a couple of huge
+fish, each one stuffed and turning out from the wall, one glass eye staring
+at those who enter the shop.  
+~
+0
+D 0
+D3
+~
+~
+3 3
+1 0 29695
+S
+#29811
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29692
+D2
+~
+~
+0 0
+0 0 29812
+S
+#29812
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29811
+D2
+~
+~
+0 0
+0 0 29813
+D3
+~
+~
+0 0
+0 0 29817
+S
+#29813
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29812
+D2
+~
+~
+0 0
+0 0 29814
+S
+#29814
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29813
+D2
+~
+~
+0 0
+0 0 29815
+S
+#29815
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29814
+D2
+~
+~
+0 0
+0 0 29816
+S
+#29816
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29815
+D2
+~
+~
+0 0
+0 0 29693
+S
+#29817
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29812
+D3
+~
+~
+0 0
+0 0 29818
+S
+#29818
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29819
+D1
+~
+~
+0 0
+0 0 29817
+S
+#29819
+outside high lord palace~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29818
+S
+#29820
+gateway to the Chalme~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29695
+D2
+~
+~
+0 0
+0 0 29821
+S
+#29821
+Inside the gates to the Chalme~
+this is the warehouse district
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29820
+D2
+~
+~
+0 0
+0 0 29822
+S
+#29822
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29821
+D2
+~
+~
+0 0
+0 0 29823
+S
+#29823
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29822
+D1
+~
+~
+0 0
+0 0 29840
+D2
+~
+~
+0 0
+0 0 29824
+D3
+~
+~
+0 0
+0 0 29841
+S
+#29824
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29823
+D2
+~
+~
+0 0
+0 0 29825
+S
+#29825
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29824
+D2
+~
+~
+0 0
+0 0 29826
+S
+#29826
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29825
+D1
+~
+~
+0 0
+0 0 29827
+D2
+~
+~
+0 0
+0 0 29901
+D3
+~
+~
+0 0
+0 0 29854
+S
+#29827
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29828
+D3
+~
+~
+0 0
+0 0 29826
+S
+#29828
+street~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29869
+D1
+~
+~
+0 0
+0 0 29829
+D3
+~
+~
+0 0
+0 0 29827
+S
+#29829
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29830
+D3
+~
+~
+0 0
+0 0 29828
+S
+#29830
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29831
+D2
+~
+~
+3 3
+1 0 29873
+D3
+~
+~
+0 0
+0 0 29829
+S
+#29831
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29832
+D3
+~
+~
+0 0
+0 0 29830
+S
+#29832
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29833
+D2
+~
+~
+0 0
+0 0 29883
+D3
+~
+~
+0 0
+0 0 29831
+S
+#29833
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29834
+D2
+~
+~
+0 0
+0 0 29832
+S
+#29834
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29835
+D2
+~
+~
+0 0
+0 0 29833
+D3
+~
+~
+3 3
+1 0 29879
+S
+#29835
+street~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29834
+D3
+~
+~
+0 0
+0 0 29836
+S
+#29836
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29835
+D3
+~
+~
+0 0
+0 0 29837
+S
+#29837
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29836
+D3
+~
+~
+0 0
+0 0 29838
+S
+#29838
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29837
+D3
+~
+~
+0 0
+0 0 29839
+S
+#29839
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29838
+D3
+~
+~
+0 0
+0 0 29840
+S
+#29840
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29839
+D3
+~
+~
+0 0
+0 0 29823
+S
+#29841
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29823
+D3
+~
+~
+0 0
+0 0 29842
+S
+#29842
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29841
+D2
+~
+~
+3 3
+1 0 29855
+D3
+~
+~
+0 0
+0 0 29843
+S
+#29843
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29842
+D3
+~
+~
+0 0
+0 0 29844
+S
+#29844
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29843
+D3
+~
+~
+0 0
+0 0 29845
+S
+#29845
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29844
+D3
+~
+~
+0 0
+0 0 29846
+S
+#29846
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29845
+D2
+~
+~
+0 0
+0 0 29847
+D3
+~
+~
+0 0
+0 0 29939
+S
+#29847
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29846
+D1
+~
+~
+3 3
+1 0 29859
+D2
+~
+~
+0 0
+0 0 29848
+S
+#29848
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29847
+D2
+~
+~
+0 0
+0 0 29849
+S
+#29849
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29848
+D1
+~
+~
+0 0
+0 0 29850
+D2
+~
+~
+0 0
+0 0 29899
+D3
+~
+~
+0 0
+0 0 29925
+S
+#29850
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29851
+D3
+~
+~
+0 0
+0 0 29849
+S
+#29851
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29852
+D2
+~
+~
+3 3
+1 0 29863
+D3
+~
+~
+0 0
+0 0 29850
+S
+#29852
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29853
+D3
+~
+~
+0 0
+0 0 29851
+S
+#29853
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29854
+D3
+~
+~
+0 0
+0 0 29852
+S
+#29854
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29826
+D3
+~
+~
+0 0
+0 0 29853
+S
+#29855
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29842
+D1
+~
+~
+0 0
+0 0 29856
+D2
+~
+~
+0 0
+0 0 29857
+S
+#29856
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29858
+D3
+~
+~
+0 0
+0 0 29855
+S
+#29857
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29855
+D1
+~
+~
+0 0
+0 0 29858
+S
+#29858
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29856
+D3
+~
+~
+0 0
+0 0 29857
+S
+#29859
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29860
+D2
+~
+~
+0 0
+0 0 29861
+D3
+~
+~
+3 3
+1 0 29847
+S
+#29860
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29862
+D3
+~
+~
+0 0
+0 0 29859
+S
+#29861
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29859
+D1
+~
+~
+0 0
+0 0 29862
+S
+#29862
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29860
+D3
+~
+~
+0 0
+0 0 29861
+S
+#29863
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29851
+D1
+~
+~
+0 0
+0 0 29864
+D2
+~
+~
+0 0
+0 0 29865
+D3
+~
+~
+0 0
+0 0 29866
+S
+#29864
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29867
+D3
+~
+~
+0 0
+0 0 29863
+S
+#29865
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29863
+D1
+~
+~
+0 0
+0 0 29867
+D3
+~
+~
+0 0
+0 0 29868
+S
+#29866
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29863
+D2
+~
+~
+0 0
+0 0 29868
+S
+#29867
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29864
+D3
+~
+~
+0 0
+0 0 29865
+S
+#29868
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29866
+D1
+~
+~
+0 0
+0 0 29865
+S
+#29869
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29870
+D2
+~
+~
+3 3
+1 0 29828
+D3
+~
+~
+0 0
+0 0 29871
+S
+#29870
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29869
+D3
+~
+~
+0 0
+0 0 29872
+S
+#29871
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29872
+D1
+~
+~
+0 0
+0 0 29869
+S
+#29872
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29870
+D2
+~
+~
+0 0
+0 0 29871
+S
+#29873
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29830
+D1
+~
+~
+0 0
+0 0 29875
+D3
+~
+~
+0 0
+0 0 29874
+S
+#29874
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29873
+D2
+~
+~
+0 0
+0 0 29876
+S
+#29875
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29878
+D3
+~
+~
+0 0
+0 0 29873
+S
+#29876
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29874
+D1
+~
+~
+0 0
+0 0 29877
+S
+#29877
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29878
+D3
+~
+~
+0 0
+0 0 29876
+S
+#29878
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29875
+D3
+~
+~
+0 0
+0 0 29877
+S
+#29879
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29834
+D2
+~
+~
+0 0
+0 0 29881
+D3
+~
+~
+0 0
+0 0 29880
+S
+#29880
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29879
+D2
+~
+~
+0 0
+0 0 29882
+S
+#29881
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29879
+D3
+~
+~
+0 0
+0 0 29882
+S
+#29882
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29880
+D1
+~
+~
+0 0
+0 0 29881
+S
+#29883
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29832
+D2
+~
+~
+0 0
+0 0 29884
+S
+#29884
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29883
+D2
+~
+~
+0 0
+0 0 29885
+S
+#29885
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29884
+D3
+~
+~
+0 0
+0 0 29886
+S
+#29886
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29885
+D3
+~
+~
+0 0
+0 0 29887
+S
+#29887
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29886
+D3
+~
+~
+0 0
+0 0 29888
+S
+#29888
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29887
+D3
+~
+~
+0 0
+0 0 29889
+S
+#29889
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29888
+D3
+~
+~
+0 0
+0 0 29890
+S
+#29890
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29889
+D3
+~
+~
+0 0
+0 0 29891
+S
+#29891
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29900
+D1
+~
+~
+0 0
+0 0 29890
+D2
+~
+~
+0 0
+0 0 29910
+D3
+~
+~
+0 0
+0 0 29892
+S
+#29892
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29891
+D3
+~
+~
+0 0
+0 0 29893
+S
+#29893
+street~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29906
+D1
+~
+~
+0 0
+0 0 29892
+D3
+~
+~
+0 0
+0 0 29894
+S
+#29894
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29893
+D3
+~
+~
+0 0
+0 0 29895
+S
+#29895
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29894
+D3
+~
+~
+0 0
+0 0 29896
+S
+#29896
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29895
+D3
+~
+~
+0 0
+0 0 29897
+S
+#29897
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29898
+D1
+~
+~
+0 0
+0 0 29896
+D3
+~
+~
+0 0
+0 0 29912
+S
+#29898
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29899
+D2
+~
+~
+0 0
+0 0 29897
+S
+#29899
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29849
+D2
+~
+~
+0 0
+0 0 29898
+S
+#29900
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29901
+D2
+~
+~
+0 0
+0 0 29891
+S
+#29901
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29826
+D1
+~
+~
+3 3
+1 0 29902
+D2
+~
+~
+0 0
+0 0 29900
+S
+#29902
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29903
+D2
+~
+~
+0 0
+0 0 29905
+D3
+~
+~
+3 3
+1 0 29901
+S
+#29903
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29904
+D3
+~
+~
+0 0
+0 0 29902
+S
+#29904
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29903
+D3
+~
+~
+0 0
+0 0 29905
+S
+#29905
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29902
+D1
+~
+~
+0 0
+0 0 29904
+S
+#29906
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29907
+D1
+~
+~
+0 0
+0 0 29909
+D2
+~
+~
+3 3
+1 0 29893
+S
+#29907
+warehouse~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29908
+D2
+~
+~
+0 0
+0 0 29906
+S
+#29908
+warehouse~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29909
+D3
+~
+~
+0 0
+0 0 29907
+S
+#29909
+warehouse~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29908
+D3
+~
+~
+0 0
+0 0 29906
+S
+#29910
+road to maul~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29891
+D2
+~
+~
+0 0
+0 0 29911
+S
+#29911
+road to maul~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29910
+D2
+~
+~
+0 0
+0 0 29951
+S
+#29912
+street~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29938
+D1
+~
+~
+0 0
+0 0 29897
+D3
+~
+~
+0 0
+0 0 29913
+S
+#29913
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29912
+D3
+~
+~
+0 0
+0 0 29914
+S
+#29914
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29913
+D3
+~
+~
+0 0
+0 0 29915
+S
+#29915
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29914
+D3
+~
+~
+0 0
+0 0 29916
+S
+#29916
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29915
+D3
+~
+~
+0 0
+0 0 29917
+S
+#29917
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29918
+D1
+~
+~
+0 0
+0 0 29916
+S
+#29918
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29919
+D2
+~
+~
+0 0
+0 0 29917
+S
+#29919
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29920
+D2
+~
+~
+0 0
+0 0 29918
+S
+#29920
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29946
+D1
+~
+~
+0 0
+0 0 29921
+D2
+~
+~
+0 0
+0 0 29919
+S
+#29921
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29922
+D3
+~
+~
+0 0
+0 0 29920
+S
+#29922
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29923
+D2
+~
+~
+3 3
+1 0 29934
+D3
+~
+~
+0 0
+0 0 29921
+S
+#29923
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29926
+D1
+~
+~
+0 0
+0 0 29924
+D3
+~
+~
+0 0
+0 0 29922
+S
+#29924
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29925
+D3
+~
+~
+0 0
+0 0 29923
+S
+#29925
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29849
+D3
+~
+~
+0 0
+0 0 29924
+S
+#29926
+Merchant's Rest Inn~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29928
+D1
+~
+~
+0 0
+0 0 29927
+D2
+~
+~
+0 0
+0 0 29923
+S
+#29927
+whatever~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29926
+S
+#29928
+whatever~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29929
+D2
+~
+~
+0 0
+0 0 29926
+S
+#29929
+whatever~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29928
+D4
+~
+~
+0 0
+0 0 29930
+S
+#29930
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29932
+D3
+~
+~
+0 0
+0 0 29931
+D5
+~
+~
+0 0
+0 0 29929
+S
+#29931
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29930
+D2
+~
+~
+0 0
+0 0 29933
+S
+#29932
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29930
+S
+#29933
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29931
+S
+#29934
+home~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29922
+D2
+~
+~
+0 0
+0 0 29935
+D3
+~
+~
+0 0
+0 0 29936
+S
+#29935
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29934
+S
+#29936
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29934
+D2
+~
+~
+0 0
+0 0 29937
+S
+#29937
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29936
+S
+#29938
+Butcher's shop~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 29912
+S
+#29939
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29846
+D3
+~
+~
+0 0
+0 0 29940
+S
+#29940
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29939
+D3
+~
+~
+0 0
+0 0 29941
+S
+#29941
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29940
+D3
+~
+~
+0 0
+0 0 29942
+S
+#29942
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29941
+D2
+~
+~
+0 0
+0 0 29947
+D3
+~
+~
+0 0
+0 0 29943
+S
+#29943
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29942
+D3
+~
+~
+0 0
+0 0 29944
+S
+#29944
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29943
+D2
+~
+~
+0 0
+0 0 29945
+S
+#29945
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29944
+D2
+~
+~
+0 0
+0 0 29946
+S
+#29946
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29945
+D2
+~
+~
+0 0
+0 0 29920
+S
+#29947
+Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29942
+D2
+~
+~
+0 0
+0 0 29949
+D3
+~
+~
+0 0
+0 0 29948
+S
+#29948
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29947
+S
+#29949
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29947
+D3
+~
+~
+0 0
+0 0 29950
+S
+#29950
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29949
+S
+#29951
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29911
+D1
+~
+~
+0 0
+0 0 29957
+D2
+~
+~
+0 0
+0 0 29952
+S
+#29952
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29951
+D2
+~
+~
+0 0
+0 0 29953
+S
+#29953
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29952
+D2
+~
+~
+0 0
+0 0 29954
+S
+#29954
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29953
+D2
+~
+~
+0 0
+0 0 29955
+S
+#29955
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29954
+D2
+~
+~
+0 0
+0 0 29956
+S
+#29956
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29955
+S
+#29957
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29958
+D3
+~
+~
+0 0
+0 0 29951
+S
+#29958
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29959
+D3
+~
+~
+0 0
+0 0 29957
+S
+#29959
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29960
+D3
+~
+~
+0 0
+0 0 29958
+S
+#29960
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29961
+D3
+~
+~
+0 0
+0 0 29959
+S
+#29961
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29962
+D3
+~
+~
+0 0
+0 0 29960
+S
+#29962
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29963
+D2
+~
+~
+0 0
+0 0 29968
+D3
+~
+~
+0 0
+0 0 29961
+S
+#29963
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29964
+D3
+~
+~
+0 0
+0 0 29962
+S
+#29964
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29965
+D2
+~
+~
+0 0
+0 0 29963
+S
+#29965
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29966
+D3
+~
+~
+0 0
+0 0 29964
+S
+#29966
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29967
+D2
+~
+~
+0 0
+0 0 29965
+S
+#29967
+street~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29966
+S
+#29968
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29962
+D2
+~
+~
+0 0
+0 0 29969
+S
+#29969
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29968
+D2
+~
+~
+0 0
+0 0 29970
+S
+#29970
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29969
+D2
+~
+~
+0 0
+0 0 29971
+S
+#29971
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29970
+D2
+~
+~
+0 0
+0 0 29972
+S
+#29972
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29971
+D2
+~
+~
+0 0
+0 0 29973
+S
+#29973
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29972
+D2
+~
+~
+0 0
+0 0 29974
+S
+#29974
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29973
+D2
+~
+~
+0 0
+0 0 29975
+S
+#29975
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29974
+D2
+~
+~
+0 0
+0 0 29976
+S
+#29976
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29975
+D2
+~
+~
+0 0
+0 0 29977
+S
+#29977
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29976
+S
+#29500
+Southern Gates Into Tear~
+~
+0
+C 1
+S
+#29501
+The Common Room of the {yGo{x{Yld{x{yen{x Cup~
+The busy common room is filled with tables and chairs as well as patrons.
+A long bar divides the common room from the door leading back into the
+kitchen, behind the bar is the large innkeeper who passes out drinks and
+keys alike.  A staircase leads upstairs while another door leads to a
+private dining room.  
+~
+0
+C 0
+D0
+~
+~
+3 3
+1 0 29655
+D2
+~
+~
+0 0
+0 0 29502
+D3
+~
+~
+0 0
+0 0 29503
+D4
+~
+~
+0 0
+0 0 29504
+S
+#29502
+A Private Dining Room~
+Decorated simply this private dining room consists of a large wooden
+table and chairs, a fireplace and a thick cord that extends from the
+ceiling, whenever pulled a bell is rung in the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29501
+S
+#29503
+The Kitchen~
+The large kitchen is always busy, meals are prepared at all times of the
+day and the innkeeper's wife keeps all the kitchen help busy as she
+supervises as well as helps cook.  The backdoor is always left open so that
+a breeze airs out the kitchen and helps keep it a bit cooler with the ovens
+going in an already hot city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29501
+S
+#29504
+Staircase~
+The staircase widens here, letting off to the second floor of the Inn
+before continuing to wind up to the third floor and back down to the first. 
+Small lights have been set up on both sides of the walls, and a dark red
+carpet lines the floor between the rooms towards the north and south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29505
+D2
+~
+~
+0 0
+0 0 29509
+D5
+~
+~
+0 0
+0 0 29501
+S
+#29505
+Hallway~
+The hallways moves north away from the stairs, the carpet beneath your
+feet a dark red.  Small lights have been set in brackets along the walls,
+lighting the way for the weary traveler.  Closed doors to the east and west
+lead to some of the rooms of the Inn.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29508
+D2
+~
+~
+0 0
+0 0 29504
+D3
+~
+~
+3 3
+1 0 29507
+S
+#29506
+~
+~
+0
+C 0
+S
+#29507
+A Room~
+A simple room is decorated in {Wwhite{x and {Bblue{x.  The blinds that cover the
+window are {Wwhite{x with {Bblue{x trim.  The {ywooden{x floor remains uncarpeted but
+there is a throw rug in {Bblue{x on either side of the bed that is draped in
+blankets of {Wwhite{x with {Bblue{x flowers.  A small dresser to one side has a
+simple mirror and water basin and jug on top of it.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29505
+S
+#29508
+A Room~
+A simple room is decorated in {Wwhite{x and {Bblue{x.  The blinds that cover the
+window are {Wwhite{x with {Bblue{x trim.  The {ywooden{x floor remains uncarpeted but
+there is a throw rug in {Bblue{x on either side of the bed that is draped in
+blankets of {Wwhite{x with {Bblue{x flowers.  A small dresser to one side has a
+simple mirror and water basin and jug on top of it.  
+~
+0
+J 0
+D3
+~
+~
+3 3
+1 0 29505
+S
+#29509
+Hallway~
+The hallway moves south away from the stairs, the carpet beneath your
+feet a dark red.  Small lights have been set in brackets along the walls,
+lighting the way for the weary traveler.  Closed doors to the east and west
+lead to some of the rooms of the Inn.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29504
+D1
+~
+~
+3 3
+1 0 29510
+D3
+~
+~
+3 3
+1 0 29511
+S
+#29510
+A Room~
+A simple room is decorated in {Wwhite{x and {Bblue{x.  The blinds that cover the
+window are {Wwhite{x with {Bblue{x trim.  The {ywooden{x floor remains uncarpeted but
+there is a throw rug in {Bblue{x on either side of the bed that is draped in
+blankets of {Wwhite{x with {Bblue{x flowers.  A small dresser to one side has a
+simple mirror and water basin and jug on top of it.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29509
+S
+#29511
+A Room~
+A simple room is decorated in {Wwhite{x and {Bblue{x.  The blinds that cover the
+window are {Wwhite{x with {Bblue{x trim.  The {ywooden{x floor remains uncarpeted but
+there is a throw rug in {Bblue{x on either side of the bed that is draped in
+blankets of {Wwhite{x with {Bblue{x flowers.  A small dresser to one side has a
+simple mirror and water basin and jug on top of it.  
+~
+0
+J 0
+D1
+~
+~
+3 3
+1 0 29509
+S
+#29512
+Common Room of the {cS{Cta{Wr I{Cn{cn{x~
+The door opens to a large, open room, filled with tables and chairs.  A
+large {yb{ra{yr{x rests against the north wall, an open window just behind it.  Two
+large stone {rf{Ri{Yr{Re{Dp{wl{Wac{we{Ds{x are set in opposite walls, giving off ample heat to
+fill the room.  Colorful {gt{Gap{Ye{Wst{Yr{Gie{gs{x cover the walls between large windows. 
+The walls are a plain gray color, nearly matching the stone floor below. 
+Serving girls rush around the room to fill the patrons orders as quickly as
+possible.  The sound of laughter and merriment can be heard to the south,
+and the door to the east continues further into the Inn.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29514
+D2
+~
+~
+0 0
+0 0 29513
+D3
+~
+~
+3 3
+1 0 30044
+S
+#29513
+Stage Area~
+A small stage has been set up against the south wall, a set of bright red
+curtains pulled back to show the activities that are going on for the day. 
+Rows of benches have been set up around the stage, giving plenty of room for
+the patrons to sit and enjoy the entertainment.  Desc The room is decorated
+with colorful tapestries and the curtains on the windows have been opened to
+shed light on the stage.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29512
+S
+#29514
+Hallway~
+This hallway leads through the Star Inn, moving from the common room to
+the kitchen on the east, and to the south are some private dinning rooms and
+the stairs that lead up to the next level of the Inn.  The floor is made of
+a smooth gray stone, and the walls are painted a soft shade of blue. 
+Colorful tapestries line the walls, depicting scenes of battle and old lore.
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 29515
+D2
+~
+~
+0 0
+0 0 29516
+D3
+~
+~
+0 0
+0 0 29512
+S
+#29515
+Kitchen~
+A strong smell of cooking fish hangs heavily on the air in this room.  A
+large kettle hangs over the flames in the fireplace, water filled with
+chopped up fish simmering for the next meal.  A tall table with a thick
+wooden counter takes up most of the center of the room, cooks busily working
+at preparing the food on the days menu.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29549
+D2
+~
+~
+1 1
+1 0 29517
+D3
+~
+~
+1 1
+1 0 29514
+S
+#29516
+Hallway Through The Star Inn~
+The hallway continues through the Star Inn, moving towards some private
+dinning rooms towards the south.  A set of wooden stairs lead up to the next
+level of the Inn, where the rooms are located.  A carved, wooden banister
+has been built into the staircase, giving a decorative appearance to the
+room.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29514
+D2
+~
+~
+0 0
+0 0 29519
+D4
+~
+~
+0 0
+0 0 29522
+S
+#29517
+The Pantry~
+The room is small and cramped, many shelves lining the walls.  Various
+food items are packed on the shelves, and large wooden barrels and crates
+are stacked on the floor.  The mixed scent of spices and flour hangs on the
+air, along with the strong smell of fish coming from the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29515
+S
+#29518
+~
+~
+0
+C 0
+S
+#29519
+Hallways Through The Star Inn~
+The hallway ends here with two closed doors on either side.  This is
+where the private dinning rooms are located, for those who dislike the
+noisey common room for their meals.  Back to the north are the stairs that
+lead up to the next level of the Inn, and further north are the kitchen and
+the common room.  The floor is made of a smooth gray stone, and the walls
+are painted a soft shade of blue.  Colorful tapestries line the walls,
+depicting scenes of the city of Tear.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29516
+D1
+~
+~
+3 3
+1 0 29520
+D3
+~
+~
+3 3
+1 0 29521
+S
+#29520
+Private Dining Room~
+Hard wood panels cover the walls of this room, with small, evenly spaced
+{cw{Cin{Wd{Cow{cs{x shedding some light.  A long oak table is placed in the center of
+the room, with twelve matching, low back chairs pushed in beneath it. 
+Placed in the center of the table is a woven {yb{ra{ysk{re{yt{x filled with freshly
+picked {gf{Glo{Yw{Ger{gs{x.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29519
+S
+#29521
+Private Dining Room~
+{rM{ma{rh{mo{rg{ma{rny{x carpet covers the floor, accented by white walls covered with a
+red floral pattern.  A {Ych{Wa{Ynd{We{Yl{Wie{Yr{x hangs from the ceiling over a large
+sungwood table, the light reflecting off the shiny surface.  Four low-backed
+chairs have been pushed beneath the table.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29519
+S
+#29522
+Stairway~
+The stairs come to a wide landing at the second level of the Star Inn. 
+The hallway moves off to the north and south, leading to the fancier rooms
+in this establishment.  The stairway continues up to the third and fourth
+floors from here or you can head back down to the first floor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29523
+D1
+~
+~
+3 3
+1 0 29524
+D2
+~
+~
+0 0
+0 0 29525
+D3
+~
+~
+3 3
+1 0 29526
+D4
+~
+~
+0 0
+0 0 29531
+D5
+~
+~
+0 0
+0 0 29516
+S
+#29523
+The Bathing Room~
+This room is rather large, the floor a soft {Ww{wh{Wi{wt{We{x carpet.  The room has
+been divided off to the east and west sides with hanging {Bcu{Wr{Bta{Wi{Bns{x which can
+be drawn shut to give privacy to the person using the room's facilities. 
+Large {Wp{Co{Wrc{Ce{Wl{Cai{Wn{x tubs are set behind the curtains, along with large {yw{Ya{yrdr{Yo{yb{Ye{ys{x
+which hold the fresh linens.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29522
+S
+#29524
+Fancy Room~
+A beautifully {We{Gmbr{Woi{Gder{Wed{x rug lies on the floor between the door and a
+large, comfortable appearing bed that rests in the center of this room.  A
+thick red {Rco{rmf{Ro{rrt{Rer{x is pulled neatly beneath some embroidered {rp{Wi{rll{Wo{rws{x on the
+bed.  A wooden stand with carved designs on the legs rests against the west
+wall, a {Wp{Co{Wrc{Ce{Wl{Cai{Wn{x basin and pitcher rest atop it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29527
+D3
+~
+~
+3 3
+1 0 29522
+S
+#29525
+Hallway~
+The hallway moves south from the stairs, heading towards some of the
+nicer rooms of the Star Inn.  The walls are painted a soft shade of brown,
+matching the wooden floor.  Silver lights have been set into the walls at
+even spaces along the hallway, giving enough light to see your way through
+safely.  There are closed doors to the east and west of here.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29522
+D1
+~
+~
+3 3
+1 0 29529
+D3
+~
+~
+3 3
+1 0 29530
+S
+#29526
+Fancy Room~
+The hardwood floor has been covered with a large, finely {rw{yo{rv{ye{rn{x rug with a
+Tairen maze design.  A large, {Gc{Wa{Gn{Wo{Gp{Wie{Gd{x bed rests between two large windows
+in the west wall.  Light, lacy {cc{Cur{Wta{Cin{cs{x cover the windows, moving in the
+breeze when the windows are open.  A large {yw{ra{yrdr{ro{ybe{x sets opposite the bed,
+giving a place for the person staying in the room to store their clothing
+and personal belongings.  A wooden stand set near the door to the north
+holds a porcelain basin and pitcher.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29528
+D1
+~
+~
+3 3
+1 0 29522
+S
+#29527
+A Small Servants Room~
+This room is rather small, barely large enough for the small bed that is
+pushed against the wall beneath the only window in the room.  A set of heavy
+drapes cover the window, making the lighting in the room rather dim.  The
+hard wood floor is bare of any rugs or carpets, and a small wooden chest
+stands at the end of the bed.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29524
+S
+#29528
+A Small Servants Room~
+This room is rather small, barely large enough for the small bed that is
+pushed against the wall beneath the only window in the room.  A set of heavy
+drapes cover the window, making the lighting in the room rather dim.  The
+hard wood floor is bare of any rugs or carpets, and a small wooden chest
+stands at the end of the bed.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29526
+S
+#29529
+Nice Room~
+A medium-sized bed with a fluffy {mco{Mm{Wfor{Mt{mer{x rests against the east wall,
+beneath the rooms only window.  Two delicately embroidered pillows have been
+thrown on the bed for a bit of decoration.  A {gt{Ga{Yp{Wes{Yt{Gr{gy{x covers the wall to
+the south, depicting a scene of horses grazing in a field of tall grass.  A
+pitcher and basin rest on a small wooden {ystand{x, fresh water for those who
+wish to freshen up.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29525
+S
+#29530
+Nice Room~
+A medium-sized bed with a fluffy {mco{Mm{Wfor{Mt{mer{x rests against the east wall,
+beneath the rooms only window.  Two delicately embroidered pillows have been
+thrown on the bed for a bit of decoration.  A {gt{Ga{Yp{Wes{Yt{Gr{gy{x covers the wall to
+the south, depicting a scene of horses grazing in a field of tall grass.  A
+pitcher and basin rest on a small wooden {ystand{x, fresh water for those who
+wish to freshen up.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29525
+S
+#29531
+Stairway~
+The stairs come to a wide landing at the third level of the Star Inn. 
+The hallway moves off to the north and south, leading to some of the nicer
+rooms in this establishment.  The stairway continues up to the fourth floor
+from here or you can head back down to the second or first floor.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29532
+D1
+~
+~
+3 3
+1 0 29533
+D2
+~
+~
+0 0
+0 0 29534
+D3
+~
+~
+3 3
+1 0 29535
+D4
+~
+~
+0 0
+0 0 29540
+D5
+~
+~
+0 0
+0 0 29522
+S
+#29532
+Hallway~
+The hallway moves northward from the stairway, leading to some of the
+nicer rooms in this establishment.  The walls are painted a soft shade of
+brown, matching the wooden floor.  Silver lights have been set into the
+walls at even spaces along the hallways, giving enough light to see your way
+through safely.  There are closed doors to the east and west of here.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29537
+D2
+~
+~
+0 0
+0 0 29531
+D3
+~
+~
+3 3
+1 0 29536
+S
+#29533
+Nice Room~
+A large, finely woven rug covers the center of this room, to each side of
+it is a twin-sized bed, each covered with matching {gc{Go{gmf{Go{grt{Ge{grs{x.  A large
+{Yoa{yk{Ye{yn{x chest of drawers has been placed beneath the window, a basket of fresh
+{gf{Gl{Yowe{Gr{gs{x resting atop it.  A small fireplace is set in the wall to the south,
+warming the room with its {rf{Rl{Yam{Re{rs{x.  The curtains have been drawn back to let
+in sunlight.  
+~
+0
+DJ 0
+D3
+~
+~
+3 3
+1 0 29531
+S
+#29534
+Hallway~
+The hallway moves southward from the stairway, leading to some of the
+nicer rooms in this establishment.  The walls are painted a soft shade of
+brown, matching the wooden floor.  Silver lights have been set into the
+walls at even spaces along the hallways, giving enough light to see your way
+through safely.  There are closed doors to the east and west of here.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29531
+D1
+~
+~
+3 3
+1 0 29539
+D3
+~
+~
+3 3
+1 0 29538
+S
+#29535
+Nice Room~
+The walls are painted in a pale, {Wcr{Yea{Wmy{x yellow color, the trimmings done
+in a {Ybright{x yellow.  The wood floor beneath is covered with a soft, {yw{woo{yl{we{yn{x
+rug, and a fireplace in the north wall gives off ample {rh{Rea{rt{x for the room.  A
+twin-sized bed rests against the south wall, a thick {Yc{Wo{Ymf{Wo{Yrt{We{Yr{x covering the
+bed.  The windows have been left open to let in a soft-breeze, moving the
+{Wc{Cu{Wrt{Cai{Wns{x in a flowing manner.  
+~
+0
+DJ 0
+D1
+~
+~
+3 3
+1 0 29531
+S
+#29536
+Nice Room~
+The wood floor here has been covered with a large {rr{yu{rg{x, decorated in the
+Tairen maze so popular here.  A small stand has been set against the wall,
+holding a {cp{Ci{Wtch{Ce{cr{x and {cb{Ca{Ws{Ci{cn{x of fresh water.  A medium-sized bed covered with
+a thick, fluffy {bco{Bmf{Wo{Brt{ber{x rests just below a closed window.  A set of light
+blue curtains have been pulled open to let in the sunlight during the day.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29532
+S
+#29537
+Nice Room~
+The room is decorated in soft shades of {Mp{Wi{Mnk{x and {Wwhite{x, a pink comforter
+with a floral pattern covers the medium-sized bed.  A set of dark pink
+curtains covers the window above the bed, making the room a bit dimmer than
+it would be without.  A small {yw{Da{yrdr{Do{ybe{x rests against the wall, providing a
+place for the customer of the Inn to put her belongings.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29532
+S
+#29538
+Nice Room~
+The walls are painted in a pale, {Wcr{Yea{Wmy{x yellow color, the trimmings done
+in a {Ybright{x yellow.  The wood floor beneath is covered with a soft, {yw{woo{yl{we{yn{x
+rug, and a fireplace in the north wall gives off ample {rh{Rea{rt{x for the room.  A
+twin-sized bed rests against the south wall, a thick {Yc{Wo{Ymf{Wo{Yrt{We{Yr{x covering the
+bed.  The windows have been left open to let in a soft-breeze, moving the
+{Wc{Cu{Wrt{Cai{Wns{x in a flowing manner.  
+~
+0
+DJ 0
+D1
+~
+~
+3 3
+1 0 29534
+S
+#29539
+Nice Room~
+The walls are painted in a pale, {Wcr{Yea{Wmy{x yellow color, the trimmings done
+in a {Ybright{x yellow.  The wood floor beneath is covered with a soft, {yw{woo{yl{we{yn{x
+rug, and a fireplace in the north wall gives off ample {rh{Rea{rt{x for the room.  A
+twin-sized bed rests against the south wall, a thick {Yc{Wo{Ymf{Wo{Yrt{We{Yr{x covering the
+bed.  The windows have been left open to let in a soft-breeze, moving the
+{Wc{Cu{Wrt{Cai{Wns{x in a flowing manner.  
+~
+0
+DJ 0
+D3
+~
+~
+3 3
+1 0 29534
+S
+#29540
+Top of Stairway~
+The stairway levels off here on the fourth level of the Star Inn.  The
+hallway is narrower here, and fewer candles are lit in their niches in the
+walls, showing that these rooms are often less used than the others.  The
+walls are painted a soft shade of yellow, and the wood floor has been
+scuffed in a few places.  There are doors on the east and west and the
+hallway continues to the north and south.  
+~
+0
+0 0
+D0
+~
+wooden door~
+519 519
+2 34801 29541
+D1
+~
+~
+3 3
+1 0 29542
+D2
+~
+~
+0 0
+0 0 29543
+D3
+~
+~
+3 3
+1 0 29544
+D5
+~
+~
+0 0
+0 0 29531
+S
+#29541
+Innkeeper's Room~
+The door from the hall opens into a large sitting room.  An ankle deep
+{gplush{x carpet covers the floor from wall to wall.  Bookshelves line two of
+the walls, while a door opens to the western room.  A large couch and two
+smaller chairs are positioned in the middle of the floor around a small,
+knee high table.  Decorative kerosene lanterns rest on each end of the
+table, and two other lanterns are positioned on stands on the wall near the
+doorway.  
+
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29546
+D2
+~
+~
+519 519
+2 34801 29540
+D3
+~
+~
+3 3
+1 0 29545
+S
+#29542
+A Cramped Room~
+Gr The room is rather small compared to the others in the Inn, barely
+enough room for the small twin bed and the chest at the foot of it.  There
+is an old woolen rug covering the floor beside the bed, and a window in the
+north side of the room.  There is a scent of staleness in the room, as if it
+hasn't been aired out for some time.  An old, chipped washbasin and pitcher
+rest atop a stand beside the door.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29540
+S
+#29543
+hallway~
+The hallway ends here at the south end of the establishment.  The area is
+dimly lit by two candles fit into niches in the walls.  The floor is made of
+hard wood though there are scuffs here and there.  The walls have been
+painted a soft shade of yellow.  There are doors on the east and west side
+here, and the hallways continues on to the north toward a set of stairs.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29540
+D1
+~
+~
+3 3
+1 0 29547
+D3
+~
+~
+3 3
+1 0 29548
+S
+#29544
+A Cramped Room~
+Gr The room is rather small compared to the others in the Inn, barely
+enough room for the small twin bed and the chest at the foot of it.  There
+is an old woolen rug covering the floor beside the bed, and a window in the
+north side of the room.  There is a scent of staleness in the room, as if it
+hasn't been aired out for some time.  An old, chipped washbasin and pitcher
+rest atop a stand beside the door.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29540
+S
+#29545
+A Bedroom~
+This room is by far the nicest room in the Inn.  It has several kerosene
+lanters placed on the walls around the room.  A large canopy bed rests in
+the middle of a floor, and a wardrobe stands in the corner.
+
+Mahogany panelling covers the walls, and the thick plush carpet covers the
+floor. There is a dresser at the foot of the bed which stretches across the
+foot, rising as high as the top of the mattress.  On the dresser there is a
+vase with fresh flowers.
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29541
+S
+#29546
+A Bath Room~
+Steam wafts gently through the air in this room, coming from the tub
+located in the center of the room.  The walls and floors themselves are
+lined with small {Wwhite{w ceramic tiles in a grid pattern.  Before the large
+{rc{Yo{rp{Yp{re{Yr{w tub is a small {ml{wa{mv{Den{md{we{mr{w colored cotton rug and just to the side of
+that is a small {yb{Yr{ya{Ys{ys{w stand from which hang one or two towels.  Filling the
+air, is the unmistakable scent of soap and {ml{wa{mv{Den{md{we{mr{w.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29541
+S
+#29547
+A Cramped Room~
+Gr The room is rather small compared to the others in the Inn, barely
+enough room for the small twin bed and the chest at the foot of it.  There
+is an old woolen rug covering the floor beside the bed, and a window in the
+north side of the room.  There is a scent of staleness in the room, as if it
+hasn't been aired out for some time.  An old, chipped washbasin and pitcher
+rest atop a stand beside the door.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 29543
+S
+#29548
+A Cramped Room~
+Gr The room is rather small compared to the others in the Inn, barely
+enough room for the small twin bed and the chest at the foot of it.  There
+is an old woolen rug covering the floor beside the bed, and a window in the
+north side of the room.  There is a scent of staleness in the room, as if it
+hasn't been aired out for some time.  An old, chipped washbasin and pitcher
+rest atop a stand beside the door.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 29543
+S
+#29549
+Inn Yard~
+The spacious yard is fenced in to help protect both the Inn's assets and
+the Guests assets.  A large brown mongrel runs around the yard, sniffing at
+everything and everyone, making sure that you know that you are now on HIS
+territory.  A large stable is set up near the back of the property for
+housing the guests horses and an open area beside the stables is reserved
+for parking carriages and wagons.  
+
+An attempt to grow grass in the yard to fight off the ever present mud of
+the city is an ever ongoing process.  Parts of the yard are lush and green,
+while the path from the gate to the stables is worn down and has mud showing
+through now and then.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 30012
+D1
+~
+stable doors~
+3 3
+1 0 29550
+D3
+~
+~
+3 3
+1 0 29515
+S
+#29550
+Inn Stables~
+Fresh {ystraw{x covers the stable floor and the smell of the stables assault
+your nose.  Horses stamp and shift in their stalls.  A fresh coat of varnish
+covers the wooden walls and stall doors and a fresh red trim is painted
+along the frame to the doors.  
+
+The iron latches and hinges are oiled and glisten slightly.  Each door
+swings open and closed without a squeek.  The ceiling is high enough to roll
+a large wagon in with room to spare and to allow room for large horses who
+go up on their hind legs to do so without hitting their head.  Hay is thrown
+down from overhead into the stalls to keep the animals fed.  
+~
+0
+0 0
+D1
+~
+Stall~
+3 3
+1 0 29551
+D2
+~
+stall~
+3 3
+1 0 29552
+D3
+~
+~
+3 3
+1 0 29549
+S
+#29551
+Inn Stables~
+The back of the stables are as well kept as the front.  Fresh {ystraw{x covers
+the stall floor and appears to be changed out regularly.  The Inn's horses
+are kept at the back, two large work horses obviously strong enough to pull
+a large wagon are kept in the back stalls, well cared for and groomed.  
+
+The stall doors are all split doors, the bottom half coming up above the
+waist, and the top half normally latched open so that the animals don't
+become claustrophobic.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29553
+D3
+~
+~
+3 3
+1 0 29550
+D4
+~
+loft~
+4099 4099
+1 0 29554
+S
+#29552
+Stall~
+This stall is kept as clean as can be done without spending every waking
+moment scrubbing it down.  Fresh {ystraw{x covers the floor and clean food and
+water are in the troughs spaced around the stall.  An extra horse blanket
+is folded neatly and rests on a shelf at the back, along with the curry comb
+and other supplies for tending to the animals.  
+~
+0
+0 0
+D0
+~
+stall door~
+3 3
+1 0 29550
+S
+#29553
+Stall~
+This is a large stall, meant for large animals.  Fresh straw covers the
+floor and a trough with water is fastened against the outer wall.  Another
+trough for holding the hay is fastened along the wall of the stall. 
+Attempts to keep the mud of the city from taking over the stables are
+combatted by always changing out the straw on the floor, so the aroma of
+fresh straw is strong.  
+
+Everything is kept as clean as possible, and the fresh paint on the walls
+gives the stall an almost 'new' look.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29551
+S
+#29554
+Hayloft~
+This open loft has only a thin beam of wood going around the edge to keep
+anyone from falling off.  Large piles of hay are stored here for feeding the
+animals below and a pitchfork for tossing the hay over the edge of the loft
+and into the stalls rests up against the beam.  
+
+The hay is piled up against the back wall, but trails of loose strands of it
+are scattered along the edges of the loft where it has fallen during transit
+to the stalls below.  
+~
+0
+0 0
+D5
+~
+stables~
+4099 4099
+1 0 29551
+S
+#29555
+The Common Room of the White Crescent Inn~
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 29556
+D1
+~
+~
+3 3
+1 0 29737
+D2
+~
+~
+0 0
+0 0 29738
+D3
+~
+~
+0 0
+0 0 29557
+S
+#29556
+kitchen~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29555
+S
+#29557
+stairwell~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29739
+D1
+~
+~
+0 0
+0 0 29555
+D2
+~
+~
+0 0
+0 0 29740
+D3
+~
+~
+0 0
+0 0 29741
+D4
+~
+~
+0 0
+0 0 29558
+S
+#29558
+stairway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29559
+D1
+~
+~
+0 0
+0 0 29744
+D2
+~
+~
+3 3
+1 0 29564
+D3
+~
+~
+0 0
+0 0 29745
+D4
+~
+~
+0 0
+0 0 29562
+D5
+~
+~
+0 0
+0 0 29557
+S
+#29559
+Bedroom~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29558
+S
+#29560
+nice room~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29745
+S
+#29561
+bedroom~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29744
+S
+#29562
+stairway~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29747
+D1
+~
+~
+0 0
+0 0 29748
+D2
+~
+~
+0 0
+0 0 29749
+D3
+~
+~
+0 0
+0 0 29565
+D4
+~
+~
+0 0
+0 0 29567
+D5
+~
+~
+0 0
+0 0 29558
+S
+#29563
+small room~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29744
+S
+#29564
+bedroom~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29558
+S
+#29565
+hallway~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29566
+D1
+~
+~
+0 0
+0 0 29562
+D2
+~
+~
+4099 4099
+1 0 29750
+S
+#29566
+bathing room~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29565
+S
+#29567
+atop the roof~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29568
+D1
+~
+~
+0 0
+0 0 29754
+D5
+~
+~
+0 0
+0 0 29562
+S
+#29568
+top of balcony~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29569
+D2
+~
+~
+0 0
+0 0 29567
+S
+#29569
+top of bbuilding~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29754
+D3
+~
+~
+0 0
+0 0 29568
+S
+#29570
+Entrance to the Tavar~
+The farmers market is usually one of the busier places in the city as
+most of its citizens come here to shop.  Merchants call out to people about
+their wares, hoping to make a sale while others let their wares do the
+talking for them.  
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 29572
+D2
+~
+~
+1 1
+1 0 29571
+D3
+~
+~
+0 0
+0 0 29709
+S
+#29571
+A Lime Stall~
+Long wooden planks are lined along the inside of this merchant's area. 
+Large crates are stacked at the backs of the planks, each full to the brim
+with fresh, dark-green limes.  To the front of the planks the limes are
+spread out so the shoppers can look through the limes and pick the best.  An
+elderly couple sit on a bench just inside the stall, watching as the
+customers browse through their goods.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 29570
+S
+#29572
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29575
+D1
+~
+~
+0 0
+0 0 29574
+D2
+~
+~
+1 1
+1 0 29573
+D3
+~
+~
+0 0
+0 0 29570
+S
+#29573
+A Peach Stall~
+Large barrels and crates are scattered inside the stall, each filled with
+a different type of peach.  Customers mill about, picking up one peach and
+testing it for ripeness before moving on to the next.  A small table has
+been set up just inside the stall, a small, locked box resting atop it.  A
+young girl is standing behind the table, watching the customers and
+answering any questions they may have.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 29572
+S
+#29574
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29578
+D1
+~
+~
+0 0
+0 0 29576
+D2
+~
+~
+1 1
+1 0 29577
+D3
+~
+~
+0 0
+0 0 29572
+S
+#29575
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29583
+D2
+~
+~
+0 0
+0 0 29572
+D3
+~
+~
+1 1
+1 0 29582
+S
+#29576
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29581
+D1
+~
+~
+1 1
+1 0 29580
+D2
+~
+~
+1 1
+1 0 29579
+D3
+~
+~
+0 0
+0 0 29574
+S
+#29577
+A Pear Stall~
+This small {yst{Ya{yll{x is framed in wooden tables.  Upon each table is a pile
+of fresh {ypears{x, and resting on the floor behind those are large barrels of
+more pears.  A {rr{Ro{rt{Ru{rnd{x woman stands behind the tables and offers her pears to
+all who pass by.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 29574
+S
+#29578
+An Apple Stall~
+Open to the air on all four sides, this stall seems rather larger than
+the others in the area.  Old wooden tables are covered in {Ra{rppl{Re{rs{x of every
+color they come in.  {rR{Re{rd{x apples, {ggr{Gee{gn{x apples, {yy{Ye{yll{Yo{yw{x apples, they all can
+be found here to buy.  
+~
+0
+0 1
+D2
+~
+~
+1 1
+1 0 29574
+S
+#29579
+A Stand Full of Strawberries~
+The smell of sweet, ripened strawberries fills the air around this stall.
+Long counters line the stall, each covered with baskets of the succulent
+little fruits, drawing the eyes of those who pass by.  A rather pretty woman
+is sitting on a chair that has been set just inside the stall, watching her
+customers with a warm smile.  
+~
+0
+0 1
+D0
+~
+~
+1 1
+1 0 29576
+S
+#29580
+The Egg Stall~
+A few white {Wf{wea{Wth{we{Wrs{x hover around the {Weggs{x that fill up this stall. 
+Crate upon crate of carefully stacked eggs line the tables within.  The
+scent of chickens can be caught if you approach too closely, but luckily, no
+chickens are in sight.  
+~
+0
+0 1
+D3
+~
+~
+1 1
+1 0 29576
+S
+#29581
+A Melon Stall~
+~
+0
+0 1
+D2
+~
+~
+1 1
+1 0 29576
+S
+#29582
+squash~
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 29575
+S
+#29583
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29585
+D1
+~
+~
+0 0
+0 0 29586
+D2
+~
+~
+0 0
+0 0 29575
+D3
+~
+~
+1 1
+1 0 29584
+S
+#29584
+lettuce~
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 29583
+S
+#29585
+artichokes~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 29583
+S
+#29586
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29587
+D1
+~
+~
+0 0
+0 0 29588
+D3
+~
+~
+0 0
+0 0 29583
+S
+#29587
+asparagus~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 29586
+S
+#29588
+road through tavar~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 29589
+D1
+~
+~
+1 1
+1 0 29590
+D3
+~
+~
+0 0
+0 0 29586
+S
+#29589
+beans~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 29588
+S
+#29590
+corn~
+~
+0
+0 0
+D3
+~
+~
+1 1
+1 0 29588
+S
+#29591
+Center of Market Street~
+This seems to be the center of the bustling Market Street, there are a
+few constables here and there keeping the peace, but for the most part they
+seem to be enjoying being in this part of the city.  Many woman are rushing
+to every shop looking for good that they wish to purchase.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29594
+D1
+~
+~
+0 0
+0 0 29592
+D2
+~
+~
+0 0
+0 0 29595
+D3
+~
+~
+0 0
+0 0 29593
+S
+#29592
+Market Street~
+The center of Market Street can be seen back to the east, from the south
+comes a very pleasant scent, even if it is a tad strong and the soft glow of
+candle light.  The sign above the shop has a simple {Wca{Ynd{Wle{x upon it.  From
+the north is the sounds of laughter and upon looking to the northern shop
+one would notice {Wmajestic{x {Wm{Da{Wrb{Dl{We{x columns at the front of the shop, looking
+to the sign, one would notice a {Yg{yo{Yl{yd{Ye{yn{x leaf sign with a single glass of {rw{Din{re{x
+upon it.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29596
+D1
+~
+~
+0 0
+0 0 29598
+D2
+~
+~
+3 3
+1 0 29597
+D3
+~
+~
+0 0
+0 0 29591
+S
+#29593
+Market Street~
+Along Market Street people seem to be bustling around carrying packages
+or being trailed by a servant who is burdened with the job to escort the
+Lady to market today.  To the north, the sign has a {Bdress{x, a {Yshirt{x and a
+pair of {Dbreeches{x.  To the south is a shop with no sign, though there is a
+pleasant woman, standing out front holding samples of the {Wsoap{x her husband
+makes.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29621
+D1
+~
+~
+0 0
+0 0 29591
+D2
+~
+~
+3 3
+1 0 29622
+D3
+~
+~
+0 0
+0 0 29623
+S
+#29594
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29604
+D2
+~
+~
+0 0
+0 0 29591
+S
+#29595
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29591
+D2
+~
+~
+0 0
+0 0 29620
+S
+#29596
+The Merry Bistro~
+There is a rich feel to this room when one enters, three of the walls are
+an elegant {rb{Du{rrg{Du{rnd{Dy{x, the back wall has a single door off to one side, the
+rest of the back wall is covered in an elegant looking {Ds{Wt{Don{De{x with an open
+hearthed {rf{Ri{Yre{Dp{Yla{Rc{re{x for simmering the soups which are served here.  There are
+two {Wchefs{x standing beside the hearth, watching the kettles above it.  Then
+on the wall to ones left when they enter is a {Yo{ya{Yk{ye{Yn{x bar, glistening in the
+dim candle light.  In each corner of the room is a {Wmagestic{x {Wm{Da{Wrb{Dl{We{x column. 
+
+
+The {Yt{ya{Yb{yl{Ye{ys{x are spaced apart enough for the serving girls to flutter through
+them with ease.  The chairs at the tables look very comfortable and inviting
+to the weary shopper from Market Street.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29592
+S
+#29597
+Candle Maker~
+A {rw{Rar{rm{x and inviting feel, the store front has many shelves and upon many
+of the shelves are many candles, giving off a {rw{Rar{rm{x and inviting {Yg{Wlo{Yw{x.  On
+the shelves no occupied by the glowing candles are many small vials of what
+appears to be essential oils, to drip on the candle for a stronger pleasing
+scent from the candle.  Also allowing for the mixture of the scents in the
+candle and the oil.  On a shelf behind the counter are {ybr{Ya{yss{x objects with a
+carved {ywo{Dod{yen{x handle, to snuff out the candles.  There are also pegs on the
+wall, holding the candles able to be purchased up by their wicks.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29592
+S
+#29598
+Market Street~
+Not so much the part of Market Steet that a noblewoman would be seen
+coming to.  To the south is a sign with a simple {rc{yla{ry{x bowl upon it.  To the
+north seems to be an alley for all types of refuse.  The constables seem to
+frequent this area and the locals step lightly and quickly through this area
+of town.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29599
+D1
+~
+~
+0 0
+0 0 29600
+D2
+~
+~
+3 3
+1 0 29601
+D3
+~
+~
+0 0
+0 0 29592
+S
+#29599
+Thieves Alley~
+Upon setting foot into this dark place, one leaves the safety of Market
+Street behind them.  Lining the walls between the buildings are refuse
+receptacles, leaving many places for someone to lie in wait, for the
+innocent to stumble into a trap, not set for any particular person.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29602
+D2
+~
+~
+0 0
+0 0 29598
+S
+#29600
+Market Street~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29606
+D1
+~
+~
+0 0
+0 0 29607
+D2
+~
+~
+3 3
+1 0 29608
+D3
+~
+~
+0 0
+0 0 29598
+S
+#29601
+Pottery Shop~
+The smell of wet {rc{yla{ry{x is very stong as one steps into this shop.  There
+are a couple tables set up, on a table near the front of the shop are some
+small vases, which looks like they could hold one, maybe two {Yf{Wl{Wo{Yw{We{Wr{Ys{x,
+sitting farther back on the table are some larger vases, which could hold . 
+Cconsiderably more {Yf{Wl{Wo{Yw{We{Wr{Ys{x.  There are many other objects on the tables,
+made from {rc{yla{ry{x.  Then upon a table closest to the counter is some fine {BS{ce{Ca{x
+{CFo{cl{Bk{x porcelian.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29598
+S
+#29602
+Thieves Alley~
+A wretched hive of scum and villainy, would best describe this place. 
+Every type of shady character is found within this alley.  If one is looking
+for someone to do their dirty work for them, they have came to the proper
+place.  If not and one is a law abiding citizen, they have stumbled into the
+wrong area.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29599
+D3
+~
+~
+0 0
+0 0 29603
+S
+#29603
+Thieves Alley~
+This appears to be the end of a shadowy alley, known as thieves alley. 
+There are waste receptacles lining the alley walls, giving the perfect place
+for someone to hide.  The stench of waste surrounds one, making the normal
+folk, wonder why such a place need exist.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29602
+D5
+~
+~
+4096 4096
+0 0 29605
+S
+#29604
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29645
+D2
+~
+~
+0 0
+0 0 29594
+S
+#29605
+Thieves Hangout~
+A rope ladder leads down into this hidden chamber, for those who may not
+always be able to get a drink at the pubs and taverns above and perhaps for
+them to find work.  The stench of the city, seems to be very much emphasized
+down below the streets.  Those who frequent such a spot seem to be the type
+who doesn't mind the stench.  The walls are covered with muck and some dark
+spots decorate the walls, is it blood?  If so, no one down here would be
+willing to admit to that.  There is a make-shift bar off to one side of the
+room.  
+~
+0
+0 0
+D4
+~
+~
+4096 4096
+0 0 29603
+S
+#29606
+Cobbler~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29600
+S
+#29607
+Market Street and Avon Lane~
+Market Street and Avon Lane meet at the eastern part of the Market area. The scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way. 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29609
+D2
+~
+~
+0 0
+0 0 29610
+D3
+~
+~
+0 0
+0 0 29600
+S
+#29608
+Leather Worker~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29600
+S
+#29609
+Avon Lane~
+Avon Lane moves through the eastern part of the Market area, the scent of
+fresh fruit clings in the air, coming from the many fruit trees that line
+the street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29650
+D2
+~
+~
+0 0
+0 0 29607
+S
+#29610
+Avon Lane~
+Avon Lane moves through the eastern part of the Market area, the scent of
+fresh fruit clings in the air, coming from the many fruit trees that line
+the street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29607
+D2
+~
+~
+0 0
+0 0 29611
+S
+#29611
+Avon Lane~
+Avon Lane moves through the eastern part of the Market area, the scent of
+fresh fruit clings in the air, coming from the many fruit trees that line
+the street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29610
+D2
+~
+~
+0 0
+0 0 29612
+S
+#29612
+Taber's Way and Avon Lane~
+Taber's Way and Avon Lane meet here, each making their way through the
+Market area.  The scent of fresh fruit clings in the air, coming from the
+many fruit trees that line the street.  Wooden benches have been placed
+beneath the trees so that weary shoppers may take a rest before hurrying on
+their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29611
+D3
+~
+~
+0 0
+0 0 29613
+S
+#29613
+Taber's Way~
+Taber's Way works it's way through the Market area, the scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29636
+D1
+~
+~
+0 0
+0 0 29612
+D3
+~
+~
+0 0
+0 0 29614
+S
+#29614
+Taber's Way~
+Taber's Way works it's way through the Market area, the scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29635
+D1
+~
+~
+0 0
+0 0 29613
+D3
+~
+~
+0 0
+0 0 29615
+S
+#29615
+Taber's Way~
+Taber's Way works it's way through the Market area, the scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29634
+D1
+~
+~
+0 0
+0 0 29614
+D3
+~
+~
+0 0
+0 0 29616
+S
+#29616
+Taber's Way and Potter Road~
+Taber's Way and Potter's Road cross here, leading the way through the
+Market area.  The scent of fresh fruit clings in the air, coming from the
+many fruit trees that line the street.  Wooden benches have been placed
+beneath the trees so that weary shoppers may take a rest before hurrying on
+their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29620
+D1
+~
+~
+0 0
+0 0 29615
+D3
+~
+~
+0 0
+0 0 29633
+S
+#29617
+Market Street~
+The street continues its way through the market area of the city.  Men,
+women, servants and sedan-bearers make their way through the crowds, going
+about their daily shopping routines.  Ladies maids follow closely behind
+their Lady, carrying various shopping bags and boxes.  The sign to the north
+bears a {Ds{wi{Wlv{we{Dr n{Wee{Ddle{x and {Yg{Wo{Yld{We{Yn thr{Wea{Yd{x, and the sign to the south bears a
+{mf{Man{Wci{Mfu{ml h{Ma{mt{x and an open {cf{Ca{cn{x.  
+~
+0
+0 1
+D0
+~
+~
+3 3
+1 0 29624
+D1
+~
+~
+0 0
+0 0 29623
+D2
+~
+~
+3 3
+1 0 29625
+D3
+~
+~
+0 0
+0 0 29626
+S
+#29618
+Perfume Shop~
+This shop is very tidy, the shop front is but a single counter, decorated
+with some flowers and a list of the selections of perfume to offer.  Wafting
+from the back room are many very pleasant scents such as {ml{Wi{ml{Wa{mc{x, {rj{Wun{ri{Wpe{rr{x
+{rbe{Dr{rry{x and a touch of {gs{Dag{ge{x can be picked out easily from the other scents.  
+
+A very pleasant young woman stands here greeting all the customers as they
+enter, offering them a sample squirt of the most recent perfume.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29623
+S
+#29619
+Jewelry Shop~
+Upon entering this shop, one would notice the guards stationed at every
+corner of the room, there is a short, old man leans on the counter awaiting
+the next customer.  Laying on the counter beside the man are a few pieces of
+{yst{Yun{yni{Yng{x jewelry.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29623
+S
+#29620
+STreet~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29595
+D2
+~
+~
+0 0
+0 0 29616
+S
+#29621
+Clothing Shop~
+All the beautiful {Bc{Ro{Yl{Wo{Gr{Ds{x of the clothing in this room, makes it hard for
+one not to at least consider purchasing something.  On one wall, there is a
+row of dresses in all shapes, forms and styles.  There is a hook at the end
+of the row of dresses which contains many {Bbr{Ril{Yli{Wan{Gtl{Dy{x colored scarves.  Also
+the shop has many shelves lining the wall opposite the one with dresses that
+holds breeches and shirts.  Standing at the counter opposite the door is a
+petite young lady, ready to assist with anyone needing it.  Behind the
+counter are two curtained off areas, for people to try on the clothing.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29593
+S
+#29622
+Soap Shop~
+At first glance one would feel rather at home upon entering.  A {rw{Rar{rm{x
+{rf{Ri{r{Yr{Dep{l{ra{Rc{re{x burns in the farthest corner of the shop.  Above the {rf{Yir{re{x is a {Dpot{x,
+that is covered and a faint bubbling noise can be heard from it.  A middle
+aged man sits beside the fire in a chair, apparently dozing off.  A woman,
+about the same age as the man, stands in front of the counter with a very
+welcoming smile upon her face.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29593
+S
+#29623
+Market Street~
+This street seems to be bustling with women and a few men dot the crowds,
+many of the men seem to be entering the shop to the north, the sign above
+the door is a {Ysi{Wmp{Yle{x {ygo{Yld{yen{x {yr{Yin{yg{x.  Coming from the south is the smell of
+many scents, such as {mla{Dv{men{Dd{mer{x, {Rr{ros{Re{x and {Wva{ynil{Wla{x, the sign to the south is a
+{mpe{Dr{mf{Du{mme{x bottle.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29619
+D1
+~
+~
+0 0
+0 0 29593
+D2
+~
+~
+3 3
+1 0 29618
+D3
+~
+~
+0 0
+0 0 29617
+S
+#29624
+Seamstress~
+The room is filled with bolts of colored {bcl{Bo{bth{x, {rs{Ri{rlks{x, {yw{Yoo{yls{x, {Wcottons{x,
+any type of material one could wish for.  Atop a small table is a black {Diron{x
+sewing machine.  A large wheel on the side is turned by hand to push the
+needle up and down through the material.  Hanging on hooks on the walls are
+various pieces of clothing that need repairs.  Sitting behind the counter is
+a plump, elderly lady, stitching together a torn shirt.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29617
+S
+#29625
+Mimi's Accessories~
+A very lively shop, serving those from all walks of life, from commoner
+to nobility.  There are tables and shelves covering as much area as
+possible, leaving just enough room for even the most plump of the patrons. 
+Where ever one would look they would see {cf{Ca{cns{x, {mh{Ma{mts{x of all shapes and sizes
+as well as some very fanicfull {Yk{We{Yrch{Wie{Yfs{x for the lower class to use to keep
+the scents of the city away.  On a table near the counter in the back are
+many vials of {rp{Rer{Yf{Rum{re{x to put on the kerchiefs.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 29617
+S
+#29626
+Market Street and Littmann Lane~
+Market street ends here where it meets together with Littmann Lane.  The
+crowds lessen out a bit here though there remain enough people to get in the
+way.  The street is kept clean and tidy, fresh fruit trees dotting the lane.
+A bench rests beneath a nearby tree, offering shade to those busy shoppers
+who pass by.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29628
+D1
+~
+~
+0 0
+0 0 29617
+D2
+~
+~
+0 0
+0 0 29627
+S
+#29627
+Littmann Lane~
+Fruit trees line the lane on both sides of the street, benches set
+beneath them for those who might wish to take a rest.  Various venders and
+hawkers make their way along the street, calling out their goods in the
+hopes of making a sell.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29626
+D2
+~
+~
+0 0
+0 0 29629
+S
+#29628
+Littmann Lane~
+Fruit trees line the lane on both sides of the street, benches set
+beneath them for those who might wish to take a rest.  Various venders and
+hawkers make their way along the street, calling out their goods in the
+hopes of making a sell.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29640
+D2
+~
+~
+0 0
+0 0 29626
+S
+#29629
+Littmann Lane~
+Fruit trees line the lane on both sides of the street, benches set
+beneath them for those who might wish to take a rest.  Various venders and
+hawkers make their way along the street, calling out their goods in the
+hopes of making a sell.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29627
+D2
+~
+~
+0 0
+0 0 29630
+S
+#29630
+Littmann Lane and Taber's Way~
+Littmann Lane and Taber's Street meet together here, in one of the
+quieter sections of the Market area.  The scent of fresh fruit is in the
+air, coming from the many trees that line the street, benches resting
+beneath the trees shade.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29629
+D1
+~
+~
+0 0
+0 0 29631
+S
+#29631
+Taber's Way~
+Taber's Way works it's way through the Market area, the scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29639
+D1
+~
+~
+0 0
+0 0 29632
+D3
+~
+~
+0 0
+0 0 29630
+S
+#29632
+Taber's Way~
+Taber's Way works it's way through the Market area, the scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29633
+D3
+~
+~
+0 0
+0 0 29631
+S
+#29633
+Taber's Way~
+Taber's Way works it's way through the Market area, the scent of fresh
+fruit clings in the air, coming from the many fruit trees that line the
+street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29637
+D1
+~
+~
+0 0
+0 0 29616
+D3
+~
+~
+0 0
+0 0 29632
+S
+#29634
+Small home~
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 29615
+S
+#29635
+whatever works here~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29614
+S
+#29636
+whatever works here~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29613
+S
+#29637
+whatever works here~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29633
+D3
+~
+~
+0 0
+0 0 29638
+S
+#29638
+whatever works here~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29637
+S
+#29639
+whatever works here~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29631
+S
+#29640
+Littmann Lane~
+Fruit trees line the lane on both sides of the street, benches set
+beneath them for those who might wish to take a rest.  Various venders and
+hawkers make their way along the street, calling out their goods in the
+hopes of making a sell.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29641
+D2
+~
+~
+0 0
+0 0 29628
+S
+#29641
+Littmann Lane and Mosby Road~
+Littmann Lane and Mosby Road meet at the western part of the Market area.
+The scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29642
+D2
+~
+~
+0 0
+0 0 29640
+S
+#29642
+Mosby Road~
+Mosby Road works its way along the northern edge of the Market area, the
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29643
+D2
+~
+~
+0 0
+0 0 29654
+D3
+~
+~
+0 0
+0 0 29641
+S
+#29643
+Mosby Road~
+Mosby Road works its way along the northern edge of the Market area, the
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29644
+D2
+~
+~
+0 0
+0 0 29653
+D3
+~
+~
+0 0
+0 0 29642
+S
+#29644
+Mosby Road~
+Mosby Road works its way along the northern edge of the Market area, the
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29645
+D2
+~
+~
+3 3
+1 0 29652
+D3
+~
+~
+0 0
+0 0 29643
+S
+#29645
+Mosby Road and Potter Road~
+Gr Mosby Road and Potter Road intersect here at the northern entrance to
+the Market area.  Many shops and eateries can be found in this area.  The
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29700
+D1
+~
+~
+0 0
+0 0 29646
+D2
+~
+~
+0 0
+0 0 29604
+D3
+~
+~
+0 0
+0 0 29644
+S
+#29646
+Mosby Road~
+Mosby Road works its way along the northern edge of the Market area, the
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29647
+D3
+~
+~
+0 0
+0 0 29645
+S
+#29647
+Mosby Road~
+Mosby Road works its way along the northern edge of the Market area, the
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29648
+D3
+~
+~
+0 0
+0 0 29646
+S
+#29648
+Mosby Road~
+Mosby Road works its way along the northern edge of the Market area, the
+scent of fresh fruit clings in the air, coming from the many fruit trees
+that line the street.  Wooden benches have been placed beneath the trees so
+that weary shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29649
+D3
+~
+~
+0 0
+0 0 29647
+S
+#29649
+Mosby Road and Avon Lane ~
+Mosby Road and Avon Lane meet here in the north eastern section of the
+market area.  The scent of fresh fruit clings in the air, coming from the
+many fruit trees that line the street.  Wooden benches have been placed
+beneath the trees so that weary shoppers may take a rest before hurrying on
+their way.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 29650
+D3
+~
+~
+0 0
+0 0 29648
+S
+#29650
+Avon Lane~
+Avon Lane moves through the eastern part of the Market area, the scent of
+fresh fruit clings in the air, coming from the many fruit trees that line
+the street.  Wooden benches have been placed beneath the trees so that weary
+shoppers may take a rest before hurrying on their way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29649
+D2
+~
+~
+0 0
+0 0 29609
+D3
+~
+~
+0 0
+0 0 29651
+S
+#29651
+whatever works here~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29650
+S
+#29652
+whatever works here~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 29644
+S
+#29653
+whatever works here~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29643
+S
+#29654
+whatever works here~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29642
+S
+#29655
+Street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29656
+D2
+~
+~
+3 3
+1 0 29501
+D3
+~
+~
+0 0
+0 0 29678
+S
+#29656
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29657
+D2
+~
+~
+0 0
+0 0 29696
+D3
+~
+~
+0 0
+0 0 29655
+S
+#29657
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29658
+D3
+~
+~
+0 0
+0 0 29656
+S
+#29658
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29659
+D3
+~
+~
+0 0
+0 0 29657
+S
+#29659
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29660
+D3
+~
+~
+0 0
+0 0 29658
+S
+#29660
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29661
+D3
+~
+~
+0 0
+0 0 29659
+S
+#29661
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29662
+D3
+~
+~
+0 0
+0 0 29660
+S
+#29662
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29663
+D1
+~
+~
+0 0
+0 0 29762
+D3
+~
+~
+0 0
+0 0 29661
+S
+#29663
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29681
+D2
+~
+~
+0 0
+0 0 29662
+S
+#29664
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29665
+D3
+~
+~
+0 0
+0 0 29756
+S
+#29665
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29666
+D3
+~
+~
+0 0
+0 0 29664
+S
+#29666
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29668
+D2
+~
+~
+0 0
+0 0 29667
+D3
+~
+~
+0 0
+0 0 29665
+S
+#29667
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29666
+D2
+~
+~
+0 0
+0 0 29687
+S
+#29668
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29669
+D3
+~
+~
+0 0
+0 0 29666
+S
+#29669
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29670
+D3
+~
+~
+0 0
+0 0 29668
+S
+#29670
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29671
+D3
+~
+~
+0 0
+0 0 29669
+S
+#29671
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29672
+D3
+~
+~
+0 0
+0 0 29670
+S
+#29672
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29673
+D3
+~
+~
+0 0
+0 0 29671
+S
+#29673
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29674
+D3
+~
+~
+0 0
+0 0 29672
+S
+#29674
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29675
+D3
+~
+~
+0 0
+0 0 29673
+S
+#29675
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29676
+D3
+~
+~
+0 0
+0 0 29674
+S
+#29676
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29677
+D2
+~
+~
+0 0
+0 0 29703
+D3
+~
+~
+0 0
+0 0 29675
+S
+#29677
+Main Street Through Tear~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29710
+D3
+~
+~
+0 0
+0 0 29676
+S
+#29678
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29655
+D3
+~
+~
+0 0
+0 0 29679
+S
+#29679
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29678
+D3
+~
+~
+0 0
+0 0 29680
+S
+#29680
+street~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29679
+S
+#29681
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29682
+D2
+~
+~
+0 0
+0 0 29663
+S
+#29682
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29683
+D2
+~
+~
+0 0
+0 0 29681
+S
+#29683
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29684
+D2
+~
+~
+0 0
+0 0 29682
+S
+#29684
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29685
+D2
+~
+~
+0 0
+0 0 29683
+S
+#29685
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29686
+D1
+~
+~
+3 3
+1 0 29774
+D2
+~
+~
+0 0
+0 0 29684
+S
+#29686
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29763
+D1
+~
+~
+0 0
+0 0 29775
+D2
+~
+~
+0 0
+0 0 29685
+S
+#29687
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29667
+D2
+~
+~
+0 0
+0 0 29688
+S
+#29688
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29687
+D2
+~
+~
+0 0
+0 0 29689
+S
+#29689
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29688
+D2
+~
+~
+0 0
+0 0 29690
+S
+#29690
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29689
+D2
+~
+~
+0 0
+0 0 29691
+S
+#29691
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29690
+D2
+~
+~
+0 0
+0 0 29692
+S
+#29692
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29691
+D1
+~
+~
+0 0
+0 0 29726
+D2
+~
+~
+0 0
+0 0 29811
+S
+#29693
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29816
+D2
+~
+~
+0 0
+0 0 29694
+S
+#29694
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29693
+D2
+~
+~
+0 0
+0 0 29695
+S
+#29695
+street~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 29694
+D1
+~
+~
+3 3
+1 0 29810
+D2
+~
+~
+0 0
+0 0 29820
+D3
+~
+~
+0 0
+0 0 29737
+S
+#0
+
+
+
+#SPECIALS
+M 29500 spec_guard
+S
+
+
+
+#RESETS
+D 0 29698 1 1
+D 0 29699 3 1
+D 0 29708 3 1
+D 0 29717 1 1
+D 0 29718 5 1
+D 0 29719 4 1
+D 0 29722 0 1
+D 0 29723 0 1
+D 0 29724 2 1
+D 0 29725 2 1
+D 0 29727 2 1
+D 0 29728 0 1
+D 0 29737 3 1
+D 0 29739 2 1
+D 0 29741 0 1
+D 0 29742 2 1
+D 0 29744 0 1
+D 0 29744 2 1
+D 0 29745 0 1
+D 0 29745 2 1
+D 0 29746 0 1
+D 0 29747 2 1
+D 0 29750 0 1
+D 0 29750 4 1
+D 0 29751 5 1
+D 0 29769 1 1
+D 0 29773 3 1
+D 0 29774 3 1
+D 0 29810 3 1
+D 0 29828 0 1
+D 0 29830 2 1
+D 0 29834 3 1
+D 0 29842 2 1
+D 0 29847 1 1
+D 0 29851 2 1
+D 0 29855 0 1
+D 0 29859 3 1
+D 0 29863 0 1
+D 0 29869 2 1
+D 0 29873 0 1
+D 0 29879 1 1
+D 0 29893 0 1
+D 0 29901 1 1
+D 0 29902 3 1
+D 0 29906 2 1
+D 0 29922 2 1
+D 0 29934 0 1
+D 0 29501 0 1
+D 0 29505 1 1
+D 0 29505 3 1
+D 0 29507 1 1
+D 0 29508 3 1
+D 0 29509 1 1
+D 0 29509 3 1
+D 0 29510 3 1
+D 0 29511 1 1
+D 0 29512 3 1
+D 0 29515 1 1
+D 0 29519 1 1
+D 0 29519 3 1
+D 0 29520 3 1
+D 0 29521 1 1
+D 0 29522 0 1
+D 0 29522 1 1
+D 0 29522 3 1
+D 0 29523 2 1
+D 0 29524 0 1
+D 0 29524 3 1
+D 0 29525 1 1
+D 0 29525 3 1
+D 0 29526 0 1
+D 0 29526 1 1
+D 0 29527 2 1
+D 0 29528 2 1
+D 0 29529 3 1
+D 0 29530 1 1
+D 0 29531 1 1
+D 0 29531 3 1
+D 0 29532 1 1
+D 0 29532 3 1
+D 0 29533 3 1
+D 0 29534 1 1
+D 0 29534 3 1
+D 0 29535 1 1
+D 0 29536 1 1
+D 0 29537 3 1
+D 0 29538 1 1
+D 0 29539 3 1
+D 0 29540 0 2
+D 0 29540 1 1
+D 0 29540 3 1
+D 0 29541 1 1
+D 0 29541 2 2
+D 0 29541 3 1
+D 0 29542 3 1
+D 0 29543 1 1
+D 0 29543 3 1
+D 0 29544 1 1
+D 0 29545 1 1
+D 0 29546 3 1
+D 0 29547 3 1
+D 0 29548 1 1
+D 0 29549 0 1
+D 0 29549 1 1
+D 0 29549 3 1
+D 0 29550 1 1
+D 0 29550 2 1
+D 0 29550 3 1
+D 0 29551 2 1
+D 0 29551 3 1
+D 0 29551 4 1
+D 0 29552 0 1
+D 0 29553 0 1
+D 0 29554 5 1
+D 0 29555 0 1
+D 0 29555 1 1
+D 0 29556 2 1
+D 0 29557 0 1
+D 0 29558 0 1
+D 0 29558 2 1
+D 0 29559 2 1
+D 0 29560 2 1
+D 0 29561 2 1
+D 0 29562 0 1
+D 0 29563 0 1
+D 0 29564 0 1
+D 0 29565 2 1
+D 0 29592 0 1
+D 0 29592 2 1
+D 0 29593 0 1
+D 0 29593 2 1
+D 0 29596 2 1
+D 0 29597 0 1
+D 0 29598 2 1
+D 0 29600 0 1
+D 0 29600 2 1
+D 0 29601 0 1
+D 0 29606 2 1
+D 0 29608 0 1
+D 0 29615 0 1
+D 0 29617 0 1
+D 0 29617 2 1
+D 0 29618 0 1
+D 0 29619 2 1
+D 0 29621 2 1
+D 0 29622 0 1
+D 0 29623 0 1
+D 0 29623 2 1
+D 0 29624 2 1
+D 0 29625 0 1
+D 0 29634 2 1
+D 0 29644 2 1
+D 0 29652 0 1
+D 0 29655 2 1
+D 0 29685 1 1
+D 0 29695 1 1
+O 0 29542 0 29717
+M 0 29519 1 29717 1
+M 0 29520 3 29717 3
+M 0 29521 5 29717 5
+M 0 29521 5 29717 5
+M 0 29521 5 29717 5
+M 0 29521 5 29717 5
+M 0 29521 5 29717 5
+M 0 29522 1 29718 1
+G 0 29543 0
+G 0 29544 0
+M 0 29542 1 29774 1
+G 0 29548 0
+G 0 29549 0
+G 0 29550 0
+G 0 29551 0
+M 0 29518 1 29810 1
+G 0 29540 0
+G 0 29541 0
+M 0 29500 20 29500 5
+O 0 29500 0 29501
+O 0 29501 0 29501
+M 0 29501 20 29501 5
+M 0 29503 20 29501 5
+M 0 29502 1 29501 1
+G 0 29504 0
+G 0 29503 0
+G 0 29502 0
+O 0 29506 0 29502
+O 0 29505 0 29502
+M 0 29504 10 29503 5
+M 0 29505 1 29503 1
+G 0 29509 0
+G 0 29508 0
+G 0 29507 0
+O 0 29510 0 29507
+O 0 29510 0 29508
+M 0 29506 20 29509 2
+O 0 29510 0 29510
+O 0 29510 0 29511
+M 0 29510 10 29512 5
+M 0 29509 1 29512 1
+G 0 29514 0
+G 0 29515 0
+O 0 34074 0 29512
+O 0 34073 0 29513
+M 0 29507 1 29513 1
+E 0 29511 0 15
+M 0 29508 20 29513 5
+M 0 29512 20 29515 5
+M 0 29511 1 29515 1
+G 0 29513 0
+G 0 29512 0
+O 0 29516 0 29520
+O 0 29517 0 29521
+O 0 29518 0 29523
+O 0 29519 0 29524
+O 0 29520 0 29524
+P 0 29521 1 29520 1
+O 0 29522 0 29526
+O 0 29523 0 29526
+O 0 29524 0 29529
+O 0 29524 0 29530
+O 0 29539 0 29535
+O 0 29526 0 29536
+O 0 29525 0 29537
+O 0 34072 0 29542
+O 0 34072 0 29544
+O 0 29522 0 29545
+O 0 29523 0 29545
+O 0 27838 0 29546
+O 0 34072 0 29547
+O 0 34072 0 29548
+O 0 34079 0 29552
+O 0 34080 0 29552
+M 0 29539 5 29552 1
+O 0 34079 0 29553
+O 0 34080 0 29553
+M 0 29539 5 29553 1
+O 0 34078 0 29554
+M 0 29523 1 29571 1
+G 0 29545 0
+G 0 29546 0
+G 0 29547 0
+M 0 29513 1 29573 1
+G 0 29527 0
+G 0 29528 0
+M 0 29514 1 29577 1
+G 0 29529 0
+G 0 29530 0
+O 0 29534 0 29578
+M 0 29515 1 29578 1
+G 0 29533 0
+G 0 29532 0
+G 0 29531 0
+M 0 29516 1 29579 1
+G 0 29536 0
+G 0 29535 0
+M 0 29517 1 29580 1
+G 0 29537 0
+G 0 29538 0
+M 0 29525 10 29591 2
+M 0 29525 10 29591 2
+M 0 29535 1 29596 1
+G 0 29569 0
+G 0 29571 0
+G 0 29572 0
+G 0 29570 0
+G 0 29573 0
+M 0 29536 5 29596 5
+M 0 29536 5 29596 5
+M 0 29536 5 29596 5
+M 0 29536 5 29596 5
+M 0 29536 5 29596 5
+M 0 29537 1 29597 1
+G 0 29574 0
+G 0 29575 0
+G 0 29576 0
+O 0 29562 0 29617
+M 0 29531 10 29617 1
+O 0 34075 0 29626
+O 0 34076 0 29626
+P 0 34077 5 34076 5
+S
+
+
+
+#SHOPS
+29502 0 0 0 0 0 100 100 0 23
+29505 0 0 0 0 0 100 100 0 23
+29509 0 0 0 0 0 100 100 0 23
+29511 0 0 0 0 0 100 100 0 23
+29513 0 0 0 0 0 100 100 0 23
+29514 0 0 0 0 0 100 100 0 23
+29515 0 0 0 0 0 100 100 0 23
+29516 0 0 0 0 0 100 100 0 23
+29517 0 0 0 0 0 100 100 0 23
+29518 0 0 0 0 0 100 100 0 23
+29522 0 0 0 0 0 100 100 0 23
+29523 19 0 0 0 0 100 100 0 23
+29529 0 0 0 0 0 100 100 0 23
+29530 0 0 0 0 0 100 100 0 23
+29532 0 0 0 0 0 100 100 0 23
+29533 0 0 0 0 0 100 100 0 23
+29534 0 0 0 0 0 100 100 0 23
+29535 0 0 0 0 0 100 100 0 23
+29537 0 0 0 0 0 100 100 0 23
+29538 0 0 0 0 0 100 100 0 23
+29542 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#$

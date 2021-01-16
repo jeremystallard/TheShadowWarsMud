@@ -1,0 +1,6064 @@
+#AREADATA
+Name Inner City Cairhien~
+Builders Sariala Jaran~
+VNUMs 5900 6199
+Credits None~
+Security 5
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#5990
+changer banker girl~
+A {x{Ypr{We{Yt{Wt{Yy{x, {x{Draven{x-{Dhaired{x {Yg{Wi{Yr{Wl{x~
+A {x{Ypr{We{Yt{Wt{Yy{x, {x{Draven{x-{Dhaired{x {Yg{Wi{Yr{Wl{x sits behind the counter, counting out money for customers with a smile.
+~
+A stunning smile and beautiful long, {x{Draven{x tresses, this young girl
+doesn't seem to mind even the customers who come in and are rude to her. 
+She seems to have a smile for everyone.  
+~
+andoran~
+ABDGd HJV 1000 0
+10 0 6d7+100 10d10+100 2d2+5 slap
+0 0 0 0 0
+A
+0 0 0 0
+DEFHIKNe BCD BD 0
+stand stand female 6000
+0 0 medium 'flesh'
+#5994
+noblewoman noble woman elegant~
+an {mel{Me{Wg{Ma{mnt{x noblewoman~
+An {mel{Me{Wg{Ma{mnt{x noblewoman strolls along, her hair piled high on her head. 
+~
+This short, stiff woman strolls along with the self-assurance or ego of
+the very rich.  Her hair is piled high on her head, elaborately curled and
+coifed as per the Cairhienin fashion.  She wears an elegant dark green dress
+with ivory lace at the throat and cuffs, and her skirt stands out wider than
+a doorway, like a huge bell.  
+~
+cairhienin~
+A 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 punch
+0 0 0 0 0
+0
+6 6 6 6
+EFH 0 0 0
+stand stand female 473
+0 0 medium 'unknown'
+#5995
+nobleman man noble long haired~
+a long-haired {bno{Bbl{bema{Bn{x~
+A long-haired {bno{Bbl{bema{Bn{x wearing a bell-shaped velvet hat.
+~
+This man is obviously a nobleman by his self assurance and his mode of
+apparel.  He wears dark blue clothing with horizontal slashes across his
+chest and body marking his house, and high rank.  Dark ivory lace is bunched
+up at his throat and wrists, and to top off the outfit is a flat, bell
+shaped velvet hat covering his long hair.  
+~
+cairhienin~
+A 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+0
+6 6 6 6
+F 0 0 E
+stand stand male 586
+0 0 medium 'unknown'
+#5996
+man footman servant~
+a solemn {Df{wo{Wotm{wa{Dn{x~
+A solemn {Df{wo{Wotm{wa{Dn{x in an unrelieved {Ddark gr{we{Dy{x uniform
+~
+A solemn {Df{wo{Wotm{wa{Dn{x in an unrelieved {Ddark gr{we{Dy{x uniform works at one of the
+many tasks necessary to keep the {BP{Ya{Wla{Yc{Be{x in impeccable condition.  His dark
+hair is combed back severely from his pale face and his eyes are cast
+respectfully low.  
+~
+cairhienin~
+A 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+0
+2 2 2 2
+F 0 0 E
+stand stand male 12
+0 0 medium 'unknown'
+#5997
+maid servant woman~
+a {Wprim {Dm{wa{Wi{Dd{x~
+A {Wprim {Dm{wa{Wi{Dd{x in an unrelieved {Ddark gr{we{Dy{x uniform
+~
+A {Wprim {Dm{wa{Wi{Dd{x in an unrelieved {Ddark gr{we{Dy{x uniform works at one of the many
+tasks necessary to keep the {BP{Ya{Wla{Yc{Be{x in impeccable condition.  Her dark hair
+is pulled back severely from her pale face and her eyes are cast
+respectfully low.  
+~
+cairhienin~
+A 0 0 0
+55 45 28d28+3025 55d10+100 6d11+27 punch
+0 0 0 0 0
+0
+2 2 2 2
+F 0 0 0
+stand stand female 10
+0 0 medium 'unknown'
+#5998
+archer man~
+an alert {ca{Cr{Ych{Ce{cr{x~
+An alert {ca{Cr{Ych{Ce{cr{x
+~
+A short pale man in a {bbl{Bu{be{x tunic with the {yR{Yi{Wsi{Yn{yg {YS{yu{Yn{x of Cairhien on the
+breast stands duty here, alertly scanning out the windows, his bow near to
+hand.  
+~
+cairhienin~
+AB 0 0 0
+95 85 48d48+9025 95d10+100 10d15+47 none
+0 0 0 0 0
+A
+6 6 6 6
+0 0 0 E
+stand stand male 20
+0 0 medium 'fleshy'
+#5999
+guard man guardsman ~
+an on-duty {cg{Cu{Ya{Wrds{Ym{Ca{cn{x~
+An on-duty {cG{Cu{Ya{Wrds{Ym{Ca{cn{x
+~
+A short pale man in plain {Da{wr{Wm{wo{D{xr and a {bbl{Bu{be{x cloak with the {yR{Yi{Wsi{Yn{yg {YS{yu{Yn{x of
+Cairhien on the breast stands duty here, spear in hand.  
+~
+cairhienin~
+AB 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+0 0 0 E
+stand stand male 50
+0 0 medium 'fleshy'
+#6000
+short man guard~
+a Cairhienin {cg{Cu{Ya{Wrds{Ym{Ca{cn{x~
+A {cR{Co{Yy{Ca{cl G{Cu{Ya{Wrds{Ym{Ca{cn{x
+~
+A short, pale-skinned man stands stiffly here, his {wdark{x hair shaved at
+the front of his head in the manner of Cairhienin soldiery.  He wears a
+{Wgl{we{Wam{wi{Wng{x {Yg{yo{Yld{y-w{Ya{Wsh{Ye{yd{x hauberk and a {Bbl{bu{Be{x surcoat with the {yR{Yis{Wing {YSu{yn{x large
+upon the chest and bears a ceremonial looking halberd taller than he is.  
+~
+cairhienin~
+ABT 0 0 0
+100 90 51d52+10000 100d10+100 11d11+50 punch
+0 0 0 0 0
+A
+7 7 7 7
+KN 0 F E
+stand stand male 50
+0 0 medium 'fleshy'
+#6001
+citizen~
+a {ycitizen{w of Cairhien~
+A {ycitizen{w of Cairhien wanders aimlessly through the crowd.
+~
+A wanderer amongst the throng of urban life.
+~
+unique~
+A J 0 0
+15 1 1d1+1 1d1+0 1d1+0 headbutt
+0 0 0 0 0
+0
+0 0 0 0
+0 0 LQ R
+stand stand either 0
+0 0 medium 'flesh'
+#6002
+affluent man~
+an {gaffluent{w man~
+A rather {gaffluent{w man hurries by to more important places.
+~
+This man is dressed in finer clothing than the average citizen, and he
+looks like he's in a hurry.  
+~
+unique~
+A J 0 0
+25 2 2d2+1 0d0+0 2d2+2 slap
+0 0 0 0 0
+0
+0 0 0 0
+0 0 LQ R
+stand stand male 20
+0 0 medium 'flesh'
+#6003
+woman minor noble~
+a woman of minor {gnobility{w~
+A woman of minor {gnobility{w pays no attention to you as she passes.
+~
+A modestly pretty woman turns her nose up at you as she glides by.
+~
+unique~
+A J 0 0
+25 2 2d2+2 1d1+1 2d2+1 knee
+0 0 0 0 0
+0
+0 0 0 0
+0 0 LQ R
+stand stand female 20
+0 0 medium 'unknown'
+#6005
+guard guardsman~
+a guardsman of the {yP{Ya{Wla{Yc{ye{w~
+A {yP{Ya{Wla{Yc{ye{w guardsman stands at attention here.
+~
+A guardsman of the Sun Palace stands here, doing his job.  He wears light
+armor draped with dark linen, highlighted with brightly colored sashes
+across his chest.  His forehead is shaved in the typical Cairhienin
+tradition.  
+~
+unique~
+A J 0 0
+50 10 10d10+5 10d10+5 10d10+1 slash
+0 0 0 0 0
+0
+-10 -10 -10 -10
+0 0 LQ R
+stand stand male 50
+0 0 medium 'unknown'
+#6006
+officer high guard~
+a High Officer of the {yP{Ya{Wla{Yc{ye{w guard~
+A High Officer of the {yP{Ya{Wla{Yc{ye{w guard stands here in command.
+~
+This man looks like his lesser counterparts, except he wears a plumed
+helmet and carries himself with a more rigid aire.  
+~
+unique~
+A J 0 0
+65 25 20d5+5 0d0+0 10d5+2 slash
+0 0 0 0 0
+0
+0 0 0 0
+0 0 LQ R
+stand stand none 0
+0 0 medium 'unknown'
+#6015
+important citizen~
+an important citizen~
+An important citizen lounges here, probably taking a break from the Game.
+~
+This person seems to think that they are worth more than your time has to offer.
+~
+unique~
+A J 0 0
+30 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 LQ R
+stand stand either 0
+0 0 medium 'unknown'
+#6016
+healthy barmaid ale wench~
+a healthy {Yb{yarmai{Yd{w~
+A healthy {Yb{yarmai{Yd{x is here, brandishing multiple mugs of ale.
+~
+She sure carries herself well with such large... mugs.
+~
+domani~
+AG 0 0 0
+1 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+M 'BRIBE' 6016 100~
+M 'BRIBE' 6016 0~
+#6060
+ken al'Sears~
+{DKen al'Sears{w~
+{DKen al'Sears{w stands here silently.
+~
+Don't mess with this guy.
+~
+andoran~
+AJKb 0 0 0
+85 100 100d100+100 0d0+0 100d100+100 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#5990
+sign~
+a little sign on the wall~
+There's a little sign hanging on the wall here!~
+wood~
+trash S 0
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+Of course your valiant efforts will not go unrewarded.  Type: look old
+
+and you will see what rewards the old man has to offer.  
+~
+#5991
+sign~
+a {x{Yne{Wat{Yly {Wwr{Yitt{Wen {Ys{Wi{Yg{Wn{x~
+A, small {x{Yne{Wat{Yly {Wwr{Yitt{Wen {Ys{Wi{Yg{Wn{x sits on the counter here.~
+cardboard~
+trash S 0
+0 0 0 0 0
+0 0 0 100
+E
+sign~
+A neatly written sign reads:
+ 
+Give amount <gold silver> girl
+~
+#5993
+blanket~
+a {x{Wb{we{Wa{wu{Wt{wi{Wf{wu{Wl {Cpa{ctc{Wh{cwo{Crk {Wbl{ca{Wn{Ck{ce{Wt{x~
+A {x{Wb{we{Wa{wu{Wt{wi{Wf{wu{Wl {Cpa{ctc{Wh{cwo{Crk {Wbl{ca{Wn{Ck{ce{Wt{x is spread out here.~
+quilt~
+furniture S 0
+2 1000000 EHK 200 200
+0 0 0 100
+#5994
+santa hat~
+a {Wfuzzy {RS{ra{Wn{rt{Ra H{ra{Wt{x~
+A {Wfuzzy {RS{ra{Wn{rt{Ra H{ra{Wt{x has been discarded here.~
+cloth~
+trash SY AE
+0 0 0 0 0
+1 1 3000000 100
+#6000
+sun throne~
+the {ySu{Yn {WTh{Yro{yne{w~
+The {ySu{Yn{W Th{Yro{yne{w sits upon a wide dais at the back of the room.~
+wooden~
+furniture 0 P
+1 0 F 100 100
+0 3000 3000 100
+#6001
+key steel sturdy~
+a sturdy {Dmetal{w key~
+A sturdy {Dmetal{w key is here.~
+metal~
+key 0 AO
+A CFG CFG A D
+94 5 1 100
+#6002
+kimono~
+{Da flowing {Wwhite satin{w {Dkimono embroidered with a {rD{Rr{yag{Ro{rn{D coiling up the left arm to the breast{w~
+none~
+satin~
+armor GKY AD
+-20000 -20000 -20000 -20000 0
+94 3 10000 100
+#6003
+scabbard sash~
+{Da {rcherry {ywood {Dscabbard tucked under a {rfi{Re{rr{Ry r{red{D sash{w~
+none~
+satin~
+container 0 AL
+3 0 0 1 20
+94 3 100 100
+#6004
+fountain~
+a tiered {yg{Yo{Wld{Ye{yn{w fountain~
+A tiered {yg{Yo{Wld{Ye{yn{w fountain is here, gently spraying its cool mists into the air.~
+metal~
+fountain 0 P
+0 0 'water' 0 0
+0 2000 0 100
+#6005
+wicker couch~
+a wicker couch~
+A comfortable wicker couch rests here in the center of the room.~
+cloth~
+furniture 0 0
+3 0 EHK 0 0
+0 0 0 100
+#6010
+banner rising sun~
+a banner depicting a {yRi{Ys{Wing {YS{yun{w~
+A banner is floating here, depicting a glorious rising sun.~
+cloth~
+light 0 AQ
+0 0 10000 0 0
+20 2 2 100
+#6011
+cuirasse gilded breastplate breast~
+a {yg{Yi{Wld{Ye{yd{w cuirasse adorned with slashes of color~
+A breastplate is here on the ground, ornately decorated.~
+metal~
+armor 0 AK
+-15 -15 -15 -5 0
+50 15 20 100
+#6012
+ornate gauntlets~
+a pair of {yo{Yr{Wna{Yt{ye{w plated gauntlets~
+A pair of armored gauntlets lay here.~
+leather~
+armor 0 AH
+-5 -5 -5 -2 0
+50 3 10 100
+#6013
+plumed bell helmet~
+a {Ww{whit{We{w plumed bell shaped helmet~
+A {Ww{whit{We{w plumed bell shaped helmet is here on the ground.~
+metal~
+armor 0 AE
+-10 -10 -10 -10 0
+65 5 30 100
+#6014
+sword cairhienin steel~
+a sword of fine Cairhienin {Ds{wtee{Dl{w~
+A longsword is here against the wall.~
+metal~
+weapon 0 AN
+sword 4 10 'slash' 0
+50 8 100 100
+#6015
+fountain~
+a small {Ww{wh{Wi{wt{We{w {Wm{wa{Wr{wb{Wl{we fountain~
+Sitting in the center of a neatly-kept indoor garden, a small {Ww{wh{Wi{wt{We{w {Wm{wa{Wr{wb{Wl{we fountain is here.~
+stone~
+fountain 0 P
+0 0 'water' 0 0
+1 0 0 100
+#6016
+long marble table tables~
+a long marble table~
+Several long rectangular {Wm{wa{Wr{wb{Wl{we tables are set here in rows.~
+marble~
+furniture 0 P
+20 0 DG 10 0
+1 100 0 100
+#6017
+key large gilded~
+a large {Yg{yi{Yld{ye{Yd{w key~
+A large {Yg{yi{Yld{ye{Yd{w key is here.~
+metal~
+key 0 AOP
+0 0 0 0 0
+0 0 0 100
+#6018
+key large metal~
+a large {Dmetal{w key~
+A large {Dmetal{w key is here.~
+metal~
+key 0 AOP
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#6144
+The Center Aisle of the Stables~
+The aisle running down the middle of the {ystables{w comes to an end here,
+with doors to the east and west.  {DM{ga{Drb{gl{De{w columns, streaked with green, stand
+on the sides of the doors and give the stables a rather cold feel.  The
+aisle continues on to the south past the rest of the stalls.  Everything
+appears to be very clean, although there is always a very faint, {Dmusty{w smell
+in the air.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 6154
+D2
+~
+~
+0 0
+0 0 6143
+D3
+~
+~
+3 3
+1 0 6153
+S
+#6145
+The Center Aisle of the Stables~
+This center aisle runs north and south.  To the east and west are doors
+which are flanked by large, green-streaked {Dm{ga{Drb{gl{De{w columns.  To the east is a
+stall, but the door to the west leads to the tack room.  Just to the north
+is the center, with aisles going to the east and west.  The smell of {rh{yo{rrs{ye{rs{w
+and {Yhay{w is all around.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6141
+D1
+~
+~
+3 3
+1 0 6150
+D2
+~
+~
+0 0
+0 0 6146
+D3
+~
+~
+1 1
+1 0 6149
+S
+#6146
+The Center Aisle of the Stables~
+The aisle running down the middle of the {ystables{w comes to an end here,
+with doors to the east and west.  {DM{ga{Drb{gl{De{w columns, streaked with green, stand
+on the sides of the doors and give the stables a rather cold feel.  The
+aisle continues on to the north past the rest of the stalls.  Everything
+appears to be very clean, although there is always a very faint, {Dmusty{w smell
+in the air.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6145
+D1
+~
+~
+3 3
+1 0 6148
+D3
+~
+~
+3 3
+1 0 6147
+S
+#6147
+A Large Stall~
+This stall is nearly pristine, and it is obvious that perfection is
+desired even in the stables.  Tall, square, {Dm{ga{Drb{gl{De{w columns rise up in each
+corner of the stall, and the floor is also of marble, although it is mostly
+covered by a clean layer of {Yhay{w.  There are {yg{Yolde{yn{w hitching rings on both of
+the side walls.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 6146
+S
+#6148
+A Large Stall~
+Green-streaked {Dm{ga{Drb{gl{De{w makes up this large stall, from the columns at the
+corners to the floor peeking out beneath a layer of fresh {Yhay{w.  {yG{Yolde{yn{w
+hitching rings have been set into the walls at both sides of the stall, and
+everything appears to be quite clean, although there is always an
+ever-present smell of {rh{yo{rrs{ye{rs{w in the air.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 6146
+S
+#6149
+The Tack Room~
+The tack room, like all of the stalls in the stables, is made up of a
+green-streaked {Dm{ga{Drb{gl{De{w.  The walls are lined with pegs that hold bridles and
+harnesses.  Stands line the wall supporting a number of fancy {rs{yaddle{rs{w,
+mounted with {Ws{wi{Dlv{we{Wr{w and {yg{Yol{yd{w, and there is a large {yc{Dh{ye{Ds{yt{w in one corner
+holding many different colorful {yb{rl{Ranke{rt{ys{w.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 6145
+S
+#6150
+A Large Stall~
+Columns of {Dm{ga{Drb{gl{De{w, streaked with green, rise up on all four corners of
+this stall.  A layer of {Yhay{w nearly covers the floor, which is also of
+marble.  Set into the walls on both sides of the stall are {yg{Yolde{yn{w hitching
+rings.  Everything appears to be in perfect order, and it is clear that the
+{ystables{w are cleaned fairly often.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 6145
+S
+#6151
+A Large Stall~
+Green-streaked {Dm{ga{Drb{gl{De{w makes up this large stall, from the columns at the
+corners to the floor peeking out beneath a layer of fresh {Yhay{w.  {yG{Yolde{yn{w
+hitching rings have been set into the walls at both sides of the stall, and
+everything appears to be quite clean, although there is always an
+ever-present smell of {rh{yo{rrs{ye{rs{w in the air.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 6143
+S
+#6152
+A Large Stall~
+This stall is nearly pristine, and it is obvious that perfection is
+desired even in the stables.  Tall, square, {Dm{ga{Drb{gl{De{w columns rise up in each
+corner of the stall, and the floor is also of marble, although it is mostly
+covered by a clean layer of {Yhay{w.  There are {yg{Yolde{yn{w hitching rings on both of
+the side walls.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 6143
+S
+#6153
+A Large Stall~
+Columns of {Dm{ga{Drb{gl{De{w, streaked with green, rise up on all four corners of
+this stall.  A layer of {Yhay{w nearly covers the floor, which is also of
+marble.  Set into the walls on both sides of the stall are {yg{Yolde{yn{w hitching
+rings.  Everything appears to be in perfect order, and it is clear that the
+{ystables{w are cleaned fairly often.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 6144
+S
+#6154
+A Large Stall~
+Green-streaked {Dm{ga{Drb{gl{De{w makes up this large stall, from the columns at the
+corners to the floor peeking out beneath a layer of fresh {Yhay{w.  {yG{Yolde{yn{w
+hitching rings have been set into the walls at both sides of the stall, and
+everything appears to be quite clean, although there is always an
+ever-present smell of {rh{yo{rrs{ye{rs{w in the air.  
+~
+0
+0 0
+D3
+~
+~
+3 3
+1 0 6144
+S
+#6155
+The Southwest Tower~
+Just to the west is a wide, open doorway which leads out to the walk
+around the {YSun{w Palace.  To the south is a set of stone stairs that go up to
+the top of the tower.  High up on the walls of the {Dto{ww{Der{w are tall, narrow
+{Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground here is made of
+perfectly set stones.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6156
+D2
+~
+~
+0 0
+0 0 6158
+D3
+~
+~
+1 1
+1 0 6093
+S
+#6156
+The Southwest Tower~
+In this corner of the {Dto{ww{Der{w, the narrow {Dw{Cindow{Ds{w have been set low enough
+on the wall that one can see out of them.  Outside and below the windows is
+a large, square {gg{ma{grd{me{gn{w filled with flowers.  The {mf{rl{Rowe{rr{ms{w have been arranged
+by color and sit in perfectly-square {yb{ged{ys{w.  Off to the south and west are
+open doorways leading outside, while there is an ascending stone staircase
+to the southwest.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 6157
+D3
+~
+~
+0 0
+0 0 6155
+S
+#6157
+The Southwest Tower~
+Just to the south is a wide, open doorway which leads out to the walk
+around the Palace of the Rising {YSun{w.  To the west is a set of stone stairs
+that go up to the top of the tower.  High up on the walls of the {Dto{ww{Der{w are
+tall, narrow {Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground
+here is made of perfectly set stones.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6156
+D2
+~
+~
+1 1
+1 0 6089
+D3
+~
+~
+0 0
+0 0 6158
+S
+#6158
+The Bottom of the Tower Staircase~
+This smooth stone staircase leads up to the top of the {Dto{ww{Der{w.  The
+banister which runs along its side is {Yg{yi{Yld{ye{Yd{w and is really the only
+decoration to the tower.  There are tall {Dw{Cindow{Ds{w to either side of the
+stairs which allow {yl{Yigh{yt{w in during the day, while the tall, standing lamps
+which sit at the foot of the staircase provide light at night.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6155
+D1
+~
+~
+0 0
+0 0 6157
+D4
+~
+~
+0 0
+0 0 6159
+S
+#6159
+Top of the Southwest Tower~
+Tall, narrow {Dw{Cindow{Ds{w line every wall here at the top of the stepped
+tower.  Two standing, {Yg{yi{Yld{ye{Yd{w lamps sit to either side of the staircase,
+which leads down to the lower, large section of the {Dto{ww{Der{w.  The view from
+here is one of the best in the city, and {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is spread out as far as
+the eye can see.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 6158
+S
+#6160
+The Northwest Tower~
+Just to the west is a wide, open doorway which leads out to the walk
+around the {YSun{w Palace.  To the north is a set of stone stairs that go up to
+the top of the tower.  High up on the walls of the {Dto{ww{Der{w are tall, narrow
+{Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground here is made of
+perfectly set stones.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6163
+D1
+~
+~
+0 0
+0 0 6161
+D3
+~
+~
+1 1
+1 0 6097
+S
+#6161
+The Northwest Tower~
+In this corner of the {Dto{ww{Der{w, the narrow {Dw{Cindow{Ds{w have been set low enough
+on the wall that one can see out of them.  Outside and below the windows is
+a large, square {gg{ma{grd{me{gn{w filled with flowers.  The {mf{rl{Rowe{rr{ms{w have been arranged
+by color and sit in perfectly-square {yb{ged{ys{w.  Off to the north and west are
+open doorways leading outside, while there is an ascending stone staircase
+to the northwest.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6162
+D3
+~
+~
+0 0
+0 0 6160
+S
+#6162
+The Northwest Tower~
+Just to the north is a wide, open doorway which leads out to the walk
+around the Palace of the Rising {YSun{w.  To the west is a set of stone stairs
+that go up to the top of the tower.  High up on the walls of the {Dto{ww{Der{w are
+tall, narrow {Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground
+here is made of perfectly set stones.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6101
+D2
+~
+~
+0 0
+0 0 6161
+D3
+~
+~
+0 0
+0 0 6163
+S
+#6163
+The Bottom of the Tower Staircase~
+This smooth stone staircase leads up to the top of the {Dto{ww{Der{w.  The
+banister which runs along its side is {Yg{yi{Yld{ye{Yd{w and is really the only
+decoration to the tower.  There are tall {Dw{Cindow{Ds{w to either side of the
+stairs which allow {yl{Yigh{yt{w in during the day, while the tall, standing lamps
+which sit at the foot of the staircase provide light at night.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6162
+D2
+~
+~
+0 0
+0 0 6160
+D4
+~
+~
+0 0
+0 0 6164
+S
+#6164
+Top of the Northwest Tower~
+Tall, narrow {Dw{Cindow{Ds{w line every wall here at the top of the stepped tower.  Two 
+standing, {Yg{yi{Yld{ye{Yd{w lamps sit to either side of the staircase, which leads down 
+to the lower, large section of the {Dto{ww{Der{w.  The view from here is one of the best 
+in the city, and {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is spread out as far as the eye can see.
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 6163
+S
+#6165
+The Northeast Tower~
+Just to the north is a wide, open doorway which leads out to the walk
+around the Palace of the Rising {YSun{w.  To the east is a set of stone stairs
+that go up to the top of the tower.  High up on the walls of the {Dto{ww{Der{w are
+tall, narrow {Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground
+here is made of perfectly set stones.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6109
+D1
+~
+~
+0 0
+0 0 6168
+D2
+~
+~
+0 0
+0 0 6166
+S
+#6166
+The Northeast Tower~
+In this corner of the {Dto{ww{Der{w, the narrow {Dw{Cindow{Ds{w have been set low enough
+on the wall that one can see out of them.  Outside and below the windows is
+a large, square {gg{ma{grd{me{gn{w filled with flowers.  The {mf{rl{Rowe{rr{ms{w have been arranged
+by color and sit in perfectly-square {yb{ged{ys{w.  Off to the north and east are
+open doorways leading outside, while there is an ascending stone staircase
+to the northeast.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6165
+D1
+~
+~
+0 0
+0 0 6167
+S
+#6167
+The Northeast Tower~
+Just to the east is a wide, open doorway which leads out to the walk
+around the {YSun{w Palace.  To the north is a set of stone stairs that go up to
+the top of the tower.  High up on the walls of the {Dto{ww{Der{w are tall, narrow
+{Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground here is made of
+perfectly set stones.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6168
+D1
+~
+~
+1 1
+1 0 6113
+D3
+~
+~
+0 0
+0 0 6166
+S
+#6168
+The Bottom of the Tower Staircase~
+This smooth stone staircase leads up to the top of the {Dto{ww{Der{w.  The
+banister which runs along its side is {Yg{yi{Yld{ye{Yd{w and is really the only
+decoration to the tower.  There are tall {Dw{Cindow{Ds{w to either side of the
+stairs which allow {yl{Yigh{yt{w in during the day, while the tall, standing lamps
+which sit at the foot of the staircase provide light at night.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 6167
+D3
+~
+~
+0 0
+0 0 6165
+D4
+~
+~
+0 0
+0 0 6169
+S
+#6169
+Top of the Northeast Tower~
+Tall, narrow {Dw{Cindow{Ds{w line every wall here at the top of the stepped
+tower.  Two standing, {Yg{yi{Yld{ye{Yd{w lamps sit to either side of the staircase,
+which leads down to the lower, large section of the {Dto{ww{Der{w.  The view from
+here is one of the best in the city, and {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is spread out as far as
+the eye can see.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 6168
+S
+#6170
+The Southeast Tower~
+Just to the east is a wide, open doorway which leads out to the walk
+around the {YSun{w Palace.  To the south is a set of stone stairs that go up to
+the top of the tower.  High up on the walls of the {Dto{ww{Der{w are tall, narrow
+{Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground here is made of
+perfectly set stones.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 6117
+D2
+~
+~
+0 0
+0 0 6173
+D3
+~
+~
+0 0
+0 0 6171
+S
+#6171
+The Southeast Tower~
+In this corner of the {Dto{ww{Der{w, the narrow {Dw{Cindow{Ds{w have been set low enough
+on the wall that one can see out of them.  Outside and below the windows is
+a large, square {gg{ma{grd{me{gn{w filled with flowers.  The {mf{rl{Rowe{rr{ms{w have been arranged
+by color and sit in perfectly-square {yb{ged{ys{w.  Off to the south and east are
+open doorways leading outside, while there is an ascending stone staircase
+to the southeast.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6170
+D2
+~
+~
+0 0
+0 0 6172
+S
+#6172
+The Southeast Tower~
+Just to the south is a wide, open doorway which leads out to the walk
+around the Palace of the Rising {YSun{w.  To the east is a set of stone stairs
+that go up to the top of the tower.  High up on the walls of the {Dto{ww{Der{w are
+tall, narrow {Dw{Cindow{Ds{w.  They allow a fair amount of {yl{Yigh{yt{w in.  The ground
+here is made of perfectly set stones.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6171
+D1
+~
+~
+0 0
+0 0 6173
+D2
+~
+~
+1 1
+1 0 6121
+S
+#6173
+The Bottom of the Tower Staircase~
+This smooth stone staircase leads up to the top of the {Dto{ww{Der{w.  The
+banister which runs along its side is {Yg{yi{Yld{ye{Yd{w and is really the only
+decoration to the tower.  There are tall {Dw{Cindow{Ds{w to either side of the
+stairs which allow {yl{Yigh{yt{w in during the day, while the tall, standing lamps
+which sit at the foot of the staircase provide light at night.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6170
+D3
+~
+~
+0 0
+0 0 6172
+D4
+~
+~
+0 0
+0 0 6174
+S
+#6174
+Top of the Southeast Tower~
+Tall, narrow {Dw{Cindow{Ds{w line every wall here at the top of the stepped
+tower.  Two standing, {Yg{yi{Yld{ye{Yd{w lamps sit to either side of the staircase,
+which leads down to the lower, large section of the {Dto{ww{Der{w.  The view from
+here is one of the best in the city, and {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is spread out as far as
+the eye can see.  
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 6173
+S
+#6175
+The Central Corridor~
+This long, wide corridor moves to the east, with an open doorway just to
+the west which leads to the walk around the upper level of the Royal Palace
+of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on both sides of the doorway. 
+Otherwise, this section of hallway is {Dbare{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6176
+D3
+~
+~
+1 1
+1 0 6095
+S
+#6176
+The Central Corridor~
+Large doors sit on both sides of the hallway here.  The ones to the south
+are very tall and {Yg{yi{Yld{ye{Yd{w with rising suns.  They lead to the royal chambers,
+while the open doors to the north are of a dark {Dwood{w, carved with vertical
+lines.  Those doors go to the royal {gg{ma{grd{me{gn{w.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6184
+D1
+~
+~
+0 0
+0 0 6177
+D2
+~
+~
+7 7
+2 6018 6185
+D3
+~
+~
+0 0
+0 0 6175
+S
+#6177
+The Central Corridor~
+The walls are bare here along this section of the corridor.  The tall,
+{Yg{yi{Yld{ye{Yd{w lamps that are common throughout the Palace are here, giving light. 
+Just to the east is a small intersection, with hallways leading off to the
+north and south.  This corridor continues to the east and west, with
+doorways visible just to the west.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6083
+D3
+~
+~
+0 0
+0 0 6176
+S
+#6178
+The Central Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps line the corridor, with one standing right next to a
+large, gold-banded {rc{yh{re{ys{rt{w that has been pushed against the wall to the north.
+There is large intersection just to the west, with hallways leading to the
+north and south from there.  Here, the corridor continues from east to west.
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6179
+D3
+~
+~
+0 0
+0 0 6083
+S
+#6179
+The Central Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  On both sides of the hallway, long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They
+are kept perfectly square with the walls, and they are both embroidered with
+to show birds flying in rigid patterns.  They are kept very clean and are in
+good repair, free of {Ddust{w or even the smallest flaws.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6180
+D3
+~
+~
+0 0
+0 0 6178
+S
+#6180
+The Central Corridor~
+A small table rests against the wall to the south and displays a small,
+a{Wlabaste{wr figurine.  It appears to be of a person but is made with harsh
+lines and angles, as opposed to the soft curves one might normally expect. 
+Just to the east is a large intersection, while this corridor moves in a
+very straight line from east to west.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6130
+D3
+~
+~
+0 0
+0 0 6179
+S
+#6181
+The Central Corridor~
+The walls are bare here along this section of the corridor.  The tall,
+{Yg{yi{Yld{ye{Yd{w lamps that are common throughout the Palace are here, giving light. 
+Just to the west is a small intersection, with hallways leading off to the
+north and south.  This corridor continues to the east and west.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6182
+D3
+~
+~
+0 0
+0 0 6130
+S
+#6182
+The Central Corridor~
+Niches are set into both sides of the wall here, displaying fine pieces
+of Sea Folk {Dp{wo{br{wc{We{wl{ba{wi{Dn{w.  The niche to the north holds a nearly-translucent,
+{yg{Yol{yd{w bowl, while to the south, the small vase is of a deep {bbl{Bu{be{w.  {YG{yi{Yld{ye{Yd{w
+lamps are spaced evenly along the corridor, which continues on to the east
+and west.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6183
+D3
+~
+~
+0 0
+0 0 6181
+S
+#6183
+The Central Corridor~
+This long, wide corridor moves to the west, with an open doorway just to
+the east which leads to the walk around the upper level of the {YSun{w Palace. 
+Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on both sides of the doorway.  Otherwise, this
+section of hallway is {Dbare{w.  
+~
+0
+0 0
+D1
+~
+~
+1 1
+1 0 6115
+D3
+~
+~
+0 0
+0 0 6182
+S
+#6184
+The Royal Gardens~
+The paths that make their way through this large {gg{ma{grd{me{gn{w are set in a
+precise grid, just like the streets of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Every {mf{rl{Row{re{mr{w bed is
+perfectly square, and they are all the exact same size.  The ceiling is open
+in the center of this area, allowing a good deal of {ys{Yunligh{yt{w into the
+garden.  Well-pruned shrubs and small {gtr{Gee{gs{w have been placed in precise
+patterns throughout the garden.  In the very center is a large, square
+{Dfo{bu{Dnt{ba{Din{w, surrounded on all four sides by four matching, stone {Dbe{wnch{Des{w.  
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 6176
+S
+#6185
+The Royal Anteroom~
+This anteroom looks like a miniature throne room.  The door to the north
+which leads out to the main corridor is {Yg{yi{Yld{ye{Yd{w with rising suns.  A golden
+sun with wavy rays has been set into the polished floor, and large mirrors
+with {yg{Yol{yd{w frames line the walls.  On both sides of the room are rows of very
+straight, heavily {Yg{yi{Yld{ye{Yd{w chairs.  At the far end of the room, in front of
+the doorway leading to the south, is a very large chair, covered in twice as
+much gilding as the others.  It sits on top of a {Yg{yil{Yt{w-encrusted dais.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 6018 6176
+D2
+~
+~
+7 7
+2 6018 6186
+S
+#6186
+The Royal Sitting Room~
+The sitting room here, although not as severe as the anteroom to the
+north, still appears very formal.  Tall {ybo{Wo{yks{Wh{yel{Wv{yes{w sit against both sides
+of the walls, and the {bb{Book{bs{w they hold appear to have been selected for their
+size and color rather than topic.  Large, {Yg{yi{Yld{ye{Yd{w chairs with very straight
+backs have been arranged throughout the room.  Next to the chairs are small
+{ytables{w which hold statues and figurines made of {Ws{wi{Dlv{we{Wr{w and {yg{Yol{yd{w.  The
+doorway to the west leads into the royal bedroom.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 6018 6185
+D3
+~
+~
+7 7
+2 0 6187
+S
+#6187
+The Royal Bedroom~
+Unlike the heavily-{Yg{yi{Yld{ye{Yd{w rooms to the north, the furniture in this
+bedroom is made of {Dblackwood{w and {Wivory{w.  In the very center of the room is
+an enormous bed with four, square, blackwood posts that are thicker than a
+man's leg.  They are highly polished and are set between inlaid ivory
+wedges.  Matching {Dtables{w sit on both sides of the bed, and beneath it is a
+lush carpet of {gg{Gree{gn{w, {yg{Yol{yd{w, and {bb{Blu{be{w in a Tairen maze design.  Atop the bed
+are large feather pillows and linen sheets.  There are tall, narrow {Dw{Cindow{Ds{w
+along the walls which look out onto the {gg{ma{grde{mn{gs{w below.  
+~
+0
+0 0
+D1
+~
+~
+7 7
+2 0 6186
+S
+#6188
+A Large Sitting Room~
+A large, {Dm{ba{Drb{bl{De{w fireplace is to one side of this sitting room, while a
+number of heavy, carved {Dchairs{w sit against the opposite wall, facing it. 
+Next to the chairs are a small, {Yg{yi{Yld{ye{Yd{w tables, inlaid with {Wivory{w.  There is
+a tall {ybo{Wo{ykc{Wa{yse{w near the door to the south, holding a variety of books that
+appear to be arranged by color and size rather than topic.  A large,
+{gf{ml{Mo{Wwe{Mr{me{gd{w, Illianer carpet stretches across the floor.  The door to the north
+leads into the bedroom, while to the south is the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6189
+D2
+~
+~
+3 3
+1 0 6136
+S
+#6189
+A Large Guest Bedroom~
+Long, narrow {Dw{Cindow{Ds{w line the back wall, looking out onto the {gg{ma{grde{mn{gs{w
+below.  There are {Yg{yi{Yld{ye{Yd{w lamps next to the windows and on the side walls as
+well.  The light from the lamps reflect off of the well-polished, dark wood
+{Dpanels{w of the wall.  The panels have been carved with straight, vertical
+lines.  A large bed sits in the center of the room, covered with {Wlinen{w
+sheets and many feather pillows.  Next to the bed are two small {Yg{yi{Yld{ye{Yd{w
+tables, inlaid with {Wivory{w.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 6188
+S
+#6190
+A Large Sitting Room~
+Next to the {Dm{ba{Drb{bl{De{w fireplace, which is on one side of the room, are small,
+{Yg{yi{Yld{ye{Yd{w tables holding matching {Ws{wi{Dlv{we{Wr{w figurines.  On the opposite side of
+the room, behind the heavy, carved {Dchairs{w, large mirrors with {Yg{yi{Yld{ye{Yd{w frames
+have been hung, making the room appear to be even larger than it is. 
+{DBlackwood{w tables sit next to the chairs, holding small pieces of carved
+{Wivory{w.  A large {rr{Re{rd{w and {yg{Yol{yd{w carpet covers the floor.  The door to the north
+opens into the bedroom, while the one to the south leads to the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6191
+D2
+~
+~
+3 3
+1 0 6135
+S
+#6191
+A Large Guest Bedroom~
+This bedroom is rather large, with long, narrow {Dw{Cindow{Ds{w set into the back
+wall, overlooking the {gg{ma{grde{mn{gs{w below.  The walls are of a dark, polished
+{Dwood{w, and the light from the {yl{Yamp{ys{w reflect off of them.  There is a very
+large bed in the middle of the room, resting on top of a soft, dark green
+{gca{Grp{get{w.  Blackwood tables are on both sides of the bed, and there is a
+small, matching dressing {Dtable{w pushed against the side wall.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 6190
+S
+#6192
+A Large Sitting Room~
+There is a large {Dm{ba{Drb{bl{De{w fireplace on one side of this sitting room.  The
+{rf{Rl{Yam{Re{rs{w flickering from within it along with the lamps along the wall light
+the room.  Mirrors with {Yg{yi{Yld{ye{Yd{w frames are spaced evenly on the walls,
+between the lamps.  Heavy, carved {Dchairs{w are scattered throughout the room,
+and a large, {Yg{yi{Yld{ye{Yd{w table sits against the wall opposite the fireplace, just
+beneath one of the mirrors.  The door to the south leads out to the
+corridor, while the bedroom lies just beyond the door to the north.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6193
+D2
+~
+~
+3 3
+1 0 6134
+S
+#6193
+A Large Guest Bedroom~
+This bedroom is rather large.  In the center of the room sits a large
+bed, made of a dark, polished {Dwood{w.  The {yl{Yamp{ys{w along the walls shimmer
+against the polished wall panels which have been carved in concentric
+rectangles.  Small tables sit on both sides of the bed, atop a plush {bc{Barpe{bt{w
+that covers the entire floor.  There are tall, narrow {Dw{Cindow{Ds{w along the back
+wall, which overlook the {gg{ma{grde{mn{gs{w below.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 6192
+S
+#6194
+A Large Sitting Room~
+Next to the {Dm{ba{Drb{bl{De{w fireplace, which is on one side of the room, are small,
+{Yg{yi{Yld{ye{Yd{w tables holding matching {Ws{wi{Dlv{we{Wr{w figurines.  On the opposite side of
+the room, behind the heavy, carved {Dchairs{w, large mirrors with {Yg{yi{Yld{ye{Yd{w frames
+have been hung, making the room appear to be even larger than it is. 
+{DBlackwood{w tables sit next to the chairs, holding small pieces of carved
+{Wivory{w.  A large {rr{Re{rd{w and {yg{Yol{yd{w carpet covers the floor.  The door to the south
+opens into the bedroom, while the one to the north leads to the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6136
+D2
+~
+~
+3 3
+1 0 6195
+S
+#6195
+A Large Guest Bedroom~
+This bedroom is rather large, with long, narrow {Dw{Cindow{Ds{w set into the back
+wall, overlooking the {gg{ma{grde{mn{gs{w below.  The walls are of a dark, polished
+{Dwood{w, and the light from the {yl{Yamp{ys{w reflect off of them.  There is a very
+large bed in the middle of the room, resting on top of a soft, dark green
+{gca{Grp{get{w.  Blackwood tables are on both sides of the bed, and there is a
+small, matching dressing {Dtable{w pushed against the side wall.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6194
+S
+#6196
+A Large Sitting Room~
+A large, {Dm{ba{Drb{bl{De{w fireplace is to one side of this sitting room, while a
+number of heavy, carved {Dchairs{w sit against the opposite wall, facing it. 
+Next to the chairs are a small, {Yg{yi{Yld{ye{Yd{w tables, inlaid with {Wivory{w.  There is
+a tall {ybo{Wo{ykc{Wa{yse{w near the door to the south, holding a variety of books that
+appear to be arranged by color and size rather than topic.  A large,
+{gf{ml{Mo{Wwe{Mr{me{gd{w, Illianer carpet stretches across the floor.  The door to the south
+leads into the bedroom, while to the north is the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6135
+D2
+~
+~
+3 3
+1 0 6197
+S
+#6197
+A Large Guest Bedroom~
+Long, narrow {Dw{Cindow{Ds{w line the back wall, looking out onto the {gg{ma{grde{mn{gs{w
+below.  There are {Yg{yi{Yld{ye{Yd{w lamps next to the windows and on the side walls as
+well.  The light from the lamps reflect off of the well-polished, dark wood
+{Dpanels{w of the wall.  The panels have been carved with straight, vertical
+lines.  A large bed sits in the center of the room, covered with {Wlinen{w
+sheets and many feather pillows.  Next to the bed are two small {Yg{yi{Yld{ye{Yd{w
+tables, inlaid with {Wivory{w.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6196
+S
+#6198
+A Large Sitting Room~
+There is a large {Dm{ba{Drb{bl{De{w fireplace on one side of this sitting room.  The
+{rf{Rl{Yam{Re{rs{w flickering from within it along with the lamps along the wall light
+the room.  Mirrors with {Yg{yi{Yld{ye{Yd{w frames are spaced evenly on the walls,
+between the lamps.  Heavy, carved {Dchairs{w are scattered throughout the room,
+and a large, {Yg{yi{Yld{ye{Yd{w table sits against the wall opposite the fireplace, just
+beneath one of the mirrors.  The door to the north leads out to the
+corridor, while the bedroom lies just beyond the door to the south.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6134
+D2
+~
+~
+3 3
+1 0 6199
+S
+#6199
+A Large Guest Bedroom~
+This bedroom is rather large.  In the center of the room sits a large
+bed, made of a dark, polished {Dwood{w.  The {yl{Yamp{ys{w along the walls shimmer
+against the polished wall panels which have been carved in concentric
+rectangles.  Small tables sit on both sides of the bed, atop a plush {bc{Barpe{bt{w
+that covers the entire floor.  There are tall, narrow {Dw{Cindow{Ds{w along the back
+wall, which overlook the {gg{ma{grde{mn{gs{w below.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6198
+S
+#5900
+A Small Guest Bedroom~
+This room is modest in size but has everything a guest of the Palace
+might need.  A large bed sits in the middle of the room, atop a plush
+{bca{Brp{bet{w.  A {Dblackwood{w dresser, inlaid with {Wivory{w, is against a side wall, and
+a large mirror with a {Yg{yi{Yld{ye{Yd{w frame is on the wall above it.  {yL{Yamp{ys{w line the
+walls, and tall, narrow {Dw{Cindow{Ds{w along the back wall look down onto the
+{gg{ma{grde{mn{gs{w.  The door to the south leads to the corridor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 6137
+S
+#5901
+A Small Guest Bedroom~
+This room is modest in size but has everything a guest of the Palace
+might need.  A large bed sits in the middle of the room, atop a plush
+{bca{Brp{bet{w.  A {Dblackwood{w dresser, inlaid with {Wivory{w, is against a side wall, and
+a large mirror with a {Yg{yi{Yld{ye{Yd{w frame is on the wall above it.  {yL{Yamp{ys{w line the
+walls, and tall, narrow {Dw{Cindow{Ds{w along the back wall look down onto the
+{gg{ma{grde{mn{gs{w.  The door to the north leads to the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6137
+S
+#5902
+A Small Guest Bedroom~
+This room is modest in size but has everything a guest of the Palace
+might need.  A large bed sits in the middle of the room, atop a plush
+{bca{Brp{bet{w.  A {Dblackwood{w dresser, inlaid with {Wivory{w, is against a side wall, and
+a large mirror with a {Yg{yi{Yld{ye{Yd{w frame is on the wall above it.  {yL{Yamp{ys{w line the
+walls, and tall, narrow {Dw{Cindow{Ds{w along the back wall look down onto the
+{gg{ma{grde{mn{gs{w.  The door to the south leads to the corridor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 6138
+S
+#5903
+A Small Guest Bedroom~
+This room is modest in size but has everything a guest of the Palace
+might need.  A large bed sits in the middle of the room, atop a plush
+{bca{Brp{bet{w.  A {Dblackwood{w dresser, inlaid with {Wivory{w, is against a side wall, and
+a large mirror with a {Yg{yi{Yld{ye{Yd{w frame is on the wall above it.  {yL{Yamp{ys{w line the
+walls, and tall, narrow {Dw{Cindow{Ds{w along the back wall look down onto the
+{gg{ma{grde{mn{gs{w.  The door to the north leads to the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6138
+S
+#5904
+A Small Guest Bedroom~
+This room is modest in size but has everything a guest of the Palace
+might need.  A large bed sits in the middle of the room, atop a plush
+{bca{Brp{bet{w.  A {Dblackwood{w dresser, inlaid with {Wivory{w, is against a side wall, and
+a large mirror with a {Yg{yi{Yld{ye{Yd{w frame is on the wall above it.  {yL{Yamp{ys{w line the
+walls, and tall, narrow {Dw{Cindow{Ds{w along the back wall look down onto the
+{gg{ma{grde{mn{gs{w.  The door to the south leads to the corridor.  
+~
+0
+0 0
+D2
+~
+~
+3 3
+1 0 6139
+S
+#5905
+A Small Guest Bedroom~
+This room is modest in size but has everything a guest of the Palace
+might need.  A large bed sits in the middle of the room, atop a plush
+{bca{Brp{bet{w.  A {Dblackwood{w dresser, inlaid with {Wivory{w, is against a side wall, and
+a large mirror with a {Yg{yi{Yld{ye{Yd{w frame is on the wall above it.  {yL{Yamp{ys{w line the
+walls, and tall, narrow {Dw{Cindow{Ds{w along the back wall look down onto the
+{gg{ma{grde{mn{gs{w.  The door to the north leads to the corridor.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6139
+S
+#5906
+The Servants' Hallway~
+This long hallway leads from north to south, with a set of {Ds{wt{Wo{wn{De{w stairs
+just to the north that lead up to the main level of the Royal Palace of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  As it moves to the south, it passes a number of servants' rooms,
+like the one to the west, before it comes to an end at an identical set of
+stairs at the opposite end of the palace.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 5907
+D3
+~
+~
+3 3
+1 0 5923
+D4
+~
+~
+0 0
+0 0 6026
+S
+#5907
+The Servants' Hallway~
+The floor here is {Ds{wt{Wo{wn{De{w, not tiled like it is on the main level above. 
+This area is frequented only by the {YSun{w Palace's many servants.  Their
+rooms, like the one to the west, are on the northern end of this long
+hallway, while their kitchen and dining room are on the southern end.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5906
+D2
+~
+~
+0 0
+0 0 5908
+D3
+~
+~
+3 3
+1 0 5922
+S
+#5908
+The Servants' Hallway~
+Just to the west is a door to one of the many servants' bedrooms in the
+palace.  While there are no decorations on the walls here, no {Yg{yil{Yt{w on the
+lamps or tiles on the floor, it is warm and {Wclean{w and bright, with a
+pleasant aroma in the air.  A little ways to the north there is a set of
+stairs that lead up to the main level of the palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5907
+D2
+~
+~
+0 0
+0 0 5909
+D3
+~
+~
+3 3
+1 0 5921
+S
+#5909
+The Servants' Hallway~
+Smooth, seamless {Ds{wt{Won{we{Ds{w make up the floor of the servants' hallway as it
+moves from north to south.  There are bedrooms for the servants on the
+western side of the hallway, and plain {yl{Yamp{ys{w line the opposite wall, giving
+off an abundance of light, making it very bright here.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5908
+D2
+~
+~
+0 0
+0 0 5910
+D3
+~
+~
+3 3
+1 0 5920
+S
+#5910
+The Servants' Hallway~
+Far off to both the north and south there are sets of stairs leading up
+to the main level of the {YSun{w Palace.  There is a plain door to the west that
+opens into a servant's bedroom.  The hallway is brightly lit and very clean,
+and the {Ds{wt{Won{we{Ds{w of the floor have been worn very smooth from the obviously
+heavy traffic that makes its way through here every day.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5909
+D2
+~
+~
+0 0
+0 0 5911
+D3
+~
+~
+3 3
+1 0 5919
+S
+#5911
+The Servants' Hallway~
+On the western side of the hallway there are a number of bedrooms for the
+servants that work in the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  The floor here is
+{Ds{wt{Wo{wn{De{w, not tiled like it is on the main level above.  Plain {yl{Yamp{ys{w line the
+opposite wall, giving off an abundance of light, making it very bright here.
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5910
+D2
+~
+~
+0 0
+0 0 5912
+D3
+~
+~
+3 3
+1 0 5918
+S
+#5912
+The Servants' Hallway~
+A long hallway stretches off to the north and south, with sets of stairs
+at both ends that lead up to the main level of the {YSun{w Palace.  Just to the
+west is the dining room for the servants, and to the north there are a
+number of servants' bedrooms.  While there are no decorations on the walls
+here, no {Yg{yil{Yt{w on the lamps or tiles on the floor, it is warm and {Wclean{w and
+bright, with a pleasant aroma in the air.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5911
+D2
+~
+~
+0 0
+0 0 5913
+D3
+~
+~
+3 3
+1 0 5916
+S
+#5913
+The Servants' Hallway~
+The smells from the kitchen to the west are strong in the air here.  This
+wide, {Ybright{w hallway ends just to the south with a set of {Ds{wt{Wo{wn{De{w stairs
+leading up to the main level of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  There are a
+number of doorways on the western side of the hallway as it moves to the
+north along the entire length of the palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5912
+D2
+~
+~
+0 0
+0 0 5914
+D3
+~
+~
+3 3
+1 0 5915
+S
+#5914
+The Servants' Hallway~
+This long hallway leads from north to south, with a set of {Ds{wt{Wo{wn{De{w stairs
+just to the north that lead up to the main level of the {YSun{w Palace.  As it
+moves to the north, it passes the kitchen and dining room, as well as a
+number of servants' rooms before it comes to an end at an identical set of
+stairs at the opposite end of the palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 5913
+D3
+~
+~
+3 3
+1 0 5917
+D4
+~
+~
+0 0
+0 0 6034
+S
+#5915
+The Servants' Kitchen~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 5916
+D1
+~
+~
+3 3
+1 0 5913
+S
+#5916
+The Servants' Dining Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5912
+D2
+~
+~
+1 1
+1 0 5915
+S
+#5917
+A Storage Room~
+This room is {Ddark{w and very full of many of the things a servant might
+need to do his or her job around the palace.  In one corner there are a
+number of tall brooms and mops next to a stack of tall buckets.  A tall
+shelf filled with bottles of various {cl{Ciquid{cs{w and other cleaners rests
+against the far wall.  A large box filled with brushes and rags sits on the
+floor next to the shelf.  
+~
+0
+A 0
+D1
+~
+~
+3 3
+1 0 5914
+S
+#5918
+A Servant's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5911
+S
+#5919
+A Servant's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5910
+S
+#5920
+A Servant's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5909
+S
+#5921
+A Servant's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5908
+S
+#5922
+A Servant's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5907
+S
+#5923
+A Servant's Room~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 5906
+S
+#5924
+A Guests' Waiting Room~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 6069
+S
+#5925
+A Guests' Waiting Room~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6069
+S
+#5926
+A Guests' Waiting Room~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 6071
+S
+#5927
+A Guests' Waiting Room~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6071
+S
+#5928
+The Royal Dining Room~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 6067
+D3
+~
+~
+3 3
+1 0 5929
+S
+#5929
+The Preparation Area~
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6021
+D1
+~
+~
+3 3
+1 0 5928
+S
+#5930
+The Royal Kitchens~
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 5932
+D2
+~
+~
+1 1
+1 0 6063
+D3
+~
+~
+0 0
+0 0 5931
+S
+#5931
+The Ovens~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 5930
+S
+#5932
+The Pantry~
+~
+0
+0 0
+D2
+~
+~
+1 1
+1 0 5930
+S
+#5933
+Stairs to the Dungeons~
+This {Ddark{w room, just off the large corridor to the south, has a wide set
+of stone stairs, leading down into the dungeons below.  Even here, there is
+a sharp contrast to the beauty and splendor of the palace just to the other
+side of the door.  There are no decorations to be seen, and the lamps
+hanging from the walls are not {Yg{yi{Yld{ye{Yd{w like those elsewhere.  
+~
+0
+A 0
+D2
+~
+~
+7 7
+2 0 6039
+D5
+~
+~
+0 0
+0 0 5934
+S
+#5934
+The Dungeons - Upper Level~
+A set of {Ds{wt{Wo{wn{De{w stairs lead back up to the palace, while the dungeons
+stretch off to the north.  The air is {ymusty{w, with an unpleasant smell to it
+that never seems to go away.  The floor is made of smooth, seamless stone,
+and to the north there are cells visible branching off of the main hallway. 
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 5936
+D4
+~
+~
+0 0
+0 0 5933
+S
+#5935
+The Dungeons - Upper Level~
+To the south a hallway stretches between a number of cells before ending
+at a set of stone stairs that lead up to the main level of the Royal Palace
+of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Right here there is another set of {Ds{wt{Wo{wn{De{w stairs, these leading
+down to the lower level of the dungeons.  A sour smell seems to waft up from
+below.  
+~
+0
+A 0
+D2
+~
+~
+0 0
+0 0 5937
+D5
+~
+~
+0 0
+0 0 5942
+S
+#5936
+The Dungeons - Upper Level~
+To the east and west there are large, sturdy, steel-banded {yd{Do{yo{Dr{ys{w that
+lead into two of the cells of the dungeon.  There are small slits cut into
+the bottom of the doors to allow food to be pushed through without the doors
+being opened.  It is very {Ddark{w here, despite the plain {yl{Yamp{ys{w that hang from
+the walls beside the doors.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 5937
+D1
+~
+~
+7 7
+2 6001 5941
+D2
+~
+~
+0 0
+0 0 5934
+D3
+~
+~
+7 7
+2 6001 5940
+S
+#5937
+The Dungeons - Upper Level~
+The smooth stones of the floor have been worn even smoother in the very
+center of the hallway, leading between the large, sturdy, steel-banded {yd{Do{yo{Dr{ys{w
+that lead into two of the cells of the dungeon.  Despite all efforts, there
+is always at least a thin layer of {Ddust{w covering everything, even the plain
+{yl{Yamp{ys{w that make {Dshadows{w dance across the walls.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 5935
+D1
+~
+~
+7 7
+2 6001 5939
+D2
+~
+~
+0 0
+0 0 5936
+D3
+~
+~
+7 7
+2 6001 5938
+S
+#5938
+Northwest Cell - Upper Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D1
+~
+~
+7 7
+2 6001 5937
+S
+#5939
+Northeast Cell - Upper Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D3
+~
+~
+7 7
+2 6001 5937
+S
+#5940
+Southwest Cell - Upper Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D1
+~
+~
+7 7
+2 6001 5936
+S
+#5941
+Southeast Cell - Upper Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D3
+~
+~
+7 7
+2 6001 5936
+S
+#5942
+The Dungeons - Lower Level~
+A set of {Ds{wt{Wo{wn{De{w stairs lead back up to the upper level of the dungeons,
+while the lower level stretches off to the south.  The air is {cdamp{w, with an
+unpleasant smell to it that never seems to go away.  The floor is made of
+smooth, seamless stone, and to the south there are cells visible branching
+off of the main hallway.  
+~
+0
+A 0
+D2
+~
+~
+0 0
+0 0 5943
+D4
+~
+~
+0 0
+0 0 5935
+S
+#5943
+The Dungeons - Lower Level~
+It is very {Ddark{w here, despite the plain {yl{Yamp{ys{w that hang from the walls
+beside the doors.  To the east and west there are large, sturdy,
+steel-banded {yd{Do{yo{Dr{ys{w that lead into two of the cells of the dungeon.  There
+are small slits cut into the bottom of the doors to allow food to be pushed
+through without the doors being opened.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 5942
+D1
+~
+~
+7 7
+2 6001 5947
+D2
+~
+~
+0 0
+0 0 5944
+D3
+~
+~
+7 7
+2 6001 5945
+S
+#5944
+The Dungeons - Lower Level~
+The plain {yl{Yamp{ys{w that hang beside the large, sturdy, steel-banded {yd{Do{yo{Dr{ys{w make
+{Dshadows{w dance across the walls.  The smooth stones of the floor have been
+worn even smoother in the very center of the hallway, leading between two of
+the cells of the dungeon.  Despite all efforts, there is always at least a
+thin layer of {Ddust{w covering everything.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 5943
+D1
+~
+~
+7 7
+2 6001 5948
+D3
+~
+~
+7 7
+2 6001 5946
+S
+#5945
+Northwest Cell - Lower Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D1
+~
+~
+7 7
+2 6001 5943
+S
+#5946
+Southwest Cell - Lower Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D1
+~
+~
+7 7
+2 6001 5944
+S
+#5947
+Northeast Cell - Lower Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D3
+~
+~
+7 7
+2 6001 5943
+S
+#5948
+Northeast Cell - Lower Level~
+All of the cells in the dungeon look the same.  There is a hard, narrow
+{Wcot{w pushed against the wall in one corner, while in the other corner,
+opposite the door, there is a small {Dhole{w with a foul smell wafting up from
+it.  Rat droppings litter the floor, and the only light that comes in is
+through the slit in the door.  
+~
+0
+A 0
+D3
+~
+~
+7 7
+2 6001 5944
+S
+#6000
+The Entry Hall~
+The entry hall into the {YSun{w Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is very large.  Thick,
+square columns made of a dark {Dm{ba{Drb{bl{De{w hold up the square-vaulted ceiling,
+which is ten paces high.  The golden {yc{Yornice{ys{w which run along the edge of
+the ceiling depict large rising {Ysuns{w.  Friezes have been carved into the
+walls below the cornices, depicting great Cairhienin triumphs.  The floor is
+tiled with alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles.  
+~
+0
+K 0
+D0
+~
+~
+0 0
+0 0 6011
+D2
+~
+~
+0 0
+0 0 6049
+D3
+~
+~
+0 0
+0 0 6001
+S
+#6001
+The Main Corridor~
+This corridor which runs east and west is wide and very straight. 
+Alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles run across the floor, and the light
+from the tall, {Yg{yi{Yld{ye{Yd{w, standing lamps reflects off of them.  There are two
+niches in the wall, on either side of the hallway.  To the south one holds
+a tall, square vase made of {Ws{wi{Dlv{we{Wr{w, while to the north the niche displays a
+square, {yg{Yol{yd{w bowl.  
+~
+0
+D 0
+D1
+~
+~
+0 0
+0 0 6000
+D3
+~
+~
+0 0
+0 0 6002
+S
+#6002
+The Main Corridor~
+Continuing on to the east and west this corridor runs in a very straight
+line.  A bit to the east the tall, {Yb{yr{Yon{yz{Ye{w doors of the Palace are visible,
+while far in the distance to the west the {Yg{yi{Yld{ye{Yd{w doors which lead into the
+Grand {cHa{Cl{cl{w of the {YSun{w can be seen.  On both sides of the hallway long
+{Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They are kept perfectly square with the walls,
+and they both show grand battle scenes.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6001
+D3
+~
+~
+0 0
+0 0 6003
+S
+#6003
+The Main Corridor~
+Small niches on either side of the corridor here display matching
+{Wa{wl{Wabast{we{Wr{w statues.  The statues are tall and straight, showing no curves
+whatsoever.  Just to the west this corridor intersects with a hallway
+leading north and south.  The tiles that run along the floor are made of
+perfect squares in alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6002
+D3
+~
+~
+0 0
+0 0 6004
+S
+#6004
+A Large Intersection~
+This large intersection has hallways leading off in all four directions. 
+To both the north and south, tall {Dm{ba{Drb{bl{De{w staircases are visible, leading
+upwards.  To the east, the corridor leads to the front doors of the Palace,
+while to the west, it eventually ends at the doors which lead into the Grand
+{cHa{Cl{cl{w of the {YSun{w.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at each corner of the
+intersection.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6073
+D1
+~
+~
+0 0
+0 0 6003
+D2
+~
+~
+0 0
+0 0 6074
+D3
+~
+~
+0 0
+0 0 6005
+S
+#6005
+The Main Corridor~
+This corridor which runs east and west is wide and very straight. 
+Alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles run across the floor, and the light
+from the tall, {Yg{yi{Yld{ye{Yd{w lamps reflects off of them.  There are two niches in
+the wall, on either side of the hallway.  To the south one holds a tall,
+square figurine made of {Ws{wi{Dlv{we{Wr{w, while to the north the niche displays a
+long, {yg{Yol{yd{w statue.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6004
+D3
+~
+~
+0 0
+0 0 6006
+S
+#6006
+The Main Corridor~
+Continuing on to the east and west this corridor runs in a very straight
+line.  A ways to the east the tall, {Yb{yr{Yon{yz{Ye{w doors of the Palace are visible,
+while just a little ways to the west the {Yg{yi{Yld{ye{Yd{w doors which lead into the
+Grand {cHa{Cl{cl{w of the {YSun{w can be seen.  On both sides of the hallway long
+{Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They are kept perfectly square with the walls,
+and they both show Cairhienin men fighting various beasts.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6005
+D3
+~
+~
+0 0
+0 0 6007
+S
+#6007
+The Main Corridor~
+Small niches on either side of the corridor here display matching
+{Dp{wo{br{wc{We{wl{ba{wi{Dn{w figurines.  Just to the west this corridor intersects with a
+hallway leading north and south.  The tiles that run along the floor are
+made of perfect squares in alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6006
+D3
+~
+~
+0 0
+0 0 6008
+S
+#6008
+A Large Intersection~
+This large intersection has hallways leading off in all four directions. 
+To both the north and south tall {Dm{ba{Drb{bl{De{w staircases are visible, leading
+upwards.  To the east the corridor leads eventually to the front doors of
+the Palace, while just to the west it ends at the doors which lead into the
+Grand {cHa{Cl{cl{w of the {YSun{w.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at each corner of the
+intersection.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6078
+D1
+~
+~
+0 0
+0 0 6007
+D2
+~
+~
+0 0
+0 0 6077
+D3
+~
+~
+0 0
+0 0 6009
+S
+#6009
+Outside the Grand {cHa{Cl{cl{w of the {YSun{w~
+The massive, {Ygi{ylt{Y-cov{yer{Yed{w doors to the west open into the Grand {cHa{Cl{cl{w of the
+{YSun{w.  On either side of the doorway, tall lamps stand, their light
+reflecting off of the dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles that make their way across
+the floor.  The walls here are {Dbare{w, as though no small piece of
+ornamentation could compare with the grandeur of the doors.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6008
+D3
+~
+~
+3 3
+1 0 6010
+S
+#6010
+The Grand {cHa{Cl{cl{w of the {YSun{w~
+{cThis is the heart of the palace, the Grand Hall of the Sun.  Massive square{w
+{ccolumns made of marble streaked {Yw{cith b{Yl{cue su{Yp{cport the high ceiling, and there{w
+{cis a large golden Ris{Yin{cg Sun {Ys{cet {Yi{cnto {Yt{che t{Yi{cles of the {Yf{cloor.  At the far end{w
+{cof the hall is a large, {Yw{cide d{Ya{cis, and in {Yt{che {Ye{cxact {Yce{cnter is the Sun Throne.{w
+{cLike everything else in C{Yai{crhie{Yn{c, {Yit's made{c u{Yp{c of {Yst{craight, symmetrical lines{w
+{cand angles.  The thr{Yo{cne's o{Ynl{cy {Yembellishment i{cs {Yth{ce top, {Yw{chich is curved wood{w
+{cmade to appear like a {Ysu{cn, r{Yising over the head o{cf th{Ye oc{ccupant of the chair.{w
+{cThe ceiling is vaulted a{Ynd rises fifty paces into the{c air, which provides the{w
+{cchamber with wonderful ac{Youstics.  The hall is other{cwise plain, free from all{w
+{cunnecessar{Yy ornamentation, which does seem to be the Cairhienin way{c of things.{w
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 6009
+S
+#6011
+The Sunrise Corridor~
+This corridor continues on to the north and south.  Just to the south is
+the main foyer of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w, and huge, {Yb{yr{Yon{yz{Ye{w doors lead
+outside from there.  Long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w hang on either side of the hall here,
+both embroidered with flowers and birds in very precise patterns.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6012
+D2
+~
+~
+0 0
+0 0 6000
+S
+#6012
+The Sunrise Corridor~
+The Sunrise corridor, which leads north and south, intersects with a long
+corridor here.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at the corners of the intersection,
+casting their light all around.  To the south the hallway leads to the front
+doors of the {YSun{w Palace, while the corridor to the west runs the length of
+the Palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6013
+D2
+~
+~
+0 0
+0 0 6011
+D3
+~
+~
+0 0
+0 0 6071
+S
+#6013
+The Sunrise Corridor~
+Dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles make their way along the corridor to the north
+and south.  To the west a niche in the wall displays a large, {yg{Yol{yd{w statue
+made of harsh lines and angles.  Pushed against the wall to the east is a
+large, gold-banded {rc{yh{re{ys{rt{w.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on either side of the
+chest, and everything is very clean and kept in perfect order.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6014
+D2
+~
+~
+0 0
+0 0 6012
+S
+#6014
+The Northeast Corner of the Palace~
+The corridors that run along the perimeter of the Palace come to a turn
+here at the northeastern corner.  The alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles
+of the floor lead off to the west and south.  Following the hallway to the
+south leads to the front doors into the {YSun{w Palace.  Tall, standing, {Yg{yi{Yld{ye{Yd{w
+lamps light the way.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 6013
+D3
+~
+~
+0 0
+0 0 6015
+S
+#6015
+The Northern Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps line the walls here, casting their light all about and
+causing the dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor glisten as though they are
+frequently polished.  A long, narrow table sits along the northern wall
+displaying a number of perfectly-arranged {Dp{wo{br{wc{We{wl{ba{wi{Dn{w figurines.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6014
+D3
+~
+~
+0 0
+0 0 6016
+S
+#6016
+The Northern Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  A bit to the east the northeast corner of the {YSun{w Palace is visible,
+while far to the west the corridor ends at the northwest corner.  On both
+sides of the hallway, long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They are kept
+perfectly square with the walls, and they both show grand battle scenes.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6015
+D3
+~
+~
+0 0
+0 0 6017
+S
+#6017
+The Northern Corridor~
+The walls are bare here along this section of the corridor.  The tall,
+{Yg{yi{Yld{ye{Yd{w lamps that are common throughout the Palace are here, giving light. 
+Just to the west is a small intersection, with a hallway leading off to the
+south.  This corridor continues to the east and west, running along the
+northern edge of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6016
+D3
+~
+~
+0 0
+0 0 6018
+S
+#6018
+The Northern Corridor~
+This small intersection has hallways leading off to the west, south, and
+east.  To the south a tall {Dm{ba{Drb{bl{De{w staircase is visible, leading upwards.  To
+the east and west the hallway runs the length of the Palace.  Tall, {Yg{yi{Yld{ye{Yd{w
+lamps stand at the corners of the intersection.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6017
+D2
+~
+~
+0 0
+0 0 6072
+D3
+~
+~
+0 0
+0 0 6019
+S
+#6019
+The Northern Corridor~
+This long, very straight hallway continues on to the east and west,
+running along the northern side of the {YSun{w Palace.  The tiles on the floor
+are of alternating dark {bbl{Bu{bes{w and {yg{Yold{ys{w, and they are obviously kept very
+well-polished.  Tall, standing, {Yg{yi{Yld{ye{Yd{w lamps light the way down the
+corridor.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6018
+D3
+~
+~
+0 0
+0 0 6020
+S
+#6020
+The Northern Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  On both sides of the hallway long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They
+are kept perfectly square with the walls, and they are both embroidered with
+designs made of straight lines and sharp angles.  They are kept very clean
+and are in good repair, free of {Ddust{w or even the smallest flaws.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6019
+D3
+~
+~
+0 0
+0 0 6021
+S
+#6021
+The Northern Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps line the walls here, casting their light all about and
+causing the dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor glisten as though they are
+frequently polished.  Pushed against the wall to the north is a large,
+gold-banded {rc{yh{re{ys{rt{w.  Above the chest is a small niche in the wall displaying
+a tiny {yg{Yolde{yn{w statue.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6020
+D2
+~
+~
+3 3
+1 0 5929
+D3
+~
+~
+0 0
+0 0 6022
+S
+#6022
+The Northern Corridor~
+This small intersection has hallways leading off to the west, south, and
+east.  To the south a tall {Dm{ba{Drb{bl{De{w staircase is visible leading upwards.  To
+the east and west the hallway runs the length of the Palace.  Tall, {Yg{yi{Yld{ye{Yd{w
+lamps stand at the corners of the intersection.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6021
+D2
+~
+~
+0 0
+0 0 6079
+D3
+~
+~
+0 0
+0 0 6023
+S
+#6023
+The Northern Corridor~
+Small niches on either side of the corridor here display matching
+{Dp{wo{br{wc{We{wl{ba{wi{Dn{w figurines.  Just to the east this corridor intersects with a
+hallway leading off to the south.  The tiles that run along the floor are
+made of perfect squares in alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6022
+D3
+~
+~
+0 0
+0 0 6024
+S
+#6024
+The Northern Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  On both sides of the hallway long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They
+are kept perfectly square with the walls, and they both depict famous
+{cCa{Ci{Yr{Whi{Ye{Cn{cin{w triumphs.  Their colors are {Dmuted{w so that they draw attention but
+do not stand out too much.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6023
+D3
+~
+~
+0 0
+0 0 6025
+S
+#6025
+The Northern Corridor~
+There is a niche in the wall to the south here, displaying a delicate
+piece of Sea Folk {Dp{wo{br{wc{We{wl{ba{wi{Dn{w.  The light from the tall lamps lining the
+corridor shine directly into the niche, and the blue, Sea Folk bowl appears
+almost t{Wranslucen{wt.  A long table sits along the northern wall, displaying
+three perfectly-arranged, square, {yg{Yolde{yn{w vases.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6024
+D3
+~
+~
+0 0
+0 0 6026
+S
+#6026
+The Northwest Corner of the Palace~
+The corridors that run along the perimeter of the Palace come to a turn
+here at the northwestern corner.  The alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles
+of the floor lead off to the east and south.  Following the hallway to the
+south leads to the doors into the stables of the {YSun{w Palace.  Tall,
+standing, {Yg{yi{Yld{ye{Yd{w lamps light the way.  In the corner of the room, there is a
+small staircase leading down to the servants' quarters.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6025
+D2
+~
+~
+0 0
+0 0 6027
+D5
+~
+~
+0 0
+0 0 5906
+S
+#6027
+The Sunset Corridor~
+This corridor moves in a perfectly straight line to the north and south. 
+To the east a niche in the wall displays a large, {Ws{wi{Dlv{we{Wr{w statue made of
+harsh lines and angles.  Pushed against the wall to the west is a long table
+holding two tall, square candelabra.  {YG{yi{Yld{ye{Yd{w lamps stand on either side of
+the chest, and everything is very clean and kept in perfect order.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6026
+D2
+~
+~
+0 0
+0 0 6028
+S
+#6028
+The Sunset Corridor~
+The Sunset corridor, which leads north and south, intersects with a long
+corridor here.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at the corners of the intersection,
+casting their light all around.  To the south the hallway leads to the
+{ystables{w of the Palace of the Rising {YSun{w, while the corridor to the east runs
+the length of the Palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6027
+D1
+~
+~
+0 0
+0 0 6061
+D2
+~
+~
+0 0
+0 0 6029
+S
+#6029
+The Sunset Corridor~
+This corridor continues on to the north and south.  Just to the south is
+the back entrance of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w, which goes through the
+{ystables{w.  Long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w hang on either side of the hall here, both
+embroidered with flowers and birds in very precise patterns.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6028
+D2
+~
+~
+0 0
+0 0 6030
+S
+#6030
+The Sunset Corridor~
+Just to the west are two large, {Dir{wo{Dn-bo{wu{Dnd{w doors.  They lead through the
+{ystables{w out of the Palace.  To the north and south the corridor continues to
+the corners of the {YSun{w Palace.  Large, {Yg{yi{Yld{ye{Yd{w lamps stand on either side of
+the doors, and their light reflects off the dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the
+floor.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6029
+D2
+~
+~
+0 0
+0 0 6031
+D3
+~
+~
+3 3
+1 0 6140
+S
+#6031
+The Sunset Corridor~
+This corridor continues on to the north and south.  Just to the north is
+the back entrance of the Palace of the Rising {YSun{w, and large, {Dir{wo{Dn-bo{wu{Dnd{w
+doors lead into the {ystables{w from there.  Long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w hang on either side
+of the hall here, both showing different scenes of nobles out on a hunt.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6030
+D2
+~
+~
+0 0
+0 0 6032
+S
+#6032
+The Sunset Corridor~
+The Sunset corridor, which leads north and south, intersects with a long
+corridor here.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at the corners of the intersection,
+casting their light all around.  To the north the hallway leads to the
+entrance into the {ystables{w of the {YSun{w Palace, while the corridor to the east
+runs the length of the Palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6031
+D1
+~
+~
+0 0
+0 0 6060
+D2
+~
+~
+0 0
+0 0 6033
+S
+#6033
+The Sunset Corridor~
+The walls are bare here along this section of the corridor.  The tall,
+{Yg{yi{Yld{ye{Yd{w lamps that are common throughout the Palace are here, giving light. 
+Just to the south the hallway comes to a turn.  This corridor continues to
+the north and south, running along the western edge of the Royal Palace of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6032
+D2
+~
+~
+0 0
+0 0 6034
+S
+#6034
+The Southwest Corner of the Palace~
+The corridors that run along the perimeter of the Palace come to a turn
+here at the southwestern corner.  The alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles
+of the floor lead off to the east and north.  Following the hallway to the
+north leads to the doors into the stables of the Palace.  Tall, standing,
+{Yg{yi{Yld{ye{Yd{w lamps light the way.  In the corner of the room, there is a small
+staircase leading down to the servants' quarters.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6033
+D1
+~
+~
+0 0
+0 0 6035
+D5
+~
+~
+0 0
+0 0 5914
+S
+#6035
+The Southern Corridor~
+A small niche in the wall to the south holds a piece of blue {Dp{wo{br{wc{We{wl{ba{wi{Dn{w
+that matches the {bbl{Bu{be{w tiles of the floor perfectly.  The tiles shine,
+reflecting the light from the {Yg{yi{Yld{ye{Yd{w lamps which line the hallway.  Just to
+the west the corridor comes to a turn, while to the east it runs the length
+of the Palace.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6036
+D3
+~
+~
+0 0
+0 0 6034
+S
+#6036
+The Southern Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  On both sides of the hallway, long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They
+are kept perfectly square with the walls.  Both of them are embroidered,
+showing birds flying in very rigid patterns.  They appear to be completely
+free of {Ddust{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6037
+D3
+~
+~
+0 0
+0 0 6035
+S
+#6037
+The Southern Corridor~
+A long, narrow table rests against the wall to the south.  Atop it sit
+five small, {yg{Yolde{yn{w statues.  Each one is an abstract mass of sharp lines and
+angles, and they all appear very similar although not exactly alike.  The
+table is kept well-{ypolished{w so that the reflections of the statues are very
+clear.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6038
+D3
+~
+~
+0 0
+0 0 6036
+S
+#6038
+The Southern Corridor~
+This small intersection has hallways leading off to the west, north, and
+east.  To the north a tall {Dm{ba{Drb{bl{De{w staircase is visible, leading upwards.  To
+the east and west the hallway runs the length of the Palace.  Tall, {Yg{yi{Yld{ye{Yd{w
+lamps stand at the corners of the intersection.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6076
+D1
+~
+~
+0 0
+0 0 6039
+D3
+~
+~
+0 0
+0 0 6037
+S
+#6039
+The Southern Corridor~
+The walls are bare here along this section of the corridor.  The tall,
+{Yg{yi{Yld{ye{Yd{w lamps that are common throughout the Palace are here, giving light. 
+Just to the west is an intersection.  This corridor continues to the east
+and west, running along the southern edge of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w. 
+To the north is a small set of stairs that lead down to the dungeons.  
+~
+0
+0 0
+D0
+~
+~
+7 7
+2 0 5933
+D1
+~
+~
+0 0
+0 0 6040
+D3
+~
+~
+0 0
+0 0 6038
+S
+#6040
+The Southern Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  On both sides of the hallway, long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  They
+have both been embroidered with harsh angles and rigid patterns, in {bbl{Bu{bes{w
+and {yg{Yold{ys{w which match the tiles that make up the floor.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6041
+D3
+~
+~
+0 0
+0 0 6039
+S
+#6041
+The Southern Corridor~
+Small {Ws{wi{Dlv{we{Wr{w figurines rest in the niches in the wall on both sides of
+the corridor here.  The are free of {Ddust{w and shine as the light from the
+tall, {Yg{yi{Yld{ye{Yd{w lamps reflects off of them.  Just to the east is a small
+intersection, with a hallway leading off to the north.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6042
+D3
+~
+~
+0 0
+0 0 6040
+S
+#6042
+The Southern Corridor~
+This small intersection has hallways leading off to the west, north, and
+east.  To the north a tall {Dm{ba{Drb{bl{De{w staircase is visible, leading upwards.  To
+the east and wes, the hallway runs the length of the Palace.  Tall, {Yg{yi{Yld{ye{Yd{w
+lamps stand at the corners of the intersection.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6075
+D1
+~
+~
+0 0
+0 0 6043
+D3
+~
+~
+0 0
+0 0 6041
+S
+#6043
+The Southern Corridor~
+Dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles make their way along the corridor to the east
+and west.  To the north a niche in the wall displays a large, {yg{Yol{yd{w statue
+made up of harsh lines and angles.  Pushed against the wall to the south is
+a large, gold-banded {rc{yh{re{ys{rt{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6044
+D3
+~
+~
+0 0
+0 0 6042
+S
+#6044
+The Southern Corridor~
+Continuing on to the east and west, this corridor runs in a very straight
+line.  On both sides of the hallway, long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w have been hung.  Both
+show great {gb{ya{gtt{yl{ge{w scenes and are made of complementary colors.  Just a
+little bit to the east the hallway appears to turn off to the north.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6045
+D3
+~
+~
+0 0
+0 0 6043
+S
+#6045
+The Southern Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps line the walls here, casting their light all about and
+causing the dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor to glisten, as though they
+are frequently polished.  A long, narrow table sits along the southern wall,
+displaying a number of perfectly-arranged {Dp{wo{br{wc{We{wl{ba{wi{Dn{w figurines.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6046
+D3
+~
+~
+0 0
+0 0 6044
+S
+#6046
+The Southeast Corner of the Palace~
+The corridors that run along the perimeter of the Palace come to a turn
+here at the southeastern corner.  The alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles
+of the floor lead off to the west and north.  Following the hallway to the
+north leads to the front doors into the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Tall,
+standing, {Yg{yi{Yld{ye{Yd{w lamps light the way.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6047
+D3
+~
+~
+0 0
+0 0 6045
+S
+#6047
+The Sunrise Corridor~
+There is a niche in the wall to the west displaying a delicate piece of
+Sea Folk {Dp{wo{br{wc{We{wl{ba{wi{Dn{w.  The light from the tall lamps lining the corridor shine
+directly into the niche, and the yellow, Sea Folk vase appears t{Wranslucen{wt. 
+A long table sits along the eastern wall displaying three square, {Ws{wi{Dlv{we{Wr{w
+bowls.  They have been arranged perfectly and are free from even the
+smallest speck of {Ddust{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6048
+D2
+~
+~
+0 0
+0 0 6046
+S
+#6048
+The Sunrise Corridor~
+The Sunrise corridor, which leads north and south, intersects with a long
+corridor here.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at the corners of the intersection,
+casting their light all around.  To the north the hallway leads to the
+front doors of the {YSun{w Palace, while the corridor to the west runs the
+length of the Palace.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6049
+D2
+~
+~
+0 0
+0 0 6047
+D3
+~
+~
+0 0
+0 0 6050
+S
+#6049
+The Sunrise Corridor~
+This corridor continues on to the north and south.  Just to the north is
+the main foyer of the Palace of the Rising {YSun{w, and huge, {Yb{yr{Yon{yz{Ye{w doors lead
+outside from there.  Long {Dt{wa{gp{we{Ds{Wt{wr{gi{we{Ds{w hang on either side of the hall here,
+both showing different scenes of nobles out on a hunt.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6000
+D2
+~
+~
+0 0
+0 0 6048
+S
+#6050
+A Long Corridor~
+This long, straight corridor ends just to the east and continues on to
+the west, stretching across the length of the Palace.  The floor is tiled in
+alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w, and the light from the tall, {Yg{yi{Yld{ye{Yd{w lamps
+reflects off of the tiles.  The walls here are bare and free of any color or
+decoration.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6048
+D3
+~
+~
+0 0
+0 0 6051
+S
+#6051
+A Long Corridor~
+Niches are set into both sides of the wall here, and they both display
+fairly large, {Ws{wi{Dlv{we{Wr{w figurines.  To the south the figurine is an abstract
+arrangement of sharp lines and angles, while the one to the north looks a
+bit like a {Ysun{w.  The corridor continues on to the east and west, ending not
+far to the east.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6050
+D3
+~
+~
+0 0
+0 0 6052
+S
+#6052
+A Long Corridor~
+The walls are bare in this area of the hallway, and the only colors that
+are displayed are the dark {bbl{Bu{be{w and {yg{Yol{yd{w of the tiles upon the floor.  Just
+to the west is an intersection, and there is a large, {Dm{ba{Drb{bl{De{w staircase,
+leading upwards.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6051
+D3
+~
+~
+0 0
+0 0 6053
+S
+#6053
+The Bottom of the Southeast Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads upwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to be
+almost seamless.  A long corridor continues on to the east and west, while
+connecting hallways lead off to the north and south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6074
+D1
+~
+~
+0 0
+0 0 6052
+D2
+~
+~
+0 0
+0 0 6075
+D3
+~
+~
+0 0
+0 0 6054
+D4
+~
+~
+0 0
+0 0 6128
+S
+#6054
+A Long Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on either side of the hallway, casting their
+light all around.  The dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor shine, as
+though they are kept well-polished.  The walls are bare and move in a very
+straight line, from west to east.  Just to the east is an intersection with
+a {Dm{ba{Drb{bl{De{w staircase in the middle of it, leading upwards.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6053
+D3
+~
+~
+0 0
+0 0 6055
+S
+#6055
+A Long Corridor~
+Small, delicate pieces of Sea Folk {Dp{wo{br{wc{We{wl{ba{wi{Dn{w are displayed in the niches
+on either side of the corridor.  They are of translucent {bbl{Bu{bes{w and {yg{Yold{ys{w,
+matching the tiles of the floor.  The tall, {Yg{yi{Yld{ye{Yd{w lamps have been set up so
+that their light shines directly into the niches, creating quite a display. 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6054
+D3
+~
+~
+0 0
+0 0 6056
+S
+#6056
+A Long Corridor~
+The walls are bare in this area of the hallway, and the only colors that
+are displayed are the dark {bbl{Bu{be{w and {yg{Yol{yd{w of the tiles upon the floor.  Just
+to the west is an intersection, and there is a large, {Dm{ba{Drb{bl{De{w staircase,
+leading upwards.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6055
+D3
+~
+~
+0 0
+0 0 6057
+S
+#6057
+The Bottom of the Southwest Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads upwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to be
+almost seamless.  A long corridor continues on to the east and west, while
+connecting hallways lead off to the north and south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6077
+D1
+~
+~
+0 0
+0 0 6056
+D2
+~
+~
+0 0
+0 0 6076
+D3
+~
+~
+0 0
+0 0 6058
+D4
+~
+~
+0 0
+0 0 6085
+S
+#6058
+A Long Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on either side of the hallway, casting their
+light all around.  The dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor shine, as
+though they are kept well-polished.  The walls are bare and move in a very
+straight line, from west to east.  Just to the east is an intersection with
+a {Dm{ba{Drb{bl{De{w staircase in the middle of it, leading upwards.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6057
+D3
+~
+~
+0 0
+0 0 6059
+S
+#6059
+A Long Corridor~
+Niches are set into both sides of the wall here, and they both display
+fairly large, {yg{Yolde{yn{w statues.  They seem to be a matching set, completely
+identical as far as the eye can see.  They are both abstract, like most of
+the pieces scattered throughout the {YSun{w Palace.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6058
+D3
+~
+~
+0 0
+0 0 6060
+S
+#6060
+A Long Corridor~
+This long, straight corridor ends just to the west and continues on to
+the east, stretching across the length of the Palace.  The floor is tiled in
+alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w, and the light from the tall, {Yg{yi{Yld{ye{Yd{w lamps
+reflects off of the tiles.  The walls here are bare and free of any color or
+decoration.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6059
+D3
+~
+~
+0 0
+0 0 6032
+S
+#6061
+A Lengthy Corridor~
+This long, straight corridor ends just to the west and continues on to
+the east, stretching across the length of the Palace.  The floor is tiled in
+alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w, and the light from the tall, {Yg{yi{Yld{ye{Yd{w lamps
+reflects off of the tiles.  The walls here are bare and free of any color or
+decoration.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6062
+D3
+~
+~
+0 0
+0 0 6028
+S
+#6062
+A Lengthy Corridor~
+Niches are set into both sides of the wall here, and they both display
+fairly large, a{Wlabaste{wr statues.  They seem to be a matching set, completely
+identical as far as the eye can see.  They are both abstract, like most of
+the pieces scattered throughout the {YSun{w Palace.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6063
+D3
+~
+~
+0 0
+0 0 6061
+S
+#6063
+A Lengthy Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on either side of the hallway, casting their
+light all around.  The dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor shine, as
+though they are kept well-polished.  The walls are bare and move in a very
+straight line, from west to east.  Just to the east is an intersection with
+a {Dm{ba{Drb{bl{De{w staircase in the middle of it, leading upwards.  To the north is an
+open doorway that leads into the kitchen.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 5930
+D1
+~
+~
+0 0
+0 0 6064
+D3
+~
+~
+0 0
+0 0 6062
+S
+#6064
+The Bottom of the Northwest Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads upwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to be
+almost seamless.  A lengthy corridor continues on to the east and west,
+while connecting hallways lead off to the north and south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6079
+D1
+~
+~
+0 0
+0 0 6065
+D2
+~
+~
+0 0
+0 0 6078
+D3
+~
+~
+0 0
+0 0 6063
+D4
+~
+~
+0 0
+0 0 6080
+S
+#6065
+A Lengthy Corridor~
+The walls are bare in this area of the hallway, and the only colors that
+are displayed are the dark {bbl{Bu{be{w and {yg{Yol{yd{w of the tiles upon the floor.  Just
+to the west is an intersection, and there is a large, {Dm{ba{Drb{bl{De{w staircase,
+leading upwards.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6066
+D3
+~
+~
+0 0
+0 0 6064
+S
+#6066
+A Lengthy Corridor~
+Small, delicate pieces of Sea Folk {Dp{wo{br{wc{We{wl{ba{wi{Dn{w are displayed in the niches
+on either side of the corridor.  They are of translucent {bbl{Bu{bes{w and {yg{Yold{ys{w,
+matching the tiles of the floor.  The tall, {Yg{yi{Yld{ye{Yd{w lamps have been set up so
+that their light shines directly into the niches, creating quite a display. 
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6067
+D3
+~
+~
+0 0
+0 0 6065
+S
+#6067
+A Lengthy Corridor~
+Tall, {Yg{yi{Yld{ye{Yd{w lamps stand on either side of the hallway, casting their
+light all around.  The dark {bbl{Bu{be{w and {yg{Yol{yd{w tiles of the floor shine, as
+though they are kept well-polished.  The walls are bare and move in a very
+straight line, from west to east.  Just to the east is an intersection with
+a {Dm{ba{Drb{bl{De{w staircase in the middle of it, leading upwards.  To the north there
+is a wide, open doorway which leads to the large dining area of the palace. 
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 5928
+D1
+~
+~
+0 0
+0 0 6068
+D3
+~
+~
+0 0
+0 0 6066
+S
+#6068
+The Bottom of the Northeast Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads upwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to be
+almost seamless.  A lengthy corridor continues on to the east and west,
+while connecting hallways lead off to the north and south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6072
+D1
+~
+~
+0 0
+0 0 6069
+D2
+~
+~
+0 0
+0 0 6073
+D3
+~
+~
+0 0
+0 0 6067
+D4
+~
+~
+0 0
+0 0 6132
+S
+#6069
+A Lengthy Corridor~
+The walls are bare in this area of the hallway, and the only colors that
+are displayed are the dark {bbl{Bu{be{w and {yg{Yol{yd{w of the tiles upon the floor.  Just
+to the west is an intersection, and there is a large, {Dm{ba{Drb{bl{De{w staircase,
+leading upwards.  There are carved {Ddoors{w to the north and south that lead to
+guest waiting rooms.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 5924
+D1
+~
+~
+0 0
+0 0 6070
+D2
+~
+~
+1 1
+1 0 5925
+D3
+~
+~
+0 0
+0 0 6068
+S
+#6070
+A Lengthy Corridor~
+Niches are set into both sides of the wall here, and they both display
+fairly large, {yg{Yolde{yn{w figurines.  To the south the figurine is an abstract
+arrangement of sharp lines and angles, while the one to the north looks a
+bit like a {Ysun{w.  The corridor continues on to the east and west, ending not
+far to the east.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6071
+D3
+~
+~
+0 0
+0 0 6069
+S
+#6071
+A Lengthy Corridor~
+This long, straight corridor ends just to the east and continues on to
+the west, stretching across the length of the Palace.  The floor is tiled in
+alternating dark {bbl{Bu{be{w and {yg{Yol{yd{w, and the light from the tall, {Yg{yi{Yld{ye{Yd{w lamps
+reflects off of the tiles.  The walls here are bare and free of any color or
+decoration, but there are carved {Ddoors{w to the north and south that lead to
+guest waiting rooms.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 5926
+D1
+~
+~
+0 0
+0 0 6012
+D2
+~
+~
+1 1
+1 0 5927
+D3
+~
+~
+0 0
+0 0 6070
+S
+#6072
+A Connecting Hallway~
+This small stretch of connecting hallway joins the Northern corridor to a
+lengthy corridor.  Just to the south a tall, {Dm{ba{Drb{bl{De{w staircase is visible in
+the center of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and
+free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6018
+D2
+~
+~
+0 0
+0 0 6068
+S
+#6073
+A Connecting Hallway~
+This small stretch of connecting hallway joins a lengthy corridor to the
+main corridor of the {YSun{w Palace.  Just to the north a tall, {Dm{ba{Drb{bl{De{w staircase
+is visible in the center of an intersection, rising upwards.  The {Dst{won{De{w
+walls are bare and free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6068
+D2
+~
+~
+0 0
+0 0 6004
+S
+#6074
+A Connecting Hallway~
+This small stretch of connecting hallway joins the main corridor of the
+Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w to a long corridor.  Just to the south a tall,
+{Dm{ba{Drb{bl{De{w staircase is visible in the center of an intersection, rising
+upwards.  The {Dst{won{De{w walls are bare and free from any sort of ornamentation. 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6004
+D2
+~
+~
+0 0
+0 0 6053
+S
+#6075
+A Connecting Hallway~
+This small stretch of connecting hallway joins a long corridor to the
+Southern corridor.  Just to the north a tall, {Dm{ba{Drb{bl{De{w staircase is visible in
+the center of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and
+free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6053
+D2
+~
+~
+0 0
+0 0 6042
+S
+#6076
+A Connecting Hallway~
+This small stretch of connecting hallway joins a long corridor to the
+Southern corridor.  Just to the north a tall, {Dm{ba{Drb{bl{De{w staircase is visible in
+the center of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and
+free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6057
+D2
+~
+~
+0 0
+0 0 6038
+S
+#6077
+A Connecting Hallway~
+This small stretch of connecting hallway joins the main corridor of the
+Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w to a long corridor.  Just to the south a tall,
+{Dm{ba{Drb{bl{De{w staircase is visible in the center of an intersection, rising
+upwards.  The {Dst{won{De{w walls are bare and free from any sort of ornamentation. 
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6008
+D2
+~
+~
+0 0
+0 0 6057
+S
+#6078
+A Connecting Hallway~
+This small stretch of connecting hallway joins a lengthy corridor to the
+main corridor of the {YSun{w Palace.  Just to the north a tall, {Dm{ba{Drb{bl{De{w staircase
+is visible in the center of an intersection, rising upwards.  The {Dst{won{De{w
+walls are bare and free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6064
+D2
+~
+~
+0 0
+0 0 6008
+S
+#6079
+A Connecting Hallway~
+This small stretch of connecting hallway joins the Northern corridor to a
+lengthy corridor.  Just to the south a tall, {Dm{ba{Drb{bl{De{w staircase is visible in
+the center of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and
+free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6022
+D2
+~
+~
+0 0
+0 0 6064
+S
+#6080
+The Top of the Northwest Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads downwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to
+be almost seamless.  Connecting hallways lead off to the north and south,
+and a wide corridor lined with doors extends to the east.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6081
+D1
+~
+~
+0 0
+0 0 6136
+D2
+~
+~
+0 0
+0 0 6082
+D5
+~
+~
+0 0
+0 0 6064
+S
+#6081
+A Connecting Hallway~
+This small stretch of connecting hallway joins the northern walk around
+the outside of the Palace to a wide corridor leading to a number of guest
+rooms.  Just to the south, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in the center
+of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and free from
+any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6103
+D2
+~
+~
+0 0
+0 0 6080
+S
+#6082
+A Connecting Hallway~
+This small stretch of connecting hallway joins the short corridor lined
+with guest rooms to the central corridor of the upper level of {YSun{w Palace. 
+Just to the north, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in the center of an
+intersection, rising upwards.  The {Dst{won{De{w walls are bare and free from any
+sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6080
+D2
+~
+~
+0 0
+0 0 6083
+S
+#6083
+The Central Corridor~
+This large intersection has hallways leading off in all four directions. 
+To both the north and south, tall {Dm{ba{Drb{bl{De{w staircases are visible, leading
+down.  The central corridor continues on to the east and west, running the
+length of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at each
+corner of the intersection.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6082
+D1
+~
+~
+0 0
+0 0 6178
+D2
+~
+~
+0 0
+0 0 6084
+D3
+~
+~
+0 0
+0 0 6177
+S
+#6084
+A Connecting Hallway~
+This small stretch of connecting hallway joins the central corridor of
+the upper level of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w to a short corridor lined
+with guest rooms.  Just to the south, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in
+the center of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and
+free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6083
+D2
+~
+~
+0 0
+0 0 6085
+S
+#6085
+Top of the Southwest Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads downwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to
+be almost seamless.  Connecting hallways lead off to the north and south,
+and a wide corridor lined with doors extends to the east.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6084
+D1
+~
+~
+0 0
+0 0 6137
+D2
+~
+~
+0 0
+0 0 6086
+D5
+~
+~
+0 0
+0 0 6057
+S
+#6086
+A Connecting Hallway~
+This small stretch of connecting hallway joins the southern walk around
+the outside of the Palace to a wide corridor leading to a number of guest
+rooms.  Just to the north, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in the center
+of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and free from
+any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6085
+D2
+~
+~
+3 3
+1 0 6087
+S
+#6087
+The Southern Walk~
+A rather large, square doorway is to the north, leading into the Palace. 
+This long, colonnaded walk moves to the east and west, overlooking the
+southern half of the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w, which is laid out below in a perfect
+grid.  Far off to the south the wall which surrounds the city is just
+visible.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6086
+D1
+~
+~
+0 0
+0 0 6126
+D3
+~
+~
+0 0
+0 0 6088
+S
+#6088
+The Southern Walk~
+Tall, narrow {Dw{Cindow{Ds{w sit high up on the wall just to the north.  This
+long walkway which is supported by evenly-spaced columns moves in a
+perfectly straight line from east to west.  The grid-like structure with
+which {cC{Ca{Yi{Wrh{Yi{Ce{cn{w was arranged is very apparent to anyone looking out over the
+city to the south.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6087
+D3
+~
+~
+0 0
+0 0 6089
+S
+#6089
+The Southern Walk~
+To the north is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the {YSun{w Palace, have been set so
+they appear almost seamless.  This high, colonnaded walk continues on to the
+east and west, offering a good view of the southern half of the city.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6157
+D1
+~
+~
+0 0
+0 0 6088
+D3
+~
+~
+0 0
+0 0 6090
+S
+#6090
+The Southern Walk~
+This walkway continues on to the east and west, running alongside the tall
+{Dto{ww{Der{w just to the north.  One would have to crane his neck to see the top of
+it from here.  Half of the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is visible to the south as it
+makes its way down the hill upon which the Palace of the Rising {YSun{w sits.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6089
+D3
+~
+~
+0 0
+0 0 6091
+S
+#6091
+The Southwest Corner of the Palace~
+The long walk which makes its way around the perimeter of the Royal
+Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w comes to a turn here at the southwest corner.  Just to
+the northeast is one of the Palace's tall, concentric square {Dto{wwe{Drs{w.  It
+rises high into the air.  The walk continues on to the east and north,
+around the tower.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 6092
+D1
+~
+~
+0 0
+0 0 6090
+S
+#6092
+The Western Walk~
+This walkway continues on to the north and south, running alongside the
+tall {Dto{ww{Der{w just to the east.  One would have to crane her neck to see the
+top of it from here, and it provides a good amount of {Dshade{w to the walk in
+the early parts of the day.  Looking to the west, half of the city of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w is visible, with the River Alguenya in the distance.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6093
+D2
+~
+~
+0 0
+0 0 6091
+S
+#6093
+The Western Walk~
+To the east is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the {YSun{w Palace, have been set so
+they appear almost seamless.  This high, colonnaded walk continues on to the
+north and south, offering a good view of the western half of the city.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6094
+D1
+~
+~
+1 1
+1 0 6155
+D2
+~
+~
+0 0
+0 0 6092
+S
+#6094
+The Western Walk~
+This long, colonnaded walk runs in a very straight line from north to
+south.  Just to the north and south, large, open doorways are visible,
+leading into the Palace.  To the west the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w stretches out in
+all directions, with the River Alguenya on the very western edge.  High
+above on the wall to the east are tall, narrow {Dw{Cindow{Ds{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6095
+D2
+~
+~
+0 0
+0 0 6093
+S
+#6095
+The Western Walk~
+A large, square doorway is to the east, leading into the {YSun{w Palace.  A
+long corridor stretches off in that direction, while this high, colonnaded
+walk continues on to the north and south.  Far off to the west, just past
+the part of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w which is visible from here, is the River Alguenya.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6096
+D1
+~
+~
+1 1
+1 0 6175
+D2
+~
+~
+0 0
+0 0 6094
+S
+#6096
+The Western Walk~
+Tall, narrow {Dw{Cindow{Ds{w line the wall of the palace to the east, although
+they are too high to really be able to see into them.  This walkway is
+supported by evenly-spaced {Dco{wlum{Dns{w and runs north to south along the
+perimeter of the Palace of the Rising {YSun{w.  Just to the north and south,
+square doorways leading into the palace are visible.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6097
+D2
+~
+~
+0 0
+0 0 6095
+S
+#6097
+The Western Walk~
+To the east is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the {YSun{w Palace, have been set so
+they appear almost seamless.  This high, colonnaded walk continues on to the
+north and south, offering a good view of the western half of the city.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6098
+D1
+~
+~
+1 1
+1 0 6160
+D2
+~
+~
+0 0
+0 0 6096
+S
+#6098
+The Western Walk~
+This walkway continues on to the north and south, running alongside the
+tall {Dto{ww{Der{w just to the east.  One would have to crane his neck to see the
+top of it from here, and it provides a good amount of {Dshade{w to the walk in
+the early parts of the day.  Looking to the west, half of the city of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w is visible, with the River Alguenya in the distance.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6099
+D2
+~
+~
+0 0
+0 0 6097
+S
+#6099
+The Northwest Corner of the Palace~
+The long walk which makes its way around the perimeter of the Royal
+Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w comes to a turn here at the northwest corner.  Just to
+the southeast is one of the Palace's tall, concentric square {Dto{wwe{Drs{w.  It
+rises high into the air.  The walk continues on to the south and east,
+around the tower.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6100
+D2
+~
+~
+0 0
+0 0 6098
+S
+#6100
+The Northern Walk~
+This walkway continues on to the east and west, running alongside the tall
+{Dto{ww{Der{w just to the south.  One would have to crane his neck to see the top of
+it from here.  Half of the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is visible to the north as it
+makes its way down the hill upon which the Palace of the Rising {YSun{w sits.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6101
+D3
+~
+~
+0 0
+0 0 6099
+S
+#6101
+The Northern Walk~
+To the south is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the {YSun{w Palace, have been set so
+they appear almost seamless.  This high, colonnaded walk continues on to the
+east and west, offering a good view of the northern half of the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6102
+D2
+~
+~
+1 1
+1 0 6162
+D3
+~
+~
+0 0
+0 0 6100
+S
+#6102
+The Northern Walk~
+Tall, narrow {Dw{Cindow{Ds{w sit high up on the wall just to the south.  This
+long walkway which is supported by evenly-spaced columns moves in a
+perfectly straight line from east to west.  The grid-like structure with
+which {cC{Ca{Yi{Wrh{Yi{Ce{cn{w was arranged is very apparent to anyone looking out over the
+city to the north.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6103
+D3
+~
+~
+0 0
+0 0 6101
+S
+#6103
+The Northern Walk~
+A large, square doorway is to the south, leading into the {YSun{w Palace.  A
+long corridor stretches off in that direction, while this high, colonnaded
+walk continues on to the east and west.  Far off to the north, just past the
+part of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w which is visible from here, is the Foregate, which can just
+be seen past the high, perimeter wall.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6104
+D2
+~
+~
+3 3
+1 0 6081
+D3
+~
+~
+0 0
+0 0 6102
+S
+#6104
+The Northern Walk~
+High on the wall to the south are tall, narrow {Dw{Cindow{Ds{w.  Too high to see
+in or out of, their sole purpose appears to be allowing {yl{Yigh{yt{w to enter the
+Palace.  Large, square columns support this walkway, which looks down upon
+the northern half of the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6105
+D3
+~
+~
+0 0
+0 0 6103
+S
+#6105
+The Northern Walk~
+This long, colonnaded walk continues on to the east and west, running
+along the northern edge of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Tall, narrow
+{Dw{Cindow{Ds{w have been set high up on the wall to the south.  To the south, over
+the railing that lines this walk, the {rt{Rile{rd{w roofs of the {Db{yu{Dildin{yg{Ds{w reflect
+the {Ysun{w's light.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6106
+D3
+~
+~
+0 0
+0 0 6104
+S
+#6106
+The Northern Walk~
+Tall, narrow {Dw{Cindow{Ds{w line the wall to the south, although they are too
+high up to allow anyone to see into them.  Anyone standing here, looking out
+over the railing, would have a good view of the city.  Far off to the north,
+just past the part of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w which is visible from here, is the Foregate,
+just beyond the wall which surrounds the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6107
+D3
+~
+~
+0 0
+0 0 6105
+S
+#6107
+The Northern Walk~
+A rather large, square doorway is to the south, leading into the Palace. 
+This long colonnaded walk moves to the east and west, overlooking the
+northern half of the city.  Directly below, one can see Golden Dawn Road, a
+broad street which moves uphill toward the Palace of the Rising {YSun{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6108
+D2
+~
+~
+3 3
+1 0 6133
+D3
+~
+~
+0 0
+0 0 6106
+S
+#6108
+The Northern Walk~
+Moving to the east and west, this long walkway provides a grand view of
+the northern part of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  The {Db{yu{Dildin{yg{Ds{w and streets below are set in a
+perfect grid, everything built in very straight lines from north to south or
+east to west.  On the wall to the south, above even the tallest person's
+head, are tall, narrow {Dw{Cindow{Ds{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6109
+D3
+~
+~
+0 0
+0 0 6107
+S
+#6109
+The Northern Walk~
+To the south is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones the doorway, as with the rest of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w, have
+been set so they appear almost seamless.  This high, colonnaded walk
+continues on to the east and west, offering a good view of the northern half
+of the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6110
+D2
+~
+~
+1 1
+1 0 6165
+D3
+~
+~
+0 0
+0 0 6108
+S
+#6110
+The Northern Walk~
+This walkway continues on to the east and west, running alongside the tall
+{Dto{ww{Der{w just to the south.  One would have to crane her neck to see the top of
+it from here.  Half of the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is visible to the north as it
+makes its way down the hill upon which the {YSun{w Palace sits.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6111
+D3
+~
+~
+0 0
+0 0 6109
+S
+#6111
+The Northeast Corner of the Palace~
+The long walk which makes its way around the perimeter of the Palace of
+the Rising {YSun{w comes to a turn here at the northeast corner.  Just to the
+southwest is one of the Palace's tall, concentric square {Dto{wwe{Drs{w.  It rises
+high into the air.  The walk continues on to the south and west, around the
+tower.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 6112
+D3
+~
+~
+0 0
+0 0 6110
+S
+#6112
+The Eastern Walk~
+This walkway continues on to the north and south, running alongside the
+tall {Dto{ww{Der{w just to the east.  One would have to crane his neck to see the
+top of it from here, and it provides a good amount of {Dshade{w to the walk in
+the later parts of the day.  Spread out below is the eastern part of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6111
+D2
+~
+~
+0 0
+0 0 6113
+S
+#6113
+The Eastern Walk~
+To the west is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w,
+have been set so they appear almost seamless.  This high, colonnaded walk
+continues on to the north and south, offering a good view of the eastern
+half of the city.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6112
+D2
+~
+~
+0 0
+0 0 6114
+D3
+~
+~
+1 1
+1 0 6167
+S
+#6114
+The Eastern Walk~
+Tall, narrow {Dw{Cindow{Ds{w line the wall of the palace to the west, although
+they too high to really be able to see into them.  This walkway is supported
+by evenly-spaced {Dco{wlum{Dns{w and runs north to south along the perimeter of the
+Palace of the Rising {YSun{w.  Just to the north and south, square doorways
+leading into the palace are visible.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6113
+D2
+~
+~
+0 0
+0 0 6115
+S
+#6115
+The Eastern Walk~
+A large, square doorway is to the west, leading into the Palace of the
+Rising {YSun{w.  A long corridor stretches off in that direction, while this
+high, colonnaded walk continues on to the north and south.  Directly below,
+one can see the Way of the Crown, a broad street which moves uphill to the
+main entrance of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6114
+D2
+~
+~
+0 0
+0 0 6116
+D3
+~
+~
+1 1
+1 0 6183
+S
+#6116
+The Eastern Walk~
+This long, colonnaded walk runs in a very straight line from north to
+south.  Just to the north and south, large, open doorways are visible,
+leading into the Palace.  To the east the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w stretches out in
+all directions, with the high perimeter wall visible on the eastern edge. 
+High above on the wall to the west are tall, narrow {Dw{Cindow{Ds{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6115
+D2
+~
+~
+0 0
+0 0 6117
+S
+#6117
+The Eastern Walk~
+To the west is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the {YSun{w Palace, have been set so
+they appear almost seamless.  This high, colonnaded walk continues on to the
+north and south, offering a good view of the eastern half of the city.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6116
+D2
+~
+~
+0 0
+0 0 6118
+D3
+~
+~
+1 1
+1 0 6170
+S
+#6118
+The Eastern Walk~
+This walkway continues on to the north and south, running alongside the
+tall {Dto{ww{Der{w just to the west.  One would have to crane her neck to see the
+top of it from here, and it provides a good amount of {Dshade{w to the walk in
+the later parts of the day.  Spread out below is the eastern part of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6117
+D2
+~
+~
+0 0
+0 0 6119
+S
+#6119
+The Southeast Corner of the Palace~
+The long walk which makes its way around the perimeter of the {YSun{w Palace
+comes to turn here at the southeast corner.  Just to the northwest is one of
+the Palace's tall, concentric square {Dto{wwe{Drs{w.  It rises high into the air. 
+The walk continues on to the north and west, around the tower.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6118
+D3
+~
+~
+0 0
+0 0 6120
+S
+#6120
+The Southern Walk~
+This walkway continues on to the east and west, running alongside the tall
+{Dto{ww{Der{w just to the north.  One would have to crane her neck to see the top of
+it from here.  Half of the city of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w is visible to the south as it
+makes its way down the hill upon which the Palace of the Rising {YSun{w sits.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6119
+D3
+~
+~
+0 0
+0 0 6121
+S
+#6121
+The Southern Walk~
+To the north is an open, square doorway leading into the {Dto{ww{Der{w.  The
+stones of the doorway, as with the rest of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w,
+have been set so they appear almost seamless.  This high, colonnaded walk
+continues on to the east and west, offering a good view of the southern half
+of the city.  
+~
+0
+0 0
+D0
+~
+~
+1 1
+1 0 6172
+D1
+~
+~
+0 0
+0 0 6120
+D3
+~
+~
+0 0
+0 0 6122
+S
+#6122
+The Southern Walk~
+Moving to the east and west, this long walkway provides a grand view of
+the southern part of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  The {Db{yu{Dildin{yg{Ds{w and streets below are set in a
+perfect grid, everything built in very straight lines from north to south or
+east to west.  On the wall to the north, above even the tallest person's
+head, are tall, narrow {Dw{Cindow{Ds{w.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6121
+D3
+~
+~
+0 0
+0 0 6123
+S
+#6123
+The Southern Walk~
+A large, square doorway is to the north, leading into the {YSun{w Palace.  A
+long corridor stretches off in that direction, while this high, colonnaded
+walk continues on to the east and west.  Far off to the south, just past the
+part of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w which is visible from here, is the Foregate, just beyond
+the wall which surrounds the city.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6127
+D1
+~
+~
+0 0
+0 0 6122
+D3
+~
+~
+0 0
+0 0 6124
+S
+#6124
+The Southern Walk~
+This walkway moves along the southern side of the {YSun{w Palace.  Tall, narrow
+{Dw{Cindow{Ds{w line the wall to the north, although they are too high up to allow
+anyone to see into them.  Anyone standing here, looking out over the
+railing, would have a good view of the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6123
+D3
+~
+~
+0 0
+0 0 6125
+S
+#6125
+The Southern Walk~
+This long, colonnaded walk continues on to the north east and west,
+running along the southern edge of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  Tall,
+narrow {Dw{Cindow{Ds{w have been set high up on the wall to the north.  To the
+south, over the railing that lines this walk, the {rt{Rile{rd{w roofs of the
+{Db{yu{Dildin{yg{Ds{w reflect the {Ysun{w's light.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6124
+D3
+~
+~
+0 0
+0 0 6126
+S
+#6126
+The Southern Walk~
+High on the wall to the north are tall, narrow {Dw{Cindow{Ds{w.  Too high to see
+in or out of, their sole purpose appears to be allowing {yl{Yigh{yt{w to enter the
+Palace.  Large, square columns support this walkway, which looks down upon
+the southern half of the city.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6125
+D3
+~
+~
+0 0
+0 0 6087
+S
+#6127
+A Connecting Hallway~
+This small stretch of connecting hallway joins the southern walk around
+the outside of the Palace to a wide corridor leading to a number of guest
+rooms.  Just to the north, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in the center
+of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and free from
+any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6128
+D2
+~
+~
+3 3
+1 0 6123
+S
+#6128
+The Top of the Southeast Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads downwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to
+be almost seamless.  Connecting hallways lead off to the north and south,
+and a wide corridor lined with doors extends to the west.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6129
+D2
+~
+~
+0 0
+0 0 6127
+D3
+~
+~
+0 0
+0 0 6139
+D5
+~
+~
+0 0
+0 0 6053
+S
+#6129
+A Connecting Hallway~
+This small stretch of connecting hallway joins the central corridor of
+the upper level of the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w to a short corridor lined
+with guest rooms.  Just to the south, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in
+the center of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and
+free from any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6130
+D2
+~
+~
+0 0
+0 0 6128
+S
+#6130
+The Central Corridor~
+This large intersection has hallways leading off in all four directions. 
+To both the north and south, tall {Dm{ba{Drb{bl{De{w staircases are visible, leading
+down.  The central corridor continues on to the east and west, running the
+length of the Palace of the Rising {YSun{w.  Tall, {Yg{yi{Yld{ye{Yd{w lamps stand at each
+corner of the intersection.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6131
+D1
+~
+~
+0 0
+0 0 6181
+D2
+~
+~
+0 0
+0 0 6129
+D3
+~
+~
+0 0
+0 0 6180
+S
+#6131
+A Connecting Hallway~
+This small stretch of connecting hallway joins the short corridor lined
+with guest rooms to the central corridor of the upper level of {YSun{w Palace. 
+Just to the north, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in the center of an
+intersection, rising upwards.  The {Dst{won{De{w walls are bare and free from any
+sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6132
+D2
+~
+~
+0 0
+0 0 6130
+S
+#6132
+The Top of the Northeast Staircase~
+A very tall, {Dm{ba{Drb{bl{De{w staircase sits in the middle of this intersection and
+leads downwards.  The marble is streaked with {bbl{Bu{be{w and {ggre{Ge{gn{w and appears to
+be almost seamless.  Connecting hallways lead off to the north and south,
+and a wide corridor lined with doors extends to the west.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6133
+D2
+~
+~
+0 0
+0 0 6131
+D3
+~
+~
+0 0
+0 0 6134
+D5
+~
+~
+0 0
+0 0 6068
+S
+#6133
+A Connecting Hallway~
+This small stretch of connecting hallway joins the northern walk around
+the outside of the Palace to a wide corridor leading to a number of guest
+rooms.  Just to the south, a tall, {Dm{ba{Drb{bl{De{w staircase is visible in the center
+of an intersection, rising upwards.  The {Dst{won{De{w walls are bare and free from
+any sort of ornamentation.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6107
+D2
+~
+~
+0 0
+0 0 6132
+S
+#6134
+Guest Corridor~
+Sturdy, carved {Ddoors{w sit on both sides of this wide corridor, and they
+open into some of the more elaborate guest rooms in the Royal Palace of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  {YG{yi{Yld{ye{Yd{w lamps stand beside the doors and are always lit, no matter
+what time of day it is.  Just to the east, the top of a {Dm{ba{Drb{bl{De{w staircase is
+visible.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6192
+D1
+~
+~
+0 0
+0 0 6132
+D2
+~
+~
+3 3
+1 0 6198
+D3
+~
+~
+0 0
+0 0 6135
+S
+#6135
+Guest Corridor~
+Sturdy, carved {Ddoors{w sit on both sides of this wide corridor, and they
+open into some of the more elaborate guest rooms in the Palace of the Rising
+{YSun{w.  {YG{yi{Yld{ye{Yd{w lamps stand beside the doors and are always lit, no matter what
+time of day it is.  This hallway continues on to the east and west.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6190
+D1
+~
+~
+0 0
+0 0 6134
+D2
+~
+~
+3 3
+1 0 6196
+D3
+~
+~
+0 0
+0 0 6136
+S
+#6136
+Guest Corridor~
+Sturdy, carved {Ddoors{w sit on both sides of this wide corridor, and they
+open into some of the more elaborate guest rooms in the {YSun{w Palace.  {YG{yi{Yld{ye{Yd{w
+lamps stand beside the doors and are always lit, no matter what time of day
+it is.  Just to the west, the top of a {Dm{ba{Drb{bl{De{w staircase is visible.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 6188
+D1
+~
+~
+0 0
+0 0 6135
+D2
+~
+~
+3 3
+1 0 6194
+D3
+~
+~
+0 0
+0 0 6080
+S
+#6137
+Guest Corridor~
+Sturdy, carved {Ddoors{w sit on both sides of this wide corridor, and they
+open into some of the more elaborate guest rooms in the {YSun{w Palace.  {YG{yi{Yld{ye{Yd{w
+lamps stand beside the doors and are always lit, no matter what time of day
+it is.  Just to the west, the top of a {Dm{ba{Drb{bl{De{w staircase is visible.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 5900
+D1
+~
+~
+0 0
+0 0 6138
+D2
+~
+~
+3 3
+1 0 5901
+D3
+~
+~
+0 0
+0 0 6085
+S
+#6138
+Guest Corridor~
+Sturdy, carved {Ddoors{w sit on both sides of this wide corridor, and they
+open into some of the more elaborate guest rooms in the Palace of the Rising
+{YSun{w.  {YG{yi{Yld{ye{Yd{w lamps stand beside the doors and are always lit, no matter what
+time of day it is.  This hallway continues on to the east and west.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 5902
+D1
+~
+~
+0 0
+0 0 6139
+D2
+~
+~
+3 3
+1 0 5903
+D3
+~
+~
+0 0
+0 0 6137
+S
+#6139
+Guest Corridor~
+Sturdy, carved {Ddoors{w sit on both sides of this wide corridor, and they
+open into some of the more elaborate guest rooms in the Royal Palace of
+{cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  {YG{yi{Yld{ye{Yd{w lamps stand beside the doors and are always lit, no matter
+what time of day it is.  Just to the east, the top of a {Dm{ba{Drb{bl{De{w staircase is
+visible.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 5904
+D1
+~
+~
+0 0
+0 0 6128
+D2
+~
+~
+3 3
+1 0 5905
+D3
+~
+~
+0 0
+0 0 6138
+S
+#6140
+Just Inside the Stables~
+Just to the east are two large, {Dir{wo{Dn-bo{wu{Dnd{w doors.  They lead out of the
+stables and into the Royal Palace of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w.  To the west is the center of
+the {ystables{w, with aisles leading off to the north and south.  Further to the
+west is another set of doors, which leads outside.  
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 6030
+D3
+~
+~
+0 0
+0 0 6141
+S
+#6141
+The Center of the Stables~
+The smell of {yleather{w and {rh{yo{rrs{ye{rs{w is rather predominant here in the middle
+of the stables.  To the north and south are aisles lined with stalls, and
+the faint nickering coming from them is audible here.  To the east are two
+{Dir{wo{Dn-bo{wu{Dnd{w that lead into the Palace, while to the west is a small set of
+doors which leads out to the streets.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6143
+D1
+~
+~
+0 0
+0 0 6140
+D2
+~
+~
+0 0
+0 0 6145
+D3
+~
+~
+0 0
+0 0 6142
+S
+#6142
+Just Inside the Stables~
+The noise from the streets of {cC{Ca{Yi{Wrh{Yi{Ce{cn{w can be heard just on the other
+side of the doors to the west.  Off to the east is a set of {Dir{wo{Dn-bo{wu{Dnd{w doors
+which lead into the {YSun{w Palace.  There is a faint smell of {rh{yo{rrs{ye{rs{w in the
+air, and it is apparent that these are the {ystables{w of Palace.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 6141
+S
+#6143
+The Center Aisle of the Stables~
+This center aisle runs north and south.  To the east and west are doors
+leading into the stalls of the {ystables{w, which are flanked by large,
+green-streaked {Dm{ga{Drb{gl{De{w columns.  Just to the south is the center, with aisles
+going to the east and west.  The smell of {rh{yo{rrs{ye{rs{w and {Yhay{w is all around.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 6144
+D1
+~
+~
+3 3
+1 0 6152
+D2
+~
+~
+0 0
+0 0 6141
+D3
+~
+~
+3 3
+1 0 6151
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 6144 1 1
+D 0 6144 3 1
+D 0 6145 1 1
+D 0 6146 1 1
+D 0 6146 3 1
+D 0 6147 1 1
+D 0 6148 3 1
+D 0 6150 3 1
+D 0 6151 1 1
+D 0 6152 3 1
+D 0 6153 1 1
+D 0 6154 3 1
+D 0 6176 2 2
+D 0 6185 0 2
+D 0 6185 2 2
+D 0 6186 0 2
+D 0 6186 3 2
+D 0 6187 1 2
+D 0 6188 0 1
+D 0 6188 2 1
+D 0 6189 2 1
+D 0 6190 0 1
+D 0 6190 2 1
+D 0 6191 2 1
+D 0 6192 0 1
+D 0 6192 2 1
+D 0 6193 2 1
+D 0 6194 0 1
+D 0 6194 2 1
+D 0 6195 0 1
+D 0 6196 0 1
+D 0 6196 2 1
+D 0 6197 0 1
+D 0 6198 0 1
+D 0 6198 2 1
+D 0 6199 0 1
+D 0 5900 2 1
+D 0 5901 0 1
+D 0 5902 2 1
+D 0 5903 0 1
+D 0 5904 2 1
+D 0 5905 0 1
+D 0 5906 3 1
+D 0 5907 3 1
+D 0 5908 3 1
+D 0 5909 3 1
+D 0 5910 3 1
+D 0 5911 3 1
+D 0 5912 3 1
+D 0 5913 3 1
+D 0 5914 3 1
+D 0 5915 1 1
+D 0 5916 1 1
+D 0 5917 1 1
+D 0 5918 1 1
+D 0 5919 1 1
+D 0 5920 1 1
+D 0 5921 1 1
+D 0 5922 1 1
+D 0 5923 1 1
+D 0 5928 3 1
+D 0 5929 0 1
+D 0 5929 1 1
+D 0 5933 2 2
+D 0 5936 1 2
+D 0 5936 3 2
+D 0 5937 1 2
+D 0 5937 3 2
+D 0 5938 1 2
+D 0 5939 3 2
+D 0 5940 1 2
+D 0 5941 3 2
+D 0 5943 1 2
+D 0 5943 3 2
+D 0 5944 1 2
+D 0 5944 3 2
+D 0 5945 1 2
+D 0 5946 1 2
+D 0 5947 3 2
+D 0 5948 3 2
+D 0 6009 3 1
+D 0 6010 1 1
+D 0 6021 2 1
+D 0 6030 3 1
+D 0 6039 0 2
+D 0 6081 0 1
+D 0 6086 2 1
+D 0 6087 0 1
+D 0 6103 2 1
+D 0 6107 2 1
+D 0 6123 0 1
+D 0 6127 2 1
+D 0 6133 0 1
+D 0 6134 0 1
+D 0 6134 2 1
+D 0 6135 0 1
+D 0 6135 2 1
+D 0 6136 0 1
+D 0 6136 2 1
+D 0 6137 0 1
+D 0 6137 2 1
+D 0 6138 0 1
+D 0 6138 2 1
+D 0 6139 0 1
+D 0 6139 2 1
+D 0 6140 1 1
+D 0 6143 1 1
+D 0 6143 3 1
+M 0 5998 20 6159 2
+M 0 5998 20 6159 1
+M 0 5998 20 6164 2
+M 0 5998 20 6164 1
+M 0 5998 20 6169 2
+M 0 5998 20 6169 1
+M 0 5998 20 6174 2
+M 0 5998 20 6174 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

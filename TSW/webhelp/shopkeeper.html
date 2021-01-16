@@ -1,0 +1,58 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>shopkeeper</H1>In order to create a shopkeeper, the mob must be added as the first reset
+in the room.  Example: "reset </FONT><FONT COLOR="red">1</FONT> mob <vnum> </FONT><FONT COLOR="green">1</FONT> </FONT><FONT COLOR="blue">1</FONT>."  The red </FONT><FONT COLOR="red">1</FONT> symbolizes that
+it is the first mob in the room.  The green </FONT><FONT COLOR="green">1</FONT> means that there is only one
+of these shopkeepers/mobs in the area and the blue </FONT><FONT COLOR="blue">1</FONT> means that there is
+only one of these shopkeepers/mobs in the room.  
+
+Once the mob is typed in as the first reset, ALL of the objects he/she will
+be selling should follow.  For example, he is selling an apple.  So, the
+second reset should look like this: "reset 2 obj <vnum of apple> none" The
+none means that it will not be worn anywhere on the mob.  When you type
+"reset" you should see an S in the second reset's line - meaning that it is
+now a shop item the keeper will be selling.  Continue this process for the
+third, fourth, fifth, etc items that the shopkeeper will be selling.  
+
+If you list a random object in the reset and type "none" in the reset
+location, it WILL appear in the shopkeeper's list of things to sell. 
+However, if you type a wear location in the object's reset, it will appear
+in the shopkeeper's equipment list.  If you break up the shopkeeper's
+selling list with another mob, it will mess up your shop list.  So, be sure
+to list ALL of the objects you wish the shopkeeper to sell before using any
+other reset values.  
+
+Once your shopkeeper is done and all of his selling items have been reset,
+purge the room.  Then, type "edit room reset" and "list" You should see all
+the items that are for sell.  If not, you have done the resets incorrectly
+and should try again or seek help.  
+
+After you have read all of this, you might ask "How do I create a
+shopkeeper?"  The answer is that you edit your mob and type "shop assign". 
+This will turn your ordinary mob into a shop keeper.  Then, you will need to
+set the shop hours, profit and shop type.  Let's start with shop hours.  If
+you want your shop to be open all the time, you would set the shop hours
+from 1 to 23.  Or, "shop hours 1 23".  Otherwise, you can vary your hours: 1
+to 6, 10 to 15, etc.  
+
+Next comes profit.  In editing your shopkeeper, you will see "Markup for
+purchaser."  The default is 100%.  If you want the shopkeeper to buy back an
+object for more than its worth, you set the markup higher than 100. 
+Otherwise, set it lower.  Next, you will see "Markdown for seller."  This
+will determine how much the object can be bought from the shopkeeper for. 
+The default is 100%.  If you purchase an item, you see that the shopkeeper
+haggles with you.  If you want him to sell the object to the buyer for more
+than it is worth, set the value higher than 100.  If he will sell it for
+less than it is worth, set it lower than 100.  
+
+Shop profit values are set by typing "shop profit 100 100".  The first 100
+being the markup, the second 100 being the markdown.  
+
+Finally, shop type.  These will need to be set to allow the shopkeeper to
+buy back items.  Traditionally, he should only buy back the same type of
+items he sells.  For example, if he is only selling a canteen, he should
+only buy back drink containers.  So, you would set his shop type as "shop
+type 0 drinkcontainer".  For each additional object you are listing in the
+shop types, use 1, 2, 3, etc.  
+
+</FONT></B></PRE>
+</BODY>

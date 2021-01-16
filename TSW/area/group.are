@@ -1,0 +1,351 @@
+#HELPS
+-1 'RACE HELP' 'RACE' 'RACES'~
+TSW offer a wide range of races as found in the Wheel of Time.  Each race
+has it's unique base, as reflected in world of Robert Jordan.  
+
+Please see the help files for each race for detailed description of each
+races uniquness (i.e. 'help andoran').  
+
+Available races consist of: Andoran, Aiel, Altaran, Amadician, Arafellan,
+Cairheinin, Domani, Ghealdanin, Illianer, Kandori, Mayener, Malkieran,
+Murandian, Ogier Saldaean, Shienara, Tairen, and Taraboner
+
+Future races that will be available when the timeline presents them are the
+Seanchan, Seafolk, and Trollocs.  
+~
+
+-1 HUMAN HUMANS MAN~
+Humans are the most common race in the world, and make up the majority of
+adventurers.  Humans may also train their primary stat higher than any other
+race.
+~
+
+-1 'MENU CHOICE'~
+Choice (add,drop,list,help)?~
+
+-1 BASICS 'ROM BASICS'~
+The basic skills:
+
+Every character starts with two skill groups, one for their class and a default
+set that all characters receive.  The default skills are:
+
+recall  	essential escape skill (see help recall)
+scrolls		reading of scrolls and other magical volumes
+staves		use of magical staves
+wands		use of magical wands
+
+for class defaults, check the classes themselves.
+~
+
+-1 THIEF~
+Thieves are a marginal class.  They do few things better than any other
+class, but have the widest range of skills available.  Thieves are
+specialists at thievery and covert actions, being capable of entering areas
+undetected where more powerful adventurers would fear to tread.  They are
+better fighters than channelers, but lack the wide weapon selection of
+warriors.  
+
+~
+
+-1 WARRIOR~
+Warriors live for combat and the thrill of battle. They are the best fighters
+of all the classes, but lack the subtle skills of thieves and the magical
+talents of channelers.  Warriors are best for those who don't mind
+taking the direct approach, even when another method might be called for.
+
+~
+
+-1 WEAPONS WEAPON WEAPONSMASTER ARROW AXE DAGGER FLAIL LANCE MACE POLEARM SPEAR SWORD WHIP STAFF EXOTIC~
+Each weapon skill applies to a specific group of armaments, and determines how
+well a character fights with a particular weapon.  The weaponsmaster group
+provides talent in all weapons (save exotics), from chair legs to halberds.
+If the character has the parry skill as well, he can parry incoming attacks.
+The chance of parrying is best if the character in question is skilled at 
+both his weapon and his opponent's.
+
+The weapon skills consist of the following:
+
+weaponsmaster	skill group of all weapons listed below (save exotic weaponry)
+arrow               the use of bows and arrows
+axe                 the use of axes, ranging from hand to great
+dagger		the use of knives and daggers, and other stabbing weapons
+lance               the skill of using lances
+flail		skill in ball-and-chain type weapons
+mace		this skill includes clubs and hammers as well as maces
+polearm		the use of pole weapons (except spears), including halberds
+spear		this skill covers both spears and staves, but not polearms
+sword		the warrior's standby, from rapier to claymore
+whip		the use of whips, chains, and bullwhips
+staff               the skill which allows you to wield a staff
+exotic              the use of strange magical weapons
+
+The exotic skill cannot be purchased, and is dependent solely upon level.
+~
+
+-1 'SHIELD BLOCK'~
+Shield block is a rather fancy name for the art of parrying with a
+shield.  Characters with no shield block skill will not be able to defend
+themselves well with a shield.  All classes may learn shield block, but only
+warriors are good at it.  Beware, flails ignore shield blocking attempts,
+and whips have an easier time getting around them.  Axes may split shields
+in two.  
+~
+
+-1 CREATION~
+The creation spell group is used to create objects, of temporary or permanent
+duration.  Skill creators can travel without food or drink, and use their 
+powers to create nourishment as required.  All classes may become learned in
+this group, which contains these spells:
+
+continual light	creates an eternal light source
+create food	produces a nourishing mushroom
+create rose	creates a beautiful red rose
+create spring	calls forth a small but pure spring from the ground
+create water	fills any available container with water
+floating disc	creates a floating disc of force perfect for hauling treasure
+~
+
+-1 WEATHER~
+These spells allow the caster to manipulate local weather conditions, as well
+as summon fog clouds, lightning, or even electrical glows.  This group is
+usable by all classes.
+
+call lightning	summons a huge bolt from the heavens, if the weather is right
+control weather	changes the weather in the manner desired by the caster
+faerie fire	surrounds the target in a glowing aura
+faerie fog	reveals all hidden creatures in the room
+lightning bolt	sends a bolt of electricity into the target
+
+(the weather command, unrelated to this group, shows local weather conditions)
+~
+
+-1 BACKSTAB~
+Backstab is the favored attack of thieves, murderers, and other rogues. 
+It can be used with any weapon type, but is most effective with piercing
+weapons.  The damage inflicted by a backstab is determined by the attacker's
+level, his weapon skill, his backstab skill, and the power of his opponent. 
+~
+
+-1 BASH~
+The bash skill is a brute-force attack designed to knock your foe to his
+knees.  Its success depends on many factors, including the bash rating, your
+weight, and the size of your opponent.  
+~
+
+-1 BERSERK~
+Only powerful characters can master berserking, the ability to enter
+insane rage in combat.  Its effects are not altogether unlike the frenzy
+spell -- a huge surge of combat prowess, coupled with a disregard for
+personal safety.  Berserking characters are more resistant to the effects of
+weaves.  
+~
+
+-1 DIRT 'DIRT KICKING'~
+Consider by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  Only warriors and thieves may
+learn this skill.
+~
+
+-1 DISARM~
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon.  The best possible chance of disarming occurs when you
+are skilled both your own and your opponent's weapon. Only talented thieves
+and warriors may learn this skill.
+~
+
+-1 DODGE~
+In the words of one wise warrior, 'the best way to block a blow is to not
+be where it lands'.  The dodge skill honors this tradition, by improving the
+character's natural agility to the point where many blows will miss the 
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target.  Any class may learn dodging.
+~
+
+-1 'ENHANCED DAMAGE'~
+Warriors and skilled thieves can become skilled enough in combat that they are
+able to inflict more damage than other classes.  Enhanced damage is checked
+for with each hit, although with a low skill, the chance of receiving a bonus
+is very low indeed.
+~
+
+-1 ENVENOM~
+The envenom skill is a cowardly skill practiced only by thieves, designed to
+win a battle through alchemy and treachery rather than skill or strength.
+Or, put another way, it's a skill used by the smart to kill the foolish.
+Food, drink, and weapons may be envenomed, with varying effects. Poisoned
+food or drink puts a mild poison spell on the consumer, and is unlikely to
+be more than a minor inconvience (after all, the typical adventurer could
+drink sewer water with only a trace of the runs).  A poisoned weapon, on
+the other hand, can inflict serious damage on an opponent as the poison 
+burns through his bloodstream.  But be careful, blade venom evaporates 
+quickly and is rendered almost powerless by repeated blows in combat.
+~
+
+-1 'HAND TO HAND'~
+Hand to hand combat is a rare skill in the lands of the Wheel of Time. 
+Learning this style of fighting gives the player a weapon even when disarmed
+-- bare hands.  Trained hand to hand experts are far more effective than
+many swordsmen.  Warriors are the best at this skill, although thieves and
+channelers may also learn it.  
+~
+
+0 KICK~
+Kicking allows the adventurer to receive an extra attack in combat, a
+powerful kick.  However, a failed kick may throw an unwary fighter off
+balance.  Fighters are the most skilled at kicking, although thieves may
+also learn it.  
+~
+
+-1 PARRY~
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is succesful more often than dodge.  Parry requires a weapon for
+full success, the hand-to-hand skill may also be used, but results in reduced
+damage instead of no damage.  The best chance of parrying occurs when the
+defender is skilled in both his and his opponent's weapon type.
+~
+
+-1 RESCUE~
+A friend in need is a friend indeed.  And when in combat, a warrior with
+the rescue skill is just the friend you need.  Rescue allows you to intercede
+in combat, protecting weaker characters from bodily harm. Hopefully the
+favor will be returned.  Success in rescuing depends on the skill rating, as
+well as a comparision of level, dexterity, and speed between the character and
+the target. (note: you rescue a friend, not the monster)
+~
+
+-1 TRIP~
+Back by popular demand.  Trip is a somewhat dastardly attack, and involves
+using any one of a number of methods to bring your opponent down to the ground.
+Tripping large monsters is generally not a good idea, and agile ones will
+find the attack easy to avoid.
+~
+
+-1 'SECOND ATTACK'~
+Training in second attack allows the character a chance at additional
+strikes in combat -- allow a 100% second attack does NOT guarantee 2 attacks
+every round.  Any class may learn this skill, although channelers have a
+very hard time with it.  
+~
+
+-1 'THIRD ATTACK'~
+Training in third attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a second attack as well.  Perfect
+third attack does NOT assure three attacks per round.  Only warriors and highly
+skilled thieves may learn this skill.
+~
+
+-1 HIDE SNEAK~
+Hide and sneak are similar skills, both related to remaining undetected.
+Hide has a very high chance of success, but only works for as long as the
+character remains stationary.  Sneak may be used when moving (including to
+sneak by monsters), but has a lower chance of success.  Only warriors and
+thieves may learn these skills.
+~
+
+-1 'FAST HEALING'~
+The fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina.  Fast healing is checked every tick, and it is 
+possible for it to fail.  All class may learn this skill.
+~
+
+-1 LORE~
+Lore is a general skill, consisting of knowledge of myths and legends. Use
+of the lore skill gives a chance of obtaining information on an object,
+concerning its power and uses.  It also may occasionally increase the value
+of an object, because more will be known about its worth.  All classes may
+learn lore, although thieves are best at it, and warriors find it very hard
+to use.
+~
+
+-1 HAGGLE HAGGLING~
+Haggling is an indispensable skill to the trader.  It allows a character to
+match wits with a merchant, seeking to get a better price for merchandise,
+or to buy at the lowest possible cost.  Unfortunately, most merchants are 
+already very skilled at haggling, so the untrainined adventurer had best 
+guard his treasure closely.  Thieves are natural masters at haggling, 
+although other classes may learn it as well.
+~
+
+-1 PEEK~
+The peek skill is useful for seeing what a player or monster is carrying,
+the better to use the steal command with.  More intelligent characters are
+harder to peek at.  All characters may learn peek, but thieves are the most
+common practicioners.
+~
+
+-1 PICK 'PICK LOCK'~
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. Other classes may
+learn to pick locks, but they will never find it easy.
+~
+
+94 MEDITATION~
+This skill is similar to fast healing, but relies on the concentration
+and mantras to increase endurance recovery when the character is sleeping or
+resting.  Thieves and warriors, with their troubled minds and violent
+attitudes, have much trouble learning to meditate.  
+~
+
+-1 STEAL~
+Theft is the defining skill of the thief, and is only available to that
+class.  It allows items to be stolen from the inventory of monsters and
+characters, and even from shops!  But beware, shop keepers gaurd their
+merchandise carefully, and attempting to steal from a character earns you a
+THIEF flag if you are caught (making you free game for killing).  
+
+{RSteal is meant to be used ICly exclusively.  In other words, when both
+parties have their IC flag up.  Do not abuse this by never going IC or
+dropping your IC flag when in the presence of people you oocly know are
+thieves.  {x 
+~
+
+-1 'PORTAL'~
+Level: 60
+
+Syntax: cast 'portal' <target>
+
+Composed of threads of {WAir{w, {yEarth{w, and {YSpirit{w, the portal weave is similar
+to gate, but creates a lasting one-way portal to the target creature,
+instead of transporting the caster.  Portals are entered using 'enter' or
+'go' command, as in 'go portal'.  Portals cannot be made to certain
+destinations, nor used to escape from gate-proof rooms.  Portal requires a
+special source of power to be used, unfortunately the secret of this
+material component has been lost...  
+~
+
+-1 SLOW~
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with it's own unique set of effects.  When cast on an unfortunate victim,
+it slows its movements, making it easier to hit and reducing its rate
+of attack.  The effect of slow also double movement costs and halve healing
+rates, due to reduced metabolism.
+~
+
+-1 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+~
+
+-1 $~
+
+#$

@@ -1,0 +1,1910 @@
+#AREADATA
+Name Tournament Areas~
+Builders Angenue Halo Dash Sugar Caritas Honey~
+VNUMs 29000 29200
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#29050
+hulking hairless leather learthery animal lopar~
+a hulking {yl{ro{Dp{yar{x~
+A hulking, hairless, leathery looking animal runs through the {gg{Gras{gs{x, untamed.
+~
+The premier fighter of the Seanchan exotics, the lopar is a hulking
+animal weighing between fifteen hundred and two thousand pounds.  It has two
+eyes, large and {Ddark{x, surrounded by horny ridges and set into a large round
+head with no external ears.  It has a {yle{Da{wth{De{yry{x.  Hairless hide, in colors
+that range from dark {ybrown{x to a pale {rre{Rdd{Rish{x hue.  It has six toes on both
+front and rear paws, all with large retractable claws.  It uses both
+forepaws for grasping and handling.  
+~
+fade~
+ABF CJ 0 0
+98 88 50d51+9604 98d10+100 10d18+49 slash
+0 0 0 0 0
+A
+6 6 6 6
+CEFIKR 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+F aff P
+M 'HPCNT' 29050 25~
+M 'HPCNT' 29050 50~
+M 'HPCNT' 29050 75~
+#29051
+torm reptilian creature~
+a {yt{Yo{gr{ym{x~
+A {gre{Gpt{yi{Gli{gan{x looking {ycr{Ye{ga{yt{Yu{gr{ye{x with three eyes stands here, waiting for a rider.
+~
+The most intelligent of the Seanchan exotics, the torm is a cross between
+a horse-sized cat and a lizard.  They have {ybr{Yo{gn{yze{x scales, six-clawed feet
+that can grip {Ds{wt{Won{we{Ds{x of the road; and three {ge{Gy{ye{gs{x.  As riding animals, their
+speed adn endurance are superior to that of a horse.  
+~
+unique~
+AZ V 1000 0
+90 80 47d48+9000 90d10+100 10d11+48 smash
+0 0 0 0 0
+A
+6 6 6 6
+CFHIKO 0 ER L
+stand stand male 0
+AGV ACDEFJLQ large 'flesh'
+#0
+
+
+
+#OBJECTS
+#29000
+small iron key~
+a small {Di{wr{Wo{Dn key{x~
+A small {Di{wr{Wo{Dn key{x has been dropped here.~
+metal~
+key 0 AO
+0 0 0 0 0
+0 1 10 100
+#29001
+small brass key~
+a small {ybr{Ya{yss key{x~
+A small {ybr{Ya{yss key{x has been dropped here.~
+cloth~
+key 0 AO
+0 0 0 0 0
+0 0 0 100
+#29002
+wall~
+a chunk of {Dw{wa{Wl{Dl{x~
+A chunk of {Dw{wa{Wl{Dl{x is here, looking like it might be loose.~
+stone~
+container a P
+10 0 0 1 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#29000
+The Center of a Tournament Arena Set in the Heart of Murandy~
+A large, {yd{ri{Dr{yt{x floor arena spreads all around you.  There are only a few
+small {Dr{wo{Wc{wk{Ds{x within your reach.  Tunnels lead off in various directions,
+leading to other areas of the arena, you assume.  On the outskirts of your
+arena stage, tall {Ds{wt{Wo{wn{De{x walls have been created to keep you in.  And, beyond
+these walls, rows of {ywooden{x benches have been constructed for spectators to
+watch this gladiator sport.  You wonder if any of these notorious Murandian
+gamblers have placed money on you to win.  
+~
+0
+A 0
+D0
+~
+~
+1 1
+1 0 29011
+D1
+~
+'huge {Dwr{wou{Wght {wir{Don {Dg{wa{Wt{De{x'~
+7 7
+2 29001 29009
+D2
+~
+~
+1 1
+1 0 29012
+D3
+~
+'huge {Dwr{wou{Wght {wir{Don {Dg{wa{Wt{De{x'~
+7 7
+2 29000 29010
+S
+#29001
+An Arena Tunnel~
+These tunnels are {Ddark{x and dirty.  Moisture fills the air, leaving a low,
+{Wf{wog{Wgy{x mist along the ground and a {gm{Gil{gd{Gewy{x scent in the air.  In places,
+{Bw{Ca{Wt{Ce{Br{x drips from the ceiling of the tunnel, creating slippery, {rm{yudd{ry{x puddles
+on the ground.  This isn't the kind of place most people would want to spend
+much time.  
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 29002
+D2
+~
+~
+0 0
+0 0 29011
+D3
+~
+~
+0 0
+0 0 29008
+S
+#29002
+An Arena Tunnel~
+The {Ddark{x, moist tunnel continues underground, leading to who knows where. 
+{DC{wo{Wb{Dwe{wb{Ds{x litter the ceiling, heavy and thick with small {Bw{Ca{Wt{Ce{Br{x droplets.  They
+look rather omnious to be walking through.  The smell has also changed... 
+From {gm{Gil{gd{Gew{x to {rb{Rloo{rd{x and rot?  
+~
+0
+AD 0
+D2
+~
+~
+0 0
+0 0 29003
+D3
+~
+~
+0 0
+0 0 29001
+S
+#29003
+An Arena Tunnel~
+It is best not to look on the ground here because it is impossible to
+tell what you might be walking on that is crunching beneath your feet.  The
+air is ripe with {gd{De{yca{gy{x and very difficult to breath.  The humidity only
+makes it worse, causing the air to feel heavy and the smell to linger.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 29002
+D2
+~
+~
+0 0
+0 0 29004
+D3
+~
+~
+0 0
+0 0 29009
+S
+#29004
+An Arena Tunnel~
+The smell of decay lessens now, perhaps because this area of the tunnels
+is so delapidated that people rarely pass here.  The {Dw{wa{Dl{Wl{Ds{x are crumbling,
+and from time to time, chunks of the ceiling fall too.  In the distance, you
+can hear {Cw{Ba{Wt{Be{Cr{x dripping and beneath your feet, the sound of {ym{ru{yd{x squishing.  
+~
+0
+AD 0
+D0
+~
+~
+0 0
+0 0 29003
+D3
+~
+~
+0 0
+0 0 29005
+S
+#29005
+An Arena Tunnel~
+These tunnels are {Ddark{x and very humid, almost uncomfortably so, because
+you do not know what is looming in the darkness and the wet heat makes it
+difficult to breathe.  The air is heavy with the smell of {gm{Gil{gd{Gew{x and {yd{Di{wr{yt{x. 
+From here, you can also hear the faint sound of crowds roaring as they cheer
+on their favorite battling opponent.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 29012
+D1
+~
+~
+0 0
+0 0 29004
+D3
+~
+~
+0 0
+0 0 29006
+S
+#29006
+An Arena Tunnel~
+The ground upon which you walk is a combination of smelly {gm{Go{gss{x and sticky
+{ym{ru{yd{x.  {BW{Ca{Wt{Ce{Br{x drips rather quickly from the ceiling in several places, making
+this section of the tunnels very humid.  Sweat - mostly from the water, but
+also from the heat, breaks out on your forehead almost instantly.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 29007
+D1
+~
+~
+0 0
+0 0 29005
+S
+#29007
+An Arena Tunnel~
+{DDark{x and dirty, these tunnels look to be very uninviting.  Here, many
+{Ds{rp{Diders{x have made their homes, building huge {Wco{wbw{Webs{x that blow slightly from
+a breeze coming from the east.  These webs are rather light and airy,
+despite the humidity in these tunnels.  With the size of the spiders on
+them, they don't look like something you would want to be walking through.  
+~
+0
+A 0
+D0
+~
+~
+0 0
+0 0 29008
+D1
+~
+~
+0 0
+0 0 29010
+D2
+~
+~
+0 0
+0 0 29006
+S
+#29008
+An Arena Tunnel~
+The {Dw{wa{Wl{Dls{x of the tunnel are crumbling all around, perhaps from the weight
+of the crowd above that surrounds the arena.  Large chunks are scattered
+throughout the {ym{ru{yd{x on the floor, making this section of the tunnel very
+treacherous and easy to trip on.  Combined with the dripping {Bw{Ca{Wt{Ce{Br{x from the
+less than stable ceiling, this part of the tunnel is one that any sane
+warrior would wish to exit quickly.  
+~
+0
+A 0
+D1
+~
+~
+0 0
+0 0 29001
+D2
+~
+~
+0 0
+0 0 29007
+S
+#29009
+An Arena Tunnel~
+Light from the arena breaks through the bars of the heavy {Di{wr{Wo{Dn gate{x,
+casting light into this section of the tunnel.  The ground is drier, not as
+{rm{yudd{ry{x as the rest of the tunnels, because the sun can dry it.  Boot prints
+have been left, and large paw prints as well.  {DC{wh{Wai{wn{Ds{x can be see hanging
+limply from the walls.  They are large and thick.  You can also feel the
+walls vibrate above you, from the roar of the Murandian crowds sitting in
+their benches, watching this sport.  
+~
+0
+AD 0
+D1
+~
+~
+0 0
+0 0 29003
+D3
+~
+'huge {Dwr{wou{Wght {wir{Don {Dg{wa{Wt{De{x'~
+7 7
+2 29001 29000
+S
+#29010
+An Arena Tunnel~
+Through the bars to the east, you can see the fighting arena, surrounded
+by the Murandian crowd who has bet on their favorite fighter.  They cheer
+and chant, making the walls and ceiling around you shake with excitement.  A
+set of large {Dc{wh{Wai{wn{Ds{x is bolted to the wall and disappears into a large pit
+that is too {Ddark{x to see into.  However, noticing the pair of {rr{Re{rd e{Rye{rs{x that
+peer out at you, you probably wish you had the key to open the gate and
+leave into the arena.  
+~
+0
+A 0
+D1
+~
+'huge {Dwr{wou{Wght {wir{Don {Dg{wa{Wt{De{x'~
+7 7
+2 29000 29000
+D3
+~
+~
+0 0
+0 0 29007
+S
+#29011
+Just Inside the Arena Tunnels~
+{D_{w.{W--"""""--{w.{D_        {D_{w.{W--"""""--{w.{D_
+                 {D.'**{w*{W*******{w*{D**'.{x    {D.'**{w*{W*******{w*{D**'.{x
+                {D/****{w*{W*******{w*{D****\{x  {D/****{w*{W*******{w*{D****\{x
+               {D;*****{w*{W*******{w*{D*****;{x{D;*****{w*{W*******{w*{D*****;{x
+               {D|******{w*{W*****{w*{D******|{x{D|******{w*{W*****{w*{D******|{x
+               {D|*******{w*{W***{w*{D*******|{x{D|*******{w*{W***{w*{D*******|{x
+               {D;********{w*{W*{w*{D********;{D;********{w*{W*{w*{D********;
+                {W\{w*{D(`'--,*{w*{D*,--'`){w*{W/  {W\{w*{D(`'--,*{w*{D*,--'`){w*{W/
+                 {W\{w*{D\  _ )**( _  {w/{W/{x    {W\{w*{D\  _ )**( _  {w/{W/{x
+                  {W){w*{D)({rx{D)/**\({rx{D){w({W({x      {W){w*{D)({rx{D)/**\({rx{D){w({W({x
+                  {W({w_{D{*`""`*/\`""`{w_{W){x      {W({w_{D{*`""`*/\`""`{w_{W){x
+                   {W\{w`{D"-,/**\,-"{w`{W/{x       {W\{w`{D"-,/**\,-"{w`{W/{x
+                    {W`{w\{D*/`""`\*{w/{W`         {W`{w\{D*/`""`\*{w/{W`
+                    {D|{w/{W\{w/{W\{w/{W\{w/{W\{w/{W\{D|         {D|{w/{W\{w/{W\{w/{W\{w/{W\{w/{W\{D|
+                    {D|{w\        {w/{D|         {D|{w\        {w/{D|
+                     {D;{D|{w/{W\{w/{W\{w/{W\{D| {D;          {D;{D|{w/{W\{w/{W\{w/{W\{D|{D;
+                     {D\`-{w`{W--{w`{D-`/           {D\`-{w`{W--{w`{D-`/
+                      {D\*{w*{W**{w*{D*/{x             {D\*{w*{W**{w*{D*/{x
+                       {D'{w,{W__{w,{D'{x               {D'{w,{W__{w,{D'{x
+   {Y2{W2{Y2
+  {Y2{y2{Y2 {y2{Y2{y2  {D-{BM{Wu{rr{Ra{rn{Wd{By{D-
+{y22{Y2    2{y22
+{R2{y22    22{R2
+      {r2{R2{r2
+     {r2{R2{r2
+    {r2{R2{r2
+   {r2{R2{r2
+  {r2{R2{r2
+ {r2{R2{r2
+ {r2{R2{r2{R2{r2{R2{r2{R2{r2{R2
+ {r2{R2{r2{R2{r2{R2{r2{R2{r2{R2{x 
+~
+0
+AD 1
+D0
+~
+~
+0 0
+0 0 29001
+D2
+~
+~
+1 1
+1 0 29000
+S
+#29012
+Just Inside the Arena Tunnels~
+{D_{w.{W--"""""--{w.{D_        {D_{w.{W--"""""--{w.{D_
+                 {D.'**{w*{W*******{w*{D**'.{x    {D.'**{w*{W*******{w*{D**'.{x
+                {D/****{w*{W*******{w*{D****\{x  {D/****{w*{W*******{w*{D****\{x
+               {D;*****{w*{W*******{w*{D*****;{x{D;*****{w*{W*******{w*{D*****;{x
+               {D|******{w*{W*****{w*{D******|{x{D|******{w*{W*****{w*{D******|{x
+               {D|*******{w*{W***{w*{D*******|{x{D|*******{w*{W***{w*{D*******|{x
+               {D;********{w*{W*{w*{D********;{D;********{w*{W*{w*{D********;
+                {W\{w*{D(`'--,*{w*{D*,--'`){w*{W/  {W\{w*{D(`'--,*{w*{D*,--'`){w*{W/
+                 {W\{w*{D\  _ )**( _  {w/{W/{x    {W\{w*{D\  _ )**( _  {w/{W/{x
+                  {W){w*{D)({rx{D)/**\({rx{D){w({W({x      {W){w*{D)({rx{D)/**\({rx{D){w({W({x
+                  {W({w_{D{*`""`*/\`""`{w_{W){x      {W({w_{D{*`""`*/\`""`{w_{W){x
+                   {W\{w`{D"-,/**\,-"{w`{W/{x       {W\{w`{D"-,/**\,-"{w`{W/{x
+                    {W`{w\{D*/`""`\*{w/{W`         {W`{w\{D*/`""`\*{w/{W`
+                    {D|{w/{W\{w/{W\{w/{W\{w/{W\{w/{W\{D|         {D|{w/{W\{w/{W\{w/{W\{w/{W\{w/{W\{D|
+                    {D|{w\        {w/{D|         {D|{w\        {w/{D|
+                     {D;{D|{w/{W\{w/{W\{w/{W\{D| {D;          {D;{D|{w/{W\{w/{W\{w/{W\{D|{D;
+                     {D\`-{w`{W--{w`{D-`/           {D\`-{w`{W--{w`{D-`/
+                      {D\*{w*{W**{w*{D*/{x             {D\*{w*{W**{w*{D*/{x
+                       {D'{w,{W__{w,{D'{x               {D'{w,{W__{w,{D'{x
+   {Y2{W2{Y2
+  {Y2{y2{Y2 {y2{Y2{y2  {D-{BM{Wu{rr{Ra{rn{Wd{By{D-
+{y22{Y2    2{y22
+{R2{y22    22{R2
+      {r2{R2{r2
+     {r2{R2{r2
+    {r2{R2{r2
+   {r2{R2{r2
+  {r2{R2{r2
+ {r2{R2{r2
+ {r2{R2{r2{R2{r2{R2{r2{R2{r2{R2
+ {r2{R2{r2{R2{r2{R2{r2{R2{r2{R2{x 
+~
+0
+AD 1
+D0
+~
+~
+1 1
+1 0 29000
+D2
+~
+~
+0 0
+0 0 29005
+S
+#29030
+In Between Buildings~
+{D_{w.{W--"""""--{w.{D_
+                            {D.'**{w*{W*******{w*{D**'.{x
+                           {D/****{w*{W*******{w*{D****\{x
+                          {D;*****{w*{W*******{w*{D*****;{x
+                          {D|******{w*{W*****{w*{D******|{x
+                          {D|*******{w*{W***{w*{D*******|{x
+                          {D;********{w*{W*{w*{D********;
+                           {W\{w*{D(`'--,*{w*{D*,--'`){w*{W/
+                            {W\{w*{D\  _ )**( _  {w/{W/{x
+                             {W){w*{D)({rx{D)/**\({rx{D){w({W({x
+                             {W({w_{D{*`""`*/\`""`{w_{W){x
+                              {W\{w`{D"-,/**\,-"{w`{W/{x
+                               {W`{w\{D*/`""`\*{w/{W`
+                               {D|{w/{W\{w/{W\{w/{W\{w/{W\{w/{W\{D|
+                               {D|{w\        {w/{D|
+                                {D;{D|{w/{W\{w/{W\{w/{W\{D|{D;
+                                {D\`-{w`{W--{w`{D-`/
+                                 {D\*{w*{W**{w*{D*/{x
+                                  {D'{w,{W__{w,{D'{x
+                                {D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_
+                               {D| {WRound One {D|
+                  {D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{D_{w_{W_{D|{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D|{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_
+                 {D|{WWelcome to {DShadow {rWars {WCombat League!   {D|
+                 {D|{WThe first round is fought in a small    {D|
+                 {D|{Wbackstreet arena set in the alleys of   {D|
+                 {D|{WEbou Dar. The specific rules for this   {D|
+                 {D|{Warena are as follows.                   {D|
+                 {D|                                       {D |
+                 {D|{Y* {WNo Mounts.                         {D   |
+                 {D|{Y* {WFirst person to subdue enemy wins.   {D |
+                 {D|{Y* {WEnemy MUST be subdued, if one flees   {D|
+                 {D|{Wthe other is expected to hunt him/her  {D |
+                 {D|{Wdown and end.                           {D|
+                 {D|{Y* {WUse the area to your advantage!       {D|
+                 {D|{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_|{x
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 29031
+S
+#29031
+Closing Walls~
+{D|{WBe sure to read all room descriptions thoroughly.{D|
+ {D|{WImportant hints about how to best utilize the su-{D|
+ {D|{Wrroundings to your advantage might lurk in the   {D|
+ {D|{Wfineprint, right next to warnings of upcoming da-{D|
+ {D|{Wngers or useful news for you.{D                    |{x 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29030
+D2
+~
+~
+0 0
+0 0 29032
+S
+#29032
+Alley Crossing~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29031
+D2
+~
+~
+0 0
+0 0 29033
+S
+#29033
+Backstreets Of Ebou Dar~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29032
+D1
+~
+~
+0 0
+0 0 29035
+D3
+~
+~
+0 0
+0 0 29034
+S
+#29034
+Abrupt End Of The Alley~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 29033
+S
+#29035
+Flickering Shadows~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 29036
+D3
+~
+~
+0 0
+0 0 29033
+S
+#29036
+The Rough Side Of Town~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 29037
+D3
+~
+~
+0 0
+0 0 29035
+S
+#29037
+Deeper Into The Dark Altaran Alleys~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 29038
+D2
+~
+~
+0 0
+0 0 29039
+D3
+~
+~
+0 0
+0 0 29036
+S
+#29038
+Dead End~
+~
+0
+0 1
+D3
+~
+~
+0 0
+0 0 29037
+S
+#29039
+Wandering The Narrowing Streets Of Ebou Dar~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29037
+D2
+~
+~
+0 0
+0 0 29040
+S
+#29040
+A Good Place To Pick A Fight~
+{D|{WBe sure to read all room descriptions thoroughly.{D|
+ {D|{WImportant hints about how to best utilize the su-{D|
+ {D|{Wrroundings to your advantage might lurk in the   {D|
+ {D|{Wfineprint, right next to warnings of upcoming da-{D|
+ {D|{Wngers or useful news for you.{D                    |{x 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29039
+D2
+~
+~
+0 0
+0 0 29041
+S
+#29041
+Off The Main Ebou Dari Streets~
+{D_{w.{W--"""""--{w.{D_                        {D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_
+        {D.'**{w*{W*******{w*{D**'.{x                     {D| {WRound One {D|
+       {D/****{w*{W*******{w*{D****\{x       {D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{D_{w_{W_{D|{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D|{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_
+      {D;*****{w*{W*******{w*{D*****;{x     {D|{WWelcome to {DShadow {rWars {WCombat League!   {D|
+      {D|******{w*{W*****{w*{D******|{x     {D|{WThe first round is fought in a small    {D|
+      {D|*******{w*{W***{w*{D*******|{x     {D|{Wbackstreet arena set in the alleys of   {D|
+      {D;********{w*{W*{w*{D********;     {D|{WEbou Dar. The specific rules for this   {D|
+       {W\{w*{D(`'--,*{w*{D*,--'`){w*{W/      {D|{Warena are as follows.                   {D|
+        {W\{w*{D\  _ )**( _  {w/{W/{x       {D|                                       {D |
+         {W){w*{D)({rx{D)/**\({rx{D){w({W({x        {D|{Y* {WNo Mounts.                         {D   |
+         {W({w_{D{*`""`*/\`""`{w_{W){x        {D|{Y* {WFirst person to subdue enemy wins.   {D |
+          {W\{w`{D"-,/**\,-"{w`{W/{x        {D|{Y* {WEnemy MUST be subdued, if one flees   {D|
+           {W`{w\{D*/`""`\*{w/{W`         {D|{Wthe other is expected to hunt him/her  {D |
+           {D|{w/{W\{w/{W\{w/{W\{w/{W\{w/{W\{D|         {D|{Wdown and end.                           {D|
+           {D|{w\        {w/{D|         {D|{Y* {WUse the area to your advantage!       {D|
+            {D;{D|{w/{W\{w/{W\{w/{W\{D|{D;          {D|{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_{w_{W_{w_{D_|{x
+            {D\`-{w`{W--{w`{D-`/
+             {D\*{w*{W**{w*{D*/{x
+              {D'{w,{W__{w,{D'{x
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 29040
+S
+#29050
+A Strange, Distant Land~
+This peaking, {ggr{Gas{gsy{x hill rises several feet above the ground, allowing a
+person who is standing on top a view of the {gf{Gi{ye{Gl{gds{x below.  To the west,
+several exotic animals are resting in the {gg{Gra{gss{x.  They could be the
+aggressive {yL{Yo{Dp{Ya{yr{x.  One would be wise to approach these creatures with care,
+as they are known to rear and attack.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29051
+D1
+~
+~
+0 0
+0 0 29052
+S
+#29051
+A Strange, Distant Land~
+These rolling hills are covered with {ggr{Gass{ges{x and {gt{Gr{ye{Ge{gs{x, providing a perfect
+{gp{Ga{yst{Gu{gre{x area for the strange and exotic animals of this country.  They roam
+free and untamed, unless captured by one who knows how to handle them.  Be
+careful, however, as the {yL{Yo{Dp{Ya{yr{x are dangerous and will attack if they are
+frightened.  They tend to inhabit the fields south of here.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29053
+D1
+~
+~
+0 0
+0 0 29055
+D2
+~
+~
+0 0
+0 0 29050
+S
+#29052
+A Strange, Distant Land~
+Spreading all around you, the {ggr{Gas{gsy{x hill country that houses the
+Seanchan exotics thrives.  You can see many animals, some of them tamer and
+less fierce looking than others.  With the {gp{Glan{gt{x growth and a few shade
+{yt{gr{Ge{ge{ys{x, and clean {Bw{Ca{Wt{C{Br{x nearby, this is the perfect place for these wild
+animals to survive.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29055
+D1
+~
+~
+0 0
+0 0 29060
+D3
+~
+~
+0 0
+0 0 29050
+S
+#29053
+A Strange, Distant Land~
+The land surrounding you is foreign and beautiful, covered with lush,
+{ggr{Gas{gsy{x fields spreading in all directions.  The air is clean and a bit
+{ch{Cum{cid{x, allowing {gp{Glant{gs{x and {gt{Gr{ye{Ge{gs{x to flourish from the moisture.  There are
+animals roaming these plains, unlike any you have ever seen before.  They
+are large and some look to be be rather unapproachable.  However, there are
+a few that look ferocious, but very intelligent and possibly rideable.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 29054
+D2
+~
+~
+0 0
+0 0 29051
+D3
+~
+~
+0 0
+0 0 29063
+S
+#29054
+A Strange, Distant Land~
+{CBu{ct{Yt{Wer{Yf{cli{Ces{x lightly touch down on the tips of {gg{Gras{gs{x in this field, until
+they are chased away by exotic animals charging the field.  This Seanchan
+land is enchanted, unlike anything you have ever seen.  With fluffy {Wwhite{x
+clouds floating over head and the warm foreign sun shining down, this is a
+place you might like to stay and enjoy.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 29056
+D2
+~
+~
+0 0
+0 0 29055
+D3
+~
+~
+0 0
+0 0 29053
+S
+#29055
+A Large, {gG{Grass{gy{x Field~
+{mF{Ml{Yo{Ww{Ye{Mr{ms{x blossom sporatically throughout these {ggr{Gas{gsy{x hills.  Some look
+like they maybe wanting to start a field of their own, but are either
+trampled or eaten by the exotic creatures that run through here.  Fluffy
+{Wwhite{x clouds float overhead, providing shade from time to time.  Staying
+alert to what is around you, this could be an nice place to sit and overlook
+the {gfi{Gel{gds{x and enjoy the day.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29054
+D2
+~
+~
+0 0
+0 0 29052
+D3
+~
+~
+0 0
+0 0 29051
+D1
+~
+~
+0 0
+0 0 29058
+S
+#29056
+A Strange, Distant Land~
+{gGr{Gas{gsy{x fields stretch all around you, with clear, {cb{Clu{ce{x skies and flew
+feathery {Ww{wh{Wite{x clouds floating above.  This place is so serene and peaceful.
+It would be a shame to ruin the atmosphere with an attack from the animals
+to the east.  They look like they could be the dangerous, and oft times
+aggressive {yL{Yo{Dp{Ya{yr{x.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 29057
+D2
+~
+~
+0 0
+0 0 29058
+D3
+~
+~
+0 0
+0 0 29054
+S
+#29057
+A Strange, Distant Land~
+The knee high {gg{Gras{gs{x on these plains helps to hide a creature that prefers
+this section of land - the dangerous {yL{Yo{Dp{Ya{yr{x.  The food here is plentiful for
+these creatures, and with {Bw{Ca{Wt{Ce{Br{x nearby, they will stay here and make this
+piece of {gpa{Gstu{gre{x home until it comes time to move.  Only brave warriors or
+those trained in the taming of exotics should walk this land.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 29059
+D3
+~
+~
+0 0
+0 0 29056
+S
+#29058
+A Large, {gG{Grass{gy{x Field~
+The hills begin to roll more frequently here, creating lulls in the
+{gla{Gnd{ysc{Gap{ge{x.  Only standing upon these hills can one see what is between them.
+Therefore, walking up them is treacherous because you could be met with a
+stampede of Seanchan {Dex{yo{Wt{yic{Ds{x.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 29060
+D0
+~
+~
+0 0
+0 0 29056
+D3
+~
+~
+0 0
+0 0 29055
+D1
+~
+~
+0 0
+0 0 29059
+S
+#29059
+A Strange, Distant Land~
+A small {Bs{Ct{Wre{Ca{Bm{x trickles through the {ggr{Gas{gs{x here, drawing the attention of
+the thirsty creatures roaming these growing {gpl{Gain{gs{x.  The {Bw{Ca{Wt{C{B{x is clear and
+inviting.  But, beware, as a herd of dangerous {yL{Yo{Dp{Ya{yr{x look to be approaching
+from the north.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29057
+D2
+~
+~
+0 0
+0 0 29061
+D3
+~
+~
+0 0
+0 0 29058
+S
+#29060
+A Strange, Distant Land~
+Knee-high {ggr{Gass{ges{x and blooming {mf{Ml{Yo{Ww{Ye{Mr{ms{x grow readily in these rolling
+hills under the warm Seanchan sun.  With a bit of humidity in the air, the
+{gpl{Gan{gts{x get the moisture they require.  Few {yt{Gr{ge{Ge{ys{x provide shade from the
+nearly cloudless {cb{Clu{ce{x sky.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29058
+D1
+~
+~
+0 0
+0 0 29061
+D3
+~
+~
+0 0
+0 0 29052
+S
+#29061
+A Strange, Distant Land~
+Entering this foreign land, you immediately notice the lush, {ggr{Gas{gsy{x
+fields spreading in all directions around you.  The air is clean and a bit
+{ch{Cum{cid{x, allowing {gp{Glant{gs{x and {gt{Gr{ye{Ge{gs{x to flourish from the moisture.  There are
+animals roaming these plains, unlike any you have ever seen before.  They
+are large and some look to be be rather unapproachable.  However, there are
+a few that look ferocious, but very intelligent and possibly rideable.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 29059
+D1
+~
+~
+0 0
+0 0 29062
+D3
+~
+~
+0 0
+0 0 29060
+S
+#29062
+Halo's Room~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 29061
+S
+#29063
+Halo's Room~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 29053
+S
+#29164
+Quest Arena - Dead End~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  As you continue to walk south, you notice a large sign saying, '{RDead
+End{x'.  
+~
+0
+W 1
+D2
+~
+~
+0 0
+0 0 29177
+S
+#29165
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29170
+D3
+~
+~
+0 0
+0 0 29166
+S
+#29166
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29180
+D1
+~
+~
+0 0
+0 0 29165
+S
+#29167
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29168
+D3
+~
+~
+0 0
+0 0 29170
+S
+#29168
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29169
+D2
+~
+~
+0 0
+0 0 29167
+D3
+~
+~
+0 0
+0 0 29173
+S
+#29169
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29183
+D2
+~
+~
+0 0
+0 0 29168
+D3
+~
+~
+0 0
+0 0 29172
+S
+#29170
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29173
+D1
+~
+~
+0 0
+0 0 29167
+D3
+~
+~
+0 0
+0 0 29165
+S
+#29171
+Quest Arena - Dead End~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  As you continue to walk south, you notice a large sign saying, '{RDead
+End{x'.  
+~
+0
+W 1
+D2
+~
+~
+0 0
+0 0 29172
+S
+#29172
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29171
+D1
+~
+~
+0 0
+0 0 29169
+D2
+~
+~
+0 0
+0 0 29173
+S
+#29173
+Quest Arena - Large Intersection~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29172
+D1
+~
+~
+0 0
+0 0 29168
+D2
+~
+~
+0 0
+0 0 29170
+D3
+~
+~
+0 0
+0 0 29175
+S
+#29174
+Quest Arena - Dead End~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  As you continue to walk south, you notice a large sign saying, '{RDead
+End{x'.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29184
+S
+#29175
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29173
+D3
+~
+~
+0 0
+0 0 29179
+S
+#29176
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29177
+D3
+~
+~
+0 0
+0 0 29189
+S
+#29177
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29164
+D2
+~
+~
+0 0
+0 0 29178
+D3
+~
+~
+0 0
+0 0 29176
+S
+#29178
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29177
+D2
+~
+~
+0 0
+0 0 29179
+S
+#29179
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29178
+D1
+~
+~
+0 0
+0 0 29175
+D2
+~
+~
+0 0
+0 0 29180
+S
+#29180
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29179
+D2
+~
+~
+0 0
+0 0 29166
+D3
+~
+~
+0 0
+0 0 29181
+S
+#29181
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29180
+D3
+~
+~
+0 0
+0 0 29188
+S
+#29182
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29188
+D2
+~
+~
+0 0
+0 0 29183
+S
+#29183
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29182
+D3
+~
+~
+0 0
+0 0 29184
+S
+#29184
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29185
+D1
+~
+~
+0 0
+0 0 29183
+D2
+~
+~
+0 0
+0 0 29174
+S
+#29185
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D2
+~
+~
+0 0
+0 0 29184
+D3
+~
+~
+0 0
+0 0 29186
+S
+#29186
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29187
+D1
+~
+~
+0 0
+0 0 29185
+S
+#29187
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29193
+D2
+~
+~
+0 0
+0 0 29186
+S
+#29188
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29191
+D1
+~
+~
+0 0
+0 0 29181
+D2
+~
+~
+0 0
+0 0 29182
+S
+#29189
+Quest Arena - Large Intersection~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29186
+D1
+~
+~
+0 0
+0 0 29176
+D2
+~
+~
+0 0
+0 0 29190
+D3
+~
+~
+0 0
+0 0 29195
+S
+#29190
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29189
+D2
+~
+~
+0 0
+0 0 29191
+S
+#29191
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29190
+D2
+~
+~
+0 0
+0 0 29188
+D3
+~
+~
+0 0
+0 0 29192
+S
+#29192
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29191
+D3
+~
+~
+0 0
+0 0 29193
+S
+#29193
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29192
+D2
+~
+~
+0 0
+0 0 29187
+D3
+~
+~
+0 0
+0 0 29194
+S
+#29194
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29196
+D1
+~
+~
+0 0
+0 0 29193
+S
+#29195
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29189
+D3
+~
+~
+0 0
+0 0 29197
+S
+#29196
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D0
+~
+~
+0 0
+0 0 29197
+D2
+~
+~
+0 0
+0 0 29194
+S
+#29197
+Quest Arena - Muddy Street~
+A large variety of {Wbu{wi{Dldi{wn{Wgs{x surround those that make their way through the
+{ymuddy {Ds{ytree{Dts{x.  Standing wall against wall, it doesn't even give you the
+chance to peek in between them and see what expects you on the {Dst{yree{Dts{x close
+by.  The road is narrow and probably smaller than the expected for a city,
+before you notice, you already reached a turn or the next block of
+{Wbu{wi{Dldi{wn{Wgs{x.  
+~
+0
+W 1
+D1
+~
+~
+0 0
+0 0 29195
+D2
+~
+~
+0 0
+0 0 29196
+D3
+~
+~
+0 0
+0 0 29183
+S
+#29198
+Team {WRe{wc{Dov{we{Wry{x Area~
+You are standing in a large white platform suspended in the middle of the
+air.  {WF{wl{Wuffy {Wc{wl{Dou{wd{Ws{x go past you with the {Ys{yu{Yn{x gently {Ysh{Wi{Ynn{Wi{Yng{x on your face. 
+It feels like nothing could possibly reach here or cause you any harm.  This
+is the perfect place to discuss your strategies with your team, make sure
+you are wearing the right equipment and weapon and rest.  
+~
+0
+CDKV 0
+D5
+~
+~
+0 0
+0 0 29197
+M 200 H 200
+S
+#29199
+Team {WRe{wc{Dov{we{Wry{x Area~
+You are standing in a large white platform suspended in the middle of the
+air.  {WF{wl{Wuffy {Wc{wl{Dou{wd{Ws{x go past you with the {Ys{yu{Yn{x gently {Ysh{Wi{Ynn{Wi{Yng{x on your face. 
+It feels like nothing could possibly reach here or cause you any harm.  This
+is the perfect place to discuss your strategies with your team, make sure
+you are wearing the right equipment and weapon and rest.  
+~
+0
+CDKV 0
+D5
+~
+~
+0 0
+0 0 29169
+M 200 H 200
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 29000 1 2
+D 0 29000 3 2
+D 0 29009 3 2
+D 0 29010 1 2
+O 0 29002 0 29004
+P 0 29001 1 29002 1
+O 0 29002 0 29008
+P 0 29001 1 29002 1
+M 0 29050 2 29050 1
+M 0 29051 2 29053 1
+R 0 29055 4
+M 0 29050 2 29057 1
+R 0 29058 4
+M 0 29051 2 29061 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

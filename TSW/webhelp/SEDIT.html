@@ -1,0 +1,33 @@
+<BODY TEXT="darkgray" BGCOLOR="black"><FONT FACE="Courier"><B>
+<PRE><H1>SEDIT</H1>Syntax : SEDIT [social name]
+ SEDIT new [new social name]
+  
+Social: grin
+  
+cnoarg: You grin. - no target, what you see
+  
+onoarg: $n grins. - no target, what others see
+  
+cfound: You grin at $M. - target, what you see
+  
+ofound: $n grins at $N. - target, what others see
+  
+vfound: $n grins at you. What could $e be thinking? - target, what target sees
+  
+cself: You grin at yourself. - self target, what you see
+  
+oself: $n grins at $mself. - self target, what others see
+ 
+ 
+$n - shows your name to others, used in onoarg, ofound, vfound, and oself
+    Ex: $n grins. = Kieron grins.(what others see)
+$N - shows the target's name to others, used in ofound
+    Ex: $n grins at $N. = Kieron grins at Zandor.(what others see)
+$M - shows the target's name to you, used in cfound
+    Ex: You grin at $M. = You grin at Zandor.
+$e - represents he or she
+$s - represents his or her
+$mself - represents himself or herself
+
+</FONT></B></PRE>
+</BODY>

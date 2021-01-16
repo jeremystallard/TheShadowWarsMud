@@ -1,0 +1,1070 @@
+#AREADATA
+Name Jehannah~
+Builders None~
+VNUMs 20200 20499
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#20200
+blade heron shadowsteel~
+a gently curving {Dshadowsteel{x blade, marked with a {rblood red{x heron~
+A long, slender shadow lies upon the ground with a strange mark showing down its length.~
+shadow~
+weapon 0 AN
+sword 10 15 'slash' C
+90 3 0 100
+A
+2 10
+A
+1 10
+A
+18 20
+A
+19 20
+#20201
+roses pilfered stolen picked~
+a small bunch of hand-picked, pilfered {Rr{ro{Rs{re{Rs{x~
+none~
+cloth~
+trash 0 AO
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#20200
+Before the Altara Gate~
+Standing before the southern gate of the city of Jehannah you look up at
+the large wall built around the town.  Typical of the distrust and near
+paranoia of most Ghealdan cities, the gate is closed before you as are the
+two doors to your right and left.  The large gate before you looks quite
+solid, constructed of heavy wooden planks and banded with wrought iron
+straps.  There is a quiet hush around you as you stand before the gate, and
+you feel suspicious eyes upon you as a small plank of wood opens in the door
+to your left.  
+~
+0
+C 1
+D0
+~
+~
+0 0
+0 0 20203
+D1
+~
+~
+0 0
+0 0 20201
+D3
+~
+~
+0 0
+0 0 20202
+S
+#20201
+A Gatehouse~
+Looking around the small guardhouse, you see a severe place.  Undecorated
+and business like, the stone walls are bare and the only furnishings visible
+are the small benches sitting against the walls.  The quiet chatter of bored
+guardsmen can be heard as they mill about, waiting to be relieved.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 20200
+S
+#20202
+The Gate Office~
+Within this small guardhouse outside the city gate there is little to
+see.  The stone walls are bare, giving an auster feeling to the place, save
+a banner bearing the coat of arms of Ghealdan, hanging on the far wall. 
+Sparsely furnished, there is a small bench beside the door, a desk against
+the far wall, and a file cabinet beside it.  Used for checking invoices and
+manifests from the traders and merchants that pass the gate, this appears to
+be the business office of the gatehouse.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20200
+S
+#20203
+Through the Altara Gate~
+As you step through the large wooden gates and walk ahead, you are
+confronted by heavy steel portcullis that bars your path further.  You stand
+beneath the city wall and the rough-hewn blocks rise in a simple arch on
+either side of you and above.  Upon closer inspection, the ceiling sports a
+good number of fist sized murder holes to be used in event of an invasion or
+assault.  Through the portcullis you can make out what looks to be a long
+street with children running and playing along it.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20204
+D2
+~
+~
+0 0
+0 0 20200
+S
+#20204
+Entering Jehannah~
+The beginnings of the city of Jehannah lay before you with three branches
+of well cobbles roads streaching out before you.  To the east and west, a
+wide paved pathway follows along below the town wall.  The northern road is
+made of similar stones and looks to be well taken care of.  A bit down the
+road there are children running and playing in the streets between the
+buildings and small houses.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20205
+D2
+~
+~
+0 0
+0 0 20203
+S
+#20205
+Before the Common District~
+Walking along the wide road, children run and play around you in their
+carefree manner.  The adults you pass seem to reguard you with suspicion and
+move to call the small ones as you get closer to them.  The road itself is
+free of debris and the cobblestones look to be well maintained right up to
+the small buildings that rise at it's edge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20206
+D2
+~
+~
+0 0
+0 0 20204
+D3
+~
+~
+0 0
+0 0 20233
+S
+#20206
+Talc Road~
+Walking along the wide road, you find yourself coming nearer to a small
+intersection among the houses.  The road itself is clean and open, and the
+cobblestones look to be well maintained right up to the small buildings that
+rise at it's edge.  Fewer children can be seen as you draw nearer the
+crossing of roads, but their laughter and yells can be heard just as easily.
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20207
+D2
+~
+~
+0 0
+0 0 20205
+S
+#20207
+Intersection of Talc and Ferrite~
+Standing at the small crossroads within the common district, you can see
+few changes in anything, save the reddish tone of the cobbles that extend to
+your right and left.  The light cobblestones that lead north and south from
+the gate are joined by the reddish stones that give the side street its
+name.  Looking to the right and left, you can see that the road extends in
+both directions a fair way, but stops in a dead end of shrubs and smaller
+plants.  Looking to the north, you can spot another intersection not far
+off, and beyond it the road opens up.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20208
+D1
+~
+~
+0 0
+0 0 20213
+D2
+~
+~
+0 0
+0 0 20206
+D3
+~
+~
+0 0
+0 0 20218
+S
+#20208
+Talc Road~
+Walking along the wide road, children run and play around you in thier
+carefree manner.  The adults you pass seem to reguard you with suspicion and
+move to call the small ones as you get closer to them.  The road itself is
+free of debris and the cobblestones look to be well maintained right up to
+the small buildings that rise at it's edge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20209
+D2
+~
+~
+0 0
+0 0 20207
+S
+#20209
+Talc Road~
+Walking along the wide road, children run and play around you in their
+carefree manner.  The adults you pass seem to reguard you with suspicion and
+move to call the small ones as you get closer to them.  The road itself is
+free of debris and the cobblestones look to be well maintained right up to
+the small buildings that rise at it's edge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20210
+D2
+~
+~
+0 0
+0 0 20208
+S
+#20210
+Intersection of Talc and Sandstone~
+Standing at the small crossroads of Talc and Sandstone, you can see where
+the light tan stones butt up to and against the pale cobbles of the main
+road in as straight a line as possible.  There is less activity at this
+intersection than the one to your south, but the sounds of children grow
+louder now, and you can just hear what sounds like hawkers up ahead where
+the road opens up.  Looking to your right and left down the tan-paved side
+street, you notice that it as is blocked at both ends, and extends not far
+in either direction.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20211
+D1
+~
+~
+0 0
+0 0 20223
+D2
+~
+~
+0 0
+0 0 20209
+D3
+~
+~
+0 0
+0 0 20228
+S
+#20211
+Talc Road~
+Walking along the wide road, children run and play around you in their
+carefree manner.  The adults you pass seem to reguard you with suspicion and
+move to call the small ones as you get closer to them.  The road itself is
+free of debris and the cobblestones look to be well maintainted right up to
+the small buildings that rise at it's edge.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20212
+D2
+~
+~
+0 0
+0 0 20210
+S
+#20212
+Nearing the Central Marketplace~
+Walking along the wide road, children run and play around you in their
+carefree manner.  The adults you pass seem to reguard you with suspicion and
+move to call the small ones as you get closer to them.  The road itself is
+free of debris and the cobblestones look to be well maintainted right up to
+the small buildings that rise at it's edge.  As you walk away from the
+common housing district, the sounds of a city begin to get louder ahead of
+you.  
+~
+0
+0 1
+D2
+~
+~
+0 0
+0 0 20211
+S
+#20213
+Ferrite Way~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20241
+D1
+~
+~
+0 0
+0 0 20214
+D3
+~
+~
+0 0
+0 0 20207
+S
+#20214
+Ferrite Way~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20215
+D2
+~
+~
+0 0
+0 0 20245
+D3
+~
+~
+0 0
+0 0 20213
+S
+#20215
+Ferrite Way~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20242
+D1
+~
+~
+0 0
+0 0 20216
+D3
+~
+~
+0 0
+0 0 20214
+S
+#20216
+Ferrite Way~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20217
+D2
+~
+~
+0 0
+0 0 20244
+D3
+~
+~
+0 0
+0 0 20215
+S
+#20217
+Dead End on Ferrite Way~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20243
+D3
+~
+~
+0 0
+0 0 20216
+S
+#20218
+Ferrite Way~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20207
+D2
+~
+~
+0 0
+0 0 20234
+D3
+~
+~
+0 0
+0 0 20219
+S
+#20219
+Ferrite Way~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20240
+D1
+~
+~
+0 0
+0 0 20218
+D2
+~
+~
+0 0
+0 0 20235
+D3
+~
+~
+0 0
+0 0 20220
+S
+#20220
+Ferrite Way~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20219
+D2
+~
+~
+0 0
+0 0 20237
+D3
+~
+~
+0 0
+0 0 20221
+S
+#20221
+Ferrite Way~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20239
+D1
+~
+~
+0 0
+0 0 20220
+D3
+~
+~
+0 0
+0 0 20222
+S
+#20222
+West End of Ferrite Way~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20221
+D2
+~
+~
+0 0
+0 0 20238
+S
+#20223
+Sandstone Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20251
+D1
+~
+~
+0 0
+0 0 20224
+D3
+~
+~
+0 0
+0 0 20210
+S
+#20224
+Sandstone Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20225
+D2
+~
+~
+0 0
+0 0 20255
+D3
+~
+~
+0 0
+0 0 20223
+S
+#20225
+Sandstone Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20252
+D1
+~
+~
+0 0
+0 0 20226
+D3
+~
+~
+0 0
+0 0 20224
+S
+#20226
+Sandstone Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20227
+D2
+~
+~
+0 0
+0 0 20254
+D3
+~
+~
+0 0
+0 0 20225
+S
+#20227
+The End of Sandstone Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20253
+D3
+~
+~
+0 0
+0 0 20226
+S
+#20228
+Sandstone Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20210
+D3
+~
+~
+0 0
+0 0 20229
+S
+#20229
+Sandstone Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20250
+D1
+~
+~
+0 0
+0 0 20228
+D3
+~
+~
+0 0
+0 0 20230
+S
+#20230
+Sandstone Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20229
+D2
+~
+~
+0 0
+0 0 20247
+D3
+~
+~
+0 0
+0 0 20231
+S
+#20231
+Sandstone Road~
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20249
+D1
+~
+~
+0 0
+0 0 20230
+D3
+~
+~
+0 0
+0 0 20232
+S
+#20232
+Dead End on Sandstone Road~
+~
+0
+0 1
+D1
+~
+~
+0 0
+0 0 20231
+D2
+~
+~
+0 0
+0 0 20248
+S
+#20233
+The Wisdom's Home~
+You feel a strange sort of welcoming as you step through the door into
+this small cottage, a change from the suspicion on the streets of the city
+itself.  There is a large and comfortable looking chair sitting beside a
+warm hearth, a small fire merrily burning within the simple stonework.  To
+either side of the hearth, there are large bookshelves lined with both texts
+and bottles that contain various herbs and poultices.  The rough wood floor
+is swept very clean where the small rug does not cover it, and the rest of
+the home looks just as tidy.  Aside from the bookshelves and chair, the only
+notable furnishings are a small table, and a long couch.  The former looks
+to be used for daily tasks, while the couch looks to have the comforting
+feel of somewhere for the sick to rest while they are being looked over.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 20205
+S
+#20234
+A Small Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20218
+S
+#20235
+A Short Alley~
+Turning off of the reddish cobbles and between the two buildings, you
+start your way down a short alleyway.  For an alley, it is suprisingly clean
+and free of unhandled refuse.  There are a few trash barrels along the sides
+of the buildings, but it looks as if all the trash is actually in them. 
+Further in from the roadway, the shadows start to deepen and the sounds of
+the neighborhood seem to fade quickly.  As your eyes drift into the shadows
+behind the barrels, the sounds of skittering feet quickly change direction,
+then stop.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20219
+D2
+~
+~
+0 0
+0 0 20236
+S
+#20236
+End of the Alley~
+The alley stops a few steps before where you stand, with the walls of the
+two houses to either side of you, and a fence too tall to be climbed before
+you.  The solid stone construction of the fence makes it more of another
+wall than anything else, and looks to be made of the same cobble stones
+beneath your feet.  The feeling of being trapped in a box sets in over you
+as you turn to leave the alley, knowing that you'll have to go out the way
+you came.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 20235
+S
+#20237
+a Small Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20220
+S
+#20238
+A Cozy Home.~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20222
+S
+#20239
+A Cozy Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20221
+S
+#20240
+A Cozy Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20219
+S
+#20241
+a Cozy Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20213
+S
+#20242
+A Cozy Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20215
+S
+#20243
+A Small Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20217
+S
+#20244
+A Cozy Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20216
+S
+#20245
+A Small Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20214
+S
+#20247
+A Quaint Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20230
+S
+#20248
+A Quaint Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20232
+S
+#20249
+A Modest Home~
+Coming into this small home, you immediately notice that it consists of
+only a single room.  Although small, it looks quite comfortable and well
+lived-in.  A small fireplace draws attention on one wall, with a large iron
+pot hanging over it in the hearth.  A large rug is layed out in front of the
+hearth and over the smooth wooden floor.  Towards the wall on your right
+there is a large table with a set of cabinets above it upon the wall, making
+a small kitchen and dining area.  Along the other wall is a large couch that
+looks quite comfortable, and a few soft looking mat with a small pile of
+blankets beside them to be rolled out when time to sleep comes.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20231
+S
+#20250
+A Modest Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20229
+S
+#20251
+A Modest Home~
+Coming into this small home, you immediately notice that it consists of
+only a single room.  Although small, it looks quite comfortable and well
+lived-in.  A small fireplace draws attention on one wall, with a large iron
+pot hanging over it in the hearth.  A large rug is layed out in front of the
+hearth and over the smooth wooden floor.  Towards the wall on your right
+there is a large table with a set of cabinets above it upon the wall, making
+a small kitchen and dining area.  Along the other wall is a large couch that
+looks quite comfortable, and a few soft looking mats with a small pile of
+blankets beside them to be rolled out when time to sleep.  The house is
+clean, small and simple.  As one would expect for a peasant's home.  
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20223
+S
+#20252
+A Quaint Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20225
+S
+#20253
+A Modest Home~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 20227
+S
+#20254
+A Quaint Home~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20226
+S
+#20255
+A Modest Home~
+The first thing you notice upon entering this one roomed home is that
+there is nothing to notice.  The floor and walls are bare, and it is empty
+of any furnishings.  Apparently unoccupied for some time, there is a thin
+layer of dust on the floor and windowsills, and small motes of dust can be
+seen floating through the sunlight streaming through the window and door
+behind you.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 20224
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

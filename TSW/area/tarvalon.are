@@ -1,0 +1,1820 @@
+#AREADATA
+Name Tar Valon~
+Builders Raine Donna~
+VNUMs 23800 24000
+Credits None~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#23800
+southern harbor~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23801
+S
+#23801
+southern harbor~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23802
+D2
+~
+~
+0 0
+0 0 23800
+S
+#23802
+southern harbor~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23805
+D1
+~
+~
+0 0
+0 0 23803
+D3
+~
+~
+0 0
+0 0 23801
+S
+#23803
+southern harbor~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23804
+D3
+~
+~
+0 0
+0 0 23802
+S
+#23804
+southern harbor~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23803
+S
+#23805
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23806
+D2
+~
+~
+0 0
+0 0 23802
+S
+#23806
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23807
+D2
+~
+~
+0 0
+0 0 23805
+S
+#23807
+southharbor road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23808
+D1
+~
+~
+0 0
+0 0 23809
+D2
+~
+~
+0 0
+0 0 23806
+D3
+~
+~
+0 0
+0 0 23819
+S
+#23808
+Outside Tarlomen's Gate~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23807
+S
+#23809
+southharbor road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23810
+D3
+~
+~
+0 0
+0 0 23807
+S
+#23810
+southharbor road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23811
+D3
+~
+~
+0 0
+0 0 23809
+S
+#23811
+southharbor road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23853
+D1
+~
+~
+0 0
+0 0 23812
+D3
+~
+~
+0 0
+0 0 23810
+S
+#23812
+southharbor road~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23813
+D3
+~
+~
+0 0
+0 0 23811
+S
+#23813
+osenrein bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23814
+D3
+~
+~
+3 3
+1 0 23812
+S
+#23814
+osenrein bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23815
+D3
+~
+~
+0 0
+0 0 23813
+S
+#23815
+osenrein bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23816
+D3
+~
+~
+0 0
+0 0 23814
+S
+#23816
+road to Osenrein~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23817
+D3
+~
+~
+0 0
+0 0 23815
+S
+#23817
+road to Osenrein~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23816
+D2
+~
+~
+0 0
+0 0 23818
+S
+#23818
+road to Osenrein~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23817
+S
+#23819
+southharbor road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23807
+D3
+~
+~
+0 0
+0 0 23820
+S
+#23820
+southharbor road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23819
+D3
+~
+~
+0 0
+0 0 23821
+S
+#23821
+Tar Valon - Intersection of South Tower Road and Alindrelle Road~
+The great buildings and towers of {WTar Valon{x were built by {DO{gg{Wi{ge{Dr{x over two
+thousand years ago.  Every building appears to be a palace, the lines of one
+structure designed to compliment and set off the next, leading the eye along
+as if everything were part of one vast {gd{Gesi{ggn{x.  The square is full of
+people, and yet the vast space is not close to being filled.  Shops and
+merchant houses of all sorts line the streets, the stone buildings seeming
+to grow right out of the ground rather than been built.  In this square,
+South Tower Road intersects with Alindrelle Road.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23829
+D1
+~
+~
+0 0
+0 0 23820
+D3
+~
+~
+0 0
+0 0 23822
+S
+#23822
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23821
+D3
+~
+~
+3 3
+1 0 23823
+S
+#23823
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23822
+D3
+~
+~
+0 0
+0 0 23824
+S
+#23824
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23823
+D3
+~
+~
+0 0
+0 0 23825
+S
+#23825
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23824
+D3
+~
+~
+0 0
+0 0 23826
+S
+#23826
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23825
+D2
+~
+~
+0 0
+0 0 23827
+S
+#23827
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23826
+D2
+~
+~
+0 0
+0 0 23828
+S
+#23828
+village of alindaer~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23827
+S
+#23829
+Tar Valon - Alindrelle Road~
+The street is lined with beautiful tall trees planted centuries ago.  To
+the west is a stone residence fashioned to look like a huge shell from a
+distant land, like many of the buildings in the {DO{gg{Wi{ge{Dr{x built city.  A tall
+wall is to the east, walling in the massive grounds of the {WWhite Tower{x.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23830
+D2
+~
+~
+0 0
+0 0 23821
+D3
+~
+~
+3 3
+1 0 23903
+S
+#23830
+Tar Valon - Alindrelle Road~
+This is a peaceful area of the city perhaps due to the close proximity of
+the White Tower itself.  A smaller street juts to the east here, ending at
+the western Alindrelle Gate to the White Tower.  The magnificent height of
+the Tower blots out the sky, while the street continues north and south.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23832
+D1
+~
+~
+0 0
+0 0 23831
+D2
+~
+~
+0 0
+0 0 23829
+S
+#23831
+Tar Valon - Outside the Alindrelle Gates of the White Tower~
+Here stands the western gates to the White Tower grounds, named the
+Alindrelle Gates, after the western side of the Erinin River.  Inside the
+gates stand members of the Tower Guard, keeping an eye on all those who
+enter and exit.  The magnificent White Tower looms overhead, it's presence
+is always felt here in Tar Valon.  To the west, Alindrelle Road runs to the
+north and south.  
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23830
+S
+#23832
+Tar Valon - Alindrelle Road~
+A tall {Wstone wall{x surrounding the White Tower runs north and south
+parallel to the street, higher than some city walls.  Smooth pale paving
+blocks cobble the street.  The city itself is a work of art, the {DO{gg{Wi{ge{Dr{x
+stone-work exquisite and one of a kind.  Many of the buildings look like
+small {Wp{ma{Wlac{me{Ws{x with fluted, spiraled or flared towers.  Delicately arched
+stone bridges span hundreds of feet in the air between spires of different
+buildings, sometimes without rails.  Even long time resdents of Tar Valon
+pause to admire the beauty of the majestic city.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23833
+D2
+~
+~
+0 0
+0 0 23830
+S
+#23833
+Tar Valon - Alindrelle Road~
+A busy market square lies directly to the north, with businesses spilling
+over to this section of the street.  To the west is a stone building shaped
+like a huge crashing wave.  Two signs hang over the door, the first for a
+seamstress' shop, titled, "{mShayna's Designs{x", and the second sign for the
+second floor reads, "{gFan{Gny's Fa{Wbri{Gcs & Lin{gens{x".  To the east the tall wall
+surrounding the White Tower comes to a corner here, meeting the northern
+east-west wall.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23834
+D2
+~
+~
+0 0
+0 0 23832
+D3
+~
+~
+3 3
+1 0 23904
+S
+#23834
+Tar Valon - North-West Tower Square~
+Alindrelle Road intersects with North Tower Road here, meeting in a large
+market square thriving with people.  By the look of the {gd{Gre{gss{x and coloring
+of those present, it would appear that there are representatives from all
+over the different {bna{Btio{bns{x.  Hawkers call out, touting the merit of their
+wares, while the sweet smell of meat pies drift over the breeze to tempt the
+{ya{Ypp{yeti{Yt{ye{x.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23893
+D1
+~
+~
+0 0
+0 0 23842
+D2
+~
+~
+0 0
+0 0 23833
+D3
+~
+~
+0 0
+0 0 23835
+S
+#23835
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23834
+D3
+~
+~
+0 0
+0 0 23836
+S
+#23836
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23837
+D1
+~
+~
+0 0
+0 0 23835
+S
+#23837
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23836
+D3
+~
+~
+0 0
+0 0 23838
+S
+#23838
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23837
+D3
+~
+~
+3 3
+1 0 23839
+S
+#23839
+outside darein gate to TV~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23838
+D3
+~
+~
+0 0
+0 0 23840
+S
+#23840
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23839
+D3
+~
+~
+0 0
+0 0 23841
+S
+#23841
+village of darein~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23840
+S
+#23842
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23843
+D3
+~
+~
+0 0
+0 0 23834
+S
+#23843
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23844
+D3
+~
+~
+0 0
+0 0 23842
+S
+#23844
+Tar Valon - Intersection of Northharbor Road and North Tower Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23880
+D1
+~
+~
+0 0
+0 0 23846
+D2
+~
+~
+0 0
+0 0 23845
+D3
+~
+~
+0 0
+0 0 23843
+S
+#23845
+outside north gates to WT~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23844
+S
+#23846
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23847
+D3
+~
+~
+0 0
+0 0 23844
+S
+#23847
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23848
+D3
+~
+~
+0 0
+0 0 23846
+S
+#23848
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23862
+D1
+~
+~
+0 0
+0 0 23854
+D2
+~
+~
+0 0
+0 0 23849
+D3
+~
+~
+0 0
+0 0 23847
+S
+#23849
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23848
+D2
+~
+~
+0 0
+0 0 23850
+S
+#23850
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23849
+D2
+~
+~
+0 0
+0 0 23851
+S
+#23851
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23850
+D2
+~
+~
+0 0
+0 0 23853
+D3
+~
+~
+0 0
+0 0 23852
+S
+#23852
+outside osendrelle gates~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23851
+S
+#23853
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23851
+D2
+~
+~
+0 0
+0 0 23811
+S
+#23854
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23855
+D3
+~
+~
+0 0
+0 0 23848
+S
+#23855
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23856
+D3
+~
+~
+0 0
+0 0 23854
+S
+#23856
+Tar Valon - North Tower Road~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23857
+D3
+~
+~
+0 0
+0 0 23855
+S
+#23857
+outside daghain gate to TV~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23858
+D3
+~
+~
+3 3
+1 0 23856
+S
+#23858
+bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23859
+D3
+~
+~
+0 0
+0 0 23857
+S
+#23859
+bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23860
+D3
+~
+~
+0 0
+0 0 23858
+S
+#23860
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23861
+D3
+~
+~
+0 0
+0 0 23859
+S
+#23861
+village of daghain~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23860
+S
+#23862
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23863
+D2
+~
+~
+0 0
+0 0 23848
+S
+#23863
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23864
+D2
+~
+~
+0 0
+0 0 23862
+S
+#23864
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23865
+D2
+~
+~
+0 0
+0 0 23863
+S
+#23865
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23866
+D2
+~
+~
+0 0
+0 0 23864
+D3
+~
+~
+0 0
+0 0 23875
+S
+#23866
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23867
+D3
+~
+~
+0 0
+0 0 23865
+S
+#23867
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23868
+D3
+~
+~
+0 0
+0 0 23866
+S
+#23868
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23869
+D2
+~
+~
+0 0
+0 0 23867
+S
+#23869
+outside luagde gate to TV~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23870
+D3
+~
+~
+3 3
+1 0 23868
+S
+#23870
+bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23871
+D3
+~
+~
+0 0
+0 0 23869
+S
+#23871
+bridge~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23872
+D3
+~
+~
+0 0
+0 0 23870
+S
+#23872
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23873
+D3
+~
+~
+0 0
+0 0 23871
+S
+#23873
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23874
+D2
+~
+~
+0 0
+0 0 23872
+S
+#23874
+village of luagde~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 23873
+S
+#23875
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23865
+D3
+~
+~
+0 0
+0 0 23876
+S
+#23876
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23875
+D3
+~
+~
+0 0
+0 0 23877
+S
+#23877
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23881
+D1
+~
+~
+0 0
+0 0 23876
+D2
+~
+~
+0 0
+0 0 23878
+D3
+~
+~
+0 0
+0 0 23888
+S
+#23878
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23877
+D2
+~
+~
+0 0
+0 0 23879
+S
+#23879
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23878
+D2
+~
+~
+0 0
+0 0 23880
+S
+#23880
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23879
+D2
+~
+~
+0 0
+0 0 23844
+S
+#23881
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23882
+D2
+~
+~
+0 0
+0 0 23877
+S
+#23882
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23883
+D2
+~
+~
+0 0
+0 0 23881
+S
+#23883
+Tar Valon - Northharbor Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23886
+D2
+~
+~
+0 0
+0 0 23882
+D3
+~
+~
+0 0
+0 0 23884
+S
+#23884
+northharbor~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23885
+D1
+~
+~
+0 0
+0 0 23883
+S
+#23885
+northharbor~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23884
+S
+#23886
+northharbor~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23887
+D3
+~
+~
+0 0
+0 0 23883
+S
+#23887
+northharbor~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23886
+S
+#23888
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23877
+D3
+~
+~
+0 0
+0 0 23889
+S
+#23889
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23888
+D3
+~
+~
+0 0
+0 0 23890
+S
+#23890
+Tar Valon - Alindrelle Road~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23889
+D2
+~
+~
+0 0
+0 0 23891
+D3
+~
+~
+0 0
+0 0 23894
+S
+#23891
+Tar Valon - Alindrelle Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23890
+D2
+~
+~
+0 0
+0 0 23892
+S
+#23892
+Tar Valon - Alindrelle Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23891
+D2
+~
+~
+0 0
+0 0 23893
+S
+#23893
+Tar Valon - Alindrelle Road~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23892
+D2
+~
+~
+0 0
+0 0 23834
+S
+#23894
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23890
+D3
+~
+~
+0 0
+0 0 23895
+S
+#23895
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23896
+D1
+~
+~
+0 0
+0 0 23894
+S
+#23896
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23895
+D3
+~
+~
+3 3
+1 0 23897
+S
+#23897
+~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23896
+D3
+~
+~
+0 0
+0 0 23898
+S
+#23898
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23897
+D3
+~
+~
+0 0
+0 0 23899
+S
+#23899
+~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 23898
+D3
+~
+~
+0 0
+0 0 23900
+S
+#23900
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23901
+D1
+~
+~
+0 0
+0 0 23899
+S
+#23901
+~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 23902
+D2
+~
+~
+0 0
+0 0 23900
+S
+#23902
+{Dr{ma{Wi{mn{De{x's office~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 23901
+S
+#23903
+residence~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23829
+S
+#23904
+Sayna's Designs - seamstress~
+~
+0
+0 0
+D1
+~
+~
+3 3
+1 0 23833
+D4
+~
+~
+0 0
+0 0 23905
+S
+#23905
+Fanny's Fabrics & Linens - fabric store~
+~
+0
+0 0
+D5
+~
+~
+0 0
+0 0 23904
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 23812 1 1
+D 0 23813 3 1
+D 0 23822 3 1
+D 0 23823 1 1
+D 0 23829 3 1
+D 0 23833 3 1
+D 0 23838 3 1
+D 0 23839 1 1
+D 0 23856 1 1
+D 0 23857 3 1
+D 0 23868 1 1
+D 0 23869 3 1
+D 0 23896 3 1
+D 0 23897 1 1
+D 0 23903 1 1
+D 0 23904 1 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

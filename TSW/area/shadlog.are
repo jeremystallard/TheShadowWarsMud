@@ -1,0 +1,180 @@
+#AREADATA
+Name Shadar Logoth~
+Builders Garyn~
+VNUMs 17200 17400
+Credits None~
+Security 1
+Low 70
+High 90
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#17200
+The South Entrance to {rShadar Logoth{X~
+All is silent.  Before you stretches {rShadar Logoth{x.  To the north runs a
+wide street, covered in dust.  There are some kind of prints in the dust,
+though what {rcreature{x would leave goat footprints, yet walk on two legs?.  To
+the east and west runs a small alley, covered in {ydarkness{x 
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 17201
+S
+#17201
+A {DDark{x And {RGloomy{x Main Street~
+You are on the main street of {RShadar{x {DLogoth{x.  Not a sound can be heard. 
+The ground is covered in dust and dirt.  The street stretches north, deeper
+into the {Dshadows{x.  To the east is a small, dreary looking {ybuilding{x.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 17202
+D1
+~
+~
+3 3
+1 0 17301
+D2
+~
+~
+0 0
+0 0 17200
+S
+#17202
+Along The Main Street Of {RShadar{x {DLogoth{x~
+Deeper into the city of {Dshadow{x you go.  The darkness here is unnatural. 
+No sounds can be heard, save your own footsteps.  Small {yshops{x and other
+buildings line the road.  Will you push farther into the {Ddarkness?.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 17203
+D2
+~
+~
+0 0
+0 0 17201
+S
+#17203
+Coming To The {WCenter{x Of {RShadar{x {DLogoth{x~
+As you press further into the {Dshadow{x, you begin to see the center of the
+once great city.  Tall buildings, now crumbling and covered in muck rise up
+around you.  Further north lies the {rtown square{x.  What {Dhorrors{x await you
+there.  
+~
+0
+0 1
+D0
+~
+~
+0 0
+0 0 17204
+D2
+~
+~
+0 0
+0 0 17202
+S
+#17204
+Closer To The {WCenter{x of {RShadar{x {DLogoth{x~
+Gettin closer
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 17203
+S
+#17205
+The {WHeart{x Of {RShadar{x {DLogoth{x~
+big ass square, lots of detail.  n, s, e, w
+~
+0
+C 0
+S
+#17301
+A Small, {GFoul Smelling{x House~
+The room has a {grotten{x {rmeat{x stench to it.  {RBlood{x is smeared along the
+walls, along with several sets of {Dclaw{x marks.  There is no usable furniture
+to be seen, everything is in ruin.  An old door, with fresh {Rbloodstains{x is
+to your north.  
+
+~
+0
+AD 0
+D0
+~
+~
+1 1
+1 0 17302
+D3
+~
+~
+3 3
+1 0 17201
+S
+#17302
+A {RBloody {DRoom.~
+Its evident that {Dwhatever lives in this light forsaken dwelling is not
+human, but likes to {Rfeed on them.  {gRotten peices of {Dhuman flesh{x are
+scattered on the floor.  The {gsmell{x of this room is nearly unbearable.  What
+{rcreature{x could stand to live in this filth?  
+~
+0
+AD 0
+D2
+~
+~
+1 1
+1 0 17301
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 17201 1 1
+D 0 17301 3 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

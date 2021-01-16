@@ -1,0 +1,2639 @@
+#AREADATA
+Name Yellow Spires Hold~
+Builders Ziggy~
+VNUMs 1700 1999
+Credits None~
+Security 1
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1700
+West Entrance~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1701
+S
+#1701
+Narrow Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1700
+D5
+~
+~
+0 0
+0 0 1702
+S
+#1702
+Narrow Steep Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1703
+D4
+~
+~
+0 0
+0 0 1701
+S
+#1703
+Narrow Curved Path~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1704
+D3
+~
+~
+0 0
+0 0 1702
+S
+#1704
+Narrow Curved Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1703
+D5
+~
+~
+0 0
+0 0 1705
+S
+#1705
+Steep Curved Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1706
+D4
+~
+~
+0 0
+0 0 1704
+S
+#1706
+Narrow Ledge~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1707
+D2
+~
+~
+0 0
+0 0 1705
+S
+#1707
+Narrow Ledge~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1708
+D2
+~
+~
+0 0
+0 0 1706
+S
+#1708
+Narrow Ledge~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1709
+D3
+~
+~
+0 0
+0 0 1707
+S
+#1709
+Crevice Opening~
+~
+0
+0 10
+D3
+~
+~
+0 0
+0 0 1708
+D5
+~
+~
+0 0
+0 0 1710
+S
+#1710
+Down into a Crevice~
+~
+0
+0 10
+D4
+~
+~
+0 0
+0 0 1709
+D5
+~
+~
+0 0
+0 0 1711
+S
+#1711
+Bottom of a Crevice~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1712
+D4
+~
+~
+0 0
+0 0 1710
+S
+#1712
+Path along a Crevice~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1711
+D2
+~
+~
+0 0
+0 0 1713
+S
+#1713
+Path along a Crevice~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1712
+D5
+~
+~
+0 0
+0 0 1714
+S
+#1714
+Bottom of a Canyon~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1715
+D4
+~
+~
+0 0
+0 0 1713
+S
+#1715
+Yellow Clay Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1716
+D3
+~
+~
+0 0
+0 0 1714
+S
+#1716
+Yellow Clay Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1717
+D1
+~
+~
+0 0
+0 0 1725
+D2
+~
+~
+0 0
+0 0 1727
+D3
+~
+~
+0 0
+0 0 1715
+S
+#1717
+Yellow Clay Path~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1716
+D3
+~
+~
+0 0
+0 0 1718
+S
+#1718
+Yellow Clay Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1719
+D1
+~
+~
+0 0
+0 0 1717
+S
+#1719
+Clay Path Through the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1720
+D2
+~
+~
+0 0
+0 0 1718
+S
+#1720
+Path Through the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1721
+D3
+~
+~
+0 0
+0 0 1719
+S
+#1721
+Path Around the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1722
+D3
+~
+~
+0 0
+0 0 1720
+S
+#1722
+Path Around the Sept~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1723
+D3
+~
+~
+0 0
+0 0 1721
+S
+#1723
+Path Around the Sept~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1722
+D2
+~
+~
+0 0
+0 0 1724
+S
+#1724
+Path Around the Sept~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1723
+D3
+~
+~
+0 0
+0 0 1725
+S
+#1725
+Path Around the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1724
+D3
+~
+~
+0 0
+0 0 1716
+S
+#1726
+Well Trod Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1727
+D2
+~
+~
+0 0
+0 0 1728
+S
+#1727
+Well Trod Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1716
+D2
+~
+~
+0 0
+0 0 1726
+S
+#1728
+Busy Intersection~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1726
+D1
+~
+~
+0 0
+0 0 1754
+D2
+~
+~
+0 0
+0 0 1746
+D3
+~
+~
+0 0
+0 0 1729
+S
+#1729
+Well Trod Path Between Roofs~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1728
+D3
+~
+~
+0 0
+0 0 1730
+S
+#1730
+Well Trod Path Between Roofs~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1729
+D3
+~
+~
+0 0
+0 0 1731
+S
+#1731
+Busy Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1730
+D2
+~
+~
+0 0
+0 0 1753
+D3
+~
+~
+0 0
+0 0 1732
+S
+#1732
+Well Trod Path Between Roofs~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1731
+D3
+~
+~
+0 0
+0 0 1733
+S
+#1733
+Well Trod Path Between Roofs~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1732
+D3
+~
+~
+0 0
+0 0 1734
+S
+#1734
+Well Trod Path Between Roofs~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1733
+D2
+~
+~
+0 0
+0 0 1735
+S
+#1735
+Thin Rocky Trail~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1734
+D4
+~
+~
+0 0
+0 0 1736
+S
+#1736
+Steep Rocky Climb~
+~
+0
+0 10
+D4
+~
+~
+0 0
+0 0 1737
+D5
+~
+~
+0 0
+0 0 1735
+S
+#1737
+Steep Rocky Climb~
+~
+0
+0 10
+D4
+~
+~
+0 0
+0 0 1738
+D5
+~
+~
+0 0
+0 0 1736
+S
+#1738
+Steep Rocky Climb~
+~
+0
+0 10
+D4
+~
+~
+0 0
+0 0 1739
+D5
+~
+~
+0 0
+0 0 1737
+S
+#1739
+Steep Rocky Climb~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1740
+D5
+~
+~
+0 0
+0 0 1738
+S
+#1740
+Top of a Rocky Slide~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1739
+D2
+~
+~
+0 0
+0 0 1741
+S
+#1741
+Narrow Ledge Overlooking the Sept~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1740
+D1
+~
+~
+0 0
+0 0 1742
+S
+#1742
+Narrow Ledge Overlooking the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1743
+D3
+~
+~
+0 0
+0 0 1741
+S
+#1743
+Narrow Ledge Overlooking the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1744
+D3
+~
+~
+0 0
+0 0 1742
+S
+#1744
+Narrow Ledge Overlooking the Sept~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1745
+D3
+~
+~
+0 0
+0 0 1743
+S
+#1745
+Wide Overlook~
+Hidden room at south
+~
+0
+0 10
+D3
+~
+~
+0 0
+0 0 1744
+S
+#1746
+Wide Path of Hard Clay~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1728
+D2
+~
+~
+0 0
+0 0 1747
+S
+#1747
+Wide Path of Hard Clay~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1746
+D2
+~
+~
+0 0
+0 0 1748
+D3
+~
+~
+0 0
+0 0 1750
+S
+#1748
+Wide Path of Hard Clay~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1747
+D2
+~
+~
+0 0
+0 0 1749
+S
+#1749
+Wide Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1748
+D1
+~
+~
+0 0
+0 0 1767
+D2
+~
+~
+0 0
+0 0 1768
+S
+#1750
+Trampled Hard Ground~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1747
+D3
+~
+~
+0 0
+0 0 1751
+S
+#1751
+Training Ground~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1750
+D3
+~
+~
+0 0
+0 0 1752
+S
+#1752
+Gathering Area~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1753
+D1
+~
+~
+0 0
+0 0 1751
+S
+#1753
+Hard Clay Path~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1731
+D2
+~
+~
+0 0
+0 0 1752
+S
+#1754
+Hard Yellow Clay Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1755
+D3
+~
+~
+0 0
+0 0 1728
+S
+#1755
+Hard Yellow Clay Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1756
+D3
+~
+~
+0 0
+0 0 1754
+S
+#1756
+Hard Yellow Clay Intersection~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1785
+D1
+~
+~
+0 0
+0 0 1809
+D2
+~
+~
+0 0
+0 0 1757
+D3
+~
+~
+0 0
+0 0 1755
+S
+#1757
+Wide Hard Clay Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1756
+D2
+~
+~
+0 0
+0 0 1758
+S
+#1758
+Traiding Circle~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1757
+D1
+~
+~
+0 0
+0 0 1765
+D2
+~
+~
+0 0
+0 0 1766
+D3
+~
+~
+0 0
+0 0 1759
+S
+#1759
+Traiding Circle~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1758
+D2
+~
+~
+0 0
+0 0 1760
+S
+#1760
+Traiding Circle~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1759
+D1
+~
+~
+0 0
+0 0 1766
+D2
+~
+~
+0 0
+0 0 1761
+S
+#1761
+Traiding Circle~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1760
+D1
+~
+~
+0 0
+0 0 1762
+D3
+~
+~
+0 0
+0 0 1767
+S
+#1762
+Traiding Circle~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1766
+D1
+~
+~
+0 0
+0 0 1763
+D3
+~
+~
+0 0
+0 0 1761
+S
+#1763
+Traiding Circle~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1764
+D3
+~
+~
+0 0
+0 0 1762
+S
+#1764
+Traiding Circle~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1765
+D2
+~
+~
+0 0
+0 0 1763
+D3
+~
+~
+0 0
+0 0 1766
+S
+#1765
+Traiding Circle~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1764
+D3
+~
+~
+0 0
+0 0 1758
+S
+#1766
+Wide Stone Well~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1758
+D1
+~
+~
+0 0
+0 0 1764
+D2
+~
+~
+0 0
+0 0 1762
+D3
+~
+~
+0 0
+0 0 1760
+S
+#1767
+Narrow Hard Clay Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1761
+D3
+~
+~
+0 0
+0 0 1749
+S
+#1768
+Wide Sloping Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1749
+D2
+~
+~
+0 0
+0 0 1769
+S
+#1769
+Wide Sloping Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1768
+D1
+~
+~
+0 0
+0 0 1770
+S
+#1770
+Wide Sloping Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1771
+D3
+~
+~
+0 0
+0 0 1769
+S
+#1771
+Sloping Path~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1772
+D3
+~
+~
+0 0
+0 0 1770
+S
+#1772
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1771
+D1
+~
+~
+0 0
+0 0 1773
+D2
+~
+~
+0 0
+0 0 1779
+D3
+~
+~
+0 0
+0 0 1774
+S
+#1773
+Small Grassy Valley~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1780
+D3
+~
+~
+0 0
+0 0 1772
+S
+#1774
+Small Grassy Valley~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1772
+D2
+~
+~
+0 0
+0 0 1778
+D3
+~
+~
+0 0
+0 0 1775
+S
+#1775
+Small Grassy Valley~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1774
+D2
+~
+~
+0 0
+0 0 1776
+S
+#1776
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1775
+D1
+~
+~
+0 0
+0 0 1778
+D2
+~
+~
+0 0
+0 0 1784
+D3
+~
+~
+0 0
+0 0 1777
+S
+#1777
+Rockey Spring~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1776
+S
+#1778
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1774
+D1
+~
+~
+0 0
+0 0 1779
+D2
+~
+~
+0 0
+0 0 1783
+D3
+~
+~
+0 0
+0 0 1776
+S
+#1779
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1772
+D1
+~
+~
+0 0
+0 0 1780
+D2
+~
+~
+0 0
+0 0 1782
+D3
+~
+~
+0 0
+0 0 1778
+S
+#1780
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1773
+D2
+~
+~
+0 0
+0 0 1781
+D3
+~
+~
+0 0
+0 0 1779
+S
+#1781
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1780
+D3
+~
+~
+0 0
+0 0 1782
+S
+#1782
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1779
+D1
+~
+~
+0 0
+0 0 1781
+D3
+~
+~
+0 0
+0 0 1783
+S
+#1783
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1778
+D1
+~
+~
+0 0
+0 0 1782
+D3
+~
+~
+0 0
+0 0 1784
+S
+#1784
+Small Grassy Valley~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1776
+D1
+~
+~
+0 0
+0 0 1783
+S
+#1785
+Hard Clay Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1786
+D2
+~
+~
+0 0
+0 0 1756
+S
+#1786
+Hard Clay Path~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1785
+D4
+~
+~
+0 0
+0 0 1787
+S
+#1787
+Steps Cut into Rock~
+~
+0
+0 10
+D4
+~
+~
+0 0
+0 0 1788
+D5
+~
+~
+0 0
+0 0 1786
+S
+#1788
+Steps Cut into Rock~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1789
+D5
+~
+~
+0 0
+0 0 1787
+S
+#1789
+Gray Stone Path~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1790
+D1
+~
+~
+0 0
+0 0 1791
+D3
+~
+~
+0 0
+0 0 1788
+S
+#1790
+Wise One Roof~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1789
+S
+#1791
+Gray Stone Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1792
+D3
+~
+~
+0 0
+0 0 1789
+S
+#1792
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1793
+D2
+~
+~
+0 0
+0 0 1794
+D3
+~
+~
+0 0
+0 0 1791
+S
+#1793
+Roof Mistress~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1792
+S
+#1794
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1792
+D2
+~
+~
+0 0
+0 0 1795
+S
+#1795
+Gray Stone Ledge~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1794
+D2
+~
+~
+0 0
+0 0 1796
+S
+#1796
+Gray Stone Ledge~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1795
+D2
+~
+~
+0 0
+0 0 1797
+S
+#1797
+Gray Stone Ledge~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1796
+D2
+~
+~
+0 0
+0 0 1798
+S
+#1798
+Wide Stone Ledge~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1797
+D2
+~
+~
+0 0
+0 0 1799
+S
+#1799
+Wide Stone Ledge~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1798
+D2
+~
+~
+0 0
+0 0 1800
+S
+#1800
+Curve Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1799
+D1
+~
+~
+0 0
+0 0 1801
+S
+#1801
+Gray Stone Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1802
+D3
+~
+~
+0 0
+0 0 1800
+S
+#1802
+Gray Stone Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1803
+D3
+~
+~
+0 0
+0 0 1801
+S
+#1803
+Gray Stone Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1804
+D3
+~
+~
+0 0
+0 0 1802
+S
+#1804
+Turn in the Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1805
+D3
+~
+~
+0 0
+0 0 1803
+S
+#1805
+Stone Path Between Society Roofs~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1806
+D2
+~
+~
+0 0
+0 0 1804
+S
+#1806
+Stone Path Between Society Roofs~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1807
+D2
+~
+~
+0 0
+0 0 1805
+S
+#1807
+Stone Path Between Society Roofs~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1808
+D2
+~
+~
+0 0
+0 0 1806
+S
+#1808
+Stone Path Between Society Roofs~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1840
+D2
+~
+~
+0 0
+0 0 1807
+S
+#1809
+Clay and Stone Walkway~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1810
+D3
+~
+~
+0 0
+0 0 1756
+S
+#1810
+Outside A Cave~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1811
+D3
+~
+~
+0 0
+0 0 1809
+S
+#1811
+Cave Entrance~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1812
+D3
+~
+~
+0 0
+0 0 1810
+S
+#1812
+Dim Cool Cave~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1813
+D1
+~
+~
+0 0
+0 0 1815
+D3
+~
+~
+0 0
+0 0 1811
+S
+#1813
+Unfinished Passageway~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1814
+D2
+~
+~
+0 0
+0 0 1812
+S
+#1814
+Turn in Unfinished Passage~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1813
+S
+#1815
+Dim Cool Cave~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1816
+D3
+~
+~
+0 0
+0 0 1812
+S
+#1816
+Dim Cool Cave~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1817
+D3
+~
+~
+0 0
+0 0 1815
+S
+#1817
+Light Filled Turn~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1818
+D3
+~
+~
+0 0
+0 0 1816
+S
+#1818
+Dim Cool Cave~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1819
+D2
+~
+~
+0 0
+0 0 1817
+S
+#1819
+Cave Entrance~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1820
+D2
+~
+~
+0 0
+0 0 1818
+S
+#1820
+Rocky Crevice~
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1819
+D3
+~
+~
+0 0
+0 0 1821
+S
+#1821
+Twisting Rocky Crevice~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1822
+D1
+~
+~
+0 0
+0 0 1820
+S
+#1822
+Twisting Rocky Crevice~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1823
+D2
+~
+~
+0 0
+0 0 1821
+S
+#1823
+Bottom of a Steep path~
+~
+0
+0 0
+D3
+~
+~
+0 0
+0 0 1822
+D4
+~
+~
+0 0
+0 0 1824
+S
+#1824
+Top of a Steep Path~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 1825
+D5
+~
+~
+0 0
+0 0 1823
+S
+#1825
+Hard Clay Path~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1826
+D3
+~
+~
+0 0
+0 0 1824
+S
+#1826
+Hard Clay Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1827
+D2
+~
+~
+0 0
+0 0 1825
+S
+#1827
+Hard Clay Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1828
+D2
+~
+~
+0 0
+0 0 1826
+S
+#1828
+~
+~
+0
+0 0
+D2
+~
+~
+0 0
+0 0 1829
+D3
+~
+~
+0 0
+0 0 1827
+S
+#1829
+Stone and Hard Clay Path~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 1828
+D1
+~
+~
+0 0
+0 0 1830
+D2
+~
+~
+0 0
+0 0 1847
+S
+#1830
+Grove of Yellow Streaked Spires~
+{YA{yn {wendless time of heat, cold and wind has shaped the yellow clay and
+gray stone of this canyon.  Several spires here shimmer in the heat as they
+reach upward to a cloudless sky making a grove of yellow streaked stone to
+pass through.  One spire has fallen and makes an arch over the path that
+leads to the west and the way open to the south is wide enough for a wagon
+to pass through.  {x 
+~
+0
+0 10
+D2
+~
+~
+0 0
+0 0 1831
+D3
+~
+~
+0 0
+0 0 1829
+S
+#1831
+Hard Clay Road~
+{YS{yta{Dc{yk{Ys {wof dark gray rocks line one side of this rough hard clay road that
+leads north and south.  A thick vine with few leaves and long dark thorns
+have wound around the cracks of the wall of rock on the other side and moves
+slightly when the heated wind from the outer waste lands sweeps through. 
+This growth widens the cracks in the wall and pushes rocks to fall into the
+near flatness of this hard clay road.  {x 
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1830
+D2
+~
+~
+0 0
+0 0 1832
+S
+#1832
+Hard Clay Road~
+{YT{Dh{ye {wroad curves here, going north and west with wagon tracks showing here
+and there over the sun blistered clay.  Along the sides lizards rest in the
+shade of broken bolders while beetles crawl over a dried pile of mule dung
+in the middle of the road.  To the south an opening in the rocks show a path
+leading into the grove of tall rocky spires.  {x 
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1831
+D2
+~
+~
+0 0
+0 0 1833
+D3
+~
+~
+0 0
+0 0 1848
+S
+#1833
+Sun Baked Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1832
+D2
+~
+~
+0 0
+0 0 1834
+S
+#1834
+Sun Baked Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1833
+D3
+~
+~
+0 0
+0 0 1835
+S
+#1835
+Sun Baked Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1834
+D3
+~
+~
+0 0
+0 0 1836
+S
+#1836
+Sun Baked Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1835
+D3
+~
+~
+0 0
+0 0 1837
+S
+#1837
+Sun Baked Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1836
+D3
+~
+~
+0 0
+0 0 1838
+S
+#1838
+Sun Baked Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1837
+D3
+~
+~
+0 0
+0 0 1839
+S
+#1839
+Sun Baked Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1838
+S
+#1840
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1841
+D2
+~
+~
+0 0
+0 0 1808
+S
+#1841
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1842
+D2
+~
+~
+0 0
+0 0 1840
+S
+#1842
+Gray Stone Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1843
+D2
+~
+~
+0 0
+0 0 1841
+S
+#1843
+Gray Stone Path~
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1844
+D3
+~
+~
+0 0
+0 0 1842
+S
+#1844
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1849
+D1
+~
+~
+0 0
+0 0 1845
+D3
+~
+~
+0 0
+0 0 1843
+S
+#1845
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1846
+D3
+~
+~
+0 0
+0 0 1844
+S
+#1846
+Gray Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1847
+D2
+~
+~
+0 0
+0 0 1845
+S
+#1847
+Flat Stone Path~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 1829
+D2
+~
+~
+0 0
+0 0 1846
+S
+#1848
+Hard Clay Road~
+{YS{ye{Dv{yera{Yl {wdried piles of dung litter this area of the hard clay road, some
+with wooden wheel tracks bi-secting them as if it had happened not long
+after being dropped.  Insects that are drawn to the dung adds the sound of
+their buzzing to the soft scratching of lizards that roam the rocks on
+either side.  The ragged edge of shadow mingles with the criss-crossing
+shadows of the tall grove of rock spires and seems to be a gathering place
+for gara to rest and watch.  {x 
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1832
+D3
+~
+~
+0 0
+0 0 1849
+S
+#1849
+Gray Stone Road~
+{YT{Dh{ye {whard clay of the road has given way to a wide flat line of gray rock
+with many slivers of gray rock scattered everywhere.  An opening through a
+line of this gray stone has been chipped out toward the west, an opening big
+enough for a wagon to pass through.  Several stacks of dried dung that are
+lined along one side of the opening might explain the odor of pungent smoke
+that's drifting from that direction.  Toward the south a path leads into
+this road and seems to have been well traveled by people on foot.  {x 
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1848
+D2
+~
+~
+0 0
+0 0 1844
+D3
+~
+~
+0 0
+0 0 1850
+S
+#1850
+Peddler's Camp~
+{YA {wlarge area has been cleared of rock leaving a wall of gray stone around
+the edge with only one wide opening.  Around the edges of the clearing three
+fully loaded wagons are circled with pavilions placed between them.  To one
+side is small group of mules hobbled with several wooden boxes stacked near
+them.  In the center of the clearing is a shallow fire pit where a goat is
+roasting on a spit over the low fire.  {x 
+~
+0
+0 10
+D1
+~
+~
+0 0
+0 0 1849
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

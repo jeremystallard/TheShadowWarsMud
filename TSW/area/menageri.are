@@ -1,0 +1,2336 @@
+#AREADATA
+Name A Traveling Menagerie~
+Builders Kitiara~
+VNUMs 24800 24899
+Credits None~
+Security 5
+Low 10
+High 45
+Flags 8
+Version 2
+End
+
+
+
+#MOBILES
+#24800
+tall guard~
+A tall burly guard~
+A tall, burly guard stands at the entrance to the Menagerie.
+~
+A tall burly guard stands before the entrance.  His broad shoulders and
+stern look serve to keep the people at the entrance in line.  His {yle{Da{yt{Dh{yer{x
+vest and cloth are {Ddi{yr{Dty{x from the traveling.  
+~
+amadician~
+AB 0 0 0
+45 35 24d24+1755 45d10+100 5d9+23 punch
+0 0 0 0 0
+A
+-18 -18 -18 -4
+CEU 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24801
+musician man~
+a {Ym{Ru{Bs{Gic{Bi{Ra{Yn{x~
+A musician clad in {Yco{Rl{Bor{Gfu{Yl{x clothes is playing a flute.
+~
+Many small bells tingle loudly as this man walks around.  {YCo{Rl{Bor{Gfu{Yl{x
+clothes almost hurt the eye while he is constantly playing a happy tune on
+his flute.  
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+4 4 4 7
+0 0 0 R
+stand stand male 40
+MV ABCEFGK medium 'flesh'
+#24802
+musician man~
+a {ym{Ru{Bs{Gic{Bi{Ra{yn{x~
+A musician clad in {yco{Rl{Bor{Gfu{yl{x clothes is beating a drum.
+~
+The sound of many small bells is drowned in a loud drumroll as this man
+walks by.  A muscular frame, bald head and a deep scowl make him look
+somewhat threatening.  
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 punch
+0 0 0 0 0
+A
+-3 -3 -3 5
+I 0 0 R
+stand stand male 2
+MV ABCFHK medium 'flesh'
+#24803
+juggler man bari~
+a juggler~
+A man juggling {rhoops{x stands here.
+~
+A square cut {Dbeard{x and piercing {Bb{Clu{Be{x eyes surround a long, thin nose. 
+His vest and breaches are cut to fit tightly, leaving his arms and calves
+bare.  
+~
+andoran~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 pierce
+0 0 0 0 0
+A
+-18 -18 -18 -4
+HN 0 0 R
+stand stand male 20
+0 0 medium 'flesh'
+#24804
+archer woman tall birgitte maerion~
+an {War{Ych{Wer{x~
+A tall woman wearing a low cut {rdr{Re{rss{x aims her {War{Yr{Wow{x.
+~
+With a confident air, this woman aims her {War{Yr{Wow{x at the woman across the
+way.  Her black hair has been {Dbr{wai{Dd{we{Dd{x and dangles between her ample breasts.
+~
+saldaean~
+ABG 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 pierce
+0 0 0 0 0
+A
+4 4 4 7
+0 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#24805
+dog~
+a large dog~
+A large {Dblack{x dog walks around, sniffing at you briefly as he passes.
+~
+The dogs {Dblack{x eyes match his short fur.  His broad chest and large paws
+fit his massive head and body.  You can imagine him crushing a mans arm with
+his strong jaw easily.  
+~
+unique~
+AG 0 0 0
+35 25 19d19+1103 35d10+100 5d7+18 bite
+0 0 0 0 0
+A
+-12 -12 -12 -1
+DH 0 IP 0
+stand stand male 0
+AGV ABCEFUV medium 'flesh'
+#24806
+singer domani woman~
+a Domani singer~
+A female {rDo{Rm{ra{Rni{x Singer walks about with a sway of her hips
+~
+A sheer {Rr{re{Rd dr{re{Rss{x flows tightly around this alluring Domani slender
+figure.  Her dark {ybrown{x curls reach down to her thin waist.  Shapely legs
+show through the high cut of her dress, her perfect tan skin appearing
+smooth as silk.  She moves with a feline grace and a seductive sway of her
+hips.  
+~
+domani~
+AG 0 0 0
+15 5 9d9+248 15d10+100 3d5+8 punch
+0 0 0 0 0
+A
+0 0 0 5
+0 0 0 0
+stand stand female 35
+0 0 medium 'flesh'
+#24807
+cat~
+a cat~
+A small {Dblack{x cat eyes you warily.
+~
+Shining {Dblack{x fur and a slender build make this cat look a little
+dangerous.  The fact that she eyes anyone within two feet of her
+suspiciously doesn't do much to help.  
+~
+unique~
+A 0 0 0
+15 5 9d9+248 15d10+100 3d5+8 claw
+0 0 0 0 0
+A
+0 0 0 5
+H 0 0 R
+stand stand none 0
+AGV ABCEFU small 'fur'
+#24808
+man~
+a roundbellied man~
+A roundbellied man with a {Wwhite{x apron stands behind the counter
+~
+This mans {Wwhite{x apron streches tightly over his round belly.  The ring of
+greasy, scarce hair on his head is already {Wg{wr{We{wy{x.  He waits for any orders,
+barking commands at the serving maids.  
+~
+altaran~
+AB HV 0 0
+90 80 46d47+8100 90d10+100 10d10+45 beating
+0 0 0 0 0
+A
+0 0 0 5
+EFK FIKLQ 0 0
+stand stand male 15
+0 0 medium 'flesh'
+#24809
+man~
+a young man~
+A young man with broad shoulders.
+~
+This young man is well built for his age.  He wears a {Rred{x jacket without
+arms and no shirt, leaving his broad chest bare.  His {d{Ddark{x{x hair hangs down
+freely to his shoulders.  
+~
+altaran~
+AB 0 0 1
+15 5 9d9+300 15d10+100 3d5+10 punch
+0 0 0 0 0
+A
+0 0 0 5
+IU 0 0 0
+stand sit male 10
+0 0 medium 'unknown'
+#24810
+acrobat woman~
+an {ma{Mcr{mo{Mb{mat{x~
+Springing from her hands to her feet, this {ma{Mcr{mo{Mb{mat{x moves quickly across the area.
+~
+~
+shienaran~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+#24811
+acrobat man barit~
+an {Ba{Wcr{Bo{Wb{Bat{x~
+A {Bsp{Wri{Bg{Wht{Bly{x man moves about upon his hands.
+~
+One of the famous Chavanna brothers, this man's {yd{Da{yrk sk{Di{yn{x sets him apart
+from the others.  He wears bright blue breeches and has strange tatoos upon
+his hands.  
+~
+unique~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 R
+stand stand male 0
+0 0 medium 'flesh'
+#24812
+man acrobat brugh~
+an {Ba{Wcr{Bo{Wb{Bat{x~
+An {Ba{Wcr{Bo{Wb{Bat{x stands carefully atop the shoulders of his brother.
+~
+Dressed in bright blue {Bbr{Wee{Bch{We{Bs{x, this acrobats muscles are shown off
+well.  He carefully balances atop his brothers shoulders as they perform an
+act together.  
+~
+andoran~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'unknown'
+#24813
+pale woman trainer~
+a female trainer~
+A pale haired woman stands here training the {Dboar{W-{yhorses{x.
+~
+A pale haired woman trains the {Dboar{W-{yhorses{x with ease and confidence.  The
+light reflects off her blue sequined  dress as she moves.  
+~
+seanchan~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 5
+0 0 medium 'flesh'
+#24814
+clarine woman trainer~
+a {yd{Yo{yg{x trainer~
+A plump, brown cheeked {Wtr{yai{Wn{ye{Wr{x works with her {yd{Yo{ygs{x.
+~
+A plump, brown cheeked woman wearing a green sequined dress, stands here
+training her dogs.  
+~
+altaran~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 10
+0 0 medium 'flesh'
+M 'GREET' 24814 25~
+M 'SPEECH' 24815 Clarine~
+M 'GIVE' 24816 blanket~
+#24815
+cole horse handler man~
+a {yh{Wo{yrs{We{x-handler~
+A tall {yT{Wai{yr{We{yn{x cares for the horses.
+~
+This man is rather tall and has an oddly bent nose and a thick mustache. 
+He is busy baling hay for the horses.  
+~
+andoran~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#24816
+juggler man kin~
+a juggler~
+A lithe man stands here juggling.
+~
+Wearing a vest and brighte breeches cut to fit tightly, this mans arms
+and calves are bare.  
+~
+andoran~
+AB 0 0 0
+30 20 16d17+900 30d10+100 4d4+15 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 R
+stand stand male 10
+0 0 medium 'flesh'
+F par BCEGH
+#24817
+bear trainer woman latelle~
+a {Db{wea{Dr{x trainer~
+A stern faced woman trains the {Db{wea{Drs{x in the circle.
+~
+Wearing a dress covered in black {Dsp{Wa{Dngl{We{Ds{x, this woman works with the
+{Wwhite{x faced {Db{wea{Drs{x.  Her face is stern and she wears a permanent {rsn{Ree{rr{x.  
+~
+mayener~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 20
+0 0 medium 'flesh'
+#24818
+femal contortionist~
+a contortionist~
+A female contortionist sits here in a peculiar position.
+~
+This woman is very pretty, with dark eyes and hair.  She wears a pair of
+gauzy {Yy{We{Yll{Wo{Yw{x trousers, showing off her feminine figure well.  
+~
+saldaean~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'unknown'
+#24819
+petra man strong~
+a strong man~
+A strong man stands here showing off his strength.
+~
+An unbelievably massive and wide man stands here, his arms as wide as
+tree trunks.  He wears bright blue breeches and a leather vest that shows
+off his muscles.  
+~
+andoran~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+0 0 0 0
+C 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+M 'GIVE' 24821 medallion~
+M 'RANDOM' 24820 30~
+#24820
+rumann sword juggler man~
+a {Ds{Ww{wo{Wr{Dd{x-juggler~
+A brave man walks around the menagerie, juggling {Ds{Ww{wor{Wd{Ds{x with his bare hands.
+~
+~
+saldaean~
+A 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24821
+man acrobat taeric~
+an {Ba{Wcr{Bo{Wb{Bat{x~
+A short, compact {Ba{Wcr{Bo{Wb{Bat{x supports his brother upon his shoulders.
+~
+A short, compact man with green eyes, high cheek bones and a hooked nose.  
+~
+saldaean~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 LQ
+stand stand male 10
+0 0 medium 'flesh'
+#24822
+valan luca man~
+a tall, {Dd{ya{Drk{y-{Dh{yai{Dred{x man~
+A tall, {Dd{ya{Drk{y-{Dh{yai{Dred{x man gives his red silk {rcl{Roa{rk{x a flourish.
+~
+This man stands with an air of self confidence, giving his {rr{Re{rd s{Ri{rlk cl{Roa{rk{x
+a flourish as he bows with a well turned leg.  "{WI am Valan Luca, showman
+{Wextraordinary{x!"  
+~
+ghealdanin~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'unknown'
+M 'GREET' 24822 100~
+#24823
+nana nynaeve woman short~
+a short woman~
+A short woman wearing a low cut {rdr{Re{rss{x stands against the wooden target.
+~
+Standing with her back against the wooden fence, this woman squeals in
+fear as she watches the {War{Yro{Wws{x fly towards her.  She wears a low-cut {rdr{Re{rss{x
+and her brassy red hair is worn loose.  
+~
+andoran~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 R
+stand stand female 40
+0 0 medium 'flesh'
+M 'RANDOM' 24824 5~
+M 'RANDOM' 24823 10~
+#24824
+walker elayne morelin woman~
+a tightrope walker~
+A lithe woman in {Wwhite{x carefully makes her way across the tightrope.
+~
+This woman seems completely at ease on the tightrope, springing into
+cartwheels as she makes her way across.  She wears all {Wsnow white{x clothes,
+tight breeches that fit snug over her hips, and a short coat.  Her long
+black hair is in a braid and flips through the air as she moves along.  
+~
+andoran~
+AB 0 0 0
+40 30 21d22+1600 40d10+100 5d5+20 none
+10 3 2 5 6
+A
+0 0 0 0
+0 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#24825
+bear~
+a {Wwhite{x-faced bear~
+A large black {Db{wea{Dr{x balances on a {rb{Ra{rll{x.
+~
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 ABCDFK medium 'flesh'
+#24826
+leopard~
+a spotted {yl{Yeo{yp{Ya{yrd{x~
+A spotted {yl{Yeo{yp{Ya{yrd{x paces in his cage.
+~
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 ACEFKQ medium 'flesh'
+#24827
+snake~
+a {rs{Dnak{re{x~
+A {rs{Dnak{re{x as thick as a tree limb rests in a {dp{Coo{dl{x of water.
+~
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 crush
+0 0 0 0 0
+A
+0 0 0 0
+0 0 R F
+stand stand male 0
+0 AEFQ medium 'flesh'
+#24828
+capar animal boar~
+a hairy boar~
+A large, hairy boar with a pointed snout rests in his cage.
+~
+A large, hairy boar has a pointed snout and sharp claws.  
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 ACEFK medium 'flesh'
+#24829
+s'redit mer bull large boar~
+a large bull~
+A large {Dboar{W-{yhorse{x stands here.
+~
+This beast of an animal stands well above the head of the tallest man
+around.  His body is thick, his legs are like treetrunks.  For a snout he
+has a long trunk that he raises in the air.  His skin is thick and a dark
+{Dsilvery-grey{x.  
+~
+unique~
+AB 0 0 0
+45 35 23d23+2025 45d10+100 5d10+22 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 R H
+stand stand male 0
+0 CMQ giant 'flesh'
+#24830
+macaw bird~
+a {Bm{Ya{Bc{Ya{Bw{x~
+A large {bbl{Bue{x and {Yg{Wo{Yld{x bird rests atop a tree {ylimb{x.
+~
+~
+unique~
+AB 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 AEFHKQU medium 'flesh'
+#24831
+horned deer~
+a {Wh{Do{Wrn{De{Wd{x deer~
+Standing here is a {Wh{Do{Wrn{De{Wd{x deer, eating placidly from the hand of a child.
+~
+~
+unique~
+AB 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 ADJKQ medium 'flesh'
+M 'GIVE' 24831 feed~
+#24832
+lion male~
+a {Dbl{wa{Dck{w-{Dm{wa{Dn{we{Dd{x lion~
+A {Dbl{wa{Dck{w-{Dm{wa{Dn{we{Dd{x lion stalks in his cage.
+~
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 claw
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 CFKQ large 'fur'
+#24835
+elderly man~
+an {Del{wd{De{wr{Dly{x man~
+An {Del{wd{De{wr{Dly{x man walks through the Menagerie, marveling at the sights.
+~
+~
+andoran~
+A 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium 'flesh'
+#24836
+woman~
+a {My{mou{Mng{x woman~
+A {My{mou{Mng{x woman stands here, admiring the Menagerie.
+~
+~
+mayener~
+A 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 15
+0 0 medium 'unknown'
+#24837
+child boy~
+an {co{Dbn{co{Dx{ciou{Ds{x boy~
+A little {Bb{Wo{By{x runs through the crowd, bumping into people.
+~
+~
+andoran~
+AS 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 medium 'flesh'
+#24838
+girl child~
+a {mpr{Me{mtty{x little girl~
+A little {Mg{mi{Mrl{x stands here, gazing around herself with big eyes.
+~
+~
+andoran~
+A 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 1
+0 0 medium 'flesh'
+#24839
+s'redit nerin calf small boar~
+a calf~
+A small {Dboar{W-{yhorse{x stands close to the others.
+~
+A much smaller version of his two counterparts, this boar-horse appears
+to be quite young.  He performs silly stunts with the other boar-horses.  
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 R H
+stand stand male 0
+0 0 large 'unknown'
+#24840
+s'redit sanit cow female boar~
+a cow~
+A female {Dboar{W-{yhorse{x stands here.
+~
+A large beast with thick, silvery skin, stands here.  She performs tricks
+with the other two {Dboar{W-{yhorses{x for their trainer.  
+~
+unique~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 R H
+stand stand female 0
+0 ACMQ huge 'unknown'
+#24841
+man male contortionist~
+a contortionist~
+A male contortionist sits on his head.
+~
+This man has contorted his body into a very strange position, he appears
+to be trying to sit on his own head.  
+~
+domani~
+AB 0 0 0
+35 25 18d18+1225 35d10+100 4d9+17 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 10
+0 0 medium 'flesh'
+#24842
+dog~
+a small {yd{Yo{yg{x~
+A small dog jumps through {rh{Yoo{rps{x.
+~
+~
+unique~
+AB 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 bite
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'flesh'
+#24843
+dog~
+a scruffy {yd{Yo{yg{x~
+A {Dsc{yruf{Dfy{x dog stands here doing back flips.
+~
+~
+unique~
+AB 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 scratch
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 ACKQ medium 'flesh'
+M 'RANDOM' 24843 10~
+#24844
+child curious~
+a {Cc{Wu{Crio{Wu{Cs{x child~
+A young {cch{Ci{cld{x holds out his hand to the {yd{Wee{yr{x, watching it feed in awe.
+~
+~
+saldaean~
+AB 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 2
+0 0 medium 'unknown'
+#24845
+bird parrot~
+a {gp{Ga{Yrr{Go{gt{x~
+Sitting amongst the tree limbs, a {gp{Ga{Yrr{Go{gt{x busies himself chewing on a leaf.
+~
+~
+unique~
+AB 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 AEFHKQU medium 'unknown'
+#24846
+bird peacock~
+a {cpe{Ca{Wc{Co{cck{x~
+Spreading his beautiful array of feathers out behind him, a {cpe{Ca{Wc{Co{cck{x struts along here.
+~
+~
+unique~
+AB 0 0 0
+15 5 8d8+225 15d10+100 2d7+7 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 AEFHKQU medium 'unknown'
+#24847
+bear young~
+a {Wwhite{x-faced bear~
+A young {Wwhite{x-faced bear does his best to balance on a {rb{Ra{rll{x.
+~
+~
+unique~
+AB 0 0 0
+20 10 11d12+400 20d10+100 3d3+10 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand either 0
+0 ABCDFK medium 'flesh'
+M 'RANDOM' 24847 10~
+#24848
+child girl~
+a {Cc{Wu{Crio{Wu{Cs{x child~
+Holding out her hand to the {yd{Wee{yr{x, this young {Mg{Wi{Mrl{x watches it with big eyes.
+~
+~
+andoran~
+AB 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 1
+0 0 medium 'flesh'
+#24849
+dog missy~
+an ill {yd{Yo{yg{x~
+A small, {Dfl{Wu{Dffy{x dog lies on the bedspread, whimpering softly.
+~
+~
+unique~
+AB 0 0 0
+10 0 6d7+100 10d10+100 2d2+5 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 AFKQ medium 'flesh'
+M 'ACT' 24849 kiss~
+#24850
+woman acrobat andaya~
+a disgruntled {racr{Ro{rb{Ra{rt{x~
+A blue-eyed woman hurriedly pulls on her {rl{Reo{rt{Ra{rrd{x as she hops to the door.
+~
+White {Wskin{x sets off this woman's blue {ce{Cy{ce{Cs{x.  Her form is thin yet tone,
+from the way she moves it's apparant she's some sort of athlete or dancer.  
+~
+amadician~
+AB 0 0 0
+25 15 13d13+625 25d10+100 3d8+12 none
+0 0 0 0 0
+A
+0 0 0 0
+0 0 0 0
+stand stand female 0
+0 0 medium 'flesh'
+M 'GREET' 24850 100~
+#24851
+man clean cut~
+a curious man~
+A tall, clean cut man wanders among the cages with a curious gaze.
+~
+~
+andoran~
+AJb 0 0 0
+90 80 46d47+8100 90d10+100 10d10+45 none
+90 90 90 90 90
+A
+6 6 6 6
+0 0 0 0
+stand stand male 5000
+0 0 medium 'flesh'
+F gain B
+F train B
+V tlevel 75
+#24860
+street wise woman underdressed~
+a street wise woman~
+An underdressed woman with a fake smile stands here.
+~
+Standing before you is a woman who doesn't seem to quite blend in with
+everyone else, her clothing the main reason, a dark blue dress with a slit
+showing of her thigh and the neckline dipping to show off her wares as they
+are.  She flashes you a fake smile coming your way with a practiced twist of
+the hips and flash of the bosom, you can't help but wonder what it is
+exactly that she wants.  
+~
+andoran~
+A 0 0 0
+97 87 49d49+9409 97d10+100 10d17+48 slap
+0 0 0 0 0
+A
+6 6 6 6
+CFIJKN 0 0 0
+stand stand female 30
+0 0 medium 'flesh'
+#0
+
+
+
+#OBJECTS
+#24800
+wooden chest~
+a wooden chest~
+A wooden chest with metal bindings looks very sturdy.~
+wood~
+container D P
+1000 ACD 24801 1000 100
+1 300 3 100
+#24801
+key~
+a small key~
+A cold, metal key lies here.~
+metal~
+key PY AO
+0 0 0 0 0
+1 5 50 100
+#24802
+pile gold~
+a pile of gold~
+A small pile of gold has been left here.~
+gold~
+money 0 A
+20 50 0 0 0
+1 1 0 100
+#24803
+knife~
+a knife~
+A well-balanced knife.~
+steel~
+weapon 0 AN
+dagger 5 10 'pierce' D
+50 3 20 100
+#24804
+chest~
+a wooden chest~
+A large {yo{Da{ykw{Doo{yd ch{De{yst{x stands in one corner~
+wood~
+container 0 0
+30 ACD 24805 2000 100
+2 20 3 100
+#24805
+silver key~
+A {Wsi{Dlv{Wer{x key~
+A small {Wsi{Dlv{Wer{x key hanging from a {yle{Ya{Dt{Yh{yer{x string~
+silver~
+key 0 AT
+0 0 0 0 0
+2 3 5 100
+#24806
+dress~
+A {Rdo{rm{Ra{rni{x dress~
+A silken {Rr{re{Rd dr{re{Rss{x of domani making~
+silk~
+armor 0 AD
+2 1 2 0 0
+5 1 15 100
+#24807
+chair~
+a comfortable chair~
+A comfortable chair with soft {ylea{Yt{yher{x paddings~
+wood~
+furniture 0 0
+1 300 D 120 120
+2 150 3 100
+#24808
+wardrobe~
+a small wardrobe~
+A small {ywardrobe{x with wavelike symbols etched in it~
+wood~
+container 0 0
+20 AC 0 200 100
+2 1000 120 100
+#24809
+cloak~
+a {bblue{x cloak~
+A {bblue {Cs{bil{Ck{ben{x cloak~
+cloth~
+armor 0 ACO
+5 4 4 2 0
+15 2 10 100
+#24810
+box~
+a {ywooden{x box~
+A {ywooden{x box is used to sit on by the {Rf{ri{Rr{re{x~
+wood~
+furniture 0 A
+1 2000 E 80 80
+2 20 2 100
+#24811
+barrel~
+a {ywooden{x barrel~
+a {ywooden{x barrel is here to sit on by the {Rf{ri{Rr{re{x~
+wood~
+furniture 0 A
+1 2000 E 75 75
+2 30 5 100
+#24812
+food roastbeef~
+A slice of {rro{yas{rtb{yee{rf{x~
+A delicious smelling slice of {rro{yas{rtb{yee{rf{x~
+meat~
+food 0 A
+4 1 0 0 0
+0 2 10 100
+#24813
+mug beer~
+a mug of {ybeer{x~
+A mug of {ybeer{x has been dropped on the ground.~
+liquid~
+drink 0 A
+1 1 'beer' 0 0
+0 1 15 100
+#24814
+food stew~
+a bowl of {ystew{x~
+A bowl of steaming {ybeef{x stew rests here.~
+food~
+food 0 A
+4 2 0 0 0
+0 1 12 100
+#24815
+goad~
+a {ybronze{x-{Dhooked{x goad~
+A {ybronze{x-{Dhooked{x goad rests here.~
+bronze~
+weapon 0 AN
+exotic 2 6 'none' 0
+30 20 100 100
+#24816
+coat~
+a {Wwhite{x coat~
+A {Wwhite{x sequined coat has been neatly folded here.~
+cloth~
+armor 0 AD
+7 10 8 15 0
+40 10 50 100
+#24817
+cage~
+a cage~
+A lion's cage rests here.~
+iron~
+container 0 0
+1000 ACDFJ 24818 1 100
+0 1000 0 100
+#24818
+key~
+a {Dkey{x~
+An old {Diron{x key rests here.~
+iron~
+key 0 A
+0 0 0 0 0
+1 1 0 100
+#24819
+barbell~
+a barbell~
+A huge barbell has been left here.~
+iron~
+weapon 0 AN
+exotic 4 8 'none' F
+45 0 0 100
+#24820
+barrel~
+a wooden {yb{Da{yrr{De{yl{x~
+A wooden {yb{Da{yrr{De{yl{x holding deer feed has been left open.~
+wood~
+container 0 0
+0 0 0 1000 100
+0 20 0 100
+#24821
+feed food~
+{yd{Wee{yr{x feed~
+Small green-{gp{Ge{gll{Ge{gts{x for feeding the {yd{Wee{yr{x have been scattered here.~
+cloth~
+food 0 A
+1 1 0 0 0
+0 1 2 100
+#24822
+ball~
+a large {rb{Ra{rll{x~
+A large {rb{Ra{rll{x has been placed here.~
+rubber~
+furniture 0 A
+1 500 B 75 75
+1 5 5 100
+#24823
+birgitte's bow~
+a long {Wb{Yo{Ww{x~
+A sturdy {Wlo{Yng b{Wow{x has been set here.~
+wood~
+weapon A AN
+bow 3 12 'none' F
+40 40 100 100
+#24824
+arrow~
+an {War{Yr{Wow{x~
+A well-crafted {War{Yr{Wow{x rests here.~
+wood~
+weapon 0 A
+arrow 3 12 'none' 0
+40 3 5 100
+#24825
+dress~
+a {rlo{Rw{D-{Rc{rut{x dress~
+A {rlo{Rw{D-{Rc{rut{x dress has been carefully folded.~
+silk~
+armor 0 AD
+10 15 15 0 0
+40 3 10 100
+#24826
+woodstove stove~
+an old wood {Dst{wo{Dve{x~
+An old wood {Dst{wo{Dve{x stands cold in the wagon.~
+iron~
+container a 0
+400 AC 0 100 100
+0 100 0 100
+#24827
+gold~
+a gold {yc{Yoi{yn{x~
+A gold {yc{Yoi{yn{x has been left here.~
+gold~
+money 0 A
+0 1 0 0 0
+0 1 1 100
+#24829
+emerald ring~
+an {Ge{gm{Ge{gr{Ga{gld{x ring~
+A {yg{Yo{yld{x ring with multiple {Ge{gm{Ge{gr{Ga{glds{x set in it rests here.~
+gold~
+armor 0 AB
+10 10 10 5 0
+35 2 45 100
+#24830
+emerald earring~
+an {Ge{gm{Ge{gr{Ga{gld{x earring~
+An {Ge{gm{Ge{gr{Ga{gld{x set inside a gold {yst{Yu{ydd{Ye{yd{x earring is here.~
+gold~
+armor 0 AU
+0 0 0 0 0
+35 1 30 100
+#24831
+emerald necklace chain~
+an {Ge{gm{Ge{gr{Ga{gld{x necklace~
+A {yg{Yo{yld{x chain with multiple {Ge{gm{Ge{gr{Ga{glds{x has been set here.~
+gold~
+armor 0 AC
+3 3 3 2 0
+35 3 50 100
+#24832
+purse~
+a cloth {Wp{wu{Wrs{we{x~
+A plainly decorated {Wp{wu{Wrs{we{x rests here.~
+cloth~
+container 0 A
+3 0 0 100 100
+1 2 10 100
+#24833
+blanket~
+a {Mf{mu{Mzzy{x blanket~
+A {Mf{mu{Mzzy{x blanket covered in dog fur is here.~
+cloth~
+trash 0 A
+0 0 0 0 0
+0 1 0 100
+#24834
+chain necklace medallion~
+a medallion of a {Dd{Wo{Dg{x~
+A long {Yn{We{Yckl{Wa{Yce{x with a medallion in the shape of a {Dd{Wo{Dg{x dangling from it.~
+metal~
+trash 0 AC
+0 0 0 0 0
+1 1 2 100
+#24835
+sword~
+a long {Dsw{wo{Drd{x~
+A long {Dsw{wo{Drd{x has been lain here.~
+steel~
+weapon 0 AN
+sword 4 24 'slice' F
+50 100 100 100
+#24836
+cudgel~
+a {yc{Du{ydg{De{yl{x~
+A large {yc{Du{ydg{De{yl{x has been set here.~
+cloth~
+weapon 0 AN
+mace 3 8 'none' 0
+45 15 25 100
+#24837
+chest~
+a chest~
+A chest is here.~
+cloth~
+container 0 A
+500 0 0 1000 500
+0 500 0 100
+#24838
+ring~
+a {Dr{Win{Dg{x~
+A simple band of {Ds{wi{Wlv{we{Dr{x has been left here.~
+silver~
+armor 0 AB
+10 10 10 10 0
+40 1 100 100
+A
+19 2
+A
+5 1
+A
+4 1
+A
+1 1
+#0
+
+
+
+#ROOMS
+#24800
+A Travelworn Road~
+A broad road trails through the soft hills.  Green fields stretch to the
+side of the road up to the horizon.  Thorny hedges mark the outlines of the
+fields.  Occasionally a bird can be heard singing.  
+~
+0
+0 15
+D0
+~
+~
+0 0
+0 0 24801
+D8
+~
+~
+0 0
+0 0 48620
+S
+#24801
+A travelworn road~
+A broad road trails through the soft hills.  Green fields stretch to the
+side of the road up to the horizon.  Thorny hedges mark the outlines of the
+fields.  
+
+As the wind turns sounds of people cheering can be heard in the distance.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 24802
+D2
+~
+~
+0 0
+0 0 24800
+S
+#24802
+Approaching the Menagerie~
+As the road reaches the top of a higher hill the surrounding countryside
+is presented in a nice overview.  Soft slopes for hills, fields cuddle in
+between them wherever it is possible.  To the west a greenish blue ribbon
+snakes through the hills, a small river flowing along.  The sound of people
+laughing and talking wafts over from the north.  A small traveling Menagerie
+has set up its stage close to the street there.  
+~
+0
+0 14
+D0
+~
+~
+0 0
+0 0 24803
+D2
+~
+~
+0 0
+0 0 24801
+S
+#24803
+Before the Menagerie~
+A traveling Menagerie has set up its tents on a field to the west.  Poles
+holding {Wwhite{x cotton fabric have been put up in a circle to block the view,
+only leaving an entrance facing the street.  Two large poles with small
+platforms on their tops reach up high from inside the fenced area. 
+Behind the circle the roofs of Wagons can be seen.
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24804
+D2
+~
+~
+0 0
+0 0 24802
+S
+#24804
+Outside the Menagerie~
+A path leads towards the entrance in the cotton fence.  A solid looking
+{ychest{x with {Wme{xt{Wal{x bindings is standing just inside the entrance.  Two ropes
+on sticks provide an area to line up for paying the entry fee.  A huge sign
+over the entrance reads: {yV{Ya{yl{Ya{yn L{Yu{yc{Ya{x'{ys {RTraveling Menagerie{x.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 24840
+D1
+~
+~
+0 0
+0 0 24844
+D2
+~
+~
+0 0
+0 0 24803
+S
+#24805
+Inside the Menagerie~
+The path leads up to a small area where platforms have been set up.  A
+woman stands in the center, leading several dogs through tricks.  One dog
+jumps through a hoop the woman holds while another stands and does
+backflips.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24826
+D2
+~
+~
+0 0
+0 0 24808
+D3
+~
+~
+0 0
+0 0 24806
+S
+#24806
+Before The Cage Of A Capar.~
+Several cages of different sizes have been lined up along the path to the
+north and west.  A strong rope has been placed in front of them to keep
+people from getting too close.  Inside the cage before you is a strange
+animal that looks similar to a boar.  A sign above the cage names it a as
+Capar, and the animal inside seems rather hairy.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24811
+D1
+~
+~
+0 0
+0 0 24805
+D3
+~
+~
+0 0
+0 0 24809
+S
+#24807
+At The Acrobats~
+{yD{Yu{yst{x rises in the air as the feet of the acrobats touch the ground
+briefly before they spring into the air once again.  In the center of the
+area many acrobats are busy forming a human pyramid.  The crowd bursts into
+applause as the acrobats complete their feat then one by one the acrobats do
+various flips and turns to land safely back onto the ground.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 24833
+S
+#24808
+At the Musicians~
+A stage has been set up here, standing about three feet high.  A {rred{x
+banner depicting a drum and a horn has been nailed on some {ywodden{x planks. 
+Various instruments are lined up at the back of the stage.  Standing on the
+stage are musicians and a hearty music fills the air.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24805
+D1
+~
+~
+0 0
+0 0 24841
+D2
+~
+~
+0 0
+0 0 24840
+D3
+~
+~
+0 0
+0 0 24838
+S
+#24809
+Before The Cage Of A Leopard.~
+A long cage has been set here, a crowd of people mill about it as they
+pass by.  Inside the cage a spotted leapard swats lazily at the tail of
+another.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24810
+D1
+~
+~
+0 0
+0 0 24806
+S
+#24810
+The Performing Bears~
+In the center of a large circle are three huge {rw{Roo{rd{Re{rn{x balls.  Balancing
+atop the balls are three large black {Db{wea{Drs{x, their faces a stark {Wwhite{x
+against the black {Dfur{x.  Using their feet the bears roll the balls around for
+the amusement of the onlookers.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24812
+D1
+~
+~
+0 0
+0 0 24811
+D2
+~
+~
+0 0
+0 0 24809
+S
+#24811
+Standing Before A Snake Cage~
+Inside a large iron cage a thick tree limb rises out of a pool of water. 
+Lying partly along the tree limb, curled around it, and partially immersed
+in the water, giving it a slimy appearance is a very large snake.  A pair of
+beady eyes peers out at the crowd of onlookers.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24815
+D2
+~
+~
+0 0
+0 0 24806
+D3
+~
+~
+0 0
+0 0 24810
+S
+#24812
+An Aviary~
+The sound of birds calling and singing floats on the air.  A large wire
+mesh cage has been set up, tree limbs and sturdy plants decorate the cage,
+along with a {cp{Coo{cl{x of clear water.  Brightly colored {Bb{ri{Brds{x rest atop the
+limbs, chattering amongst each other.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24815
+D2
+~
+~
+0 0
+0 0 24810
+S
+#24813
+At A Campfire~
+Large wagons surround you on all sides, leaving a wide open circle in the
+center for daily use.  {yD{Yu{yst{x floats on the air and {Dsm{wo{Dke{x rises above a {Rf{ri{Rr{re{x
+that has been laid out between some rocks.  {yChests{x and {yboxes{x have been set
+out so the performers can rest before the fire.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 24828
+D1
+~
+~
+0 0
+0 0 24832
+D2
+~
+~
+3 3
+1 0 24817
+D3
+~
+~
+0 0
+0 0 24831
+S
+#24814
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24849
+D1
+~
+~
+0 0
+0 0 24831
+D2
+~
+~
+0 0
+0 0 24848
+S
+#24815
+A Deer Pen~
+A short fence has been set up here.  In the center stand several small
+{yd{Wee{yr{x, strange horns protruding from their heads.  A barrel of feed has been
+left open and many of the people crowded around take the opportunity to hand
+feed the placid animals.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 24811
+D3
+~
+~
+0 0
+0 0 24812
+S
+#24816
+Inside A Wagon~
+A bed under the only window, a small hearth and a large {ych{De{yst{x are the
+only pieces of furniture in this small room.  The bed is freshly made, and
+the floor appears to have been recently wiped.  The soft scent of {Cpe{mr{rfu{Gme{x
+still lingers in the air.  
+~
+0
+0 0
+D0
+~
+~
+3 3
+1 0 24831
+S
+#24817
+Inside A Wagon~
+This wagon belongs to the acrobat brothers, the {BCh{ba{Wv{ba{Bna{x's.  For a bunch
+of men, they actually seem to keep their wagon in good order, everything is
+put away, the beds are made.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 24813
+S
+#24818
+Inside A Very Large Wagon~
+The size of this wagon is quite large, as is everything in it.  The
+{rf{yu{rrn{yi{rt{yu{rr{ye{x all seems to be made to hold a great deal of weight, very sturdy
+and solid wood.  {yD{Yo{yg{x fur adorns the rug that has been laid out on the floor
+of the wagon, as well as the bedspread.  
+~
+0
+D 0
+D0
+~
+~
+3 3
+1 0 24832
+S
+#24819
+Inside Valan Luca's Wagon~
+Inside the wagon the lighting is dim, thin silk in brilliant red has been
+draped over all the lamps, giving off a romantic, warm {Rgl{Yo{Rw{x.  Everything
+about the room gives off the appearance of someone expecting company for the
+evening.  A large {bb{we{bd{x with its covers pulled down is the focus of the room,
+and upon a small table a {Wcloth{x has been laid, a bottle of {rw{Ri{rne{x and two
+glasses await for that special someone.  
+~
+0
+AD 0
+E
+desk~
+Flowing, wavelike symbols have been etched in the desks stout frame.  It
+has one drawer on each side.  Piles of neatly arranged papers are placed on
+the desk along with a quill and a ink well.  A drawing has been pinned to
+the wall just above the desk.  
+~
+D3
+~
+~
+3 3
+1 0 24832
+S
+#24820
+~
+Knee high {ggrass{x grows up to the {Cri{Bv{Cer{x bank.  Soft rustling sounds hint at
+the presence of animals, barely audible with the constant noise of the {Cri{bv{Cer{x
+running over rocks in the background.  A small animal trail leads through
+the grass following the {Cri{bv{Cer{x northward.  
+~
+0
+C 2
+S
+#24821
+Following the river~
+Large trees close in on the riverbank, making travel along the river
+difficult.  The {Cri{Bv{Cer{x flows faster here, its rushing sound growing louder.
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24835
+S
+#24822
+Pathway To The Wagons~
+This large wagon obviously is used to transport the Menagerie's food and
+supplies.  {yBo{Dx{yes{x and {ybar{Dr{yels{x of all sorts and sizes are stacked up on the
+wagon.  
+~
+0
+0 2
+E
+willow~
+A lone willow has grown close to the {Cri{Bv{Cer{x here.  Its stem is curved in a
+wide arc, its head hanging down over the {Bwa{Cte{Bry{X surface.  
+~
+D2
+~
+~
+0 0
+0 0 24834
+S
+#24823
+At a fireplace~
+Cages to the north and wagons close by to the east and south surround
+this place.  Large {Dst{xon{Des{x have been arranged in a ring on the floor, inside
+which warming {rf{Yl{Ram{Ye{rs{x flicker in a soft breeze.  {yChests{x and {yboxes{x are
+obviously used to sit on around the {Rf{ri{Rr{re{x.  
+~
+0
+C 2
+S
+#24824
+At The Tightrope~
+Two high, massive {ywooden{x poles have been raised here, both ending in a
+circular platform about a pace in diameter.  The two poles are standing 20
+paces apart and are connected with a line of rope.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24838
+S
+#24825
+Musicians Stage~
+Another stage has been set up here, various banners flapping in the wind.
+Instuments of all kind are put on racks behind the stage.  A cotton roof on
+four poles acts as protection for the instuments and musicians in case of a
+sudden rainfall.  
+~
+0
+C 2
+S
+#24826
+Food Tents~
+A smaller tent has been raised to the east, the smell of food and drink
+floats on the air through the open door.  To the north a large crowd has
+gathered around an archer, and the sound of a woman squealing can be heard. 
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24837
+D1
+~
+~
+1 1
+1 0 24834
+D3
+~
+~
+0 0
+0 0 24805
+S
+#24827
+Inside A Wagon~
+The lighting is dim inside this wagon, the heavy curtains over the two
+small windows having been left closed.  Dust covers most everything inside,
+a few cobwebs can be found in the corners as well.  Various instruments to
+juggle with have been left laying about the wagon, {Rc{Bo{Wl{Yo{Wr{Bf{Rul{x balls, hoops,
+even a few very sharp looking {Ds{Ww{wor{Wd{Ds{x.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 24831
+S
+#24828
+The Acrobats Wagon~
+Everything inside this wagon shows signs of a hurry.  The beds are
+unmade, and clothes are strewn all over the floor.  The air is thick with
+{Mp{me{Mrfu{mm{Me{x, bottles of makeup have been left open on the {Cv{Wa{Cnity{x.  One of the
+acrobats is apparantly running late as she is hurriedly pulling on her
+{rl{Reo{rt{Ra{rrd{x as she hops for the door.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 24813
+S
+#24829
+Inside An Old Wagon~
+The furniture inside the wagon is sparse.  On each side of the wagon is a
+small bed with a thin mattress.  Opposite the door is an old wood {Dst{wo{Dve{x, the
+metal cold from disuse.  Laid out on the beds are the performers outfits for
+their next performance.  
+~
+0
+D 0
+D2
+~
+~
+3 3
+1 0 24832
+S
+#24830
+Trail towards the River~
+A straight trail leads towards the {Cri{Bv{Cer{x, broad enough for a large wagon.
+The sound of a large crowd waves over from the north.  
+~
+0
+C 2
+S
+#24831
+Inside the Wagon Circle~
+A dozen wagons are centered around this trampled-down patch of the {Yf{Gi{Ye{Gl{Yd{x.
+Some carry cages of various sizes, others look like small houses on wheels. 
+{rF{Yi{Rr{Ye{rs{x have been set up before some of the housing wagons, the smell of {Dbu{yr{Dnt{x
+{ywood{x and {yr{roa{ys{rte{yd{x meat waving over from them.
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 24827
+D1
+~
+~
+0 0
+0 0 24813
+D2
+~
+~
+3 3
+1 0 24816
+D3
+~
+~
+0 0
+0 0 24814
+S
+#24832
+Wagon Circle~
+You are in the center if the circle of wagons.  One large {rf{Yi{Rr{re{x burns
+here, emitting {Rw{ra{Rr{rm{Rt{rh{x and {Yill{Wum{Rin{Wat{Yion{x.  People are hurrying along, busily
+going about their tasks.  
+~
+0
+0 2
+D0
+~
+~
+3 3
+1 0 24829
+D1
+~
+~
+3 3
+1 0 24819
+D2
+~
+~
+3 3
+1 0 24818
+D3
+~
+~
+0 0
+0 0 24813
+S
+#24833
+The Archery~
+A long narrow area has been set up here, marked off by ropes.  At one end
+stands a segment of wooden fence, two paces wide and two tall.  People line
+the ropes, small children crouching down in front of their parents to watch.
+Standing against the wood is a young woman, and across the narrow path,
+about 100 paces away, stands another, bow in hand, arrow nocked'.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24807
+D2
+~
+~
+0 0
+0 0 24837
+S
+#24834
+Inside a Food Tent~
+Serving maids hustle about busily behind a circular counter in the center
+of the tent.  A large {ywooden{x sign is hanging down above the counter, naming
+the various dishes and drinks sold and their prices.  A {Rf{Yi{rr{Re{x in a fireplace
+inside the counter serves both to warm the inside of the tent and to {rr{yo{ra{ys{rt{x
+meat.  
+~
+0
+0 0
+E
+sign~
+A large {ywooden{x sign is hanging above the counter, nailed to one post.  A
+sheet of paper is attached to it, naming the various dishes and drinks sold
+and their price.  
+ 
+- Roasted meat      2 sp
+- A loaf of bread   1 sp
+- Cheese            3 sp
+~
+D0
+~
+~
+0 0
+0 0 24822
+D3
+~
+~
+1 1
+1 0 24826
+S
+#24835
+A small bay~
+The {Cri{Bv{Cer{x takes a turn here, creating a little bay.  Fine {Ysand{x and high
+{Gtr{ye{Ges{x create a beachlike athmosphere.  
+~
+0
+0 2
+D1
+~
+~
+4096 4096
+0 0 24836
+D2
+~
+~
+0 0
+0 0 24821
+S
+#24836
+A hidden retreat~
+Overhanging {ytr{Ge{yes{x standing closely together form a well hidden little
+hideout.  Small {Yr{Ra{Yy{Rs{x of {Yli{Gg{Yht{x filter through the {Gle{gav{Ges{x above, bathing this
+place in a warming glow.  {GLe{gav{Ges{x piled up on the edge of the circular
+clearing serve as chairs or mattresses.  
+~
+0
+0 3
+D3
+~
+~
+4096 4096
+0 0 24835
+M 120 H 120
+S
+#24837
+Inside The Menagerie~
+The hard packed path leads the way through the Menagerie.  To the north a
+large crowd has gathered around an archer, and the sound of a woman
+squealing can be heard.  Back to the south the smell of fresh cooked food is
+in the air and the roar of a lion can be heard from time to time.  
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 24833
+D2
+~
+~
+0 0
+0 0 24826
+S
+#24838
+Jugglers Square~
+A crowd of onlookers stand in a circle, watching the men in the center. 
+Two men toss ribbon-twined hoops between them, moving the hoops over their
+heads, under their legs and around their backs before sending it back across
+to his partner.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24808
+D3
+~
+~
+0 0
+0 0 24824
+S
+#24839
+S'redit room~
+The path moves into an open area, long benches surround it on three sides.
+In the center of the area is a woman and three very large animals.  The
+woman seems to be directing the beasts into different attitudes, even having
+them stand on their front legs at times.  
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 24840
+S
+#24840
+Inside the Menagerie~
+The path leads from the entrance to the menagerie further in.  The smell
+of animals floats on the air and the sound of music can be heard to the
+north.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24808
+D2
+~
+~
+3 3
+1 0 24804
+D3
+~
+~
+0 0
+0 0 24839
+S
+#24841
+Before The Lion's Cage~
+People crowd around the outside of the lion's cage, gazing in at the
+creature inside.  The lion paces back and forth in his cage, letting out low
+growls and swishing his tail.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24842
+D2
+~
+~
+0 0
+0 0 24843
+D3
+~
+~
+0 0
+0 0 24808
+S
+#24842
+Before A Platform~
+A large platform has been set up here, upon it several men and women are
+busy placing their bodies into strange and almost impossible positions.  One
+man is standing on his head, his legs bent over his back so that he appears
+to be sitting on his own head.  
+~
+0
+0 2
+D3
+~
+~
+0 0
+0 0 24841
+S
+#24843
+Before the Strong Man~
+Large iron bars with even larger metal balls on the ends lay in a neat
+row.  Standing before the iron bars is the largest man you've likely ever
+seen.  As the crowd looks on the man leans over and easily picks up the
+largest of the dumbbells and lifts it into the sky above his head.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24841
+S
+#24844
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24845
+D3
+~
+~
+0 0
+0 0 24804
+S
+#24845
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D1
+~
+~
+0 0
+0 0 24846
+D3
+~
+~
+0 0
+0 0 24844
+S
+#24846
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24847
+D3
+~
+~
+0 0
+0 0 24845
+S
+#24847
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24848
+D2
+~
+~
+0 0
+0 0 24846
+S
+#24848
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24814
+D2
+~
+~
+0 0
+0 0 24847
+S
+#24849
+Pathway To The Wagons~
+Numerous feet walking along this dirt path have kicked {yd{Yu{yst{x into the air
+and packed down the hard dirt beneath.  The sound of a large crowd of people
+floats on the air, as does the strong smell of animals.  
+~
+0
+0 2
+D0
+~
+~
+0 0
+0 0 24850
+D2
+~
+~
+0 0
+0 0 24814
+S
+#24850
+A Makeshift Horse Stable~
+This area has been set up for the {yh{Wo{yrs{We{ys{x that pull the wagons and help in
+other manners for the Menagerie.  A long rope has been tied to stakes in the
+ground, roping off a large open area for the horses to move around in. 
+Horse handlers move about, busily seeing to the duties that caring for
+horses entail.  
+~
+0
+0 2
+D2
+~
+~
+0 0
+0 0 24849
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 24804 0 1
+D 0 24813 0 1
+D 0 24813 2 1
+D 0 24816 0 1
+D 0 24817 0 1
+D 0 24818 0 1
+D 0 24819 3 1
+D 0 24827 2 1
+D 0 24828 2 1
+D 0 24829 2 1
+D 0 24831 0 1
+D 0 24831 2 1
+D 0 24832 0 1
+D 0 24832 1 1
+D 0 24832 2 1
+D 0 24840 2 1
+M 0 24800 5 24804 2
+E 0 24836 0 20
+O 0 24800 0 24804
+P 0 24802 1 24800 1
+M 0 24842 3 24805 3
+M 0 24843 3 24805 3
+M 0 24814 1 24805 1
+M 0 24828 4 24806 4
+M 0 24836 3 24806 3
+M 0 24837 3 24806 3
+M 0 24838 3 24806 3
+M 0 24810 2 24807 2
+M 0 24811 1 24807 1
+M 0 24812 1 24807 1
+M 0 24821 1 24807 1
+M 0 24801 3 24808 2
+M 0 24802 3 24808 1
+M 0 24826 3 24809 3
+M 0 24825 3 24810 3
+M 0 24847 3 24810 3
+M 0 24817 1 24810 1
+O 0 24822 0 24810
+M 0 24827 3 24811 3
+M 0 24830 3 24812 3
+M 0 24845 3 24812 3
+M 0 24846 3 24812 3
+M 0 24805 2 24813 2
+O 0 24811 0 24813
+O 0 24810 0 24813
+M 0 24805 3 24814 1
+M 0 24831 5 24815 5
+M 0 24844 3 24815 3
+M 0 24848 3 24815 3
+O 0 24820 0 24815
+P 0 24821 5 24820 5
+O 0 24804 0 24816
+P 0 24806 1 24804 1
+M 0 24849 1 24818 1
+M 0 24822 1 24819 1
+O 0 24810 0 24823
+O 0 24811 0 24823
+M 0 24805 1 24823 1
+M 0 24824 1 24824 1
+E 0 24816 0 7
+M 0 24807 3 24827 1
+M 0 24850 1 24828 1
+O 0 24826 0 24829
+P 0 24832 1 24826 1
+P 0 24827 500 24832 1
+P 0 24829 1 24832 1
+P 0 24830 1 24832 1
+P 0 24831 1 24832 1
+M 0 24860 6 24831 2
+M 0 24860 6 24831 2
+M 0 24804 1 24833 1
+E 0 24823 0 20
+E 0 24824 0 20
+M 0 24823 1 24833 1
+E 0 24825 0 7
+M 0 24808 1 24834 1
+G 0 24812 0
+G 0 24813 0
+G 0 24814 0
+M 0 24809 1 24836 1
+M 0 24851 1 24837 1
+M 0 24803 1 24838 1
+M 0 24816 1 24838 1
+M 0 24829 1 24839 1
+M 0 24839 1 24839 1
+M 0 24840 1 24839 1
+M 0 24813 1 24839 1
+E 0 24815 0 20
+M 0 24806 1 24840 1
+E 0 24806 0 7
+E 0 24805 0 19
+M 0 24820 1 24840 1
+M 0 24835 3 24840 3
+M 0 24832 1 24841 1
+M 0 24818 3 24842 3
+M 0 24841 3 24842 3
+M 0 24819 1 24843 1
+E 0 24819 0 20
+M 0 24860 6 24846 2
+M 0 24860 6 24846 2
+M 0 24860 6 24848 2
+M 0 24860 6 24848 2
+M 0 24815 3 24850 3
+E 0 24801 0 19
+S
+
+
+
+#SHOPS
+24808 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#HELPS
+92 COLORCLOAK~
+With this command, you wrap yourself in a fancloth cape and blend into
+the surroundings.  
+
+This command is for Warders only, and requires that you be using a fancloth
+cloak.  
+~
+
+-1 $~
+
+#$

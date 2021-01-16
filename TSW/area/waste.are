@@ -1,0 +1,14506 @@
+#AREADATA
+Name Aiel Waste~
+Builders None~
+VNUMs 25000 25599
+Credits all}  Kendaile   Aiel Waste~
+Security 2
+Low 0
+High 0
+Flags 0
+Version 2
+End
+
+
+
+#MOBILES
+#25000
+vulture sentry~
+The vulture~
+A huge vulture stares hard at you for interupting it's meal
+~
+Sitting upon a boulder, the vulture stares hard at you.  It's gaze sends
+chills down the spines of most travellers.  This huge {Dcarrion{x does not
+seem happy to see you, and squawks loudly at your approach.  You can smell
+the horrid stench of death even at this distance..  This is not a bird to be
+trifled with.  
+~
+unique~
+ABG JTV -500 0
+50 20 50d10+1000 50d16+100 10d6+19 bite
+0 0 0 0 0
+0
+-20 -20 -20 -17
+CFHOU BJ AC 0
+stand sit none 1
+GW ACDPU medium 'flesh'
+#25038
+no name~
+(no short description)~
+(no long description)
+~
+~
+unique~
+A 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0 0
+0
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium 'unknown'
+#0
+
+
+
+#OBJECTS
+#25000
+can whoop arse brand~
+{WK{Me{Bn{Cd{Ga{Yi{Rl{Ye {wbrand {WC{wa{Wn{c'O'{RW{mh{Ro{mo{Rp{Y-{rA{yrs{re{x tm~
+An odd can with a severed edge lies here in the dirt, waiting to be opened.~
+unknown alloys of alien origion~
+weapon ABCFGHIMPYZ AN
+exotic 10000 1000000 'thwack' ABCDEGH
+94 1 1000000 100
+A
+13 30000
+A
+18 100
+A
+19 100
+A
+12 5000
+A
+17 -2000
+#25001
+OU sooner cap ballcap~
+{wAn {RO{WU {RSooners{w ball-cap.  Go Oklahoma!{w~
+A dusty ball cap with strange, circular script set in {rcrimson{x and {Wcream{x.~
+Cloth~
+armor ABCGHUY AE
+10000 10000 10000 10000 0
+95 2 1000000000 100
+A
+18 100
+A
+19 100
+#25002
+everlasting keg mead~
+An {ceverlasting{x keg of {w/!{WK{Me{Cn{Bd{Ga{Yi{Rl{Ye{w!\{x's best {ymead{x.~
+An {ceverlasting {xkeg of {w/!{WK{Me{Cn{Bd{Ga{Yi{Rl{Ye{w!\{x's best {ymead{x.~
+cork wood~
+drink BCGP A
+100000000 100000000 'mead' 0 0
+95 1000 1000000000 100
+#25003
+fountain cascade liquid~
+A huge, multi-tiered fountain~
+A huge, multi-tiered fountain with cascading, golden liquid stands before you in all it's splendor~
+granite~
+fountain O P
+1000000 1000000 'whisky' 0 0
+95 1000 1000000 100
+#25032
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#25091
+no name~
+(no short description)~
+(no description)~
+(null)~
+trash 0 0
+0 0 0 0 0
+0 0 0 100
+#0
+
+
+
+#ROOMS
+#25000
+The Base of the Mountains~
+The sun seems as though it is getting hotter by the minute!  You
+see all around you signs that you are about to enter a desert, with
+desolation all around.  Large, grey boulders litter the ground, and
+atop one perches a black, menacing-looking vulture.  It seems to say
+silently, "Go back.  Death awaits past here."  Perhaps there is truth
+in that thought, for from the stories, few who have entered the waste
+have even returned with their lives, save merchants and gleemen.
+ 
+~
+0
+C 5
+D1
+~
+~
+0 0
+0 0 25001
+M 75 H 75
+S
+#25001
+Foothills of the Spine~
+~
+0
+0 5
+D2
+~
+~
+0 0
+0 0 25002
+D3
+~
+~
+0 0
+0 0 25000
+M 80 H 80
+S
+#25002
+Near the Aiel Waste~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25001
+D1
+~
+~
+0 0
+0 0 25017
+S
+#25003
+A 1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25035
+D2
+~
+~
+0 0
+0 0 25004
+M 75 H 75
+S
+#25004
+A 2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25003
+D1
+~
+~
+0 0
+0 0 25036
+M 75 H 75
+S
+#25005
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D1
+~
+~
+0 0
+0 0 25037
+D2
+~
+~
+0 0
+0 0 25006
+M 80 H 80
+S
+#25006
+A 4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25005
+D1
+~
+~
+0 0
+0 0 25038
+D2
+~
+~
+0 0
+0 0 25007
+D3
+~
+~
+0 0
+0 0 25516
+M 75 H 75
+S
+#25007
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 25006
+D1
+~
+~
+0 0
+0 0 25039
+M 80 H 80
+S
+#25008
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D1
+~
+~
+0 0
+0 0 25040
+D2
+~
+~
+0 0
+0 0 25009
+M 80 H 80
+S
+#25009
+A 7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25008
+D1
+~
+~
+0 0
+0 0 25041
+D2
+~
+~
+0 0
+0 0 25010
+M 75 H 75
+S
+#25010
+A 8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25009
+D1
+~
+~
+0 0
+0 0 25042
+D2
+~
+~
+0 0
+0 0 25011
+M 75 H 75
+S
+#25011
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 25010
+D1
+~
+~
+0 0
+0 0 25043
+D2
+~
+~
+0 0
+0 0 25012
+M 80 H 80
+S
+#25012
+A 10~
+~
+0
+0 10
+D0
+~
+~
+0 0
+0 0 25011
+D1
+~
+~
+0 0
+0 0 25044
+D2
+~
+~
+0 0
+0 0 25013
+M 75 H 75
+O none~
+S
+#25013
+A 11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25012
+D1
+~
+~
+0 0
+0 0 25045
+D2
+~
+~
+0 0
+0 0 25014
+M 75 H 75
+S
+#25014
+A 12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25013
+D1
+~
+~
+0 0
+0 0 25046
+M 75 H 75
+S
+#25015
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D1
+~
+~
+0 0
+0 0 25047
+D2
+~
+~
+0 0
+0 0 25016
+M 80 H 80
+S
+#25016
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 25015
+D1
+~
+~
+0 0
+0 0 25048
+D2
+~
+~
+0 0
+0 0 25017
+M 80 H 80
+S
+#25017
+A 15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25016
+D1
+~
+~
+0 0
+0 0 25049
+D2
+~
+~
+0 0
+0 0 25018
+D3
+~
+~
+0 0
+0 0 25002
+M 75 H 75
+S
+#25018
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25017
+D1
+~
+~
+0 0
+0 0 25050
+D2
+~
+~
+0 0
+0 0 25019
+M 75 H 75
+S
+#25019
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 25018
+D1
+~
+~
+0 0
+0 0 25051
+D2
+~
+~
+0 0
+0 0 25020
+M 80 H 80
+S
+#25020
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 25019
+D1
+~
+~
+0 0
+0 0 25052
+M 80 H 80
+S
+#25021
+A 19~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25053
+D2
+~
+~
+0 0
+0 0 25022
+M 75 H 75
+S
+#25022
+A 20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25021
+D1
+~
+~
+0 0
+0 0 25054
+D2
+~
+~
+0 0
+0 0 25023
+M 75 H 75
+S
+#25023
+A 21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25022
+D1
+~
+~
+0 0
+0 0 25055
+D2
+~
+~
+0 0
+0 0 25024
+M 75 H 75
+S
+#25024
+A 22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25023
+D1
+~
+~
+0 0
+0 0 25056
+D2
+~
+~
+0 0
+0 0 25025
+M 75 H 75
+S
+#25025
+A 23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25024
+D1
+~
+~
+0 0
+0 0 25057
+D2
+~
+~
+0 0
+0 0 25026
+M 75 H 75
+S
+#25026
+A 24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25025
+D1
+~
+~
+0 0
+0 0 25058
+D2
+~
+~
+0 0
+0 0 25027
+M 75 H 75
+S
+#25027
+A 25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25026
+D1
+~
+~
+0 0
+0 0 25059
+D2
+~
+~
+0 0
+0 0 25028
+M 75 H 75
+S
+#25028
+A 26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25027
+D1
+~
+~
+0 0
+0 0 25060
+D2
+~
+~
+0 0
+0 0 25029
+M 75 H 75
+S
+#25029
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+Impassable mountains are to the west of here.
+To the east, a spire points skyward from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25028
+D1
+~
+~
+0 0
+0 0 25061
+D2
+~
+~
+0 0
+0 0 25030
+M 75 H 75
+S
+#25030
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+Impassable mountains are to the west of here.
+East of here, a small encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25029
+D1
+~
+~
+0 0
+0 0 25062
+D2
+~
+~
+0 0
+0 0 25031
+M 75 H 75
+S
+#25031
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25030
+D1
+~
+~
+0 0
+0 0 25063
+D2
+~
+~
+0 0
+0 0 25032
+D3
+~
+~
+0 0
+0 0 25519
+M 75 H 75
+S
+#25032
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+Impassable mountains are to the west of here.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25031
+D1
+~
+~
+0 0
+0 0 25064
+D2
+~
+~
+0 0
+0 0 25033
+M 75 H 75
+S
+#25033
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+Impassable mountains are to the west of here.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25032
+D1
+~
+~
+0 0
+0 0 25065
+D2
+~
+~
+0 0
+0 0 25034
+M 75 H 75
+S
+#25034
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+Impassable mountains are to the west of here.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25033
+D1
+~
+~
+0 0
+0 0 25066
+M 75 H 75
+S
+#25035
+B 1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25067
+D2
+~
+~
+0 0
+0 0 25036
+D3
+~
+~
+0 0
+0 0 25003
+M 75 H 75
+S
+#25036
+B 2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25035
+D1
+~
+~
+0 0
+0 0 25068
+D2
+~
+~
+0 0
+0 0 25037
+D3
+~
+~
+0 0
+0 0 25004
+M 75 H 75
+S
+#25037
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25036
+D1
+~
+~
+0 0
+0 0 25069
+D2
+~
+~
+0 0
+0 0 25038
+D3
+~
+~
+0 0
+0 0 25005
+M 75 H 75
+S
+#25038
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25037
+D1
+~
+~
+0 0
+0 0 25070
+D2
+~
+~
+0 0
+0 0 25039
+D3
+~
+~
+0 0
+0 0 25006
+M 75 H 75
+S
+#25039
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25038
+D1
+~
+~
+0 0
+0 0 25071
+D2
+~
+~
+0 0
+0 0 25040
+D3
+~
+~
+0 0
+0 0 25007
+M 75 H 75
+S
+#25040
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25039
+D1
+~
+~
+0 0
+0 0 25072
+D2
+~
+~
+0 0
+0 0 25041
+D3
+~
+~
+0 0
+0 0 25008
+M 75 H 75
+S
+#25041
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25040
+D1
+~
+~
+0 0
+0 0 25073
+D2
+~
+~
+0 0
+0 0 25042
+D3
+~
+~
+0 0
+0 0 25009
+M 75 H 75
+S
+#25042
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25041
+D1
+~
+~
+0 0
+0 0 25074
+D2
+~
+~
+0 0
+0 0 25043
+D3
+~
+~
+0 0
+0 0 25010
+M 75 H 75
+S
+#25043
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25042
+D1
+~
+~
+0 0
+0 0 25075
+D2
+~
+~
+0 0
+0 0 25044
+D3
+~
+~
+0 0
+0 0 25011
+M 75 H 75
+S
+#25044
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25043
+D1
+~
+~
+0 0
+0 0 25076
+D2
+~
+~
+0 0
+0 0 25045
+D3
+~
+~
+0 0
+0 0 25012
+M 75 H 75
+S
+#25045
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25044
+D1
+~
+~
+0 0
+0 0 25077
+D2
+~
+~
+0 0
+0 0 25046
+D3
+~
+~
+0 0
+0 0 25013
+M 75 H 75
+S
+#25046
+B 12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25045
+D1
+~
+~
+0 0
+0 0 25078
+D2
+~
+~
+0 0
+0 0 25047
+D3
+~
+~
+0 0
+0 0 25014
+M 75 H 75
+S
+#25047
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25046
+D1
+~
+~
+0 0
+0 0 25079
+D3
+~
+~
+0 0
+0 0 25015
+M 75 H 75
+S
+#25048
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D1
+~
+~
+0 0
+0 0 25080
+D2
+~
+~
+0 0
+0 0 25049
+D3
+~
+~
+0 0
+0 0 25016
+M 80 H 80
+S
+#25049
+B 15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25048
+D1
+~
+~
+0 0
+0 0 25081
+D2
+~
+~
+0 0
+0 0 25050
+D3
+~
+~
+0 0
+0 0 25017
+M 75 H 75
+S
+#25050
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening;the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25049
+D1
+~
+~
+0 0
+0 0 25082
+D2
+~
+~
+0 0
+0 0 25051
+D3
+~
+~
+0 0
+0 0 25018
+M 75 H 75
+S
+#25051
+{wThe {WC{wragg{Wy{w Mountains of the Spine of the World{x~
+Grey rocks and boulders peek out amidst the drying field of hard, {wg{Pr{we{Py{x
+and {yye{Pll{yow{x clay ground that has probably not seen rain since the {Pbreaking{x 
+itself, or at least in the last few hundred years.  Upon descending lower 
+from the heights, you notice that not only is the weather warming, but 
+down right {Yhot{x.  There is a small  consolidation from the upper reaches 
+of the mountains, for a quaint, {cc{Bo{Woli{Bn{cg{x breeze whispers gentle comforts 
+to baking skin.  High ahead, you  notice a group of circling {Pca{wr{Pr{wi{Pon{x birds, 
+presumably over the source of the  stench that is beginning to be detectable.  
+Apparently, something died nearby recently.  Toward the west, the jagged 
+peaks of the Spine of the World loom, with the occasional {Wcl{wo{Wud{x drifting 
+in the heights, while to the east, the waste unfolds in all of it's shimmering, 
+deadly glory.
+~
+0
+C 5
+D0
+~
+~
+0 0
+0 0 25050
+D1
+~
+~
+0 0
+0 0 25083
+D3
+~
+~
+0 0
+0 0 25019
+M 80 H 80
+S
+#25052
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+Impassable mountains are to the north of here.
+~
+0
+C 10
+D1
+~
+~
+0 0
+0 0 25084
+D2
+~
+~
+0 0
+0 0 25053
+D3
+~
+~
+0 0
+0 0 25020
+M 75 H 75
+S
+#25053
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25052
+D1
+~
+~
+0 0
+0 0 25085
+D2
+~
+~
+0 0
+0 0 25054
+D3
+~
+~
+0 0
+0 0 25021
+M 75 H 75
+S
+#25054
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25053
+D1
+~
+~
+0 0
+0 0 25086
+D2
+~
+~
+0 0
+0 0 25055
+D3
+~
+~
+0 0
+0 0 25022
+M 75 H 75
+S
+#25055
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25054
+D1
+~
+~
+0 0
+0 0 25087
+D2
+~
+~
+0 0
+0 0 25056
+D3
+~
+~
+0 0
+0 0 25023
+M 75 H 75
+S
+#25056
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25055
+D1
+~
+~
+0 0
+0 0 25088
+D2
+~
+~
+0 0
+0 0 25057
+D3
+~
+~
+0 0
+0 0 25024
+M 75 H 75
+S
+#25057
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25056
+D1
+~
+~
+0 0
+0 0 25089
+D2
+~
+~
+0 0
+0 0 25058
+D3
+~
+~
+0 0
+0 0 25025
+M 75 H 75
+S
+#25058
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25057
+D1
+~
+~
+0 0
+0 0 25090
+D2
+~
+~
+0 0
+0 0 25059
+D3
+~
+~
+0 0
+0 0 25026
+M 75 H 75
+S
+#25059
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25058
+D1
+~
+~
+0 0
+0 0 25091
+D2
+~
+~
+0 0
+0 0 25060
+D3
+~
+~
+0 0
+0 0 25027
+M 75 H 75
+S
+#25060
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+To the south, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25059
+D1
+~
+~
+0 0
+0 0 25092
+D2
+~
+~
+0 0
+0 0 25061
+D3
+~
+~
+0 0
+0 0 25028
+M 75 H 75
+S
+#25061
+B 27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25060
+D1
+~
+~
+0 0
+0 0 25093
+D2
+~
+~
+0 0
+0 0 25062
+D3
+~
+~
+0 0
+0 0 25029
+M 75 H 75
+S
+#25062
+B 28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25061
+D1
+~
+~
+0 0
+0 0 25094
+D2
+~
+~
+0 0
+0 0 25063
+D3
+~
+~
+0 0
+0 0 25030
+M 75 H 75
+S
+#25063
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+To the north, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25062
+D1
+~
+~
+0 0
+0 0 25095
+D2
+~
+~
+0 0
+0 0 25064
+D3
+~
+~
+0 0
+0 0 25031
+M 75 H 75
+S
+#25064
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25063
+D1
+~
+~
+0 0
+0 0 25096
+D2
+~
+~
+0 0
+0 0 25065
+D3
+~
+~
+0 0
+0 0 25032
+M 75 H 75
+S
+#25065
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25064
+D1
+~
+~
+0 0
+0 0 25097
+D2
+~
+~
+0 0
+0 0 25066
+D3
+~
+~
+0 0
+0 0 25033
+M 75 H 75
+S
+#25066
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25065
+D1
+~
+~
+0 0
+0 0 25098
+D3
+~
+~
+0 0
+0 0 25034
+M 75 H 75
+S
+#25067
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D2
+~
+~
+0 0
+0 0 25068
+D3
+~
+~
+0 0
+0 0 25035
+M 75 H 75
+S
+#25068
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25067
+D2
+~
+~
+0 0
+0 0 25069
+D3
+~
+~
+0 0
+0 0 25036
+M 75 H 75
+S
+#25069
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25068
+D2
+~
+~
+0 0
+0 0 25070
+D3
+~
+~
+0 0
+0 0 25037
+M 75 H 75
+S
+#25070
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25069
+D1
+~
+~
+0 0
+0 0 25102
+D2
+~
+~
+0 0
+0 0 25071
+D3
+~
+~
+0 0
+0 0 25038
+M 75 H 75
+S
+#25071
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25070
+D1
+~
+~
+0 0
+0 0 25103
+D2
+~
+~
+0 0
+0 0 25072
+D3
+~
+~
+0 0
+0 0 25039
+M 75 H 75
+S
+#25072
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25071
+D1
+~
+~
+0 0
+0 0 25104
+D2
+~
+~
+0 0
+0 0 25073
+D3
+~
+~
+0 0
+0 0 25040
+M 75 H 75
+S
+#25073
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25072
+D1
+~
+~
+0 0
+0 0 25105
+D2
+~
+~
+0 0
+0 0 25074
+D3
+~
+~
+0 0
+0 0 25041
+M 75 H 75
+S
+#25074
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25073
+D1
+~
+~
+0 0
+0 0 25106
+D2
+~
+~
+0 0
+0 0 25075
+D3
+~
+~
+0 0
+0 0 25042
+M 75 H 75
+S
+#25075
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25074
+D1
+~
+~
+0 0
+0 0 25107
+D2
+~
+~
+0 0
+0 0 25076
+D3
+~
+~
+0 0
+0 0 25043
+M 75 H 75
+S
+#25076
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25075
+D1
+~
+~
+0 0
+0 0 25108
+D2
+~
+~
+0 0
+0 0 25077
+D3
+~
+~
+0 0
+0 0 25044
+M 75 H 75
+S
+#25077
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25076
+D1
+~
+~
+0 0
+0 0 25109
+D2
+~
+~
+0 0
+0 0 25078
+D3
+~
+~
+0 0
+0 0 25045
+M 75 H 75
+S
+#25078
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25077
+D1
+~
+~
+0 0
+0 0 25110
+D2
+~
+~
+0 0
+0 0 25079
+D3
+~
+~
+0 0
+0 0 25046
+M 75 H 75
+S
+#25079
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25078
+D1
+~
+~
+0 0
+0 0 25111
+D2
+~
+~
+0 0
+0 0 25080
+D3
+~
+~
+0 0
+0 0 25047
+M 75 H 75
+S
+#25080
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further
+hardening the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems
+to singe everything that is not already burnt.  A hot, {ygritty{x wind does 
+nothing to abase the heat, stinging any exposed skin and further adding
+to the miserable {Rheat{x.  All  around, some sort of lingering smell of a 
+past horror lingers, brought by the hot, western wind. Hardly a {Cco{Bo{Wl{Bi{Cng{x
+drop of {Bwater{x has fallen here since the {Dbreaking{x of the world in this
+hardened land.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25079
+D1
+~
+~
+0 0
+0 0 25112
+D2
+~
+~
+0 0
+0 0 25081
+D3
+~
+~
+0 0
+0 0 25048
+M 75 H 75
+S
+#25081
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further
+hardening the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems
+to singe everything that is not already burnt.  A hot, {ygritty{x wind does 
+nothing to abase the heat, stinging any exposed skin and further adding
+to the miserable {Rheat{x.  All  around, some sort of lingering smell of a 
+past horror lingers, brought by the hot, western wind. Hardly a {Cco{Bo{Wl{Bi{Cng{x
+drop of {Bwater{x has fallen here since the {Dbreaking{x of the world in this
+hardened land.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25080
+D1
+~
+~
+0 0
+0 0 25113
+D2
+~
+~
+0 0
+0 0 25082
+D3
+~
+~
+0 0
+0 0 25049
+M 75 H 75
+S
+#25082
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25081
+D1
+~
+~
+0 0
+0 0 25114
+D2
+~
+~
+0 0
+0 0 25083
+D3
+~
+~
+0 0
+0 0 25050
+M 75 H 75
+S
+#25083
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+  To the east, a small encampment of pitched tents can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25082
+D1
+~
+~
+0 0
+0 0 25115
+D2
+~
+~
+0 0
+0 0 25084
+D3
+~
+~
+0 0
+0 0 25051
+M 75 H 75
+S
+#25084
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+  To the east, a small encampment of tents can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25083
+D1
+~
+~
+0 0
+0 0 25116
+D2
+~
+~
+0 0
+0 0 25085
+D3
+~
+~
+0 0
+0 0 25052
+M 75 H 75
+S
+#25085
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25084
+D1
+~
+~
+0 0
+0 0 25117
+D2
+~
+~
+0 0
+0 0 25086
+D3
+~
+~
+0 0
+0 0 25053
+M 75 H 75
+S
+#25086
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25085
+D1
+~
+~
+0 0
+0 0 25118
+D2
+~
+~
+0 0
+0 0 25087
+D3
+~
+~
+0 0
+0 0 25054
+M 75 H 75
+S
+#25087
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25086
+D1
+~
+~
+0 0
+0 0 25119
+D2
+~
+~
+0 0
+0 0 25088
+D3
+~
+~
+0 0
+0 0 25055
+M 75 H 75
+S
+#25088
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25087
+D1
+~
+~
+0 0
+0 0 25120
+D2
+~
+~
+0 0
+0 0 25089
+D3
+~
+~
+0 0
+0 0 25056
+M 75 H 75
+S
+#25089
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+  To the east, a tall spire points upward from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25088
+D1
+~
+~
+0 0
+0 0 25121
+D2
+~
+~
+0 0
+0 0 25090
+D3
+~
+~
+0 0
+0 0 25057
+M 75 H 75
+S
+#25090
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25089
+D1
+~
+~
+0 0
+0 0 25122
+D2
+~
+~
+0 0
+0 0 25091
+D3
+~
+~
+0 0
+0 0 25058
+M 75 H 75
+S
+#25091
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25090
+D1
+~
+~
+0 0
+0 0 25123
+D2
+~
+~
+0 0
+0 0 25092
+D3
+~
+~
+0 0
+0 0 25059
+M 75 H 75
+S
+#25092
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+To the west, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25091
+D1
+~
+~
+0 0
+0 0 25124
+D2
+~
+~
+0 0
+0 0 25093
+D3
+~
+~
+0 0
+0 0 25060
+M 75 H 75
+S
+#25093
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+To the west, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25092
+D1
+~
+~
+0 0
+0 0 25125
+D2
+~
+~
+0 0
+0 0 25094
+D3
+~
+~
+0 0
+0 0 25061
+M 75 H 75
+S
+#25094
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+To the east, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25093
+D1
+~
+~
+0 0
+0 0 25126
+D2
+~
+~
+0 0
+0 0 25095
+D3
+~
+~
+0 0
+0 0 25062
+M 75 H 75
+S
+#25095
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25094
+D1
+~
+~
+0 0
+0 0 25127
+D2
+~
+~
+0 0
+0 0 25096
+D3
+~
+~
+0 0
+0 0 25063
+M 75 H 75
+S
+#25096
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25095
+D1
+~
+~
+0 0
+0 0 25128
+D2
+~
+~
+0 0
+0 0 25097
+D3
+~
+~
+0 0
+0 0 25064
+M 75 H 75
+S
+#25097
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25096
+D1
+~
+~
+0 0
+0 0 25129
+D2
+~
+~
+0 0
+0 0 25098
+D3
+~
+~
+0 0
+0 0 25065
+M 75 H 75
+S
+#25098
+{wThe {yAiel {PWa{ys{Pte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Pbreaking{x of the world, and in this
+hardened land, even a {yd{Pi{yr{Pt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25097
+D1
+~
+~
+0 0
+0 0 25130
+D3
+~
+~
+0 0
+0 0 25066
+M 75 H 75
+S
+#25099
+D 1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25131
+D2
+~
+~
+0 0
+0 0 25100
+M 75 H 75
+S
+#25100
+room D 2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25099
+D1
+~
+~
+0 0
+0 0 25132
+D2
+~
+~
+0 0
+0 0 25101
+M 75 H 75
+S
+#25101
+room D3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25100
+D1
+~
+~
+0 0
+0 0 25133
+M 75 H 75
+S
+#25102
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, an encampment can be seen.
+To the east, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D1
+~
+~
+0 0
+0 0 25134
+D2
+~
+~
+0 0
+0 0 25103
+D3
+~
+~
+0 0
+0 0 25070
+M 75 H 75
+S
+#25103
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25102
+D1
+~
+~
+0 0
+0 0 25135
+D2
+~
+~
+0 0
+0 0 25104
+D3
+~
+~
+0 0
+0 0 25071
+M 75 H 75
+S
+#25104
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25103
+D1
+~
+~
+0 0
+0 0 25136
+D2
+~
+~
+0 0
+0 0 25105
+D3
+~
+~
+0 0
+0 0 25072
+M 75 H 75
+S
+#25105
+room D7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25104
+D1
+~
+~
+0 0
+0 0 25137
+D2
+~
+~
+0 0
+0 0 25106
+D3
+~
+~
+0 0
+0 0 25073
+M 75 H 75
+S
+#25106
+room D8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25105
+D1
+~
+~
+0 0
+0 0 25138
+D2
+~
+~
+0 0
+0 0 25107
+D3
+~
+~
+0 0
+0 0 25074
+M 75 H 75
+S
+#25107
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the east, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25106
+D1
+~
+~
+0 0
+0 0 25139
+D2
+~
+~
+0 0
+0 0 25108
+D3
+~
+~
+0 0
+0 0 25075
+M 75 H 75
+S
+#25108
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25107
+D1
+~
+~
+0 0
+0 0 25140
+D2
+~
+~
+0 0
+0 0 25109
+D3
+~
+~
+0 0
+0 0 25076
+M 75 H 75
+S
+#25109
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25108
+D1
+~
+~
+0 0
+0 0 25141
+D2
+~
+~
+0 0
+0 0 25110
+D3
+~
+~
+0 0
+0 0 25077
+M 75 H 75
+S
+#25110
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25109
+D1
+~
+~
+0 0
+0 0 25142
+D2
+~
+~
+0 0
+0 0 25111
+D3
+~
+~
+0 0
+0 0 25078
+M 75 H 75
+S
+#25111
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25110
+D1
+~
+~
+0 0
+0 0 25143
+D2
+~
+~
+0 0
+0 0 25112
+D3
+~
+~
+0 0
+0 0 25079
+M 75 H 75
+S
+#25112
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25111
+D1
+~
+~
+0 0
+0 0 25144
+D2
+~
+~
+0 0
+0 0 25113
+D3
+~
+~
+0 0
+0 0 25080
+M 75 H 75
+S
+#25113
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+A faint trail can be detected running east-west here.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25112
+D1
+~
+~
+0 0
+0 0 25145
+D2
+~
+~
+0 0
+0 0 25114
+D3
+~
+~
+0 0
+0 0 25081
+M 75 H 75
+S
+#25114
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the south, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25113
+D1
+~
+~
+0 0
+0 0 25146
+D2
+~
+~
+0 0
+0 0 25115
+D3
+~
+~
+0 0
+0 0 25082
+M 75 H 75
+S
+#25115
+room D17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25114
+D1
+~
+~
+0 0
+0 0 25147
+D2
+~
+~
+0 0
+0 0 25116
+D3
+~
+~
+0 0
+0 0 25083
+M 75 H 75
+S
+#25116
+room D18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25115
+D1
+~
+~
+0 0
+0 0 25148
+D2
+~
+~
+0 0
+0 0 25117
+D3
+~
+~
+0 0
+0 0 25084
+M 75 H 75
+S
+#25117
+room D19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25116
+D1
+~
+~
+0 0
+0 0 25149
+D2
+~
+~
+0 0
+0 0 25118
+D3
+~
+~
+0 0
+0 0 25085
+M 75 H 75
+S
+#25118
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25117
+D1
+~
+~
+0 0
+0 0 25150
+D2
+~
+~
+0 0
+0 0 25119
+D3
+~
+~
+0 0
+0 0 25086
+M 75 H 75
+S
+#25119
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25118
+D1
+~
+~
+0 0
+0 0 25151
+D2
+~
+~
+0 0
+0 0 25120
+D3
+~
+~
+0 0
+0 0 25087
+M 75 H 75
+S
+#25120
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the south, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25119
+D1
+~
+~
+0 0
+0 0 25152
+D2
+~
+~
+0 0
+0 0 25121
+D3
+~
+~
+0 0
+0 0 25088
+M 75 H 75
+S
+#25121
+room D23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25120
+D1
+~
+~
+0 0
+0 0 25153
+D2
+~
+~
+0 0
+0 0 25122
+D3
+~
+~
+0 0
+0 0 25089
+M 75 H 75
+S
+#25122
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25121
+D1
+~
+~
+0 0
+0 0 25154
+D2
+~
+~
+0 0
+0 0 25123
+D3
+~
+~
+0 0
+0 0 25090
+M 75 H 75
+S
+#25123
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the east.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25122
+D1
+~
+~
+0 0
+0 0 25155
+D2
+~
+~
+0 0
+0 0 25124
+D3
+~
+~
+0 0
+0 0 25091
+M 75 H 75
+S
+#25124
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25123
+D1
+~
+~
+0 0
+0 0 25156
+D2
+~
+~
+0 0
+0 0 25125
+D3
+~
+~
+0 0
+0 0 25092
+M 75 H 75
+S
+#25125
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25124
+D1
+~
+~
+0 0
+0 0 25157
+D2
+~
+~
+0 0
+0 0 25126
+D3
+~
+~
+0 0
+0 0 25093
+M 75 H 75
+S
+#25126
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the south, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25125
+D1
+~
+~
+0 0
+0 0 25158
+D2
+~
+~
+0 0
+0 0 25127
+D3
+~
+~
+0 0
+0 0 25094
+M 75 H 75
+S
+#25127
+room D29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25126
+D1
+~
+~
+0 0
+0 0 25159
+D2
+~
+~
+0 0
+0 0 25128
+D3
+~
+~
+0 0
+0 0 25095
+M 75 H 75
+S
+#25128
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25127
+D1
+~
+~
+0 0
+0 0 25160
+D2
+~
+~
+0 0
+0 0 25129
+D3
+~
+~
+0 0
+0 0 25096
+M 75 H 75
+S
+#25129
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25128
+D1
+~
+~
+0 0
+0 0 25161
+D2
+~
+~
+0 0
+0 0 25130
+D3
+~
+~
+0 0
+0 0 25097
+M 75 H 75
+S
+#25130
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25129
+D1
+~
+~
+0 0
+0 0 25162
+D3
+~
+~
+0 0
+0 0 25098
+M 75 H 75
+S
+#25131
+room E1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25163
+D2
+~
+~
+0 0
+0 0 25132
+D3
+~
+~
+0 0
+0 0 25099
+M 75 H 75
+S
+#25132
+room E2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25131
+D1
+~
+~
+0 0
+0 0 25164
+D2
+~
+~
+0 0
+0 0 25133
+D3
+~
+~
+0 0
+0 0 25100
+M 75 H 75
+S
+#25133
+room E3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25132
+D1
+~
+~
+0 0
+0 0 25165
+D3
+~
+~
+0 0
+0 0 25101
+M 75 H 75
+S
+#25134
+room E4~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25166
+D2
+~
+~
+0 0
+0 0 25135
+D3
+~
+~
+0 0
+0 0 25102
+M 75 H 75
+S
+#25135
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25134
+D1
+~
+~
+0 0
+0 0 25167
+D2
+~
+~
+0 0
+0 0 25136
+D3
+~
+~
+0 0
+0 0 25103
+M 75 H 75
+S
+#25136
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25135
+D1
+~
+~
+0 0
+0 0 25168
+D2
+~
+~
+0 0
+0 0 25137
+D3
+~
+~
+0 0
+0 0 25104
+M 75 H 75
+S
+#25137
+room E7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25136
+D1
+~
+~
+0 0
+0 0 25169
+D2
+~
+~
+0 0
+0 0 25138
+D3
+~
+~
+0 0
+0 0 25105
+M 75 H 75
+S
+#25138
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the east.
+To the south, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25137
+D1
+~
+~
+0 0
+0 0 25171
+D2
+~
+~
+0 0
+0 0 25139
+D3
+~
+~
+0 0
+0 0 25106
+M 75 H 75
+S
+#25139
+room E9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25138
+D2
+~
+~
+0 0
+0 0 25140
+D3
+~
+~
+0 0
+0 0 25107
+M 75 H 75
+S
+#25140
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25139
+D1
+~
+~
+0 0
+0 0 25172
+D2
+~
+~
+0 0
+0 0 25141
+D3
+~
+~
+0 0
+0 0 25108
+M 75 H 75
+S
+#25141
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25140
+D1
+~
+~
+0 0
+0 0 25173
+D2
+~
+~
+0 0
+0 0 25142
+D3
+~
+~
+0 0
+0 0 25109
+M 75 H 75
+S
+#25142
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25141
+D1
+~
+~
+0 0
+0 0 25174
+D2
+~
+~
+0 0
+0 0 25143
+D3
+~
+~
+0 0
+0 0 25110
+M 75 H 75
+S
+#25143
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25142
+D1
+~
+~
+0 0
+0 0 25175
+D2
+~
+~
+0 0
+0 0 25144
+D3
+~
+~
+0 0
+0 0 25111
+M 75 H 75
+S
+#25144
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25143
+D1
+~
+~
+0 0
+0 0 25176
+D2
+~
+~
+0 0
+0 0 25145
+D3
+~
+~
+0 0
+0 0 25112
+M 75 H 75
+S
+#25145
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+A faint east-west trail leads through here.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25144
+D1
+~
+~
+0 0
+0 0 25177
+D2
+~
+~
+0 0
+0 0 25146
+D3
+~
+~
+0 0
+0 0 25113
+M 75 H 75
+S
+#25146
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the south, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25145
+D1
+~
+~
+0 0
+0 0 25178
+D2
+~
+~
+0 0
+0 0 25147
+D3
+~
+~
+0 0
+0 0 25114
+M 75 H 75
+S
+#25147
+{wThe {yAiel {DWa{ys{Dte{x~
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25146
+D1
+~
+~
+0 0
+0 0 25179
+D2
+~
+~
+0 0
+0 0 25148
+D3
+~
+~
+0 0
+0 0 25115
+M 75 H 75
+S
+#25148
+{wThe {yAiel {DWa{ys{Dte{x~
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25147
+D1
+~
+~
+0 0
+0 0 25180
+D2
+~
+~
+0 0
+0 0 25149
+D3
+~
+~
+0 0
+0 0 25116
+M 75 H 75
+S
+#25149
+{wThe {yAiel {DWa{ys{Dte{x~
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25148
+D1
+~
+~
+0 0
+0 0 25181
+D2
+~
+~
+0 0
+0 0 25150
+D3
+~
+~
+0 0
+0 0 25117
+M 75 H 75
+S
+#25150
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25149
+D1
+~
+~
+0 0
+0 0 25182
+D2
+~
+~
+0 0
+0 0 25151
+D3
+~
+~
+0 0
+0 0 25118
+M 75 H 75
+S
+#25151
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25150
+D1
+~
+~
+0 0
+0 0 25183
+D2
+~
+~
+0 0
+0 0 25152
+D3
+~
+~
+0 0
+0 0 25119
+M 75 H 75
+S
+#25152
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25151
+D1
+~
+~
+0 0
+0 0 25184
+D2
+~
+~
+0 0
+0 0 25153
+D3
+~
+~
+0 0
+0 0 25120
+M 75 H 75
+S
+#25153
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25152
+D1
+~
+~
+0 0
+0 0 25185
+D2
+~
+~
+0 0
+0 0 25154
+D3
+~
+~
+0 0
+0 0 25121
+M 75 H 75
+S
+#25154
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the south.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25153
+D1
+~
+~
+0 0
+0 0 25186
+D3
+~
+~
+0 0
+0 0 25122
+M 75 H 75
+S
+#25155
+To yet another hold~
+There is a huge, blinking sign, painted with white-and-orange
+stripes, and says, "{mUnder Construction, come back soon. :){x"
+~
+0
+C 0
+D3
+~
+~
+0 0
+0 0 25123
+M 75 H 75
+S
+#25156
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the north.
+~
+0
+C 10
+D1
+~
+~
+0 0
+0 0 25188
+D2
+~
+~
+0 0
+0 0 25157
+D3
+~
+~
+0 0
+0 0 25124
+M 75 H 75
+S
+#25157
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25156
+D1
+~
+~
+0 0
+0 0 25189
+D2
+~
+~
+0 0
+0 0 25158
+D3
+~
+~
+0 0
+0 0 25125
+M 75 H 75
+S
+#25158
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25157
+D1
+~
+~
+0 0
+0 0 25190
+D2
+~
+~
+0 0
+0 0 25159
+D3
+~
+~
+0 0
+0 0 25126
+M 75 H 75
+S
+#25159
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25158
+D1
+~
+~
+0 0
+0 0 25191
+D2
+~
+~
+0 0
+0 0 25160
+D3
+~
+~
+0 0
+0 0 25127
+M 75 H 75
+S
+#25160
+room E30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25159
+D1
+~
+~
+0 0
+0 0 25192
+D2
+~
+~
+0 0
+0 0 25161
+D3
+~
+~
+0 0
+0 0 25128
+M 75 H 75
+S
+#25161
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25160
+D1
+~
+~
+0 0
+0 0 25193
+D2
+~
+~
+0 0
+0 0 25162
+D3
+~
+~
+0 0
+0 0 25129
+M 75 H 75
+S
+#25162
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25161
+D1
+~
+~
+0 0
+0 0 25194
+D3
+~
+~
+0 0
+0 0 25130
+M 75 H 75
+S
+#25163
+room F1~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 25164
+D3
+~
+~
+0 0
+0 0 25131
+M 75 H 75
+S
+#25164
+room F2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25163
+D2
+~
+~
+0 0
+0 0 25165
+D3
+~
+~
+0 0
+0 0 25132
+M 75 H 75
+S
+#25165
+room F3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25164
+D3
+~
+~
+0 0
+0 0 25133
+M 75 H 75
+S
+#25166
+room F2~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25198
+D2
+~
+~
+0 0
+0 0 25167
+D3
+~
+~
+0 0
+0 0 25134
+M 75 H 75
+S
+#25167
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25166
+D1
+~
+~
+0 0
+0 0 25199
+D2
+~
+~
+0 0
+0 0 25168
+D3
+~
+~
+0 0
+0 0 25135
+M 75 H 75
+S
+#25168
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the south.
+To the south, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25167
+D1
+~
+~
+0 0
+0 0 25200
+D2
+~
+~
+0 0
+0 0 25169
+D3
+~
+~
+0 0
+0 0 25136
+M 75 H 75
+S
+#25169
+room F7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25168
+D1
+~
+~
+0 0
+0 0 25201
+D3
+~
+~
+0 0
+0 0 25137
+M 75 H 75
+S
+#25170
+room F8..  To Twin Spires Hold.~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 25171
+M 75 H 75
+S
+#25171
+room F9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25170
+D1
+~
+~
+0 0
+0 0 25203
+D2
+~
+~
+0 0
+0 0 25172
+D3
+~
+~
+0 0
+0 0 25138
+M 75 H 75
+S
+#25172
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+There are signs of an Aiel Hold being somewhere to the north.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25171
+D1
+~
+~
+0 0
+0 0 25204
+D2
+~
+~
+0 0
+0 0 25173
+D3
+~
+~
+0 0
+0 0 25140
+M 75 H 75
+S
+#25173
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25172
+D1
+~
+~
+0 0
+0 0 25205
+D2
+~
+~
+0 0
+0 0 25174
+D3
+~
+~
+0 0
+0 0 25141
+M 75 H 75
+S
+#25174
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25173
+D1
+~
+~
+0 0
+0 0 25206
+D2
+~
+~
+0 0
+0 0 25175
+D3
+~
+~
+0 0
+0 0 25142
+M 75 H 75
+S
+#25175
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25174
+D1
+~
+~
+0 0
+0 0 25207
+D2
+~
+~
+0 0
+0 0 25176
+D3
+~
+~
+0 0
+0 0 25143
+M 75 H 75
+S
+#25176
+A {YMe{Gr{Wch{Ga{Ynt{x'{Ys {xCaravan~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25175
+D1
+~
+~
+0 0
+0 0 25208
+D2
+~
+~
+0 0
+0 0 25177
+D3
+~
+~
+0 0
+0 0 25144
+M 75 H 75
+S
+#25177
+A {YMe{Gr{Wch{Ga{Ynt{x'{Ys {xCaravan~
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25176
+D1
+~
+~
+0 0
+0 0 25209
+D2
+~
+~
+0 0
+0 0 25178
+D3
+~
+~
+0 0
+0 0 25145
+M 75 H 75
+S
+#25178
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25177
+D1
+~
+~
+0 0
+0 0 25210
+D2
+~
+~
+0 0
+0 0 25179
+D3
+~
+~
+0 0
+0 0 25146
+M 75 H 75
+S
+#25179
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25178
+D1
+~
+~
+0 0
+0 0 25211
+D2
+~
+~
+0 0
+0 0 25180
+D3
+~
+~
+0 0
+0 0 25147
+M 75 H 75
+S
+#25180
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25179
+D1
+~
+~
+0 0
+0 0 25212
+D2
+~
+~
+0 0
+0 0 25181
+D3
+~
+~
+0 0
+0 0 25148
+M 75 H 75
+S
+#25181
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25180
+D1
+~
+~
+0 0
+0 0 25213
+D2
+~
+~
+0 0
+0 0 25182
+D3
+~
+~
+0 0
+0 0 25149
+M 75 H 75
+S
+#25182
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25181
+D1
+~
+~
+0 0
+0 0 25214
+D2
+~
+~
+0 0
+0 0 25183
+D3
+~
+~
+0 0
+0 0 25150
+M 75 H 75
+S
+#25183
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the east, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25182
+D1
+~
+~
+0 0
+0 0 25215
+D2
+~
+~
+0 0
+0 0 25184
+D3
+~
+~
+0 0
+0 0 25151
+M 75 H 75
+S
+#25184
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25183
+D1
+~
+~
+0 0
+0 0 25216
+D2
+~
+~
+0 0
+0 0 25185
+D3
+~
+~
+0 0
+0 0 25152
+M 75 H 75
+S
+#25185
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the east, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25184
+D1
+~
+~
+0 0
+0 0 25217
+D2
+~
+~
+0 0
+0 0 25186
+D3
+~
+~
+0 0
+0 0 25153
+M 75 H 75
+S
+#25186
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25185
+D1
+~
+~
+0 0
+0 0 25218
+D2
+~
+~
+0 0
+0 0 25187
+D3
+~
+~
+0 0
+0 0 25154
+M 75 H 75
+S
+#25187
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25186
+D1
+~
+~
+0 0
+0 0 25219
+D2
+~
+~
+0 0
+0 0 25188
+M 75 H 75
+S
+#25188
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25187
+D1
+~
+~
+0 0
+0 0 25220
+D2
+~
+~
+0 0
+0 0 25189
+D3
+~
+~
+0 0
+0 0 25156
+M 75 H 75
+S
+#25189
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the east, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25188
+D1
+~
+~
+0 0
+0 0 25221
+D2
+~
+~
+0 0
+0 0 25190
+D3
+~
+~
+0 0
+0 0 25157
+M 75 H 75
+S
+#25190
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25189
+D1
+~
+~
+0 0
+0 0 25222
+D2
+~
+~
+0 0
+0 0 25191
+D3
+~
+~
+0 0
+0 0 25158
+M 75 H 75
+S
+#25191
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25190
+D1
+~
+~
+0 0
+0 0 25223
+D2
+~
+~
+0 0
+0 0 25192
+D3
+~
+~
+0 0
+0 0 25159
+M 75 H 75
+S
+#25192
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25191
+D1
+~
+~
+0 0
+0 0 25224
+D2
+~
+~
+0 0
+0 0 25193
+D3
+~
+~
+0 0
+0 0 25160
+M 75 H 75
+S
+#25193
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25192
+D1
+~
+~
+0 0
+0 0 25225
+D2
+~
+~
+0 0
+0 0 25194
+D3
+~
+~
+0 0
+0 0 25161
+M 75 H 75
+S
+#25194
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25193
+D1
+~
+~
+0 0
+0 0 25226
+D3
+~
+~
+0 0
+0 0 25162
+M 75 H 75
+S
+#25195
+room G1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25227
+D2
+~
+~
+0 0
+0 0 25196
+M 75 H 75
+S
+#25196
+room G2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25195
+D1
+~
+~
+0 0
+0 0 25228
+D2
+~
+~
+0 0
+0 0 25197
+M 75 H 75
+S
+#25197
+room G3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25196
+D1
+~
+~
+0 0
+0 0 25229
+D2
+~
+~
+0 0
+0 0 25198
+M 75 H 75
+S
+#25198
+room G4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25197
+D1
+~
+~
+0 0
+0 0 25230
+D2
+~
+~
+0 0
+0 0 25199
+D3
+~
+~
+0 0
+0 0 25166
+M 75 H 75
+S
+#25199
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+You can see mountains north of here, reaching for the heavens.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25198
+D1
+~
+~
+0 0
+0 0 25231
+D2
+~
+~
+0 0
+0 0 25200
+D3
+~
+~
+0 0
+0 0 25167
+M 75 H 75
+S
+#25200
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25199
+D1
+~
+~
+0 0
+0 0 25232
+D2
+~
+~
+0 0
+0 0 25201
+D3
+~
+~
+0 0
+0 0 25168
+M 75 H 75
+S
+#25201
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25200
+D1
+~
+~
+0 0
+0 0 25233
+D2
+~
+~
+0 0
+0 0 25202
+D3
+~
+~
+0 0
+0 0 25169
+M 75 H 75
+S
+#25202
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the west.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25201
+D1
+~
+~
+0 0
+0 0 25234
+D2
+~
+~
+0 0
+0 0 25203
+M 75 H 75
+S
+#25203
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25202
+D1
+~
+~
+0 0
+0 0 25235
+D2
+~
+~
+0 0
+0 0 25204
+D3
+~
+~
+0 0
+0 0 25171
+M 75 H 75
+S
+#25204
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25203
+D1
+~
+~
+0 0
+0 0 25236
+D2
+~
+~
+0 0
+0 0 25205
+D3
+~
+~
+0 0
+0 0 25172
+M 75 H 75
+S
+#25205
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the south, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25204
+D1
+~
+~
+0 0
+0 0 25237
+D2
+~
+~
+0 0
+0 0 25206
+D3
+~
+~
+0 0
+0 0 25173
+M 75 H 75
+S
+#25206
+room G12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25205
+D1
+~
+~
+0 0
+0 0 25238
+D2
+~
+~
+0 0
+0 0 25207
+D3
+~
+~
+0 0
+0 0 25174
+M 75 H 75
+S
+#25207
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25206
+D1
+~
+~
+0 0
+0 0 25239
+D2
+~
+~
+0 0
+0 0 25208
+D3
+~
+~
+0 0
+0 0 25175
+M 75 H 75
+S
+#25208
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25207
+D1
+~
+~
+0 0
+0 0 25240
+D2
+~
+~
+0 0
+0 0 25209
+D3
+~
+~
+0 0
+0 0 25176
+M 75 H 75
+S
+#25209
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the east, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25208
+D1
+~
+~
+0 0
+0 0 25241
+D2
+~
+~
+0 0
+0 0 25210
+D3
+~
+~
+0 0
+0 0 25177
+M 75 H 75
+S
+#25210
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25209
+D1
+~
+~
+0 0
+0 0 25242
+D2
+~
+~
+0 0
+0 0 25211
+D3
+~
+~
+0 0
+0 0 25178
+M 75 H 75
+S
+#25211
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25210
+D1
+~
+~
+0 0
+0 0 25243
+D2
+~
+~
+0 0
+0 0 25212
+D3
+~
+~
+0 0
+0 0 25179
+M 75 H 75
+S
+#25212
+room G18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25211
+D1
+~
+~
+0 0
+0 0 25244
+D2
+~
+~
+0 0
+0 0 25213
+D3
+~
+~
+0 0
+0 0 25180
+M 75 H 75
+S
+#25213
+room G19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25212
+D1
+~
+~
+0 0
+0 0 25245
+D2
+~
+~
+0 0
+0 0 25214
+D3
+~
+~
+0 0
+0 0 25181
+M 75 H 75
+S
+#25214
+room G20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25213
+D1
+~
+~
+0 0
+0 0 25246
+D2
+~
+~
+0 0
+0 0 25215
+D3
+~
+~
+0 0
+0 0 25182
+M 75 H 75
+S
+#25215
+room G21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25214
+D1
+~
+~
+0 0
+0 0 25247
+D2
+~
+~
+0 0
+0 0 25216
+D3
+~
+~
+0 0
+0 0 25183
+M 75 H 75
+S
+#25216
+room G22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25215
+D1
+~
+~
+0 0
+0 0 25248
+D2
+~
+~
+0 0
+0 0 25217
+D3
+~
+~
+0 0
+0 0 25184
+M 75 H 75
+S
+#25217
+room G23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25216
+D1
+~
+~
+0 0
+0 0 25249
+D2
+~
+~
+0 0
+0 0 25218
+D3
+~
+~
+0 0
+0 0 25185
+M 75 H 75
+S
+#25218
+room G24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25217
+D1
+~
+~
+0 0
+0 0 25250
+D2
+~
+~
+0 0
+0 0 25219
+D3
+~
+~
+0 0
+0 0 25186
+M 75 H 75
+S
+#25219
+room G25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25218
+D1
+~
+~
+0 0
+0 0 25251
+D2
+~
+~
+0 0
+0 0 25220
+D3
+~
+~
+0 0
+0 0 25187
+M 75 H 75
+S
+#25220
+room G26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25219
+D1
+~
+~
+0 0
+0 0 25252
+D2
+~
+~
+0 0
+0 0 25221
+D3
+~
+~
+0 0
+0 0 25188
+M 75 H 75
+S
+#25221
+room G27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25220
+D1
+~
+~
+0 0
+0 0 25253
+D2
+~
+~
+0 0
+0 0 25222
+D3
+~
+~
+0 0
+0 0 25189
+M 75 H 75
+S
+#25222
+room G28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25221
+D1
+~
+~
+0 0
+0 0 25254
+D2
+~
+~
+0 0
+0 0 25223
+D3
+~
+~
+0 0
+0 0 25190
+M 75 H 75
+S
+#25223
+room G29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25222
+D1
+~
+~
+0 0
+0 0 25255
+D2
+~
+~
+0 0
+0 0 25224
+D3
+~
+~
+0 0
+0 0 25191
+M 75 H 75
+S
+#25224
+room G30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25223
+D1
+~
+~
+0 0
+0 0 25256
+D2
+~
+~
+0 0
+0 0 25225
+D3
+~
+~
+0 0
+0 0 25192
+M 75 H 75
+S
+#25225
+room G31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25224
+D1
+~
+~
+0 0
+0 0 25257
+D2
+~
+~
+0 0
+0 0 25226
+D3
+~
+~
+0 0
+0 0 25193
+M 75 H 75
+S
+#25226
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25225
+D1
+~
+~
+0 0
+0 0 25258
+D3
+~
+~
+0 0
+0 0 25194
+M 75 H 75
+S
+#25227
+room H1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25259
+D2
+~
+~
+0 0
+0 0 25228
+D3
+~
+~
+0 0
+0 0 25195
+M 75 H 75
+S
+#25228
+room H2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25227
+D1
+~
+~
+0 0
+0 0 25260
+D2
+~
+~
+0 0
+0 0 25229
+D3
+~
+~
+0 0
+0 0 25196
+M 75 H 75
+S
+#25229
+room H3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25228
+D1
+~
+~
+0 0
+0 0 25261
+D2
+~
+~
+0 0
+0 0 25230
+D3
+~
+~
+0 0
+0 0 25197
+M 75 H 75
+S
+#25230
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+You can see mountains west of here, reaching for the heavens.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25229
+D1
+~
+~
+0 0
+0 0 25262
+D2
+~
+~
+0 0
+0 0 25231
+D3
+~
+~
+0 0
+0 0 25198
+M 75 H 75
+S
+#25231
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25230
+D1
+~
+~
+0 0
+0 0 25263
+D2
+~
+~
+0 0
+0 0 25232
+D3
+~
+~
+0 0
+0 0 25199
+M 75 H 75
+S
+#25232
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25231
+D1
+~
+~
+0 0
+0 0 25264
+D2
+~
+~
+0 0
+0 0 25233
+D3
+~
+~
+0 0
+0 0 25200
+M 75 H 75
+S
+#25233
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25232
+D1
+~
+~
+0 0
+0 0 25265
+D2
+~
+~
+0 0
+0 0 25234
+D3
+~
+~
+0 0
+0 0 25201
+M 75 H 75
+S
+#25234
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25233
+D1
+~
+~
+0 0
+0 0 25266
+D2
+~
+~
+0 0
+0 0 25235
+D3
+~
+~
+0 0
+0 0 25202
+M 75 H 75
+S
+#25235
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25234
+D1
+~
+~
+0 0
+0 0 25267
+D2
+~
+~
+0 0
+0 0 25236
+D3
+~
+~
+0 0
+0 0 25203
+M 75 H 75
+S
+#25236
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25235
+D1
+~
+~
+0 0
+0 0 25268
+D2
+~
+~
+0 0
+0 0 25237
+D3
+~
+~
+0 0
+0 0 25204
+M 75 H 75
+S
+#25237
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the east, an encampment can be seen.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25236
+D1
+~
+~
+0 0
+0 0 25269
+D2
+~
+~
+0 0
+0 0 25238
+D3
+~
+~
+0 0
+0 0 25205
+M 75 H 75
+S
+#25238
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the west, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25237
+D1
+~
+~
+0 0
+0 0 25270
+D2
+~
+~
+0 0
+0 0 25239
+D3
+~
+~
+0 0
+0 0 25206
+M 75 H 75
+S
+#25239
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25238
+D1
+~
+~
+0 0
+0 0 25271
+D2
+~
+~
+0 0
+0 0 25240
+D3
+~
+~
+0 0
+0 0 25207
+M 75 H 75
+S
+#25240
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the south, a tall spire can be seen sticking out from the desert floor.
+To the east, a few, craggy mountains jut from the ground.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25239
+D1
+~
+~
+0 0
+0 0 25272
+D2
+~
+~
+0 0
+0 0 25241
+D3
+~
+~
+0 0
+0 0 25208
+M 75 H 75
+S
+#25241
+room H15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25240
+D1
+~
+~
+0 0
+0 0 25273
+D2
+~
+~
+0 0
+0 0 25242
+D3
+~
+~
+0 0
+0 0 25209
+M 75 H 75
+S
+#25242
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the east.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25241
+D1
+~
+~
+0 0
+0 0 25274
+D2
+~
+~
+0 0
+0 0 25243
+D3
+~
+~
+0 0
+0 0 25210
+M 75 H 75
+S
+#25243
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25242
+D1
+~
+~
+0 0
+0 0 25275
+D2
+~
+~
+0 0
+0 0 25244
+D3
+~
+~
+0 0
+0 0 25211
+M 75 H 75
+S
+#25244
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25243
+D1
+~
+~
+0 0
+0 0 25276
+D2
+~
+~
+0 0
+0 0 25245
+D3
+~
+~
+0 0
+0 0 25212
+M 75 H 75
+S
+#25245
+room H19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25244
+D1
+~
+~
+0 0
+0 0 25277
+D2
+~
+~
+0 0
+0 0 25246
+D3
+~
+~
+0 0
+0 0 25213
+M 75 H 75
+S
+#25246
+room H20.. Nearing the Mists~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 25247
+M 75 H 75
+S
+#25247
+room H21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25246
+D1
+~
+~
+0 0
+0 0 25279
+D2
+~
+~
+0 0
+0 0 25248
+D3
+~
+~
+0 0
+0 0 25215
+M 75 H 75
+S
+#25248
+room H22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25247
+D1
+~
+~
+0 0
+0 0 25280
+D2
+~
+~
+0 0
+0 0 25249
+D3
+~
+~
+0 0
+0 0 25216
+M 75 H 75
+S
+#25249
+room H23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25248
+D1
+~
+~
+0 0
+0 0 25281
+D2
+~
+~
+0 0
+0 0 25250
+D3
+~
+~
+0 0
+0 0 25217
+M 75 H 75
+S
+#25250
+room H24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25249
+D1
+~
+~
+0 0
+0 0 25282
+D2
+~
+~
+0 0
+0 0 25251
+D3
+~
+~
+0 0
+0 0 25218
+M 75 H 75
+S
+#25251
+room H25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25250
+D1
+~
+~
+0 0
+0 0 25283
+D2
+~
+~
+0 0
+0 0 25252
+D3
+~
+~
+0 0
+0 0 25219
+M 75 H 75
+S
+#25252
+room H26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25251
+D1
+~
+~
+0 0
+0 0 25284
+D2
+~
+~
+0 0
+0 0 25253
+D3
+~
+~
+0 0
+0 0 25220
+M 75 H 75
+S
+#25253
+room H27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25252
+D1
+~
+~
+0 0
+0 0 25285
+D2
+~
+~
+0 0
+0 0 25254
+D3
+~
+~
+0 0
+0 0 25221
+M 75 H 75
+S
+#25254
+room H28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25253
+D1
+~
+~
+0 0
+0 0 25286
+D2
+~
+~
+0 0
+0 0 25255
+D3
+~
+~
+0 0
+0 0 25222
+M 75 H 75
+S
+#25255
+room H29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25254
+D1
+~
+~
+0 0
+0 0 25287
+D2
+~
+~
+0 0
+0 0 25256
+D3
+~
+~
+0 0
+0 0 25223
+M 75 H 75
+S
+#25256
+room H30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25255
+D1
+~
+~
+0 0
+0 0 25288
+D2
+~
+~
+0 0
+0 0 25257
+D3
+~
+~
+0 0
+0 0 25224
+M 75 H 75
+S
+#25257
+room H31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25256
+D1
+~
+~
+0 0
+0 0 25289
+D2
+~
+~
+0 0
+0 0 25258
+D3
+~
+~
+0 0
+0 0 25225
+M 75 H 75
+S
+#25258
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25257
+D1
+~
+~
+0 0
+0 0 25290
+D3
+~
+~
+0 0
+0 0 25226
+M 75 H 75
+S
+#25259
+room I1~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 25260
+D3
+~
+~
+0 0
+0 0 25227
+M 75 H 75
+S
+#25260
+room I2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25259
+D2
+~
+~
+0 0
+0 0 25261
+D3
+~
+~
+0 0
+0 0 25228
+M 75 H 75
+S
+#25261
+room I3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25260
+D1
+~
+~
+0 0
+0 0 25293
+D2
+~
+~
+0 0
+0 0 25262
+D3
+~
+~
+0 0
+0 0 25229
+M 75 H 75
+S
+#25262
+room I4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25261
+D1
+~
+~
+0 0
+0 0 25294
+D2
+~
+~
+0 0
+0 0 25263
+D3
+~
+~
+0 0
+0 0 25230
+M 75 H 75
+S
+#25263
+room I5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25262
+D1
+~
+~
+0 0
+0 0 25295
+D2
+~
+~
+0 0
+0 0 25264
+D3
+~
+~
+0 0
+0 0 25231
+M 75 H 75
+S
+#25264
+room I6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25263
+D1
+~
+~
+0 0
+0 0 25296
+D2
+~
+~
+0 0
+0 0 25265
+D3
+~
+~
+0 0
+0 0 25232
+M 75 H 75
+S
+#25265
+room I7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25264
+D1
+~
+~
+0 0
+0 0 25297
+D2
+~
+~
+0 0
+0 0 25266
+D3
+~
+~
+0 0
+0 0 25233
+M 75 H 75
+S
+#25266
+room I8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25265
+D1
+~
+~
+0 0
+0 0 25298
+D2
+~
+~
+0 0
+0 0 25267
+D3
+~
+~
+0 0
+0 0 25234
+M 75 H 75
+S
+#25267
+room I9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25266
+D1
+~
+~
+0 0
+0 0 25299
+D2
+~
+~
+0 0
+0 0 25268
+D3
+~
+~
+0 0
+0 0 25235
+M 75 H 75
+S
+#25268
+room I10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25267
+D1
+~
+~
+0 0
+0 0 25300
+D2
+~
+~
+0 0
+0 0 25269
+D3
+~
+~
+0 0
+0 0 25236
+M 75 H 75
+S
+#25269
+room I11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25268
+D1
+~
+~
+0 0
+0 0 25301
+D2
+~
+~
+0 0
+0 0 25270
+D3
+~
+~
+0 0
+0 0 25237
+M 75 H 75
+S
+#25270
+room I12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25269
+D1
+~
+~
+0 0
+0 0 25302
+D2
+~
+~
+0 0
+0 0 25271
+D3
+~
+~
+0 0
+0 0 25238
+M 75 H 75
+S
+#25271
+room I13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25270
+D1
+~
+~
+0 0
+0 0 25303
+D2
+~
+~
+0 0
+0 0 25272
+D3
+~
+~
+0 0
+0 0 25239
+M 75 H 75
+S
+#25272
+room I14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25271
+D1
+~
+~
+0 0
+0 0 25304
+D2
+~
+~
+0 0
+0 0 25273
+D3
+~
+~
+0 0
+0 0 25240
+M 75 H 75
+S
+#25273
+room I15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25272
+D1
+~
+~
+0 0
+0 0 25305
+D3
+~
+~
+0 0
+0 0 25241
+M 75 H 75
+S
+#25274
+room I16 - to Cold Rocks Hold...~
+~
+0
+C 0
+D3
+~
+~
+0 0
+0 0 25242
+M 75 H 75
+S
+#25275
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+There are signs of an Aiel Hold near here, perhaps somewhere to the north.
+~
+0
+C 10
+D1
+~
+~
+0 0
+0 0 25307
+D2
+~
+~
+0 0
+0 0 25276
+D3
+~
+~
+0 0
+0 0 25243
+M 75 H 75
+S
+#25276
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25275
+D1
+~
+~
+0 0
+0 0 25308
+D2
+~
+~
+0 0
+0 0 25277
+D3
+~
+~
+0 0
+0 0 25244
+M 75 H 75
+S
+#25277
+room I19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25276
+D1
+~
+~
+0 0
+0 0 25309
+D2
+~
+~
+0 0
+0 0 25278
+D3
+~
+~
+0 0
+0 0 25245
+M 75 H 75
+S
+#25278
+room I20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25277
+D1
+~
+~
+0 0
+0 0 25310
+D2
+~
+~
+0 0
+0 0 25279
+D3
+~
+~
+0 0
+0 0 25246
+M 75 H 75
+S
+#25279
+room I21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25278
+D1
+~
+~
+0 0
+0 0 25311
+D2
+~
+~
+0 0
+0 0 25280
+D3
+~
+~
+0 0
+0 0 25247
+M 75 H 75
+S
+#25280
+room I22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25279
+D1
+~
+~
+0 0
+0 0 25312
+D2
+~
+~
+0 0
+0 0 25281
+D3
+~
+~
+0 0
+0 0 25248
+M 75 H 75
+S
+#25281
+room I23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25280
+D1
+~
+~
+0 0
+0 0 25313
+D2
+~
+~
+0 0
+0 0 25282
+D3
+~
+~
+0 0
+0 0 25249
+M 75 H 75
+S
+#25282
+room I24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25281
+D1
+~
+~
+0 0
+0 0 25314
+D2
+~
+~
+0 0
+0 0 25283
+D3
+~
+~
+0 0
+0 0 25250
+M 75 H 75
+S
+#25283
+room I25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25282
+D1
+~
+~
+0 0
+0 0 25315
+D2
+~
+~
+0 0
+0 0 25284
+D3
+~
+~
+0 0
+0 0 25251
+M 75 H 75
+S
+#25284
+room I26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25283
+D1
+~
+~
+0 0
+0 0 25316
+D2
+~
+~
+0 0
+0 0 25285
+D3
+~
+~
+0 0
+0 0 25252
+M 75 H 75
+S
+#25285
+room I27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25284
+D1
+~
+~
+0 0
+0 0 25317
+D2
+~
+~
+0 0
+0 0 25286
+D3
+~
+~
+0 0
+0 0 25253
+M 75 H 75
+S
+#25286
+room I28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25285
+D1
+~
+~
+0 0
+0 0 25318
+D2
+~
+~
+0 0
+0 0 25287
+D3
+~
+~
+0 0
+0 0 25254
+M 75 H 75
+S
+#25287
+room I29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25286
+D1
+~
+~
+0 0
+0 0 25319
+D2
+~
+~
+0 0
+0 0 25288
+D3
+~
+~
+0 0
+0 0 25255
+M 75 H 75
+S
+#25288
+room I30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25287
+D1
+~
+~
+0 0
+0 0 25320
+D2
+~
+~
+0 0
+0 0 25289
+D3
+~
+~
+0 0
+0 0 25256
+M 75 H 75
+S
+#25289
+room I31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25288
+D1
+~
+~
+0 0
+0 0 25321
+D2
+~
+~
+0 0
+0 0 25290
+D3
+~
+~
+0 0
+0 0 25257
+M 75 H 75
+S
+#25290
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25289
+D1
+~
+~
+0 0
+0 0 25322
+D3
+~
+~
+0 0
+0 0 25258
+M 75 H 75
+S
+#25291
+room J1~
+~
+0
+C 0
+M 75 H 75
+S
+#25292
+room J2~
+~
+0
+C 0
+M 75 H 75
+S
+#25293
+room J3~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25325
+D2
+~
+~
+0 0
+0 0 25294
+D3
+~
+~
+0 0
+0 0 25261
+M 75 H 75
+S
+#25294
+room J4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25293
+D1
+~
+~
+0 0
+0 0 25326
+D2
+~
+~
+0 0
+0 0 25295
+D3
+~
+~
+0 0
+0 0 25262
+M 75 H 75
+S
+#25295
+room J5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25294
+D1
+~
+~
+0 0
+0 0 25327
+D2
+~
+~
+0 0
+0 0 25296
+D3
+~
+~
+0 0
+0 0 25263
+M 75 H 75
+S
+#25296
+room J6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25295
+D1
+~
+~
+0 0
+0 0 25328
+D2
+~
+~
+0 0
+0 0 25297
+D3
+~
+~
+0 0
+0 0 25264
+M 75 H 75
+S
+#25297
+room J7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25296
+D1
+~
+~
+0 0
+0 0 25329
+D2
+~
+~
+0 0
+0 0 25298
+D3
+~
+~
+0 0
+0 0 25265
+M 75 H 75
+S
+#25298
+room J8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25297
+D1
+~
+~
+0 0
+0 0 25330
+D2
+~
+~
+0 0
+0 0 25299
+D3
+~
+~
+0 0
+0 0 25266
+M 75 H 75
+S
+#25299
+room J9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25298
+D1
+~
+~
+0 0
+0 0 25331
+D2
+~
+~
+0 0
+0 0 25300
+D3
+~
+~
+0 0
+0 0 25267
+M 75 H 75
+S
+#25300
+room J10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25299
+D1
+~
+~
+0 0
+0 0 25332
+D3
+~
+~
+0 0
+0 0 25268
+M 75 H 75
+S
+#25301
+room J11.. To Alcair Dal~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 25302
+D3
+~
+~
+0 0
+0 0 25269
+M 75 H 75
+S
+#25302
+room J12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25301
+D1
+~
+~
+0 0
+0 0 25334
+D2
+~
+~
+0 0
+0 0 25303
+D3
+~
+~
+0 0
+0 0 25270
+M 75 H 75
+S
+#25303
+room J13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25302
+D1
+~
+~
+0 0
+0 0 25335
+D2
+~
+~
+0 0
+0 0 25304
+D3
+~
+~
+0 0
+0 0 25271
+M 75 H 75
+S
+#25304
+room J14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25303
+D1
+~
+~
+0 0
+0 0 25336
+D2
+~
+~
+0 0
+0 0 25305
+D3
+~
+~
+0 0
+0 0 25272
+M 75 H 75
+S
+#25305
+room J15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25304
+D1
+~
+~
+0 0
+0 0 25337
+D2
+~
+~
+0 0
+0 0 25306
+D3
+~
+~
+0 0
+0 0 25273
+M 75 H 75
+S
+#25306
+room J16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25305
+D1
+~
+~
+0 0
+0 0 25338
+D2
+~
+~
+0 0
+0 0 25307
+M 75 H 75
+S
+#25307
+room J17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25306
+D1
+~
+~
+0 0
+0 0 25339
+D2
+~
+~
+0 0
+0 0 25308
+D3
+~
+~
+0 0
+0 0 25275
+M 75 H 75
+S
+#25308
+room J18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25307
+D1
+~
+~
+0 0
+0 0 25340
+D2
+~
+~
+0 0
+0 0 25309
+D3
+~
+~
+0 0
+0 0 25276
+M 75 H 75
+S
+#25309
+room J19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25308
+D1
+~
+~
+0 0
+0 0 25341
+D2
+~
+~
+0 0
+0 0 25310
+D3
+~
+~
+0 0
+0 0 25277
+M 75 H 75
+S
+#25310
+room J20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25309
+D1
+~
+~
+0 0
+0 0 25342
+D2
+~
+~
+0 0
+0 0 25311
+D3
+~
+~
+0 0
+0 0 25278
+M 75 H 75
+S
+#25311
+room J21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25310
+D1
+~
+~
+0 0
+0 0 25343
+D2
+~
+~
+0 0
+0 0 25312
+D3
+~
+~
+0 0
+0 0 25279
+M 75 H 75
+S
+#25312
+room J22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25311
+D1
+~
+~
+0 0
+0 0 25344
+D2
+~
+~
+0 0
+0 0 25313
+D3
+~
+~
+0 0
+0 0 25280
+M 75 H 75
+S
+#25313
+room J23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25312
+D1
+~
+~
+0 0
+0 0 25345
+D2
+~
+~
+0 0
+0 0 25314
+D3
+~
+~
+0 0
+0 0 25281
+M 75 H 75
+S
+#25314
+room J24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25313
+D1
+~
+~
+0 0
+0 0 25346
+D2
+~
+~
+0 0
+0 0 25315
+D3
+~
+~
+0 0
+0 0 25282
+M 75 H 75
+S
+#25315
+room J25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25314
+D1
+~
+~
+0 0
+0 0 25347
+D2
+~
+~
+0 0
+0 0 25316
+D3
+~
+~
+0 0
+0 0 25283
+M 75 H 75
+S
+#25316
+room J26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25315
+D1
+~
+~
+0 0
+0 0 25348
+D2
+~
+~
+0 0
+0 0 25317
+D3
+~
+~
+0 0
+0 0 25284
+M 75 H 75
+S
+#25317
+room J27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25316
+D1
+~
+~
+0 0
+0 0 25349
+D2
+~
+~
+0 0
+0 0 25318
+D3
+~
+~
+0 0
+0 0 25285
+M 75 H 75
+S
+#25318
+room J28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25317
+D1
+~
+~
+0 0
+0 0 25350
+D2
+~
+~
+0 0
+0 0 25319
+D3
+~
+~
+0 0
+0 0 25286
+M 75 H 75
+S
+#25319
+room J29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25318
+D1
+~
+~
+0 0
+0 0 25351
+D2
+~
+~
+0 0
+0 0 25320
+D3
+~
+~
+0 0
+0 0 25287
+M 75 H 75
+S
+#25320
+room J30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25319
+D1
+~
+~
+0 0
+0 0 25352
+D2
+~
+~
+0 0
+0 0 25321
+D3
+~
+~
+0 0
+0 0 25288
+M 75 H 75
+S
+#25321
+room J31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25320
+D1
+~
+~
+0 0
+0 0 25353
+D2
+~
+~
+0 0
+0 0 25322
+D3
+~
+~
+0 0
+0 0 25289
+M 75 H 75
+S
+#25322
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25321
+D1
+~
+~
+0 0
+0 0 25354
+D3
+~
+~
+0 0
+0 0 25290
+M 75 H 75
+S
+#25323
+room K1~
+~
+0
+C 0
+M 75 H 75
+S
+#25324
+room K3~
+~
+0
+C 0
+M 75 H 75
+S
+#25325
+room K3~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25357
+D2
+~
+~
+0 0
+0 0 25326
+D3
+~
+~
+0 0
+0 0 25293
+M 75 H 75
+S
+#25326
+room K4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25325
+D1
+~
+~
+0 0
+0 0 25358
+D2
+~
+~
+0 0
+0 0 25327
+D3
+~
+~
+0 0
+0 0 25294
+M 75 H 75
+S
+#25327
+room K5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25326
+D1
+~
+~
+0 0
+0 0 25359
+D2
+~
+~
+0 0
+0 0 25328
+D3
+~
+~
+0 0
+0 0 25295
+M 75 H 75
+S
+#25328
+room K6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25327
+D1
+~
+~
+0 0
+0 0 25360
+D2
+~
+~
+0 0
+0 0 25329
+D3
+~
+~
+0 0
+0 0 25296
+M 75 H 75
+S
+#25329
+room K7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25328
+D1
+~
+~
+0 0
+0 0 25361
+D2
+~
+~
+0 0
+0 0 25330
+D3
+~
+~
+0 0
+0 0 25297
+M 75 H 75
+S
+#25330
+room K8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25329
+D1
+~
+~
+0 0
+0 0 25362
+D2
+~
+~
+0 0
+0 0 25331
+D3
+~
+~
+0 0
+0 0 25298
+M 75 H 75
+S
+#25331
+room K9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25330
+D1
+~
+~
+0 0
+0 0 25363
+D2
+~
+~
+0 0
+0 0 25332
+D3
+~
+~
+0 0
+0 0 25299
+M 75 H 75
+S
+#25332
+room K10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25331
+D1
+~
+~
+0 0
+0 0 25364
+D2
+~
+~
+0 0
+0 0 25333
+D3
+~
+~
+0 0
+0 0 25300
+M 75 H 75
+S
+#25333
+room K11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25332
+D1
+~
+~
+0 0
+0 0 25365
+D2
+~
+~
+0 0
+0 0 25334
+M 75 H 75
+S
+#25334
+room K12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25333
+D1
+~
+~
+0 0
+0 0 25366
+D2
+~
+~
+0 0
+0 0 25335
+D3
+~
+~
+0 0
+0 0 25302
+M 75 H 75
+S
+#25335
+room K13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25334
+D1
+~
+~
+0 0
+0 0 25367
+D2
+~
+~
+0 0
+0 0 25336
+D3
+~
+~
+0 0
+0 0 25303
+M 75 H 75
+S
+#25336
+room K14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25335
+D1
+~
+~
+0 0
+0 0 25368
+D2
+~
+~
+0 0
+0 0 25337
+D3
+~
+~
+0 0
+0 0 25304
+M 75 H 75
+S
+#25337
+room K15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25336
+D1
+~
+~
+0 0
+0 0 25369
+D2
+~
+~
+0 0
+0 0 25338
+D3
+~
+~
+0 0
+0 0 25305
+M 75 H 75
+S
+#25338
+room K16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25337
+D1
+~
+~
+0 0
+0 0 25370
+D2
+~
+~
+0 0
+0 0 25339
+D3
+~
+~
+0 0
+0 0 25306
+M 75 H 75
+S
+#25339
+room K17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25338
+D1
+~
+~
+0 0
+0 0 25371
+D2
+~
+~
+0 0
+0 0 25340
+D3
+~
+~
+0 0
+0 0 25307
+M 75 H 75
+S
+#25340
+room K18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25339
+D1
+~
+~
+0 0
+0 0 25372
+D2
+~
+~
+0 0
+0 0 25341
+D3
+~
+~
+0 0
+0 0 25308
+M 75 H 75
+S
+#25341
+room K19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25340
+D1
+~
+~
+0 0
+0 0 25373
+D2
+~
+~
+0 0
+0 0 25342
+D3
+~
+~
+0 0
+0 0 25309
+M 75 H 75
+S
+#25342
+room K20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25341
+D1
+~
+~
+0 0
+0 0 25374
+D2
+~
+~
+0 0
+0 0 25343
+D3
+~
+~
+0 0
+0 0 25310
+M 75 H 75
+S
+#25343
+room K21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25342
+D1
+~
+~
+0 0
+0 0 25375
+D2
+~
+~
+0 0
+0 0 25344
+D3
+~
+~
+0 0
+0 0 25311
+M 75 H 75
+S
+#25344
+room K22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25343
+D1
+~
+~
+0 0
+0 0 25376
+D2
+~
+~
+0 0
+0 0 25345
+D3
+~
+~
+0 0
+0 0 25312
+M 75 H 75
+S
+#25345
+room K23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25344
+D1
+~
+~
+0 0
+0 0 25377
+D2
+~
+~
+0 0
+0 0 25346
+D3
+~
+~
+0 0
+0 0 25313
+M 75 H 75
+S
+#25346
+room K24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25345
+D1
+~
+~
+0 0
+0 0 25378
+D2
+~
+~
+0 0
+0 0 25347
+D3
+~
+~
+0 0
+0 0 25314
+M 75 H 75
+S
+#25347
+room K25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25346
+D1
+~
+~
+0 0
+0 0 25379
+D2
+~
+~
+0 0
+0 0 25348
+D3
+~
+~
+0 0
+0 0 25315
+M 75 H 75
+S
+#25348
+room K26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25347
+D1
+~
+~
+0 0
+0 0 25380
+D2
+~
+~
+0 0
+0 0 25349
+D3
+~
+~
+0 0
+0 0 25316
+M 75 H 75
+S
+#25349
+room K27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25348
+D1
+~
+~
+0 0
+0 0 25381
+D2
+~
+~
+0 0
+0 0 25350
+D3
+~
+~
+0 0
+0 0 25317
+M 75 H 75
+S
+#25350
+room K28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25349
+D1
+~
+~
+0 0
+0 0 25382
+D2
+~
+~
+0 0
+0 0 25351
+D3
+~
+~
+0 0
+0 0 25318
+M 75 H 75
+S
+#25351
+room K29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25350
+D1
+~
+~
+0 0
+0 0 25383
+D2
+~
+~
+0 0
+0 0 25352
+D3
+~
+~
+0 0
+0 0 25319
+M 75 H 75
+S
+#25352
+room K30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25351
+D1
+~
+~
+0 0
+0 0 25384
+D2
+~
+~
+0 0
+0 0 25353
+D3
+~
+~
+0 0
+0 0 25320
+M 75 H 75
+S
+#25353
+room K31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25352
+D1
+~
+~
+0 0
+0 0 25385
+D2
+~
+~
+0 0
+0 0 25354
+D3
+~
+~
+0 0
+0 0 25321
+M 75 H 75
+S
+#25354
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25353
+D1
+~
+~
+0 0
+0 0 25386
+D3
+~
+~
+0 0
+0 0 25322
+M 75 H 75
+S
+#25355
+room L1~
+~
+0
+C 0
+M 75 H 75
+S
+#25356
+room L2~
+~
+0
+C 0
+M 75 H 75
+S
+#25357
+room L3~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25389
+D2
+~
+~
+0 0
+0 0 25358
+D3
+~
+~
+0 0
+0 0 25325
+M 75 H 75
+S
+#25358
+room L4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25357
+D1
+~
+~
+0 0
+0 0 25390
+D2
+~
+~
+0 0
+0 0 25359
+D3
+~
+~
+0 0
+0 0 25326
+M 75 H 75
+S
+#25359
+room L5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25358
+D1
+~
+~
+0 0
+0 0 25391
+D2
+~
+~
+0 0
+0 0 25360
+D3
+~
+~
+0 0
+0 0 25327
+M 75 H 75
+S
+#25360
+room L6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25359
+D1
+~
+~
+0 0
+0 0 25392
+D2
+~
+~
+0 0
+0 0 25361
+D3
+~
+~
+0 0
+0 0 25328
+M 75 H 75
+S
+#25361
+room L7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25360
+D1
+~
+~
+0 0
+0 0 25393
+D2
+~
+~
+0 0
+0 0 25362
+D3
+~
+~
+0 0
+0 0 25329
+M 75 H 75
+S
+#25362
+room L8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25361
+D1
+~
+~
+0 0
+0 0 25394
+D2
+~
+~
+0 0
+0 0 25363
+D3
+~
+~
+0 0
+0 0 25330
+M 75 H 75
+S
+#25363
+room L9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25362
+D1
+~
+~
+0 0
+0 0 25395
+D2
+~
+~
+0 0
+0 0 25364
+D3
+~
+~
+0 0
+0 0 25331
+M 75 H 75
+S
+#25364
+room L10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25363
+D1
+~
+~
+0 0
+0 0 25396
+D2
+~
+~
+0 0
+0 0 25365
+D3
+~
+~
+0 0
+0 0 25332
+M 75 H 75
+S
+#25365
+room L11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25364
+D1
+~
+~
+0 0
+0 0 25397
+D2
+~
+~
+0 0
+0 0 25366
+D3
+~
+~
+0 0
+0 0 25333
+M 75 H 75
+S
+#25366
+room L12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25365
+D1
+~
+~
+0 0
+0 0 25398
+D2
+~
+~
+0 0
+0 0 25367
+D3
+~
+~
+0 0
+0 0 25334
+M 75 H 75
+S
+#25367
+room L13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25366
+D1
+~
+~
+0 0
+0 0 25399
+D2
+~
+~
+0 0
+0 0 25368
+D3
+~
+~
+0 0
+0 0 25335
+M 75 H 75
+S
+#25368
+room L14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25367
+D1
+~
+~
+0 0
+0 0 25400
+D2
+~
+~
+0 0
+0 0 25369
+D3
+~
+~
+0 0
+0 0 25336
+M 75 H 75
+S
+#25369
+room L15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25368
+D1
+~
+~
+0 0
+0 0 25401
+D2
+~
+~
+0 0
+0 0 25370
+D3
+~
+~
+0 0
+0 0 25337
+M 75 H 75
+S
+#25370
+room L16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25369
+D1
+~
+~
+0 0
+0 0 25402
+D2
+~
+~
+0 0
+0 0 25371
+D3
+~
+~
+0 0
+0 0 25338
+M 75 H 75
+S
+#25371
+room L17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25370
+D1
+~
+~
+0 0
+0 0 25403
+D2
+~
+~
+0 0
+0 0 25372
+D3
+~
+~
+0 0
+0 0 25339
+M 75 H 75
+S
+#25372
+room L18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25371
+D1
+~
+~
+0 0
+0 0 25404
+D2
+~
+~
+0 0
+0 0 25373
+D3
+~
+~
+0 0
+0 0 25340
+M 75 H 75
+S
+#25373
+room L19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25372
+D1
+~
+~
+0 0
+0 0 25405
+D2
+~
+~
+0 0
+0 0 25374
+D3
+~
+~
+0 0
+0 0 25341
+M 75 H 75
+S
+#25374
+room L20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25373
+D1
+~
+~
+0 0
+0 0 25406
+D2
+~
+~
+0 0
+0 0 25375
+D3
+~
+~
+0 0
+0 0 25342
+M 75 H 75
+S
+#25375
+room L21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25374
+D1
+~
+~
+0 0
+0 0 25407
+D2
+~
+~
+0 0
+0 0 25376
+D3
+~
+~
+0 0
+0 0 25343
+M 75 H 75
+S
+#25376
+room L22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25375
+D1
+~
+~
+0 0
+0 0 25408
+D2
+~
+~
+0 0
+0 0 25377
+D3
+~
+~
+0 0
+0 0 25344
+M 75 H 75
+S
+#25377
+room L23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25376
+D1
+~
+~
+0 0
+0 0 25409
+D2
+~
+~
+0 0
+0 0 25378
+D3
+~
+~
+0 0
+0 0 25345
+M 75 H 75
+S
+#25378
+room L24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25377
+D1
+~
+~
+0 0
+0 0 25410
+D2
+~
+~
+0 0
+0 0 25379
+D3
+~
+~
+0 0
+0 0 25346
+M 75 H 75
+S
+#25379
+room L25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25378
+D1
+~
+~
+0 0
+0 0 25411
+D2
+~
+~
+0 0
+0 0 25380
+D3
+~
+~
+0 0
+0 0 25347
+M 75 H 75
+S
+#25380
+room L26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25379
+D1
+~
+~
+0 0
+0 0 25412
+D2
+~
+~
+0 0
+0 0 25381
+D3
+~
+~
+0 0
+0 0 25348
+M 75 H 75
+S
+#25381
+room L27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25380
+D2
+~
+~
+0 0
+0 0 25382
+D3
+~
+~
+0 0
+0 0 25349
+M 75 H 75
+S
+#25382
+room L28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25381
+D1
+~
+~
+0 0
+0 0 25414
+D2
+~
+~
+0 0
+0 0 25383
+D3
+~
+~
+0 0
+0 0 25350
+M 75 H 75
+S
+#25383
+room L29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25382
+D1
+~
+~
+0 0
+0 0 25415
+D2
+~
+~
+0 0
+0 0 25384
+D3
+~
+~
+0 0
+0 0 25351
+M 75 H 75
+S
+#25384
+room L30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25383
+D1
+~
+~
+0 0
+0 0 25416
+D2
+~
+~
+0 0
+0 0 25385
+D3
+~
+~
+0 0
+0 0 25352
+M 75 H 75
+S
+#25385
+room L31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25384
+D1
+~
+~
+0 0
+0 0 25417
+D2
+~
+~
+0 0
+0 0 25386
+D3
+~
+~
+0 0
+0 0 25353
+M 75 H 75
+S
+#25386
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25385
+D1
+~
+~
+0 0
+0 0 25418
+D3
+~
+~
+0 0
+0 0 25354
+M 75 H 75
+S
+#25387
+room M1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25419
+D2
+~
+~
+0 0
+0 0 25388
+M 75 H 75
+S
+#25388
+room M2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25387
+D1
+~
+~
+0 0
+0 0 25420
+D2
+~
+~
+0 0
+0 0 25389
+M 75 H 75
+S
+#25389
+room M3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25388
+D1
+~
+~
+0 0
+0 0 25421
+D2
+~
+~
+0 0
+0 0 25390
+D3
+~
+~
+0 0
+0 0 25357
+M 75 H 75
+S
+#25390
+room M4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25389
+D1
+~
+~
+0 0
+0 0 25422
+D2
+~
+~
+0 0
+0 0 25391
+D3
+~
+~
+0 0
+0 0 25358
+M 75 H 75
+S
+#25391
+room M5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25390
+D1
+~
+~
+0 0
+0 0 25423
+D2
+~
+~
+0 0
+0 0 25392
+D3
+~
+~
+0 0
+0 0 25359
+M 75 H 75
+S
+#25392
+room M6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25391
+D1
+~
+~
+0 0
+0 0 25424
+D2
+~
+~
+0 0
+0 0 25393
+D3
+~
+~
+0 0
+0 0 25360
+M 75 H 75
+S
+#25393
+room M7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25392
+D1
+~
+~
+0 0
+0 0 25425
+D2
+~
+~
+0 0
+0 0 25394
+D3
+~
+~
+0 0
+0 0 25361
+M 75 H 75
+S
+#25394
+room M8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25393
+D1
+~
+~
+0 0
+0 0 25426
+D2
+~
+~
+0 0
+0 0 25395
+D3
+~
+~
+0 0
+0 0 25362
+M 75 H 75
+S
+#25395
+room M9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25394
+D1
+~
+~
+0 0
+0 0 25427
+D2
+~
+~
+0 0
+0 0 25396
+D3
+~
+~
+0 0
+0 0 25363
+M 75 H 75
+S
+#25396
+room M10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25395
+D1
+~
+~
+0 0
+0 0 25428
+D2
+~
+~
+0 0
+0 0 25397
+D3
+~
+~
+0 0
+0 0 25364
+M 75 H 75
+S
+#25397
+room M11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25396
+D1
+~
+~
+0 0
+0 0 25429
+D2
+~
+~
+0 0
+0 0 25398
+D3
+~
+~
+0 0
+0 0 25365
+M 75 H 75
+S
+#25398
+room M12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25397
+D1
+~
+~
+0 0
+0 0 25430
+D2
+~
+~
+0 0
+0 0 25399
+D3
+~
+~
+0 0
+0 0 25366
+M 75 H 75
+S
+#25399
+room M13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25398
+D1
+~
+~
+0 0
+0 0 25431
+D2
+~
+~
+0 0
+0 0 25400
+D3
+~
+~
+0 0
+0 0 25367
+M 75 H 75
+S
+#25400
+room M14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25399
+D1
+~
+~
+0 0
+0 0 25432
+D2
+~
+~
+0 0
+0 0 25401
+D3
+~
+~
+0 0
+0 0 25368
+M 75 H 75
+S
+#25401
+room M15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25400
+D1
+~
+~
+0 0
+0 0 25433
+D2
+~
+~
+0 0
+0 0 25402
+D3
+~
+~
+0 0
+0 0 25369
+M 75 H 75
+S
+#25402
+room M16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25401
+D1
+~
+~
+0 0
+0 0 25434
+D2
+~
+~
+0 0
+0 0 25403
+D3
+~
+~
+0 0
+0 0 25370
+M 75 H 75
+S
+#25403
+room M17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25402
+D1
+~
+~
+0 0
+0 0 25435
+D2
+~
+~
+0 0
+0 0 25404
+D3
+~
+~
+0 0
+0 0 25371
+M 75 H 75
+S
+#25404
+room M18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25403
+D1
+~
+~
+0 0
+0 0 25436
+D2
+~
+~
+0 0
+0 0 25405
+D3
+~
+~
+0 0
+0 0 25372
+M 75 H 75
+S
+#25405
+room M19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25404
+D1
+~
+~
+0 0
+0 0 25437
+D2
+~
+~
+0 0
+0 0 25406
+D3
+~
+~
+0 0
+0 0 25373
+M 75 H 75
+S
+#25406
+room M20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25405
+D1
+~
+~
+0 0
+0 0 25438
+D2
+~
+~
+0 0
+0 0 25407
+D3
+~
+~
+0 0
+0 0 25374
+M 75 H 75
+S
+#25407
+room M21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25406
+D1
+~
+~
+0 0
+0 0 25439
+D2
+~
+~
+0 0
+0 0 25408
+D3
+~
+~
+0 0
+0 0 25375
+M 75 H 75
+S
+#25408
+room M22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25407
+D1
+~
+~
+0 0
+0 0 25440
+D2
+~
+~
+0 0
+0 0 25409
+D3
+~
+~
+0 0
+0 0 25376
+M 75 H 75
+S
+#25409
+room M23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25408
+D1
+~
+~
+0 0
+0 0 25441
+D2
+~
+~
+0 0
+0 0 25410
+D3
+~
+~
+0 0
+0 0 25377
+M 75 H 75
+S
+#25410
+room M24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25409
+D1
+~
+~
+0 0
+0 0 25442
+D2
+~
+~
+0 0
+0 0 25411
+D3
+~
+~
+0 0
+0 0 25378
+M 75 H 75
+S
+#25411
+room M25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25410
+D1
+~
+~
+0 0
+0 0 25443
+D2
+~
+~
+0 0
+0 0 25412
+D3
+~
+~
+0 0
+0 0 25379
+M 75 H 75
+S
+#25412
+room M26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25411
+D1
+~
+~
+0 0
+0 0 25444
+D2
+~
+~
+0 0
+0 0 25413
+D3
+~
+~
+0 0
+0 0 25380
+M 75 H 75
+S
+#25413
+room M27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25412
+M 75 H 75
+S
+#25414
+room M28~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25446
+D2
+~
+~
+0 0
+0 0 25415
+D3
+~
+~
+0 0
+0 0 25382
+M 75 H 75
+S
+#25415
+room M29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25414
+D1
+~
+~
+0 0
+0 0 25447
+D2
+~
+~
+0 0
+0 0 25416
+D3
+~
+~
+0 0
+0 0 25383
+M 75 H 75
+S
+#25416
+room M30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25415
+D1
+~
+~
+0 0
+0 0 25448
+D2
+~
+~
+0 0
+0 0 25417
+D3
+~
+~
+0 0
+0 0 25384
+M 75 H 75
+S
+#25417
+room M31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25416
+D1
+~
+~
+0 0
+0 0 25449
+D2
+~
+~
+0 0
+0 0 25418
+D3
+~
+~
+0 0
+0 0 25385
+M 75 H 75
+S
+#25418
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25417
+D1
+~
+~
+0 0
+0 0 25450
+D3
+~
+~
+0 0
+0 0 25386
+M 75 H 75
+S
+#25419
+room N1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25451
+D3
+~
+~
+0 0
+0 0 25387
+M 75 H 75
+S
+#25420
+room N2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25451
+D1
+~
+~
+0 0
+0 0 25452
+D2
+~
+~
+0 0
+0 0 25421
+D3
+~
+~
+0 0
+0 0 25388
+M 75 H 75
+S
+#25421
+room N3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25420
+D1
+~
+~
+0 0
+0 0 25453
+D2
+~
+~
+0 0
+0 0 25422
+D3
+~
+~
+0 0
+0 0 25389
+M 75 H 75
+S
+#25422
+room N4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25421
+D1
+~
+~
+0 0
+0 0 25454
+D2
+~
+~
+0 0
+0 0 25423
+D3
+~
+~
+0 0
+0 0 25390
+M 75 H 75
+S
+#25423
+room N5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25422
+D1
+~
+~
+0 0
+0 0 25455
+D2
+~
+~
+0 0
+0 0 25424
+D3
+~
+~
+0 0
+0 0 25391
+M 75 H 75
+S
+#25424
+room N6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25423
+D1
+~
+~
+0 0
+0 0 25456
+D2
+~
+~
+0 0
+0 0 25425
+D3
+~
+~
+0 0
+0 0 25392
+M 75 H 75
+S
+#25425
+room N7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25424
+D1
+~
+~
+0 0
+0 0 25457
+D2
+~
+~
+0 0
+0 0 25426
+D3
+~
+~
+0 0
+0 0 25393
+M 75 H 75
+S
+#25426
+room N8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25425
+D1
+~
+~
+0 0
+0 0 25458
+D2
+~
+~
+0 0
+0 0 25427
+D3
+~
+~
+0 0
+0 0 25394
+M 75 H 75
+S
+#25427
+room N9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25426
+D1
+~
+~
+0 0
+0 0 25459
+D2
+~
+~
+0 0
+0 0 25428
+D3
+~
+~
+0 0
+0 0 25395
+M 75 H 75
+S
+#25428
+room N10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25427
+D1
+~
+~
+0 0
+0 0 25460
+D2
+~
+~
+0 0
+0 0 25429
+D3
+~
+~
+0 0
+0 0 25396
+M 75 H 75
+S
+#25429
+room N11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25428
+D1
+~
+~
+0 0
+0 0 25461
+D2
+~
+~
+0 0
+0 0 25430
+D3
+~
+~
+0 0
+0 0 25397
+M 75 H 75
+S
+#25430
+room N12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25429
+D1
+~
+~
+0 0
+0 0 25462
+D2
+~
+~
+0 0
+0 0 25431
+D3
+~
+~
+0 0
+0 0 25398
+M 75 H 75
+S
+#25431
+room N13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25430
+D1
+~
+~
+0 0
+0 0 25463
+D2
+~
+~
+0 0
+0 0 25432
+D3
+~
+~
+0 0
+0 0 25399
+M 75 H 75
+S
+#25432
+room N14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25431
+D2
+~
+~
+0 0
+0 0 25433
+D3
+~
+~
+0 0
+0 0 25400
+M 75 H 75
+S
+#25433
+room N15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25432
+D1
+~
+~
+0 0
+0 0 25465
+D2
+~
+~
+0 0
+0 0 25434
+D3
+~
+~
+0 0
+0 0 25401
+M 75 H 75
+S
+#25434
+room N16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25433
+D1
+~
+~
+0 0
+0 0 25466
+D2
+~
+~
+0 0
+0 0 25435
+D3
+~
+~
+0 0
+0 0 25402
+M 75 H 75
+S
+#25435
+room N17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25434
+D1
+~
+~
+0 0
+0 0 25467
+D2
+~
+~
+0 0
+0 0 25436
+D3
+~
+~
+0 0
+0 0 25403
+M 75 H 75
+S
+#25436
+room N18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25435
+D1
+~
+~
+0 0
+0 0 25468
+D2
+~
+~
+0 0
+0 0 25437
+D3
+~
+~
+0 0
+0 0 25404
+M 75 H 75
+S
+#25437
+room N19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25436
+D1
+~
+~
+0 0
+0 0 25469
+D2
+~
+~
+0 0
+0 0 25438
+D3
+~
+~
+0 0
+0 0 25405
+M 75 H 75
+S
+#25438
+room N20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25437
+D1
+~
+~
+0 0
+0 0 25470
+D2
+~
+~
+0 0
+0 0 25439
+D3
+~
+~
+0 0
+0 0 25406
+M 75 H 75
+S
+#25439
+room N21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25438
+D1
+~
+~
+0 0
+0 0 25471
+D2
+~
+~
+0 0
+0 0 25440
+D3
+~
+~
+0 0
+0 0 25407
+M 75 H 75
+S
+#25440
+room N22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25439
+D1
+~
+~
+0 0
+0 0 25472
+D2
+~
+~
+0 0
+0 0 25441
+D3
+~
+~
+0 0
+0 0 25408
+M 75 H 75
+S
+#25441
+room N23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25440
+D1
+~
+~
+0 0
+0 0 25473
+D2
+~
+~
+0 0
+0 0 25442
+D3
+~
+~
+0 0
+0 0 25409
+M 75 H 75
+S
+#25442
+room N24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25441
+D1
+~
+~
+0 0
+0 0 25474
+D2
+~
+~
+0 0
+0 0 25443
+D3
+~
+~
+0 0
+0 0 25410
+M 75 H 75
+S
+#25443
+room N25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25442
+D1
+~
+~
+0 0
+0 0 25475
+D2
+~
+~
+0 0
+0 0 25444
+D3
+~
+~
+0 0
+0 0 25411
+M 75 H 75
+S
+#25444
+room N26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25443
+D1
+~
+~
+0 0
+0 0 25476
+D2
+~
+~
+0 0
+0 0 25445
+D3
+~
+~
+0 0
+0 0 25412
+M 75 H 75
+S
+#25445
+room N27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25444
+D1
+~
+~
+0 0
+0 0 25477
+D2
+~
+~
+0 0
+0 0 25446
+M 75 H 75
+S
+#25446
+room N28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25445
+D1
+~
+~
+0 0
+0 0 25478
+D2
+~
+~
+0 0
+0 0 25447
+D3
+~
+~
+0 0
+0 0 25414
+M 75 H 75
+S
+#25447
+room N29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25446
+D1
+~
+~
+0 0
+0 0 25479
+D2
+~
+~
+0 0
+0 0 25448
+D3
+~
+~
+0 0
+0 0 25415
+M 75 H 75
+S
+#25448
+room N30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25447
+D1
+~
+~
+0 0
+0 0 25480
+D2
+~
+~
+0 0
+0 0 25449
+D3
+~
+~
+0 0
+0 0 25416
+M 75 H 75
+S
+#25449
+room N31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25448
+D1
+~
+~
+0 0
+0 0 25481
+D2
+~
+~
+0 0
+0 0 25450
+D3
+~
+~
+0 0
+0 0 25417
+M 75 H 75
+S
+#25450
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+To the north, a tall spire can be seen sticking out from the desert floor.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25449
+D1
+~
+~
+0 0
+0 0 25482
+D3
+~
+~
+0 0
+0 0 25418
+M 75 H 75
+S
+#25451
+room O1~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25483
+D2
+~
+~
+0 0
+0 0 25420
+D3
+~
+~
+0 0
+0 0 25419
+M 75 H 75
+S
+#25452
+room O2~
+~
+0
+C 0
+D1
+~
+~
+0 0
+0 0 25484
+D2
+~
+~
+0 0
+0 0 25453
+D3
+~
+~
+0 0
+0 0 25420
+M 75 H 75
+S
+#25453
+room O3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25452
+D1
+~
+~
+0 0
+0 0 25485
+D2
+~
+~
+0 0
+0 0 25454
+D3
+~
+~
+0 0
+0 0 25421
+M 75 H 75
+S
+#25454
+room O4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25453
+D1
+~
+~
+0 0
+0 0 25486
+D2
+~
+~
+0 0
+0 0 25455
+D3
+~
+~
+0 0
+0 0 25422
+M 75 H 75
+S
+#25455
+room O5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25454
+D1
+~
+~
+0 0
+0 0 25487
+D2
+~
+~
+0 0
+0 0 25456
+D3
+~
+~
+0 0
+0 0 25423
+M 75 H 75
+S
+#25456
+room O6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25455
+D1
+~
+~
+0 0
+0 0 25488
+D2
+~
+~
+0 0
+0 0 25457
+D3
+~
+~
+0 0
+0 0 25424
+M 75 H 75
+S
+#25457
+room O7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25456
+D1
+~
+~
+0 0
+0 0 25489
+D2
+~
+~
+0 0
+0 0 25458
+D3
+~
+~
+0 0
+0 0 25425
+M 75 H 75
+S
+#25458
+room O8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25457
+D1
+~
+~
+0 0
+0 0 25490
+D2
+~
+~
+0 0
+0 0 25459
+D3
+~
+~
+0 0
+0 0 25426
+M 75 H 75
+S
+#25459
+room O9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25458
+D1
+~
+~
+0 0
+0 0 25491
+D2
+~
+~
+0 0
+0 0 25460
+D3
+~
+~
+0 0
+0 0 25427
+M 75 H 75
+S
+#25460
+room O10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25459
+D1
+~
+~
+0 0
+0 0 25492
+D2
+~
+~
+0 0
+0 0 25461
+D3
+~
+~
+0 0
+0 0 25428
+M 75 H 75
+S
+#25461
+room O11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25460
+D1
+~
+~
+0 0
+0 0 25493
+D2
+~
+~
+0 0
+0 0 25462
+D3
+~
+~
+0 0
+0 0 25429
+M 75 H 75
+S
+#25462
+room O12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25461
+D1
+~
+~
+0 0
+0 0 25494
+D2
+~
+~
+0 0
+0 0 25463
+D3
+~
+~
+0 0
+0 0 25430
+M 75 H 75
+S
+#25463
+room O13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25462
+D1
+~
+~
+0 0
+0 0 25495
+D2
+~
+~
+0 0
+0 0 25464
+D3
+~
+~
+0 0
+0 0 25431
+M 75 H 75
+S
+#25464
+room O14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25463
+D1
+~
+~
+0 0
+0 0 25496
+D2
+~
+~
+0 0
+0 0 25465
+M 75 H 75
+S
+#25465
+room O15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25464
+D1
+~
+~
+0 0
+0 0 25497
+D2
+~
+~
+0 0
+0 0 25466
+D3
+~
+~
+0 0
+0 0 25433
+M 75 H 75
+S
+#25466
+room O16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25465
+D1
+~
+~
+0 0
+0 0 25498
+D2
+~
+~
+0 0
+0 0 25467
+D3
+~
+~
+0 0
+0 0 25434
+M 75 H 75
+S
+#25467
+room O17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25466
+D1
+~
+~
+0 0
+0 0 25499
+D2
+~
+~
+0 0
+0 0 25468
+D3
+~
+~
+0 0
+0 0 25435
+M 75 H 75
+S
+#25468
+room O18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25467
+D1
+~
+~
+0 0
+0 0 25500
+D2
+~
+~
+0 0
+0 0 25469
+D3
+~
+~
+0 0
+0 0 25436
+M 75 H 75
+S
+#25469
+room O19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25468
+D1
+~
+~
+0 0
+0 0 25501
+D2
+~
+~
+0 0
+0 0 25470
+D3
+~
+~
+0 0
+0 0 25437
+M 75 H 75
+S
+#25470
+room O20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25469
+D1
+~
+~
+0 0
+0 0 25502
+D2
+~
+~
+0 0
+0 0 25471
+D3
+~
+~
+0 0
+0 0 25438
+M 75 H 75
+S
+#25471
+room O21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25470
+D1
+~
+~
+0 0
+0 0 25503
+D2
+~
+~
+0 0
+0 0 25472
+D3
+~
+~
+0 0
+0 0 25439
+M 75 H 75
+S
+#25472
+room O22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25471
+D1
+~
+~
+0 0
+0 0 25504
+D2
+~
+~
+0 0
+0 0 25473
+D3
+~
+~
+0 0
+0 0 25440
+M 75 H 75
+S
+#25473
+room O23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25472
+D1
+~
+~
+0 0
+0 0 25505
+D2
+~
+~
+0 0
+0 0 25474
+D3
+~
+~
+0 0
+0 0 25441
+M 75 H 75
+S
+#25474
+room O24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25473
+D1
+~
+~
+0 0
+0 0 25506
+D2
+~
+~
+0 0
+0 0 25475
+D3
+~
+~
+0 0
+0 0 25442
+M 75 H 75
+S
+#25475
+room O25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25474
+D1
+~
+~
+0 0
+0 0 25507
+D2
+~
+~
+0 0
+0 0 25476
+D3
+~
+~
+0 0
+0 0 25443
+M 75 H 75
+S
+#25476
+room O26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25475
+D1
+~
+~
+0 0
+0 0 25508
+D2
+~
+~
+0 0
+0 0 25477
+D3
+~
+~
+0 0
+0 0 25444
+M 75 H 75
+S
+#25477
+room O27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25476
+D1
+~
+~
+0 0
+0 0 25509
+D2
+~
+~
+0 0
+0 0 25478
+D3
+~
+~
+0 0
+0 0 25445
+M 75 H 75
+S
+#25478
+room O28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25477
+D1
+~
+~
+0 0
+0 0 25510
+D2
+~
+~
+0 0
+0 0 25479
+D3
+~
+~
+0 0
+0 0 25446
+M 75 H 75
+S
+#25479
+room O29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25478
+D1
+~
+~
+0 0
+0 0 25511
+D2
+~
+~
+0 0
+0 0 25480
+D3
+~
+~
+0 0
+0 0 25447
+M 75 H 75
+S
+#25480
+room O30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25479
+D1
+~
+~
+0 0
+0 0 25512
+D2
+~
+~
+0 0
+0 0 25481
+D3
+~
+~
+0 0
+0 0 25448
+M 75 H 75
+S
+#25481
+room O31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25480
+D1
+~
+~
+0 0
+0 0 25513
+D2
+~
+~
+0 0
+0 0 25482
+D3
+~
+~
+0 0
+0 0 25449
+M 75 H 75
+S
+#25482
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25481
+D1
+~
+~
+0 0
+0 0 25514
+D3
+~
+~
+0 0
+0 0 25450
+M 75 H 75
+S
+#25483
+room P1~
+~
+0
+C 0
+D2
+~
+~
+0 0
+0 0 25484
+D3
+~
+~
+0 0
+0 0 25451
+M 75 H 75
+S
+#25484
+room P2~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25483
+D2
+~
+~
+0 0
+0 0 25485
+D3
+~
+~
+0 0
+0 0 25452
+M 75 H 75
+S
+#25485
+room P3~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25484
+D2
+~
+~
+0 0
+0 0 25486
+D3
+~
+~
+0 0
+0 0 25453
+M 75 H 75
+S
+#25486
+room P4~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25485
+D2
+~
+~
+0 0
+0 0 25487
+D3
+~
+~
+0 0
+0 0 25454
+M 75 H 75
+S
+#25487
+room P5~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25486
+D2
+~
+~
+0 0
+0 0 25488
+D3
+~
+~
+0 0
+0 0 25455
+M 75 H 75
+S
+#25488
+room P6~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25487
+D2
+~
+~
+0 0
+0 0 25489
+D3
+~
+~
+0 0
+0 0 25456
+M 75 H 75
+S
+#25489
+room P7~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25488
+D2
+~
+~
+0 0
+0 0 25490
+D3
+~
+~
+0 0
+0 0 25457
+M 75 H 75
+S
+#25490
+room P8~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25489
+D2
+~
+~
+0 0
+0 0 25491
+D3
+~
+~
+0 0
+0 0 25458
+M 75 H 75
+S
+#25491
+room P9~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25490
+D2
+~
+~
+0 0
+0 0 25492
+D3
+~
+~
+0 0
+0 0 25459
+M 75 H 75
+S
+#25492
+room P10~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25491
+D2
+~
+~
+0 0
+0 0 25493
+D3
+~
+~
+0 0
+0 0 25460
+M 75 H 75
+S
+#25493
+room P11~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25492
+D2
+~
+~
+0 0
+0 0 25494
+D3
+~
+~
+0 0
+0 0 25461
+M 75 H 75
+S
+#25494
+room P12~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25493
+D2
+~
+~
+0 0
+0 0 25495
+D3
+~
+~
+0 0
+0 0 25462
+M 75 H 75
+S
+#25495
+room P13~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25494
+D2
+~
+~
+0 0
+0 0 25496
+D3
+~
+~
+0 0
+0 0 25463
+M 75 H 75
+S
+#25496
+room P14~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25495
+D2
+~
+~
+0 0
+0 0 25497
+D3
+~
+~
+0 0
+0 0 25464
+M 75 H 75
+S
+#25497
+room P15~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25496
+D2
+~
+~
+0 0
+0 0 25498
+D3
+~
+~
+0 0
+0 0 25465
+M 75 H 75
+S
+#25498
+room P16~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25497
+D2
+~
+~
+0 0
+0 0 25499
+D3
+~
+~
+0 0
+0 0 25466
+M 75 H 75
+S
+#25499
+room P17~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25498
+D2
+~
+~
+0 0
+0 0 25500
+D3
+~
+~
+0 0
+0 0 25467
+M 75 H 75
+S
+#25500
+room P18~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25499
+D2
+~
+~
+0 0
+0 0 25501
+D3
+~
+~
+0 0
+0 0 25468
+M 75 H 75
+S
+#25501
+room P19~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25500
+D2
+~
+~
+0 0
+0 0 25502
+D3
+~
+~
+0 0
+0 0 25469
+M 75 H 75
+S
+#25502
+room P20~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25501
+D2
+~
+~
+0 0
+0 0 25503
+D3
+~
+~
+0 0
+0 0 25470
+M 75 H 75
+S
+#25503
+room P21~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25502
+D2
+~
+~
+0 0
+0 0 25504
+D3
+~
+~
+0 0
+0 0 25471
+M 75 H 75
+S
+#25504
+room P22~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25503
+D2
+~
+~
+0 0
+0 0 25505
+D3
+~
+~
+0 0
+0 0 25472
+M 75 H 75
+S
+#25505
+room P23~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25504
+D2
+~
+~
+0 0
+0 0 25506
+D3
+~
+~
+0 0
+0 0 25473
+M 75 H 75
+S
+#25506
+room P24~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25505
+D2
+~
+~
+0 0
+0 0 25507
+D3
+~
+~
+0 0
+0 0 25474
+M 75 H 75
+S
+#25507
+room P25~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25506
+D2
+~
+~
+0 0
+0 0 25508
+D3
+~
+~
+0 0
+0 0 25475
+M 75 H 75
+S
+#25508
+room P26~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25507
+D2
+~
+~
+0 0
+0 0 25509
+D3
+~
+~
+0 0
+0 0 25476
+M 75 H 75
+S
+#25509
+room P27~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25508
+D2
+~
+~
+0 0
+0 0 25510
+D3
+~
+~
+0 0
+0 0 25477
+M 75 H 75
+S
+#25510
+room P28~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25509
+D2
+~
+~
+0 0
+0 0 25511
+D3
+~
+~
+0 0
+0 0 25478
+M 75 H 75
+S
+#25511
+room P29~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25510
+D2
+~
+~
+0 0
+0 0 25512
+D3
+~
+~
+0 0
+0 0 25479
+M 75 H 75
+S
+#25512
+room P30~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25511
+D2
+~
+~
+0 0
+0 0 25513
+D3
+~
+~
+0 0
+0 0 25480
+M 75 H 75
+S
+#25513
+room P31~
+~
+0
+C 0
+D0
+~
+~
+0 0
+0 0 25512
+D2
+~
+~
+0 0
+0 0 25514
+D3
+~
+~
+0 0
+0 0 25481
+M 75 H 75
+S
+#25514
+{wThe {yAiel {DWa{ys{Dte{x~
+It is {YHot{x!  The merciless {Rs{yu{Rn{x bakes the land around you, further hardening
+the {Yye{yl{wlo{yw{Yed{x, cracked clay ground around you, and seems to singe everything that 
+is not already burnt.  A hot, {ygritty{x wind does nothing to abase the heat, stinging 
+any exposed skin and further adding to the miserable {Rheat{x.  All around, some sort
+of lingering smell of a past horror lingers, brought by the hot, western wind.  Hardly a
+{Cco{Bo{Wl{Bi{Cng{x drop of {Bwater{x has fallen here since the {Dbreaking{x of the world, and in this
+hardened land, even a {yd{Di{yr{Dt{yy{x, drying {ypuddle{x is a blessing.
+~
+0
+C 10
+D0
+~
+~
+0 0
+0 0 25513
+D3
+~
+~
+0 0
+0 0 25482
+M 75 H 75
+S
+#25515
+The Pass to Sheinar~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25516
+S
+#25516
+Path leading up to the Northern Pass~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25006
+D3
+~
+~
+0 0
+0 0 25515
+S
+#25517
+Path to Southern Mayene~
+~
+0
+0 0
+D0
+~
+~
+0 0
+0 0 25518
+S
+#25518
+Descending the pass~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25519
+D2
+~
+~
+0 0
+0 0 25517
+S
+#25519
+At the foot of the Southern Pass~
+~
+0
+0 0
+D1
+~
+~
+0 0
+0 0 25031
+D3
+~
+~
+0 0
+0 0 25518
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
